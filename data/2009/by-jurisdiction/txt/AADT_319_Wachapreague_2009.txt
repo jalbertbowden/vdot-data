@@ -1,0 +1,61 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Wachapreague																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050006	  SR	00180	     	VA 180	Main St	319	Town of Wachapreague	001	Accomack County	0.28	WCL Wachapreague	01-1701 Atlantic Ave	1200	N	97%	0%	1%	0%	1%	0%	N	0.0816	N	0.5023	1200	N	2009
+050228	Y SR	00180	     	Wye VA 180	Brooklyn St	319	Town of Wachapreague	001	Accomack County	0.42	SR 180 Main St	01-1712 Richardson Ave	160	G	97%	1%	1%	0%	1%	0%	C	0.1163	F	0.5000	170	G	2009
+050485	Y SR	00180	     	Wye VA 180	Richardson Ave	319	Town of Wachapreague	001	Accomack County	0.13	01-1712; Brooklyn St	01-1706 Church St; WCL Wachapreague	160	N	97%	1%	1%	0%	1%	0%	N	0.1163	N	0.5000	170	N	2009
+700797	  01	01701	     	01-1701	Atlantic Ave	319	Town of Wachapreague	001	Accomack County	0.03	Dead End	01-1713 Bayview Ave	10	R							X						02/07/2008
+700798	  01	01701	     	01-1701	Atlantic Ave	319	Town of Wachapreague	001	Accomack County	0.12	01-1713 Bayview Ave	01-1705 South St	120	R							X						09/08/2005
+700799	  01	01701	     	01-1701	Atlantic Ave	319	Town of Wachapreague	001	Accomack County	0.11	01-1705 South St	SR 180 Main St	530	R							X						09/13/2005
+700800	  01	01701	     	01-1701	Atlantic Ave	319	Town of Wachapreague	001	Accomack County	0.15	SR 180 Main St	01-1715 Ice Plant Rd	520	R							X						09/13/2005
+700801	  01	01701	     	01-1701	Atlantic Ave	319	Town of Wachapreague	001	Accomack County	0.03	01-1715 Ice Plant Rd	01-1709 Custis St	500	R							X						09/13/2005
+700802	  01	01701	     	01-1701	Atlantic Ave	319	Town of Wachapreague	001	Accomack County	0.10	01-1709 Custis St	01-1710 Riverview Ave	410	R							X						09/13/2005
+700803	  01	01701	     	01-1701	Atlantic Ave	319	Town of Wachapreague	001	Accomack County	0.06	01-1710 Riverview Ave	01-1711 Liberty St	250	R							X						09/13/2005
+700804	  01	01702	     	01-1702	Pearl St	319	Town of Wachapreague	001	Accomack County	0.06	01-1713 Bayview Ave	01-1705 South St	110	R							X						09/13/2005
+700805	  01	01702	     	01-1702	Pearl St	319	Town of Wachapreague	001	Accomack County	0.05	01-1705 South St	01-1717 Mears Lane	100	R							X						09/13/2005
+700806	  01	01702	     	01-1702	Pearl St	319	Town of Wachapreague	001	Accomack County	0.05	01-1717 Mears Lane	SR 180; 01-1706	110	R							X						09/13/2005
+700807	  01	01703	     	01-1703	Center Ct	319	Town of Wachapreague	001	Accomack County	0.09	01-1713 Bayview Ave	01-1705 South St	80	R							X						09/13/2005
+700808	  01	01703	     	01-1703	Center Ct	319	Town of Wachapreague	001	Accomack County	0.10	01-1705 South St	SR 180 Main St	110	R							X						09/13/2005
+700809	  01	01704	     	01-1704	High St	319	Town of Wachapreague	001	Accomack County	0.10	01-1705 South St	SR 180; SR 180 Y	90	R							X						09/13/2005
+700810	  01	01705	     	01-1705	South St	319	Town of Wachapreague	001	Accomack County	0.03	01-1719 Park Ave	01-1716 West St	110	R							X						09/13/2005
+700811	  01	01705	     	01-1705	South St	319	Town of Wachapreague	001	Accomack County	0.04	01-1716 West St	01-1702 Pearl St	60	R							X						09/13/2005
+700812	  01	01705	     	01-1705	South St	319	Town of Wachapreague	001	Accomack County	0.06	01-1702 Pearl St	01-1703 Center Ct	90	R							X						09/13/2005
+700813	  01	01705	     	01-1705	South St	319	Town of Wachapreague	001	Accomack County	0.06	01-1703 Center Ct	01-1704 High St	120	R							X						09/13/2005
+700814	  01	01705	     	01-1705	South St	319	Town of Wachapreague	001	Accomack County	0.03	01-1704 High St	01-1701 Atlantic Ave	110	R							X						09/13/2005
+700815	  01	01706	     	01-1706	Church St	319	Town of Wachapreague	001	Accomack County	0.09	SR 180; 01-1702	01-1708 Powellton Ave	220	R							X						09/13/2005
+700816	  01	01706	     	01-1706	Church St	319	Town of Wachapreague	001	Accomack County	0.06	01-1708 Powellton Ave	01-1709 WCL Wachapreague	190	R							X						09/13/2005
+700817	  01	01706	     	01-1706	Church St	319	Town of Wachapreague	001	Accomack County	0.12	01-1709 WCL Wachapreague	01-1710 Riverview Ave	160	R							X						09/13/2005
+700818	  01	01706	     	01-1706	Church St	319	Town of Wachapreague	001	Accomack County	0.06	01-1710 Riverview Ave	01-1711 Liberty St	150	R							X						09/13/2005
+700819	  01	01706	     	01-1706	Church St	319	Town of Wachapreague	001	Accomack County	0.06	01-1711 Liberty St	SR 180 Y; 01-624	100	R							X						09/13/2005
+700820	  01	01707	     	01-1707	Lee St	319	Town of Wachapreague	001	Accomack County	0.07	01-1708 Powellton Ave	01-1709 Custis St	100	R							X						09/13/2005
+700821	  01	01707	     	01-1707	Lee St	319	Town of Wachapreague	001	Accomack County	0.10	01-1709 Custis St	01-1710 Riverview Ave	70	R							X						09/13/2005
+700822	  01	01707	     	01-1707	Lee St	319	Town of Wachapreague	001	Accomack County	0.06	01-1710 Riverview Ave	01-1711 Liberty St	20	R							X						09/13/2005
+700823	  01	01708	     	01-1708	Powellton Ave	319	Town of Wachapreague	001	Accomack County	0.07	01-1714 Old Finney Rd	01-1718 Paul St	60	R							X						09/13/2005
+700824	  01	01708	     	01-1708	Powellton Ave	319	Town of Wachapreague	001	Accomack County	0.06	01-1718 Paul St	01-1706 Church St	90	R							X						09/13/2005
+700825	  01	01708	     	01-1708	Powellton Ave	319	Town of Wachapreague	001	Accomack County	0.05	01-1706 Church St	01-1707 Lee St	90	R							X						09/13/2005
+700826	  01	01708	     	01-1708	Powellton Ave	319	Town of Wachapreague	001	Accomack County	0.06	01-1707 Lee St	SR 180 Y	80	R							X						09/13/2005
+700829	  01	01709	     	01-1709	Custis St	319	Town of Wachapreague	001	Accomack County	0.05	01-1706 WCL Wachapreague	01-1707 Lee St	130	R							X						09/13/2005
+700830	  01	01709	     	01-1709	Custis St	319	Town of Wachapreague	001	Accomack County	0.06	01-1707 Lee St	SR 180 Y; N INT	120	R							X						09/13/2005
+700831	  01	01709	     	01-1709	Custis St	319	Town of Wachapreague	001	Accomack County	0.05	SR 180 Y; S INT	01-1701 Atlantic Ave	90	R							X						09/13/2005
+700832	  01	01710	     	01-1710	Riverview Ave	319	Town of Wachapreague	001	Accomack County	0.05	01-1706 Church St	01-1707 Lee St	30	R							X						09/13/2005
+700833	  01	01710	     	01-1710	Riverview Ave	319	Town of Wachapreague	001	Accomack County	0.06	01-1707 Lee St	SR 180 Y	30	R							X						09/13/2005
+700834	  01	01710	     	01-1710	Riverview Ave	319	Town of Wachapreague	001	Accomack County	0.07	SR 180 Y	01-1701 Atlantic Ave	50	R							X						09/13/2005
+700835	  01	01711	     	01-1711	Liberty St	319	Town of Wachapreague	001	Accomack County	0.05	01-1706 Church St	01-1707 Lee St	48	R							X						09/13/2005
+300084	  01	01711	     	01-1711	Liberty St	319	Town of Wachapreague	001	Accomack County	0.07	01-1707 Lee St	SR 180 Y	60	R							X						09/13/2005
+700836	  01	01711	     	01-1711	Liberty St	319	Town of Wachapreague	001	Accomack County	0.07	SR 180 Y	01-1701 Atlantic Ave	230	R							X						09/13/2005
+700837	  01	01712	     	01-1712	Richardson Ave	319	Town of Wachapreague	001	Accomack County	0.07	SR 180 Y, Brooklyn St	Dead End	30	R							X						09/13/2005
+700838	  01	01713	     	01-1713	Bayview Ave	319	Town of Wachapreague	001	Accomack County	0.07	01-1719 Park Ave	01-1702 Pearl St	60	R							X						09/13/2005
+700839	  01	01713	     	01-1713	Bayview Ave	319	Town of Wachapreague	001	Accomack County	0.06	01-1702 Pearl St	01-1703 Center Ct	90	R							X						09/13/2005
+700840	  01	01713	     	01-1713	Bayview Ave	319	Town of Wachapreague	001	Accomack County	0.09	01-1703 Center Ct	01-1701 Atlantic Ave	90	R							X						09/13/2005
+700841	  01	01714	     	01-1714	Old Finney Rd	319	Town of Wachapreague	001	Accomack County	0.09	SR 180; WCL Wachapreague	01-1708 Powellton Ave	100	R							X						09/13/2005
+700842	  01	01715	     	01-1715	Ice Plant Rd	319	Town of Wachapreague	001	Accomack County	0.05	SR 180 Y	01-1701 Atlantic Ave	100	R							X						09/13/2005
+700843	  01	01716	     	01-1716	West St	319	Town of Wachapreague	001	Accomack County	0.05	01-1705 South St	01-1717 Mears Lane	70	R							X						09/13/2005
+700844	  01	01716	     	01-1716	West St	319	Town of Wachapreague	001	Accomack County	0.05	01-1717 Mears Lane	SR 180 Main St	80	R							X						09/13/2005
+700845	  01	01717	     	01-1717	Mears Lane	319	Town of Wachapreague	001	Accomack County	0.05	01-1716 West St	01-1702 Pearl St	10	R							X						09/13/2005
+700846	  01	01718	     	01-1718	Paul St	319	Town of Wachapreague	001	Accomack County	0.06	01-1708 Powellton Ave	01-1709 Custis St	30	R							X						09/13/2005
+700847	  01	01719	     	01-1719	Park Ave	319	Town of Wachapreague	001	Accomack County	0.05	01-1713 Bayview Ave	01-1705 South St	30	R							X						08/16/2005
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

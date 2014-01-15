@@ -1,0 +1,840 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Lee Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+010253	  US	00023	     	US 23	 	052	Lee County	052	Lee County	4.08	Scott County Line	Wise County Line	9000	G	93%	0%	1%	0%	5%	0%	F	0.0803	F	0.5036	9300	G	2009
+010261	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	1.76	Tennessee State Line	52-912 W, Station Creek Rd	6100	G	94%	0%	1%	1%	4%	0%	F	0.0866	F	0.6269	6400	G	2009
+010260	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	4.33	52-912 W, Station Creek Rd	52-691 Old Quarry Rd	5200	G	94%	0%	1%	1%	4%	0%	F	0.0841	F	0.6041	5500	G	2009
+010009	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	3.13	52-691 Old Quarry Rd	52-690 Caylor Rd; Doc Hurst Rd	4100	A	94%	0%	1%	1%	4%	0%	C	0.1017	A	0.5048	4000	A	2009
+010259	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	3.09	52-690 Dochurst Rd	52-684 Norray Rd	4200	G	94%	0%	1%	1%	4%	0%	F	0.0829	F	0.5320	4400	G	2009
+020010	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	6.84	52-684 Chadwell Station Rd	52-667 Old Nursary Rd	3500	G	94%	0%	1%	1%	4%	0%	F	0.0881	F	0.5291	3700	G	2009
+010258	  US	00058	     	US 58	Daniel Boone Heritage Hwy	052	Lee County	052	Lee County	8.94	52-667 Old Nursary Rd	52-758 Cony Hollow	3300	G	94%	0%	1%	1%	4%	0%	F	0.0875	F	0.5917	3400	G	2009
+110069	  US	00058	     	US 58	Daniel Boone Heritage Hwy	052	Lee County	052	Lee County	4.32	52-758 Cony Hollow	WCL Jonesville	4600	G	94%	0%	1%	1%	4%	0%	F	0.0960	F	0.5804	4800	G	2009
+110072	  US	00058	     	US 58	 	245	Town of Jonesville	052	Lee County	0.95	WCL Jonesville	ALT US 58	4600	N	94%	0%	1%	1%	4%	0%	N	0.0960	N	0.5804	4800	N	2009
+010257	  US	00058	     	US 58	Wilderness Rd	245	Town of Jonesville	052	Lee County	0.74	ALT US 58	ECL Jonesville	5100	G	92%	1%	1%	1%	6%	0%	F	0.0989	F	0.7254	5400	G	2009
+010384	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	0.87	ECL Jonesville	52-641 East of Jonesville	5100	N	92%	1%	1%	1%	6%	0%	N	0.0989	N	0.7254	5400	N	2009
+010084	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	7.54	52-641 East of Jonesville	US 421 Dot	2600	G	92%	1%	1%	1%	6%	0%	F	0.1070	F	0.5298	2800	G	2009
+010256	  US	00058	     		 	052	Lee County	052	Lee County	6.00	US 421 Dot	Scott County Line	4500	G	92%	1%	1%	1%	6%	0%	C	0.0894	F	0.5304	4700	G	2009
+010266	A1US	00058	     	Alt US 58	Main St	245	Town of Jonesville	052	Lee County	0.59	US 58 Jones St	NCL Jonesville	6000	G	96%	1%	1%	1%	1%	0%	C	0.0997	F	0.5571	6400	G	2009
+010480	A1US	00058	     	Alt US 58	 	052	Lee County	052	Lee County	3.51	NCL Jonesville	52-645	7000	G	96%	1%	1%	1%	1%	0%	F	0.0997	N	0.5571	7000	G	2009
+010556	A1US	00058	     	Alt US 58	W Morgan Ave	052	Lee County	052	Lee County	2.58	52-645 VC Tech Dr	WCL Pennington Gap	11000	G	96%	0%	1%	1%	2%	0%	F	0.0936	F	0.6576	11000	G	2009
+010576	A1US	00058	     	Alt US 58	Morgan Ave	281	Town of Pennington Gap	052	Lee County	1.79	WCL Pennington Gap	US 421 W, Old Zion Rd	11000	N	96%	0%	1%	1%	2%	0%	N	0.0936	N	0.6576	11000	N	2009
+010265	A1US	00058	     		E Morgan Ave	281	Town of Pennington Gap	052	Lee County	0.40	US 421 W, Old Zion Rd	US 421 E, Woodway Rd	13000	G	96%	0%	1%	1%	2%	0%	F	0.0896	F	0.5135	14000	G	2009
+010264	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	281	Town of Pennington Gap	052	Lee County	0.23	US 421 E, Woodway Rd	ECL Pennington Gap	5800	G	96%	0%	1%	1%	2%	0%	C	0.0847	F	0.5223	6100	G	2009
+010484	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	052	Lee County	052	Lee County	4.60	ECL Pennington Gap	Chapman Rd	5800	N	96%	0%	1%	1%	2%	0%	N	0.0847	N	0.5223	6100	N	2009
+010263	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	052	Lee County	052	Lee County	2.69	Chapman Road	52-642	4000	G	95%	1%	1%	1%	2%	0%	F	0.0874	F	0.5326	4200	G	2009
+010262	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	052	Lee County	052	Lee County	6.21	52-642	Wise County Line	290	G	95%	1%	1%	1%	2%	0%	F	0.1019	F	0.5135	300	G	2009
+787351	CBUS	00058	     	Bus US 58	Dr Thomas Walker Rd	052	Lee County	052	Lee County	7.00	US 58; 52-687	US 58 Daniel Boone Trail	1600	G	92%	1%	1%	1%	6%	0%	F				1700	G	2009
+797693	CHUS	00058	     	Bus US 58	 	052	Lee County	052	Lee County	1.72	Alt US 58	Alt US 58	0	?							X
+010267	  SR	00070	     	VA 70	 	052	Lee County	052	Lee County	3.35	Tennessee State Line	52-604 Blackwater Rd	240	G	95%	1%	1%	0%	1%	0%	F	0.1317	F	0.5570	250	G	2009
+010088	  SR	00070	     	VA 70	Trail of the Lonesome Pine	052	Lee County	052	Lee County	3.69	52-604 Blackwater Rd	52-612 Glasses Store	280	G	95%	1%	1%	0%	1%	0%	C	0.1159	F	0.6750	300	G	2009
+010086	  SR	00070	     	VA 70	Trail of the Lonesome Pine	052	Lee County	052	Lee County	4.80	52-612 Glasses Store	SCL Jonesville	740	G	95%	1%	1%	0%	1%	0%	F	0.1064	F	0.6022	780	G	2009
+010087	  SR	00070	     	VA 70	 	245	Town of Jonesville	052	Lee County	0.04	SCL Jonesville	US 58	740	N	95%	1%	1%	0%	1%	0%	N	0.1064	N	0.6022	780	N	2009
+010268	  SR	00352	     	VA 352	St Charles Rd	052	Lee County	052	Lee County	2.13	US 421	SCL Saint Charles	2000	G	93%	0%	1%	3%	3%	0%	C	0.0901	F	0.5472	2100	G	2009
+010324	  SR	00352	     	VA 352	 	293	Town of St. Charles	052	Lee County	0.27	SCL Saint Charles	52-634 Bunny Blue Rd	2000	N	93%	0%	1%	3%	3%	0%	N	0.0901	N	0.5472	2100	N	2009
+010271	  US	00421	     	US 421	 	052	Lee County	052	Lee County	4.55	Kentucky State Line	SR 352 St Charles St	1600	G	93%	0%	1%	2%	3%	0%	F	0.0945	F	0.5615	1700	G	2009
+010156	  US	00421	     	US 421	 	052	Lee County	052	Lee County	2.18	SR 352 St Charles Rd	NCL Pennington Gap	4400	G	93%	0%	1%	2%	3%	0%	C	0.0946	F	0.5098	4600	G	2009
+010158	  US	00421	     	US 421	 	281	Town of Pennington Gap	052	Lee County	0.77	NCL Pennington Gap	ALT US 58 W	4400	N	93%	0%	1%	2%	3%	0%	N	0.0946	N	0.5098	4600	N	2009
+010265	  US	00421	     		E Morgan Ave	281	Town of Pennington Gap	052	Lee County	0.40	ALT US 58 W	ALT US 58 E	13000	G	96%	0%	1%	1%	2%	0%	F	0.0896	F	0.5135	14000	G	2009	
+010270	  US	00421	     	US 421	 	281	Town of Pennington Gap	052	Lee County	0.18	ALT US 58 E Trail of the Lonesome Pine	SCL Pennington Gap	4900	G	93%	0%	1%	3%	3%	0%	F	0.0881	F	0.5019	5100	G	2009
+010474	  US	00421	     	US 421	 	052	Lee County	052	Lee County	2.64	SCL Pennington Gap	52-642	4900	N	93%	0%	1%	3%	3%	0%	N	0.0881	N	0.5019	5100	N	2009
+010269	  US	00421	     	US 421	 	052	Lee County	052	Lee County	2.39	52-642 Old Woodway Rd	US 58 Daniel Boone Trail	3400	G	93%	0%	1%	3%	3%	0%	C	0.0986	F	0.5259	3500	G	2009
+010256	  US	00421	     		 	052	Lee County	052	Lee County	6.00	US 58	Scott County Line	4500	G	92%	1%	1%	1%	6%	0%	C	0.0894	F	0.5304	4700	G	2009	
+749126	  52	00600	     	52-600	Flower Gap Rd	052	Lee County	052	Lee County	1.68	52-604	52-784 Eldridge Hollow Rd	290	R							X						10/22/2008
+749127	  52	00600	     	52-600	Flower Gap Rd	052	Lee County	052	Lee County	4.29	52-784 Eldridge Hollow Rd	Scott County Line	180	R							X						10/22/2008
+749128	  52	00601	     	52-601	Hillsville Rd	052	Lee County	052	Lee County	0.52	Tennessee State Line	52-600 W, Flower Gap Rd	110	R							X						10/23/2008
+749129	  52	00601	     	52-601	Greenhouse Rd	052	Lee County	052	Lee County	2.34	52-600 E, Flower Gap Rd	Scott County Line	80	R							X						10/23/2008
+749130	  52	00602	     	52-602	Hickory Hill Rd	052	Lee County	052	Lee County	3.85	52-600 Flower Gap Rd	52-768 Glass Hollow Rd	49	R							X						10/22/2008
+749131	  52	00602	     	52-602	Hickory Hill Rd	052	Lee County	052	Lee County	0.40	52-768 Glass Hollow Rd	Scott County Line	80	R							X						10/22/2008
+749132	  52	00603	     	52-603	Back Valley Rd	052	Lee County	052	Lee County	1.14	SR 70	52-608 Asbury Rd	70	R							X						10/22/2008
+749133	  52	00603	     	52-603	Back Valley Rd	052	Lee County	052	Lee County	0.34	52-608 Asbury Rd	52-604 WEST	47	R							X						10/22/2008
+400758	  52	00603	     	52-603	Carter Cave Rd	052	Lee County	052	Lee County	4.24	52-604 E, AJ Osborne Hwy	Scott County Line	70	G	90%	3%	1%	7%	0%	0%	C	0.1707	F	0.5714	70	G	2009
+749134	  52	00604	     	52-604	Blackwater Rd	052	Lee County	052	Lee County	3.61	Tennessee State Line	3.61 ME of State Line	100	R							X						10/22/2008
+749135	  52	00604	     	52-604	Blackwater Rd	052	Lee County	052	Lee County	2.01	3.61 ME of State Line	SR 70 N, Trail of the Lonesome Pine	120	R							X						10/22/2008
+400759	  52	00604	     	52-604	AJ Osborne Hwy	052	Lee County	052	Lee County	0.60	SR 70 South	52-600 Flower Gap Rd	330	G	95%	1%	2%	1%	0%	0%	C	0.1145	F	0.6000	350	G	2009
+400760	  52	00604	     	52-604	AJ Osborne Hwy	052	Lee County	052	Lee County	1.18	52-600 Flowers Gap Rd	52-603 E, Carter Cave Rd	230	G	95%	1%	2%	1%	0%	0%	F	0.1243	F	0.5000	240	G	2009
+749136	  52	00604	     	52-604	Blackwater Rd	052	Lee County	052	Lee County	1.00	52-603 EAST	52-608 Asbury Rd	170	R							X						10/22/2008
+749137	  52	00604	     	52-604	Blackwater Rd	052	Lee County	052	Lee County	4.55	52-608 Asbury Rd	Scott County Line	220	R							X						10/22/2008
+749138	  52	00605	     	52-605	Old Zion Rd	052	Lee County	052	Lee County	1.40	Dead End	Wise County Line	200	R							X						10/22/2008
+400761	  52	00606	     	52-606	 	052	Lee County	052	Lee County	2.16	US 421	52-742 Rocklick Rd	1100	G	95%	1%	2%	1%	1%	0%	C	0.0957	F	0.6182	1100	G	2009
+400762	  52	00606	     	52-606	 	052	Lee County	052	Lee County	2.19	52-742 Rocklick Rd	52-628 Reeds Creek Rd	720	G	95%	1%	2%	1%	1%	0%	F				750	G	2009
+400763	  52	00606	     	52-606	 	052	Lee County	052	Lee County	2.71	52-628 Reeds Creek Rd	52-766 Reeds Creek Rd	570	G	95%	1%	2%	1%	1%	0%	F	0.1292	F	0.7576	600	G	2009
+400764	  52	00606	     	52-606	 	052	Lee County	052	Lee County	3.29	52-766 Reeds Creek Rd	52-625 Sigma Rd	330	G	95%	1%	2%	1%	1%	0%	F	0.1180	F	0.6047	350	G	2009
+400765	  52	00606	     	52-606	 	052	Lee County	052	Lee County	3.47	52-625 Sigma Rd	52-624 MID Rawhide LP	370	G	95%	1%	2%	1%	1%	0%	F	0.0989	F	0.6829	390	G	2009
+400766	  52	00606	     	52-606	 	052	Lee County	052	Lee County	0.95	52-624 MID Rawhide LP	52-624 E, Rawhide LP	730	G	95%	1%	2%	1%	1%	0%	F	0.1087	F	0.6271	770	G	2009
+400767	  52	00606	     	52-606	 	052	Lee County	052	Lee County	2.30	52-624 E, Rawhide LP	Wise County Line; SR 68	1000	G	95%	1%	2%	1%	1%	0%	F	0.0915	F	0.5814	1100	G	2009
+749139	  52	00607	     	52-607	Hurd Hollow Rd	052	Lee County	052	Lee County	1.39	52-600 Flower Gap Rd	Dead End	40	R							X						10/22/2008
+749140	  52	00608	     	52-608	Asbury Rd	052	Lee County	052	Lee County	1.30	52-603 Back Valley Rd	52-604 Blackwater Rd	70	R							X						10/22/2008
+749141	  52	00609	     	52-609	 	052	Lee County	052	Lee County	0.80	Tennessee State Line	52-610	70	R							X						10/23/2008
+749142	  52	00610	     	52-610	 	052	Lee County	052	Lee County	1.50	Tennessee State Line	52-609	160	R							X						10/23/2008
+749143	  52	00610	     	52-610	 	052	Lee County	052	Lee County	1.40	52-609	SR 70	110	R							X						10/23/2008
+749144	  52	00611	     	52-611	Hippie Hollow Rd	052	Lee County	052	Lee County	0.50	52-612 S, Kane Gap Rd	0.50 MN 52-612	30	R							X						11/04/2008
+749145	  52	00611	     	52-611	Hippie Hollow Rd	052	Lee County	052	Lee County	0.70	0.50 MN 52-612	1.20 MN 52-612	9	R							X						11/04/2008
+749146	  52	00611	     	52-611	Hippie Hollow Rd	052	Lee County	052	Lee County	0.50	1.20 MN 52-612	52-738	2	R							X						11/04/2008
+749147	  52	00611	     	52-611	Jasper Rd	052	Lee County	052	Lee County	0.40	52-738	52-612 N, Kane Gap Rd	150	R							X						11/04/2008
+749148	  52	00611	     	52-611	Jasper Rd	052	Lee County	052	Lee County	0.43	52-612 N, Kane Gap Rd	0.43 MW 52-612	140	R							X						11/04/2008
+749149	  52	00611	     	52-611	Jasper Rd	052	Lee County	052	Lee County	1.07	0.43 MW 52-612	52-619 Love Lady Gap Rd	110	R							X						11/06/2008
+749150	  52	00611	     	52-611	Jasper Rd	052	Lee County	052	Lee County	2.95	52-619 Love Lady Gap Rd	2.95 ME 52-619	160	R							X						11/06/2008
+749151	  52	00611	     	52-611	Jasper Rd	052	Lee County	052	Lee County	0.55	2.95 ME 52-619	52-817	260	R							X						11/06/2008
+749152	  52	00611	     	52-611	Jasper Rd	052	Lee County	052	Lee County	0.50	52-817	US 23	490	R							X						11/06/2008
+749153	  52	00612	     	52-612	Lower Waldens Creek Rd	052	Lee County	052	Lee County	0.89	52-758; Tennessee State Line	0.89 MN 52-758	80	R							X						03/13/2009
+749154	  52	00612	     	52-612	Lower Waldens Creek Rd	052	Lee County	052	Lee County	0.57	0.89 MN 52-758	52-613	60	R							X						03/13/2009
+749155	  52	00612	     	52-612	Lower Waldens Creek Rd	052	Lee County	052	Lee County	1.47	52-613	52-665	60	R							X						03/13/2009
+749156	  52	00612	     	52-612	Lower Waldens Creek Rd	052	Lee County	052	Lee County	1.36	52-665	52-615	110	R							X						03/13/2009
+749157	  52	00612	     	52-612	Lower Waldens Creek Rd	052	Lee County	052	Lee County	1.00	52-615	1.00 ME 52-615	90	R							X						03/13/2009
+749158	  52	00612	     	52-612	Lower Waldens Creek Rd	052	Lee County	052	Lee County	1.45	1.00 ME 52-615	52-654 Hurricane Rd	70	R							X						03/13/2009
+749159	  52	00612	     	52-612	Lower Waldens Creek Rd	052	Lee County	052	Lee County	2.73	52-654 Hurricane Rd	SR 70 W, Trail of the Lonesome Pine	150	R							X						03/13/2009
+749160	  52	00612	     	52-612	Middle Waldens Creek Rd	052	Lee County	052	Lee County	1.80	SR 70 E, Trail of the Lonesome Pine	52-617	130	R							X						03/13/2009
+400768	  52	00612	     	52-612	Middle Wallens Creek	052	Lee County	052	Lee County	5.66	52-617 Counts Rd	52-823 Lambert Hollow Rd	180	G	97%	0%	2%	1%	1%	0%	F	0.1034	F	0.6744	190	G	2009
+400769	  52	00612	     	52-612	Middle Wallens Creek Rd	052	Lee County	052	Lee County	2.05	52-823 Lambert Hollow Rd	52-826 Rasnic Hollow Rd	390	G	97%	0%	2%	1%	1%	0%	F	0.0945	F	0.5056	410	G	2009
+400770	  52	00612	     	52-612	Middle Wallens Creek Rd	052	Lee County	052	Lee County	0.41	52-826 Rasnic Hollow Rd	52-865 Head Hollow Rd	460	G	97%	0%	2%	1%	1%	0%	F	0.0960	F	0.5340	480	G	2009
+400771	  52	00612	     	52-612	Middle Wallens Creek Rd	052	Lee County	052	Lee County	1.29	52-865 Head Hollow Rd	52-859 Joe Bill Rd	630	G	97%	0%	2%	1%	1%	0%	F	0.0918	F	0.5606	660	G	2009
+400772	  52	00612	     	52-612	Middle Wallens Creek Rd	052	Lee County	052	Lee County	0.36	52-859 Joe Bill Rd	US 58 West	790	G	97%	0%	2%	1%	1%	0%	C	0.0947	F	0.5833	830	G	2009
+749161	  52	00612	     	52-612	Kane Gap Rd	052	Lee County	052	Lee County	1.30	US 58 EAST	52-611 S, Hippie Hollow Rd	370	R							X						11/04/2008
+749162	  52	00612	     	52-612	Kane Gap Rd	052	Lee County	052	Lee County	4.82	52-611 S, Hippie Hollow Rd	52-611 N, Jasper Rd	280	R							X						11/04/2008
+749163	  52	00613	     	52-613	 	052	Lee County	052	Lee County	0.70	52-758 Flannery Ridge Rd	52-832	90	R							X						03/17/2009
+749164	  52	00613	     	52-613	 	052	Lee County	052	Lee County	0.34	52-832	52-612 Lower Waldens Creek Rd	80	R							X						03/17/2009
+749165	  52	00614	     	52-614	Sandy Ridge Rd	052	Lee County	052	Lee County	2.56	52-654	SR 70	110	R							X						02/17/2009
+749166	  52	00615	     	52-615	 	052	Lee County	052	Lee County	3.06	52-654 Hurricane Rd	52-612 Lower Waldens Creek Rd	120	R							X						03/17/2009
+749167	  52	00616	     	52-616	 	052	Lee County	052	Lee County	3.74	52-665	52-654 WEST	170	R							X						03/17/2009
+749168	  52	00616	     	52-616	 	052	Lee County	052	Lee County	0.50	52-654 EAST	0.50 ME 52-654	30	R							X						03/17/2009
+749169	  52	00616	     	52-616	 	052	Lee County	052	Lee County	0.50	0.50 ME 52-654	1.00 ME 52-654	6	R							X						03/17/2009
+749170	  52	00616	     	52-616	 	052	Lee County	052	Lee County	3.00	1.00 ME 52-654	52-612 Lower Waldens Creek Rd	4	R							X						03/17/2009
+400773	  52	00617	     	52-617	Counts Rd	052	Lee County	052	Lee County	1.90	SR 70 Trail of the Lonesome Pine	52-612 Middle Wallens Creek Rd	250	G	98%	1%	1%	0%	0%	0%	C	0.1216	F	0.5161	260	G	2009
+749171	  52	00618	     	52-618	Cam Sam Rd	052	Lee County	052	Lee County	0.60	52-612	0.60 MN 52-612	40	R							X						03/11/2009
+749172	  52	00618	     	52-618	Cam Sam Rd	052	Lee County	052	Lee County	0.60	0.60 MN 52-612	Dead End	47	R							X						03/11/2009
+400774	  52	00619	     	52-619	Bill Jessee Rd	052	Lee County	052	Lee County	0.36	Bus US 58	52-787 Murphy Hobbs Rd	350	G	98%	0%	1%	0%	0%	0%	C	0.1164	F	0.6364	360	G	2009
+400775	  52	00619	     	52-619	Bill Jesse Rd	052	Lee County	052	Lee County	1.41	52-787 Murphy Hobbs Rd	52-642 S, Old Woodway Rd	260	G	98%	0%	1%	0%	0%	0%	F	0.1173	F	0.6522	280	G	2009
+749174	  52	00619	     	52-619	Love Lady Gap Rd	052	Lee County	052	Lee County	0.20	52-642 NORTH	Jefferson For Bndy	90	R							X						11/06/2008
+749175	  52	00619	     	52-619	Love Lady Gap Rd	052	Lee County	052	Lee County	3.30	Jefferson For Bndy	52-722 Klondike Rd	30	R							X						11/06/2008
+749176	  52	00619	     	52-619	Love Lady Gap Rd	052	Lee County	052	Lee County	0.20	52-722 Klondike Rd	52-611 Jasper Rd	90	R							X						11/06/2008
+749177	  52	00620	     	52-620	Hen Reasor	052	Lee County	052	Lee County	2.50	Alt US 58	52-622	90	R							X						05/12/2009
+749178	  52	00621	     	52-621	Left Poor Valley Rd	052	Lee County	052	Lee County	5.40	52-946 Burning Well Rd	52-657 Tobacco Rd	220	R							X						05/19/2009
+749179	  52	00621	     	52-621	Left Poor Valley Rd	052	Lee County	052	Lee County	7.19	52-657 Tobacco Rd	52-645	550	R							X						05/19/2009
+400776	  52	00621	     	52-621	Left Poor Valley Rd	052	Lee County	052	Lee County	4.50	52-645	US 421 South	260	G	98%	0%	1%	0%	1%	0%	C	0.1316	F	0.5250	280	G	2009
+400777	  52	00621	     	52-621	Right Poor Valley Rd	052	Lee County	052	Lee County	0.07	US 421 North	52-788 Crane Rd	520	G	98%	0%	1%	0%	1%	0%	F	0.1045	F	0.5194	540	G	2009
+400778	  52	00621	     	52-621	Right Poor Valley Rd	052	Lee County	052	Lee County	2.16	52-788 Crane Rd	52-632 Right Poor Valley Rd	260	G	99%	0%	0%	1%	0%	0%	C	0.1175	F	0.5405	280	G	2009
+400779	  52	00621	     	52-621	Cave Springs Rd	052	Lee County	052	Lee County	2.90	52-632 Right Poor Valley Rd	52-726	250	G	99%	0%	0%	1%	0%	0%	F	0.1163	F	0.6866	260	G	2009
+400780	  52	00621	     	52-621	Cave Springs Rd	052	Lee County	052	Lee County	1.50	52-726	52-845 Cave Springs Park Rd	150	G	99%	0%	0%	1%	0%	0%	F	0.1160	F	0.5714	160	G	2009
+400781	  52	00621	     	52-621	Cave Springs Rd	052	Lee County	052	Lee County	3.86	52-845 Cave Springs Park Rd	52-622 West Stone Mtn Rd	120	G	99%	0%	0%	1%	0%	0%	F	0.1197	F	0.5676	130	G	2009
+400782	  52	00621	     	52-621	Cave Springs Rd	052	Lee County	052	Lee County	0.12	52-622 West Stone Mtn Rd	52-803 Doc Olweger Rd	350	G	99%	0%	0%	1%	0%	0%	F	0.1043	F	0.5111	370	G	2009
+400783	  52	00621	     	52-621	Cave Springs Rd	052	Lee County	052	Lee County	0.47	52-803 Doc Olinger Rd	52-622 East	430	G	99%	0%	0%	1%	0%	0%	F	0.1079	F	0.5000	450	G	2009
+749180	  52	00621	     	52-621	Wampler Hollow Rd	052	Lee County	052	Lee County	2.14	52-622 EAST	52-825 Hobbs Rd	290	R							X						05/12/2009
+749181	  52	00621	     	52-621	Wampler Hollow Rd	052	Lee County	052	Lee County	0.10	52-825 Hobbs Rd	Alt US 58	380	R							X						05/12/2009
+400784	  52	00622	     	52-622	 	052	Lee County	052	Lee County	1.30	Alt US 58	52-621 East	240	G	87%	0%	9%	0%	4%	0%	C	0.0976	F	0.5862	250	G	2009
+749182	  52	00622	     	52-622	Cave Springs Rd	052	Lee County	052	Lee County	2.40	52-621 WEST	Dead End	160	R							X						05/12/2009
+749183	  52	00623	     	52-623	Mohawk Loop	052	Lee County	052	Lee County	0.93	52-624 Rawhide Loop	52-877	110	R							X						05/19/2009
+749184	  52	00623	     	52-623	Mohawk Loop	052	Lee County	052	Lee County	0.66	52-877	52-606	290	R							X						05/19/2009
+749185	  52	00624	     	52-624	Rawhide Loop	052	Lee County	052	Lee County	1.60	52-606 WEST	52-623 Mohawk Loop	180	R							X						05/12/2009
+749186	  52	00624	     	52-624	Rawhide Loop	052	Lee County	052	Lee County	0.50	52-623 Mohawk Loop	52-606 EAST	190	R							X						05/12/2009
+400785	  52	00624	     	52-624	Glenbrook Mtn Rd	052	Lee County	052	Lee County	1.31	52-606 North	Kentucky State Line	460	G	96%	1%	2%	1%	0%	0%	C	0.1019	F	0.5833	480	G	2009
+749187	  52	00625	     	52-625	Sigma Rd	052	Lee County	052	Lee County	0.40	Dead End	52-862	60	R							X						05/21/2009
+749188	  52	00625	     	52-625	Sigma Rd	052	Lee County	052	Lee County	0.60	52-862	52-606	130	R							X						05/21/2009
+749189	  52	00626	     	52-626	Delvale Rd	052	Lee County	052	Lee County	1.70	Dead End	52-919 Hoover Hill Rd	90	R							X						05/21/2009
+749190	  52	00627	     	52-627	Stewart Rd	052	Lee County	052	Lee County	0.36	52-606	Dead End	70	R							X						05/21/2009
+792654	  52	00628	     	52-628	Reeds Creek Rd	052	Lee County	052	Lee County	1.20	Dead End	52-776	90	R							X						05/21/2009
+749193	  52	00628	     	52-628	Reeds Creek Rd	052	Lee County	052	Lee County	1.35	52-776	52-606	190	R							X						05/21/2009
+749194	  52	00629	     	52-629	Chris Barney Rd	052	Lee County	052	Lee County	0.50	Alt US 58 WEST	0.50 ME Alt US 58	140	R							X						05/14/2009
+749195	  52	00629	     	52-629	Possum Valley Rd	052	Lee County	052	Lee County	1.00	0.50 ME Alt US 58	1.50 ME Alt US 58	120	R							X						05/14/2009
+749196	  52	00629	     	52-629	Possum Valley Rd	052	Lee County	052	Lee County	0.35	1.50 ME Alt US 58	52-750	210	R							X						05/14/2009
+749197	  52	00629	     	52-629	Possum Valley Rd	052	Lee County	052	Lee County	0.15	52-750	Alt US 58 EAST	840	R							X						05/14/2009
+749198	  52	00629	     	52-629	Possum Valley Rd	052	Lee County	052	Lee County	0.02	Alt US 58 EAST	52-619	210	R							X						05/14/2009
+749199	  52	00629	     	52-629	Possum Valley Rd	052	Lee County	052	Lee County	0.65	52-619	Bus US 58	220	R							X						05/14/2009
+749200	  52	00630	     	52-630	Big Hill Rd	052	Lee County	052	Lee County	1.33	US 421	52-631 Willis Chapel Rd	430	R							X						01/06/2009
+749201	  52	00630	     	52-630	Big Hill Rd	052	Lee County	052	Lee County	0.87	52-631 Willis Chapel Rd	0.87 MN 52-631	270	R							X						01/06/2009
+749202	  52	00630	     	52-630	Big Hill Rd	052	Lee County	052	Lee County	1.55	0.87 ME 52-631	52-861 Ramey Rd	170	R							X						01/06/2009
+749203	  52	00630	     	52-630	Big Hill Rd	052	Lee County	052	Lee County	1.13	52-861 Ramey Rd	Alt US 58	190	R							X						01/06/2009
+749204	  52	00631	     	52-631	Willis Chapel Rd	052	Lee County	052	Lee County	1.00	Dead End	52-630 Big Hill Rd	70	R							X						01/06/2009
+749205	  52	00632	     	52-632	Right Poor Valley Rd	052	Lee County	052	Lee County	0.89	Alt US 58	52-621	370	R							X						05/14/2009
+749206	  52	00633	     	52-633	S Fork River Rd	052	Lee County	052	Lee County	0.30	US 421	SCL Pennington Gap	30	R							X						01/06/2009
+749207	  52	00633	     	52-633	S Fork River Rd	281	Town of Pennington Gap	052	Lee County	0.45	SCL Pennington Gap	NCL Pennington Gap	4	R							X						01/06/2009
+749208	  52	00633	     	52-633	S Fork River Rd	052	Lee County	052	Lee County	0.85	NCL Pennington Gap	52-621	40	R							X						01/06/2009
+400786	  52	00634	     	52-634	Bunny Blue Rd	293	Town of St. Charles	052	Lee County	0.15	SR 352; 52-636 St Charles Rd	WCL Saint Charles	660	G	80%	1%	2%	4%	13%	0%	C	0.1096	F	0.5663	700	G	2009
+403946	  52	00634	     	52-634	 	052	Lee County	052	Lee County	1.49	WCL Saint Charles	Dead End	660	N	80%	1%	2%	4%	13%	0%	N	0.1096	N	0.5663	700	N	2009
+400787	  52	00635	     	52-635	Kemmer Gem Rd	052	Lee County	052	Lee County	1.20	52-636 Monarch Rd	1.20 MN 52-636	310	G	97%	1%	2%	0%	0%	0%	C	0.1237	F	0.6957	330	G	2009
+400788	  52	00635	     	52-635	 	052	Lee County	052	Lee County	0.06	1.20 MN 52-636	Dead End	190	G							X	0.1237	N	0.6957	200	G	2009
+400789	  52	00636	     	52-636	Monarch Rd	293	Town of St. Charles	052	Lee County	0.17	SR 352	NCL Saint Charles	1300	G	98%	0%	1%	1%	0%	0%	C	0.1001	F	0.5541	1300	G	2009
+400790	  52	00636	     	52-636	Momarch Rd	052	Lee County	052	Lee County	2.43	NCL Saint Charles	Dead End	500	G	98%	0%	1%	1%	0%	0%	F	0.1088	F	0.5203	530	G	2009
+749209	  52	00637	     	52-637	 	052	Lee County	052	Lee County	0.63	Dead End	52-634	190	R							X						03/17/2009
+749210	  52	00638	     	52-638	Hickory Flats Rd	052	Lee County	052	Lee County	0.80	US 58 Daniel Boone Trail	52-882 Knob View Rd	720	R							X						12/18/2008
+749211	  52	00638	     	52-638	Hickory Flats Rd	052	Lee County	052	Lee County	1.20	52-882 Knob View Rd	52-642 Fannon Rd	1300	R							X						12/18/2008
+749212	  52	00639	     	52-639	 	052	Lee County	052	Lee County	0.50	52-640	52-723	120	R							X						03/17/2009
+400791	  52	00640	     	52-640	Shavers Ford Rd	052	Lee County	052	Lee County	1.20	US 58 Daniel Boone Heritage Hwy	52-646	340	G	98%	0%	1%	0%	0%	0%	C	0.0968	F	0.5000	360	G	2009
+400792	  52	00640	     	52-640	Shavers Ford Rd	052	Lee County	052	Lee County	1.45	52-646	52-643 East Frank Hall Rd	280	G	98%	0%	1%	0%	0%	0%	F	0.1111	F	0.5526	300	G	2009
+400793	  52	00640	     	52-640	Shavers Ford Rd	052	Lee County	052	Lee County	2.23	52-643 E, Frank Hall Rd	52-641 S, Hinkle Rd	180	G	98%	0%	1%	0%	0%	0%	F	0.1131	F	0.5556	190	G	2009
+400794	  52	00640	     	52-640	Shavers Ford Rd	052	Lee County	052	Lee County	0.70	52-641 S, Hinkle Rd	52-641 North	220	G	98%	0%	1%	0%	0%	0%	F	0.1186	F	0.5000	230	G	2009
+400795	  52	00640	     	52-640	Shavers Ford Rd	052	Lee County	052	Lee County	0.65	52-641 North	52-1106 Ford St	580	G	98%	0%	1%	0%	0%	0%	F	0.1073	F	0.5368	610	G	2009
+400796	  52	00640	     	52-640	Shavers Ford Rd	281	Town of Pennington Gap	052	Lee County	0.11	52-1106 Ford St	52-1123 Media St	600	G	98%	0%	1%	0%	0%	0%	F	0.1053	F	0.6187	630	G	2009
+400797	  52	00640	     	52-640	Shavers Ford Rd	281	Town of Pennington Gap	052	Lee County	0.25	52-1123 Media St	52-1117 Hospital Dr	660	G	98%	0%	1%	0%	0%	0%	F	0.1016	F	0.6846	700	G	2009
+400798	  52	00640	     	52-640	Harrell St	281	Town of Pennington Gap	052	Lee County	0.20	52-1117 Hospital Dr	Alt US 58	1100	G	98%	0%	1%	0%	0%	0%	F	0.0863	F	0.5683	1200	G	2009
+749213	  52	00641	     	52-641	Cooney Hollow Rd	052	Lee County	052	Lee County	0.93	52-783 Cooney Hollow Rd	0.93 MN 52-783	170	R							X						05/21/2009
+749214	  52	00641	     	52-641	Cooney Hollow Rd	052	Lee County	052	Lee County	0.57	0.93 MN 52-783	US 58 E, Daniel Boone Trail	350	R							X						05/26/2009
+749215	  52	00641	     	52-641	Cox Rd	052	Lee County	052	Lee County	1.39	US 58 W, Daniel Boone Trail	52-780 Hand Rd	20	R							X						05/26/2009
+749216	  52	00641	     	52-641	Clawson Rd	052	Lee County	052	Lee County	1.49	52-780 Hand Rd	52-644 WEST	90	R							X						05/27/2009
+749217	  52	00641	     	52-641	Clawson Rd	052	Lee County	052	Lee County	0.60	52-644 EAST	0.60 MN 52-644	100	R							X						05/26/2009
+749218	  52	00641	     	52-641	Clawson Rd	052	Lee County	052	Lee County	0.50	0.60 MN 52-644	52-643 WEST	150	R							X						05/26/2009
+749219	  52	00641	     	52-641	Cooney Hollow Rd	052	Lee County	052	Lee County	0.98	52-643 E, Ward Hill Rd	52-640 SOUTH	180	R							X						05/26/2009
+749220	  52	00641	     	52-641	Cooney Hollow Rd	052	Lee County	052	Lee County	1.80	52-640 N, Skaggs Hill Rd	US 421 NORTH	270	R							X						05/26/2009
+749221	  52	00641	     	52-641	Smyth Chapel Rd	052	Lee County	052	Lee County	0.10	US 421 SOUTH	Dead End	70	R							X						05/26/2009
+749222	  52	00642	     	52-642	Fannon Rd	052	Lee County	052	Lee County	0.30	Dead End	52-772 Norman Middleton Rd	90	R							X						12/18/2008
+749223	  52	00642	     	52-642	Fannon Rd	052	Lee County	052	Lee County	0.62	52-772 Norman Middleton Rd	52-638 Hickory Flats Rd	160	R							X						12/18/2008
+400799	  52	00642	     	52-642	Old Woodway Rd	052	Lee County	052	Lee County	0.92	52-638	US 421	1100	G	99%	1%	0%	0%	0%	0%	F	0.1172	F	0.6716	1100	G	2009
+405441	  52	00642	     	52-642	Old Woodway Rd	052	Lee County	052	Lee County	0.08	US 421	52-785 Elk Knob Rd	1900	G	99%	1%	0%	0%	0%	0%	F	0.1358	F	0.8152	2000	G	2009
+403086	  52	00642	     	52-642	Old Woodway Rd	052	Lee County	052	Lee County	3.48	52-785 Elk Knob Rd	52-743Mill Dam Rd	890	G	99%	1%	0%	0%	0%	0%	C	0.0986	F	0.5851	930	G	2009
+403087	  52	00642	     	52-642	Old Woodway Rd	052	Lee County	052	Lee County	3.48	52-743 Mill Dam Rd	Alt US 58	490	G	99%	1%	0%	0%	0%	0%	F	0.1016	F	0.5138	520	G	2009
+749224	  52	00643	     	52-643	Ward Hill Rd	052	Lee County	052	Lee County	1.43	US 58 Daniel Boone Trail	52-640 WEST	280	R							X						02/11/2009
+749225	  52	00643	     	52-643	Ward Hill Rd	052	Lee County	052	Lee County	2.10	52-640 EAST	52-641 E, Cooney Hollow Rd	380	R							X						02/11/2009
+749226	  52	00643	     	52-643	 	052	Lee County	052	Lee County	0.10	52-641 E, Cooney Hollow Rd	52-641 W, Clawson Rd	440	R							X						02/11/2009
+749227	  52	00643	     	52-643	 	052	Lee County	052	Lee County	0.90	52-641 W, Clawson Rd	Alt US 58 NORTH	590	R							X						02/17/2009
+749228	  52	00643	     	52-643	Kelly Rd	052	Lee County	052	Lee County	0.50	Alt US 58 NORTH	Alt US 58 SOUTH	370	R							X						02/11/2009
+749229	  52	00644	     	52-644	 	052	Lee County	052	Lee County	0.30	Dead End	Alt US 58 NORTH	170	R							X						03/19/2009
+749230	  52	00644	     	52-644	 	052	Lee County	052	Lee County	0.55	Alt US 58 SOUTH	52-647 Millers Chapel Rd	700	R							X						03/19/2009
+749231	  52	00644	     	52-644	 	052	Lee County	052	Lee County	1.20	52-647 Millers Chapel Rd	52-641 E, Clawson Rd	200	R							X						03/19/2009
+749232	  52	00644	     	52-644	 	052	Lee County	052	Lee County	1.50	52-641 E, Clawson Rd	52-640	120	R							X						03/19/2009
+749233	  52	00645	     	52-645	 	052	Lee County	052	Lee County	0.11	52-644	Alt US 58 EAST	70	R							X						03/19/2009
+403088	  52	00645	     	52-645	Clyde Pearson Rd	052	Lee County	052	Lee County	0.79	Alt US 58 W, Veterans Mem Hwy	52-621	680	G	96%	1%	1%	1%	1%	0%	C	0.0941	F	0.5857	720	G	2009
+749234	  52	00646	     	52-646	Clawson Rd	052	Lee County	052	Lee County	0.53	52-647 Millers Chapel Rd	52-998 Brush Country Dr	190	R							X						05/26/2009
+749235	  52	00646	     	52-646	Clawson Rd	052	Lee County	052	Lee County	0.26	52-998 Brush Country Dr	52-641 S, Clawson Rd	140	R							X						05/26/2009
+749236	  52	00646	     	52-646	Clawson Rd	052	Lee County	052	Lee County	1.20	52-641 N, Clawson Rd	52-640	90	R							X						05/26/2009
+749237	  52	00647	     	52-647	Millers Chapel Rd	052	Lee County	052	Lee County	0.19	52-662	US 58 WEST	370	R							X						05/26/2009
+749238	  52	00647	     	52-647	Millers Chapel Rd	052	Lee County	052	Lee County	0.13	US 58 EAST	52-745 Mill Hollow Rd	240	R							X						05/26/2009
+749239	  52	00647	     	52-647	Millers Chapel Rd	052	Lee County	052	Lee County	1.23	52-745 Mill Hollow Rd	1.23 MN 52-745	80	R							X						05/26/2009
+749240	  52	00647	     	52-647	Millers Chapel Rd	052	Lee County	052	Lee County	0.47	1.23 MN 52-745	52-651 Fleenortown Rd	100	R							X						05/26/2009
+749241	  52	00647	     	52-647	Millers Chapel Rd	052	Lee County	052	Lee County	1.42	52-651 Fleenortown Rd	Alt US 58 NORTH	420	R							X						05/26/2009
+749242	  52	00647	     	52-647	Millers Chapel Rd	052	Lee County	052	Lee County	1.53	Alt US 58 SOUTH	52-646 Clawson Rd	570	R							X						05/26/2009
+749243	  52	00647	     	52-647	Millers Chapel Rd	052	Lee County	052	Lee County	0.90	52-646 Clawson Rd	52-644	240	R							X						03/17/2009
+749244	  52	00648	     	52-648	Emmit Allen Farm Rd	052	Lee County	052	Lee County	0.28	52-614 Sandy Ridge Rd	52-830 Ridgeview Rd	120	R							X						02/17/2009
+403089	  52	00648	     	52-648	Ridgeview Rd	052	Lee County	052	Lee County	1.02	52-830	SCL Jonesville	500	G	99%	0%	0%	0%	0%	0%	C	0.1002	F	0.5357	530	G	2009
+403090	  52	00648	     	52-648	 	245	Town of Jonesville	052	Lee County	0.20	SCL Jonesville	US 58; 52-1200	520	G	99%	0%	0%	0%	0%	0%	F	0.1002	N	0.5357	540	G	2009
+749245	  52	00648	     	52-648	Town Branch Rd	245	Town of Jonesville	052	Lee County	0.55	US 58; 52-1200	NCL Jonesville	1500	R							X						02/17/2009
+785139	  52	00648	     	52-648	 	052	Lee County	052	Lee County	0.18	NCL Jonesville	Alt US 58	1500	N							X				0	N	02/17/2009
+749246	  52	00649	     	52-649	Park St	245	Town of Jonesville	052	Lee County	0.32	Dead End	US 58 S, Jones St	680	R							X						02/26/2009
+749247	  52	00649	     	52-649	Park St	245	Town of Jonesville	052	Lee County	0.08	US 58 N, Alt US 58	52-1201 Institute St	2100	R							X						02/26/2009
+749248	  52	00649	     	52-649	Collins Rd	245	Town of Jonesville	052	Lee County	0.22	52-1201 Institute St	52-1225 Church St	1100	R							X						02/26/2009
+749249	  52	00649	     	52-649	Collins Rd	245	Town of Jonesville	052	Lee County	0.05	52-1225 Park St	NCL Jonesville	150	R							X						02/26/2009
+749250	  52	00649	     	52-649	Collins Rd	052	Lee County	052	Lee County	0.40	NCL Jonesville	Dead End	110	R							X						02/26/2009
+403091	  52	00650	     	52-650	Harlan Rd	245	Town of Jonesville	052	Lee County	0.40	US 58 Main St	NCL Jonesville	300	G	99%	1%	0%	0%	0%	0%	C	0.1209	F	0.6341	320	G	2009
+403947	  52	00650	     	52-650	 	052	Lee County	052	Lee County	1.65	NCL Jonesville	52-647	300	N	99%	1%	0%	0%	0%	0%	N	0.1209	N	0.6341	320	N	2009
+749251	  52	00651	     	52-651	Fleenortown Rd	052	Lee County	052	Lee County	0.70	52-647 Millers Chapel Rd	Dead End	110	R							X						03/11/2009
+749252	  52	00652	     	52-652	Campground Rd	052	Lee County	052	Lee County	2.76	US 58	52-659	480	R							X						03/05/2009
+749253	  52	00653	     	52-653	Maple Hill Rd	052	Lee County	052	Lee County	0.50	Dead End	52-655 Lizzie Minor Rd	60	R							X						12/09/2008
+749254	  52	00653	     	52-653	Maple Hill Rd	052	Lee County	052	Lee County	2.10	52-655 Lizzie Minor Rd	US 58	300	R							X						12/09/2008
+749255	  52	00654	     	52-654	Hurricane Rd	052	Lee County	052	Lee County	2.00	52-612 Lower Waldens Creek Rd	52-615	80	R							X						03/11/2009
+403092	  52	00654	     	52-654	Hurricane Rd	052	Lee County	052	Lee County	3.00	52-615	52-662	360	G	95%	1%	2%	2%	0%	0%	C	0.0924	F	0.6154	380	G	2009
+749256	  52	00655	     	52-655	Lizzie Minor Rd	052	Lee County	052	Lee County	0.55	Dead End	52-653 Maple Hill Rd	90	R							X						12/09/2008
+749257	  52	00656	     	52-656	Old Friendship Rd	052	Lee County	052	Lee County	1.68	52-662	US 58	190	R							X						12/04/2008
+749258	  52	00656	     	52-656	Old Friendship Rd	052	Lee County	052	Lee County	0.45	US 58	0.45 MN US 58	90	R							X						12/04/2008
+749259	  52	00656	     	52-656	Old Friendship Rd	052	Lee County	052	Lee County	3.26	0.45 MN US 58	3.69 MN US 58	40	R							X						12/04/2008
+749260	  52	00656	     	52-656	Old Friendship Rd	052	Lee County	052	Lee County	0.46	3.71 MN US 58	52-659 WEST	90	R							X						12/04/2008
+749261	  52	00656	     	52-656	Old Friendship Rd	052	Lee County	052	Lee County	0.50	52-659 EAST	52-621 Left Poor Valley Rd	320	R							X						12/04/2008
+749262	  52	00657	     	52-657	Tobacco Rd	052	Lee County	052	Lee County	1.00	52-661 Flatwoods Rd	1.00 MN 52-661	110	R							X						05/05/2009
+749263	  52	00657	     	52-657	Tobacco Rd	052	Lee County	052	Lee County	1.23	1.00 MN 52-661	2.23 MN 52-661	40	R							X						05/05/2009
+749264	  52	00657	     	52-657	Tobacco Rd	052	Lee County	052	Lee County	0.43	2.23 MN 52-661	US 58 Daniel Boone Heritage Hwy	90	R							X						05/05/2009
+749265	  52	00657	     	52-657	 	052	Lee County	052	Lee County	0.40	US 58 Daniel Boone Heritage Hwy	52-880 W, Red Fletcher Rd	100	R							X						05/05/2009
+403093	  52	00657	     	52-657	Russells Chapel Rd	052	Lee County	052	Lee County	0.56	52-880 E, Red Fletcher La	52-820Low Gap Rd	170	G	97%	0%	2%	1%	0%	0%	C	0.1480	F	0.5172	180	G	2009
+403094	  52	00657	     	52-657	Russells Chapel Rd	052	Lee County	052	Lee County	1.71	52-820 Low Gap Rd	52-659 W, Sugar Run Rd	40	G	97%	0%	2%	1%	0%	0%	F	0.2160	F	0.6296	45	G	2009
+749266	  52	00657	     	52-657	Tobacco Rd	052	Lee County	052	Lee County	0.55	52-659 NORTH	52-621 Left Poor Valley Rd	170	R							X						05/05/2009
+749267	  52	00658	     	52-658	Cedar Hill Rd	052	Lee County	052	Lee County	0.90	52-664 Boones Path Rd	52-660 S, Hardeys Creek Rd	30	R							X						05/07/2009
+749268	  52	00658	     	52-658	Cedar Hill Rd	052	Lee County	052	Lee County	1.00	52-660 N, Hardeys Creek Rd	52-663 Cedar Creek Church Rd	60	R							X						05/07/2009
+749269	  52	00658	     	52-658	Cedar Hill Rd	052	Lee County	052	Lee County	1.70	52-663 Cedar Creek Church Rd	US 58 Daniel Boone Heritage Hwy	210	R							X						05/07/2009
+403095	  52	00659	     	52-659	Sugar Run Rd	052	Lee County	052	Lee County	4.99	52-899	52-652 Campground Rd	460	G	99%	0%	1%	0%	0%	0%	F	0.0995	F	0.5727	480	G	2009
+403096	  52	00659	     	52-659	Sugar Run Rd	052	Lee County	052	Lee County	3.45	52-652 Campground Rd	US 58 ALT; 52-716 Veterans Mem Hwy	530	G	99%	0%	1%	0%	0%	0%	C	0.0943	F	0.6038	550	G	2009
+749270	  52	00660	     	52-660	Hardeys Creek Rd	052	Lee County	052	Lee County	0.10	52-661	0.10 MN 52-661	180	R							X						05/05/2009
+749271	  52	00660	     	52-660	Hardeys Creek Rd	052	Lee County	052	Lee County	0.50	0.10 MN 52-661	52-663 Cedar Creek Church Rd	140	R							X						05/05/2009
+749272	  52	00660	     	52-660	Hardeys Creek Rd	052	Lee County	052	Lee County	0.10	52-663 Cedar Creek Church Rd	52-676 Lamb Hollow Rd	130	R							X						05/05/2009
+749273	  52	00660	     	52-660	Hardeys Creek Rd	052	Lee County	052	Lee County	2.00	52-676 Lamb Hollow Rd	52-658 S, Cedar Hill Rd	80	R							X						05/05/2009
+749274	  52	00660	     	52-660	Hardeys Creek Rd	052	Lee County	052	Lee County	1.01	52-658 S, Cedar Hill Rd	US 58	120	R							X						05/05/2009
+749275	  52	00661	     	52-661	Flatwoods Rd	052	Lee County	052	Lee County	0.80	Tennessee State Line	52-679	180	R							X						05/05/2009
+749276	  52	00661	     	52-661	Flatwoods Rd	052	Lee County	052	Lee County	1.97	52-679	52-667	270	R							X						05/05/2009
+403097	  52	00661	     	52-661	Flatwoods Rd	052	Lee County	052	Lee County	3.02	52-667 Old Nursary Rd	52-660 Hardy Creek Rd	370	G	98%	1%	1%	0%	0%	0%	C	0.1117	F	0.6744	380	G	2009
+403098	  52	00661	     	52-661	Flatwoods Rd	052	Lee County	052	Lee County	0.71	52-660 Hardys Creek Rd	52-662 Tobacco Rd	470	G	98%	1%	1%	0%	0%	0%	F	0.1060	F	0.6606	490	G	2009
+749277	  52	00661	     	52-661	Flatwoods Rd	052	Lee County	052	Lee County	0.55	52-662	52-657 Tobacco Rd	810	R							X						05/05/2009
+749278	  52	00661	     	52-661	Flatwoods Rd	052	Lee County	052	Lee County	2.10	52-657 Tobacco Rd	52-758	970	R							X						05/05/2009
+403099	  52	00662	     	52-662	Tobacco Rd	052	Lee County	052	Lee County	0.80	52-661 Flatwoods Rd	52-666	120	G	94%	0%	1%	2%	2%	0%	F	0.1801	F	0.5517	120	G	2009
+403100	  52	00662	     	52-662	Tobacco Rd	052	Lee County	052	Lee County	1.19	52-666	52-758 Flanary Bridge Rd	160	G	94%	0%	1%	2%	2%	0%	F	0.1584	F	0.5000	170	G	2009
+403101	  52	00662	     	52-662	Curt Russell Rd	052	Lee County	052	Lee County	1.50	52-758 Mulberry Gap Rd	52-656 Country Club Rd	270	G	94%	0%	1%	2%	2%	0%	F	0.1136	F	0.5493	280	G	2009
+403102	  52	00662	     	52-662	Curt Russell Rd	052	Lee County	052	Lee County	2.90	52-656 Country Club Rd	52-654 Hurricane Rd	380	G	94%	0%	1%	2%	2%	0%	F	0.1131	F	0.6400	400	G	2009
+403103	  52	00662	     	52-662	Curt Russell Rd	052	Lee County	052	Lee County	1.00	52-654 Hurricane Rd	US 58	820	G	94%	0%	1%	2%	2%	0%	C	0.1135	F	0.5421	860	G	2009
+749279	  52	00663	     	52-663	Cedar Creek Church Rd	052	Lee County	052	Lee County	1.50	52-660 Hardeys Creek Rd	1.50 MN 52-660	70	R							X						05/05/2009
+749280	  52	00663	     	52-663	Cedar Creek Church Rd	052	Lee County	052	Lee County	1.00	1.50 MN 52-660	52-658 Cedar Hill Rd	110	R							X						05/05/2009
+749281	  52	00664	     	52-664	McClures Chapel Rd	052	Lee County	052	Lee County	2.30	52-855	52-676 S, Lamb Hollow Rd	70	R							X						05/07/2009
+749282	  52	00664	     	52-664	McClures Chapel Rd	052	Lee County	052	Lee County	0.20	52-676 S, Lamb Hollow Rd	52-676 N, Lamb Hollow Rd	80	R							X						05/07/2009
+749283	  52	00664	     	52-664	Boones Path Rd	052	Lee County	052	Lee County	0.30	52-676 N, Lamb Hollow Rd	52-658 Cedar Hill Rd	60	R							X						05/07/2009
+749284	  52	00664	     	52-664	Boones Path Rd	052	Lee County	052	Lee County	2.20	52-658 Cedar Hill Rd	52-814	130	R							X						05/07/2009
+749285	  52	00664	     	52-664	 	052	Lee County	052	Lee County	0.13	52-814	52-946 Burning Well Rd	40	R							X						05/07/2009
+749287	  52	00665	     	52-665	 	052	Lee County	052	Lee County	2.00	Dead End	52-758 WEST	70	R							X						03/17/2009
+749288	  52	00665	     	52-665	 	052	Lee County	052	Lee County	1.00	52-758 WEST	52-616	190	R							X						03/17/2009
+749289	  52	00665	     	52-665	 	052	Lee County	052	Lee County	0.55	52-616	0.55 ME 52-616	180	R							X						03/17/2009
+749290	  52	00665	     	52-665	 	052	Lee County	052	Lee County	1.65	0.55 ME 52-616	52-612 Lower Waldens Creek Rd	100	R							X						03/17/2009
+749291	  52	00666	     	52-666	 	052	Lee County	052	Lee County	0.20	52-665	0.20 MN 52-665	30	R							X						03/17/2009
+749292	  52	00666	     	52-666	 	052	Lee County	052	Lee County	0.40	0.20 MN 52-665	52-662	30	R							X						03/17/2009
+403104	  52	00667	     	52-667	Old Nursary Rd	052	Lee County	052	Lee County	1.20	52-661 Flatwoods Rd	52-855 Wilson Hill Rd	220	G	98%	1%	1%	1%	0%	0%	F	0.1143	F	0.6780	230	G	2009
+403105	  52	00667	     	52-667	Old Nursary Rd	052	Lee County	052	Lee County	2.30	52-855 Wilson Hill Rd	52-680 Pleasant View Rd	310	G	98%	1%	1%	1%	0%	0%	F	0.1177	F	0.7470	330	G	2009
+403106	  52	00667	     	52-667	Old Nursary Rd	052	Lee County	052	Lee County	2.00	52-680 Pleasant View Rd	US 58	670	G	98%	1%	1%	1%	0%	0%	C	0.0997	F	0.7468	700	G	2009
+749293	  52	00668	     	52-668	 	052	Lee County	052	Lee County	2.60	52-667	52-676 Lamb Hollow Rd	80	R							X						03/17/2009
+749294	  52	00669	     	52-669	 	052	Lee County	052	Lee County	0.70	52-661 Flatwoods Rd	52-695	140	R							X						03/17/2009
+749295	  52	00669	     	52-669	 	052	Lee County	052	Lee County	0.80	52-695	52-677	100	R							X						03/17/2009
+749296	  52	00669	     	52-669	 	052	Lee County	052	Lee County	2.00	52-677	52-680	140	R							X						03/19/2009
+749297	  52	00670	     	52-670	Hennagar Town Rd	052	Lee County	052	Lee County	1.15	52-676 Lamb Hollow Rd	US 58 Daniel Boone Heritage Hwy	480	R							X						05/07/2009
+749298	  52	00671	     	52-671	 	052	Lee County	052	Lee County	0.55	US 58	0.55 ME US 58	240	R							X						03/19/2009
+749299	  52	00671	     	52-671	 	052	Lee County	052	Lee County	1.15	0.55 ME US 58	52-672 SOUTH	90	R							X						03/24/2009
+749300	  52	00671	     	52-671	 	052	Lee County	052	Lee County	1.60	52-672 NORTH	52-676 E, Lamb Hollow Rd	330	R							X						03/24/2009
+749301	  52	00671	     	52-671	 	052	Lee County	052	Lee County	0.70	52-676 S, Lamb Hollow Rd	52-680 NORTH	210	R							X						03/19/2009
+749302	  52	00671	     	52-671	 	052	Lee County	052	Lee County	0.88	52-680 SOUTH	52-667	130	R							X						03/19/2009
+749303	  52	00672	     	52-672	 	052	Lee County	052	Lee County	0.50	52-683	0.50 ME 52-683	110	R							X						03/24/2009
+749304	  52	00672	     	52-672	 	052	Lee County	052	Lee County	0.40	0.50 ME 52-683	52-857	190	R							X						03/19/2009
+749305	  52	00672	     	52-672	 	052	Lee County	052	Lee County	0.70	52-857	52-675	90	R							X						03/24/2009
+749306	  52	00672	     	52-672	 	052	Lee County	052	Lee County	0.80	52-675	52-682 WEST	80	R							X						03/24/2009
+749307	  52	00672	     	52-672	 	052	Lee County	052	Lee County	1.60	52-682 EAST	52-671 SOUTH	200	R							X						03/19/2009
+749308	  52	00672	     	52-672	 	052	Lee County	052	Lee County	2.00	52-671 SOUTH	US 58	510	R							X						03/19/2009
+749309	  52	00673	     	52-673	 	052	Lee County	052	Lee County	0.54	Dead End	52-775	790	R							X						03/19/2009
+749310	  52	00673	     	52-673	 	052	Lee County	052	Lee County	1.21	52-775	Dead End	320	R							X						03/19/2009
+749311	  52	00674	     	52-674	 	052	Lee County	052	Lee County	1.00	US 58	52-757	210	R							X						03/19/2009
+749312	  52	00674	     	52-674	 	052	Lee County	052	Lee County	1.10	52-757	52-682	70	R							X						03/24/2009
+749313	  52	00675	     	52-675	 	052	Lee County	052	Lee County	0.60	52-672	52-674	10	R							X						03/24/2009
+749314	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	0.89	52-683	0.89 ME 52-683	20	R							X						05/05/2009
+749315	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	0.71	0.89 ME 52-683	52-682 NORTH	20	R							X						05/05/2009
+749316	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	2.50	52-682 SOUTH	52-671 EAST	140	R							X						05/05/2009
+749317	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	1.10	52-671 WEST	52-667 WEST	110	R							X						05/05/2009
+749318	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	1.00	52-667 EAST	52-853	190	R							X						05/05/2009
+749319	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	0.40	52-853	52-668	130	R							X						05/07/2009
+749320	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	0.42	52-668	52-670 Hennagar Town Rd	180	R							X						05/07/2009
+749321	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	2.00	52-670 Hennagar Town Rd	52-664 N, Boones Path Rd; McClures Chapel Rd	150	R							X						05/07/2009
+749322	  52	00676	     	52-676	Lamb Hollow Rd	052	Lee County	052	Lee County	2.00	52-664 S, McClures Chapel Rd	52-660 Hardeys Creek Rd	70	R							X						05/07/2009
+749323	  52	00677	     	52-677	 	052	Lee County	052	Lee County	2.00	52-669	52-852	40	R							X						03/24/2009
+749324	  52	00677	     	52-677	 	052	Lee County	052	Lee County	1.30	52-852	52-667	70	R							X						03/24/2009
+749325	  52	00678	     	52-678	 	052	Lee County	052	Lee County	0.20	52-661 Flatwoods Rd	Dead End; Gap	40	R							X						03/24/2009
+749326	  52	00678	     	52-678	 	052	Lee County	052	Lee County	0.18	Dead End; Gap	52-679	20	R							X						03/24/2009
+749327	  52	00679	     	52-679	 	052	Lee County	052	Lee County	0.60	52-661 Flatwoods Rd	Tennessee State Line	100	R							X						03/26/2009
+749328	  52	00679	     	52-679	 	052	Lee County	052	Lee County	1.00	Tennessee State Line	52-678	10	R							X						03/26/2009
+749329	  52	00679	     	52-679	 	052	Lee County	052	Lee County	1.40	52-678	52-833	40	R							X						03/26/2009
+749330	  52	00679	     	52-679	 	052	Lee County	052	Lee County	1.80	52-833	52-854	90	R							X						03/26/2009
+749331	  52	00679	     	52-679	 	052	Lee County	052	Lee County	2.11	52-854	52-758 Flannery Ridge Rd	190	R							X						03/26/2009
+403107	  52	00680	     	52-680	Speaks Branch Rd	052	Lee County	052	Lee County	1.60	52-682 Giles Hollow Rd	52-669	47	G	94%	3%	3%	0%	1%	0%	F	0.1600	F	0.6000	50	G	2009
+403109	  52	00680	     	52-680	Speaks Branch Rd	052	Lee County	052	Lee County	1.10	52-669	52-852 Pleasant View Rd	170	G	94%	3%	3%	0%	1%	0%	F	0.1321	F	0.5882	180	G	2009
+403110	  52	00680	     	52-680	Pleasant View Rd	052	Lee County	052	Lee County	0.80	52-852 Pleasant View Rd	52-667 Old Nursary Rd	190	G	94%	3%	3%	0%	1%	0%	C	0.1256	F	0.6071	200	G	2009
+749332	  52	00681	     	52-681	 	052	Lee County	052	Lee County	1.00	Tennessee State Line	52-695	47	R							X						03/26/2009
+749333	  52	00682	     	52-682	 	052	Lee County	052	Lee County	1.30	Tennessee State Line	52-695	60	R							X						03/26/2009
+749334	  52	00682	     	52-682	 	052	Lee County	052	Lee County	0.80	52-695	52-680	80	R							X						03/24/2009
+405432	  52	00682	     	52-682	Giles Hollow Rd	052	Lee County	052	Lee County	0.20	52-680	52-851	70	G	99%	0%	1%	0%	0%	0%	C	0.1310	F	0.6364	70	G	2009
+403111	  52	00682	     	52-682	Giles Hollow Rd	052	Lee County	052	Lee County	4.20	52-851	US 58	160	G	99%	0%	1%	0%	0%	0%	F	0.1141	F	0.7143	170	G	2009
+749335	  52	00683	     	52-683	 	052	Lee County	052	Lee County	1.70	52-851	52-676 Lamb Hollow Rd	80	R							X						03/24/2009
+749336	  52	00683	     	52-683	 	052	Lee County	052	Lee County	2.00	52-676 Lamb Hollow Rd	52-744	310	R							X						03/24/2009
+749337	  52	00684	     	52-684	Chadwell Station Rd	052	Lee County	052	Lee County	1.15	US 58 W, Daniel Boone Trail	US 58 West Mid	310	R							X						11/19/2008
+749338	  52	00684	     	52-684	Chadwell Station Rd	052	Lee County	052	Lee County	2.24	US 58 Mid	US 58 East Mid	310	R							X						11/19/2008
+749339	  52	00684	     	52-684	 	052	Lee County	052	Lee County	1.60	US 58 East	52-806 Yearly Hollow Rd	380	R							X						03/24/2009
+749340	  52	00684	     	52-684	Holiness Hollow Rd	052	Lee County	052	Lee County	1.97	52-806 Yearly Hollow Rd	Tennessee State Line	180	R							X						12/09/2008
+749341	  52	00685	     	52-685	Indian Creek Rd	052	Lee County	052	Lee County	0.35	Dead End	52-687 N, Frog Level Rd	40	R							X						11/19/2008
+749342	  52	00685	     	52-685	Lick Branch Rd	052	Lee County	052	Lee County	1.55	52-687 S, Frog Level Rd	52-684 Holiness Hollow Rd	270	R							X						12/02/2008
+749343	  52	00686	     	52-686	Brooks Memorial Dr	052	Lee County	052	Lee County	0.50	52-687 Frog Level Rd	0.50 MN 52-687	100	R							X						12/02/2008
+749344	  52	00686	     	52-686	Brooks Memorial Dr	052	Lee County	052	Lee County	0.55	0.50 MN 52-687	52-685 Lick Branch Rd	130	R							X						12/02/2008
+749345	  52	00687	     	52-687	Frog Level Rd	052	Lee County	052	Lee County	0.82	Tennessee State Line	52-686 Brooks Memorial Dr	260	R							X						12/02/2008
+749346	  52	00687	     	52-687	Frog Level Rd	052	Lee County	052	Lee County	1.08	52-686 Brooks Memorial Dr	52-685 S, Lick Branch Rd	320	R							X						12/02/2008
+749347	  52	00687	     	52-687	Frog Level Rd	052	Lee County	052	Lee County	0.52	52-685 S, Lick Branch Rd	Bus US 58	500	R							X						12/02/2008
+749348	  52	00688	     	52-688	Dry Branch Rd	052	Lee County	052	Lee County	1.30	52-690 Caylor Rd	Dead End	170	R							X						11/13/2008
+749349	  52	00689	     	52-689	Mattie Springs Rd	052	Lee County	052	Lee County	0.50	52-690 Caylor Rd	Dead End	70	R							X						11/10/2008
+749350	  52	00690	     	52-690	Kesterson Rd	052	Lee County	052	Lee County	0.55	Tennessee State Line	52-847 Marson Quillen Rd	100	R							X						11/13/2008
+749351	  52	00690	     	52-690	Kesterson Rd	052	Lee County	052	Lee County	1.15	52-847 Marson Quillen Rd	52-735	190	R							X						11/19/2008
+749352	  52	00690	     	52-690	Kesterson Rd	052	Lee County	052	Lee County	0.98	52-735	52-684 Chadwell Station Rd	270	R							X						11/19/2008
+749353	  52	00690	     	52-690	Doc Hurst Rd	052	Lee County	052	Lee County	0.20	52-684 Chadwell Station Rd	US 58 Daniel Boone Trail	70	R							X						11/13/2008
+749354	  52	00690	     	52-690	Caylor Rd	052	Lee County	052	Lee County	0.30	US 58 Daniel Boone Trail	52-827 Lee Rd	500	R							X						11/13/2008
+749355	  52	00690	     	52-690	Caylor Rd	052	Lee County	052	Lee County	3.71	52-827 Lee Rd	US 58 W, Daniel Boone Trail	290	R							X						11/13/2008
+403113	  52	00691	     	52-691	Wheeler Rd	052	Lee County	052	Lee County	1.91	Tennessee State Line	US 58	360	G	98%	0%	0%	2%	0%	0%	C	0.1021	F	0.5814	380	G	2009
+749356	  52	00691	     	52-691	 	052	Lee County	052	Lee County	0.10	US 58 Daniel Boone Trail	Dead End	110	R							X						03/24/2009
+749357	  52	00692	     	52-692	 	052	Lee County	052	Lee County	0.88	Tennessee State Line	52-1301	46	R							X						03/26/2009
+749358	  52	00692	     	52-692	 	052	Lee County	052	Lee County	0.40	52-1301	US 58 E, Daniel Boone Trail	210	R							X						03/26/2009
+749359	  52	00692	     	52-692	 	052	Lee County	052	Lee County	0.50	US 58 E, Daniel Boone Trail	US 58 W, Daniel Boone Trail	80	R							X						03/26/2009
+749360	  52	00693	     	52-693	 	052	Lee County	052	Lee County	0.57	Tennessee State Line	0.57 MN Tennessee State Line	80	R							X						03/26/2009
+749361	  52	00693	     	52-693	 	052	Lee County	052	Lee County	0.44	0.57 MN Tennessee State Line	US 58 Daniel Boone Trail	180	R							X						03/26/2009
+749362	  52	00694	     	52-694	 	052	Lee County	052	Lee County	0.10	Tennessee State Line	US 58	1500	R							X						04/03/2009
+749363	  52	00695	     	52-695	 	052	Lee County	052	Lee County	0.80	52-682	52-669	90	R							X						04/03/2009
+749364	  52	00696	     	52-696	Flower Gap Rd	052	Lee County	052	Lee County	0.02	Tennessee State Line	52-600 Flower Gap Rd	190	R							X						10/22/2008
+749365	  52	00697	     	52-697	 	052	Lee County	052	Lee County	0.22	US 58	52-672	400	R							X						04/03/2009
+749366	  52	00698	     	52-698	Cowans Mill Rd	052	Lee County	052	Lee County	0.73	Dead End	US 58 Daniel Boone Trail	110	R							X						11/19/2008
+749367	  52	00698	     	52-698	Calway Rd	052	Lee County	052	Lee County	0.30	US 58 Daniel Boone Trail	52-684 Chadwell Station Rd	140	R							X						11/19/2008
+749368	  52	00699	     	52-699	Machine Branch Rd	052	Lee County	052	Lee County	1.64	Dead End	1.64 MN Dead End	160	R							X						11/10/2008
+749369	  52	00699	     	52-699	Machine Branch Rd	052	Lee County	052	Lee County	0.46	1.64 MN Dead End	US 58 Daniel Boone Trail	430	R							X						11/10/2008
+749370	  52	00700	     	52-700	Bolinskie Dr	052	Lee County	052	Lee County	0.04	Dead End	Alt US 58	70	R							X						05/12/2009
+749371	  52	00701	     	52-701	Stillhouse Hollow Rd	052	Lee County	052	Lee County	0.09	Alt US 58	Dead End	40	R							X						05/12/2009
+749372	  52	00702	     	52-702	Rhea Rasnic Rd	052	Lee County	052	Lee County	0.95	US 58 SOUTH	US 58 NORTH	150	R							X						10/23/2008
+749373	  52	00703	     	52-703	 	052	Lee County	052	Lee County	0.02	US 58	Dead End	0	?							X
+749374	  52	00704	     	52-704	Castle Rd	052	Lee County	052	Lee County	0.02	Dead End	US 58 EAST	10	R							X						10/23/2008
+749375	  52	00704	     	52-704	Castle Rd	052	Lee County	052	Lee County	0.30	US 58 WEST	Dead End	10	R							X						10/23/2008
+749376	  52	00705	     	52-705	Eversole Rd	052	Lee County	052	Lee County	0.20	US 421	Dead End	9	R							X						01/06/2009
+749377	  52	00706	     	52-706	Kentucky Rd	281	Town of Pennington Gap	052	Lee County	0.67	Alt US 58 ; 52-1111	US 421	2800	R							X						01/29/2009
+787455	  52	00706	     	52-706	Fairground St	281	Town of Pennington Gap	052	Lee County	0.08	US 421	Dead End	60	R							X						01/29/2009
+749378	  52	00707	     	52-707	Patriots Rd	052	Lee County	052	Lee County	0.86	Dead End	52-684 Chadwell Station Rd	130	R							X						11/13/2009
+749379	  52	00708	     	52-708	Seminary Rd	052	Lee County	052	Lee County	0.80	52-622	52-805	60	R							X						05/12/2009
+749380	  52	00708	     	52-708	Seminary Rd	052	Lee County	052	Lee County	0.10	52-805	0.10 MS 52-805	90	R							X						05/12/2009
+749381	  52	00708	     	52-708	Seminary Rd	052	Lee County	052	Lee County	0.40	0.10 MS 52-805	Alt US 58	400	R							X						05/12/2009
+749382	  52	00709	     	52-709	Belle Meadows Rd	052	Lee County	052	Lee County	0.35	Alt US 58 SOUTH	Alt US 58 NORTH	49	R							X						05/12/2009
+749383	  52	00710	     	52-710	Bethany Rd	052	Lee County	052	Lee County	0.37	Dead End	0.37 MN Dead End	90	R							X						11/13/2008
+749384	  52	00710	     	52-710	Bethany Rd	052	Lee County	052	Lee County	0.79	0.37 MN Dead End	US 58 Daniel Boone Trail	260	R							X						11/13/2008
+749385	  52	00711	     	52-711	 	052	Lee County	052	Lee County	0.16	US 421 WEST	US 421 EAST	70	R							X						01/29/2009
+749386	  52	00712	     	52-712	 	052	Lee County	052	Lee County	2.12	52-765	US 421	100	R							X						03/31/2009
+749387	  52	00713	     	52-713	 	052	Lee County	052	Lee County	0.40	US 421	US 421	40	R							X						03/31/2009
+749388	  52	00714	     	52-714	 	052	Lee County	052	Lee County	0.40	Dead End	US 421	30	R							X						03/31/2009
+749389	  52	00715	     	52-715	 	052	Lee County	052	Lee County	0.28	Dead End	Alt US 58	46	R							X						03/31/2009
+749390	  52	00716	     	52-716	Eagle Ridge Rd	052	Lee County	052	Lee County	0.33	Alt US 58 WEST	Alt US 58 E; 52-659	90	R							X						03/11/2009
+749391	  52	00717	     	52-717	 	052	Lee County	052	Lee County	0.11	Dead End	52-634	120	R							X						03/31/2009
+749392	  52	00718	     	52-718	 	052	Lee County	052	Lee County	0.10	Dead End	Alt US 58	20	R							X						03/11/2009
+749393	  52	00719	     	52-719	Glenda Eldridge Dr	052	Lee County	052	Lee County	0.02	52-647 Millers Chapel Rd	Dead End	20	R							X						05/26/2009
+749191	  52	00720	     	52-720	Big Rock Rd	293	Town of St. Charles	052	Lee County	0.12	SR 352	SCL Saint Charles	110	R							X						01/29/2009
+785138	  52	00720	     	52-720	Big Rock Rd	052	Lee County	052	Lee County	1.05	SCL Saint Charles	52-949	110	N							X				0	N	01/29/2009
+793610	  52	00720	     	52-720	 	052	Lee County	052	Lee County	1.87	52-949	52-606	80	R							X						01/29/2009
+749396	  52	00721	     	52-721	Combs Rd	052	Lee County	052	Lee County	0.10	Dead End	WCL Pennington Gap	2400	R							X						02/11/2009
+785140	  52	00721	     	52-721	 	281	Town of Pennington Gap	052	Lee County	0.11	WCL Pennington Gap	Alt US 58	2400	N							X				0	N	02/11/2009
+749397	  52	00722	     	52-722	Klondike Rd	052	Lee County	052	Lee County	2.22	Dead End	52-619 Love Lady Gap Rd	70	R							X						11/06/2008
+749398	  52	00723	     	52-723	 	052	Lee County	052	Lee County	0.68	Dead End	52-639	50	R							X						03/31/2009
+749399	  52	00723	     	52-723	 	052	Lee County	052	Lee County	0.60	52-639	52-641 Cooney Hollow Rd	190	R							X						03/31/2009
+749400	  52	00724	     	52-724	Sand Cave Rd	052	Lee County	052	Lee County	0.19	US 58	52-810 S, Red Clover Loop	1100	R							X						12/09/2008
+749401	  52	00724	     	52-724	Sand Cave Rd	052	Lee County	052	Lee County	0.12	52-810 S, Red Clover Loop	52-810 N, Red Clover Loop	990	R							X						12/09/2008
+749402	  52	00724	     	52-724	Sand Cave Rd	052	Lee County	052	Lee County	0.43	52-810 N, Red Clover Loop	52-860 Boone Tabernacle Rd	900	R							X						12/09/2008
+749403	  52	00724	     	52-724	Sand Cave Rd	052	Lee County	052	Lee County	0.24	52-860 Boone Tabernacle Rd	Dead End	50	R							X						12/09/2008
+749404	  52	00725	     	52-725	School House Ridge Rd	052	Lee County	052	Lee County	0.60	SR 352	SR 352	80	R							X						03/31/2009
+749405	  52	00726	     	52-726	School House Ridge Rd	052	Lee County	052	Lee County	0.24	52-629 Possum Valley Rd	Alt US 58 WEST	200	R							X						05/14/2009
+749406	  52	00726	     	52-726	School House Ridge Rd	052	Lee County	052	Lee County	0.03	Alt US 58 EAST	52-9226 NORTH	1000	R							X						05/14/2009
+749407	  52	00726	     	52-726	School House Ridge Rd	052	Lee County	052	Lee County	0.70	52-9226 NORTH	52-870 Lewis Heights Rd	940	R							X						05/14/2009
+749408	  52	00726	     	52-726	School House Ridge Rd	052	Lee County	052	Lee County	1.08	52-870 Lewis Heights Rd	52-621	110	R							X						05/14/2009
+749409	  52	00727	     	52-727	Disney Loop	052	Lee County	052	Lee County	0.50	Alt US 58	Alt US 58	70	R							X						05/12/2009
+749410	  52	00728	     	52-728	Tritt Rd	052	Lee County	052	Lee County	0.12	Alt US 58	Cul-de-Sac	90	R							X						05/12/2009
+749411	  52	00729	     	52-729	Warriors Path Rd	052	Lee County	052	Lee County	0.50	52-691	US 58 Daniel Boone Trail	160	R							X						11/10/2008
+749412	  52	00730	     	52-730	 	052	Lee County	052	Lee County	1.25	Dead End	52-662	40	R							X						03/31/2009
+749413	  52	00731	     	52-731	 	052	Lee County	052	Lee County	0.29	Dead End	52-682	30	R							X						03/31/2009
+749414	  52	00732	     	52-732	 	052	Lee County	052	Lee County	0.41	52-926	52-927	80	R							X						04/04/2009
+749415	  52	00733	     	52-733	Deep Springs Rd	052	Lee County	052	Lee County	0.26	Dead End	Alt US 58	70	R							X						05/14/2009
+749416	  52	00734	     	52-734	 	052	Lee County	052	Lee County	0.45	Dead End	US 58	70	R							X						04/03/2009
+749417	  52	00735	     	52-735	Mink Hollow Rd	052	Lee County	052	Lee County	0.10	Dead End	0.10 MN Dead End	40	R							X						11/19/2008
+749418	  52	00735	     	52-735	 	052	Lee County	052	Lee County	0.30	0.10 MN Dead End	52-690 Kesterson Rd	40	R							X						11/19/2008
+749419	  52	00736	     	52-736	Castene Rd	052	Lee County	052	Lee County	0.80	Dead End	52-687 Frog Level Rd	46	R							X						12/02/2008
+403114	  52	00737	     	52-737	Troy Litton Rd	052	Lee County	052	Lee County	0.03	52-619 Orr Rd	Alt US 58	47	G	99%	1%	1%	0%	0%	0%	C	0.1667	F	0.6000	50	G	2009
+749420	  52	00738	     	52-738	 	052	Lee County	052	Lee County	0.04	US 58	52-837 Dry Creek Rd	580	R							X						10/23/2008
+749421	  52	00738	     	52-738	 	052	Lee County	052	Lee County	3.07	52-837 Dry Creek Rd	52-611 Jasper Rd; Hippie Hollow Rd	540	R							X						11/04/2008
+749422	  52	00739	     	52-739	Tan Bark Ridge Rd	052	Lee County	052	Lee County	1.08	52-783 Cooney Hollow Rd	1.08 ME 52-783	30	R							X						03/13/2009
+749423	  52	00739	     	52-739	Tan Bark Ridge Rd	052	Lee County	052	Lee County	1.22	1.08 ME 52-783	52-617	40	R							X						03/13/2009
+749424	  52	00740	     	52-740	 	052	Lee County	052	Lee County	0.09	US 421	US 421	60	R							X						01/27/2009
+749425	  52	00741	     	52-741	 	052	Lee County	052	Lee County	1.20	Dead End	US 421	130	R							X						03/31/2009
+749426	  52	00742	     	52-742	Rock Lick Rd	052	Lee County	052	Lee County	0.05	52-606	0.05 MN 52-606	90	R							X						05/12/2009
+749427	  52	00742	     	52-742	Rock Line Rd	052	Lee County	052	Lee County	1.45	0.05 MN 52-606	Dead End	70	R							X						05/12/2009
+749428	  52	00743	     	52-743	 	052	Lee County	052	Lee County	1.52	52-642	52-629 Possum Valley Rd	140	R							X						03/31/2009
+403115	  52	00744	     	52-744	Willow Tree Rd	052	Lee County	052	Lee County	1.75	Tennessee State Line	52-858 Ely Hollow Rd	310	G	99%	0%	1%	0%	0%	0%	F	0.1004	F	0.5362	330	G	2009
+403116	  52	00744	     	52-744	Willow Tree Rd	052	Lee County	052	Lee County	0.75	52-858 Ely Hollow Rd	52-683	340	G	99%	0%	1%	0%	0%	0%	F	0.0991	F	0.5405	360	G	2009
+403117	  52	00744	     	52-744	Willow Tree Rd	052	Lee County	052	Lee County	1.20	52-683	US 58 Bus	530	G	99%	0%	1%	0%	0%	0%	C	0.0949	F	0.5556	560	G	2009
+749429	  52	00745	     	52-745	Mill Hollow Rd	052	Lee County	052	Lee County	0.34	US 58	52-647 Millers Chapel Rd	100	R							X						03/31/2009
+749430	  52	00746	     	52-746	 	052	Lee County	052	Lee County	0.50	Dead End	US 421	10	R							X						03/31/2009
+749431	  52	00747	     	52-747	 	052	Lee County	052	Lee County	0.10	Dead End	0.10 MN Dead End	30	R							X						03/31/2009
+749432	  52	00747	     	52-747	 	052	Lee County	052	Lee County	0.15	0.10 MN Dead End	US 58	160	R							X						03/31/2009
+749433	  52	00748	     	52-748	Thomas Hollow Rd	052	Lee County	052	Lee County	0.69	Dead End	Jefferson For Bndy	20	R							X						05/21/2009
+749434	  52	00748	     	52-748	Thomas Hollow Rd	052	Lee County	052	Lee County	0.24	Jefferson Forest Bndy	52-606	80	R							X						05/21/2009
+749435	  52	00749	     	52-749	 	052	Lee County	052	Lee County	0.03	Dead End	US 58	320	R							X						03/31/2009
+749436	  52	00749	     	52-749	 	052	Lee County	052	Lee County	0.15	US 58	52-799	800	R							X						03/31/2009
+749437	  52	00749	     	52-749	 	052	Lee County	052	Lee County	0.02	US 58 Daniel Boone Trail	52-908	110	R							X						03/31/2009
+749438	  52	00750	     	52-750	 	052	Lee County	052	Lee County	0.03	Dead End	52-885	120	R							X						04/03/2009
+749439	  52	00750	     	52-750	 	052	Lee County	052	Lee County	0.13	52-885	52-629 Possum Valley Rd	660	R							X						04/03/2009
+749440	  52	00751	     	52-751	Stoney Lonesome Rd	052	Lee County	052	Lee County	0.45	Dead End	52-606	100	R							X						05/21/2009
+749441	  52	00752	     	52-752	Powell River Rd	052	Lee County	052	Lee County	1.07	Alt US 58	Dead End	330	R							X						11/10/2008
+749442	  52	00753	     	52-753	Sturgill Rd	052	Lee County	052	Lee County	1.53	Alt US 58	Alt US 58	150	R							X						05/14/2009
+749443	  52	00754	     	52-754	 	052	Lee County	052	Lee County	0.55	Dead End	52-765	140	R							X						04/03/2009
+749444	  52	00755	     	52-755	Johnny Martin Rd	052	Lee County	052	Lee County	0.70	52-612	Dead End	47	R							X						03/13/2009
+749446	  52	00757	     	52-757	 	052	Lee County	052	Lee County	0.50	Dead End	52-674	40	R							X						04/03/2009
+749447	  52	00758	     	52-758	Flannery Ridge Rd	052	Lee County	052	Lee County	1.60	Tennessee State Line	52-613	270	R							X						05/05/2009
+749448	  52	00758	     	52-758	Flannery Ridge Rd	052	Lee County	052	Lee County	1.40	52-613	52-679	290	R							X						05/05/2009
+403118	  52	00758	     	52-758	Flanary Bridge Rd	052	Lee County	052	Lee County	0.90	52-679 Beech Grove Rd	52-665 Mt Moriah Rd	330	G	92%	2%	3%	2%	1%	0%	F	0.1231	F	0.5158	340	G	2009
+403119	  52	00758	     	52-758	Flanary Bridge Rd	052	Lee County	052	Lee County	1.45	52-665 Mt Moriah Rd	52-662 Tobacco Rd; Curt Russell Rd	490	G	92%	2%	3%	2%	1%	0%	F	0.0970	F	0.6034	510	G	2009
+403120	  52	00758	     	52-758	Flanary Bridge Rd	052	Lee County	052	Lee County	1.79	52-662 Tobacco Rd; Curt Russell Rd	52-661 Flatwoods Rd	440	G	92%	2%	3%	2%	1%	0%	F	0.1181	F	0.5913	460	G	2009
+403121	  52	00758	     	52-758	Flanary Bridge Rd	052	Lee County	052	Lee County	0.13	52-661 Flatwoods Rd	US 58	1300	G	92%	2%	3%	2%	1%	0%	C	0.1591	F	0.5411	1400	G	2009
+749449	  52	00759	     	52-759	Pea Speaks Rd	052	Lee County	052	Lee County	1.00	52-676 Lamb Hollow Rd	Dead End	49	R							X						05/07/2009
+749450	  52	00760	     	52-760	Paris Rd	052	Lee County	052	Lee County	0.17	Dead End	Alt US 58	40	R							X						03/11/2009
+749451	  52	00760	     	52-760	Hines Hill Rd	052	Lee County	052	Lee County	0.31	Alt US 58	Dead End	130	R							X						03/11/2009
+749452	  52	00761	     	52-761	Thunder Rd	052	Lee County	052	Lee County	1.90	52-612 WEST	52-612 EAST	70	R							X						03/13/2009
+749453	  52	00762	     	52-762	 	052	Lee County	052	Lee County	0.50	Dead End	52-612 Kane Gap Rd	3	R							X						11/04/2008
+749454	  52	00763	     	52-763	 	052	Lee County	052	Lee County	0.80	52-709 Belle Meadows Rd	Dead End	60	R							X						04/03/2009
+749455	  52	00764	     	52-764	Johnson Rd	281	Town of Pennington Gap	052	Lee County	0.66	US 421	52-1104 Anderson St	760	R							X						01/12/2009
+749456	  52	00764	     	52-764	Johnson Rd	281	Town of Pennington Gap	052	Lee County	0.20	52-1104 Anderson St	52-1114 Forest Ave	630	R							X						01/12/2009
+749457	  52	00764	     	52-764	Johnson Rd	281	Town of Pennington Gap	052	Lee County	0.26	52-1114 Forest Ave	52-706 Kentucky Rd	530	R							X						01/12/2009
+749458	  52	00765	     	52-765	 	052	Lee County	052	Lee County	0.74	US 421	52-712	180	R							X						04/03/2009
+749459	  52	00765	     	52-765	 	052	Lee County	052	Lee County	2.40	52-712	52-754	110	R							X						04/03/2009
+749460	  52	00765	     	52-765	 	052	Lee County	052	Lee County	1.80	52-754	SR 352	440	R							X						04/03/2009
+749461	  52	00766	     	52-766	Meadows Fork Rd	052	Lee County	052	Lee County	3.78	52-628 Reeds Creek Rd	52-606	100	R							X						05/21/2009
+749462	  52	00767	     	52-767	Cave Springs Rd	052	Lee County	052	Lee County	0.60	Alt US 58	52-621	630	R							X						05/14/2009
+749463	  52	00768	     	52-768	Glass Hollow Rd	052	Lee County	052	Lee County	0.30	52-602 Hickory Hill Rd	Dead End	20	R							X						10/23/2008
+749464	  52	00769	     	52-769	 	052	Lee County	052	Lee County	0.60	Dead End	52-682	60	R							X						04/03/2009
+749465	  52	00770	     	52-770	 	052	Lee County	052	Lee County	0.70	52-687 Frog Level Rd	Dead End	30	R							X						12/02/2008
+749466	  52	00771	     	52-771	Green Leaf Rd	052	Lee County	052	Lee County	1.50	52-653 Maple Hill Rd	52-652 Campground Rd	60	R							X						12/09/2008
+749467	  52	00772	     	52-772	Norman Middleton Rd	052	Lee County	052	Lee County	0.80	Dead End	52-642 Fannon Rd	70	R							X						12/18/2008
+749468	  52	00773	     	52-773	Kelly Coomer Rd	052	Lee County	052	Lee County	0.40	Alt US 58	Dead End	50	R							X						05/12/2008
+749469	  52	00774	     	52-774	Wind Gushed Rd	052	Lee County	052	Lee County	0.70	52-617	Dead End	46	R							X						03/13/2009
+749470	  52	00775	     	52-775	 	052	Lee County	052	Lee County	1.60	Dead End	52-673	160	R							X						04/14/2009
+749471	  52	00776	     	52-776	 	052	Lee County	052	Lee County	0.30	52-628 Reeds Creek Rd	52-878	30	R							X						04/14/2009
+749472	  52	00776	     	52-776	 	052	Lee County	052	Lee County	0.70	52-878	Dead End	20	R							X						04/14/2009
+749473	  52	00777	     	52-777	 	052	Lee County	052	Lee County	0.08	52-643	Dead End	20	R							X						04/14/2009
+749474	  52	00778	     	52-778	Sycamore Rd	052	Lee County	052	Lee County	0.28	Alt US 58	Dead End	160	R							X						11/06/2008
+749475	  52	00779	     	52-779	Clear Springs Rd	052	Lee County	052	Lee County	1.30	52-684	Dead End	80	R							X						12/02/2008
+749476	  52	00780	     	52-780	Hand Rd	052	Lee County	052	Lee County	1.40	52-641 Clawson Rd; Cox Rd	52-640	110	R							X						05/26/2009
+749477	  52	00781	     	52-781	Roy Cheek Rd	052	Lee County	052	Lee County	1.60	US 58 Daniel Boone Trail	52-783 Cooney Hollow Rd	270	R							X						05/21/2009
+749478	  52	00782	     	52-782	Burley Elkins Hollow Rd	052	Lee County	052	Lee County	0.50	52-612	0.50 MN 52-612	30	R							X						03/13/2009
+749479	  52	00782	     	52-782	Burley Elkins Hollow Rd	052	Lee County	052	Lee County	0.10	0.50 MN 52-612	Dead End	30	R							X						03/13/2009
+749480	  52	00783	     	52-783	Cooney Hollow Rd	052	Lee County	052	Lee County	0.38	SR 70	52-739 Tan Bark Ridge Rd	140	R							X						05/21/2009
+749481	  52	00783	     	52-783	Cooney Hollow Rd	052	Lee County	052	Lee County	1.58	52-739 Tan Bark Ridge Rd	52-641 Cooney Hollow Rd	100	R							X						05/21/2009
+749482	  52	00783	     	52-783	Cooney Hollow Rd	052	Lee County	052	Lee County	1.00	52-641 Cooney Hollow Rd	52-781 Roy Cheek Rd	47	R							X						05/21/2009
+749483	  52	00783	     	52-783	Cooney Hollow Rd	052	Lee County	052	Lee County	0.15	52-781 Roy Cheek Rd	0.15 MN 52-781	60	R							X						05/21/2009
+749484	  52	00783	     	52-783	Cooney Hollow Rd	052	Lee County	052	Lee County	1.14	0.15 MN 52-781	US 58 Daniel Boone Trail	120	R							X						05/21/2009
+749485	  52	00784	     	52-784	Eldridge Hollow Rd	052	Lee County	052	Lee County	0.80	Dead End	52-600 Flower Gap Rd	20	R							X						10/22/2008
+749486	  52	00785	     	52-785	Elk Knob Rd	052	Lee County	052	Lee County	0.25	US 421 WEST	52-642	400	R							X						12/18/2008
+749487	  52	00785	     	52-785	Elk Knob Rd	052	Lee County	052	Lee County	0.05	52-642	52-807 Ben Lawson Dr	720	R							X						12/18/2008
+749488	  52	00785	     	52-785	Elk Knob Rd	052	Lee County	052	Lee County	1.15	52-807 Ben Lawson Dr	US 421 EAST	230	R							X						12/18/2008
+749489	  52	00786	     	52-786	Sleepy Hollow Rd	052	Lee County	052	Lee County	0.21	Dead End	52-606	40	R							X						05/21/2009
+749490	  52	00787	     	52-787	Murphy Hobbs Rd	052	Lee County	052	Lee County	0.40	Dead End	52-619	70	R							X						01/27/2009
+749491	  52	00788	     	52-788	 	052	Lee County	052	Lee County	0.13	52-621	Dead End	180	R							X						04/14/2009
+749492	  52	00789	     	52-789	 	052	Lee County	052	Lee County	0.60	Dead End	52-621 Left Poor Valley Rd	90	R							X						04/14/2009
+749493	  52	00790	     	52-790	 	052	Lee County	052	Lee County	0.40	52-658 Cedar Hill Rd	52-831	40	R							X						04/14/2009
+749494	  52	00790	     	52-790	 	052	Lee County	052	Lee County	1.35	52-831	52-946 Burning Well Rd	100	R							X						04/14/2009
+749495	  52	00791	     	52-791	Cecil Orr Rd	052	Lee County	052	Lee County	0.57	US 58 Daniel Boone Trail	US 58 Daniel Boone Trail	110	R							X						05/21/2009
+749496	  52	00792	     	52-792	Woliver Rd	052	Lee County	052	Lee County	0.50	US 58 W, Daniel Boone Trail	US 58 E, Daniel Boone Trail	80	R							X						03/13/2009
+749497	  52	00793	     	52-793	 	052	Lee County	052	Lee County	0.10	Dead End	52-792 Woliver Rd	6	R							X						03/13/2009
+749498	  52	00794	     	52-794	 	052	Lee County	052	Lee County	0.30	52-766 Meadows Fork Rd	Dead End	30	R							X						04/14/2009
+749499	  52	00795	     	52-795	 	052	Lee County	052	Lee County	0.02	Dead End	SR 352	90	R							X						05/14/2009
+749500	  52	00796	     	52-796	Dalton Gap Rd	052	Lee County	052	Lee County	0.10	52-621	Dead End	60	R							X						05/12/2009
+749501	  52	00797	     	52-797	 	052	Lee County	052	Lee County	2.00	52-673	Kentucky State Line	30	R							X						04/16/2009
+749502	  52	00798	     	52-798	 	052	Lee County	052	Lee County	0.30	Dead End	52-642	20	R							X						04/16/2009
+749503	  52	00799	     	52-799	 	052	Lee County	052	Lee County	0.10	Dead End	52-749	110	R							X						04/16/2009
+749504	  52	00799	     	52-799	 	052	Lee County	052	Lee County	0.40	52-749	52-673	370	R							X						04/16/2009
+749505	  52	00800	     	52-800	Dinsmore Rd	052	Lee County	052	Lee County	0.30	52-629; 52-838	52-726 School House Ridge Rd	180	R							X						04/16/2009
+749506	  52	00801	     	52-801	 	052	Lee County	052	Lee County	0.01	SR 352	Dead End	20	R							X						01/29/2009
+749507	  52	00802	     	52-802	 	052	Lee County	052	Lee County	0.10	US 58	Dead End	210	R							X						04/16/2009
+749508	  52	00803	     	52-803	Doc Olinger Rd	052	Lee County	052	Lee County	0.02	52-621	0.02 MN 52-621	140	R							X						05/12/2009
+749509	  52	00803	     	52-803	Doc  Olinger Rd	052	Lee County	052	Lee County	0.48	0.02 MN 52-621	Dead End	70	R							X						05/12/2009
+749510	  52	00804	     	52-804	 	052	Lee County	052	Lee County	0.20	52-765	Dead End	880	R							X						04/16/2009
+749511	  52	00805	     	52-805	 	052	Lee County	052	Lee County	0.40	52-708 Seminary Rd	Dead End	40	R							X						04/16/2009
+749512	  52	00806	     	52-806	Yearly Hollow Rd	052	Lee County	052	Lee County	0.20	52-684 Holiness Hollow Rd	Dead End	40	R							X						12/02/2009
+749513	  52	00807	     	52-807	Ben Lawson Dr	052	Lee County	052	Lee County	0.10	52-785 Elk Knob Rd	Dead End	120	R							X						12/18/2009
+749514	  52	00809	     	52-809	Blair Rd	052	Lee County	052	Lee County	0.40	Dead End	Alt US 58	47	R							X						05/12/2009
+749515	  52	00810	     	52-810	Red Clover Loop	052	Lee County	052	Lee County	0.18	52-724 Sand Cave Rd	52-724 Sand Cave Rd	70	R							X						12/09/2009
+749516	  52	00811	     	52-811	Beaver Brook Rd	052	Lee County	052	Lee County	0.49	Dead End	US 58 Daniel Boone Trail	110	R							X						11/10/2008
+749517	  52	00812	     	52-812	 	052	Lee County	052	Lee County	0.30	Dead End	52-765	70	R							X						04/16/2009
+749518	  52	00813	     	52-813	Basswood Rd	052	Lee County	052	Lee County	0.33	52-670 Hennagar Town Rd	Dead End	30	R							X						05/07/2009
+749519	  52	00814	     	52-814	 	052	Lee County	052	Lee County	0.02	52-664 Boones Path Rd	US 58	140	R							X						04/16/2009
+781952	  52	00814	     	52-814	 	052	Lee County	052	Lee County	0.08	US 58	Dead End	120	R							X						04/21/2009
+749520	  52	00815	     	52-815	 	052	Lee County	052	Lee County	0.14	Dead End	US 58	5	R							X						04/21/2009
+749521	  52	00816	     	52-816	Mande Harless Rd	052	Lee County	052	Lee County	0.20	Dead End	52-702 Rhea Rasnic Rd	70	R							X						10/23/2008
+749522	  52	00817	     	52-817	 	052	Lee County	052	Lee County	0.40	Dead End	52-611 Jasper Rd	120	R							X						04/21/2009
+749523	  52	00818	     	52-818	 	052	Lee County	052	Lee County	0.20	52-621 Left Poor Valley Rd	Dead End	30	R							X						04/21/2009
+749524	  52	00819	     	52-819	 	052	Lee County	052	Lee County	0.40	52-671	Dead End	49	R							X						04/21/2009
+749525	  52	00820	     	52-820	 	052	Lee County	052	Lee County	0.60	52-657	Dead End	120	R							X						04/16/2009
+749526	  52	00821	     	52-821	Seabolt Rd	052	Lee County	052	Lee County	0.20	Dead End	SR 70	9	R							X						03/13/2009
+749527	  52	00822	     	52-822	Violas Flanary Dr	052	Lee County	052	Lee County	0.10	52-619	Dead End	10	R							X						05/14/2009
+749528	  52	00823	     	52-823	Lambert Hollow Rd	052	Lee County	052	Lee County	0.60	52-612	Dead End	40	R							X						03/11/2009
+749529	  52	00824	     	52-824	 	052	Lee County	052	Lee County	0.15	US 23	52-863	290	R							X						04/16/2009
+749530	  52	00824	     	52-824	 	052	Lee County	052	Lee County	0.44	52-863	Dead End	110	R							X						04/16/2009
+749531	  52	00825	     	52-825	Hobbs Rd	052	Lee County	052	Lee County	0.08	Dead End	52-621 Wampler Hollow Rd	30	R							X						05/12/2009
+749532	  52	00826	     	52-826	Rasnic Hollow Rd	052	Lee County	052	Lee County	0.90	52-612	Dead End	110	R							X						03/11/2009
+749533	  52	00827	     	52-827	Lee Rd	052	Lee County	052	Lee County	0.20	52-690 Caylor Rd	Dead End	100	R							X						11/13/2008
+749534	  52	00828	     	52-828	Baileys Pond Rd	052	Lee County	052	Lee County	0.18	52-726 School House Ridge Rd	Dead End	130	R							X						05/14/2009
+749535	  52	00829	     	52-829	Tomlinson Rd	052	Lee County	052	Lee County	0.30	Alt US 58	0.30 MN Alt US 58	140	R							X						05/14/2009
+749536	  52	00829	     	52-829	Tomlinson Rd	052	Lee County	052	Lee County	0.10	0.30 MN Alt US 58	Dead End	100	R							X						05/14/2009
+749537	  52	00830	     	52-830	Ridgeview Rd	052	Lee County	052	Lee County	0.50	52-614 Sandy Ridge Rd	52-648 Town Branch Rd	440	R							X						02/17/2009
+749538	  52	00831	     	52-831	 	052	Lee County	052	Lee County	0.30	52-790	Dead End	40	R							X						04/16/2009
+749539	  52	00832	     	52-832	 	052	Lee County	052	Lee County	0.30	52-613	Dead End	10	R							X						04/16/2009
+749540	  52	00833	     	52-833	 	052	Lee County	052	Lee County	1.73	52-679	52-661	180	R							X						04/16/2009
+749541	  52	00834	     	52-834	 	052	Lee County	052	Lee County	0.71	Dead End	52-661	40	R							X						04/21/2009
+749542	  52	00835	     	52-835	 	052	Lee County	052	Lee County	0.30	52-833	Dead End	20	R							X						04/21/2009
+749543	  52	00836	     	52-836	Bellevue Rd	052	Lee County	052	Lee County	0.44	US 58	US 58	70	R							X						12/04/2008
+749544	  52	00837	     	52-837	Dry Creek Rd	052	Lee County	052	Lee County	0.07	US 58	52-738	190	R							X						10/23/2008
+749545	  52	00838	     	52-838	 	052	Lee County	052	Lee County	0.10	52-629; 52-800	Dead End	490	R							X						04/21/2008
+749546	  52	00839	     	52-839	Covenant Church Rd	052	Lee County	052	Lee County	0.50	52-612	Dead End	70	R							X						03/11/2009
+749547	  52	00840	     	52-840	Rash Hollow Rd	052	Lee County	052	Lee County	0.67	52-612	Dead End	30	R							X						03/11/2009
+749548	  52	00841	     	52-841	 	052	Lee County	052	Lee County	0.10	US 58	Dead End	160	R							X						04/23/2009
+749549	  52	00842	     	52-842	George Jones Dr	052	Lee County	052	Lee County	0.10	US 58 Daniel Boone Trail	Dead End	80	R							X						05/21/2009
+749550	  52	00843	     	52-843	 	052	Lee County	052	Lee County	0.20	Dead End	52-620 Hen Reasor	30	R							X						04/23/2009
+749551	  52	00844	     	52-844	Old Hill Rd	052	Lee County	052	Lee County	0.30	Dead End	52-904	70	R							X						05/21/2009
+749552	  52	00845	     	52-845	Cave Springs Park Rd	052	Lee County	052	Lee County	0.32	52-621	Dead End	40	R							X						05/12/2009
+749553	  52	00846	     	52-846	 	052	Lee County	052	Lee County	0.30	Dead End	SR 70	10	R							X						10/23/2008
+749554	  52	00847	     	52-847	Marson Quillen Rd	052	Lee County	052	Lee County	0.75	Dead End	52-690 Kesterson Rd	46	R							X						05/09/2001
+749555	  52	00848	     	52-848	Peppy Sand Rd	052	Lee County	052	Lee County	0.10	52-604	Dead End	7	R							X						10/23/2008
+749556	  52	00849	     	52-849	Laster Rd	052	Lee County	052	Lee County	0.20	52-612 Kane Gap Rd	Dead End	9	R							X						11/04/2008
+749557	  52	00850	     	52-850	 	052	Lee County	052	Lee County	2.10	52-664 McClures Chapel Rd	52-661	110	R							X						04/23/2008
+749558	  52	00851	     	52-851	 	052	Lee County	052	Lee County	0.10	Tennessee State Line	52-683	20	R							X						04/23/2008
+749559	  52	00851	     	52-851	 	052	Lee County	052	Lee County	2.30	52-683	52-682	80	R							X						04/21/2009
+749560	  52	00852	     	52-852	 	052	Lee County	052	Lee County	1.70	52-680	52-677	130	R							X						04/21/2009
+749561	  52	00853	     	52-853	 	052	Lee County	052	Lee County	1.80	52-667	52-676 Lamb Hollow Rd	70	R							X						04/21/2009
+749562	  52	00854	     	52-854	 	052	Lee County	052	Lee County	1.29	52-661	Dead End; Gap	70	R							X						04/21/2009
+749563	  52	00854	     	52-854	 	052	Lee County	052	Lee County	0.55	Dead End; Gap	52-679	70	R							X						04/21/2009
+749564	  52	00855	     	52-855	 	052	Lee County	052	Lee County	1.60	52-667	52-661	180	R							X						04/23/2009
+749565	  52	00856	     	52-856	 	052	Lee County	052	Lee County	0.55	Dead End	52-758 Flannery Ridge Rd	60	R							X						04/23/2009
+749566	  52	00857	     	52-857	 	052	Lee County	052	Lee County	0.50	Dead End	52-672	40	R							X						04/23/2009
+749567	  52	00858	     	52-858	Ely Hollow Rd	052	Lee County	052	Lee County	0.30	Dead End	52-744	30	R							X						12/09/2008
+749568	  52	00859	     	52-859	Joe Bill Rd	052	Lee County	052	Lee County	0.13	Dead End	52-612	30	R							X						03/11/2009
+749569	  52	00860	     	52-860	Boone Tabernacle Rd	052	Lee County	052	Lee County	0.05	52-724 Sand Cave Rd	Dead End	130	R							X						12/09/2008
+749570	  52	00861	     	52-861	Ramey Rd	052	Lee County	052	Lee County	0.22	Dead End	52-630 Big Hill Rd	80	R							X						01/06/2009
+749571	  52	00862	     	52-862	 	052	Lee County	052	Lee County	0.50	Dead End	52-625 Sigma Rd	60	R							X						04/23/2009
+749572	  52	00863	     	52-863	 	052	Lee County	052	Lee County	0.30	52-824	Dead End	110	R							X						04/23/2009
+788215	  52	00864	     	52-864	Bus Shop Rd	245	Town of Jonesville	052	Lee County	0.07	SR 70 Trail of the Lonesome Pine	SCL Jonesville	570	R							X						02/17/2009
+788214	  52	00864	     	52-864	Bus Shop Rd	052	Lee County	052	Lee County	0.10	SCL Jonesville	SR 70 Old	470	R							X						02/17/2009
+749573	  52	00864	     	52-864	Bus Shop Rd	052	Lee County	052	Lee County	0.25	SR 70 Old	Dead End	590	R							X						02/17/2009
+749574	  52	00865	     	52-865	Head Hollow Rd	052	Lee County	052	Lee County	0.30	Dead End	52-612	20	R							X						03/11/2009
+749575	  52	00866	     	52-866	 	052	Lee County	052	Lee County	0.15	52-621 Left Poor Valley Rd	Dead End	30	R							X						04/23/2009
+749576	  52	00867	     	52-867	 	052	Lee County	052	Lee County	0.17	US 23	Wise County Line	120	R							X						04/23/2009
+749577	  52	00868	     	52-868	 	052	Lee County	052	Lee County	0.25	US 23 SOUTH	Dead End ; Gap	80	R							X						04/23/2009
+749578	  52	00868	     	52-868	 	052	Lee County	052	Lee County	0.16	Dead End ; Gap	US 23 NORTH	20	R							X						04/27/2009
+749579	  52	00869	     	52-869	Fisher Farm Rd	052	Lee County	052	Lee County	0.11	52-600 Flower Gap Rd	Dead End	40	R							X						10/22/2008
+749580	  52	00870	     	52-870	Lewis Heights Rd	052	Lee County	052	Lee County	0.16	Dead End	52-726 School House Ridge Rd	330	R							X						05/14/2009
+749581	  52	00871	     	52-871	Chapman Rd	052	Lee County	052	Lee County	0.36	Dead End	Alt US 58	190	R							X						05/14/2009
+749583	  52	00873	     	52-873	Cliff Ely Rd	052	Lee County	052	Lee County	0.14	52-606	Dead End	40	R							X						05/21/2009
+749584	  52	00874	     	52-874	 	052	Lee County	052	Lee County	0.30	52-679	Dead End	60	R							X						04/27/2009
+749585	  52	00875	     	52-875	 	052	Lee County	052	Lee County	0.10	52-611 Jasper Rd	Dead End	30	R							X						04/27/2009
+749586	  52	00876	     	52-876	 	052	Lee County	052	Lee County	0.91	52-623 Mohawk Loop	Dead End	80	R							X						04/27/2009
+749587	  52	00877	     	52-877	 	052	Lee County	052	Lee County	0.09	52-876	52-623 Mohawk Loop	40	R							X						04/27/2009
+749588	  52	00878	     	52-878	 	052	Lee County	052	Lee County	0.50	Dead End	52-776	10	R							X						04/27/2009
+788216	  52	00879	     	52-879	Pioneer Rd	052	Lee County	052	Lee County	0.10	US 58 Daniel Boone Trail	Bus US 58	60	R							X						12/16/2008
+749589	  52	00879	     	52-879	Pioneer Rd	052	Lee County	052	Lee County	0.20	Bus US 58	Dead End	70	R							X						12/09/2008
+749590	  52	00880	     	52-880	Red Fletcher Rd	052	Lee County	052	Lee County	1.24	US 58 W, Daniel Boone Heritage Hwy	52-657 EAST	210	R							X						05/05/2008
+403122	  52	00880	     	52-880	Rod Fletcher Rd	052	Lee County	052	Lee County	1.28	52-657 East Don Glass Rd	US 58 E, Daniel Boone Heritage Hwy	270	G	96%	0%	3%	1%	0%	0%	C	0.0978	F	0.5484	280	G	2009
+749591	  52	00881	     	52-881	Eagle Ridge Rd	052	Lee County	052	Lee County	0.12	Dead End	52-716 Eagle Ridge Rd	8	R							X						03/11/2009
+749592	  52	00882	     	52-882	Knob View Rd	052	Lee County	052	Lee County	0.20	52-638 Hickory Flats Rd	Dead End	110	R							X						12/18/2008
+749593	  52	00883	     	52-883	Shady Rd	052	Lee County	052	Lee County	0.18	52-647 Millers Chapel Rd	Dead End	70	R							X						03/11/2009
+782523	  52	00884	     	52-884	Whited Rd	052	Lee County	052	Lee County	0.15	Dead End	US 421	49	R							X						01/06/2009
+749594	  52	00885	     	52-885	 	052	Lee County	052	Lee County	0.05	52-750	Dead End	48	R							X						04/23/2009
+749595	  52	00886	     	52-886	 	293	Town of St. Charles	052	Lee County	0.11	52-888	52-636 Monarch Rd	40	R							X						04/23/2009
+749596	  52	00887	     	52-887	 	293	Town of St. Charles	052	Lee County	0.06	52-886	Dead End	70	R							X						04/23/2009
+749597	  52	00888	     	52-888	 	293	Town of St. Charles	052	Lee County	0.06	52-886	Dead End	140	R							X						04/23/2009
+749598	  52	00890	     	52-890	Kathy Blanton Rd	052	Lee County	052	Lee County	0.30	Dead End	US 421	70	R							X						12/18/2008
+749599	  52	00891	     	52-891	Hillary Dr	052	Lee County	052	Lee County	0.18	52-785 Elk Knob Rd	Dead End	60	R							X						01/06/2009
+749600	  52	00892	     	52-892	Horton Dr	052	Lee County	052	Lee County	0.28	US 58	WCL Jonesville	630	R							X						03/05/2009
+749601	  52	00893	     	52-893	Conley Hill Dr	052	Lee County	052	Lee County	0.25	Dead End	52-892 Horton Dr	80	R							X						03/05/2009
+749602	  52	00894	     	52-894	Porter Ray St	052	Lee County	052	Lee County	0.24	Dead End	52-892 Horton Dr	100	R							X						03/11/2009
+784145	  52	00894	     	52-894	Ola Dr	052	Lee County	052	Lee County	0.14	52-892 Horton Dr	WCL Jonesville	120	R							X						03/11/2009
+749603	  52	00895	     	52-895	 	052	Lee County	052	Lee County	0.09	52-830 Ridgeview Rd	Dead End	40	R							X						02/17/2009
+782524	  52	00896	     	52-896	 	052	Lee County	052	Lee County	0.42	Dead End	52-663 Cedar Creek Church Rd	70	R							X						04/23/2009
+784146	  52	00897	     	52-897	Grand View Dr	052	Lee County	052	Lee County	0.35	52-684 Chadwell Station Rd	Dead End	60	R							X						11/19/2008
+749604	  52	00898	     	52-898	 	052	Lee County	052	Lee County	0.08	Dead End	52-879 Pioneer Rd	40	R							X						12/16/2008
+403123	  52	00899	     	52-899	Beech Springs Rd	052	Lee County	052	Lee County	0.75	US 58 W, Daniel Boone Heritage Hwy	52-659 Sugar Run Rd	140	G	91%	0%	5%	1%	3%	0%	C	0.1375	F	0.7273	150	G	2009
+749605	  52	00899	     	52-899	Beech Springs Rd	052	Lee County	052	Lee County	0.51	52-659 Sugar Run Rd	US 58 E, Daniel Boone Heritage Hwy	130	R							X						04/17/2001
+749606	  52	00900	     	52-900	 	052	Lee County	052	Lee County	0.17	Dead End	US 23	180	R							X						04/23/2009
+749607	  52	00901	     	52-901	 	052	Lee County	052	Lee County	0.40	52-900	Dead End	150	R							X						04/23/2009
+787881	  52	00903	     	52-903	White Castle Rd	052	Lee County	052	Lee County	0.05	52-724 Sand Cave Rd	Dead End	60	R							X						12/09/2008
+784147	  52	00904	     	52-904	Shepard Hill Rd	052	Lee County	052	Lee County	0.79	52-606 West	52-606 East	40	G	90%	0%	10%	0%	0%	0%	C	0.2105	F	0.6250	40	G	2009
+749608	  52	00905	     	52-905	 	052	Lee County	052	Lee County	0.10	52-802	Dead End	40	R							X						04/27/2009
+787882	  52	00906	     	52-906	 	052	Lee County	052	Lee County	0.23	Bus US 58	Dead End	48	R							X						04/27/2009
+787883	  52	00907	     	52-907	Loretta Rouse Rd	052	Lee County	052	Lee County	0.03	Bus US 58	US 58 Daniel Boone Trail	190	R							X						12/16/2008
+787884	  52	00908	     	52-908	 	052	Lee County	052	Lee County	0.55	US 58 Daniel Boone Trail	Dead End	140	R							X						04/29/2009
+787885	  52	00909	     	52-909	 	052	Lee County	052	Lee County	0.08	Bus US 58	52-908	30	R							X						04/27/2009
+749609	  52	00910	     	52-910	 	052	Lee County	052	Lee County	0.40	Dead End	52-708 Seminary Rd	160	R							X						04/27/2009
+787886	  52	00911	     	52-911	 	052	Lee County	052	Lee County	0.07	Bus US 58	US 58 Daniel Boone Trail	110	R							X						04/27/2009
+785379	  52	00912	     	52-912	 	052	Lee County	052	Lee County	0.32	US 58 W, Daniel Boone Trail	US 58 E, Daniel Boone Trail	270	R							X						04/23/2009
+784148	  52	00913	     	52-913	 	052	Lee County	052	Lee County	0.06	52-748 Thomas Hollow Rd	Dead End	80	R							X						04/23/2009
+793140	  52	00914	     	52-914	 	052	Lee County	052	Lee County	0.17	52-802	52-841	0	?							X
+749610	  52	00915	     	52-915	Oak Ridge Rd	052	Lee County	052	Lee County	1.13	US 58 WEST	52-704 Castle Rd	100	R							X						10/23/2008
+749611	  52	00915	     	52-915	Oak Ridge Rd	052	Lee County	052	Lee County	0.23	52-704 Castle Rd	52-703	90	R							X						10/23/2008
+749612	  52	00915	     	52-915	Oak Ridge Rd	052	Lee County	052	Lee County	0.56	52-703	US 58 EAST	90	R							X						10/23/2008
+792441	  52	00919	     	52-919	Hoover Hill Rd	052	Lee County	052	Lee County	1.12	52-606 WEST	52-606 EAST	140	R							X						05/21/2009
+749613	  52	00920	     	52-920	Blue Gray Rd	052	Lee County	052	Lee County	0.11	Dead End	US 58; 52-9222 EAST	80	R							X						12/16/2008
+786458	  52	00923	     	52-923	Martin Station Trail	052	Lee County	052	Lee County	0.57	US 58 Daniel Boone Trail	Cul-de-Sac	46	R							X						11/10/2008
+749614	  52	00925	     	52-925	Cain Creek Rd	052	Lee County	052	Lee County	0.24	52-643 Kelly Rd	Dead End	70	R							X						02/11/2009
+786459	  52	00926	     	52-926	 	052	Lee County	052	Lee County	0.61	US 58 Daniel Boone Trail	Cul-de-Sac	90	R							X						04/27/2009
+786460	  52	00927	     	52-927	 	052	Lee County	052	Lee County	0.05	52-926	US 58 Daniel Boone Trail	40	R							X						04/27/2009
+788677	  52	00928	     	52-928	 	052	Lee County	052	Lee County	0.08	Dead End	52-750	40	R							X						04/27/2009
+749615	  52	00930	     	52-930	Poteet Rd	052	Lee County	052	Lee County	0.25	Dead End	US 58 Daniel Boone Trail	320	R							X						05/21/2009
+749616	  52	00931	     	52-931	Fincastle Heights Rd	052	Lee County	052	Lee County	0.30	Dead End	52-930 Poteet Rd	110	R							X						05/21/2009
+784149	  52	00932	     	52-932	Woodlawn Dr	052	Lee County	052	Lee County	0.23	Dead End	52-931 Fincastle Heights Rd	100	R							X						05/21/2009
+786461	  52	00933	     	52-933	Sexson Rd	052	Lee County	052	Lee County	0.12	Dead End	52-931 Fincastle Heights Rd	90	R							X						05/21/2009
+749617	  52	00934	     	52-934	 	052	Lee County	052	Lee County	0.28	52-720 Big Rock Rd	Dead End	90	R							X						04/27/2009
+787887	  52	00935	     	52-935	Easy Dr	052	Lee County	052	Lee County	0.10	52-630 Big Hill Rd	Dead End	70	R							X						01/06/2009
+788678	  52	00937	     	52-937	 	052	Lee County	052	Lee County	0.12	Dead End	52-643 Ward Hill Rd	90	R							X						04/27/2009
+786462	  52	00938	     	52-938	Back Fields Loop	052	Lee County	052	Lee County	0.22	52-941	52-860 Boone Tabernacle Rd	46	R							X						12/09/2008
+794619	  52	00939	     	52-939	 	052	Lee County	052	Lee County	0.10	Dead End	52-623 Mohawk Loop	0	?							X
+749618	  52	00940	     	52-940	 	052	Lee County	052	Lee County	0.24	52-783 Cooney Hollow Rd	Dead End	90	R							X						04/29/2008
+790961	  52	00941	     	52-941	 	052	Lee County	052	Lee County	0.04	52-724 Sand Cave Rd	52-938 Back Fields Loop	40	R							X						12/09/2008
+790962	  52	00942	     	52-942	 	052	Lee County	052	Lee County	0.04	52-724 N, Sand Cave Rd	52-938 Back Fields Loop	46	R							X						12/09/2008
+786463	  52	00944	     	52-944	 	052	Lee County	052	Lee County	0.25	Bus US 58	Dead End	140	R							X						04/29/2009
+749619	  52	00945	     	52-945	 	052	Lee County	052	Lee County	0.03	Dead End	US 58	40	R							X						04/29/2009
+792440	  52	00946	     	52-946	Burning Well Rd	052	Lee County	052	Lee County	2.77	US 58 W, Daniel Boone Heritage Hwy	US 58 E, Daniel Boone Heritage Hwy	380	R							X						05/07/2009
+793141	  52	00947	     	52-947	 	052	Lee County	052	Lee County	0.07	52-839 Covenant Church Rd	Dead End	0	?							X
+796011	  52	00948	     	52-948	 	052	Lee County	052	Lee County	0.34	US 58 Daniel Boone Trail	Dead End	0	?							X
+793142	  52	00949	     	52-949	 	052	Lee County	052	Lee County	0.62	52-720 Big Rock Rd	Dead End	0	?							X
+749620	  52	00950	     	52-950	Allen Rock Rd	052	Lee County	052	Lee County	0.29	Dead End	US 58 Daniel Boone Trail	110	R							X						11/10/2008
+749621	  52	00951	     	52-951	Goat Town Rd	052	Lee County	052	Lee County	0.20	Dead End	US 58 Daniel Boone Trail	120	R							X						11/10/2008
+785380	  52	00952	     	52-952	Monte Vista Rd	052	Lee County	052	Lee County	0.18	Dead End	US 58 Daniel Boone Trail	70	R							X						11/10/2008
+749622	  52	00953	     	52-953	Stapleton Rd	052	Lee County	052	Lee County	0.12	Dead End	52-684 Chadwell Station Rd	70	R							X						11/19/2008
+749623	  52	00955	     	52-955	Snavely Rd	052	Lee County	052	Lee County	0.16	Dead End	US 58 Daniel Boone Trail	220	R							X						11/19/2008
+795719	  52	00956	     	52-956	 	052	Lee County	052	Lee County	0.16	Dead End	52-643 Ward Hill Rd	0	?							X
+749624	  52	00960	     	52-960	 	052	Lee County	052	Lee County	0.20	52-662	Dead End	160	R							X						04/29/2009
+790471	  52	00975	     	52-975	 	052	Lee County	052	Lee County	0.66	52-611 Jasper Rd	Scott County Line	320	R							X						04/29/2009
+797728	  52	00983	     	52-983	 	052	Lee County	052	Lee County	0.51	Dead End	52-982	0	?							X
+792439	  52	00998	     	52-998	Brush Country Dr	052	Lee County	052	Lee County	0.13	52-646 Clawson Rd	52-646 Clawson Rd	20	R							X						05/26/2009
+749625	  52	00999	     	52-999	Bailey Loop	052	Lee County	052	Lee County	0.28	52-621 WEST	52-621 EAST	20	R							X						05/12/2009
+749626	  52	01001	     	52-1001	Short Cut Loop	052	Lee County	052	Lee County	0.07	52-606	52-1002 Short Cut Loop	640	R							X						05/21/2009
+749627	  52	01002	     	52-1002	Short Cut Loop	052	Lee County	052	Lee County	0.25	Dead End	52-606 WEST	160	R							X						05/21/2009
+749628	  52	01002	     	52-1002	Short Cut Loop	052	Lee County	052	Lee County	0.16	52-606 WEST	52-1001 Short Cut Loop	130	R							X						05/21/2009
+749629	  52	01002	     	52-1002	 	052	Lee County	052	Lee County	0.17	52-1001 Short Cut Loop	52-606 EAST	610	R							X						05/21/2009
+749630	  52	01003	     	52-1003	Post Office Rd	052	Lee County	052	Lee County	0.15	52-1002	52-606	130	R							X						05/21/2009
+749631	  52	01004	     	52-1004	Wilson Rd	052	Lee County	052	Lee County	0.10	52-1002	52-606	70	R							X						05/21/2009
+749632	  52	01005	     	52-1005	Gates Hollow Rd	052	Lee County	052	Lee County	0.20	Dead End	0.20 MN Dead End	48	R							X						05/21/2009
+749633	  52	01005	     	52-1005	Gates Hollow Rd	052	Lee County	052	Lee County	0.06	0.20 MN Dead End	52-606	47	R							X						05/21/2009
+749634	  52	01006	     	52-1006	Bear Rd	052	Lee County	052	Lee County	0.08	Dead End	52-606	50	R							X						05/21/2009
+749635	  52	01007	     	52-1007	Bicycle Rd	052	Lee County	052	Lee County	0.10	Dead End	52-606	40	R							X						05/19/2009
+749636	  52	01010	     	52-1010	Sadie Lane	052	Lee County	052	Lee County	0.18	Cul-de-Sac	US 58 Daniel Boone Trail	180	R							X						11/10/2008
+785381	  52	01011	     	52-1011	Haines Rd	052	Lee County	052	Lee County	0.18	Cul-de-Sac	52-1010 Sadie Lane	90	R							X						11/10/2008
+788679	  52	01014	     	52-1014	Buck Dr	052	Lee County	052	Lee County	0.23	Dead End	US 58 Daniel Boone Trail	40	R							X						05/21/2009
+749637	  52	01015	     	52-1015	Herrell Subdivision Rd	052	Lee County	052	Lee County	0.28	US 58 Daniel Boone Trail	Cul-de-Sac	180	R							X						05/21/2009
+749638	  52	01020	     	52-1020	Blaircroft Rd	052	Lee County	052	Lee County	0.43	52-638 Hickory Flats Rd	Cul-de-Sac	190	R							X						12/18/2008
+749639	  52	01021	     	52-1021	 	052	Lee County	052	Lee County	0.04	52-1020 Blaircroft Rd	Cul-de-Sac	20	R							X						12/18/2008
+749640	  52	01022	     	52-1022	Eagle Trail	052	Lee County	052	Lee County	0.05	Cul-de-Sac	52-1020 Blaircroft Rd	30	R							X						12/16/2008
+749641	  52	01023	     	52-1023	John Andia Rd	052	Lee County	052	Lee County	0.35	US 58 Daniel Boone Trail	Dead End	180	R							X						12/16/2008
+784150	  52	01025	     	52-1025	 	052	Lee County	052	Lee County	0.25	52-638 Hickory Flats Rd	Dead End	90	R							X						12/18/2008
+794620	  52	01026	     	52-1026	 	052	Lee County	052	Lee County	0.24	52-638 Hickory Flats Rd	End Loop	0	?							X
+749642	  52	01030	     	52-1030	Union Church Rd	052	Lee County	052	Lee County	0.18	US 58 Daniel Boone Trail	52-1031 Pitman Rd	180	R							X						12/16/2008
+749643	  52	01030	     	52-1030	Union Church Rd	052	Lee County	052	Lee County	0.10	52-1031 Pitman Rd	Dead End	90	R							X						12/16/2008
+749644	  52	01031	     	52-1031	Pitman Rd	052	Lee County	052	Lee County	0.05	Dead End	52-1030 Union Church Rd	70	R							X						12/16/2008
+791738	  52	01033	     	52-1033	 	052	Lee County	052	Lee County	0.23	Dead End	52-654	80	R							X						03/11/2009
+788680	  52	01034	     	52-1034	Eula Court Rd	052	Lee County	052	Lee County	0.06	52-654	Cul-de-Sac	70	R							X						03/11/2009
+749645	  52	01035	     	52-1035	Overview Loop	052	Lee County	052	Lee County	0.57	52-830 Ridgeview Rd	52-830 Ridgeview Rd	120	R							X						02/17/2009
+749647	  52	01040	     	52-1040	Dryden Heights Rd	052	Lee County	052	Lee County	0.89	52-752 Powell River Rd	Alt US 58	270	R							X						11/10/2008
+787888	  52	01041	     	52-1041	Cherry Tree Rd	052	Lee County	052	Lee County	0.10	Dead End	52-1040 Dryden Heights Rd	60	R							X						11/10/2008
+797641	  52	01045	     	52-1045	 	052	Lee County	052	Lee County	0.35	Cul-de-Sac	Bus US 58	0	?							X
+749173	  52	01046	     	52-1046	 	052	Lee County	052	Lee County	0.25	52-629 Possum Valley Rd	52-737 Troy Litton Rd	120	R							X						1998
+797794	  52	01046	     	52-1046	 	052	Lee County	052	Lee County	0.13	52-737 Troy Litton Rd	52-619 Bill Jessee Rd	0	?							X
+749648	  52	01050	     	52-1050	Crosscreek Rd	052	Lee County	052	Lee County	0.86	52-1057 Oak Lane Rd	Alt US 58	400	R							X						11/06/2008
+749649	  52	01051	     	52-1051	Rock Wood Rd	052	Lee County	052	Lee County	0.15	Dead End	52-1050 Crosscreek Rd	200	R							X						11/06/2008
+749650	  52	01052	     	52-1052	Mountain Ash Rd	052	Lee County	052	Lee County	0.27	52-1050 Crosscreek Rd	52-1051 Rock Wood Rd	70	R							X						11/06/2008
+749651	  52	01053	     	52-1053	Oak Lane Rd	052	Lee County	052	Lee County	0.07	52-1058 Cross Creek Rd	52-1052 Mountain Ash Rd	60	R							X						11/06/2008
+749652	  52	01054	     	52-1054	Yellow Poplar Rd	052	Lee County	052	Lee County	0.09	52-1058 Cross Creek Rd	52-1052 Mountain Ash Rd	46	R							X						11/06/2008
+749653	  52	01055	     	52-1055	Pine Cone Rd	052	Lee County	052	Lee County	0.11	52-1058 Cross Creek Rd	52-1052 Mountain Ash Rd	80	R							X						11/06/2008
+749654	  52	01056	     	52-1056	Oak Lane Rd	052	Lee County	052	Lee County	0.09	52-1058 Cross Creek Rd	52-1050 Crosscreek Rd	40	R							X						11/06/2008
+749655	  52	01057	     	52-1057	Oak Lane Rd	052	Lee County	052	Lee County	0.08	Dead End	52-1050 Crosscreek Rd	45	R							X						11/06/2008
+749656	  52	01058	     	52-1058	Cross Creek Rd	052	Lee County	052	Lee County	0.15	52-1056 Oak Lane Rd	52-1053 Oak Lane Rd	20	R							X						11/10/2008
+749657	  52	01100	     	52-1100	Smithfield Dr	281	Town of Pennington Gap	052	Lee County	0.06	52-1116 Herndon St	Dead End	30	R							X						02/09/2009
+749658	  52	01101	     	52-1101	Cecil St	281	Town of Pennington Gap	052	Lee County	0.20	Alt US 58	52-1133 Bailey Rd	720	R							X						02/09/2009
+749659	  52	01101	     	52-1101	Cecil St	281	Town of Pennington Gap	052	Lee County	0.10	52-1133 Bailey Rd	NCL Pennington Gap	90	R							X						02/09/2009
+785141	  52	01101	     	52-1101	 	052	Lee County	052	Lee County	0.06	NCL Pennington Gap	Dead End	90	N							X				0	N	02/09/2009
+749660	  52	01102	     	52-1102	Leona St	281	Town of Pennington Gap	052	Lee County	0.14	Alt US 58	Dead End	350	R							X						02/09/2009
+749661	  52	01103	     	52-1103	Leigh St	281	Town of Pennington Gap	052	Lee County	0.27	Dead End	52-1101 Cecil St	80	R							X						02/09/2009
+749662	  52	01103	     	52-1103	Leigh St	281	Town of Pennington Gap	052	Lee County	0.50	52-1101 Cecil St	52-1102 Leona St	290	R							X						02/09/2009
+749663	  52	01103	     	52-1103	Leigh St	281	Town of Pennington Gap	052	Lee County	0.18	52-1102 Leona St	Dead End	100	R							X						02/09/2009
+749664	  52	01104	     	52-1104	Anderson St	281	Town of Pennington Gap	052	Lee County	0.06	52-764 Johnson Rd	Alt US 58	560	R							X						01/12/2009
+785901	  52	01104	     	52-1104	Anderson St	281	Town of Pennington Gap	052	Lee County	0.12	Alt US 58	52-1114 Forest Ave	100	R							X						01/12/2009
+749665	  52	01104	     	52-1104	Anderson St	281	Town of Pennington Gap	052	Lee County	0.06	52-1114 Forest Ave	52-1134 EAST	180	R							X						01/12/2009
+749666	  52	01104	     	52-1104	Anderson St	281	Town of Pennington Gap	052	Lee County	0.11	52-1134 WEST	52-1136	90	R							X						01/12/2009
+749667	  52	01105	     	52-1105	Johnson St	281	Town of Pennington Gap	052	Lee County	0.28	52-764 Johnson Rd	52-1113 Robinette St	180	R							X						01/12/2009
+749668	  52	01106	     	52-1106	Ford St	281	Town of Pennington Gap	052	Lee County	0.28	52-640 SCL Pennington Gap	Dead End	60	R							X						02/11/2009
+749669	  52	01107	     	52-1107	King Dr	052	Lee County	052	Lee County	0.10	Dead End	US 421	20	R							X						01/29/2009
+749670	  52	01108	     	52-1108	Church Ave	281	Town of Pennington Gap	052	Lee County	0.25	52-1104 Anderson St	US 421	180	R							X						01/12/2009
+749671	  52	01108	     	52-1108	Church Ave	281	Town of Pennington Gap	052	Lee County	0.17	US 421	Dead End	140	R							X						01/12/2009
+749672	  52	01109	     	52-1109	Oakwood Dr	281	Town of Pennington Gap	052	Lee County	0.33	Dead End	US 421	230	R							X						01/12/2009
+749673	  52	01109	     	52-1109	Oakwood Dr	281	Town of Pennington Gap	052	Lee County	0.26	US 421	52-1137 Industrial Dr	260	R							X						01/12/2009
+749674	  52	01110	     	52-1110	Cross St	281	Town of Pennington Gap	052	Lee County	0.06	52-1103 Leigh St	Dead End	7	R							X						02/09/2009
+749675	  52	01111	     	52-1111	Joslyn Ave	281	Town of Pennington Gap	052	Lee County	0.69	52-706 Kentucky Rd	Alt US 58	130	R							X						02/09/2009
+749676	  52	01112	     	52-1112	Liberty St	281	Town of Pennington Gap	052	Lee County	0.05	52-1111 Joslyn Ave	Alt US 58	970	R							X						01/29/2009
+749677	  52	01112	     	52-1112	Liberty St	281	Town of Pennington Gap	052	Lee County	0.04	Alt US 58	Dead End	40	R							X						01/29/2009
+749678	  52	01113	     	52-1113	Robinette St	281	Town of Pennington Gap	052	Lee County	0.18	Dead End	US 421	110	R							X						01/12/2009
+749679	  52	01114	     	52-1114	Forest Ave	281	Town of Pennington Gap	052	Lee County	0.12	52-764 Johnson Rd	52-1104 Gap	80	R							X						01/27/2009
+749680	  52	01114	     	52-1114	Forest Ave	281	Town of Pennington Gap	052	Lee County	0.25	US 421 Gap	Dead End	120	R							X						01/27/2009
+749681	  52	01115	     	52-1115	Nolan Ave	281	Town of Pennington Gap	052	Lee County	0.08	52-1116 Herndon St	52-1101 Cecil St	240	R							X						02/09/2009
+749682	  52	01116	     	52-1116	Herndon St	281	Town of Pennington Gap	052	Lee County	0.22	Alt US 58	Dead End	570	R							X						02/09/2009
+749683	  52	01117	     	52-1117	Hospital Dr	281	Town of Pennington Gap	052	Lee County	0.12	Dead End	52-640 Skaggs Hill Rd	190	R							X						02/11/2009
+749684	  52	01118	     	52-1118	Willow Ave	281	Town of Pennington Gap	052	Lee County	0.06	52-1117 Hospital Dr	52-1119 Willow Rd	80	R							X						02/11/2009
+749685	  52	01119	     	52-1119	Willow Ave	281	Town of Pennington Gap	052	Lee County	0.07	Dead End	52-1118 Willow Ave	50	R							X						02/11/2009
+749686	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.06	Dead End	52-1103 Leigh St	40	R							X						02/09/2009
+749687	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.07	52-1103 Leigh St	Alt US 58	110	R							X						02/09/2009
+749688	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.05	Alt US 58	52-1111 Joslyn Ave	300	R							X						02/09/2009
+749689	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.06	52-1111 Joslyn Ave	Dead End	220	R							X						02/09/2009
+749690	  52	01121	     	52-1121	Summit Ave	281	Town of Pennington Gap	052	Lee County	0.25	Dead End	52-1116 Herndon St	310	R							X						02/09/2009
+749691	  52	01122	     	52-1122	Flat Top Hill Dr	052	Lee County	052	Lee County	0.53	Dead End	52-640 Skaggs Hill Rd	30	R							X						02/11/2009
+749692	  52	01123	     	52-1123	Media St	281	Town of Pennington Gap	052	Lee County	0.10	52-640 Skaggs Hill Rd	52-1140 Media St	70	R							X						02/11/2009
+749693	  52	01124	     	52-1124	Lee St	281	Town of Pennington Gap	052	Lee County	0.08	52-764 Johnson Rd	Alt US 58	170	R							X						01/12/2009
+749694	  52	01125	     	52-1125	Doris Ave	281	Town of Pennington Gap	052	Lee County	0.26	52-1104 Anderson St	US 421; Alt US 58	900	R							X						01/12/2009
+749695	  52	01126	     	52-1126	Duff St	281	Town of Pennington Gap	052	Lee County	0.17	Alt US 58	Dead End	430	R							X						02/09/2009
+749696	  52	01127	     	52-1127	Burke St	281	Town of Pennington Gap	052	Lee County	0.04	52-1111 Joslyn Ave	Alt US 58	150	R							X						02/11/2009
+749697	  52	01128	     	52-1128	Calvary St	281	Town of Pennington Gap	052	Lee County	0.06	Alt US 58	52-1103 Leigh St	440	R							X						02/09/2009
+749698	  52	01129	     	52-1129	Consatitution Rd	281	Town of Pennington Gap	052	Lee County	0.16	52-640 Skaggs Hill Rd	Dead End	320	R							X						02/11/2009
+749699	  52	01130	     	52-1130	 	281	Town of Pennington Gap	052	Lee County	0.04	52-706 Kentucky Rd	52-1141	220	R							X						01/29/2009
+749700	  52	01131	     	52-1131	Walnut St	281	Town of Pennington Gap	052	Lee County	0.04	52-1108 Church Ave	52-1109 Oakwood Ave	90	R							X						01/12/2009
+749701	  52	01132	     	52-1132	Allen St	281	Town of Pennington Gap	052	Lee County	0.05	52-1109 Oakwood Ave	52-1114 Forest Ave	130	R							X						01/27/2009
+749702	  52	01133	     	52-1133	Bailey St	281	Town of Pennington Gap	052	Lee County	0.25	52-1101 Cecil St	Dead End	140	R							X						02/09/2009
+749703	  52	01134	     	52-1134	 	281	Town of Pennington Gap	052	Lee County	0.09	52-1138	52-1135	80	R							X						01/29/2009
+749704	  52	01135	     	52-1135	 	281	Town of Pennington Gap	052	Lee County	0.11	52-1136	52-1134	40	R							X						01/29/2009
+749705	  52	01136	     	52-1136	 	281	Town of Pennington Gap	052	Lee County	0.05	52-1104 Anderson St	52-1135	50	R							X						01/29/2009
+749706	  52	01137	     	52-1137	Industrial Dr	281	Town of Pennington Gap	052	Lee County	0.48	US 58	Dead End	700	R							X						01/27/2009
+749707	  52	01138	     	52-1138	 	281	Town of Pennington Gap	052	Lee County	0.08	52-1134	Dead End	30	R							X						01/29/2009
+749708	  52	01139	     	52-1139	Burke St	281	Town of Pennington Gap	052	Lee County	0.16	Dead End	52-1103 Leigh St	70	R							X						02/09/2009
+749709	  52	01140	     	52-1140	Media St	281	Town of Pennington Gap	052	Lee County	0.05	Dead End	52-1123 St	60	R							X						02/11/2009
+749710	  52	01141	     	52-1141	 	281	Town of Pennington Gap	052	Lee County	0.16	US 58	52-1130	460	R							X						01/29/2009
+749711	  52	01141	     	52-1141	 	281	Town of Pennington Gap	052	Lee County	0.17	52-1130	Dead End	300	R							X						01/29/2009
+749712	  52	01142	     	52-1142	 	281	Town of Pennington Gap	052	Lee County	0.01	52-706 Kentucky Rd	Dead End	120	R							X						10/08/2009
+749713	  52	01143	     	52-1143	Edwards St	281	Town of Pennington Gap	052	Lee County	0.05	Alt US 58	52-1103 Leigh St	130	R							X						02/09/2009
+749714	  52	01144	     	52-1144	Constitution Dr	281	Town of Pennington Gap	052	Lee County	0.14	52-640 Skaggs Hill Rd	Dead End	30	R							X						02/11/2009
+749715	  52	01145	     	52-1145	Terrace Dr	281	Town of Pennington Gap	052	Lee County	0.04	52-721	Dead End	200	R							X						02/11/2009
+787889	  52	01148	     	52-1148	 	281	Town of Pennington Gap	052	Lee County	0.38	52-706 Fairground St	52-621	40	R							X						01/27/2009
+784151	  52	01149	     	52-1149	Bank St	281	Town of Pennington Gap	052	Lee County	0.05	52-1111 Joslyn Ave	Alt US 58 WEST	160	R							X						02/11/2009
+749716	  52	01200	     	52-1200	Martin Subdivision Rd	245	Town of Jonesville	052	Lee County	0.68	US 58; 52-648	Dead End	200	R							X						02/17/2009
+749717	  52	01201	     	52-1201	Institute St	245	Town of Jonesville	052	Lee County	0.35	52-650 Harlan Rd	52-649 Park St	590	R							X						02/26/2009
+749718	  52	01201	     	52-1201	Institute St	245	Town of Jonesville	052	Lee County	0.07	52-649 Park St	52-1205 Church St	130	R							X						02/26/2009
+749719	  52	01201	     	52-1201	Institute St	245	Town of Jonesville	052	Lee County	0.10	52-1205 Church St	Dead End	460	R							X						02/26/2009
+749720	  52	01202	     	52-1202	Ely St	245	Town of Jonesville	052	Lee County	0.07	US 58	52-1201 Institute St	240	R							X						02/26/2009
+749721	  52	01203	     	52-1203	Russell St	245	Town of Jonesville	052	Lee County	0.35	Dead End	US 58	250	R							X						02/26/2009
+749722	  52	01204	     	52-1204	Cunningham St	245	Town of Jonesville	052	Lee County	0.12	US 58 Jones St	52-648 Town Branch Rd	210	R							X						02/17/2009
+749723	  52	01205	     	52-1205	Church St	245	Town of Jonesville	052	Lee County	0.03	US 58 Jones St	Alt US 58	610	R							X						02/26/2009
+749724	  52	01205	     	52-1205	Church St	245	Town of Jonesville	052	Lee County	0.08	Alt US 58	52-1201 Institute St	1600	R							X						02/26/2009
+749725	  52	01205	     	52-1205	Church St	245	Town of Jonesville	052	Lee County	0.15	52-1201 Institute St	Dead End	380	R							X						02/26/2009
+749726	  52	01206	     	52-1206	Palace Pl	245	Town of Jonesville	052	Lee County	0.03	US 58 Jones St	Alt US 58	2100	R							X						02/26/2009
+749727	  52	01206	     	52-1206	Palace Pl	245	Town of Jonesville	052	Lee County	0.08	Alt US 58	52-1201 Institute St	430	R							X						02/26/2009
+749728	  52	01207	     	52-1207	Carlisle St	245	Town of Jonesville	052	Lee County	0.22	52-1210 Fourth St	52-1208 Second St	180	R							X						03/05/2009
+749729	  52	01207	     	52-1207	Carlisle St	245	Town of Jonesville	052	Lee County	0.05	52-1208 Second St	52-650 Harlan Rd	250	R							X						03/05/2009
+749730	  52	01208	     	52-1208	Second St	245	Town of Jonesville	052	Lee County	0.10	US 58	Dead End	80	R							X						03/05/2009
+749731	  52	01209	     	52-1209	Third St	245	Town of Jonesville	052	Lee County	0.10	US 58	Dead End	40	R							X						03/05/2009
+749732	  52	01210	     	52-1210	Fourth St	245	Town of Jonesville	052	Lee County	0.12	US 58; 52-1211	Dead End	200	R							X						03/03/2009
+749733	  52	01211	     	52-1211	Johnson St	245	Town of Jonesville	052	Lee County	0.08	Dead End	US 58; 52-1210	90	R							X						03/03/2009
+749734	  52	01212	     	52-1212	Holmes St	245	Town of Jonesville	052	Lee County	0.28	52-1217 Central St	US 58	290	R							X						03/03/2009
+749735	  52	01213	     	52-1213	Martin St	245	Town of Jonesville	052	Lee County	0.18	52-1221 Crest Dr	52-1216 Second Ave	220	R							X						03/03/2009
+749736	  52	01213	     	52-1213	Martin St	245	Town of Jonesville	052	Lee County	0.12	52-1216 Second Ave	US 58	340	R							X						03/03/2009
+749737	  52	01214	     	52-1214	Joslyn St	245	Town of Jonesville	052	Lee County	0.26	52-1220 Fitts Lane	US 58	190	R							X						02/26/2009
+749738	  52	01215	     	52-1215	Harless Ave	245	Town of Jonesville	052	Lee County	0.15	Dead End	52-1214 Joslyn St	70	R							X						02/26/2009
+749739	  52	01216	     	52-1216	Second Ave	245	Town of Jonesville	052	Lee County	0.06	52-1213 Martin St	52-1214 Joslyn St	30	R							X						03/03/2009
+749740	  52	01217	     	52-1217	Central St	245	Town of Jonesville	052	Lee County	0.17	Dead End	52-1212 Holmes St	140	R							X						03/03/2009
+749741	  52	01218	     	52-1218	Randolph Ave	245	Town of Jonesville	052	Lee County	0.17	Dead End	52-1212 Holmes St	90	R							X						03/03/2009
+749742	  52	01218	     	52-1218	Randolph Ave	245	Town of Jonesville	052	Lee County	0.11	52-1212 Holmes St	52-1213 Martin St	140	R							X						03/03/2009
+749743	  52	01219	     	52-1219	Gibson St	245	Town of Jonesville	052	Lee County	0.11	52-1221 Crest Dr	52-1218 Randolph Ave	100	R							X						03/03/2009
+749744	  52	01220	     	52-1220	Fitts Lane	245	Town of Jonesville	052	Lee County	0.06	52-1213 Martin St	52-1214 Joslyn St	70	R							X						03/03/2009
+749745	  52	01221	     	52-1221	Crest Dr	245	Town of Jonesville	052	Lee County	0.12	52-1219 Gibson St	Dead End	80	R							X						03/03/2009
+749746	  52	01222	     	52-1222	Crocket Springs Rd	052	Lee County	052	Lee County	0.30	52-648, NCL Jonesville	Dead End	20	R							X						02/17/2009
+749747	  52	01223	     	52-1223	Chapell St	245	Town of Jonesville	052	Lee County	0.18	Dead End	52-1224 Turner St	1200	R							X						03/05/2009
+749748	  52	01223	     	52-1223	Chapell St	245	Town of Jonesville	052	Lee County	0.13	52-1224 Turner St	US 58	2000	R							X						03/05/2009
+749749	  52	01224	     	52-1224	Turner St	245	Town of Jonesville	052	Lee County	0.08	Dead End	52-1223 Chapell St	250	R							X						03/05/2009
+749750	  52	01225	     	52-1225	Park St	245	Town of Jonesville	052	Lee County	0.51	52-649 Park St	Cul-de-Sac	270	R							X						02/26/2009
+749751	  52	01226	     	52-1226	Third St	245	Town of Jonesville	052	Lee County	0.12	52-1238 Emmy Collins St	NCL Jonesville	60	R							X						03/05/2009
+749752	  52	01226	     	52-1226	Third St	052	Lee County	052	Lee County	0.14	NCL Jonesville	52-650	60	R							X						03/05/2009
+749753	  52	01227	     	52-1227	Third St	245	Town of Jonesville	052	Lee County	0.05	Dead End	52-1238 Emmy Collins St	80	R							X						03/05/2009
+749754	  52	01228	     	52-1228	Dale St	245	Town of Jonesville	052	Lee County	0.06	52-1218 Randolph Ave	52-1229 Dale St	200	R							X						03/03/2009
+749755	  52	01229	     	52-1229	Dale St	245	Town of Jonesville	052	Lee County	0.13	Dead End	52-1228 Dale St	230	R							X						03/03/2009
+749756	  52	01230	     	52-1230	Chalet Village Rd	052	Lee County	052	Lee County	0.50	US 58 Daniel Boone Trail	Cul-de-Sac	120	R							X						05/21/2009
+749757	  52	01231	     	52-1231	Richmond Heights Rd	052	Lee County	052	Lee County	0.05	52-1233 Streetrod Dr	52-1232 Capitol Rd	30	R							X						02/17/2009
+749758	  52	01231	     	52-1231	Richmond Heights Rd	052	Lee County	052	Lee County	0.05	52-1232 Capitol Rd	US 58 Daniel Boone Trail	90	R							X						02/17/2009
+749759	  52	01232	     	52-1232	Capitol Rd	052	Lee County	052	Lee County	0.15	Dead End	52-1231 Richmond Heights Rd	50	R							X						02/17/2009
+749760	  52	01233	     	52-1233	Streetrod Dr	052	Lee County	052	Lee County	0.05	Dead End	52-1231 Richmond Heights Rd	20	R							X						02/17/2009
+749761	  52	01237	     	52-1237	Lombardi Lane	245	Town of Jonesville	052	Lee County	0.03	Dead End	52-1226 Third St	10	R							X						03/05/2009
+785382	  52	01238	     	52-1238	Emmy Collins St	245	Town of Jonesville	052	Lee County	0.07	Dead End	52-1227 Third St	20	R							X						03/05/2009
+749762	  52	01238	     	52-1238	Emmy Collins St	245	Town of Jonesville	052	Lee County	0.05	52-1227 Third St	52-1226 Third St	60	R							X						03/05/2009
+749763	  52	01240	     	52-1240	Moody Dr	245	Town of Jonesville	052	Lee County	0.08	Dead End	52-1223 Chapell St	170	R							X						03/05/2009
+749764	  52	01301	     	52-1301	 	052	Lee County	052	Lee County	0.20	52-692	52-1303	180	R							X						03/11/2009
+749765	  52	01301	     	52-1301	 	052	Lee County	052	Lee County	0.08	52-1303	52-1302	130	R							X						03/11/2009
+749766	  52	01302	     	52-1302	 	052	Lee County	052	Lee County	0.21	52-1303	52-1301	80	R							X						03/11/2009
+749767	  52	01303	     	52-1303	 	052	Lee County	052	Lee County	0.15	52-1302	52-1301	110	R							X						03/11/2009
+749768	  52	01310	     	52-1310	 	052	Lee County	052	Lee County	0.05	52-1311	US 58	170	R							X						03/11/2009
+749769	  52	01311	     	52-1311	 	052	Lee County	052	Lee County	0.05	Dead End	52-1310	70	R							X						03/11/2009
+749770	  52	01311	     	52-1311	 	052	Lee County	052	Lee County	0.06	52-1310	Dead End	90	R							X						03/11/2009
+749771	  52	09222	     	52-9222	 	052	Lee County	052	Lee County	0.15	US 58	Thomas Walker HS	310	R							X						03/11/2009
+749772	  52	09223	     	52-9223	 	052	Lee County	052	Lee County	0.01	SR 352	St Charles School	100	R							X						03/11/2009
+749773	  52	09225	     	52-9225	 	052	Lee County	052	Lee County	0.16	US 58	Ewing Elem School	160	R							X						03/11/2009
+749774	  52	09226	     	52-9226	 	052	Lee County	052	Lee County	0.08	52-726 School House Ridge Rd	Dryden Elem School	370	R							X						03/11/2009
+749775	  52	09227	     	52-9227	 	052	Lee County	052	Lee County	0.10	US 421	52-642	270	R							X						03/11/2009
+749776	  52	09231	     	52-9231	School Rd	052	Lee County	052	Lee County	0.05	Elk Knob Elem School	US 421	170	R							X						12/18/2008
+749777	  52	09492	     	52-9492	 	052	Lee County	052	Lee County	0.10	52-799	Rose Hill Elem School	180	R							X						03/11/2009
+749778	  52	09554	     	52-9554	 	052	Lee County	052	Lee County	0.14	52-645 Ben Hur	Alt US 58, Vocational School	480	R							X						03/11/2009
+749779	  52	09659	     	52-9659	 	281	Town of Pennington Gap	052	Lee County	0.16	Alt US 58	Pennington Gap School	1400	R							X						01/27/2009
+749780	  52	09710	     	52-9710	Middle School Rd	245	Town of Jonesville	052	Lee County	0.18	US 58	Jonesville Middle School	400	R							X						03/03/2009
+749781	  52	09711	     	52-9711	 	052	Lee County	052	Lee County	0.22	52-661 Flatwoods Rd	Flatwood Elem School	210	R							X						03/13/2009
+784152	  52	09907	     	52-9907	Ely Dale Rd	052	Lee County	052	Lee County	0.03	52-9909 W, Ely Dale Rd	52-9909 E, Ely Dale Rd	60	R							X						11/10/2008
+749782	  52	09909	     	52-9909	Ely Dale Rd	052	Lee County	052	Lee County	0.11	US 58 Daniel Boone Trail	Ely Dale Elem School	100	R							X						11/10/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

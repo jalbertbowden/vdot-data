@@ -1,0 +1,45 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Woodstock																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+683011	  US	00011	     	US 11	Main St	330	Town of Woodstock	085	Shenandoah County	0.22	SCL Woodstock	Lakeview Dr	8500	G	98%	0%	1%	1%	0%	0%	F	0.0878	F	0.0000	8900	G	2009
+683012	  US	00011	     	US 11	Main St	330	Town of Woodstock	085	Shenandoah County	0.30	Lakeview Dr	SR 42, W Reservoir Rd	9400	G	98%	0%	1%	1%	0%	0%	F	0.0844	F	0.0000	9800	G	2009
+683013	  US	00011	     	US 11	Main St	330	Town of Woodstock	085	Shenandoah County	0.65	SR 42, W Reservoir Rd	Indian Spring Rd	13000	G	98%	0%	0%	0%	0%	0%	C	0.0820	F	0.0000	14000	G	2009
+683014	  US	00011	     	US 11	Main St	330	Town of Woodstock	085	Shenandoah County	0.85	Indian Spring Rd	W North St	12000	G	98%	0%	0%	0%	0%	0%	F	0.0845	F	0.0000	12000	G	2009
+781500	  US	00011	     	US 11	Main St	330	Town of Woodstock	085	Shenandoah County	0.53	W North St	NCL Woodstock	8000	N	98%	0%	1%	1%	1%	0%	N	0.0860	N	0.0000	8400	N	2009
+683022	  SR	00042	     	VA 42	W Reservoir Rd	330	Town of Woodstock	085	Shenandoah County	0.44	WCL Woodstock	I-81	7900	G	96%	0%	1%	1%	2%	0%	F	0.0832	F	0.0000	8300	G	2009
+683023	  SR	00042	     	VA 42	W Reservoir Rd	330	Town of Woodstock	085	Shenandoah County	0.41	I-81	Susan Ave	14000	G	97%	1%	1%	1%	1%	0%	C	0.0814	F	0.0000	15000	G	2009
+683024	  SR	00042	     	VA 42	W Reservoir Rd	330	Town of Woodstock	085	Shenandoah County	0.22	Susan Ave	Main Street	15000	G	97%	1%	1%	1%	1%	0%	F				15000	G	2009
+080529	  IS	00081	N    	I-81 NB	 	330	Town of Woodstock	085	Shenandoah County	0.38	SCL Woodstock	SR 42 Reservoir Rd	22000	G	75%	1%	1%	1%	21%	1%	F				22000	G	2009		44000	G	76%	1%	1%	1%	20%	1%	F				43000	G
+080500	  IS	00081	N    	I-81 NB	 	330	Town of Woodstock	085	Shenandoah County	1.41	SR 42 Reservoir Rd	NCL Woodstock	21000	G	75%	1%	1%	1%	21%	1%	F				21000	G	2009		44000	G	76%	1%	1%	1%	20%	1%	F				44000	G
+180079	  IS	00081	S    	I-81 SB	 	330	Town of Woodstock	085	Shenandoah County	0.69	SCL Woodstock	SR 42 Reservoir Rd	22000	G	77%	1%	1%	1%	19%	1%	F				22000	G	2009		44000	G	76%	1%	1%	1%	20%	1%	F				43000	G
+180015	  IS	00081	S    	I-81 SB	 	330	Town of Woodstock	085	Shenandoah County	1.00	SR 42 Reservoir Rd	NCL Woodstock	23000	G	77%	1%	1%	1%	19%	1%	F				23000	G	2009		44000	G	76%	1%	1%	1%	20%	1%	F				44000	G
+771121	  85	09745	     	85-9745	W W Robinson High School	330	Town of Woodstock	085	Shenandoah County	0.71	SR 42 Reservoir Rd	Cul-de-Sac	2500	R							X						05/02/2002
+683008	 330	00001	     	330-1	Indian Spring Rd	330	Town of Woodstock	330	Town of Woodstock	0.18	US 11 Main St	Water St	770	G	99%	0%	0%	0%	0%	0%	C	0.0965	F	0.5641	800	G	2009
+683009	 330	00002	     	330-2	Lakeview Dr	330	Town of Woodstock	330	Town of Woodstock	0.09	Main St	ECL Woodstock	950	G	99%	0%	0%	0%	0%	0%	F	0.1010	F	0.5179	990	G	2009
+683018	 330	00003	     	330-3	Ox Rd	330	Town of Woodstock	330	Town of Woodstock	0.56	Reservoir Rd	Massanutten Heights Rd	4200	G	99%	0%	0%	1%	0%	0%	C	0.0944	F	0.5165	4400	G	2009
+683016	 330	00004	     	330-4	Massanutten Heights Rd	330	Town of Woodstock	330	Town of Woodstock	0.33	Ox Rd	Commerce St	1900	G	99%	0%	0%	0%	0%	0%	C	0.0980	F	0.6950	2000	G	2009
+683002	 330	00005	     	330-5	Commerce St	330	Town of Woodstock	330	Town of Woodstock	0.08	Massunutten Hghts Rd	W Spring St	1900	G	99%	0%	0%	0%	0%	0%	C	0.1084	F	0.6267	2000	G	2009
+683017	 330	00006	     	330-6	Mill Rd	330	Town of Woodstock	330	Town of Woodstock	0.20	Main St	ECL Woodstock	1400	G	99%	0%	0%	0%	0%	0%	F	0.0964	F	0.6074	1500	G	2009
+683004	 330	00007	     	330-7	E Reservoir Rd	330	Town of Woodstock	330	Town of Woodstock	0.20	Water St	Main St	4700	G	97%	0%	1%	0%	1%	0%	F	0.0928	F	0.0000	4900	G	2009
+683003	 330	00007	     	330-7	E Reservoir Rd	330	Town of Woodstock	330	Town of Woodstock	0.33	ECL Woodstock	Water St	820	G	97%	0%	1%	0%	1%	0%	C	0.1103	F	0.5165	860	G	2009
+683019	 330	00008	     	330-8	Summit Ave	330	Town of Woodstock	330	Town of Woodstock	0.52	W Spring St	North St	740	G	99%	0%	0%	0%	0%	0%	C	0.1052	F	0.5195	780	G	2009
+781887	 330	00009	     	330-9	Water St	330	Town of Woodstock	330	Town of Woodstock	0.51	330-7 Reservior Rd	330-1 Indian Springs Road	2400	G	98%	0%	1%	0%	0%	0%	C	0.0998	F	0.6342	2500	G	2009
+683028	 330	00009	     	330-9	Water St	330	Town of Woodstock	330	Town of Woodstock	0.27	330-1 Indian Springs Road	330-12 Hughes Street	2700	G	98%	0%	1%	0%	0%	0%	F	0.0924	F	0.6248	2800	G	2009
+781888	 330	00009	     	330-9	Water St	330	Town of Woodstock	330	Town of Woodstock	0.22	330-12 Hughes Street	High Street	3000	G	98%	0%	1%	0%	0%	0%	F	0.0996	F	0.5907	3200	G	2009
+785560	 330	00009	     	330-9	Water St	330	Town of Woodstock	330	Town of Woodstock	0.68	High Street	Mill Rd	2300	G	98%	0%	1%	0%	0%	0%	F	0.1019	F	0.5282	2400	G	2009
+683001	 330	00011	     	330-11	Church St	330	Town of Woodstock	330	Town of Woodstock	0.12	Spring St	Hughes St	160	G	98%	1%	1%	0%	0%	0%	C	0.1420	F	0.5600	170	G	2009
+683007	 330	00012	     	330-12	Hughes St	330	Town of Woodstock	330	Town of Woodstock	0.10	Church St	Water St	180	G	98%	1%	1%	0%	0%	0%	C	0.1371	F	0.7037	190	G	2009
+683006	 330	00013	     	330-13	Hollingsworth Rd	330	Town of Woodstock	330	Town of Woodstock	0.39	Water St	Lupton Rd	830	G	100%	0%	0%	0%	0%	0%	C	0.0892	F	0.6282	870	G	2009
+683010	 330	00014	     	330-14	Lee St	330	Town of Woodstock	330	Town of Woodstock	0.35	North St	NCL Woodstock	330	G	98%	1%	1%	0%	0%	0%	C	0.1250	F	0.6047	340	G	2009
+683020	 330	01960	     	330-1960	North St	330	Town of Woodstock	330	Town of Woodstock	0.33	WCL Woodstock	Summit Ave	1500	G	99%	0%	0%	1%	0%	0%	F	0.0892	F	0.6534	1500	G	2009
+683021	 330	01960	     	330-1960	North St	330	Town of Woodstock	330	Town of Woodstock	0.43	Summit Ave	Main St	2000	G	99%	0%	0%	1%	0%	0%	C	0.0853	F	0.7249	2100	G	2009
+683025	 330	01961	     	330-1961	W Spring St	330	Town of Woodstock	330	Town of Woodstock	0.36	WCL Woodstock	Summit Ave	1200	G	98%	0%	1%	1%	0%	0%	F	0.1109	F	0.5092	1300	G	2009
+683026	 330	01961	     	330-1961	W Spring St	330	Town of Woodstock	330	Town of Woodstock	0.52	Summit Ave	Main St	1200	G	98%	0%	1%	1%	0%	0%	C	0.1064	F	0.6457	1200	G	2009
+683005	 330	01961	     	330-1961	E Spring St	330	Town of Woodstock	330	Town of Woodstock	0.09	US 11 Main St	Church St	500	G	98%	0%	1%	1%	0%	0%	F	0.1087	F	0.6410	520	G	2009
+785561	 330	01961	     	330-1961	E Spring St	330	Town of Woodstock	330	Town of Woodstock	0.10	330-11 Church St	330-9 Water St	270	G	98%	0%	1%	1%	0%	0%	F	0.1128	F	0.6269	280	G	2009
+583001	 330	00000	     	330-0	Locust St	330	Town of Woodstock	330	Town of Woodstock	0.00	Summit Ave	Commerce St	90	G							X	0.1354	F	0.6154	90	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

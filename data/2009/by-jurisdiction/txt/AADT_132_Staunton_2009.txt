@@ -1,0 +1,111 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Staunton																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+672248	  US	00011	     	US 11	Greenville Ave	132	City of Staunton	132	City of Staunton	0.68	SCL Staunton	SR 261 Statler Blvd	15000	G	98%	0%	1%	0%	0%	0%	F	0.0875	F	0.5028	17000	G	2009
+672240	  US	00011	     	US 11	Greenville Ave	132	City of Staunton	132	City of Staunton	0.50	SR 261 Statler Blvd	Hampton St	13000	G	98%	0%	1%	0%	0%	0%	C	0.0887	F	0.5582	14000	G	2009
+672239	  US	00011	     	US 11	Greenville Ave	132	City of Staunton	132	City of Staunton	0.32	Hampton St	US 250 Richmond Rd	12000	G	98%	0%	1%	0%	0%	0%	F	0.0899	F	0.5130	13000	G	2009
+672237	  US	00011	     		Greenville Ave	132	City of Staunton	132	City of Staunton	0.07	US 250 Richmond Rd	US 250, SR 254	16000	G	98%	0%	1%	0%	0%	0%	F	0.0837	F	0.5309	17000	G	2009
+672238	  US	00011	     		Commerce Rd	132	City of Staunton	132	City of Staunton	0.68	US 250, SR 254	SR 254 New Hope Rd	2700	G	97%	1%	1%	1%	1%	0%	C	0.0927	F	0.5839	2900	G	2009
+672244	  US	00011	     	US 11	Commerce Rd	132	City of Staunton	132	City of Staunton	0.15	SR 254 New Hope Rd	SR 261 Statler Blvd	2700	G	97%	1%	1%	1%	1%	0%	F	0.0986	F	0.5458	3000	G	2009
+672211	  US	00011	     	US 11	Commerce Rd	132	City of Staunton	132	City of Staunton	1.25	SR 261 Statler Blvd	Bells Lane	6000	G	95%	0%	1%	2%	1%	0%	F	0.0941	F	0.5056	6500	G	2009
+672214	  US	00011	     	US 11	Commerce Rd	132	City of Staunton	132	City of Staunton	0.67	Bells Lane	Bus US 11	5500	G	95%	0%	1%	2%	1%	0%	C	0.0956	F	0.5679	6000	G	2009
+672260	  US	00011	     	US 11	Commerce Rd	132	City of Staunton	132	City of Staunton	0.49	Bus US 11	SR 262 Woodrow Wilson Pkwy	13000	G	97%	0%	1%	1%	1%	0%	C	0.0937	F	0.5058	14000	G	2009
+672331	  US	00011	     	US 11	Commerce Rd	132	City of Staunton	132	City of Staunton	0.88	SR 262 Woodrow Wilson Pkwy	NCL Staunton	16000	G	97%	0%	1%	1%	1%	0%	F	0.0909	F	0.5650	17000	G	2009
+672333	C1US	00011	     		Johnson St	132	City of Staunton	132	City of Staunton	0.18	US 11; Coalter St	New St	11000	G	98%	0%	1%	0%	0%	0%	F	0.0795	F	0.6417	11000	G	2009	
+672233	C1US	00011	     		New St	132	City of Staunton	132	City of Staunton	0.17	Johnson St	Frederick St	1500	G	98%	1%	1%	0%	0%	0%	F	0.1143	F	1.0000	1600	G	2009		6600	G	98%	0%	1%	0%	0%	0%	F				7100	G
+672221	C1US	00011	     		New St	132	City of Staunton	132	City of Staunton	0.36	Frederick St	Churchville Ave	1100	G	98%	1%	1%	0%	0%	0%	C	0.0961	F	1.0000	1200	G	2009		6600	G	98%	0%	1%	0%	0%	0%	C				7200	G
+672225	C1US	00011	     		Augusta St	132	City of Staunton	132	City of Staunton	0.02	Churchville Ave	Sunnyside St	8700	N	98%	1%	1%	1%	0%	0%	N	0.0847	N	0.6012	9400	N	2009	
+672212	C1US	00011	     	Bus US 11	Augusta St	132	City of Staunton	132	City of Staunton	0.41	Churchville Ave	Edgewood Rd	7900	G	98%	0%	1%	0%	0%	0%	F	0.0944	F	0.5046	8600	G	2009
+672332	C1US	00011	     	Bus US 11	Augusta St	132	City of Staunton	132	City of Staunton	0.28	Edgewood Rd	Lambert St	9600	G	98%	0%	1%	0%	0%	0%	F	0.0921	F	0.5063	10000	G	2009
+672208	C1US	00011	     	Bus US 11	Augusta St	132	City of Staunton	132	City of Staunton	1.14	Lambert St	Coalter St	5300	G	98%	0%	1%	0%	0%	0%	C	0.0956	F	0.5018	5700	G	2009
+672209	C1US	00011	     	Bus US 11	Augusta St	132	City of Staunton	132	City of Staunton	0.71	Coalter St	US 11 Commerce Rd	7200	G	98%	0%	1%	0%	0%	0%	F	0.0970	F	0.5515	7800	G	2009
+080596	  US	00250	     	US 250	Churchville Ave	132	City of Staunton	132	City of Staunton	0.04	WCL Staunton	SR 262 Woodrow Wilson Pkwy	7000	N	97%	1%	1%	1%	1%	0%	N	0.0909	N	0.6986	7300	N	2009
+672224	  US	00250	     	US 250	Churchville Ave	132	City of Staunton	132	City of Staunton	0.79	SR 262 Woodrow Wilson Pkwy	Englewood Dr Near Hevener St	4700	G	97%	1%	1%	0%	0%	0%	F	0.0940	F	0.5523	5100	G	2009
+672201	  US	00250	     	US 250	Churchville Ave	132	City of Staunton	132	City of Staunton	0.40	Englewood Dr Near Hevener St	Grubert Ave	8000	G	97%	1%	1%	0%	0%	0%	C	0.0917	F	0.5516	8600	G	2009
+672203	  US	00250	     	US 250	Churchville Ave	132	City of Staunton	132	City of Staunton	0.99	Grubert Ave	Thornrose Ave	8600	G	97%	1%	1%	0%	0%	0%	F	0.0883	F	0.5233	9300	G	2009
+672213	  US	00250	     	US 250	Churchville Ave	132	City of Staunton	132	City of Staunton	0.32	Thornrose Ave	Augusta St	8700	G	98%	1%	1%	1%	0%	0%	C	0.0847	F	0.6012	9400	G	2009
+672225	  US	00250	     		Augusta St	132	City of Staunton	132	City of Staunton	0.02	Churchville Ave	US 250 Par New St; Sunnyside St	8700	N	98%	1%	1%	1%	0%	0%	N	0.0847	N	0.6012	9400	N	2009
+672220	  US	00250	     		Augusta St	132	City of Staunton	132	City of Staunton	0.43	US 250 Par; Sunnyside St	SR 254 Beverly St	5500	G	98%	0%	1%	0%	0%	0%	C	0.0933	F	0.6022	5900	G	2009		6600	G	98%	0%	1%	0%	0%	0%	C				7200	G
+672232	  US	00250	     		Augusta St	132	City of Staunton	132	City of Staunton	0.07	SR 254 Beverly St	Johnson St	5100	G	98%	0%	1%	0%	0%	0%	F	0.0842	F	0.6265	5500	G	2009		6600	G	98%	0%	1%	0%	0%	0%	F				7100	G
+672235	  US	00250	     	US 250	Johnson St	132	City of Staunton	132	City of Staunton	0.06	Augusta St	US 250 Par, New St	5100	N	98%	0%	1%	0%	0%	0%	N	0.0842	N	0.6265	5500	N	2009
+672333	  US	00250	     		Johnson St	132	City of Staunton	132	City of Staunton	0.18	1US 250 P New St	US 11, SR 254	11000	G	98%	0%	1%	0%	0%	0%	F	0.0795	F	0.6417	11000	G	2009
+672237	  US	00250	     		Greenville Ave	132	City of Staunton	132	City of Staunton	0.07	US 11, SR 254 NEW ST	US 11 GREENVILLE AVE	16000	G	98%	0%	1%	0%	0%	0%	F	0.0837	F	0.5309	17000	G	2009	
+672236	  US	00250	     	US 250	Richmond Rd	132	City of Staunton	132	City of Staunton	0.75	US 11 Greenville Ave	Statler Blvd	11000	G	96%	0%	1%	1%	1%	0%	F	0.0850	F	0.5120	12000	G	2009
+672256	  US	00250	     	US 250	Richmond Rd	132	City of Staunton	132	City of Staunton	0.96	Statler Blvd	Frontier Dr	23000	G	96%	0%	1%	1%	1%	0%	F	0.0862	F	0.5144	24000	G	2009
+672257	  US	00250	     	US 250	Richmond Rd	132	City of Staunton	132	City of Staunton	0.44	Frontier Rd	ECL Staunton	25000	G	96%	0%	1%	1%	1%	0%	C	0.0860	F	0.5162	28000	G	2009
+672221	 1US	00250	P    		New St	132	City of Staunton	132	City of Staunton	0.36	Churchville Ave	Frederick St	1100	G	98%	1%	1%	0%	0%	0%	C	0.0961	F	1.0000	1200	G	2009		6600	G	98%	0%	1%	0%	0%	0%	C				7200	G
+672233	 1US	00250	P    		New St	132	City of Staunton	132	City of Staunton	0.17	Frederick St	Johnson St	1500	G	98%	1%	1%	0%	0%	0%	F	0.1143	F	1.0000	1600	G	2009		6600	G	98%	0%	1%	0%	0%	0%	F				7100	G
+672254	  SR	00252	     	VA 252	Middlebrook Ave	132	City of Staunton	132	City of Staunton	1.08	SCL Staunton	Bridge St	3200	G	97%	0%	1%	1%	1%	0%	C	0.1135	F	0.6124	3400	G	2009
+672242	  SR	00252	     	VA 252	Middlebrook Ave	132	City of Staunton	132	City of Staunton	0.60	Bridge St	Lewis Street	3000	G	97%	0%	1%	1%	1%	0%	F	0.1050	F	0.5796	3300	G	2009
+672229	  SR	00252	     		Beverly St	132	City of Staunton	132	City of Staunton	0.11	Lewis St	US 250 Augusta St; Johnson St	3600	G	98%	0%	1%	0%	0%	0%	F	0.0860	F	1.0000	3900	G	2009		8100	G	98%	0%	1%	0%	0%	0%	F				8700	G
+672215	  SR	00254	     	VA 254	Beverly St	132	City of Staunton	132	City of Staunton	0.97	SR 262	Grubert St	8200	G	98%	0%	1%	0%	0%	0%	C	0.0938	F	0.5419	8900	G	2009
+672216	  SR	00254	     	VA 254	Beverly St	132	City of Staunton	132	City of Staunton	0.69	Grubert St	Thornrose Ave	9000	G	98%	0%	1%	0%	0%	0%	F	0.0919	F	0.5653	9800	G	2009
+672217	  SR	00254	     	VA 254	Beverly St	132	City of Staunton	132	City of Staunton	0.25	Thornrose Ave	Frederick St	7200	G	98%	0%	1%	0%	0%	0%	F	0.0855	F	0.6302	7800	G	2009
+672226	  SR	00254	     	VA 254	Beverly St	132	City of Staunton	132	City of Staunton	0.25	Frederick St	SR 254 P Jefferson St	6000	G	98%	0%	1%	0%	0%	0%	F	0.0833	F	0.6737	6500	G	2009
+672228	  SR	00254	     	VA 254	Beverly St	132	City of Staunton	132	City of Staunton	0.23	SR 254 P Jefferson St	Lewis St	3700	G	98%	0%	1%	0%	0%	0%	F	0.0937	F	1.0000	4000	G	2009		6900	G	98%	0%	1%	0%	0%	0%	F				7500	G
+672229	  SR	00254	     		Beverly St	132	City of Staunton	132	City of Staunton	0.11	Lewis St	US 250 Augusta St	3600	G	98%	0%	1%	0%	0%	0%	F	0.0860	F	1.0000	3900	G	2009		8100	G	98%	0%	1%	0%	0%	0%	F				8700	G
+672230	  SR	00254	     	VA 254	Beverly St	132	City of Staunton	132	City of Staunton	0.06	US 250 Augusta St	US 250 P New St	3600	N	98%	0%	1%	0%	0%	0%	N	0.0860	N	1.0000	3900	N	2009		6800	N	98%	0%	1%	0%	0%	0%	N				7400	N
+672223	  SR	00254	     	VA 254	Beverly St	132	City of Staunton	132	City of Staunton	0.16	US 250 P New St	Coalter St	2800	G	98%	0%	1%	0%	0%	0%	F	0.0898	F	1.0000	3000	G	2009		6000	G	98%	0%	1%	0%	0%	0%	F				6500	G
+672234	  SR	00254	     	VA 254	Coalter St	132	City of Staunton	132	City of Staunton	0.16	SR 254 P, E Beverly St	US 11, US 250 Commerce St	6200	G	98%	0%	1%	0%	0%	0%	F	0.0974	F	0.6444	6700	G	2009
+672238	  SR	00254	     		Commerce Rd	132	City of Staunton	132	City of Staunton	0.68	US 11 US 250 Commerce St	US 11 Commerce Rd	2700	G	97%	1%	1%	1%	1%	0%	C	0.0927	F	0.5839	2900	G	2009	
+672259	  SR	00254	     	VA 254	New Hope Rd	132	City of Staunton	132	City of Staunton	2.45	US 11 Commerce Rd	ECL Staunton	1200	G	99%	0%	1%	0%	0%	0%	C	0.1228	F	0.5287	1300	G	2009
+672340	 1SR	00254	P    	VA 254 Par	Jefferson St	132	City of Staunton	132	City of Staunton	0.07	SR 254 Beverly St	W Frederick St	1700	G	97%	0%	2%	0%	0%	0%	C	0.1228	F	0.8664	1800	G	2009
+672339	 1SR	00254	P    	VA 254 Par	Frederick St	132	City of Staunton	132	City of Staunton	0.28	Jefferson St	Central St	3200	G	98%	0%	1%	0%	0%	0%	C	0.1173	F	1.0000	3400	G	2009		6900	G	98%	0%	1%	0%	0%	0%	F				7500	G
+672334	 1SR	00254	P    		Frederick St	132	City of Staunton	132	City of Staunton	0.11	Central St	US 250, Bus US 11 Par, Augusta Ave	4500	G	98%	0%	1%	0%	0%	0%	F	0.1048	F	1.0000	4800	G	2009		8100	G	98%	0%	1%	0%	0%	0%	F				8700	G
+672245	 1SR	00254	P    	VA 254 Par	Frederick St	132	City of Staunton	132	City of Staunton	0.17	US 250, Bus US 11 Par, Augusta Ave	Coalter St	3200	G	98%	0%	1%	0%	0%	0%	F	0.0930	F	1.0000	3500	G	2009		6000	G	98%	0%	1%	0%	0%	0%	F				6500	G
+672246	 1SR	00254	P    	VA 254 Par	Coalter St	132	City of Staunton	132	City of Staunton	0.07	E Frederick St	SR 254, E Beverly St	5800	G	98%	0%	1%	0%	0%	0%	F	0.0990	F	0.7665	6300	G	2009
+672247	  SR	00261	     	VA 261	Statler Blvd	132	City of Staunton	132	City of Staunton	0.84	Old Greenville Rd	Richmond Rd	9400	G	98%	0%	1%	1%	0%	0%	C	0.0966	F	0.5386	10000	G	2009
+672327	  SR	00261	     	VA 261	Statler Blvd	132	City of Staunton	132	City of Staunton	0.78	Richmond Rd	New Hope Rd	14000	G	97%	0%	1%	1%	1%	0%	C	0.0898	F	0.5293	15000	G	2009
+672328	  SR	00261	     	VA 261	Statler Blvd	132	City of Staunton	132	City of Staunton	0.14	New Hope Rd	Commerce Rd	14000	G	97%	0%	1%	1%	1%	0%	F	0.0908	F	0.5125	15000	G	2009
+672300	  SR	00261	     	VA 261	Statler Blvd	132	City of Staunton	132	City of Staunton	0.25	Commerce Rd	Beverly St	11000	G	97%	0%	1%	1%	1%	0%	F	0.0910	F	0.5487	12000	G	2009
+672301	  SR	00261	     	VA 261	Statler Blvd	132	City of Staunton	132	City of Staunton	0.20	Beverly St	Coalter St	10000	G	97%	0%	1%	1%	1%	0%	F	0.0900	F	0.5602	11000	G	2009
+080641	  SR	00262	     	VA 262	 	132	City of Staunton	007	Augusta County	0.58	WCL Staunton	US 250 Churchville Ave	6500	G	95%	1%	1%	2%	2%	0%	F	0.0992	F	0.5557	7000	G	2009
+080637	  SR	00262	     	VA 262	Woodrow Wilson Pkwy	132	City of Staunton	007	Augusta County	2.22	US 250 Churchville Ave	07-613 Spring Hill Rd	8200	G	95%	0%	1%	2%	1%	0%	C	0.0945	F	0.6895	8900	G	2009
+672351	  SR	00262	     	VA 262	Woodrow Wilson Pkwy	132	City of Staunton	007	Augusta County	1.74	07-613 Spring Hill Rd	US 11 Commerce Rd	9900	G	96%	0%	1%	1%	1%	0%	C	0.0947	F	0.7024	11000	G	2009
+672329	  SR	00262	     	VA 262	Woodrow Wilson Pkwy	132	City of Staunton	007	Augusta County	1.34	US 11 Commerce Rd	ECL Staunton	12000	G	96%	0%	1%	1%	1%	0%	F	0.1011	F	0.5152	13000	G	2009
+788180	  FR	01058	     	FR 1058	Seth Dr	132	City of Staunton	007	Augusta County	0.07	Dead End	Connector to SR 252	90	R							X						06/21/2007
+795456	  FR	01058	     	FR 1058	Seth Dr	132	City of Staunton	007	Augusta County	0.19	Connector to SR 252	Dead End	90	N							X				0	N	06/21/2007
+672338	 132	00001	     	132-1	Englewood Dr	132	City of Staunton	132	City of Staunton	0.34	Churchville Ave	Schutterlee Mill Rd	2400	G	97%	1%	1%	0%	0%	0%	C	0.1254	F	0.5172	2600	G	2009
+672241	 132	04900	     	132-4900	Hampton St	132	City of Staunton	132	City of Staunton	0.28	Middlebrook Ave	Greenville Ave	7500	G	98%	1%	1%	0%	0%	0%	F	0.0835	F	0.5037	8100	G	2009
+672335	 132	04901	     	132-4901	Barterbrook Rd	132	City of Staunton	132	City of Staunton	0.17	SCL Staunton	Greenville Ave	2700	G	98%	1%	1%	0%	0%	0%	C	0.0975	F	0.5729	2900	G	2009
+672262	 132	04902	     	132-4902	Buttermilk Spring Rd	132	City of Staunton	132	City of Staunton	1.00	WCL Staunton	Pierce St	360	G	98%	1%	1%	0%	0%	0%	C	0.1266	F	0.5833	390	G	2009
+781783	 132	04902	     	132-4902	Straith St	132	City of Staunton	132	City of Staunton	0.30	Pierce St	SR 254 Beverly St	1000	G	98%	1%	1%	0%	0%	0%	F	0.1081	F	0.5316	1100	G	2009
+672222	 132	04903	     	132-4903	Coalter St	132	City of Staunton	132	City of Staunton	0.54	Frederick St	Edgewood Rd	4100	G	98%	0%	1%	0%	0%	0%	F	0.0920	F	0.5646	4400	G	2009
+672210	 132	04903	     	132-4903	Coalter St	132	City of Staunton	132	City of Staunton	1.31	Edgewood Rd	Augusta St	3300	G	98%	0%	1%	0%	0%	0%	C	0.0984	F	0.5129	3600	G	2009
+672218	 132	04905	     	132-4905	Lewis St	132	City of Staunton	132	City of Staunton	0.48	Beverly St	Churchville Ave	3500	G	98%	1%	1%	0%	0%	0%	C	0.0981	F	0.6423	3800	G	2009
+672243	 132	04909	     	132-4909	Bridge St	132	City of Staunton	132	City of Staunton	0.19	Middlebrook Ave	Stuart St	6200	G	97%	1%	1%	1%	0%	0%	C	0.0932	F	0.5430	6700	G	2009
+781784	 132	04909	     	132-4909	Green St; Fayette St	132	City of Staunton	132	City of Staunton	0.27	Stuart St	SR 254 W Beverly St	2300	G	97%	1%	1%	1%	0%	0%	F	0.0930	F	0.5373	2500	G	2009
+672219	 132	04913	     	132-4913	N Central St	132	City of Staunton	132	City of Staunton	0.38	Beverly St	Churchville Ave	4000	G	98%	1%	1%	0%	0%	0%	C	0.0952	F	0.6344	4400	G	2009
+672349	 132	04915	     	132-4915	Thornrose Ave	132	City of Staunton	132	City of Staunton	0.31	Beverly St	Circle Ave	1900	G	98%	1%	1%	0%	0%	0%	C	0.0973	F	0.5545	2000	G	2009
+672783	 132	04915	     	132-4915	Thornrose Ave	132	City of Staunton	132	City of Staunton	0.42	Circle Ave	Churchville Ave	4500	G	98%	1%	1%	0%	0%	0%	F	0.0997	F	0.5154	4900	G	2009
+672202	 132	04919	     	132-4919	Grubert Ave	132	City of Staunton	132	City of Staunton	0.99	Beverly St	Churchville Ave	5100	G	97%	1%	1%	0%	0%	0%	C	0.0930	F	0.5174	5500	G	2009
+672250	 132	04921	     	132-4921	Morris Mill Rd	132	City of Staunton	132	City of Staunton	0.88	WCL Staunton	Beverly St	2500	G	99%	0%	0%	0%	0%	0%	C	0.0948	F	0.6328	2700	G	2009
+672207	 132	04925	     	132-4925	Lambert St	132	City of Staunton	132	City of Staunton	0.44	Augusta St	Donaghe St	7000	G	99%	1%	0%	0%	0%	0%	C	0.0957	F	0.7337	7600	G	2009
+672204	 132	04927	     	132-4927	Spring Hill Rd	132	City of Staunton	132	City of Staunton	0.76	Churchville Ave	Donaghe St	3000	G	99%	0%	1%	0%	0%	0%	F	0.1034	F	0.5038	3200	G	2009
+672345	 132	04927	     	132-4927	Springhill Rd	132	City of Staunton	132	City of Staunton	1.45	Donaghe St	NCL Staunton	2900	G	99%	0%	1%	0%	0%	0%	C	0.1016	F	0.6012	3100	G	2009
+672341	 132	04929	     	132-4929	Mt View Dr	132	City of Staunton	132	City of Staunton	0.39	Commerce Rd	Coalter St	530	G	99%	1%	0%	0%	0%	0%	C	0.1166	F	0.5652	580	G	2009
+672782	 132	04931	     	132-4931	Shutterlee Mill Rd	132	City of Staunton	132	City of Staunton	0.95	Englewood Dr	NCL Staunton	1500	G	99%	0%	1%	0%	0%	0%	C	0.0996	F	0.5588	1700	G	2009
+672343	 132	04932	     	132-4932	Pierce St	132	City of Staunton	132	City of Staunton	0.20	Straith St	Hays Ave	1000	G	99%	0%	1%	0%	0%	0%	C	0.1015	F	0.5714	1100	G	2009
+672342	 132	04933	     	132-4933	Peck St	132	City of Staunton	132	City of Staunton	0.17	Montgomery Ave	Austin Ave	3700	G	99%	0%	1%	0%	0%	0%	F	0.1045	F	0.5894	4000	G	2009
+781787	 132	04933	     	132-4933	Chysler St/Hays Ave	132	City of Staunton	132	City of Staunton	0.36	Austin Ave	SR 254 Beverly St	3500	G	99%	0%	1%	0%	0%	0%	F	0.1064	F	0.6024	3800	G	2009
+672336	 132	04935	     	132-4935	Stuart St	132	City of Staunton	132	City of Staunton	0.57	Montgomery Ave	Bridge St	4900	G	99%	0%	1%	0%	0%	0%	F	0.1035	F	0.6126	5300	G	2009
+672227	 132	04937	     	132-4937	Johnson St	132	City of Staunton	132	City of Staunton	0.23	Jefferson St	Lewis St	2200	G	99%	0%	0%	0%	0%	0%	C	0.1004	F	0.7468	2400	G	2009
+672231	 132	04937	     	132-4937	Johnson St	132	City of Staunton	132	City of Staunton	0.11	Lewis St	Augusta St	5400	G	98%	0%	1%	0%	0%	0%	C	0.0925	F	0.5694	5900	G	2009
+672344	 132	04938	     	132-4938	Prospect St	132	City of Staunton	132	City of Staunton	0.53	Augusta St	N Coalter St	850	G	99%	0%	1%	0%	0%	0%	C	0.1119	F	0.5300	930	G	2009
+672206	 132	04940	     	132-4940	Donaghe St	132	City of Staunton	132	City of Staunton	0.37	Churchville Ave	Lambert St	4500	G	99%	0%	1%	0%	0%	0%	F	0.1035	F	0.6024	4900	G	2009
+672205	 132	04940	     	132-4940	Donaghe St	132	City of Staunton	132	City of Staunton	0.47	Lambert St	Spring Hill Rd	2600	G	99%	0%	1%	0%	0%	0%	C	0.1070	F	0.5828	2900	G	2009
+672330	 132	04942	     	132-4942	Old Greenville Rd	132	City of Staunton	132	City of Staunton	0.47	SCL Staunton	US 11 Greenville Ave	2600	G							X	0.1093	F	0.5552	2800	G	2009
+672255	 132	04944	     	132-4944	Frontier Dr	132	City of Staunton	132	City of Staunton	1.00	SCL Staunton	Richmond Rd	8900	G	99%	0%	1%	0%	0%	0%	C	0.0878	F	0.5458	9600	G	2009
+572004	 132	00000	     	132-0	Archer St	132	City of Staunton	132	City of Staunton	0.00	Tuxedo St	Devon Rd	960	G							X	0.1265	F	0.0000	1000	G	2009
+572008	 132	00000	     	132-0	Berry St	132	City of Staunton	132	City of Staunton	0.00	Gypsy Ave	Parkview Ave	70	G							X	0.2129	F	0.5455	80	G	2009
+572011	 132	00000	     	132-0	Blue Ridge Dr	132	City of Staunton	132	City of Staunton	0.00	East Beverly St	1st Lammermoor Dr Intersection	240	G							X	0.1371	F	0.0000	260	G	2009
+572005	 132	00000	     	132-0	College Circle	132	City of Staunton	132	City of Staunton	0.00	US 11 Augusta St	Oak Lane	1000	G							X	0.1003	F	0.6549	1100	G	2009
+572010	 132	00000	     	132-0	Frasier Ln	132	City of Staunton	132	City of Staunton	0.00	College Circle	Sproul Lane	100	G							X	0.1300	F	0.5862	110	G	2009
+572009	 132	00000	     	132-0	Peyton St	132	City of Staunton	132	City of Staunton	0.00	West Beverly St	Second St	310	G							X	0.1364	F	0.5376	330	G	2009
+572006	 132	00000	     	132-0	Rockway St	132	City of Staunton	132	City of Staunton	0.00	Lambert St	Donaghe St	50	G							X	0.1368	F	0.6250	60	G	2009
+572007	 132	00000	     	132-0	Spruce St	132	City of Staunton	132	City of Staunton	0.00	Lyle Avenue	Spring Hill Rd	790	G							X	0.1083	F	0.0000	790	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

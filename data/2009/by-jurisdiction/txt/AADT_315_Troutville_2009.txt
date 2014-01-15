@@ -1,0 +1,22 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Troutville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+020529	  US	00011	     	US 11	Lee Highway	315	Town of Troutville	011	Botetourt County	1.85	SCL Troutville	NCL Troutville	7500	N	99%	0%	0%	0%	0%	0%	N	0.0987	N	0.6080	7800	N	2009
+706961	  11	00651	     	11-651	Sunset Ave	315	Town of Troutville	011	Botetourt County	0.37	WCL Troutville	US 11 S, Lee Highway	830	R							X						11/29/2004
+706962	  11	00651	     	11-651	Stoney Battery Rd	315	Town of Troutville	011	Botetourt County	0.10	US 11 MID, Lee Highway	11-716 Apple Orchard Lane	1400	R							X						11/29/2004
+706963	  11	00651	     	11-651	Stoney Battery Rd	315	Town of Troutville	011	Botetourt County	0.33	11-716 Apple Orchard Lane	ECL Troutville	700	R							X						11/29/2004
+403534	  11	00652	     	11-652	Mountain Pass Rd	315	Town of Troutville	011	Botetourt County	0.05	US 11 Lee Highway	ECL Troutville	780	G	98%	1%	1%	0%	0%	0%	F	0.1232	F	0.5098	820	G	2009
+707010	  11	00670	     	11-670	Trinity Rd	315	Town of Troutville	011	Botetourt County	0.21	US 11 Lee Highway	NCL Troutville	2000	R							X						04/09/2007
+707092	  11	00716	     	11-716	Apple Orchard Lane	315	Town of Troutville	011	Botetourt County	0.25	11-651 S, Stoney Battery Rd	ECL Troutville	510	R							X						11/29/2004
+707138	  11	00755	     	11-755	Rader Rd	315	Town of Troutville	011	Botetourt County	0.13	Dead End	11-670 Trinity Rd	4	R							X						04/06/2007
+707140	  11	00757	     	11-757	Maple Ave	315	Town of Troutville	011	Botetourt County	0.27	US 11 Lee Highway	Dead End	130	R							X						11/29/2004
+403599	  11	00779	     	11-779	Valley Rd	315	Town of Troutville	011	Botetourt County	0.15	WCL Troutville	US 11 Lee Highway	1400	G	88%	1%	2%	2%	6%	0%	F	0.1190	F	0.5161	1500	G	2009
+707387	  11	01101	     	11-1101	Westview Rd	315	Town of Troutville	011	Botetourt County	0.15	Dead End	11-651 Sunset Ave	40	R							X						03/10/2004
+707388	  11	01102	     	11-1102	School Dr	315	Town of Troutville	011	Botetourt County	0.11	US 11 Lee Highway	11-651 Sunset Ave	50	R							X						03/10/2004
+707389	  11	01103	     	11-1103	Moomaw Dr	315	Town of Troutville	011	Botetourt County	0.11	US 11 Lee Highway	Dead End	50	R							X						03/10/2004
+707401	  11	01125	     	11-1125	Boone Dr	315	Town of Troutville	011	Botetourt County	0.06	Dead End	US 11 Lee Highway	300	R							X						04/06/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

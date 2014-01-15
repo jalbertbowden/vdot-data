@@ -1,0 +1,25 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Vinton																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+687806	  SR	00024	     	VA 24	Virginia Ave	149	Town of Vinton	149	Town of Vinton	0.51	WCL Vinton	Pollard St	26000	F	98%	0%	1%	0%	1%	0%	F	0.0886	F	0.6190	28000	F	2009
+687007	  SR	00024	     	VA 24	Virginia Ave	149	Town of Vinton	149	Town of Vinton	0.80	Pollard St	Clearview St	23000	F	98%	0%	1%	0%	1%	0%	C	0.0871	F	0.6354	24000	F	2009
+687807	  SR	00024	     	VA 24	By Pass Rd	149	Town of Vinton	149	Town of Vinton	0.39	Hardy Rd	Washington Ave	15000	F	98%	0%	1%	0%	1%	0%	F	0.0915	F	0.5915	16000	F	2009
+687808	  SR	00024	     	VA 24	Washington Ave	149	Town of Vinton	149	Town of Vinton	0.53	Bypass Rd	ECL Vinton	24000	F	98%	0%	1%	0%	1%	0%	F	0.0899	F	0.6986	25000	F	2009
+687804	 149	00001	     	149-1	Walnut Ave	149	Town of Vinton	149	Town of Vinton	0.75	Roanoke County Line	W Lee Ave	6800	F	99%	0%	0%	0%	1%	0%	C	0.1325	F	0.7939	7400	F	2009
+687805	 149	00001	     	149-1	W Lee Ave	149	Town of Vinton	149	Town of Vinton	0.06	Walnut Ave	S Pollard St	5000	F	99%	0%	0%	0%	1%	0%	F	0.1217	F	0.7222	5300	F	2009
+796413	 149	00002	     	149-2	Mountain View Rd	149	Town of Vinton	149	Town of Vinton	1.12	Washington St	80-1217 Olney Rd; ECL Vinton	0	?							X
+687259	 149	08034	     	149-8034	Hardy Rd	149	Town of Vinton	149	Town of Vinton	0.65	SR 24	ECL Vinton	11000	F	99%	0%	1%	0%	0%	0%	F	0.1047	F	0.8757	12000	F	2009
+687803	 149	08049	     	149-8049	Pollard St	149	Town of Vinton	149	Town of Vinton	0.23	Virginia Ave	Jackson Ave	6100	F	99%	0%	1%	0%	0%	0%	C	0.0921	F	0.5111	6400	F	2009
+687004	 149	08049	     	149-8049	Pollard St	149	Town of Vinton	149	Town of Vinton	0.13	Jackson Ave	Washington Ave	6400	F	99%	0%	1%	0%	0%	0%	F	0.0942	F	0.5820	6800	F	2009
+687800	 149	08050	     	149-8050	Gus W Nicks Blvd	149	Town of Vinton	149	Town of Vinton	0.30	NCL Vinton	Pollard St	21000	F	98%	0%	1%	1%	1%	0%	F	0.0895	F	0.6240	22000	F	2009
+687003	 149	08050	     	149-8050	Washington St	149	Town of Vinton	149	Town of Vinton	0.65	Pollard St	Mitchell St	21000	F	98%	0%	1%	1%	1%	0%	C	0.0960	F	0.7165	22000	F	2009
+687801	 149	08050	     	149-8050	Washington St	149	Town of Vinton	149	Town of Vinton	0.25	Mitchell St	SR 24 Washington Ave; By Pass Rd	18000	F	98%	0%	1%	1%	1%	0%	F	0.0929	F	0.6906	19000	F	2009
+587005	 149	00000	     	149-0	Cleveland Ave	149	Town of Vinton	149	Town of Vinton	0.00	Chestnut St	Pine St	2500	F							X	0.1273	F	0.7743	2700	F	2009
+587004	 149	00000	     	149-0	Lee Ave	149	Town of Vinton	149	Town of Vinton	0.00	Maple St	Poplar St	620	F							X	0.1290	F	0.5165	650	F	2009
+587003	 149	00000	     	149-0	Meadow St	149	Town of Vinton	149	Town of Vinton	0.00	Washington Ave	Monroe Ave	1200	F							X	0.1043	F	0.5090	1200	F	2009
+587002	 149	00000	     	149-0	Poplar St	149	Town of Vinton	149	Town of Vinton	0.00	Madison Ave	Gunn Rd	210	F							X	0.1236	F	0.5870	220	F	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

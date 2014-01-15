@@ -1,0 +1,60 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Purcellville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+090282	  SR	00007	     	VA 7	Harry Flood Byrd Hwy	286	Town of Purcellville	053	Loudoun County	0.94	WCL Purcellville	ECL Purcellville	24000	G	97%	1%	1%	0%	1%	0%	F	0.0941	F	0.0000	28000	G	2009
+190146	C3SR	00007	     	Bus VA 7	Main St	286	Town of Purcellville	053	Loudoun County	2.06	WCL Purcellville	SR 287 Berlin Tpke	9200	N	96%	2%	1%	1%	0%	0%	N	0.0943	N	0.0000	9800	N	2009
+190158	C3SR	00007	     	Bus VA 7	Colonial Highway	286	Town of Purcellville	053	Loudoun County	0.07	SR 287 Berlin Tpke	ECL Purcellville	8500	N	96%	2%	1%	1%	0%	0%	N	0.1273	N	0.0000	9100	N	2009
+090008	  SR	00287	     	VA 287	Berlin Tpke	286	Town of Purcellville	053	Loudoun County	0.55	BUS SR 7	NCL Purcellville	4700	N	94%	2%	2%	0%	1%	0%	N	0.0975	N	0.0000	5000	N	2009
+793637	 286	00006	     	286-6	Telegraph Springs Rd	286	Town of Purcellville	286	Town of Purcellville	0.46	SCL Purcellville	53-1610, A St	1900	N							X				0	N	04/25/2005
+749805	 286	00006	     	286-6	20th St	286	Town of Purcellville	286	Town of Purcellville	0.34	53-1610, A St	53-1608, E St	1100	R							X						1999
+749806	 286	00006	     	286-6	20th St	286	Town of Purcellville	286	Town of Purcellville	0.34	53-1608, E St	BUS SR 7 W, Main St	3100	R							X						09/09/2008
+301466	 286	00006	     	286-6	Hatcher Ave	286	Town of Purcellville	286	Town of Purcellville	0.80	BUS SR 7 E, Main St	NCL Purcellville	4000	G	97%	1%	1%	1%	0%	0%	C	0.0938	F	0.5297	4200	G	2009
+303773	 286	00007	     	286-7	S 32nd St	286	Town of Purcellville	286	Town of Purcellville	0.61	53-690 Silcott Springs Rd; SCL Purcellville	286-14; S Nursery St	3100	N	95%	1%	2%	1%	1%	0%	N	0.0873	N	0.6362	3400	N	2009
+796617	 286	00007	     	286-7	S Nursery Ave	286	Town of Purcellville	286	Town of Purcellville	0.43	286-14, S 32nd St	Bus SR 7, W Main St	0	?							X
+750013	 286	00007	     	286-7	23rd St; Hillsboro Rd	286	Town of Purcellville	286	Town of Purcellville	0.10	Bus SR 7 E, W Main St	286-12 21st Street	1800	R							X						1999
+301539	 286	00007	     	286-7	Hillsboro Rd	286	Town of Purcellville	286	Town of Purcellville	0.69	53-1604; 21st St	NCL Purcellville	3700	G	97%	1%	1%	1%	0%	0%	F	0.0970	F	0.0000	3900	G	2009
+785149	 286	00008	     	286-8	Maple Ave S	286	Town of Purcellville	286	Town of Purcellville	0.65	SCL Purcellville	Bus SR 7; W Main St	2200	N							X				0	N	1999
+750098	 286	00008	     	286-8	Maple Ave N	286	Town of Purcellville	286	Town of Purcellville	0.44	Bus SR 7; W Main St	286-32 Loudoun Valley High School	4900	R							X						01/12/2005
+750099	 286	00008	     	286-8	Maple Ave N	286	Town of Purcellville	286	Town of Purcellville	0.28	286-32 Loudoun Valley High School	FR-962 Hirst Rd	1200	R							X						1999
+750963	 286	00009	     	286-9	33rd St N	286	Town of Purcellville	286	Town of Purcellville	0.17	Bus SR 7 Main St W	286-11 Country Club Dr W	610	R							X						1999
+750964	 286	00010	     	286-10	Holly Lane	286	Town of Purcellville	286	Town of Purcellville	0.07	286-9 33rd St N	Dead End	70	R							X						1999
+750965	 286	00011	     	286-11	W Country Club Dr	286	Town of Purcellville	286	Town of Purcellville	0.10	286-26 Glenmeade Circle	286-9 33rd St N	300	R							X						1999
+750966	 286	00011	     	286-11	W. Country Club Dr	286	Town of Purcellville	286	Town of Purcellville	0.27	286-9 33rd St N	Dead End	300	R							X						1999
+301622	 286	00012	     	286-12	21st Street	286	Town of Purcellville	286	Town of Purcellville	0.13	286-7 Hillsboro Rd; 23rd St	Bus SR 7	2200	G	97%	1%	1%	0%	0%	0%	C	0.1016	F	0.0000	2400	G	2009
+750967	 286	00013	     	286-13	Orchard Dr	286	Town of Purcellville	286	Town of Purcellville	0.41	286-14 Nursery Ave S	Bus SR 7 Main St W	530	R							X						1999
+750968	 286	00014	     	286-14	Nursery Ave S	286	Town of Purcellville	286	Town of Purcellville	0.64	286-7 Silcott Springs Rd	Bus SR 7, Main St E	2100	R							X						1999
+750969	 286	00015	     	286-15	East G St	286	Town of Purcellville	286	Town of Purcellville	0.62	286-6 20th St	286-8 Maple Ave S	400	R							X						1999
+750970	 286	00016	     	286-16	East E St	286	Town of Purcellville	286	Town of Purcellville	0.27	286-6 20th St	286-15, East G St	590	R							X						1999
+795926	 286	00016	     	286-16	South 12th St	286	Town of Purcellville	286	Town of Purcellville	0.27	286-15, East G St	Bus SR 7 Main St	1400	R							X						09/15/2009
+750973	 286	00017	     	286-17	9th St S	286	Town of Purcellville	286	Town of Purcellville	0.36	286-8 Maple Ave S	SR 7 Main St E	750	R							X						1999
+751033	 286	00018	     	286-18	N 16th St	286	Town of Purcellville	286	Town of Purcellville	0.07	Bus SR 7, Main St E	Cul-de-Sac	130	R							X						1999
+751045	 286	00019	     	286-19	Loudoun Valley Dr	286	Town of Purcellville	286	Town of Purcellville	0.23	286-6 Hatcher Ave	Dead End	230	R							X						1999
+751046	 286	00020	     	286-20	East D St	286	Town of Purcellville	286	Town of Purcellville	0.25	286-6 20th St	Cul-de-Sac	280	R							X						1999
+793150	 286	00021	     	286-21	Burnleigh Ct	286	Town of Purcellville	286	Town of Purcellville	0.08	Cul-de-Sac	286-26 Glenmeade Circle	0	?							X
+793151	 286	00022	     	286-22	Heronwood Ct	286	Town of Purcellville	286	Town of Purcellville	0.12	286-26 Glenmeade Circle	Cul-de-Sac	0	?							X
+793152	 286	00023	     	286-23	Oakleigh Ct	286	Town of Purcellville	286	Town of Purcellville	0.07	286-26 Glenmeade Circle	Cul-de-Sac	0	?							X
+793153	 286	00024	     	286-24	Bolingbrook Ct	286	Town of Purcellville	286	Town of Purcellville	0.05	Cul-de-Sac	286-26 Glenmeade Circle	0	?							X
+750974	 286	00025	     	286-25	East A St	286	Town of Purcellville	286	Town of Purcellville	0.50	286-6 20th St; Telegraph Springs Rd	53-722 Lincoln Rd; SCL Purcellville	990	R							X						1999
+795928	 286	00026	     	286-26	North Nichols Place	286	Town of Purcellville	286	Town of Purcellville	0.02	End State Maintenance	286-29 Ashleigh Rd	620	R							X						09/15/2009
+795927	 286	00026	     	286-26	Glenmeade Circle	286	Town of Purcellville	286	Town of Purcellville	0.06	286-29 Ashleigh Rd	286-27 Kinloch Ct; 286-28 Dunridge Ct	0	?							X
+793154	 286	00026	     	286-26	Glenmeade Circle	286	Town of Purcellville	286	Town of Purcellville	0.06	286-27 Kinloch Ct; 286-28 Dunridge Ct	286-34 Rockburn Ct	0	?							X
+795929	 286	00026	     	286-26	Glenmeade Circle	286	Town of Purcellville	286	Town of Purcellville	0.06	286-34 Rockburn Ct	286-22 Heronwood Ct; 286-21 Burnleigh Ct	300	R							X						09/15/2009
+795930	 286	00026	     	286-26	Glenmeade Circle	286	Town of Purcellville	286	Town of Purcellville	0.06	286-22 Heronwood Ct; 286-21 Burnleigh Ct	286-24 Bolingbrook Ct; 286-23 Oakleigh Ct	0	?							X
+795931	 286	00026	     	286-26	Glenmeade Circle	286	Town of Purcellville	286	Town of Purcellville	0.09	286-24 Bolingbrook Ct; 286-23 Oakleigh Ct	286-11, W Country Club Dr	0	?							X
+793155	 286	00027	     	286-27	Kinloch Ct	286	Town of Purcellville	286	Town of Purcellville	0.07	Cul-de-Sac	286-26 Glenmeade Circle	0	?							X
+793156	 286	00028	     	286-28	Dunridge Ct	286	Town of Purcellville	286	Town of Purcellville	0.05	286-26 Glenmeade Circle	Cul-de-Sac	0	?							X
+793158	 286	00029	     	286-29	Ashleigh Rd	286	Town of Purcellville	286	Town of Purcellville	0.16	286-26 North Nichols Pl	286-7 Hillsboro Rd	870	R							X						09/12/2008
+793159	 286	00030	     	286-30	Dresden Ct	286	Town of Purcellville	286	Town of Purcellville	0.04	286-29 Ashleigh Rd	Cul-de-Sac	0	?							X
+796616	 286	00031	     	286-31	Hirst Rd	286	Town of Purcellville	286	Town of Purcellville	0.70	FR-962; SCL Purcellville	Hillsboro Rd; NCL Purcellville	0	?							X
+751478	 286	00032	     	286-32	Loudoun Valley High School	286	Town of Purcellville	286	Town of Purcellville	0.17	286-8 W, Maple Ave	286-8 E, Maple Ave	1100	R							X						1999
+751479	 286	00033	     	286-33	 	286	Town of Purcellville	286	Town of Purcellville	0.19	Dead End	286-14 Nursery Ave S	290	R							X						1999
+793157	 286	00034	     	286-34	Rockburn Ct	286	Town of Purcellville	286	Town of Purcellville	0.08	286-26 Glenmeade Circle	Cul-de-Sac	0	?							X
+751465	 286	00035	     	286-35	15th St	286	Town of Purcellville	286	Town of Purcellville	0.15	53-1610 East A St	Dead End	440	R							X						1999
+792255	 286	00000	     	286-0	K St	286	Town of Purcellville	286	Town of Purcellville	0.00	26th St	Nursery Ave	250	G							X	0.1148	F	0.0000	250	G	2009
+792254	 286	00000	     	286-0	Remington Dr	286	Town of Purcellville	286	Town of Purcellville	0.00	Wexford Place	Eastgate Dr	340	G							X	0.1325	F	0.5111	340	G	2009
+792256	 286	00000	     	286-0	Wintergreen Dr	286	Town of Purcellville	286	Town of Purcellville	0.00	Orchard Brook Lane	Locust Grove Dr	360	G							X	0.1044	F	0.5500	360	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

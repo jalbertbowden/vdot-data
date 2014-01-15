@@ -1,0 +1,361 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Warren Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080510	  US	00011	     	US 11	Old Valley Pike	093	Warren County	093	Warren County	0.19	Shenandoah County Line	Frederick County Line	4000	G	91%	0%	1%	4%	3%	0%	C	0.0913	F	0.0000	4200	G	2009
+787386	  SR	00048	     	VA 48	Skyline Dr	093	Warren County	US 	Federal	1.69	Rappahannock County Line	Rappahannock County Line	650	O							X						2009
+787388	  SR	00048	     	VA 48	Skyline Dr	093	Warren County	US 	Federal	10.47	Rappahannock County Line	US 340; Front Royal	650	O							X						2009
+080534	  SR	00055	     	VA 55	Strasburg Rd	093	Warren County	093	Warren County	4.91	Shenandoah County Line	93-626 Andrews Rd	3600	N	96%	0%	1%	1%	1%	0%	N	0.0999	N	0.5351	3800	N	2009
+080513	  SR	00055	     	VA 55	Strasburg Rd	093	Warren County	093	Warren County	2.30	93-626 Andrews Rd	WCL Front Royal	6400	G	96%	0%	1%	1%	1%	0%	F	0.0919	F	0.0000	6700	G	2009
+632031	  SR	00055	     	VA 55	Strasburg Rd	112	Town of Front Royal	112	Town of Front Royal	0.90	WCL Front Royal	US 340, US 522 Shenandoah Ave	8600	F	98%	0%	1%	1%	0%	0%	C	0.0865	F	0.5998	9200	F	2009
+632034	  SR	00055	     		Shenandoah Ave	093	Warren County	093	Warren County	0.45	US 522	CL Front Royal	31000	F	96%	1%	1%	1%	1%	0%	C	0.0848	F	0.5051	31000	F	2009	
+632025	  SR	00055	     		Shenandoah Ave	112	Town of Front Royal	112	Town of Front Royal	0.34	CL Front Royal	14 ST	27000	G	96%	1%	1%	1%	1%	0%	F				28000	G	2009	
+632001	  SR	00055	     		14th St	112	Town of Front Royal	112	Town of Front Royal	0.24	Shenandoah Ave	North Royal Ave	22000	G	96%	1%	1%	1%	1%	0%	F				23000	G	2009	
+632022	  SR	00055	     		North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.35	14TH ST	US 522 & US 340	24000	G	96%	1%	1%	1%	1%	0%	C				25000	G	2009	
+632021	  SR	00055	     		North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.25	US 522 & US 340	6th St	13000	G	97%	1%	1%	1%	1%	0%	F	0.0901	F	0.0000	14000	G	2009	
+632020	  SR	00055	     		North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.57	6th St	E Main St	17000	G	97%	1%	1%	1%	1%	0%	C	0.0859	F	0.0000	18000	G	2009	
+632024	  SR	00055	     		South Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.40	E Main St	US 340	14000	G	96%	1%	1%	1%	1%	0%	C	0.0873	F	0.0000	15000	G	2009	
+632028	  SR	00055	     	VA 55	South  St	112	Town of Front Royal	112	Town of Front Royal	0.54	US 340, S Royal Ave	US 522, S Commerce Ave	14000	G	98%	1%	1%	0%	0%	0%	C				15000	G	2009
+632016	  SR	00055	     	VA 55	John Marshall Hwy	112	Town of Front Royal	112	Town of Front Royal	1.72	US 522, S Commerce Ave	ECL Front Royal	14000	G	98%	1%	1%	0%	1%	0%	C	0.0870	F	0.0000	16000	G	2009
+080512	  SR	00055	     	VA 55	John Marshall Hwy	093	Warren County	093	Warren County	2.98	ECL Front Royal	SR 79 Apple Mountain Rd	10000	G	98%	0%	1%	0%	1%	0%	C	0.0926	F	0.0000	11000	G	2009
+080511	  SR	00055	     	VA 55	John Marshall Hwy	093	Warren County	093	Warren County	1.35	SR 79 Apple Mountain Rd	Fauquier County Line	4200	G	98%	0%	1%	0%	1%	0%	F	0.1051	F	0.5856	4400	G	2009
+080193	  IS	00066	E    	I-66 EB	Ramp From I-81 N Exit 300 to I-66 E at Exit 1	093	Warren County	093	Warren County	0.25	I-81 N	I-66 E	8900	G	83%	1%	1%	1%	14%	1%	F				8300	G	2009		17000	G	84%	1%	1%	1%	13%	1%	F				16000	G
+080192	  IS	00066	E    	I-66 EB	 	093	Warren County	093	Warren County	6.36	I-81	US 340, US 522 Winchester Rd	15000	G	83%	1%	1%	1%	14%	1%	F				14000	G	2009		29000	G	84%	1%	1%	1%	13%	1%	F				27000	G
+080190	  IS	00066	E    	I-66 EB	 	093	Warren County	093	Warren County	6.49	US 340, US 522 Winchester Rd	SR 79	15000	B	83%	1%	1%	1%	14%	1%	C	0.1255	A	1.0000	14000	B	2009		29000	B	84%	1%	1%	1%	13%	1%	C	0.1069	A	0.5995	27000	B
+080188	  IS	00066	E    	I-66 EB	 	093	Warren County	093	Warren County	1.56	SR 79	Fauquier County Line	18000	F	87%	1%	1%	0%	11%	1%	C	0.0888	F	1.0000	17000	F	2009		35000	F	87%	1%	1%	0%	11%	1%	C				33000	F
+190154	  IS	00066	W    	I-66 WB	Ramp From I-66 W Exit 1 to I-81 S at Exit 300	034	Frederick County	093	Warren County	0.42	I-81 S	Warren County Line	8100	G	85%	1%	1%	1%	13%	1%	F				7500	G	2009		17000	G	84%	1%	1%	1%	13%	1%	F				16000	G
+190052	  IS	00066	W    	I-66 WB	 	093	Warren County	093	Warren County	6.62	I-81	US 340, US 522 Winchester Rd	14000	G	85%	1%	1%	1%	13%	1%	F				13000	G	2009		29000	G	84%	1%	1%	1%	13%	1%	F				27000	G
+190051	  IS	00066	W    	I-66 WB	 	093	Warren County	093	Warren County	6.55	US 340, US 522 Winchester Rd	SR 79	14000	A	85%	1%	1%	1%	13%	1%	C	0.1223	A	1.0000	13000	A	2009		29000	B	84%	1%	1%	1%	13%	1%	C	0.1069	A	0.5995	27000	B
+890050	  IS	00066	W    	I-66 WB	 	093	Warren County	093	Warren County	1.20	SR 79	Fauquier County Line	17000	B	87%	1%	1%	0%	11%	0%	C	0.1292	A	1.0000	16000	B	2009		35000	F	87%	1%	1%	0%	11%	1%	C				33000	F
+080515	  SR	00079	     	VA 79	Apple Mountain Rd	093	Warren County	093	Warren County	0.23	SR 55 West of Linden	I-66	12000	G	97%	1%	1%	0%	1%	0%	C	0.0845	F	0.0000	13000	G	2009
+980503	  IS	00081	N    	I-81 NB	 	093	Warren County	034	Frederick County	1.29	Shenandoah County Line	I-66, Frederick County Line	25000	G	75%	1%	1%	1%	21%	1%	F				25000	G	2009		50000	G	76%	1%	1%	1%	20%	1%	F				50000	G
+880010	  IS	00081	S    	I-81 SB	 	093	Warren County	034	Frederick County	1.15	Shenandoah County Line	Frederick County Line	25000	G	77%	1%	1%	1%	19%	1%	F				25000	G	2009		50000	G	76%	1%	1%	1%	20%	1%	F	0.0000	?	0.0000	50000	G
+080110	  US	00340	     	US 340	Stonewall Jackson Hwy	093	Warren County	093	Warren County	2.46	Page County Line	93-613 N, Bentonville Browntown Rd	4600	G	95%	1%	1%	1%	2%	0%	C	0.0894	F	0.0000	4800	G	2009
+080516	  US	00340	     	US 340	Stonewall Jackson Hwy	093	Warren County	093	Warren County	5.30	93-613 N, Bentonville Browntown Rd	93-607 Rocky Lane	5900	F	96%	1%	1%	2%	1%	0%	C	0.0916	F	0.7397	6500	F	2009
+080553	  US	00340	     	US 340	Stonewall Jackson Hwy	093	Warren County	093	Warren County	2.78	93-607 Rocky Lane	93-619 Rivermont Dr	8000	G	95%	1%	1%	1%	2%	0%	F	0.0893	F	0.0000	8400	G	2009
+080557	  US	00340	     	US 340	Stonewall Jackson Hwy	093	Warren County	093	Warren County	0.83	93-619 Rivermont Dr	SCL Front Royal	13000	G	95%	1%	1%	1%	2%	0%	F	0.0916	N	0.7397	13000	G	2009
+632023	  US	00340	     	US 340	South Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.31	SCL Front Royal	SR 55 South St	15000	G	95%	1%	1%	1%	2%	0%	F	0.0902	F	0.0000	16000	G	2009
+632024	  US	00340	     		South Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.40	SR 55 South St	E Main St	14000	G	96%	1%	1%	1%	1%	0%	C	0.0873	F	0.0000	15000	G	2009
+632020	  US	00340	     		North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.57	E Main St	6th St	17000	G	97%	1%	1%	1%	1%	0%	C	0.0859	F	0.0000	18000	G	2009
+632021	  US	00340	     		North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.25	6th St	US 522, 8th St	13000	G	97%	1%	1%	1%	1%	0%	F	0.0901	F	0.0000	14000	G	2009
+632022	  US	00340	     		North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.35	US 522, 8th St	14th St	24000	G	96%	1%	1%	1%	1%	0%	C				25000	G	2009	
+632001	  US	00340	     		14th St	112	Town of Front Royal	112	Town of Front Royal	0.24	North Royal Ave	Shenandoah Ave	22000	G	96%	1%	1%	1%	1%	0%	F				23000	G	2009	
+632025	  US	00340	     		Shenandoah Ave	112	Town of Front Royal	112	Town of Front Royal	0.34	14th St	CL Front Royal	27000	G	96%	1%	1%	1%	1%	0%	F				28000	G	2009	
+632034	  US	00340	     		Shenandoah Ave	093	Warren County	093	Warren County	0.45	CL Front Royal	SR 55 West	31000	F	96%	1%	1%	1%	1%	0%	C	0.0848	F	0.5051	31000	F	2009	
+632026	  US	00340	     		Shenandoah Ave	093	Warren County	093	Warren County	0.22	SR 55 West	Old NCL Front Royal	26000	F	97%	0%	1%	1%	1%	0%	F	0.0855	F	0.5393	28000	F	2009	
+080524	  US	00340	     		Winchester Rd	093	Warren County	093	Warren County	0.83	Old NCL Front Royal	I-66	28000	F	97%	0%	1%	1%	1%	0%	C	0.0846	F	0.5411	28000	F	2009	
+080523	  US	00340	     		Winchester Rd	093	Warren County	093	Warren County	1.28	I-66	93-627 Reliance Rd	23000	G	85%	1%	1%	2%	10%	0%	C	0.0793	F	0.0000	24000	G	2009	
+080559	  US	00340	     		Winchester Rd	093	Warren County	093	Warren County	2.81	93-627 Reliance Rd	93-802	17000	G	84%	1%	1%	2%	12%	0%	C	0.0840	F	0.0000	18000	G	2009	
+080522	  US	00340	     		Winchester Rd	093	Warren County	093	Warren County	0.30	93-802	Frederick County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009	
+080521	  US	00340	     		Winchester Rd	034	Frederick County	093	Warren County	0.53	Warren County Line	Warren County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009	
+080520	  US	00340	     		Winchester Rd	093	Warren County	093	Warren County	0.39	Frederick County Line	Frederick County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009	
+080519	  US	00340	     		Winchester Rd	034	Frederick County	093	Warren County	0.30	Warren County Line	Warren County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009	
+080518	  US	00340	     		Winchester Rd	093	Warren County	093	Warren County	0.16	Frederick County Line	Clarke County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009	
+080517	  US	00340	     		Stonewall Jackson Hwy	021	Clarke County	093	Warren County	1.79	Warren County Line	US 522 Double Toll Gate	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009	
+080525	  US	00522	     	US 522	 	093	Warren County	093	Warren County	3.77	Rappahannock County Line	SCL Front Royal	7900	G	96%	0%	1%	2%	1%	0%	C	0.0988	F	0.0000	8300	G	2009
+632005	  US	00522	     	US 522	Chester Gap Rd	112	Town of Front Royal	112	Town of Front Royal	0.60	SCL Front Royal	Criser Rd	7800	G	97%	0%	1%	1%	1%	0%	C	0.0931	F	0.0000	8200	G	2009
+632006	  US	00522	     	US 522	Chester Gap Rd	112	Town of Front Royal	112	Town of Front Royal	0.35	Criser Rd	SR 55 South St	11000	G	97%	0%	1%	1%	1%	0%	F				12000	G	2009
+632007	  US	00522	     	US 522	Commerce Ave	112	Town of Front Royal	112	Town of Front Royal	0.47	SR 55 South St	Main St	22000	G	98%	1%	1%	0%	1%	0%	C	0.0914	F	0.0000	23000	G	2009
+632008	  US	00522	     	US 522	Commerce Ave	112	Town of Front Royal	112	Town of Front Royal	0.74	Main St	Happy Creek Rd	16000	G	97%	1%	1%	0%	1%	0%	C	0.0822	F	0.0000	16000	G	2009
+632009	  US	00522	     	US 522	Commerce Ave	112	Town of Front Royal	112	Town of Front Royal	0.35	Happy Creek Rd	US 340 North Royal Ave	14000	G	97%	1%	1%	0%	1%	0%	F	0.0902	F	0.0000	15000	G	2009
+632022	  US	00522	     		North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.35	Commerce Ave	14th St	24000	G	96%	1%	1%	1%	1%	0%	C				25000	G	2009
+632001	  US	00522	     		14th St	112	Town of Front Royal	112	Town of Front Royal	0.24	North Royal Ave	Shenandoah Ave	22000	G	96%	1%	1%	1%	1%	0%	F				23000	G	2009
+632025	  US	00522	     		Shenandoah Ave	112	Town of Front Royal	112	Town of Front Royal	0.34	14th St	NCL Front Royal	27000	G	96%	1%	1%	1%	1%	0%	F				28000	G	2009
+632034	  US	00522	     		Shenandoah Ave	093	Warren County	093	Warren County	0.45	NCL Front Royal	SR 55 W, Strasburg Rd	31000	F	96%	1%	1%	1%	1%	0%	C	0.0848	F	0.5051	31000	F	2009
+632026	  US	00522	     		Shenandoah Ave	093	Warren County	093	Warren County	0.22	SR 55 W, Strasburg Rd	Old NCL Front Royal	26000	F	97%	0%	1%	1%	1%	0%	F	0.0855	F	0.5393	28000	F	2009
+080524	  US	00522	     		Winchester Rd	093	Warren County	093	Warren County	0.83	Old NCL Front Royal	I-66	28000	F	97%	0%	1%	1%	1%	0%	C	0.0846	F	0.5411	28000	F	2009
+080523	  US	00522	     		Winchester Rd	093	Warren County	093	Warren County	1.28	I-66	93-627 Reliance Rd	23000	G	85%	1%	1%	2%	10%	0%	C	0.0793	F	0.0000	24000	G	2009
+080559	  US	00522	     		Winchester Rd	093	Warren County	093	Warren County	2.81	93-627 Reliance Rd	93-802 Zion Church Road	17000	G	84%	1%	1%	2%	12%	0%	C	0.0840	F	0.0000	18000	G	2009
+080522	  US	00522	     		Winchester Rd	093	Warren County	093	Warren County	0.30	93-802 Zion Church Road	Frederick County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009
+080521	  US	00522	     		Winchester Rd	034	Frederick County	093	Warren County	0.53	Warren County Line	Warren County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009
+080520	  US	00522	     		Winchester Rd	093	Warren County	093	Warren County	0.39	Frederick County Line	Frederick County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009
+080519	  US	00522	     		Winchester Rd	034	Frederick County	093	Warren County	0.30	Warren County Line	Warren County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009
+080518	  US	00522	     		Winchester Rd	093	Warren County	093	Warren County	0.16	Frederick County Line	Clarke County Line	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009
+080517	  US	00522	     		Stonewall Jackson Hwy	021	Clarke County	093	Warren County	1.79	Warren County Line	US 340; SR 277 Double Toll Gate	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009
+780463	  FR	00225	     	FR 225	 	093	Warren County	093	Warren County	0.71	Dead End	93-609 Ritenour Hollow Rd	0	?							X
+780507	  FR	00283	     	FR 283	 	093	Warren County	093	Warren County	0.41	Dead End	Fauquier County Line	60	R							X						07/30/2008
+780509	  FR	00285	     	FR 285	 	093	Warren County	093	Warren County	0.24	Dead End	93-647 Dismal Hollow Rd	80	R							X						07/30/2008
+780674	  FR	00730	     	FR 730	Townsen Dr	093	Warren County	093	Warren County	0.26	Dead End	US 522 Winchester Rd	4400	R							X						07/30/2008
+780675	  FR	00731	     	FR 731	Paterson Dr	093	Warren County	093	Warren County	0.26	93-655 Country Club Rd	Dead End	4100	R							X						07/30/2008
+780798	  FR	00870	     	FR 870	 	093	Warren County	093	Warren County	0.08	SR 79; Ramp to I-66; Ramp From I-66	Dead End	0	R							X						07/30/2008
+776289	  93	00600	     	93-600	Hickerson Hollow Rd	093	Warren County	093	Warren County	1.00	Dead End	93-604 Harmony Hollow Rd	30	R							X						07/30/2008
+776290	  93	00601	     	93-601	Pomeroy Rd	093	Warren County	093	Warren County	1.00	Dead End	93-604 Harmony Hollow Rd	60	R							X						07/30/2008
+776291	  93	00602	     	93-602	 	093	Warren County	093	Warren County	0.25	93-604 Harmony Hollow Rd	0.25 ME 93-604 Harmony Hollow Rd	200	R							X						01/24/2006
+776292	  93	00602	     	93-602	 	093	Warren County	093	Warren County	0.45	0.25 ME 93-604 Harmony Hollow Rd	Dead End	30	R							X						01/24/2006
+776293	  93	00603	     	93-603	 	093	Warren County	093	Warren County	2.90	93-647 Dismal Hollow Rd	93-643	820	G							X				820	G	2009
+303711	  93	00603	     	93-603	Howellsville Rd	093	Warren County	093	Warren County	2.30	93-643	93-638 Blue Mtn Rd	2300	G	98%	0%	1%	1%	0%	0%	C	0.0967	F	0.5240	2400	G	2009
+776294	  93	00604	     	93-604	Harmony Hollow Rd	093	Warren County	093	Warren County	0.90	Dead End	93-600 Hickerson Hollow Rd	80	R							X						07/30/2008
+776295	  93	00604	     	93-604	Harmony Hollow Rd	093	Warren County	093	Warren County	0.82	93-600 Hickerson Hollow Rd	93-602	160	R							X						01/24/2006
+303712	  93	00604	     	93-604	Harmony Hollow Rd	093	Warren County	093	Warren County	0.34	93-602 Moore Rd	93-671 Harmony Orchard Rd	540	G	96%	1%	2%	1%	0%	0%	F	0.1137	F	0.7947	570	G	2009
+303713	  93	00604	     	93-604	Harmony Hollow Rd	093	Warren County	093	Warren County	1.59	93-671 Harmony Orchard Rd	US 522	800	G	96%	1%	2%	1%	0%	0%	C	0.0986	F	0.6154	840	G	2009
+776296	  93	00605	     	93-605	Poor House Rd	093	Warren County	093	Warren County	1.70	US 340 Stonewall Jackson Hwy	93-649 Browntown Rd	250	R							X						08/05/2008
+776297	  93	00606	     	93-606	Shenandoah Shores Rd	093	Warren County	093	Warren County	1.72	NCL Front Royal	1.72 MN of NCL	3300	G							X				3300	G	2009
+776298	  93	00606	     	93-606	Shenandoah Shores Rd	093	Warren County	093	Warren County	0.51	1.72 MN of NCL	2.23 MN of NCL	2200	R							X						07/30/2008
+776299	  93	00606	     	93-606	Shenandoah Shores Rd	093	Warren County	093	Warren County	0.25	2.23 MN of NCL	Dead End	110	R							X						01/24/2006
+776300	  93	00607	     	93-607	Rocky Lane	093	Warren County	093	Warren County	0.60	US 340 Stonewall Jackson Hwy	0.60 ME US 340	320	R							X						08/05/2008
+776301	  93	00607	     	93-607	Rocky Lane	093	Warren County	093	Warren County	1.00	0.60 ME US 340	93-649 Browntown Rd	150	R							X						08/05/2008
+776302	  93	00608	     	93-608	Wilson Burke Rd	093	Warren County	093	Warren County	0.45	93-613	93-619 Mtn Rd	590	R							X						08/07/2008
+776303	  93	00609	     	93-609	Ritenour Hollow Rd	093	Warren County	093	Warren County	0.40	93-637 Guard Hill Rd	FR-225	400	R							X						12/27/2005
+776304	  93	00609	     	93-609	Ritenour Hollow Rd	093	Warren County	093	Warren County	0.77	FR-225	0.77 ME FR-225	710	R							X						08/12/2008
+776305	  93	00609	     	93-609	Ritenour Hollow Rd	093	Warren County	093	Warren County	0.27	0.77 ME FR-225	93-736 Molly Campbell Lane	360	R							X						12/27/2005
+776306	  93	00609	     	93-609	Ritenour Hollow Rd	093	Warren County	093	Warren County	0.10	93-736 Molly Campbell Lane	93-627 Reliance Rd	800	R							X						08/12/2008
+776307	  93	00610	     	93-610	Bucks Mill Rd	093	Warren County	093	Warren County	0.20	SR 55; 93-678	93-616	460	R							X						08/12/2008
+776308	  93	00610	     	93-610	Bucks Mill Rd	093	Warren County	093	Warren County	2.15	93-616	2.15 ME 93-616	160	R							X						08/12/2008
+776309	  93	00610	     	93-610	Bucks Mill Rd	093	Warren County	093	Warren County	0.05	2.15 ME 93-616	93-626	70	R							X						12/21/2005
+776310	  93	00611	     	93-611	Long Meadow Rd	093	Warren County	093	Warren County	2.60	93-635 W, Bowmans Mill Rd	93-635 E, Bowmans Mill Rd	80	R							X						08/14/2008
+776311	  93	00611	     	93-611	Long Meadow Rd	093	Warren County	093	Warren County	0.10	93-635 E, Bowmans Mill Rd	93-612; 93-840	180	R							X						08/14/2008
+776312	  93	00611	     	93-611	Long Meadow Rd	093	Warren County	093	Warren County	3.38	93-612; 93-840	93-637 River Rd	290	R							X						08/14/2008
+776313	  93	00612	     	93-612	Gafia Lodge Rd	093	Warren County	093	Warren County	1.20	93-611; 93-840	1.20 ME 93-611	230	R							X						12/27/2005
+776314	  93	00612	     	93-612	Gafia Lodge Rd	093	Warren County	093	Warren County	1.00	1.20 ME 93-611	93-842	70	R							X						08/12/2008
+776315	  93	00612	     	93-612	Gafia Lodge Rd	093	Warren County	093	Warren County	0.90	93-842	93-626	40	R							X						08/12/2008
+303714	  93	00613	     	93-613	Bentonville Browntown Rd	093	Warren County	093	Warren County	3.06	93-631; 93-649	93-738 Jennings Lane	420	G	95%	0%	1%	3%	1%	0%	F	0.1017	F	0.5778	450	G	2009
+303715	  93	00613	     	93-613	Bentonville Browntown Rd	093	Warren County	093	Warren County	2.26	93-738 Jennings Lane	93-672 Qual Hollow Rd	1100	G	95%	0%	1%	3%	1%	0%	C	0.0905	F	0.5049	1100	G	2009
+303716	  93	00613	     	93-613	Bentonville Browntown Rd	093	Warren County	093	Warren County	0.31	93-672 Qual Hollow Rd	US 340 E, Stonewall Jackson Hwy	1300	G	95%	0%	1%	3%	1%	0%	F	0.1029	F	0.6448	1300	G	2009
+776316	  93	00613	     	93-613	Indian Hollow Rd	093	Warren County	093	Warren County	0.96	US 340 W, Stonewall Jackson Hwy	GW Natl For Bndy	420	R							X						08/05/2008
+776317	  93	00613	     	93-613	 	093	Warren County	093	Warren County	4.69	GW Natl For Bndy	4.69 MS of Bndy	230	R							X						08/07/2008
+776318	  93	00613	     	93-613	 	093	Warren County	093	Warren County	1.04	4.69 MS of Bndy	93-608 Wilson Burke Rd	380	R							X						08/07/2008
+776319	  93	00613	     	93-613	 	093	Warren County	093	Warren County	0.49	93-608 Wilson Burke Rd	93-619 Mtn Rd	160	R							X						08/07/2008
+776320	  93	00614	     	93-614	 	093	Warren County	093	Warren County	1.30	93-626 S, Toten Lane	SR 55 W, Strasburg Rd	30	R							X						08/07/2008
+776321	  93	00614	     	93-614	 	093	Warren County	093	Warren County	0.70	SR 55 E, Strasburg Rd	93-626 NORTH	110	R							X						12/21/2005
+303717	  93	00615	     	93-615	Stokes Airport Rd	093	Warren County	093	Warren County	1.90	93-619 S, Rivermont Dr	93-626 E, Toten Lane	1000	G	91%	0%	1%	8%	0%	0%	C	0.1034	F	0.6754	1100	G	2009
+776322	  93	00615	     	93-615	 	093	Warren County	093	Warren County	0.10	93-626 E,Toten Lane	93-626 WEST	60	R							X						08/07/2008
+776323	  93	00615	     	93-615	 	093	Warren County	093	Warren County	0.27	93-626 WEST	0.27 MN 93-626	470	R							X						1988
+776324	  93	00615	     	93-615	 	093	Warren County	093	Warren County	0.43	0.27 MN 93-626	93-660	40	R							X						08/07/2008
+776325	  93	00615	     	93-615	 	093	Warren County	093	Warren County	1.50	93-660	93-619 N, Mtn Rd	590	R							X						12/21/2005
+776326	  93	00616	     	93-616	 	093	Warren County	093	Warren County	0.70	93-678 Fort Valley Rd	SR 55 Strasburg Rd	120	R							X						08/12/2008
+776327	  93	00616	     	93-616	 	093	Warren County	093	Warren County	0.90	SR 55 Strasburg Rd	93-610 Bucks Mill Rd	130	R							X						08/12/2008
+776328	  93	00617	     	93-617	Ridgeway Rd	093	Warren County	093	Warren County	1.70	93-618	93-626	250	R							X						08/07/2008
+776329	  93	00618	     	93-618	 	093	Warren County	093	Warren County	0.89	Dead End	93-619 W, Rivermont Dr	710	R							X						01/26/2006
+776330	  93	00618	     	93-618	 	093	Warren County	093	Warren County	0.50	93-619 E, Rivermont Dr	93-617 Ridgeway Rd	600	R							X						08/07/2008
+776331	  93	00618	     	93-618	 	093	Warren County	093	Warren County	0.80	93-617 Ridgeway Rd	93-615 Stokes Airport Rd	280	R							X						01/26/2006
+303718	  93	00619	     	93-619	Rivermont Dr	093	Warren County	093	Warren County	2.09	US 340 Stonewall Jackson Hwy	93-677 Catlett Mountain Road	4900	G	99%	0%	1%	0%	0%	0%	F	0.0946	F	0.6850	5100	G	2009
+303719	  93	00619	     	93-619	Rivermont Dr	093	Warren County	093	Warren County	0.08	93-677 Catlett Mountain Road	93-615 S; Stokes Airport Rd	4500	G	99%	0%	1%	0%	0%	0%	F	0.0967	F	0.6815	4700	G	2009
+303720	  93	00619	     	93-619	Rivermont Dr	093	Warren County	093	Warren County	2.22	93-615 S; Stokes Airport Rd	93-673 McCoys Ford Road	3300	G	99%	0%	1%	0%	0%	0%	C	0.0872	F	0.0000	3400	G	2009
+303721	  93	00619	     	93-619	Mountain Rd	093	Warren County	093	Warren County	1.93	93-673 McCoys Ford Rd	93-626 Steed Lane	710	G	99%	0%	1%	0%	0%	0%	F	0.1046	F	0.5329	740	G	2009
+303722	  93	00619	     	93-619	Mountain Rd	093	Warren County	093	Warren County	2.43	93-626 Steed Lane	93-678 Fort Valley Rd	960	G	99%	0%	1%	0%	0%	0%	F	0.0929	F	0.6355	1000	G	2009
+776332	  93	00620	     	93-620	Bennys Beach Rd	093	Warren County	093	Warren County	0.60	Dead End	93-658 Rockland Rd	310	R							X						07/30/2008
+776333	  93	00621	     	93-621	Punch Run Rd	093	Warren County	093	Warren County	0.60	93-660	SR 55 Strasburg Rd	1300	R							X						12/21/2005
+776334	  93	00622	     	93-622	 	093	Warren County	093	Warren County	1.00	93-634 Smith Run Rd	1.00 MN 93-634 Smith Run Rd	110	R							X						08/05/2008
+776335	  93	00622	     	93-622	 	093	Warren County	093	Warren County	0.10	1.00 MN 93-634 Smith Run Rd	Dead End; Gap	110	R							X						08/05/2008
+776336	  93	00622	     	93-622	 	093	Warren County	093	Warren County	0.39	Dead End; Gap	0.39 ME of Dead End	80	R							X						08/05/2008
+776337	  93	00622	     	93-622	 	093	Warren County	093	Warren County	0.50	0.39 ME of Dead End	0.89 ME of Dead End	80	R							X						08/05/2008
+776338	  93	00622	     	93-622	 	093	Warren County	093	Warren County	0.50	0.89 ME of Dead End	93-649 Browntown Rd	230	R							X						08/05/2008
+776339	  93	00622	     	93-622	 	093	Warren County	093	Warren County	0.70	93-649 Browntown Rd	93-631	140	R							X						01/26/2006
+776340	  93	00622	     	93-622	 	093	Warren County	093	Warren County	2.79	93-631	2.79 MN 93-631	180	R							X						08/05/2008
+776341	  93	00622	     	93-622	 	093	Warren County	093	Warren County	0.36	2.79 MN 93-631	93-654 Maple St	300	R							X						01/26/2006
+776342	  93	00622	     	93-622	 	093	Warren County	093	Warren County	0.06	93-654 Maple St	93-674 Limeton Church Rd	300	R							X						08/05/2008
+776343	  93	00623	     	93-623	Downing Farm Rd	093	Warren County	093	Warren County	1.72	Dead End	1.72 MN Dead End	430	R							X						01/26/2006
+776344	  93	00623	     	93-623	Downing Farm Rd	093	Warren County	093	Warren County	0.38	1.72 MN Dead End	93-673 McCoys Ford Rd	440	R							X						08/07/2008
+303723	  93	00624	     	93-624	Happy Creek Rd	093	Warren County	093	Warren County	0.50	NCL Front Royal	93-647 Dismal Hollow Rd	4300	G	95%	0%	1%	4%	0%	0%	F	0.0906	F	0.5189	4500	G	2009
+303724	  93	00624	     	93-624	 	093	Warren County	093	Warren County	0.40	93-647 Dismal Hollow Rd	93-645 Manassas Run Rd	3700	G	95%	0%	1%	4%	0%	0%	F	0.0865	F	0.6167	3800	G	2009
+303725	  93	00624	     	93-624	Morgan Ford Rd	093	Warren County	093	Warren County	1.28	93-645 Manassas Run Rd	93-643	3500	G	95%	0%	1%	4%	0%	0%	C	0.0942	F	0.0000	3600	G	2009
+303726	  93	00624	     	93-624	Morgan Ford Rd	093	Warren County	093	Warren County	1.80	93-643	93-661 Fairground Rd	1600	G	95%	0%	1%	4%	0%	0%	F	0.1057	F	0.5269	1700	G	2009
+776345	  93	00624	     	93-624	 	093	Warren County	093	Warren County	3.60	93-661 Fairground Rd	Clarke County Line	290	R							X						01/10/2006
+776346	  93	00625	     	93-625	Pine Hills Rd	093	Warren County	093	Warren County	0.25	93-637 Guard Hill Rd	Dead End	80	R							X						08/12/2008
+776347	  93	00626	     	93-626	 	093	Warren County	093	Warren County	1.60	93-619 Mountain Rd	93-615 WEST	160	R							X						08/07/2008
+303727	  93	00626	     	93-626	Toten Lane	093	Warren County	093	Warren County	1.80	93-615 E, Wakeman Mill Rd	SR 55 W, Strasburg Rd	1400	G	97%	0%	0%	2%	0%	0%	C	0.1081	F	0.5629	1500	G	2009
+776348	  93	00626	     	93-626	 	093	Warren County	093	Warren County	1.00	SR 55 E, Strasburg Rd	93-614	320	R							X						08/07/2008
+776349	  93	00626	     	93-626	 	093	Warren County	093	Warren County	0.10	93-614	93-610 Bucks Mill Rd	190	R							X						12/21/2005
+776350	  93	00626	     	93-626	 	093	Warren County	093	Warren County	0.50	93-610 Bucks Mill Rd	Dead End	10	R							X						08/07/2008
+776351	  93	00626	     	93-626	 	093	Warren County	093	Warren County	0.20	Dead End; Gap	93-612 Gafia Lodge Rd	70	R							X						08/12/2008
+776352	  93	00626	     	93-626	 	093	Warren County	093	Warren County	0.70	93-612 Gafia Lodge Rd	93-637 River Rd	110	R							X						08/12/2008
+303728	  93	00627	     	93-627	Reliance Rd	093	Warren County	093	Warren County	0.79	Frederick County Line	93-637 River Rd	1700	G	97%	0%	1%	1%	1%	0%	F	0.0887	F	0.5106	1800	G	2009
+303729	  93	00627	     	93-627	Reliance Rd	093	Warren County	093	Warren County	3.48	93-637 River Rd	93-609 Ritenour Hollow Rd	1500	G	97%	0%	1%	1%	1%	0%	C	0.0965	F	0.6053	1600	G	2009
+303730	  93	00627	     	93-627	Reliance Rd	093	Warren County	093	Warren County	0.33	93-609 Ritenour Hollow Rd	US 522 Winchester Rd	2400	G	97%	0%	1%	1%	1%	0%	F	0.0816	F	0.5556	2500	G	2009
+776353	  93	00628	     	93-628	Rocky Hollow Rd	093	Warren County	093	Warren County	0.80	US 340 Stonewall Jackson Hwy	93-629 S, Acron Hill Rd	45	R							X						08/05/2008
+776354	  93	00628	     	93-628	Rocky Hollow Rd	093	Warren County	093	Warren County	0.30	93-629 S, Acron Hill Rd	93-629 N, Acron Hill Rd	150	R							X						08/05/2008
+776355	  93	00628	     	93-628	Rocky Hollow Rd	093	Warren County	093	Warren County	1.10	93-629 N, Acron Hill Rd	93-613	100	R							X						08/05/2008
+776356	  93	00629	     	93-629	Acron Hill Rd	093	Warren County	093	Warren County	0.65	Dead End	93-628 N, Rocky Hollow Rd	30	R							X						08/05/2008
+776357	  93	00629	     	93-629	Acron Hill Rd	093	Warren County	093	Warren County	1.00	93-628 S, Rocky Hollow Rd	US 340 Stonewall Jackson Hwy	140	R							X						01/26/2006
+776358	  93	00630	     	93-630	Thompson Hollow Rd	093	Warren County	093	Warren County	1.85	Dead End	1.85 MN Dead End	440	R							X						08/05/2008
+776359	  93	00630	     	93-630	Thompson Hollow Rd	093	Warren County	093	Warren County	0.40	1.85 MN Dead End	93-613 Bentonville Browntown Rd	440	R							X						08/05/2008
+776360	  93	00631	     	93-631	 	093	Warren County	093	Warren County	1.20	93-622	93-613 W, Bentonville Browntown Rd	90	R							X						08/05/2008
+776361	  93	00631	     	93-631	 	093	Warren County	093	Warren County	5.70	93-613 MID	93-632 Fetchett Rd	110	R							X						08/05/2008
+776362	  93	00631	     	93-631	 	093	Warren County	093	Warren County	0.40	93-632 Fetchett Rd	93-634 Smith Run Rd	380	R							X						08/05/2008
+776363	  93	00631	     	93-631	 	093	Warren County	093	Warren County	0.10	93-634 Smith Run Rd	93-613 E; 93-649	630	R							X						01/26/2006
+776364	  93	00632	     	93-632	Fetchett Rd	093	Warren County	093	Warren County	0.40	Dead End	93-633 Broad Run Rd	20	R							X						08/05/2008
+776365	  93	00632	     	93-632	Fetchett Rd	093	Warren County	093	Warren County	0.70	93-633 Broad Run Rd	93-631	110	R							X						06/20/2002
+776366	  93	00633	     	93-633	Broad Run Rd	093	Warren County	093	Warren County	0.40	Dead End	93-632 Fetchett Rd	48	R							X						08/05/2008
+776367	  93	00634	     	93-634	Smith Run Rd	093	Warren County	093	Warren County	1.00	93-631	93-622	220	R							X						01/26/2006
+776368	  93	00634	     	93-634	Smith Run Rd	093	Warren County	093	Warren County	1.20	93-622	Dead End	90	R							X						08/05/2008
+776369	  93	00635	     	93-635	Bowmans Mill Rd	093	Warren County	093	Warren County	0.20	Shenandoah County Line	93-611 W, Long Meadow Rd	90	R							X						08/14/2008
+776370	  93	00635	     	93-635	Bowmans Mill Rd	093	Warren County	093	Warren County	1.90	93-611 W, Long Meadow Rd	93-611 E, Long Meadow Rd	30	R							X						08/14/2008
+776371	  93	00636	     	93-636	Crassland Rd	093	Warren County	093	Warren County	1.00	Dead End	93-638	40	R							X						07/30/2008
+776372	  93	00637	     	93-637	 	093	Warren County	093	Warren County	0.15	Dead End	US 522 Winchester Rd	1200	R							X						08/12/2008
+303731	  93	00637	     	93-637	Guard Hill Rd	093	Warren County	093	Warren County	1.76	US 522 Winchester Rd	93-625 Pine Hills Rd	960	G	98%	0%	1%	1%	0%	0%	F	0.0897	F	0.5138	1000	G	2009
+303732	  93	00637	     	93-637	Guard Hill Rd	093	Warren County	093	Warren County	2.51	93-625 Pine Hills Rd	93-626 Catletts Ford Rd	450	G	98%	0%	1%	1%	0%	0%	C	0.1253	F	0.5273	470	G	2009
+303733	  93	00637	     	93-637	River Rd	093	Warren County	093	Warren County	1.01	93-626 Catletts Ford Rd	93-627 Chapel Rd; Reliance Rd	410	G	98%	0%	1%	1%	0%	0%	F	0.1348	F	0.6053	420	G	2009
+776373	  93	00637	     	93-637	 	093	Warren County	093	Warren County	1.21	93-627 Reliance Rd	93-854 Buckhorn Rd	150	R							X						12/27/2005
+776374	  93	00637	     	93-637	 	093	Warren County	093	Warren County	0.50	93-854 Buckhorn Rd	Frederick County Line	80	R							X						08/12/2008
+776375	  93	00638	     	93-638	 	093	Warren County	093	Warren County	1.20	Fauquier County Line; 30-638	93-636 Crassland Rd	290	R							X						01/24/2006
+776376	  93	00638	     	93-638	 	093	Warren County	093	Warren County	0.60	93-636 Crassland Rd	SR 55 John Marshall Hwy	560	R							X						07/30/2008
+776377	  93	00638	     	93-638	 	093	Warren County	093	Warren County	0.20	SR 55 John Marshall Hwy	FR-283	3400	R							X						01/10/2006
+776378	  93	00638	     	93-638	 	093	Warren County	093	Warren County	2.39	FR-283	93-1133	2800	R							X						01/10/2006
+776379	  93	00638	     	93-638	 	093	Warren County	093	Warren County	6.38	93-1133	93-688	660	R							X						07/30/2008
+776380	  93	00638	     	93-638	 	093	Warren County	093	Warren County	1.70	93-688	93-603 Howellsville Rd	1100	R							X						01/10/2006
+303734	  93	00638	     	93-638	Howellsville Rd	093	Warren County	093	Warren County	2.90	93-603 Howellsville Rd	Clarke County Line; 21-638	1800	G	98%	0%	1%	0%	1%	0%	C	0.0973	F	0.7598	1800	G	2009
+776381	  93	00639	     	93-639	 	093	Warren County	093	Warren County	0.36	Frederick County Line	93-802 S, Zion Church Rd	1000	R							X						12/27/2005
+776382	  93	00639	     	93-639	 	093	Warren County	093	Warren County	0.03	93-802 N, Zion Church Rd	US 522 Winchester Rd	320	R							X						08/12/2008
+776383	  93	00639	     	93-639	 	093	Warren County	093	Warren County	3.03	US 522 Winchester Rd	93-658 N, Rockland Rd	200	R							X						12/27/2005
+776384	  93	00639	     	93-639	 	093	Warren County	093	Warren County	0.05	93-658 N, Rockland Rd	93-658 S, Rockland Rd	590	R							X						07/30/2008
+776385	  93	00639	     	93-639	 	093	Warren County	093	Warren County	1.00	93-658 S, Rockland Rd	93-624	250	R							X						07/30/2008
+776386	  93	00640	     	93-640	Bunker Hill Rd	093	Warren County	093	Warren County	0.20	93-735 Bowman Hollow Rd	Frederick County Line	130	R							X						08/12/2008
+776387	  93	00641	     	93-641	Double Church Rd	093	Warren County	093	Warren County	0.10	93-639	Frederick County Line	920	R							X						12/27/2005
+776388	  93	00642	     	93-642	Milldale Hollow Rd	093	Warren County	093	Warren County	1.00	Dead End	1.00 MW Dead End	30	R							X						07/30/2008
+776389	  93	00642	     	93-642	Milldale Hollow Rd	093	Warren County	093	Warren County	0.20	1.00 MW Dead End	93-624	100	R							X						01/10/2006
+303735	  93	00643	     	93-643	 	093	Warren County	093	Warren County	1.22	93-624 Morgan Ford Rd	93-603 Howellsville Rd	2400	G	98%	0%	1%	1%	0%	0%	C	0.0917	F	0.5193	2500	G	2009
+776390	  93	00644	     	93-644	Stonebridge Rd	093	Warren County	093	Warren County	0.40	Clarke County Line	93-624	70	R							X						07/30/2008
+776391	  93	00645	     	93-645	Manassas Run Rd	093	Warren County	093	Warren County	0.29	93-624 Morgan Ford Rd	Dead End	50	R							X						01/24/2006
+776392	  93	00646	     	93-646	Esteppe Rd	093	Warren County	093	Warren County	0.80	Dead End	93-660	330	R							X						08/07/2008
+776393	  93	00647	     	93-647	Dismal Hollow Rd	093	Warren County	093	Warren County	1.51	SR 55 John Marshall Hwy	93-603	2700	G							X				2700	G	2009
+776394	  93	00647	     	93-647	Dismal Hollow Rd	093	Warren County	093	Warren County	1.57	93-603	93-624 Happy Creek Rd	2400	R							X						07/30/2008
+776395	  93	00648	     	93-648	Spangler Lane	093	Warren County	093	Warren County	0.22	Dead End	93-674 Limeton Church Rd	60	R							X						08/05/2008
+303736	  93	00649	     	93-649	Browntown Rd	093	Warren County	093	Warren County	1.73	93-613; 93-631	93-622 Liberty Hall Rd	880	G	99%	0%	0%	0%	0%	0%	F	0.0996	F	0.6755	930	G	2009
+303737	  93	00649	     	93-649	Browntown Rd	093	Warren County	093	Warren County	2.52	93-622 Liberty Hall Rd	93-605 Poor House Rd	1200	G	99%	0%	0%	0%	0%	0%	F	0.0930	F	0.7149	1300	G	2009
+303738	  93	00649	     	93-649	Browntown Rd	093	Warren County	093	Warren County	2.20	93-605 Poor House Rd	93-650	1800	G	99%	0%	0%	0%	0%	0%	C	0.0885	F	0.6706	1900	G	2009
+303739	  93	00649	     	93-649	Browntown Rd	093	Warren County	093	Warren County	0.60	93-650 Snake Rd	93-1010 Park Ridge Court	1900	G	99%	0%	0%	0%	0%	0%	F	0.0959	F	0.7493	2000	G	2009
+303740	  93	00649	     	93-649	Browntown Rd	093	Warren County	093	Warren County	0.19	93-1010 Park Ridge Court	93-745 Old Browntown Rd	2100	G	99%	0%	0%	0%	0%	0%	F	0.0939	F	0.6794	2200	G	2009
+303741	  93	00649	     	93-649	Browntown Rd	093	Warren County	093	Warren County	0.19	93-745 Old Browntown Rd	US 340 Stonewall Jackson Hwy	2400	G	99%	0%	0%	0%	0%	0%	F	0.0919	F	0.6883	2600	G	2009
+776397	  93	00650	     	93-650	 	093	Warren County	093	Warren County	0.32	93-649 Browntown Rd	US 340 Stonewall Jackson Hwy	20	R							X						08/05/2008
+776400	  93	00652	     	93-652	Little Loop Rd	093	Warren County	093	Warren County	0.18	93-656	93-656	60	R							X						07/30/2008
+776401	  93	00654	     	93-654	Maple St	093	Warren County	093	Warren County	0.17	93-622	93-737	30	R							X						01/24/2006
+776402	  93	00655	     	93-655	Country Club Dr	093	Warren County	093	Warren County	1.00	Dead End	US 522 Winchester Rd	6100	R							X						07/30/2008
+776403	  93	00656	     	93-656	 	093	Warren County	093	Warren County	1.00	SCL Front Royal	ECL Front Royal	60	R							X						01/24/2006
+776404	  93	00657	     	93-657	Station Lane	093	Warren County	093	Warren County	0.07	Dead End	93-638	40	R							X						07/30/2008
+303742	  93	00658	     	93-658	Rockland Rd	093	Warren County	093	Warren County	3.00	US 522 Winchester Rd	93-661 Fairground Rd	540	G	98%	0%	1%	0%	1%	0%	F	0.0997	F	0.5714	570	G	2009
+303743	  93	00658	     	93-658	Rockland Rd	093	Warren County	093	Warren County	1.60	93-661 Fairground Rd	93-639 W; Ashby Station Rd	450	G	98%	0%	1%	0%	1%	0%	C	0.1091	F	0.5370	470	G	2009
+303744	  93	00658	     	93-658	Rockland Rd	093	Warren County	093	Warren County	1.05	93-639 E; Ashby Station Rd	Clarke County Line	380	G	98%	0%	1%	0%	1%	0%	F	0.1102	F	0.5054	390	G	2009
+776405	  93	00659	     	93-659	 	093	Warren County	093	Warren County	0.50	93-603 Howellsville Rd	Dead End	120	R							X						01/10/2006
+776406	  93	00660	     	93-660	 	093	Warren County	093	Warren County	0.30	93-615	93-626 S, Toten Lane	820	R							X						08/07/2008
+776407	  93	00660	     	93-660	 	093	Warren County	093	Warren County	1.50	93-614; 93-626 NORTH	93-621 Punch Run Rd	660	R							X						12/21/2005
+776408	  93	00660	     	93-660	 	093	Warren County	093	Warren County	0.68	93-621 Punch Run Rd	Dead End	160	R							X						08/07/2008
+303745	  93	00661	     	93-661	Fairground Rd	093	Warren County	093	Warren County	1.23	93-624 Morgan Ford Rd	93-658 Rockland Rd	1700	G	98%	0%	1%	1%	0%	0%	F	0.1027	F	0.5410	1800	G	2009
+303746	  93	00661	     	93-661	Fairground Rd	093	Warren County	093	Warren County	2.10	93-658 Rockland Rd	US 522 Winchester Rd	1800	G	98%	0%	1%	1%	0%	0%	C	0.1014	F	0.5025	1900	G	2009
+776409	  93	00662	     	93-662	Foster Hollow Rd	093	Warren County	093	Warren County	0.33	Frederick County Line	Dead End	120	R							X						08/12/2008
+776410	  93	00663	     	93-663	Walnut Dr	093	Warren County	093	Warren County	0.32	Begin Loop	End Loop	120	R							X						08/08/2002
+776411	  93	00663	     	93-663	Walnut Dr	093	Warren County	093	Warren County	0.08	End Loop	93-745	370	R							X						1999
+776412	  93	00664	     	93-664	Whipporwill Rd	093	Warren County	093	Warren County	0.21	Dead End	SR 55 Strasburg Rd	80	R							X						08/07/2008
+776413	  93	00665	     	93-665	 	093	Warren County	093	Warren County	0.07	Rappahannock County Line	US 522	950	R							X						01/24/2006
+776414	  93	00667	     	93-667	Mitchell Dr	093	Warren County	093	Warren County	0.30	93-626	Dead End	120	R							X						08/07/2008
+776415	  93	00668	     	93-668	Theatre Rd	093	Warren County	093	Warren County	0.20	Dead End	SR 55 Strasburg Rd	130	R							X						08/07/2008
+776416	  93	00669	     	93-669	Dogwood Lane	093	Warren County	093	Warren County	0.30	US 340 Stonewall Jackson Hwy	Dead End	80	R							X						08/05/2008
+776417	  93	00670	     	93-670	Point Rd	093	Warren County	093	Warren County	0.60	Dead End	93-737	90	R							X						08/05/2008
+776418	  93	00671	     	93-671	Harmony Orchard Rd	093	Warren County	093	Warren County	0.92	Dead End	93-604 Harmony Hollow Rd	350	R							X						07/30/2008
+776419	  93	00672	     	93-672	Bubb Lane	093	Warren County	093	Warren County	0.10	Dead End	93-613 Bentonville Browntown Rd	70	R							X						01/26/2006
+776420	  93	00673	     	93-673	McCoys Ford Rd	093	Warren County	093	Warren County	1.13	Dead End	93-623 Downing Farm Rd	360	R							X						06/24/2002
+776421	  93	00673	     	93-673	McCoys Ford Rd	093	Warren County	093	Warren County	0.70	93-623 Downing Farm Rd	93-619 Mtn Rd	1000	R							X						01/26/2006
+776422	  93	00674	     	93-674	Limeton Church Rd	093	Warren County	093	Warren County	0.48	US 340 Stonewall Jackson Hwy	93-622	120	R							X						08/05/2008
+776423	  93	00674	     	93-674	Limeton Church Rd	093	Warren County	093	Warren County	0.17	93-622	93-737	470	R							X						01/26/2006
+776424	  93	00675	     	93-675	Success Rd	093	Warren County	093	Warren County	0.25	US 522 Winchester Rd	Cul-de-Sac	60	R							X						08/12/2008
+776425	  93	00676	     	93-676	Corron Dr	093	Warren County	093	Warren County	0.30	93-677 Catlett Mtn Rd	Dead End	180	R							X						01/26/2006
+776426	  93	00677	     	93-677	Catlett Mountain Rd	093	Warren County	093	Warren County	2.17	93-619 Rivermont Dr	93-679	180	R							X						08/07/2008
+303747	  93	00678	     	93-678	Fort Valley Rd	093	Warren County	093	Warren County	1.77	Shenandoah County Line	SR 55; 93-610	1500	G	98%	0%	1%	1%	0%	0%	C	0.1065	F	0.5962	1600	G	2009
+776427	  93	00679	     	93-679	 	093	Warren County	093	Warren County	1.32	93-619 W, Rivermont Dr	93-619 E, Rivermont Dr	130	R							X						01/26/2006
+776428	  93	00679	     	93-679	 	093	Warren County	093	Warren County	0.70	93-619 E, Rivermont Dr	93-677 Catlett Mtn Rd	570	R							X						08/07/2008
+776429	  93	00680	     	93-680	Russ Johnson Rd	093	Warren County	093	Warren County	0.31	93-619 W, Rivermont Dr	93-619 E, Rivermont Dr	30	R							X						08/07/2008
+776430	  93	00681	     	93-681	Luray Ave	093	Warren County	093	Warren County	0.24	WCL Front Royal	Dead End	190	R							X						08/07/2008
+776431	  93	00682	     	93-682	Poe Dr	093	Warren County	093	Warren County	0.10	Dead End	93-1111 Boies Dr	40	R							X						1999
+776432	  93	00682	     	93-682	Poe Dr	093	Warren County	093	Warren County	0.06	93-1111 Boies Dr	93-1110 Dennis Dr	100	R							X						06/24/2002
+776433	  93	00682	     	93-682	Poe Dr	093	Warren County	093	Warren County	0.27	93-1110 Dennis Dr	SR 55 Strasburg Rd	300	R							X						1999
+776434	  93	00683	     	93-683	Bowling Green Rd	093	Warren County	093	Warren County	1.48	93-661 Fairground Rd	93-658 Rockland Rd	210	R							X						07/30/2008
+776435	  93	00684	     	93-684	 	093	Warren County	093	Warren County	0.09	Dead End	93-686 Pinkett Lane	20	R							X						01/26/2006
+776436	  93	00684	     	93-684	 	093	Warren County	093	Warren County	0.06	93-686 Pinkett Lane	93-613	70	R							X						08/05/2008
+776437	  93	00685	     	93-685	 	093	Warren County	093	Warren County	0.24	93-638 Howellsville Rd	Dead End	60	R							X						01/10/2006
+776438	  93	00686	     	93-686	Pinkett Lane	093	Warren County	093	Warren County	0.05	Dead End	93-684	20	R							X						08/05/2008
+776439	  93	00687	     	93-687	 	093	Warren County	093	Warren County	0.27	Cul-de-Sac	93-638 Howellsville Rd	20	R							X						01/10/2006
+782766	  93	00688	     	93-688	 	093	Warren County	093	Warren County	0.20	93-638	Dead End	310	R							X						01/26/2006
+782767	  93	00689	     	93-689	 	093	Warren County	093	Warren County	0.28	93-624 Morgan Ford Rd	Dead End	150	R							X						07/30/2008
+788164	  93	00690	     	93-690	 	093	Warren County	093	Warren County	0.24	SR 55 Strasburg Rd	Dead End	70	R							X						08/07/2008
+776440	  93	00700	     	93-700	Figgins Rd	093	Warren County	093	Warren County	0.36	Dead End	93-677 Catlett Mtn Rd	130	R							X						08/07/2008
+776441	  93	00701	     	93-701	Barnett Dr	093	Warren County	093	Warren County	0.40	Dead End	93-619 Rivermont Dr	210	R							X						08/07/2008
+785491	  93	00702	     	93-702	Baugh Dr	093	Warren County	093	Warren County	1.36	Dead End	93-661 Fairground Rd	1500	R							X						08/12/2008
+785492	  93	00703	     	93-703	Success Farm Lane	093	Warren County	093	Warren County	0.08	Dead End	93-661 Fairground Rd	20	R							X						08/12/2008
+776442	  93	00704	     	93-704	Jenny Wren Dr	093	Warren County	093	Warren County	0.20	SR 55 Strasburg Rd	Dead End	120	R							X						12/21/2005
+776443	  93	00710	     	93-710	Lower Valley Rd	093	Warren County	093	Warren County	0.39	93-678 Fort Valley Rd	Dead End	500	R							X						12/21/2005
+792578	  93	00711	     	93-711	 	093	Warren County	093	Warren County	0.71	Dead End	93-710 Lower Valley Rd	320	R							X						11/21/2008
+792579	  93	00712	     	93-712	 	093	Warren County	093	Warren County	0.11	93-710 Lower Valley Rd	Cul-de-Sac	30	R							X						11/21/2008
+797346	  93	00715	     	93-715	 	093	Warren County	093	Warren County	0.36	Dead End	93-658 Rockland Rd	0	?							X
+797347	  93	00720	     	93-720	 	093	Warren County	093	Warren County	0.45	US 522 Winchester Rd	Dead End	0	?							X
+797348	  93	00721	     	93-721	 	093	Warren County	093	Warren County	0.11	Dead End	93-638 Howellsville Rd	0	?							X
+797349	  93	00724	     	93-724	 	093	Warren County	093	Warren County	0.41	Dead End	93-602	0	?							X
+786903	  93	00725	     	93-725	 	093	Warren County	093	Warren County	2.11	Dead End	US 340 Stonewall Jackson Hwy	80	R							X						01/26/2006
+776444	  93	00730	     	93-730	 	093	Warren County	093	Warren County	0.25	Dead End	93-613 Bentonville Browntown Rd	310	R							X						01/26/2006
+797714	  93	00731	     	93-731	 	093	Warren County	093	Warren County	0.12	Dead End	93-638	0	?							X
+776445	  93	00735	     	93-735	Bowman Hollow Rd	093	Warren County	093	Warren County	1.00	Dead End	93-640 Bunker Hill Rd	90	R							X						08/12/2008
+776446	  93	00735	     	93-735	Bowman Hollow Rd	093	Warren County	093	Warren County	0.40	93-640 Bunker Hill Rd	Frederick County Line	70	R							X						08/12/2008
+776447	  93	00736	     	93-736	Molly Campbell Lane	093	Warren County	093	Warren County	0.20	93-609 Ritenour Hollow Rd	93-627 Reliance Rd	20	R							X						08/12/2008
+776448	  93	00737	     	93-737	 	093	Warren County	093	Warren County	0.05	93-654 Maple St	93-674 Limeton Church Rd	40	R							X						01/26/2006
+776449	  93	00737	     	93-737	 	093	Warren County	093	Warren County	0.02	93-674 Limeton Church Rd	US 340 Stonewall Jackson Hwy	880	R							X						08/19/2008
+776450	  93	00737	     	93-737	 	093	Warren County	093	Warren County	0.40	US 340 Stonewall Jackson Hwy	Dead End	120	R							X						01/26/2006
+776451	  93	00738	     	93-738	Jennings Lane	093	Warren County	093	Warren County	0.30	93-613 Bentonville Browntown Rd	Dead End	60	R							X						08/05/2008
+776452	  93	00739	     	93-739	Robinson Rd	093	Warren County	093	Warren County	0.22	93-660	Dead End	70	R							X						08/07/2008
+776454	  93	00745	     	93-745	 	093	Warren County	093	Warren County	0.18	93-649 Browntown Rd	Dead End	390	R							X						01/24/2006
+776455	  93	00802	     	93-802	Zion Church Rd	093	Warren County	093	Warren County	0.16	US 522 Winchester Rd	93-639 SOUTH	1200	R							X						08/19/2008
+776456	  93	00802	     	93-802	Zion Church Rd	093	Warren County	093	Warren County	0.08	93-639 SOUTH	93-639 NORTH	300	R							X						12/27/2005
+776457	  93	00802	     	93-802	Zion Church Rd	093	Warren County	093	Warren County	0.20	93-639 NORTH	Dead End	120	R							X						08/12/2008
+776458	  93	00810	     	93-810	 	093	Warren County	093	Warren County	0.23	93-624	93-811	60	R							X						01/10/2006
+776459	  93	00810	     	93-810	 	093	Warren County	093	Warren County	0.34	93-811	93-639	70	R							X						01/10/2006
+776460	  93	00811	     	93-811	 	093	Warren County	093	Warren County	0.11	Cul-de-Sac	93-810	40	R							X						01/10/2006
+776461	  93	00840	     	93-840	Water Plant Rd	093	Warren County	093	Warren County	1.00	Frederick County Line	93-611; 93-612	570	R							X						08/14/2008
+776462	  93	00842	     	93-842	 	093	Warren County	093	Warren County	0.20	Dead End	93-612 Gafia Lodge Rd	40	R							X						1994
+776463	  93	00842	     	93-842	 	093	Warren County	093	Warren County	1.25	93-612 Gafia Lodge Rd	1.25 MN 93-612 Gafia Lodge Rd	40	R							X						08/14/2008
+776464	  93	00842	     	93-842	 	093	Warren County	093	Warren County	0.05	1.25 MN 93-612 Gafia Lodge Rd	93-611 W, Long Meadow Rd	40	R							X						08/14/2008
+776465	  93	00842	     	93-842	 	093	Warren County	093	Warren County	1.22	93-611 E, Long Meadow Rd	Frederick County Line	190	R							X						08/14/2008
+776466	  93	00854	     	93-854	Buckhorn Rd	093	Warren County	093	Warren County	0.25	93-637	Frederick County Line	140	R							X						08/12/2008
+776467	  93	00854	     	93-854	Buckhorn Rd	034	Frederick County	093	Warren County	0.21	Frederick County Line	Dead End	90	R							X						12/27/2005
+776468	  93	01010	     	93-1010	Park Ridge Court	093	Warren County	093	Warren County	0.20	Cul-de-Sac	93-649 Browntown Rd	180	R							X						01/24/2006
+782768	  93	01013	     	93-1013	 	093	Warren County	093	Warren County	1.02	93-661 Fairground Rd	93-624	150	R							X						01/10/2006
+782769	  93	01014	     	93-1014	 	093	Warren County	093	Warren County	0.20	93-1013	Cul-de-Sac	50	R							X						01/10/2006
+776469	  93	01015	     	93-1015	 	093	Warren County	093	Warren County	0.17	93-658 Rockland Rd	Cul-de-Sac	60	R							X						01/10/2006
+794023	  93	01020	     	93-1020	 	093	Warren County	093	Warren County	0.61	FR-225	93-1022	250	R							X						08/12/2008
+794024	  93	01021	     	93-1021	 	093	Warren County	093	Warren County	0.24	93-1022	93-1020	110	R							X						08/12/2008
+794025	  93	01022	     	93-1022	 	093	Warren County	093	Warren County	0.31	Cul-de-Sac	93-1020	130	R							X						08/12/2008
+794026	  93	01022	     	93-1022	 	093	Warren County	093	Warren County	0.04	93-1020	Cul-de-Sac	80	R							X						08/12/2008
+797350	  93	01023	     	93-1023	 	093	Warren County	093	Warren County	0.32	FR-225	Cul-de-Sac	0	?							X
+792175	  93	01030	     	93-1030	 	093	Warren County	093	Warren County	0.20	Dead End	93-673 McCoys Ford Rd	50	R							X						08/07/2008
+794027	  93	01031	     	93-1031	 	093	Warren County	093	Warren County	0.20	Cul-de-Sac	93-679	70	R							X						08/07/2008
+796371	  93	01032	     	93-1032	 	093	Warren County	093	Warren County	0.49	Cul-de-Sac	93-646 Esteppe Rd	0	?							X
+796372	  93	01033	     	93-1033	 	093	Warren County	093	Warren County	0.22	93-1032	Cul-de-Sac	0	?							X
+776470	  93	01110	     	93-1110	Dennis Dr	093	Warren County	093	Warren County	0.09	Dead End	93-682 Poe Dr	30	R							X						08/07/2008
+776471	  93	01111	     	93-1111	Boies Dr	093	Warren County	093	Warren County	0.08	Dead End	93-682 Poe Dr	30	R							X						1999
+776472	  93	01120	     	93-1120	West Duck St	093	Warren County	093	Warren County	0.29	93-1125 Mallard Place	WCL Front Royal	1000	R							X						12/21/2005
+776473	  93	01121	     	93-1121	River Court	093	Warren County	093	Warren County	0.11	93-1120 West Duck St	Cul-de-Sac	120	R							X						1999
+776474	  93	01122	     	93-1122	Baron Place	093	Warren County	093	Warren County	0.15	Cul-de-Sac	93-1120 West Duck St	120	R							X						1999
+776475	  93	01123	     	93-1123	Weaver Lane	093	Warren County	093	Warren County	0.07	93-1120 West Duck St	Cul-de-Sac	170	R							X						1999
+776476	  93	01124	     	93-1124	Earl Court	093	Warren County	093	Warren County	0.06	93-1123 Weaver Lane	Cul-de-Sac	80	R							X						1999
+796600	  93	01125	     	93-1125	Mallard Place	093	Warren County	093	Warren County	0.04	Cul-de-Sac	93-1120 West Duck St	0	?							X
+776477	  93	01125	     	93-1125	Mallard Place	093	Warren County	093	Warren County	0.18	93-1120 West Duck St	Cul-de-Sac	230	R							X						12/21/2005
+776478	  93	01126	     	93-1126	Morgan Place	093	Warren County	093	Warren County	0.11	Cul-de-Sac	93-1125 Mallard Place	100	R							X						1999
+794695	  93	01130	     	93-1130	 	093	Warren County	093	Warren County	0.54	93-1132	93-638	140	R							X						07/30/2008
+794696	  93	01131	     	93-1131	 	093	Warren County	093	Warren County	0.21	Cul-de-Sac	93-1130	9	R							X						07/30/2008
+794697	  93	01132	     	93-1132	 	093	Warren County	093	Warren County	0.29	Cul-de-Sac	93-1134	20	R							X						07/30/2008
+794698	  93	01132	     	93-1132	 	093	Warren County	093	Warren County	0.23	93-1134	Cul-de-Sac	70	R							X						07/30/2008
+794699	  93	01133	     	93-1133	 	093	Warren County	093	Warren County	0.46	93-1130	93-638	60	R							X						07/30/2008
+794700	  93	01134	     	93-1134	 	093	Warren County	093	Warren County	0.07	Cul-de-Sac	93-1132	30	R							X						07/30/2008
+632010	 112	00002	     	112-2	Criser Rd	112	Town of Front Royal	112	Town of Front Royal	0.51	Luray Ave	South Royal Ave	3200	G	98%	1%	0%	0%	0%	0%	C	0.0932	F	0.0000	3500	G	2009
+632011	 112	00002	     	112-2	Criser Rd	112	Town of Front Royal	112	Town of Front Royal	0.71	South Royal Ave	Chester Gap Rd	4700	G	98%	1%	0%	0%	0%	0%	F	0.1027	F	0.0000	5100	G	2009
+632018	 112	04001	     	112-4001	Luray Ave	112	Town of Front Royal	112	Town of Front Royal	0.45	WCL Front Royal	Stonewall Dr	1700	G	98%	1%	0%	0%	0%	0%	F	0.1587	F	0.5575	1900	G	2009
+632019	 112	04001	     	112-4001	Luray Ave	112	Town of Front Royal	112	Town of Front Royal	0.21	Stonewall Dr	W Main St	2000	G	98%	1%	0%	0%	0%	0%	C	0.1307	F	0.6007	2100	G	2009
+632029	 112	04002	     	112-4002	Stonewall Dr	112	Town of Front Royal	112	Town of Front Royal	0.25	Luray Ave	US 340 South Royal Ave	440	G	98%	1%	1%	1%	0%	0%	F	0.1009	F	0.6667	480	G	2009
+632030	 112	04002	     	112-4002	Stonewall Dr	112	Town of Front Royal	112	Town of Front Royal	0.42	US 522 Commerce Ave	Charles St	2500	G	98%	1%	1%	1%	0%	0%	C	0.1243	F	0.5501	2800	G	2009
+632032	 112	04004	     	112-4004	West Main St	112	Town of Front Royal	112	Town of Front Royal	0.64	Kerfoot Ave	Luray Ave	1700	G	97%	0%	1%	0%	1%	0%	F	0.1069	F	0.5378	1900	G	2009
+632033	 112	04004	     	112-4004	West Main St	112	Town of Front Royal	112	Town of Front Royal	0.07	Luray Ave	North Royal Ave	2200	G	97%	0%	1%	0%	1%	0%	F	0.0949	F	0.0000	2300	G	2009
+632012	 112	04004	     	112-4004	East Main St	112	Town of Front Royal	112	Town of Front Royal	0.25	North Royal Ave	Blue Ridge Ave	3100	G	97%	0%	1%	0%	1%	0%	C	0.0902	F	0.6478	3400	G	2009
+632013	 112	04004	     	112-4004	East Main St	112	Town of Front Royal	112	Town of Front Royal	0.13	Blue Ridge Ave	Commerce Ave	3100	G	97%	0%	1%	0%	1%	0%	F	0.0841	F	0.0000	3300	G	2009
+632014	 112	04005	     	112-4005	Happy Creek Rd	112	Town of Front Royal	112	Town of Front Royal	0.85	Commerce Ave	6Th St	2900	G	98%	1%	1%	0%	0%	0%	C	0.1030	F	0.0000	3200	G	2009
+632017	 112	04006	     	112-4006	Kendrick Lane	112	Town of Front Royal	112	Town of Front Royal	0.19	Shenandoah Ave	6Th St	8200	G	98%	1%	1%	0%	0%	0%	C	0.0929	F	0.0000	8900	G	2009
+632002	 112	04006	     	112-4006	6th St	112	Town of Front Royal	112	Town of Front Royal	0.11	Kendrick Lane	US 340 North Royal Ave	8200	G	98%	0%	1%	0%	1%	0%	F	0.0865	F	0.0000	9000	G	2009
+632003	 112	04006	     	112-4006	6th St	112	Town of Front Royal	112	Town of Front Royal	0.14	US 340 North Royal Ave	Commerce Ave	4900	G	98%	0%	1%	0%	1%	0%	F	0.0893	F	0.0000	5400	G	2009
+632004	 112	04006	     	112-4006	6th St	112	Town of Front Royal	112	Town of Front Royal	0.62	Commerce Ave	Happy Creek Rd	7000	G	98%	0%	1%	0%	1%	0%	C	0.0894	F	0.0000	7600	G	2009
+632015	 112	04006	     	112-4006	Happy Creek Rd	112	Town of Front Royal	112	Town of Front Royal	2.19	6Th St	ECL Front Royal	8000	G	98%	0%	1%	0%	1%	0%	F	0.0951	F	0.0000	8700	G	2009
+632027	 112	04010	     	112-4010	Shenandoah Ave	112	Town of Front Royal	112	Town of Front Royal	0.50	Kendrick Lane	14Th St	6500	G	98%	0%	1%	0%	1%	0%	C	0.0955	F	0.0000	7100	G	2009
+593000	  93	00000	     	93-0	E Strasburg Road	093	Warren County	093	Warren County	0.00	US 340, US 522 Shenandoah Ave	Old Winchester Pike	780	F	98%	1%	0%	0%	0%	0%	C	0.2451	F	0.5075	780	F	2009
+532003	 112	00000	     	112-0	11th St	112	Town of Front Royal	112	Town of Front Royal	0.00	Virginia Ave	North Royal Ave	720	G							X	0.0951	F	0.0000	720	G	2009
+532007	 112	00000	     	112-0	13th St	112	Town of Front Royal	112	Town of Front Royal	0.00	Jefferson Avenue	Monroe Avenue	310	G							X	0.1256	F	0.5926	310	G	2009
+532006	 112	00000	     	112-0	Jamestown Rd	112	Town of Front Royal	112	Town of Front Royal	0.00	Accomac Road	Charles Street	1300	G							X	0.1074	F	0.0000	1300	G	2009
+532005	 112	00000	     	112-0	Kendrick Lane	112	Town of Front Royal	112	Town of Front Royal	0.00	Massanutten Avenue	Shenandoah Avenue	3500	G							X	0.1162	F	0.5293	3500	G	2009
+532004	 112	00000	     	112-0	Washington Avenue	112	Town of Front Royal	112	Town of Front Royal	0.00	Happy Creek Road	6th Street	320	G							X	0.1087	F	0.5000	320	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

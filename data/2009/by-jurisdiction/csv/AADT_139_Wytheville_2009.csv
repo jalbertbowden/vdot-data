@@ -1,0 +1,92 @@
+Virginia Department of Transportation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Traffic Engineering Division,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Annual Average Daily Traffic Volume Estimates By Section of Route,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Town of Wytheville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Parallel Facilities Combined,,,,,,,,,,,,,
+Link ID,Route Prefix,Route Number,Route Suffix,Route Label,Route Alias,Physical Jurisdiction,,Maintenance Jurisdiction,,Link Length,Start Label,End Label,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality,Data Date,Comment,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality
+684126,  US,00011,     ,US 11,W Lee Hwy,139,Town of Wytheville,139,Town of Wytheville,0.29,WCL Wytheville,24th St,4200,F,97%,1%,1%,1%,1%,0%,C,0.0933,F,0.5338,4600,F,2009,,,,,,,,,,,,,,,
+684107,  US,00011,     ,US 11,W Lee Hwy,139,Town of Wytheville,139,Town of Wytheville,2.03,24th St,US 21 Main St,6100,F,97%,1%,1%,1%,1%,0%,F,0.0956,F,0.5117,6700,F,2009,,,,,,,,,,,,,,,
+684111,  US,00011,     ,,Main St,139,Town of Wytheville,139,Town of Wytheville,0.31,12th St,4th St,6700,F,97%,1%,1%,1%,1%,0%,F,0.0826,F,0.5428,7300,F,2009,,,,,,,,,,,,,,,
+684114,  US,00011,     ,US 11,Main St,139,Town of Wytheville,139,Town of Wytheville,0.33,"US 21, 4th St",5th St,8300,F,97%,1%,1%,1%,1%,0%,F,0.0900,F,0.5179,9000,F,2009,,,,,,,,,,,,,,,
+684119,  US,00011,     ,US 11,Main St,139,Town of Wytheville,139,Town of Wytheville,0.20,5th St,11th St,8400,F,98%,0%,1%,1%,1%,0%,F,0.0862,F,0.5932,9200,F,2009,,,,,,,,,,,,,,,
+684122,  US,00011,     ,US 11,E Main St,139,Town of Wytheville,139,Town of Wytheville,0.50,11th St,Liberty St,12000,F,98%,0%,1%,1%,1%,0%,C,0.0886,F,0.5080,13000,F,2009,,,,,,,,,,,,,,,
+684516,  US,00011,     ,US 11,E Main St,139,Town of Wytheville,139,Town of Wytheville,0.78,Liberty St,139-3 Lithia Rd,9400,F,98%,0%,1%,1%,1%,0%,F,0.0878,F,0.5567,10000,F,2009,,,,,,,,,,,,,,,
+684522,  US,00011,     ,US 11,E Main St,139,Town of Wytheville,098,Wythe County,0.08,139-3 Lithia Rd,I-81,9400,N,98%,0%,1%,1%,1%,0%,N,0.0878,N,0.5567,10000,N,2009,,,,,,,,,,,,,,,
+010446,  US,00011,     ,, ,139,Town of Wytheville,098,Wythe County,0.96,I-81,NCL Wytheville,25000,A,74%,1%,1%,1%,23%,2%,C,0.1246,A,1.0000,23000,A,2009,,49000,B,75%,1%,1%,1%,22%,2%,C,0.1154,A,0.5965,45000,B
+684109,  US,00021,     ,US 21,Grayson St,139,Town of Wytheville,139,Town of Wytheville,0.93,SCL Wytheville,Main St,4500,F,96%,0%,1%,2%,1%,0%,C,0.0903,F,0.6754,4900,F,2009,,,,,,,,,,,,,,,
+684110,  US,00021,     ,US 21,Main St,139,Town of Wytheville,139,Town of Wytheville,0.49,Grayson St,"US 11, W Lee Hwy; 12th St",6700,F,96%,0%,1%,2%,1%,0%,F,0.0875,F,0.6430,7300,F,2009,,,,,,,,,,,,,,,
+684111,  US,00021,     ,,Main St,139,Town of Wytheville,139,Town of Wytheville,0.31,W Lee Hwy; 12th St,4th Street,6700,F,97%,1%,1%,1%,1%,0%,F,0.0826,F,0.5428,7300,F,2009,,,,,,,,,,,,,,,
+684112,  US,00021,     ,US 21,4th St,139,Town of Wytheville,139,Town of Wytheville,0.06,US 11 Main St,Monroe St,6500,F,98%,0%,1%,0%,1%,0%,F,0.0958,F,0.5818,7100,F,2009,,,,,,,,,,,,,,,
+684500,  US,00021,     ,US 21,4th St,139,Town of Wytheville,139,Town of Wytheville,0.47,Monroe St,W Ridge Rd,14000,F,98%,0%,1%,0%,1%,0%,F,0.0938,F,0.5123,15000,F,2009,,,,,,,,,,,,,,,
+684104,  US,00021,     ,US 21,4th St,139,Town of Wytheville,139,Town of Wytheville,0.40,W Ridge Rd,Tazewell St,15000,F,98%,0%,1%,0%,1%,0%,C,0.0893,F,0.5032,17000,F,2009,,,,,,,,,,,,,,,
+684102,  US,00021,     ,US 21,4th St,139,Town of Wytheville,139,Town of Wytheville,0.12,Tazewell St,I-81; US 52,15000,F,98%,0%,1%,0%,1%,0%,F,0.0890,F,0.5363,16000,F,2009,,,,,,,,,,,,,,,
+010005,  US,00052,     ,, ,139,Town of Wytheville,098,Wythe County,0.93,US 11,NCL Wytheville,24000,B,76%,1%,1%,0%,21%,2%,C,0.1176,A,1.0000,23000,B,2009,,49000,B,75%,1%,1%,1%,22%,2%,C,0.1154,A,0.5965,45000,B
+110006,  US,00052,     ,, ,139,Town of Wytheville,098,Wythe County,1.29,US 11,US 11,21000,F,76%,1%,1%,0%,21%,2%,F,,,,19000,F,2009,,42000,F,75%,1%,1%,1%,22%,2%,F,,,,39000,F
+110007,  US,00052,     ,, ,139,Town of Wytheville,098,Wythe County,1.99,US 11,I-77 Wytheville,12000,F,82%,0%,1%,1%,15%,1%,F,0.0649,F,1.0000,12000,F,2009,,26000,F,80%,1%,1%,1%,17%,1%,F,,,,26000,F
+684101,  US,00052,     ,US 52,4th St,139,Town of Wytheville,139,Town of Wytheville,1.89,Maintenance Break,WCL Wytheville,2500,F,98%,0%,0%,0%,1%,0%,C,0.1017,F,0.5848,2600,F,2009,,,,,,,,,,,,,,,
+010005,  IS,00077,N    ,, ,139,Town of Wytheville,098,Wythe County,0.93,NCL Wytheville,US 11,24000,B,76%,1%,1%,0%,21%,2%,C,0.1176,A,1.0000,23000,B,2009,,49000,B,75%,1%,1%,1%,22%,2%,C,0.1154,A,0.5965,45000,B
+110006,  IS,00077,N    ,, ,139,Town of Wytheville,098,Wythe County,1.29,US 11,I-81 Wytheville,21000,F,76%,1%,1%,0%,21%,2%,F,,,,19000,F,2009,,42000,F,75%,1%,1%,1%,22%,2%,F,,,,39000,F
+010507,  IS,00077,N    ,I-77 NB,Ramp I-81 S Exit 72 to I-77 N at Exit 40,139,Town of Wytheville,098,Wythe County,0.28,I-81 S,I-77 N,11000,F,79%,1%,1%,0%,18%,1%,F,0.0676,F,1.0000,9400,F,2009,,21000,F,75%,1%,1%,1%,21%,2%,F,,,,18000,F
+010441,  IS,00077,N    ,I-77 NB, ,139,Town of Wytheville,098,Wythe County,0.31,I-81 Wytheville,Peppers Ferry Rd,13000,F,79%,1%,1%,0%,18%,1%,F,,,,12000,F,2009,,25000,F,75%,1%,1%,1%,21%,2%,F,,,,22000,F
+010442,  IS,00077,N    ,I-77 NB, ,139,Town of Wytheville,098,Wythe County,0.23,Peppers Ferry Rd,NCL Wytheville,14000,F,79%,1%,1%,0%,18%,1%,F,,,,12000,F,2009,,27000,F,75%,1%,1%,1%,21%,2%,F,,,,24000,F
+010446,  IS,00077,S    ,, ,139,Town of Wytheville,098,Wythe County,0.96,NCL Wytheville,US 11,25000,A,74%,1%,1%,1%,23%,2%,C,0.1246,A,1.0000,23000,A,2009,,49000,B,75%,1%,1%,1%,22%,2%,C,0.1154,A,0.5965,45000,B
+010189,  IS,00077,S    ,, ,139,Town of Wytheville,098,Wythe County,0.82,US 11,I-81 Wytheville,21000,F,74%,1%,1%,1%,23%,2%,F,,,,20000,F,2009,,42000,F,75%,1%,1%,1%,22%,2%,F,,,,39000,F
+110073,  IS,00077,S    ,I-77 SB,Ramp I-77 S Exit 40 to 81 N Exit 72,139,Town of Wytheville,098,Wythe County,0.66,I-81 N,I-77 S,9600,F,71%,1%,1%,1%,25%,2%,F,0.0873,F,1.0000,8500,F,2009,,21000,F,75%,1%,1%,1%,21%,2%,F,,,,18000,F
+110041,  IS,00077,S    ,I-77 SB, ,139,Town of Wytheville,098,Wythe County,0.49,I-81 Wytheville,NCL Wytheville,12000,F,71%,1%,1%,1%,25%,2%,F,,,,11000,F,2009,,25000,F,75%,1%,1%,1%,21%,2%,F,,,,22000,F
+786961,  IS,00077,S040A,I-77 SB Exit 040A,Ramp From I-77 S Exit 40 to I-81 S at Exit 72,139,Town of Wytheville,098,Wythe County,0.22,I-77 S,I-81 S,2400,F,71%,1%,1%,1%,25%,2%,F,0.0971,F,1.0000,2100,F,2009,,4800,F,75%,1%,1%,1%,21%,2%,F,,,,4200,F
+010568,  IS,00081,N    ,I-81 NB, ,139,Town of Wytheville,098,Wythe County,2.03,SCL Wytheville,"US 21; US 52, N Fourth St",13000,F,78%,1%,1%,1%,18%,1%,F,,,,13000,F,2009,,24000,F,80%,1%,1%,1%,17%,1%,F,,,,24000,F
+010445,  IS,00081,N    ,, ,139,Town of Wytheville,098,Wythe County,2.27,"US 21, N Fourth St",I-77 Wytheville,14000,F,78%,1%,1%,1%,18%,1%,F,,,,14000,F,2009,,26000,F,80%,1%,1%,1%,17%,1%,F,,,,26000,F
+010189,  IS,00081,N    ,, ,139,Town of Wytheville,098,Wythe County,0.82,I-77 Wytheville,"US 11, E Main St",21000,F,74%,1%,1%,1%,23%,2%,F,,,,20000,F,2009,,42000,F,75%,1%,1%,1%,22%,2%,F,,,,39000,F
+010446,  IS,00081,N    ,, ,139,Town of Wytheville,098,Wythe County,0.96,E Main St,NCL Wytheville,25000,A,74%,1%,1%,1%,23%,2%,C,0.1246,A,1.0000,23000,A,2009,,49000,B,75%,1%,1%,1%,22%,2%,C,0.1154,A,0.5965,45000,B
+786992,  IS,00081,N072A,I-81 NB Exit 072A,Ramp From I-81 N Exit 72 to I-77 N at Exit 40,139,Town of Wytheville,098,Wythe County,0.54,I-81 N,I-77 N,2500,F,79%,1%,1%,0%,18%,1%,F,0.0790,F,1.0000,2100,F,2009,,4800,F,75%,1%,1%,1%,21%,2%,F,,,,4200,F
+110062,  IS,00081,S    ,I-81 SB, ,139,Town of Wytheville,098,Wythe County,2.71,SCL Wytheville,"US 21; US 52, N Fourth St",11000,F,82%,0%,1%,1%,15%,1%,F,,,,11000,F,2009,,24000,F,80%,1%,1%,1%,17%,1%,F,,,,24000,F
+110007,  IS,00081,S    ,, ,139,Town of Wytheville,098,Wythe County,1.99,"US 21, N Fourth St",I-77 Wytheville,12000,F,82%,0%,1%,1%,15%,1%,F,0.0649,F,1.0000,12000,F,2009,,26000,F,80%,1%,1%,1%,17%,1%,F,,,,26000,F
+110006,  IS,00081,S    ,, ,139,Town of Wytheville,098,Wythe County,1.29,I-77 Wytheville,"US 11, E Main St",21000,F,76%,1%,1%,0%,21%,2%,F,,,,19000,F,2009,,42000,F,75%,1%,1%,1%,22%,2%,F,,,,39000,F
+010005,  IS,00081,S    ,, ,139,Town of Wytheville,098,Wythe County,0.93,E Main St,NCL Wytheville,24000,B,76%,1%,1%,0%,21%,2%,C,0.1176,A,1.0000,23000,B,2009,,49000,B,75%,1%,1%,1%,22%,2%,C,0.1154,A,0.5965,45000,B
+780296,  FR,00036,     ,FR 36, ,139,Town of Wytheville,098,Wythe County,0.21,Dead End,139-5258 Peppers Ferry Rd,7,R,,,,,,,X,,,,,,11/28/2006,,,,,,,,,,,,,,,
+780300,  FR,00041,     ,FR 41,Lithia Rd,139,Town of Wytheville,098,Wythe County,0.84,Dead End,FR-43 Lovers Lane,390,R,,,,,,,X,,,,,,10/24/2006,,,,,,,,,,,,,,,
+780301,  FR,00042,     ,FR 42,Factory Outlet Dr,139,Town of Wytheville,098,Wythe County,1.36,Connector From US 11 NB,ECL Wytheville,1500,R,,,,,,,X,,,,,,11/07/2006,,,,,,,,,,,,,,,
+780302,  FR,00043,     ,FR 43,Lovers Lane,139,Town of Wytheville,098,Wythe County,0.87,FR-41 Lovers Lane,NCL Wytheville,2300,R,,,,,,,X,,,,,,10/19/2006,,,,,,,,,,,,,,,
+780537,  FR,00324,     ,FR 324,Lithia Rd,139,Town of Wytheville,098,Wythe County,0.48,FR-41 Lithia Rd,"US 11, E Main St",1800,R,,,,,,,X,,,,,,10/26/2006,,,,,,,,,,,,,,,
+684501, 139,00001,     ,139-1,Fairview Rd,139,Town of Wytheville,139,Town of Wytheville,1.19,US 52 N 4th St,NCL Wytheville,930,F,91%,1%,1%,1%,2%,4%,C,0.1033,F,0.6639,1000,F,2009,,,,,,,,,,,,,,,
+684502, 139,00002,     ,139-2,Holston Rd,139,Town of Wytheville,139,Town of Wytheville,1.24,US 52 4th St,Cove Rd,2600,F,97%,0%,1%,2%,0%,0%,F,0.0969,F,0.5702,2800,F,2009,,,,,,,,,,,,,,,
+684512, 139,00004,     ,139-4,Nye Rd,139,Town of Wytheville,139,Town of Wytheville,0.96,FR-41 Lithia Rd,Peppers Ferry Rd,1400,F,87%,1%,2%,2%,8%,0%,C,0.0890,F,0.5245,1500,F,2009,,,,,,,,,,,,,,,
+684002, 139,05250,     ,139-5250,Old Stage Rd,139,Town of Wytheville,139,Town of Wytheville,1.63,WCL Wytheville,US 21 Grayson St,1200,F,99%,0%,1%,0%,0%,0%,C,0.0918,F,0.7149,1300,F,2009,,,,,,,,,,,,,,,
+684129, 139,05252,     ,139-5252,W Ridge St,139,Town of Wytheville,139,Town of Wytheville,1.55,Petunia Rd,18th St,1100,F,97%,0%,1%,2%,0%,0%,C,0.1101,F,0.5234,1200,F,2009,,,,,,,,,,,,,,,
+684504, 139,05252,     ,139-5252,W Ridge Rd,139,Town of Wytheville,139,Town of Wytheville,0.49,18th St,US 21 4th St,4100,F,99%,0%,0%,0%,0%,0%,C,0.0962,F,0.6045,4400,F,2009,,,,,,,,,,,,,,,
+684514, 139,05253,     ,139-5253,Withers Rd,139,Town of Wytheville,139,Town of Wytheville,0.25,US 11 Main St,11th St,3400,F,98%,0%,1%,0%,0%,0%,F,0.0969,F,0.5142,3700,F,2009,,,,,,,,,,,,,,,
+684121, 139,05253,     ,139-5253,11th St,139,Town of Wytheville,139,Town of Wytheville,0.31,Withers St,US 11 Main St,2200,G,98%,0%,1%,0%,0%,0%,C,,,,2400,G,2009,,,,,,,,,,,,,,,
+684120, 139,05253,     ,139-5253,11th St,139,Town of Wytheville,139,Town of Wytheville,0.06,US 11 Main St,Monroe St,7400,F,98%,0%,1%,0%,0%,0%,F,0.0940,F,0.5246,8000,F,2009,,,,,,,,,,,,,,,
+684515, 139,05253,     ,139-5253,North St,139,Town of Wytheville,139,Town of Wytheville,0.13,Monroe St,Fisher Rd,2300,F,98%,0%,1%,0%,0%,0%,F,0.1042,F,0.5388,2500,F,2009,,,,,,,,,,,,,,,
+684513, 139,05253,     ,139-5253,Fisher Rd,139,Town of Wytheville,139,Town of Wytheville,0.14,North St,Pine St,1500,F,98%,0%,1%,0%,0%,0%,F,0.0994,F,0.5030,1600,F,2009,,,,,,,,,,,,,,,
+684124, 139,05255,     ,139-5255,Cove Rd,139,Town of Wytheville,139,Town of Wytheville,0.52,Peppers Ferry Rd,Holston Rd,2900,F,98%,0%,0%,1%,0%,0%,C,0.0948,F,0.5000,3100,F,2009,,,,,,,,,,,,,,,
+684517, 139,05255,     ,139-5255,Cove Rd,139,Town of Wytheville,139,Town of Wytheville,0.32,Holston Rd,Wytheview Dr,1200,F,98%,0%,0%,1%,0%,0%,F,0.0932,F,0.5228,1200,F,2009,,,,,,,,,,,,,,,
+684518, 139,05255,     ,139-5255,Cove Rd,139,Town of Wytheville,139,Town of Wytheville,0.29,Wytheview Dr,NCL Wytheville,720,F,98%,0%,0%,1%,0%,0%,F,0.1050,F,0.5148,760,F,2009,,,,,,,,,,,,,,,
+684520, 139,05256,     ,139-5256,Spring St,139,Town of Wytheville,139,Town of Wytheville,0.30,12th St,4th St,1500,F,98%,0%,0%,1%,0%,0%,F,0.1088,F,0.6875,1500,F,2009,,,,,,,,,,,,,,,
+684521, 139,05256,     ,139-5256,Spring St,139,Town of Wytheville,139,Town of Wytheville,0.54,4th St,11th St,1700,F,98%,0%,0%,1%,0%,0%,F,0.0998,F,0.6240,1800,F,2009,,,,,,,,,,,,,,,
+684116, 139,05257,     ,139-5257,Tazewell St,139,Town of Wytheville,139,Town of Wytheville,0.06,Main St,Monroe St,1500,F,98%,0%,0%,1%,0%,0%,F,0.1127,F,0.6061,1500,F,2009,,,,,,,,,,,,,,,
+684105, 139,05258,     ,139-5258,Monroe St,139,Town of Wytheville,139,Town of Wytheville,0.31,12th St US 11,4th St US 21,3200,F,98%,0%,1%,1%,1%,0%,F,0.0954,F,0.5577,3400,F,2009,,,,,,,,,,,,,,,
+684115, 139,05258,     ,139-5258,Monroe St,139,Town of Wytheville,139,Town of Wytheville,0.19,US 21 4th St,1st Street,5600,F,98%,0%,1%,1%,1%,0%,F,0.0950,F,0.5835,6000,F,2009,,,,,,,,,,,,,,,
+684506, 139,05258,     ,139-5258,Monroe St,139,Town of Wytheville,139,Town of Wytheville,0.15,N 1st Street,N 5th St,5600,F,98%,0%,1%,1%,1%,0%,F,0.0916,F,0.6047,5800,F,2009,,,,,,,,,,,,,,,
+684507, 139,05258,     ,139-5258,Monroe St,139,Town of Wytheville,139,Town of Wytheville,0.19,5th St,11th St,5500,F,99%,0%,0%,0%,0%,0%,C,0.0903,F,0.6041,5800,F,2009,,,,,,,,,,,,,,,
+684123, 139,05258,     ,139-5258,Peppers Ferry Rd,139,Town of Wytheville,139,Town of Wytheville,0.46,11th St,Cove Rd,6700,F,98%,0%,1%,1%,1%,0%,C,0.0878,F,0.5273,7000,F,2009,,,,,,,,,,,,,,,
+684125, 139,05258,     ,139-5258,Peppers Ferry Rd,139,Town of Wytheville,139,Town of Wytheville,0.59,Cove Rd,Ramp from I-77,5300,F,95%,0%,1%,2%,1%,0%,C,0.0868,F,0.5156,5600,F,2009,,,,,,,,,,,,,,,
+684509, 139,05258,     ,139-5258,Peppers Ferry Rd,139,Town of Wytheville,139,Town of Wytheville,0.21,Ramp from I-77,Ramp to I-77,3100,N,96%,0%,1%,1%,3%,0%,N,0.0834,N,0.5258,3200,N,2009,,,,,,,,,,,,,,,
+781826, 139,05258,     ,139-5258,Peppers Ferry Rd,139,Town of Wytheville,139,Town of Wytheville,0.53,Ramp to I-77,ECL Wytheville,3100,F,96%,0%,1%,1%,3%,0%,C,0.0834,F,0.5258,3200,F,2009,,,,,,,,,,,,,,,
+684004, 139,05260,     ,139-5260,12th St,139,Town of Wytheville,139,Town of Wytheville,0.29,Main St US 11,Union St,2300,F,98%,0%,1%,0%,0%,0%,F,0.1003,F,0.5415,2400,F,2009,,,,,,,,,,,,,,,
+684511, 139,05260,     ,139-5260,Union St,139,Town of Wytheville,139,Town of Wytheville,0.30,12th St,4th St,1900,F,98%,0%,1%,0%,0%,0%,F,0.1038,F,0.5351,2000,F,2009,,,,,,,,,,,,,,,
+684131, 139,05260,     ,139-5260,Withers St,139,Town of Wytheville,139,Town of Wytheville,0.56,4th St,11th St,2700,F,98%,0%,1%,0%,0%,0%,C,0.0951,F,0.5576,2900,F,2009,,,,,,,,,,,,,,,
+684519, 139,05261,     ,139-5261,4th St,139,Town of Wytheville,139,Town of Wytheville,0.31,Marshall St,Withers St,1900,F,94%,0%,1%,3%,2%,0%,F,0.1052,F,0.5056,2000,F,2009,,,,,,,,,,,,,,,
+684113, 139,05261,     ,139-5261,4th St,139,Town of Wytheville,139,Town of Wytheville,0.30,Withers St,US 11 Main St,2200,F,94%,0%,1%,3%,2%,0%,F,0.0967,F,0.5674,2400,F,2009,,,,,,,,,,,,,,,
+684127, 139,05262,     ,139-5262,Marshall St,139,Town of Wytheville,139,Town of Wytheville,0.91,4th St,Main St US 11,1400,F,94%,0%,1%,3%,2%,0%,C,0.1013,F,0.6369,1400,F,2009,,,,,,,,,,,,,,,
+684130, 139,05264,     ,139-5264,Pine St,139,Town of Wytheville,139,Town of Wytheville,0.38,US 11 Lee Highway,US 21 4th St,4000,F,99%,0%,0%,0%,0%,0%,C,0.0919,F,0.6099,4200,F,2009,,,,,,,,,,,,,,,
+684510, 139,05264,     ,139-5264,Pine St,139,Town of Wytheville,139,Town of Wytheville,0.44,US 21 4th St,Fisher Rd,480,F,99%,0%,0%,0%,0%,0%,F,0.1086,F,0.5321,510,F,2009,,,,,,,,,,,,,,,
+584704, 139,00000,     ,139-0,10th St,139,Town of Wytheville,139,Town of Wytheville,0.00,Franklin Street,Washington Street,140,G,,,,,,,X,,,,140,G,2009,,,,,,,,,,,,,,,
+584700, 139,00000,     ,139-0,16th St,139,Town of Wytheville,139,Town of Wytheville,0.00,Spring St,Franklin St,100,G,,,,,,,X,,,,110,G,2009,,,,,,,,,,,,,,,
+788266, 139,00000,     ,139-0,3rd St,139,Town of Wytheville,139,Town of Wytheville,0.00,Ridge Street,Reservoir Street,370,G,,,,,,,X,,,,370,G,2009,,,,,,,,,,,,,,,
+584701, 139,00000,     ,139-0,Church St,139,Town of Wytheville,139,Town of Wytheville,0.00,Washington St,Withers St,660,F,,,,,,,X,0.1425,F,0.5000,700,F,2009,,,,,,,,,,,,,,,
+584703, 139,00000,     ,139-0,Mountain View Dr,139,Town of Wytheville,139,Town of Wytheville,0.00,11th St,13th St,800,F,,,,,,,X,0.1019,F,0.5112,840,F,2009,,,,,,,,,,,,,,,
+584702, 139,00000,     ,139-0,Spiller St,139,Town of Wytheville,139,Town of Wytheville,0.00,5th St,3rd St,140,F,,,,,,,X,,,,140,F,2009,,,,,,,,,,,,,,,
+584705, 139,00000,     ,139-0,Tazewell St,139,Town of Wytheville,139,Town of Wytheville,0.00,US 21,Umberger St,2800,G,99%,1%,0%,0%,0%,0%,C,,,,2800,G,2009,,,,,,,,,,,,,,,
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

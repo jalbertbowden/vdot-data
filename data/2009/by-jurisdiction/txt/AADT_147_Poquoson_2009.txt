@@ -1,0 +1,36 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Poquoson																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+659408	  SR	00171	     	VA 171	Victory Blvd	147	City of Poquoson	147	City of Poquoson	0.79	York County Line	SR 172 Wythe Creek Rd	12000	G	98%	0%	1%	1%	0%	0%	C	0.0887	F	0.5826	13000	G	2009
+659406	  SR	00171	     	VA 171	Little Florida Rd	147	City of Poquoson	147	City of Poquoson	1.00	SR 172 Wythe Creek Rd	Far Street	12000	G	98%	0%	1%	1%	0%	0%	F	0.0955	F	0.6276	13000	G	2009
+659415	  SR	00171	     	VA 171	Little Florida  Rd	147	City of Poquoson	147	City of Poquoson	0.44	Far Street	Poquoson Ave	7800	G	98%	0%	1%	1%	0%	0%	F	0.0903	F	0.6423	8400	G	2009
+659405	  SR	00171	     	VA 171	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	0.50	Poquoson Ave	Bunting Rd	7200	G	97%	1%	1%	1%	0%	0%	C	0.0956	F	0.6122	7800	G	2009
+659409	  SR	00171	     	VA 171	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	0.91	Bunting Rd	147-7050 Ridge Rd	3700	G	97%	1%	1%	1%	0%	0%	F	0.0894	F	0.6237	4000	G	2009
+659420	  SR	00171	     	VA 171	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	1.00	147-7050 Ridge Rd	Messick Rd	2700	G	97%	1%	1%	1%	0%	0%	F	0.0921	F	0.6057	2900	G	2009
+659404	  SR	00171	     	VA 171	Messick Rd	147	City of Poquoson	147	City of Poquoson	1.27	Poquoson Ave	Messick Pt	1300	G	97%	1%	1%	1%	0%	0%	F	0.0946	F	0.6022	1400	G	2009
+659402	  SR	00172	     	VA 172	Wythe Creek Rd	147	City of Poquoson	147	City of Poquoson	1.08	NCL Hampton	SR 171 Little Florida Rd; Victory Blvd	13000	G	98%	0%	1%	1%	0%	0%	C	0.0957	F	0.6985	14000	G	2009
+659412	  SR	00172	     	VA 172	Wythe Creek Rd	147	City of Poquoson	147	City of Poquoson	0.24	SR 171 Little Florida Rd; Victory Blvd	Hudgins Rd	12000	G	98%	0%	1%	1%	0%	0%	F	0.0958	F	0.5879	13000	G	2009
+659407	  SR	00172	     	VA 172	Wythe Creek Rd	147	City of Poquoson	147	City of Poquoson	0.62	Hudgins Rd	Poquoson Ave	7700	G	98%	0%	1%	1%	0%	0%	F	0.0947	F	0.5814	8300	G	2009
+659401	 147	07043	     	147-7043	Yorktown Rd	147	City of Poquoson	147	City of Poquoson	0.18	Poquoson Ave, Wythe Creek Rd	Yorktown Rd	7800	G	97%	1%	1%	1%	0%	0%	C	0.1004	F	0.5814	8500	G	2009
+659417	 147	07043	     	147-7043	Hunts Neck Rd	147	City of Poquoson	147	City of Poquoson	0.14	Yorktown Rd	Browns Neck Rd	6400	G	97%	1%	1%	1%	0%	0%	F	0.0944	F	0.5717	7000	G	2009
+659419	 147	07043	     	147-7043	Hunts Neck Rd	147	City of Poquoson	147	City of Poquoson	0.39	Browns Neck Rd	Pasture Rd	3600	G	97%	1%	1%	1%	0%	0%	F	0.0947	F	0.5857	3900	G	2009
+659418	 147	07043	     	147-7043	Hunts Neck Rd	147	City of Poquoson	147	City of Poquoson	0.74	Pasture Rd	Edwards Rd	2300	G	98%	1%	1%	1%	0%	0%	C	0.0941	F	0.5681	2500	G	2009
+659403	 147	07046	     	147-7046	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	0.66	Wythe Creek Rd	Rens Rd	3200	G	96%	2%	2%	0%	0%	0%	C	0.1156	F	0.5812	3500	G	2009
+659416	 147	07046	     	147-7046	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	0.89	Rens Rd	Little Fla Rd	3100	G	96%	2%	2%	0%	0%	0%	F	0.1153	F	0.5073	3400	G	2009
+659413	 147	07050	     	147-7050	Ridge Rd	147	City of Poquoson	147	City of Poquoson	1.08	Poquoson Ave	Messick Rd	710	G	97%	2%	1%	0%	0%	0%	C	0.1200	F	0.5200	770	G	2009
+659421	 147	07052	     	147-7052	Cary Chapel Rd	147	City of Poquoson	147	City of Poquoson	0.16	Wythe Creek Rd	York County Line	3700	G							X	0.1194	F	0.8048	4000	G	2009
+781838	 147	07052	     	147-7052	E Yorktown Rd	147	City of Poquoson	147	City of Poquoson	1.19	99-782 JB-99-147 Gap Terminus WCL POQUOS	Hunts Neck Rd	3600	G	96%	1%	1%	3%	0%	0%	C	0.0934	F	0.5934	3900	G	2009
+559109	 147	00000	     	147-0	Browns Neck Rd	147	City of Poquoson	147	City of Poquoson	0.00	Hunts Neck Rd	Norman Dr	2000	G							X				2000	G	2009
+559003	 147	00000	     	147-0	Forest Rd	147	City of Poquoson	147	City of Poquoson	0.00	Poquoson Ave	Holloway Rd	660	G							X	0.0982	F	0.5329	720	G	2009
+559004	 147	00000	     	147-0	Hudgins Rd	147	City of Poquoson	147	City of Poquoson	0.00	Poquoson Ave	Old Pond Rd	2500	G							X	0.1073	F	0.6358	2800	G	2009
+559005	 147	00000	     	147-0	Odd St	147	City of Poquoson	147	City of Poquoson	0.00	Poquoson Ave	Terrace Dr S	1800	G							X	0.1295	F	0.5493	2000	G	2009
+559007	 147	00000	     	147-0	Poquoson Rd	147	City of Poquoson	147	City of Poquoson	0.00	Messick Rd	Back Landing	610	G							X	0.1210	F	0.5349	660	G	2009
+559008	 147	00000	     	147-0	Poquoson Rd	147	City of Poquoson	147	City of Poquoson	0.00	W Cemetery Lane	Amorys Wharf	310	G							X	0.1499	F	0.5794	330	G	2009
+559002	 147	00000	     	147-0	Rens Rd	147	City of Poquoson	147	City of Poquoson	0.00	Poquoson Ave	Whitehouse Dr	1800	G							X	0.0964	F	0.5873	1900	G	2009
+559001	 147	00000	     	147-0	River Rd	147	City of Poquoson	147	City of Poquoson	0.00	E Yorktown Rd	Rivergate Dr	720	G							X	0.1162	F	0.5765	790	G	2009
+559110	 147	00000	     	147-0	Valmore	147	City of Poquoson	147	City of Poquoson	0.00	Jefferson Ct	Hunts Neck Rd	700	G							X				700	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

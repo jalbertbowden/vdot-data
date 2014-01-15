@@ -1,0 +1,62 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Keysville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030448	C6US	00015	     		 	248	Town of Keysville	019	Charlotte County	0.73	CL Keysville	S SR 40	1200	N	93%	1%	1%	1%	4%	0%	N	0.0971	N	0.5396	1300	N	2009
+030335	C6US	00015	     		McDonald Rd	248	Town of Keysville	019	Charlotte County	0.56	S SR 40	N SR 40	4700	F	93%	1%	1%	1%	4%	0%	F	0.1010	F	0.5653	5000	F	2009
+030334	C6US	00015	     		Four Locust Hwy	248	Town of Keysville	019	Charlotte County	0.37	N SR 40	CL Keysville	3900	F	93%	1%	1%	1%	4%	0%	F	0.0964	F	0.5542	4200	F	2009
+030427	  SR	00040	     	VA 40	Church St	248	Town of Keysville	019	Charlotte County	0.54	WCL Keysville	Bus US 15, Bus US 360	2100	N	81%	1%	1%	2%	15%	0%	N	0.1094	N	0.5474	2200	N	2009
+030335	  SR	00040	     		McDonald Rd	248	Town of Keysville	019	Charlotte County	0.56	W US 15 BUS	E US 15 BUS	4700	F	93%	1%	1%	1%	4%	0%	F	0.1010	F	0.5653	5000	F	2009	
+030072	  SR	00040	     	VA 40	Lunenburg Hwy	248	Town of Keysville	019	Charlotte County	0.40	US 15, US 360; ECL Keysville	ECL Keysville	2900	F	87%	2%	2%	1%	8%	0%	F	0.0845	F	0.5528	3000	F	2009
+030113	  SR	00059	     	VA 59	 	248	Town of Keysville	019	Charlotte County	0.58	WCL Keysville	SR 40 Keysville	1400	N	93%	1%	1%	1%	4%	0%	N	0.0937	N	0.5241	1500	N	2009
+030448	C4US	00360	     		 	248	Town of Keysville	019	Charlotte County	0.73	CL Keysville	S SR 40	1200	N	93%	1%	1%	1%	4%	0%	N	0.0971	N	0.5396	1300	N	2009	
+030335	C4US	00360	     		McDonald Rd	248	Town of Keysville	019	Charlotte County	0.56	S SR 40	N SR 40	4700	F	93%	1%	1%	1%	4%	0%	F	0.1010	F	0.5653	5000	F	2009	
+030334	C4US	00360	     		Four Locust Hwy	248	Town of Keysville	019	Charlotte County	0.37	N SR 40	CL Keysville	3900	F	93%	1%	1%	1%	4%	0%	F	0.0964	F	0.5542	4200	F	2009	
+785069	  19	00629	     	19-629	Southern Dr	248	Town of Keysville	019	Charlotte County	0.24	SCL Keysville	US 15 Bus NORTH	220	R							X						05/16/2006
+711183	  19	00688	     	19-688	Blue Stone Rd	248	Town of Keysville	019	Charlotte County	0.07	WCL Keysville	SR 40 Church St; George Washington Hwy	160	R							X						04/21/2009
+711215	  19	00712	     	19-712	Church St	248	Town of Keysville	019	Charlotte County	1.02	Bus US 15	NCL Keysville	710	R							X						04/21/2009
+711221	  19	00714	     	19-714	Railroad Ave	248	Town of Keysville	019	Charlotte County	0.10	19-712 Horseshoe Bend Road	19-716 Farrar St	450	R							X						04/21/2009
+711222	  19	00714	     	19-714	Railroad Ave	248	Town of Keysville	019	Charlotte County	0.02	19-716 Farrar St	Dead End	320	R							X						04/21/2009
+711223	  19	00715	     	19-715	J St	248	Town of Keysville	019	Charlotte County	0.06	Dead End	19-757 Osborne St	2	R							X						05/02/2006
+711224	  19	00715	     	19-715	J St	248	Town of Keysville	019	Charlotte County	0.07	19-757 Osborne St	Bus US 15	530	R							X						05/02/2006
+711225	  19	00716	     	19-716	Farrar St	248	Town of Keysville	019	Charlotte County	0.35	19-714 Railroad Ave	19-712 Horseshoe Bend Road	630	R							X						05/02/2006
+711226	  19	00716	     	19-716	Farrar St	248	Town of Keysville	019	Charlotte County	0.20	19-712 Horseshoe Bend Road	Dead End	270	R							X						05/02/2006
+711228	  19	00718	     	19-718	H St	248	Town of Keysville	019	Charlotte County	0.08	Bus US 15	19-712 Horseshoe Bend Road	870	R							X						05/02/2006
+711232	  19	00722	     	19-722	Spaulding Ave	248	Town of Keysville	019	Charlotte County	0.07	Dead End	19-757 Osborne St	400	R							X						05/16/2006
+711233	  19	00722	     	19-722	Spaulding Ave	248	Town of Keysville	019	Charlotte County	0.05	19-757 Osborne St	Bus US 15	1000	R							X						05/16/2006
+402398	  19	00731	     	19-731	Pettus St	248	Town of Keysville	019	Charlotte County	0.07	19-757 Osborne St	Bus US 15; SR 40, Lunenburg Hwy	100	F	86%	1%	0%	2%	11%	0%	C	0.1271	F	0.6000	100	F	2009
+711246	  19	00735	     	19-735	Pecan St	248	Town of Keysville	019	Charlotte County	0.08	Bus US 15	19-789 Pecan St	70	R							X						04/21/2009
+711247	  19	00735	     	19-735	Pecan St	248	Town of Keysville	019	Charlotte County	0.02	19-789 Pecan St	Dead End	10	R							X						04/21/2009
+711251	  19	00739	     	19-739	Wilson St	248	Town of Keysville	019	Charlotte County	0.12	SR 59	19-765 Arvin St	140	R							X						05/02/2006
+711268	  19	00757	     	19-757	Osborne St	248	Town of Keysville	019	Charlotte County	0.03	19-765 Arvin St	19-772 E, Hill Ave	350	R							X						04/21/2009
+402402	  19	00757	     	19-757	Osborne St	248	Town of Keysville	019	Charlotte County	0.42	19-772 W, Railroad Ave	19-731 Pettus St	280	F	98%	1%	1%	0%	0%	0%	C	0.1258	F	0.5854	290	F	2009
+711269	  19	00757	     	19-757	Osborne St	248	Town of Keysville	019	Charlotte County	0.14	19-731 Pettus St	19-722 Spaulding Ave	310	R							X						04/21/2009
+402403	  19	00758	     	19-758	I St	248	Town of Keysville	019	Charlotte County	0.11	Dead End	19-757 Osborne St	30	F	98%	1%	1%	0%	0%	0%	F				30	F	2009
+402404	  19	00758	     	19-758	I St	248	Town of Keysville	019	Charlotte County	0.09	19-757 Osborne St	Bus US 15	120	F	98%	1%	1%	0%	0%	0%	C	0.1783	F	0.5789	120	F	2009
+711270	  19	00758	     	19-758	I St	248	Town of Keysville	019	Charlotte County	0.09	Bus US 15	19-712 Horseshoe Bend Rd	420	R							X						04/21/2009
+711277	  19	00765	     	19-765	Arvin St	248	Town of Keysville	019	Charlotte County	0.05	19-795 Arvin Rd	SR 59	200	R							X						05/02/2006
+402405	  19	00765	     	19-765	Front St	248	Town of Keysville	019	Charlotte County	0.15	SR 59 Merry Oaks Dr	19-757 Osborne St	160	F	98%	1%	0%	0%	1%	0%	F	0.1179	F	0.5833	170	F	2009
+402406	  19	00765	     	19-765	Front St	248	Town of Keysville	019	Charlotte County	0.15	19-757 Osborne St	US 15 BUS; SR 40	150	F	98%	1%	0%	0%	1%	0%	C	0.1534	F	0.5862	160	F	2009
+711281	  19	00769	     	19-769	Mary Knoll Lane	248	Town of Keysville	019	Charlotte County	0.23	Bus US 15	Dead End	100	R							X						05/16/2006
+711283	  19	00771	     	19-771	Shaw Dr	248	Town of Keysville	019	Charlotte County	0.10	19-716 Farrar St	19-796 Shadow Lane	80	R							X						05/02/2006
+711284	  19	00771	     	19-771	Shaw Dr	248	Town of Keysville	019	Charlotte County	0.10	19-796 Shadow Lane	Dead End	10	R							X						05/02/2006
+403937	  19	00772	     	19-772	Hill Ave	248	Town of Keysville	019	Charlotte County	0.38	SCL Keysville	19-757 W, Osborne St	230	N	99%	0%	0%	1%	0%	0%	N	0.1319	N	0.5362	240	N	2009
+402409	  19	00772	     	19-772	Railroad Ave	248	Town of Keysville	019	Charlotte County	0.10	19-757 W, Osborne St	Bus US 15	510	F	99%	0%	0%	1%	0%	0%	C	0.1049	F	0.6207	540	F	2009
+711285	  19	00773	     	19-773	Priddy St	248	Town of Keysville	019	Charlotte County	0.05	19-774 Priddy St	SR 59	90	R							X						04/21/2009
+711286	  19	00774	     	19-774	Priddy St	248	Town of Keysville	019	Charlotte County	0.16	19-826 Merry Oakes Lane	19-773 Priddy St	40	R							X						04/21/2009
+711289	  19	00776	     	19-776	Mary Ave	248	Town of Keysville	019	Charlotte County	0.04	SR 59	19-772 Hill Ave	190	R							X						05/02/2006
+711294	  19	00781	     	19-781	Pine Haven St	248	Town of Keysville	019	Charlotte County	0.09	Dead End	SR 40 Lunenburg Hwy	60	R							X						05/16/2006
+711300	  19	00787	     	19-787	Keysville Main St	248	Town of Keysville	019	Charlotte County	0.09	19-716 Farrar St	19-796 Shadow Lane	90	R							X						05/02/2006
+711301	  19	00787	     	19-787	Keysville Main St	248	Town of Keysville	019	Charlotte County	0.05	19-796 Shadow Lane	Dead End	2	R							X						05/02/2006
+711303	  19	00789	     	19-789	Pecan St	248	Town of Keysville	019	Charlotte County	0.06	Dead End	19-735 Pecan St	80	R							X						04/21/2009
+711309	  19	00795	     	19-795	Arvin Rd	248	Town of Keysville	019	Charlotte County	0.08	Dead End	19-765 Arvin St	60	R							X						05/02/2006
+711310	  19	00796	     	19-796	Shadow Lane	248	Town of Keysville	019	Charlotte County	0.08	Bus US 15	19-787 Keysville Main St	150	R							X						04/21/2009
+711311	  19	00796	     	19-796	Shadow Lane	248	Town of Keysville	019	Charlotte County	0.12	19-787 Keysville Main St	19-771 Shaw Dr	100	R							X						04/21/2009
+786017	  19	00823	     	19-823	June Lane	248	Town of Keysville	019	Charlotte County	0.10	Bus US 15	19-824 Leisure Dr	90	R							X						04/20/2006
+786018	  19	00824	     	19-824	Leisure Dr	248	Town of Keysville	019	Charlotte County	0.15	Dead End	19-823 June Lane	20	R							X						04/20/2006
+711322	  19	00825	     	19-825	Merry Oaks Lane	248	Town of Keysville	019	Charlotte County	0.35	19-826 Merry Oaks Lane	SR 59	20	R							X						05/02/2006
+711324	  19	00826	     	19-826	Merry Oaks Lane	248	Town of Keysville	019	Charlotte County	0.10	WCL Keysville	SR 59	30	R							X						05/02/2006
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

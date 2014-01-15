@@ -1,0 +1,68 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Gretna																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030422	C3US	00029	     	Bus US 29	 	227	Town of Gretna	071	Pittsylvania County	0.13	SCL Gretna	SR 40 Gretna	2500	N	98%	0%	1%	0%	1%	0%	N	0.0940	N	0.6128	2700	N	2009
+030393	C3US	00029	     	Bus US 29	 	227	Town of Gretna	071	Pittsylvania County	0.88	SR 40 Gretna	NCL Gretna	4900	F	98%	0%	1%	0%	1%	0%	C	0.0882	F	0.5064	5300	F	2009
+030084	  SR	00040	     	VA 40	Valden Dr	227	Town of Gretna	071	Pittsylvania County	0.98	WCL Gretna	Bus US 29 Main St	6000	N	88%	1%	2%	1%	8%	0%	N	0.0920	N	0.6384	6400	N	2009
+030395	  SR	00040	     	VA 40	E Gretna Rd	227	Town of Gretna	071	Pittsylvania County	0.43	Bus US 29 Main St	ECL Gretna	3000	F	88%	1%	2%	1%	8%	0%	F	0.0887	F	0.6052	3200	F	2009
+403023	  71	00760	     	71-760	Music St South	227	Town of Gretna	071	Pittsylvania County	0.24	Bus US 29	71-1302 Leftwich St	400	F	99%	0%	1%	0%	0%	0%	C	0.1290	F	0.5574	430	F	2009
+758998	  71	00760	     	71-760	Music St North	227	Town of Gretna	071	Pittsylvania County	0.36	71-1302 Leftwich St	NCL Gretna	620	R							X						06/08/2009
+403028	  71	00792	     	71-792	Henry St	227	Town of Gretna	071	Pittsylvania County	0.21	71-1302 Leftwich St	71-1312 Dalton St	710	F	99%	0%	0%	0%	0%	0%	F	0.1017	F	0.5181	760	F	2009
+403029	  71	00792	     	71-792	Henry St	227	Town of Gretna	071	Pittsylvania County	0.50	71-1312 Dalton St	Bus US 29	1000	F	99%	0%	0%	0%	0%	0%	C	0.1252	F	0.5064	1100	F	2009
+759052	  71	00792	     	71-792	Henry St	227	Town of Gretna	071	Pittsylvania County	0.34	US 29 BUS; 71-1307	71-1308 Virginia St	1100	R							X						08/23/2006
+759053	  71	00792	     	71-792	Henry St	227	Town of Gretna	071	Pittsylvania County	0.20	71-1308 Virginia St	ECL Gretna	870	R							X						08/23/2006
+759590	  71	01301	     	71-1301	School St	227	Town of Gretna	071	Pittsylvania County	0.17	71-1305 Franklin Blvd North	Bus US 29	120	R							X						06/08/2009
+403082	  71	01302	     	71-1302	Leftwich St	227	Town of Gretna	071	Pittsylvania County	0.58	SR 40 Valden Dr	71-1304 Washington St	1200	F	99%	0%	1%	0%	0%	0%	C	0.0866	F	0.5417	1300	F	2009
+403083	  71	01302	     	71-1302	Leftwich St	227	Town of Gretna	071	Pittsylvania County	0.33	71-1304 Washington St	71-760 Music St North; Music St South	1200	F	99%	0%	1%	0%	0%	0%	F	0.0878	F	0.5230	1300	F	2009
+759591	  71	01302	     	71-1302	Leftwich St	227	Town of Gretna	071	Pittsylvania County	0.18	71-760 Music Street North; Music Street South	Bus US 29	1400	R							X						08/23/2006
+759592	  71	01303	     	71-1303	Coffey St	227	Town of Gretna	071	Pittsylvania County	0.05	SR 40 W, Valden Dr	71-1327 Industrial Dr	1600	R							X						05/20/2009
+759593	  71	01303	     	71-1303	Coffey St	227	Town of Gretna	071	Pittsylvania County	0.07	71-1327 Industrial Dr	71-1322 W, Harvey St	1200	R							X						05/20/2009
+759594	  71	01303	     	71-1303	Coffey St	227	Town of Gretna	071	Pittsylvania County	0.24	71-1322 W, Harvey St	71-1322 E, Harvey St	1200	R							X						05/20/2009
+759595	  71	01303	     	71-1303	Coffey St	227	Town of Gretna	071	Pittsylvania County	0.28	71-1322 E, Harvey St	71-1321 Church St	1800	R							X						05/20/2009
+759596	  71	01303	     	71-1303	Coffey St	227	Town of Gretna	071	Pittsylvania County	0.03	71-1321 Church St	SR 40 E, Valden Dr	1500	R							X						05/20/2009
+759597	  71	01304	     	71-1304	Washington St	227	Town of Gretna	071	Pittsylvania County	0.09	71-1319 West Watts St	71-792 Northside Dr	80	R							X						09/14/2009
+759598	  71	01304	     	71-1304	Washington St	227	Town of Gretna	071	Pittsylvania County	0.19	71-792 Northside Dr	71-1302 Leftwich St	90	R							X						09/14/2009
+759599	  71	01305	     	71-1305	Franklin Blvd North	227	Town of Gretna	071	Pittsylvania County	0.17	SR 40 Valden Dr	71-1301 School St	1600	R							X						06/08/2009
+759600	  71	01305	     	71-1305	Franklin Blvd North	227	Town of Gretna	071	Pittsylvania County	0.07	71-1301 School St	71-1326 Creasy St	1600	R							X						05/20/2009
+759601	  71	01305	     	71-1305	Franklin Blvd North	227	Town of Gretna	071	Pittsylvania County	0.07	71-1326 Creasy St	71-1314 Watts St Ext	1500	R							X						05/20/2009
+759602	  71	01305	     	71-1305	Franklin Blvd North	227	Town of Gretna	071	Pittsylvania County	0.01	71-1314 Watts St Ext	71-1319 West Watts St	1100	R							X						05/20/2009
+759603	  71	01305	     	71-1305	Franklin Blvd North	227	Town of Gretna	071	Pittsylvania County	0.08	71-1319 West Watts St	71-792 Northside Dr	1200	R							X						05/20/2009
+759604	  71	01305	     	71-1305	Franklin Boulevard North	227	Town of Gretna	071	Pittsylvania County	0.24	71-792 Northside Dr	71-1302 Leftwich St	590	R							X						05/20/2009
+759605	  71	01306	     	71-1306	Bailey St	227	Town of Gretna	071	Pittsylvania County	0.16	71-792 Northside Dr	71-1302 Leftwich St	80	R							X						06/08/2009
+759606	  71	01307	     	71-1307	Center St	227	Town of Gretna	071	Pittsylvania County	0.09	71-1309 Huffmond St	71-1316, S Shelton Dr	170	R							X						06/08/2009
+759607	  71	01307	     	71-1307	Center St	227	Town of Gretna	071	Pittsylvania County	0.10	71-1316, S Shelton Dr	Bus US 29; 71-792	590	R							X						06/08/2009
+759608	  71	01308	     	71-1308	Virginia St	227	Town of Gretna	071	Pittsylvania County	0.13	SR 40, E Gretna Rd	71-1330 Smith Lane	760	R							X						05/20/2009
+759609	  71	01308	     	71-1308	Virginia St	227	Town of Gretna	071	Pittsylvania County	0.17	71-1330 Smith Lane	71-1310 Payne St	710	R							X						05/20/2009
+759610	  71	01308	     	71-1308	Virginia St	227	Town of Gretna	071	Pittsylvania County	0.27	71-1310 Payne St	71-792 Henry St	390	R							X						05/20/2009
+759611	  71	01308	     	71-1308	Virginia St	227	Town of Gretna	071	Pittsylvania County	0.16	71-792 Henry St	71-1318 Payne St Ext	270	R							X						05/20/2009
+759612	  71	01308	     	71-1308	Virginia St	227	Town of Gretna	071	Pittsylvania County	0.07	71-1318 Payne St Ext	NCL Gretna	160	R							X						05/20/2009
+759614	  71	01309	     	71-1309	Huffmond St	227	Town of Gretna	071	Pittsylvania County	0.06	71-792 Northside Dr	71-1307 Center St	170	R							X						06/08/2009
+759615	  71	01309	     	71-1309	Huffmond St	227	Town of Gretna	071	Pittsylvania County	0.20	71-1307 Center St	71-1302 Leftwich St	190	R							X						06/08/2009
+759616	  71	01310	     	71-1310	Payne St	227	Town of Gretna	071	Pittsylvania County	0.17	71-792 Henry St	71-1308 Virginia St	300	R							X						05/20/2009
+759617	  71	01310	     	71-1310	Payne St	227	Town of Gretna	071	Pittsylvania County	0.56	71-1308 Virginia St	71-792; 71-1318	270	R							X						05/20/2009
+759618	  71	01311	     	71-1311	Harrison St	227	Town of Gretna	071	Pittsylvania County	0.20	SR 40, E Gretna Rd	Dead End	280	R							X						05/20/2009
+759619	  71	01312	     	71-1312	Dalton St	227	Town of Gretna	071	Pittsylvania County	0.19	SR 40 Valden Dr	71-1319 West Watts St	240	R							X						05/20/2009
+759621	  71	01312	     	71-1312	Dalton St	227	Town of Gretna	071	Pittsylvania County	0.10	71-1319 West Watts St	71-792 Northside Dr	180	R							X						05/20/2009
+759622	  71	01312	     	71-1312	Dalton St	227	Town of Gretna	071	Pittsylvania County	0.15	71-792 Northside Dr	71-1302 Leftwich St	120	R							X						05/20/2009
+759623	  71	01313	     	71-1313	Steele St	227	Town of Gretna	071	Pittsylvania County	0.10	71-1302 Leftwich St	WCL Gretna	1000	R							X						05/20/2009
+759624	  71	01314	     	71-1314	Watts St Ext	227	Town of Gretna	071	Pittsylvania County	0.12	71-1305 Franklin Blvd North	71-1317 Watts St Ext	840	R							X						06/08/2009
+759625	  71	01315	     	71-1315	Power St	227	Town of Gretna	071	Pittsylvania County	0.14	Bus US 29	71-1321 Church St	50	R							X						05/20/2009
+759626	  71	01316	     	71-1316	S Shelton Dr	227	Town of Gretna	071	Pittsylvania County	0.07	71-792 Northside Dr	71-1307 Center St	750	R							X						06/08/2009
+759627	  71	01317	     	71-1317	Watts St Ext	227	Town of Gretna	071	Pittsylvania County	0.06	71-792 Northside Dr	71-1314 Watts St Ext	920	R							X						06/08/2009
+759628	  71	01317	     	71-1317	Watts St Ext	227	Town of Gretna	071	Pittsylvania County	0.05	71-1314 Watts St Ext	Dead End	520	R							X						06/08/2009
+759629	  71	01318	     	71-1318	Payne St Ext	227	Town of Gretna	071	Pittsylvania County	0.22	71-792; 71-1310	71-1308 Virginia St	100	R							X						05/20/2009
+759630	  71	01319	     	71-1319	West Watts St	227	Town of Gretna	071	Pittsylvania County	0.23	71-1312 Dalton St	71-1305 Franklin Blvd North	180	R							X						09/14/2009
+759632	  71	01321	     	71-1321	Church St	227	Town of Gretna	071	Pittsylvania County	0.02	71-1303 Coffey St	71-1315 Power St	480	R							X						05/20/2009
+759633	  71	01321	     	71-1321	Church St	227	Town of Gretna	071	Pittsylvania County	0.08	71-1315 Power St	Bus US 29	450	R							X						05/20/2009
+759634	  71	01322	     	71-1322	Harvey St	227	Town of Gretna	071	Pittsylvania County	0.23	71-1303 W, Coffey St	71-1303 E, Coffey St	20	R							X						05/20/2009
+759635	  71	01323	     	71-1323	Fitzgerald St	227	Town of Gretna	071	Pittsylvania County	0.08	71-1327 Industrial Dr	SR 40 Valden Dr	460	R							X						05/20/2009
+759636	  71	01323	     	71-1323	Toney St	227	Town of Gretna	071	Pittsylvania County	0.13	SR 40 Valden Dr	71-792 Northside Dr	240	R							X						05/20/2009
+759637	  71	01324	     	71-1324	Northwest Dr	227	Town of Gretna	071	Pittsylvania County	0.04	Bus US 29	WCL Gretna	320	R							X						06/08/2009
+759640	  71	01326	     	71-1326	Creasy St	227	Town of Gretna	071	Pittsylvania County	0.12	71-1305 Franklin Blvd North	Cul-de-Sac	220	R							X						06/08/2009
+759642	  71	01327	     	71-1327	Industrial Dr	227	Town of Gretna	071	Pittsylvania County	0.02	71-1323 Fitzgerald St	71-1303 Coffey St	600	R							X						05/20/2009
+759645	  71	01330	     	71-1330	Smith Lane	227	Town of Gretna	071	Pittsylvania County	0.06	71-1308 Virginia St	Dead End	40	R							X						06/01/2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

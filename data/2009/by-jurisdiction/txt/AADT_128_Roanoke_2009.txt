@@ -1,0 +1,280 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Roanoke																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+666204	  US	00011	     	US 11	Brandon Ave	128	City of Roanoke	128	City of Roanoke	1.35	ECL Salem	Edgewood St; Mud Lick Rd	19000	F	98%	0%	1%	0%	0%	0%	F	0.0941	F	0.6206	22000	F	2009
+666412	  US	00011	     	US 11	Brandon Ave	128	City of Roanoke	128	City of Roanoke	1.03	Edgewood St; Mud Lick Rd	Grandin Rd	12000	F	98%	0%	1%	0%	0%	0%	F	0.0842	F	0.5708	14000	F	2009
+666411	  US	00011	     	US 11	Grandin Rd	128	City of Roanoke	128	City of Roanoke	0.70	Brandon Ave	Memorial Avenue	7300	F	98%	0%	1%	0%	0%	0%	F	0.0925	F	0.6202	8300	F	2009
+120058	  US	00011	     	US 11	Memorial Avenue	128	City of Roanoke	128	City of Roanoke	0.84	Grandin Rd	Campbell Ave	11000	A	98%	0%	1%	0%	0%	0%	C	0.1151	A	0.5927	13000	A	2009
+666455	  US	00011	     	US 11	Campbell Ave	128	City of Roanoke	128	City of Roanoke	0.53	13th St	7th St	4300	F	98%	0%	1%	0%	0%	0%	F	0.0977	F	0.5968	4900	F	2009
+666408	  US	00011	     	US 11	Campbell Ave	128	City of Roanoke	128	City of Roanoke	0.47	7th St	3rd St	5400	F	98%	0%	1%	0%	0%	0%	F	0.0830	F	0.5420	6200	F	2009
+666517	  US	00011	     	US 11	Campbell Ave	128	City of Roanoke	128	City of Roanoke	0.28	3rd St	US 221 Jefferson St	6800	F	98%	0%	1%	0%	0%	0%	F	0.0798	F	0.7382	7700	F	2009
+666518	  US	00011	     	US 11	Campbell Ave	128	City of Roanoke	128	City of Roanoke	0.16	US 221 Jefferson St	Williamson Rd	6800	N	98%	0%	1%	0%	0%	0%	N	0.0798	N	0.7382	7700	N	2009
+666813	  US	00011	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.15	Campbell Ave	Shenandoah Ave	21000	F	98%	0%	1%	0%	0%	0%	F	0.0893	F	0.5274	24000	F	2009
+666406	  US	00011	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.15	Shenandoah Ave	I-581	15000	F	98%	0%	1%	0%	0%	0%	F	0.0990	F	0.7228	17000	F	2009
+666405	  US	00011	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.50	I-581	US 460 Orange Ave	12000	F	99%	0%	0%	0%	0%	0%	F	0.0817	F	0.5555	12000	F	2009
+666404	  US	00011	     	US 11	Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.92	US 460 Orange Ave	Liberty Rd	15000	F	99%	0%	0%	0%	0%	0%	F	0.0794	F	0.5023	15000	F	2009
+666403	  US	00011	     	US 11	Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.51	Liberty Rd	10th St	16000	F	99%	0%	0%	0%	0%	0%	F	0.0800	F	0.5084	16000	F	2009
+666402	  US	00011	     	US 11	Williamson Rd	128	City of Roanoke	128	City of Roanoke	1.27	10th St	SR 101 Hershberger Rd	18000	F	99%	0%	0%	0%	0%	0%	F	0.0766	F	0.5007	19000	F	2009
+666401	  US	00011	     	US 11	Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.11	SR 101 Hershberger Rd	SR 118 Airport Rd	19000	F	99%	0%	0%	0%	0%	0%	F	0.0846	F	0.5137	19000	F	2009
+666201	  US	00011	     	US 11	Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.39	SR 118 Airport Rd	NCL Roanoke	17000	F	99%	0%	0%	0%	0%	0%	F	0.0837	F	0.5097	18000	F	2009
+666247	A1US	00011	     		Melrose Ave	128	City of Roanoke	128	City of Roanoke	0.65	ECL Salem	SR 117 Peters Creek Rd	16000	F	96%	1%	1%	1%	1%	0%	F	0.0876	F	0.5168	17000	F	2009	
+666446	A1US	00011	     		Melrose Ave	128	City of Roanoke	128	City of Roanoke	1.75	SR 117 Peters Creek Rd	24th St	12000	F	96%	1%	1%	1%	1%	0%	F	0.0859	F	0.5066	13000	F	2009	
+666504	A1US	00011	     		Melrose Ave	128	City of Roanoke	128	City of Roanoke	0.41	24th St	Salem Turnpike	12000	F	96%	1%	1%	1%	1%	0%	F	0.0858	F	0.5110	13000	F	2009	
+666444	A1US	00011	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.00	Salem Turnpike	10TH ST, Gainsboro Rd	13000	F	96%	1%	1%	1%	1%	0%	F	0.0821	F	0.5006	14000	F	2009	
+666443	A1US	00011	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.90	10th St, Gainsboro Rd	I-581, US 220, ALT SR 220	17000	A	96%	1%	1%	1%	1%	0%	C	0.0956	A	0.5115	18000	A	2009	
+666442	A1US	00011	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.24	I-581, US 220, ALT SR 220	US 11 Williamson Rd	35000	F	96%	1%	1%	1%	1%	0%	F	0.0806	F	0.6332	38000	F	2009	
+666417	  SR	00024	     	VA 24	Elm Avenue	128	City of Roanoke	128	City of Roanoke	0.17	SR 116 Jefferson St	I-581	16000	F	98%	1%	1%	0%	1%	0%	C	0.0784	F	0.5045	18000	F	2009
+666416	  SR	00024	     	VA 24	Elm Avenue	128	City of Roanoke	128	City of Roanoke	0.25	I-581	SR 24 Par, 6th St	27000	F	97%	1%	1%	0%	1%	0%	C	0.0845	F	0.5673	29000	F	2009
+666507	  SR	00024	     	VA 24	Bullitt Avenue	128	City of Roanoke	128	City of Roanoke	0.68	SR 24 Par, 6th St	SR 24 P, 13th St	12000	F	98%	0%	1%	0%	1%	0%	C	0.1100	F	1.0000	13000	F	2009		24000	F	98%	0%	1%	0%	1%	0%	C	0.0869	F	0.6084	26000	F
+666505	  SR	00024	     	VA 24	Jamison Ave	128	City of Roanoke	128	City of Roanoke	0.19	13th St	Dale Ave	27000	F	98%	0%	1%	0%	1%	0%	F	0.0898	F	0.6268	29000	F	2009
+666413	  SR	00024	     	VA 24	Dale Ave	128	City of Roanoke	128	City of Roanoke	0.69	Jamison Ave	ECL Roanoke	26000	F	98%	0%	1%	0%	1%	0%	C	0.0924	F	0.6295	28000	F	2009
+666415	 1SR	00024	P    	VA 24 Par	Jamison Ave	128	City of Roanoke	128	City of Roanoke	0.68	6th St	SR 24 Jamison Ave; Bullitt Avenue	12000	F	98%	0%	1%	0%	1%	0%	C	0.1020	F	1.0000	13000	F	2009		24000	F	98%	0%	1%	0%	1%	0%	C	0.0869	F	0.6084	26000	F
+666213	  SR	00101	     	VA 101	Hershberger Rd	128	City of Roanoke	128	City of Roanoke	1.34	SR 117 Peters Creek Rd	SR 116 Cove Rd	9100	F	99%	0%	1%	0%	0%	0%	C	0.0939	F	0.5021	9800	F	2009
+666212	  SR	00101	     	VA 101	Hershberger Rd	128	City of Roanoke	128	City of Roanoke	0.58	SR 116 Cove Rd	I-581	24000	F	97%	1%	1%	1%	1%	0%	F	0.0895	F	0.5135	28000	F	2009
+666211	  SR	00101	     	VA 101	Hershburger Rd	128	City of Roanoke	128	City of Roanoke	1.25	I-581 Valley View Blvd N	US 11 Williamson Rd	36000	F	97%	1%	1%	1%	1%	0%	F	0.0879	F	0.5269	42000	F	2009
+666418	  SR	00115	     	VA 115	Hollins Rd	128	City of Roanoke	128	City of Roanoke	1.02	Orange Ave	Liberty St	7100	F	95%	0%	1%	1%	2%	0%	C	0.0907	F	0.5968	7700	F	2009
+666508	  SR	00115	     	VA 115	Liberty Rd	128	City of Roanoke	128	City of Roanoke	0.30	Hollins Rd	Plantation Rd	4700	F	95%	0%	1%	1%	2%	0%	F	0.0979	F	0.6178	5100	F	2009
+666419	  SR	00115	     	VA 115	Plantation Rd	128	City of Roanoke	128	City of Roanoke	0.88	Liberty Rd	Hollins Rd	8900	F	97%	0%	1%	1%	1%	0%	C	0.0874	F	0.5694	9700	F	2009
+666420	  SR	00115	     	VA 115	Plantation Rd	128	City of Roanoke	128	City of Roanoke	0.66	Hollins Rd	NCL Roanoke	15000	F	97%	0%	1%	1%	1%	0%	C	0.0873	F	0.5385	17000	F	2009
+666811	  SR	00116	     	VA 116	Mt Pleasant Blvd	128	City of Roanoke	128	City of Roanoke	0.70	SCL Roanoke	Riverland Rd	8700	F	98%	0%	1%	0%	0%	0%	F	0.1038	F	0.8467	8200	F	2009
+666423	  SR	00116	     	VA 116	Riverland Rd	128	City of Roanoke	128	City of Roanoke	0.62	Mt Pleasant Blvd	9th St	9800	F	98%	0%	1%	0%	0%	0%	C	0.0985	F	0.8430	9200	F	2009
+666520	  SR	00116	     	VA 116	Riverland Rd	128	City of Roanoke	128	City of Roanoke	0.73	9th St	Piedmont St	8000	F	98%	0%	1%	0%	0%	0%	F	0.0953	F	0.7056	7500	F	2009
+666812	  SR	00116	     	VA 116	Piedmont St	128	City of Roanoke	128	City of Roanoke	0.07	Riverland Rd	Walnut Ave	3800	F	98%	1%	1%	0%	0%	0%	F	0.1002	F	0.7295	3600	F	2009
+666422	  SR	00116	     	VA 116	Walnut Ave	128	City of Roanoke	128	City of Roanoke	0.26	Piedmont St	Jefferson St	5200	F	98%	1%	1%	0%	0%	0%	C	0.1059	F	0.6211	5600	F	2009
+666429	  SR	00116	     	VA 116	Jefferson St	128	City of Roanoke	128	City of Roanoke	0.42	Walnut Ave	Elm Ave	10000	F	98%	1%	1%	0%	0%	0%	F	0.0933	F	0.5495	9800	F	2009
+666430	  SR	00116	     		Jefferson St	128	City of Roanoke	128	City of Roanoke	0.28	US 221; 1US 221-P; 128-8015 Gap T	US 11	3100	F	99%	0%	1%	0%	0%	0%	F	0.1031	F	0.6296	3400	F	2009	
+666813	  SR	00116	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.15	Campbell Ave	Shenandoah Ave	21000	F	98%	0%	1%	0%	0%	0%	F	0.0893	F	0.5274	24000	F	2009	
+666406	  SR	00116	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.15	Shenandoah Ave	I-581	15000	F	98%	0%	1%	0%	0%	0%	F	0.0990	F	0.7228	17000	F	2009	
+666405	  SR	00116	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.50	I-581	US 11	12000	F	99%	0%	0%	0%	0%	0%	F	0.0817	F	0.5555	12000	F	2009	
+666442	  SR	00116	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.24	US 460	I-581, US 220, ALT SR 220	35000	F	96%	1%	1%	1%	1%	0%	F	0.0806	F	0.6332	38000	F	2009	
+666443	  SR	00116	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.90	I-581, US 220, ALT SR 220	10th St, Gainsboro Rd	17000	A	96%	1%	1%	1%	1%	0%	C	0.0956	A	0.5115	18000	A	2009	
+666444	  SR	00116	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.00	10TH ST, Gainsboro Rd	Salem Turnpike	13000	F	96%	1%	1%	1%	1%	0%	F	0.0821	F	0.5006	14000	F	2009	
+666504	  SR	00116	     		Melrose Ave	128	City of Roanoke	128	City of Roanoke	0.41	Salem Turnpike	Melrose Ave	12000	F	96%	1%	1%	1%	1%	0%	F	0.0858	F	0.5110	13000	F	2009	
+666421	  SR	00116	     	VA 116	Lafayette Blvd	128	City of Roanoke	128	City of Roanoke	0.73	Melrose Ave	Cove Rd	9000	F	98%	1%	1%	0%	0%	0%	C	0.0818	F	0.5921	8500	F	2009
+666519	  SR	00116	     	VA 116	Cove Rd	128	City of Roanoke	128	City of Roanoke	0.72	Lafayette Blvd	SR 101 Hershberger Rd	15000	F	98%	1%	1%	0%	0%	0%	F	0.0834	F	0.5551	14000	F	2009
+782950	  SR	00117	     	VA 117	Peters Creek Rd Ext	128	City of Roanoke	128	City of Roanoke	2.34	US 11 Brandon Ave	Aerial Way Dr	15000	F	97%	1%	1%	1%	1%	0%	F	0.0933	F	0.5246	17000	F	2009
+666424	  SR	00117	     	VA 117	Peters Creek Rd	128	City of Roanoke	128	City of Roanoke	0.46	Melrose Ave	Hershburger Rd	21000	F	97%	1%	1%	1%	1%	0%	F	0.0892	F	0.5265	24000	F	2009
+666220	  SR	00117	     	VA 117	Peters Creek Rd	128	City of Roanoke	128	City of Roanoke	0.87	Hershburger Rd	Cove Rd	15000	F	97%	1%	1%	1%	1%	0%	F	0.0883	F	0.5491	17000	F	2009
+666221	  SR	00117	     	VA 117	Peters Creek Rd	128	City of Roanoke	128	City of Roanoke	1.37	Cove Rd	I-581	17000	F	97%	1%	1%	1%	1%	0%	F	0.0899	F	0.5092	19000	F	2009
+120060	  SR	00117	     	VA 117	Peters Creek Rd	128	City of Roanoke	128	City of Roanoke	0.82	I-581	NCL Roanoke	21000	A	97%	1%	1%	1%	1%	0%	C	0.1115	A	0.5104	24000	A	2009
+666425	  SR	00118	     	VA 118	Airport Rd	128	City of Roanoke	128	City of Roanoke	0.63	US 11 Williamson Rd	Municipal Rd	7700	F	99%	0%	0%	0%	0%	0%	F	0.1076	F	0.5372	8200	F	2009
+120063	  SR	00118	     	VA 118	Airport Rd	128	City of Roanoke	128	City of Roanoke	1.01	Municipal Rd	NCL Roanoke	12000	A	99%	0%	0%	0%	0%	0%	C	0.1181	A	0.5036	12000	A	2009
+020405	  US	00220	     	US 220	Franklin Rd	128	City of Roanoke	080	Roanoke County	1.38	SCL Roanoke	BUS US 220; SR 419 Electric Rd	38000	F	88%	1%	1%	1%	9%	1%	F	0.0774	F	0.5898	39000	F	2009
+020188	  US	00220	     	US 220	Roy Webber Expwy	128	City of Roanoke	080	Roanoke County	1.92	BUS US 220; SR 419 Electric Rd	Wonju St	42000	G	88%	1%	1%	1%	9%	1%	F				44000	G	2009
+020403	  US	00220	     	US 220	Roy Webber Expwy	128	City of Roanoke	080	Roanoke County	1.71	Wonju St	SR 24 Elm Ave; I-581	57000	G	88%	1%	1%	1%	9%	1%	F				58000	G	2009
+020203	  US	00220	     		 	128	City of Roanoke	080	Roanoke County	0.66	SR 24 Elm Ave; I-581	US 11 Williamson Rd	36000	F	94%	1%	1%	1%	4%	0%	F				40000	F	2009		75000	F	94%	1%	1%	1%	4%	0%	F				84000	F
+020200	  US	00220	     		 	128	City of Roanoke	080	Roanoke County	0.31	US 11 Williamson Rd	US 460 Orange Ave	39000	F	94%	1%	1%	1%	4%	0%	F				44000	F	2009		79000	F	94%	1%	1%	1%	4%	0%	F				88000	F
+020201	  US	00220	     		 	128	City of Roanoke	080	Roanoke County	1.68	US 460 Orange Ave	Valley View Blvd	38000	F	94%	1%	1%	1%	4%	0%	F	0.1115	N	1.0000	43000	F	2009		76000	F	94%	1%	1%	1%	4%	0%	F				86000	F
+020198	  US	00220	     		 	128	City of Roanoke	080	Roanoke County	1.11	Valley View Blvd	SR 101 Hershberger Rd	31000	A	94%	1%	1%	1%	4%	0%	C	0.1115	A	1.0000	34000	A	2009		62000	A	94%	1%	1%	1%	4%	0%	C	0.1092	A	0.5103	69000	A
+020196	  US	00220	     		 	128	City of Roanoke	080	Roanoke County	1.75	SR 101 Hershberger Rd	SR 117 Peters Creek Rd	26000	F	94%	1%	1%	1%	4%	0%	F				30000	F	2009		53000	F	94%	1%	1%	1%	4%	0%	F				60000	F
+080634	C2US	00220	     	Bus US 220	Franklin Rd	128	City of Roanoke	080	Roanoke County	0.27	US 220; SR 419 South of Roanoke	Penarth Road	22000	F	98%	0%	1%	0%	0%	0%	C	0.0820	F	0.5119	23000	F	2009
+666427	C2US	00220	     	Bus US 220	Franklin Rd	128	City of Roanoke	128	City of Roanoke	1.26	Penarth Road	128-3 Wonju St	18000	F	98%	0%	1%	0%	0%	0%	F	0.0914	F	0.5178	17000	F	2009
+666428	C2US	00220	     	Bus US 220	Franklin Rd	128	City of Roanoke	128	City of Roanoke	0.38	128-3 Wonju St	128-8003 McClanahan St	11000	F	98%	0%	1%	0%	0%	0%	F	0.0976	F	0.5138	11000	F	2009
+120102	C2US	00220	     	Bus US 220	Franklin Rd	128	City of Roanoke	128	City of Roanoke	0.41	128-8003 McClanahan St	128-8015; I-581 Underpass	9900	F	98%	0%	1%	0%	0%	0%	F	0.0937	F	0.5174	9400	F	2009
+666442	A1SR	00220	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.24	I-581, US 220, ALT SR 220	US 11 Williamson Rd	35000	F	96%	1%	1%	1%	1%	0%	F	0.0806	F	0.6332	38000	F	2009	
+666441	A1SR	00220	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.49	US 11 Williamson Rd	SR 115 Hollins Rd	41000	F	96%	1%	1%	1%	1%	0%	F	0.0778	F	0.5641	45000	F	2009	
+666440	A1SR	00220	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.14	SR 115 Hollins Rd	24th St	40000	F	91%	1%	1%	1%	5%	0%	C	0.0761	F	0.5597	42000	F	2009	
+666246	A1SR	00220	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.37	24th St	128-8055 King St	31000	F	90%	1%	1%	2%	6%	0%	C	0.0741	F	0.5042	32000	F	2009	
+666244	A1SR	00220	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.18	128-8055 King St	Roanoke County Line	39000	F	94%	0%	1%	1%	4%	0%	F	0.0798	F	0.5458	41000	F	2009	
+666435	  US	00221	     	US 221	Brambleton Ave	128	City of Roanoke	128	City of Roanoke	1.39	WCL Roanoke	Overland Road	15000	F	99%	0%	1%	0%	0%	0%	C	0.1071	F	0.6058	14000	F	2009
+666436	  US	00221	     	US 221	Brambleton Ave	128	City of Roanoke	128	City of Roanoke	0.52	Overland Road	Brandon Ave	8100	F	99%	0%	1%	0%	0%	0%	F	0.1113	F	0.6359	7700	F	2009
+666437	  US	00221	     	US 221	Main St	128	City of Roanoke	128	City of Roanoke	1.19	Brandon Ave	8th St	9500	F	99%	0%	1%	0%	0%	0%	F	0.0984	F	0.6203	9000	F	2009
+666438	  US	00221	     	US 221	Elm Ave	128	City of Roanoke	128	City of Roanoke	0.46	8th St	US 220 Franklin Rd	12000	F	98%	0%	1%	0%	0%	0%	C	0.0905	F	0.6657	11000	F	2009
+781554	  US	00221	     	US 221	Elm Ave	128	City of Roanoke	128	City of Roanoke	0.30	US 220 Franklin Rd	SR 24, SR 116	11000	F	98%	0%	1%	0%	0%	0%	F	0.0787	F	0.5197	11000	F	2009		20000	F	99%	0%	1%	0%	0%	0%	F	0.0924	F	0.5664	19000	F
+666430	  US	00221	     		Jefferson St	128	City of Roanoke	128	City of Roanoke	0.28	SR 116 US 221 Bus P	US 11 Williamson Rd; Campbell Ave	3100	F	99%	0%	1%	0%	0%	0%	F	0.1031	F	0.6296	3400	F	2009
+666813	  US	00221	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.15	Salem Ave	Shenandoah Ave	21000	F	98%	0%	1%	0%	0%	0%	F	0.0893	F	0.5274	24000	F	2009	
+666406	  US	00221	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.15	Shenandoah Ave	I-581	15000	F	98%	0%	1%	0%	0%	0%	F	0.0990	F	0.7228	17000	F	2009	
+666405	  US	00221	     		Williamson Rd	128	City of Roanoke	128	City of Roanoke	0.50	I-581	US 460 S	12000	F	99%	0%	0%	0%	0%	0%	F	0.0817	F	0.5555	12000	F	2009	
+666441	  US	00221	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.49	US 460 S	SR 115 Hollins Rd	41000	F	96%	1%	1%	1%	1%	0%	F	0.0778	F	0.5641	45000	F	2009	
+666440	  US	00221	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.14	SR 115 Hollins Rd	24th St	40000	F	91%	1%	1%	1%	5%	0%	C	0.0761	F	0.5597	42000	F	2009	
+666246	  US	00221	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.37	24th St	128-8055 King St	31000	F	90%	1%	1%	2%	6%	0%	C	0.0741	F	0.5042	32000	F	2009	
+666244	  US	00221	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.18	128-8055 King St	ECL Roanoke	39000	F	94%	0%	1%	1%	4%	0%	F	0.0798	F	0.5458	41000	F	2009	
+120104	 1US	00221	P    	US 221 Par	Franklin Rd	128	City of Roanoke	128	City of Roanoke	0.40	US 221 Elm Ave	US 221, SR 116 Jefferson St	8600	F	99%	0%	1%	0%	0%	0%	F	0.1083	F	0.6506	8200	F	2009		20000	F	99%	0%	1%	0%	0%	0%	F	0.0924	F	0.5664	19000	F
+020194	  SR	00419	     	VA 419	Electric Rd	128	City of Roanoke	080	Roanoke County	0.07	US 220; Bus US 220 Franklin Rd	Roanoke County Line	41000	F	99%	0%	0%	0%	0%	0%	F	0.0830	F	0.5450	45000	F	2009
+666247	  US	00460	     		Melrose Ave	128	City of Roanoke	128	City of Roanoke	0.65	ECL Salem	SR 117 Peters Creek Rd	16000	F	96%	1%	1%	1%	1%	0%	F	0.0876	F	0.5168	17000	F	2009
+666446	  US	00460	     		Melrose Ave	128	City of Roanoke	128	City of Roanoke	1.75	SR 117 Peters Creek Rd	24th St	12000	F	96%	1%	1%	1%	1%	0%	F	0.0859	F	0.5066	13000	F	2009
+666504	  US	00460	     		Melrose Ave	128	City of Roanoke	128	City of Roanoke	0.41	24th St	Salem Tpke	12000	F	96%	1%	1%	1%	1%	0%	F	0.0858	F	0.5110	13000	F	2009
+666444	  US	00460	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.00	Salem Tpke	10th St, Gainsboro Rd	13000	F	96%	1%	1%	1%	1%	0%	F	0.0821	F	0.5006	14000	F	2009
+666443	  US	00460	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.90	10th St, Gainsboro Rd	I-581, US 220, ALT SR 220	17000	A	96%	1%	1%	1%	1%	0%	C	0.0956	A	0.5115	18000	A	2009
+666442	  US	00460	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.24	I-581, US 220, ALT SR 220	US 11 Williamson Rd	35000	F	96%	1%	1%	1%	1%	0%	F	0.0806	F	0.6332	38000	F	2009
+666441	  US	00460	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.49	US 11 Williamson Rd	SR 115 Hollins Rd	41000	F	96%	1%	1%	1%	1%	0%	F	0.0778	F	0.5641	45000	F	2009
+666440	  US	00460	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.14	SR 115 Hollins Rd	24th St	40000	F	91%	1%	1%	1%	5%	0%	C	0.0761	F	0.5597	42000	F	2009
+666246	  US	00460	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	1.37	24th St	128-8055 King St	31000	F	90%	1%	1%	2%	6%	0%	C	0.0741	F	0.5042	32000	F	2009
+666244	  US	00460	     		Orange Ave	128	City of Roanoke	128	City of Roanoke	0.18	128-8055 King St	Roanoke County Line	39000	F	94%	0%	1%	1%	4%	0%	F	0.0798	F	0.5458	41000	F	2009
+020203	  IS	00581	N    		 	128	City of Roanoke	080	Roanoke County	0.66	SR 24 Elm Ave; US 220 Webber Expy	US 11 Williamson Rd	36000	F	94%	1%	1%	1%	4%	0%	F				40000	F	2009		75000	F	94%	1%	1%	1%	4%	0%	F				84000	F
+020200	  IS	00581	N    		 	128	City of Roanoke	080	Roanoke County	0.31	US 11 Williamson Rd	US 460 Orange Ave	39000	F	94%	1%	1%	1%	4%	0%	F				44000	F	2009		79000	F	94%	1%	1%	1%	4%	0%	F				88000	F
+020201	  IS	00581	N    		 	128	City of Roanoke	080	Roanoke County	1.68	US 460 Orange Ave	Valley View Blvd	38000	F	94%	1%	1%	1%	4%	0%	F	0.1115	N	1.0000	43000	F	2009		76000	F	94%	1%	1%	1%	4%	0%	F				86000	F
+020198	  IS	00581	N    		 	128	City of Roanoke	080	Roanoke County	1.11	Valley View Blvd	SR 101 Hershberger Rd	31000	A	94%	1%	1%	1%	4%	0%	C	0.1115	A	1.0000	34000	A	2009		62000	A	94%	1%	1%	1%	4%	0%	C	0.1092	A	0.5103	69000	A
+020196	  IS	00581	N    		 	128	City of Roanoke	080	Roanoke County	1.75	SR 101 Hershberger Rd	SR 117 Peters Creek Rd	26000	F	94%	1%	1%	1%	4%	0%	F				30000	F	2009		53000	F	94%	1%	1%	1%	4%	0%	F				60000	F
+120029	  IS	00581	S    		 	128	City of Roanoke	080	Roanoke County	0.77	SR 24 Elm Ave; US 220 Webber Expy	US 11 Williamson Rd	38000	F	94%	1%	1%	1%	4%	0%	F				43000	F	2009		75000	F	94%	1%	1%	1%	4%	0%	F				84000	F
+120030	  IS	00581	S    		 	128	City of Roanoke	080	Roanoke County	0.45	US 11 Williamson Rd	US 460 Orange Ave	39000	F	94%	1%	1%	1%	4%	0%	F				44000	F	2009		79000	F	94%	1%	1%	1%	4%	0%	F				88000	F
+120039	  IS	00581	S    		 	128	City of Roanoke	080	Roanoke County	1.41	US 460 Orange Ave	Valley View Blvd	38000	F	94%	1%	1%	1%	4%	0%	F	0.1117	N	1.0000	43000	F	2009		76000	F	94%	1%	1%	1%	4%	0%	F				86000	F
+120031	  IS	00581	S    		 	128	City of Roanoke	080	Roanoke County	1.49	Valley View Blvd	SR 101 Hershberger Rd	31000	A	94%	1%	1%	1%	4%	0%	C	0.1117	A	1.0000	35000	A	2009		62000	A	94%	1%	1%	1%	4%	0%	C	0.1092	A	0.5103	69000	A
+120032	  IS	00581	S    		 	128	City of Roanoke	080	Roanoke County	1.33	SR 101 Hershberger Rd	NCL Roanoke	27000	F	94%	1%	1%	1%	4%	0%	F				30000	F	2009		53000	F	94%	1%	1%	1%	4%	0%	F				60000	F
+780330	  FR	00074	     	FR 74	Frontage Rd	128	City of Roanoke	080	Roanoke County	0.42	SR 101 Ordway Dr	Roanoke County Line	1000	R							X						06/10/2009
+780821	  FR	00897	     	FR 897	Frontage Rd	128	City of Roanoke	080	Roanoke County	0.39	US 220 Franklin Rd	Bus US 220	1600	R							X						09/30/2009
+781749	 128	00001	     	128-1	2nd St SW	128	City of Roanoke	128	City of Roanoke	0.23	US 221 P, Bus US 220 Franklin Rd	Salem Ave SW	5500	F	97%	1%	2%	0%	0%	0%	F	0.1229	F	0.5637	5200	F	2009
+666461	 128	00001	     	128-1	2nd St SW; Gainsboro Rd NW	128	City of Roanoke	128	City of Roanoke	0.73	Salem Ave SW	Orange Ave NE	9100	F	97%	1%	2%	0%	0%	0%	C	0.1170	F	0.6603	8600	F	2009
+796395	 128	00002	     	128-2	Belle Ave NE	128	City of Roanoke	128	City of Roanoke	0.84	King St NE	ECL Roanoke	0	?							X
+666453	 128	00003	     	128-3	Wonju St	128	City of Roanoke	128	City of Roanoke	0.18	Bus US 220 Franklin Rd	US 220 Roy Webber Expwy	14000	F	98%	0%	1%	0%	1%	0%	C	0.1031	F	0.6098	16000	F	2009
+666454	 128	00003	     	128-3	Wonju St	128	City of Roanoke	128	City of Roanoke	0.12	US 220 Roy Webber Expwy	Colonial Ave	14000	N	98%	0%	1%	0%	1%	0%	N	0.1031	N	0.6098	16000	N	2009
+666824	 128	00004	     	128-4	Kimball Ave NE	128	City of Roanoke	128	City of Roanoke	0.75	US 11, US 21, Bus US 220 Williamson Rd	Orange Ave NE	9200	F	98%	0%	1%	0%	1%	0%	F	0.0947	F	0.7488	8700	F	2009
+781750	 128	00005	     	128-5	Plantation Rd NE	128	City of Roanoke	128	City of Roanoke	0.33	US 460 Orange Ave	Mohawk Ave	8200	F	98%	0%	1%	0%	1%	0%	F	0.0822	F	0.5919	7800	F	2009
+666528	 128	00005	     	128-5	Plantation Rd NE	128	City of Roanoke	128	City of Roanoke	0.82	Mohawk Ave NE	SR 115 Liberty Rd NE	7000	F	98%	0%	1%	0%	1%	0%	F	0.0896	F	0.6355	6600	F	2009
+666810	 128	00006	     	128-6	Wells Ave NW	128	City of Roanoke	128	City of Roanoke	0.08	Dead End	Gainsborough Rd NW	0	?							X
+666801	 128	00006	     	128-6	Wells Ave	128	City of Roanoke	128	City of Roanoke	0.14	Gainsborough Rd NW	Jefferson St	5300	F							X	0.1074	F	0.6298	5200	F	2009
+666814	 128	00006	     	128-6	Wells Ave NE	128	City of Roanoke	128	City of Roanoke	0.19	Jefferson St	US 11, US 221, SR 116 Williamson Rd NE	5300	N							X	0.1074	N	0.6298	5200	N	2009
+666809	 128	00007	     	128-7	Wise Ave SE	128	City of Roanoke	128	City of Roanoke	0.89	Norfolk Ave SE	WCL Vinton; Walnut Ave	8100	F	98%	0%	1%	0%	1%	0%	F	0.1289	F	0.8323	7700	F	2009
+666821	 128	00008	     	128-8	9th St SE	128	City of Roanoke	128	City of Roanoke	0.21	SR 116 Riverland Rd	Industry Ave SE	7600	F	98%	0%	1%	0%	1%	0%	F	0.0879	F	0.5679	7200	F	2009
+666530	 128	00008	     	128-8	9th St SE	128	City of Roanoke	128	City of Roanoke	0.93	Industry Ave SE	SR 24 Bullitt Avenue SE	11000	F	98%	0%	1%	0%	1%	0%	F	0.0928	F	0.5570	10000	F	2009
+666535	 128	00008	     	128-8	9th St SE	128	City of Roanoke	128	City of Roanoke	0.06	SR 24 Bullitt Avenue SE	SR 24 P Jamison Ave SE	11000	N	98%	0%	1%	0%	1%	0%	N	0.0928	N	0.5570	10000	N	2009
+666536	 128	00008	     	128-8	9th St SE	128	City of Roanoke	128	City of Roanoke	0.18	SR 24 P Jamison Ave SE	Tazewell Ave SE	5200	F	98%	0%	1%	0%	1%	0%	F	0.0978	F	0.6398	4900	F	2009
+796396	 128	00009	     	128-9	Campbell Ave SE	128	City of Roanoke	128	City of Roanoke	0.59	US 11; US 221 Williamson Rd SE	Norfolk Ave SE	0	?							X
+796397	 128	00010	     	128-10	Norfolk Ave SE	128	City of Roanoke	128	City of Roanoke	0.30	Campbell Ave SE	14th St	0	?							X
+781762	 128	00011	     	128-11	Belleview Ave SE	128	City of Roanoke	128	City of Roanoke	0.61	Jefferson St	SR 116 Walnut Ave SE	5900	F	98%	0%	1%	0%	0%	0%	C	0.0953	F	0.5963	5600	F	2009
+796438	 128	00013	     	128-13	Norfolk Ave Connector SE	128	City of Roanoke	128	City of Roanoke	0.03	128-17 Salem Ave SE	Norfolk Ave SE	0	?							X
+796398	 128	00013	     	128-13	Norfolk Ave SE	128	City of Roanoke	128	City of Roanoke	0.14	Norfolk Ave Connector SE	128-9 Campbell Ave SE	0	?							X
+796399	 128	00014	     	128-14	Williamson Rd SE	128	City of Roanoke	128	City of Roanoke	0.56	S Jefferson St	SR 24 Elm Avenue	0	?							X
+796415	 128	00014	     	128-14	Williamson Rd SE	128	City of Roanoke	128	City of Roanoke	0.22	SR 24 Elm Avenue SE	US 221 Franklin Rd SE	0	?							X
+796400	 128	00015	     	128-15	1st St SW	128	City of Roanoke	128	City of Roanoke	0.04	US 11 Campbell Ave SW	128-17 Salem Ave SW; Gap	0	?							X
+796416	 128	00015	     	128-15	1st St NW	128	City of Roanoke	128	City of Roanoke	0.09	Centre Ave NW; Gap	128-6 Wells Ave NW	0	?							X
+796401	 128	00016	     	128-16	S Jefferson St	128	City of Roanoke	128	City of Roanoke	0.18	US 221, SR 116 Franklin Rd	US 11 Campbell Ave	0	?							X
+796402	 128	00016	     	128-16	S Jefferson St	128	City of Roanoke	128	City of Roanoke	0.05	US 11 Campbell Ave	128-17 Salem Ave	0	?							X
+666477	 128	00017	     	128-17	Salem Ave SW	128	City of Roanoke	128	City of Roanoke	0.34	13th St SW	9th St SW	4600	F	98%	0%	1%	0%	0%	0%	F	0.0837	F	0.5937	5300	F	2009
+666476	 128	00017	     	128-17	Salem Ave SW	128	City of Roanoke	128	City of Roanoke	0.40	9th St SW	5th St SW	2700	F	98%	0%	1%	0%	0%	0%	F	0.0905	F	0.5651	3100	F	2009
+666475	 128	00017	     	128-17	Salem Ave SW	128	City of Roanoke	128	City of Roanoke	0.30	5th St SW	2nd St SW	4300	F	98%	0%	1%	0%	0%	0%	F	0.0953	F	0.6104	4900	F	2009		11000	F	98%	0%	1%	0%	0%	0%	F	0.0840	F	0.5997	13000	F
+666818	 128	00017	     	128-17	Salem Ave SW	128	City of Roanoke	128	City of Roanoke	0.22	2nd St SW	S Jefferson St	4600	F	98%	0%	1%	0%	0%	0%	F	0.1100	F	0.6675	5200	F	2009
+666832	 128	00017	     	128-17	Salem Ave SW	128	City of Roanoke	128	City of Roanoke	0.15	S Jefferson St	US 11, US 221, Bus 220 Williamson Rd SE	0	?							X
+666819	 128	00018	     	128-18	13th St SW	128	City of Roanoke	128	City of Roanoke	0.25	Campbell Ave SW	Salem Ave SW	3600	F	98%	0%	1%	0%	0%	0%	F	0.0974	F	0.7163	4100	F	2009
+796403	 128	00019	     	128-19	Valley View Blvd NW	128	City of Roanoke	128	City of Roanoke	1.39	I-581, US 220	Hershberger Rd NW	0	?							X
+796405	 128	00020	     	128-20	Airport Entrance Rd	128	City of Roanoke	128	City of Roanoke	0.28	128-23 Aviation Dr	SR 118 Airport Rd	0	?							X
+796406	 128	00021	     	128-21	Towne Square Blvd NW	128	City of Roanoke	128	City of Roanoke	0.53	128-23 Aviation Dr	SR 118 Airport Rd	0	?							X
+796407	 128	00022	     	128-22	Rutgers St NW	128	City of Roanoke	128	City of Roanoke	0.31	SR 101 Hershburger Rd NW	128-21 Towne Square Blvd NW	0	?							X
+796408	 128	00023	     	128-23	Aviation Dr NW	128	City of Roanoke	128	City of Roanoke	0.77	Hershberger Rd NW	128-20 Airport Entrance Rd	0	?							X
+666456	 128	08001	     	128-8001	Colonial Ave	128	City of Roanoke	128	City of Roanoke	1.16	WCL Roanoke	Persinger Rd	9400	F	99%	0%	0%	0%	0%	0%	F	0.0962	F	0.5270	8800	F	2009
+781751	 128	08001	     	128-8001	Colonial Ave	128	City of Roanoke	128	City of Roanoke	0.81	Persinger Road	Brandon Ave	22000	F	99%	0%	0%	0%	0%	0%	F	0.0935	F	0.5717	21000	F	2009
+666487	 128	08003	     	128-8003	Yellow Mountain Rd	128	City of Roanoke	128	City of Roanoke	2.59	SCL Roanoke; 80-668	Jefferson St	2700	F	99%	0%	0%	0%	0%	0%	C	0.1198	F	0.7492	2600	F	2009
+666470	 128	08003	     	128-8003	McClanahan St	128	City of Roanoke	128	City of Roanoke	0.48	Jefferson St	Bus US 220 Franklin Rd	8400	F	98%	0%	1%	0%	0%	0%	C	0.0934	F	0.5052	7900	F	2009
+781752	 128	08005	     	128-8005	Bandy Rd	128	City of Roanoke	128	City of Roanoke	0.37	ECL Roanoke	128-8009 Garden City Blvd.	1700	F	98%	0%	1%	0%	0%	0%	F	0.1003	F	0.6230	1900	F	2009
+666828	 128	08008	     	128-8008	Salem Tpke	128	City of Roanoke	128	City of Roanoke	1.35	WCL Roanoke	36th St	7500	F	98%	0%	1%	0%	0%	0%	F	0.0940	F	0.5242	7100	F	2009
+666469	 128	08008	     	128-8008	Salem Tpke	128	City of Roanoke	128	City of Roanoke	1.20	36th St	24th St	8400	F	97%	0%	1%	1%	1%	0%	C	0.0850	F	0.5164	7900	F	2009
+666826	 128	08009	     	128-8009	Garden City Blvd	128	City of Roanoke	128	City of Roanoke	0.42	Yellow Mtn Rd	Ray Rd	5000	F	98%	0%	1%	1%	0%	0%	F	0.1042	F	0.5620	4700	F	2009
+666460	 128	08009	     	128-8009	Garden City Blvd	128	City of Roanoke	128	City of Roanoke	1.36	Ray Rd	SR 116 Riverland Rd	6000	F	98%	0%	1%	1%	0%	0%	C	0.0927	F	0.5586	5600	F	2009
+666481	 128	08010	     	128-8010	Shenandoah Ave	128	City of Roanoke	128	City of Roanoke	2.13	WCL Roanoke	24th St	12000	F	97%	0%	1%	1%	1%	0%	C	0.0908	F	0.5221	13000	F	2009
+666480	 128	08010	     	128-8010	Shenandoah Ave	128	City of Roanoke	128	City of Roanoke	0.77	24th St	15th St	9300	F	97%	0%	1%	1%	1%	0%	F	0.0967	F	0.5740	10000	F	2009
+666479	 128	08010	     	128-8010	Shenandoah Ave	128	City of Roanoke	128	City of Roanoke	0.86	15th St	5th St	9100	F	97%	0%	1%	1%	1%	0%	C	0.0988	F	0.5689	9900	F	2009
+666478	 128	08010	     	128-8010	Shenandoah Ave	128	City of Roanoke	128	City of Roanoke	0.66	5th St	Williamson Rd	5000	F	97%	0%	1%	1%	1%	0%	F	0.0992	F	0.6915	5400	F	2009
+666526	 128	08011	     	128-8011	Ogden Rd	128	City of Roanoke	128	City of Roanoke	0.55	SCL Roanoke	WCL Roanoke	8500	F	99%	0%	1%	0%	0%	0%	C	0.0940	F	0.5787	9400	F	2009
+781753	 128	08013	     	128-8013	Grandin Rd	128	City of Roanoke	128	City of Roanoke	1.11	SCL Roanoke	US 11 Grandin Rd; Brandon Ave	7200	F	99%	0%	0%	0%	0%	0%	C	0.1043	F	0.5676	7800	F	2009
+666269	 128	08014	     	128-8014	Grandin Rd	128	City of Roanoke	128	City of Roanoke	0.72	SR 419 Electric Rd	Mudlick Rd	5600	F	99%	0%	1%	0%	0%	0%	F	0.0962	F	0.5025	6100	F	2009
+666268	 128	08014	     	128-8014	Grandin Rd	128	City of Roanoke	128	City of Roanoke	0.97	Mudlick Rd	Garst Mill Rd	2500	F	99%	0%	1%	0%	0%	0%	C	0.1154	F	0.5130	2700	F	2009
+666433	 128	08015	     	128-8015	Franklin Rd	128	City of Roanoke	128	City of Roanoke	0.60	US 220 Roy Webber Expwy	US 221 Elm Ave; Gap	11000	F	99%	0%	1%	0%	0%	0%	C	0.0943	F	0.6503	12000	F	2009
+666483	 128	08015	     	128-8015	Tazewell Ave	128	City of Roanoke	128	City of Roanoke	0.54	US 221 Williamson Rd; Gap	9th St	5600	F	98%	0%	1%	0%	0%	0%	C	0.1306	F	0.7962	6100	F	2009
+666482	 128	08015	     	128-8015	Tazewell Ave	128	City of Roanoke	128	City of Roanoke	0.34	9th St	13th St	4700	F	98%	0%	1%	0%	0%	0%	F	0.1338	F	0.9053	5200	F	2009
+781755	 128	08018	     	128-8018	Green Ridge Rd	128	City of Roanoke	128	City of Roanoke	1.23	NCL Roanoke NCL Salem	SR 117 Peters Creek Road	5600	F	99%	0%	0%	0%	0%	0%	F	0.1101	F	0.5298	6100	F	2009
+666264	 128	08018	     	128-8018	Cove Rd	128	City of Roanoke	128	City of Roanoke	1.49	SR 117 Peters Creek Road	Hershberger Rd	8000	F	99%	0%	0%	0%	0%	0%	C	0.0916	F	0.5019	8800	F	2009
+781757	 128	08020	     	128-8020	Mud Lick Rd	128	City of Roanoke	128	City of Roanoke	1.43	Grandin Rd	US 11 Brandon Ave	3200	F	99%	0%	1%	0%	0%	0%	F	0.1211	F	0.6643	3500	F	2009
+666459	 128	08020	     	128-8020	Edgewood Ave	128	City of Roanoke	128	City of Roanoke	0.76	Brandon Ave	Memorial Ave	6300	F	99%	0%	1%	0%	0%	0%	C	0.0997	F	0.5129	6900	F	2009
+666472	 128	08020	     	128-8020	Memorial Ave	128	City of Roanoke	128	City of Roanoke	0.71	Edgewood Ave	Grandin Rd	5300	F	99%	0%	1%	0%	0%	0%	F	0.0988	F	0.5426	5800	F	2009
+666210	 128	08022	     	128-8022	Hershberger Rd	128	City of Roanoke	128	City of Roanoke	0.60	Williamson Rd	ECL Roanoke	11000	F	98%	0%	1%	0%	0%	0%	C	0.0856	F	0.6640	12000	F	2009
+666820	 128	08023	     	128-8023	Bennington St SE	128	City of Roanoke	128	City of Roanoke	0.37	SR 116 Riverland Rd	Riverside Terrace	0	?							X
+666807	 128	08023	     	128-8023	Bennington St	128	City of Roanoke	128	City of Roanoke	0.54	Riverside Terrace	Carlisle Ave	11000	F	97%	1%	1%	1%	0%	0%	C	0.0910	F	0.5732	12000	F	2009
+781758	 128	08023	     	128-8023	13th St	128	City of Roanoke	128	City of Roanoke	0.78	Carlisle Avenue	SR 24 Jamison Ave; Bullitt Avenue	13000	F	98%	0%	1%	1%	1%	0%	C	0.0867	F	0.5882	14000	F	2009
+792611	 128	08023	     	128-8023	13th St	128	City of Roanoke	128	City of Roanoke	0.41	SR 24 Jamison Ave; Bullitt Avenue	Wise Ave	5800	F	98%	0%	1%	1%	1%	0%	F	0.0832	F	0.6150	6300	F	2009
+795227	 128	08023	     	128-8023	14th St	128	City of Roanoke	128	City of Roanoke	0.07	Wise Ave	Norfolk Ave	13000	N	98%	0%	1%	1%	1%	0%	N	0.0867	N	0.5882	14000	N	2009
+666499	 128	08023	     	128-8023	Norfolk Ave	128	City of Roanoke	128	City of Roanoke	0.05	14th St	Hollins Rd	0	?							X
+666493	 128	08023	     	128-8023	Hollins Rd	128	City of Roanoke	128	City of Roanoke	0.39	Norfolk Ave	US 460, US 221, ALT SR 220 Orange Ave	7600	F	92%	1%	2%	2%	3%	0%	C	0.0906	F	0.5424	8300	F	2009
+666527	 128	08023	     	128-8023	Old Mountain Rd	128	City of Roanoke	128	City of Roanoke	1.75	SR 115 Hollins Road	NCL Roanoke; 80-605	7100	F	98%	0%	1%	1%	1%	0%	F	0.1072	F	0.6460	7800	F	2009
+666827	 128	08024	     	128-8024	Mountain View Terrace	128	City of Roanoke	128	City of Roanoke	0.44	Memorial Ave	Bridge St	1800	F	98%	0%	1%	0%	1%	0%	F	0.0933	F	0.6141	2000	F	2009
+666830	 128	08024	     	128-8024	Mountain View Terrace	128	City of Roanoke	128	City of Roanoke	0.05	Bridge St	Chesterfield St	1800	N	98%	0%	1%	0%	1%	0%	N	0.0933	N	0.6141	2000	N	2009
+781759	 128	08024	     	128-8024	Chesterfield St	128	City of Roanoke	128	City of Roanoke	0.22	Mountain View Terrace	Memorial Ave	1200	F	98%	0%	1%	0%	1%	0%	F	0.0958	F	0.5588	1300	F	2009
+666464	 128	08025	     	128-8025	Jefferson St	128	City of Roanoke	128	City of Roanoke	0.43	McClanahan St	Reserve Ave	7100	F	98%	0%	1%	0%	1%	0%	F	0.0825	F	0.5516	7800	F	2009
+666465	 128	08025	     	128-8025	Jefferson St	128	City of Roanoke	128	City of Roanoke	0.40	Reserve Ave	Walnut Ave	13000	G	98%	0%	1%	0%	1%	0%	C				14000	G	2009
+666802	 128	08027	     	128-8027	23rd St	128	City of Roanoke	128	City of Roanoke	0.27	128-8029 Brandon Ave	Colonial Ave	7200	F	98%	0%	1%	0%	1%	0%	F	0.0859	F	0.5022	8000	F	2009
+666473	 128	08028	     	128-8028	Patterson Ave	128	City of Roanoke	128	City of Roanoke	1.04	Bus US 11; Salem Ave SW; 2nd St SW	13th St	6400	F	96%	0%	1%	0%	2%	0%	C	0.0864	F	0.5675	7000	F	2009
+666409	 128	08028	     	128-8028	Patterson Ave	128	City of Roanoke	128	City of Roanoke	0.53	13th St	US 11 Campbell Ave	2800	F	96%	0%	1%	0%	2%	0%	F	0.0898	F	0.5679	3100	F	2009
+666451	 128	08029	     	128-8029	Brandon Ave	128	City of Roanoke	128	City of Roanoke	0.82	Grandin Rd	US 221 Brambleton Ave	15000	F	99%	0%	1%	0%	0%	0%	F	0.0846	F	0.5018	16000	F	2009
+666450	 128	08029	     	128-8029	Brandon Ave	128	City of Roanoke	128	City of Roanoke	0.92	Main St	Franklin Rd	21000	F	99%	0%	1%	0%	0%	0%	C	0.0921	F	0.5388	23000	F	2009
+666468	 128	08030	     	128-8030	Loudon St	128	City of Roanoke	128	City of Roanoke	1.23	24th St	10th St	1600	F	95%	0%	3%	1%	0%	0%	C	0.0935	F	0.5120	1800	F	2009
+666467	 128	08030	     	128-8030	Loudon St	128	City of Roanoke	128	City of Roanoke	0.43	10th St	5th St	950	F	95%	0%	3%	1%	0%	0%	F	0.0935	F	0.5800	1000	F	2009
+781761	 128	08031	     	128-8031	Maple Ave	128	City of Roanoke	128	City of Roanoke	0.36	Dead End	SR 116 Jefferson St	310	F	96%	0%	1%	0%	2%	0%	F	0.1231	F	0.7978	330	F	2009
+666534	 128	08032	     	128-8032	Overland Rd	128	City of Roanoke	128	City of Roanoke	0.32	Brambleton Ave	Colonial Ave	11000	F	98%	1%	1%	0%	0%	0%	F	0.1009	F	0.5574	12000	F	2009
+666492	 128	08035	     	128-8035	5th St	128	City of Roanoke	128	City of Roanoke	0.37	Elm Ave	Salem Ave	7800	F	98%	1%	1%	0%	0%	0%	C	0.1018	F	0.7382	7300	F	2009
+666491	 128	08035	     	128-8035	5th St	128	City of Roanoke	128	City of Roanoke	0.78	Salem Ave	Orange Ave	3900	F	98%	1%	1%	0%	0%	0%	F	0.0902	F	0.5546	3700	F	2009
+666452	 128	08036	     	128-8036	Broadway Ave	128	City of Roanoke	128	City of Roanoke	0.47	Bus US 220 Franklin Rd	McClanahan St	8300	F	100%	0%	0%	0%	0%	0%	C	0.0961	F	0.6279	9000	F	2009
+666531	 128	08038	     	128-8038	Fleming Ave	128	City of Roanoke	128	City of Roanoke	0.87	Williamson Rd	Plantation Rd	1400	F	100%	0%	0%	0%	0%	0%	F	0.1041	F	0.5888	1500	F	2009
+666803	 128	08039	     	128-8039	Bridge St	128	City of Roanoke	128	City of Roanoke	0.45	Mountain View Terrace	Patterson Ave	3600	F	100%	0%	0%	0%	0%	0%	F	0.0882	F	0.5000	3900	F	2009
+666533	 128	08040	     	128-8040	Reserve Ave	128	City of Roanoke	128	City of Roanoke	0.37	Franklin Rd	Jefferson St	3600	F	97%	0%	1%	1%	1%	0%	F	0.0991	F	0.7524	4000	F	2009
+666500	 128	08041	     	128-8041	10th St	128	City of Roanoke	128	City of Roanoke	0.07	US 11 Campbell Ave	128-8028 Patterson Ave	0	?							X
+666498	 128	08041	     	128-8041	10th St	128	City of Roanoke	128	City of Roanoke	0.12	128-8028 Patterson Ave	128-17 Salem Ave SW	5700	F	97%	0%	1%	1%	1%	0%	F	0.0886	F	0.5226	6200	F	2009
+666497	 128	08041	     	128-8041	10th St	128	City of Roanoke	128	City of Roanoke	0.75	128-17 Salem Ave SW	US 460 Orange Ave	8400	F	97%	0%	1%	1%	1%	0%	F	0.0876	F	0.5455	9100	F	2009
+666496	 128	08041	     	128-8041	10th St	128	City of Roanoke	128	City of Roanoke	0.84	US 460 Orange Ave	I-581 Overpass	11000	F	97%	0%	1%	1%	1%	0%	F	0.0867	F	0.5113	12000	F	2009
+666494	 128	08041	     	128-8041	10th St	128	City of Roanoke	128	City of Roanoke	0.56	I-581 Overpass	Williamson Rd	8200	F	99%	0%	1%	0%	0%	0%	C	0.0916	F	0.5498	8800	F	2009
+666825	 128	08042	     	128-8042	Rutrough Rd	128	City of Roanoke	128	City of Roanoke	0.57	SR 116 Mt Pleasant Blvd	ECL Roanoke	1500	F	97%	0%	1%	1%	1%	0%	F	0.1008	F	0.5913	1600	F	2009
+666804	 128	08045	     	128-8045	Boulevard St	128	City of Roanoke	128	City of Roanoke	0.16	Patterson Ave	Salem Ave	8600	F	97%	0%	1%	1%	1%	0%	F	0.0886	F	0.5448	9500	F	2009
+666805	 128	08045	     	128-8045	Boulevard St	128	City of Roanoke	128	City of Roanoke	0.25	Salem Ave	Baker Ave	11000	F	97%	0%	1%	1%	1%	0%	F	0.0835	F	0.5030	12000	F	2009
+666806	 128	08045	     	128-8045	24th St	128	City of Roanoke	128	City of Roanoke	0.41	Baker Ave	Melrose Ave	9900	F	97%	0%	1%	1%	1%	0%	F	0.0817	F	0.5377	11000	F	2009
+666529	 128	08048	     	128-8048	Riverdale Rd	128	City of Roanoke	128	City of Roanoke	0.78	Bennington St	ECL Roanoke	1600	F	97%	0%	1%	1%	1%	0%	F	0.1085	F	0.6075	1700	F	2009
+666485	 128	08050	     	128-8050	Gus Nicks Blvd	128	City of Roanoke	128	City of Roanoke	0.70	Orange Ave	SCL Roanoke	16000	F	97%	0%	1%	1%	1%	0%	C	0.0857	F	0.6561	18000	F	2009
+666532	 128	08053	     	128-8053	Burwell St	128	City of Roanoke	128	City of Roanoke	0.35	Orange Ave; US 460	Liberty Rd	5700	F	97%	0%	1%	1%	1%	0%	F	0.0914	F	0.6247	6200	F	2009
+666466	 128	08053	     	128-8053	Liberty Rd	128	City of Roanoke	128	City of Roanoke	0.74	Burrell St	Williamson Rd	4600	F	98%	0%	1%	0%	0%	0%	C	0.0996	F	0.5870	5000	F	2009
+666524	 128	08053	     	128-8053	Liberty Rd	128	City of Roanoke	128	City of Roanoke	0.40	Williamson Rd	Plantation Rd	4900	F	98%	0%	1%	0%	0%	0%	F	0.0922	F	0.5127	5400	F	2009
+666523	 128	08055	     	128-8055	King St	128	City of Roanoke	128	City of Roanoke	1.46	Gus Nicks Blvd	US 460 Orange Ave	11000	F	98%	0%	1%	0%	0%	0%	F	0.0906	F	0.5011	12000	F	2009
+781763	 128	08057	     	128-8057	Westside Blvd	128	City of Roanoke	128	City of Roanoke	0.65	128-8008 Salem Tpke	US 460 Melrose Ave	4400	F	99%	0%	1%	0%	0%	0%	F	0.0915	F	0.6181	4200	F	2009
+787604	 128	08057	     	128-8057	Westside Blvd	128	City of Roanoke	128	City of Roanoke	0.54	US 460 Melrose Ave	SR 101 Hershberger Rd	6500	F	99%	0%	1%	0%	0%	0%	C	0.0847	F	0.5859	6200	F	2009
+666829	 128	00000	     	128-0	128-8008 Salem Trnpk	128	City of Roanoke	128	City of Roanoke	0.00	SR 117 Peters Creek Rd	36th St	6800	G							X				6800	G	2009
+566019	 128	00000	     	128-0	17th St	128	City of Roanoke	128	City of Roanoke	0.00	Centre Ave	Loudon Ave	210	F							X				200	F	2009
+566035	 128	00000	     	128-0	18th St	128	City of Roanoke	128	City of Roanoke	0.00	Edgerton Ave	Riverdale Rd	150	F							X				140	F	2009
+566017	 128	00000	     	128-0	19th St	128	City of Roanoke	128	City of Roanoke	0.00	Orange Ave	Hanover Ave	2000	F							X	0.0863	F	0.6189	1900	F	2009
+566018	 128	00000	     	128-0	25th St	128	City of Roanoke	128	City of Roanoke	0.00	Baker Ave	Centre Ave	1300	F							X	0.1029	F	0.6768	1200	F	2009
+566031	 128	00000	     	128-0	7th St	128	City of Roanoke	128	City of Roanoke	0.00	Dale Ave	Stewart Ave	550	F							X	0.1130	F	0.6723	520	F	2009
+566040	 128	00000	     	128-0	Avenham Ave	128	City of Roanoke	128	City of Roanoke	0.00	White Oak Rd	Clydesdale St	5900	F							X	0.0916	F	0.5792	5600	F	2009
+566030	 128	00000	     	128-0	Barnhill Ln	128	City of Roanoke	128	City of Roanoke	0.00	Windsor Rd	Grandin Rd	120	F							X	0.1297	F	0.5185	120	F	2009
+566024	 128	00000	     	128-0	Dunkirk Ave	128	City of Roanoke	128	City of Roanoke	0.00	Clyde St	Cline St	1500	F							X	0.1273	F	0.8441	1400	F	2009
+566008	 128	00000	     	128-0	Fairhope Rd	128	City of Roanoke	128	City of Roanoke	0.00	Cove Rd	Appleton Ave	1300	F							X	0.1012	F	0.5136	1400	F	2009
+566053	 128	00000	     	128-0	Fauquier St	128	City of Roanoke	128	City of Roanoke	0.00	Memorial Ave	Denniston Ave	2600	F							X	0.0889	F	0.5426	2400	F	2009
+566016	 128	00000	     	128-0	Forest Park Blvd	128	City of Roanoke	128	City of Roanoke	0.00	Olive Ave	Alder St	1800	F							X	0.0977	F	0.6092	1700	F	2009
+566013	 128	00000	     	128-0	Fugate Rd	128	City of Roanoke	128	City of Roanoke	0.00	Collingwood St	Luray St	1200	F							X	0.1009	F	0.7198	1100	F	2009
+566033	 128	00000	     	128-0	Greenbrier Ave	128	City of Roanoke	128	City of Roanoke	0.00	Kenwood Blvd	19th St	170	F							X	0.1325	F	0.6500	160	F	2009
+566003	 128	00000	     	128-0	Hazelridge Rd	128	City of Roanoke	128	City of Roanoke	0.00	Hershberger Rd	Vincient Ave	410	F							X	0.1329	F	0.6847	390	F	2009
+566038	 128	00000	     	128-0	Heritage Rd	128	City of Roanoke	128	City of Roanoke	0.00	Dogwood Ln S	Dogwood La N	240	F							X				230	F	2009
+566002	 128	00000	     	128-0	Hildebrand Rd	128	City of Roanoke	128	City of Roanoke	0.00	Hershberger Rd	Whitney Ave	2000	F							X	0.0893	F	0.6236	1900	F	2009
+566045	 128	00000	     	128-0	Hillview Ave	128	City of Roanoke	128	City of Roanoke	0.00	Troxell Rd	Ventnor Rd	190	F							X				180	F	2009
+566060	 128	00000	     	128-0	I-581 North and South	128	City of Roanoke	080	Roanoke County	0.00	Ramp from I-581 N to Elm Ave	Ramp from Elm Ave to I-581 N	0	?							X
+566029	 128	00000	     	128-0	Langdon Rd	128	City of Roanoke	128	City of Roanoke	0.00	Lansing Dr	Fairway Dr	370	F							X	0.1221	F	0.5208	390	F	2009
+566015	 128	00000	     	128-0	Liberty Rd	128	City of Roanoke	128	City of Roanoke	0.00	Hollins Rd	Norton Ave	200	F							X	0.1593	F	0.5000	190	F	2009
+566005	 128	00000	     	128-0	Maplelawn Ave	128	City of Roanoke	128	City of Roanoke	0.00	Oakland Ave	Link St	240	F							X	0.1645	F	0.5682	260	F	2009
+566021	 128	00000	     	128-0	Meadow Run Dr	128	City of Roanoke	128	City of Roanoke	0.00	Brook Run Dr	Spring Tree Dr	290	F							X				310	F	2009
+566007	 128	00000	     	128-0	Meadowbrook Rd	128	City of Roanoke	128	City of Roanoke	0.00	Northwood Dr	Sloan Rd	1200	F							X	0.1123	F	0.5972	1300	F	2009
+566023	 128	00000	     	128-0	Mecca St	128	City of Roanoke	128	City of Roanoke	0.00	King St	Belle Ave	2600	F							X				2800	F	2009
+566043	 128	00000	     	128-0	Melcher St	128	City of Roanoke	128	City of Roanoke	0.00	Yellow Mt Rd	Carico Ave	350	F							X	0.1116	F	0.8085	370	F	2009
+566010	 128	00000	     	128-0	Monroe St	128	City of Roanoke	128	City of Roanoke	0.00	Vermont Ave	Maine Ave	1200	F							X				1300	F	2009
+566012	 128	00000	     	128-0	Monterey Rd	128	City of Roanoke	128	City of Roanoke	0.00	Old Mountain Rd	Dead End	950	F							X	0.1090	F	0.7091	1000	F	2009
+566032	 128	00000	     	128-0	Montrose Ave	128	City of Roanoke	128	City of Roanoke	0.00	Morningside St	11th Half St	1800	F							X	0.1082	F	0.7005	1900	F	2009
+792609	 128	00000	     	128-0	Municipal Airport Entrance	128	City of Roanoke	128	City of Roanoke	0.00	Aviation Dr	Airport	3300	F							X				3300	F	2009
+566004	 128	00000	     	128-0	Oaklawn Ave	128	City of Roanoke	128	City of Roanoke	0.00	Winsloe Dr	Hazelridge Rd	530	F							X				560	F	2009
+566036	 128	00000	     	128-0	Persinger Rd	128	City of Roanoke	128	City of Roanoke	0.00	Colonial Ave	Bluefield Blvd	1700	F							X				1800	F	2009
+566006	 128	00000	     	128-0	Portland  Ave	128	City of Roanoke	128	City of Roanoke	0.00	Cove Rd	Oleva St	1000	F							X				1100	F	2009
+566041	 128	00000	     	128-0	Ray Rd	128	City of Roanoke	128	City of Roanoke	0.00	New Spring Branch Rd	Dead End	320	F							X	0.1355	F	0.6444	340	F	2009
+566009	 128	00000	     	128-0	Renfro Blvd	128	City of Roanoke	128	City of Roanoke	0.00	Gun Club Rd	Pilot St	220	F							X				230	F	2009
+566042	 128	00000	     	128-0	Reynolds Rd	128	City of Roanoke	128	City of Roanoke	0.00	Mabry Ave	ECL Roanoke	1800	F							X	0.1200	F	0.7285	1900	F	2009
+566022	 128	00000	     	128-0	Richard  Ave	128	City of Roanoke	128	City of Roanoke	0.00	Cannaday Rd	Mecca St	2100	F							X	0.1306	F	0.5426	2200	F	2009
+566014	 128	00000	     	128-0	Ridgefield St	128	City of Roanoke	128	City of Roanoke	0.00	Mississippi Ave	Norton Ave	160	F							X	0.1180	F	0.6190	160	F	2009
+566026	 128	00000	     	128-0	Roanoke Ave	128	City of Roanoke	128	City of Roanoke	0.00	Burks St	Byrne St	1400	F							X	0.1088	F	0.7892	1500	F	2009
+566020	 128	00000	     	128-0	Salem Ave	128	City of Roanoke	128	City of Roanoke	0.00	19Th St	20Th St	4600	F							X	0.0902	F	0.5788	4800	F	2009
+566037	 128	00000	     	128-0	Sweetbrier Ave	128	City of Roanoke	128	City of Roanoke	0.00	Rosewood Ave	Clifford St	170	F							X				180	F	2009
+566028	 128	00000	     	128-0	Valentine Ave	128	City of Roanoke	128	City of Roanoke	0.00	Deyerle Rd	Knollwood Rd	400	F							X	0.1432	F	0.5410	430	F	2009
+566000	 128	00000	     	128-0	Valley View Blvd NW	128	City of Roanoke	128	City of Roanoke	0.00	Ring Rd	Valley View Blvd NW	12000	G							X	0.0913	F	0.0000	12000	G	2009
+566058	 128	00000	     	128-0	Valley View Blvd NW	128	City of Roanoke	128	City of Roanoke	0.00	Valley View Blvd NW	Valley View Blvd NW	14000	G							X	0.1114	F	0.0000	14000	G	2009
+566059	 128	00000	     	128-0	Valley View Blvd NW	128	City of Roanoke	128	City of Roanoke	0.00	Valley View Blvd NW	I-581	16000	G							X	0.0878	F	0.0000	16000	G	2009
+566044	 128	00000	     	128-0	Ventnor Rd	128	City of Roanoke	128	City of Roanoke	0.00	Eanes Rd	Hillview Ave	780	F							X	0.1277	F	0.5905	820	F	2009
+566025	 128	00000	     	128-0	Vinyard  Ave	128	City of Roanoke	128	City of Roanoke	0.00	Omar Ave	Atherly St	20	F							X				30	F	2009
+566011	 128	00000	     	128-0	Virginia Ave	128	City of Roanoke	128	City of Roanoke	0.00	Comer St	Dead End	210	F							X				220	F	2009
+566001	 128	00000	     	128-0	Whitney Ave	128	City of Roanoke	128	City of Roanoke	0.00	Woodbury St	Hubert Rd	1000	F							X				1100	F	2009
+566039	 128	00000	     	128-0	Willow Oak Dr	128	City of Roanoke	128	City of Roanoke	0.00	Winterberry Lane	Willow Oak Circle	160	F							X	0.1355	F	0.6400	170	F	2009
+566027	 128	00000	     	128-0	Windsor Ave	128	City of Roanoke	128	City of Roanoke	0.00	Edgewood St	Derwent Dr	1300	F							X	0.1180	F	0.5647	1400	F	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

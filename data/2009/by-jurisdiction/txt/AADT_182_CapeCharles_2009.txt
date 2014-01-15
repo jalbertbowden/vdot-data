@@ -1,0 +1,96 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Cape Charles																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050332	  SR	00184	     	VA 184	Bay Ave;Mason Ave	182	Town of Cape Charles	065	Northampton County	1.21	65-1101 Pine St; 65-1106 Washington Ave	65-1105 Fig St; 65-1112 Randolph Ave	1900	G	97%	1%	1%	0%	0%	0%	F	0.1127	F	0.5163	2100	G	2009
+050459	  SR	00184	     	VA 184	Stone Rd	182	Town of Cape Charles	065	Northampton County	0.21	65-1105 Fig St; 65-1112 Randolph Ave	Heritage Acres Ct	1900	N	97%	1%	1%	0%	0%	0%	N	0.1127	N	0.5163	2100	N	2009
+150214	  SR	00184	     	VA 184	Stone Rd	182	Town of Cape Charles	065	Northampton County	0.06	Heritage Acres Ct	ECL Cape Charles	3900	G	97%	1%	1%	0%	0%	0%	C	0.0919	F	0.5545	4200	G	2009
+404369	  65	00642	     	65-642	Old Cape Charles Rd	182	Town of Cape Charles	065	Northampton County	0.08	ECL Cape Charles	SR 184 Bay Ave; Mason Ave	970	G	95%	0%	1%	3%	1%	0%	F	0.1154	N	0.6756	970	G	2009
+756417	  65	00642	     	65-642	Nectarine St	182	Town of Cape Charles	065	Northampton County	0.06	SR 184 Bay Ave; Mason Ave	65-1112 Randolph Ave	160	R							X						02/05/2004
+756418	  65	00642	     	65-642	Nectarine St	182	Town of Cape Charles	065	Northampton County	0.06	65-1112 Randolph Ave	65-1111 Tazewell Ave	170	R							X						02/05/2004
+756419	  65	00642	     	65-642	Nectarine St	182	Town of Cape Charles	065	Northampton County	0.08	65-1111 Tazewell Ave	65-1110 Monroe Ave	130	R							X						02/05/2004
+756420	  65	00642	     	65-642	Nectarine St	182	Town of Cape Charles	065	Northampton County	0.07	65-1110 Monroe Ave	65-1104 Madison Ave	100	R							X						02/05/2004
+756421	  65	00642	     	65-642	Nectarine St	182	Town of Cape Charles	065	Northampton County	0.05	65-1104 Madison Ave	65-1103 Jefferson Ave	100	R							X						02/05/2004
+756422	  65	00642	     	65-642	Nectarine St	182	Town of Cape Charles	065	Northampton County	0.07	65-1103 Jefferson Ave	65-1106 Washington Ave	60	R							X						02/05/2004
+756602	  65	01101	     	65-1101	Pine St	182	Town of Cape Charles	065	Northampton County	0.06	SR 184 S, Bay Ave;Mason Ave	65-1112 Randolph Ave	610	R							X						02/04/2004
+756603	  65	01101	     	65-1101	Pine St	182	Town of Cape Charles	065	Northampton County	0.06	65-1112 Randolph Ave	65-1111 Tazewell Ave	400	R							X						02/04/2004
+756604	  65	01101	     	65-1101	Pine St	182	Town of Cape Charles	065	Northampton County	0.06	65-1111 Tazewell Ave	65-1110 Monroe Ave	160	R							X						02/04/2004
+756605	  65	01101	     	65-1101	Pine St	182	Town of Cape Charles	065	Northampton County	0.07	65-1110 Monroe Ave	65-1104 Madison Ave	70	R							X						02/04/2004
+756606	  65	01101	     	65-1101	Pine St	182	Town of Cape Charles	065	Northampton County	0.06	65-1104 Madison Ave	65-1103 Jefferson Ave	120	R							X						02/04/2004
+756607	  65	01101	     	65-1101	Pine St	182	Town of Cape Charles	065	Northampton County	0.06	65-1103 Jefferson Ave	SR 184 N; 65-1106	140	R							X						02/04/2004
+756608	  65	01102	     	65-1102	Strawberry St	182	Town of Cape Charles	065	Northampton County	0.05	SR 184 Bay Ave; Mason Ave	65-1112 Randolph Ave	990	R							X						02/04/2004
+756609	  65	01102	     	65-1102	Strawberry St	182	Town of Cape Charles	065	Northampton County	0.06	65-1112 Randolph Ave	65-1111 Tazewell Ave	810	R							X						02/04/2004
+756610	  65	01102	     	65-1102	Strawberry St	182	Town of Cape Charles	065	Northampton County	0.06	65-1111 Tazewell Ave	65-1110 Monroe Ave	300	R							X						02/04/2004
+756611	  65	01102	     	65-1102	Strawberry St	182	Town of Cape Charles	065	Northampton County	0.03	65-1110 Monroe Ave	65-1115 Park Row	380	R							X						02/04/2004
+756612	  65	01102	     	65-1102	Strawberry St	182	Town of Cape Charles	065	Northampton County	0.03	65-1115 Park Row	65-1104 Madison Ave	410	R							X						02/04/2004
+756613	  65	01102	     	65-1102	Strawberry St	182	Town of Cape Charles	065	Northampton County	0.06	65-1104 Madison Ave	65-1103 Jefferson Ave	100	R							X						02/04/2004
+756614	  65	01102	     	65-1102	Strawberry St	182	Town of Cape Charles	065	Northampton County	0.06	65-1103 Jefferson Ave	65-1106 Washington Ave	110	R							X						02/04/2004
+756615	  65	01103	     	65-1103	Jefferson Ave	182	Town of Cape Charles	065	Northampton County	0.05	SR 184 Bay Ave;Mason Ave	65-1107 Harbor St	120	R							X						02/03/2004
+756616	  65	01103	     	65-1103	Jefferson Ave	182	Town of Cape Charles	065	Northampton County	0.02	65-1107 Harbor St	65-1101 Pine St	100	R							X						02/03/2004
+756617	  65	01103	     	65-1103	Jefferson Ave	182	Town of Cape Charles	065	Northampton County	0.13	65-1101 Pine St	65-1102 Strawberry St	90	R							X						02/03/2004
+756618	  65	01103	     	65-1103	Jefferson Ave	182	Town of Cape Charles	065	Northampton County	0.05	65-1102 Strawberry St	65-1109 Peach St	160	R							X						02/03/2004
+756619	  65	01103	     	65-1103	Jefferson Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1109 Peach St	65-1113 Plum St	190	R							X						02/03/2004
+756620	  65	01103	     	65-1103	Jefferson Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-1113 Plum St	65-642 Nectarine St	160	R							X						02/03/2004
+756621	  65	01103	     	65-1103	Jefferson Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-642 Nectarine St	65-1105 Fig St	240	R							X						02/03/2004
+756622	  65	01104	     	65-1104	Madison Ave	182	Town of Cape Charles	065	Northampton County	0.05	SR 184 Bay Ave;Mason Ave	65-1107 Harbor St	100	R							X						02/03/2004
+756623	  65	01104	     	65-1104	Madison Ave	182	Town of Cape Charles	065	Northampton County	0.04	65-1107 Harbor St	65-1101 Pine St	100	R							X						02/03/2004
+756624	  65	01104	     	65-1104	Madison Ave	182	Town of Cape Charles	065	Northampton County	0.13	65-1101 Pine St	65-1102 Strawberry St	150	R							X						02/03/2004
+756625	  65	01104	     	65-1104	Madison Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1102 Strawberry St	65-1109 Peach St	260	R							X						02/03/2004
+756626	  65	01104	     	65-1104	Madison Ave	182	Town of Cape Charles	065	Northampton County	0.07	65-1109 Peach St	65-1113 Plum St	160	R							X						02/03/2004
+756627	  65	01104	     	65-1104	Madison Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-1113 Plum St	65-642 Nectarine St	210	R							X						02/03/2004
+756628	  65	01104	     	65-1104	Madison Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-642 Nectarine St	65-1105 Fig St	610	R							X						02/03/2004
+756629	  65	01105	     	65-1105	Fig St	182	Town of Cape Charles	065	Northampton County	0.10	SR 184; 65-1112	65-1110 Monroe Ave	1500	R							X						02/04/2004
+756630	  65	01105	     	65-1105	Fig St	182	Town of Cape Charles	065	Northampton County	0.11	65-1110 Monroe Ave	65-1103 Jefferson Ave	850	R							X						02/04/2004
+756631	  65	01105	     	65-1105	Fig St	182	Town of Cape Charles	065	Northampton County	0.38	65-1103 Jefferson Ave	Dead End	840	R							X						02/04/2004
+756632	  65	01106	     	65-1106	Washington Ave	182	Town of Cape Charles	065	Northampton County	0.13	SR 184; 65-1101	65-1102 Strawberry St	380	R							X						02/04/2004
+756633	  65	01106	     	65-1106	Washington Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1102 Strawberry St	65-1109 Peach St	340	R							X						02/04/2004
+756634	  65	01106	     	65-1106	Washington Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1109 Peach St	65-1113 Plum St	360	R							X						02/04/2004
+756635	  65	01106	     	65-1106	Washington Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-1113 Plum St	65-642 Nectarine St	330	R							X						02/04/2004
+756636	  65	01106	     	65-1106	Washington Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-642 Nectarine St	65-1105 Fig St	350	R							X						02/04/2004
+756637	  65	01107	     	65-1107	Harbor Ave	182	Town of Cape Charles	065	Northampton County	0.06	SR 184 Bay Ave; Mason Ave	65-1112 Randolph Ave	160	R							X						02/04/2004
+756638	  65	01107	     	65-1107	Harbor Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1112 Randolph Ave	65-1111 Tazewell Ave	220	R							X						02/04/2004
+756639	  65	01107	     	65-1107	Harbor Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1111 Tazewell Ave	65-1110 Monroe Ave	200	R							X						02/04/2004
+756640	  65	01107	     	65-1107	Harbor Ave	182	Town of Cape Charles	065	Northampton County	0.07	65-1110 Monroe Ave	65-1104 Madison Ave	160	R							X						02/04/2004
+756641	  65	01107	     	65-1107	Harbor Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1104 Madison Ave	65-1103 Jefferson Ave	60	R							X						02/04/2004
+756642	  65	01108	     	65-1108	Marina Dr	182	Town of Cape Charles	065	Northampton County	0.23	Dead End	65-1116	430	R							X						02/03/2004
+756643	  65	01108	     	65-1108	Marina Dr	182	Town of Cape Charles	065	Northampton County	0.32	65-1116	65-642 Old Cape Charles Rd	1300	R							X						02/03/2004
+756644	  65	01109	     	65-1109	Peach St	182	Town of Cape Charles	065	Northampton County	0.05	SR 184 Bay Ave;Mason Ave	65-1112 Randolph Ave	310	R							X						02/03/2004
+756645	  65	01109	     	65-1109	Peach St	182	Town of Cape Charles	065	Northampton County	0.05	65-1112 Randolph Ave	65-1111 Tazewell Ave	110	R							X						02/03/2004
+756646	  65	01109	     	65-1109	Peach St	182	Town of Cape Charles	065	Northampton County	0.03	65-1111 Tazewell Ave	Dead End; Gap	130	R							X						02/03/2004
+756647	  65	01109	     	65-1109	Peach St	182	Town of Cape Charles	065	Northampton County	0.06	65-1104 Madison Ave; Gap	65-1103 Jefferson Ave	110	R							X						02/03/2004
+756648	  65	01109	     	65-1109	Peach St	182	Town of Cape Charles	065	Northampton County	0.06	65-1103 Jefferson Ave	65-1106 Washington Ave	100	R							X						02/03/2004
+756649	  65	01110	     	65-1110	Monroe Ave	182	Town of Cape Charles	065	Northampton County	0.06	SR 184 Bay Ave;Mason Ave	65-1107 Harbor Ave	190	R							X						02/03/2004
+756650	  65	01110	     	65-1110	Monroe Ave	182	Town of Cape Charles	065	Northampton County	0.03	65-1107 Harbor Ave	65-1101 Pine St	210	R							X						02/03/2004
+756651	  65	01110	     	65-1110	Monroe Ave	182	Town of Cape Charles	065	Northampton County	0.11	65-1101 Pine St	65-1102 Strawberry St; Gap	100	R							X						02/03/2004
+756652	  65	01110	     	65-1110	Monroe Ave	182	Town of Cape Charles	065	Northampton County	0.11	65-1113 Plum St; Gap	65-642 Nectarine St	120	R							X						02/03/2004
+756653	  65	01110	     	65-1110	Monroe Ave	182	Town of Cape Charles	065	Northampton County	0.11	65-642 Nectarine St	65-1105 Fig St	230	R							X						02/03/2004
+756654	  65	01110	     	65-1110	Monroe Ave	182	Town of Cape Charles	065	Northampton County	0.09	65-1105 Fig St	65-1114 Fulcher St	130	R							X						02/03/2004
+756655	  65	01111	     	65-1111	Tazewell Ave	182	Town of Cape Charles	065	Northampton County	0.07	SR 184 Bay Ave;Mason Ave	65-1107 Harbor St	140	R							X						02/03/2004
+756656	  65	01111	     	65-1111	Tazewell Ave	182	Town of Cape Charles	065	Northampton County	0.05	65-1107 Harbor St	65-1101 Pine St	160	R							X						02/03/2004
+756657	  65	01111	     	65-1111	Tazewell Ave	182	Town of Cape Charles	065	Northampton County	0.17	65-1101 Pine St	65-1109 Peach St	210	R							X						02/03/2004
+756658	  65	01111	     	65-1111	Tazewell Ave	182	Town of Cape Charles	065	Northampton County	0.07	65-1109 Peach St	65-1113 Plum St	400	R							X						02/03/2004
+756659	  65	01111	     	65-1111	Tazewell Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-1113 Plum St	65-642 Nectarine St	320	R							X						02/03/2004
+756660	  65	01111	     	65-1111	Tazewell Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-642 Nectarine St	65-1105 Fig St	310	R							X						02/03/2004
+756661	  65	01111	     	65-1111	Tazewell Ave	182	Town of Cape Charles	065	Northampton County	0.10	65-1105 Fig St	65-1114 Fulcher St	280	R							X						02/03/2004
+756662	  65	01112	     	65-1112	Randolph Ave	182	Town of Cape Charles	065	Northampton County	0.08	SR 184 Bay Ave; Mason Ave	65-1107 Harbor Ave	280	R							X						02/03/2004
+756663	  65	01112	     	65-1112	Randolph Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1107 Harbor Ave	65-1101 Pine St	330	R							X						02/03/2004
+756664	  65	01112	     	65-1112	Randolph Ave	182	Town of Cape Charles	065	Northampton County	0.11	65-1101 Pine St	65-1102 Strawberry St	790	R							X						02/03/2004
+756665	  65	01112	     	65-1112	Randolph Ave	182	Town of Cape Charles	065	Northampton County	0.06	65-1102 Strawberry St	65-1109 Peach St	1000	R							X						02/03/2004
+756666	  65	01112	     	65-1112	Randolph Ave	182	Town of Cape Charles	065	Northampton County	0.07	65-1109 Peach St	65-1113 Plum St	1100	R							X						02/03/2004
+756667	  65	01112	     	65-1112	Randolph Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-1113 Plum St	65-642 Nectarine St	1200	R							X						02/03/2004
+756668	  65	01112	     	65-1112	Randolph Ave	182	Town of Cape Charles	065	Northampton County	0.12	65-642 Nectarine St	SR 184; 65-1105	1500	R							X						02/03/2004
+756669	  65	01113	     	65-1113	Plum St	182	Town of Cape Charles	065	Northampton County	0.05	SR 184 Bay Ave;Mason Ave	65-1112 Randolph Ave	310	R							X						02/04/2004
+756670	  65	01113	     	65-1113	Plum St	182	Town of Cape Charles	065	Northampton County	0.05	65-1112 Randolph Ave	65-1111 Tazewell Ave	350	R							X						02/04/2004
+756671	  65	01113	     	65-1113	Plum St	182	Town of Cape Charles	065	Northampton County	0.06	65-1111 Tazewell Ave	65-1110 Monroe Ave	310	R							X						02/04/2004
+756672	  65	01113	     	65-1113	Plum St	182	Town of Cape Charles	065	Northampton County	0.07	65-1110 Monroe Ave	65-1104 Madison Ave	380	R							X						02/04/2004
+756673	  65	01113	     	65-1113	Plum St	182	Town of Cape Charles	065	Northampton County	0.06	65-1104 Madison Ave	65-1103 Jefferson Ave	300	R							X						02/04/2004
+756674	  65	01113	     	65-1113	Plum St	182	Town of Cape Charles	065	Northampton County	0.05	65-1103 Jefferson Ave	65-1106 Washington Ave	270	R							X						02/04/2004
+756675	  65	01114	     	65-1114	Fulcher St	182	Town of Cape Charles	065	Northampton County	0.08	SR 184 Stone Rd	65-1111 Tazewell Ave	310	R							X						02/04/2004
+756676	  65	01114	     	65-1114	Fulcher St	182	Town of Cape Charles	065	Northampton County	0.07	65-1111 Tazewell Ave	65-1110 Monroe Ave	170	R							X						02/04/2004
+756677	  65	01115	     	65-1115	Park Row	182	Town of Cape Charles	065	Northampton County	0.06	65-1102 Strawberry St	Dead End	40	R							X						02/04/2004
+756678	  65	01116	     	65-1116	 	182	Town of Cape Charles	065	Northampton County	0.08	Dead End	65-1108 Marina Dr	850	R							X						02/03/2004
+794991	  65	01117	     	65-1117	 	182	Town of Cape Charles	065	Northampton County	0.33	Dead End	65-1108 Marina Dr	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

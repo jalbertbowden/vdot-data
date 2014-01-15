@@ -1,0 +1,68 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Falls Church																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+628036	  SR	00007	     	VA 7	Broad St	110	City of Falls Church	110	City of Falls Church	0.38	WCL Falls Church	110-6749 West St	33000	G	98%	0%	1%	0%	1%	0%	F	0.0786	F	0.0000	35000	G	2009
+628037	  SR	00007	     	VA 7	Broad St	110	City of Falls Church	110	City of Falls Church	0.93	110-6749 West St	US 29 Washington St	28000	G	98%	0%	1%	0%	1%	0%	F	0.0771	F	0.0000	30000	G	2009
+628002	  SR	00007	     	VA 7	Broad St	110	City of Falls Church	110	City of Falls Church	0.34	US 29 Washington St	110-6799 Cherry St	21000	G	98%	0%	1%	0%	1%	0%	F				23000	G	2009
+628003	  SR	00007	     	VA 7	Broad St	110	City of Falls Church	110	City of Falls Church	0.53	110-6799 Cherry St	ECL Falls Church	22000	G	98%	0%	1%	0%	1%	0%	F				23000	G	2009
+090327	  US	00029	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.29	29-1717 Marshall St; WCL Falls Church	29-1712 Cavalier Trail	25000	G	99%	0%	0%	0%	0%	0%	F	0.0942	F	0.0000	28000	G	2009
+628032	  US	00029	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.24	29-1712 Cavalier Trail	SR 338 Hillwood Ave	23000	G	99%	0%	0%	0%	0%	0%	F				25000	G	2009
+628021	  US	00029	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.28	SR 338 Hillwood Ave	SR 7 Broad St	18000	G	99%	0%	0%	0%	0%	0%	F	0.0885	F	0.0000	20000	G	2009
+628022	  US	00029	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.18	SR 7 Broad St	110-6767 Great Falls St	25000	G	98%	0%	1%	0%	0%	0%	F	0.0809	F	0.0000	28000	G	2009
+628023	  US	00029	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.32	110-6767 Great Falls St	Arlington County Line	24000	G	98%	0%	1%	0%	0%	0%	F	0.0833	F	0.0000	26000	G	2009
+090327	  SR	00237	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.29	29-1717 Marshall St, WCL Falls Church	29-1712 Cavalier Trail	25000	G	99%	0%	0%	0%	0%	0%	F	0.0942	F	0.0000	28000	G	2009	
+628032	  SR	00237	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.24	29-1712 Cavalier Trail	SR 338 Hillwood Ave	23000	G	99%	0%	0%	0%	0%	0%	F				25000	G	2009	
+628021	  SR	00237	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.28	SR 338 Hillwood Ave	SR 7 Broad St	18000	G	99%	0%	0%	0%	0%	0%	F	0.0885	F	0.0000	20000	G	2009	
+628022	  SR	00237	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.18	SR 7 Broad St	110-6767 Great Falls St	25000	G	98%	0%	1%	0%	0%	0%	F	0.0809	F	0.0000	28000	G	2009	
+628023	  SR	00237	     		Washington St	110	City of Falls Church	110	City of Falls Church	0.32	110-6767 Great Falls St	Arlington County Line	24000	G	98%	0%	1%	0%	0%	0%	F	0.0833	F	0.0000	26000	G	2009	
+628009	  SR	00338	     	VA 338	Hillwood Ave	110	City of Falls Church	110	City of Falls Church	0.10	US 29 Washington St	110-6609 Annandale Rd	10000	G	98%	0%	1%	0%	0%	0%	F	0.0993	F	0.0000	11000	G	2009
+628010	  SR	00338	     	VA 338	Hillwood Ave	110	City of Falls Church	110	City of Falls Church	0.36	110-6609 Annandale Rd	110-6799 Cherry St	9200	G	98%	0%	1%	0%	0%	0%	C	0.1121	F	0.0000	10000	G	2009
+628011	  SR	00338	     	VA 338	Hillwood Ave	110	City of Falls Church	110	City of Falls Church	0.45	110-6799 Cherry St	110-6792 South St	8500	G	98%	0%	1%	0%	0%	0%	F	0.1121	F	0.5148	9200	G	2009
+628012	  SR	00338	     	VA 338	Hillwood Ave	110	City of Falls Church	110	City of Falls Church	0.11	110-6792 South St	ECL Falls Church	9900	G	98%	0%	1%	0%	0%	0%	F	0.1072	F	0.0000	11000	G	2009
+736433	  29	09600	     	29-9600	Hunton Ave	110	City of Falls Church	029	Fairfax County	0.16	Falls Church School	SR 338 Hillwood Ave	840	R							X						1991
+795793	 110	00003	     	110-3	Brook Dr	110	City of Falls Church	110	City of Falls Church	0.03	29-1706; SCL Falls Church	SR 338 Hillwood Ave	330	N							X				0	N	09/09/2002
+528001	 110	00027	     	110-27	Greenwich St	110	City of Falls Church	110	City of Falls Church	0.18	110-6774 Lincoln Ave	110-6749 N West St	320	G							X	0.1207	F	0.5500	320	G	2009
+784929	 110	00053	     	110-53	Nanjemoy Ct	110	City of Falls Church	110	City of Falls Church	0.01	Dead End	29-5171; WCL Falls Church	48	R							X						1997
+528002	 110	00067	     	110-67	Robinson Place	110	City of Falls Church	110	City of Falls Church	0.11	110-63 Poplar Drive	110-69 Rosemary Lane	110	G							X	0.1822	F	0.5319	110	G	2009
+794220	 110	00094	     	110-94	Hillier St	110	City of Falls Church	110	City of Falls Church	0.09	Cul-de-Sac	110-6795, S Oak St	100	G							X	0.1684	F	0.5938	100	G	2009
+628001	 110	06609	     	110-6609	Annandale Rd	110	City of Falls Church	110	City of Falls Church	0.13	SCL Falls Church; 29-649	US 29 Washington Highway	12000	G	98%	1%	1%	0%	0%	0%	C				13000	G	2009
+784974	 110	06609	     	110-6609	Annandale Rd	110	City of Falls Church	110	City of Falls Church	0.35	US 29 Washington St	SR 7 Broad St	6400	G							X	0.0865	F	0.0000	6400	G	2009
+628024	 110	06682	     	110-6682	Roosevelt Blvd	110	City of Falls Church	110	City of Falls Church	0.35	29-613 Wilson Blvd; SCL Falls Church	110-6729 Roosevelt St	18000	G	99%	0%	0%	0%	0%	0%	C	0.0803	F	0.0000	20000	G	2009
+628025	 110	06682	     	110-6682	Roosevelt St	110	City of Falls Church	110	City of Falls Church	0.05	110-6792 Roosevelt St	00-6682; NCL Falls Church	20000	G	99%	0%	0%	0%	0%	0%	F	0.0786	F	0.0000	21000	G	2009
+628038	 110	06749	     	110-6749	West St	110	City of Falls Church	110	City of Falls Church	0.12	WCL Falls Church; 29-705	Poplar Dr	5800	G	99%	0%	0%	0%	0%	0%	F	0.0976	F	0.0000	6400	G	2009
+628039	 110	06749	     	110-6749	West St	110	City of Falls Church	110	City of Falls Church	0.29	Poplar Dr	Parker St	6300	G	99%	0%	0%	0%	0%	0%	F	0.0924	F	0.0000	6800	G	2009
+628040	 110	06749	     	110-6749	West St	110	City of Falls Church	110	City of Falls Church	0.24	Parker St	SR 7 Broad St	7300	G	99%	0%	0%	0%	0%	0%	C	0.0900	F	0.0000	7900	G	2009
+628041	 110	06749	     	110-6749	West St	110	City of Falls Church	110	City of Falls Church	0.53	SR 7 Broad St	110-6767 Great Falls St	4600	G	99%	0%	1%	0%	0%	0%	C	0.1083	F	0.0000	5000	G	2009
+628042	 110	06749	     	110-6749	West St	110	City of Falls Church	110	City of Falls Church	0.01	110-6767 Great Falls St	NCL Falls Church; 29-1794 Brily Place	4200	G	99%	0%	1%	0%	0%	0%	F	0.1244	N	0.6104	4600	G	2009
+628006	 110	06767	     	110-6767	Great Falls St	110	City of Falls Church	110	City of Falls Church	0.19	US 29 Washington St	Little Falls St	3200	G	99%	0%	0%	0%	0%	0%	F	0.0959	F	0.5871	3500	G	2009
+628007	 110	06767	     	110-6767	Great Falls St	110	City of Falls Church	110	City of Falls Church	0.35	Little Falls St	110-6774 Lincoln Ave	6200	G	99%	0%	0%	0%	0%	0%	C	0.1038	F	0.0000	6700	G	2009
+628008	 110	06767	     	110-6767	Great Falls St	110	City of Falls Church	110	City of Falls Church	0.24	110-6774 Lincoln Ave	NCL Falls Church; 29-694	7400	G	99%	0%	0%	0%	0%	0%	F	0.1134	F	0.0000	8000	G	2009
+784976	 110	06774	     	110-6774	Lincoln Ave	110	City of Falls Church	110	City of Falls Church	0.19	110-78 Sycamore St	110-6749 West St N	290	G							X	0.1174	F	0.5714	290	G	2009
+628013	 110	06774	     	110-6774	Lincoln Ave	110	City of Falls Church	110	City of Falls Church	0.11	110-6749 West St	Spring Street	2300	G	98%	0%	1%	1%	0%	0%	F	0.1114	F	0.5845	2600	G	2009
+628014	 110	06774	     	110-6774	Lincoln Ave	110	City of Falls Church	110	City of Falls Church	0.30	Spring Street	110-6767 Great Falls St	2300	G	98%	0%	1%	1%	0%	0%	C	0.1072	F	0.5646	2500	G	2009
+628015	 110	06774	     	110-6774	Lincoln Ave	110	City of Falls Church	110	City of Falls Church	0.31	110-6767 Great Falls St	WCL Arlington; 110-6774 Fairfax Drive	4000	G	98%	0%	1%	1%	0%	0%	F	0.1171	F	0.0000	4300	G	2009
+628033	 110	06792	     	110-6792	South St	110	City of Falls Church	110	City of Falls Church	0.02	SCL Falls Church; 29-1702	SR 338 Hillwood Ave	3600	G	99%	0%	0%	0%	0%	0%	F	0.1040	N	0.5041	3800	G	2009
+628034	 110	06792	     	110-6792	South St	110	City of Falls Church	110	City of Falls Church	0.07	SR 338 Hillwood Ave	SR 7 Broad St	3600	G	99%	0%	0%	0%	0%	0%	F	0.1074	F	0.0000	4000	G	2009
+628026	 110	06792	     	110-6792	Roosevelt St	110	City of Falls Church	110	City of Falls Church	0.26	SR 7 Broad St	Tuckahoe St	2400	G	99%	0%	0%	0%	0%	0%	C	0.1086	F	0.5211	2600	G	2009
+628027	 110	06792	     	110-6792	Roosevelt St	110	City of Falls Church	110	City of Falls Church	0.12	Tuckahoe St	Roosevelt Blvd	2400	G	99%	0%	0%	0%	0%	0%	F	0.1116	F	0.0000	2600	G	2009
+795951	 110	06794	     	110-6794	W Columbia St	110	City of Falls Church	110	City of Falls Church	0.18	Cul-de-Sac	Little Falls St	3000	N							X	0.1327	N	0.5758	3000	N	2009
+784978	 110	06794	     	110-6794	W Columbia St	110	City of Falls Church	110	City of Falls Church	0.08	Little Falls St	US 29 Washington St	3000	G							X	0.1327	F	0.5758	3000	G	2009
+628004	 110	06794	     	110-6794	W Columbia St	110	City of Falls Church	110	City of Falls Church	0.20	US 29 Washington St	110-6799 Cherry St	3300	G	99%	0%	0%	0%	0%	0%	F	0.1103	F	0.5394	3600	G	2009
+628005	 110	06794	     	110-6794	E Columbia St	110	City of Falls Church	110	City of Falls Church	0.40	110-6799 Cherry St	WCL Arlington; 16th St	3000	G	99%	0%	0%	0%	0%	0%	C	0.1148	F	0.5251	3200	G	2009
+628018	 110	06795	     	110-6795	Marshall St	110	City of Falls Church	110	City of Falls Church	0.26	US 29; SCL Falls Church; 29-1717	Seaton Lane	1000	G	98%	1%	1%	0%	0%	0%	C	0.1012	F	0.6612	1100	G	2009
+628030	 110	06795	     	110-6795	S Oak St	110	City of Falls Church	110	City of Falls Church	0.18	Seaton Lane	Timber Lane	1700	G	98%	1%	1%	0%	0%	0%	F	0.1101	F	0.5825	1800	G	2009
+628031	 110	06795	     	110-6795	S Oak St	110	City of Falls Church	110	City of Falls Church	0.28	Timber Lane	SR 7 Broad St	1600	G	98%	1%	1%	0%	0%	0%	F	0.1070	F	0.6234	1700	G	2009
+628020	 110	06795	     	110-6795	N Oak St	110	City of Falls Church	110	City of Falls Church	0.28	SR 7 Broad St	110-6774 Lincoln Ave	930	G	98%	1%	1%	0%	0%	0%	F	0.1339	F	0.6143	1000	G	2009
+784979	 110	06795	     	110-6795	N Oak St	110	City of Falls Church	110	City of Falls Church	0.12	110-6774 Lincoln Ave	110-6749 West St E	1200	G							X	0.1541	F	0.5777	1200	G	2009
+784980	 110	06795	     	110-6795	N Oak St	110	City of Falls Church	110	City of Falls Church	0.11	110-6749 West St N	29-1746; NCL Falls Church	780	G							X	0.1724	F	0.6203	780	G	2009
+628016	 110	06797	     	110-6797	Little Falls St	110	City of Falls Church	110	City of Falls Church	0.21	SR 7 Broad St	110-6767 Great Falls St	3100	G	99%	0%	1%	0%	0%	0%	C	0.0910	F	0.0000	3300	G	2009
+628017	 110	06797	     	110-6797	Little Falls St	110	City of Falls Church	110	City of Falls Church	0.30	110-6767 Great Falls St	WCL Arlington ; 110-6797	2400	G	99%	0%	1%	0%	0%	0%	F	0.1098	F	0.6408	2600	G	2009
+628028	 110	06799	     	110-6799	Cherry St	110	City of Falls Church	110	City of Falls Church	0.03	SCL Falls Church	SR 338 Hillwood Ave	2000	G	99%	0%	0%	0%	0%	0%	F	0.1255	N	0.5798	2200	G	2009
+628029	 110	06799	     	110-6799	Cherry St	110	City of Falls Church	110	City of Falls Church	0.15	SR 338 Hillwood Ave	SR 7 Broad St	1400	G	99%	0%	0%	0%	0%	0%	C	0.1230	F	0.7259	1500	G	2009
+628019	 110	06799	     	110-6799	Cherry St	110	City of Falls Church	110	City of Falls Church	0.26	SR 7 Broad St	Columbia St	1900	G	99%	0%	0%	0%	0%	0%	F	0.1135	F	0.7257	2000	G	2009
+784981	 110	06799	     	110-6799	Cherry St	110	City of Falls Church	110	City of Falls Church	0.09	Columbia St	110-37 Jefferson St	880	G							X	0.1060	F	0.7772	880	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

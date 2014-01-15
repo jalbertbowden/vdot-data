@@ -1,0 +1,157 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Harrisonburg																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+637682	  US	00011	     	US 11	Main St	115	City of Harrisonburg	115	City of Harrisonburg	0.91	SCL Harrisonburg	I-81	13000	F	96%	0%	1%	1%	2%	0%	F	0.0877	F	0.5397	13000	F	2009
+637637	  US	00011	     	US 11	Main St	115	City of Harrisonburg	115	City of Harrisonburg	1.77	I-81	Pleasant Hill Rd	18000	F	96%	1%	1%	1%	1%	0%	F	0.0856	F	0.5233	19000	F	2009
+637664	  US	00011	     	US 11	S Main St	115	City of Harrisonburg	115	City of Harrisonburg	0.87	Pleasant Hill Rd	Port Republic Rd	20000	F	96%	1%	1%	1%	1%	0%	C	0.0852	F	0.5569	22000	F	2009
+637630	  US	00011	     	US 11	S Main St	115	City of Harrisonburg	115	City of Harrisonburg	0.65	Port Republic Rd	S Liberty St	21000	F	96%	1%	1%	1%	1%	0%	F	0.0773	F	0.5144	23000	F	2009
+637621	  US	00011	     	US 11	Main St  NB	115	City of Harrisonburg	115	City of Harrisonburg	0.47	S Liberty St	US 33	6600	F	96%	1%	1%	1%	1%	0%	F	0.0928	F	0.5425	7100	F	2009		13000	F	97%	0%	1%	1%	1%	0%	F	0.0847	F	0.7155	14000	F
+637624	  US	00011	     		Main St NB	115	City of Harrisonburg	115	City of Harrisonburg	0.02	US 33	US 33 E Market Street	6600	N	96%	1%	1%	1%	1%	0%	N	0.0928	N	0.5425	7100	N	2009		11000	N	96%	1%	1%	1%	1%	0%	N				12000	N
+637627	  US	00011	     		Main St NB	115	City of Harrisonburg	115	City of Harrisonburg	0.03	US 33 E Market Street	US 33 Par	6600	N	96%	1%	1%	1%	1%	0%	N	0.0928	N	0.5425	7100	N	2009		10000	N	96%	0%	1%	1%	1%	0%	N				11000	N
+637628	  US	00011	     	US 11	Main St NB	115	City of Harrisonburg	115	City of Harrisonburg	0.34	US 33 Par	Kratzer Ave	6600	N	96%	1%	1%	1%	1%	0%	N	0.0928	N	0.5425	7100	N	2009
+637602	  US	00011	     	US 11	N Main St	115	City of Harrisonburg	115	City of Harrisonburg	0.68	Kratzer Ave	Charles St	8900	F	96%	0%	1%	0%	2%	0%	C	0.0899	F	0.5925	9400	F	2009
+637688	  US	00011	     	US 11	N Main St	115	City of Harrisonburg	115	City of Harrisonburg	0.44	Charles St	NCL Harrisonburg	7300	F	96%	0%	1%	0%	2%	0%	F	0.0905	F	0.6155	7700	F	2009
+637613	 2US	00011	P    		Liberty St	115	City of Harrisonburg	115	City of Harrisonburg	0.47	S Main St	US 33, W Market Street	6600	F	97%	0%	1%	1%	1%	0%	C	0.0830	F	1.0000	7000	F	2009		20000	N	96%	0%	1%	1%	1%	0%	N	0.0847	F	0.7155	21000	N
+637614	 2US	00011	P    		Liberty St	115	City of Harrisonburg	115	City of Harrisonburg	0.23	US 33, W Market Street	Rock St	4900	F	96%	1%	1%	1%	1%	0%	C	0.0824	F	1.0000	5200	F	2009		11000	N	96%	1%	1%	1%	1%	0%	N				12000	N
+637683	 2US	00011	P    	US 11 Par	Noll Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.14	Rock St	Kratzer Ave	3500	F	97%	0%	1%	1%	1%	0%	F	0.0853	F	1.0000	3500	F	2009		10000	N	96%	0%	1%	1%	1%	0%	N				11000	N
+637684	  US	00033	     	US 33	W Market St	115	City of Harrisonburg	115	City of Harrisonburg	1.11	WCL Harrisonburg	Waterman Dr	10000	F	95%	1%	1%	2%	2%	0%	F	0.0959	F	0.6269	11000	F	2009
+637657	  US	00033	     	US 33	W Market St	115	City of Harrisonburg	115	City of Harrisonburg	0.61	Waterman Dr	SR 42 S High St	9000	F	95%	1%	1%	2%	2%	0%	C	0.0900	F	0.6375	9500	F	2009
+637610	  US	00033	     	US 33	W Market St	115	City of Harrisonburg	115	City of Harrisonburg	0.16	SR 42 S High St	Bus US 33 Par	5200	F	95%	1%	1%	2%	2%	0%	F	0.0973	F	1.0000	5600	F	2009
+637624	  US	00033	     		Main St NB	115	City of Harrisonburg	115	City of Harrisonburg	0.02	US 11	US 11 Main St	6600	N	96%	1%	1%	1%	1%	0%	N	0.0928	N	0.5425	7100	N	2009		11000	N	96%	1%	1%	1%	1%	0%	N				12000	N
+637818	  US	00033	     	US 33	E Market St	115	City of Harrisonburg	115	City of Harrisonburg	0.11	US 11 Main St NB	Mason St	6300	F	96%	0%	1%	1%	1%	0%	F	0.0843	F	0.5355	6600	F	2009
+637634	  US	00033	     	US 33	E Market St	115	City of Harrisonburg	115	City of Harrisonburg	0.87	Mason St	Vine St	11000	F	96%	0%	1%	1%	1%	0%	F	0.0839	F	0.5688	11000	F	2009
+637644	  US	00033	     	US 33	E Market St	115	City of Harrisonburg	115	City of Harrisonburg	0.61	Vine St	I-81	16000	F	96%	0%	1%	1%	1%	0%	C	0.0815	F	0.5411	17000	F	2009
+637643	  US	00033	     	US 33	E Market St	115	City of Harrisonburg	115	City of Harrisonburg	0.59	I-81	University Blvd	27000	F	95%	1%	1%	1%	3%	0%	F	0.0843	F	0.5113	29000	F	2009
+637641	  US	00033	     	US 33	E Market St	115	City of Harrisonburg	115	City of Harrisonburg	1.07	University Blvd	ECL Harrisonburg	26000	F	97%	0%	0%	0%	2%	0%	C	0.0918	F	0.6040	28000	F	2009
+637627	 1US	00033	P    		Main St NB	115	City of Harrisonburg	115	City of Harrisonburg	0.03	US 11	US 33	6600	N	96%	1%	1%	1%	1%	0%	N	0.0928	N	0.5425	7100	N	2009		10000	N	96%	0%	1%	1%	1%	0%	N				11000	N
+637661	  SR	00042	     	VA 42	S High St	115	City of Harrisonburg	115	City of Harrisonburg	0.13	SCL Harrisonburg	Erickson Ave	15000	F	98%	0%	1%	1%	1%	0%	F	0.0845	F	0.5383	16000	F	2009
+637626	  SR	00042	     	VA 42	S High St	115	City of Harrisonburg	115	City of Harrisonburg	1.27	Erickson Ave	Sunrise Ave	18000	F	97%	0%	1%	1%	1%	0%	C	0.0917	F	0.5516	20000	F	2009
+637622	  SR	00042	     	VA 42	S High St	115	City of Harrisonburg	115	City of Harrisonburg	0.40	Sunrise Ave	Grace Ave	19000	F	98%	0%	1%	1%	1%	0%	F	0.0844	F	0.5248	21000	F	2009
+637612	  SR	00042	     	VA 42	S High St	115	City of Harrisonburg	115	City of Harrisonburg	0.55	Grace Ave	Market St	19000	F	98%	0%	1%	1%	1%	0%	F	0.0827	F	0.5561	20000	F	2009
+637605	  SR	00042	     	VA 42	N High St	115	City of Harrisonburg	115	City of Harrisonburg	0.27	Market St	Gay St	16000	F	98%	0%	1%	1%	1%	0%	F	0.0859	F	0.5388	18000	F	2009
+637601	  SR	00042	     	VA 42	Virginia Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.44	Gay St	5th St	12000	F	98%	0%	1%	1%	1%	0%	F	0.0886	F	0.5472	13000	F	2009
+637653	  SR	00042	     	VA 42	Virginia Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.60	5th St	Mt Clinton Pike	11000	F	96%	0%	1%	2%	1%	0%	C	0.0923	F	0.5779	12000	F	2009
+637660	  SR	00042	     	VA 42	Virginia Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.83	Mt Clinton Pike	NCL Harrisonburg	13000	F	96%	0%	1%	2%	1%	0%	F	0.0949	F	0.5936	14000	F	2009
+080459	  IS	00081	N    	I-81 NB	 	115	City of Harrisonburg	082	Rockingham County	0.50	SCL Harrisonburg	US 11, South Main St	24000	F	75%	1%	1%	1%	21%	1%	F				24000	F	2009		49000	N	76%	1%	1%	1%	20%	1%	N				49000	N
+080234	  IS	00081	N    	I-81 NB	 	115	City of Harrisonburg	082	Rockingham County	2.83	US 11, South Main St	SR 253 Port Republic Rd	25000	B	75%	1%	1%	1%	21%	1%	C	0.1054	A	1.0000	25000	B	2009		50000	B	76%	1%	1%	1%	20%	1%	C	0.1014	A	0.5397	49000	B
+080236	  IS	00081	N    	I-81 NB	 	115	City of Harrisonburg	082	Rockingham County	1.51	82- 659 Port Republic Road	US 33, E Market St	24000	F	75%	1%	1%	1%	21%	1%	F				24000	F	2009		50000	F	76%	1%	1%	1%	20%	1%	F				49000	F
+080460	  IS	00081	N    	I-81 NB	 	115	City of Harrisonburg	082	Rockingham County	1.60	US 33, E Market St	NCL Harrisonburg	24000	F	75%	1%	1%	1%	21%	1%	F				24000	F	2009		47000	F	76%	1%	1%	1%	20%	1%	F				46000	F
+180026	  IS	00081	S    	I-81 SB	 	115	City of Harrisonburg	082	Rockingham County	1.01	SCL Harrisonburg	US 11, South Main St	25000	N	77%	1%	1%	1%	19%	1%	N				24000	N	2009		49000	N	76%	1%	1%	1%	20%	1%	N				49000	N
+180022	  IS	00081	S    	I-81 SB	 	115	City of Harrisonburg	082	Rockingham County	2.63	US 11, South Main St	SR 253 Port Republic Rd	25000	B	77%	1%	1%	1%	19%	1%	C	0.1083	A	1.0000	25000	B	2009		50000	B	76%	1%	1%	1%	20%	1%	C	0.1014	A	0.5397	49000	B
+180040	  IS	00081	S    	I-81 SB	 	115	City of Harrisonburg	082	Rockingham County	1.50	SR 253 Port Republic Rd	US 33, E Market St	25000	F	77%	1%	1%	1%	19%	1%	F				25000	F	2009		50000	F	76%	1%	1%	1%	20%	1%	F				49000	F
+180041	  IS	00081	S    	I-81 SB	 	115	City of Harrisonburg	082	Rockingham County	1.30	US 33, E Market St	NCL Harrisonburg	23000	F	77%	1%	1%	1%	19%	1%	F				23000	F	2009		47000	F	76%	1%	1%	1%	20%	1%	F				46000	F
+787147	  IS	00081	S245A	I-81 SB Exit 245A	Ramp I-81 S Exit 245 to Port Republic Rd	115	City of Harrisonburg	082	Rockingham County	0.12	I-81 South	SR 253 Port Republic Rd	3100	F	97%	0%	1%	1%	1%	0%	F				3300	F	2009
+637632	  SR	00253	     	VA 253	Port Republic Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.48	US 11 S Main St	I-81	23000	F	97%	0%	1%	1%	1%	0%	C	0.0882	F	0.5241	25000	F	2009
+637639	  SR	00253	     	VA 253	Port Republic Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.85	I-81	Peach Grove Ave	25000	F	97%	0%	1%	1%	1%	0%	F	0.0940	F	0.5203	26000	F	2009
+637819	  SR	00253	     	VA 253	Port Republic Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.48	Peach Grove Ave	ECL Harrisonburg	7600	F	97%	0%	1%	1%	1%	0%	F	0.1022	F	0.5355	7800	F	2009
+785262	  FR	00238	     	FR 238	Buffalo Dr	115	City of Harrisonburg	082	Rockingham County	0.07	NCL Harrisonburg	Dead End	350	R							X						05/10/2009
+637712	 115	00001	     	115-1	Vine St	115	City of Harrisonburg	115	City of Harrisonburg	1.42	E Market St	N Main St	7800	F	96%	1%	1%	1%	2%	0%	C	0.0923	F	0.5000	8400	F	2009
+637804	 115	00003	     	115-3	Eastover Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.44	Paul St	Reservoir St	340	F	96%	0%	1%	1%	2%	0%	F	0.1290	F	0.8636	360	F	2009
+781658	 115	00004	     	115-4	E. Washington St	115	City of Harrisonburg	115	City of Harrisonburg	0.24	115-4115 N Liberty Street	N Main St	3200	F	95%	2%	2%	0%	1%	0%	F	0.0967	F	0.5138	3400	F	2009
+787601	 115	00004	     	115-4	E. Washington St	115	City of Harrisonburg	115	City of Harrisonburg	0.72	N Main St	Vine St	3700	F	95%	2%	2%	0%	1%	0%	C	0.0934	F	0.5243	3900	F	2009
+637716	 115	00005	     	115-5	Acorn Dr	115	City of Harrisonburg	115	City of Harrisonburg	1.16	SR 42	Mt Clinton Pike	3900	F	96%	0%	1%	1%	2%	0%	C	0.1007	F	0.6339	4100	F	2009
+637713	 115	00006	     	115-6	Park Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.58	Mt Clinton Pike	Shank Dr	2300	F	99%	0%	1%	0%	0%	0%	C	0.0998	F	0.5551	2500	F	2009
+637714	 115	00006	     	115-6	Park Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.34	Shank Dr	Harmony Rd	1800	F	99%	0%	1%	0%	0%	0%	F	0.1166	F	0.6244	1900	F	2009
+637719	 115	00007	     	115-7	Harmony Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.23	Park Rd	SR 42	1200	F	99%	0%	0%	0%	0%	0%	C	0.1026	F	0.6489	1300	F	2009
+637689	 115	04100	     	115-4100	Mosby Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.35	WCL Harrisonburg	Mosby Ct	6800	F	96%	0%	0%	0%	2%	0%	C	0.0975	F	0.5557	7000	F	2009
+637823	 115	04100	     	115-4100	Mosby Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.26	Mosby Ct	Main St	7600	F	96%	0%	0%	0%	2%	0%	F	0.0954	F	0.5510	7900	F	2009
+637635	 115	04102	     	115-4102	Pleasant Hill Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.78	Pear St	US 11 S Main St	8600	F	99%	0%	1%	0%	0%	0%	C	0.0942	F	0.5186	8900	F	2009
+637663	 115	04102	     	115-4102	Stone Spring Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.65	US 11 Pleasant Hill Rd	Ramblewood Rd	9400	F	99%	0%	1%	0%	0%	0%	C	0.0935	F	0.6442	9700	F	2009
+637809	 115	04102	     	115-4102	Stone Spring Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.53	Ramblewood Rd	ECL Harrisonburg	8800	F	99%	0%	1%	0%	0%	0%	F	0.0947	F	0.6362	9100	F	2009
+637685	 115	04103	     	115-4103	Central Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.14	Pleasant Hill Rd	Sharon St	1500	F	97%	1%	2%	0%	0%	0%	C	0.1014	F	0.6379	1600	F	2009
+637800	 115	04103	     	115-4103	Central Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.91	Sharon St	Maryland Ave	1000	F	97%	1%	2%	0%	0%	0%	F	0.1221	F	0.6777	1100	F	2009
+637675	 115	04104	     	115-4104	South Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.52	S High St	S Main St	6200	F	97%	1%	2%	0%	0%	0%	C	0.0911	F	0.5120	6700	F	2009
+637676	 115	04105	     	115-4105	Maryland Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.44	SR 42 High St	Main St	8100	F	97%	0%	1%	1%	1%	0%	F	0.0906	F	0.6041	8700	F	2009
+787340	 115	04105	 001A	115-4105 Exit 001A	Ramp to I-81 N at Exit 245	115	City of Harrisonburg	082	Rockingham County	0.19	SR 253 Port Republic Rd	I-81 North	0	?							X
+637633	 115	04106	     	115-4106	Cantrell Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.57	High St	Ott St	9100	F	99%	0%	1%	0%	1%	0%	F	0.0874	F	0.6113	9600	F	2009
+637646	 115	04106	     	115-4106	Cantrell Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.68	Ott St	Reservoir St	16000	F	99%	0%	1%	0%	1%	0%	C	0.0837	F	0.5743	16000	F	2009
+637645	 115	04106	     	115-4106	Cantrell Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.18	Reservoir St	E Market St	9200	F	99%	0%	1%	0%	1%	0%	F	0.1039	F	0.6983	10000	F	2009
+637802	 115	04107	     	115-4107	Reservoir St	115	City of Harrisonburg	115	City of Harrisonburg	0.97	SCL Harrisonburg	University Blvd	12000	F	99%	0%	0%	0%	0%	0%	F	0.0858	F	0.5887	13000	F	2009
+637801	 115	04107	     	115-4107	Reservoir St	115	City of Harrisonburg	115	City of Harrisonburg	0.57	University Blvd	Eastover Dr	18000	F	99%	0%	0%	0%	0%	0%	F	0.0892	F	0.5223	18000	F	2009
+637679	 115	04107	     	115-4107	Reservoir St	115	City of Harrisonburg	115	City of Harrisonburg	0.89	Eastover Dr	E Market St	10000	F	99%	0%	0%	0%	0%	0%	C	0.0962	F	0.5187	11000	F	2009
+637691	 115	04107	     	115-4107	Sterling St	115	City of Harrisonburg	115	City of Harrisonburg	0.13	E Market St	Gay St	1500	F	95%	1%	1%	1%	2%	0%	F	0.1060	F	0.5330	1600	F	2009
+781659	 115	04107	     	115-4107	Gay St	115	City of Harrisonburg	115	City of Harrisonburg	0.45	Sterling St	Mason St	2200	F	95%	1%	1%	1%	2%	0%	F	0.1027	F	0.5734	2300	F	2009
+637604	 115	04107	     	115-4107	Gay St	115	City of Harrisonburg	115	City of Harrisonburg	0.33	Mason St	N High St	4800	F	95%	1%	1%	1%	2%	0%	C	0.0952	F	0.5185	5200	F	2009
+637815	 115	04107	     	115-4107	Gay St	115	City of Harrisonburg	115	City of Harrisonburg	0.11	N High St	Chicago Ave	2700	F	95%	1%	1%	1%	2%	0%	F	0.1029	F	0.5084	2900	F	2009
+637603	 115	04107	     	115-4107	Chicago Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.58	Gay St	Waterman Dr	3800	F	98%	0%	1%	0%	0%	0%	C	0.0952	F	0.5152	4100	F	2009
+637655	 115	04107	     	115-4107	Chicago Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.43	Waterman Ave	Mt Clinton Pike	5500	F	98%	0%	1%	0%	0%	0%	F	0.0924	F	0.5117	5900	F	2009
+637678	 115	04108	     	115-4108	Paul St	115	City of Harrisonburg	115	City of Harrisonburg	0.64	Eastover Dr	Mason St	1600	F	99%	0%	0%	0%	0%	0%	C	0.1144	F	0.5313	1700	F	2009
+637814	 115	04108	     	115-4108	Paul St	115	City of Harrisonburg	115	City of Harrisonburg	0.14	Mason St	Main St	890	F	99%	0%	0%	0%	0%	0%	F	0.1035	F	0.5431	960	F	2009
+637623	 115	04109	     	115-4109	Grace St	115	City of Harrisonburg	115	City of Harrisonburg	0.27	High St	Main St	4000	F	98%	0%	1%	1%	0%	0%	C	0.1113	F	0.5478	4300	F	2009
+637686	 115	04109	     	115-4109	Grace St	115	City of Harrisonburg	115	City of Harrisonburg	0.14	Main St	Mason St	4800	F	98%	0%	1%	1%	0%	0%	F	0.0840	F	0.5181	5100	F	2009
+637821	 115	04109	     	115-4109	Mason St	115	City of Harrisonburg	115	City of Harrisonburg	0.10	Grace St	Cantrell Ave	4200	F	99%	0%	1%	0%	0%	0%	F	0.0905	F	0.5971	4300	F	2009
+637625	 115	04109	     	115-4109	Mason St	115	City of Harrisonburg	115	City of Harrisonburg	0.20	Cantrell Ave	Paul St	3800	F	99%	0%	1%	0%	0%	0%	C	0.0869	F	0.6582	4100	F	2009
+637822	 115	04109	     	115-4109	Mason St	115	City of Harrisonburg	115	City of Harrisonburg	0.41	Paul St	Market St	4000	F	99%	0%	1%	0%	0%	0%	F	0.0908	F	0.6423	4200	F	2009
+637608	 115	04109	     	115-4109	Mason St	115	City of Harrisonburg	115	City of Harrisonburg	0.44	Market St	Main St	7300	F	99%	0%	1%	0%	0%	0%	F	0.0964	F	0.5442	7400	F	2009
+637668	 115	04110	     	115-4110	Wolfe St	115	City of Harrisonburg	115	City of Harrisonburg	0.12	SR 42 N High St	N Liberty St	2800	N	98%	1%	1%	0%	0%	0%	N	0.0953	N	0.5485	3000	N	2009
+637667	 115	04110	     	115-4110	Wolfe St	115	City of Harrisonburg	115	City of Harrisonburg	0.11	N Liberty St	N Main St	2800	F	98%	1%	1%	0%	0%	0%	F	0.0953	F	0.5485	3000	F	2009
+637694	 115	04110	     	115-4110	Wolfe St	115	City of Harrisonburg	115	City of Harrisonburg	0.69	N Main St	Old Furnace Rd	1000	F	98%	1%	1%	0%	0%	0%	C	0.1016	F	0.5085	1100	F	2009
+637648	 115	04110	     	115-4110	Old Furnace Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.29	Wolfe St	Vine St	2700	F	98%	1%	1%	0%	0%	0%	F	0.1083	F	0.6959	2800	F	2009
+637813	 115	04110	     	115-4110	Old Furnace Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.91	Vine St	ECL Harrisonburg	1900	F	98%	1%	1%	0%	0%	0%	F	0.1001	F	0.6280	2000	F	2009
+637680	 115	04113	     	115-4113	Country Club Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.76	US 33 E, E Market St	Linda Lane	7800	F	97%	0%	1%	1%	0%	0%	C	0.0997	F	0.5191	8000	F	2009
+637647	 115	04113	     	115-4113	Country Club Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.85	Linda Lane	US 33 E Market St	11000	F	97%	0%	1%	1%	0%	0%	F	0.0949	F	0.5580	12000	F	2009
+637669	 115	04114	     	115-4114	Kratzer Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.12	Noll Dr	N Liberty St	3100	F							X	0.1040	F	0.7592	3300	F	2009
+637816	 115	04115	     	115-4115	Liberty St	115	City of Harrisonburg	115	City of Harrisonburg	0.25	Noll Dr	Kratzer Ave	2400	F	89%	1%	2%	3%	5%	0%	F	0.0945	F	0.5508	2600	F	2009
+637651	 115	04115	     	115-4115	Liberty St	115	City of Harrisonburg	115	City of Harrisonburg	0.32	Kratzer Ave	Edom Rd	5300	F	89%	1%	2%	3%	5%	0%	F	0.0984	F	0.5647	5700	F	2009
+637650	 115	04115	     	115-4115	Liberty St	115	City of Harrisonburg	115	City of Harrisonburg	0.32	Edom Rd	Charles St	4100	F	89%	1%	2%	3%	5%	0%	F	0.0981	F	0.5163	4400	F	2009
+637817	 115	04115	     	115-4115	Liberty St	115	City of Harrisonburg	115	City of Harrisonburg	0.80	Charles St	NCL Harrisonburg	3700	F	89%	1%	2%	3%	5%	0%	C	0.0932	F	0.5185	3900	F	2009
+637715	 115	04116	     	115-4116	Pike Church Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.14	S Main St	WCL Harrisonburg	1800	F	89%	1%	1%	2%	7%	0%	C	0.1106	F	0.5217	1900	F	2009
+637673	 115	04117	     	115-4117	Pear St	115	City of Harrisonburg	115	City of Harrisonburg	1.09	Mosby Rd	Pleasant Hill Rd	2900	F	99%	0%	0%	0%	0%	0%	C	0.0911	F	0.5420	3100	F	2009
+637671	 115	04118	     	115-4118	Erickson St	115	City of Harrisonburg	115	City of Harrisonburg	0.72	WCL Harrisonburg	S High St	6900	F	97%	1%	1%	0%	1%	0%	C	0.0916	F	0.5447	7400	F	2009
+637717	 115	04119	     	115-4119	Garbers Church Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.05	SCL Harrisonburg	Erickson St	3200	G	95%	2%	2%	1%	1%	0%	F	0.1093	N	0.5490	3500	G	2009
+637658	 115	04119	     	115-4119	Garbers Church Rd	115	City of Harrisonburg	115	City of Harrisonburg	1.48	Erickson Ave	US 33 Market St	4000	F	95%	2%	2%	1%	1%	0%	C	0.1271	F	0.6587	4200	F	2009
+781661	 115	04119	     	115-4119	Switchboard Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.20	US 33 Market St	NCL Harrisonburg, 82-910	2400	F	95%	2%	2%	1%	1%	0%	F	0.1256	F	0.5634	2600	F	2009
+637656	 115	04120	     	115-4120	Waterman Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.84	W Market St	Chicago Ave	4200	F	95%	0%	1%	1%	2%	0%	C	0.0975	F	0.5034	4500	F	2009
+637812	 115	04121	     	115-4121	Mt Clinton Pike	115	City of Harrisonburg	115	City of Harrisonburg	0.19	WCL Harrisonburg	College Ave	5200	F	95%	0%	1%	1%	2%	0%	F	0.1030	F	0.6367	5500	F	2009
+637722	 115	04121	     	115-4121	Mt Clinton Pike	115	City of Harrisonburg	115	City of Harrisonburg	0.10	College Ave	Chicago Ave	6400	F	95%	0%	1%	1%	2%	0%	F	0.0956	F	0.6167	6900	F	2009
+637654	 115	04121	     	115-4121	Mt Clinton Pike	115	City of Harrisonburg	115	City of Harrisonburg	0.37	Chicago Ave	SR 42 Virginia Ave	7400	F	96%	1%	1%	1%	1%	0%	C	0.0982	F	0.5548	7900	F	2009
+637710	 115	04121	     	115-4121	Mt Clinton Pike	115	City of Harrisonburg	115	City of Harrisonburg	1.29	Virginia Ave	N Main St	7300	F	95%	0%	1%	1%	2%	0%	F	0.0874	F	0.5369	7800	F	2009
+637652	 115	04122	     	115-4122	Edom Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.21	Virginia Ave	N Liberty St	2900	F	97%	1%	2%	1%	0%	0%	F	0.1061	F	0.5007	3100	F	2009
+637616	 115	04124	     	115-4124	Bruce St	115	City of Harrisonburg	115	City of Harrisonburg	0.15	S High St	Liberty St	2000	F	97%	1%	2%	1%	0%	0%	C	0.1053	F	0.8701	2200	F	2009
+637617	 115	04124	     	115-4124	Bruce St	115	City of Harrisonburg	115	City of Harrisonburg	0.22	Liberty St	Mason St	2800	F	97%	1%	2%	1%	0%	0%	F	0.1072	F	1.0000	3000	F	2009
+637810	 115	04125	     	115-4125	Keezletown Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.76	Country Club Rd	ECL Harrisonburg	1700	F	96%	1%	1%	2%	0%	0%	F	0.1008	F	0.6454	1800	F	2009
+637718	 115	04127	     	115-4127	Greendale Rd	115	City of Harrisonburg	115	City of Harrisonburg	1.05	Pleasant Valley Rd	ECL Harrisonburg	2700	F	96%	1%	1%	2%	0%	0%	C	0.1078	F	0.6310	2800	F	2009
+637820	 115	04128	     	115-4128	Pleasant Valley Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.67	SCL Harrisonburg	RTE 710 Greendale Rd	4300	F	89%	1%	1%	2%	6%	0%	F	0.1048	F	0.5102	4500	F	2009
+637690	 115	04128	     	115-4128	Pleasant Valley Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.73	Greendale Rd	S Main St	6200	F	89%	1%	1%	2%	6%	0%	C	0.0934	F	0.5146	6400	F	2009
+537002	 115	00000	     	115-0	2nd St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Hartman Dr on North End	Willow St on South End	250	F							X				260	F	2009
+537019	 115	00000	     	115-0	Alleghany Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Clay St	Star Crest Dr	130	F							X				130	F	2009
+537018	 115	00000	     	115-0	Blue Ridge Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Star Crest Dr	Country Club Dr	4300	F							X	0.0990	F	0.5568	4500	F	2009
+537030	 115	00000	     	115-0	Bluestone St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Monument Ave	Dead End	90	F							X				100	F	2009
+537301	 115	00000	     	115-0	Broad View Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Star Crest Dr	Sparrow Ct	530	F							X				560	F	2009
+537013	 115	00000	     	115-0	Campbell St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	N. Mason St	Ott St	210	F							X				220	F	2009
+537300	 115	00000	     	115-0	Carlton St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Reservoir St	Market St	5900	F							X				6200	F	2009
+537023	 115	00000	     	115-0	Cedar St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	S. Dogwood Dr	West Ave	130	F							X				140	F	2009
+537034	 115	00000	     	115-0	Charles St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	N Liberty St	N Main St	2100	F							X	0.0931	F	0.5813	2200	F	2009
+537020	 115	00000	     	115-0	Clay St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Country Club	Broadview Dr	690	F							X	0.0960	F	0.6267	740	F	2009
+537007	 115	00000	     	115-0	Clinton St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Jefferson St	N Main St	290	F							X	0.1093	F	0.5278	300	F	2009
+537027	 115	00000	     	115-0	Crawford St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Orchard Lane	Port Republic Rd	690	F							X				730	F	2009
+537303	 115	00000	     	115-0	Crawford St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Monument Ave	Orchard Lane	500	F							X				520	F	2009
+537025	 115	00000	     	115-0	Dale Cir	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Hillandale Ave	Hillandale Ave	60	F							X				70	F	2009
+537032	 115	00000	     	115-0	E Gay St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	N. Mason St	N. Main St	4300	F							X	0.0926	F	0.5899	4500	F	2009
+537302	 115	00000	     	115-0	Elmwood Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Maryland Ave	New York Ave	200	F							X				210	F	2009
+537005	 115	00000	     	115-0	Green St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	N. Dogwood Dr	Willlow St	150	F							X	0.1403	F	0.5319	160	F	2009
+537003	 115	00000	     	115-0	Hartman Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.00	W. Gay St	Second St	170	F							X				180	F	2009
+537024	 115	00000	     	115-0	Hillandale Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.00	S. Dogwood Dr	S. High St.	530	F							X				560	F	2009
+537304	 115	00000	     	115-0	Hillcrest Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Fairview Ave	Maplehurst Ave	160	F							X				170	F	2009
+537029	 115	00000	     	115-0	Hillside Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Dead End	Monument Ave	470	F							X				490	F	2009
+537009	 115	00000	     	115-0	Holly Hill Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Moore St	N Main St	140	F							X				140	F	2009
+537028	 115	00000	     	115-0	Monument Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Valley St	Bluestone St	720	F							X	0.1372	F	0.5142	760	F	2009
+537008	 115	00000	     	115-0	Moore St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Dead End	Holly Hill Dr	100	F							X				110	F	2009
+537012	 115	00000	     	115-0	Newman Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.00	N. Main St	Federal St	870	F							X	0.1028	F	0.6373	930	F	2009
+537021	 115	00000	     	115-0	S. Dogwood Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.00	South Ave	Ridge Rd	1300	F							X				1400	F	2009
+537022	 115	00000	     	115-0	South Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.00	S. Dogwood Dr	Sharps Dr	970	F							X				1000	F	2009
+537017	 115	00000	     	115-0	Spottswood Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.00	N. Blue Ridge Rd	N. Carlton St	80	F							X				80	F	2009
+537016	 115	00000	     	115-0	Star Crest Dr	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Blue Ridge Rd	Alleghany Ave	380	F							X				410	F	2009
+537004	 115	00000	     	115-0	Statton Rd	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Wolfe St	W Gay St	60	F							X				60	F	2009
+537010	 115	00000	     	115-0	Sutter St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Jefferson St	Dead End	310	F							X	0.1149	F	0.5625	330	F	2009
+537026	 115	00000	     	115-0	Valley St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Fry Ave	Monument Ave .	130	F							X				140	F	2009
+537015	 115	00000	     	115-0	W. View St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	S. Mason St	Ott St	190	F							X				200	F	2009
+537011	 115	00000	     	115-0	W. Water St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Brook Ave	Academy St	350	F							X				370	F	2009
+537014	 115	00000	     	115-0	Walnut St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Grace St	Dead End	600	F							X				640	F	2009
+537001	 115	00000	     	115-0	Willow St	115	City of Harrisonburg	115	City of Harrisonburg	0.00	W Gay St	Second St	830	F							X				880	F	2009
+537006	 115	00000	     	115-0	Wilson  Ave	115	City of Harrisonburg	115	City of Harrisonburg	0.00	Dead End	N Main St	70	F							X				70	F	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

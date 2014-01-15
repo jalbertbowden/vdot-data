@@ -1,0 +1,33 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Scottsville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+170036	  SR	00006	     		Valley Rd	298	Town of Scottsville	002	Albemarle County	0.30	WCL Scottsville	SR 20 E; Main St	6400	N	93%	2%	2%	2%	2%	0%	N	0.0933	N	0.6766	6800	N	2009
+170027	  SR	00006	     	VA 6	Main St	298	Town of Scottsville	002	Albemarle County	0.28	SR 20 E, Valley St	Fluvanna County Line	3000	F	97%	0%	1%	1%	1%	0%	F	0.0924	F	0.5617	3100	F	2009
+170028	  SR	00006	     	VA 6	Canal St	298	Town of Scottsville	032	Fluvanna County	0.24	Albemarle County Line	32-675 Canal St	2800	G	97%	0%	1%	1%	1%	0%	C	0.1032	F	0.5784	3000	G	2009
+170039	  SR	00006	     	VA 6	West River Rd	298	Town of Scottsville	032	Fluvanna County	0.08	32-675 Canal St	ECL Scottsville	2800	N	97%	0%	1%	1%	1%	0%	N	0.1032	N	0.5784	3000	N	2009
+070245	  SR	00020	     	VA 20	Valley St	298	Town of Scottsville	002	Albemarle County	0.17	SCL Scottsville	SR 6 S, Main St	4300	N	94%	1%	1%	1%	3%	0%	N	0.0940	N	0.8382	4400	N	2009
+170036	  SR	00020	     		Valley Rd	298	Town of Scottsville	002	Albemarle County	0.30	SR 6 S, Main St	CL Scottsville	6400	N	93%	2%	2%	2%	2%	0%	N	0.0933	N	0.6766	6800	N	2009	
+402133	  02	00795	     	02-795	Hardware St	298	Town of Scottsville	002	Albemarle County	0.20	SR 6, SR 20 Valley St	NCL Scottsville	620	G	98%	1%	0%	0%	0%	0%	F				640	G	2009
+785047	  02	01301	     	02-1301	Bird St	298	Town of Scottsville	002	Albemarle County	0.10	WCL Scottsville	SR 6 Valley Rd	990	R							X						10/30/2000
+785048	  02	01302	     	02-1302	Warren St	298	Town of Scottsville	002	Albemarle County	0.19	WCL Scottsville	SR 6, SR 20 Valley St	380	R							X						05/30/2000
+701794	  02	01303	     	02-1303	Page St	298	Town of Scottsville	002	Albemarle County	0.05	Dead End	02-1311 West Main St	180	R							X						04/13/2006
+701795	  02	01303	     	02-1303	Page St	298	Town of Scottsville	002	Albemarle County	0.05	02-1311 West Main St	02-1301 Bird St	320	R							X						04/13/2006
+701796	  02	01303	     	02-1303	Page St	298	Town of Scottsville	002	Albemarle County	0.10	02-1301 Bird St	Dead End	100	R							X						04/13/2006
+701797	  02	01304	     	02-1304	Harrison St	298	Town of Scottsville	002	Albemarle County	0.16	Dead End	02-1301 Bird St	210	R							X						04/13/2006
+701798	  02	01304	     	02-1304	Harrison St	298	Town of Scottsville	002	Albemarle County	0.17	02-1301 Bird St	02-1302 Warren St	430	R							X						04/13/2006
+701799	  02	01305	     	02-1305	Fleet St	298	Town of Scottsville	002	Albemarle County	0.05	02-1304 Harrison St	SR 20 Valley St	80	R							X						04/13/2006
+701800	  02	01307	     	02-1307	Lumber St	298	Town of Scottsville	002	Albemarle County	0.06	Dead End	02-1308 South St	10	R							X						04/13/2006
+701801	  02	01308	     	02-1308	South St	298	Town of Scottsville	002	Albemarle County	0.05	02-1307 Lumber St	SR 6 Main St	70	R							X						04/13/2006
+701802	  02	01309	     	02-1309	Jackson St	298	Town of Scottsville	002	Albemarle County	0.20	SR 6, SR 20 Valley Rd	02-1310 Ferry St	160	R							X						04/13/2006
+701803	  02	01310	     	02-1310	Ferry St	298	Town of Scottsville	002	Albemarle County	0.07	SCL Scottsville	SR 6 Main St	450	R							X						04/13/2006
+701804	  02	01310	     	02-1310	Ferry St	298	Town of Scottsville	002	Albemarle County	0.03	SR 6 Main St	02-1309 Jackson St	40	R							X						04/13/2006
+701805	  02	01311	     	02-1311	West Main St	298	Town of Scottsville	002	Albemarle County	0.05	02-1303 Page St	02-1304 Harrison St	430	R							X						10/16/2006
+701806	  02	01311	     	02-1311	West Main St	298	Town of Scottsville	002	Albemarle County	0.05	02-1304 Harrison St	SR 6 Main St; Valley Rd	1100	R							X						10/16/2006
+302449	  32	00637	     	32-637	Poplar Spring Rd	298	Town of Scottsville	032	Fluvanna County	0.19	SR 6 Canal St	NCL Scottsville	750	G	98%	1%	0%	0%	0%	0%	F	0.1026	F	0.5329	800	G	2009
+738041	  32	00675	     	32-675	Canal St	298	Town of Scottsville	032	Fluvanna County	0.05	SR 6 W, Main St	Dead End, Gap	80	R							X						06/26/2008
+738131	  32	01301	     	32-1301	Bird St	298	Town of Scottsville	032	Fluvanna County	0.01	Dead End	SR 6 Canal St	30	R							X						07/25/2005
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

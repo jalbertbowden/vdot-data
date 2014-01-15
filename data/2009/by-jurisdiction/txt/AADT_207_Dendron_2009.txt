@@ -1,0 +1,25 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Dendron																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050036	  SR	00031	     	VA 31	Rolfe Hwy	207	Town of Dendron	090	Surry County	0.70	WCL Dendron	90-643 James St	1700	N	96%	1%	1%	1%	1%	0%	N	0.1066	N	0.5776	1800	N	2009
+050360	  SR	00031	     	VA 31	Rolfe Hwy	207	Town of Dendron	090	Surry County	0.89	90-643 James St	NCL Dendron	1500	F	96%	1%	1%	1%	1%	0%	F	0.0948	F	0.5764	1500	F	2009
+775204	  90	00643	     	90-643	James St	207	Town of Dendron	090	Surry County	0.18	SR 31 Rolfe Hwy	NCL Dendron	120	R							X						02/28/2006
+775253	  90	01101	     	90-1101	First Church St	207	Town of Dendron	090	Surry County	0.20	SR 31 Rolfe Hwy	90-1107 Liberty St	40	R							X						02/22/2006
+775254	  90	01102	     	90-1102	Faison St	207	Town of Dendron	090	Surry County	0.20	SR 31 Rolfe Hwy	90-1107 Liberty St	20	R							X						02/22/2006
+775255	  90	01103	     	90-1103	Devany St	207	Town of Dendron	090	Surry County	0.10	90-1106 Railroad Ave	SR 31 Rolfe Hwy	30	R							X						02/28/2006
+775256	  90	01104	     	90-1104	Park Ave	207	Town of Dendron	090	Surry County	0.15	Dead End	90-1106 Railroad Ave	50	R							X						02/22/2006
+775257	  90	01104	     	90-1104	Park Ave	207	Town of Dendron	090	Surry County	0.15	90-1106 Railroad Ave	SR 31 Rolfe Hwy	90	R							X						02/22/2006
+775258	  90	01105	     	90-1105	Smith St	207	Town of Dendron	090	Surry County	0.20	90-1106 Railroad Ave	SR 31; 90-9401	190	R							X						02/22/2006
+775259	  90	01106	     	90-1106	Railroad Ave	207	Town of Dendron	090	Surry County	0.35	WCL Dendron	90-1105 Smith St	80	R							X						02/28/2006
+775260	  90	01106	     	90-1106	Railroad Ave	207	Town of Dendron	090	Surry County	0.50	90-1105 Smith St	90-1104 Park Ave	110	R							X						02/28/2006
+775261	  90	01106	     	90-1106	Railroad Ave	207	Town of Dendron	090	Surry County	0.17	90-1104 Park Ave	90-1103 Devany St	30	R							X						02/28/2006
+775262	  90	01107	     	90-1107	Liberty St	207	Town of Dendron	090	Surry County	0.25	SR 31 Rolfe Hwy	90-1101 First Church St	70	R							X						02/28/2006
+775263	  90	01107	     	90-1107	Liberty St	207	Town of Dendron	090	Surry County	0.15	90-1101 First Church St	90-1102 Faison St	47	R							X						02/28/2006
+775264	  90	01107	     	90-1107	Liberty St	207	Town of Dendron	090	Surry County	0.50	90-1102 Faison St	90-630 Spatley Rd	40	R							X						02/28/2006
+775265	  90	01108	     	90-1108	Bradley St	207	Town of Dendron	090	Surry County	0.03	SR 31 Rolfe Hwy	Dead End	80	R							X						02/28/2006
+775291	  90	09401	     	90-9401	 	207	Town of Dendron	090	Surry County	0.15	SR 31 Rolfe Hwy	L P Jackson School	130	R							X						02/24/2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,202 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Danville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+623106	  US	00029	     		Danville Expwy	108	City of Danville	071	Pittsylvania County	1.12	US 58	Elizabeth St	15000	F	83%	1%	1%	1%	13%	1%	F	0.0756	F	0.5131	15000	F	2009
+623104	  US	00029	     		Danville Expwy	108	City of Danville	071	Pittsylvania County	2.63	Elizabeth St	SR 86, S Main St	14000	B	83%	1%	1%	1%	13%	1%	C	0.1000	A	0.5535	14000	B	2009
+623105	  US	00029	     		Danville Expwy	108	City of Danville	071	Pittsylvania County	1.85	SR 86, S Main St	Goodyear Blvd	16000	F	83%	1%	1%	1%	13%	1%	F	0.0734	F	0.5058	16000	F	2009
+030436	  US	00029	     		Danville Expwy	108	City of Danville	071	Pittsylvania County	1.36	Goodyear Blvd	US 58, US 360 South Boston Rd	18000	F	83%	1%	1%	1%	13%	1%	F	0.0778	F	0.5477	18000	F	2009
+623555	  US	00029	     	US 29	Danville Expwy	108	City of Danville	071	Pittsylvania County	2.00	US 58, US 360 South Boston Rd	NCL Danville	10000	F	83%	1%	1%	1%	13%	1%	F	0.0782	F	0.6045	10000	F	2009
+623017	C1US	00029	     	Bus US 29	West Main St	108	City of Danville	108	City of Danville	0.87	SCL Danville	Withers Rd	11000	F	98%	0%	1%	0%	1%	0%	F	0.0793	F	0.5103	12000	F	2009
+623016	C1US	00029	     	Bus US 29	West Main St	108	City of Danville	108	City of Danville	0.91	Withers Rd	Old Greensboro Rd	12000	F	98%	0%	1%	0%	1%	0%	F	0.0825	F	0.5373	13000	F	2009
+623015	C1US	00029	     	Bus US 29	West Main St	108	City of Danville	108	City of Danville	0.65	Old Greensboro Rd	Memorial Dr	15000	F	98%	0%	1%	0%	1%	0%	C	0.0825	F	0.5338	17000	F	2009
+623024	C1US	00029	     	Bus US 29	Memorial Dr	108	City of Danville	108	City of Danville	0.73	SR 293 W Main St	Bishop St	12000	F	98%	0%	1%	0%	1%	0%	F	0.0854	F	0.5342	13000	F	2009
+623023	C1US	00029	     	Bus US 29	Memorial Dr	108	City of Danville	108	City of Danville	0.17	Bishop St	Robertson Bridge	18000	F	98%	0%	1%	0%	1%	0%	C	0.0845	F	0.6097	20000	F	2009
+623067	C1US	00029	     	Bus US 29	Memorial Dr	108	City of Danville	108	City of Danville	0.14	Robertson Bridge	Park Ave	14000	F	98%	0%	1%	0%	1%	0%	F	0.0928	F	0.6407	15000	F	2009
+623228	C1US	00029	     	Bus US 29	Memorial Dr	108	City of Danville	108	City of Danville	0.71	Park Ave	Primrose Pl	9900	F	98%	0%	1%	0%	1%	0%	F	0.0907	F	0.5560	11000	F	2009
+623068	C1US	00029	     	Bus US 29	Memorial Dr	108	City of Danville	108	City of Danville	0.85	Primrose Pl	SR 86 Central Blvd	10000	F	98%	0%	1%	0%	1%	0%	F	0.0889	F	0.6550	11000	F	2009
+623040	C1US	00029	     	Bus US 29	Central Blvd	108	City of Danville	108	City of Danville	0.30	Memorial Dr	Bus US 58 Riverside Dr	30000	F	98%	0%	1%	0%	1%	0%	F	0.0896	F	0.5133	33000	F	2009
+623044	C1US	00029	     	Bus US 29	Central Blvd	108	City of Danville	108	City of Danville	0.38	Bus US 58 Riverside Dr	Piedmont Dr	23000	F	98%	0%	1%	0%	1%	0%	F	0.0873	F	0.5632	25000	F	2009
+623041	C1US	00029	     	Bus US 29	Central Blvd	108	City of Danville	108	City of Danville	0.59	Piedmont Dr	Piney Forest Rd	30000	F	98%	0%	1%	0%	1%	0%	F	0.0879	F	0.5204	33000	F	2009
+623094	C1US	00029	     	Bus US 29	Piney Forest Rd	108	City of Danville	108	City of Danville	0.52	Central Blvd	Audubon Dr	30000	F	98%	0%	1%	0%	1%	0%	F	0.0905	F	0.5367	33000	F	2009
+623020	C1US	00029	     	Bus US 29	Piney Forest Rd	108	City of Danville	108	City of Danville	0.60	Audubon Dr	Wendell Scott Dr	28000	F	98%	0%	1%	0%	1%	0%	F	0.0872	F	0.6142	30000	F	2009
+623093	C1US	00029	     	Bus US 29	Piney Forest Rd	108	City of Danville	108	City of Danville	0.38	Wendell Scott Dr	Arnette Blvd	28000	F	98%	0%	1%	0%	1%	0%	C	0.0825	F	0.5723	30000	F	2009
+623019	C1US	00029	     	Bus US 29	Piney Forest Rd	108	City of Danville	108	City of Danville	0.91	Arnette Blvd	SR 41 Franklin Tpke	26000	F	98%	0%	1%	0%	1%	0%	F	0.0829	F	0.5790	28000	F	2009
+623018	C1US	00029	     	Bus US 29	Piney Forest Rd	108	City of Danville	108	City of Danville	0.44	SR 41 Franklin Tpke	North Main Street	13000	F	98%	0%	1%	0%	1%	0%	F	0.0920	F	0.5500	14000	F	2009
+623001	C1US	00029	     	Bus US 29	North Main St	108	City of Danville	108	City of Danville	0.13	Piney Forest Rd	NCL Danville	17000	F	98%	0%	1%	0%	1%	0%	C	0.0859	F	0.5032	18000	F	2009
+623025	  SR	00041	     	VA 41	Franklin Tpke	108	City of Danville	108	City of Danville	0.70	Bus US 29; Piney Forest Rd	NCL Danville	16000	F	98%	0%	0%	1%	0%	0%	C	0.0948	F	0.6237	17000	F	2009
+623202	  SR	00051	     	VA 51	Westover Dr	108	City of Danville	108	City of Danville	3.03	WCL Danville	Lamberth Dr	2900	F	99%	0%	1%	0%	0%	0%	F	0.0908	F	0.6007	3100	F	2009
+623201	  SR	00051	     	VA 51	Westover Dr	108	City of Danville	108	City of Danville	1.33	Lamberth Dr	Blair Loop Rd	6800	F	99%	0%	1%	0%	0%	0%	C	0.0849	F	0.5876	7100	F	2009
+623028	  SR	00051	     	VA 51	Westover  Dr	108	City of Danville	108	City of Danville	0.70	Blair Loop Rd	Park Ave	9100	F	99%	0%	1%	0%	0%	0%	F	0.0860	F	0.5504	9600	F	2009
+623027	  SR	00051	     	VA 51	Westover Dr	108	City of Danville	108	City of Danville	0.98	Park Ave	E US 58; Riverside Dr	7100	F	99%	0%	1%	0%	0%	0%	C	0.0889	F	0.5176	7500	F	2009
+030241	  US	00058	     	US 58	 	108	City of Danville	071	Pittsylvania County	0.44	WCL Danville	US 29 Danville Expressway	6400	F	93%	1%	1%	0%	5%	0%	F	0.0786	F	0.5713	6500	F	2009
+623106	  US	00058	     		Danville Expwy	108	City of Danville	071	Pittsylvania County	1.12	US 29 Danville Expressway	Elizabeth St	15000	F	83%	1%	1%	1%	13%	1%	F	0.0756	F	0.5131	15000	F	2009	
+623104	  US	00058	     		Danville Expwy	108	City of Danville	071	Pittsylvania County	2.63	Elizabeth St	SR 86, S Main St	14000	B	83%	1%	1%	1%	13%	1%	C	0.1000	A	0.5535	14000	B	2009	
+623105	  US	00058	     		Danville Expwy	108	City of Danville	071	Pittsylvania County	1.85	SR 86, S Main St	Goodyear Blvd	16000	F	83%	1%	1%	1%	13%	1%	F	0.0734	F	0.5058	16000	F	2009	
+030436	  US	00058	     		Danville Expwy	108	City of Danville	071	Pittsylvania County	1.36	Goodyear Blvd	US 29	18000	F	83%	1%	1%	1%	13%	1%	F	0.0778	F	0.5477	18000	F	2009	
+623204	  US	00058	     		South Boston Rd	108	City of Danville	108	City of Danville	0.90	US 29 Danville Expressway; Bus US 58	Kentuck Rd	26000	F	85%	1%	1%	1%	12%	1%	F	0.0773	F	0.5179	26000	F	2009
+623203	  US	00058	     		South Boston Rd	108	City of Danville	108	City of Danville	1.98	Kentuck Rd	ECL Danville	20000	F	85%	1%	1%	1%	12%	1%	F	0.0772	F	0.5012	20000	F	2009
+623206	CFUS	00058	     	Bus US 58	Riverside Dr	108	City of Danville	108	City of Danville	4.97	WCL Danville	Bus US 29 Park Ave	13000	F	93%	1%	1%	0%	5%	0%	F	0.1012	F	0.6972	13000	F	2009
+623035	CFUS	00058	     	Bus US 58	Riverside Dr	108	City of Danville	108	City of Danville	0.93	Bus US 29 Park Ave	SR 51 Westover Dr	14000	F	93%	1%	1%	0%	5%	0%	F	0.0803	F	0.5293	14000	F	2009
+623034	CFUS	00058	     	Bus US 58	Riverside Dr	108	City of Danville	108	City of Danville	0.51	SR 51 Westover Dr	Central Blvd	22000	F	93%	1%	1%	0%	5%	0%	F	0.0810	F	0.5088	22000	F	2009
+623033	CFUS	00058	     	Bus US 58	Riverside Dr	108	City of Danville	108	City of Danville	0.24	Central Blvd	Piney Forest Rd	27000	F	93%	1%	1%	0%	5%	0%	F	0.0829	F	0.5220	27000	F	2009
+623031	CFUS	00058	     	Bus US 58	Riverside Dr	108	City of Danville	108	City of Danville	0.92	Piney Forest Rd	Arnette Blvd	22000	F	93%	1%	1%	0%	5%	0%	F	0.0892	F	0.5180	22000	F	2009
+623030	CFUS	00058	     	Bus US 58	Riverside Dr	108	City of Danville	108	City of Danville	0.82	Arnette Blvd	N Main St	15000	F	93%	1%	1%	0%	5%	0%	F	0.0837	F	0.5182	15000	F	2009
+623029	CFUS	00058	     		River St	108	City of Danville	108	City of Danville	0.64	N Main St	Old Halifax Rd	20000	F	93%	1%	1%	0%	5%	0%	F	0.0794	F	0.5787	20000	F	2009
+623205	CFUS	00058	     		South Boston Rd	108	City of Danville	108	City of Danville	1.24	Old Halifax Rd	US 29 Danville Expressway	18000	F	93%	1%	1%	0%	5%	0%	F	0.0808	F	0.5411	18000	F	2009
+623102	  SR	00086	     	VA 86	South Main St	108	City of Danville	108	City of Danville	1.11	SCL Danville	Lockett Dr	11000	F	98%	0%	0%	0%	1%	0%	C	0.0908	F	0.5669	12000	F	2009
+623043	  SR	00086	     	VA 86	South Main St	108	City of Danville	108	City of Danville	0.61	Lockett Dr	Broadnax St	12000	F	98%	0%	0%	0%	1%	0%	F	0.0860	F	0.5324	13000	F	2009
+623095	  SR	00086	     	VA 86	South Main St	108	City of Danville	108	City of Danville	0.63	Broadnax St	Central Blvd	18000	F	98%	0%	1%	0%	0%	0%	C	0.0857	F	0.5698	20000	F	2009
+623100	  SR	00086	     	VA 86	Central Blvd	108	City of Danville	108	City of Danville	0.38	South Main St	West Main St	17000	F	99%	0%	0%	0%	0%	0%	C	0.0826	F	0.5479	18000	F	2009
+623042	  SR	00086	     	VA 86	Central Blvd	108	City of Danville	108	City of Danville	0.60	West Main St	Memorial Dr	22000	F	99%	0%	0%	0%	0%	0%	C	0.0833	F	0.5764	24000	F	2009
+623014	  SR	00293	     	VA 293	West Main St	108	City of Danville	108	City of Danville	0.54	Bus US 29; Memorial Dr	Bishop Rd	5600	F	98%	0%	1%	0%	0%	0%	F	0.0821	F	0.5407	6100	F	2009
+623013	  SR	00293	     	VA 293	West Main St	108	City of Danville	108	City of Danville	0.49	Bishop Rd	Park Ave	5000	F	98%	0%	1%	0%	0%	0%	F	0.0903	F	0.5039	5500	F	2009
+623012	  SR	00293	     	VA 293	West Main St	108	City of Danville	108	City of Danville	0.96	Park Ave	Randolph St	7800	F	98%	0%	1%	0%	0%	0%	F	0.0881	F	0.5460	8600	F	2009
+623097	  SR	00293	     	VA 293	West Main St	108	City of Danville	108	City of Danville	0.37	Canterbury St	SR 80; Central Blvd	8500	F	98%	0%	1%	0%	0%	0%	F	0.0892	F	0.5227	9300	F	2009
+623011	  SR	00293	     	VA 293	West Main St	108	City of Danville	108	City of Danville	0.16	SR 80; Central Blvd	South Main St	9400	F	98%	0%	1%	0%	0%	0%	F	0.0875	F	0.5612	10000	F	2009
+623010	  SR	00293	     	VA 293	Main St	108	City of Danville	108	City of Danville	0.04	South Main St	Holbrook Ave	11000	F	98%	0%	1%	0%	0%	0%	C	0.0881	F	0.5565	12000	F	2009
+623009	  SR	00293	     	VA 293	Main St	108	City of Danville	108	City of Danville	0.27	Holbrook Ave	Jefferson Ave	8000	F	98%	0%	1%	0%	0%	0%	F	0.0882	F	0.5045	8700	F	2009
+623508	  SR	00293	     	VA 293	Main St	108	City of Danville	108	City of Danville	0.28	Jefferson Ave	Patton St	7800	F	98%	0%	1%	0%	0%	0%	F	0.0873	F	0.5265	8500	F	2009
+623008	  SR	00293	     	VA 293	Patton St	108	City of Danville	108	City of Danville	0.32	South Ridge St	Bridge St; SR 293 P Main St	6000	F	98%	0%	1%	0%	0%	0%	F	0.0862	F	0.6034	6500	F	2009		8300	F	97%	1%	2%	0%	0%	0%	F	0.0921	F	0.6570	9100	F
+623007	  SR	00293	     	VA 293	Main St Bridge	108	City of Danville	108	City of Danville	0.22	Bridge St	US 58, US 360 Riverside Dr	13000	F	98%	0%	1%	0%	0%	0%	F	0.0864	F	0.5997	14000	F	2009
+623006	  SR	00293	     		North Main St	108	City of Danville	108	City of Danville	0.37	US 58, US 360 Riverside Dr	Worsham St	11000	F	98%	0%	1%	0%	0%	0%	F	0.0836	F	0.5501	12000	F	2009
+623005	  SR	00293	     		North Main St	108	City of Danville	108	City of Danville	0.33	Worsham St	SR 360 Richmond Blvd	13000	F	98%	0%	1%	0%	0%	0%	F	0.0818	F	0.5474	15000	F	2009
+623004	  SR	00293	     	VA 293	North Main St	108	City of Danville	108	City of Danville	0.81	SR 360 Richmond Blvd	Third Ave	12000	F	98%	0%	1%	0%	0%	0%	F	0.0929	F	0.5176	12000	F	2009
+623003	  SR	00293	     	VA 293	North Main St	108	City of Danville	108	City of Danville	0.98	Third Ave	Franklin Tpke	12000	F	98%	0%	1%	0%	0%	0%	C	0.0879	F	0.5409	13000	F	2009
+623002	  SR	00293	     	VA 293	North Main St	108	City of Danville	108	City of Danville	0.91	Franklin Tpke	Bus US 29, Piney Forest Rd	5500	F	98%	0%	2%	0%	0%	0%	C	0.0934	F	0.5202	5800	F	2009
+130031	 1SR	00293	P    	VA 293 Par	Main St	108	City of Danville	108	City of Danville	0.38	SR 293 Ridge St	SR 293 Patton St; Bridge St	2400	F	96%	1%	3%	0%	0%	0%	C	0.1190	F	1.0000	2600	F	2009		8300	F	97%	1%	2%	0%	0%	0%	F	0.0921	F	0.6570	9100	F
+623029	  US	00360	     		River St	108	City of Danville	108	City of Danville	0.64	N Main St	Old Halifax Rd	20000	F	93%	1%	1%	0%	5%	0%	F	0.0794	F	0.5787	20000	F	2009	
+623205	  US	00360	     		South Boston Rd	108	City of Danville	108	City of Danville	1.24	Old Halifax Rd	US 29 Danville Expressway	18000	F	93%	1%	1%	0%	5%	0%	F	0.0808	F	0.5411	18000	F	2009	
+623204	  US	00360	     		South Boston Rd	108	City of Danville	108	City of Danville	0.90	US 29 Danville Expressway	Kentuck Rd	26000	F	85%	1%	1%	1%	12%	1%	F	0.0773	F	0.5179	26000	F	2009	
+623203	  US	00360	     		South Boston Rd	108	City of Danville	108	City of Danville	1.98	Kentuck Rd	ECL Danville	20000	F	85%	1%	1%	1%	12%	1%	F	0.0772	F	0.5012	20000	F	2009	
+623006	  SR	00360	     		North Main St	108	City of Danville	108	City of Danville	0.37	Riverside Dr	Worsham St	11000	F	98%	0%	1%	0%	0%	0%	F	0.0836	F	0.5501	12000	F	2009	
+623005	  SR	00360	     		North Main St	108	City of Danville	108	City of Danville	0.33	Worsham St	North Main St	13000	F	98%	0%	1%	0%	0%	0%	F	0.0818	F	0.5474	15000	F	2009	
+623208	  SR	00360	     	VA 360	Richmond Blvd	108	City of Danville	108	City of Danville	1.36	SR 293 North Main St	ECL Danville	4700	F	99%	0%	0%	0%	0%	0%	C	0.0850	F	0.5727	5100	F	2009
+781485	  SR	00413	     	VA 413	Memorial Dr	108	City of Danville	108	City of Danville	0.10	Bus US 29 Central Blvd	Cahill Court; Goode St	12000	F	98%	1%	1%	0%	0%	0%	F	0.0996	F	0.5231	12000	F	2009
+623085	  SR	00413	     	VA 413	Memorial Dr	108	City of Danville	108	City of Danville	0.64	Cahill Court; Goode St	Poplar St	12000	F	98%	1%	1%	0%	0%	0%	C	0.0919	F	0.5887	13000	F	2009
+623083	  SR	00413	     	VA 413	Memorial Dr	108	City of Danville	108	City of Danville	0.26	Poplar St	High St	9000	F	98%	1%	1%	0%	0%	0%	F	0.0947	F	0.5323	9700	F	2009
+623503	  SR	00413	     	VA 413	Craghead St	108	City of Danville	108	City of Danville	0.23	High St	SR 293 P; N Main St	7500	F	98%	1%	1%	0%	0%	0%	F	0.0943	F	0.6523	8100	F	2009
+623504	  SR	00413	     	VA 413	Craghead St	108	City of Danville	108	City of Danville	0.06	SR 293 P; Main St	SR 293 Patton St	0	?							X
+623062	 108	00001	     	108-1	Jefferson St	108	City of Danville	108	City of Danville	0.09	Wilson St; Green St	Loyal St	1600	N	98%	1%	1%	0%	0%	0%	N	0.1101	N	0.5198	1800	N	2009
+623060	 108	00001	     	108-1	Jefferson Ave	108	City of Danville	108	City of Danville	0.14	Loyal St	Patton St	1600	F	98%	1%	1%	0%	0%	0%	C	0.1101	F	0.5198	1800	F	2009
+623069	 108	00001	     	108-1	Jefferson Ave	108	City of Danville	108	City of Danville	0.08	Patton St	SR 293 Main St	0	?							X
+623527	 108	00002	     	108-2	Bonner Ave	108	City of Danville	108	City of Danville	0.50	Taylor Dr	108-2 Chatham Ave	1900	F	98%	1%	1%	0%	0%	0%	F	0.1084	F	0.5111	1900	F	2009
+783013	 108	00002	     	108-2	Lanier Ave	108	City of Danville	108	City of Danville	0.08	108-3 Chatham Ave	108-3708 Kemper Rd	1100	F	98%	1%	1%	0%	0%	0%	F	0.0932	F	0.5957	1200	F	2009
+623547	 108	00004	     	108-4	Foster St	108	City of Danville	108	City of Danville	0.24	Betts St	Industrial Ave	910	F	98%	1%	1%	0%	0%	0%	F	0.1842	F	0.5824	990	F	2009
+623513	 108	00009	     	108-9	Ringgold Rd	108	City of Danville	108	City of Danville	0.07	US 58 South Boston Rd	NCL Danville; Clark St; 71-734	2200	F	98%	1%	1%	0%	0%	0%	F	0.0894	F	0.5930	2300	F	2009
+783014	 108	00011	     	108-11	North Ridge St	108	City of Danville	108	City of Danville	0.52	SR 293 Main St; Gap	SR 413 Memorial Dr	3000	F	98%	0%	1%	1%	0%	0%	C	0.1131	F	0.8324	3300	F	2009
+623502	 108	03700	     	108-3700	Old Mayfield Rd	108	City of Danville	108	City of Danville	0.31	Maxine Rd	Bus US 29, West Main St	1900	F	98%	1%	1%	0%	0%	0%	F	0.1022	F	0.5878	2000	F	2009
+623073	 108	03702	     	108-3702	Ferry Rd	108	City of Danville	108	City of Danville	0.12	WCL Danville	Applewood Dr	3400	N	98%	1%	1%	0%	0%	0%	N	0.0892	N	0.5312	3700	N	2009
+623056	 108	03702	     	108-3702	Ferry Rd	108	City of Danville	108	City of Danville	0.54	Applewood Dr	Old Greensboro Rd	3400	F	98%	1%	1%	0%	0%	0%	F	0.0892	F	0.5312	3700	F	2009
+623501	 108	03702	     	108-3702	Old Greensboro Rd	108	City of Danville	108	City of Danville	0.16	Ferry Rd	C1US 29 Main St	3400	F	98%	1%	1%	0%	0%	0%	F	0.0813	F	0.5363	3800	F	2009
+623055	 108	03703	     	108-3703	Elizabeth St	108	City of Danville	108	City of Danville	1.55	US 58	Edgewood Dr	910	F	98%	1%	1%	0%	0%	0%	C	0.1088	F	0.5377	970	F	2009
+623514	 108	03703	     	108-3703	Edgewood Dr	108	City of Danville	108	City of Danville	0.19	Elizabeth St	US 29 Bus; West Main St	1900	F	98%	1%	1%	0%	0%	0%	F	0.0879	F	0.5747	2000	F	2009
+623213	 108	03705	     	108-3705	Holland Rd	108	City of Danville	108	City of Danville	1.93	SCL Danville	Schoolfield Dr	740	F	99%	1%	0%	0%	0%	0%	C	0.0972	F	0.5063	800	F	2009
+623080	 108	03705	     	108-3705	Schoolfield Dr	108	City of Danville	108	City of Danville	0.29	Holland Rd	Lanier Dr	1300	F	99%	0%	1%	0%	0%	0%	C	0.1023	F	0.5235	1400	F	2009
+623500	 108	03707	     	108-3707	Arlington Ave	108	City of Danville	108	City of Danville	0.81	Greenwood Ave	Lanier St	520	F	99%	0%	1%	0%	0%	0%	F	0.1027	F	0.5000	570	F	2009
+623051	 108	03708	     	108-3708	Bishop Rd	108	City of Danville	108	City of Danville	0.55	US 29 Bus; Memorial Dr	SR 293; West Main St	3400	F	99%	1%	0%	0%	0%	0%	C	0.0849	F	0.5581	3600	F	2009
+623049	 108	03708	     	108-3708	Augusta Ave	108	City of Danville	108	City of Danville	0.06	West Main St	Lanier Ave	3000	F	99%	0%	0%	0%	0%	0%	F	0.1059	F	0.5582	3300	F	2009
+623065	 108	03708	     	108-3708	Lanier St	108	City of Danville	108	City of Danville	0.74	Augusta Ave	Garland St	2400	F	99%	0%	0%	0%	0%	0%	C	0.1073	F	0.5249	2700	F	2009
+623090	 108	03708	     	108-3708	Lanier Ave	108	City of Danville	108	City of Danville	0.13	Garland St	Kemper Rd	760	F	99%	0%	0%	0%	0%	0%	C	0.0939	F	0.5570	830	F	2009
+623064	 108	03708	     	108-3708	Kemper Rd	108	City of Danville	108	City of Danville	0.69	Lanier St	SR 86; South Main St	7600	F	99%	0%	0%	0%	0%	0%	C	0.0836	F	0.5756	7900	F	2009
+623544	 108	03710	     	108-3710	Chatelaine Ave	108	City of Danville	108	City of Danville	0.44	Wooding Ave	Levelton St	1800	F	97%	1%	2%	0%	0%	0%	C	0.0865	F	0.5602	1900	F	2009
+623543	 108	03710	     	108-3710	Levelton St	108	City of Danville	108	City of Danville	0.19	Chatelaine Ave	SR 86; S Main St	1500	F	97%	1%	2%	0%	0%	0%	F	0.0875	F	0.5155	1700	F	2009
+623546	 108	03711	     	108-3711	Wooding Ave	108	City of Danville	108	City of Danville	0.41	Kemper Rd	SR 293; W Main St	4700	F	98%	1%	1%	0%	0%	0%	F	0.0938	F	0.5695	5000	F	2009
+623545	 108	03713	     	108-3713	Southampton Ave	108	City of Danville	108	City of Danville	0.42	108-3708 Kemper Rd	108-3714 Watson St	1600	F	98%	1%	1%	0%	0%	0%	F	0.0878	F	0.5382	1700	F	2009
+781623	 108	03714	     	108-3714	Avondale Dr	108	City of Danville	108	City of Danville	0.41	Howeland Circle	Virginia Avenue	2200	F	98%	1%	1%	0%	0%	0%	F	0.0918	F	0.5206	2400	F	2009
+623086	 108	03714	     	108-3714	Watson St	108	City of Danville	108	City of Danville	0.23	Virginia Ave	SR 86; South Main St	3200	F	98%	1%	1%	0%	0%	0%	C	0.0924	F	0.5487	3300	F	2009
+623524	 108	03714	     	108-3714	Stokes St	108	City of Danville	108	City of Danville	0.50	South Main St	Holbrook Ave	1400	F	99%	0%	0%	0%	0%	0%	F	0.0892	F	0.6250	1500	F	2009
+623525	 108	03714	     	108-3714	Stokes St	108	City of Danville	108	City of Danville	0.25	Holbrook Ave	Jefferson St	1300	F	99%	0%	0%	0%	0%	0%	F	0.0826	F	0.5749	1400	F	2009
+623071	 108	03715	     	108-3715	Park Ave	108	City of Danville	108	City of Danville	0.67	SR 293; West Main St	US 29 Bus; Memorial Blvd	5100	F	99%	0%	0%	0%	0%	0%	C	0.0995	F	0.6161	5500	F	2009
+623059	 108	03716	     	108-3716	Industrial Ave	108	City of Danville	108	City of Danville	0.73	SR 86; S Main St	Jefferson Ave	4700	F	96%	1%	1%	1%	1%	0%	F	0.0922	F	0.5266	5100	F	2009
+623058	 108	03716	     	108-3716	Industrial Ave	108	City of Danville	108	City of Danville	0.70	Jefferson St	Goodyear Blvd	3800	F	96%	1%	1%	1%	1%	0%	C	0.0936	F	0.5089	4100	F	2009
+623057	 108	03716	     	108-3716	Industrial Ave	108	City of Danville	108	City of Danville	0.25	Goodyear Blvd	Fitzgerald St	4200	F	97%	1%	1%	1%	0%	0%	F	0.1037	F	0.6012	4600	F	2009
+623052	 108	03716	     	108-3716	Craghead St	108	City of Danville	108	City of Danville	0.56	Fitzgerald St	Wilson St	4200	F	97%	1%	1%	1%	0%	0%	C	0.1008	F	0.6156	4600	F	2009
+623053	 108	03716	     	108-3716	Craghead St	108	City of Danville	108	City of Danville	0.10	Wilson St	SR 413 Patton St	6000	F	97%	1%	1%	1%	0%	0%	F	0.0968	F	0.6178	6400	F	2009
+623516	 108	03717	     	108-3717	Mountain View Ave	108	City of Danville	108	City of Danville	0.58	SR 293; West Main St	Primrose Ct	2300	F	99%	0%	0%	0%	0%	0%	F	0.1128	F	0.6263	2400	F	2009
+623517	 108	03717	     	108-3717	Primrose Pl	108	City of Danville	108	City of Danville	0.07	Mountain View Ave	US 29 Bus; Memorial Dr	2200	F	99%	0%	0%	0%	0%	0%	F	0.1031	F	0.6491	2300	F	2009
+623530	 108	03718	     	108-3718	Christopher Lane	108	City of Danville	108	City of Danville	0.30	Canterbury Rd	Central Blvd	2100	F	99%	0%	0%	0%	0%	0%	F	0.1586	F	0.6096	2300	F	2009
+623038	 108	03721	     	108-3721	South Main St	108	City of Danville	108	City of Danville	0.34	Central Blvd	Stokes St	3700	F	99%	0%	0%	0%	0%	0%	F	0.0892	F	0.5902	4000	F	2009
+623037	 108	03723	     	108-3723	Broad St	108	City of Danville	108	City of Danville	0.23	SR 293 West Main St	Cleveland St	1800	F	99%	0%	0%	0%	0%	0%	F	0.1084	F	0.5944	1900	F	2009
+623526	 108	03723	     	108-3723	Cleveland St	108	City of Danville	108	City of Danville	0.06	Broad St	Roberts St	1400	F	98%	0%	1%	0%	0%	0%	F	0.1167	F	0.5282	1500	F	2009
+623099	 108	03724	     	108-3724	Mt Cross Rd	108	City of Danville	108	City of Danville	1.75	WCL Danville	Riverside Dr	9200	F	99%	0%	0%	0%	0%	0%	C	0.1035	F	0.6654	9900	F	2009
+623054	 108	03726	     	108-3726	East Thomas St	108	City of Danville	108	City of Danville	0.30	US 360 N Main St	Halifax St	1600	F	98%	1%	1%	0%	0%	0%	C	0.0914	F	0.5714	1700	F	2009
+623209	 108	03726	     	108-3726	Halifax St	108	City of Danville	108	City of Danville	2.51	East Thomas St	Robin Hood Rd	1600	F	97%	1%	1%	0%	0%	0%	F	0.1148	F	0.5373	1800	F	2009
+623224	 108	03726	     	108-3726	Halifax St	108	City of Danville	108	City of Danville	0.70	Robin Hood Rd	ECL Danville	570	F	97%	1%	1%	0%	0%	0%	C	0.1098	F	0.5890	630	F	2009
+623557	 108	03727	     	108-3727	Holbrook Ave	108	City of Danville	108	City of Danville	0.18	Industrial Ave	Stokes St	1400	F	98%	0%	1%	0%	0%	0%	F	0.0908	F	0.6014	1600	F	2009
+623522	 108	03727	     	108-3727	Holbrook Ave	108	City of Danville	108	City of Danville	0.37	Stokes St	Main St	1600	F	98%	0%	1%	0%	0%	0%	F	0.0818	F	0.5446	1800	F	2009
+623523	 108	03727	     	108-3727	Holbrook Ave	108	City of Danville	108	City of Danville	0.79	Main St	Cleveland St	1200	F	98%	0%	1%	0%	0%	0%	C	0.0922	F	0.5039	1300	F	2009
+623518	 108	03727	     	108-3727	Cleveland St	108	City of Danville	108	City of Danville	0.06	Holbrook St	SR 413 Memorial Dr	2900	F	99%	0%	0%	0%	0%	0%	F	0.1136	F	0.5030	3100	F	2009
+623511	 108	03732	     	108-3732	Bradley Rd	108	City of Danville	108	City of Danville	1.24	N Main St	Richmond Rd	1100	F	97%	1%	1%	0%	0%	0%	F	0.1012	F	0.5600	1200	F	2009
+623520	 108	03733	     	108-3733	Patton St	108	City of Danville	108	City of Danville	0.17	108-1 Jefferson Ave	108-11 S Ridge St	900	F	97%	1%	1%	0%	0%	0%	F	0.1753	F	0.8164	980	F	2009
+623061	 108	03735	     	108-3735	Jefferson St	108	City of Danville	108	City of Danville	0.58	Industrial Ave	Wilson St	1400	F	97%	1%	1%	0%	0%	0%	F	0.0985	F	0.5032	1500	F	2009
+623088	 108	03735	     	108-3735	Wilson St	108	City of Danville	108	City of Danville	0.39	Jefferson St	Craghead St	870	F	97%	1%	1%	0%	0%	0%	C	0.1223	F	0.5302	940	F	2009
+623551	 108	03735	     	108-3735	Wilson St	108	City of Danville	108	City of Danville	0.07	Craghead St	Bridge St	170	F	97%	1%	1%	0%	0%	0%	F	0.1322	F	0.6038	180	F	2009
+623092	 108	03735	     	108-3735	Worsham St	108	City of Danville	108	City of Danville	0.30	Bridge St	Taft St	8000	G							X				8800	G	2009
+623091	 108	03735	     	108-3735	Worsham St	108	City of Danville	108	City of Danville	0.34	Taft St	SR 293; N Main St	8100	G							X				8800	G	2009
+623081	 108	03736	     	108-3736	Third Ave	108	City of Danville	108	City of Danville	0.70	Wendall Scott Dr	N Main St	4000	F	98%	1%	1%	0%	0%	0%	C	0.1023	F	0.6157	4300	F	2009
+623519	 108	03737	     	108-3737	Grant St	108	City of Danville	108	City of Danville	0.69	SCL Danville; Dead End	Industrial Ave	530	F	98%	1%	1%	0%	0%	0%	F	0.1467	F	0.7716	550	F	2009
+788275	 108	03739	     	108-3739	Goodyear Blvd	108	City of Danville	108	City of Danville	3.05	SR 86 South Main St	US 29	2700	F	94%	1%	1%	2%	2%	0%	F	0.1779	F	0.8936	2800	F	2009
+781627	 108	03739	     	108-3739	Goodyear Blvd	108	City of Danville	108	City of Danville	0.97	US 29	108-3716 Industrial Blvd	4200	F	94%	1%	1%	2%	2%	0%	C	0.1054	F	0.6335	4600	F	2009
+623529	 108	03740	     	108-3740	Northmont Blvd	108	City of Danville	108	City of Danville	0.13	Melrose Ave	Gloucester Ave	2200	F	98%	1%	1%	0%	0%	0%	F	0.0890	F	0.5650	2100	F	2009
+623070	 108	03740	     	108-3740	Northmont Blvd	108	City of Danville	108	City of Danville	0.76	Gloucester Ave	SR 293; N Main St	1600	F	98%	1%	1%	0%	0%	0%	C	0.1082	F	0.5132	1700	F	2009
+623076	 108	03741	     	108-3741	Poplar St	108	City of Danville	108	City of Danville	0.15	North Ridge St	SR 413; Memorial Dr	2200	F	99%	0%	0%	0%	0%	0%	C	0.0926	F	0.5508	2400	F	2009
+623084	 108	03741	     	108-3741	Poplar St	108	City of Danville	108	City of Danville	0.46	SR 413; Memorial Dr	US 58 Riverside Dr	8800	F	99%	0%	1%	0%	0%	0%	C	0.0959	F	0.6002	9400	F	2009
+623528	 108	03742	     	108-3742	Orchard Dr	108	City of Danville	108	City of Danville	0.36	Nordan Dr	Franklin Tpke	2200	F	99%	0%	1%	0%	0%	0%	F	0.1672	F	0.6350	2300	F	2009
+623021	 108	03743	     	108-3743	Piney Forest Rd	108	City of Danville	108	City of Danville	0.67	US 58 Riverside Dr	Woodberry Dr	5100	F	98%	1%	1%	0%	0%	0%	F	0.1021	F	0.6040	5400	F	2009
+623548	 108	03743	     	108-3743	Piney Forest Rd	108	City of Danville	108	City of Danville	0.01	Woodberry Dr	Bus US 29;  Central Blvd	1900	F	98%	1%	1%	0%	0%	0%	F	0.1027	F	1.0000	2000	F	2009
+623048	 108	03745	     	108-3745	Audubon Dr	108	City of Danville	108	City of Danville	0.95	US 58 Riverside Dr	US 29 Bus; Piney Forest Rd	3000	F	98%	1%	1%	0%	0%	0%	C	0.1176	F	0.5270	3200	F	2009
+623549	 108	03746	     	108-3746	Baily Pl	108	City of Danville	108	City of Danville	0.57	SR 293;  N Main St	Seminole Dr	930	F	98%	0%	1%	0%	0%	0%	F	0.0996	F	0.5327	990	F	2009
+623046	 108	03747	     	108-3747	Arnette Blvd	108	City of Danville	108	City of Danville	0.98	US 58 Riverside Dr	Wendell Scott Dr	7400	F	98%	0%	1%	0%	0%	0%	F	0.0941	F	0.5894	7900	F	2009
+623045	 108	03747	     	108-3747	Arnette Blvd	108	City of Danville	108	City of Danville	1.07	Wendell Scott Dr	US 29 Bus;  Piney Forest Rd	3200	F	98%	0%	1%	0%	0%	0%	C	0.0836	F	0.5037	3000	F	2009
+623539	 108	03749	     	108-3749	Henry Rd	108	City of Danville	108	City of Danville	0.06	Union St	US 58 Riverside Dr	2700	F	98%	0%	1%	0%	0%	0%	F	0.1038	F	0.6867	2900	F	2009
+623066	 108	03749	     	108-3749	Locust Lane	108	City of Danville	108	City of Danville	0.53	US 58 Riverside Dr	Sherwood Dr	3900	F	99%	1%	0%	0%	0%	0%	F	0.0965	F	0.6290	4100	F	2009
+623063	 108	03749	     	108-3749	Locust Lane	108	City of Danville	108	City of Danville	0.31	Sherwood Dr	Wendell Scott Dr	2700	F	99%	1%	0%	0%	0%	0%	C	0.0921	F	0.5714	2900	F	2009
+623537	 108	03749	     	108-3749	Wendell Scott Dr	108	City of Danville	108	City of Danville	0.18	Locust Lane	Arnette Blvd	3400	F	99%	0%	0%	0%	0%	0%	F	0.0919	F	0.5411	3700	F	2009
+623538	 108	03749	     	108-3749	Wendell Scott Dr	108	City of Danville	108	City of Danville	0.66	Arnette Blvd	Bus US 29 Piney Forest Rd	4000	F	99%	0%	0%	0%	0%	0%	C	0.0952	F	0.5482	4200	F	2009
+623210	 108	03749	     	108-3749	Beaver Mill Rd	108	City of Danville	108	City of Danville	0.59	Bus US 29 Piney Forest Rd	WCL Danville	3000	F	99%	0%	0%	0%	0%	0%	F	0.0901	F	0.6205	2800	F	2009
+623540	 108	03751	     	108-3751	Sherwood Dr	108	City of Danville	108	City of Danville	0.18	Locust Lane	Arnette Blvd	1400	F	99%	0%	1%	0%	0%	0%	F	0.1124	F	0.5583	1500	F	2009
+623535	 108	03753	     	108-3753	Henry St	108	City of Danville	108	City of Danville	0.24	SR 293; N Main St	Claiborne St	1100	F	99%	0%	1%	0%	0%	0%	F	0.0989	F	0.5877	1100	F	2009
+623534	 108	03753	     	108-3753	Claiborne St	108	City of Danville	108	City of Danville	1.26	Henry St	Third Ave	2300	G	98%	1%	1%	0%	0%	0%	C				2500	G	2009
+623531	 108	03755	     	108-3755	Melrose Ave	108	City of Danville	108	City of Danville	0.36	Arnette Blvd	Ruskin St	3800	F	99%	1%	0%	0%	0%	0%	F	0.1115	F	0.6191	4100	F	2009
+623542	 108	03755	     	108-3755	Ruskin St	108	City of Danville	108	City of Danville	0.18	Melrose Ave	Parrish Rd	3700	F	99%	0%	1%	0%	0%	0%	F	0.1092	F	0.5894	4000	F	2009
+623541	 108	03755	     	108-3755	Nordan Dr	108	City of Danville	108	City of Danville	0.31	Parrish Rd	US 29 Bus; Piney Forest Rd	4000	F	99%	0%	1%	0%	0%	0%	F	0.1050	F	0.5909	4300	F	2009
+623026	 108	03759	     	108-3759	Franklin Tpke	108	City of Danville	108	City of Danville	0.92	SR 293; N Main St	US 29 Bus; Piney Forest Rd	7600	F	99%	0%	1%	0%	0%	0%	C	0.0917	F	0.6089	8200	F	2009
+623072	 108	03765	     	108-3765	Park Ave	108	City of Danville	108	City of Danville	0.38	Piedmont Dr	SR 51 Westover Dr	3200	F	99%	1%	1%	0%	0%	0%	C	0.0971	F	0.5058	3400	F	2009
+623223	 108	03769	     	108-3769	Kentuck Rd	108	City of Danville	108	City of Danville	1.39	US 58; South Boston Rd	NCL Danville	7900	F	93%	0%	1%	1%	5%	0%	C	0.0906	F	0.5330	8600	F	2009
+623512	 108	03770	     	108-3770	Mountain Hill Rd	108	City of Danville	108	City of Danville	0.84	SCL Danville	US 58 South Boston Rd	1600	F	93%	0%	1%	1%	5%	0%	F	0.0930	F	0.5347	1700	F	2009
+623509	 108	03771	     	108-3771	Old Riverside Dr	108	City of Danville	108	City of Danville	0.25	US 58; Riverside Dr	Mt Cross Rd	4300	F	99%	0%	1%	0%	0%	0%	F	0.1003	F	0.5263	4600	F	2009
+623022	 108	03772	     	108-3772	Park Ave	108	City of Danville	108	City of Danville	0.25	Bus US 29 Memorial Dr	US 58 Riverside Dr	18000	F	99%	0%	1%	0%	0%	0%	F	0.0870	F	0.5720	19000	F	2009
+623216	 108	03772	     	108-3772	Park Ave	108	City of Danville	108	City of Danville	0.22	US 58 Riverside Dr	Piedmont Dr	0	?							X
+623214	 108	03772	     	108-3772	Piedmont Dr	108	City of Danville	108	City of Danville	0.31	Park Ave	SR 51 Westover Dr	14000	F	99%	0%	1%	0%	0%	0%	F	0.0866	F	0.5044	15000	F	2009
+623098	 108	03772	     	108-3772	Piedmont Dr	108	City of Danville	108	City of Danville	1.32	SR 51 Westover Dr	Bus US 29 Central Blvd	20000	F	99%	0%	1%	0%	0%	0%	C	0.0895	F	0.5270	21000	F	2009
+623510	 108	03773	     	108-3773	Gypsum Rd	108	City of Danville	108	City of Danville	1.46	SCL Danville	Goodyear Blvd	600	F	99%	0%	1%	0%	0%	0%	F	0.0939	F	0.6269	660	F	2009
+623556	 108	03774	     	108-3774	Moorfield  Bridge Rd	108	City of Danville	108	City of Danville	0.04	SR 51 Westover Dr	WCL Danville	1700	F	99%	1%	0%	0%	0%	0%	F	0.0927	F	0.5000	1600	F	2009
+781628	 108	03775	     	108-3775	Little Creek Rd	108	City of Danville	108	City of Danville	0.52	SR 360 Richmond Blvd	71-732;  ECL Danville	2900	F	97%	1%	1%	0%	0%	0%	F	0.0995	F	0.5079	3100	F	2009
+623225	 108	03776	     	108-3776	Eagle Spring Rd	108	City of Danville	108	City of Danville	1.70	Water St	ECL Danville	230	F	99%	1%	0%	0%	0%	0%	C	0.1062	F	0.5806	250	F	2009
+523015	 108	00000	     	108-0	Alpine Dr	108	City of Danville	108	City of Danville	0.00	Locust Lane	Lynndale Dr	260	F							X	0.1098	F	0.5469	280	F	2009
+523003	 108	00000	     	108-0	Annhurst Dr	108	City of Danville	108	City of Danville	0.00	Tamworth Dr	Vicar Rd	640	F							X	0.1039	F	0.6165	600	F	2009
+523017	 108	00000	     	108-0	Barrett St	108	City of Danville	108	City of Danville	0.00	US 58	Capri Ct	1400	F							X	0.1076	F	0.5376	1500	F	2009
+523022	 108	00000	     	108-0	Brodnax Street	108	City of Danville	108	City of Danville	0.00	S Main St	Ayers St	0	?							X
+523011	 108	00000	     	108-0	Cathy Dr	108	City of Danville	108	City of Danville	0.00	Ginger Dr	Cathy Pl	270	F							X				290	F	2009
+523008	 108	00000	     	108-0	Clarkson Dr	108	City of Danville	108	City of Danville	0.00	Layton Ave	Dunmore St	130	F							X	0.1992	F	0.5192	120	F	2009
+523019	 108	00000	     	108-0	Clement Avenue	108	City of Danville	108	City of Danville	0.00	Leemont Court	N. Main Street	620	F							X				620	F	2009
+523006	 108	00000	     	108-0	Courtney St	108	City of Danville	108	City of Danville	0.00	Plymouth Dr	Skyline Ave	120	F							X	0.1411	F	0.6429	120	F	2009
+523018	 108	00000	     	108-0	Dalton St	108	City of Danville	108	City of Danville	0.00	Arnett Blvd	Ruskin Street	680	F							X				680	F	2009
+523010	 108	00000	     	108-0	Hamlin Ave	108	City of Danville	108	City of Danville	0.00	Spencer St	N Main St	360	F							X				390	F	2009
+523014	 108	00000	     	108-0	Hampton Dr	108	City of Danville	108	City of Danville	0.00	Brookview Dr	Brightwell Dr	370	F							X	0.1138	F	0.5263	390	F	2009
+523021	 108	00000	     	108-0	Ingram St	108	City of Danville	108	City of Danville	0.00	Northwest Blvd	Parrott Street	520	G							X				520	G	2009
+523012	 108	00000	     	108-0	Ivy St	108	City of Danville	108	City of Danville	0.00	Locust Lane	Cunningham St	140	F							X	0.1246	F	0.7368	150	F	2009
+523009	 108	00000	     	108-0	Meadowbrook Dr	108	City of Danville	108	City of Danville	0.00	Edgewood Lane	Main St	460	F							X	0.1162	F	0.5138	440	F	2009
+523005	 108	00000	     	108-0	Nelson St	108	City of Danville	108	City of Danville	0.00	US 29	WCL Danville	300	F							X	0.1277	F	0.6104	280	F	2009
+523020	 108	00000	     	108-0	Parkland Dr	108	City of Danville	108	City of Danville	0.00	Meadow Lane	Edgewood Lane	290	G							X				290	G	2009
+523016	 108	00000	     	108-0	Rosemary Lane	108	City of Danville	108	City of Danville	0.00	Huntington Pl	Tyler Ave	200	F							X	0.1170	F	0.5283	210	F	2009
+523007	 108	00000	     	108-0	Springfield Rd	108	City of Danville	108	City of Danville	0.00	Kittyhawk Dr	Freeze Rd	200	F							X	0.1287	F	0.5962	190	F	2009
+523013	 108	00000	     	108-0	Summit Rd	108	City of Danville	108	City of Danville	0.00	Woodberry Ave	Arbor Pl	270	F							X	0.1151	F	0.5946	290	F	2009
+523004	 108	00000	     	108-0	Tamworth Pl	108	City of Danville	108	City of Danville	0.00	Tamworth Dr	Conway Dr	140	F							X				150	F	2009
+523001	 108	00000	     	108-0	Vicar Rd	108	City of Danville	108	City of Danville	0.00	Wildwood Ct	Raintree Rd	280	F							X	0.1302	F	0.5926	290	F	2009
+523002	 108	00000	     	108-0	Wheatley Rd	108	City of Danville	108	City of Danville	0.00	Shannon Dr	Banister Dr	110	F							X				100	F	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

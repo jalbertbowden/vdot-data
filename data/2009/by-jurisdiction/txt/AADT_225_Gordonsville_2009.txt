@@ -1,0 +1,78 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Gordonsville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+070423	  US	00015	     		Martinsburg Ave	225	Town of Gordonsville	068	Orange County	1.12	SCL Gordonsville	SR 231 S, Gordonsville Circle	8800	G	86%	1%	1%	1%	11%	0%	F	0.0856	F	0.0000	9400	G	2009
+070359	  US	00015	     	US 15	James Madison Hwy	225	Town of Gordonsville	068	Orange County	0.18	US 33 Spotswood Trail	NCL Gordonsville	10000	N	91%	1%	1%	1%	5%	0%	N	0.0851	N	0.0000	11000	N	2009
+070427	  US	00033	     	US 33	Spotswood Trail	225	Town of Gordonsville	068	Orange County	0.01	WCL Gordonsville	SR 231 Blue Ridge Tpke	5100	N	92%	1%	1%	3%	4%	0%	N	0.1016	N	0.0000	5500	N	2009
+070345	  US	00033	     		Spotswood Trail	225	Town of Gordonsville	068	Orange County	0.15	SR 231 Blue Ridge Tpke	US 15 James Madison Hwy	6500	G	92%	1%	1%	3%	4%	0%	C	0.1021	F	0.0000	7000	G	2009
+070423	  US	00033	     		Martinsburg Ave	225	Town of Gordonsville	068	Orange County	1.12	S SR 231	SCL Gordonsville	8800	G	86%	1%	1%	1%	11%	0%	F	0.0856	F	0.0000	9400	G	2009	
+070099	  SR	00231	     	VA 231	Gordon Ave	225	Town of Gordonsville	068	Orange County	0.58	SCL Gordonsville	US 15, US 33 Gordonsville Circle	4800	N	94%	1%	1%	1%	3%	0%	N	0.0976	N	0.0000	5200	N	2009
+070345	  SR	00231	     		Spotswood Trail	225	Town of Gordonsville	068	Orange County	0.15	US 15 Gordonsville Circle	Blue Ridge Turnpike	6500	G	92%	1%	1%	3%	4%	0%	C	0.1021	F	0.0000	7000	G	2009	
+070038	  SR	00231	     	VA 231	Blue Ridge Tpke	225	Town of Gordonsville	068	Orange County	0.02	US 33 Spottswood Trail	NCL Gordonsville	900	G	95%	1%	1%	1%	2%	0%	C	0.1091	F	0.5094	970	G	2009
+302571	  68	00643	     	68-643	East St	225	Town of Gordonsville	068	Orange County	0.32	68-1014 Mill St	ECL Gordonsville	420	G	98%	2%	0%	0%	0%	0%	C	0.1011	F	0.5625	450	G	2009
+757734	  68	00691	     	68-691	Old Louisa Rd	225	Town of Gordonsville	068	Orange County	0.12	Louisa County Line; SCL Gordonsville	68-1015 Pendleton St; South Main St	1000	R							X						11/18/2002
+757814	  68	01000	     	68-1000	Church St	225	Town of Gordonsville	068	Orange County	0.12	68-1014 Mill St	End State Maintenance	150	R							X						04/05/2005
+757815	  68	01001	     	68-1001	Commerce St	225	Town of Gordonsville	068	Orange County	0.11	68-1002 Linney St	68-1011 Market St	90	R							X						11/21/2002
+757816	  68	01002	     	68-1002	Linney St	225	Town of Gordonsville	068	Orange County	0.24	68-1001 Commerce St	68-1004, East Baker St	70	R							X						11/21/2002
+757817	  68	01003	     	68-1003	Wright St	225	Town of Gordonsville	068	Orange County	0.10	Dead End	68-1004, West Baker St	110	R							X						11/18/2002
+757818	  68	01003	     	68-1003	Wright St	225	Town of Gordonsville	068	Orange County	0.13	68-1004, West Baker St	SR 231 Gordon Ave	440	R							X						11/18/2002
+757819	  68	01004	     	68-1004	West Baker St	225	Town of Gordonsville	068	Orange County	0.09	Duke St	68-1003 Wright St	240	R							X						04/05/2005
+757820	  68	01004	     	68-1004	West Baker St	225	Town of Gordonsville	068	Orange County	0.24	68-1003 Wright St	68-1009 Pendleton St	460	R							X						11/18/2002
+757821	  68	01004	     	68-1004	West Baker St	225	Town of Gordonsville	068	Orange County	0.09	68-1009 Pendleton St	US 15 Martinsburg Ave	410	R							X						11/18/2002
+757822	  68	01004	     	68-1004	East Baker St	225	Town of Gordonsville	068	Orange County	0.07	US 15 Martinsburg Ave	68-1030 Gentry Dr	1300	R							X						05/14/2009
+757823	  68	01004	     	68-1004	East Baker St	225	Town of Gordonsville	068	Orange County	0.41	68-1030 Gentry Dr	68-643 East St	750	R							X						05/14/2009
+757824	  68	01005	     	68-1005	Cadmus Dr	225	Town of Gordonsville	068	Orange County	0.34	68-1004, East Baker St	68-1030 Gentry Ave	150	R							X						11/21/2002
+302587	  68	01006	     	68-1006	High St	225	Town of Gordonsville	068	Orange County	0.60	US 15 Martinsburg Ave	SR 231 Gordon Ave	3400	G	76%	2%	2%	5%	15%	0%	C	0.0894	F	0.0000	3600	G	2009
+757825	  68	01007	     	68-1007	Orange Ave	225	Town of Gordonsville	068	Orange County	0.06	68-1029 Martinsville Ave	68-1006 High St	60	R							X						11/18/2002
+757826	  68	01007	     	68-1007	Mayhugh Ave	225	Town of Gordonsville	068	Orange County	0.10	68-1006 High St	Dead End	280	R							X						11/18/2002
+757827	  68	01008	     	68-1008	West King St	225	Town of Gordonsville	068	Orange County	0.16	68-1006 High St	US 15 Martinsburg Ave	340	R							X						11/18/2002
+757828	  68	01008	     	68-1008	East King St	225	Town of Gordonsville	068	Orange County	0.24	US 15 Martinsburg Ave	68-1004, East Baker St	170	R							X						11/21/2002
+757829	  68	01009	     	68-1009	Pendleton St	225	Town of Gordonsville	068	Orange County	0.10	68-1008, West King St	68-1004, West Baker St	30	R							X						11/18/2002
+757830	  68	01010	     	68-1010	Weaver St	225	Town of Gordonsville	068	Orange County	0.08	68-1011 Market St	68-1008, East King St	120	R							X						11/21/2002
+757831	  68	01011	     	68-1011	Market St	225	Town of Gordonsville	068	Orange County	0.18	US 15 Martinsburg Ave	68-1002 Linney St	530	R							X						11/21/2002
+757832	  68	01012	     	68-1012	Depot St	225	Town of Gordonsville	068	Orange County	0.11	68-1024 Charles St	68-1013, East Central St	440	R							X						05/14/2009
+302588	  68	01012	     	68-1012	Depot St	225	Town of Gordonsville	068	Orange County	0.10	68-1013, East Central St	US 15 Martinsburg Ave	750	G	98%	1%	0%	0%	0%	0%	C	0.1037	F	0.5814	800	G	2009
+757833	  68	01012	     	68-1012	Grove Ave	225	Town of Gordonsville	068	Orange County	0.26	US 15 Martinsburg Ave	68-1028 Paynor Ave	240	R							X						11/18/2002
+302589	  68	01013	     	68-1013	East Central St	225	Town of Gordonsville	068	Orange County	0.08	68-1012 Depot St	68-1014 Mill St	430	G	99%	0%	1%	0%	0%	0%	C	0.1142	F	0.6604	460	G	2009
+757834	  68	01014	     	68-1014	Mill St	225	Town of Gordonsville	068	Orange County	0.16	68-1024 Charles St	68-1013, East Central St	300	R							X						11/18/2002
+302590	  68	01014	     	68-1014	Mill St	225	Town of Gordonsville	068	Orange County	0.04	68-1013, East Central St	68-643 East St	420	G	98%	1%	1%	0%	0%	0%	C	0.0981	F	0.5106	450	G	2009
+757835	  68	01015	     	68-1015	South Main St	225	Town of Gordonsville	068	Orange County	0.16	SCL Gordonsville	68-691 Old Louisa Rd	240	R							X						11/18/2002
+757836	  68	01015	     	68-1015	Pendleton St	225	Town of Gordonsville	068	Orange County	0.22	68-691 Old Louisa Rd	US 15 Martinsburg Ave	1200	R							X						11/18/2002
+757837	  68	01016	     	68-1016	North Church St	225	Town of Gordonsville	068	Orange County	0.11	68-1008, West King St	68-1004, West Baker St	60	R							X						11/18/2002
+757838	  68	01016	     	68-1016	North Church St	225	Town of Gordonsville	068	Orange County	0.16	68-1004, West Baker St	SR 231 Gordon Ave	80	R							X						11/18/2002
+757839	  68	01017	     	68-1017	Stonewall Ave	225	Town of Gordonsville	068	Orange County	0.23	68-1037 Holladay Ave	68-1006 High St	410	R							X						11/18/2002
+757840	  68	01018	     	68-1018	Noble Avenue	225	Town of Gordonsville	068	Orange County	0.07	US 15 Martinsburg Ave	68-1017 Stonewall Ave	60	R							X						11/18/2002
+757841	  68	01018	     	68-1018	Noble Ave	225	Town of Gordonsville	068	Orange County	0.06	68-1017 Stonewall Ave	68-1012 Grove Ave	90	R							X						04/05/2005
+757842	  68	01019	     	68-1019	Holladay Ave	225	Town of Gordonsville	068	Orange County	0.11	68-1037 Holladay Ave	US 15 Martinsburg Ave	140	R							X						11/18/2002
+757843	  68	01019	     	68-1019	Holladay Ave	225	Town of Gordonsville	068	Orange County	0.10	US 15 Martinsburg Ave	68-1015, South Main St	70	R							X						04/05/2005
+757844	  68	01020	     	68-1020	Piedmont St	225	Town of Gordonsville	068	Orange County	0.10	68-1011 Market St	68-1008, East King St	20	R							X						11/21/2002
+785736	  68	01021	     	68-1021	South Faulconer St	225	Town of Gordonsville	068	Orange County	0.09	68-1012 Grove Ave	68-1007 Mayhugh Ave	280	R							X						04/05/2005
+757845	  68	01021	     	68-1021	South Faulconer St	225	Town of Gordonsville	068	Orange County	0.09	68-1007 Mayhugh Ave	Dead End; Gap	250	R							X						04/05/2005
+757846	  68	01021	     	68-1021	North Faulconer St	225	Town of Gordonsville	068	Orange County	0.21	68-1004, West Baker St	SR 231 Gordon Ave	320	R							X						11/18/2002
+757847	  68	01022	     	68-1022	Cobb St	225	Town of Gordonsville	068	Orange County	0.20	68-1015 Pendleton St	68-1014 Mill St	220	R							X						11/18/2002
+757848	  68	01023	     	68-1023	Allen St	225	Town of Gordonsville	068	Orange County	0.17	68-1002 Linney St	68-1008, East King St	40	R							X						11/21/2002
+783121	  68	01024	     	68-1024	Charles St	225	Town of Gordonsville	068	Orange County	0.10	Dead End	68-1012 Depot St	180	R							X						11/18/2002
+783122	  68	01024	     	68-1024	Charles St	225	Town of Gordonsville	068	Orange County	0.07	68-1012 Depot St	68-1014 Mill St	160	R							X						11/18/2002
+783123	  68	01024	     	68-1024	Charles St	225	Town of Gordonsville	068	Orange County	0.27	68-1014 Mill St	ECL Gordonsville	80	R							X						11/18/2002
+757850	  68	01025	     	68-1025	Cleveland St	225	Town of Gordonsville	068	Orange County	0.10	SR 231 Gordon Ave	NCL Gordonsville	900	R							X						11/18/2002
+757851	  68	01026	     	68-1026	Cobb St	225	Town of Gordonsville	068	Orange County	0.11	68-1014 Mill St	End State Maintenance	230	R							X						11/18/2002
+757853	  68	01028	     	68-1028	Paynor Ave	225	Town of Gordonsville	068	Orange County	0.09	68-1012 Grove Ave	Dead End	70	R							X						11/18/2002
+757854	  68	01029	     	68-1029	Martinsville Ave	225	Town of Gordonsville	068	Orange County	0.21	68-1012 Grove Ave	Dead End	40	R							X						11/18/2002
+757855	  68	01030	     	68-1030	Gentry Dr	225	Town of Gordonsville	068	Orange County	0.24	68-1004, East Baker St	68-1005 Cadmus Dr	330	R							X						11/21/2002
+757856	  68	01030	     	68-1030	Gentry Dr	225	Town of Gordonsville	068	Orange County	0.04	68-1005 Cadmus Dr	US 15 James Madison Hwy	580	R							X						11/21/2002
+757857	  68	01031	     	68-1031	Gentry Dr	225	Town of Gordonsville	068	Orange County	0.04	Dead End	68-1030 Gentry Dr	40	R							X						11/21/2002
+757858	  68	01032	     	68-1032	Cadmus Circle	225	Town of Gordonsville	068	Orange County	0.08	68-1030 Gentry Dr	68-1005 Cadmus Dr	70	R							X						11/21/2002
+757859	  68	01033	     	68-1033	Partlow Dr	225	Town of Gordonsville	068	Orange County	0.14	68-1030 Gentry Dr	68-1005 Cadmus Dr	40	R							X						11/21/2002
+757860	  68	01034	     	68-1034	Taylor Ave	225	Town of Gordonsville	068	Orange County	0.23	Dead End	68-1006 High St	800	R							X						11/18/2002
+757863	  68	01035	     	68-1035	Jackson St	225	Town of Gordonsville	068	Orange County	0.11	WCL Gordonsville	68-1036 Lee Lane	280	R							X						04/05/2005
+757864	  68	01035	     	68-1035	Jackson St	225	Town of Gordonsville	068	Orange County	0.05	68-1036 Lee Lane	68-1017 Stonewall Ave	290	R							X						04/05/2005
+757866	  68	01036	     	68-1036	Lee Lane	225	Town of Gordonsville	068	Orange County	0.04	WCL Gordonsville	68-1035 Jackson St	220	R							X						04/05/2005
+757867	  68	01037	     	68-1037	Holladay Ave	225	Town of Gordonsville	068	Orange County	0.10	SCL Louisa	68-1019 Holladay Ave	130	R							X						11/18/2002
+757868	  68	01037	     	68-1037	Holladay Ave	225	Town of Gordonsville	068	Orange County	0.08	68-1019 Holladay Ave	68-1017 Stonewall Ave	130	R							X						11/18/2002
+784334	  68	01038	     	68-1038	Duke St	225	Town of Gordonsville	068	Orange County	0.13	Dead End	68-1004, West Baker St	50	R							X						11/18/2002
+757898	  68	09302	     	68-9302	Gordonsville Elem Sch	225	Town of Gordonsville	068	Orange County	0.08	68-1004, West Baker St	68-1006 High St	350	R							X						03/24/2005
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,37 @@
+ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,Prepared,7/11/2010
+Daily Vehicle Miles Traveled (DVMT) by Federal Functional Class,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Public Road Segments within the Commonwealth of Virginia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Using Distance Measured Along North and East Bound Direction of Separated Inventoried Highways,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,Secondary,,,,,,Primary,,,,,,Interstate,,,,,,All Roads,,,
+,,,,,,,,,,,,,%,%,,,,,%,%,,,,,%,%,,,,%
+,,,,,,,,,,%,%,,of,of,,%,%,,of,of,,%,%,,of,of,,%,,of
+,,,,,,,,,,of,of,,Secondary,State,,of,of,,Primary,State,,of,of,,Interstate,State,,of,,State
+,,,,Federal,,,,,,Secondary,State,Road,Total,Total,,Primary,State,Road,Total,Total,,Interstate,State,Road,Total,Total,,State,Road,Total
+,,,,Functional,,,,,,Total,Total,Length,Road,Road,,Total,Total,Length,Road,Road,,Total,Total,Length,Road,Road,,Total,Length,Road
+,,,,Class,,,,,DVMT,VMT,VMT,(Miles),Length,Length,DVMT,VMT,VMT,(Miles),Length,Length,DVMT,VMT,VMT,(Miles),Length,Length,DVMT,VMT,(Miles),Length
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ ,,   ,,1,Rural Principal Arterial - Interstate,,,              ,0,0.00%,0.00%,0.00,0.00%,0.00%,0,0.00%,0.00%,0.00,0.00%,0.00%,24,736,400,37.63%,11.16%,668.69,59.75%,0.90%,24,736,400,11.16%,668.69,0.90%
+ ,,   ,,2,Rural Principal Arterial - Other,,,              ,3,847,0.01%,0.00%,0.62,0.00%,0.00%,16,804,714,18.39%,7.58%,1,345.53,13.47%,1.81%,0,0.00%,0.00%,0.00,0.00%,0.00%,16,808,561,7.58%,1,346.15,1.82%
+ ,,   ,,6,Rural Minor Arterial,,,              ,94,010,0.15%,0.04%,21.38,0.03%,0.03%,14,608,985,15.99%,6.59%,3,409.07,34.12%,4.60%,0,0.00%,0.00%,0.00,0.00%,0.00%,14,702,995,6.63%,3,430.45,4.63%
+ ,,   ,,7,Rural Major Collector,,,              ,8,467,297,13.10%,3.82%,7,004.10,11.11%,9.45%,6,382,564,6.99%,2.88%,2,262.98,22.65%,3.05%,0,0.00%,0.00%,0.00,0.00%,0.00%,14,849,861,6.70%,9,267.08,12.50%
+ ,,   ,,8,Rural Minor Collector,,,              ,1,520,597,2.35%,0.69%,2,424.28,3.85%,3.27%,13,050,0.01%,0.01%,14.30,0.14%,0.02%,0,0.00%,0.00%,0.00,0.00%,0.00%,1,533,647,0.69%,2,438.58,3.29%
+ ,,   ,,9,Rural Local System,,,              ,9,142,839,14.15%,4.12%,32,903.27,52.19%,44.37%,230,424,0.25%,0.10%,299.03,2.99%,0.40%,0,0.00%,0.00%,0.00,0.00%,0.00%,9,373,263,4.23%,33,202.30,44.77%
+ ,,   ,,11,Urban Principal Arterial - Interstate,,,              ,0,0.00%,0.00%,0.00,0.00%,0.00%,0,0.00%,0.00%,0.00,0.00%,0.00%,40,992,730,62.37%,18.49%,450.38,40.25%,0.61%,40,992,730,18.49%,450.38,0.61%
+ ,,   ,,12,Urban Principal Arterial - Other Freeways or Expressways,,,              ,141,936,0.22%,0.06%,5.48,0.01%,0.01%,10,422,500,11.41%,4.70%,285.29,2.86%,0.38%,0,0.00%,0.00%,0.00,0.00%,0.00%,10,564,436,4.76%,290.77,0.39%
+ ,,   ,,14,Urban Principal Arterial - Other,,,              ,2,425,457,3.75%,1.09%,78.31,0.12%,0.11%,30,966,931,33.90%,13.97%,1,242.63,12.44%,1.68%,0,0.00%,0.00%,0.00,0.00%,0.00%,33,392,388,15.06%,1,320.94,1.78%
+ ,,   ,,16,Urban Minor Arterial,,,              ,17,485,733,27.05%,7.89%,1,436.17,2.28%,1.94%,10,833,624,11.86%,4.89%,848.76,8.50%,1.14%,0,0.00%,0.00%,0.00,0.00%,0.00%,28,319,357,12.77%,2,284.93,3.08%
+ ,,   ,,17,Urban Collector,,,              ,10,190,450,15.77%,4.60%,2,308.31,3.66%,3.11%,858,442,0.94%,0.39%,119.50,1.20%,0.16%,0,0.00%,0.00%,0.00,0.00%,0.00%,11,048,892,4.98%,2,427.81,3.27%
+ ,,   ,,19,Urban Local System,,,              ,15,160,130,23.46%,6.84%,16,865.21,26.75%,22.74%,239,748,0.26%,0.11%,163.24,1.63%,0.22%,0,0.00%,0.00%,0.00,0.00%,0.00%,15,399,878,6.95%,17,028.45,22.96%
+,,,,,,,,,64,632,297,100.00%,29.15%,63,047.13,100.00%,85.02%,91,360,981,100.00%,41.21%,9,990.33,100.00%,13.47%,65,729,130,100.00%,29.64%,1,119.07,100.00%,1.51%,221,722,408,100.00%,74,156.53,100.00%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"'Secondary' includes those routes in the VDOT secondary system,  (unnumbered) routes maintained by Arlington and Henrico Counties and unnumbered routes maintained by cities and towns.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"'Primary' includes those routes designated as 'US', 'SR' (Virginia State Route) and Frontage Roads.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"'Primary' also includes the named federal parkways (George Washington Pkwy, Colonial Pkwy, Blue Ridge Pkwy, Skyline Drive) and the Dulles Access road.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+'Interstate' includes those routes in the Interstate System.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Road Length values are a reasonable copy of centerline road length values maintained by VDOT Asset Management Division using HTRIS road inventory with input from the Local Assistance Division.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,,ReportID:,210,DataYear:,2009,Prepared,7/11/2010

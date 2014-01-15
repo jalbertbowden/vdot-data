@@ -1,0 +1,62 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Weber City																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+642024	  US	00023	     	US 23	 	324	Town of Weber City	084	Scott County	0.51	SCL Weber City	84-614 N Yuma Rd	22000	F	93%	0%	1%	0%	6%	0%	F	0.0860	F	0.6026	23000	F	2009
+642025	  US	00023	     	US 23	 	324	Town of Weber City	084	Scott County	0.77	84-614 N Yuma Rd	84-808 Shady Elm Lane	22000	F	93%	0%	1%	0%	6%	0%	F	0.0828	F	0.5165	22000	F	2009
+642002	  US	00023	     	US 23	 	324	Town of Weber City	084	Scott County	0.62	84-808 Shady Elm Lane	US 58, US 421 Hilton Rd	22000	F	93%	0%	1%	0%	6%	0%	F	0.0815	F	0.5245	22000	F	2009
+642016	  US	00023	     		 	324	Town of Weber City	084	Scott County	0.08	US 58, US 421 Hilton Rd	ECL Weber City	27000	F	93%	0%	1%	0%	6%	0%	F	0.0831	F	0.5435	27000	F	2009
+642016	  US	00058	     		 	324	Town of Weber City	084	Scott County	0.08	NCL Weber City	US 23	27000	F	93%	0%	1%	0%	6%	0%	F	0.0831	F	0.5435	27000	F	2009	
+642004	  US	00058	     		Hilton Rd	324	Town of Weber City	084	Scott County	0.26	US 23	SR 224 Wadlow Gap Rd	10000	G	98%	1%	1%	1%	1%	0%	F				11000	G	2009
+642015	  US	00058	     		 	324	Town of Weber City	084	Scott County	0.06	SR 224 Wadlow Gap Rd	ECL Weber City	3100	F	98%	1%	1%	1%	1%	0%	C	0.0896	F	0.5966	3300	F	2009
+642016	  US	00421	     		 	324	Town of Weber City	084	Scott County	0.08	ECL Weber City	x	27000	F	93%	0%	1%	0%	6%	0%	F	0.0831	F	0.5435	27000	F	2009	
+642004	  US	00421	     		Hilton Rd	324	Town of Weber City	084	Scott County	0.26	x	x	10000	G	98%	1%	1%	1%	1%	0%	F				11000	G	2009	
+642015	  US	00421	     		 	324	Town of Weber City	084	Scott County	0.06	x	x	3100	F	98%	1%	1%	1%	1%	0%	C	0.0896	F	0.5966	3300	F	2009	
+402434	  84	00614	     	84-614	 	324	Town of Weber City	084	Scott County	0.07	WCL Weber City	84-739	4500	G	98%	0%	1%	0%	1%	0%	F	0.0869	N	0.6185	4900	G	2009
+402436	  84	00614	     	84-614	Yuma Rd	324	Town of Weber City	084	Scott County	0.18	84-739 Charleston Rd	US 23 NORTH	4900	F	98%	0%	1%	0%	1%	0%	C	0.0889	F	0.7182	5300	F	2009
+769650	  84	00614	     	84-614	 	324	Town of Weber City	084	Scott County	0.13	US 23 SOUTH	ECL Weber City	220	R							X						02/03/2004
+769969	  84	00730	     	84-730	 	324	Town of Weber City	084	Scott County	0.19	84-1112 McNut St	84-1127 Blanton Dr	300	R							X						02/10/2004
+785938	  84	00730	     	84-730	 	324	Town of Weber City	084	Scott County	0.41	84-1127 Blanton Dr	84-735	260	R							X						02/10/2004
+769971	  84	00731	     	84-731	 	324	Town of Weber City	084	Scott County	0.15	WCL Weber City	0.15 ME of WCL	220	R							X						02/10/2004
+769972	  84	00731	     	84-731	 	324	Town of Weber City	084	Scott County	0.40	0.15 ME of WCL	84-1114 Chapel St	270	R							X						02/10/2004
+769976	  84	00735	     	84-735	 	324	Town of Weber City	084	Scott County	0.25	Dead End	US 23	360	R							X						02/10/2004
+769977	  84	00735	     	84-735	 	324	Town of Weber City	084	Scott County	0.14	US 23	84-1111 Ventor Dr	200	R							X						02/10/2004
+769978	  84	00736	     	84-736	 	324	Town of Weber City	084	Scott County	0.13	0.13 MS 84-735	84-735	170	R							X						02/10/2004
+769979	  84	00736	     	84-736	 	324	Town of Weber City	084	Scott County	0.06	84-735	Dead End	40	R							X						02/10/2004
+769980	  84	00737	     	84-737	 	324	Town of Weber City	084	Scott County	0.04	84-735	Dead End	40	R							X						02/10/2004
+769981	  84	00738	     	84-738	 	324	Town of Weber City	084	Scott County	0.19	84-614 Yuma Rd	84-739	370	R							X						02/10/2004
+769982	  84	00739	     	84-739	 	324	Town of Weber City	084	Scott County	0.39	84-614 Yuma Rd	Dead End	80	R							X						02/10/2004
+769983	  84	00740	     	84-740	 	324	Town of Weber City	084	Scott County	0.07	84-739	84-738	120	R							X						02/10/2004
+769987	  84	00744	     	84-744	 	324	Town of Weber City	084	Scott County	0.66	US 23 SOUTH	US 23 NORTH	820	R							X						02/10/2004
+769988	  84	00745	     	84-745	 	324	Town of Weber City	084	Scott County	0.10	US 23	84-1116 Greenwood Dr	190	R							X						02/10/2004
+770073	  84	00807	     	84-807	Shady Elm Lane	324	Town of Weber City	084	Scott County	0.10	84-808 Shady Elm Lane	84-744	90	R							X						08/06/2007
+770074	  84	00808	     	84-808	Shady Elm Lane	324	Town of Weber City	084	Scott County	0.08	84-807 Shady Elm Lane	US 23	90	R							X						08/06/2007
+797571	  84	00977	     	84-977	 	324	Town of Weber City	084	Scott County	0.21	Cul-de-Sac	US 23	0	?							X
+770277	  84	01101	     	84-1101	Winfield St	324	Town of Weber City	084	Scott County	0.06	84-1102 Roland St	SR 23	430	R							X						08/06/2007
+770278	  84	01102	     	84-1102	Roland St	324	Town of Weber City	084	Scott County	0.12	84-1103 Locust St	Dead End	120	R							X						08/06/2007
+770279	  84	01103	     	84-1103	Locust St	324	Town of Weber City	084	Scott County	0.07	84-1104 Highland St	84-1102 Roland St	130	R							X						08/06/2007
+770280	  84	01104	     	84-1104	Highland St	324	Town of Weber City	084	Scott County	0.04	Dead End	84-1103 Locust St	30	R							X						08/06/2007
+770281	  84	01105	     	84-1105	North Highland St	324	Town of Weber City	084	Scott County	0.03	Dead End	84-1103 Locust St	30	R							X						08/06/2007
+770282	  84	01106	     	84-1106	Clonce St	324	Town of Weber City	084	Scott County	0.17	US 23 SOUTH	84-1120 Church St	650	R							X						08/06/2007
+770283	  84	01106	     	84-1106	Church St	324	Town of Weber City	084	Scott County	0.66	84-1120 Church St	US 23 NORTH	190	R							X						08/06/2007
+770290	  84	01111	     	84-1111	Ventor Dr	324	Town of Weber City	084	Scott County	0.17	84-744	Dead End	430	R							X						08/06/2007
+770291	  84	01112	     	84-1112	McNut St	324	Town of Weber City	084	Scott County	0.11	SR 23	84-1113 Wilmeth St	520	R							X						08/06/2007
+770292	  84	01113	     	84-1113	Wilmeth St	324	Town of Weber City	084	Scott County	0.06	84-1115 Click St	84-1112 McNut St	130	R							X						08/06/2007
+770293	  84	01114	     	84-1114	Chapel St	324	Town of Weber City	084	Scott County	0.24	SR 23	84-1112 McNut St	1000	R							X						08/06/2007
+770294	  84	01115	     	84-1115	Click St	324	Town of Weber City	084	Scott County	0.09	84-1114 Chapel St	NCL Weber City	450	R							X						08/06/2007
+770298	  84	01116	     	84-1116	Greenwood Dr	324	Town of Weber City	084	Scott County	0.13	Dead End	84-745	190	R							X						08/06/2007
+770299	  84	01117	     	84-1117	Johnson St	324	Town of Weber City	084	Scott County	0.14	84-744	Dead End	180	R							X						08/06/2007
+770300	  84	01118	     	84-1118	Baltic Dr	324	Town of Weber City	084	Scott County	0.10	84-744	Dead End	220	R							X						08/06/2007
+770301	  84	01119	     	84-1119	Tulip Poplar St	324	Town of Weber City	084	Scott County	0.17	84-1106 S, Church St	0.17 MN 84-1106 Church St	50	R							X						08/06/2007
+770302	  84	01119	     	84-1119	Tulip Poplar St	324	Town of Weber City	084	Scott County	0.11	0.17 MN 84-1106 Church St	84-1106 N, Church St	100	R							X						08/06/2007
+770303	  84	01120	     	84-1120	Church St	324	Town of Weber City	084	Scott County	0.14	US 23	84-1106 Church St; Clonce St	500	R							X						08/06/2007
+770304	  84	01121	     	84-1121	Spring Dr	324	Town of Weber City	084	Scott County	0.11	US 23	ECL Weber City	290	R							X						08/06/2007
+770309	  84	01124	     	84-1124	Wilhelm Ave	324	Town of Weber City	084	Scott County	0.10	Dead End	US 23	20	R							X						08/06/2007
+770310	  84	01125	     	84-1125	 	324	Town of Weber City	084	Scott County	0.03	Dead End	84-739	47	R							X						08/13/2007
+770311	  84	01126	     	84-1126	 	324	Town of Weber City	084	Scott County	0.50	Dead End	84-744	180	R							X						08/06/2007
+770312	  84	01127	     	84-1127	Blanton Dr	324	Town of Weber City	084	Scott County	0.02	84-730	US 23	250	R							X						08/06/2007
+770380	  84	09762	     	84-9762	 	324	Town of Weber City	084	Scott County	0.06	84-744	84-744	330	R							X						10/31/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

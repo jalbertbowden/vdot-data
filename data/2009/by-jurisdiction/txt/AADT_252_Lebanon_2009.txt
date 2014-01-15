@@ -1,0 +1,26 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Lebanon																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+643010	  US	00019	     	US 19	 	252	Town of Lebanon	083	Russell County	0.15	WCL Lebanon	W Mid CL Lebanon	11000	N	95%	0%	1%	1%	3%	0%	N	0.0907	N	0.0000	12000	N	2009
+643011	  US	00019	     	US 19	 	252	Town of Lebanon	083	Russell County	0.76	E Mid CL Lebanon	252- 654 Pittston Rd	12000	N	95%	0%	1%	1%	3%	0%	N				13000	N	2009
+643012	  US	00019	     	US 19	 	252	Town of Lebanon	083	Russell County	1.65	252- 654 Pittston Rd	ECL Lebanon	11000	G	95%	0%	1%	1%	3%	0%	F				12000	G	2009
+643001	C1US	00019	     	Bus US 19	Main St	252	Town of Lebanon	252	Town of Lebanon	0.48	US 19	SR 71 Fincastle Rd	8500	G							X				8800	G	2009
+643002	C1US	00019	     	Bus US 19	Main St	252	Town of Lebanon	252	Town of Lebanon	0.60	SR 71	SR 82 Cleveland Rd	8200	G	98%	0%	0%	0%	1%	0%	C	0.0923	F	0.0000	8600	G	2009
+643003	C1US	00019	     	Bus US 19	Main St	252	Town of Lebanon	252	Town of Lebanon	0.42	SR 82 Cleveland Rd	Fugate Ave	11000	G	99%	0%	0%	0%	0%	0%	F	0.0850	F	0.5183	11000	G	2009
+643004	C1US	00019	     	Bus US 19	Main St	252	Town of Lebanon	252	Town of Lebanon	1.07	252-701 Church Ave	W 252- 654 Haber Dr	13000	G	99%	0%	0%	0%	0%	0%	C	0.0948	F	0.0000	13000	G	2009
+643005	C1US	00019	     	Bus US 19	Main St	252	Town of Lebanon	252	Town of Lebanon	0.51	W 252- 654 Haber Dr	Gilmer Ave	8400	G	98%	0%	0%	0%	1%	0%	F	0.0905	F	0.0000	8800	G	2009
+643006	C1US	00019	     	Bus US 19	Main St	252	Town of Lebanon	252	Town of Lebanon	0.78	Gilmer Ave	ECL Lebanon	5500	G	98%	0%	0%	0%	1%	0%	C	0.0837	F	0.0000	5800	G	2009
+643007	  SR	00071	     	VA 71	Fincastle Rd	252	Town of Lebanon	252	Town of Lebanon	1.40	WCL Lebanon	US 19 Bus Main Street	5700	G	98%	0%	1%	1%	1%	0%	C	0.1022	F	0.0000	6000	G	2009
+643009	  SR	00082	     	VA 82	Cleveland Rd	252	Town of Lebanon	252	Town of Lebanon	0.58	US 19 Bus Main St	NCL Lebanon	4200	G	98%	0%	1%	1%	1%	0%	C	0.0993	F	0.0000	4400	G	2009
+781865	 252	00658	     	252-658	Big Cedar Dr	252	Town of Lebanon	252	Town of Lebanon	0.66	83-658 JB-252 SCL Lebanon	Bus US 19 Main St	770	G	99%	0%	0%	0%	0%	0%	F	0.1015	F	0.6914	840	G	2009
+643013	 252	01279	     	252-1279	Pittston Rd	252	Town of Lebanon	252	Town of Lebanon	0.27	SCL Lebanon	US19 Bypass	1700	G	99%	0%	0%	0%	0%	0%	C	0.0895	F	0.5886	1800	G	2009
+643014	 252	01279	     	252-1279	Pittston Rd	252	Town of Lebanon	252	Town of Lebanon	0.36	US 19 Bypass	US 19 Bus Main St	9800	G	99%	0%	0%	0%	0%	0%	F	0.0895	F	0.0000	10000	G	2009
+543003	 252	00000	     	252-0	Clinch Mtn Ave	252	Town of Lebanon	252	Town of Lebanon	0.00	Pruner St	US 19 Bus Main St	860	G							X	0.3892	F	0.5718	940	G	2009
+543004	 252	00000	     	252-0	Gilbert St	252	Town of Lebanon	252	Town of Lebanon	0.00	Gay St	Mays Ave	1200	G							X	0.1039	F	0.5471	1300	G	2009
+543002	 252	00000	     	252-0	Lively St	252	Town of Lebanon	252	Town of Lebanon	0.00	Angle Ave	Church Ave	220	G							X	0.1125	F	0.5000	240	G	2009
+543001	 252	00000	     	252-0	Pioneer Dr	252	Town of Lebanon	252	Town of Lebanon	0.00	SCL Lebanon	Bus US 19 East	1600	G							X	0.1533	F	0.5414	1700	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

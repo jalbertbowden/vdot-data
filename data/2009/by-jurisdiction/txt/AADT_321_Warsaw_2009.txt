@@ -1,0 +1,78 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Warsaw																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+785872	  SR	00003	     	VA 3	Historyland Hwy	321	Town of Warsaw	079	Richmond County	0.20	NCL Warsaw	Bus SR 3 Main St	6000	N	92%	1%	1%	1%	5%	0%	N	0.0868	N	0.5537	6500	N	2009
+160054	  SR	00003	     	VA 3	Historyland Hwy	321	Town of Warsaw	079	Richmond County	0.11	US 360, SR 3 Bus Richmond Rd	SCL Warsaw	7500	G	94%	1%	1%	1%	3%	0%	F	0.1048	F	0.5858	8100	G	2009
+785862	C2SR	00003	     	Bus VA 3	Main St	321	Town of Warsaw	079	Richmond County	0.77	SR 3 Historyland Hwy	US 360 Richmond Rd	12000	N	95%	0%	1%	1%	3%	0%	N	0.0925	N	0.5835	13000	N	2009
+060128	C2SR	00003	     		Richmond Rd	321	Town of Warsaw	079	Richmond County	0.78	US 360; Main St	SR 3 Historyland Hwy	12000	G	95%	0%	1%	1%	3%	0%	F	0.0925	F	0.5835	13000	G	2009	
+060131	  US	00360	     	US 360	Richmond Rd	321	Town of Warsaw	079	Richmond County	2.02	WCL Warsaw	W SR 3 Bus	13000	N	95%	0%	1%	1%	3%	0%	N	0.0999	N	0.5519	14000	N	2009
+060128	  US	00360	     		Richmond Rd	321	Town of Warsaw	079	Richmond County	0.78	W SR 3 Bus	E SR 3 Bus, SR 3	12000	G	95%	0%	1%	1%	3%	0%	F	0.0925	F	0.5835	13000	G	2009
+060288	  US	00360	     	US 360	Richmond Rd	321	Town of Warsaw	079	Richmond County	0.37	E SR 3 Bus, SR 3	ECL Warsaw	7700	G	95%	0%	1%	1%	3%	0%	F	0.0923	F	0.6008	8300	G	2009
+785199	  79	00624	     	79-624	 	321	Town of Warsaw	079	Richmond County	0.10	SCL Warsaw	US 360 E, Richmond Rd	90	N							X				0	N	05/24/2004
+765411	  79	00649	     	79-649	Meadowbrook Rd	321	Town of Warsaw	079	Richmond County	0.26	US 360 W, Richmond Rd	US 360 E, Richmond Rd	220	R							X						05/14/2007
+404623	  79	00690	     	79-690	Menokin Rd	321	Town of Warsaw	079	Richmond County	0.20	SR 3 Bus	NCL Warsaw	820	G	98%	0%	1%	0%	1%	0%	F	0.1108	F	0.5403	890	G	2009
+765473	  79	00700	     	79-700	Selftown Rd	321	Town of Warsaw	079	Richmond County	0.13	US 360 Richmond Rd	NCL Warsaw	700	R							X						05/14/2007
+765480	  79	01000	     	79-1000	Harris Ave	321	Town of Warsaw	079	Richmond County	0.25	SR 3	Cul-de-Sac	70	R							X						05/14/2007
+404626	  79	01001	     	79-1001	Hamilton Blvd	321	Town of Warsaw	079	Richmond County	0.75	US 360 Richmond Rd	Bus SR 3	410	G	96%	0%	2%	1%	0%	0%	C	0.1314	F	0.5968	450	G	2009
+765481	  79	01002	     	79-1002	Belleville Lane	321	Town of Warsaw	079	Richmond County	0.23	SR 3	79-1001 Hamilton Blvd	310	R							X						05/02/2007
+765482	  79	01003	     	79-1003	St Johns St	321	Town of Warsaw	079	Richmond County	0.23	SR 3	US 360 Richmond Rd	1000	R							X						05/02/2007
+765483	  79	01004	     	79-1004	Court Circle	321	Town of Warsaw	079	Richmond County	0.17	US 360 Richmond Rd; Bus SR 3	79-1036 Campus Dr	320	R							X						05/14/2007
+765484	  79	01004	     	79-1004	Court Circle	321	Town of Warsaw	079	Richmond County	0.13	79-1036 Campus Dr	End Loop	310	R							X						09/11/2001
+765485	  79	01005	     	79-1005	Lakeside Dr	321	Town of Warsaw	079	Richmond County	0.18	79-1012 Sunset Lane	79-1006 Ridgeway Rd	30	R							X						06/06/2004
+765486	  79	01005	     	79-1005	Lakeside Dr	321	Town of Warsaw	079	Richmond County	0.17	79-1006 Rideway Rd	79-1020 Ivy Lane	100	R							X						06/07/2004
+765487	  79	01005	     	79-1005	Lakeside Dr	321	Town of Warsaw	079	Richmond County	0.08	79-1020 Ivy Lane	79-690 Menokin Rd	80	R							X						06/07/2004
+765488	  79	01006	     	79-1006	Ridgeway Rd	321	Town of Warsaw	079	Richmond County	0.08	79-1012 Sunset Lane	79-1005 Lakeside Dr	240	R							X						05/14/2007
+765489	  79	01006	     	79-1006	Ridgeway Rd	321	Town of Warsaw	079	Richmond County	0.10	79-1005 Lakeside Dr	SR 3	410	R							X						05/14/2007
+765490	  79	01007	     	79-1007	Sabine Hall Rd	321	Town of Warsaw	079	Richmond County	0.13	US 360 Richmond Rd	Dead End	820	R							X						05/14/2007
+765491	  79	01008	     	79-1008	Pine St	321	Town of Warsaw	079	Richmond County	0.19	US 360 Richmond Rd	79-1002 Belleville Lane	120	R							X						05/02/2007
+765492	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.09	79-1028 Level Blvd	79-1014 SOUTH	200	R							X						06/09/2004
+765493	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.02	79-1014 SOUTH	79-1014 NORTH	230	R							X						06/09/2004
+765494	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.06	79-1014 NORTH	79-1010 SOUTH	240	R							X						06/09/2004
+765495	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.03	79-1010 SOUTH	79-1010 NORTH	280	R							X						06/09/2004
+765496	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.05	79-1010 NORTH	US 360 Richmond Rd	330	R							X						05/14/2007
+765497	  79	01010	     	79-1010	 	321	Town of Warsaw	079	Richmond County	0.06	WCL Warsaw	79-1011 Madison Ave	30	R							X						06/09/2004
+765498	  79	01010	     	79-1010	 	321	Town of Warsaw	079	Richmond County	0.09	79-1011 Madison Ave	79-1009 Washington Ave	150	R							X						06/09/2004
+765499	  79	01010	     	79-1010	 	321	Town of Warsaw	079	Richmond County	0.14	79-1009 S, Washington Ave	79-1018 Memorial Dr	30	R							X						06/07/2004
+765500	  79	01011	     	79-1011	Madison Ave	321	Town of Warsaw	079	Richmond County	0.09	79-1014	79-1010	70	R							X						06/09/2004
+765501	  79	01012	     	79-1012	Sunset Lane	321	Town of Warsaw	079	Richmond County	0.11	Dead End	79-1005 Lakeside Dr	170	R							X						06/07/2004
+765502	  79	01012	     	79-1012	Sunset Lane	321	Town of Warsaw	079	Richmond County	0.08	79-1005 Lakeside Dr	79-1006 Ridgeway Rd	160	R							X						06/07/2004
+765503	  79	01012	     	79-1012	Sunset Lane	321	Town of Warsaw	079	Richmond County	0.28	79-1006 Ridgeway Rd	Dead End	80	R							X						06/07/2004
+765504	  79	01013	     	79-1013	Jones Lane	321	Town of Warsaw	079	Richmond County	0.18	US 360 Richmond Rd	Dead End	410	R							X						05/14/2007
+765505	  79	01014	     	79-1014	 	321	Town of Warsaw	079	Richmond County	0.04	WCL Warsaw	79-1011 Madison Ave	20	R							X						06/09/2004
+765506	  79	01014	     	79-1014	 	321	Town of Warsaw	079	Richmond County	0.09	79-1011 Madison Ave	79-1009 Washington Ave	20	R							X						06/09/2004
+765507	  79	01014	     	79-1014	 	321	Town of Warsaw	079	Richmond County	0.15	79-1009 Washington Ave	79-1018 Memorial Dr	40	R							X						06/07/2004
+765508	  79	01015	     	79-1015	Wallace St	321	Town of Warsaw	079	Richmond County	0.23	Cul-de-Sac	0.23 MN Cul-de-Sac	120	R							X						05/14/2007
+765509	  79	01015	     	79-1015	Wallace St	321	Town of Warsaw	079	Richmond County	0.33	0.23 MN Cul-de-Sac	79-1036 Campus Dr	450	R							X						05/14/2007
+765510	  79	01015	     	79-1015	Wallace St	321	Town of Warsaw	079	Richmond County	0.09	79-1036 Campus Dr	US 360 Richmond Rd	800	R							X						05/14/2007
+765511	  79	01016	     	79-1016	Morgan Lane	321	Town of Warsaw	079	Richmond County	0.41	79-1017 West Morgan Lane	US 360 Richmond Rd	370	R							X						05/07/2004
+765512	  79	01017	     	79-1017	West Morgan Lane	321	Town of Warsaw	079	Richmond County	0.04	Dead End	79-1016 Morgan Lane	40	R							X						06/07/2004
+765513	  79	01017	     	79-1017	West Morgan Lane	321	Town of Warsaw	079	Richmond County	0.07	79-1016 Morgan Lane	79-1023 Quail Trail	150	R							X						06/07/2004
+765514	  79	01017	     	79-1017	West Morgan Lane	321	Town of Warsaw	079	Richmond County	0.10	79-1023 Quail Trail	Dead End	60	R							X						06/07/2004
+765515	  79	01018	     	79-1018	Memorial Dr	321	Town of Warsaw	079	Richmond County	0.05	SCL Warsaw	79-1014	50	R							X						06/07/2004
+765516	  79	01018	     	79-1018	Memorial Dr	321	Town of Warsaw	079	Richmond County	0.10	79-1014	79-1010	80	R							X						06/07/2004
+765517	  79	01018	     	79-1018	Memorial Dr	321	Town of Warsaw	079	Richmond County	0.08	79-1010	79-649 Meadowbrook Rd	110	R							X						06/07/2004
+765518	  79	01019	     	79-1019	Gordon Lane	321	Town of Warsaw	079	Richmond County	0.15	US 360 Richmond Rd	Dead End	40	R							X						06/07/2004
+765519	  79	01020	     	79-1020	Ivy Lane	321	Town of Warsaw	079	Richmond County	0.12	79-1005 Lakeside Dr	NCL Warsaw	30	R							X						06/07/2004
+765520	  79	01021	     	79-1021	Maple St	321	Town of Warsaw	079	Richmond County	0.15	79-1022 Walnut St	US 360 Richmond Rd	590	R							X						05/24/2004
+765521	  79	01022	     	79-1022	Walnut St	321	Town of Warsaw	079	Richmond County	0.18	SR 3	79-1021 Maple St	1200	R							X						05/24/2004
+765522	  79	01022	     	79-1022	Walnut St	321	Town of Warsaw	079	Richmond County	0.04	79-1021 Maple St	Dead End	1200	R							X						05/24/2004
+765523	  79	01023	     	79-1023	Quail Trail	321	Town of Warsaw	079	Richmond County	0.16	Dead End	79-1017 West Morgan Lane	70	R							X						06/07/2004
+765524	  79	01027	     	79-1027	Sturman Lane	321	Town of Warsaw	079	Richmond County	0.15	Dead End	79-649 Meadowbrook Rd	70	R							X						06/07/2004
+765525	  79	01028	     	79-1028	Level Blvd	321	Town of Warsaw	079	Richmond County	0.13	79-1029 Georgia Ave	79-1009 Washington Ave	160	R							X						06/09/2004
+765526	  79	01028	     	79-1028	Level Blvd	321	Town of Warsaw	079	Richmond County	0.02	79-1009 Washington Ave	Dead End	30	R							X						06/09/2004
+765528	  79	01033	     	79-1033	Lee Ave	321	Town of Warsaw	079	Richmond County	0.17	US 360 Richmond Rd	79-1034 Jackson Court	150	R							X						06/07/2004
+765529	  79	01033	     	79-1033	Lee Ave	321	Town of Warsaw	079	Richmond County	0.09	79-1034 Jackon Court	Dead End	60	R							X						06/07/2004
+765530	  79	01034	     	79-1034	Jackson Court	321	Town of Warsaw	079	Richmond County	0.05	79-1033 Lee Ave	Cul-de-Sac	40	R							X						06/07/2004
+765531	  79	01035	     	79-1035	College Ave	321	Town of Warsaw	079	Richmond County	0.07	US 360 Richmond Rd	79-1037 Atkinson Dr	470	R							X						05/14/2007
+765532	  79	01035	     	79-1035	College Ave	321	Town of Warsaw	079	Richmond County	0.22	79-1037 Atkinson Dr	79-1038 Freedom Way	310	R							X						05/14/2007
+765534	  79	01035	     	79-1035	College Ave	321	Town of Warsaw	079	Richmond County	0.04	79-1038 Freedom Way	Dead End	20	R							X						05/14/2007
+765535	  79	01036	     	79-1036	Campus Dr	321	Town of Warsaw	079	Richmond County	0.04	79-1004 Court Circle	79-1015 Wallace St	260	R							X						06/07/2004
+765536	  79	01037	     	79-1037	Atkinson Dr	321	Town of Warsaw	079	Richmond County	0.18	79-1035 College Ave	0.18 MN 79-1035 College Ave	140	R							X						06/07/2004
+765537	  79	01037	     	79-1037	Atkinson Dr	321	Town of Warsaw	079	Richmond County	0.02	0.18 MN 79-1035 College Ave	Dead End	40	R							X						06/07/2004
+765538	  79	01038	     	79-1038	Freedom Way	321	Town of Warsaw	079	Richmond County	0.16	Cul-de-Sac	79-1035 College Ave	170	R							X						06/07/2004
+765539	  79	01038	     	79-1038	Freedom Way	321	Town of Warsaw	079	Richmond County	0.05	79-1035 College Ave	Cul-de-Sac	30	R							X						06/07/2004
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

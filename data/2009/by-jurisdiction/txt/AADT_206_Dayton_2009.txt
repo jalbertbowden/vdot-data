@@ -1,0 +1,41 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Dayton																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+785303	  SR	00042	     		John Wayland Hwy	206	Town of Dayton	082	Rockingham County	0.42	SCL Dayton	BUS SR 42	14000	N	94%	1%	2%	1%	2%	0%	N	0.0861	N	0.5496	14000	N	2009
+080264	  SR	00042	     	VA 42	John Wayland Hwy	206	Town of Dayton	082	Rockingham County	0.45	BUS SR 42	NCL Dayton	16000	G	98%	0%	1%	1%	1%	0%	C	0.1051	A	0.0000	18000	G	2009
+080455	C1SR	00042	     	Bus VA 42	Main St	206	Town of Dayton	082	Rockingham County	0.12	SR 257 Ottobine Rd	S SR 290 Huffman Dr	2100	F	96%	0%	1%	2%	1%	0%	F	0.1049	F	0.5908	2100	F	2009
+080454	C1SR	00042	     		Main St	206	Town of Dayton	082	Rockingham County	0.07	SR 290 S Huffman Dr	SR 290 N College St	3100	F	96%	0%	1%	2%	1%	0%	F	0.0988	F	0.5784	3400	F	2009
+080453	C1SR	00042	     	Bus VA 42	Main St	206	Town of Dayton	082	Rockingham County	0.60	SR 290 N College St	NCL Dayton	1200	F	96%	0%	1%	2%	1%	0%	C	0.1090	F	0.6014	1200	F	2009
+080093	  SR	00257	     	VA 257	Ottobine Rd	206	Town of Dayton	082	Rockingham County	0.42	WCL Dayton	W SR 42 Bus	3900	N	96%	0%	1%	1%	1%	0%	N	0.1039	N	0.6439	4200	N	2009
+785303	  SR	00257	     		John Wayland Hwy	206	Town of Dayton	082	Rockingham County	0.42	E RT 42 BUS	CL Dayton	14000	N	94%	1%	2%	1%	2%	0%	N	0.0861	N	0.5496	14000	N	2009	
+080476	  SR	00290	     	VA 290	Pike Church Rd; College St	206	Town of Dayton	082	Rockingham County	0.15	ECL Dayton	SR 42 John Wayland Hwy	8100	F	95%	2%	1%	1%	1%	0%	F	0.0945	F	0.5032	8600	F	2009
+080475	  SR	00290	     	VA 290	Huffman Dr	206	Town of Dayton	082	Rockingham County	0.06	SR 42 John Wayland Hwy	S SR 42 Bus	2400	F	95%	2%	1%	1%	1%	0%	F	0.1130	F	0.7326	2400	F	2009
+080454	  SR	00290	     		Main St	206	Town of Dayton	082	Rockingham County	0.07	S SR 42 BUS	N SR 42 BUS	3100	F	96%	0%	1%	2%	1%	0%	F	0.0988	F	0.5784	3400	F	2009	
+080474	  SR	00290	     	VA 290	College St	206	Town of Dayton	082	Rockingham County	0.33	N SR 42 Bus	NCL Dayton	2400	F	95%	2%	1%	1%	1%	0%	C	0.1329	F	0.6994	2500	F	2009
+402769	  82	00732	     	82-732	Bowman Rd	206	Town of Dayton	082	Rockingham County	0.06	82-1207 High St	SR 290 Gap	2200	F	94%	1%	1%	1%	3%	0%	F	0.1682	F	0.6303	2300	F	2009
+768832	  82	01201	     	82-1201	Turner St	206	Town of Dayton	082	Rockingham County	0.08	82-1203 West View St	82-1204 Ashby St	30	R							X						09/28/2000
+768833	  82	01202	     	82-1202	Sunset Dr	206	Town of Dayton	082	Rockingham County	0.17	SR 257 Ottobine Rd	82-1209 Thompson	210	R							X						10/16/2000
+768834	  82	01202	     	82-1202	Sunset Dr	206	Town of Dayton	082	Rockingham County	0.12	82-1209 Thompson	WCL Dayton; 82-1208	280	R							X						10/16/2000
+768836	  82	01203	     	82-1203	West View St	206	Town of Dayton	082	Rockingham County	0.45	SR 257 Ottobine Rd	82-732 Bowman Rd	310	R							X						10/16/2000
+768837	  82	01204	     	82-1204	Ashby St	206	Town of Dayton	082	Rockingham County	0.45	SR 257 Ottobine Rd	82-732 Bowman Rd	970	R							X						09/28/2000
+768838	  82	01205	     	82-1205	Summit St	206	Town of Dayton	082	Rockingham County	0.16	SR 257 Ottobine Rd	82-1209 Thompson	150	R							X						09/28/2000
+768839	  82	01205	     	82-1205	Summit St	206	Town of Dayton	082	Rockingham County	0.12	82-1209 Thompson	82-1208 Mill St	70	R							X						09/28/2000
+768840	  82	01206	     	82-1206	East View St	206	Town of Dayton	082	Rockingham County	0.12	SR 257 Ottobine Rd	82-1209 Thompson	280	R							X						09/28/2000
+768841	  82	01206	     	82-1206	East View St	206	Town of Dayton	082	Rockingham County	0.13	82-1209 Thompson	82-1208 Mill St	260	R							X						09/28/2000
+768842	  82	01207	     	82-1207	High St	206	Town of Dayton	082	Rockingham County	0.40	82-1209 Thompson	82-732 Bowman Rd	260	R							X						09/28/2000
+768843	  82	01208	     	82-1208	Mill St	206	Town of Dayton	082	Rockingham County	0.56	WCL Dayton	Bus SR 42	730	R							X						10/16/2000
+768844	  82	01209	     	82-1209	Thompson	206	Town of Dayton	082	Rockingham County	0.07	82-1202 Sunset Dr	82-1203 West View St	90	R							X						10/21/2003
+768845	  82	01209	     	82-1209	Thompson	206	Town of Dayton	082	Rockingham County	0.09	82-1203 West View Ave	82-1204 Ashby St	190	R							X						10/21/2003
+768846	  82	01209	     	82-1209	Thompson	206	Town of Dayton	082	Rockingham County	0.26	82-1204 Ashby Ave	82-1207 High St	460	R							X						09/28/2000
+768847	  82	01210	     	82-1210	Stover	206	Town of Dayton	082	Rockingham County	0.09	82-1203 West View St	82-1204 Ashby St	160	R							X						10/16/2000
+768848	  82	01210	     	82-1210	Stover St	206	Town of Dayton	082	Rockingham County	0.09	82-1204 Ashby St	82-1205 Summit Ave	40	R							X						10/16/2000
+768849	  82	01211	     	82-1211	 	206	Town of Dayton	082	Rockingham County	0.10	SR 257; Bus SR 42	SR 42 John Wayland Hwy	490	R							X						03/31/2009
+768850	  82	01212	     	82-1212	 	206	Town of Dayton	082	Rockingham County	0.23	Dead End	82-732 Bowman Rd	610	R							X						06/20/2006
+769032	  82	09370	     	82-9370	 	206	Town of Dayton	082	Rockingham County	0.46	82-732 Turner Rd	Ashby High Sch	550	R							X						10/26/2000
+769033	  82	09370	     	82-9370	 	206	Town of Dayton	082	Rockingham County	0.04	0.46 MN 82-732 Turner Rd	0.50 MN 82-732 Turner Rd	280	R							X						10/26/2000
+769034	  82	09370	     	82-9370	 	206	Town of Dayton	082	Rockingham County	0.05	0.50 MN 82-732 Turner Rd	Dayton Elem Sch	130	R							X						10/26/2000
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

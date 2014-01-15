@@ -1,0 +1,80 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Mount Jackson																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080147	  US	00011	     	US 11	Main St	265	Town of Mount Jackson	085	Shenandoah County	0.72	SCL Mt. Jackson	SR 263 Orkney Grade	4700	N	97%	0%	1%	1%	1%	0%	N	0.0915	N	0.0000	4900	N	2009
+080186	  US	00011	     	US 11	Main St	265	Town of Mount Jackson	085	Shenandoah County	1.85	SR 263 Orkney Grade	NCL Mt. Jackson	3800	G	97%	0%	1%	1%	1%	0%	F	0.0965	F	0.0000	4000	G	2009
+080105	  SR	00263	     	VA 263	 	265	Town of Mount Jackson	085	Shenandoah County	0.52	WCL Mt. Jackson	US 11	3200	N	98%	0%	1%	1%	1%	0%	N	0.0885	N	0.6698	2900	N	2009
+080508	  SR	00292	     	VA 292	Conicville Rd	265	Town of Mount Jackson	085	Shenandoah County	0.23	WCL Mt Jackson	US 11 Main St	9000	G	70%	1%	1%	1%	25%	2%	C	0.0765	F	0.0000	9400	G	2009
+302787	  85	00698	     	85-698	Orchard Dr	265	Town of Mount Jackson	085	Shenandoah County	0.29	WCL Mt Jackson	SR 263 WEST	780	G	98%	0%	1%	1%	0%	0%	C	0.0927	F	0.5600	820	G	2009
+770660	  85	00698	     	85-698	 	265	Town of Mount Jackson	085	Shenandoah County	0.11	SR 263 EAST	US 11 S, Main St	30	R							X						1999
+302788	  85	00698	     	85-698	Red Banks Rd	265	Town of Mount Jackson	085	Shenandoah County	0.19	US 11 N, Main St	ECL Mt Jackson	730	G	98%	0%	1%	1%	0%	0%	C	0.1110	F	0.5488	770	G	2009
+770785	  85	00743	     	85-743	Shenandoah St	265	Town of Mount Jackson	085	Shenandoah County	0.04	85-1328 Railroad St	85-1329 Second Ave	290	R							X						04/07/2008
+770786	  85	00743	     	85-743	Shenandoah St	265	Town of Mount Jackson	085	Shenandoah County	0.28	85-1329 Second Ave	US 11 Main St	470	R							X						1999
+770800	  85	00753	     	85-753	Jackson St	265	Town of Mount Jackson	085	Shenandoah County	0.09	85-1328 Railroad St	85-1333 Painters St	380	R							X						05/27/2008
+770801	  85	00753	     	85-753	Jackson St	265	Town of Mount Jackson	085	Shenandoah County	0.06	85-1333 Painters St	85-1330 First Ave	390	R							X						09/27/2005
+770802	  85	00753	     	85-753	Jackson St	265	Town of Mount Jackson	085	Shenandoah County	0.10	85-1330 First Ave	US 11 Main St	560	R							X						05/27/2008
+770879	  85	00790	     	85-790	Center St	265	Town of Mount Jackson	085	Shenandoah County	0.10	85-1320 Moore Ave	85-1322 Randall St	190	R							X						05/27/2008
+770880	  85	00790	     	85-790	Center St	265	Town of Mount Jackson	085	Shenandoah County	0.12	85-1322 Randall St	US 11 Main St	620	R							X						05/27/2008
+302821	  85	01301	     	85-1301	Dutch Lane	265	Town of Mount Jackson	085	Shenandoah County	0.25	US 11 Main St	85-1305 Lonas St	760	G	99%	0%	0%	0%	0%	0%	C	0.1215	F	0.5109	790	G	2009
+771008	  85	01301	     	85-1301	Dutch Lane	265	Town of Mount Jackson	085	Shenandoah County	0.13	85-1305 Lonas St	Dead End	300	R							X						05/27/2008
+771009	  85	01302	     	85-1302	Shannon Ave	265	Town of Mount Jackson	085	Shenandoah County	0.08	Dead End	85-1307 Shannon Ave	30	R							X						05/27/2008
+771010	  85	01302	     	85-1302	Shannon Ave	265	Town of Mount Jackson	085	Shenandoah County	0.06	85-1307 Shannon Ave	US 11 Main St	180	R							X						05/27/2008
+771011	  85	01303	     	85-1303	Tisinger St	265	Town of Mount Jackson	085	Shenandoah County	0.08	85-1305 Lonas St	85-1306 Broad St	110	R							X						05/06/2002
+771012	  85	01303	     	85-1303	Tisinger St	265	Town of Mount Jackson	085	Shenandoah County	0.08	85-1306 Broad St	85-1304 Gospel St	80	R							X						1999
+771013	  85	01304	     	85-1304	Gospel St	265	Town of Mount Jackson	085	Shenandoah County	0.36	85-1324 Orkney Dr	85-1301 Dutch Lane	450	R							X						05/27/2008
+771014	  85	01305	     	85-1305	Lonas St	265	Town of Mount Jackson	085	Shenandoah County	0.02	Dead End	85-1303 Tisinger St	40	R							X						04/07/2008
+771015	  85	01305	     	85-1305	Lonas St	265	Town of Mount Jackson	085	Shenandoah County	0.11	85-1303 Tisinger St	85-1326 Wunder St	150	R							X						05/27/2008
+771016	  85	01305	     	85-1305	Lonas St	265	Town of Mount Jackson	085	Shenandoah County	0.05	85-1326 Wunder St	85-1332 Swan Dr	220	R							X						1999
+771017	  85	01305	     	85-1305	Lonas St	265	Town of Mount Jackson	085	Shenandoah County	0.12	85-1332 Swan Dr	85-1306 Broad St	200	R							X						05/27/2008
+771018	  85	01305	     	85-1305	Lonas St	265	Town of Mount Jackson	085	Shenandoah County	0.07	85-1306 Broad St	85-1301 Dutch Lane	300	R							X						1999
+771019	  85	01306	     	85-1306	Broad St	265	Town of Mount Jackson	085	Shenandoah County	0.42	85-1324 Orkney Dr	85-1305 Lonas St	400	R							X						05/27/2008
+771020	  85	01307	     	85-1307	Shannon Ave	265	Town of Mount Jackson	085	Shenandoah County	0.08	85-1302 Shannon Ave	Dead End	80	R							X						05/06/2002
+771021	  85	01308	     	85-1308	Shenell Dr	265	Town of Mount Jackson	085	Shenandoah County	0.25	US 11 Main St	End Loop	210	R							X						05/06/2002
+771022	  85	01309	     	85-1309	Apple Ave	265	Town of Mount Jackson	085	Shenandoah County	0.13	US 11 Main St	85-1310 E, Dogwood Dr	260	R							X						1999
+771023	  85	01310	     	85-1310	Dogwood Dr	265	Town of Mount Jackson	085	Shenandoah County	0.09	85-1312 W, Maple Ave	85-1309 W, Apple Ave	47	R							X						05/27/2008
+771024	  85	01310	     	85-1310	Dogwood Dr	265	Town of Mount Jackson	085	Shenandoah County	0.19	85-1309 W, Apple Ave	85-1309 E, Apple Ave	50	R							X						1999
+771025	  85	01310	     	85-1310	Dogwood Dr	265	Town of Mount Jackson	085	Shenandoah County	0.09	85-1309 E, Apple Ave	85-1312 E, Maple Ave	90	R							X						05/27/2008
+771026	  85	01310	     	85-1310	Dogwood Dr	265	Town of Mount Jackson	085	Shenandoah County	0.05	85-1312 E, Maple Ave	85-1325 Elm Dr	140	R							X						1999
+771027	  85	01310	     	85-1310	Dogwood Dr	265	Town of Mount Jackson	085	Shenandoah County	0.07	85-1325 Elm Dr	85-1316 East Avondale Ave	100	R							X						05/27/2008
+771028	  85	01311	     	85-1311	Montvue Ave	265	Town of Mount Jackson	085	Shenandoah County	0.10	Dead End	0.10 MN Dead End	130	R							X						05/06/2002
+771029	  85	01311	     	85-1311	Montvue Ave	265	Town of Mount Jackson	085	Shenandoah County	0.09	0.10 MN Dead End	US 11 Main St	130	R							X						05/06/2002
+771030	  85	01312	     	85-1312	Maple Ave	265	Town of Mount Jackson	085	Shenandoah County	0.07	US 11 Main St	85-1310 W, Dogwood Dr	220	R							X						09/27/2005
+771031	  85	01312	     	85-1312	Maple Ave	265	Town of Mount Jackson	085	Shenandoah County	0.06	85-1310 W, Dogwood Dr	85-1310 E, Dogwood Dr	200	R							X						05/27/2008
+771032	  85	01312	     	85-1312	Maple Ave	265	Town of Mount Jackson	085	Shenandoah County	0.03	85-1310 E, Dogwood Dr	ECL Mount Jackson	80	R							X						05/27/2008
+771033	  85	01313	     	85-1313	Hopewell Ave	265	Town of Mount Jackson	085	Shenandoah County	0.12	85-1314 Nelson St	Dead End	80	R							X						1999
+771034	  85	01314	     	85-1314	Nelson St	265	Town of Mount Jackson	085	Shenandoah County	0.13	Dead End	85-1313 Hopewell Ave	110	R							X						05/27/2008
+771035	  85	01314	     	85-1314	Nelson St	265	Town of Mount Jackson	085	Shenandoah County	0.21	85-1313 Hopewell Ave	US 11 Main St	410	R							X						1999
+771036	  85	01315	     	85-1315	Mill Creek Lane	265	Town of Mount Jackson	085	Shenandoah County	0.15	Dead End	85-698 Orchard Dr	46	R							X						05/27/2008
+771037	  85	01316	     	85-1316	East Avondale Ave	265	Town of Mount Jackson	085	Shenandoah County	0.18	Dead End	US 11 Main St	440	R							X						09/27/2005
+771038	  85	01316	     	85-1316	East Avondale Ave	265	Town of Mount Jackson	085	Shenandoah County	0.17	US 11 Main St	NCL Mt Jackson	320	R							X						05/27/2008
+785217	  85	01316	     	85-1316	East Avondale Ave	265	Town of Mount Jackson	085	Shenandoah County	0.14	NCL Mt Jackson	Cul-de-Sac	100	R							X						05/06/2002
+771045	  85	01320	     	85-1320	Moore Ave	265	Town of Mount Jackson	085	Shenandoah County	0.04	Dead End	85-790 Center St	30	R							X						05/27/2008
+771046	  85	01320	     	85-1320	Moore Ave	265	Town of Mount Jackson	085	Shenandoah County	0.08	85-790 Center St	85-1321 Craig St	90	R							X						1999
+771047	  85	01321	     	85-1321	Craig St	265	Town of Mount Jackson	085	Shenandoah County	0.08	85-1320 Moore Ave	85-1322 Randall St	90	R							X						05/27/2008
+771048	  85	01322	     	85-1322	Randall St	265	Town of Mount Jackson	085	Shenandoah County	0.06	Dead End	85-790 Center St	70	R							X						09/27/2005
+771049	  85	01322	     	85-1322	Randall St	265	Town of Mount Jackson	085	Shenandoah County	0.08	85-790 Center St	85-1321 Craig St	140	R							X						05/27/2008
+771050	  85	01323	     	85-1323	Medical Dr	265	Town of Mount Jackson	085	Shenandoah County	0.06	US 11 Main St	Dead End	190	R							X						09/27/2005
+771051	  85	01324	     	85-1324	Orkney Dr	265	Town of Mount Jackson	085	Shenandoah County	0.03	SR 263	85-1306 Broad St	660	R							X						05/27/2008
+771052	  85	01324	     	85-1324	Orkney Dr	265	Town of Mount Jackson	085	Shenandoah County	0.07	85-1306 Broad St	85-1304 Gospel St	880	R							X						1999
+771053	  85	01324	     	85-1324	Orkney Dr	265	Town of Mount Jackson	085	Shenandoah County	0.16	85-1304 Gospel St	US 11 Main St	680	R							X						05/27/2008
+771054	  85	01325	     	85-1325	Elm Dr	265	Town of Mount Jackson	085	Shenandoah County	0.13	85-1310 Dogwood Dr	85-1316 East Avondale Ave	110	R							X						1999
+771055	  85	01326	     	85-1326	Wunder St	265	Town of Mount Jackson	085	Shenandoah County	0.07	Dead End	0.07 ME Dead End	230	R							X						05/27/2008
+771056	  85	01326	     	85-1326	Wunder St	265	Town of Mount Jackson	085	Shenandoah County	0.05	0.07 ME Dead End	85-1305 Lonas St	230	R							X						05/27/2008
+771057	  85	01326	     	85-1326	Wunder St	265	Town of Mount Jackson	085	Shenandoah County	0.08	85-1305 Lonas St	85-1306 Broad St	230	R							X						05/27/2008
+771058	  85	01327	     	85-1327	Broad St	265	Town of Mount Jackson	085	Shenandoah County	0.12	Dead End	85-1301 Dutch Lane	140	R							X						1999
+771059	  85	01328	     	85-1328	Railroad St	265	Town of Mount Jackson	085	Shenandoah County	0.03	Dead End	85-743 Shenandoah St	20	R							X						05/27/2008
+771060	  85	01328	     	85-1328	Railroad St	265	Town of Mount Jackson	085	Shenandoah County	0.07	85-743 Shenandoah St	85-1329 Second Ave	220	R							X						05/27/2008
+771061	  85	01328	     	85-1328	Railroad St	265	Town of Mount Jackson	085	Shenandoah County	0.13	85-1329 Second Ave	85-753 Jackson St	310	R							X						1999
+771062	  85	01329	     	85-1329	Second Ave	265	Town of Mount Jackson	085	Shenandoah County	0.10	85-743 Shenandoah St	85-1328 Railroad St	50	R							X						09/27/2005
+771063	  85	01330	     	85-1330	First Ave	265	Town of Mount Jackson	085	Shenandoah County	0.14	85-753 Jackson St	85-1333 Painters St	70	R							X						05/27/2008
+771064	  85	01330	     	85-1330	First Ave	265	Town of Mount Jackson	085	Shenandoah County	0.11	85-1333 Painters St	US 11 Main St	90	R							X						05/27/2008
+771065	  85	01331	     	85-1331	Robin St	265	Town of Mount Jackson	085	Shenandoah County	0.06	85-1306 Broad St	85-1301 Dutch Lane	350	R							X						1999
+771066	  85	01332	     	85-1332	Swan Dr	265	Town of Mount Jackson	085	Shenandoah County	0.08	85-1305 Lonas St	85-1306 Broad St	70	R							X						05/27/2008
+771067	  85	01333	     	85-1333	Painters St	265	Town of Mount Jackson	085	Shenandoah County	0.20	85-753 Jackson St	85-1330 First Ave	50	R							X						09/27/2005
+771068	  85	01334	     	85-1334	Bridge St	265	Town of Mount Jackson	085	Shenandoah County	0.19	US 11 Main St	ECL Mt Jackson	180	R							X						05/27/2008
+793414	  85	01335	     	85-1335	 	265	Town of Mount Jackson	085	Shenandoah County	0.05	85-1306 Broad St	Dead End	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

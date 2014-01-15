@@ -1,0 +1,99 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Fredericksburg																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+150124	  US	00001	     	US 1	Jefferson Davis Blvd	111	City of Fredericksburg	111	City of Fredericksburg	1.48	SCL Fredericksburg	SR 3	31000	A	98%	0%	1%	0%	0%	0%	C	0.0998	A	0.6170	33000	A	2009
+631021	  US	00001	     	US 1	Jefferson Davis Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.90	SR 3	College Ave	29000	G	98%	0%	1%	0%	0%	0%	F	0.0866	F	0.0000	31000	G	2009
+631022	  US	00001	     	US 1	Jefferson Davis Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.59	College Ave	Fall Hill Ave	28000	G	98%	0%	1%	0%	0%	0%	F	0.0818	F	0.0000	31000	G	2009
+631023	  US	00001	     	US 1	Jefferson Davis Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.29	Fall Hill Ave	Bus US 1 Princess Anne Ave	21000	G	98%	0%	1%	0%	0%	0%	F				23000	G	2009
+631068	  US	00001	     		Jefferson Davis Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.11	BUS US 1 Princess Anne Ave	NCL Fredericksburg	29000	N	98%	0%	1%	0%	1%	0%	N	0.0838	N	0.6058	32000	N	2009
+631026	C1US	00001	     	Bus US 1	LaFayette Blvd	111	City of Fredericksburg	111	City of Fredericksburg	1.42	SCL Fredericksburg	SR 3; Blue and Grey Parkway	21000	G	96%	1%	1%	1%	1%	0%	F	0.0851	F	0.0000	23000	G	2009
+631027	C1US	00001	     	Bus US 1	LaFayette Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.38	SR 3; Blue and Grey Parkway	111-3957 Sunken Rd	10000	G	96%	1%	1%	1%	1%	0%	F	0.0857	F	0.0000	11000	G	2009
+631028	C1US	00001	     	Bus US 1	LaFayette Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.56	111-3957 Sunken Rd	111-3961 Kenmore Ave	10000	G	96%	1%	1%	1%	1%	0%	F	0.0855	F	0.0000	11000	G	2009
+631029	C1US	00001	     	Bus US 1	LaFayette Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.10	111-3961 Kenmore Ave	Bus US 1 Par, Bus 17 Par Princess Anne St	5200	N	97%	1%	2%	0%	0%	0%	N	0.0945	N	0.0000	5700	N	2009
+631030	C1US	00001	     	Bus US 1	LaFayette Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.06	Bus US 1 Par, Bus 17 Par Princess Anne St	Bus US 17 Caroline St	5200	G	97%	1%	2%	0%	0%	0%	F	0.0945	F	0.0000	5700	G	2009
+631061	C1US	00001	     		Caroline St	111	City of Fredericksburg	111	City of Fredericksburg	0.38	Bus US 17, Lafayette Blvd	Bus SR 3 William St	5100	G	97%	1%	2%	0%	0%	0%	F	0.0850	F	1.0000	5600	G	2009		11000	G	98%	1%	1%	0%	0%	0%	F				12000	G
+631062	C1US	00001	     		Caroline St	111	City of Fredericksburg	111	City of Fredericksburg	0.51	Bus SR 3 William St	Herndon St	6000	G	97%	1%	2%	0%	0%	0%	C	0.0858	F	1.0000	6500	G	2009		13000	G	98%	1%	1%	0%	0%	0%	C				14000	G
+631066	C1US	00001	     		Herndon St	111	City of Fredericksburg	111	City of Fredericksburg	0.06	Caroline St	Bus US 1 Par Princess Anne St	4500	G	97%	1%	2%	0%	0%	0%	F	0.0815	F	1.0000	4900	G	2009
+631039	C1US	00001	     		Princess Anne St	111	City of Fredericksburg	111	City of Fredericksburg	0.70	Bus US 1 Par Herndon St	US 1 Jefferson Davis Highway	9700	G	98%	0%	1%	0%	0%	0%	C	0.0940	F	0.0000	10000	G	2009
+631040	C1US	00001	P    		Princess Anne St	111	City of Fredericksburg	111	City of Fredericksburg	0.37	Bus US 1, Bus US 17 Lafayette Blvd	Bus SR 3 William St	6300	G	98%	1%	1%	0%	0%	0%	F	0.0875	F	1.0000	6900	G	2009		11000	G	98%	1%	1%	0%	0%	0%	F				12000	G
+631065	C1US	00001	P    		Princess Anne St	111	City of Fredericksburg	111	City of Fredericksburg	0.52	Bus SR 3 William St	Bus US 1 Herndon St	7200	G	98%	1%	1%	0%	0%	0%	C	0.1088	F	1.0000	7800	G	2009		13000	G	98%	1%	1%	0%	0%	0%	C				14000	G
+631004	  SR	00002	     		Dixon St	111	City of Fredericksburg	111	City of Fredericksburg	0.55	ECL Fredericksburg	Ramp from SR 3 Connector	22000	G	94%	1%	1%	2%	3%	0%	C	0.0884	F	0.0000	24000	G	2009	
+631006	  SR	00002	     		Dixon St	111	City of Fredericksburg	111	City of Fredericksburg	0.26	Ramp from SR 3 Connector	Charles St	10000	G	98%	1%	1%	0%	0%	0%	C	0.0969	F	0.0000	11000	G	2009	
+631007	  SR	00002	     		Dixon St	111	City of Fredericksburg	111	City of Fredericksburg	0.06	Charles St	Princess Anne St	4800	G	98%	1%	1%	0%	0%	0%	F	0.1014	F	0.0000	5200	G	2009		7700	G	97%	1%	1%	0%	0%	0%	F				8400	G
+631002	  SR	00002	     		Princess Anne St	111	City of Fredericksburg	111	City of Fredericksburg	0.26	Dixon St	Bus US 1	2900	G	96%	1%	2%	0%	0%	0%	C	0.1123	F	0.0000	3200	G	2009		5400	G	96%	1%	2%	0%	0%	0%	C				5900	G
+631040	  SR	00002	     		Princess Anne St	111	City of Fredericksburg	111	City of Fredericksburg	0.37	Bus US 1	Bus SR 3 William St	6300	G	98%	1%	1%	0%	0%	0%	F	0.0875	F	1.0000	6900	G	2009		11000	G	98%	1%	1%	0%	0%	0%	F				12000	G
+631035	  SR	00003	     	VA 3	Plank Rd	111	City of Fredericksburg	111	City of Fredericksburg	0.34	WCL Fredericksburg	I-95	84000	F	96%	0%	1%	1%	3%	0%	F	0.0768	F	0.5092	80000	F	2009
+631050	  SR	00003	     	VA 3	Plank Rd	111	City of Fredericksburg	111	City of Fredericksburg	0.61	I-95	Oakwood St	55000	G	94%	0%	1%	1%	3%	0%	F				55000	G	2009
+631051	  SR	00003	     	VA 3	Plank Rd	111	City of Fredericksburg	111	City of Fredericksburg	0.63	Oakwood St	US 1 Jefferson Davis Hwy	45000	G	94%	0%	1%	1%	3%	0%	F	0.0762	F	0.0000	45000	G	2009
+631058	  SR	00003	     	VA 3	William St	111	City of Fredericksburg	111	City of Fredericksburg	0.24	US 1 Jefferson Davis Hwy	Bus SR 3; Blue and Gray Pkwy	39000	G	94%	0%	1%	1%	3%	0%	F	0.0783	F	0.0000	43000	G	2009
+631063	  SR	00003	     	VA 3	Blue and Grey Parkway	111	City of Fredericksburg	111	City of Fredericksburg	0.53	Bus SR 3 William St	Bus US 1 LaFayette Blvd	30000	G	94%	0%	1%	1%	3%	0%	C	0.0821	F	0.0000	33000	G	2009
+631067	  SR	00003	     	VA 3	Blue and Grey Parkway	111	City of Fredericksburg	111	City of Fredericksburg	1.00	Bus US 1 LaFayette Blvd	Bus US 17 SR 2 Dixon St	36000	G	94%	0%	1%	1%	3%	0%	F	0.0822	F	0.0000	39000	G	2009
+631059	  SR	00003	     	VA 3	Blue and Grey Parkway	111	City of Fredericksburg	111	City of Fredericksburg	0.36	Bus US 17 SR 2 Dixon St	ECL Fredericksburg	32000	G	94%	0%	1%	1%	3%	0%	F	0.0879	F	0.0000	35000	G	2009
+160302	C1SR	00003	     	Bus VA 3	William St	111	City of Fredericksburg	111	City of Fredericksburg	0.14	SR 3 Blue and Grey Parkway	111-3958 Hanover St	13000	G	98%	0%	1%	0%	0%	0%	F	0.0855	F	0.0000	15000	G	2009
+631053	C1SR	00003	     	Bus VA 3	William St	111	City of Fredericksburg	111	City of Fredericksburg	0.30	111-3958 Hanover St	111-3955 College Ave	10000	G	98%	0%	1%	0%	0%	0%	C	0.0850	F	0.0000	11000	G	2009
+631054	C1SR	00003	     	Bus VA 3	William St	111	City of Fredericksburg	111	City of Fredericksburg	0.48	111-3955 College Ave	SR 3 Par, Washington Ave	11000	G	98%	0%	1%	0%	0%	0%	C	0.0846	F	0.0000	12000	G	2009
+631055	C1SR	00003	     	Bus VA 3	William St	111	City of Fredericksburg	111	City of Fredericksburg	0.37	SR 3 Par, Washington Ave	Bus US 1 Caroline St	5600	G	98%	0%	1%	0%	0%	0%	C	0.0895	F	1.0000	6100	G	2009		11000	G	97%	1%	1%	0%	0%	0%	F				11000	G
+631056	C1SR	00003	     	Bus VA 3	William St	111	City of Fredericksburg	111	City of Fredericksburg	0.07	Bus US 1 Caroline St	Bus SR 3 Par, Sophia St	6700	G	98%	0%	1%	0%	0%	0%	F	0.1076	F	1.0000	7300	G	2009		12000	G	97%	1%	1%	0%	0%	0%	F				13000	G
+631057	C1SR	00003	     	Bus VA 3	William St	111	City of Fredericksburg	111	City of Fredericksburg	0.03	Bus SR 3 Par, Sophia St	WCL Stafford	18000	G	98%	0%	1%	0%	0%	0%	F				20000	G	2009
+631048	C1SR	00003	P    	Bus VA 3 Par	Washington Ave	111	City of Fredericksburg	111	City of Fredericksburg	0.07	Bus SR 3 William St	111-3963 Amelia St	4900	G	96%	2%	1%	0%	1%	0%	F	0.0873	F	0.0000	5300	G	2009		11000	G	97%	1%	1%	0%	0%	0%	F				11000	G
+631001	C1SR	00003	P    	Bus VA 3 Par	Amelia St	111	City of Fredericksburg	111	City of Fredericksburg	0.43	111-3963, Washington Ave	111-3973 Sophia St	4200	G	96%	2%	1%	0%	1%	0%	C	0.0944	F	0.0000	4600	G	2009		9800	G	97%	1%	1%	0%	0%	0%	C	0.0000	?	0.0000	11000	G
+631064	C1SR	00003	P    	Bus VA 3 Par	Sophia St	111	City of Fredericksburg	111	City of Fredericksburg	0.07	111-3973, Amelia St	Bus SR 3 William St	5600	G	96%	2%	1%	0%	1%	0%	F	0.0954	F	0.0000	6100	G	2009		12000	G	97%	1%	1%	0%	0%	0%	F				13000	G
+060301	  US	00017	     		 	111	City of Fredericksburg	088	Spotsylvania County	0.89	SCL Fredericksburg	SR 3	61000	F	87%	1%	1%	0%	11%	1%	F				56000	F	2009		124000	F	91%	1%	1%	0%	7%	0%	F				111000	F
+060168	  US	00017	     		 	111	City of Fredericksburg	088	Spotsylvania County	2.29	SR 3	Stafford County Line	77000	F	87%	1%	1%	0%	11%	1%	F				72000	F	2009		145000	F	91%	1%	1%	0%	8%	0%	F				137000	F
+631004	C2US	00017	     		Dixon St	111	City of Fredericksburg	111	City of Fredericksburg	0.55	ECL Fredericksburg	Ramp from Rte. 3 Connector	22000	G	94%	1%	1%	2%	3%	0%	C	0.0884	F	0.0000	24000	G	2009
+631006	C2US	00017	     		Dixon St	111	City of Fredericksburg	111	City of Fredericksburg	0.26	Ramp from Rte. 3 Connector	Charles St	10000	G	98%	1%	1%	0%	0%	0%	C	0.0969	F	0.0000	11000	G	2009
+631007	C2US	00017	     		Dixon St	111	City of Fredericksburg	111	City of Fredericksburg	0.06	Charles St	Princess Anne St	4800	G	98%	1%	1%	0%	0%	0%	F	0.1014	F	0.0000	5200	G	2009		7700	G	97%	1%	1%	0%	0%	0%	F				8400	G
+631008	C2US	00017	     		Dixon St	111	City of Fredericksburg	111	City of Fredericksburg	0.06	Princess Anne St	Caroline St	2400	G	98%	1%	1%	0%	0%	0%	F				2600	G	2009		5300	G	97%	1%	2%	0%	0%	0%	F				5800	G
+631060	C2US	00017	     		Caroline St	111	City of Fredericksburg	111	City of Fredericksburg	0.24	Dixon Street	Layfayette Blvd	2500	G	97%	0%	2%	1%	0%	0%	C	0.0859	F	1.0000	2700	G	2009		5400	G	96%	1%	2%	0%	0%	0%	C				5900	G
+631061	C2US	00017	     		Caroline St	111	City of Fredericksburg	111	City of Fredericksburg	0.38	Layfayette Blvd	Bus SR 3 William St	5100	G	97%	1%	2%	0%	0%	0%	F	0.0850	F	1.0000	5600	G	2009		11000	G	98%	1%	1%	0%	0%	0%	F				12000	G
+631062	C2US	00017	     		Caroline St	111	City of Fredericksburg	111	City of Fredericksburg	0.51	Bus SR 3 William St	Herndon St	6000	G	97%	1%	2%	0%	0%	0%	C	0.0858	F	1.0000	6500	G	2009		13000	G	98%	1%	1%	0%	0%	0%	C				14000	G
+631066	C2US	00017	     		Herndon St	111	City of Fredericksburg	111	City of Fredericksburg	0.06	Caroline St	BUS US 1 Par Princess Anne St	4500	G	97%	1%	2%	0%	0%	0%	F	0.0815	F	1.0000	4900	G	2009	
+631039	C2US	00017	     		Princess Anne St	111	City of Fredericksburg	111	City of Fredericksburg	0.70	BUS US 1 Par Herndon St	US 1 Jefferson Davis Highway	9700	G	98%	0%	1%	0%	0%	0%	C	0.0940	F	0.0000	10000	G	2009	
+631068	C2US	00017	     		Jefferson Davis Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.11	BUS US 1 Princess Anne Ave	NCL Fredericksburg	29000	N	98%	0%	1%	0%	1%	0%	N	0.0838	N	0.6058	32000	N	2009	
+631002	C2US	00017	P    		Princess Anne St	111	City of Fredericksburg	111	City of Fredericksburg	0.26	Dixon Street	Bus US 1, Bus US 17 Lafayette Blvd	2900	G	96%	1%	2%	0%	0%	0%	C	0.1123	F	0.0000	3200	G	2009		5400	G	96%	1%	2%	0%	0%	0%	C				5900	G
+060301	  IS	00095	N    		 	111	City of Fredericksburg	088	Spotsylvania County	0.89	SCL Fredericksburg	SR 3 Plank Rd	61000	F	87%	1%	1%	0%	11%	1%	F				56000	F	2009		124000	F	91%	1%	1%	0%	7%	0%	F				111000	F
+060168	  IS	00095	N    		 	111	City of Fredericksburg	088	Spotsylvania County	2.29	SR 3 Plank Rd	Stafford County Line	77000	F	87%	1%	1%	0%	11%	1%	F				72000	F	2009		145000	F	91%	1%	1%	0%	8%	0%	F				137000	F
+160077	  IS	00095	S    		 	111	City of Fredericksburg	088	Spotsylvania County	1.61	SCL Fredericksburg	SR 3 Plank Rd	63000	F	95%	0%	0%	0%	4%	0%	F				56000	F	2009		124000	F	91%	1%	1%	0%	7%	0%	F				111000	F
+160306	  IS	00095	S    		 	111	City of Fredericksburg	088	Spotsylvania County	1.76	SR 3 Plank Rd	Stafford County Line	68000	A	95%	0%	0%	0%	4%	0%	F	0.0859	A	1.0000	65000	A	2009		145000	F	91%	1%	1%	0%	8%	0%	F				137000	F
+781633	 111	00001	     	111-1	Cowan Blvd	111	City of Fredericksburg	111	City of Fredericksburg	0.47	US 1 Jefferson Davis Hwy	Snowden Hills Blvd	15000	G	99%	0%	1%	0%	0%	0%	C	0.0897	F	0.0000	16000	G	2009
+796480	 111	00001	     	111-1	Cowan Blvd	111	City of Fredericksburg	111	City of Fredericksburg	1.23	Snowden Hills Blvd	Carl D Silver Pkwy	0	?							X
+631045	 111	03950	     	111-3950	Twin Lake Dr	111	City of Fredericksburg	111	City of Fredericksburg	0.46	Jefferson Davis Blvd	Lafayette Blvd	3100	G	99%	0%	0%	0%	0%	0%	C	0.1059	F	0.5763	3400	G	2009
+631031	 111	03952	     	111-3952	Lansdowne Rd	111	City of Fredericksburg	111	City of Fredericksburg	0.47	WCL Fredericksburg; 88-638	Bus US 17, SR 2 Dixon St	7100	G	93%	1%	1%	1%	4%	0%	C	0.0908	F	0.0000	7700	G	2009
+631042	 111	03953	     	111-3953	Stafford Avenue	111	City of Fredericksburg	111	City of Fredericksburg	0.50	William Street	Jefferson Davis Highway	1700	G	96%	1%	3%	0%	0%	0%	C	0.0853	F	0.6646	1900	G	2009
+631018	 111	03954	     	111-3954	Howison St	111	City of Fredericksburg	111	City of Fredericksburg	0.09	Cardwell St	Howard Ave	580	G	96%	2%	1%	1%	1%	0%	F	0.0855	F	0.6126	640	G	2009
+631019	 111	03954	     	111-3954	Howison Avenue	111	City of Fredericksburg	111	City of Fredericksburg	0.16	Howard Avenue	Dixion Street	1300	G	96%	2%	1%	1%	1%	0%	C	0.0865	F	0.5859	1500	G	2009
+631003	 111	03955	     	111-3955	College Ave	111	City of Fredericksburg	111	City of Fredericksburg	0.67	William Street	Jefferson Davis Highway	7300	G	99%	0%	0%	0%	0%	0%	C	0.0916	F	0.0000	8000	G	2009
+631017	 111	03958	     	111-3958	High St	111	City of Fredericksburg	111	City of Fredericksburg	0.04	Bus SR 3 William St	Hanover St	720	G	99%	0%	0%	0%	0%	0%	F	0.1262	F	0.9531	780	G	2009
+631014	 111	03958	     	111-3958	Hanover St	111	City of Fredericksburg	111	City of Fredericksburg	0.60	High St	111-3959 Littlepage St	2200	G	99%	0%	0%	0%	0%	0%	C	0.0920	F	0.8106	2400	G	2009
+631015	 111	03958	     	111-3958	Hanover St	111	City of Fredericksburg	111	City of Fredericksburg	0.49	111-3959 Littlepage St	Bus US 1 Par Princess Anne St	860	G	99%	0%	0%	0%	0%	0%	F	0.1004	F	1.0000	930	G	2009
+631016	 111	03958	     	111-3958	Hanover St	111	City of Fredericksburg	111	City of Fredericksburg	0.12	Bus US 1 Par Princess Anne St	111-3973 Sophia St	630	G	97%	1%	2%	0%	0%	0%	F	0.1191	F	1.0000	680	G	2009
+631032	 111	03959	     	111-3959	Littlepage St	111	City of Fredericksburg	111	City of Fredericksburg	0.44	Bus US 1 LaFayette Blvd	Bus SR 3 William St	1300	G	97%	1%	2%	0%	0%	0%	C	0.0906	F	0.5354	1400	G	2009
+631025	 111	03961	     	111-3961	Kenmore Ave	111	City of Fredericksburg	111	City of Fredericksburg	0.49	Bus US 1 LaFayette Blvd	Bus SR 3 William St	4400	G	98%	0%	1%	0%	0%	0%	C	0.0909	F	0.0000	4700	G	2009
+781634	 111	03961	     	111-3961	Kenmore Ave	111	City of Fredericksburg	111	City of Fredericksburg	0.40	Bus SR 3 William St	Mary Ball St	1400	G	98%	1%	1%	0%	0%	0%	C	0.0909	F	0.5541	1500	G	2009
+631033	 111	03961	     	111-3961	Mary Ball St	111	City of Fredericksburg	111	City of Fredericksburg	0.10	Kenmore Ave	111-6963 Washington Ave	1700	G	98%	1%	1%	0%	0%	0%	F	0.0861	F	0.5452	1900	G	2009
+631047	 111	03963	     	111-3963	Washington Ave	111	City of Fredericksburg	111	City of Fredericksburg	0.43	Bus SR 3 P Amelia St	111-3975 Maury St	2100	G	98%	1%	1%	0%	0%	0%	C	0.0943	F	0.6422	2300	G	2009
+631046	 111	03963	     	111-3963	Washington Ave	111	City of Fredericksburg	111	City of Fredericksburg	0.44	111-3975 Maury St	111-3965; Fall Hill Ave	2200	G	98%	1%	1%	0%	0%	0%	F	0.0997	F	0.0000	2400	G	2009
+631038	 111	03965	     	111-3965	Prince Edward St	111	City of Fredericksburg	111	City of Fredericksburg	0.35	Kenmore Avenue	William Street	2400	G	99%	0%	0%	0%	0%	0%	F	0.0905	F	0.7306	2600	G	2009
+631037	 111	03965	     	111-3965	Prince Edward St	111	City of Fredericksburg	111	City of Fredericksburg	0.44	William Street	Canal Street	1900	G	99%	0%	0%	0%	0%	0%	C	0.0919	F	0.7727	2100	G	2009
+631013	 111	03965	     	111-3965	Fall Hill Avenue	111	City of Fredericksburg	111	City of Fredericksburg	0.10	Canal Street	Maury Street	2300	G	99%	0%	0%	0%	0%	0%	F	0.0850	F	0.8005	2500	G	2009
+631012	 111	03965	     	111-3965	Fall Hill Avenue	111	City of Fredericksburg	111	City of Fredericksburg	0.39	Maury Street	Washington Street	3000	G	99%	0%	0%	0%	0%	0%	F				3300	G	2009
+631011	 111	03965	     	111-3965	Fall Hill Avenue	111	City of Fredericksburg	111	City of Fredericksburg	0.15	Washington Street	Jefferson Davis Highway	8700	G	99%	0%	0%	0%	0%	0%	F	0.0872	F	0.0000	9400	G	2009
+631010	 111	03965	     	111-3965	Fall Hill Avenue	111	City of Fredericksburg	111	City of Fredericksburg	1.59	Jefferson Davis Highway	I-95	13000	G	99%	0%	0%	0%	0%	0%	C	0.0894	F	0.0000	14000	G	2009
+631009	 111	03965	     	111-3965	Fall Hill Avenue	111	City of Fredericksburg	111	City of Fredericksburg	0.95	I-95	WCL Fredericksburg	14000	G	99%	0%	0%	0%	0%	0%	C	0.0880	F	0.0000	15000	G	2009
+781637	 111	03967	     	111-3967	Charles St	111	City of Fredericksburg	111	City of Fredericksburg	0.24	Bus 17 Dixon St	Bus US 1 Lafayette Blvd	6500	G	98%	0%	1%	0%	0%	0%	F	0.0906	F	0.5658	7000	G	2009
+631041	 111	03973	     	111-3973	Sophia St	111	City of Fredericksburg	111	City of Fredericksburg	0.37	Lafayette Blvd	Bus SR 3 William St	5300	G	99%	0%	0%	0%	0%	0%	C	0.0934	F	0.0000	5700	G	2009
+631034	 111	03975	     	111-3975	Maury St	111	City of Fredericksburg	111	City of Fredericksburg	0.14	Washington St	Fall Hill Avenue	1600	G	98%	1%	1%	0%	0%	0%	C				1800	G	2009
+631049	 111	03976	     	111-3976	Westwood Dr	111	City of Fredericksburg	111	City of Fredericksburg	0.20	Plank Rd	Woodland Dr	910	G	98%	1%	0%	0%	0%	0%	F	0.0917	F	0.6638	980	G	2009
+781638	 111	03976	     	111-3976	Woodland Rd	111	City of Fredericksburg	111	City of Fredericksburg	0.04	Westwood Dr	Falling Creek Rd	950	G	98%	1%	0%	0%	0%	0%	F	0.1067	F	0.6457	1000	G	2009
+631024	 111	03976	     	111-3976	Keenland Rd	111	City of Fredericksburg	111	City of Fredericksburg	0.36	Falling Creek Rd	Cowan Boulevard	940	G	98%	1%	0%	0%	0%	0%	C	0.0966	F	0.6500	1000	G	2009
+631036	 111	03976	     	111-3976	Powhatan St	111	City of Fredericksburg	111	City of Fredericksburg	0.24	Cowan Blvd	Jefferson Davis Hwy	1600	G	98%	0%	1%	0%	0%	0%	C	0.0990	F	0.9056	1800	G	2009
+531000	 111	00000	     	111-0	Hays St	111	City of Fredericksburg	111	City of Fredericksburg	0.00	Mahone Dr	Oakwood St	610	G							X	0.1053	F	0.0000	610	G	2009
+531010	 111	00000	     	111-0	Jackson St	111	City of Fredericksburg	111	City of Fredericksburg	0.00	Charlotte Street	Wolfe Street	1000	G							X	0.1047	F	0.5023	1000	G	2009
+531007	 111	00000	     	111-0	Sophia St	111	City of Fredericksburg	111	City of Fredericksburg	0.00	Fauquier St	Lewis St	2100	G							X	0.0945	F	0.8957	2100	G	2009
+531011	 111	00000	     	111-0	Summit St	111	City of Fredericksburg	111	City of Fredericksburg	0.00	Railroad Avenue	White Street	100	G							X	0.2010	F	0.5128	100	G	2009
+531012	 111	00000	     	111-0	Twin Lakes Dr	111	City of Fredericksburg	111	City of Fredericksburg	0.00	Goodloe Drive	Lafayette Blvd	3300	G							X	0.1057	F	0.5660	3300	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,38 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Bluefield																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+609019	  US	00019	     	US 19	 	143	Town of Bluefield	143	Town of Bluefield	1.16	WCL Bluefield	Montrose St	3900	G	94%	1%	1%	2%	2%	0%	C	0.1028	F	0.0000	4300	G	2009
+609020	  US	00019	     	US 19	Virginia Ave	143	Town of Bluefield	143	Town of Bluefield	0.95	Montrose St	Walnut St	4200	G	96%	0%	1%	2%	1%	0%	F	0.0890	F	0.5055	4600	G	2009
+609021	  US	00019	     	US 19	Walnut Ave	143	Town of Bluefield	143	Town of Bluefield	0.05	Virginia Ave	SR 102 College Ave	970	G	96%	0%	1%	2%	1%	0%	F	0.1220	F	0.8367	1100	G	2009
+609022	  US	00019	     	US 19	 	143	Town of Bluefield	143	Town of Bluefield	0.80	SR 102 College Ave	West Virginia State Line	5400	G	96%	0%	1%	2%	1%	0%	C	0.0830	F	0.0000	5900	G	2009
+609002	  SR	00102	     	VA 102	Stadium Dr	143	Town of Bluefield	143	Town of Bluefield	0.39	West Virginia State Line	College Ave	7200	G	99%	0%	0%	0%	0%	0%	F	0.0869	F	0.5524	7800	G	2009
+609003	  SR	00102	     	VA 102	College Ave	143	Town of Bluefield	143	Town of Bluefield	0.87	Stadium Dr	Valleydale St	13000	G	99%	0%	0%	0%	0%	0%	C	0.0886	F	0.0000	14000	G	2009
+609004	  SR	00102	     	VA 102	College Ave	143	Town of Bluefield	143	Town of Bluefield	0.80	Valleydale St	Rollins St	10000	G	97%	1%	1%	0%	2%	0%	C	0.0903	F	0.0000	11000	G	2009
+609005	  SR	00102	     	VA 102	College Ave	143	Town of Bluefield	143	Town of Bluefield	0.31	Rollins St	Tazewell Ave	9400	G	97%	1%	1%	0%	2%	0%	F	0.0865	F	0.5713	10000	G	2009
+609006	  SR	00102	     	VA 102	College Ave	143	Town of Bluefield	143	Town of Bluefield	0.07	Tazewell Ave	US 19; US 460 Virginia Ave	8200	G	97%	1%	1%	0%	2%	0%	F	0.0887	F	0.5233	9000	G	2009
+609007	  SR	00102	     	VA 102	College Ave	143	Town of Bluefield	143	Town of Bluefield	0.58	US 19; US 460 Virginia Ave	NCL Bluefield	4000	G	95%	1%	1%	1%	3%	0%	C	0.0879	F	0.0000	4300	G	2009
+010367	  US	00460	     	US 460	 	143	Town of Bluefield	092	Tazewell County	1.86	WCL Bluefield	92-720 Hockman Pike	11000	G	90%	1%	1%	2%	6%	0%	C	0.0891	F	0.0000	12000	G	2009
+010505	  US	00460	     	US 460	 	143	Town of Bluefield	092	Tazewell County	1.26	92-720	FR-868	16000	G	96%	0%	1%	1%	2%	0%	F	0.0891	F	0.0000	18000	G	2009
+010366	  US	00460	     	US 460	 	143	Town of Bluefield	092	Tazewell County	0.09	FR-868	West Virginia State Line	18000	G	94%	0%	1%	1%	4%	0%	C				20000	G	2009
+609016	 143	00001	     	143-1	Tazewell Ave	143	Town of Bluefield	143	Town of Bluefield	0.70	Montrose St	Shenley Ave	1200	G	100%	0%	0%	0%	0%	0%	C	0.0936	F	0.7388	1400	G	2009
+609017	 143	00001	     	143-1	Tazewell Ave	143	Town of Bluefield	143	Town of Bluefield	0.18	Shenley Ave	College Ave US 19	1700	G	100%	0%	0%	0%	0%	0%	F	0.1017	F	0.6103	1800	G	2009
+781833	 143	00002	     	143-2	Hockman Pike	143	Town of Bluefield	143	Town of Bluefield	0.92	143-3250 Ramp to US 460 Ramp fr US 460	Edgewood Road	330	G	99%	0%	0%	0%	0%	0%	F	0.1546	F	0.5652	350	G	2009
+609014	 143	00002	     	143-2	Hockman Pike	143	Town of Bluefield	143	Town of Bluefield	0.40	Edgewood Rd	Montross St	1500	G	99%	0%	0%	0%	0%	0%	C	0.1135	F	0.5435	1600	G	2009
+609015	 143	00003	     	143-3	Montross St	143	Town of Bluefield	143	Town of Bluefield	0.13	Hockman Pike	Virginia Ave	1600	G	99%	0%	1%	0%	0%	0%	C	0.1229	F	0.5837	1700	G	2009
+609001	 143	00004	     	143-4	College Ave	143	Town of Bluefield	143	Town of Bluefield	0.03	West Virginia State Line	Stadium Dr	9800	G	98%	1%	0%	0%	0%	0%	F	0.0872	F	0.0000	11000	G	2009
+609008	 143	03250	     	143-3250	Fincastle Tpke	143	Town of Bluefield	143	Town of Bluefield	0.54	WCL Bluefield	Hockman Pike	2700	G	96%	1%	1%	1%	2%	0%	F	0.1091	F	0.6252	2900	G	2009
+606009	 143	03250	     	143-3250	Fincastle Tpke	143	Town of Bluefield	143	Town of Bluefield	0.15	Hockman Pike	US 460 Bypass	3400	G	96%	1%	1%	1%	2%	0%	C				3700	G	2009
+606010	 143	03250	     	143-3250	Valley Dale St	143	Town of Bluefield	143	Town of Bluefield	0.91	US 460 Bypass	Mountain Lane Ave	4200	G	98%	1%	0%	0%	0%	0%	F	0.1088	F	0.5176	4500	G	2009
+609011	 143	03250	     	143-3250	Valley Dale St	143	Town of Bluefield	143	Town of Bluefield	0.55	Mountain Lane Ave	US 460	5700	G	98%	1%	0%	0%	0%	0%	C	0.1062	F	0.0000	6200	G	2009
+609012	 143	03250	     	143-3250	Valley Dale St	143	Town of Bluefield	143	Town of Bluefield	0.11	US 460	College Ave	12000	G	98%	1%	0%	0%	0%	0%	F	0.0994	F	0.0000	13000	G	2009
+609018	 143	03252	     	143-3252	Tazewell Ave	143	Town of Bluefield	143	Town of Bluefield	0.44	College Ave Sr 102	Hicks St	340	G	98%	2%	0%	0%	0%	0%	C	0.1099	F	0.7250	370	G	2009
+609023	 143	03253	     	143-3253	Graham Ave	143	Town of Bluefield	143	Town of Bluefield	0.03	US 19 Virginia Ave	Walnut St	0	?							X
+609013	 143	03253	     	143-3253	Graham Ave	143	Town of Bluefield	143	Town of Bluefield	0.12	Walnut St	Virginia Ave	2100	G	98%	0%	1%	1%	0%	0%	C	0.1007	F	0.6468	2300	G	2009
+509001	 143	00000	     	143-0	East St	143	Town of Bluefield	143	Town of Bluefield	0.00	Greever Ave	Virginia Ave	920	G							X	0.2330	F	0.0000	1000	G	2009
+509002	 143	00000	     	143-0	Greever Ave	143	Town of Bluefield	143	Town of Bluefield	0.00	Virginia Ave	East St	990	G							X	0.2048	F	0.5881	1100	G	2009
+509003	 143	00000	     	143-0	Hicks St	143	Town of Bluefield	143	Town of Bluefield	0.00	Tazewell Ave	Virginia Ave	440	G							X	0.1058	F	0.8381	480	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,172 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Alexandria																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+190112	  US	00001	     	US 1	Patrick St	100	City of Alexandria	000	Arlington County	0.51	SCL Alexandria, I-95, I-495	Franklin St	46000	G	98%	1%	1%	0%	0%	0%	F	0.0703	F	0.5952	48000	G	2009
+190117	  US	00001	     	US 1	Patrick St	100	City of Alexandria	100	City of Alexandria	0.15	Franklin St	Wilkes St, US 1 Par	46000	N	98%	1%	1%	0%	0%	0%	N	0.0703	N	0.5952	48000	N	2009
+602011	  US	00001	     	US 1	Patrick St	100	City of Alexandria	100	City of Alexandria	0.36	Wilkes St, US 1 Par	King St	27000	F	98%	1%	1%	0%	0%	0%	F				28000	F	2009		49000	F	98%	1%	1%	0%	0%	0%	F				52000	F
+602007	  US	00001	     	US 1	Patrick St	100	City of Alexandria	100	City of Alexandria	0.72	King St	1st St	23000	F	98%	1%	1%	0%	0%	0%	F	0.0876	F	1.0000	24000	F	2009		45000	F	97%	1%	1%	0%	0%	0%	F	0.0704	F	0.6207	47000	F
+602050	  US	00001	     	US 1	Patrick St	100	City of Alexandria	100	City of Alexandria	0.42	1st St	Monroe Ave	46000	F	98%	1%	1%	0%	0%	0%	F	0.0768	F	0.5669	48000	F	2009
+602064	  US	00001	     	US 1	Jefferson Davis Hwy	100	City of Alexandria	100	City of Alexandria	1.27	Monroe Ave	NCL Alexandria	41000	F	98%	1%	1%	0%	0%	0%	F	0.0771	F	0.5657	43000	F	2009
+602009	 1US	00001	P    	US 1 Par	Henry St	100	City of Alexandria	100	City of Alexandria	0.36	Wilkes St	SR 7 King St	22000	F	98%	1%	1%	0%	0%	0%	F				24000	F	2009		49000	F	98%	1%	1%	0%	0%	0%	F				52000	F
+602006	 1US	00001	P    	US 1 Par	Henry St	100	City of Alexandria	100	City of Alexandria	0.72	SR 7 King St	1st Street	22000	F	97%	1%	1%	1%	1%	0%	C	0.0794	F	1.0000	23000	F	2009		45000	F	97%	1%	1%	0%	0%	0%	F	0.0704	F	0.6207	47000	F
+602033	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	1.09	WCL Alexandria	I-395	49000	F	98%	0%	1%	0%	1%	0%	F	0.0767	F	0.5933	53000	F	2009
+602032	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	0.65	I-395	Braddock Rd	22000	F	98%	0%	1%	0%	1%	0%	F	0.0823	F	0.5824	24000	F	2009
+602031	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	1.91	Braddock Rd	Russell Rd	13000	F	98%	0%	1%	0%	1%	0%	F	0.0898	F	0.5784	14000	F	2009
+602030	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	0.38	Russell Rd	West St	17000	F	98%	0%	1%	0%	1%	0%	F	0.0893	F	0.6529	18000	F	2009
+602053	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	0.48	West St	Washington St	8200	F	98%	0%	1%	0%	1%	0%	F	0.0763	F	0.5323	8700	F	2009
+797700	  IS	00095	1    	I-95 Exp NB	NB Express Lanes	100	City of Alexandria	029	Fairfax County	0.95	Begin Express Roadway NB	US 1 Patrick St; Mill Rd	0	?							X
+797701	  IS	00095	1    	I-95 Exp NB	NB Express Lanes	100	City of Alexandria	029	Fairfax County	0.87	US 1 Patrick St; Mill Rd	District of Columbia Line, Potomac River	0	?							X
+797703	  IS	00095	3    	I-95 Exp SB	SB Express Lanes	100	City of Alexandria	029	Fairfax County	0.80	End Express Lanes SB	US 1 Patrick St; Mill Rd	0	?							X
+797704	  IS	00095	3    	I-95 Exp SB	SB Express Lanes	100	City of Alexandria	029	Fairfax County	0.95	US 1 Patrick St; Mill Rd	District of Columbia Line, Potomac River	0	?							X
+797705	  IS	00095	3000A	I-95 Exp SB Exit 000A	Ramp	100	City of Alexandria	029	Fairfax County	0.65	I-95 SB Express Lanes	Mill Rd	0	?							X
+090205	  IS	00095	N    	I-95 NB	Capital Beltway	100	City of Alexandria	029	Fairfax County	0.25	Fairfax County Line	US 1 Richmond Hwy	63000	G	96%	1%	1%	1%	2%	0%	F				62000	G	2009	Capital Beltway is also signed as I-495	134000	G	93%	1%	1%	1%	5%	0%	F				131000	G
+090247	  IS	00095	N    	I-95 NB	Capital Beltway	100	City of Alexandria	029	Fairfax County	1.07	US 1 Richmond Hwy	District of Columbia Line, Potomac River	73000	G	92%	1%	1%	0%	6%	0%	F				73000	G	2009	Capital Beltway is also signed as I-495	150000	G	92%	1%	1%	0%	7%	0%	F				150000	G
+190087	  IS	00095	S    	I-95 SB	Capital Beltway	100	City of Alexandria	029	Fairfax County	0.15	Fairfax County Line	US 1 Patrick St	71000	G	91%	1%	1%	0%	7%	0%	F				69000	G	2009	Capital Beltway is also signed as I-495	134000	G	93%	1%	1%	1%	5%	0%	F				131000	G
+190002	  IS	00095	S    	I-95 SB	Capital Beltway	100	City of Alexandria	029	Fairfax County	1.17	US 1 Patrick St	District of Columbia Line, Potomac River	77000	G	91%	1%	1%	0%	7%	0%	F				77000	G	2009	Capital Beltway is also signed as I-495	150000	G	92%	1%	1%	0%	7%	0%	F				150000	G
+190101	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	029	Fairfax County	0.06	Fairfax County Line	WCL Alexandria	34000	N	99%	1%	0%	0%	0%	0%	N	0.0844	N	0.5466	37000	N	2009
+090260	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	029	Fairfax County	0.34	WCL Alexandria	I-395	49000	G	99%	1%	0%	0%	0%	0%	F				53000	G	2009
+602003	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	0.32	I-395	SR 401 Van Dorn St	66000	F	98%	1%	1%	0%	0%	0%	F	0.0729	F	0.5101	73000	F	2009
+602001	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	0.36	SR 401 Van Dorn St	N Pickett St	39000	F	98%	1%	1%	0%	0%	0%	F	0.0746	F	0.5083	43000	F	2009
+602002	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	2.66	N Pickett St	SR 241 Telegraph Rd	33000	F	98%	1%	1%	0%	0%	0%	C	0.0766	F	0.5576	37000	F	2009
+602004	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	1.26	SR 241 Telegraph Rd	US 1 SB Henry St	23000	F	98%	1%	1%	0%	0%	0%	C	0.0786	F	0.6009	25000	F	2009
+602054	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	0.24	US 1 SB Henry St	SR 400 Washington St	12000	F	97%	1%	1%	0%	0%	0%	C	0.0701	F	0.5744	13000	F	2009
+782967	  SR	00236	E010A	VA 236 EB Exit 010A	Ramp From SR 236 EB to I-395 NB and SB	100	City of Alexandria	029	Fairfax County	0.05	SR 236 Duke St	SR 236 E010B	0	?							X
+797601	  SR	00236	E010A	VA 236 EB Exit 010A	Ramp From SR 236 to I-395 SB	100	City of Alexandria	029	Fairfax County	0.23	SR 236 E010B	I-395-S	0	?							X
+090277	  SR	00241	     	VA 241	Telegraph Rd	100	City of Alexandria	029	Fairfax County	0.39	Fairfax County Line	Maintenance Break	53000	N	98%	1%	0%	0%	0%	0%	N				57000	N	2009
+602012	  SR	00241	     	VA 241	Telegraph Rd	100	City of Alexandria	100	City of Alexandria	0.21	Maintenance Break	SR 236 WB	50000	G	98%	1%	0%	0%	0%	0%	F				54000	G	2009
+090273	  IS	00395	N    	I-395 NB	 	100	City of Alexandria	029	Fairfax County	0.21	Fairfax County Line	SR 236 Duke St	73000	A	98%	1%	1%	1%	1%	0%	C	0.0786	A	1.0000	76000	A	2009		179000	F	98%	1%	1%	1%	1%	0%	C				193000	F
+190068	  IS	00395	N    	I-395 NB	 	100	City of Alexandria	029	Fairfax County	1.64	SR 236 Duke St	Seminary Rd	79000	F	98%	1%	1%	1%	1%	0%	F				81000	F	2009		189000	F	98%	1%	1%	1%	1%	0%	F				204000	F
+190069	  IS	00395	N    	I-395 NB	 	100	City of Alexandria	029	Fairfax County	1.11	Seminary Rd	SR 7 King St, Arlington County Line	79000	F	98%	1%	1%	1%	1%	0%	F				82000	F	2009		187000	F	98%	1%	1%	1%	1%	0%	F				202000	F
+190310	  IS	00395	N    	I-395 NB	 	100	City of Alexandria	000	Arlington County	0.26	Quaker Lane, Arlington County Line	Arlington County Line	87000	F	98%	1%	1%	1%	1%	0%	F				90000	F	2009		217000	F	98%	1%	1%	1%	1%	0%	F				234000	F
+199751	  IS	00395	R    	I-395 Rev	 	100	City of Alexandria	029	Fairfax County	2.19	Fairfax County Line	Seminary Rd	29000	F	98%	1%	0%	0%	0%	0%	C	0.1255	B	1.0000	38000	F	2009		179000	F	98%	1%	1%	1%	1%	0%	C				193000	F
+199752	  IS	00395	R    	I-395 Rev	 	100	City of Alexandria	029	Fairfax County	0.71	Seminary Rd	SR 7; Arlington County Line	29000	F	98%	1%	0%	0%	0%	0%	F				38000	F	2009		187000	F	98%	1%	1%	1%	1%	0%	F				202000	F
+199755	  IS	00395	R    	I-395 Rev	 	100	City of Alexandria	000	Arlington County	0.26	Quaker Lane; Arlington County Line	Arlington County Line	32000	F	98%	1%	0%	0%	0%	0%	F	0.0917	F	0.0000	42000	F	2009		217000	F	98%	1%	1%	1%	1%	0%	F				234000	F
+190174	  IS	00395	S    	I-395 SB	 	100	City of Alexandria	029	Fairfax County	0.71	Fairfax County Line	SR 236 Duke St	76000	A	98%	1%	1%	1%	1%	0%	C	0.0845	A	1.0000	80000	A	2009		179000	F	98%	1%	1%	1%	1%	0%	C				193000	F
+190074	  IS	00395	S    	I-395 SB	 	100	City of Alexandria	029	Fairfax County	1.44	SR 236 Duke St	Seminary Rd	82000	F	98%	1%	1%	1%	1%	0%	F				86000	F	2009		189000	F	98%	1%	1%	1%	1%	0%	F				204000	F
+190075	  IS	00395	S    	I-395 SB	 	100	City of Alexandria	029	Fairfax County	0.75	Seminary Rd	SR 7 King St, Arlington County Line	79000	F	98%	1%	1%	1%	1%	0%	F				82000	F	2009		187000	F	98%	1%	1%	1%	1%	0%	F				202000	F
+190300	  IS	00395	S    	I-395 SB	 	100	City of Alexandria	000	Arlington County	0.26	Quaker Lane, Arlington County Line	Arlington County Line	98000	F	98%	1%	1%	1%	1%	0%	F				102000	F	2009		217000	F	98%	1%	1%	1%	1%	0%	F				234000	F
+602036	  SR	00400	     		Washington St	100	City of Alexandria	100	City of Alexandria	0.91	George Washington Memorial Parkway SCL Alexandria	SR 236 Duke St	28000	F	98%	1%	0%	0%	0%	0%	C	0.1076	F	0.8029	30000	F	2009
+190153	  SR	00400	     		Washington St	100	City of Alexandria	100	City of Alexandria	0.32	SR 236 Duke St	Queen St	27000	F	98%	1%	0%	0%	0%	0%	F	0.0931	F	0.7052	30000	F	2009
+602035	  SR	00400	     		Washington St	100	City of Alexandria	100	City of Alexandria	0.39	Queen St	Madison St	32000	G	98%	1%	0%	0%	0%	0%	F				34000	G	2009
+602077	  SR	00400	     		Washington St	100	City of Alexandria	100	City of Alexandria	0.17	Madison St	1st Street; George Washington Memorial Parkway	31000	G	98%	1%	0%	0%	0%	0%	F				34000	G	2009
+602079	  SR	00401	     	VA 401	Van Dorn St	100	City of Alexandria	100	City of Alexandria	0.62	SCL Alexandria	Edsall Rd	48000	F	98%	0%	1%	1%	0%	0%	F	0.0755	F	0.5575	53000	F	2009
+602013	  SR	00401	     	VA 401	Van Dorn St	100	City of Alexandria	100	City of Alexandria	0.43	Edsall Rd	SR 236 Duke St	37000	F	98%	0%	1%	1%	0%	0%	C	0.0794	F	0.5533	37000	F	2009
+602014	  SR	00401	     	VA 401	Van Dorn St	100	City of Alexandria	100	City of Alexandria	1.56	SR 236 Duke St	Seminary Ave	23000	F	99%	1%	0%	0%	0%	0%	C	0.0982	F	0.7743	25000	F	2009
+602017	  SR	00402	     	VA 402	Quaker Lane	100	City of Alexandria	100	City of Alexandria	0.69	SR 420 Seminary Rd	SR 7 King St	20000	F	98%	1%	1%	0%	0%	0%	F	0.0833	F	0.6102	21000	F	2009
+602018	  SR	00402	     	VA 402	Quaker Lane	100	City of Alexandria	100	City of Alexandria	0.96	SR 7 King St	I-395	19000	F	98%	1%	1%	0%	0%	0%	C	0.0862	F	0.5615	20000	F	2009
+602028	  SR	00420	     	VA 420	Seminary Rd	100	City of Alexandria	100	City of Alexandria	1.72	I-395 Shirley Hwy, 100-6706	SR 402 Quaker Lane	16000	F	98%	1%	1%	0%	0%	0%	C	0.0981	F	0.6093	17000	F	2009
+602029	  SR	00420	     	VA 420	Janneys Lane	100	City of Alexandria	100	City of Alexandria	1.03	SR 402 Quaker Lane	SR 7 King St	6400	F	98%	1%	1%	0%	0%	0%	F	0.1367	F	0.6279	6800	F	2009
+602036	  SR	90005	     		Washington St	100	City of Alexandria	100	City of Alexandria	0.91	SCL Alexandria	SR 236 Duke St	28000	F	98%	1%	0%	0%	0%	0%	C	0.1076	F	0.8029	30000	F	2009	
+190153	  SR	90005	     		Washington St	100	City of Alexandria	100	City of Alexandria	0.32	SR 236 Duke St	Queen St	27000	F	98%	1%	0%	0%	0%	0%	F	0.0931	F	0.7052	30000	F	2009	
+602035	  SR	90005	     		Washington St	100	City of Alexandria	100	City of Alexandria	0.39	Queen St	Madison St	32000	G	98%	1%	0%	0%	0%	0%	F				34000	G	2009	
+602077	  SR	90005	     		Washington St	100	City of Alexandria	100	City of Alexandria	0.17	Madison St	1st Street	31000	G	98%	1%	0%	0%	0%	0%	F				34000	G	2009	
+787391	  SR	90005	     	VA 90005	George Washington Memorial Parkway	100	City of Alexandria	US 	Federal	1.81	1st Street	NCL Alexandria	49000	O							X						2009
+602084	 100	00001	     	100-1	Cameron St	100	City of Alexandria	100	City of Alexandria	1.00	Commonwealth Ave	Fairfax St	4700	F	98%	1%	1%	0%	0%	0%	C	0.1190	F	1.0000	5000	F	2009
+602115	 100	00002	     	100-2	Daingerfield Rd	100	City of Alexandria	100	City of Alexandria	0.19	SR 236 Duke St	SR 7 King St	6100	F	95%	2%	2%	1%	0%	0%	C	0.1083	F	0.6694	6600	F	2009
+602120	 100	00003	     	100-3	Filmore Ave	100	City of Alexandria	100	City of Alexandria	0.36	Seminary Rd	N Beauregard St	3200	F	95%	3%	1%	0%	0%	0%	C	0.1147	F	0.5330	3500	F	2009
+602081	 100	00004	     	100-4	Franklin St	100	City of Alexandria	100	City of Alexandria	0.40	US 1 Patrick St	Fairfax St	3100	F	97%	0%	2%	0%	0%	0%	C	0.1204	F	0.8617	3300	F	2009
+602082	 100	00005	     	100-5	Gibbon St	100	City of Alexandria	100	City of Alexandria	0.40	US 1 Patrick St	Fairfax St	2000	F	98%	1%	1%	0%	0%	0%	C	0.1094	F	0.8670	2100	F	2009
+602111	 100	00006	     	100-6	Holland Lane	100	City of Alexandria	100	City of Alexandria	0.32	Eisenhower Ave	SR 236 Duke St	7200	F	97%	1%	1%	1%	0%	0%	C	0.1155	F	0.7541	7900	F	2009
+781603	 100	00007	     	100-7	King St	100	City of Alexandria	100	City of Alexandria	0.24	SR 400 Washington St	100-21 Fairfax Street	4900	F	92%	4%	3%	0%	1%	0%	F	0.0799	F	0.5203	5300	F	2009
+602100	 100	00008	     	100-8	Lincolnia Rd	100	City of Alexandria	100	City of Alexandria	0.11	Breckenridge Pl	Beauregard St	5700	F	93%	3%	3%	0%	1%	0%	C	0.0738	F	0.5416	6200	F	2009
+602112	 100	00009	     	100-9	Mill Rd	100	City of Alexandria	100	City of Alexandria	0.88	W Eisenhower Ave	E Eisenhower Ave	7300	F	99%	0%	0%	0%	0%	0%	C	0.1036	F	0.8580	7800	F	2009
+602114	 100	00009	     	100-9	Mill Rd	100	City of Alexandria	100	City of Alexandria	0.20	E Eisenhower Ave	Ramps To and From I-95 3	0	?							X
+797706	 100	00009	E000A	100-9 EB Exit 000A	Ramp	100	City of Alexandria	029	Fairfax County	0.56	Mill Rd	I-95 NB Express Lanes	0	?							X
+602110	 100	00010	     	100-10	Montgomery St	100	City of Alexandria	100	City of Alexandria	0.48	Fairfax St	US 1 Par, Henry St	2700	F	92%	2%	4%	0%	0%	0%	C	0.0988	F	1.0000	2900	F	2009
+602085	 100	00011	     	100-11	Pendleton St	100	City of Alexandria	100	City of Alexandria	0.66	West St	Fairfax St	3900	F	94%	4%	2%	0%	0%	0%	C	0.0998	F	0.5000	4200	F	2009
+602113	 100	00012	     	100-12	Pershing Ave	100	City of Alexandria	100	City of Alexandria	0.16	SR 241 Telegraph Rd	Stovall St	13000	F	97%	1%	1%	1%	1%	0%	C	0.1128	F	0.8906	15000	F	2009
+602088	 100	00013	     	100-13	Prince St	100	City of Alexandria	100	City of Alexandria	0.50	Reinekers Lane	US 1 Patrick St	7100	F	98%	1%	1%	0%	0%	0%	F	0.1260	F	0.5380	7700	F	2009
+602090	 100	00013	     	100-13	Prince St	100	City of Alexandria	100	City of Alexandria	0.18	US 1 Patrick St	SR 400 Washington St	4900	F	98%	1%	1%	0%	0%	0%	C	0.1101	F	1.0000	5300	F	2009
+602083	 100	00013	     	100-13	Prince St	100	City of Alexandria	100	City of Alexandria	0.24	SR 400 Washington St	Fairfax St	2800	F	98%	1%	1%	0%	0%	0%	F	0.1230	F	0.7995	3000	F	2009
+602116	 100	00014	     	100-14	Slaters Lane	100	City of Alexandria	100	City of Alexandria	0.38	US 1 Jefferson Davis Hwy	George Washington Memorial Pkwy	11000	F	98%	1%	1%	0%	0%	0%	C	0.0920	F	0.6027	12000	F	2009
+602118	 100	00015	     	100-15	Stevenson Ave	100	City of Alexandria	100	City of Alexandria	0.16	Walker St	S Van Dorn St	14000	F	98%	0%	2%	0%	0%	0%	C	0.0844	F	0.5022	16000	F	2009
+781604	 100	00016	     	100-16	Stoval St	100	City of Alexandria	100	City of Alexandria	0.13	100-6588; Eisenhower Ave	100-9 Mill Rd	13000	F	92%	4%	3%	0%	1%	0%	F	0.0931	F	0.7427	14000	F	2009
+602119	 100	00017	     	100-17	Walker St	100	City of Alexandria	100	City of Alexandria	0.10	Stevenson Rd	SR 236 Duke St	19000	F	98%	0%	0%	0%	0%	0%	C	0.0772	F	0.5444	21000	F	2009
+602089	 100	00018	     	100-18	West St	100	City of Alexandria	100	City of Alexandria	0.63	Duke St	Wythe St	5100	F	98%	0%	1%	0%	0%	0%	C	0.1289	F	0.6380	5600	F	2009
+602087	 100	00019	     	100-19	1st St	100	City of Alexandria	100	City of Alexandria	0.06	SR 400; Washington St	Saint Asaph St	5100	F	96%	1%	1%	1%	0%	0%	F	0.1191	F	0.7304	5500	F	2009
+602108	 100	00019	     	100-19	1st St	100	City of Alexandria	100	City of Alexandria	0.05	Saint Asaph St	Pitt St	3400	F	96%	1%	1%	1%	0%	0%	C	0.1052	F	0.7378	3700	F	2009
+602086	 100	00020	     	100-20	Wythe St	100	City of Alexandria	100	City of Alexandria	0.66	West St	Fairfax St	5200	F	98%	1%	1%	0%	0%	0%	C	0.1062	F	0.6138	5700	F	2009
+602117	 100	00021	     	100-21	Fairfax St	100	City of Alexandria	100	City of Alexandria	1.12	Franklin St	Montgomery St	4900	F	95%	1%	4%	0%	0%	0%	C	0.0999	F	0.6248	5200	F	2009
+781605	 100	00022	     	100-22	Church St	100	City of Alexandria	100	City of Alexandria	0.09	I-95 Ramp	SR 400 Washington St	5100	F	92%	4%	3%	0%	1%	0%	F	0.1314	F	0.9672	5500	F	2009
+602504	 100	06500	     	100-6500	Duke St	100	City of Alexandria	100	City of Alexandria	0.23	SR 400 Washington St	Fairfax St	4000	F	98%	0%	1%	0%	0%	0%	C	0.0834	F	0.5339	4500	F	2009
+602048	 100	06572	     	100-6572	Edsall Rd	100	City of Alexandria	100	City of Alexandria	0.49	WCL Alexandria	Van Dorn St	15000	F	97%	1%	1%	0%	0%	0%	C	0.0976	F	0.7030	16000	F	2009
+602080	 100	06572	     	100-6572	Edsall Rd	100	City of Alexandria	100	City of Alexandria	0.24	Van Dorn St	S Pickett St	10000	F	97%	1%	1%	0%	0%	0%	F	0.0852	F	0.5623	11000	F	2009
+602068	 100	06573	     	100-6573	Van Dorn St	100	City of Alexandria	100	City of Alexandria	1.08	Seminary Rd	SR 7 King St	6100	F	97%	2%	1%	0%	0%	0%	C	0.1307	F	0.8686	6700	F	2009
+602047	 100	06575	     	100-6575	S Pickett St	100	City of Alexandria	100	City of Alexandria	0.36	Van Dorn St	Edsall Rd	10000	F	97%	1%	1%	0%	0%	0%	F	0.0840	F	0.5077	11000	F	2009
+602051	 100	06575	     	100-6575	S Pickett St	100	City of Alexandria	100	City of Alexandria	0.57	Edsall Rd	SR 236 Duke St	15000	F	97%	1%	1%	0%	0%	0%	C	0.0814	F	0.5410	17000	F	2009
+781606	 100	06579	     	100-6579	Clermont Ave	100	City of Alexandria	100	City of Alexandria	0.13	I 95 Ramps	100-6588 Eisenhower Ave	15000	G	95%	1%	1%	1%	2%	0%	C				16000	G	2009
+602075	 100	06583	     	100-6583	W Taylor Run Pkwy	100	City of Alexandria	100	City of Alexandria	0.52	Duke St	Janneys Lane	4300	F	99%	0%	0%	0%	0%	0%	C	0.1086	F	0.5079	4600	F	2009
+602505	 100	06584	     	100-6584	Pitt St	100	City of Alexandria	100	City of Alexandria	0.07	Montgomery St	1st Street	4100	F	98%	0%	0%	1%	0%	0%	C	0.1185	F	0.6834	4400	F	2009
+602024	 100	06585	     	100-6585	Commonwealth Ave	100	City of Alexandria	100	City of Alexandria	0.94	King St	Monroe Ave	5400	F	99%	0%	1%	0%	0%	0%	F	0.0994	F	0.5307	5700	F	2009
+602023	 100	06585	     	100-6585	Commonwealth Ave	100	City of Alexandria	100	City of Alexandria	0.79	Monroe Ave	Mt Vernon Ave	6200	F	99%	0%	1%	0%	0%	0%	C	0.0976	F	0.5818	6500	F	2009
+602058	 100	06585	     	100-6585	Commonwealth Ave	100	City of Alexandria	100	City of Alexandria	0.41	Mt Vernon Ave	Reed St	4700	F	99%	0%	1%	0%	0%	0%	F	0.0862	F	0.5372	5000	F	2009
+602060	 100	06586	     	100-6586	Diagonal Rd	100	City of Alexandria	100	City of Alexandria	0.30	SR 236 Duke St	SR 7 King St	6100	F	92%	4%	3%	0%	1%	0%	C	0.0983	F	0.5951	6500	F	2009
+602093	 100	06588	     	100-6588	Eisenhower Ave	100	City of Alexandria	100	City of Alexandria	3.18	SR 401 Van Dorn St	SR 241 Telegraph Rd	0	?							X
+602092	 100	06588	     	100-6588	Eisenhower Ave	100	City of Alexandria	100	City of Alexandria	0.94	SR 241 Telegraph Rd	Holland Lane	14000	F	99%	0%	0%	0%	0%	0%	C	0.1060	F	0.8608	14000	F	2009
+602021	 100	06591	     	100-6591	Mt Vernon Ave	100	City of Alexandria	100	City of Alexandria	1.21	Braddock Rd	Commonwealth Ave	8100	F	95%	3%	1%	0%	0%	0%	C	0.0885	F	0.5411	8600	F	2009
+602020	 100	06591	     	100-6591	Mt Vernon Ave	100	City of Alexandria	100	City of Alexandria	1.00	Commonwealth Ave	NCL Alexandria	11000	G	95%	3%	1%	0%	0%	0%	F				12000	G	2009
+602026	 100	06592	     	100-6592	Braddock Rd	100	City of Alexandria	100	City of Alexandria	1.72	Beauregard St	SR 7 King St	12000	F	98%	1%	1%	0%	0%	0%	C	0.1134	F	0.7054	14000	F	2009
+602025	 100	06592	     	100-6592	Braddock Rd	100	City of Alexandria	100	City of Alexandria	1.39	SR 7 King St	Rusell Rd	11000	F	97%	1%	1%	0%	0%	0%	C	0.0985	F	0.5862	12000	F	2009
+602055	 100	06592	     	100-6592	Braddock Rd	100	City of Alexandria	100	City of Alexandria	0.77	Russell Rd	West St	7800	F	97%	1%	1%	0%	0%	0%	F	0.1020	F	0.5250	8500	F	2009
+602056	 100	06593	     	100-6593	Callahan Dr	100	City of Alexandria	100	City of Alexandria	0.22	SR 236 Duke St	SR 7 King St	13000	F	98%	1%	1%	0%	0%	0%	C	0.0844	F	0.6371	14000	F	2009
+602070	 100	06593	     	100-6593	Russell Rd	100	City of Alexandria	100	City of Alexandria	0.89	SR 7 King St	Monroe Ave	7500	F	98%	0%	1%	0%	0%	0%	F	0.0897	F	0.5247	8200	F	2009
+602071	 100	06593	     	100-6593	Russell Rd	100	City of Alexandria	100	City of Alexandria	0.31	Monroe Ave	Windsor Ave	5300	F	98%	0%	1%	0%	0%	0%	C	0.1003	F	0.6447	5800	F	2009
+602500	 100	06593	     	100-6593	Russell Rd	100	City of Alexandria	100	City of Alexandria	1.06	Windsor Ave	West Glebe Rd	5800	F	98%	0%	1%	0%	0%	0%	F	0.1003	F	0.6332	6300	F	2009
+602072	 100	06593	     	100-6593	Russell Rd	100	City of Alexandria	100	City of Alexandria	0.16	West Glebe Rd	Mt Vernon Ave	4600	F	98%	0%	1%	0%	0%	0%	F	0.1154	F	0.7128	5100	F	2009
+602078	 100	06594	     	100-6594	Gunston Rd	100	City of Alexandria	100	City of Alexandria	0.26	Quaker Lane	Valley Dr	2100	F	99%	0%	0%	0%	0%	0%	C	0.1303	F	0.9065	2300	F	2009
+602016	 100	06595	     	100-6595	Quaker Lane	100	City of Alexandria	100	City of Alexandria	0.62	Duke St	Seminary Rd	24000	F	98%	1%	1%	1%	0%	0%	C	0.0894	F	0.6147	26000	F	2009
+602076	 100	06595	     	100-6595	Valley Dr	100	City of Alexandria	100	City of Alexandria	1.33	West Glebe Rd	Braddock Rd	960	F	99%	0%	0%	0%	0%	0%	C	0.1019	F	0.5182	1000	F	2009
+602049	 100	06596	     	100-6596	Monroe Ave	100	City of Alexandria	100	City of Alexandria	0.89	Russell Rd	US 1 Jefferson Davis Hwy	5600	F	96%	3%	1%	0%	0%	0%	C	0.1036	F	0.6027	6100	F	2009
+602094	 100	06597	     	100-6597	Monticello Blvd	100	City of Alexandria	100	City of Alexandria	0.21	Russell Rd	Old Dominion Blvd	3000	F	95%	2%	1%	1%	0%	0%	F	0.1275	F	0.6178	3300	F	2009
+602095	 100	06597	     	100-6597	Old Dominion Blvd	100	City of Alexandria	100	City of Alexandria	0.71	Monticello Blvd	West Glebe Rd	820	F	95%	2%	1%	1%	0%	0%	C	0.1472	F	0.6544	880	F	2009
+602096	 100	06597	     	100-6597	Tennessee Ave	100	City of Alexandria	100	City of Alexandria	0.17	Old Dominion Blvd	Halcyon Dr	700	F	95%	2%	1%	1%	0%	0%	F	0.1135	F	0.5581	740	F	2009
+602105	 100	06597	     	100-6597	Tennessee Ave	100	City of Alexandria	100	City of Alexandria	0.25	Halcyon Dr	Valley Dr	2000	F	95%	2%	1%	1%	0%	0%	F	0.0944	F	0.6326	2100	F	2009
+602065	 100	06597	     	100-6597	Martha Custis Dr	100	City of Alexandria	100	City of Alexandria	0.52	Valley Dr	Gunston Rd	4100	F	95%	2%	1%	1%	0%	0%	F	0.0946	F	0.5920	4400	F	2009
+602057	 100	06599	     	100-6599	Cameron Mills Rd	100	City of Alexandria	100	City of Alexandria	0.39	Braddock Rd	Summit Ave	1800	F	94%	1%	3%	1%	0%	0%	C	0.1113	F	0.5286	1900	F	2009
+602059	 100	06600	     	100-6600	Crest St	100	City of Alexandria	100	City of Alexandria	0.27	Braddock Rd	Valley Dr	1500	F	98%	0%	1%	0%	0%	0%	C	0.1118	F	0.5027	1600	F	2009
+602097	 100	06600	     	100-6600	Summit Ave	100	City of Alexandria	100	City of Alexandria	0.27	Valley Dr	Cameron Mills Rd	2000	F	98%	0%	1%	0%	0%	0%	F	0.1295	F	0.5241	2100	F	2009
+602501	 100	06600	     	100-6600	Monticello Blvd	100	City of Alexandria	100	City of Alexandria	0.23	Cameron Mills Rd	Old Dominion Blvd	2500	F	98%	0%	1%	0%	0%	0%	F	0.1259	F	0.5452	2600	F	2009
+602098	 100	06601	     	100-6601	Scroggins Rd	100	City of Alexandria	100	City of Alexandria	0.36	SR7 King St	Braddock Rd	1500	F	98%	1%	0%	0%	0%	0%	C	0.1499	F	0.6895	1600	F	2009
+602019	 100	06602	     	100-6602	W Glebe Rd	100	City of Alexandria	100	City of Alexandria	0.94	NCL Alexandria	Mount Vernon Ave	17000	F	97%	1%	1%	1%	0%	0%	F	0.0853	F	0.5256	18000	F	2009
+602063	 100	06602	     	100-6602	E Glebe Rd	100	City of Alexandria	100	City of Alexandria	0.62	Mount Vernon Ave	US 1 Jefferson Davis Hwy	9300	F	97%	1%	1%	1%	0%	0%	C	0.0752	F	0.5547	10000	F	2009
+602069	 100	06604	     	100-6604	Reed Ave	100	City of Alexandria	100	City of Alexandria	0.54	Mt Vernon Ave	US 1 Jefferson Davis Hwy	3300	F	96%	1%	2%	0%	0%	0%	C	0.0849	F	0.5134	3600	F	2009
+602052	 100	06622	     	100-6622	Beauregard St	100	City of Alexandria	100	City of Alexandria	2.34	WCL Alexandria	Braddock Rd	18000	F	98%	1%	1%	0%	0%	0%	C	0.0928	F	0.6177	19000	F	2009
+602027	 100	06622	     	100-6622	Beauregard St	100	City of Alexandria	100	City of Alexandria	0.28	Braddock Rd	SR 7 King St	18000	F	98%	1%	0%	0%	0%	0%	C	0.0911	F	0.6292	20000	F	2009
+602099	 100	06622	     	100-6622	Walter Reed Dr	100	City of Alexandria	100	City of Alexandria	0.07	SR 7 King St	NCL Alexandria	14000	F	99%	0%	0%	0%	0%	0%	C	0.0942	F	0.6772	15000	F	2009
+602073	 100	06698	     	100-6698	Taney Dr	100	City of Alexandria	100	City of Alexandria	1.04	SR 401 Van Dorn St	Jordan St	2900	F	96%	3%	0%	0%	0%	0%	C	0.0978	F	0.6217	3100	F	2009
+602067	 100	06701	     	100-6701	Pegram St	100	City of Alexandria	100	City of Alexandria	0.78	Taney Ave	Pickett St	2000	F	97%	2%	1%	0%	0%	0%	C	0.1625	F	0.6667	2200	F	2009
+602101	 100	06701	     	100-6701	Pickett St	100	City of Alexandria	100	City of Alexandria	0.15	Pegram St	Seminary Rd	2600	F	97%	1%	1%	0%	0%	0%	C	0.1486	F	0.5425	2800	F	2009
+602102	 100	06702	     	100-6702	Sanger Ave	100	City of Alexandria	100	City of Alexandria	0.37	Beauregard St	SR 401 Van Dorn St	13000	F	98%	1%	1%	0%	0%	0%	C	0.0998	F	0.5334	14000	F	2009
+602015	 100	06703	     	100-6703	Jordan St	100	City of Alexandria	100	City of Alexandria	0.94	SR 236 Duke St	SR 420 Seminary Rd	6500	F	99%	0%	0%	0%	0%	0%	C	0.0895	F	0.7072	7100	F	2009
+602046	 100	06706	     	100-6706	Seminary Rd	100	City of Alexandria	100	City of Alexandria	0.60	Fairfax County Line; 29-716	Beauregard St	40000	F	98%	1%	0%	0%	0%	0%	C	0.0753	F	0.5737	43000	F	2009
+602103	 100	06706	     	100-6706	Seminary Rd	100	City of Alexandria	100	City of Alexandria	0.22	Beauregard St	I-395 Shirley Hwy; SR 420	52000	F	98%	1%	0%	0%	0%	0%	F	0.0804	F	0.6053	55000	F	2009
+602066	 100	06707	     	100-6707	Howard St	100	City of Alexandria	100	City of Alexandria	0.56	Jordan St	SR 420 Seminary Rd	5000	F	98%	2%	0%	0%	0%	0%	C	0.1278	F	0.7876	5500	F	2009
+602074	 100	06707	     	100-6707	Howard St	100	City of Alexandria	100	City of Alexandria	0.36	SR 420 Seminary Rd	100-6592 Braddock Rd	5000	N	98%	2%	0%	0%	0%	0%	N	0.1278	N	0.7876	5500	N	2009
+602109	 100	06711	     	100-6711	Hampton Dr N	100	City of Alexandria	100	City of Alexandria	0.43	Braddock Rd	SR 7 King St	4600	F	96%	1%	3%	0%	0%	0%	C	0.0987	F	0.6223	5000	F	2009
+502008	 100	00000	     	100-0	Braddock Rd	100	City of Alexandria	100	City of Alexandria	0.00	Kenwood Ave	Crest St	13000	G							X				14000	G	2009
+502508	 100	00000	     	100-0	Canterbury Lane	100	City of Alexandria	100	City of Alexandria	0.00	Chancel Pl	Trinity Dr	220	F							X	0.1350	F	0.6515	240	F	2009
+502518	 100	00000	     	100-0	Clifford Ave	100	City of Alexandria	100	City of Alexandria	0.00	Turner Rd	Montross Ave	360	F							X	0.1159	F	0.5106	390	F	2009
+502005	 100	00000	     	100-0	Curtis Ave	100	City of Alexandria	100	City of Alexandria	0.00	Russell Rd	Rosecrest Ave	340	F							X	0.1312	F	0.6224	370	F	2009
+502515	 100	00000	     	100-0	Glendale Ave	100	City of Alexandria	100	City of Alexandria	0.00	Newton St	Wayne St	260	F							X	0.1216	F	0.7792	280	F	2009
+502516	 100	00000	     	100-0	Green St	100	City of Alexandria	100	City of Alexandria	0.00	Washington St	Asaph St	3100	F							X	0.1503	F	0.7440	3300	F	2009
+502004	 100	00000	     	100-0	Hickory St	100	City of Alexandria	100	City of Alexandria	0.00	Kennedy St	Dead End	200	F							X	0.1195	F	0.6667	210	F	2009
+502001	 100	00000	     	100-0	Kentucky Ave	100	City of Alexandria	100	City of Alexandria	0.00	Old Dominion Blvd	Russell Rd	340	F							X	0.1139	F	0.5122	360	F	2009
+502512	 100	00000	     	100-0	Key Dr	100	City of Alexandria	100	City of Alexandria	0.00	Francis Hammond Pkwy	Roan Lane	130	F							X	0.1467	F	0.6154	130	F	2009
+502003	 100	00000	     	100-0	Mansion Dr	100	City of Alexandria	100	City of Alexandria	0.00	Virginia Ave	Russell Rd	360	F							X	0.1260	F	0.5417	380	F	2009
+502007	 100	00000	     	100-0	Mount Vernon Ave	100	City of Alexandria	100	City of Alexandria	0.00	Monroe Ave	Nelson Ave	6500	G							X				7000	G	2009
+502513	 100	00000	     	100-0	N Owen St	100	City of Alexandria	100	City of Alexandria	0.00	Taney Ave	Polk Ave	140	F							X	0.1494	F	0.7143	150	F	2009
+502011	 100	00000	     	100-0	Old Dominion Blvd	100	City of Alexandria	100	City of Alexandria	0.00	Kentucky Ave	Halcyan Dr	1100	F							X	0.1510	F	0.7150	1200	F	2009
+502511	 100	00000	     	100-0	Rayburn Ave	100	City of Alexandria	100	City of Alexandria	0.00	Reading Ave	N Beauregard St	4600	F							X	0.1000	F	0.5309	5100	F	2009
+502002	 100	00000	     	100-0	Ridge Rd	100	City of Alexandria	100	City of Alexandria	0.00	Summit Ave	Fordham Rd	250	F							X	0.1479	F	0.5500	260	F	2009
+502519	 100	00000	     	100-0	Rose Crest Ave	100	City of Alexandria	100	City of Alexandria	0.00	Russel Rd	Custis Ave	450	F							X	0.1185	F	0.5254	490	F	2009
+502509	 100	00000	     	100-0	S French St	100	City of Alexandria	100	City of Alexandria	0.00	Usher Ave	SR 236 Duke St	490	F							X	0.1032	F	0.6637	520	F	2009
+502006	 100	00000	     	100-0	S Pickett St	100	City of Alexandria	100	City of Alexandria	0.00	SR 401 Van Dorn St	Dead End	4900	F							X	0.0850	F	0.5357	5300	F	2009
+502517	 100	00000	     	100-0	Stewart Ave	100	City of Alexandria	100	City of Alexandria	0.00	Mt Vernon Ave	Dewitt Ave	460	F							X	0.0997	F	0.5714	510	F	2009
+502514	 100	00000	     	100-0	Ulane Ave	100	City of Alexandria	100	City of Alexandria	0.00	N Gladden St	N Grayson St	410	F							X	0.0931	F	0.5119	430	F	2009
+502013	 100	00000	     	100-0	Wolfe St	100	City of Alexandria	100	City of Alexandria	0.00	Royal St	Fairfax St	0	?							X
+502510	 100	00000	     	100-0	Yoakum Pkwy	100	City of Alexandria	100	City of Alexandria	0.00	Edsall Rd	Stevenson Rd	5800	G							X				6200	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

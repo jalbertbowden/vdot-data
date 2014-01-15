@@ -1,0 +1,76 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Covington																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+621009	  SR	00018	     	VA 18	Indian Valley	107	City of Covington	107	City of Covington	0.37	SCL Covington	S Pitzer Ridge	3000	G	97%	0%	1%	1%	1%	0%	C	0.0898	F	0.5977	3300	G	2009
+621015	  SR	00018	     	VA 18	S Carpenter Dr	107	City of Covington	107	City of Covington	0.44	S Pitzer Ridge	Gordon Street	4800	G	97%	1%	1%	1%	1%	0%	C	0.0896	F	0.0000	5200	G	2009
+621016	  SR	00018	     	VA 18	S Carpenter Dr	107	City of Covington	107	City of Covington	0.31	East Gordon Street	Edgemont Drive	5500	G	97%	1%	1%	1%	1%	0%	F	0.0924	F	0.6367	5900	G	2009
+621001	  SR	00018	     	VA 18	Carpenter Dr	107	City of Covington	107	City of Covington	1.20	Duyant Road Ext	US 220 Madison St	4500	G	95%	1%	1%	1%	2%	0%	C	0.0923	F	0.0000	4900	G	2009
+621014	  US	00060	     	US 60	N Monroe Avenue	107	City of Covington	107	City of Covington	0.09	WCL Covington	SR 154 W Riverside St	3600	G	90%	0%	1%	1%	8%	0%	C	0.0854	F	0.6107	3900	G	2009
+621024	  US	00060	     	US 60	N Monroe Avenue	107	City of Covington	107	City of Covington	0.14	SR 154 W Riverside St	W Locust Street	3600	G	98%	0%	1%	0%	0%	0%	F	0.0984	F	0.5205	3900	G	2009
+621018	  US	00060	     	US 60	S Monroe Avenue	107	City of Covington	107	City of Covington	0.43	W Locust Street	E Oak Street	5500	G	98%	0%	1%	0%	0%	0%	C	0.0962	F	0.0000	6000	G	2009
+621019	  US	00060	     	US 60	S Monroe Avenue	107	City of Covington	107	City of Covington	0.40	E Oak Street	US 220 N Alleghany Ave	5900	G	98%	1%	1%	0%	1%	0%	C	0.0952	F	0.0000	6400	G	2009
+621013	  US	00060	     		E Madison Avenue	107	City of Covington	107	City of Covington	0.12	US 220 N Alleghany Ave	S Highland Ave	13000	G	98%	0%	1%	0%	0%	0%	F	0.0814	F	0.0000	14000	G	2009
+621004	  US	00060	     		East Madison St	107	City of Covington	107	City of Covington	0.26	S Highland Ave	SR 18 Carpenter St	14000	G	93%	1%	1%	1%	5%	0%	C	0.0820	F	0.0000	16000	G	2009
+621006	  US	00060	     		E Madison St	107	City of Covington	107	City of Covington	0.46	SR 18 Carpenter St	ECL Covington	13000	G	91%	1%	1%	1%	6%	0%	C	0.0869	F	0.0000	14000	G	2009
+080272	  IS	00064	E    	I-64 EB	 	107	City of Covington	003	Alleghany County	0.21	WCL Covington	SR 154 Durant Rd	5100	G	77%	1%	1%	1%	20%	1%	F				4800	G	2009		11000	G	77%	1%	1%	1%	20%	1%	F				9900	G
+080270	  IS	00064	E    	I-64 EB	 	107	City of Covington	003	Alleghany County	1.19	SR 154 Durant Rd	ECL Covington	6800	G	77%	1%	1%	1%	20%	1%	F				6300	G	2009		14000	G	77%	1%	1%	1%	20%	1%	F				13000	G
+180045	  IS	00064	W    	I-64 WB	 	107	City of Covington	003	Alleghany County	0.28	WCL Covington	SR 154 Durant Rd	5400	G	77%	1%	1%	1%	20%	1%	F				5100	G	2009		11000	G	77%	1%	1%	1%	20%	1%	F				9900	G
+880046	  IS	00064	W    	I-64 WB	 	107	City of Covington	003	Alleghany County	1.08	SR 154 Durant Rd	ECL Covington	7100	G	77%	1%	1%	1%	20%	1%	F				6700	G	2009		14000	G	77%	1%	1%	1%	20%	1%	F				13000	G
+080275	  SR	00154	     	VA 154	S Durant Rd/S Craig Ave	107	City of Covington	003	Alleghany County	0.75	I-64 Covington	Chestnut Street	11000	G	98%	0%	1%	0%	0%	0%	C	0.0943	F	0.0000	12000	G	2009
+621002	  SR	00154	     	VA 154	Craig Ave	107	City of Covington	107	City of Covington	0.56	Chestnut Street	Locust Street	5200	G	99%	0%	1%	0%	0%	0%	C	0.0984	F	0.0000	5600	G	2009
+621007	  SR	00154	     	VA 154	E Riverside St	107	City of Covington	107	City of Covington	0.28	Lexington Avenue	Monroe Avenue	3000	G	98%	0%	1%	1%	0%	0%	C	0.1083	F	0.6639	3300	G	2009
+621008	  SR	00154	     	VA 154	E Riverside St	107	City of Covington	107	City of Covington	0.24	Monroe Avenue	Magazine Avenue	4900	G	85%	0%	1%	1%	13%	0%	C	0.0947	F	0.0000	5300	G	2009
+621003	  SR	00154	     	VA 154	East Hickory St	107	City of Covington	107	City of Covington	0.09	Magazine Avenue	Alleghany Avenue	1000	G	85%	0%	1%	1%	13%	0%	F	0.1037	F	0.6222	1100	G	2009
+621006	  US	00220	     		E Madison St	107	City of Covington	107	City of Covington	0.46	ECL Covington	SR 18 Carpenter St	13000	G	91%	1%	1%	1%	6%	0%	C	0.0869	F	0.0000	14000	G	2009	
+621004	  US	00220	     		East Madison St	107	City of Covington	107	City of Covington	0.26	SR 18 Carpenter St	S Highland Avenue	14000	G	93%	1%	1%	1%	5%	0%	C	0.0820	F	0.0000	16000	G	2009	
+621013	  US	00220	     		E Madison Avenue	107	City of Covington	107	City of Covington	0.12	S Highland Avenue	S Monroe Avenue	13000	G	98%	0%	1%	0%	0%	0%	F	0.0814	F	0.0000	14000	G	2009	
+621010	  US	00220	     	US 220	N Alleghany Ave	107	City of Covington	107	City of Covington	0.93	S Monroe Avenue	E Locust Street	7900	G	87%	0%	1%	2%	10%	0%	C	0.0856	F	0.0000	8600	G	2009
+621011	  US	00220	     	US 220	N Alleghany Ave	107	City of Covington	107	City of Covington	0.62	E Locust Street	N Magazine Avenue	8100	G	87%	0%	1%	2%	10%	0%	C	0.0814	F	0.0000	8800	G	2009
+621012	  US	00220	     	US 220	N Alleghany Ave	107	City of Covington	107	City of Covington	0.66	N Magazine Avenue	NCL Covington	5900	G	97%	1%	1%	1%	1%	0%	C	0.0960	F	0.0000	6400	G	2009
+785261	  FR	00203	     	FR 203	Totten Dr	107	City of Covington	003	Alleghany County	0.79	Alleghany County Line	107-3605, S Durrant Rd	60	R							X						07/31/2008
+780442	  FR	00204	     	FR 204	Carlton Dr	107	City of Covington	003	Alleghany County	0.48	SR 18 Carolton Rd	Dead End	110	R							X						07/31/2008
+793537	 107	00001	     	107-1	E Mallow Rd	107	City of Covington	107	City of Covington	0.86	SR 18 Carpenter Drive	ECL Covington	1200	N	98%	1%	1%	0%	0%	0%	N	0.0995	N	0.5669	1200	N	2009
+793903	 107	00002	     	107-2	Hawthorne St	107	City of Covington	107	City of Covington	0.42	SR 154 Craig Ave	US 60 S Monroe Avenue	540	G	96%	1%	2%	0%	1%	0%	C	0.1196	F	0.7361	590	G	2009
+793904	 107	00003	     	107-3	Lexington Ave	107	City of Covington	107	City of Covington	0.71	107-5 Chestnut St	Riverside St	1500	G	98%	1%	1%	0%	0%	0%	C	0.0982	F	0.5492	1700	G	2009
+793905	 107	00004	     	107-4	Locust St	107	City of Covington	107	City of Covington	0.13	SR 154 Craig Ave	107-3 Lexington Ave	3200	G	98%	0%	1%	1%	1%	0%	C	0.1043	F	0.6758	3400	G	2009
+793906	 107	00005	     	107-5	Chestnut St	107	City of Covington	107	City of Covington	0.13	SR 154 Craig Ave; S. Durant Rd	107-3 Lexington Ave	2500	G	99%	0%	1%	0%	0%	0%	C	0.0926	F	0.5929	2800	G	2009
+793907	 107	00005	     	107-5	Chestnut St	107	City of Covington	107	City of Covington	0.29	107-3 Lexington Ave	US 220 N Alleghany Ave	1700	G	99%	1%	0%	0%	0%	0%	C	0.0961	F	1.0000	1800	G	2009
+621020	 107	03601	     	107-3601	S Pitzer Ridge	107	City of Covington	107	City of Covington	0.37	SR 18	SCL Covington	530	G	97%	0%	2%	1%	0%	0%	C	0.1060	F	0.6379	570	G	2009
+621022	 107	03605	     	107-3605	W Edgemont Dr	107	City of Covington	107	City of Covington	0.67	S Carpenter Dr	Rayon Drive	3200	G	96%	1%	1%	1%	1%	0%	C	0.1060	F	0.0000	3500	G	2009
+621021	 107	03605	     	107-3605	S Rayon Dr	107	City of Covington	107	City of Covington	0.21	W Edgemont Drive	W Jackson Street	3100	G	97%	1%	1%	1%	1%	0%	C	0.1015	F	0.0000	3400	G	2009
+621023	 107	03605	     	107-3605	W Jackson St	107	City of Covington	107	City of Covington	0.43	S Rayon Drive	S Willis Avenue	3500	G	97%	1%	1%	1%	1%	0%	C	0.1016	F	0.6506	3800	G	2009
+621017	 107	03605	     	107-3605	S Durrant Rd	107	City of Covington	107	City of Covington	0.45	S Willis Avenue	I-64	9800	G	98%	0%	0%	0%	1%	0%	C	0.0982	F	0.0000	11000	G	2009
+521006	 107	00000	     	107-0	Beverly Avenue	107	City of Covington	107	City of Covington	0.00	Cypress St	Cedar St	120	G							X	0.1123	F	0.0000	120	G	2009
+521004	 107	00000	     	107-0	Cedar St	107	City of Covington	107	City of Covington	0.00	Pocahontas Avenue	Greenbrier Avenue	330	G							X	0.1218	F	0.0000	330	G	2009
+521012	 107	00000	     	107-0	Dollyann Dr	107	City of Covington	107	City of Covington	0.00	E Madison Street	S Pond Avenue	600	G							X	0.1130	F	0.0000	600	G	2009
+521026	 107	00000	     	107-0	E Chestnut St	107	City of Covington	107	City of Covington	0.00	CSX Railroad	S Highland Ave	6800	G	99%	0%	1%	0%	0%	0%	C				6800	G	2009
+521027	 107	00000	     	107-0	E Chestnut St	107	City of Covington	107	City of Covington	0.00	US 60 Monroe Ave	US 220 S Alleghany Ave	1200	G	98%	0%	1%	0%	0%	0%	C				1200	G	2009
+521015	 107	00000	     	107-0	E Fairlawn Dr	107	City of Covington	107	City of Covington	0.00	E Scotland Drive	S Carlton Drive	100	G							X	0.1579	F	0.0000	100	G	2009
+521016	 107	00000	     	107-0	E Gordon St	107	City of Covington	107	City of Covington	0.00	S Powhatan Avenue	Smith Avenue	160	G							X	0.1127	F	0.0000	160	G	2009
+521011	 107	00000	     	107-0	E Gray St	107	City of Covington	107	City of Covington	0.00	S Mound Avenue	S Pond Avenue	250	G							X	0.1772	F	0.0000	250	G	2009
+521023	 107	00000	     	107-0	E Hawthorne St	107	City of Covington	107	City of Covington	0.00	S Lawn Ave	S Highland Ave	0	?							X
+521028	 107	00000	     	107-0	E Magazine Ave	107	City of Covington	107	City of Covington	0.00	US 220 N Alleghany Ave	Hazel St	220	G	96%	1%	3%	0%	0%	0%	C				220	G	2009
+521030	 107	00000	     	107-0	E Mallow St	107	City of Covington	107	City of Covington	0.00	SR 18 S Carpenter Dr	E Hamilton Dr	1300	G	99%	0%	0%	0%	0%	0%	C				1300	G	2009
+521019	 107	00000	     	107-0	E Michigan St	107	City of Covington	107	City of Covington	0.00	S Ohio Dr	S Greenway Drive	210	G							X	0.1142	F	0.0000	210	G	2009
+521014	 107	00000	     	107-0	E Scotland Rd	107	City of Covington	107	City of Covington	0.00	S Carlton Drive	E Fairlawn Drive	90	G							X	0.2022	F	0.0000	90	G	2009
+521001	 107	00000	     	107-0	E Trout St	107	City of Covington	107	City of Covington	0.00	Carpenter Drive	ECL Covington	980	G							X	0.0933	F	0.0000	980	G	2009
+521020	 107	00000	     	107-0	Forest Avenue	107	City of Covington	107	City of Covington	0.00	S Greenway Drive	Dead End	90	G							X	0.1854	F	0.0000	90	G	2009
+521003	 107	00000	     	107-0	N Lexington	107	City of Covington	107	City of Covington	0.00	W Riverside W	Chestnut Street	2300	G	99%	0%	1%	0%	0%	0%	C				2300	G	2009
+521029	 107	00000	     	107-0	N Magazine Ave	107	City of Covington	107	City of Covington	0.00	E Larch St	N Mill Rd	4400	G	84%	0%	1%	1%	13%	0%	C				4400	G	2009
+521024	 107	00000	     	107-0	N Maple Ave	107	City of Covington	107	City of Covington	0.00	W Locust St	W Main St	1200	G	96%	1%	2%	0%	0%	0%	C				1200	G	2009
+521010	 107	00000	     	107-0	N Marion St	107	City of Covington	107	City of Covington	0.00	W Locust Street	W Hawthorne Street	390	G							X	0.1110	F	0.6304	390	G	2009
+521009	 107	00000	     	107-0	N Rockbridge Ave	107	City of Covington	107	City of Covington	0.00	E. Willow St.	E. Cedar St.	100	G							X	0.1204	F	0.6154	100	G	2009
+521005	 107	00000	     	107-0	Pocahontas Avenue	107	City of Covington	107	City of Covington	0.00	Cedar Street	McAllister Street	330	G							X	0.1425	F	0.5534	330	G	2009
+521013	 107	00000	     	107-0	S Carlton Dr	107	City of Covington	107	City of Covington	0.00	E Scotland Road	E Fairlawn Drive	140	G							X	0.1444	F	0.7000	140	G	2009
+521018	 107	00000	     	107-0	S Greenway Dr	107	City of Covington	107	City of Covington	0.00	E Michigan Street	E Pennsylvania Street	420	G							X	0.1161	F	0.0000	420	G	2009
+521022	 107	00000	     	107-0	S Highland Ave	107	City of Covington	107	City of Covington	0.00	E Pine St	E Oak St	2000	G	96%	0%	1%	0%	2%	0%	C				2000	G	2009
+521000	 107	00000	     	107-0	S Maple	107	City of Covington	107	City of Covington	0.00	W Fudge St	W Pine St	260	G							X	0.1194	F	0.7188	260	G	2009
+521008	 107	00000	     	107-0	W Hawthorne St	107	City of Covington	107	City of Covington	0.00	N Maple Avenue	N Court Avenue	1400	G							X				1400	G	2009
+521025	 107	00000	     	107-0	W Main St	107	City of Covington	107	City of Covington	0.00	N Maple Ave	N Court Ave	2100	G	96%	1%	2%	0%	0%	0%	C				2100	G	2009
+521021	 107	00000	     	107-0	W Riverview Dr	107	City of Covington	107	City of Covington	0.00	S Durant Road	S Conrad Avenue	610	G							X	0.1140	F	0.5000	610	G	2009
+521007	 107	00000	     	107-0	Woodlawn Avenue	107	City of Covington	107	City of Covington	0.00	E. Detroit Street	E. Michigan Street	20	G							X	0.2105	F	0.7500	20	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

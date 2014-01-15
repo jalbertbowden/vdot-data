@@ -1,0 +1,385 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Madison Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+070325	  US	00015	     	US 15	James Madison Hwy	056	Madison County	056	Madison County	0.39	Orange County Line	SR 230 Orange Rd	7300	G	93%	0%	1%	1%	4%	0%	F	0.0852	F	0.0000	7800	G	2009
+070324	  US	00015	     	US 15	James Madison Hwy	056	Madison County	056	Madison County	4.92	SR 230 Orange Rd	Culpeper County Line	5400	G	93%	0%	1%	1%	4%	0%	C	0.0889	F	0.0000	5700	G	2009
+070118	  US	00029	     	US 29	S Seminole Trail	056	Madison County	056	Madison County	5.57	Greene County Line	SR 230 Wolftown-Hood Rd	15000	A	94%	1%	1%	0%	4%	0%	C	0.1146	A	0.5246	14000	A	2009
+070326	  US	00029	     		S Seminole Trail	056	Madison County	056	Madison County	0.52	SR 230 Wolftown-Hood Rd	SR 230, SR 231 Orange Rd	21000	G	94%	1%	1%	0%	4%	0%	F	0.0764	F	0.0000	19000	G	2009
+070166	  US	00029	     		S Seminole Trail	056	Madison County	056	Madison County	1.34	SR 230, SR 231 Orange Rd	Bus US 29 South of Madison	20000	G	94%	1%	1%	0%	4%	0%	F	0.0748	F	0.0000	19000	G	2009
+070327	  US	00029	     	US 29	Seminole Trail	056	Madison County	056	Madison County	2.02	Bus US 29 South of Madison	Bus US 29 North of Madison	17000	G	94%	1%	1%	0%	4%	0%	F	0.0754	F	0.0000	16000	G	2009
+070328	  US	00029	     	US 29	N Seminole Trail	056	Madison County	056	Madison County	3.16	Bus US 29 North of Madison	56-607 Ridgeview Rd; Lillards Ford Rd	17000	G	94%	1%	1%	0%	4%	0%	F	0.0724	F	0.0000	15000	G	2009
+070116	  US	00029	     	US 29	N Seminole Trail	056	Madison County	056	Madison County	4.03	56-607 Ridgeview Rd; Lillards Ford Rd	Culpeper County Line	16000	G	94%	1%	1%	0%	4%	0%	F	0.0742	F	0.0000	15000	G	2009
+070200	C9US	00029	     		Main St	056	Madison County	056	Madison County	0.33	US 29 South of Madison	SCL Madison	3700	G	98%	0%	1%	1%	1%	0%	C	0.0985	F	0.0000	4000	G	2009
+070201	C9US	00029	     		Main St	256	Town of Madison	056	Madison County	0.91	SCL Madison	SR 231, N Blue Ridge Tpke	3700	N	98%	0%	1%	1%	1%	0%	N	0.0985	N	0.0000	4000	N	2009
+070056	C9US	00029	     	Bus US 29	Main St	256	Town of Madison	056	Madison County	0.05	SR 231, N Blue Ridge Tpke	NCL Madison	4000	G	98%	0%	1%	1%	1%	0%	F	0.1062	F	0.0000	4200	G	2009
+070057	C9US	00029	     	Bus US 29	Main St	056	Madison County	056	Madison County	0.75	NCL Madison	US 29 North of Madison	4000	N	98%	0%	1%	1%	1%	0%	N	0.1062	N	0.0000	4200	N	2009
+787380	  SR	00048	     	VA 48	Skyline Dr	056	Madison County	US 	Federal	14.77	Page County Line	Rappahannock County Line	800	O							X						2009
+070329	  SR	00230	     	VA 230	Wolftown-Hood Rd	056	Madison County	056	Madison County	7.46	Greene County Line	US 29 S Seminole Trail	3000	G	95%	1%	1%	1%	2%	0%	C	0.0903	F	0.6061	3200	G	2009
+070326	  SR	00230	     		S Seminole Trail	056	Madison County	056	Madison County	0.52	US 29 S Seminole Trail	US 29, SR 231 S Seminole Trail	21000	G	94%	1%	1%	0%	4%	0%	F	0.0764	F	0.0000	19000	G	2009	
+070058	  SR	00230	     		Orange Rd	056	Madison County	056	Madison County	0.64	US 29, SR 231, S Seminole Trail	SR 231, S Blue Ridge Tpke	3200	G	94%	0%	1%	3%	2%	0%	C	0.0990	F	0.5850	3500	G	2009
+070060	  SR	00230	     	VA 230	Orange Rd	056	Madison County	056	Madison County	2.53	SR 231, S Blue Ridge Tpke	56-607 Elly Rd	3200	G	94%	0%	1%	3%	2%	0%	C	0.0962	F	0.5196	3500	G	2009
+070330	  SR	00230	     	VA 230	Orange Rd	056	Madison County	056	Madison County	2.86	56-607 Elly Rd	56-705 Twymans Mill Rd	3000	G	94%	0%	1%	3%	2%	0%	F	0.1035	F	0.5714	3200	G	2009
+070062	  SR	00230	     	VA 230	Orange Rd	056	Madison County	056	Madison County	3.16	56-705 Twymans Mill Rd	US 15 James Madison Hwy	3100	G	94%	0%	1%	3%	2%	0%	F	0.0923	F	0.5852	3300	G	2009
+070331	  SR	00231	     	VA 231	S Blue Ridge Tpke	056	Madison County	056	Madison County	9.36	Orange County Line	SR 230 Orange Rd; 56-686 Fairgrounds Rd	1200	G	96%	1%	1%	1%	2%	0%	C	0.1016	F	0.5000	1300	G	2009
+070058	  SR	00231	     		Orange Rd	056	Madison County	056	Madison County	0.64	SR 230 Orange Rd; 56-686 Fairgrounds Rd	US 29 S Seminole Trail	3200	G	94%	0%	1%	3%	2%	0%	C	0.0990	F	0.5850	3500	G	2009	
+070166	  SR	00231	     		S Seminole Trail	056	Madison County	056	Madison County	1.34	SR 230 Orange Rd	Bus US 29 Main St	20000	G	94%	1%	1%	0%	4%	0%	F	0.0748	F	0.0000	19000	G	2009	
+070200	  SR	00231	     		Main St	056	Madison County	056	Madison County	0.33	US 29 S Seminole Trail	SCL Madison	3700	G	98%	0%	1%	1%	1%	0%	C	0.0985	F	0.0000	4000	G	2009	
+070201	  SR	00231	     		Main St	256	Town of Madison	056	Madison County	0.91	SCL Madison	N Blue Ridge Turnpike	3700	N	98%	0%	1%	1%	1%	0%	N	0.0985	N	0.0000	4000	N	2009	
+070066	  SR	00231	     	VA 231	N Blue Ridge Tpke	256	Town of Madison	056	Madison County	0.04	Bus US 29 Main St	NCL Madison	3200	G	94%	0%	2%	2%	3%	0%	F	0.0937	N	0.6035	3300	G	2009
+070067	  SR	00231	     	VA 231	N Blue Ridge Tpke	056	Madison County	056	Madison County	5.44	NCL Madison	56-670 Old Blue Ridge Tpke	3300	G	96%	1%	1%	1%	2%	0%	F	0.0937	F	0.6035	3600	G	2009
+070064	  SR	00231	     	VA 231	South F T Valley Rd	056	Madison County	056	Madison County	7.19	56-670 Old Blue Ridge Tpke	Rappahannock County Line	1300	G	94%	0%	2%	2%	3%	0%	C	0.1083	F	0.5203	1400	G	2009
+780667	  FR	00722	     	FR 722	S Frontage Rd	056	Madison County	056	Madison County	0.05	Dead End	56-687 Fairgrounds Rd	0	?							X
+791027	  FR	00722	     	FR 722	N Frontage Rd	056	Madison County	056	Madison County	0.43	56-687 Fairgrounds Rd	Dead End	0	?							X
+788179	  FR	01057	     	FR 1057	Restoration Lane	056	Madison County	056	Madison County	0.03	Dead End	56-722 Fishback Rd	0	?							X
+742490	  39	00667	     	39-667	Middle River Rd	056	Madison County	039	Greene County	1.73	Greene County Line	Dead End	120	R							X						07/15/2008
+752472	  56	00600	     	56-600	Bohannon Rd	056	Madison County	056	Madison County	0.88	56-670 Old Blue Ridge Tpke	0.88 MN 56-670 Old Blue Ridge Tpke	100	G	96%	1%	1%	1%	0%	0%	C	0.1217	F	0.6429	110	G	2009
+752473	  56	00600	     	56-600	Bohannon Rd	056	Madison County	056	Madison County	0.05	0.88 MN 56-670 Old Blue Ridge Tpke	56-611 Shotwell Hollow Rd	110	R							X						10/12/2005
+752474	  56	00600	     	56-600	Bohannon Rd	056	Madison County	056	Madison County	0.76	56-611 Shotwell Hollow Rd	56-643 S, Weakley Hollow Rd	80	R							X						10/12/2005
+752475	  56	00600	     	56-600	Weakley Hollow Rd	056	Madison County	056	Madison County	0.65	56-643 S; Bohannon Rd	56-643 N, Etlan Rd	340	R							X						10/12/2005
+752476	  56	00600	     	56-600	Weakley Hollow Rd	056	Madison County	056	Madison County	4.75	56-643 N, Etlan Rd	Shenandoah Natl Park Bndy; Gap	250	R							X						10/12/2005
+752477	  56	00600	     	56-600	Nethers Rd	056	Madison County	056	Madison County	1.30	Shenandoah Natl Park Bndy; Gap	56-707 Pine Hill Rd	190	R							X						10/12/2005
+752478	  56	00601	     	56-601	Quarter Run Rd	056	Madison County	056	Madison County	0.20	Dead End	56-622 Tanners Rd	30	R							X						12/28/2005
+752479	  56	00602	     	56-602	Hughes River Rd	056	Madison County	056	Madison County	0.70	56-603 Hughes River Rd	SR 231 South F T Valley Rd	40	R							X						10/25/2005
+752480	  56	00602	     	56-602	Nethers Rd	056	Madison County	056	Madison County	0.30	SR 231, South F T Valley Rd	Rappahannock County Line	150	R							X						10/12/2005
+752481	  56	00603	     	56-603	Hebron Valley Rd	056	Madison County	056	Madison County	1.38	US 29 N Seminole Trail	56-638 Hebron Church Rd	730	R							X						11/28/2005
+302508	  56	00603	     	56-603	Hebron Valley Rd	056	Madison County	056	Madison County	1.59	56-638 Hebron Church Rd	56-604 Towles Rd	740	G	95%	1%	2%	1%	1%	0%	C	0.1119	F	0.7500	790	G	2009
+302509	  56	00603	     	56-603	Hebron Valley Rd	056	Madison County	056	Madison County	1.12	56-604 Towles Rd	56-609 S, Hoover Rd	380	G	95%	1%	2%	1%	1%	0%	F	0.0985	F	0.5529	400	G	2009
+752482	  56	00603	     	56-603	Duet Rd	056	Madison County	056	Madison County	1.34	56-609 N, Hoover Rd	56-642; Whippoorwill Rd	440	R							X						07/30/2009
+752483	  56	00603	     	56-603	Whippoorwill Rd	056	Madison County	056	Madison County	3.85	56-642 Duet Rd	56-643 Church Hill Rd	60	R							X						07/20/2009
+752484	  56	00603	     	56-603	Hughes River Rd	056	Madison County	056	Madison County	0.86	56-643 Church Hill Rd	56-602 Hughes River Rd	40	R							X						11/15/2005
+752485	  56	00603	     	56-603	 	056	Madison County	056	Madison County	0.20	56-602 Hughes River Rd	Rappahannock County Line	6	R							X						11/15/2005
+752486	  56	00604	     	56-604	Towles Rd	056	Madison County	056	Madison County	1.00	56-603 Hebron Valley Rd	56-640 Mill Hill Rd	80	R							X						09/30/2002
+752487	  56	00604	     	56-604	Towles Rd	056	Madison County	056	Madison County	0.50	56-640 Mill Hill Rd	56-669 Sawmill Rd	120	R							X						11/15/2005
+752488	  56	00604	     	56-604	Towles Rd	056	Madison County	056	Madison County	0.40	56-669 Sawmill Rd	56-609 Hoover Rd	80	R							X						11/15/2005
+752489	  56	00604	     	56-604	Arrington Mountain Rd	056	Madison County	056	Madison County	1.50	56-609 Hoover Rd	56-606 W, Desert Rd	320	R							X						11/10/2005
+752490	  56	00604	     	56-604	Novum Rd	056	Madison County	056	Madison County	0.70	56-606 W, Desert Rd	56-606 E; Mitchell Mtn Rd	210	R							X						11/15/2005
+752491	  56	00604	     	56-604	Mitchell Mtn Rd	056	Madison County	056	Madison County	0.98	56-606 E, Novum Rd	0.98 MN 56-606 Novum Rd	50	R							X						11/10/2005
+752492	  56	00604	     	56-604	Mitchell Mtn Rd	056	Madison County	056	Madison County	1.02	0.98 MN 56-606 Novum Rd	56-605 Parish Rd	20	R							X						11/10/2005
+752493	  56	00605	     	56-605	Pullen Lane	056	Madison County	056	Madison County	0.70	Dead End	56-609 W, Hoover Rd	30	R							X						11/10/2005
+752494	  56	00605	     	56-605	Novum Church Rd	056	Madison County	056	Madison County	1.54	56-609 E, Hoover Rd	1.54 MN 56-609 Hoover Rd	40	R							X						11/10/2005
+752495	  56	00605	     	56-605	Novum Church Rd	056	Madison County	056	Madison County	0.26	1.54 MN 56-609 Hoover Rd	56-606 Novum Rd	120	R							X						11/10/2005
+752496	  56	00605	     	56-605	Parish Rd	056	Madison County	056	Madison County	2.10	56-606 Novum Rd	56-604 Mitchell Mtn Rd	120	R							X						11/10/2005
+752497	  56	00605	     	56-605	Parish Rd	056	Madison County	056	Madison County	0.30	56-604 Mitchell Mtn Rd	Culpeper County Line	60	R							X						11/10/2005
+752498	  56	00606	     	56-606	Desert Rd	056	Madison County	056	Madison County	2.50	56-609 Hoover Rd	56-604 W, Arrington Mountain Rd	40	R							X						11/15/2005
+752499	  56	00606	     	56-606	Novum Rd	056	Madison County	056	Madison County	1.70	56-604 E, Mitchell Mtn Rd	56-607 Ridgeview Rd	330	R							X						11/10/2005
+752500	  56	00606	     	56-606	Novum Rd	056	Madison County	056	Madison County	0.20	56-607 Ridgeview Rd	Culpeper County Line	170	R							X						11/10/2005
+752501	  56	00607	     	56-607	Repton Mill Rd	056	Madison County	056	Madison County	1.40	SR 231, S Blue Ridge Tpke	56-624 Annies Rd	110	R							X						08/26/2002
+752502	  56	00607	     	56-607	Repton Mill Rd	056	Madison County	056	Madison County	1.00	56-624 Annies Rd	56-711 Russ Jones Lane	270	R							X						08/26/2002
+752503	  56	00607	     	56-607	Repton Mill Rd	056	Madison County	056	Madison County	0.30	56-711 Russ Jones Lane	SR 230 W, Orange Rd	360	R							X						08/22/2002
+302510	  56	00607	     	56-607	Elly Rd	056	Madison County	056	Madison County	2.34	SR 230 Orange Rd	56-614 John Tucker Rd	880	G	97%	0%	1%	1%	1%	0%	C	0.1037	F	0.5859	940	G	2009
+752504	  56	00607	     	56-607	Elly Rd	056	Madison County	056	Madison County	2.35	56-614 John Tucker Rd	56-634 E, Oak Park Rd	360	R							X						08/12/2002
+752505	  56	00607	     	56-607	Lillards Ford Rd	056	Madison County	056	Madison County	2.50	56-634 W, Oak Park Rd	56-702 Power Dam Rd	160	R							X						08/05/2002
+752506	  56	00607	     	56-607	Lillards Ford Rd	056	Madison County	056	Madison County	1.20	56-702 Power Dam Rd	56-629 N, Spring Branch Rd	290	R							X						08/08/2002
+752507	  56	00607	     	56-607	Lillards Ford Rd	056	Madison County	056	Madison County	0.90	56-629 N, Spring Branch Rd	56-647 Hunter Lane	520	R							X						07/23/2002
+752508	  56	00607	     	56-607	Lillards Ford Rd	056	Madison County	056	Madison County	0.20	56-647 Hunter Lane	US 29 W, N Seminole Trail	340	R							X						07/29/2002
+752509	  56	00607	     	56-607	Ridgeview Rd	056	Madison County	056	Madison County	0.43	US 29 E, N Seminole Trail	56-730 Coop Rd	970	R							X						07/29/2002
+752510	  56	00607	     	56-607	Ridgeview Rd	056	Madison County	056	Madison County	0.35	56-730 Coop Rd	56-678 Tibbs Shop Rd	800	R							X						07/29/2002
+752511	  56	00607	     	56-607	Ridgeview Rd	056	Madison County	056	Madison County	0.60	56-678 Tibbs Shop Rd	56-704 Great Oak Rd	670	R							X						07/29/2002
+752512	  56	00607	     	56-607	Ridgeview Rd	056	Madison County	056	Madison County	1.70	56-704 Great Oak Rd	56-640 W, Wilderness Rd	510	R							X						09/30/2002
+752513	  56	00607	     	56-607	Ridgeview Rd	056	Madison County	056	Madison County	1.00	56-640 W, Wilderness Rd	56-609 Hoover Rd	300	R							X						09/30/2002
+752514	  56	00607	     	56-607	Ridgeview Rd	056	Madison County	056	Madison County	0.80	56-609 Hoover Rd	56-608 Oakland Rd	600	R							X						09/26/2002
+752515	  56	00607	     	56-607	Ridgeview Rd	056	Madison County	056	Madison County	1.30	56-608 Oakland Rd	56-606 Novum Rd	350	R							X						09/26/2002
+752516	  56	00608	     	56-608	Oakland Rd	056	Madison County	056	Madison County	0.20	56-607 Ridgeview Rd	Culpeper County Line	200	R							X						09/26/2002
+752517	  56	00609	     	56-609	John Myers Rd	056	Madison County	056	Madison County	0.50	56-651 Aylor Rd	0.50 MN 56-651	20	R							X						10/31/2005
+752518	  56	00609	     	56-609	John Myers Rd	056	Madison County	056	Madison County	0.46	0.50 MN 56-651	SR 231 E, N Blue Ridge Tpke	70	R							X						10/31/2005
+302511	  56	00609	     	56-609	Hoover Rd	056	Madison County	056	Madison County	1.71	SR 231 W, N Blue Ridge Tpke	56-603 S, Hebron Valley Rd	590	G	96%	1%	1%	1%	1%	0%	F	0.1184	F	0.6211	630	G	2009
+302512	  56	00609	     	56-609	Hoover Rd	056	Madison County	056	Madison County	2.16	56-603 N, Hebron Valley Rd	56-604 Arrington Mountain Rd; Towles Rd	740	G	96%	1%	1%	1%	1%	0%	F	0.1006	F	0.5263	790	G	2009
+302513	  56	00609	     	56-609	Hoover Rd	056	Madison County	056	Madison County	3.19	56-604 Arrington Mountain Rd; Towles Rd	56-607 Ridgeview Rd	980	G	96%	1%	1%	1%	1%	0%	F	0.1011	F	0.7181	1000	G	2009
+302514	  56	00609	     	56-609	Hoover Rd	056	Madison County	056	Madison County	0.47	56-607 Ridgeview Rd	Culpeper County Line	1600	G	96%	1%	1%	1%	1%	0%	C	0.1005	F	0.7543	1700	G	2009
+752519	  56	00610	     	56-610	Wilhoits Lane	056	Madison County	056	Madison County	0.50	Dead End	56-621 Jacks Shop Rd	20	R							X						11/22/2005
+752520	  56	00611	     	56-611	Shotwell Hollow Rd	056	Madison County	056	Madison County	1.70	56-600 Bohannon Rd	End State Maintenance	40	R							X						10/12/2005
+752521	  56	00612	     	56-612	James City Rd	056	Madison County	056	Madison County	0.02	US 29 N Seminole Trail	56-631 Kirtley Rd	450	R							X						1999
+752522	  56	00612	     	56-612	James City Rd	056	Madison County	056	Madison County	1.90	56-631 Kirtley Rd	56-640 Tryme Rd	280	R							X						09/30/2002
+752523	  56	00613	     	56-613	Kinderhook Rd	056	Madison County	056	Madison County	3.25	Greene County Line	SR 230 Wolftown-Hood Rd	290	R							X						05/11/2009
+752524	  56	00614	     	56-614	John Tucker Rd	056	Madison County	056	Madison County	2.15	56-607 Elly Rd	56-635 Mt Zion Church Rd	370	R							X						08/15/2002
+752525	  56	00614	     	56-614	John Tucker Rd	056	Madison County	056	Madison County	0.25	56-635 Mt Zion Church Rd	56-705 Twymans Mill Rd	450	R							X						05/11/2009
+302515	  56	00614	     	56-614	Twymans Mill Rd	056	Madison County	056	Madison County	2.60	56-705 Twymans Mill Rd	US 15 S, James Madison Hwy	420	G	94%	1%	1%	3%	0%	0%	F	0.1128	F	0.5243	450	G	2009
+302516	  56	00614	     	56-614	Locust Dale Rd	056	Madison County	056	Madison County	1.90	US 15 N, James Madison Hwy	Culpeper County Line	450	G	94%	1%	1%	3%	0%	0%	C	0.1016	F	0.5400	480	G	2009
+752526	  56	00615	     	56-615	Bluff Mountain Rd	056	Madison County	056	Madison County	2.23	Greene County Line	2.23 ME of CL	60	R							X						11/07/2005
+752528	  56	00615	     	56-615	Bluff Mountain Rd	056	Madison County	056	Madison County	2.35	2.23 ME of CL	56-662 Graves Mill Rd	230	R							X						11/07/2005
+752529	  56	00616	     	56-616	Caves Ford Lane	056	Madison County	056	Madison County	0.30	Dead End	56-703 Eddins Lane	7	R							X						08/29/2002
+752530	  56	00616	     	56-616	Caves Ford Lane	056	Madison County	056	Madison County	0.70	56-703 Eddins Lane	56-620 S, Tatums School Rd	70	R							X						08/29/2002
+752531	  56	00616	     	56-616	Tatums School Rd	056	Madison County	056	Madison County	0.50	56-620 S; Caves Ford Lane	56-620 N; Locust Grove Church Rd	90	R							X						08/29/2002
+752532	  56	00616	     	56-616	Locust Grove Church Rd	056	Madison County	056	Madison County	3.22	56-620 N, Tatums School Rd	56-621 Beautiful Run Rd	410	R							X						11/22/2005
+302517	  56	00616	     	56-616	Good Hope Church Rd	056	Madison County	056	Madison County	1.91	56-621 Beautiful Run Rd	SR 230 Orange Rd; 56-607 Repton Mill Rd	530	G	95%	0%	2%	2%	1%	0%	C	0.1160	F	0.5873	570	G	2009
+752534	  56	00616	     	56-616	Carpenters Mill Rd	056	Madison County	056	Madison County	1.60	SR 230 Orange Rd; 56-607 Repton Mill Rd	56-625 Tom Johnston Rd	1100	R							X						08/15/2002
+752535	  56	00616	     	56-616	Carpenters Mill Rd	056	Madison County	056	Madison County	1.20	56-625 Tom Johnston Rd	56-626 Oneals Rd; 56-634 Oak Park Rd	1200	R							X						08/15/2002
+752536	  56	00617	     	56-617	Whites Lane	056	Madison County	056	Madison County	0.60	Dead End	SR 231, S Blue Ridge Tpke	20	R							X						11/22/2005
+752537	  56	00618	     	56-618	Fords Shop Rd	056	Madison County	056	Madison County	1.86	56-632 Beahm Town Rd	56-631 S, Meander Run Rd	180	R							X						08/05/2002
+752538	  56	00618	     	56-618	Waylands Mill Rd	056	Madison County	056	Madison County	0.80	56-631 S, Meander Run Rd	56-631 N, Leon Rd	320	R							X						08/05/2002
+752539	  56	00618	     	56-618	Waylands Mill Rd	056	Madison County	056	Madison County	1.10	56-631 N, Leon Rd	Culpeper County Line	80	R							X						12/14/2005
+752540	  56	00619	     	56-619	Ruckers Ford Lane	056	Madison County	056	Madison County	0.15	Dead End	56-621 Jacks Shop Rd	5	R							X						11/22/2005
+752541	  56	00620	     	56-620	Race Ground Rd	056	Madison County	056	Madison County	1.60	SR 231 S, Blue Ridge Tpke	SR 231 M, Blue Ridge Tpke	40	R							X						07/30/2009
+752542	  56	00620	     	56-620	Tatums School Rd	056	Madison County	056	Madison County	1.40	SR 231 N, Blue Ridge Tpke	56-616 S, Caves Ford Lane	140	R							X						08/29/2002
+752543	  56	00620	     	56-620	Tatums School Rd	056	Madison County	056	Madison County	3.30	56-616 N, Locust Grove Church Rd	SR 230 Orange Rd	110	R							X						07/30/2009
+752544	  56	00621	     	56-621	Seville Rd	056	Madison County	056	Madison County	2.90	56-662 Shelby Rd	56-633 Crawford Lane	160	R							X						09/03/2002
+752545	  56	00621	     	56-621	Seville Rd	056	Madison County	056	Madison County	0.80	56-633 Crawford Lane	US 29, S Seminole Trail	380	R							X						09/03/2002
+752546	  56	00621	     	56-621	Jacks Shop Rd	056	Madison County	056	Madison County	1.30	US 29, S Seminole Trail	56-619 Ruckers Ford Lane	380	R							X						09/03/2002
+752547	  56	00621	     	56-621	Jacks Shop Rd	056	Madison County	056	Madison County	2.20	56-619 Ruckers Ford Lane	56-610 Wilhoits Lane	320	R							X						09/03/2002
+752548	  56	00621	     	56-621	Jacks Shop Rd	056	Madison County	056	Madison County	0.90	56-610 Wilhoits Lane	SR 231 N, Blue Ridge Tpke	390	R							X						09/03/2002
+752549	  56	00621	     	56-621	Beautiful Run Rd	056	Madison County	056	Madison County	3.01	SR 231 S, Blue Ridge Tpke	56-616 Good Hope Church Rd; Locust Grove Church Rd	240	R							X						08/29/2002
+302518	  56	00621	     	56-621	Beautiful Run Rd	056	Madison County	056	Madison County	1.00	56-616 Locust Grove Church Rd	SR 230 Orange Rd	390	G	99%	0%	0%	0%	0%	0%	C	0.1106	F	0.5417	420	G	2009
+752550	  56	00622	     	56-622	Tanners Rd	056	Madison County	056	Madison County	0.90	56-705 Twymans Mill Rd	56-601 Quarter Run Rd	130	R							X						12/28/2005
+752551	  56	00622	     	56-622	Tanners Rd	056	Madison County	056	Madison County	0.80	56-601 Quarter Run Rd	56-623 Mt Pisgah Church Rd	140	R							X						12/28/2005
+752552	  56	00622	     	56-622	Tanners Rd	056	Madison County	056	Madison County	1.00	56-623 Mt Pisgah Church Rd	US 15 James Madison Hwy	270	R							X						08/15/2002
+752553	  56	00622	     	56-622	Woodberry Dr	056	Madison County	056	Madison County	0.10	US 15 James Madison Hwy	Dead End	1400	R							X						12/28/2005
+752554	  56	00623	     	56-623	Mt Pisgah Church Rd	056	Madison County	056	Madison County	0.70	56-622 Tanners Rd	Dead End	110	R							X						12/28/2005
+752555	  56	00624	     	56-624	Annies Rd	056	Madison County	056	Madison County	1.20	56-662 Shiffletts Corner Lane	56-607 Repton Mill Rd	190	R							X						11/22/2005
+752556	  56	00625	     	56-625	Tom Johnston Rd	056	Madison County	056	Madison County	1.10	56-607 Elly Rd	56-726 Sparks Lane	170	R							X						11/22/2005
+752557	  56	00625	     	56-625	Tom Johnston Rd	056	Madison County	056	Madison County	0.90	56-726 Sparks Lane	56-616 Carpenters Mill Rd	80	R							X						11/22/2005
+752558	  56	00626	     	56-626	Gibbs Rd	056	Madison County	056	Madison County	0.72	US 29, SR 230, S Seminole Trail	SR 231 Blue Ridge Turnpike; Gap	880	R							X						08/26/2002
+752559	  56	00626	     	56-626	Oneals Rd	056	Madison County	056	Madison County	2.00	SR 230 Orange Rd; Gap	56-616 Carpenters Mill Rd; 56-634 Oak Park Rd	830	R							X						08/15/2002
+752560	  56	00627	     	56-627	Dark Run Lane	056	Madison County	056	Madison County	0.60	56-634 Oak Park Rd	Dead End	60	R							X						12/29/2005
+752561	  56	00628	     	56-628	Spikes Dr	056	Madison County	056	Madison County	0.30	56-607 Elly Rd	Dead End; Gap	60	R							X						12/29/2005
+752562	  56	00628	     	56-628	Berryhill Lane	056	Madison County	056	Madison County	0.50	Dead End; Gap	56-634 Oak Park Rd	47	R							X						12/29/2005
+752563	  56	00629	     	56-629	Lonnie Burke Rd	056	Madison County	056	Madison County	0.80	US 29 N Seminole Trail	56-607 S, Lillards Ford Rd	640	R							X						08/08/2002
+752564	  56	00629	     	56-629	Spring Branch Rd	056	Madison County	056	Madison County	1.30	56-607 N, Lillards Ford Rd	56-630 Thoroughfare Rd	430	R							X						07/23/2002
+752565	  56	00630	     	56-630	Thoroughfare Rd	056	Madison County	056	Madison County	2.67	56-631 Leon Rd	56-629 Spring Branch Rd	280	R							X						08/05/2002
+752566	  56	00630	     	56-630	Thoroughfare Rd	056	Madison County	056	Madison County	1.35	56-629 Spring Branch Rd	56-710 Cook Mountain Dr	260	R							X						07/23/2002
+752567	  56	00630	     	56-630	Thoroughfare Rd	056	Madison County	056	Madison County	0.45	56-710 Cook Mountain Dr	US 29 N Seminole Trail	510	R							X						07/23/2002
+752568	  56	00630	     	56-630	Thoroughfare Rd	056	Madison County	056	Madison County	0.02	US 29 N Seminole Trail	56-678 Tibbs Shop Rd	360	R							X						11/28/2005
+752569	  56	00631	     	56-631	Meander Run Rd	056	Madison County	056	Madison County	3.29	US 15 James Madison Hwy	3.29 MN US 15	220	R							X						12/14/2005
+752570	  56	00631	     	56-631	Meander Run Rd	056	Madison County	056	Madison County	0.31	3.29 MN US 15	56-618 W, Fords Shop Rd	250	R							X						12/14/2005
+752571	  56	00631	     	56-631	Leon Rd	056	Madison County	056	Madison County	0.90	56-618 E, Waylands Mill Rd	56-630 Thoroughfare Rd	400	R							X						12/14/2005
+752572	  56	00631	     	56-631	Leon Rd	056	Madison County	056	Madison County	2.52	56-630 Thoroughfare Rd	US 29 E, N Seminole Trail; Gap	820	R							X						12/14/2005
+752573	  56	00631	     	56-631	Kirtley Rd	056	Madison County	056	Madison County	0.68	56-612 James City Rd; Gap	US 29 W, N Seminole Trail	46	R							X						10/27/2005
+752574	  56	00632	     	56-632	Beahm Town Rd	056	Madison County	056	Madison County	1.03	56-634 Oak Park Rd	56-618 Fords Shop Rd	390	R							X						12/14/2005
+752575	  56	00632	     	56-632	Beahm Town Rd	056	Madison County	056	Madison County	0.63	56-618 Fords Shop Rd	0.63 MN 56-618 Fords Shop Rd	240	R							X						12/14/2005
+752576	  56	00632	     	56-632	Beahm Town Rd	056	Madison County	056	Madison County	0.04	0.63 MN 56-618 Fords Shop Rd	0.67 MN 56-618 Fords Shop Rd	250	R							X						12/14/2005
+752577	  56	00632	     	56-632	Beahm Town Rd	056	Madison County	056	Madison County	0.65	0.67 MN 56-618 Fords Shop Rd	56-727 Stillhouse Dr	240	R							X						12/14/2005
+752578	  56	00632	     	56-632	Beahm Town Rd	056	Madison County	056	Madison County	0.45	56-727 Stillhouse Dr	56-630 Thoroughfare Rd	340	R							X						12/14/2005
+752579	  56	00633	     	56-633	Crawford Lane	056	Madison County	056	Madison County	0.60	Dead End	0.60 MN Dead End	30	R							X						11/18/2005
+752580	  56	00633	     	56-633	Crawford Lane	056	Madison County	056	Madison County	0.01	0.60 MN Dead End	56-621 Seville Rd	20	R							X						11/18/2005
+302519	  56	00634	     	56-634	Oak Park Rd	056	Madison County	056	Madison County	4.10	US 15 James Madison Hwy	56-607 E, Elly Rd	590	G	98%	0%	1%	0%	1%	0%	F	0.1137	F	0.7778	640	G	2009
+302520	  56	00634	     	56-634	Oak Park Rd	056	Madison County	056	Madison County	1.87	56-607 E, Elly Rd	56-702 Power Dam Rd	550	G	98%	0%	1%	0%	1%	0%	F	0.1023	F	0.5462	590	G	2009
+302521	  56	00634	     	56-634	Oak Park Rd	056	Madison County	056	Madison County	1.32	56-702 Power Dam Rd	56-722 Fishback Rd	1100	G	98%	0%	1%	0%	1%	0%	F	0.1032	F	0.5306	1200	G	2009
+302522	  56	00634	     	56-634	Oak Park Rd	056	Madison County	056	Madison County	1.04	56-722 Fishback Rd	56-616 Carpenters Mill Rd; 56-626 Oneals Rd	1700	G	98%	0%	1%	0%	1%	0%	F	0.1011	F	0.5734	1800	G	2009
+302523	  56	00634	     	56-634	Oak Park Rd	056	Madison County	056	Madison County	1.13	56-616 Carpenters Mill Rd; 56-626 Oneals Rd	US 29 Seminole Trail	2400	G	98%	0%	1%	0%	1%	0%	C	0.0918	F	0.5498	2600	G	2009
+302524	  56	00634	     	56-634	Washington St	056	Madison County	056	Madison County	0.16	US 29 Seminole Trail	ECL Madison	3100	G	98%	0%	1%	1%	0%	0%	C	0.0950	F	0.5434	3300	G	2009
+303776	  56	00634	     	56-634	Washington St	256	Town of Madison	056	Madison County	0.10	ECL Madison	Bus US 29 Main St	3100	N	98%	0%	1%	1%	0%	0%	N	0.0950	N	0.5434	3300	N	2009
+752581	  56	00634	     	56-634	Schoolhouse Rd	256	Town of Madison	056	Madison County	0.09	Bus US 29 Main St	WCL Madison	260	R							X						12/28/2005
+752582	  56	00634	     	56-634	Schoolhouse Rd	056	Madison County	056	Madison County	0.17	WCL Madison	Dead End	70	R							X						12/28/2005
+752583	  56	00635	     	56-635	Mt Zion Church Rd	056	Madison County	056	Madison County	2.50	56-614 John Tucker Rd	2.50 MN 56-614 John Tucker Rd	20	R							X						12/28/2005
+752584	  56	00635	     	56-635	Mt Zion Church Rd	056	Madison County	056	Madison County	0.30	2.50 MN 56-614 John Tucker Rd	56-634 Oak Park Rd	50	R							X						12/28/2005
+752585	  56	00636	     	56-636	River Rd	056	Madison County	056	Madison County	0.80	56-637 Clore Rd	0.80 ME 56-637 Clore Rd	30	R							X						12/28/2005
+752586	  56	00636	     	56-636	River Rd	056	Madison County	056	Madison County	0.03	0.80 ME 56-637 Clore Rd	US 29 N Seminole Trail	40	R							X						12/28/2005
+752587	  56	00637	     	56-637	Clore Rd	056	Madison County	056	Madison County	0.80	56-673 Cedar Hill Rd	0.80 MN 56-673 Cedar Hill Rd	380	R							X						12/28/2005
+752588	  56	00637	     	56-637	Clore Rd	056	Madison County	056	Madison County	0.20	0.80 MN 56-673 Cedar Hill Rd	56-636 River Rd	150	R							X						09/09/2002
+752589	  56	00637	     	56-637	Clore Rd	056	Madison County	056	Madison County	0.40	56-636 River Rd	Dead End	80	R							X						12/28/2005
+752590	  56	00638	     	56-638	Double Run Rd	056	Madison County	056	Madison County	0.75	Dead End	SR 231 S, N Blue Ridge Tpke	70	R							X						12/28/2005
+302525	  56	00638	     	56-638	Hebron Church Rd	056	Madison County	056	Madison County	2.18	SR 231 N, N Blue Ridge Tpke	56-603 Hebron Valley Rd	250	G	98%	0%	2%	0%	0%	0%	C	0.1569	F	0.6977	260	G	2009
+752591	  56	00638	     	56-638	Hebron Church Rd	056	Madison County	056	Madison County	0.50	56-603 Hebron Valley Rd	56-639 Tennants Church Rd	110	R							X						10/27/2005
+752592	  56	00638	     	56-638	Hebron Church Rd	056	Madison County	056	Madison County	1.10	56-639 Tennants Church Rd	US 29 N Seminole Trail	40	R							X						10/27/2005
+752593	  56	00639	     	56-639	Tennants Church Rd	056	Madison County	056	Madison County	1.80	56-638 Hebron Church Rd	56-640 Mill Hill Rd	60	R							X						10/27/2005
+752594	  56	00640	     	56-640	Mill Hill Rd	056	Madison County	056	Madison County	1.20	56-604 Towles Rd	56-639 Tennants Church Rd	20	R							X						10/27/2005
+752595	  56	00640	     	56-640	Mill Hill Rd	056	Madison County	056	Madison County	0.50	56-639 Tennants Church Rd	56-704 Great Oak Rd	60	R							X						10/27/2005
+752596	  56	00640	     	56-640	Wilderness Rd	056	Madison County	056	Madison County	1.60	56-704 Great Oak Rd	56-607 W, Ridgeview Rd	50	R							X						10/27/2005
+752597	  56	00640	     	56-640	Tryme Rd	056	Madison County	056	Madison County	0.60	56-607 E, Ridgeview Rd	56-612 James City Rd	300	R							X						10/27/2005
+752598	  56	00640	     	56-640	Tryme Rd	056	Madison County	056	Madison County	0.40	56-612 James City Rd	56-609 Hoover Rd	360	R							X						09/30/2002
+752599	  56	00641	     	56-641	Weaver Hollow Rd	056	Madison County	056	Madison County	1.01	56-609 Hoover Rd	56-721 Woodward Hollow Rd	220	R							X						10/25/2005
+752600	  56	00641	     	56-641	Weaver Hollow Rd	056	Madison County	056	Madison County	0.01	56-721 Woodward Hollow Rd	0.01 MS 56-721 Woodward Hollow Rd	70	R							X						10/25/2005
+752601	  56	00641	     	56-641	Weaver Hollow Rd	056	Madison County	056	Madison County	1.49	0.01 MS 56-721 Woodward Hollow Rd	56-642 Duet Rd	30	R							X						09/23/2002
+752602	  56	00642	     	56-642	Duet Rd	056	Madison County	056	Madison County	0.40	56-603 Whippoorwill Rd	56-641 Weaver Hollow Rd	70	R							X						10/25/2005
+752603	  56	00642	     	56-642	Duet Rd	056	Madison County	056	Madison County	0.70	56-641 Weaver Hollow Rd	56-701 Dulaney Mountain Rd	50	R							X						05/11/2009
+752604	  56	00642	     	56-642	Duet Rd	056	Madison County	056	Madison County	1.10	56-701 Dulaney Mountain Rd	SR 231 N, South F T Valley Rd	80	R							X						05/11/2009
+752605	  56	00642	     	56-642	Poor House Rd	056	Madison County	056	Madison County	2.15	SR 231 S, South F T Valley Rd	56-737 Hurt Hollow Rd	100	R							X						09/23/2002
+752606	  56	00642	     	56-642	Poor House Rd	056	Madison County	056	Madison County	0.65	56-737 Hurt Hollow Rd	56-670 Old Blue Ridge Tpke	200	R							X						09/23/2002
+752607	  56	00642	     	56-642	Lindsey Lane	056	Madison County	056	Madison County	0.60	56-670 Old Blue Ridge Tpke	56-650 E, Oak Grove Rd	80	R							X						10/31/2005
+752608	  56	00642	     	56-642	Lindsey Lane	056	Madison County	056	Madison County	0.40	56-650 E, Oak Grove Rd	56-650 W, Berrey Rd	60	R							X						10/31/2005
+752609	  56	00642	     	56-642	Lindsey Lane	056	Madison County	056	Madison County	0.50	56-650 W, Berrey Rd	0.50 MS 56-650 Berrey Rd	90	R							X						09/23/2002
+752610	  56	00642	     	56-642	Lindsey Lane	056	Madison County	056	Madison County	1.00	0.50 MS 56-650 Berrey Rd	Dead End	80	R							X						09/23/2002
+302526	  56	00643	     	56-643	Weakley Hollow Rd	056	Madison County	056	Madison County	0.30	56-670 Old Blue Ridge Tpke	56-600 S, Bohannon Rd	270	G	96%	2%	1%	2%	0%	0%	C	0.1135	F	0.5946	290	G	2009
+302527	  56	00643	     	56-643	Etlan Rd	056	Madison County	056	Madison County	4.40	56-600 N, Weakley Hollow Rd	SR 231, South F T Valley Rd	120	G	96%	2%	1%	2%	0%	0%	F	0.1241	F	0.5882	120	G	2009
+752611	  56	00643	     	56-643	Church Hill Rd	056	Madison County	056	Madison County	1.00	SR 231, South F T Valley Rd	56-603 Whippoorwill Rd	110	R							X						09/26/2002
+752612	  56	00644	     	56-644	Emmett Rd	056	Madison County	056	Madison County	1.50	56-643 Etlan Rd	56-646 Champe Plain Rd	80	R							X						10/12/2005
+752613	  56	00645	     	56-645	Rider Hollow Lane	056	Madison County	056	Madison County	1.40	56-643 Etlan Rd	Dead End	80	R							X						10/12/2005
+752614	  56	00646	     	56-646	Champe Plain Rd	056	Madison County	056	Madison County	1.10	SR 231, South F T Valley Rd	56-644 Emmett Rd	140	R							X						09/26/2002
+752615	  56	00646	     	56-646	Champe Plain Rd	056	Madison County	056	Madison County	1.70	56-644 Emmett Rd	56-707 Nethers Rd	100	R							X						09/26/2002
+752616	  56	00647	     	56-647	Hunter Lane	056	Madison County	056	Madison County	0.11	US 29 N Seminole Trail	56-607 Lillards Ford Rd	180	R							X						07/23/2002
+752617	  56	00648	     	56-648	Finks Hollow Lane	056	Madison County	056	Madison County	1.57	Dead End	1.57 ME Dead End	130	R							X						10/12/2005
+752618	  56	00648	     	56-648	Finks Hollow Lane	056	Madison County	056	Madison County	0.14	1.57 ME Dead End	56-670 Old Blue Ridge Tpke	170	R							X						10/12/2005
+752619	  56	00649	     	56-649	Quaker Run Rd	056	Madison County	056	Madison County	1.35	End State Maintenance	1.35 ME End State Maintenance	150	R							X						10/31/2005
+752620	  56	00649	     	56-649	Quaker Run Rd	056	Madison County	056	Madison County	1.65	1.35 ME End State Maintenance	56-672 Doubletop Rd	210	R							X						10/31/2005
+752621	  56	00649	     	56-649	Quaker Run Rd	056	Madison County	056	Madison County	0.10	56-672 Doubletop Rd	56-670 Old Blue Ridge Tpke	380	R							X						10/31/2005
+752622	  56	00650	     	56-650	Beamers Head Rd	056	Madison County	056	Madison County	1.10	Dead End	56-651 Aylor Rd	70	R							X						10/31/2005
+752623	  56	00650	     	56-650	Oak Grove Rd	056	Madison County	056	Madison County	1.30	56-651 Aylor Rd	56-642 E, Lindsey Lane	45	R							X						10/31/2005
+752624	  56	00650	     	56-650	Berrey Rd	056	Madison County	056	Madison County	0.70	56-642 W, Lindsey Lane	56-672 Meadows Lane	47	R							X						10/31/2005
+752625	  56	00651	     	56-651	Aylor Rd	056	Madison County	056	Madison County	2.80	Dead End	56-652 S, Gaar Mountain Rd	70	R							X						11/16/2005
+752626	  56	00651	     	56-651	Aylor Rd	056	Madison County	056	Madison County	0.90	56-652 S, Gaar Mountain Rd	56-652 N, Horn Hollow Lane	110	R							X						09/19/2002
+752627	  56	00651	     	56-651	Aylor Rd	056	Madison County	056	Madison County	0.40	56-652 N, Horn Hollow Lane	56-650 Oak Grove Rd; Beamers Head Rd	170	R							X						09/19/2002
+752628	  56	00651	     	56-651	Aylor Rd	056	Madison County	056	Madison County	1.00	56-650 Oak Grove Rd; Beamers Head Rd	56-609 John Myers Rd	260	R							X						09/19/2002
+752629	  56	00651	     	56-651	Aylor Rd	056	Madison County	056	Madison County	0.60	56-609 John Myers Rd	SR 231, N Blue Ridge Tpke	320	R							X						09/19/2002
+752630	  56	00652	     	56-652	Ruth Rd	256	Town of Madison	056	Madison County	0.09	Bus US 29 Main St	WCL Madison	340	R							X						12/28/2005
+752631	  56	00652	     	56-652	Ruth Rd	056	Madison County	056	Madison County	3.31	WCL Madison	56-656 Courtney Hollow Lane	350	R							X						11/16/2005
+752632	  56	00652	     	56-652	Gaar Mountain Rd	056	Madison County	056	Madison County	2.40	56-656 Courtney Hollow Lane	56-651 S, Aylor Rd	30	R							X						11/16/2005
+752633	  56	00652	     	56-652	Horn Hollow Lane	056	Madison County	056	Madison County	0.10	56-651 N, Aylor Rd	56-698 Gabriel Lane	60	R							X						11/16/2005
+752634	  56	00652	     	56-652	Horn Hollow Lane	056	Madison County	056	Madison County	1.00	56-698 Gabriel Lane	Dead End	20	R							X						11/16/2005
+752635	  56	00653	     	56-653	Blankenbaker Rd	056	Madison County	056	Madison County	0.35	SR 231, N Blue Ridge Tpke	56-728 Village Dr	70	R							X						10/27/2005
+752636	  56	00653	     	56-653	Blankenbaker Rd	056	Madison County	056	Madison County	0.68	56-728 Village Dr	56-638 Hebron Church Rd	60	R							X						10/27/2005
+752637	  56	00654	     	56-654	Williamsburg Pike	056	Madison County	056	Madison County	0.50	SR 231 S, Blue Ridge Tpke	56-693 Hampton Village Rd	300	R							X						09/19/2002
+752638	  56	00654	     	56-654	Williamsburg Pike	056	Madison County	056	Madison County	0.70	56-693 Hampton Village Rd	SR 231 N, Blue Ridge Tpke	120	R							X						09/19/2002
+752639	  56	00655	     	56-655	Glebe Lane	056	Madison County	056	Madison County	0.50	Dead End	56-695 Yager Mountain Rd	20	R							X						11/16/2005
+752640	  56	00655	     	56-655	Glebe Lane	056	Madison County	056	Madison County	0.90	56-695 Yager Mountain Rd	SR 231, N Blue Ridge Tpke	80	R							X						12/28/2005
+752641	  56	00656	     	56-656	Courtney Hollow Lane	056	Madison County	056	Madison County	1.40	Dead End	56-658 Ruth Rd	80	R							X						11/16/2005
+752642	  56	00656	     	56-656	Courtney Hollow Lane	056	Madison County	056	Madison County	0.50	56-658 Ruth Rd	56-652 Gaar Mountain Rd	230	R							X						09/16/2002
+752643	  56	00657	     	56-657	Edgwood School Lane	056	Madison County	056	Madison County	0.30	Dead End	SR 230 E, Wolftown-Hood Rd	240	R							X						11/18/2005
+302528	  56	00657	     	56-657	Thrift Rd	056	Madison County	056	Madison County	4.01	SR 230 W, Wolftown-Hood Rd	WCL Madison	120	G	99%	0%	1%	0%	0%	0%	F	0.1504	F	0.5500	130	G	2009
+302529	  56	00657	     	56-657	Thrift Rd	256	Town of Madison	056	Madison County	0.09	WCL Madison	Bus US 29 Main St	420	G	99%	0%	1%	0%	0%	0%	C	0.1303	F	0.6250	450	G	2009
+752644	  56	00658	     	56-658	Ruth Rd	056	Madison County	056	Madison County	3.80	56-657 Thrift Rd	56-656 Courtney Hollow Lane	110	R							X						09/16/2002
+752645	  56	00659	     	56-659	Madison Mills Lane	056	Madison County	056	Madison County	0.29	Dead End	US 15 James Madison Hwy	100	R							X						08/19/2002
+752646	  56	00660	     	56-660	Courthouse Mountain Rd	056	Madison County	056	Madison County	0.08	Dead End	Bus US 29 Main St	200	R							X						09/09/2002
+752647	  56	00661	     	56-661	Trinity Lane	056	Madison County	056	Madison County	0.50	Dead End	0.50 MN Dead End	60	R							X						11/18/2005
+752648	  56	00661	     	56-661	Trinity Lane	056	Madison County	056	Madison County	0.50	0.50 MN Dead End	SR 230 Wolftown-Hood Rd	70	R							X						11/18/2005
+752649	  56	00662	     	56-662	Shiffletts Corner Lane	056	Madison County	056	Madison County	1.00	Dead End	56-624 Annies Rd	250	R							X						05/11/2009
+752650	  56	00662	     	56-662	Shiffletts Corner Lane	056	Madison County	056	Madison County	0.30	56-624 Annies Rd	SR 231 S, S Blue Ridge Tpke	320	R							X						11/22/2005
+302530	  56	00662	     	56-662	Shelby Rd	056	Madison County	056	Madison County	2.20	SR 231 N, S Blue Ridge Tpke	US 29, S Seminole Trail	690	G	97%	0%	1%	1%	1%	0%	C	0.0964	F	0.6316	740	G	2009
+302531	  56	00662	     	56-662	Shelby Rd	056	Madison County	056	Madison County	3.67	US 29, S Seminole Trail	SR 230 E, Wolftown-Hood Rd	610	G	98%	0%	1%	0%	0%	0%	C	0.1014	F	0.6429	650	G	2009
+302532	  56	00662	     	56-662	Graves Mill Rd	056	Madison County	056	Madison County	0.96	SR 230 W, Wolftown-Hood Rd	56-689 Berry Mountain Lane	930	G	96%	0%	1%	1%	1%	0%	C	0.0960	F	0.6200	1000	G	2009
+752651	  56	00662	     	56-662	Graves Mill Rd	056	Madison County	056	Madison County	0.50	56-689 Berry Mountain Lane	56-665 Garth Run Rd	1000	R							X						11/03/2005
+752652	  56	00662	     	56-662	Graves Mill Rd	056	Madison County	056	Madison County	2.80	56-665 Garth Run Rd	56-676 General Banks Lane	390	R							X						11/07/2005
+752653	  56	00662	     	56-662	Graves Mill Rd	056	Madison County	056	Madison County	1.15	56-676 General Banks Lane	56-615 Bluff Mountain Rd	300	R							X						11/07/2005
+752654	  56	00662	     	56-662	Graves Rd	056	Madison County	056	Madison County	1.60	56-615 Bluff Mountain Rd	Dead End	90	R							X						11/07/2005
+752655	  56	00663	     	56-663	Walkers Mill Lane	056	Madison County	056	Madison County	0.90	Dead End	56-664 Carter Ridge Lane	48	R							X						11/18/2005
+752656	  56	00663	     	56-663	Walkers Mill Lane	056	Madison County	056	Madison County	1.20	56-664 Carter Ridge Lane	56-662 S, Shelby Rd	100	R							X						11/18/2005
+752657	  56	00663	     	56-663	Willis Rd	056	Madison County	056	Madison County	2.08	56-662 N, Shelby Rd	SR 230 Wolftown-Hood Rd	210	R							X						11/18/2005
+752658	  56	00664	     	56-664	Carter Ridge Lane	056	Madison County	056	Madison County	0.30	56-663 Walkers Mill Lane	Dead End	10	R							X						11/18/2005
+752659	  56	00665	     	56-665	Garth Run Rd	056	Madison County	056	Madison County	2.83	Dead End	56-718 Wallace Gap Lane	140	R							X						11/03/2005
+752660	  56	00665	     	56-665	Garth Run Rd	056	Madison County	056	Madison County	0.35	56-718 Wallace Gap Lane	56-723 Pine Ridge Lane	400	R							X						11/03/2005
+752661	  56	00665	     	56-665	Garth Run Rd	056	Madison County	056	Madison County	0.52	56-723 Pine Ridge Lane	56-662 Graves Mill Rd	540	R							X						11/03/2005
+752662	  56	00666	     	56-666	Pea Ridge Rd	056	Madison County	056	Madison County	1.10	Dead End	SR 230 Wolftown-Hood Rd	120	R							X						11/18/2005
+752663	  56	00667	     	56-667	Doc Carpenter Rd	056	Madison County	056	Madison County	0.30	56-680 Gate Rd	Dead End	90	R							X						11/07/2005
+752664	  56	00668	     	56-668	Resettlement Court	056	Madison County	056	Madison County	0.11	Dead End	56-688 Resettlement Rd	140	R							X						08/08/2002
+752665	  56	00669	     	56-669	Sawmill Rd	056	Madison County	056	Madison County	0.30	56-604 Towles Rd	56-609 Hoover Rd	40	R							X						11/15/2005
+752666	  56	00670	     	56-670	Old Blue Ridge Tpke	056	Madison County	056	Madison County	1.70	Shenandoah Natl Park Bndy	56-648 Finks Hollow Lane	80	R							X						10/12/2005
+752667	  56	00670	     	56-670	Old Blue Ridge Tpke	056	Madison County	056	Madison County	1.42	56-648 Finks Hollow Lane	56-643 Weakley Hollow Rd	670	R							X						10/12/2005
+302533	  56	00670	     	56-670	Old Blue Ridge Tpke	056	Madison County	056	Madison County	3.61	56-643 Weakley Hollow Rd	SR 231, N Blue Ridge Tpke	1100	G							X				1100	G	2009
+752668	  56	00671	     	56-671	Forest Dr	056	Madison County	056	Madison County	1.40	US 15 James Madison Hwy	Dead End	230	R							X						12/28/2005
+752669	  56	00672	     	56-672	Doubletop Rd	056	Madison County	056	Madison County	0.05	56-649 Quaker Run Rd	56-674 Spring Oak Lane	140	R							X						10/31/2005
+752670	  56	00672	     	56-672	Meadows Lane	056	Madison County	056	Madison County	0.25	56-674 Spring Oak Lane	56-650 Berry Rd	120	R							X						10/31/2005
+752671	  56	00672	     	56-672	Meadows Lane	056	Madison County	056	Madison County	0.37	56-650 Berry Rd	Dead End	49	R							X						10/31/2005
+752672	  56	00673	     	56-673	Mud Rd	256	Town of Madison	056	Madison County	0.14	56-652 Ruth Rd	NCL Madison	100	R							X						09/09/2002
+785162	  56	00673	     	56-673	Mud Rd	056	Madison County	056	Madison County	0.16	NCL Madison	SR 231 N Blue Ridge Tpke	120	R							X						09/09/2002
+752673	  56	00673	     	56-673	Cedar Hill Rd	056	Madison County	056	Madison County	0.50	SR 231, N Blue Ridge Tpke	Bus US 29 Main St	760	R							X						09/09/2002
+752674	  56	00674	     	56-674	Spring Oak Lane	056	Madison County	056	Madison County	0.15	Dead End	56-672 Doubletop Rd	20	R							X						10/31/2005
+752675	  56	00675	     	56-675	Fletcher Rd	056	Madison County	056	Madison County	1.20	Greene County Line; 39-667 Middle River Rd	Dead End	230	R							X						09/12/2002
+752676	  56	00676	     	56-676	General Banks Lane	056	Madison County	056	Madison County	0.15	56-662 Graves Mill Rd	0.15 ME 56-662 Graves Mill Rd	40	R							X						11/07/2005
+752677	  56	00676	     	56-676	General Banks Lane	056	Madison County	056	Madison County	0.05	0.15 ME 56-662 Graves Mill Rd	Dead End	40	R							X						11/07/2005
+752678	  56	00677	     	56-677	Estes Lane	056	Madison County	056	Madison County	0.40	Dead End	US 29 S Seminole Trail	20	R							X						11/18/2005
+752679	  56	00678	     	56-678	Tibbs Shop Rd	056	Madison County	056	Madison County	0.60	56-607 Ridgeview Rd	56-630 Thoroughfare Rd	330	R							X						07/29/2002
+752680	  56	00678	     	56-678	Tibbs Shop Rd	056	Madison County	056	Madison County	0.02	56-630 Thoroughfare Rd	US 29 N Seminole Trail	380	R							X						07/29/2002
+752681	  56	00679	     	56-679	Deer Crossing Lane	056	Madison County	056	Madison County	1.20	Dead End	56-685 Burnt Tree Way	230	R							X						11/22/2005
+752682	  56	00680	     	56-680	Gate Rd	056	Madison County	056	Madison County	0.90	US 29 N Seminole Trail	56-667 Doc Carpenter Rd	150	R							X						12/28/2005
+752683	  56	00680	     	56-680	Gate Rd	056	Madison County	056	Madison County	0.50	56-667 Doc Carpenter Rd	Dead End	40	R							X						12/14/2005
+752684	  56	00682	     	56-682	Longshot Lane	056	Madison County	056	Madison County	0.85	SR 231, S Blue Ridge Tpke	Dead End	90	R							X						11/22/2005
+752685	  56	00683	     	56-683	John Weaver Dr	056	Madison County	056	Madison County	0.29	Dead End	0.29 MN Dead End	160	R							X						11/29/2005
+752686	  56	00683	     	56-683	John Weaver Dr	056	Madison County	056	Madison County	0.15	0.29 MN Dead End	56-724 Geer Lane	190	R							X						11/29/2005
+752687	  56	00683	     	56-683	John Weaver Dr	056	Madison County	056	Madison County	0.18	56-724 Geer Lane	US 29 N Seminole Trail	450	R							X						07/29/2002
+752688	  56	00684	     	56-684	George James Loop	056	Madison County	056	Madison County	0.27	SR 230 W, Orange Rd	56-735 Short Lane	80	R							X						08/22/2002
+752689	  56	00684	     	56-684	George James Loop	056	Madison County	056	Madison County	0.10	56-735 Short Lane	SR 230 MID, Orange Rd	90	R							X						08/22/2002
+752690	  56	00684	     	56-684	Radiant Way	056	Madison County	056	Madison County	0.21	SR 230 MID, Orange Rd	56-696 Tinsley Dr	320	R							X						08/22/2002
+752691	  56	00684	     	56-684	Radiant Way	056	Madison County	056	Madison County	0.70	56-696 Tinsley Dr	56-705 Twymans Mill Rd	90	R							X						08/19/2002
+752692	  56	00684	     	56-684	Radiant Way	056	Madison County	056	Madison County	0.41	56-705 Twymans Mill Rd	SR 230 E, Orange Rd	70	R							X						08/19/2002
+752693	  56	00685	     	56-685	Burnt Tree Way	056	Madison County	056	Madison County	0.24	SR 230 W, Orange Rd	56-679 Deer Crossing Lane	180	R							X						08/19/2002
+752694	  56	00685	     	56-685	Burnt Tree Way	056	Madison County	056	Madison County	0.24	56-679 Deer Crossing Lane	SR 230 E, Orange Rd	200	R							X						08/19/2002
+752695	  56	00685	     	56-685	Slaughter Dr	056	Madison County	056	Madison County	0.31	SR 230 E, Orange Rd	Dead End	70	R							X						08/19/2002
+752696	  56	00686	     	56-686	Fairgrounds Rd Connector	056	Madison County	056	Madison County	0.04	SR 230 Orange Rd; SR 231, S Blue Ridge Tpke	56-687 Fairgrounds Rd	1600	R							X						07/30/2009
+303806	  56	00687	     	56-687	Ramp from SR 230 to 56-686	056	Madison County	056	Madison County	0.15	SR 230 Orange Rd	56-686 Fairgrounds Rd Connector	150	G	99%	0%	1%	0%	0%	0%	F	0.1676	F	1.0000	160	G	2009
+302534	  56	00687	     	56-687	Fairgrounds Rd	056	Madison County	056	Madison County	1.70	56-686 Fairgrounds Rd Connector	US 29 Seminole Trail	1500	G	99%	0%	1%	0%	0%	0%	C	0.0979	F	0.5188	1600	G	2009
+303812	  56	00687	     	56-687	Fairgrounds Rd	056	Madison County	056	Madison County	0.10	US 29 Seminole Trail	Bus US 29	860	G	99%	0%	1%	0%	0%	0%	F	0.1034	F	0.5521	920	G	2009
+752697	  56	00688	     	56-688	Resettlement Rd	056	Madison County	056	Madison County	0.30	56-634 Oak Park Rd	56-725 Little Church Lane	850	R							X						12/29/2005
+752698	  56	00688	     	56-688	Resettlement Rd	056	Madison County	056	Madison County	0.07	56-725 Little Church Lane	56-668 Resettlement Court	650	R							X						12/29/2005
+752699	  56	00688	     	56-688	Resettlement Rd	056	Madison County	056	Madison County	0.25	56-668 Resettlement Court	Dead End	230	R							X						12/29/2005
+752700	  56	00689	     	56-689	Berry Mountain Lane	056	Madison County	056	Madison County	0.45	56-662 Graves Mill Rd	Dead End	180	R							X						09/12/2002
+752701	  56	00690	     	56-690	Hollowback Lane	056	Madison County	056	Madison County	0.55	56-662 Graves Mill Rd	Dead End	150	R							X						11/03/2005
+752702	  56	00691	     	56-691	Lost Mountain Rd	056	Madison County	056	Madison County	2.20	SR 230 Orange Rd	56-607 Elly Rd	20	R							X						10/27/2005
+752703	  56	00692	     	56-692	Riverview Lane	056	Madison County	056	Madison County	0.53	SR 230 Wolftown-Hood Rd	Dead End	110	R							X						10/27/2005
+752704	  56	00693	     	56-693	Hampton Village Rd	056	Madison County	056	Madison County	0.55	56-654 Perrys Mill Rd	Dead End	180	R							X						09/19/2002
+752705	  56	00694	     	56-694	Hoffman Chapel Lane	056	Madison County	056	Madison County	0.70	56-638 Hebron Church Rd	Dead End	20	R							X						10/27/2005
+752706	  56	00695	     	56-695	Yager Mountain Rd	056	Madison County	056	Madison County	0.80	Dead End	56-655 Glebe Lane	50	R							X						11/16/2005
+752707	  56	00696	     	56-696	Tinsley Dr	056	Madison County	056	Madison County	1.25	56-684 Radiant Way	Dead End	260	R							X						08/19/2002
+752708	  56	00697	     	56-697	Bootons Lane	056	Madison County	056	Madison County	0.75	Dead End	SR 230 Orange Rd; 56-685 Burnt Tree Way	300	R							X						11/16/2005
+752709	  56	00698	     	56-698	Gabriel Lane	056	Madison County	056	Madison County	0.50	Dead End	56-652 Horn Hollow Lane	45	R							X						11/16/2005
+752710	  56	00699	     	56-699	Lester Utz Lane	056	Madison County	056	Madison County	0.60	Dead End	56-629 Spring Branch Rd	130	R							X						11/16/2005
+752711	  56	00700	     	56-700	Wrights Lane	056	Madison County	056	Madison County	0.40	Dead End	0.40 MN Dead End	110	R							X						11/22/2005
+752712	  56	00700	     	56-700	Wrights Lane	056	Madison County	056	Madison County	1.25	0.40 MN Dead End	SR 230 Orange Rd	120	R							X						07/30/2009
+752713	  56	00701	     	56-701	Dulaney Mountain Rd	056	Madison County	056	Madison County	0.35	56-642 Duet Rd	Dead End	30	R							X						10/25/2005
+752714	  56	00702	     	56-702	Power Dam Rd	056	Madison County	056	Madison County	0.60	56-634 Oak Park Rd	0.60 MN 56-634 Oak Park Rd	70	R							X						07/30/2009
+752715	  56	00702	     	56-702	Larkins Mill Rd	056	Madison County	056	Madison County	1.00	0.60 MN 56-634 Oak Park Rd	56-607 Lillards Ford Rd	70	R							X						07/30/2009
+752716	  56	00703	     	56-703	Eddins Lane	056	Madison County	056	Madison County	0.20	Dead End	56-616 Caves Ford Lane	20	R							X						11/22/2005
+752717	  56	00704	     	56-704	Great Oak Rd	056	Madison County	056	Madison County	0.90	56-640 Wilderness Rd; Mill Hill Rd	56-607 Ridgeview Rd	30	R							X						10/27/2005
+302535	  56	00705	     	56-705	Twymans Mill Rd	056	Madison County	056	Madison County	0.78	SR 230 Orange Rd	56-622 Tanners Rd	400	G	99%	0%	0%	1%	0%	0%	C	0.0971	F	0.5250	430	G	2009
+302536	  56	00705	     	56-705	Twymans Mill Rd	056	Madison County	056	Madison County	1.80	56-622 Tanners Rd	56-614 Twymans Mill Rd; John Tucker Rd	280	G	99%	0%	0%	1%	0%	0%	F	0.1186	F	0.5429	300	G	2009
+752718	  56	00706	     	56-706	Turner Dr	056	Madison County	056	Madison County	0.70	56-614 Twymans Mill Rd	Dead End	150	R							X						05/14/2009
+752719	  56	00707	     	56-707	Nethers Rd	056	Madison County	056	Madison County	0.30	Rappahannock County Line	56-646 Champe Plain Rd	280	R							X						10/12/2005
+752720	  56	00707	     	56-707	Nethers Rd	056	Madison County	056	Madison County	0.70	56-646 Champe Plain Rd	56-749 Moon Rd	320	R							X						10/12/2005
+752721	  56	00707	     	56-707	Nethers Rd	056	Madison County	056	Madison County	0.30	56-749 Moon Rd	56-600; Pine Hill Rd	230	R							X						10/12/2005
+752722	  56	00707	     	56-707	Pine Hill Rd	056	Madison County	056	Madison County	0.40	56-600 Nethers Rd	Rappahannock County Line	30	R							X						10/12/2005
+752723	  56	00708	     	56-708	Rochelle School Lane	056	Madison County	056	Madison County	0.60	Dead End	SR 231, S Blue Ridge Tpke	180	R							X						11/22/2005
+752724	  56	00709	     	56-709	Medley Mountain Dr	056	Madison County	056	Madison County	0.20	Dead End	0.20 ME Dead End	110	R							X						11/22/2005
+752725	  56	00709	     	56-709	Medley Mountain Dr	056	Madison County	056	Madison County	0.30	0.20 ME Dead End	56-607 Elly Rd	130	R							X						11/22/2005
+752726	  56	00710	     	56-710	Cook Mountain Dr	056	Madison County	056	Madison County	0.50	56-630 Thoroughfare Rd	Dead End	200	R							X						07/23/2002
+752727	  56	00711	     	56-711	Russ Jones Lane	056	Madison County	056	Madison County	0.70	Dead End	56-607 Repton Mill Rd	70	R							X						11/22/2005
+752728	  56	00712	     	56-712	Willis Ford Lane	056	Madison County	056	Madison County	0.50	0.50 MW SR 231	SR 231, S Blue Ridge Tpke	90	R							X						05/11/2009
+752729	  56	00712	     	56-712	Buggy Lane	056	Madison County	056	Madison County	0.85	SR 231, S Blue Ridge Tpke	Dead End	150	R							X						11/22/2005
+752730	  56	00713	     	56-713	Whetstone Rd	056	Madison County	056	Madison County	0.14	SR 230 Wolftown-Hood Rd	56-662 Graves Mill Rd	1400	R							X						11/22/2005
+752731	  56	00714	     	56-714	Bairs Trail Lane	056	Madison County	056	Madison County	0.70	Dead End	SR 231, S Blue Ridge Tpke	40	R							X						11/22/2005
+752732	  56	00715	     	56-715	Tussing Lane	056	Madison County	056	Madison County	0.40	Dead End	SR 231, S Blue Ridge Tpke	70	R							X						11/22/2005
+752733	  56	00716	     	56-716	Mountain Prospect Lane	056	Madison County	056	Madison County	0.41	Dead End	56-631 Leon Rd	49	R							X						12/14/2005
+752734	  56	00717	     	56-717	Ashby Lane	056	Madison County	056	Madison County	0.25	56-646 Champe Plain Rd	Dead End	80	R							X						10/12/2005
+752735	  56	00718	     	56-718	Wallace Gap Lane	056	Madison County	056	Madison County	0.10	Dead End	56-740 Laurel Dr	30	R							X						11/03/2005
+752736	  56	00718	     	56-718	Wallace Gap Lane	056	Madison County	056	Madison County	0.10	56-740 Laurel Dr	56-665 Garth Run Rd	290	R							X						11/03/2005
+752737	  56	00719	     	56-719	Gibson Hollow Lane	056	Madison County	056	Madison County	0.15	56-643 Etlan Rd	Dead End	60	R							X						10/12/2005
+752738	  56	00720	     	56-720	Leathers Lane	056	Madison County	056	Madison County	0.50	56-643 Etlan Rd	Dead End	30	R							X						10/12/2005
+752739	  56	00721	     	56-721	Woodward Hollow Rd	056	Madison County	056	Madison County	0.80	56-641 Weaver Hollow Rd	Dead End	130	R							X						05/11/2009
+752740	  56	00722	     	56-722	Fishback Rd	056	Madison County	056	Madison County	1.27	56-634 Oak Park Rd	FR-1057 Restoration Lane	1300	R							X						12/28/2005
+791025	  56	00722	     	56-722	Fishback Rd	056	Madison County	056	Madison County	0.01	FR-1057 Restoration Lane	US 29, N Seminole Trail	0	?							X
+752741	  56	00723	     	56-723	Pine Ridge Lane	056	Madison County	056	Madison County	0.25	Dead End	56-665 Garth Run Rd	40	R							X						11/03/2005
+752742	  56	00724	     	56-724	Geer Lane	056	Madison County	056	Madison County	0.30	Dead End	56-683 John Weaver Dr	210	R							X						11/29/2005
+752743	  56	00725	     	56-725	Little Church Lane	056	Madison County	056	Madison County	0.40	56-688 Resettlement Rd	Dead End	250	R							X						12/29/2005
+752744	  56	00726	     	56-726	Sparks Lane	056	Madison County	056	Madison County	0.35	56-625 Tom Johnston Rd	Dead End	60	R							X						12/29/2005
+752745	  56	00727	     	56-727	Stillhouse Dr	056	Madison County	056	Madison County	0.20	Dead End	56-632 Beahm Town Rd	200	R							X						08/05/2002
+752746	  56	00728	     	56-728	Village Dr	056	Madison County	056	Madison County	0.15	SR 231, N Blue Ridge Tpke	56-738 Layden Lakeview Circle	200	R							X						09/16/2002
+752747	  56	00728	     	56-728	Village Dr	056	Madison County	056	Madison County	0.17	56-738 Layden Lakeview Circle	56-653 Blankenbaker Rd	70	R							X						09/16/2002
+752748	  56	00729	     	56-729	Criglers School Rd	056	Madison County	056	Madison County	0.06	Dead End	56-607 Ridgeview Rd	20	R							X						11/28/2005
+752749	  56	00730	     	56-730	Coop Rd	056	Madison County	056	Madison County	0.22	56-607 Ridgeview Rd	US 29 N Seminole Trail	170	R							X						07/29/2002
+752750	  56	00731	     	56-731	Roebuck Dr	056	Madison County	056	Madison County	0.30	Dead End	56-607 Elly Rd	40	R							X						11/28/2005
+752751	  56	00732	     	56-732	Toms Dr	056	Madison County	056	Madison County	0.30	56-607 Lillards Ford Rd	Dead End	60	R							X						11/28/2005
+752752	  56	00733	     	56-733	Oak Hill Court	056	Madison County	056	Madison County	0.20	Dead End	US 29, S Seminole Trail	100	R							X						11/28/2005
+752753	  56	00734	     	56-734	Marshall Lane	056	Madison County	056	Madison County	0.15	Dead End	56-614 John Tucker Rd	80	R							X						11/22/2005
+752754	  56	00735	     	56-735	Short Lane	056	Madison County	056	Madison County	0.10	Dead End	56-684 George James Loop	70	R							X						11/22/2005
+752755	  56	00736	     	56-736	Burks Lane	056	Madison County	056	Madison County	0.07	Cul-de-Sac	US 29 N Seminole Trail	48	R							X						11/28/2005
+752756	  56	00737	     	56-737	Hurt Hollow Rd	056	Madison County	056	Madison County	0.40	56-642 Poor House Rd	Dead End	60	R							X						09/23/2002
+752757	  56	00738	     	56-738	Layden Lakeview Circle	056	Madison County	056	Madison County	0.20	Cul-de-Sac	56-728 Village Dr	40	R							X						10/27/2005
+752758	  56	00739	     	56-739	Crestview Lane	056	Madison County	056	Madison County	0.23	56-634 Oak Park Rd	Dead End	110	R							X						08/08/2002
+752759	  56	00740	     	56-740	Laurel Dr	056	Madison County	056	Madison County	0.10	Dead End	56-718 Wallace Gap Lane	210	R							X						11/03/2005
+796116	  56	00741	     	56-741	 	056	Madison County	056	Madison County	0.26	56-662 Shelby Rd	SR 230 Wolftown-Hood Rd	0	?							X
+752760	  56	00742	     	56-742	Bright Acres Court	056	Madison County	056	Madison County	0.17	Cul-de-Sac	US 29 N Seminole Trail	140	R							X						11/28/2005
+792479	  56	00744	     	56-744	Happy Hills Lane	056	Madison County	056	Madison County	0.55	56-634 Oak Park Rd	Dead End	480	R							X						05/11/2009
+792408	  56	00745	     	56-745	E Happy Hills Lane	056	Madison County	056	Madison County	0.17	56-744 Happy Hills Lane	Dead End	160	R							X						05/11/2009
+752761	  56	00749	     	56-749	Moon Rd	056	Madison County	056	Madison County	0.09	56-707 Nethers Rd	Rappahannock County Line	30	R							X						10/12/2005
+752762	  56	01001	     	56-1001	Church St	256	Town of Madison	056	Madison County	0.10	Bus US 29 Main St	ECL Madison	750	R							X						12/28/2005
+752763	  56	01001	     	56-1001	Church St	056	Madison County	056	Madison County	0.10	ECL Madison	Dead End	320	R							X						12/28/2005
+752764	  56	01002	     	56-1002	Catherine St	256	Town of Madison	056	Madison County	0.06	Dead End	Bus US 29 Main St	70	R							X						12/28/2005
+752765	  56	01002	     	56-1002	Catherine St	256	Town of Madison	056	Madison County	0.07	Bus US 29 Main St	56-1003 Smith St	160	R							X						12/28/2005
+752766	  56	01003	     	56-1003	Smith St	256	Town of Madison	056	Madison County	0.25	Bus US 29 Main St	56-1002 Catherine St	90	R							X						12/28/2005
+752767	  56	01010	     	56-1010	Razors Shop Dr	056	Madison County	056	Madison County	0.04	56-607 Elly Rd	Cul-de-Sac	47	R							X						08/12/2002
+788783	  56	01011	     	56-1011	Rolling Green Ln	056	Madison County	056	Madison County	0.17	56-629 Spring Branch Rd	Dead End	46	R							X						12/14/2005
+788784	  56	01017	     	56-1017	Greenbriar Court	056	Madison County	056	Madison County	0.11	Cul-de-Sac	56-1018 Coop Shop Lane	30	R							X						11/29/2005
+752768	  56	01018	     	56-1018	Coop Shop Lane	056	Madison County	056	Madison County	0.55	56-607 Lillards Ford Rd	Dead End	210	R							X						07/23/2002
+783236	  56	01019	     	56-1019	Frays Mill Court	056	Madison County	056	Madison County	0.10	56-1018 Coop Shop Lane	Dead End	30	R							X						07/23/2002
+752769	  56	01020	     	56-1020	Weaver Lane	056	Madison County	056	Madison County	0.26	56-683 John Weaver Dr	Cul-de-Sac	140	R							X						1999
+786509	  56	01021	     	56-1021	Hebron Court Lane	056	Madison County	056	Madison County	0.27	Dead End	SR 231, N Blue Ridge Tpke	0	?							X
+796512	  56	01022	     	56-1022	 	056	Madison County	056	Madison County	0.35	Dead End	US 29 N Seminole Trail	0	?							X
+752770	  56	01030	     	56-1030	Oaks Lane	056	Madison County	056	Madison County	0.07	56-621 Seville Rd	Dead End	46	R							X						11/18/2005
+788785	  56	01035	     	56-1035	Fox Hunters Ln	056	Madison County	056	Madison County	0.47	56-722 Fishback Rd	Dead End	0	?							X
+752771	  56	09243	     	56-9243	Criglersville Elementary School	056	Madison County	056	Madison County	0.08	56-670 Old Blue Ridge Tpke	Criglersville Elementary School	150	R							X						09/23/2002
+752772	  56	09244	     	56-9244	Madison High School	056	Madison County	056	Madison County	0.18	Bus US 29 Main St	Madison High School	350	R							X						1999
+752773	  56	09712	     	56-9712	Madison Elementary School	056	Madison County	056	Madison County	0.12	Madison Elementary School	56-687 Fairgrounds Rd	180	R							X						1999
+752774	  56	09731	     	56-9731	Mountaineer Lane	056	Madison County	056	Madison County	0.20	US 29 S Seminole Trail	Madison High School	1300	R							X						1999
+752775	  56	09731	     	56-9731	Mountaineer Lane	056	Madison County	056	Madison County	0.09	William H Wetzel Middle School	56-687 Fairgrounds Rd	740	R							X						1999
+752776	  56	09734	     	56-9734	Primary School Dr	056	Madison County	056	Madison County	0.40	56-687 Fairgrounds Rd	Madison Primary School	850	R							X						1999
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

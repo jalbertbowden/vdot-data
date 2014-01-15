@@ -1,0 +1,18 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Saltville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+668200	  SR	00091	     	VA 91	S Main St	295	Town of Saltville	095	Washington County	0.52	WCL Saltville	Smyth County Line	2800	G							X				2900	G	2009
+668208	  SR	00091	     	VA 91	Main St	295	Town of Saltville	086	Smyth County	1.15	Washington County Line	Palmer Ave	2100	G	97%	1%	1%	1%	1%	0%	C	0.0912	F	0.6190	2200	G	2009
+668201	  SR	00091	     	VA 91	Main St	295	Town of Saltville	086	Smyth County	0.26	Palmer Ave	SR 107 Worthy Blvd	7000	G	97%	1%	1%	1%	1%	0%	F	0.0912	F	0.5549	7400	G	2009
+668203	  SR	00091	     	VA 91	E Main St	295	Town of Saltville	086	Smyth County	1.96	SR 107 Worthy Blvd	NCL Saltville	2600	G	97%	1%	1%	1%	1%	0%	C	0.0891	F	0.5741	2800	G	2009
+668204	  SR	00107	     	VA 107	Worthy Blvd	295	Town of Saltville	086	Smyth County	2.66	SCL Saltville	SR 91 E Main St; Main St	3700	G	97%	1%	1%	0%	1%	0%	C	0.0922	F	0.5487	3900	G	2009
+668207	 295	01206	     	295-1206	Palmer Ave	295	Town of Saltville	295	Town of Saltville	1.83	SCL Saltville	Lake Dr	1300	G	96%	1%	1%	0%	3%	0%	C	0.1048	F	0.5432	1400	G	2009
+668206	 295	01206	     	295-1206	Palmer Ave	295	Town of Saltville	295	Town of Saltville	0.48	Lake Dr	SR 91 Main St	3900	G	96%	1%	1%	0%	3%	0%	F	0.0983	F	0.5478	4100	G	2009
+668205	 295	01206	     	295-1206	Allison Gap Rd	295	Town of Saltville	295	Town of Saltville	1.05	SR 91 Main St	NCL Saltville	3200	G	98%	1%	1%	0%	0%	0%	C	0.0975	F	0.5299	3400	G	2009
+788265	 295	00000	     	295-0	Mathieson Rd	295	Town of Saltville	295	Town of Saltville	0.00	Campbell Dr	Greenbrier Dr	270	G							X	0.1365	F	0.5541	270	G	2009
+788264	 295	00000	     	295-0	Shaker Lane	295	Town of Saltville	295	Town of Saltville	0.00	Palmer Ave	First Street	1700	G							X	0.1457	F	0.5000	1700	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

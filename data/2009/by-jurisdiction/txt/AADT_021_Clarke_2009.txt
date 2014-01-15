@@ -1,0 +1,333 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Clarke Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080336	  SR	00007	     	VA 7	Harry Flood Byrd Hwy	021	Clarke County	021	Clarke County	3.80	Frederick County Line	Bus SR 7 West of Berryville	25000	B	95%	0%	1%	0%	3%	0%	C	0.0986	A	0.6830	26000	B	2009
+180072	  SR	00007	     	VA 7	Harry Flood Byrd Hwy	021	Clarke County	021	Clarke County	1.45	Bus SR 7 West of Berryville	US 340 North of Berryville	25000	F	95%	0%	1%	0%	3%	0%	F	0.0853	F	0.7227	27000	F	2009
+180073	  SR	00007	     	VA 7	Harry Flood Byrd Hwy	021	Clarke County	021	Clarke County	1.65	US 340 North of Berryville	Bus SR 7 East of Berryville	22000	F	95%	0%	1%	0%	3%	0%	F	0.0948	F	0.8417	23000	F	2009
+180074	  SR	00007	     	VA 7	Harry Flood Byrd Hwy	021	Clarke County	021	Clarke County	4.16	Bus SR 7 East of Berryville	21-606 River Rd	22000	F	97%	1%	1%	0%	1%	0%	F	0.0969	F	0.7747	25000	F	2009
+180075	  SR	00007	     	VA 7	Harry Flood Byrd Hwy	021	Clarke County	021	Clarke County	2.51	21-606 River Rd	Loudoun County Line	23000	F	97%	1%	1%	0%	1%	0%	F	0.0983	F	0.8754	26000	F	2009
+180076	C1SR	00007	     	Bus VA 7	West Main St	021	Clarke County	021	Clarke County	0.80	SR 7 West of Berryville	WCL Berryville	5800	F	98%	1%	1%	0%	0%	0%	C	0.1017	F	0.5192	6100	F	2009
+180095	C1SR	00007	     	Bus VA 7	West Main St	168	Town of Berryville	021	Clarke County	0.86	WCL Berryville	US 340 Berryville	5800	N	98%	1%	1%	0%	0%	0%	N	0.1017	N	0.5192	6100	N	2009
+180077	C1SR	00007	     	Bus VA 7	East Main St	168	Town of Berryville	021	Clarke County	1.12	US 340 Berryville	ECL Berryville	4200	F	96%	0%	1%	0%	2%	0%	C	0.1019	F	0.6500	4500	F	2009
+180098	C1SR	00007	     	Bus VA 7	East Main St	021	Clarke County	021	Clarke County	0.27	ECL Berryville	SR 7 East of Berryville	4200	N	96%	0%	1%	0%	2%	0%	N	0.1019	N	0.6500	4500	N	2009
+080338	  US	00017	     		John S Mosby Hwy	021	Clarke County	021	Clarke County	3.44	Fauquier County Line	21-723 East of Millwood	12000	F	96%	1%	1%	1%	2%	0%	F	0.0949	F	0.7261	13000	F	2009	
+080339	  US	00017	     		Millwood Pike	021	Clarke County	021	Clarke County	1.97	21-723 East of Milllwood	SR 255	11000	F	96%	1%	1%	1%	2%	0%	C	0.0978	F	0.7088	12000	F	2009	
+080340	  US	00017	     		Millwood Pike	021	Clarke County	021	Clarke County	2.83	SR 255	US 340 South of Boyce	12000	F	95%	1%	1%	1%	2%	0%	C	0.0981	F	0.7157	13000	F	2009	
+080160	  US	00017	     		Millwood Pike	021	Clarke County	021	Clarke County	1.67	US 340 South of Boyce	Frederick County Line	10000	F	94%	1%	1%	1%	3%	0%	C	0.0973	F	0.6873	11000	F	2009	
+080160	  US	00050	     		Millwood Pike	021	Clarke County	021	Clarke County	1.67	Frederick County Line	US 340 South of Boyce	10000	F	94%	1%	1%	1%	3%	0%	C	0.0973	F	0.6873	11000	F	2009
+080340	  US	00050	     		Millwood Pike	021	Clarke County	021	Clarke County	2.83	US 340 South of Boyce	SR 255 Bishop Meade Rd	12000	F	95%	1%	1%	1%	2%	0%	C	0.0981	F	0.7157	13000	F	2009
+080339	  US	00050	     		Millwood Pike	021	Clarke County	021	Clarke County	1.97	SR 255 Bishop Meade Rd	21-723 East of Millwood	11000	F	96%	1%	1%	1%	2%	0%	C	0.0978	F	0.7088	12000	F	2009
+080338	  US	00050	     		John S Mosby Hwy	021	Clarke County	021	Clarke County	3.44	21-723 East of Millwood	Fauquier County Line	12000	F	96%	1%	1%	1%	2%	0%	F	0.0949	F	0.7261	13000	F	2009
+080342	  SR	00255	     	VA 255	Bishop Meade Rd	021	Clarke County	021	Clarke County	0.79	US 50 Millwood Pike	21-723 N, Millwood Rd	1200	F	98%	1%	1%	0%	0%	0%	F	0.1023	F	0.6109	1300	F	2009
+080341	  SR	00255	     	VA 255	Bishop Meade Highway	021	Clarke County	021	Clarke County	3.05	21-723 N, Millwood Rd	US 340 Lord Fairfax Hwy	1600	F	98%	1%	1%	0%	0%	0%	C	0.1008	F	0.5753	1700	F	2009
+080517	  US	00340	     		Stonewall Jackson Hwy	021	Clarke County	093	Warren County	1.79	Warren County Line	US 522 Double Toll Gate	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009	
+080349	  US	00340	     	US 340	Lord Fairfax Hwy	021	Clarke County	021	Clarke County	2.09	US 522 Double Toll Gate	21-658 White Post	6700	F	92%	1%	1%	1%	5%	0%	C	0.0975	F	0.6713	7300	F	2009
+080348	  US	00340	     	US 340	Lord Fairfax Hwy	021	Clarke County	021	Clarke County	1.83	21-658 White Post	US 50 South of Boyce	7000	F	88%	1%	1%	3%	7%	0%	C	0.0935	F	0.7278	7600	F	2009
+080347	  US	00340	     	US 340	Lord Fairfax Hwy	021	Clarke County	021	Clarke County	1.19	US 50 South of Boyce	SCL Boyce	7300	F	92%	1%	1%	1%	5%	0%	C	0.0883	F	0.6036	8000	F	2009
+080350	  US	00340	     	US 340	Lord Fairfax Hwy	172	Town of Boyce	021	Clarke County	0.81	SCL Boyce	NCL Boyce	7300	N	92%	1%	1%	1%	5%	0%	N	0.0883	N	0.6036	8000	N	2009
+080556	  US	00340	     	US 340	Lord Fairfax Hwy	021	Clarke County	021	Clarke County	2.27	NCL Boyce	SR 255 Old Chapel	7300	N	92%	1%	1%	1%	5%	0%	N	0.0883	N	0.6036	8000	N	2009
+080346	  US	00340	     	US 340	Lord Fairfax Hwy	021	Clarke County	021	Clarke County	2.99	SR 255 Old Chapel	SCL Berryville	9200	F	92%	1%	1%	1%	5%	0%	F	0.0964	F	0.6295	9800	F	2009
+080351	  US	00340	     	US 340	S Buckmarsh St	168	Town of Berryville	021	Clarke County	0.51	SCL Berryville	Bus SR 7 Main St	9200	N	92%	1%	1%	1%	5%	0%	N	0.0964	N	0.6295	9800	N	2009
+080345	  US	00340	     	US 340	N Buckmarsh St	168	Town of Berryville	021	Clarke County	0.45	Bus SR 7 Main St	NCL Berryville	8600	F	92%	1%	1%	1%	5%	0%	F	0.0859	F	0.5491	9300	F	2009
+080353	  US	00340	     	US 340	Lord Fairfax Highway	021	Clarke County	021	Clarke County	0.24	NCL Berryville	SR 7	8600	N	92%	1%	1%	1%	5%	0%	N	0.0859	N	0.5491	9300	N	2009
+080344	  US	00340	     	US 340	Lord Fairfax Hwy	021	Clarke County	021	Clarke County	1.29	SR 7	21-611 Summit Point Rd	14000	F	91%	1%	1%	1%	8%	0%	F	0.0818	F	0.5076	13000	F	2009
+080343	  US	00340	     	US 340	Lord Fairfax Highway	021	Clarke County	021	Clarke County	2.82	21-611 Summit Point Rd	West Virginia State Line	11000	A	91%	1%	1%	1%	8%	0%	C	0.0987	A	0.5431	11000	A	2009
+080517	  US	00522	     		Stonewall Jackson Hwy	021	Clarke County	093	Warren County	1.79	Warren County Line	US 340; SR 277 Double Toll Gate	18000	G	84%	1%	1%	2%	12%	0%	C	0.0820	F	0.0000	18000	G	2009
+080386	  US	00522	     	US 522	Stonewall Jackson Hwy	021	Clarke County	034	Frederick County	0.32	US 340; SR 277 Double Toll Gate	Frederick County Line	14000	G	86%	1%	1%	1%	11%	0%	F	0.0772	F	0.0000	14000	G	2009
+780653	  FR	00709	     	FR 709	Parker Lane	021	Clarke County	021	Clarke County	0.12	SR 7; 21-606	Dead End	160	R							X						10/03/2006
+780673	  FR	00729	     	FR 729	Trapp Hill Rd	021	Clarke County	021	Clarke County	1.74	SR 7; Bus SR 7	US 340 Lord Fairfax Hwy	120	R							X						10/24/2006
+719475	  21	00600	     	21-600	Liberty Hall Lane	021	Clarke County	021	Clarke County	0.65	Dead End	US 50 John S Mosby Hwy	8	R							X						10/03/2006
+401885	  21	00601	     	21-601	Blue Ridge Mountain Rd	021	Clarke County	021	Clarke County	6.29	US 50; Loudoun County Line	21-605 Morgans Mill Rd	1100	F	98%	1%	0%	0%	0%	0%	C	0.1579	F	0.9508	1100	F	2009
+401886	  21	00601	     	21-601	Blue Ridge Mountain Rd	021	Clarke County	021	Clarke County	1.52	21-605 Morgans Mill Rd	21-650 W, Mount Weather Rd	1300	F	96%	1%	1%	1%	1%	0%	F	0.1397	F	0.8361	1500	F	2009
+401888	  21	00601	     	21-601	Blue Ridge Mountain Rd	021	Clarke County	021	Clarke County	0.35	21-650 W, Mount Weather Rd	21-650 E, Mount Weather Rd	1500	F	96%	1%	1%	1%	1%	0%	F	0.1348	F	0.8427	1600	F	2009
+401889	  21	00601	     	21-601	Blue Ridge Mountain Rd	021	Clarke County	021	Clarke County	1.76	21-650 E, Mount Weather Rd	Loudoun County Line	1500	F	96%	1%	1%	1%	1%	0%	F	0.1336	F	0.8418	1700	F	2009
+401890	  21	00601	     	21-601	Blue Ridge Mountain Rd	053	Loudoun County	021	Clarke County	1.12	Loudoun County Line	SR 7 Harry F Byrd Hwy	1700	F	96%	1%	1%	1%	1%	0%	C	0.1272	F	0.7137	1800	F	2009
+402549	  21	00601	     	21-601	Raven Rocks Rd	053	Loudoun County	021	Clarke County	0.11	SR 7 Harry F Byrd Hwy	Loudoun County Line	380	N	95%	3%	1%	0%	0%	0%	N	0.1095	N	0.6591	400	N	2009
+401891	  21	00601	     	21-601	Raven Rocks Rd	021	Clarke County	021	Clarke County	1.20	Loudoun County Line	West Virginia State Line	380	F	95%	3%	1%	0%	0%	0%	C	0.1095	F	0.6591	400	F	2009
+719476	  21	00602	     	21-602	Wildcat Hollow Rd	021	Clarke County	021	Clarke County	0.89	Dead End	0.89 MN Dead End	80	R							X						10/30/2006
+719477	  21	00602	     	21-602	Wildcat Hollow Rd	021	Clarke County	021	Clarke County	1.49	0.89 MN Dead End	US 50 John S Mosby Hwy	550	R							X						04/07/2009
+719478	  21	00603	     	21-603	Castleman Rd	021	Clarke County	021	Clarke County	0.10	21-612 Shepherds Mill Rd	0.10 ME 21-612 Shepherds Mill Rd	170	R							X						11/01/2006
+719479	  21	00603	     	21-603	Castleman Rd	021	Clarke County	021	Clarke County	0.70	0.10 ME 21-612 Shepherds Mill Rd	21-663 Auburn Rd	130	R							X						04/07/2009
+719480	  21	00603	     	21-603	Castleman Rd	021	Clarke County	021	Clarke County	1.33	21-663 Auburn Rd	1.33 ME 21-663	80	R							X						11/01/2006
+719481	  21	00603	     	21-603	Castleman Rd	021	Clarke County	021	Clarke County	1.24	1.33 ME 21-663	SR 7 Harry Flood Byrd Hwy	170	R							X						04/16/2009
+719482	  21	00604	     	21-604	 	021	Clarke County	021	Clarke County	1.90	21-605 Morgans Mill Rd	21-607 Saw Mill Rd	100	R							X						10/03/2006
+783432	  21	00604	     	21-604	 	021	Clarke County	021	Clarke County	3.17	21-607 Saw Mill Rd	SR 7 Harry Flood Byrd Hwy	170	R							X						04/14/2009
+719485	  21	00604	     	21-604	 	021	Clarke County	021	Clarke County	0.30	SR 7 Harry Flood Byrd Hwy	21-679 Pine Grove Rd	60	R							X						10/03/2006
+719486	  21	00605	     	21-605	Morgans Mill Rd	021	Clarke County	021	Clarke County	0.50	21-649 Frogtown Rd	21-604	130	R							X						10/03/2006
+719487	  21	00605	     	21-605	Morgans Mill Rd	021	Clarke County	021	Clarke County	2.11	21-604	21-601 Blue Ridge Mtn Rd	30	R							X						10/03/2006
+719488	  21	00606	     	21-606	 	021	Clarke County	021	Clarke County	2.94	US 50 John S Mosby Hwy	21-649 S, Frogtown Rd	580	R							X						10/03/2006
+719489	  21	00606	     	21-606	 	021	Clarke County	021	Clarke County	1.70	21-649 S, Frogtown Rd	1.70 MN 21-649	70	R							X						10/03/2006
+719490	  21	00606	     	21-606	 	021	Clarke County	021	Clarke County	0.70	1.70 MN 21-649	21-649 N, Frogtown Rd	190	R							X						10/03/2006
+719491	  21	00606	     	21-606	 	021	Clarke County	021	Clarke County	2.78	21-649 N, Frogtown Rd	21-607 Saw Mill Rd	650	R							X						04/14/2009
+401892	  21	00606	     	21-606	River Rd	021	Clarke County	021	Clarke County	1.82	21-607 Saw Mill Rd	SR 7; FR 709	850	F	96%	1%	2%	0%	0%	0%	C	0.0991	F	0.6667	910	F	2009
+719492	  21	00607	     	21-607	Saw Mill Rd	021	Clarke County	021	Clarke County	0.70	21-604	21-606 River Rd	160	R							X						10/03/2006
+719493	  21	00608	     	21-608	 	021	Clarke County	021	Clarke County	3.20	21-621	SR 7 W, Harry Flood Byrd Hwy	310	R							X						11/01/2006
+719494	  21	00608	     	21-608	 	021	Clarke County	021	Clarke County	1.81	SR 7 E, Harry Flood Byrd Hwy	21-612 Shepherds Mill Rd	390	R							X						11/01/2006
+719495	  21	00608	     	21-608	 	021	Clarke County	021	Clarke County	0.85	21-612 Shepherds Mill Rd	21-609 Cannon Ball Rd	440	R							X						04/16/2009
+719496	  21	00608	     	21-608	 	021	Clarke County	021	Clarke County	0.70	21-609 Cannon Ball Rd	21-663 Auburn Rd	410	R							X						04/16/2009
+719497	  21	00608	     	21-608	 	021	Clarke County	021	Clarke County	0.73	21-663 Auburn Rd	West Virginia State Line	350	R							X						04/16/2009
+719498	  21	00609	     	21-609	Cannon Ball Rd	021	Clarke County	021	Clarke County	0.60	21-608	21-612 Shepherds Mill Rd	20	R							X						11/01/2006
+719499	  21	00610	     	21-610	Clifton Rd	021	Clarke County	021	Clarke County	1.30	US 340 Lord Fairfax Hwy	21-641 Lewisville Rd	90	R							X						04/16/2009
+401893	  21	00611	     	21-611	Summit Point Rd	021	Clarke County	021	Clarke County	2.87	US 340 Lord Fairfax Hwy	West Virginia State Line	1500	F	98%	0%	1%	0%	0%	0%	C	0.1146	F	0.8200	1700	F	2009
+719500	  21	00612	     	21-612	 	021	Clarke County	021	Clarke County	1.10	Dead End	1.10 MN Dead End	660	R							X						04/14/2009
+719501	  21	00612	     	21-612	 	021	Clarke County	021	Clarke County	0.08	1.10 MN Dead End	SR 7 E, Harry Flood Byrd Hwy	660	R							X						04/14/2009
+401894	  21	00612	     	21-612	Shepherds Mill Rd	021	Clarke County	021	Clarke County	2.10	SR 7 W, Harry Flood Byrd Hwy	21-608 Wickliffe Rd	1600	F	98%	1%	1%	1%	0%	0%	C	0.1254	F	0.9022	1800	F	2009
+401895	  21	00612	     	21-612	Shepherds Mill Rd	021	Clarke County	021	Clarke County	2.63	21-608 Wickliffe Rd	US 340 Lord Fairfax Hwy	1400	F	98%	1%	1%	1%	0%	0%	F	0.1220	F	0.8711	1500	F	2009
+719502	  21	00613	     	21-613	 	021	Clarke County	021	Clarke County	0.39	21-621	21-618 Lockes Mill Rd	180	R							X						04/07/2009
+719503	  21	00613	     	21-613	 	021	Clarke County	021	Clarke County	2.07	21-618 Lockes Mill Rd	21-647 Possum Hollow Lane	320	R							X						04/07/2009
+401896	  21	00613	     	21-613	Springsbury Rd	021	Clarke County	021	Clarke County	1.02	21-647 Possum Hollow Lane	SCL Berryville	480	F	99%	0%	0%	0%	0%	0%	C	0.1322	F	0.6232	520	F	2009
+403938	  21	00613	     	21-613	 	168	Town of Berryville	021	Clarke County	0.03	SCL Berryville	21-700 Jack Enders Blvd	480	N	99%	0%	0%	0%	0%	0%	N	0.1322	N	0.6232	520	N	2009
+719504	  21	00614	     	21-614	Josephine St	168	Town of Berryville	021	Clarke County	0.48	Dead End	21-616, S Church St	850	R							X						04/09/2009
+401898	  21	00615	     	21-615	1st St; Boom Rd	168	Town of Berryville	021	Clarke County	0.68	Bus SR 7	NCL Berryville	970	F	98%	1%	1%	0%	0%	0%	C	0.0964	F	0.6415	1100	F	2009
+401899	  21	00615	     	21-615	Boom Rd	021	Clarke County	021	Clarke County	0.12	NCL Berryville	SR 7 Bypass	590	F	98%	1%	1%	0%	0%	0%	F	0.0982	F	0.6269	640	F	2009
+719505	  21	00615	     	21-615	Boom Rd	021	Clarke County	021	Clarke County	1.85	SR 7 Bypass	Dead End	730	R							X						04/09/2009
+401900	  21	00616	     	21-616	S Church St	021	Clarke County	021	Clarke County	0.22	US 340 S, Lord Fairfax Hwy	SCL Berryville	1500	F	99%	0%	1%	0%	0%	0%	F	0.1003	F	0.7409	1600	F	2009
+401901	  21	00616	     	21-616	S Church St	168	Town of Berryville	021	Clarke County	0.48	SCL Berryville	21-1011 Crow St	1900	F	99%	0%	1%	0%	0%	0%	C	0.0975	F	0.5224	2100	F	2009
+401902	  21	00616	     	21-616	S Church St	168	Town of Berryville	021	Clarke County	0.06	21-1011 Crow St	Bus SR 7	2600	F	99%	0%	1%	0%	0%	0%	F	0.0934	F	0.5484	2800	F	2009
+401903	  21	00616	     	21-616	N Church St	168	Town of Berryville	021	Clarke County	0.13	Bus SR 7	21-1005 Liberty St	1600	F	99%	0%	1%	0%	0%	0%	F	0.1026	F	0.5854	1700	F	2009
+401904	  21	00616	     	21-616	N Church St	168	Town of Berryville	021	Clarke County	0.25	21-1005 Liberty St	US 340 N, N Buckmarsh St	570	F	99%	0%	1%	0%	0%	0%	F	0.1035	F	0.9242	620	F	2009
+719506	  21	00617	     	21-617	Old Chapel Ave	172	Town of Boyce	021	Clarke County	0.20	21-723 Main St	21-666 Virginia Ave	250	R							X						04/07/2009
+719507	  21	00617	     	21-617	Old Chapel Ave	172	Town of Boyce	021	Clarke County	0.18	21-666 Virginia Ave	ECL Boyce	180	R							X						04/07/2009
+719508	  21	00617	     	21-617	 	021	Clarke County	021	Clarke County	0.83	ECL Boyce	21-620	210	R							X						04/07/2009
+719509	  21	00617	     	21-617	 	021	Clarke County	021	Clarke County	1.48	21-620	SR 255 Bishop Meade Hwy	220	R							X						04/07/2009
+719510	  21	00617	     	21-617	 	021	Clarke County	021	Clarke County	0.70	SR 255 Bishop Meade Hwy	21-619	660	R							X						04/07/2009
+719511	  21	00617	     	21-617	 	021	Clarke County	021	Clarke County	0.20	21-619	21-618 Lockes Mill Rd	520	R							X						10/03/2006
+719512	  21	00617	     	21-617	 	021	Clarke County	021	Clarke County	1.20	21-618 Lockes Mill Rd	21-621	120	R							X						04/07/2009
+719513	  21	00618	     	21-618	Lockes Mill Rd	021	Clarke County	021	Clarke County	1.20	21-617	21-613	320	R							X						10/03/2006
+719514	  21	00619	     	21-619	 	021	Clarke County	021	Clarke County	0.20	21-651 Clay Hill Rd	Dead End; Gap	40	R							X						04/07/2009
+719515	  21	00619	     	21-619	 	021	Clarke County	021	Clarke County	0.75	Dead End; Gap	21-617	160	R							X						04/07/2009
+719516	  21	00620	     	21-620	 	021	Clarke County	021	Clarke County	2.10	21-655	21-652	220	R							X						10/19/2006
+719517	  21	00620	     	21-620	 	021	Clarke County	021	Clarke County	1.00	21-652	US 340 Lord Fairfax Hwy	380	R							X						04/09/2009
+719518	  21	00620	     	21-620	 	021	Clarke County	021	Clarke County	0.20	US 340 Lord Fairfax Hwy	21-617	330	R							X						04/09/2009
+719519	  21	00620	     	21-620	 	021	Clarke County	021	Clarke County	1.20	21-617	SR 255 Bishop Meade Hwy	250	R							X						10/19/2006
+719520	  21	00621	     	21-621	 	021	Clarke County	021	Clarke County	2.20	21-723 Millwood Rd	21-651 Clay Hill Rd	170	R							X						10/03/2006
+719521	  21	00621	     	21-621	 	021	Clarke County	021	Clarke County	2.00	21-651 Clay Hill Rd	21-617	50	R							X						10/03/2006
+719522	  21	00621	     	21-621	 	021	Clarke County	021	Clarke County	1.30	21-617	21-613	50	R							X						10/03/2006
+719523	  21	00621	     	21-621	 	021	Clarke County	021	Clarke County	0.21	21-613	0.21 ME 21-613	180	R							X						10/03/2006
+719524	  21	00621	     	21-621	 	021	Clarke County	021	Clarke County	0.29	0.21 ME 21-613	0.50 ME 21-613	180	R							X						10/03/2006
+719525	  21	00621	     	21-621	 	021	Clarke County	021	Clarke County	0.50	0.50 ME 21-613	21-608	170	R							X						10/03/2006
+719526	  21	00621	     	21-621	 	021	Clarke County	021	Clarke County	2.09	21-608	2.09 ME 21-608	110	R							X						10/03/2006
+719527	  21	00621	     	21-621	 	021	Clarke County	021	Clarke County	2.31	2.09 ME 21-608	SR 7 Harry Flood Byrd Hwy	240	R							X						10/03/2006
+719528	  21	00622	     	21-622	 	021	Clarke County	021	Clarke County	0.05	21-658 White Post Rd; Sugar Hill Rd	0.05 ME 21-658	90	R							X						10/03/2006
+719529	  21	00622	     	21-622	 	021	Clarke County	021	Clarke County	1.75	0.05 ME 21-658	21-627 Carters Line Rd	40	R							X						04/07/2009
+719530	  21	00622	     	21-622	 	021	Clarke County	021	Clarke County	0.60	21-627 Carters Line Rd	21-626 Nelson Rd	90	R							X						04/07/2009
+719531	  21	00622	     	21-622	 	021	Clarke County	021	Clarke County	0.90	21-626 Nelson Rd	21-624 Red Gate Rd	60	R							X						10/03/2006
+719532	  21	00622	     	21-622	 	021	Clarke County	021	Clarke County	0.60	21-624 Red Gate Rd	21-625 EAST	180	R							X						04/07/2009
+719534	  21	00622	     	21-622	 	021	Clarke County	021	Clarke County	3.33	21-625 EAST	US 50 John S Mosby Hwy	150	R							X						10/03/2006
+719535	  21	00623	     	21-623	Gaylord Rd	021	Clarke County	021	Clarke County	0.05	US 340 E, Lord Fairfax Hwy	Dead End; Gap	30	R							X						11/01/2006
+719536	  21	00623	     	21-623	Gaylord Rd	021	Clarke County	021	Clarke County	0.15	Dead End; Gap	US 340 W, Lord Fairfax Hwy	10	R							X						11/01/2006
+719537	  21	00624	     	21-624	Red Gate Rd	021	Clarke County	021	Clarke County	2.30	Warren County Line	21-622	270	R							X						10/03/2006
+719538	  21	00624	     	21-624	Red Gate Rd	021	Clarke County	021	Clarke County	1.26	21-622	21-626 Nelson Rd	420	R							X						10/03/2006
+719539	  21	00624	     	21-624	Red Gate Rd	021	Clarke County	021	Clarke County	0.50	21-626 Nelson Rd	US 50 Millwood Pike	590	R							X						04/07/2009
+719540	  21	00625	     	21-625	 	021	Clarke County	021	Clarke County	0.10	Dead End	21-622 WEST	20	R							X						10/03/2006
+719541	  21	00625	     	21-625	 	021	Clarke County	021	Clarke County	1.85	21-622 EAST	US 50 Millwood Pike	190	R							X						04/07/2009
+719542	  21	00625	     	21-625	 	021	Clarke County	021	Clarke County	0.53	US 50 Millwood Pike	21-723 Millwood Rd	40	R							X						10/03/2006
+719543	  21	00626	     	21-626	Nelson Rd	021	Clarke County	021	Clarke County	0.70	21-622	21-628 Berry Ferry Rd	100	R							X						10/03/2006
+719544	  21	00626	     	21-626	Nelson Rd	021	Clarke County	021	Clarke County	0.90	21-628 Berry Ferry Rd	21-624 Red Gate Rd	190	R							X						10/03/2006
+719545	  21	00627	     	21-627	Carters Line Rd	021	Clarke County	021	Clarke County	1.90	21-622	21-658 White Post Rd	120	R							X						04/07/2009
+719547	  21	00628	     	21-628	Berry Ferry Rd	021	Clarke County	021	Clarke County	0.24	US 340 Lord Fairfax Hwy	21-658 White Post Rd	660	R							X						04/07/2009
+719546	  21	00628	     	21-628	Berry Ferry Rd	021	Clarke County	021	Clarke County	2.60	21-658 White Post Rd	21-626 Nelson Rd	250	R							X						04/07/2009
+719548	  21	00629	     	21-629	Linden Rd	021	Clarke County	021	Clarke County	0.10	SR 255 Bishop Meade Hwy	Dead End	90	R							X						04/07/2009
+719549	  21	00630	     	21-630	Iron Rail Rd	021	Clarke County	021	Clarke County	0.20	Dead End	US 50 Millwood Pike	40	R							X						10/19/2006
+719550	  21	00631	     	21-631	Page Brook Lane	021	Clarke County	021	Clarke County	0.50	21-723 Old Winchester Rd	Dead End	110	R							X						04/09/2009
+401905	  21	00632	     	21-632	Triple J Rd	021	Clarke County	021	Clarke County	2.35	21-657 Senseny Rd	SR 7 Harry Flood Byrd Hwy	2300	F	98%	0%	1%	0%	0%	0%	C	0.1330	F	0.7522	2500	F	2009
+401906	  21	00632	     	21-632	Crums Church Rd	021	Clarke County	021	Clarke County	2.66	SR 7 Harry Flood Byrd Hwy	21-639 Allen Road	1800	F	97%	1%	1%	1%	1%	0%	C	0.1010	F	0.5567	1900	F	2009
+401907	  21	00632	     	21-632	Crums Church Rd	021	Clarke County	021	Clarke County	1.56	21-639 Allen Road	21-761 Old Charles Town Rd	1400	F	97%	1%	1%	1%	1%	0%	F	0.1138	F	0.7294	1500	F	2009
+719551	  21	00633	     	21-633	Annfield Rd	021	Clarke County	021	Clarke County	2.30	21-652	US 340 Lord Fairfax Hwy	110	R							X						10/19/2006
+719552	  21	00634	     	21-634	Salem Church Rd	021	Clarke County	021	Clarke County	0.58	21-655	21-657 Senseny Rd	1900	R							X						10/19/2006
+719553	  21	00635	     	21-635	 	021	Clarke County	021	Clarke County	1.15	Dead End	SR 7 Harry Flood Byrd Hwy	410	R							X						11/01/2006
+719554	  21	00635	     	21-635	 	021	Clarke County	021	Clarke County	1.50	SR 7 Harry Flood Byrd Hwy	21-660	210	R							X						04/16/2009
+401908	  21	00636	     	21-636	Westwood Rd	021	Clarke County	021	Clarke County	1.50	21-657 Senseny Rd	Bus SR 7	790	F	96%	3%	0%	0%	0%	0%	C	0.1876	F	0.6810	860	F	2009
+719555	  21	00637	     	21-637	 	021	Clarke County	021	Clarke County	0.15	Dead End	21-761 E, Old Charles Town Rd	30	R							X						11/01/2006
+719556	  21	00637	     	21-637	 	021	Clarke County	021	Clarke County	0.30	21-761 W, Old Charles Town Rd	Dead End	30	R							X						11/01/2006
+401909	  21	00638	     	21-638	Howellsville Rd	021	Clarke County	021	Clarke County	3.41	Warren County Line	US 50 John S Mosby Hwy	2100	F	98%	1%	1%	0%	0%	0%	C	0.1008	F	0.8340	2300	F	2009
+719557	  21	00639	     	21-639	Allen Rd	021	Clarke County	021	Clarke County	2.64	21-632 Crums Church Rd	21-611 Summit Point Rd	170	R							X						11/01/2006
+719558	  21	00639	     	21-639	Allen Rd	021	Clarke County	021	Clarke County	0.80	21-611 Summit Point Rd	21-641 Lewisville Rd	170	R							X						11/01/2006
+719559	  21	00639	     	21-639	Allen Rd	021	Clarke County	021	Clarke County	0.70	21-641 Lewisville Rd	West Virginia State Line	360	R							X						11/01/2006
+719560	  21	00640	     	21-640	Withers Larue Rd	021	Clarke County	021	Clarke County	2.20	21-632 Crums Church Rd	West Virginia State Line	320	R							X						04/16/2009
+719561	  21	00641	     	21-641	Lewisville Rd	021	Clarke County	021	Clarke County	1.10	US 340 Lord Fairfax Hwy	21-610 Clifton Rd	330	R							X						04/16/2009
+719562	  21	00641	     	21-641	Lewisville Rd	021	Clarke County	021	Clarke County	0.20	21-610 Clifton Rd	21-639 Allen Rd	300	R							X						04/16/2009
+719563	  21	00642	     	21-642	Chrismore Rd	021	Clarke County	021	Clarke County	1.10	Frederick County Line	21-644	360	R							X						04/07/2009
+719564	  21	00643	     	21-643	Retreat Rd	021	Clarke County	021	Clarke County	1.30	SR 7 Harry Flood Byrd Hwy	Dead End	1400	R							X						10/03/2006
+719565	  21	00644	     	21-644	 	021	Clarke County	021	Clarke County	1.15	Warren County Line	21-658 S, Sugar Hill Rd	60	R							X						10/03/2006
+719566	  21	00644	     	21-644	 	021	Clarke County	021	Clarke County	2.00	21-658 N, White Post Rd	US 340 W, Lord Fairfax Hwy	90	R							X						10/03/2006
+719567	  21	00644	     	21-644	 	021	Clarke County	021	Clarke County	0.60	US 340 E, Lord Fairfax Hwy	21-646 Nations Spring Rd	400	R							X						10/03/2006
+719568	  21	00644	     	21-644	 	021	Clarke County	021	Clarke County	0.80	21-646 Nations Spring Rd	21-642 Chrismore Rd	370	R							X						04/07/2009
+719569	  21	00644	     	21-644	 	021	Clarke County	021	Clarke County	1.30	21-642 Chrismore Rd	US 50 Millwood Pike	590	R							X						10/03/2006
+719570	  21	00644	     	21-644	 	021	Clarke County	021	Clarke County	1.10	US 50 Millwood Pike	21-655	260	R							X						10/03/2006
+719572	  21	00645	     	21-645	Wrights Mill Rd	021	Clarke County	021	Clarke County	0.20	SR 7 Harry Flood Byrd Hwy	0.20 MN SR 7	330	R							X						11/01/2006
+719573	  21	00645	     	21-645	Wrights Mill Rd	021	Clarke County	021	Clarke County	0.90	0.20 MN SR 7	21-664 Neil Rd	330	R							X						11/01/2006
+719574	  21	00645	     	21-645	Wrights Mill Rd	021	Clarke County	021	Clarke County	0.70	21-664 Neil Rd	21-660	240	R							X						04/01/2009
+719575	  21	00646	     	21-646	Nations Spring Rd	021	Clarke County	021	Clarke County	1.10	Frederick County Line	21-644	90	R							X						10/03/2006
+719576	  21	00647	     	21-647	Possum Hollow Lane	021	Clarke County	021	Clarke County	0.51	Dead End	21-613 Springsbury Rd	130	R							X						04/14/2009
+719577	  21	00648	     	21-648	Lanham Lane	021	Clarke County	021	Clarke County	0.08	Dead End	SR 255 Bishop Meade Hwy	40	R							X						04/14/2009
+719578	  21	00649	     	21-649	Frogtown Rd	021	Clarke County	021	Clarke County	2.00	21-606 SOUTH	21-605 Morgans Mill Rd	450	R							X						04/14/2009
+719579	  21	00649	     	21-649	Frogtown Rd	021	Clarke County	021	Clarke County	1.07	21-605 Morgans Mill Rd	21-606 NORTH	460	R							X						04/14/2009
+719580	  21	00650	     	21-650	Mount Weather Rd	021	Clarke County	021	Clarke County	0.28	21-601 S, Blue Ridge Mountain Rd	21-601 MID	40	R							X						10/03/2006
+719581	  21	00650	     	21-650	Mount Weather Rd	021	Clarke County	021	Clarke County	0.32	21-601 MID	21-601 N, Blue Ridge Mountain Rd	20	R							X						04/16/2009
+719582	  21	00651	     	21-651	Clay Hill Rd	021	Clarke County	021	Clarke County	0.50	21-621	21-619	160	R							X						04/07/2009
+719583	  21	00651	     	21-651	Clay Hill Rd	021	Clarke County	021	Clarke County	1.00	21-619	SR 255 Bishop Meade Hwy	310	R							X						10/03/2006
+719584	  21	00652	     	21-652	 	021	Clarke County	021	Clarke County	1.00	21-620	21-633 Annfield Rd	190	R							X						04/09/2009
+719585	  21	00652	     	21-652	 	021	Clarke County	021	Clarke County	1.40	21-633 Annfield Rd	21-657 Senseny Rd	160	R							X						10/19/2006
+719586	  21	00653	     	21-653	Kimble Rd	021	Clarke County	021	Clarke County	2.00	21-632 Crums Church Rd	21-654 Stringtown Rd	250	R							X						11/01/2006
+719587	  21	00653	     	21-653	Kimble Rd	021	Clarke County	021	Clarke County	1.40	21-654 Stringtown Rd	SR 7 Harry Flood Byrd Hwy	470	R							X						04/16/2009
+719588	  21	00654	     	21-654	Stringtown Rd	021	Clarke County	021	Clarke County	1.70	21-653 Kimble Rd	21-611 Summit Point Rd	190	R							X						11/01/2006
+719589	  21	00655	     	21-655	 	021	Clarke County	021	Clarke County	0.60	21-644	21-723 S, Old Winchester Rd	290	R							X						10/19/2006
+719590	  21	00655	     	21-655	 	021	Clarke County	021	Clarke County	1.20	21-723 N, Old Winchester Rd	21-620	630	R							X						10/19/2006
+719591	  21	00655	     	21-655	 	021	Clarke County	021	Clarke County	1.26	21-620	21-634 Salem Church Rd	750	R							X						10/19/2006
+719592	  21	00655	     	21-655	 	021	Clarke County	021	Clarke County	0.84	21-634 Salem Church Rd	Frederick County Line	1500	R							X						10/19/2006
+719593	  21	00656	     	21-656	Longmarsh Rd	021	Clarke County	021	Clarke County	0.80	21-659	21-674 Cather Rd	330	R							X						04/16/2009
+719594	  21	00656	     	21-656	Longmarsh Rd	021	Clarke County	021	Clarke County	1.30	21-674 Cather Rd	21-632 Crums Church Rd	340	R							X						11/01/2006
+401910	  21	00657	     	21-657	Senseny Rd	021	Clarke County	021	Clarke County	1.02	Frederick County Line	21-634 Salem Church Rd	2100	F	99%	0%	0%	0%	0%	0%	C	0.1370	F	0.7591	2300	F	2009
+401911	  21	00657	     	21-657	Senseny Rd	021	Clarke County	021	Clarke County	1.40	21-634 Salem Church Rd	21-632 Triple J Rd	3100	F	99%	0%	0%	0%	0%	0%	F	0.1328	F	0.7337	3300	F	2009
+401912	  21	00657	     	21-657	Senseny Rd	021	Clarke County	021	Clarke County	2.70	21-632 Triple J Rd	21-636 Westwood Rd	930	F	99%	0%	0%	0%	0%	0%	F	0.1338	F	0.6737	1000	F	2009
+401913	  21	00657	     	21-657	Senseny Rd	021	Clarke County	021	Clarke County	1.20	21-636 Westwood Rd	US 340 Lord Fairfax Hwy	1100	F	99%	0%	0%	0%	0%	0%	F	0.1371	F	0.5821	1200	F	2009
+401914	  21	00658	     	21-658	Sugar Hill Rd	021	Clarke County	021	Clarke County	0.49	Warren County Line	21-644 S, Stone Bridge Rd	300	F	97%	1%	1%	0%	0%	0%	F	0.1211	F	0.6494	320	F	2009
+401915	  21	00658	     	21-658	Sugar Hill Rd	021	Clarke County	021	Clarke County	0.10	21-644 S, Stone Bridge Rd	21-622 Borders Spring Rd	300	F	97%	1%	1%	0%	0%	0%	F	0.1199	F	0.6494	330	F	2009
+401916	  21	00658	     	21-658	White Post Rd	021	Clarke County	021	Clarke County	2.40	21-622 Borders Spring Rd	21-627 Carters Line Rd	410	F	97%	1%	1%	0%	0%	0%	F	0.1067	F	0.5895	450	F	2009
+401917	  21	00658	     	21-658	White Post Rd	021	Clarke County	021	Clarke County	0.40	21-627 Carters Line Rd	21-628 Berry Ferry Rd	670	F	97%	1%	1%	0%	0%	0%	C	0.0994	F	0.5972	720	F	2009
+401918	  21	00658	     	21-658	White Post Rd	021	Clarke County	021	Clarke County	0.25	21-628 Berry Ferry Rd	US 340 Lord Fairfax Hwy	620	F	97%	1%	1%	0%	0%	0%	F	0.1029	F	0.5573	670	F	2009
+719595	  21	00659	     	21-659	 	021	Clarke County	021	Clarke County	1.40	21-660	21-656 Longmarsh Rd	140	R							X						11/01/2006
+719596	  21	00659	     	21-659	 	021	Clarke County	021	Clarke County	1.00	21-656 Longmarsh Rd	21-761 Old Charles Town Rd	310	R							X						11/01/2006
+719597	  21	00660	     	21-660	 	021	Clarke County	021	Clarke County	1.10	SR 7 Harry Flood Byrd Hwy	21-674 Cather Rd	520	R							X						11/01/2006
+719598	  21	00660	     	21-660	 	021	Clarke County	021	Clarke County	1.20	21-674 Cather Rd	21-635	180	R							X						11/01/2006
+719599	  21	00660	     	21-660	 	021	Clarke County	021	Clarke County	0.22	21-635	21-659	200	R							X						11/01/2006
+719600	  21	00660	     	21-660	 	021	Clarke County	021	Clarke County	0.26	21-659	21-645 Wrights Mill Rd	140	R							X						04/16/2009
+719601	  21	00660	     	21-660	 	021	Clarke County	021	Clarke County	0.43	21-645 Wrights Mill Rd	Dead End	50	R							X						11/01/2006
+719602	  21	00661	     	21-661	Wadesville Rd	021	Clarke County	021	Clarke County	1.80	21-761 Old Charles Town Rd	21-672 Swimley Rd	320	R							X						04/16/2009
+719603	  21	00662	     	21-662	Tannery Lane	021	Clarke County	021	Clarke County	0.07	Dead End	SR 255 Bishop Meade Rd	70	R							X						10/03/2006
+719604	  21	00663	     	21-663	Auburn Rd	021	Clarke County	021	Clarke County	1.00	21-603 Castleman Rd	21-608	40	R							X						11/01/2006
+719605	  21	00664	     	21-664	Neil Rd	021	Clarke County	021	Clarke County	0.30	Frederick County Line	21-645 Wrights Mill Rd	60	R							X						11/01/2006
+719606	  21	00665	     	21-665	Trenary Lane	021	Clarke County	021	Clarke County	0.03	US 50 Millwood Pike	0.03 MN US 50	90	R							X						04/17/2003
+719607	  21	00665	     	21-665	Trenary Lane	021	Clarke County	021	Clarke County	0.17	0.03 MN US 50	Dead End	10	R							X						11/01/2006
+719608	  21	00666	     	21-666	Virginia Ave	172	Town of Boyce	021	Clarke County	0.22	21-617 Old Chapel Ave	NCL Boyce	90	R							X						10/19/2006
+719609	  21	00667	     	21-667	Old Waterloo Rd	021	Clarke County	021	Clarke County	0.31	US 340 W, Lord Fairfax Hwy	US 340 MID	50	R							X						10/19/2006
+719610	  21	00667	     	21-667	Old Waterloo Rd	021	Clarke County	021	Clarke County	0.50	US 340 MID	US 340 E, Lord Fairfax Hwy	48	R							X						10/19/2006
+719611	  21	00668	     	21-668	Old Waterloo Rd	021	Clarke County	021	Clarke County	0.31	US 340 WEST; 21-667	US 340 E, Lord Fairfax Hwy	48	R							X						10/19/2006
+719612	  21	00669	     	21-669	Highland Corners Rd	021	Clarke County	021	Clarke County	0.06	US 340 Lord Fairfax Hwy	21-670 Double Tollgate Rd	130	R							X						10/19/2006
+719613	  21	00669	     	21-669	Highland Corners Rd	021	Clarke County	021	Clarke County	0.18	21-670 Double Tollgate Rd	US 522 Front Royal Pike	150	R							X						04/07/2009
+719614	  21	00670	     	21-670	Double Tollgate Rd	021	Clarke County	021	Clarke County	0.26	21-669 Highland Corners Rd	US 340 Lord Fairfax Hwy	120	R							X						10/03/2006
+719615	  21	00671	     	21-671	Battletown Dr	168	Town of Berryville	021	Clarke County	0.37	Dead End	21-1020 Bel Voi Dr	300	R							X						04/06/2000
+719616	  21	00671	     	21-671	Battletown Dr	168	Town of Berryville	021	Clarke County	0.08	21-1020 Bel Voi Dr	Bus SR 7	440	R							X						04/06/2000
+719617	  21	00672	     	21-672	Swimley Rd	021	Clarke County	021	Clarke County	2.98	21-761 Old Charles Town Rd	21-661 Wadesville Rd	530	R							X						11/01/2006
+719618	  21	00672	     	21-672	Swimley Rd	021	Clarke County	021	Clarke County	0.05	21-661 Wadesville Rd	Frederick County Line	800	R							X						04/16/2009
+719619	  21	00673	     	21-673	Blue Ridge St	168	Town of Berryville	021	Clarke County	0.11	21-700 Jack Enders Blvd	Dead End	80	R							X						10/24/2006
+719620	  21	00674	     	21-674	Cather Rd	021	Clarke County	021	Clarke County	0.80	21-660	21-656 Longmarsh Rd	200	R							X						04/16/2009
+719621	  21	00675	     	21-675	Garden Rd	021	Clarke County	021	Clarke County	0.28	21-632 E, Crums Church Rd	21-632 MID	30	R							X						11/01/2006
+719622	  21	00675	     	21-675	Garden Rd	021	Clarke County	021	Clarke County	0.31	21-632 MID	21-632 N, Crums Church Rd	40	R							X						04/16/2009
+719623	  21	00676	     	21-676	Donn Lane	021	Clarke County	021	Clarke County	0.09	21-677 Clarke Lane	21-615 Boom Rd	230	R							X						04/09/2009
+719624	  21	00677	     	21-677	Clarke Lane	021	Clarke County	021	Clarke County	0.20	21-676 Donn Lane	Dead End	170	R							X						04/09/2009
+719625	  21	00678	     	21-678	Rocky Bank Lane	021	Clarke County	021	Clarke County	0.13	Dead End	SR 255 Bishop Meade Rd	40	R							X						10/03/2006
+719626	  21	00679	     	21-679	Pine Grove Rd	021	Clarke County	021	Clarke County	0.80	SR 7 W, Harry Flood Byrd Hwy	21-604	350	R							X						04/16/2009
+719627	  21	00679	     	21-679	Pine Grove Rd	021	Clarke County	021	Clarke County	0.75	21-604	SR 7 E, Harry Flood Byrd Hwy	310	R							X						10/03/2006
+719628	  21	00680	     	21-680	Smallwood Lane	021	Clarke County	021	Clarke County	0.34	Dead End	0.34 MW Dead End	60	R							X						10/03/2006
+719629	  21	00680	     	21-680	Smallwood Lane	021	Clarke County	021	Clarke County	0.16	0.34 MW Dead End	US 340 Lord Fairfax Hwy	190	R							X						10/19/2006
+719630	  21	00681	     	21-681	Osborne St	168	Town of Berryville	021	Clarke County	0.07	Dead End	21-616, N Church St	120	R							X						10/24/2006
+782300	  21	00690	     	21-690	Manor Rd	021	Clarke County	021	Clarke County	0.57	Dead End	21-638 Howellsville Rd	1100	R							X						10/03/2006
+406727	  21	00700	     	21-700	Jack Enders Blvd	021	Clarke County	021	Clarke County	0.43	Dead End	SCL Berryville	0	?							X
+406731	  21	00700	     	21-700	Jack Enders Blvd	168	Town of Berryville	021	Clarke County	0.41	SCL Berryville	21-673 Blue Rdige St	0	?							X
+401897	  21	00700	     	21-700	Jack Enders Blvd	168	Town of Berryville	021	Clarke County	0.17	21-673 Blue Rdige St	Bus SR 7	2300	F	99%	0%	0%	0%	0%	0%	F	0.1112	F	0.5148	2500	F	2009
+401919	  21	00723	     	21-723	Millwood Rd	021	Clarke County	021	Clarke County	2.16	US 50 John S Mosby Hwy; Millwood Pike	SR 255 S, Bishop Meade Rd	890	F	97%	2%	1%	0%	0%	0%	F	0.1172	F	0.6511	970	F	2009
+401920	  21	00723	     	21-723	Millwood Rd	021	Clarke County	021	Clarke County	1.73	SR 255 N, Bishop Meade Highway; Bishop Meade Rd	SCL Boyce	660	F	97%	2%	1%	0%	0%	0%	F	0.1281	F	0.5517	710	F	2009
+401921	  21	00723	     	21-723	Main St	172	Town of Boyce	021	Clarke County	0.29	SCL Boyce	US 340 Lord Fairfax Hwy	1000	F	97%	2%	1%	0%	0%	0%	C	0.1782	F	0.5479	1100	F	2009
+401922	  21	00723	     	21-723	W Main St	172	Town of Boyce	021	Clarke County	0.47	US 340 Greenway Ave	NCL Boyce	1300	F	97%	2%	1%	0%	0%	0%	F	0.1254	F	0.5685	1400	F	2009
+401923	  21	00723	     	21-723	Old Winchester Rd	021	Clarke County	021	Clarke County	2.00	NCL Boyce	21-655 W, Salem Church Rd	1100	F	97%	2%	1%	0%	0%	0%	F	0.1096	F	0.6117	1200	F	2009
+401924	  21	00723	     	21-723	Old Winchester Rd	021	Clarke County	021	Clarke County	0.57	21-655 W, Salem Church Rd	Frederick County Line	880	F	97%	2%	1%	0%	0%	0%	F	0.1169	F	0.6199	960	F	2009
+796931	  21	00750	     	21-750	 	021	Clarke County	021	Clarke County	0.55	Dead End	US 50 Millwood Pike	0	?							X
+401925	  21	00761	     	21-761	Old Charles Town Rd	021	Clarke County	021	Clarke County	3.00	Frederick County Line	21-632 Crums Church Rd	1200	F	98%	1%	1%	0%	1%	0%	C	0.1347	F	0.6441	1300	F	2009
+401926	  21	00761	     	21-761	Old Charles Town Rd	021	Clarke County	021	Clarke County	1.33	21-632 Crums Church Rd	West Virginia State Line	960	F	98%	1%	1%	0%	1%	0%	F	0.1179	F	0.5690	1000	F	2009
+719633	  21	01001	     	21-1001	Academy St	168	Town of Berryville	021	Clarke County	0.08	21-616, N Church St	US 340 S, N Buckmarsh St	2200	R							X						04/09/2009
+719634	  21	01001	     	21-1001	Academy St	168	Town of Berryville	021	Clarke County	0.12	US 340 N, N Buckmarsh St	21-1004 Rice St	390	R							X						10/24/2006
+719635	  21	01001	     	21-1001	Academy St	168	Town of Berryville	021	Clarke County	0.06	21-1004 Rice St	21-1025 Academy Court	180	R							X						04/14/2009
+719636	  21	01001	     	21-1001	Academy St	168	Town of Berryville	021	Clarke County	0.06	21-1025 Academy Court	21-1003	180	R							X						10/24/2006
+719637	  21	01002	     	21-1002	Treadwell St	168	Town of Berryville	021	Clarke County	0.08	US 340, Buckmarsh St	21-1004 Rice St	310	R							X						10/24/2006
+719638	  21	01002	     	21-1002	Treadwell St	168	Town of Berryville	021	Clarke County	0.13	21-1004 Rice St	21-1003	250	R							X						04/14/2009
+719639	  21	01002	     	21-1002	Treadwell St	168	Town of Berryville	021	Clarke County	0.07	21-1003	21-1009 Crown St	200	R							X						10/24/2006
+719640	  21	01002	     	21-1002	Treadwell St	168	Town of Berryville	021	Clarke County	0.03	21-1009 Crown St	Dead End	170	R							X						10/24/2006
+719641	  21	01003	     	21-1003	 	168	Town of Berryville	021	Clarke County	0.21	21-1031	Bus SR 7	500	R							X						04/14/2009
+719642	  21	01003	     	21-1003	 	168	Town of Berryville	021	Clarke County	0.09	Bus SR 7	21-1001 Academy St	210	R							X						04/14/2009
+719643	  21	01003	     	21-1003	 	168	Town of Berryville	021	Clarke County	0.07	21-1001 Academy St	21-1002 Treadwell St	150	R							X						04/14/2009
+719644	  21	01004	     	21-1004	Rice St	168	Town of Berryville	021	Clarke County	0.09	Bus SR 7	21-1001 Academy St	260	R							X						10/24/2006
+719645	  21	01004	     	21-1004	Rice St	168	Town of Berryville	021	Clarke County	0.08	21-1001 Academy St	21-1002 Treadwell St	210	R							X						04/14/2009
+719646	  21	01004	     	21-1004	Rice St	168	Town of Berryville	021	Clarke County	0.11	21-1002 Treadwell St	21-1010 Walnut St	150	R							X						10/24/2006
+719647	  21	01005	     	21-1005	Liberty St	168	Town of Berryville	021	Clarke County	0.19	21-615 Boom Rd	21-1014 S, Page St	850	R							X						04/09/2009
+719648	  21	01005	     	21-1005	Liberty St	168	Town of Berryville	021	Clarke County	0.01	21-1014 S, Page St	21-1014 N, Page St	2000	R							X						04/23/2003
+719649	  21	01005	     	21-1005	Liberty St	168	Town of Berryville	021	Clarke County	0.17	21-1014 N, Page St	21-616, N Church St	2100	R							X						04/09/2009
+719650	  21	01006	     	21-1006	Taylor St	168	Town of Berryville	021	Clarke County	0.14	Dead End	US 340, S Buckmarsh St	230	R							X						04/09/2009
+719651	  21	01006	     	21-1006	Taylor St	168	Town of Berryville	021	Clarke County	0.09	US 340, S Buckmarch St	21-616, S Church St	180	R							X						04/09/2009
+719652	  21	01007	     	21-1007	Chalmers Court	168	Town of Berryville	021	Clarke County	0.16	Dead End	Bus SR 7	1400	R							X						04/09/2009
+719653	  21	01008	     	21-1008	Swan Ave	168	Town of Berryville	021	Clarke County	0.11	Dead End	21-1013 Rosemont Circle	120	R							X						04/09/2009
+719654	  21	01008	     	21-1008	Swan Ave	168	Town of Berryville	021	Clarke County	0.15	21-1013 Rosemont Circle	US 340, S Buckmarsh St	210	R							X						04/09/2009
+719655	  21	01008	     	21-1008	Swan Ave	168	Town of Berryville	021	Clarke County	0.09	US 340, S Buckmarsh St	21-616, S Church St	150	R							X						04/09/2009
+719656	  21	01009	     	21-1009	Crown St	168	Town of Berryville	021	Clarke County	0.08	21-1002 Treadwell St	21-1010 Walnut St	40	R							X						10/24/2006
+719657	  21	01010	     	21-1010	Walnut St	168	Town of Berryville	021	Clarke County	0.03	US 340, N Buckmarsh St	21-1004 Rice St	700	R							X						04/14/2009
+719658	  21	01010	     	21-1010	Walnut St	168	Town of Berryville	021	Clarke County	0.20	21-1004 Rice St	21-1009 Crown St	280	R							X						04/14/2009
+719659	  21	01010	     	21-1010	Walnut St	168	Town of Berryville	021	Clarke County	0.12	21-1009 Crown St	21-1024 Dorsey St	310	R							X						04/14/2009
+719660	  21	01010	     	21-1010	Walnut St	168	Town of Berryville	021	Clarke County	0.08	21-1024 Dorsey St	NWCL Berryville	70	R							X						04/14/2009
+719661	  21	01010	     	21-1010	Walnut St	021	Clarke County	021	Clarke County	0.02	NWCL Berryville	Dead End	70	R							X						04/14/2009
+719662	  21	01011	     	21-1011	Crow St	168	Town of Berryville	021	Clarke County	0.08	21-616, S Church St	US 340, S Buckmarsh St	1300	R							X						04/09/2009
+719663	  21	01012	     	21-1012	Byrd Ave	168	Town of Berryville	021	Clarke County	0.16	Dead End	21-616, S Church St	200	R							X						04/09/2009
+719664	  21	01013	     	21-1013	Rosemont Circle	168	Town of Berryville	021	Clarke County	0.21	US 340, S Buckmarsh St	21-1008 Swan Ave	100	R							X						04/09/2009
+719665	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.10	Dead End	21-1005 S, Liberty St	460	R							X						04/09/2009
+719666	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.06	21-1005 N, Liberty St	21-1021 Cameron St	1700	R							X						04/09/2009
+719667	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.05	21-1021 Cameron St	21-1023 Moore Dr	1200	R							X						04/09/2009
+719668	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.05	21-1023 Moore Dr	21-1026 East Fairfax St	810	R							X						04/09/2009
+797381	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.33	21-1026 East Fairfax St	Cul-de-Sac	0	?							X
+719669	  21	01015	     	21-1015	West Fairfax St	168	Town of Berryville	021	Clarke County	0.06	21-1016 Rockcroft Dr	21-1017 Ridge Rd	180	R							X						10/24/2006
+719670	  21	01015	     	21-1015	West Fairfax St	168	Town of Berryville	021	Clarke County	0.08	21-1017 Ridge Rd	US 340, N Buckmarsh St	320	R							X						04/09/2009
+719671	  21	01016	     	21-1016	Rockcroft Dr	168	Town of Berryville	021	Clarke County	0.09	21-1017 Ridge Rd	21-1015 West Fairfax St	60	R							X						10/24/2006
+719672	  21	01017	     	21-1017	Ridge Rd	168	Town of Berryville	021	Clarke County	0.05	21-1015 West Fairfax St	21-1016 Rockcroft Dr	150	R							X						10/24/2006
+719673	  21	01017	     	21-1017	Ridge Rd	168	Town of Berryville	021	Clarke County	0.04	21-1016 Rockcroft Dr	21-1018 Circle Dr	50	R							X						04/14/2009
+719674	  21	01018	     	21-1018	Circle Dr	168	Town of Berryville	021	Clarke County	0.05	Cul-de-Sac	21-1017 Ridge Rd	70	R							X						10/24/2006
+719675	  21	01019	     	21-1019	Al Smith Circle	021	Clarke County	021	Clarke County	0.47	Dead End	Bus SR 7	660	R							X						11/01/2006
+719676	  21	01020	     	21-1020	Bel Voi Dr	168	Town of Berryville	021	Clarke County	0.15	Dead End	21-671 Battletown Dr	180	R							X						10/24/2006
+719677	  21	01021	     	21-1021	Cameron St	168	Town of Berryville	021	Clarke County	0.10	Dead End	21-1014 Page St	300	R							X						04/09/2009
+719678	  21	01021	     	21-1021	Cameron St	168	Town of Berryville	021	Clarke County	0.06	21-1014 Page St	21-1022	280	R							X						04/23/2003
+719679	  21	01022	     	21-1022	 	168	Town of Berryville	021	Clarke County	0.04	21-1021 Cameron St	21-1023 Moore Dr	230	R							X						04/23/2003
+719680	  21	01023	     	21-1023	Moore Dr	168	Town of Berryville	021	Clarke County	0.06	Cul-de-Sac	21-1014 Page St	200	R							X						04/09/2009
+719681	  21	01023	     	21-1023	Moore Dr	168	Town of Berryville	021	Clarke County	0.04	21-1014 Page St	21-1022	130	R							X						04/23/2003
+719682	  21	01024	     	21-1024	Dorsey St	168	Town of Berryville	021	Clarke County	0.20	Bus SR 7	21-1010 Walnut St	400	R							X						04/14/2009
+719683	  21	01025	     	21-1025	Academy Court	168	Town of Berryville	021	Clarke County	0.05	21-1001 Academy St	Cul-de-Sac	48	R							X						10/24/2006
+783766	  21	01026	     	21-1026	East Fairfax St	168	Town of Berryville	021	Clarke County	0.22	21-1014 Page St	21-615 Boom Rd	240	R							X						04/23/2003
+786154	  21	01027	     	21-1027	Henderson Court	168	Town of Berryville	021	Clarke County	0.21	Cul-de-Sac	21-1006 Taylor St	190	R							X						04/09/2009
+786155	  21	01028	     	21-1028	Dunlap Dr	168	Town of Berryville	021	Clarke County	0.30	Dead End	21-1027 Henderson Court	180	R							X						04/09/2009
+788389	  21	01029	     	21-1029	Hermitage Blvd	168	Town of Berryville	021	Clarke County	0.97	US 340 Lord Fairfax Hwy	SR 7	980	G	98%	0%	1%	0%	0%	0%	C	0.1137	F	0.5877	980	G	2009
+788390	  21	01030	     	21-1030	Craigs Run Circle	168	Town of Berryville	021	Clarke County	0.12	Cul-de-Sac	21-1028 Dunlap Dr	0	?							X
+796456	  21	01031	     	21-1031	 	168	Town of Berryville	021	Clarke County	0.36	Dead End	21-1029 Hermitage Blvd	0	?							X
+792371	  21	01031	     	21-1031	 	168	Town of Berryville	021	Clarke County	0.07	21-1029 Hermitage Blvd	21-1003	0	?							X
+792372	  21	01032	     	21-1032	 	168	Town of Berryville	021	Clarke County	0.05	Cul-de-Sac	21-1029 Hermitage Blvd	0	?							X
+795611	  21	01033	     	21-1033	 	168	Town of Berryville	021	Clarke County	0.09	21-1031	Cul-de-Sac	0	?							X
+795612	  21	01034	     	21-1034	 	168	Town of Berryville	021	Clarke County	0.12	21-1031	Cul-de-Sac	0	?							X
+719684	  21	01035	     	21-1035	Mosby Blvd	168	Town of Berryville	021	Clarke County	0.62	Cul-de-Sac	21-1036 Pickett Court	1200	G	99%	0%	0%	1%	0%	0%	C	0.1086	F	0.6364	1200	G	2009
+719685	  21	01035	     	21-1035	Mosby Blvd	168	Town of Berryville	021	Clarke County	0.07	21-1036 Pickett Court	US 340, N Buckmarsh St	4400	R							X						10/24/2006
+719686	  21	01036	     	21-1036	Pickett Court	168	Town of Berryville	021	Clarke County	0.05	Cul-de-Sac	21-1035 Mosby Blvd	70	R							X						04/06/2000
+786156	  21	01037	     	21-1037	Breckinridge Court	168	Town of Berryville	021	Clarke County	0.09	Cul-de-Sac	21-1035 Mosby Blvd	120	R							X						04/28/2003
+786157	  21	01038	     	21-1038	Ashby Court	168	Town of Berryville	021	Clarke County	0.09	Cul-de-Sac	21-1035 Mosby Blvd	120	R							X						04/28/2003
+786158	  21	01039	     	21-1039	Archer Court	168	Town of Berryville	021	Clarke County	0.09	Cul-de-Sac	21-1035 Mosby Blvd	120	R							X						04/28/2003
+786159	  21	01040	     	21-1040	Stuart Court	168	Town of Berryville	021	Clarke County	0.08	Cul-de-Sac	21-1035 Mosby Blvd	100	R							X						04/28/2003
+787751	  21	01041	     	21-1041	Jackson Dr	168	Town of Berryville	021	Clarke County	0.33	Bus SR 7	21-1035 Mosby Blvd	1200	G	100%	0%	0%	0%	0%	0%	C	0.1111	F	0.5580	1200	G	2009
+787752	  21	01042	     	21-1042	Ewell Court	168	Town of Berryville	021	Clarke County	0.11	Cul-de-Sac	21-1041 Jackson Dr	0	?							X
+788391	  21	01043	     	21-1043	Edgar Court	021	Clarke County	021	Clarke County	0.06	Dead End	21-1035 Mosby Blvd	0	?							X
+795613	  21	01044	     	21-1044	 	168	Town of Berryville	021	Clarke County	0.14	21-1035; 21-1041	Cul-de-Sac	0	?							X
+795614	  21	01045	     	21-1045	 	168	Town of Berryville	021	Clarke County	0.14	21-1035 Mosby Blvd	Cul-de-Sac	0	?							X
+795615	  21	01046	     	21-1046	 	168	Town of Berryville	021	Clarke County	0.14	21-1035 Mosby Blvd	Cul-de-Sac	0	?							X
+795616	  21	01047	     	21-1047	 	168	Town of Berryville	021	Clarke County	0.14	Cul-de-Sac	21-1035 Mosby Blvd	0	?							X
+795617	  21	01048	     	21-1048	 	168	Town of Berryville	021	Clarke County	0.10	21-1047	Cul-de-Sac	0	?							X
+795618	  21	01050	     	21-1050	 	168	Town of Berryville	021	Clarke County	0.14	21-1031	21-1029 Hermitage Blvd	0	?							X
+795619	  21	01051	     	21-1051	 	168	Town of Berryville	021	Clarke County	0.13	21-1031	Cul-de-Sac	0	?							X
+796932	  21	01055	     	21-1055	 	168	Town of Berryville	021	Clarke County	0.20	21-1026 East Fairfax St	Cul-de-Sac	0	?							X
+796933	  21	01056	     	21-1056	 	168	Town of Berryville	021	Clarke County	0.23	21-1026 East Fairfax St	Cul-de-Sac	0	?							X
+796934	  21	01058	     	21-1058	 	168	Town of Berryville	021	Clarke County	0.13	21-1014	21-1055	0	?							X
+796935	  21	01059	     	21-1059	 	168	Town of Berryville	021	Clarke County	0.03	Dead End	21-1014	0	?							X
+786160	  21	01070	     	21-1070	Vista Lane	021	Clarke County	021	Clarke County	0.33	Dead End	US 340 Lord Fairfax Hwy	130	R							X						04/07/2009
+796936	  21	01434	     	21-1434	 	021	Clarke County	021	Clarke County	0.04	US 522 Stonewall Jackson Hwy	Clarke County Line; 34-1434	0	?							X
+719687	  21	09103	     	21-9103	 	021	Clarke County	021	Clarke County	0.08	21-636 Westwood Rd	D G Cooley Elem School	400	R							X						1995
+719688	  21	09104	     	21-9104	 	168	Town of Berryville	021	Clarke County	0.06	SR 7	Berryville High School	320	R							X						1995
+719689	  21	09105	     	21-9105	Josephine School	021	Clarke County	021	Clarke County	0.12	Josephine School	21-614 Josephine St	430	R							X						1986
+719690	  21	09106	     	21-9106	 	021	Clarke County	021	Clarke County	0.17	21-636 Westwood Rd	Clarke Cty High Sch	450	R							X						1995
+719691	  21	09582	     	21-9582	 	172	Town of Boyce	021	Clarke County	0.09	21-723 W Main St	Boyce School	370	R							X						1995
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,434 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+King William Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+060015	  SR	00030	     	VA 30	King William Rd	050	King William County	050	King William County	7.75	Caroline County Line	50-608 Globe Rd	2900	G	75%	1%	1%	4%	18%	0%	C	0.1043	F	0.6192	3200	G	2009
+060074	  SR	00030	     	VA 30	King William Rd	050	King William County	050	King William County	4.37	50-608 Globe Rd	US 360 Richmond Tappahannock Hwy	4300	G	79%	2%	1%	5%	14%	0%	C	0.1060	F	0.5344	4700	G	2009
+060072	  SR	00030	     	VA 30	King William Rd	050	King William County	050	King William County	8.39	US 360 Richmond Tappahannock Hwy	50-633 Powhatan Trail	5100	G	84%	2%	1%	2%	11%	0%	C	0.1056	F	0.5632	5500	G	2009
+060235	  SR	00030	     	VA 30	King William Rd	050	King William County	050	King William County	8.34	50-633 Powhatan Trail	50-632 Mt Olive-Cohoke Rd	2800	G	75%	1%	1%	3%	19%	0%	C	0.0901	F	0.5178	3100	G	2009
+060234	  SR	00030	     	VA 30	King William Rd	050	King William County	050	King William County	5.62	50-632 Mt Olive-Cohoke Rd	WCL West Point	3800	G	84%	2%	1%	2%	11%	0%	F	0.0798	F	0.5103	4100	G	2009
+060241	  SR	00030	     	VA 30	Main St	325	Town of West Point	050	King William County	2.19	WCL West Point	SR 33, 14th St	3900	G	77%	1%	1%	4%	17%	0%	C	0.0906	F	0.5770	3900	G	2009
+060233	  SR	00030	     		14th St	325	Town of West Point	050	King William County	0.25	SR 33 Main St	New Kent County Line	16000	G	84%	2%	1%	2%	11%	0%	F				16000	G	2009
+060233	  SR	00033	     		14th St	325	Town of West Point	050	King William County	0.25	King William County Line	SR 30 Main St	16000	G	84%	2%	1%	2%	11%	0%	F				16000	G	2009	
+060126	  SR	00033	     	VA 33	14th St	325	Town of West Point	050	King William County	0.48	SR 30 Main St	King & Queen County Line	15000	G	92%	0%	1%	2%	5%	0%	F				15000	G	2009
+060017	  SR	00296	     	VA 296	Kirby St	325	Town of West Point	050	King William County	0.22	SR 30, SR 33	50-1107; 50-1126, 10th St	690	G	94%	0%	1%	2%	2%	0%	C	0.1039	F	0.5375	750	G	2009
+060018	  SR	00296	     	VA 296	10th St	325	Town of West Point	050	King William County	0.17	50-1107 Kirby St; 50-1126	SR 298 Lee St	260	G	94%	0%	1%	2%	2%	0%	F	0.1211	F	0.5802	280	G	2009
+060242	  SR	00298	     	VA 298	5th St	325	Town of West Point	050	King William County	0.24	Dead End	50-1109 Lee St; 50-1128	70	G	98%	1%	1%	0%	0%	0%	F	0.1695	F	0.5667	80	G	2009
+060237	  SR	00298	     	VA 298	Lee St	325	Town of West Point	050	King William County	0.29	50-1109; 50-1128, 5th St	SR 296, 10th St	1300	G	98%	1%	1%	0%	0%	0%	C	0.1040	F	0.5646	1400	G	2009
+060236	  SR	00298	     	VA 298	Lee St	325	Town of West Point	050	King William County	0.22	SR 296 10th St	SR 33 14th St	1700	G	98%	1%	1%	0%	0%	0%	F	0.1041	F	0.5538	1800	G	2009
+060240	  US	00360	     	US 360	Richmond Tappahannock Hwy	050	King William County	050	King William County	2.32	Hanover County Line	50-605 Old Newcastle Rd	17000	G	93%	1%	1%	1%	4%	0%	F	0.0926	F	0.6894	18000	G	2009
+060239	  US	00360	     	US 360	Richmond Tappahannock Hwy	050	King William County	050	King William County	2.77	50-605 Old Newcastle Rd	SR 30 King William Rd	16000	G	93%	1%	1%	1%	4%	0%	C	0.0914	F	0.6949	17000	G	2009
+060238	  US	00360	     	US 360	Richmond Tappahannock Hwy	050	King William County	050	King William County	3.34	SR 30 King William Rd	King & Queen County Line	12000	G	93%	1%	1%	1%	4%	0%	F	0.0839	F	0.6309	13000	G	2009
+748399	  50	00600	     	50-600	E River Rd	050	King William County	050	King William County	1.30	50-621 Green Level Rd	50-666 Chericoke Rd	30	R							X						04/05/2007
+748400	  50	00600	     	50-600	E River Rd	050	King William County	050	King William County	4.35	50-666 Chericoke Rd	50-618 Acquinton Church Rd	250	R							X						03/29/2004
+748401	  50	00600	     	50-600	E River Rd	050	King William County	050	King William County	2.40	50-618 Acquinton Church Rd	SR 30 E, King William Rd	220	R							X						03/29/2004
+404511	  50	00600	     	50-600	W River Rd	050	King William County	050	King William County	2.75	SR 30 W, King William Rd	50-647 Mill Rd	470	G							X	0.1185	F	0.6644	510	G	2009
+404512	  50	00600	     	50-600	W River Rd	050	King William County	050	King William County	1.86	50-647 Mill Rd	US 360 Richmond Tappahannock Hwy	470	G							X	0.1135	F	0.6090	510	G	2009
+404513	  50	00600	     	50-600	W River Rd	050	King William County	050	King William County	2.39	US 360 Richmond Tappahannock Hwy	50-643 Millwood Ct	1700	G							X	0.0925	F	0.6290	1800	G	2009
+404514	  50	00600	     	50-600	W River Rd	050	King William County	050	King William County	2.68	50-643 Millwood Ct	50-609 Smokey Rd	1300	G							X	0.0899	F	0.7309	1400	G	2009
+404515	  50	00600	     	50-600	W River Rd	050	King William County	050	King William County	2.87	50-609 Smokey Rd	50-603 Dover Lane	790	G							X	0.0989	F	0.6106	850	G	2009
+404516	  50	00600	     	50-600	W River Rd	050	King William County	050	King William County	3.24	50-603 Dover Lane	Caroline County Line	380	G							X	0.1118	F	0.8250	410	G	2009
+748402	  50	00601	     	50-601	Calno Rd	050	King William County	050	King William County	2.80	50-614 Etna Mills Rd	SR 30 W, King William Rd	760	R							X						04/17/2007
+748403	  50	00601	     	50-601	Edgar Rd	050	King William County	050	King William County	1.00	SR 30 E, King William Rd	Caroline County Line	380	R							X						04/09/2007
+748404	  50	00602	     	50-602	Landing Rd	050	King William County	050	King William County	0.18	0.18 MW 50-604 Dabneys Mill Rd	50-604 Dabneys Mill Rd	9	R							X						04/17/2007
+748405	  50	00602	     	50-602	Landing Rd	050	King William County	050	King William County	0.30	50-604 Dabneys Mill Rd	0.30 ME 50-604 Dabneys Mill Rd	20	R							X						03/08/2004
+748406	  50	00603	     	50-603	Dover Lane	050	King William County	050	King William County	1.25	50-600, W River Rd	Dead End	90	R							X						04/20/2007
+748407	  50	00604	     	50-604	North Carolina Rd	050	King William County	050	King William County	0.68	50-605 Old Newcastle Rd	US 360 Richmond Tappahannock Hwy	240	R							X						04/05/2007
+782082	  50	00604	     	50-604	Dabneys Mill Rd	050	King William County	050	King William County	5.95	US 360 Richmond Tappahannock Hwy	50-652 Mahixon Rd	370	R							X						04/17/2007
+782083	  50	00604	     	50-604	Dabneys Mill Rd	050	King William County	050	King William County	0.86	50-652 Mahixon Rd	50-605 Manfield Rd	520	R							X						04/17/2007
+404517	  50	00604	     	50-604	Dabneys Mill Rd	050	King William County	050	King William County	1.88	50-605 Manfield Rd	50-614 Etna Mills Rd	620	G	96%	1%	1%	1%	1%	0%	F	0.1229	F	0.5114	670	G	2009
+404518	  50	00604	     	50-604	Dabneys Mill Rd	050	King William County	050	King William County	2.70	50-614 Etna Mills Rd	SR 30 E, King William Rd	240	G	94%	2%	1%	1%	2%	0%	C	0.1199	F	0.5068	260	G	2009
+404519	  50	00604	     	50-604	Herring Creek Rd	050	King William County	050	King William County	2.85	SR 30 W, King William Rd	50-628 Dorrell Rd	1000	G	96%	1%	1%	1%	1%	0%	C	0.1071	F	0.9024	1100	G	2009
+748408	  50	00604	     	50-604	Herring Creek Rd	050	King William County	050	King William County	3.50	50-628 Dorrell Rd	50-600, W River Rd	220	R							X						04/19/2007
+748409	  50	00605	     	50-605	Old Newcastle Rd	050	King William County	050	King William County	0.60	Dead End	50-604 North Carolina Rd	20	R							X						04/05/2007
+748410	  50	00605	     	50-605	Old Newcastle Rd	050	King William County	050	King William County	2.60	50-604 North Carolina Rd	US 360 Richmond Tappahannock Hwy	110	R							X						03/08/2004
+404520	  50	00605	     	50-605	Manfield Rd	050	King William County	050	King William County	2.92	US 360 Richmond Tappahannock Hwy	50-611 Venter Rd	1600	G	98%	0%	1%	0%	0%	0%	C	0.1029	F	0.7043	1700	G	2009
+404521	  50	00605	     	50-605	Manfield Rd	050	King William County	050	King William County	2.37	50-611 Venter Rd	50-604 Dabneys Mill Rd	1100	G	98%	0%	1%	0%	0%	0%	F	0.1107	F	0.5764	1200	G	2009
+748411	  50	00606	     	50-606	Commins Rd	050	King William County	050	King William County	0.20	Dead End	50-611 Venter Rd	47	R							X						04/09/2007
+404522	  50	00606	     	50-606	Commins Rd	050	King William County	050	King William County	0.86	50-611 Venter Rd	50-1216 Newman Dr	2000	G	98%	1%	1%	0%	0%	0%	C	0.1102	F	0.6496	2100	G	2009
+404523	  50	00606	     	50-606	Commins Rd	050	King William County	050	King William County	1.27	50-1216 Newman Dr	50-608 Upshaw Rd	470	G	98%	1%	1%	0%	0%	0%	F	0.1323	F	0.5390	500	G	2009
+748412	  50	00607	     	50-607	Beadles Rd	050	King William County	050	King William County	0.50	SR 30 King William Rd	50-608 W, Upshaw Rd	410	R							X						03/18/2004
+748413	  50	00607	     	50-607	Millwood Rd	050	King William County	050	King William County	1.68	50-608 E, Upshaw Rd	50-643 Millwood Court	70	R							X						04/19/2007
+748414	  50	00607	     	50-607	Millwood Rd	050	King William County	050	King William County	0.03	50-643 Millwood Court	50-600 West River Rd	40	R							X						03/18/2004
+748415	  50	00608	     	50-608	Hazelwood Rd	050	King William County	050	King William County	1.75	50-600 W, W River Rd	50-628 WEST	90	R							X						04/19/2007
+748416	  50	00608	     	50-608	Locust Hill Rd	050	King William County	050	King William County	2.40	50-628 EAST	50-609 W, Smokey Rd	80	R							X						03/08/2004
+404524	  50	00608	     	50-608	Globe Rd	050	King William County	050	King William County	3.30	50-609 E, Smokey Rd	SR 30 W, King William Rd	480	G	97%	1%	1%	0%	1%	0%	C	0.1037	F	0.6271	520	G	2009
+404525	  50	00608	     	50-608	Upshaw Rd	050	King William County	050	King William County	1.10	SR 30 E, King William Rd	50-607 W, Beadles Rd	420	G	97%	1%	1%	0%	1%	0%	F	0.1123	F	0.6697	450	G	2009
+404526	  50	00608	     	50-608	Upshaw Rd	050	King William County	050	King William County	3.63	50-607 W, Beadles Rd	50-600 E, W River Rd	540	G	97%	1%	1%	0%	1%	0%	F	0.1130	F	0.6783	580	G	2009
+404527	  50	00609	     	50-609	Smokey Rd	050	King William County	050	King William County	2.23	50-604 Herring Creek Rd	50-608 Globe Rd	290	G	97%	2%	1%	0%	1%	0%	C	0.1277	F	0.6190	310	G	2009
+748417	  50	00609	     	50-609	Smokey Rd	050	King William County	050	King William County	3.62	50-608 Globe Rd	50-600 West River Rd	210	R							X						04/19/2007
+748418	  50	00610	     	50-610	Enfield Rd	050	King William County	050	King William County	3.70	50-605 Manfield Rd	SR 30 E, King William Rd	200	R							X						04/17/2007
+748419	  50	00610	     	50-610	Epworth Rd	050	King William County	050	King William County	1.60	SR 30 W, King William Rd	50-608 S, Globe Rd	320	R							X						04/09/2007
+748420	  50	00610	     	50-610	Mitchells Mill Rd	050	King William County	050	King William County	2.79	50-608 N, Globe Rd	2.79 MN 50-608 Globe Rd	120	R							X						04/19/2007
+748421	  50	00610	     	50-610	Mitchells Mill Rd	050	King William County	050	King William County	0.71	2.79 MN 50-608 Globe Rd	50-609 Smokey Rd	20	R							X						04/19/2007
+404528	  50	00611	     	50-611	Venter Rd	050	King William County	050	King William County	2.84	50-605 Manfield Rd	SR 30 King William Rd	960	G	97%	2%	0%	0%	0%	0%	C	0.1038	F	0.5641	1000	G	2009
+404529	  50	00611	     	50-611	Venter Rd	050	King William County	050	King William County	0.70	SR 30 King William Rd	50-606 Commins Rd	1400	G	97%	2%	0%	0%	0%	0%	F	0.1185	F	0.6589	1500	G	2009
+404530	  50	00611	     	50-611	Venter Rd	050	King William County	050	King William County	0.76	50-606 Commins Rd	US 360 Richmond Tappahannock Hwy	2200	G	99%	0%	0%	0%	0%	0%	C	0.1064	F	0.5889	2400	G	2009
+748422	  50	00611	     	50-611	Walnut Lane	050	King William County	050	King William County	0.62	US 360 Richmond Tappahannock Hwy	Dead End	260	R							X						04/09/2007
+748423	  50	00612	     	50-612	Kelley Rd	050	King William County	050	King William County	0.75	SR 30 W, King William Rd	SR 30 E, King William Rd	100	R							X						04/09/2007
+748424	  50	00613	     	50-613	Dunluce Rd	050	King William County	050	King William County	1.60	50-618 Acquinton Church Rd	1.60 MN 50-618 Acquinton Church Rd	170	R							X						04/05/2007
+748425	  50	00613	     	50-613	Dunluce Rd	050	King William County	050	King William County	0.58	1.60 MN 50-618 Acquinton Church Rd	SR 30 King William Rd	910	R							X						04/05/2007
+404531	  50	00614	     	50-614	Etna Mills Rd	050	King William County	050	King William County	2.28	Hanover County Line	50-601 Calno Rd	1100	G	98%	0%	1%	1%	1%	0%	C	0.1321	F	0.8194	1100	G	2009
+404532	  50	00614	     	50-614	Etna Mills Rd	050	King William County	050	King William County	2.00	50-601 Calno Rd	50-615 Nelsons Bridge Rd	670	G	98%	0%	1%	1%	1%	0%	F	0.1166	F	0.8079	730	G	2009
+748426	  50	00614	     	50-614	Etna Mills Rd	050	King William County	050	King William County	1.39	50-615 Nelsons Bridge Rd	50-604 Dabneys Mill Rd	460	R							X						04/17/2007
+404533	  50	00615	     	50-615	Nelsons Bridge Rd	050	King William County	050	King William County	2.88	Hanover County Line	50-652 Mahixon Rd	530	G	95%	1%	1%	0%	3%	0%	F	0.1132	F	0.8248	570	G	2009
+404534	  50	00615	     	50-615	Nelsons Bridge Rd	050	King William County	050	King William County	3.52	50-652 Mahixon Rd	50-604 Dabneys Mill Rd	250	G	95%	1%	1%	0%	3%	0%	C	0.1086	F	0.7241	270	G	2009
+748427	  50	00616	     	50-616	Chinquapin Rd	050	King William County	050	King William County	1.10	Dead End	SR 30 King William Rd	200	R							X						03/23/2004
+748428	  50	00616	     	50-616	E Chinquapin Rd	050	King William County	050	King William County	0.85	50-617, E Spring Forest Rd	0.85 MN 05-617	120	R							X						03/23/2004
+748429	  50	00616	     	50-616	E Chinquapin Rd	050	King William County	050	King William County	0.35	0.85 MN 05-617	Dead End	20	R							X						04/09/2007
+748430	  50	00617	     	50-617	E Spring Forest Rd	050	King William County	050	King William County	0.50	SR 30 W, King William Rd	50-616 E, Chinquapin Rd	190	R							X						03/23/2004
+748431	  50	00617	     	50-617	E Spring Forest Rd	050	King William County	050	King William County	0.66	50-616 E, Chinquapin Rd	SR 30 MID, King William Rd	100	R							X						03/23/2004
+748432	  50	00617	     	50-617	W Spring Forest Rd	050	King William County	050	King William County	0.74	SR 30 MID, King William Rd	SR 30 E, King William Rd	60	R							X						04/09/2007
+404535	  50	00618	     	50-618	Mount Pleasant Rd	050	King William County	050	King William County	0.49	US 360 Richmond Tappahannock Hwy	50-661 Acquinton Church Rd	1400	G	98%	1%	1%	1%	0%	0%	F	0.1121	F	0.5877	1500	G	2009
+303768	  50	00618	     	50-618	Acquinton Church Rd	050	King William County	050	King William County	1.77	50-661 Mount Pleasant Rd	50-613 Dunluce Rd	1500	G	98%	1%	1%	1%	0%	0%	C	0.1112	F	0.5707	1600	G	2009
+404536	  50	00618	     	50-618	Acquinton Church Rd	050	King William County	050	King William County	0.99	50-613 Dunluce Rd	50-600, E River Rd	1300	G	98%	1%	1%	1%	0%	0%	F	0.1216	F	0.5568	1400	G	2009
+404537	  50	00618	     	50-618	Acquinton Church Rd	050	King William County	050	King William County	3.10	50-600, E River Rd	50-629 Jacks Creek Rd	890	G	98%	1%	1%	1%	0%	0%	F	0.1377	F	0.5880	970	G	2009
+748433	  50	00619	     	50-619	Horse Landing Rd	050	King William County	050	King William County	0.06	SR 30 King William Rd	50-1301 Courthouse Lane	630	R							X						04/02/2007
+748434	  50	00619	     	50-619	Horse Landing Rd	050	King William County	050	King William County	2.10	50-1301 Courthouse Lane	50-670 Horse Landing Rd	330	R							X						03/23/2004
+748435	  50	00620	     	50-620	Black Gum Rd	050	King William County	050	King William County	0.50	SR 30 W, King William Rd	SR 30 MID, King William Rd	30	R							X						03/23/2004
+748436	  50	00620	     	50-620	Scotland Landing Rd	050	King William County	050	King William County	0.50	SR 30 E, King William Rd	Dead End	100	R							X						04/02/2007
+748437	  50	00621	     	50-621	Green Level Rd	050	King William County	050	King William County	0.70	Dead End	50-600, E River Rd	10	R							X						04/05/2007
+748438	  50	00621	     	50-621	Green Level Rd	050	King William County	050	King William County	2.09	50-600, E River Rd	50-632 Mt Olive-Cohoke Rd	60	R							X						04/05/2007
+748439	  50	00621	     	50-621	Green Level Rd	050	King William County	050	King William County	3.80	50-632 Mt Olive-Cohoke Rd	50-633 Powhatan Trail	100	R							X						04/01/2004
+748440	  50	00622	     	50-622	Hills Fork Rd	050	King William County	050	King William County	0.80	50-632 Mt Olive-Cohoke Rd	Dead End	60	R							X						03/13/2007
+748441	  50	00623	     	50-623	Union Hope Rd	050	King William County	050	King William County	2.00	50-633 Powhatan Trail	50-632 Mt Olive-Cohoke Rd	160	R							X						03/13/2007
+748442	  50	00624	     	50-624	Trimmers Shop Rd	050	King William County	050	King William County	1.11	50-640 Wakema Rd	Dead End	40	R							X						04/02/2007
+748443	  50	00625	     	50-625	Custis Millpond Rd	050	King William County	050	King William County	0.65	SR 30 King William Rd	50-634 W, Seatons Lane	380	R							X						04/01/2004
+748444	  50	00625	     	50-625	Custis Millpond Rd	050	King William County	050	King William County	1.77	50-634 W, Seatons Lane	50-640 Wakema Rd	240	R							X						04/01/2004
+748445	  50	00625	     	50-625	Custis Millpond Rd	050	King William County	050	King William County	2.40	50-640 Wakema Rd	2.40 MN 50-640	100	R							X						04/02/2007
+748446	  50	00625	     	50-625	Custis Millpond Rd	050	King William County	050	King William County	1.00	2.40 MN 50-640	50-626, E Rose Garden Rd	220	R							X						04/02/2007
+404538	  50	00625	     	50-625	Custis Millpond Rd	050	King William County	050	King William County	0.10	50-626, E Rose Garden Rd	50-640 Wakema Rd	200	G	95%	4%	0%	1%	0%	0%	F	0.1071	F	0.5833	210	G	2009
+404539	  50	00625	     	50-625	Indian Town Rd	050	King William County	050	King William County	1.20	50-640 Wakema Rd	1.20 MN 05-640	180	G	95%	4%	0%	1%	0%	0%	C	0.1394	F	0.7241	190	G	2009
+748447	  50	00625	     	50-625	Indian Town Rd	050	King William County	050	King William County	0.61	1.20 MN 05-640	Cul-de-Sac	230	R							X						04/01/2004
+302160	  50	00626	     	50-626	W Rose Garden Rd	050	King William County	050	King William County	2.57	50-633 Powhatan Trail	SR 30 King William Rd	220	G	94%	3%	0%	1%	2%	0%	F	0.1139	F	0.6000	240	G	2009
+404541	  50	00626	     	50-626	E Rose Garden Rd	050	King William County	050	King William County	1.00	SR 30 King William Rd	50-625 Custis Millpond Rd	140	G	94%	3%	0%	1%	2%	0%	C	0.1607	F	0.5926	150	G	2009
+748448	  50	00626	     	50-626	E Rose Garden Rd	050	King William County	050	King William County	0.11	50-625 Custis Millpond Rd	50-640 Wakema Rd	30	R							X						04/02/2007
+748449	  50	00627	     	50-627	E St Johns Church Rd	050	King William County	050	King William County	0.80	SR 30 W, King William Rd	SR 30 E, King William Rd	60	R							X						03/13/2007
+748450	  50	00627	     	50-627	E St Johns Church Rd	050	King William County	050	King William County	0.20	SR 30 E, King William Rd	Dead End	50	R							X						03/13/2007
+404542	  50	00628	     	50-628	 	050	King William County	050	King William County	2.18	50-604 Herring Creek Rd	50-608 W, Hazelwood Rd	200	G	88%	2%	2%	1%	8%	0%	F	0.1533	F	0.7500	220	G	2009
+404543	  50	00628	     	50-628	 	050	King William County	050	King William County	2.70	50-608 W, Hazelwood Rd	50-600, W River Rd	180	G	88%	2%	2%	1%	8%	0%	F	0.1422	F	0.5333	190	G	2009
+404544	  50	00628	     	50-628	 	050	King William County	050	King William County	2.36	50-600, W River Rd	King & Queen County Line	390	G	88%	2%	2%	1%	8%	0%	C	0.0996	F	0.6739	420	G	2009
+748451	  50	00629	     	50-629	Jacks Creek Rd	050	King William County	050	King William County	1.80	50-600, E River Rd	50-632 Mt Olive-Cohoke Rd	190	R							X						04/05/2007
+748452	  50	00629	     	50-629	Jacks Creek Rd	050	King William County	050	King William County	1.62	50-632 Mt Olive-Cohoke Rd	50-618 Acquinton Church Rd	710	R							X						04/05/2007
+404545	  50	00629	     	50-629	Acquinton Church Rd	050	King William County	050	King William County	1.78	50-618 Jacks Creek Rd	SR 30 E, King William Rd	910	G	94%	1%	2%	0%	3%	0%	F	0.1439	F	0.5033	980	G	2009
+404546	  50	00629	     	50-629	Walkerton Rd	050	King William County	050	King William County	2.21	SR 30 W, King William Rd	King & Queen County Line	2000	G	94%	1%	2%	0%	3%	0%	C	0.1076	F	0.7078	2100	G	2009
+748453	  50	00630	     	50-630	Smith Ferry Rd	050	King William County	050	King William County	1.20	Dead End	50-632 S, Mt Olive-Cohoke Rd	70	R							X						03/13/2007
+748454	  50	00630	     	50-630	Churchville Rd	050	King William County	050	King William County	2.52	50-632 N, Mt Olive-Cohoke Rd	SR 30 King William Rd	160	R							X						03/13/2007
+748455	  50	00631	     	50-631	Marl Hill Rd	050	King William County	050	King William County	1.40	Dead End	SR 30 King William Rd	70	R							X						03/13/2007
+748456	  50	00632	     	50-632	Mt Olive-Cohoke Rd	050	King William County	050	King William County	2.60	SR 30 King William Rd	50-630 S, Smith Ferry Rd	370	R							X						03/13/2007
+748457	  50	00632	     	50-632	Mt Olive-Cohoke Rd	050	King William County	050	King William County	3.50	50-630 S, Smith Ferry Rd	50-633 Powhatan Trail	110	R							X						03/13/2007
+748458	  50	00632	     	50-632	Mt Olive-Cohoke Rd	050	King William County	050	King William County	6.26	50-633 Powhatan Trail	50-621 Green Level Rd	320	R							X						03/13/2007
+748459	  50	00632	     	50-632	Mt Olive-Cohoke Rd	050	King William County	050	King William County	1.30	50-621 Green Level Rd	50-629 Jacks Creek Rd	560	R							X						04/05/2007
+748460	  50	00633	     	50-633	Powhatan Trail	050	King William County	050	King William County	0.10	Dead End	50-673 Pocahontas Trail	60	R							X						03/13/2007
+404547	  50	00633	     	50-633	Powhatan Trail	050	King William County	050	King William County	3.05	50-673 Pocahontas Trail	50-626, W Rose Garden Rd	260	G	93%	1%	1%	4%	0%	0%	C	0.1156	F	0.5294	280	G	2009
+404548	  50	00633	     	50-633	Powhatan Trail	050	King William County	050	King William County	4.75	50-626, W Rose Garden Rd	SR 30 King William Rd	290	G	93%	1%	1%	4%	0%	0%	F	0.1727	F	0.7708	320	G	2009
+748461	  50	00634	     	50-634	Sweet Hall Rd	050	King William County	050	King William County	1.90	Dead End	SR 30 W, King William Rd	140	R							X						04/06/2004
+748462	  50	00634	     	50-634	Seatons Lane	050	King William County	050	King William County	1.30	SR 30 E, King William Rd	50-625 W, Custis Millpond Rd	100	R							X						04/02/2007
+748463	  50	00634	     	50-634	Kentucky Rd	050	King William County	050	King William County	0.68	50-625 E, Custis Millpond Rd	Dead End	30	R							X						04/02/2007
+748464	  50	00635	     	50-635	Romancoke Rd	050	King William County	050	King William County	0.40	Dead End	SR 30 King William Rd	4	R							X						04/02/2007
+748465	  50	00635	     	50-635	Chelsea Rd	050	King William County	050	King William County	1.40	SR 30 King William Rd	50-645 Moorefield Rd	110	R							X						04/02/2007
+748466	  50	00636	     	50-636	VFW Rd	325	Town of West Point	050	King William County	0.19	50-702 Industrial Pkwy	NCL West Point	450	R							X						03/28/2007
+748467	  50	00636	     	50-636	VFW Rd	050	King William County	050	King William County	1.70	NCL West Point	SR 30 King William Rd	100	R							X						03/28/2007
+748468	  50	00637	     	50-637	White Oak Landing Rd	050	King William County	050	King William County	0.70	50-619 Horse Landing Rd	50-642 White Oak Landing Lane	60	R							X						04/02/2007
+748469	  50	00637	     	50-637	White Oak Landing Rd	050	King William County	050	King William County	0.60	50-642 White Oak Landing Lane	Dead End	6	R							X						04/02/2007
+748470	  50	00638	     	50-638	Mangohick Church Rd	050	King William County	050	King William County	0.10	Dead End	SR 30 King William Rd	30	R							X						03/13/2007
+748471	  50	00639	     	50-639	Mt Columbia Rd	050	King William County	050	King William County	1.10	Dead End	50-604 Dabneys Mill Rd	130	R							X						04/17/2007
+748472	  50	00640	     	50-640	Wakema Rd	050	King William County	050	King William County	4.82	50-625 E, Custis Millpond Rd	50-625 W, Indian Town Rd; Custis Millpond Rd	140	R							X						04/02/2007
+748473	  50	00640	     	50-640	Wakema Rd	050	King William County	050	King William County	1.20	50-625 W, Indian Town Rd; Custis Millpond Rd	SR 30 King William Rd	450	R							X						04/02/2007
+748474	  50	00641	     	50-641	Sandy Point Rd	050	King William County	050	King William County	0.70	SR 30 King William Rd	Dead End	70	R							X						04/02/2007
+748475	  50	00642	     	50-642	White Oak Landing Lane	050	King William County	050	King William County	0.50	50-637 White Oak Landing Rd	Dead End	10	R							X						04/02/2007
+748476	  50	00643	     	50-643	Millwood Ct	050	King William County	050	King William County	0.03	50-607 Millwood Rd	50-600 West River Rd	30	R							X						04/19/2007
+748477	  50	00644	     	50-644	Olde Footpath Rd	050	King William County	050	King William County	0.85	SR 30 W, King William Rd	SR 30 E, King William Rd	70	R							X						03/13/2007
+748478	  50	00645	     	50-645	Moorefield Rd	050	King William County	050	King William County	1.55	50-636 VFW Rd	Dead End	220	R							X						03/28/2007
+748479	  50	00646	     	50-646	Winchester Rd	050	King William County	050	King William County	0.93	Dead End	50-623 Union Hope Rd	60	R							X						03/13/2007
+748480	  50	00647	     	50-647	Mill Rd	050	King William County	050	King William County	1.40	US 360 Richmond Tappahannock Hwy	50-600, W River Rd	530	R							X						04/09/2007
+748481	  50	00648	     	50-648	White Bank Rd	050	King William County	050	King William County	0.15	SR 30 King William Rd	0.15 MN SR 30	200	R							X						04/02/2007
+748482	  50	00648	     	50-648	White Bank Rd	050	King William County	050	King William County	0.85	0.15 MN SR 30	Dead End	110	R							X						04/02/2007
+748483	  50	00649	     	50-649	Brandywine Rd	050	King William County	050	King William County	0.50	Dead End	50-605 Manfield Rd	20	R							X						04/05/2007
+748484	  50	00649	     	50-649	Brandywine Rd	050	King William County	050	King William County	0.11	50-605 Manfield Rd	US 360 Richmond Tappahannock Hwy	10	R							X						03/08/2004
+748485	  50	00650	     	50-650	Roane Oak Rd	050	King William County	050	King William County	1.07	SR 30 King William Rd	Dead End	70	R							X						04/09/2007
+748486	  50	00651	     	50-651	Shooting Box Rd	050	King William County	050	King William County	1.00	Dead End	50-632 Mt Olive-Cohoke Rd	40	R							X						03/13/2007
+748487	  50	00652	     	50-652	Mahixon Rd	050	King William County	050	King William County	2.98	50-615 Nelsons Bridge Rd	50-604 Dabneys Mill Rd	360	R							X						04/17/2007
+748488	  50	00653	     	50-653	Towinque Farm Rd	050	King William County	050	King William County	0.65	Dead End	50-656 Oak Grove Lane	70	R							X						04/17/2007
+748489	  50	00654	     	50-654	Pampatike Rd	050	King William County	050	King William County	2.30	Dead End	50-618 Acquinton Church Rd	130	R							X						04/05/2007
+748490	  50	00655	     	50-655	Ayletts Rd	050	King William County	050	King William County	0.50	Dead End	50-600, W River Rd	230	R							X						04/09/2007
+748491	  50	00656	     	50-656	Oak Grove Lane	050	King William County	050	King William County	0.08	50-615 S, Nelsons Bridge Rd	50-653 Towinque Farm Rd	80	R							X						04/17/2007
+791141	  50	00656	     	50-656	Oak Grove Lane	050	King William County	050	King William County	0.08	50-653 Towinque Farm Rd	50-615 Nelsons Bridge Rd	80	R							X						04/17/2007
+748492	  50	00657	     	50-657	Elsassar Rd	050	King William County	050	King William County	0.80	Dead End	50-632 Mt Olive-Cohoke Rd	10	R							X						03/13/2007
+748493	  50	00658	     	50-658	Indian Church Rd	050	King William County	050	King William County	0.55	SR 30 King William Rd	Dead End	110	R							X						04/09/2007
+748494	  50	00659	     	50-659	Vessels Lane	050	King William County	050	King William County	0.25	Dead End	50-608 Upshaw Rd	140	R							X						04/19/2007
+748495	  50	00660	     	50-660	Canaan Rd	050	King William County	050	King William County	0.25	50-632 Mt Olive-Cohoke Rd	Dead End	60	R							X						03/13/2007
+748496	  50	00661	     	50-661	Mt Pleasant Rd	050	King William County	050	King William County	0.86	50-618 Acquinton Church Rd; Mount Pleasant Rd	US 360 Richmond Tappahannock Hwy	520	R							X						04/05/2007
+748497	  50	00662	     	50-662	Sharon Rd	050	King William County	050	King William County	1.14	US 360 W, Richmond Tappahannock Hwy	SR 30 King William Rd	1500	R							X						04/05/2007
+748498	  50	00662	     	50-662	Sharon Rd	050	King William County	050	King William County	0.21	SR 30 King William Rd	US 360 E, Richmond Tappahannock Hwy	740	R							X						04/05/2007
+748499	  50	00663	     	50-663	Jackson Rd	050	King William County	050	King William County	0.20	50-629 Jacks Creek Rd	Dead End	20	R							X						04/05/2007
+748500	  50	00664	     	50-664	Woodbury Rd	050	King William County	050	King William County	1.52	50-629 Walkerton Rd	Dead End	160	R							X						04/02/2007
+748501	  50	00665	     	50-665	Belmont Lane	050	King William County	050	King William County	0.24	Dead End	50-600, E River Rd	30	R							X						03/29/2004
+748503	  50	00667	     	50-667	Horse Alley	050	King William County	050	King William County	0.08	US 360 Richmond Tappahannock Hwy	50-662 Sharon Rd	70	R							X						04/05/2007
+748504	  50	00668	     	50-668	Episcopal Rd	050	King William County	050	King William County	0.15	50-630 Churchville Rd	Dead End	20	R							X						03/13/2007
+748505	  50	00669	     	50-669	St Johns Church Lane	050	King William County	050	King William County	0.10	Dead End	SR 30 King William Rd	10	R							X						03/13/2007
+748506	  50	00670	     	50-670	Horse Landing Rd	050	King William County	050	King William County	0.25	50-619 Horse Landing Rd	Dead End	140	R							X						04/02/2007
+748507	  50	00671	     	50-671	Mangohick Circle	050	King William County	050	King William County	0.90	SR 30 S, King William Rd	SR 30 N, King William Rd	80	R							X						03/13/2007
+748508	  50	00672	     	50-672	 	050	King William County	050	King William County	0.35	Dead End	50-633 Powhatan Trail	20	R							X						03/13/2007
+748509	  50	00673	     	50-673	Pamunkey River Rd	050	King William County	050	King William County	0.50	End Loop	50-1401 Lay Landing Rd	60	R							X						03/29/2004
+748510	  50	00673	     	50-673	Lay Landing Rd	050	King William County	050	King William County	0.25	50-1401 Lay Landing Rd	50-1403 Cornfield Rd	48	R							X						03/29/2004
+748511	  50	00673	     	50-673	Lay Landing Rd	050	King William County	050	King William County	0.30	50-1403 Cornfield Rd	50-1402 Spring Creek Rd	60	R							X						03/29/2004
+748512	  50	00673	     	50-673	Pocahontas Trail	050	King William County	050	King William County	0.30	50-1402 Spring Creek Rd	Begin Loop	60	R							X						03/29/2004
+748513	  50	00673	     	50-673	Pocahontas Trail	050	King William County	050	King William County	0.05	Begin Loop	50-1400 Pocket Rd	150	R							X						03/29/2004
+404549	  50	00673	     	50-673	Pocahontas Trail	050	King William County	050	King William County	1.00	50-1400 Pocket Rd	50-633 Powhatan Trail	140	G	93%	5%	0%	0%	1%	0%	C	0.1092	F	0.6842	150	G	2009
+748514	  50	00674	     	50-674	McPherson Dr	050	King William County	050	King William County	0.20	50-605 Manfield Rd	Dead End	20	R							X						04/17/2007
+748515	  50	00675	     	50-675	Corinth Dr	050	King William County	050	King William County	0.21	50-604 Dabneys Mill Rd	50-676 Hill Dr	100	R							X						03/08/2004
+748516	  50	00676	     	50-676	Hill Dr	050	King William County	050	King William County	0.39	50-604 Dabneys Mill Rd	50-675 Corinth Dr	80	R							X						03/08/2004
+748517	  50	00677	     	50-677	Recycle Rd	050	King William County	050	King William County	0.07	Dead End	SR 30 King William Rd	420	R							X						04/05/2007
+748518	  50	00678	     	50-678	Flotbeck Rd	050	King William County	050	King William County	0.60	Dead End	50-629 Acquinton Church Rd	20	R							X						04/05/2007
+748519	  50	00679	     	50-679	Mt Rose Rd	050	King William County	050	King William County	0.70	50-633 Powhatan Trail	Dead End	30	R							X						03/13/2007
+748520	  50	00680	     	50-680	Garlick Rd	050	King William County	050	King William County	0.18	SR 30 King William Rd	Dead End	40	R							X						04/02/2007
+748521	  50	00681	     	50-681	Hybla Farm Rd	050	King William County	050	King William County	0.31	Dead End	50-629 Jacks Creek Rd	80	R							X						04/05/2007
+796009	  50	00682	     	50-682	Tidy Cat Rd	050	King William County	050	King William County	0.14	Cul-de-Sac	50-613 Dunluce Rd	0	?							X
+748522	  50	00701	     	50-701	Euclid Heights Blvd	050	King William County	050	King William County	0.40	Dead End	WCL West Point	50	R							X						03/22/2007
+785133	  50	00701	     	50-701	Euclid Heights Blvd	325	Town of West Point	050	King William County	0.20	WCL West Point	50-1026 Dogwood Dr	60	R							X						05/17/2001
+404550	  50	00701	     	50-701	Euclid Heights Blvd	325	Town of West Point	050	King William County	0.58	50-1026 Dogwood Dr	SR 30 King William Ave	810	G	97%	1%	1%	0%	1%	0%	C	0.0969	F	0.6182	870	G	2009
+784136	  50	00702	     	50-702	Industrial Pkwy	325	Town of West Point	050	King William County	0.07	SR 30 Main St	50-636 VFW Rd	830	R							X						03/28/2007
+748523	  50	01000	     	50-1000	Azalea Cresent	325	Town of West Point	050	King William County	0.28	50-1013 N, River Rd	50-1013 S, River Rd	70	R							X						04/06/2004
+748524	  50	01001	     	50-1001	Bond St	325	Town of West Point	050	King William County	0.50	50-1002, E Magnolia Dr	Dead End	220	R							X						03/22/2007
+748525	  50	01002	     	50-1002	E Magnolia Dr	325	Town of West Point	050	King William County	0.20	50-1010 Southern Ave	SR 30 King William Ave	410	R							X						03/22/2007
+404551	  50	01002	     	50-1002	E Magnolia Dr	325	Town of West Point	050	King William County	1.02	SR 30 King William Ave	50-1003 Chelsea Rd	1300	G	99%	1%	0%	0%	0%	0%	C	0.1018	F	0.5350	1400	G	2009
+748526	  50	01002	     	50-1002	E Magnolia Dr	325	Town of West Point	050	King William County	0.09	50-1003 Chelsea Rd	0.09 MN 50-1003 Chelsea Rd	30	R							X						03/22/2007
+793644	  50	01003	     	50-1003	 	325	Town of West Point	050	King William County	0.12	SR 33, 14th St	50-1130 Glass Island Rd	0	?							X
+404552	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	1.05	50-1130 Glass Island Rd	50-1004 Mattaponi Ave	1600	G	98%	1%	0%	0%	0%	0%	C	0.1353	F	0.6538	1700	G	2009
+404553	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.30	50-1004 Mattaponi Ave	50-1006 Thompson Ave	960	G	98%	1%	0%	0%	0%	0%	F	0.1362	F	0.6540	1000	G	2009
+404554	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.75	50-1006 Thompson Ave	50-1002, E Magnolia Dr	780	G	98%	1%	0%	0%	0%	0%	F	0.1163	F	0.5000	850	G	2009
+748527	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.28	50-1002, E Magnolia Dr	50-1014, E Euclid Blvd	710	R							X						04/19/2004
+748528	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.15	50-1014, E Euclid Blvd	0.15 MN 50-1014	110	R							X						04/19/2004
+748529	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.24	0.15 MN 50-1014	NCL West Point	70	R							X						03/22/2007
+748530	  50	01004	     	50-1004	Mattaponi Ave	325	Town of West Point	050	King William County	0.70	50-1002, E Magnolia Dr	50-1006 Thompson Ave	780	R							X						03/28/2007
+748531	  50	01004	     	50-1004	Mattaponi Ave	325	Town of West Point	050	King William County	0.20	50-1006 Thompson Ave	50-1003 Chelsea Rd	800	R							X						03/28/2007
+795269	  50	01005	     	50-1005	Odi St	325	Town of West Point	050	King William County	0.07	50-1002, E Magnolia Dr	Dead End; Gap	0	?							X
+748532	  50	01005	     	50-1005	Odi St	325	Town of West Point	050	King William County	0.45	50-1030 Bagby St	50-1006 Thompson Ave	440	R							X						03/28/2007
+748533	  50	01005	     	50-1005	Odi St	325	Town of West Point	050	King William County	0.20	50-1006 Thompson Ave	Dead End	80	R							X						03/28/2007
+404555	  50	01006	     	50-1006	Thompson Ave	325	Town of West Point	050	King William County	0.93	SR 30 Main St	50-1003 Chelsea Rd	1800	G	98%	1%	1%	0%	0%	0%	C	0.1043	F	0.5616	2000	G	2009
+748534	  50	01007	     	50-1007	Lyndale St	325	Town of West Point	050	King William County	0.13	50-1108, C St	SR 30 Main St	120	R							X						03/22/2007
+748535	  50	01007	     	50-1007	Ogden St	325	Town of West Point	050	King William County	0.20	SR 30 Main St	Dead End	200	R							X						03/22/2007
+748536	  50	01008	     	50-1008	Dupont St	325	Town of West Point	050	King William County	0.20	Dead End	SR 30 Main St	330	R							X						03/22/2007
+748537	  50	01009	     	50-1009	W Oak Grove St	325	Town of West Point	050	King William County	0.16	Dead End	SR 30 Main St	70	R							X						03/22/2007
+748538	  50	01009	     	50-1009	Oak Grove St	325	Town of West Point	050	King William County	0.06	SR 30 Main St	Dead End	1300	R							X						03/22/2007
+748539	  50	01010	     	50-1010	Southern Ave	325	Town of West Point	050	King William County	0.25	50-701 Euclid Heights Rd	50-1002, E Magnolia Dr	140	R							X						03/22/2007
+748540	  50	01010	     	50-1010	Southern Ave	325	Town of West Point	050	King William County	0.20	50-1002, E Magnolia Dr	Pamunkey Ave	180	R							X						03/22/2007
+791140	  50	01010	     	50-1010	Pamunkey Ave	325	Town of West Point	050	King William County	0.20	Southern Ave	SR 30 King William Ave	400	R							X						03/22/2007
+748541	  50	01011	     	50-1011	Romancoke Ave	325	Town of West Point	050	King William County	0.05	50-1002, E Magnolia Dr	Dead End	90	R							X						03/22/2007
+748542	  50	01012	     	50-1012	Berkley St	325	Town of West Point	050	King William County	0.13	50-1108, C St	SR 30 Main St	140	R							X						03/22/2007
+748543	  50	01013	     	50-1013	Pine Lane	325	Town of West Point	050	King William County	0.50	Dead End	50-701 Euclid Heights Blvd	90	R							X						04/06/2004
+783433	  50	01013	     	50-1013	Camelia Dr	325	Town of West Point	050	King William County	0.33	50-701 Euclid Heights Blvd	50-1026 Dogwood Dr	390	R							X						04/06/2004
+748547	  50	01014	     	50-1014	E Euclid Blvd	325	Town of West Point	050	King William County	0.10	50-1003 Chelsea Rd	50-1032 Shoreline Dr	330	R							X						04/16/2004
+748548	  50	01014	     	50-1014	E Euclid Blvd	325	Town of West Point	050	King William County	0.17	50-1032 Shoreline Dr	50-1015 Newman Rd	90	R							X						04/16/2004
+748549	  50	01015	     	50-1015	Newman Rd	325	Town of West Point	050	King William County	0.17	50-1014, E Euclid Blvd	50-1034 Sandy Creek	80	R							X						04/19/2004
+748550	  50	01016	     	50-1016	Romancoke Ave	325	Town of West Point	050	King William County	0.05	50-1009, W Oak Grove St	Dead End	10	R							X						03/22/2007
+748551	  50	01017	     	50-1017	Taylor Ave	325	Town of West Point	050	King William County	0.06	50-1009, W Oak Grove St	Dead End	50	R							X						03/22/2007
+748552	  50	01018	     	50-1018	Camelia Dr	325	Town of West Point	050	King William County	0.07	Dead End	50-701 Euclid Heights Blvd	40	R							X						04/06/2004
+748553	  50	01019	     	50-1019	Romancoke Ave	325	Town of West Point	050	King William County	0.10	50-701 Euclid Heights Blvd	50-1020 Cypress Ave	80	R							X						04/06/2004
+748554	  50	01020	     	50-1020	Cypress Ave	325	Town of West Point	050	King William County	0.08	Dead End	50-1019 Romancoke Ave	40	R							X						04/06/2004
+748555	  50	01020	     	50-1020	Cypress Ave	325	Town of West Point	050	King William County	0.08	50-1019 Romancoke Ave	Dead End	40	R							X						04/06/2004
+748556	  50	01021	     	50-1021	Cheatham Dr	325	Town of West Point	050	King William County	0.07	SR 30 Main St	50-1025 Cheatham Dr	180	R							X						03/22/2007
+748557	  50	01022	     	50-1022	Bellwood St	325	Town of West Point	050	King William County	0.12	50-1108, C St	SR 30 Main St	100	R							X						03/22/2007
+748558	  50	01023	     	50-1023	Fort St	325	Town of West Point	050	King William County	0.13	50-1108, C St	SR 30 Main St	120	R							X						2004
+748559	  50	01024	     	50-1024	Glenn St	325	Town of West Point	050	King William County	0.12	50-1108, C St	SR 30 Main St	170	R							X						03/22/2007
+748560	  50	01024	     	50-1024	Thompson St	325	Town of West Point	050	King William County	0.12	SR 30 Main St	50-1006 Thompson Ave	2200	R							X						03/22/2007
+748561	  50	01025	     	50-1025	Cheatham Dr	325	Town of West Point	050	King William County	0.08	50-1021 Cheatham Dr	Dead End	90	R							X						03/22/2007
+748562	  50	01026	     	50-1026	Dogwood Dr	325	Town of West Point	050	King William County	0.17	50-701 Euclid Heights Blvd	50-1028 Tanager Ct	160	R							X						04/06/2004
+748563	  50	01026	     	50-1026	Dogwood Dr	325	Town of West Point	050	King William County	0.11	50-1028 Tanager Ct	50-1027 Mockingbird Ct	100	R							X						04/06/2004
+748564	  50	01026	     	50-1026	Dogwood Dr	325	Town of West Point	050	King William County	0.02	50-1027 Mockingbird Ct	50-1013 River Rd	130	R							X						04/06/2004
+748565	  50	01026	     	50-1026	Dogwood Dr	325	Town of West Point	050	King William County	0.14	50-1013 River Rd	Dead End	50	R							X						04/06/2004
+748566	  50	01027	     	50-1027	Mockingbird Ct	325	Town of West Point	050	King William County	0.06	Dead End	50-1026 Dogwood Dr	40	R							X						04/06/2004
+748567	  50	01028	     	50-1028	Tanager Ct	325	Town of West Point	050	King William County	0.06	Dead End	50-1026 Dogwood Dr	30	R							X						04/06/2004
+748568	  50	01029	     	50-1029	Taylor Ave	325	Town of West Point	050	King William County	0.08	O.O8 MN 50-1002	50-1002, E Magnolia Dr	150	R							X						03/22/2007
+748569	  50	01029	     	50-1029	Taylor Ave	325	Town of West Point	050	King William County	0.21	50-1002, E Magnolia Dr	50-1010 Pamunkey Ave; Southern Ave	150	R							X						03/22/2007
+748570	  50	01030	     	50-1030	Bagby St	325	Town of West Point	050	King William County	0.28	50-1005 Odi St	50-1004 Mattaponi Ave	210	R							X						03/28/2007
+748571	  50	01030	     	50-1030	Bagby St	325	Town of West Point	050	King William County	0.29	50-1004 Mattaponi Ave	50-1003 Chelsea Rd	200	R							X						03/28/2007
+748572	  50	01031	     	50-1031	Riverview Dr	325	Town of West Point	050	King William County	0.11	50-1003 Chelsea Rd	50-1032 Shoreline Dr	150	R							X						04/19/2004
+748573	  50	01032	     	50-1032	Shoreline Dr	325	Town of West Point	050	King William County	0.12	50-1014, E Euclid Blvd	50-1031 Riverview Dr	49	R							X						04/19/2004
+784137	  50	01032	     	50-1032	Shoreline Dr	325	Town of West Point	050	King William County	0.04	50-1031 Riverview Dr	Dead End	30	R							X						03/22/2007
+748574	  50	01033	     	50-1033	E Oak Lane	325	Town of West Point	050	King William County	0.22	50-1006 Thompson Ave	Cul-de-Sac	180	R							X						04/19/2004
+748575	  50	01034	     	50-1034	Sandy Creek	325	Town of West Point	050	King William County	0.08	50-1036 Blue Heron Rd	50-1015 Newman Rd	60	R							X						03/22/2007
+748576	  50	01036	     	50-1036	Blue Heron Rd	325	Town of West Point	050	King William County	0.14	50-1014, E Euclid Blvd	50-1034 Sandy Creek	90	R							X						03/22/2007
+748577	  50	01037	     	50-1037	Westwood Ct	325	Town of West Point	050	King William County	0.16	Dead End	50-1004 Mattaponi Ave	210	R							X						04/19/2004
+748578	  50	01038	     	50-1038	N Oak Lane	325	Town of West Point	050	King William County	0.12	Dead End	50-1006 Thompson Ave	70	R							X						04/19/2004
+784138	  50	01039	     	50-1039	Briarwood Lane	325	Town of West Point	050	King William County	0.16	50-1014, E Euclid Blvd	Dead End	80	R							X						03/22/2007
+748579	  50	01040	     	50-1040	Winter St	325	Town of West Point	050	King William County	0.13	SR 30 Main St	Dead End	1100	R							X						03/22/2007
+788670	  50	01041	     	50-1041	Chelsea Run	325	Town of West Point	050	King William County	0.12	50-1004 Mattaponi Ave	Dead End	90	R							X						03/28/2007
+791734	  50	01042	     	50-1042	Cressfield Dr	325	Town of West Point	050	King William County	0.25	50-1005 Odi St	Dead End	210	R							X						03/28/2007
+794617	  50	01043	     	50-1043	York St	325	Town of West Point	050	King William County	0.09	Dead End	50-1001 Bond St	0	?							X
+794839	  50	01044	     	50-1044	Cherokee St	325	Town of West Point	050	King William County	0.08	50-1004 Mattaponi Ave	Cul-de-Sac	0	?							X
+748580	  50	01045	     	50-1045	Ball Park Dr	325	Town of West Point	050	King William County	0.11	Dead End	50-1003 Chelsea Rd	80	R							X						04/19/2004
+797039	  50	01046	     	50-1046	 	325	Town of West Point	050	King William County	0.14	50-1047	50-1005 Odi St	0	?							X
+797040	  50	01047	     	50-1047	 	325	Town of West Point	050	King William County	0.10	50-1046	50-1005 Odi St	0	?							X
+748581	  50	01101	     	50-1101	Lee St	325	Town of West Point	050	King William County	0.22	SR 33, 14th St	50-1114, 18th St	1200	R							X						03/26/2007
+748582	  50	01101	     	50-1101	Lee St	325	Town of West Point	050	King William County	0.29	50-1114, 18th St	50-1120, 23rd St	390	R							X						03/26/2007
+748583	  50	01102	     	50-1102	13th St	325	Town of West Point	050	King William County	0.06	Dead End	SR 296 Kirby St	40	R							X						04/15/2004
+748584	  50	01102	     	50-1102	13th St	325	Town of West Point	050	King William County	0.08	SR 296 Kirby St	50-1129 Main St	300	R							X						04/15/2004
+748585	  50	01102	     	50-1102	13th St	325	Town of West Point	050	King William County	0.03	50-1129 Main St	0.03 ME 05-1129 Main St	360	R							X						04/15/2004
+748586	  50	01102	     	50-1102	13th St	325	Town of West Point	050	King William County	0.02	SR 298 Lee St	Dead End	160	R							X						04/15/2004
+748587	  50	01103	     	50-1103	12th St	325	Town of West Point	050	King William County	0.05	Dead End	SR 296 Kirby St	3	R							X						04/15/2004
+748588	  50	01103	     	50-1103	12th St	325	Town of West Point	050	King William County	0.17	SR 296 Kirby St	SR 298 Lee St	210	R							X						04/15/2004
+748589	  50	01103	     	50-1103	12th St	325	Town of West Point	050	King William County	0.06	SR 298 Lee St	Dead End	70	R							X						04/15/2004
+748590	  50	01104	     	50-1104	11th St	325	Town of West Point	050	King William County	0.09	Dead End	SR 298 Lee St	140	R							X						04/08/2004
+748591	  50	01104	     	50-1104	11th St	325	Town of West Point	050	King William County	0.17	SR 298 Lee St	SR 296 Kirby St	270	R							X						04/08/2004
+748592	  50	01104	     	50-1104	11th St	325	Town of West Point	050	King William County	0.02	SR 296 Kirby St	Dead End	30	R							X						04/08/2004
+748593	  50	01105	     	50-1105	9th St	325	Town of West Point	050	King William County	0.03	Dead End	50-1107 Kirby St	2	R							X						04/08/2004
+748594	  50	01105	     	50-1105	9th St	325	Town of West Point	050	King William County	0.17	50-1107 Kirby St	SR 298 Lee St	350	R							X						04/08/2004
+748595	  50	01105	     	50-1105	9th St	325	Town of West Point	050	King William County	0.02	SR 298 Lee St	Dead End	20	R							X						04/08/2004
+748596	  50	01106	     	50-1106	7th St	325	Town of West Point	050	King William County	0.08	Dead End	50-1107 Kirby St	100	R							X						04/08/2004
+748597	  50	01106	     	50-1106	7th St	325	Town of West Point	050	King William County	0.17	50-1107 Kirby St	SR 298 Lee St	480	R							X						04/08/2004
+748598	  50	01106	     	50-1106	7th St	325	Town of West Point	050	King William County	0.08	SR 298 Lee St	Dead End	100	R							X						04/08/2004
+748599	  50	01107	     	50-1107	Kirby St	325	Town of West Point	050	King William County	0.21	50-1121, 1st St	SR 298, 5th St	100	R							X						04/08/2004
+784139	  50	01107	     	50-1107	Kirby St	325	Town of West Point	050	King William County	0.06	SR 298, 5th St	50-1110, 6th St	150	R							X						04/08/2004
+748600	  50	01107	     	50-1107	Kirby St	325	Town of West Point	050	King William County	0.23	50-1110, 6th St	SR 296, 10th St	1000	R							X						04/08/2004
+748601	  50	01108	     	50-1108	Kirby St	325	Town of West Point	050	King William County	0.24	SR 30, 14th St	SR 30 Main St; Gap	760	R							X						04/15/2004
+748602	  50	01108	     	50-1108	C St	325	Town of West Point	050	King William County	0.19	50-1008; Gap	50-1022 Bellwood St	80	R							X						04/15/2004
+748603	  50	01108	     	50-1108	C St	325	Town of West Point	050	King William County	0.12	50-1022 Bellwood St	50-1007 Lyndale St	70	R							X						04/15/2004
+748604	  50	01109	     	50-1109	Lee St	325	Town of West Point	050	King William County	0.23	50-1121, 1st St	SR 298, 5th St	470	R							X						04/08/2004
+748605	  50	01110	     	50-1110	6th St	325	Town of West Point	050	King William County	0.09	50-1107 Kirby St	50-1129 Main St	240	R							X						04/08/2004
+748606	  50	01110	     	50-1110	6th St	325	Town of West Point	050	King William County	0.08	50-1129 Main St	SR 298 Lee St	290	R							X						04/08/2004
+748607	  50	01111	     	50-1111	4th St	325	Town of West Point	050	King William County	0.25	Dead End	50-1109 Lee St	100	R							X						04/08/2004
+748608	  50	01112	     	50-1112	2nd St	325	Town of West Point	050	King William County	0.03	Dead End	50-1107 Kirby St	20	R							X						04/08/2004
+748609	  50	01112	     	50-1112	2nd St	325	Town of West Point	050	King William County	0.16	50-1107 Kirby St	50-1109 Lee St	140	R							X						04/08/2004
+748610	  50	01112	     	50-1112	2nd St	325	Town of West Point	050	King William County	0.05	50-1109 Lee St	Dead End	10	R							X						04/08/2004
+748611	  50	01113	     	50-1113	17th St	325	Town of West Point	050	King William County	0.15	SR 30 Main St	50-1127, F St	360	R							X						04/15/2004
+748612	  50	01114	     	50-1114	18th St	325	Town of West Point	050	King William County	0.15	SR 30 Main St	50-1127, F St	230	R							X						04/15/2004
+788671	  50	01114	     	50-1114	18th St	325	Town of West Point	050	King William County	0.05	50-1127, F St	Dead End	110	R							X						03/26/2007
+748613	  50	01115	     	50-1115	19th St	325	Town of West Point	050	King William County	0.15	SR 30 Main St	50-1127, F St	270	R							X						04/15/2004
+748614	  50	01116	     	50-1116	21st St	325	Town of West Point	050	King William County	0.16	SR 30 Main St	50-1127, F St	410	R							X						04/15/2004
+793608	  50	01116	     	50-1116	21st St	325	Town of West Point	050	King William County	0.05	50-1127, F St	Cul-de-Sac	0	?							X
+748615	  50	01117	     	50-1117	3rd St	325	Town of West Point	050	King William County	0.16	50-1107 Kirby St	50-1109 Lee St	100	R							X						04/08/2004
+748616	  50	01118	     	50-1118	16th St	325	Town of West Point	050	King William County	0.08	Dead End	50-1108 Kirby St	46	R							X						04/15/2004
+748617	  50	01118	     	50-1118	16th St	325	Town of West Point	050	King William County	0.07	50-1108 Kirby St	SR 30 Main St	490	R							X						04/15/2004
+748618	  50	01118	     	50-1118	16th St	325	Town of West Point	050	King William County	0.14	SR 30 Main St	50-1127, F St	360	R							X						04/15/2004
+748619	  50	01119	     	50-1119	20th St	325	Town of West Point	050	King William County	0.14	SR 30 Main St	50-1127, F St	90	R							X						03/26/2007
+748620	  50	01120	     	50-1120	23rd St	325	Town of West Point	050	King William County	0.08	SR 30 Main St	50-1101 Lee St	460	R							X						03/26/2007
+748621	  50	01120	     	50-1120	23rd St	325	Town of West Point	050	King William County	0.08	50-1101 Lee St	Dead End	80	R							X						03/26/2007
+748622	  50	01121	     	50-1121	1st St	325	Town of West Point	050	King William County	0.08	50-1107 Kirby St	50-1129 Main St	120	R							X						03/26/2007
+748623	  50	01121	     	50-1121	1st St	325	Town of West Point	050	King William County	0.08	50-1129 Main St	50-1109 Lee St	200	R							X						03/26/2007
+748624	  50	01122	     	50-1122	15th St	325	Town of West Point	050	King William County	0.08	Dead End	50-1108 Kirby St	49	R							X						04/23/2007
+748625	  50	01122	     	50-1122	15th St	325	Town of West Point	050	King William County	0.08	50-1108 Kirby St	SR 30 Main St	710	R							X						04/23/2007
+748626	  50	01122	     	50-1122	15th St	325	Town of West Point	050	King William County	0.13	SR 30 Main St	50-1127, F St	340	R							X						04/23/2007
+748627	  50	01122	     	50-1122	15th St	325	Town of West Point	050	King William County	0.02	50-1127, F St	Dead End	70	R							X						04/03/2001
+748628	  50	01123	     	50-1123	8th St	325	Town of West Point	050	King William County	0.16	50-1107 Kirby St	SR 298 Lee St	160	R							X						03/26/2007
+748629	  50	01123	     	50-1123	8th St	325	Town of West Point	050	King William County	0.02	SR 298 Lee St	Dead End	30	R							X						03/26/2007
+748630	  50	01124	     	50-1124	Prospect St	325	Town of West Point	050	King William County	0.09	Dead End	50-1001 Bond St	48	R							X						03/22/2007
+748631	  50	01125	     	50-1125	22nd St	325	Town of West Point	050	King William County	0.08	SR 30 Main St	50-1101 Lee St	130	R							X						04/15/2004
+748632	  50	01125	     	50-1125	22nd St	325	Town of West Point	050	King William County	0.14	50-1101 Lee St	Dead End	20	R							X						03/26/2007
+748633	  50	01126	     	50-1126	10th St	325	Town of West Point	050	King William County	0.02	Dead End	SR 296 Kirby St	9	R							X						03/26/2007
+748634	  50	01126	     	50-1126	10th St	325	Town of West Point	050	King William County	0.05	SR 298 Lee St	Dead End	90	R							X						03/26/2007
+748635	  50	01127	     	50-1127	F St	325	Town of West Point	050	King William County	0.01	Dead End	SR 33, 14th St	160	R							X						04/03/2001
+748636	  50	01127	     	50-1127	F St	325	Town of West Point	050	King William County	0.23	SR 33, 14th St	50-1114, 18th St	520	R							X						04/03/2001
+748637	  50	01127	     	50-1127	F St	325	Town of West Point	050	King William County	0.18	50-1114, 18th St	50-1116, 21st St	240	R							X						03/26/2007
+793609	  50	01127	     	50-1127	F St	325	Town of West Point	050	King William County	0.06	50-1116, 21st St	50-1125, 22nd St	0	?							X
+748638	  50	01128	     	50-1128	5th St	325	Town of West Point	050	King William County	0.05	SR 298 Lee St	Dead End	30	G							X				30	G	2009
+748639	  50	01129	     	50-1129	Main St	325	Town of West Point	050	King William County	0.23	50-1121, 1st St	SR 298, 5th St	610	R							X						03/26/2007
+748640	  50	01129	     	50-1129	Main St	325	Town of West Point	050	King William County	0.10	SR 298, 5th St	50-1106, 7th St	1100	R							X						03/26/2007
+748641	  50	01129	     	50-1129	Main St	325	Town of West Point	050	King William County	0.17	50-1106, 7th St	SR 296, 10th St	2300	R							X						03/26/2007
+404556	  50	01129	     	50-1129	Main St	325	Town of West Point	050	King William County	0.22	SR 296, 10th St	SR 33, 14th St	2700	G							X				2800	G	2009
+748642	  50	01130	     	50-1130	Glass Island Rd	325	Town of West Point	050	King William County	0.25	50-1003 Chelsea Rd	Dead End	470	R							X						03/26/2007
+793127	  50	01135	     	50-1135	Parkwood Dr	050	King William County	050	King William County	1.01	Cul-de-Sac	50-608 Upshaw Rd	0	?							X
+793128	  50	01136	     	50-1136	White Pine Court	050	King William County	050	King William County	0.11	50-1135 Parkwood Dr	Cul-de-Sac	0	?							X
+797041	  50	01150	     	50-1150	 	050	King William County	050	King William County	0.36	50-1151	US 360 Richmond Tappahannock Hwy	0	?							X
+797042	  50	01151	     	50-1151	 	050	King William County	050	King William County	0.22	50-1150	50-1154	0	?							X
+797043	  50	01152	     	50-1152	 	050	King William County	050	King William County	0.07	50-1151	Cul-de-Sac	0	?							X
+797044	  50	01153	     	50-1153	 	050	King William County	050	King William County	0.11	50-1151	Cul-de-Sac	0	?							X
+797045	  50	01154	     	50-1154	 	050	King William County	050	King William County	0.23	50-1151	Cul-de-Sac	0	?							X
+748643	  50	01201	     	50-1201	Terra Alta Dr	050	King William County	050	King William County	0.05	Dead End	50-1203 Newton Dr	48	R							X						03/08/2004
+748644	  50	01201	     	50-1201	Terra Alta Dr	050	King William County	050	King William County	0.51	50-1203 Newton Dr	50-1202 Carey Brook Lane	110	R							X						03/08/2004
+748645	  50	01201	     	50-1201	Terra Alta Dr	050	King William County	050	King William County	0.24	50-1202 Carey Brook Lane	50-611 Venter Rd	160	R							X						03/08/2004
+748646	  50	01202	     	50-1202	Carey Brook Lane	050	King William County	050	King William County	0.09	50-611 Venter Rd	50-1201 Terra Alta Dr	40	R							X						03/08/2004
+748647	  50	01203	     	50-1203	Newton Dr	050	King William County	050	King William County	0.24	50-611 Venter Rd	50-1201 Terra Alta Dr	140	R							X						03/08/2004
+786452	  50	01205	     	50-1205	Ayletts Mill Dr	050	King William County	050	King William County	0.16	50-600, W River Rd	Cul-de-Sac	40	R							X						03/23/2004
+748648	  50	01206	     	50-1206	Windsor Rd	050	King William County	050	King William County	0.21	Cul-de-Sac	50-647 Mill Rd	90	R							X						03/23/2004
+796010	  50	01207	     	50-1207	14th St	325	Town of West Point	050	King William County	0.17	Dead End	SR 30 Main St; SR 33; 14th St	0	?							X
+748649	  50	01210	     	50-1210	Oxford Lane	050	King William County	050	King William County	0.37	50-1211 Lancaster Rd	US 360; 50-662	80	R							X						03/23/2004
+748650	  50	01211	     	50-1211	Lancaster Rd	050	King William County	050	King William County	0.04	50-1210 Oxford Lane	50-1212 Essex Rd	20	R							X						03/23/2004
+748651	  50	01211	     	50-1211	Lancaster Rd	050	King William County	050	King William County	0.30	50-1212 Essex Rd	US 360; 50-667	70	R							X						03/23/2004
+748652	  50	01212	     	50-1212	Essex Rd	050	King William County	050	King William County	0.09	50-1211 Lancaster Rd	50-1213 Essex Court	30	R							X						03/23/2004
+748653	  50	01212	     	50-1212	Essex Rd	050	King William County	050	King William County	0.07	50-1213 Essex Court	Cul-de-Sac	10	R							X						03/23/2004
+748654	  50	01213	     	50-1213	Essex Court	050	King William County	050	King William County	0.07	50-1212 Essex Rd	Cul-de-Sac	4	R							X						03/23/2004
+793129	  50	01214	     	50-1214	Choctaw Ridge	050	King William County	050	King William County	0.21	Cul-de-Sac	US 360 Richmond Tappahannock Hwy	0	?							X
+793130	  50	01215	     	50-1215	Clark Lane	050	King William County	050	King William County	0.12	50-1214 Choctaw Ridge	Cul-de-Sac	0	?							X
+748655	  50	01216	     	50-1216	Newman Dr	050	King William County	050	King William County	0.42	50-606 Commins Rd	50-1217 Martins Branch Dr	170	R							X						03/23/2004
+748656	  50	01217	     	50-1217	Martins Branch Dr	050	King William County	050	King William County	0.11	Dead End	50-1216 Newman Dr	40	R							X						03/23/2004
+748657	  50	01217	     	50-1217	Martins Branch Dr	050	King William County	050	King William County	0.12	50-1216 Newman Dr	Dead End	48	R							X						03/23/2004
+795717	  50	01218	     	50-1218	Lamae Court	050	King William County	050	King William County	0.04	50-1242 Lamae Circle	Cul-de-Sac	0	?							X
+795718	  50	01219	     	50-1219	Holly Court	050	King William County	050	King William County	0.04	Cul-de-Sac	50-1241 Holly Rd	0	?							X
+748658	  50	01220	     	50-1220	Edge Hill Farms Dr	050	King William County	050	King William County	0.28	Dead End	50-600, W River Rd	120	R							X						03/18/2004
+790469	  50	01222	     	50-1222	Poplar Pl	050	King William County	050	King William County	0.04	50-1242 Poplar Rd	Cul-de-Sac	40	R							X						04/09/2007
+791142	  50	01223	     	50-1223	Rosebud Run	050	King William County	050	King William County	0.49	Beginning of Loop	Loop Intersection	330	R							X						04/09/2007
+782522	  50	01223	     	50-1223	Rosebud Run	050	King William County	050	King William County	0.69	Loop Intersection	50-606 Commins Rd	820	R							X						04/09/2007
+783225	  50	01224	     	50-1224	Mayfair Trace	050	King William County	050	King William County	0.26	50-608 Upshaw Rd	Cul-de-Sac	80	R							X						04/19/2007
+748659	  50	01225	     	50-1225	Cherry Hill Dr	050	King William County	050	King William County	0.12	SR 30 King William Rd	50-1226 Cherry Hill Ct	420	R							X						03/18/2004
+748660	  50	01225	     	50-1225	Cherry Hill Dr	050	King William County	050	King William County	0.17	50-1226 Cherry Hill Ct	50-1227 Cherry Hill Circle	340	R							X						03/18/2004
+748661	  50	01225	     	50-1225	Cherry Hill Dr	050	King William County	050	King William County	0.34	50-1227 Cherry Hill Circle	Cul-de-Sac	80	R							X						03/18/2004
+748662	  50	01226	     	50-1226	Cherry Hill Ct	050	King William County	050	King William County	0.09	Dead End	50-1225 Cherry Hill Dr	30	R							X						03/18/2004
+748663	  50	01226	     	50-1226	Cherry Hill Ct	050	King William County	050	King William County	0.11	50-1225 Cherry Hill Dr	Dead End	20	R							X						03/18/2004
+748664	  50	01227	     	50-1227	Cherry Hill Circle	050	King William County	050	King William County	0.35	Dead End	50-1225 Cherry Hill Dr	100	R							X						03/18/2004
+748665	  50	01227	     	50-1227	Cherry Hill Circle	050	King William County	050	King William County	0.45	50-1225 Cherry Hill Dr	Dead End	100	R							X						03/18/2004
+748666	  50	01228	     	50-1228	Gwynne Dr	050	King William County	050	King William County	0.15	Dead End	50-1229 Pin Oak Ct	110	R							X						03/18/2004
+748667	  50	01228	     	50-1228	Gwynne Dr	050	King William County	050	King William County	0.16	50-1229 Pin Oak Ct	50-1231 Oak Springs Circle	420	R							X						03/18/2004
+748668	  50	01229	     	50-1229	Pin Oak Ct	050	King William County	050	King William County	0.12	Cul-de-Sac	50-1228 Gwynne Dr	140	R							X						03/18/2004
+748669	  50	01230	     	50-1230	Oak Springs Dr	050	King William County	050	King William County	0.84	Dead End	50-606 Commins Rd	610	R							X						03/18/2004
+748670	  50	01231	     	50-1231	Oak Springs Circle	050	King William County	050	King William County	0.05	Dead End	50-1228 Gwynne Dr	490	R							X						03/18/2004
+748671	  50	01231	     	50-1231	Oak Springs Circle	050	King William County	050	King William County	0.11	50-1228 Gwynne Dr	50-1230 Oak Springs Dr	120	R							X						03/18/2004
+748672	  50	01231	     	50-1231	Oak Springs Circle	050	King William County	050	King William County	0.17	50-1230 Oak Springs Dr	Cul-de-Sac	150	R							X						03/18/2004
+748673	  50	01232	     	50-1232	Willow Oak Court	050	King William County	050	King William County	0.08	50-1231 Oak Springs Circle	Cul-de-Sac	50	R							X						03/18/2004
+748674	  50	01233	     	50-1233	Corann Dr	050	King William County	050	King William County	0.41	50-1230 Oak Springs Dr	Cul-de-Sac	150	R							X						03/18/2004
+748675	  50	01234	     	50-1234	Manquin Ct	050	King William County	050	King William County	0.13	Cul-de-Sac	50-1235 Manquin Dr	60	R							X						04/17/2007
+748676	  50	01235	     	50-1235	Manquin Dr	050	King William County	050	King William County	0.10	50-605 Manfield Rd	50-1239 Wysor Dr	590	R							X						03/08/2004
+748677	  50	01235	     	50-1235	Manquin Dr	050	King William County	050	King William County	0.23	50-1239 Wysor Dr	50-1236 S, Rainwater Dr	290	R							X						03/08/2004
+748678	  50	01235	     	50-1235	Manquin Dr	050	King William County	050	King William County	0.30	50-1236 S, Rainwater Dr	50-1236 N, N Moncuin Dr; Rainwater Dr	170	R							X						03/08/2004
+748679	  50	01236	     	50-1236	Rainwater Dr	050	King William County	050	King William County	0.45	50-1235 S, Manquin Dr	50-1235 N, Manquin Dr	140	R							X						03/08/2004
+748680	  50	01236	     	50-1236	N Moncuin Dr	050	King William County	050	King William County	0.13	50-1235 N, Manquin Dr	Cul-de-Sac	70	R							X						03/08/2004
+748681	  50	01237	     	50-1237	Kendall Dr	050	King William County	050	King William County	0.12	50-605 Manfield Rd	50-1238 Devonshire Dr	190	R							X						03/08/2004
+748682	  50	01238	     	50-1238	Devonshire Dr	050	King William County	050	King William County	0.32	50-1237 Kendall Dr	Cul-de-Sac	130	R							X						03/08/2004
+748683	  50	01239	     	50-1239	Wysor Dr	050	King William County	050	King William County	0.17	50-1235 Manquin Dr	Cul-de-Sac	60	R							X						03/08/2004
+748684	  50	01240	     	50-1240	Maple Rd	050	King William County	050	King William County	0.18	SR 30 King William Rd	50-611 Venter Rd	110	R							X						04/09/2007
+748685	  50	01241	     	50-1241	Holly Rd	050	King William County	050	King William County	0.09	SR 30 King William Rd	50-1242 S, Poplar Rd; Lamae Circle	630	R							X						04/09/2007
+748686	  50	01241	     	50-1241	Holly Rd	050	King William County	050	King William County	0.12	50-1242 S, Poplar Rd; Lamae Circle	50-1242 MID	450	R							X						04/09/2007
+748687	  50	01241	     	50-1241	Holly Rd	050	King William County	050	King William County	0.08	50-1242 MID	50-1242 N, Poplar Rd	390	R							X						04/09/2007
+748688	  50	01241	     	50-1241	Holly Rd	050	King William County	050	King William County	0.09	50-1242 N, Poplar Rd	50-611 Venter Rd	370	R							X						04/09/2007
+748689	  50	01242	     	50-1242	Lamae Circle	050	King William County	050	King William County	0.37	50-1241 MID	50-1241 S, Holly Rd	110	R							X						04/09/2007
+748690	  50	01242	     	50-1242	Poplar Rd	050	King William County	050	King William County	0.21	50-1241 S, Holly Rd	50-1241 N, Holly Rd	60	R							X						04/09/2007
+790960	  50	01242	     	50-1242	Poplar Rd	050	King William County	050	King William County	0.22	50-1241 N, Holly Rd	Cul-de-Sac	170	R							X						04/09/2007
+786453	  50	01243	     	50-1243	Rosewood Court	050	King William County	050	King William County	0.14	50-1223 Rosebud Run	Cul-de-Sac	80	R							X						03/18/2004
+786454	  50	01244	     	50-1244	Dogwood Ct	050	King William County	050	King William County	0.18	50-1223 Rosebud Run	Cul-de-Sac	270	R							X						03/18/2004
+786455	  50	01245	     	50-1245	Courtney Lane	050	King William County	050	King William County	0.49	50-1244 Dogwood Ct	Cul-de-Sac	200	R							X						03/18/2004
+786456	  50	01246	     	50-1246	Breezwood Court	050	King William County	050	King William County	0.07	Cul-de-Sac	50-1245 Courtney Lane	30	R							X						03/18/2004
+786457	  50	01247	     	50-1247	Willow Court	050	King William County	050	King William County	0.03	50-1245 Courtney Lane	Cul-de-Sac	20	R							X						03/18/2004
+793131	  50	01250	     	50-1250	McCauley Pkwy	050	King William County	050	King William County	0.58	Cul-de-Sac	SR 30 King William Rd	0	?							X
+793132	  50	01251	     	50-1251	Pollard Place	050	King William County	050	King William County	0.57	Cul-de-Sac	SR 30 King William Rd	0	?							X
+793133	  50	01252	     	50-1252	McCauley Court	050	King William County	050	King William County	0.04	Cul-de-Sac	50-1250 McCauley Pkwy	0	?							X
+793134	  50	01253	     	50-1253	Carlton Court	050	King William County	050	King William County	0.13	Cul-de-Sac	50-1250 McCauley Pkwy	0	?							X
+793135	  50	01254	     	50-1254	Wilt Way	050	King William County	050	King William County	0.04	50-1250 McCauley Pkwy	Cul-de-Sac	0	?							X
+793136	  50	01255	     	50-1255	Eliza Lane	050	King William County	050	King William County	0.10	50-1250 McCauley Pkwy	50-1251 Pollard Place	0	?							X
+793137	  50	01256	     	50-1256	Shelby Court	050	King William County	050	King William County	0.14	50-1251 Pollard Place	Cul-de-Sac	0	?							X
+793138	  50	01257	     	50-1257	Eula Court	050	King William County	050	King William County	0.04	Cul-de-Sac	50-1251 Pollard Place	0	?							X
+797046	  50	01268	     	50-1268	 	050	King William County	050	King William County	0.42	50-1270; 50-1271	SR 30 King William Rd	0	?							X
+797047	  50	01269	     	50-1269	 	050	King William County	050	King William County	0.07	50-1268	Cul-de-Sac	0	?							X
+797048	  50	01270	     	50-1270	 	050	King William County	050	King William County	0.05	50-1268	Cul-de-Sac	0	?							X
+797049	  50	01271	     	50-1271	 	050	King William County	050	King William County	0.14	Cul-de-Sac	50-1268	0	?							X
+797050	  50	01272	     	50-1272	 	050	King William County	050	King William County	0.02	50-1271	Cul-de-Sac	0	?							X
+797051	  50	01275	     	50-1275	 	050	King William County	050	King William County	0.16	Cul-de-Sac	SR 30 King William Rd	0	?							X
+797052	  50	01276	     	50-1276	 	050	King William County	050	King William County	0.19	Cul-de-Sac	50-1275	0	?							X
+797053	  50	01277	     	50-1277	 	050	King William County	050	King William County	0.10	Cul-de-Sac	50-1275	0	?							X
+797054	  50	01278	     	50-1278	 	050	King William County	050	King William County	0.06	Cul-de-Sac	50-1277	0	?							X
+748691	  50	01301	     	50-1301	Courthouse Lane	050	King William County	050	King William County	0.21	SR 30 W, King William Rd	50-619 Horse Landing Rd	140	R							X						04/02/2007
+748692	  50	01301	     	50-1301	Courthouse Lane	050	King William County	050	King William County	0.21	50-619 Horse Landing Rd	SR 30 E, King William Rd	200	R							X						04/02/2007
+748693	  50	01400	     	50-1400	Pocket Rd	050	King William County	050	King William County	0.68	Dead End	50-673 Pocahontas Trail	70	R							X						03/29/2004
+748694	  50	01401	     	50-1401	Lay Landing Rd	050	King William County	050	King William County	0.35	50-673 Lay Landing Rd; Pamunkey River Rd	Cul-de-Sac	100	R							X						03/29/2004
+748695	  50	01402	     	50-1402	Spring Creek Rd	050	King William County	050	King William County	0.30	Cul-de-Sac	50-673 Pocahontas Trail; Lay Landing Rd	50	R							X						03/29/2004
+748696	  50	01403	     	50-1403	Cornfield Rd	050	King William County	050	King William County	0.30	Cul-de-Sac	50-673 Lay Landing Rd	30	R							X						03/29/2004
+748697	  50	09205	     	50-9205	West Point Elem Sch	325	Town of West Point	050	King William County	0.11	50-1006 Thompson Ave	West Point Schools	340	R							X						03/28/2007
+748698	  50	09214	     	50-9214	King William HS	050	King William County	050	King William County	0.19	SR 30 King William Rd	King William HS	280	R							X						04/23/2007
+748699	  50	09406	     	50-9406	West Point HS	325	Town of West Point	050	King William County	0.11	50-1004 Mattaponi Ave	West Point HS	300	R							X						03/28/2007
+748700	  50	09407	     	50-9407	West Point Elem Sch	325	Town of West Point	050	King William County	0.05	50-1006 Thompson Ave	50-1006 Thompson Ave	110	R							X						04/19/2004
+748701	  50	09466	     	50-9466	Hamilton Holmes Middle Sch	050	King William County	050	King William County	0.14	SR 30 King William Rd	SR 30 King William Rd	250	R							X						04/01/2004
+793139	  50	09470	     	50-9470	Acquinton Church Rd	050	King William County	050	King William County	0.17	50-629 Acquinton Church Rd	SR 30 King William Rd	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,1043 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Amherst Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030269	  US	00029	     	US 29	 	005	Amherst County	005	Amherst County	1.09	NCL Lynchburg	SR 210	16000	G	93%	0%	0%	0%	6%	0%	F	0.0896	F	0.5303	16000	G	2009
+030270	  US	00029	     	US 29	 	005	Amherst County	005	Amherst County	3.77	SR 210	SR 130	16000	G	93%	0%	0%	0%	6%	0%	F	0.0882	F	0.5002	15000	G	2009
+030275	  US	00029	     	US 29	 	005	Amherst County	005	Amherst County	7.15	SR 130	SCL Amherst; Bus US 29	14000	G	93%	0%	0%	0%	6%	0%	F	0.0806	F	0.5331	13000	G	2009
+030286	  US	00029	     	US 29	 	163	Town of Amherst	005	Amherst County	1.72	SCL Amherst; Bus US 29	US 60 Richmond Hwy	21000	G	93%	0%	0%	0%	6%	0%	F	0.0773	F	0.5132	21000	G	2009
+030287	  US	00029	     	US 29	 	163	Town of Amherst	005	Amherst County	1.45	US 60 Richmond Hwy	BUS US 29 Near NCL Amherst	17000	G	93%	0%	0%	0%	6%	0%	F	0.0776	F	0.5129	17000	G	2009
+030189	  US	00029	     	US 29	N Amherst Hwy	163	Town of Amherst	005	Amherst County	0.64	BUS US 29 Near NCL Amherst	NCL Amherst	17000	N	93%	0%	0%	0%	6%	0%	N	0.0786	N	0.5103	17000	N	2009
+030188	  US	00029	     	US 29	N Amherst Hwy	005	Amherst County	005	Amherst County	1.35	NCL Amherst	SR 151 North of Amherst	17000	G	93%	0%	0%	0%	6%	0%	F	0.0786	F	0.5103	17000	G	2009
+030186	  US	00029	     	US 29	N Amherst Hwy	005	Amherst County	005	Amherst County	4.10	SR 151 North of Amherst	Nelson County Line	13000	G	93%	0%	0%	0%	6%	0%	F	0.0783	F	0.5799	13000	G	2009
+030316	C5US	00029	     	Bus US 29	 	005	Amherst County	005	Amherst County	1.72	NCL Lynchburg	SR 163 North of Lynchburg	25000	G	98%	0%	1%	0%	1%	0%	F	0.0914	F	0.5833	26000	G	2009
+030284	C5US	00029	     	Bus US 29	S Amherst Hwy	005	Amherst County	005	Amherst County	2.54	SR 163 North of Lynchburg	SR 130 Elon Rd	26000	G	98%	0%	1%	0%	1%	0%	F	0.0845	F	0.5379	25000	G	2009
+030285	C5US	00029	     	Bus US 29	S Amherst Hwy	005	Amherst County	005	Amherst County	2.11	SR 130 Elon Rd	05-657 Cedar Gate Rd	13000	G	93%	0%	0%	0%	6%	0%	F	0.0838	F	0.5197	12000	G	2009
+030263	C5US	00029	     	Bus US 29	S Amherst Hwy	005	Amherst County	005	Amherst County	0.89	05-657 Cedar Gate Rd	05-671 Bruner Rd	13000	G	98%	0%	1%	0%	1%	0%	F	0.0840	F	0.5213	13000	G	2009
+030485	C5US	00029	     	Bus US 29	S Amherst Hwy	005	Amherst County	005	Amherst County	2.42	05-671 Bruner Rd	05-663	10000	G	98%	0%	1%	0%	1%	0%	F	0.0816	F	0.5500	10000	G	2009
+030261	C5US	00029	     	Bus US 29	S Amherst Hwy	005	Amherst County	005	Amherst County	2.64	05-663	US 29 South of Amherst	11000	G	98%	0%	1%	0%	1%	0%	F	0.0797	F	0.5090	11000	G	2009
+030212	C6US	00029	     	Bus US 29	 	005	Amherst County	005	Amherst County	1.61	US 29 South of Amherst	SCL Amherst	3600	G	98%	0%	1%	0%	1%	0%	C	0.0888	F	0.5684	3900	G	2009
+030213	C6US	00029	     	Bus US 29	S Main St	163	Town of Amherst	005	Amherst County	0.86	SCL Amherst	US 60 Lexington Tpke	3600	N	98%	0%	1%	0%	1%	0%	N	0.0888	N	0.5684	3900	N	2009
+030122	C6US	00029	     	Bus US 29	N Main St	163	Town of Amherst	005	Amherst County	1.07	US 60 Lexington Tpke	NCL Amherst	2700	G	98%	0%	1%	0%	1%	0%	F	0.0834	F	0.5725	3000	G	2009
+030123	C6US	00029	     	Bus US 29	 	005	Amherst County	005	Amherst County	0.20	NCL Amherst	US 29 North of Amherst	2700	N	98%	0%	1%	0%	1%	0%	N	0.0834	N	0.5725	3000	N	2009
+787364	  SR	00048	     	VA 48	Blue Ridge Parkway	005	Amherst County	US 	Federal	2.38	Bedford County Line	SR 130	520	O							X						2009
+787492	  SR	00048	     	VA 48	Blue Ridge Parkway	005	Amherst County	US 	Federal	15.86	SR 130	Rockbridge County Line	280	O							X						2009
+030005	  US	00060	     	US 60	Lexington Tpke	005	Amherst County	005	Amherst County	9.42	Rockbridge County Line	05-635 Forks of Buffalo	830	G	81%	1%	2%	5%	11%	0%	C	0.0973	F	0.6522	900	G	2009
+030003	  US	00060	     	US 60	Lexington Tpke	005	Amherst County	005	Amherst County	6.92	05-635 Forks of Buffalo	05-778 West of Amherst	1300	G	81%	1%	2%	5%	11%	0%	F	0.0972	F	0.5103	1400	G	2009
+030001	  US	00060	     	US 60	Lexington Tpke	005	Amherst County	005	Amherst County	5.30	05-778 West of Amherst	WCL Amherst	2400	G	81%	1%	2%	5%	11%	0%	F	0.0995	F	0.5642	2600	G	2009
+030002	  US	00060	     	US 60	Lexington Tpke	163	Town of Amherst	005	Amherst County	0.44	WCL Amherst	Bus US 29 Main St	2400	N	81%	1%	2%	5%	11%	0%	N	0.0995	N	0.5642	2600	N	2009
+030290	  US	00060	     	US 60	 	163	Town of Amherst	005	Amherst County	0.45	Bus US 29 Main St	US 29 By-Pass East of Amherst	6900	G	81%	1%	2%	5%	11%	0%	F	0.0873	F	0.5284	7500	G	2009
+030289	  US	00060	     	US 60	Richmond Hwy	163	Town of Amherst	005	Amherst County	0.18	US 29 By-pass East of Amherst	ECL Amherst	4800	G	91%	0%	1%	1%	7%	0%	C	0.0812	F	0.5978	5200	G	2009
+030320	  US	00060	     	US 60	Richmond Hwy	005	Amherst County	005	Amherst County	4.04	ECL Amherst	05-600	4800	N	91%	0%	1%	1%	7%	0%	N	0.0812	N	0.5978	5200	N	2009
+030288	  US	00060	     	US 60	Richmond Hwy	005	Amherst County	005	Amherst County	4.05	05-600	Nelson County Line	1800	G	91%	0%	1%	1%	7%	0%	F	0.0775	F	0.5222	1900	G	2009
+030295	  SR	00130	     		 	005	Amherst County	005	Amherst County	3.94	Rockbridge County Line	US 501 Near Snowden	1700	G	84%	1%	2%	2%	11%	0%	C	0.0877	F	0.5690	1900	G	2009	
+030293	  SR	00130	     	VA 130	Elon Rd	005	Amherst County	005	Amherst County	9.45	US 501 Near Snowden	05-635 Near Agricola	1500	G	91%	0%	1%	1%	7%	0%	F	0.0830	F	0.6316	1600	G	2009
+030292	  SR	00130	     	VA 130	Elon Rd	005	Amherst County	005	Amherst County	4.08	05-635 Near Agricola	05-652 Elon	3200	G	91%	0%	1%	1%	7%	0%	C	0.0867	F	0.6076	3400	G	2009
+030291	  SR	00130	     	VA 130	Elon Rd	005	Amherst County	005	Amherst County	3.86	05-652 Elon	05-679	5100	G	91%	0%	1%	1%	7%	0%	F	0.0957	F	0.6287	5600	G	2009
+030496	  SR	00130	     	VA 130	Elon Rd	005	Amherst County	005	Amherst County	2.10	05-679	Bus US 29	6500	G	91%	0%	1%	1%	7%	0%	F	0.0998	F	0.6216	7000	G	2009
+030500	  SR	00130	     	VA 130	Elon Rd	005	Amherst County	005	Amherst County	2.05	Bus US 29	US 29	7300	G	94%	0%	1%	1%	4%	0%	C	0.0948	F	0.5111	7900	G	2009
+030499	  SR	00130	     	VA 130	Elon Rd	005	Amherst County	005	Amherst County	0.48	US 29	05-669	3900	G	98%	0%	1%	0%	0%	0%	C	0.0985	F	0.6745	4200	G	2009
+030007	  SR	00151	     	VA 151	Patrick Henry Hwy	005	Amherst County	005	Amherst County	6.34	US 29 N Amherst Hwy	Nelson County Line	2200	G	93%	0%	1%	3%	2%	0%	C	0.0932	F	0.5701	2100	G	2009
+030438	  SR	00163	     	VA 163	Amherst Hwy	005	Amherst County	005	Amherst County	1.64	NCL Lynchburg	Bus US 29	10000	G	99%	0%	0%	0%	1%	0%	C	0.0827	F	0.6108	11000	G	2009
+030495	  SR	00210	     	VA 210	Colony Rd	005	Amherst County	005	Amherst County	0.54	SR 163 Amherst Hwy	Bus US 29 Lynchburg Hwy	4400	G	96%	0%	1%	0%	3%	0%	C	0.1003	F	0.6326	4800	G	2009
+030501	  SR	00210	     	VA 210	 	005	Amherst County	005	Amherst County	0.19	Bus US 29 Lynchburg Hwy	05-622 CVT Rd	12000	G	96%	0%	1%	0%	3%	0%	F	0.1003	N	0.6326	13000	G	2009
+030503	  SR	00210	     	VA 210	 	005	Amherst County	005	Amherst County	2.41	05-622 CVT Rd	US 29	0	?							X
+030009	  US	00501	     	US 501	 	005	Amherst County	005	Amherst County	0.14	Bedford County Line	SR 130 Elon Rd	1300	G	84%	1%	2%	1%	12%	0%	F	0.0927	F	0.5983	1500	G	2009
+030295	  US	00501	     		 	005	Amherst County	005	Amherst County	3.94	SR 130 Elon Rd	Rockbridge County Line	1700	G	84%	1%	2%	2%	11%	0%	C	0.0877	F	0.5690	1900	G	2009
+780570	  FR	00622	     	FR 622	River James Dr	005	Amherst County	005	Amherst County	0.48	Bus US 29; 05-1034	05-1028; 05-1040	940	R							X						04/30/2007
+780571	  FR	00623	     	FR 623	Landale Farm Dr	005	Amherst County	005	Amherst County	0.23	Dead End	Bus US 29; 05-671 NORTH	20	R							X						04/05/2007
+797578	  FR	01073	     	FR 1073	 	005	Amherst County	005	Amherst County	0.04	Bus US 29	Cul-de-Sac	0	?							X
+797689	  FR	01230	     	FR 1230	 	005	Amherst County	005	Amherst County	0.66	05-672 Riverview Rd	Cul-de-Sac	0	?							X
+797690	  FR	01231	     	FR 1231	 	005	Amherst County	005	Amherst County	0.89	Cul-de-Sac	05-622 Galts Mill Rd	0	?							X
+403807	  05	00600	     	05-600	Riverville Rd	005	Amherst County	005	Amherst County	3.60	US 60 Richmond Hwy	05-601	610	G	98%	1%	0%	0%	0%	0%	C	0.1280	F	0.6222	660	G	2009
+403808	  05	00600	     	05-600	Riverville Rd	005	Amherst County	005	Amherst County	1.39	05-601	05-823	430	G	98%	1%	0%	0%	0%	0%	F	0.1571	F	0.7532	470	G	2009
+702982	  05	00600	     	05-600	 	005	Amherst County	005	Amherst County	0.50	05-823	05-622	270	R							X						06/15/2004
+702983	  05	00600	     	05-600	 	005	Amherst County	005	Amherst County	1.00	05-622	Dead End	60	R							X						06/15/2004
+702984	  05	00601	     	05-601	 	005	Amherst County	005	Amherst County	2.14	05-600	05-846 NORTH	140	R							X						06/15/2004
+702985	  05	00601	     	05-601	 	005	Amherst County	005	Amherst County	0.25	05-846 SOUTH	05-622	60	R							X						06/15/2004
+702986	  05	00602	     	05-602	Park Lane	005	Amherst County	005	Amherst County	0.40	US 60 Richmond Hwy	Dead End	110	R							X						03/07/2007
+702987	  05	00603	     	05-603	Rocky Creek Lane	005	Amherst County	005	Amherst County	0.35	US 60 Richmond Hwy	0.35 MN US 60	30	R							X						03/07/2007
+702988	  05	00603	     	05-603	Rocky Creek Lane	005	Amherst County	005	Amherst County	0.15	0.35 MN US 60	Dead End	20	R							X						03/07/2007
+403809	  05	00604	     	05-604	S Coolwell Dr	005	Amherst County	005	Amherst County	1.42	Bus US 29	05-671 N, Possum Island Rd	2200	G	98%	0%	1%	1%	0%	0%	C	0.0932	F	0.5870	2400	G	2009
+403810	  05	00604	     	05-604	S Coolwell Dr	005	Amherst County	005	Amherst County	1.70	05-671 N, Possum Island Rd	05-663 SOUTH	1800	G	98%	0%	1%	1%	0%	0%	F	0.0980	F	0.5473	2000	G	2009
+403811	  05	00604	     	05-604	S Coolwell Dr	005	Amherst County	005	Amherst County	0.57	05-663 South	05-663 North	1600	G	96%	1%	2%	1%	1%	0%	C	0.1025	F	0.5275	1800	G	2009
+403812	  05	00604	     	05-604	Bobwhite Rd	005	Amherst County	005	Amherst County	0.63	05-663 North	05-840	920	G	96%	1%	2%	1%	1%	0%	F	0.0952	F	0.5634	990	G	2009
+403813	  05	00604	     	05-604	Bobwhite Rd	005	Amherst County	005	Amherst County	1.09	05-840	05-670 Partridge Creek Rd	520	G	96%	1%	2%	1%	0%	0%	C	0.1137	F	0.6190	560	G	2009
+403814	  05	00604	     	05-604	Bobwhite Dr	005	Amherst County	005	Amherst County	1.07	05-670 Partridge Creek Rd	05-624 N, Higginbotham Creek Rd	950	G	96%	1%	2%	1%	0%	0%	F	0.1064	F	0.5362	1000	G	2009
+403815	  05	00604	     	05-604	Ebeneezer Rd	005	Amherst County	005	Amherst County	2.23	05-624 N, Higginbotham Creek Rd	05-659 North	870	G	96%	1%	2%	1%	0%	0%	F	0.1106	F	0.6085	940	G	2009
+403816	  05	00604	     	05-604	Union Hill Dr	005	Amherst County	005	Amherst County	0.68	05-659 North	US 60 Richmond Hwy	290	G	96%	1%	2%	1%	0%	0%	F	0.1149	F	0.5833	310	G	2009
+702989	  05	00605	     	05-605	 	005	Amherst County	005	Amherst County	1.95	US 60 Lexington Tpke	05-633 Fiddlers Green Way	180	R							X						06/22/2004
+702990	  05	00605	     	05-605	Pedlar River Rd	005	Amherst County	005	Amherst County	3.50	05-633 Fiddlers Green Way	Rockbridge County Line	80	R							X						03/12/2007
+702991	  05	00606	     	05-606	Dulwich Dr	005	Amherst County	005	Amherst County	0.40	05-659	US 60 W, Richmond Hwy	940	R							X						04/12/2007
+702992	  05	00606	     	05-606	Fox Hall Dr	005	Amherst County	005	Amherst County	1.40	US 60 E, Richmond Hwy	Dead End	90	R							X						04/12/2007
+702993	  05	00607	     	05-607	Beverly Town Rd	005	Amherst County	005	Amherst County	1.57	05-610 Pera Rd	05-640 Lovely Lady Creek Rd	10	R							X						03/12/2007
+702994	  05	00607	     	05-607	Beverly Town Rd	005	Amherst County	005	Amherst County	7.90	05-640 Lovely Lady Creek Rd	Rockbridge County Line	40	R							X						03/12/2007
+702995	  05	00608	     	05-608	Campbells Mill Rd	005	Amherst County	005	Amherst County	0.60	05-736	0.60 MS 05-736	150	R							X						04/20/2004
+702996	  05	00608	     	05-608	Campbells Mill Rd	005	Amherst County	005	Amherst County	1.75	0.60 MS 05-736	2.35 MS 05-736	60	R							X						03/22/2007
+702997	  05	00608	     	05-608	Campbells Mill Rd	005	Amherst County	005	Amherst County	0.13	2.35 MS 05-736	US 29 S, N Amherst Hwy	90	R							X						03/22/2007
+702998	  05	00608	     	05-608	 	005	Amherst County	005	Amherst County	2.70	US 29 N, N Amherst Hwy	05-739	120	R							X						04/20/2004
+702999	  05	00609	     	05-609	Stove Hill Rd	005	Amherst County	005	Amherst County	0.90	05-610	Dead End	170	R							X						03/07/2007
+703000	  05	00610	     	05-610	 	005	Amherst County	005	Amherst County	1.66	05-727	05-643 Cedar Creek Rd	100	R							X						04/06/2004
+703001	  05	00610	     	05-610	Pera Rd	005	Amherst County	005	Amherst County	3.24	05-643 Cedar Creek Rd	05-607 Beverly Town Rd	60	R							X						03/12/2007
+703002	  05	00610	     	05-610	Pera Rd	005	Amherst County	005	Amherst County	1.29	05-607 Beverly Town Rd	GW Natl For Bndy	40	R							X						03/15/2007
+703003	  05	00610	     	05-610	Pera Rd	005	Amherst County	005	Amherst County	0.60	GW Natl For Bndy	0.60 MS of For Bndy	60	R							X						03/15/2007
+703004	  05	00610	     	05-610	Pera Rd	005	Amherst County	005	Amherst County	0.11	0.60 MS of For Bndy	05-641 Dancing Creek Rd	80	R							X						03/15/2007
+703005	  05	00610	     	05-610	 	005	Amherst County	005	Amherst County	2.40	05-641 Dancing Creek Rd	05-635 S, Buffalo Springs Tpke	440	R							X						04/06/2004
+403817	  05	00610	     	05-610	Puppy Creek Rd	005	Amherst County	005	Amherst County	3.40	05-635 N, Buffalo Springs Tpke	05-636 N, Kersey Rd	110	G	99%	0%	0%	1%	0%	0%	F	0.1630	F	0.5909	120	G	2009
+403818	  05	00610	     	05-610	Puppy Creek Rd	005	Amherst County	005	Amherst County	1.77	05-636 N, Kersey Rd	05-717 Brown Town Rd	140	G	99%	0%	0%	1%	0%	0%	F	0.1367	F	0.5490	160	G	2009
+403819	  05	00610	     	05-610	Puppy Creek Rd	005	Amherst County	005	Amherst County	2.23	05-717 Brown Town Rd	US 60 Lexington Tpke	220	G	99%	0%	0%	1%	0%	0%	C	0.0912	F	0.7200	240	G	2009
+403820	  05	00610	     	05-610	Sandidges Rd	005	Amherst County	005	Amherst County	1.50	US 60 Lexington Tpke	05-617 West	210	G	99%	0%	0%	1%	0%	0%	F	0.1149	F	0.5500	230	G	2009
+403821	  05	00610	     	05-610	Sandidges Rd	005	Amherst County	005	Amherst County	1.10	05-617 West	05-625	210	G	99%	0%	0%	1%	0%	0%	F	0.1330	F	0.6197	230	G	2009
+403822	  05	00610	     	05-610	Sandidges Rd	005	Amherst County	005	Amherst County	0.30	05-625	05-778 North	330	G	99%	0%	0%	1%	0%	0%	F	0.1145	F	0.5567	360	G	2009
+703006	  05	00610	     	05-610	 	005	Amherst County	005	Amherst County	1.00	05-778 SOUTH	05-645 Mill Creek Lake Rd	210	R							X						05/04/2004
+703007	  05	00610	     	05-610	 	005	Amherst County	005	Amherst County	0.20	05-645 Mill Creek Lake Rd	0.20 ME 05-625	30	R							X						05/04/2004
+703008	  05	00610	     	05-610	Turkey Mountain Rd	005	Amherst County	005	Amherst County	2.70	0.20 ME 05-625	2.90 ME 05-625	60	R							X						03/07/2007
+703009	  05	00610	     	05-610	 	005	Amherst County	005	Amherst County	1.05	2.90 ME 05-625	05-738 Walnut Hill Rd	240	R							X						05/04/2004
+703010	  05	00610	     	05-610	Turkey Mountain Rd	005	Amherst County	005	Amherst County	0.45	05-738 Walnut Hill Rd	05-614 Moses Mountain Rd	240	R							X						03/07/2007
+703011	  05	00610	     	05-610	Turkey Mountain Rd	005	Amherst County	005	Amherst County	0.50	05-614 Moses Mountain Rd	SR 151 Patrick Henry Hwy	340	R							X						03/07/2007
+403823	  05	00610	     	05-610	Fletchers Level Rd	005	Amherst County	005	Amherst County	1.90	SR 151 Patrick Henry Hwy	US 29, N Amherst Hwy	300	G	98%	0%	0%	1%	1%	0%	C	0.1194	F	0.5556	330	G	2009
+403824	  05	00610	     	05-610	New Glasgow Rd	005	Amherst County	005	Amherst County	1.23	US 29, N Amherst Hwy	05-708	740	G	98%	0%	0%	1%	1%	0%	F	0.1085	F	0.5960	800	G	2009
+703012	  05	00610	     	05-610	 	005	Amherst County	005	Amherst County	0.35	05-708	05-739 Honey Bee Dr	350	R							X						05/04/2004
+703013	  05	00611	     	05-611	Roses Mill Rd	005	Amherst County	005	Amherst County	0.60	05-662	05-612 SOUTH	60	R							X						03/07/2007
+703014	  05	00611	     	05-611	Roses Mill Rd	005	Amherst County	005	Amherst County	0.90	05-612 SOUTH	05-674	130	R							X						03/07/2007
+703015	  05	00612	     	05-612	 	005	Amherst County	005	Amherst County	0.20	SR 151 Patrick Henry Hwy	05-611 S, Roses Mill Rd	150	R							X						03/02/2004
+703016	  05	00612	     	05-612	 	005	Amherst County	005	Amherst County	0.60	05-611 N, Roses Mill Rd	05-768 Naked Creek Lane	110	R							X						03/02/2004
+703017	  05	00612	     	05-612	Meredith Lane	005	Amherst County	005	Amherst County	0.86	05-768 Naked Creek Lane	Dead End	40	R							X						03/07/2007
+703018	  05	00613	     	05-613	Kent Moor Farm Rd	005	Amherst County	005	Amherst County	2.50	05-648 Beck Creek Rd	05-654 Mundys Mill Rd	80	R							X						04/10/2007
+703019	  05	00613	     	05-613	Kent Moor Farm Rd	005	Amherst County	005	Amherst County	0.40	05-654 Mundys Mill Rd	05-663 Brightwells Mill Rd	850	R							X						04/10/2007
+703020	  05	00614	     	05-614	Moses Mountain Rd	005	Amherst County	005	Amherst County	1.00	05-610 Turkey Mountain Rd	Dead End	30	R							X						03/07/2007
+703021	  05	00615	     	05-615	Peters Hollow Rd	005	Amherst County	005	Amherst County	1.00	Dead End	05-643	80	R							X						03/15/2007
+703022	  05	00615	     	05-615	Sardis Rd	005	Amherst County	005	Amherst County	2.55	Dead End; Gap	US 60 Lexington Tpke	170	R							X						03/15/2007
+703023	  05	00616	     	05-616	Peter Hollow Rd	005	Amherst County	005	Amherst County	0.94	US 60 Lexington Tpke	0.94 ME US 60	80	R							X						03/15/2007
+703024	  05	00616	     	05-616	West Monitor Rd	005	Amherst County	005	Amherst County	0.16	0.94 ME US 60	05-617 SOUTH	50	R							X						03/05/2007
+703025	  05	00616	     	05-616	West Monitor Rd	005	Amherst County	005	Amherst County	0.10	05-617 NORTH	0.10 MN 05-617	240	R							X						03/05/2007
+703026	  05	00616	     	05-616	 	005	Amherst County	005	Amherst County	0.80	0.10 MN 05-617	05-692 Muddy Branch Rd	170	R							X						04/20/2004
+703027	  05	00616	     	05-616	 	005	Amherst County	005	Amherst County	1.40	05-692 Muddy Branch Rd	Dead End	150	R							X						04/20/2004
+405435	  05	00617	     	05-617	Bailey Sawmill Rd	005	Amherst County	005	Amherst County	0.65	US 60 Lexington Tpke	05-616 N, West Monitor Rd	350	G	98%	1%	0%	0%	0%	0%	C	0.1083	F	0.7674	380	G	2009
+703028	  05	00617	     	05-617	 	005	Amherst County	005	Amherst County	1.40	05-616 N, West Monitor Rd	05-692 Longbranch Dr	120	R							X						04/20/2004
+703029	  05	00617	     	05-617	 	005	Amherst County	005	Amherst County	0.20	05-692 Longbranch Dr	0.20 MN 05-692	50	R							X						04/20/2004
+703030	  05	00617	     	05-617	Poorhouse Farm Rd	005	Amherst County	005	Amherst County	1.69	0.20 MN 05-692	1.89 MN 05-692	40	R							X						03/05/2007
+703031	  05	00617	     	05-617	Poorhouse Farm Rd	005	Amherst County	005	Amherst County	0.41	1.89 MN 05-692	05-778 NORTH	40	R							X						03/05/2007
+703032	  05	00617	     	05-617	Thrashers Creek Rd	005	Amherst County	005	Amherst County	1.40	05-778 NORTH	05-610 EAST	30	R							X						03/05/2007
+703033	  05	00617	     	05-617	 	005	Amherst County	005	Amherst County	1.80	05-610 WEST	05-631 WEST	140	R							X						05/04/2004
+403826	  05	00617	     	05-617	Thrashers Creek Rd	005	Amherst County	005	Amherst County	1.00	05-631 West	05-627	130	G	94%	1%	4%	1%	0%	0%	C	0.1342	F	0.6500	140	G	2009
+703034	  05	00617	     	05-617	Poorhouse Farm Rd	005	Amherst County	005	Amherst County	1.39	05-627	1.39 MN 05-627	120	R							X						03/12/2007
+703035	  05	00617	     	05-617	Thrashers Creek Rd	005	Amherst County	005	Amherst County	0.61	1.39 MN 05-627	Dead End	60	R							X						03/12/2007
+703036	  05	00618	     	05-618	Mt Tabor Rd	005	Amherst County	005	Amherst County	0.40	SR 130 Elon Rd	Dead End	190	R							X						03/07/2007
+703037	  05	00619	     	05-619	Bearfield Rd	005	Amherst County	005	Amherst County	1.11	Dead End	1.11 MN Dead End	49	R							X						03/07/2007
+703038	  05	00619	     	05-619	Bearfield Rd	005	Amherst County	005	Amherst County	1.20	1.11 MN Dead End	05-735 Maple Run Rd	150	R							X						03/07/2007
+703039	  05	00620	     	05-620	Totsie Floyd Rd	005	Amherst County	005	Amherst County	0.60	05-778	05-665	20	R							X						03/05/2007
+703040	  05	00621	     	05-621	Indian Creek Rd	005	Amherst County	005	Amherst County	1.80	Dead End	05-687 Scotts Branch	40	R							X						03/12/2007
+703041	  05	00621	     	05-621	Indian Creek Rd	005	Amherst County	005	Amherst County	0.20	05-687 Scotts Branch	05-746 Paige Mountain Way	60	R							X						03/12/2007
+703042	  05	00621	     	05-621	Indian Creek Rd	005	Amherst County	005	Amherst County	0.50	05-746 Paige Mountain Way	05-625 Gidsville Rd	90	R							X						03/12/2007
+403827	  05	00621	     	05-621	Indian Creek Rd	005	Amherst County	005	Amherst County	3.10	05-625 Gidsville Rd	05-778	140	G	94%	1%	3%	1%	0%	0%	C	0.0973	F	0.5556	150	G	2009
+403828	  05	00621	     	05-621	Warrick Barn Rd	005	Amherst County	005	Amherst County	0.10	05-778	05-694	280	G	94%	1%	3%	1%	0%	0%	F	0.1076	F	0.5467	300	G	2009
+030294	  05	00622	     	05-622	Colony Rd	005	Amherst County	005	Amherst County	0.26	SR 334 Lynchburg Training School and Hospital Road	05-833; CVT Rd	5200	G							X	0.0894	F	0.5034	5500	G	2009
+030453	  05	00622	     	05-622	CVT Rd	005	Amherst County	005	Amherst County	0.13	05-833 Colony Rd	SR 210	0	?							X
+703043	  05	00622	     	05-622	CVT Rd	005	Amherst County	005	Amherst County	0.62	SR 210	05-842 Old Wright Shop Rd	7800	R							X						03/02/2004
+703044	  05	00622	     	05-622	Wright Shop Rd	005	Amherst County	005	Amherst County	0.18	05-842; CVT Rd	05-833 W; New Wright Shop Rd	7200	R							X						03/02/2004
+403829	  05	00622	     	05-622	New Wright Shop Rd	005	Amherst County	005	Amherst County	1.51	05-833 W. Old Wright Shop Rd	05-833 E, Old Wright Shop Rd	2900	G	99%	0%	1%	0%	0%	0%	C	0.1034	F	0.6728	3100	G	2009
+403830	  05	00622	     	05-622	New Wright Shop Rd	005	Amherst County	005	Amherst County	0.29	05-833 E, Old Wright Shop Rd	05-677 Dixie Airport Rd	4500	G	99%	0%	1%	0%	0%	0%	F	0.0985	F	0.6626	4900	G	2009
+403831	  05	00622	     	05-622	Galts Mill Rd	005	Amherst County	005	Amherst County	2.04	05-677 Dixie Airport Rd	05-663 Brightwells Mill Rd	1400	G	99%	0%	1%	0%	0%	0%	F	0.0884	F	0.5927	1600	G	2009
+403832	  05	00622	     	05-622	Galts Mill Rd	005	Amherst County	005	Amherst County	3.04	05-663 Brightwells Mill Rd	05-648 Beck Creek Rd	220	G	99%	0%	1%	0%	0%	0%	F	0.1113	F	0.7273	240	G	2009
+403833	  05	00622	     	05-622	Galts Mill Rd	005	Amherst County	005	Amherst County	2.38	05-648 Beck Creek Rd	05-624 S, Earley Farm Rd	270	G	99%	0%	1%	0%	0%	0%	F	0.1003	F	0.6000	300	G	2009
+403834	  05	00622	     	05-622	Stapleton Rd	005	Amherst County	005	Amherst County	6.40	05-624 S, Earley Farm Rd	05-823	80	G	99%	0%	1%	0%	0%	0%	F	0.1381	F	0.6800	90	G	2009
+403835	  05	00622	     	05-622	 	005	Amherst County	005	Amherst County	1.17	05-823	05-846	650	G	41%	1%	1%	3%	54%	0%	C	0.0988	F	0.5526	710	G	2009
+703045	  05	00622	     	05-622	 	005	Amherst County	005	Amherst County	2.55	05-846	Nelson County Line	220	R							X						06/15/2004
+405438	  05	00624	     	05-624	Sweet Briar Lane	005	Amherst County	005	Amherst County	0.43	05-661 Stage Rd	05-681 N, Old Stage Rd	530	G	99%	0%	1%	0%	0%	0%	C	0.0915	F	0.5085	580	G	2009
+403837	  05	00624	     	05-624	Higginbotham Creek Rd	005	Amherst County	005	Amherst County	1.70	05-661 S, Old Stage Rd	05-604 N, Ebenezer Rd	220	G	97%	3%	0%	0%	0%	0%	C	0.1315	F	0.7273	240	G	2009
+703046	  05	00624	     	05-624	Earley Farm Rd	005	Amherst County	005	Amherst County	2.79	05-604 S, Ebenezer Rd	2.79 ME 05-604	450	R							X						03/02/2004
+703047	  05	00624	     	05-624	Earley Farm Rd	005	Amherst County	005	Amherst County	5.17	2.79 ME 05-604	05-814 Morcom Dr	80	R							X						04/05/2007
+703048	  05	00624	     	05-624	Earley Farm Rd	005	Amherst County	005	Amherst County	0.10	05-814 Morcom Dr	05-622 S, Stapleton Rd; Galts Mill Rd	70	R							X						03/02/2004
+703049	  05	00624	     	05-624	Early Farm Rd	005	Amherst County	005	Amherst County	0.45	05-622 N, Stapleton Rd	Dead End	40	R							X						04/05/2007
+403838	  05	00625	     	05-625	Gidsville Rd	005	Amherst County	005	Amherst County	0.27	05-610	05-830 Stone House Lake Rd	230	G	96%	0%	2%	1%	0%	0%	F	0.1238	F	0.6250	250	G	2009
+403839	  05	00625	     	05-625	Gidsville Rd	005	Amherst County	005	Amherst County	1.63	05-830 Stone House Lake Rd	05-627 SOUTH	170	G	96%	0%	2%	1%	0%	0%	C	0.1495	F	0.5172	180	G	2009
+703050	  05	00625	     	05-625	Gidsville Rd	005	Amherst County	005	Amherst County	0.30	05-627 SOUTH	05-627 NORTH	180	R							X						03/12/2007
+703051	  05	00625	     	05-625	Gidsville Rd	005	Amherst County	005	Amherst County	2.10	05-627 NORTH	05-621 Indian Creek Rd	120	R							X						03/12/2007
+703052	  05	00626	     	05-626	Scotts Mansion Rd	005	Amherst County	005	Amherst County	0.60	SR 130 W, Elon Rd	SR 130 E, Elon Rd	20	R							X						03/05/2007
+703053	  05	00627	     	05-627	 	005	Amherst County	005	Amherst County	2.40	05-617 Poorhouse Farm Rd	05-625 N, Gidsville Rd	70	R							X						05/04/2004
+403840	  05	00627	     	05-627	Dug Hill Rd	005	Amherst County	005	Amherst County	1.80	05-625 S, Gidsville Rd	05-778	130	G	92%	1%	3%	2%	1%	0%	C	0.1212	F	0.7000	140	G	2009
+703054	  05	00628	     	05-628	Stroude Mountain Rd	005	Amherst County	005	Amherst County	0.95	Dead End	05-663 Brightwells Mill Rd	200	R							X						03/15/2007
+703055	  05	00629	     	05-629	Little Piney Rd	005	Amherst County	005	Amherst County	0.90	Dead End	05-698 Dismal Mountain Rd	10	R							X						03/05/2007
+703056	  05	00629	     	05-629	Little Piney Rd	005	Amherst County	005	Amherst County	1.00	05-698 Dismal Mountain Rd	1.00 ME 05-698	30	R							X						03/05/2007
+703057	  05	00629	     	05-629	Little Piney Rd	005	Amherst County	005	Amherst County	1.65	1.00 ME 05-698	GW Natl For Bndy	50	R							X						03/05/2007
+703058	  05	00629	     	05-629	Little Piney Rd	005	Amherst County	005	Amherst County	0.65	GW Natl For Bndy	05-781 Cash Town Rd	90	R							X						03/05/2007
+703059	  05	00629	     	05-629	Little Piney Rd	005	Amherst County	005	Amherst County	0.30	05-781 Cash Town Rd	05-723 Dillard Hill Rd	120	R							X						03/05/2007
+703060	  05	00629	     	05-629	 	005	Amherst County	005	Amherst County	1.50	05-723 Dillard Hill Rd	05-666	290	R							X						05/25/2004
+703061	  05	00630	     	05-630	Crawleys Creek Rd	005	Amherst County	005	Amherst County	0.54	Dead End	GW Natl For Bndy	20	R							X						03/05/2007
+703062	  05	00630	     	05-630	Crawleys Creek Rd	005	Amherst County	005	Amherst County	0.56	GW Natl For Bndy	05-723 Dillard Hill Rd	40	R							X						03/05/2007
+703063	  05	00630	     	05-630	 	005	Amherst County	005	Amherst County	0.96	05-723 Dillard Hill Rd	05-666	220	R							X						05/25/2004
+403841	  05	00631	     	05-631	Mt. Pleasant Rd	005	Amherst County	005	Amherst County	1.98	US 60	05-617 W, Thrashers Creek Rd	190	G	94%	3%	1%	1%	0%	0%	C	0.1481	F	0.6563	200	G	2009
+703064	  05	00631	     	05-631	Stonewall Creek Rd	005	Amherst County	005	Amherst County	1.88	05-617 EAST	05-625	60	R							X						03/05/2007
+703065	  05	00632	     	05-632	Emmanuel Church Rd	005	Amherst County	005	Amherst County	0.55	05-610	0.55 MW 05-610	20	R							X						03/12/2007
+703066	  05	00632	     	05-632	Emmanuel Church Rd	005	Amherst County	005	Amherst County	0.65	0.55 MW 05-610	05-631 NORTH	20	R							X						03/12/2007
+703067	  05	00632	     	05-632	 	005	Amherst County	005	Amherst County	0.20	05-631 SOUTH	05-722 Panther Mountain Rd	100	R							X						05/04/2004
+703068	  05	00632	     	05-632	Emmanuel Church Rd	005	Amherst County	005	Amherst County	1.64	05-722 Panther Mountain Rd	1.64 MN 05-722	120	R							X						03/12/2007
+703069	  05	00632	     	05-632	Franklin Creek Rd	005	Amherst County	005	Amherst County	1.16	1.64 MN 05-722	Dead End	70	R							X						03/12/2007
+703070	  05	00633	     	05-633	Fiddlers Green Way	005	Amherst County	005	Amherst County	1.20	05-605 Pedlar River Rd	05-634 Coffey Town Rd	50	R							X						03/12/2007
+703071	  05	00634	     	05-634	 	005	Amherst County	005	Amherst County	1.70	US 60 Lexington Tpke	05-755 Wiggs Spring Rd	170	R							X						06/22/2004
+703072	  05	00634	     	05-634	Coffey Town Rd	005	Amherst County	005	Amherst County	1.50	05-755 Wiggs Spring Rd	05-633 Fiddlers Green Way	70	R							X						03/12/2007
+703073	  05	00634	     	05-634	Coffey Town Rd	005	Amherst County	005	Amherst County	1.70	05-633 Fiddlers Green Way	Dead End	70	R							X						03/12/2007
+403842	  05	00635	     	05-635	Buffalo Springs Tpke	005	Amherst County	005	Amherst County	1.11	SR 130 Elon Rd	05-647 Minors Branch Rd	940	G	97%	0%	2%	1%	1%	0%	C	0.0952	F	0.5865	1000	G	2009
+403843	  05	00635	     	05-635	Buffalo Springs Tpke	005	Amherst County	005	Amherst County	0.49	05-647 Minors Branch Rd	05-643 W, Ashebey Woods Rd	950	G	97%	0%	2%	1%	1%	0%	F	0.0937	F	0.6432	1000	G	2009
+403844	  05	00635	     	05-635	Buffalo Springs Tpke	005	Amherst County	005	Amherst County	0.01	05-643 W, Ashebey Woods Rd	05-643 E, Wagon Trail Rd	970	G	97%	0%	2%	1%	1%	0%	F	0.0949	F	0.6402	1000	G	2009
+403845	  05	00635	     	05-635	Buffalo Springs Tpke	005	Amherst County	005	Amherst County	3.85	05-643 E, Wagon Trail Rd	05-610 N, Puppy Creek Rd	770	G	97%	0%	2%	1%	1%	0%	F	0.1114	F	0.5423	840	G	2009
+403846	  05	00635	     	05-635	Buffalo Springs Tpke	005	Amherst County	005	Amherst County	3.26	05-610 N, Puppy Creek Rd	05-636 North	440	G	91%	2%	2%	3%	2%	0%	C	0.1052	F	0.5818	480	G	2009
+403847	  05	00635	     	05-635	Buffalo Springs Tpke	005	Amherst County	005	Amherst County	1.99	05-636 North	US 60 E, Lexington Tpke	440	G	97%	0%	2%	1%	1%	0%	F	0.0983	F	0.6058	480	G	2009
+703074	  05	00635	     	05-635	 	005	Amherst County	005	Amherst County	1.17	US 60 W, Lexington Tpke	1.17 MN US 60	180	R							X						05/25/2004
+703078	  05	00635	     	05-635	 	005	Amherst County	005	Amherst County	0.83	1.17 MN US 60	2.00 MN US 60	60	R							X						05/25/2004
+703079	  05	00635	     	05-635	North Fork Rd	005	Amherst County	005	Amherst County	0.64	2.00 MN US 60	2.64 MN US 60	60	R							X						04/05/2007
+703080	  05	00635	     	05-635	 	005	Amherst County	005	Amherst County	0.17	2.64 MN US 60	2.81 MN US 60	60	R							X						05/25/2004
+703081	  05	00635	     	05-635	North Fork Rd	005	Amherst County	005	Amherst County	1.29	2.81 MN US 60	Dead End	20	R							X						04/05/2007
+403848	  05	00636	     	05-636	High Peak Rd	005	Amherst County	005	Amherst County	1.67	05-671	05-657 Laurel Cliff Rd	1100	G	98%	1%	0%	1%	0%	0%	C	0.1151	F	0.8095	1200	G	2009
+403849	  05	00636	     	05-636	 	005	Amherst County	005	Amherst County	1.80	05-657 Laurel Cliff Rd	05-653	430	G	98%	1%	0%	1%	0%	0%	F	0.1086	F	0.6000	460	G	2009
+703082	  05	00636	     	05-636	High Peak Rd	005	Amherst County	005	Amherst County	2.80	05-653	05-643 SOUTH	180	R							X						03/15/2007
+703083	  05	00636	     	05-636	Wares Gap Rd	005	Amherst County	005	Amherst County	1.79	05-643 N, Wagon Trail Rd	1.79 MW 05-643	40	R							X						03/15/2007
+703084	  05	00636	     	05-636	Wares Gap Rd	005	Amherst County	005	Amherst County	1.80	1.79 MW 05-643	3.59 MW 05-643	40	R							X						03/15/2007
+703085	  05	00636	     	05-636	Wares Gap Rd	005	Amherst County	005	Amherst County	1.01	3.59 MW 05-643	05-610 SOUTH	70	R							X						03/15/2007
+703086	  05	00636	     	05-636	Kersey Rd	005	Amherst County	005	Amherst County	2.00	05-610 NORTH	05-635 S, Buffalo Springs Tpke	20	R							X						03/12/2007
+703087	  05	00636	     	05-636	 	005	Amherst County	005	Amherst County	0.60	05-635 Buffalo Springs Tpke	05-637	290	R							X						04/27/2004
+703088	  05	00636	     	05-636	 	005	Amherst County	005	Amherst County	0.20	05-637	0.20 MN 05-637	100	R							X						04/27/2004
+703089	  05	00636	     	05-636	High Peak Rd	005	Amherst County	005	Amherst County	0.69	0.20 MN 05-637	GW Natl For Bndy	50	R							X						04/12/2007
+703090	  05	00636	     	05-636	High Peak Rd	005	Amherst County	005	Amherst County	0.31	GW Natl For Bndy	0.31 MN of Bndy	40	R							X						04/12/2007
+703091	  05	00636	     	05-636	High Peak Rd	005	Amherst County	005	Amherst County	2.20	0.31 MN of Bndy	Dead End	30	R							X						04/12/2007
+703092	  05	00637	     	05-637	 	005	Amherst County	005	Amherst County	0.05	05-635 Buffalo Springs Tpke	0.05 MN 05-635	10	R							X						04/27/2004
+703093	  05	00637	     	05-637	Sugar Hill Tunnel Rd	005	Amherst County	005	Amherst County	1.55	0.05 MN 05-635	1.60 MN 05-635	30	R							X						03/12/2007
+703094	  05	00637	     	05-637	Sugar Hill Tunnel Rd	005	Amherst County	005	Amherst County	2.50	1.60 MN 05-635	05-636	70	R							X						03/12/2007
+703095	  05	00638	     	05-638	 	005	Amherst County	005	Amherst County	0.32	Dead End	05-636 High Peak Rd	170	R							X						04/27/2004
+703096	  05	00639	     	05-639	 	005	Amherst County	005	Amherst County	0.20	05-761 Falconerville Rd	Dead End	30	R							X						06/15/2004
+703097	  05	00640	     	05-640	Lovely Lady Creek Rd	005	Amherst County	005	Amherst County	0.40	05-607 Beverly Town Rd	GW Natl For Bndy	160	R							X						03/12/2007
+703098	  05	00640	     	05-640	Lovely Lady Creek Rd	005	Amherst County	005	Amherst County	1.85	GW Natl For Bndy	1.85 ME For Bndy	180	R							X						03/12/2007
+703099	  05	00640	     	05-640	Lovely Lady Creek Rd	005	Amherst County	005	Amherst County	0.47	1.85 ME For Bndy	05-635 Buffalo Springs Tpke	200	R							X						03/12/2007
+703100	  05	00641	     	05-641	Dancing Creek Rd	005	Amherst County	005	Amherst County	1.10	05-643 Ashebey Woods Rd; Cedar Creek Rd	05-610 Pera Rd	20	R							X						03/15/2007
+703101	  05	00642	     	05-642	 	005	Amherst County	005	Amherst County	0.15	05-635 Buffalo Springs Tpke	05-799	230	R							X						03/30/2004
+703102	  05	00642	     	05-642	Meadow Hollow Rd	005	Amherst County	005	Amherst County	1.04	05-799	1.04 ME 05-799	40	R							X						03/15/2007
+703103	  05	00642	     	05-642	Meadow Hollow Rd	005	Amherst County	005	Amherst County	0.76	1.04 ME 05-799	Dead End	30	R							X						03/15/2007
+703104	  05	00643	     	05-643	Cedar Creek Rd	005	Amherst County	005	Amherst County	2.10	05-610 Pera Rd	05-641 Dancing Creek Rd	6	R							X						03/15/2007
+703105	  05	00643	     	05-643	Ashebey Woods Rd	005	Amherst County	005	Amherst County	1.60	05-641 Dancing Creek Rd	Dead End; Gap	8	R							X						03/15/2007
+703106	  05	00643	     	05-643	Ashebey Woods Rd	005	Amherst County	005	Amherst County	0.35	Dead End; Gap	05-644 Ramsey Rd	10	R							X						03/15/2007
+703107	  05	00643	     	05-643	Ashebey Woods Rd	005	Amherst County	005	Amherst County	1.00	05-644 Ramsey Rd	05-635 W, Buffalo Springs Tpke	30	R							X						03/15/2007
+703108	  05	00643	     	05-643	Wagon Trail Rd	005	Amherst County	005	Amherst County	0.20	05-635 E, Buffalo Springs Tpke	05-651 Lewis Keith Rd	270	R							X						03/15/2007
+703109	  05	00643	     	05-643	Wagon Trail Rd	005	Amherst County	005	Amherst County	3.70	05-651 Lewis Keith Rd	3.70 ME 05-635	220	R							X						03/15/2007
+703112	  05	00643	     	05-643	Wagon Trail Rd	005	Amherst County	005	Amherst County	1.89	3.70 ME 05-635	5.59 ME 05-635	60	R							X						03/15/2007
+703113	  05	00643	     	05-643	Wagon Trail Rd	005	Amherst County	005	Amherst County	1.01	5.59 ME 05-635	05-636 N, Wares Gap Rd	140	R							X						03/15/2007
+403850	  05	00643	     	05-643	 	005	Amherst County	005	Amherst County	3.20	05-636 N, Wares Gap Rd	05-655	280	G	97%	2%	0%	0%	0%	0%	F	0.1113	F	0.7971	310	G	2009
+403851	  05	00643	     	05-643	Kenmore Rd	005	Amherst County	005	Amherst County	5.30	05-655	Bus US 29	210	G	97%	2%	0%	0%	0%	0%	C	0.1255	F	0.6897	230	G	2009
+703114	  05	00644	     	05-644	Ramsey Rd	005	Amherst County	005	Amherst County	2.50	05-647 Minors Branch Rd	GW Natl For Bndy	150	R							X						03/07/2007
+703115	  05	00644	     	05-644	Ramsey Rd	005	Amherst County	005	Amherst County	1.20	GW Natl For Bndy	05-643 Ashebey Woods Rd	10	R							X						03/07/2007
+703116	  05	00645	     	05-645	Mill Creek Lake Rd	005	Amherst County	005	Amherst County	0.30	05-610	Dead End	50	R							X						03/05/2007
+703117	  05	00646	     	05-646	Woodrow Ave	005	Amherst County	005	Amherst County	0.49	Dead End	05-1217 Woodrow Court	170	R							X						04/19/2007
+703118	  05	00646	     	05-646	Woodrow Ave	005	Amherst County	005	Amherst County	0.21	05-1217 Woodrow Court	Bus US 29	330	R							X						04/19/2007
+703119	  05	00647	     	05-647	Waughs Ferry Crossing	005	Amherst County	005	Amherst County	3.07	Dead End	GW Natl For Bndy	40	R							X						03/07/2007
+703120	  05	00647	     	05-647	Waughs Ferry Crossing	005	Amherst County	005	Amherst County	0.93	GW Natl For Bndy	SR 130 Elon Rd	170	R							X						03/07/2007
+703121	  05	00647	     	05-647	Minors Branch Rd	005	Amherst County	005	Amherst County	0.83	SR 130 Elon Rd	05-644 Ramsey Rd	130	R							X						03/07/2007
+703122	  05	00647	     	05-647	Minors Branch Rd	005	Amherst County	005	Amherst County	0.70	05-644 Ramsey Rd	05-649 Maple Creek Rd	140	R							X						03/07/2007
+703123	  05	00647	     	05-647	Minors Branch Rd	005	Amherst County	005	Amherst County	1.69	05-649 Maple Creek Rd	05-635 Buffalo Springs Tpke	50	R							X						03/07/2007
+703124	  05	00648	     	05-648	 	005	Amherst County	005	Amherst County	0.05	Dead End	05-622 Galts Mill Rd	9	R							X						03/02/2004
+703125	  05	00648	     	05-648	Beck Creek Rd	005	Amherst County	005	Amherst County	1.66	05-622 Galts Mill Rd	05-613 Kent Moor Farm Rd	60	R							X						04/12/2007
+703126	  05	00648	     	05-648	 	005	Amherst County	005	Amherst County	1.20	05-613 Kent Moor Farm Rd	05-663 Brightwells Mill Rd	80	R							X						03/02/2004
+703127	  05	00649	     	05-649	Volley Hudson Rd	005	Amherst County	005	Amherst County	0.15	Dead End	0.15 MN Dead End	70	R							X						03/07/2007
+703128	  05	00649	     	05-649	Volley Hudson Rd	005	Amherst County	005	Amherst County	1.20	0.15 MN Dead End	1.35 MN Dead End	100	R							X						03/07/2007
+703129	  05	00649	     	05-649	Volley Hudson Rd	005	Amherst County	005	Amherst County	0.10	1.35 MN Dead End	SR 130 W, Elon Rd	140	R							X						03/07/2007
+703130	  05	00649	     	05-649	Maple Creek Rd	005	Amherst County	005	Amherst County	0.07	SR 130 E, Elon Rd	0.07 MN SR 130	170	R							X						03/07/2007
+703131	  05	00649	     	05-649	Maple Creek Rd	005	Amherst County	005	Amherst County	0.43	0.07 MN SR 130	05-647 Minors Branch Rd	170	R							X						03/07/2007
+703132	  05	00650	     	05-650	W Perch Rd	005	Amherst County	005	Amherst County	0.04	Dead End	SR 130 Elon Rd	30	R							X						03/07/2007
+703133	  05	00650	     	05-650	W Perch Rd	005	Amherst County	005	Amherst County	1.06	SR 130 Elon Rd	05-695 Wilderness Creek Rd	220	R							X						03/07/2007
+703134	  05	00650	     	05-650	W Perch Rd	005	Amherst County	005	Amherst County	0.10	05-695 Wilderness Creek Rd	0.10 ME 05-695	160	R							X						03/07/2007
+703135	  05	00650	     	05-650	W Perch Rd	005	Amherst County	005	Amherst County	3.84	0.10 ME 05-695	3.94 ME 05-695	50	R							X						03/07/2007
+703136	  05	00650	     	05-650	W Perch Rd	005	Amherst County	005	Amherst County	0.17	3.94 ME 05-695	4.11 ME 05-695	60	R							X						03/07/2007
+703137	  05	00650	     	05-650	W Perch Rd	005	Amherst County	005	Amherst County	0.91	4.11 ME 05-695	05-691 Tinsley Lane	70	R							X						03/07/2007
+703138	  05	00650	     	05-650	E Perch Rd	005	Amherst County	005	Amherst County	1.39	05-691 Tinsley Lane	1.39 ME 05-691	190	R							X						03/05/2007
+703139	  05	00650	     	05-650	E Perch Rd	005	Amherst County	005	Amherst County	0.06	1.39 ME 05-691	05-762 Stallings Rd	210	R							X						03/05/2007
+703140	  05	00650	     	05-650	E Perch Rd	005	Amherst County	005	Amherst County	0.95	05-762 Stallings Rd	SR 130 Elon Rd	350	R							X						03/05/2007
+703141	  05	00651	     	05-651	Lewis Keith Rd	005	Amherst County	005	Amherst County	2.90	SR 130 Elon Rd	05-643 Wagon Trail Rd	50	R							X						03/15/2007
+403852	  05	00652	     	05-652	 	005	Amherst County	005	Amherst County	1.16	05-657 Cedar Gate Rd; Laurel Cliff Rd	05-675 South	620	G	98%	1%	1%	0%	0%	0%	F	0.1417	F	0.7817	670	G	2009
+403853	  05	00652	     	05-652	 	005	Amherst County	005	Amherst County	1.79	05-675 South	SR 130 N, Elon Rd	740	G	98%	1%	1%	0%	0%	0%	C	0.1223	F	0.6176	800	G	2009
+703142	  05	00652	     	05-652	 	005	Amherst County	005	Amherst County	2.74	SR 130 S, Elon Rd	Dead End	780	R							X						03/02/2004
+403854	  05	00653	     	05-653	 	005	Amherst County	005	Amherst County	3.80	SR 130 Elon Rd	05-636 High Peak Rd	130	G	97%	3%	0%	0%	0%	0%	C	0.1090	F	0.5294	140	G	2009
+703143	  05	00654	     	05-654	Mundys Mill Rd	005	Amherst County	005	Amherst County	0.40	05-613 Kent Moor Farm Rd	Dead End	140	R							X						04/10/2007
+703144	  05	00655	     	05-655	Ned Brown Rd	005	Amherst County	005	Amherst County	0.18	Dead End	0.18 MN Dead End	40	R							X						04/05/2007
+703145	  05	00655	     	05-655	Ned Brown Rd	005	Amherst County	005	Amherst County	0.27	0.18 MN Dead End	05-671	140	R							X						04/05/2007
+403855	  05	00655	     	05-655	Father Judge Rd	005	Amherst County	005	Amherst County	3.87	05-671	05-643	950	G	98%	1%	1%	1%	0%	0%	C	0.1021	F	0.5676	1000	G	2009
+703146	  05	00656	     	05-656	Green Hill Rd	005	Amherst County	005	Amherst County	1.01	05-636	05-655	80	R							X						04/05/2007
+403856	  05	00657	     	05-657	Laurel Cliff Rd	005	Amherst County	005	Amherst County	0.50	05-636 High Peak Rd	05-652 Cedar Gate Rd	610	G	98%	1%	1%	0%	0%	0%	F	0.1348	F	0.7423	660	G	2009
+403857	  05	00657	     	05-657	Cedar Gate Rd	005	Amherst County	005	Amherst County	2.22	05-652 Cedar Gate Rd	05-707 Iron Bridge Rd	520	G	98%	1%	1%	0%	0%	0%	F	0.0901	F	0.6182	560	G	2009
+403858	  05	00657	     	05-657	Cedar Gate Rd	005	Amherst County	005	Amherst County	0.05	05-707 Iron Bridge Rd	0.05 ME 05-707 Iron Bridge Rd	740	G	98%	1%	1%	0%	0%	0%	F	0.0993	F	0.5198	800	G	2009
+403859	  05	00657	     	05-657	Cedar Gate Rd	005	Amherst County	005	Amherst County	0.32	0.05 ME 05-707 Iron Bridge Rd	05-1201 Southern Lane	760	G	98%	1%	1%	0%	0%	0%	C	0.0980	F	0.5341	830	G	2009
+403860	  05	00657	     	05-657	Cedar Gate Rd	005	Amherst County	005	Amherst County	0.10	05-1201 Southern Lane	Bus US 29 S	1100	G	98%	1%	1%	0%	0%	0%	F	0.0921	F	0.5949	1200	G	2009
+703147	  05	00657	     	05-657	Rothwood Rd	005	Amherst County	005	Amherst County	1.43	Bus US 29 N; 05-1213	05-604 Coolwell Rd	360	R							X						06/15/2004
+703148	  05	00658	     	05-658	Grandmas Hill Rd	005	Amherst County	005	Amherst County	1.01	05-739	05-733 Windy Ridge Way	270	R							X						03/07/2007
+703149	  05	00658	     	05-658	Grandmas Hill Rd	005	Amherst County	005	Amherst County	0.70	05-733 Windy Ridge Way	05-710	200	R							X						03/07/2007
+703150	  05	00658	     	05-658	Grandmas Hill Rd	005	Amherst County	005	Amherst County	2.20	05-710	Nelson County Line	140	R							X						03/07/2007
+403861	  05	00659	     	05-659	Second St	163	Town of Amherst	005	Amherst County	0.03	Bus US 29	05-1105 Goodwin St	2300	G	98%	1%	1%	0%	0%	0%	F	0.1084	F	0.5748	2500	G	2009
+403862	  05	00659	     	05-659	Second St	163	Town of Amherst	005	Amherst County	0.07	05-1105 Goodwin St	05-1101; 05-1115	2500	G	98%	1%	1%	0%	0%	0%	F	0.1101	F	0.5449	2700	G	2009
+403863	  05	00659	     	05-659	Depot St	163	Town of Amherst	005	Amherst County	0.36	05-1101; 05-1115	05-1109 Norfolk Ave	240	G	98%	1%	1%	0%	0%	0%	C	0.1199	F	0.5313	260	G	2009
+403864	  05	00659	     	05-659	Depot St	163	Town of Amherst	005	Amherst County	0.21	05-1109 Norfolk Ave	SCL Amherst	650	G	98%	1%	1%	0%	0%	0%	F	0.1366	F	0.5805	710	G	2009
+403865	  05	00659	     	05-659	Union Hill Rd	005	Amherst County	005	Amherst County	2.00	SCL Amherst	05-604 N, Union Hill Dr; Ebeneezer Rd	460	G	98%	1%	1%	0%	0%	0%	F	0.1130	F	0.5968	500	G	2009
+703151	  05	00659	     	05-659	 	005	Amherst County	005	Amherst County	1.20	05-604 SOUTH	05-821 Amethyst Lane	170	R							X						03/30/2004
+703152	  05	00659	     	05-659	Buffalo Ridge Rd	005	Amherst County	005	Amherst County	2.80	05-821 Amethyst Lane	Dead End	60	R							X						04/05/2007
+703153	  05	00660	     	05-660	MacAdam Rd	005	Amherst County	005	Amherst County	0.49	Bus US 29	Dead End	48	R							X						04/12/2007
+703154	  05	00661	     	05-661	Stage Rd	005	Amherst County	005	Amherst County	2.20	05-663 Coolwell Rd	05-624 Sweet Briar Lane	160	R							X						04/05/2007
+797460	  05	00661	     	05-661	Stage Rd	005	Amherst County	005	Amherst County	0.17	05-624 Sweet Briar Lane	Bus US 29 Amherst Hwy	0	?							X
+703157	  05	00662	     	05-662	Geddes Mountain Rd	005	Amherst County	005	Amherst County	0.20	SR 151 Patrick Henry Hwy	05-611 Roses Mill Rd	90	R							X						03/07/2007
+703158	  05	00662	     	05-662	Geddes Mountain Rd	005	Amherst County	005	Amherst County	1.20	05-611 Roses Mill Rd	05-700 Jeffersons Trail	80	R							X						03/07/2007
+703159	  05	00662	     	05-662	Geddes Mountain Rd	005	Amherst County	005	Amherst County	1.67	05-700 Jeffersons Trail	1.67 ME 05-700	30	R							X						03/07/2007
+703160	  05	00662	     	05-662	Geddes Mountain Rd	005	Amherst County	005	Amherst County	0.13	1.67 ME 05-700	US 29, N Amherst Hwy	40	R							X						03/07/2007
+703161	  05	00663	     	05-663	 	005	Amherst County	005	Amherst County	1.14	Bus US 29 ; 05-643	1.15 MW Bus US 29	520	R							X						05/04/2004
+703162	  05	00663	     	05-663	 	005	Amherst County	005	Amherst County	1.43	1.15 MW Bus US 29	05-828 Briarwood Dr	220	R							X						05/04/2004
+703163	  05	00663	     	05-663	Brightwells Mill Rd	005	Amherst County	005	Amherst County	1.63	05-828 Briarwood Dr	05-628 Stroude Mountain Rd	110	R							X						03/15/2007
+703164	  05	00663	     	05-663	Brightwells Mill Rd	005	Amherst County	005	Amherst County	1.00	05-628 Stroude Mountain Rd	05-761 Falconerville Rd	200	R							X						03/15/2007
+703165	  05	00663	     	05-663	 	005	Amherst County	005	Amherst County	0.03	05-761 Falconerville Rd	Bus US 29	1400	R							X						05/04/2004
+403867	  05	00663	     	05-663	Coolwell Rd	005	Amherst County	005	Amherst County	0.56	Bus US 29	05-661 Stage Rd	1700	G	97%	1%	1%	1%	1%	0%	F	0.1074	F	0.5515	1800	G	2009
+403868	  05	00663	     	05-663	Coolwell Rd	005	Amherst County	005	Amherst County	0.73	05-661	05-604 N, Bobwhite Rd; S Coolwell Dr	1400	G	97%	1%	1%	1%	1%	0%	C	0.0952	F	0.5556	1500	G	2009
+403869	  05	00663	     	05-663	Izaak Walton Rd	005	Amherst County	005	Amherst County	2.22	05-604 S, S Coolwell Dr	05-670 N, Partridge Creek Rd	570	G	97%	1%	1%	1%	1%	0%	F	0.1113	F	0.5513	620	G	2009
+403870	  05	00663	     	05-663	Izaak Walton Rd	005	Amherst County	005	Amherst County	0.78	05-670 N, Partridge Creek Rd	05-670 South	1900	G	97%	1%	1%	1%	1%	0%	F	0.1047	F	0.6105	2100	G	2009
+703166	  05	00663	     	05-663	Brightwells Mill Rd	005	Amherst County	005	Amherst County	1.50	05-670 SOUTH	05-669 Glade Rd	880	R							X						04/10/2007
+703167	  05	00663	     	05-663	Brightwells Mill Rd	005	Amherst County	005	Amherst County	0.80	05-669 Glade Rd	05-648	120	R							X						04/10/2007
+703168	  05	00663	     	05-663	Brightwells Mill Rd	005	Amherst County	005	Amherst County	1.20	05-648	05-622 Galts Mill Rd	170	R							X						04/10/2007
+703169	  05	00664	     	05-664	Joshua Falls Rd	005	Amherst County	005	Amherst County	1.50	Dead End	05-622 Galts Mill Rd	40	R							X						04/10/2007
+703170	  05	00665	     	05-665	 	005	Amherst County	005	Amherst County	2.00	05-778	05-694	230	R							X						06/22/2004
+403871	  05	00665	     	05-665	Warrick Barn Rd	005	Amherst County	005	Amherst County	1.69	05-694	SR 151 Patrick Henry Hwy	770	G	85%	1%	1%	11%	2%	0%	C	0.0861	F	0.5128	840	G	2009
+403872	  05	00666	     	05-666	Woodson Rd	005	Amherst County	005	Amherst County	2.65	05-778	05-630	330	G	96%	2%	1%	1%	0%	0%	C	0.1260	F	0.5208	360	G	2009
+703171	  05	00666	     	05-666	 	005	Amherst County	005	Amherst County	0.01	05-630	62-666; Nelson County Line	310	R							X						06/22/2004
+703172	  05	00667	     	05-667	 	005	Amherst County	005	Amherst County	0.17	05-677	05-748 Abbits Dr	130	R							X						04/06/2004
+703173	  05	00668	     	05-668	Saw Log Lane	005	Amherst County	005	Amherst County	0.26	Dead End	05-661 Stage Rd	20	R							X						04/05/2007
+403873	  05	00669	     	05-669	Amelon Rd	005	Amherst County	005	Amherst County	0.17	SR 130 Elon Rd	05-1314 Amelon Pl	2300	G	99%	0%	0%	0%	0%	0%	C	0.0947	F	0.6667	2500	G	2009
+403874	  05	00669	     	05-669	Amelon Rd	005	Amherst County	005	Amherst County	0.41	05-1314 Amelon Pl	05-1329 Wildwood Dr	2200	G	99%	0%	0%	0%	0%	0%	F	0.0943	F	0.6879	2400	G	2009
+403875	  05	00669	     	05-669	Amelon Rd	005	Amherst County	005	Amherst County	0.13	05-1329 Wildwood Dr	05-1336, W Bethel Dr	2600	G							X	0.0957	F	0.5888	2900	G	2009
+403876	  05	00669	     	05-669	Amelon Rd	005	Amherst County	005	Amherst County	0.11	05-1336, W Bethel Dr	05-783	2400	G							X	0.0967	F	0.6248	2600	G	2009
+403877	  05	00669	     	05-669	Amelon Rd	005	Amherst County	005	Amherst County	0.11	05-783	05-1331 Oakland Dr	2000	G							X	0.1068	F	0.5071	2200	G	2009
+403878	  05	00669	     	05-669	Amelon Rd	005	Amherst County	005	Amherst County	0.07	05-1331 Oakland Dr	05-1360 Melwood Dr	1700	G							X	0.1117	F	0.5692	1900	G	2009
+403879	  05	00669	     	05-669	Amelon Rd	005	Amherst County	005	Amherst County	0.75	05-1360 Melwood Dr	05-677 N, Dixie Airport Rd	1400	G							X	0.1173	F	0.5990	1500	G	2009
+403880	  05	00669	     	05-669	Izaak Rd	005	Amherst County	005	Amherst County	0.58	05-677 S, Dixie Airport Rd	05-670	210	G							X	0.1223	F	0.5714	220	G	2009
+703174	  05	00669	     	05-669	Glade Rd	005	Amherst County	005	Amherst County	0.43	05-670	0.43 ME 05-670	420	R							X						04/10/2007
+703175	  05	00669	     	05-669	Glade Rd	005	Amherst County	005	Amherst County	0.19	0.43 ME 05-670	0.62 ME 05-670	260	R							X						04/10/2007
+703176	  05	00669	     	05-669	 	005	Amherst County	005	Amherst County	1.08	0.62 ME 05-670	05-663 Brightwells Mill Rd	70	R							X						03/02/2004
+403883	  05	00670	     	05-670	Izaak Rd	005	Amherst County	005	Amherst County	0.64	05-669 Glade Rd	05-701	3000	G	97%	1%	1%	1%	1%	0%	C	0.0963	F	0.6941	3200	G	2009
+403884	  05	00670	     	05-670	Izaak Walton Rd	005	Amherst County	005	Amherst County	1.55	05-701	05-663 S, Brightwells Mill Rd	2800	G	97%	1%	1%	1%	1%	0%	F	0.0911	F	0.6854	3100	G	2009
+703177	  05	00670	     	05-670	Partridge Creek Rd	005	Amherst County	005	Amherst County	2.17	05-663 NORTH	05-604	800	R							X						04/05/2007
+703178	  05	00671	     	05-671	Possum Island Rd	005	Amherst County	005	Amherst County	0.19	05-677	05-701	1300	R							X						04/10/2007
+703179	  05	00671	     	05-671	Possum Island Rd	005	Amherst County	005	Amherst County	0.40	05-701	0.40 MN 05-701	990	R							X						04/10/2007
+703181	  05	00671	     	05-671	Possum Island Rd	005	Amherst County	005	Amherst County	0.16	0.40 MN 05-701	05-1349 Forest Dr	960	R							X						04/10/2007
+703182	  05	00671	     	05-671	Possum Island Rd	005	Amherst County	005	Amherst County	1.29	05-1349 Forest Dr	05-604 NORTH	320	R							X						04/10/2007
+703183	  05	00671	     	05-671	Bruner Rd	005	Amherst County	005	Amherst County	1.45	05-604 SOUTH	Bus US 29 SOUTH	260	R							X						04/05/2007
+403886	  05	00671	     	05-671	 	005	Amherst County	005	Amherst County	0.25	Bus US 29 SOUTH	0.02 MN 05-1216	2200	G	98%	1%	1%	0%	0%	0%	F	0.1003	F	0.5807	2400	G	2009
+403887	  05	00671	     	05-671	 	005	Amherst County	005	Amherst County	0.55	0.02 MN 05-1216	05-636	2000	G	98%	1%	1%	0%	0%	0%	C	0.0988	F	0.5603	2200	G	2009
+403888	  05	00671	     	05-671	 	005	Amherst County	005	Amherst County	0.51	05-636	Bus US 29 NORTH	1300	G	98%	1%	1%	0%	0%	0%	F	0.1129	F	0.7455	1400	G	2009
+703185	  05	00672	     	05-672	Riverview Rd	005	Amherst County	005	Amherst County	1.83	Dead End	05-1061	230	R							X						04/26/2007
+703186	  05	00672	     	05-672	Riverview Rd	005	Amherst County	005	Amherst County	0.53	05-1061	05-622	900	R							X						04/26/2007
+703187	  05	00672	     	05-672	Sandy Bottom Lane	005	Amherst County	005	Amherst County	0.09	05-622	05-833	20	R							X						04/26/2007
+703188	  05	00673	     	05-673	 	005	Amherst County	005	Amherst County	0.50	05-604	Bus US 29	250	R							X						04/27/2004
+703189	  05	00674	     	05-674	Roses Mill Rd	005	Amherst County	005	Amherst County	0.42	SR 151 Patrick Henry Hwy	05-611 Roses Mill Rd	230	R							X						03/07/2007
+703190	  05	00674	     	05-674	Athole Lane	005	Amherst County	005	Amherst County	1.93	05-611 Roses Mill Rd	Nelson County Line	160	R							X						03/07/2007
+703191	  05	00675	     	05-675	 	005	Amherst County	005	Amherst County	0.68	Dead End	05-652 NORTH	230	R							X						03/02/2004
+403889	  05	00675	     	05-675	 	005	Amherst County	005	Amherst County	3.13	05-652 SOUTH	05-795 Winridge Rd	260	G	98%	1%	1%	0%	0%	0%	F	0.1154	F	0.5278	280	G	2009
+403890	  05	00675	     	05-675	 	005	Amherst County	005	Amherst County	0.03	05-795	0.03 ME 05-795	990	G	98%	1%	1%	0%	0%	0%	F	0.1028	F	0.5833	1100	G	2009
+403891	  05	00675	     	05-675	 	005	Amherst County	005	Amherst County	0.84	0.03 ME 05-795	05-1323 Wedgewood Pl	1100	G	98%	1%	1%	0%	0%	0%	F	0.1022	F	0.5904	1200	G	2009
+403892	  05	00675	     	05-675	 	005	Amherst County	005	Amherst County	0.96	05-1323 Wedgewood Pl	Bus US 29	2700	G	98%	1%	1%	0%	0%	0%	C	0.1063	F	0.6431	3000	G	2009
+703192	  05	00675	     	05-675	 	005	Amherst County	005	Amherst County	0.10	Bus US 29	05-1225	500	R							X						04/27/2004
+703193	  05	00675	     	05-675	 	005	Amherst County	005	Amherst County	0.05	05-1225	05-1376	160	R							X						04/27/2004
+703194	  05	00675	     	05-675	 	005	Amherst County	005	Amherst County	0.02	05-1376	Dead End	2	R							X						04/27/2004
+703195	  05	00676	     	05-676	 	005	Amherst County	005	Amherst County	0.55	Dead End	05-1413 Surry Lane	80	R							X						03/02/2004
+703196	  05	00676	     	05-676	 	005	Amherst County	005	Amherst County	0.22	05-1413 Surry Lane	05-1414 Blackberry Lane	150	R							X						03/02/2004
+703197	  05	00676	     	05-676	Johns Creek Rd	005	Amherst County	005	Amherst County	0.07	05-1414 Blackberry Lane	0.07 MN 05-1414	210	R							X						03/07/2007
+703198	  05	00676	     	05-676	Johns Creek Rd	005	Amherst County	005	Amherst County	0.31	0.07 MN 05-1414	05-1412 Briar Cliff Lane	270	R							X						03/05/2007
+703199	  05	00676	     	05-676	 	005	Amherst County	005	Amherst County	0.55	05-1412 Briar Cliff Lane	SR 130 Elon Rd	840	R							X						03/02/2004
+703200	  05	00676	     	05-676	 	005	Amherst County	005	Amherst County	0.59	SR 130 Elon Rd	Dead End	110	R							X						03/02/2004
+301876	  05	00677	     	05-677	Dixie Airport Rd	005	Amherst County	005	Amherst County	0.55	05-622 Galts Mill Rd	05-809 Casey Lane	3700	G	97%	1%	1%	0%	0%	0%	F	0.0942	F	0.5777	4000	G	2009
+301877	  05	00677	     	05-677	Dixie Airport Rd	005	Amherst County	005	Amherst County	0.20	05-809 Casey Lane	05-1370 Fairmont Dr	3600	G	97%	1%	1%	0%	0%	0%	F	0.0949	F	0.5522	3900	G	2009
+301878	  05	00677	     	05-677	Dixie Airport Rd	005	Amherst County	005	Amherst County	0.10	05-1370 Fairmont Dr	05-669 SOUTH	3600	G	97%	1%	1%	0%	0%	0%	F	0.0950	F	0.5712	3900	G	2009
+301879	  05	00677	     	05-677	Dixie Airport Rd	005	Amherst County	005	Amherst County	0.04	05-669 SOUTH	05-1350	3500	G	97%	1%	1%	0%	0%	0%	F	0.0961	F	0.5716	3800	G	2009
+301880	  05	00677	     	05-677	Dixie Airport Rd	005	Amherst County	005	Amherst County	0.06	05-1350	05-1351	3500	G	97%	1%	1%	0%	0%	0%	F	0.1020	F	0.5629	3800	G	2009
+301881	  05	00677	     	05-677	Dixie Airport Rd	005	Amherst County	005	Amherst County	0.35	05-1351	05-669 NORTH	3500	G	97%	1%	1%	0%	0%	0%	F	0.1041	F	0.5631	3800	G	2009
+403893	  05	00677	     	05-677	Dixie Airport Rd	005	Amherst County	005	Amherst County	2.56	05-669 NORTH	Bus US 29 Amherst Hwy	3600	G	97%	1%	1%	0%	0%	0%	C	0.0929	F	0.5106	4000	G	2009
+703201	  05	00678	     	05-678	 	005	Amherst County	005	Amherst County	0.20	Bus US 29 S; 05-730	Bus US 29 N	190	R							X						04/06/2004
+703202	  05	00679	     	05-679	 	005	Amherst County	005	Amherst County	0.10	SR 130 Elon Rd	Dead End	70	R							X						03/02/2004
+703203	  05	00680	     	05-680	 	005	Amherst County	005	Amherst County	0.05	Dead End	05-1301 Daniels Pl	30	R							X						04/06/2004
+703204	  05	00680	     	05-680	 	005	Amherst County	005	Amherst County	0.14	05-1301 Daniels Pl	Dead End	40	R							X						04/06/2004
+703205	  05	00681	     	05-681	Mays St	005	Amherst County	005	Amherst County	0.07	Dead End	05-1070 Grove Ave; Edgewood Lane	30	R							X						05/25/2007
+703206	  05	00681	     	05-681	Mays St	005	Amherst County	005	Amherst County	0.37	05-1070 Grove Ave; Edgewood Lane	Bus US 29 Amherst Hwy	340	R							X						05/25/2007
+403894	  05	00681	     	05-681	Seminole Dr	005	Amherst County	005	Amherst County	1.31	Bus US 29 Amherst Hwy	05-833 Old Wright Shop Rd	4500	G	98%	1%	1%	0%	0%	0%	C	0.0933	F	0.5188	4800	G	2009
+703207	  05	00682	     	05-682	Woodys Lake Rd	005	Amherst County	005	Amherst County	0.40	Bus US 29 Amherst Hwy	05-1310 Daniels Dr	3300	R							X						04/06/2004
+703208	  05	00682	     	05-682	 	005	Amherst County	005	Amherst County	0.39	05-1310 Daniels Dr	05-1329 Wildwood Dr	3000	R							X						04/06/2004
+703209	  05	00682	     	05-682	 	005	Amherst County	005	Amherst County	0.11	05-1329 Wildwood Dr	Dead End	100	R							X						04/06/2004
+703210	  05	00683	     	05-683	Thomas Rd	005	Amherst County	005	Amherst County	2.16	05-685 River Rd	05-766	640	R							X						05/25/2007
+703211	  05	00684	     	05-684	Kings Rd	005	Amherst County	005	Amherst County	2.09	05-685	05-766	710	R							X						05/25/2007
+403895	  05	00685	     	05-685	River Rd	005	Amherst County	005	Amherst County	3.83	SR 130 Elon Rd	Railroad Crossing	310	G	100%	0%	0%	0%	0%	0%	F	0.1734	F	0.7333	330	G	2009
+403896	  05	00685	     	05-685	River Rd	005	Amherst County	005	Amherst County	1.22	Railroad Crossing	05-684 Kings Rd	520	G	100%	0%	0%	0%	0%	0%	F	0.1395	F	0.7066	560	G	2009
+403898	  05	00685	     	05-685	River Rd	005	Amherst County	005	Amherst County	0.47	05-684 Kings Rd	05-683 Thomas Rd	900	G	100%	0%	0%	0%	0%	0%	F	0.1322	F	0.7745	980	G	2009
+403899	  05	00685	     	05-685	River Rd	005	Amherst County	005	Amherst County	0.83	05-683 Thomas Rd	SR 163 Amherst Hwy	1200	G	100%	0%	0%	0%	0%	0%	C	0.1386	F	0.7660	1300	G	2009
+703212	  05	00686	     	05-686	Stinnet Rd	005	Amherst County	005	Amherst County	0.70	Dead End	US 60 Lexington Tpke	170	R							X						03/12/2007
+703213	  05	00686	     	05-686	 	005	Amherst County	005	Amherst County	0.31	US 60 Lexington Tpke	05-749 Hideaway Farm Rd	170	R							X						05/25/2004
+703214	  05	00686	     	05-686	 	005	Amherst County	005	Amherst County	0.20	05-749 Hideaway Farm Rd	0.20 MN 05-749	90	R							X						05/25/2004
+703215	  05	00686	     	05-686	Mount Horeb Rd	005	Amherst County	005	Amherst County	2.50	0.20 MN 05-749	US 60 Lexington Tpke	20	R							X						03/12/2007
+703216	  05	00687	     	05-687	Scotts Branch	005	Amherst County	005	Amherst County	0.80	Dead End	05-621 Indian Creek Rd	40	R							X						03/12/2007
+703217	  05	00688	     	05-688	Chinquapin Rd	005	Amherst County	005	Amherst County	0.90	05-635 Buffalo Springs Tpke	Dead End	40	R							X						03/12/2007
+403900	  05	00689	     	05-689	E. Monitor Rd	005	Amherst County	005	Amherst County	0.60	US 60 Lexington Tpke	05-690 Huff Creek Trail	530	G	99%	0%	0%	0%	1%	0%	C	0.0932	F	0.5833	580	G	2009
+703218	  05	00689	     	05-689	 	005	Amherst County	005	Amherst County	0.50	05-690 Huff Creek Trail	0.50 MW 05-690	100	R							X						04/20/2004
+703219	  05	00689	     	05-689	 	005	Amherst County	005	Amherst County	1.20	0.50 MW 05-690	1.70 MW 05-690	30	R							X						04/20/2004
+703220	  05	00689	     	05-689	 	005	Amherst County	005	Amherst County	0.10	1.70 MW 05-690	05-617	60	R							X						04/20/2004
+703221	  05	00690	     	05-690	Huff Creek Trail	005	Amherst County	005	Amherst County	1.09	05-689	Dead End	340	R							X						03/22/2007
+703222	  05	00691	     	05-691	Tinsley Lane	005	Amherst County	005	Amherst County	1.10	Dead End	05-650 E Perch Rd; W Perch Rd	90	R							X						03/05/2007
+703223	  05	00692	     	05-692	Longbranch Dr	005	Amherst County	005	Amherst County	0.60	05-617	05-752 Longbranch Rd	40	R							X						03/05/2007
+703224	  05	00692	     	05-692	Muddy Branch Rd	005	Amherst County	005	Amherst County	1.40	05-752 Longbranch Rd	05-616 West Monitor Rd	20	R							X						04/20/2004
+703225	  05	00693	     	05-693	 	005	Amherst County	005	Amherst County	0.29	Bus US 29	Dead End	2100	R							X						06/22/2004
+403901	  05	00694	     	05-694	Warrick Barn Rd	005	Amherst County	005	Amherst County	0.90	05-665	05-621	410	G	77%	2%	1%	17%	3%	0%	C	0.1037	F	0.5400	440	G	2009
+703226	  05	00694	     	05-694	 	005	Amherst County	005	Amherst County	0.10	05-621	05-778	250	R							X						06/22/2004
+703227	  05	00695	     	05-695	Wilderness Creek Rd	005	Amherst County	005	Amherst County	2.30	Dead End	05-650, W Perch Rd	90	R							X						03/07/2007
+703228	  05	00696	     	05-696	Shady Mountain Rd	005	Amherst County	005	Amherst County	1.00	05-715 Burley Hollow Rd	Dead End	60	R							X						03/12/2007
+703229	  05	00697	     	05-697	 	005	Amherst County	005	Amherst County	0.58	Bus US 29	Dead End	160	R							X						04/27/2004
+703230	  05	00698	     	05-698	Dismal Mountain Rd	005	Amherst County	005	Amherst County	1.10	05-629 Little Piney Rd	Dead End	2	R							X						03/05/2007
+703231	  05	00699	     	05-699	 	005	Amherst County	005	Amherst County	0.12	05-671	05-671	46	R							X						05/04/2004
+703232	  05	00700	     	05-700	Jeffersons Trail	005	Amherst County	005	Amherst County	0.90	05-662 Geddes Mountain Rd	Dead End	40	R							X						03/07/2007
+703233	  05	00701	     	05-701	 	005	Amherst County	005	Amherst County	1.01	05-671 Possum Island Rd	05-670	250	R							X						04/06/2004
+703234	  05	00703	     	05-703	 	005	Amherst County	005	Amherst County	0.07	SR 130 Elon Rd	05-797 Camden Dr	250	R							X						06/08/2004
+703235	  05	00703	     	05-703	 	005	Amherst County	005	Amherst County	0.16	05-797 Camden Dr	SR 130 Elon Rd	110	R							X						06/08/2004
+703236	  05	00704	     	05-704	 	005	Amherst County	005	Amherst County	0.28	SR 130 W, Elon Rd	SR 130 E, Elon Rd	20	R							X						03/02/2004
+703237	  05	00705	     	05-705	 	005	Amherst County	005	Amherst County	0.10	SR 130 W, Elon Rd	05-730	140	R							X						03/02/2004
+703238	  05	00705	     	05-705	 	005	Amherst County	005	Amherst County	0.35	05-730	SR 130 E, Elon Rd	130	R							X						03/02/2004
+703239	  05	00706	     	05-706	 	005	Amherst County	005	Amherst County	0.28	SR 130 W, Elon Rd	SR 130 E, Elon Rd	270	R							X						03/02/2004
+703240	  05	00707	     	05-707	 	005	Amherst County	005	Amherst County	0.88	Dead End	05-657 Cedar Gate Rd	180	R							X						05/04/2004
+403902	  05	00708	     	05-708	Boxwood Farm Rd	005	Amherst County	005	Amherst County	0.50	05-739 Honey Bee Dr	05-610	230	G	97%	0%	1%	2%	0%	0%	C	0.1209	F	0.5152	250	G	2009
+703241	  05	00709	     	05-709	Dumbarton Dr	005	Amherst County	005	Amherst County	0.20	05-710	05-739	100	R							X						03/07/2007
+703242	  05	00710	     	05-710	 	005	Amherst County	005	Amherst County	0.20	05-739	05-709 Dumbarton Dr	150	R							X						03/30/2004
+703243	  05	00710	     	05-710	 	005	Amherst County	005	Amherst County	0.10	05-709 Dumbarton Dr	0.10 ME 05-709	90	R							X						03/30/2004
+703244	  05	00710	     	05-710	 	005	Amherst County	005	Amherst County	0.30	0.10 ME 05-709	05-658 Grandmas Hill Rd	50	R							X						03/30/2004
+703245	  05	00711	     	05-711	Bryant Hollow Rd	005	Amherst County	005	Amherst County	0.60	Dead End	05-658 Grandmas Hill Rd	220	R							X						03/07/2007
+703246	  05	00712	     	05-712	 	005	Amherst County	005	Amherst County	0.33	US 60 Richmond Hwy	05-734 Pendleton Dr	370	R							X						03/30/2004
+703247	  05	00712	     	05-712	Pierces Mill Rd	005	Amherst County	005	Amherst County	0.96	05-734 Pendleton Dr	05-759 Brayton Ridge Rd	180	R							X						03/07/2007
+703248	  05	00712	     	05-712	Pierces Mill Rd	005	Amherst County	005	Amherst County	0.72	05-759 Brayton Ridge Rd	Dead End	48	R							X						03/07/2007
+703249	  05	00713	     	05-713	St Marys Rd	005	Amherst County	005	Amherst County	0.35	05-627	05-741 Angus Dr	100	R							X						03/05/2007
+703250	  05	00713	     	05-713	St Marys Rd	005	Amherst County	005	Amherst County	1.05	05-741 Angus Dr	05-621	60	R							X						03/05/2007
+703251	  05	00714	     	05-714	Tudor Hall Dr	005	Amherst County	005	Amherst County	0.60	05-615 Sardis Rd	US 60 Lexington Tpke	20	R							X						03/15/2007
+703252	  05	00715	     	05-715	Burley Hollow Rd	005	Amherst County	005	Amherst County	1.60	Dead End	05-696 Shady Mountain Rd	120	R							X						03/12/2007
+703253	  05	00715	     	05-715	Burley Hollow Rd	005	Amherst County	005	Amherst County	0.47	05-696 Shady Mountain Rd	US 60 Lexington Tpke	120	R							X						04/20/2004
+703254	  05	00716	     	05-716	Moss Rock Rd	005	Amherst County	005	Amherst County	0.20	US 60 Lexington Tpke	Dead End	60	R							X						03/12/2007
+703255	  05	00717	     	05-717	Brown Town Rd	005	Amherst County	005	Amherst County	0.28	Dead End	05-801 Grooms Lane	70	R							X						03/15/2007
+703256	  05	00717	     	05-717	Brown Town Rd	005	Amherst County	005	Amherst County	0.80	05-801 Grooms Lane	05-610	90	R							X						03/15/2007
+703257	  05	00718	     	05-718	Christian Springs Rd	005	Amherst County	005	Amherst County	0.40	05-689	0.40 ME 05-689	250	R							X						03/22/2007
+703258	  05	00718	     	05-718	Christian Springs Rd	005	Amherst County	005	Amherst County	0.50	0.40 ME 05-689	Dead End	160	R							X						03/22/2007
+703259	  05	00719	     	05-719	Woodvue Dr	005	Amherst County	005	Amherst County	0.25	Dead End	Bus US 29	200	R							X						05/25/2007
+703260	  05	00720	     	05-720	Burford Farm Rd	005	Amherst County	005	Amherst County	0.50	05-636	Dead End	150	R							X						04/05/2007
+703261	  05	00721	     	05-721	Ann St	005	Amherst County	005	Amherst County	0.35	Dead End	Bus US 29	160	R							X						04/17/2007
+703262	  05	00722	     	05-722	Panther Mountain Rd	005	Amherst County	005	Amherst County	0.70	05-632 Emmanuel Church Rd	Dead End	50	R							X						04/12/2007
+703263	  05	00723	     	05-723	Dillard Hill Rd	005	Amherst County	005	Amherst County	0.23	05-629 Little Piney Rd	0.23 MN 05-629	130	R							X						03/05/2007
+703264	  05	00723	     	05-723	Dillard Hill Rd	005	Amherst County	005	Amherst County	0.81	0.23 MN 05-629	1.04 MN 05-629	140	R							X						03/05/2007
+703265	  05	00723	     	05-723	Dillard Hill Rd	005	Amherst County	005	Amherst County	1.16	1.04 MN 05-629	05-630 Crawleys Creek Rd	170	R							X						03/05/2007
+703266	  05	00724	     	05-724	Williams Store Rd	005	Amherst County	005	Amherst County	0.18	SR 130 Elon Rd	05-647 Minors Branch Rd	50	R							X						03/07/2007
+703267	  05	00725	     	05-725	Kintyre Lane	005	Amherst County	005	Amherst County	0.25	US 29, N Amherst Hwy	Dead End	30	R							X						03/07/2007
+703268	  05	00726	     	05-726	Waughs Ferry Rd	005	Amherst County	005	Amherst County	0.35	Dead End	05-1139 Briarherst Dr	190	R							X						04/12/2007
+703269	  05	00726	     	05-726	Waughs Ferry Rd	005	Amherst County	005	Amherst County	0.75	05-1139 Briarherst Dr	Bus US 29	490	R							X						04/12/2007
+703270	  05	00727	     	05-727	 	005	Amherst County	005	Amherst County	1.26	SR 130 E, Elon Rd	05-610	150	R							X						04/06/2004
+703271	  05	00727	     	05-727	 	005	Amherst County	005	Amherst County	0.89	05-610	SR 130 W, Elon Rd	150	R							X						04/06/2004
+703272	  05	00728	     	05-728	Eastview Dr	005	Amherst County	005	Amherst County	0.10	05-604	05-788 Garten Pl	580	R							X						04/19/2007
+703273	  05	00728	     	05-728	Eastview Dr	005	Amherst County	005	Amherst County	0.10	05-788 Garten Pl	05-1315 Holiday Dr	510	R							X						04/19/2007
+703274	  05	00728	     	05-728	Eastview Dr	005	Amherst County	005	Amherst County	0.35	05-1315 Holiday Dr	Cul-de-Sac	280	R							X						04/19/2007
+703275	  05	00729	     	05-729	Chestnut Lane	005	Amherst County	005	Amherst County	0.10	Dead End	0.10 ME Dead End	50	R							X						03/19/2007
+703276	  05	00729	     	05-729	Chestnut Lane	005	Amherst County	005	Amherst County	0.50	0.10 ME Dead End	05-742 Stirling Dr	100	R							X						03/19/2007
+703277	  05	00729	     	05-729	 	005	Amherst County	005	Amherst County	0.15	05-742 Stirling Dr	05-610	180	R							X						04/20/2004
+703278	  05	00730	     	05-730	 	005	Amherst County	005	Amherst County	1.03	05-705	05-1309 Andrews Dr	230	R							X						05/25/2004
+703279	  05	00730	     	05-730	 	005	Amherst County	005	Amherst County	0.52	05-1309 Andrews Dr	Bus US 29; 05-678	560	R							X						05/25/2004
+703280	  05	00731	     	05-731	Zane Snead Dr	005	Amherst County	005	Amherst County	0.39	05-739	05-825 Industrial Park Dr	1700	R							X						03/22/2007
+703281	  05	00731	     	05-731	Zane Snead Dr	005	Amherst County	005	Amherst County	0.62	05-825 Industrial Park Dr	Dead End	1400	R							X						03/22/2007
+703282	  05	00732	     	05-732	Substation Rd	005	Amherst County	005	Amherst County	0.05	Dead End	US 60 Richmond Hwy	7	R							X						04/05/2007
+703283	  05	00733	     	05-733	Windy Ridge Way	005	Amherst County	005	Amherst County	1.30	Dead End	05-658 Grandmas Hill Rd	60	R							X						03/07/2007
+703284	  05	00734	     	05-734	Pendleton Dr	005	Amherst County	005	Amherst County	0.68	05-712 Pierces Mill Rd	Dead End	180	R							X						03/07/2007
+703285	  05	00735	     	05-735	Maple Run Rd	005	Amherst County	005	Amherst County	0.80	05-665	05-619 Bearfield Rd	240	R							X						03/12/2007
+703286	  05	00735	     	05-735	Maple Run Rd	005	Amherst County	005	Amherst County	0.70	05-619 Bearfield Rd	Dead End	80	R							X						03/12/2007
+703287	  05	00736	     	05-736	 	005	Amherst County	005	Amherst County	0.80	Dead End	0.80 ME Dead End	60	R							X						04/20/2004
+703288	  05	00736	     	05-736	 	005	Amherst County	005	Amherst County	1.00	0.80 ME Dead End	05-608 Campbells Mill Rd	250	R							X						04/20/2004
+703289	  05	00736	     	05-736	 	005	Amherst County	005	Amherst County	0.60	05-608 Campbells Mill Rd	SR 151 Patrick Henry Hwy	420	R							X						04/20/2004
+703290	  05	00737	     	05-737	 	005	Amherst County	005	Amherst County	0.40	Dead End	Nelson County Line	50	R							X						06/15/2004
+703291	  05	00738	     	05-738	Walnut Hill Rd	005	Amherst County	005	Amherst County	0.50	05-610 Turkey Mountain Rd	Dead End	60	R							X						03/07/2007
+403903	  05	00739	     	05-739	Boxwood Farm Rd	005	Amherst County	005	Amherst County	1.22	US 29	05-822 Lipscomb Hollow Rd	890	G	99%	0%	1%	0%	0%	0%	C	0.0989	F	0.5981	960	G	2009
+403904	  05	00739	     	05-739	Boxwood Farm Rd	005	Amherst County	005	Amherst County	2.05	05-822 Lipscomb Hollow Rd	05-608	670	G	99%	0%	1%	0%	0%	0%	F	0.1016	F	0.6503	730	G	2009
+403905	  05	00739	     	05-739	Honey Bee Dr	005	Amherst County	005	Amherst County	1.55	05-608	05-708	220	G	99%	0%	1%	0%	0%	0%	F	0.1205	F	0.5143	240	G	2009
+703292	  05	00739	     	05-739	Honey Bee Dr	005	Amherst County	005	Amherst County	0.70	05-708	05-610	90	R							X						03/07/2007
+703293	  05	00739	     	05-739	 	005	Amherst County	005	Amherst County	1.60	05-610	Nelson County Line	440	R							X						04/20/2004
+703294	  05	00740	     	05-740	Tyree Circle	005	Amherst County	005	Amherst County	0.30	Dead End	05-833	470	R							X						04/26/2007
+703295	  05	00741	     	05-741	Angus Dr	005	Amherst County	005	Amherst County	0.60	05-713 St Marys Rd	Dead End	60	R							X						03/05/2007
+703296	  05	00742	     	05-742	Stirling Dr	005	Amherst County	005	Amherst County	0.30	Dead End	05-729 Chestnut Lane	60	R							X						03/19/2007
+703297	  05	00743	     	05-743	Lavender Lane	005	Amherst County	005	Amherst County	0.50	Dead End	05-615 Sardis Rd	50	R							X						03/15/2007
+703298	  05	00744	     	05-744	Eagle Rd	005	Amherst County	005	Amherst County	0.30	05-604	Dead End	160	R							X						04/05/2007
+703299	  05	00745	     	05-745	Alhambra Rd	005	Amherst County	005	Amherst County	1.00	Forest Service Road	05-827 Perkins Mill Rd	60	R							X						03/05/2007
+703300	  05	00746	     	05-746	Paige Mountain Way	005	Amherst County	005	Amherst County	0.25	05-621 Indian Creek Rd	0.25 MN 05-621	20	R							X						03/12/2007
+703301	  05	00746	     	05-746	Paige Mountain Way	005	Amherst County	005	Amherst County	0.30	0.25 MN 05-621	Dead End	8	R							X						03/12/2007
+703302	  05	00747	     	05-747	 	005	Amherst County	005	Amherst County	0.20	Dead End	05-775	100	R							X						05/04/2004
+703303	  05	00747	     	05-747	 	005	Amherst County	005	Amherst County	0.10	05-775	05-657 Cedar Gate Rd	160	R							X						05/04/2004
+703304	  05	00748	     	05-748	Abbits Dr	005	Amherst County	005	Amherst County	0.20	05-677	05-667	190	R							X						04/17/2007
+703305	  05	00748	     	05-748	Abbits Dr	005	Amherst County	005	Amherst County	0.15	05-667	Dead End	140	R							X						04/17/2007
+703306	  05	00749	     	05-749	Hideaway Farm Rd	005	Amherst County	005	Amherst County	0.60	05-686	Dead End	110	R							X						03/12/2007
+703307	  05	00750	     	05-750	Hico Dr	005	Amherst County	005	Amherst County	0.82	05-604	Dead End	300	R							X						04/17/2007
+703308	  05	00751	     	05-751	Hartless Rd	005	Amherst County	005	Amherst County	1.15	Dead End	SR 151 Patrick Henry Hwy	70	R							X						04/12/2007
+703309	  05	00752	     	05-752	Longbranch Rd	005	Amherst County	005	Amherst County	0.70	05-692 Muddy Branch Rd; Longbranch Dr	Dead End	20	R							X						03/05/2007
+703310	  05	00753	     	05-753	Parr Town Rd	005	Amherst County	005	Amherst County	0.80	05-665	Dead End	130	R							X						03/05/2007
+703311	  05	00754	     	05-754	Pryor Creek Rd	005	Amherst County	005	Amherst County	0.80	Dead End	05-610	30	R							X						03/15/2007
+703312	  05	00755	     	05-755	Wiggs Spring Rd	005	Amherst County	005	Amherst County	1.40	05-634 Coffey Town Rd	Dead End	60	R							X						03/12/2007
+703313	  05	00756	     	05-756	Bryant Rd	005	Amherst County	005	Amherst County	0.02	Dead End	0.02 ME Dead End	210	R							X						04/26/2007
+703314	  05	00756	     	05-756	Bryant Rd	005	Amherst County	005	Amherst County	0.64	0.02 ME Dead End	05-622	320	R							X						04/26/2007
+703315	  05	00757	     	05-757	Bellevue Rd	005	Amherst County	005	Amherst County	0.50	05-625	Dead End	20	R							X						03/05/2007
+703316	  05	00758	     	05-758	Althea Lane	005	Amherst County	005	Amherst County	0.30	Dead End	05-627	50	R							X						03/05/2007
+703317	  05	00759	     	05-759	Brayton Ridge Rd	005	Amherst County	005	Amherst County	0.80	05-712 Pierces Mill Rd	Dead End	100	R							X						03/07/2007
+703318	  05	00760	     	05-760	 	005	Amherst County	005	Amherst County	0.15	SR 151 Patrick Henry Hwy	0.15 ME SR 151	190	R							X						05/04/2004
+703319	  05	00760	     	05-760	 	005	Amherst County	005	Amherst County	0.85	0.15 ME SR 151	Dead End	45	R							X						05/04/2004
+703320	  05	00761	     	05-761	Sprouse Dr	005	Amherst County	005	Amherst County	0.53	Dead End	Bus US 29	800	R							X						04/05/2007
+785903	  05	00761	     	05-761	Falconerville Rd	005	Amherst County	005	Amherst County	0.25	Bus US 29	05-663	510	R							X						04/05/2007
+703321	  05	00762	     	05-762	Stallings Rd	005	Amherst County	005	Amherst County	0.10	Dead End	05-650,  E Perch Rd	100	R							X						03/05/2007
+703322	  05	00763	     	05-763	Shelter Lane	005	Amherst County	005	Amherst County	0.50	05-604	Dead End	280	R							X						04/05/2007
+703323	  05	00764	     	05-764	 	005	Amherst County	005	Amherst County	0.50	05-604	Dead End	170	R							X						06/15/2004
+703324	  05	00765	     	05-765	 	005	Amherst County	005	Amherst County	0.60	Dead End	05-608	120	R							X						04/20/2004
+403906	  05	00766	     	05-766	Dillard Rd	005	Amherst County	005	Amherst County	1.59	Bus US 29 Amherst Hwy	SR 130 Elon Rd	3400	G	97%	1%	1%	0%	1%	0%	C	0.1000	F	0.7948	3700	G	2009
+703325	  05	00767	     	05-767	Logging Camp Lane	005	Amherst County	005	Amherst County	0.10	Dead End	05-630	70	R							X						03/05/2007
+703326	  05	00768	     	05-768	Naked Creek Lane	005	Amherst County	005	Amherst County	0.60	Dead End	05-612 Meredith Lane	30	R							X						03/07/2007
+703327	  05	00769	     	05-769	Bucks Hollow Rd	005	Amherst County	005	Amherst County	0.17	Dead End	0.17 MN Dead End	60	R							X						03/12/2007
+703328	  05	00769	     	05-769	Bucks Hollow Rd	005	Amherst County	005	Amherst County	0.05	0.17 MN Dead End	US 60 Lexington Tpke	70	R							X						03/12/2007
+703329	  05	00770	     	05-770	Mt Airy Rd	005	Amherst County	005	Amherst County	0.25	05-661 Stage Rd	05-663	230	R							X						04/05/2007
+703330	  05	00771	     	05-771	Tomlin Rd	005	Amherst County	005	Amherst County	0.60	Dead End	05-658 Grandmas Hill Rd	90	R							X						03/07/2007
+703331	  05	00772	     	05-772	Pierce Mountain Rd	005	Amherst County	005	Amherst County	0.80	Dead End	05-617	50	R							X						03/12/2007
+703332	  05	00773	     	05-773	Martins Lane	005	Amherst County	005	Amherst County	0.21	Dead End	05-1068	120	R							X						04/30/2007
+703333	  05	00773	     	05-773	Martins Lane	005	Amherst County	005	Amherst County	0.09	05-1068	SR 163 Amherst Hwy	270	R							X						04/30/2007
+703334	  05	00774	     	05-774	Liggon Rd	005	Amherst County	005	Amherst County	0.30	05-677	05-1340 Monticello Lane	220	R							X						04/10/2007
+703335	  05	00774	     	05-774	Liggon Rd	005	Amherst County	005	Amherst County	0.30	05-1340 Monticello Lane	Dead End	90	R							X						04/10/2007
+703336	  05	00775	     	05-775	 	005	Amherst County	005	Amherst County	0.80	Dead End	05-747	46	R							X						05/04/2004
+703337	  05	00776	     	05-776	Walnut Springs Rd	005	Amherst County	005	Amherst County	0.50	05-622 Stapleton Rd	Dead End	70	R							X						04/12/2007
+703338	  05	00777	     	05-777	Gordons Fair Grounds Rd	005	Amherst County	005	Amherst County	0.32	05-659	US 60 Richmond Hwy	1300	R							X						04/12/2007
+403907	  05	00778	     	05-778	Lowesville Rd	005	Amherst County	005	Amherst County	2.38	US 60 Lexington Tpke	05-610 N, Sandidges Rd	1000	G	93%	1%	2%	2%	2%	0%	C	0.0876	F	0.5472	1100	G	2009
+403908	  05	00778	     	05-778	Lowesville Rd	005	Amherst County	005	Amherst County	2.56	05-610 N, Sandidges Rd	05-627	950	G	93%	1%	2%	2%	2%	0%	F	0.0980	F	0.5047	1000	G	2009
+403909	  05	00778	     	05-778	Lowesville Rd	005	Amherst County	005	Amherst County	1.05	05-627	05-621	900	G	93%	1%	2%	2%	2%	0%	F	0.1005	F	0.5121	970	G	2009
+403910	  05	00778	     	05-778	Lowesville Rd	005	Amherst County	005	Amherst County	0.89	05-621	0.89 MN 05-621	800	G	93%	1%	2%	2%	2%	0%	F	0.0957	F	0.5615	860	G	2009
+703339	  05	00778	     	05-778	Lowesville Rd	005	Amherst County	005	Amherst County	0.02	0.89 MN 05-621	Nelson County Line	910	R							X						05/25/2004
+703340	  05	00779	     	05-779	Mistover Dr	005	Amherst County	005	Amherst County	0.40	05-653	0.40 MN 05-653	150	R							X						03/15/2007
+703341	  05	00779	     	05-779	Mistover Dr	005	Amherst County	005	Amherst County	4.40	0.40 MN 05-653	Dead End	70	R							X						03/15/2007
+703342	  05	00780	     	05-780	Indian Mission Rd	005	Amherst County	005	Amherst County	0.50	Dead End	05-643	50	R							X						03/15/2007
+703343	  05	00781	     	05-781	Cash Town Rd	005	Amherst County	005	Amherst County	0.50	Dead End	05-629 Little Piney Rd	40	R							X						03/05/2007
+703344	  05	00782	     	05-782	 	005	Amherst County	005	Amherst County	0.19	Dead End	05-1321 Canterberry Pl	230	R							X						05/04/2004
+703345	  05	00782	     	05-782	 	005	Amherst County	005	Amherst County	0.10	05-1321 Canterberry Pl	05-675	280	R							X						05/04/2004
+703346	  05	00783	     	05-783	 	005	Amherst County	005	Amherst County	0.38	Dead End	05-1383 Fern Wood Dr	140	R							X						05/04/2004
+703347	  05	00783	     	05-783	 	005	Amherst County	005	Amherst County	0.28	05-1383 Fern Wood Dr	05-1363 Oak Ridge Dr	660	R							X						05/04/2004
+703348	  05	00783	     	05-783	 	005	Amherst County	005	Amherst County	0.15	05-1363 Oak Ridge Dr	05-1359 Timber Lane	1200	R							X						05/04/2004
+703349	  05	00783	     	05-783	 	005	Amherst County	005	Amherst County	0.11	05-1359 Timber Lane	05-1357 Shady Oak Dr	1700	R							X						05/04/2004
+703350	  05	00783	     	05-783	 	005	Amherst County	005	Amherst County	0.22	05-1357 Shady Oak Dr	05-1341 Odins Bow Rd	2400	R							X						05/04/2004
+703351	  05	00783	     	05-783	 	005	Amherst County	005	Amherst County	0.19	05-1341 Odins Bow Rd	05-669	1700	R							X						05/04/2004
+703352	  05	00784	     	05-784	 	005	Amherst County	005	Amherst County	1.00	SR 151 Patrick Henry Hwy	SR 151 Patrick Henry Hwy	40	R							X						03/02/2004
+703353	  05	00785	     	05-785	 	005	Amherst County	005	Amherst County	0.29	SR 151 Patrick Henry Hwy	SR 151 Patrick Henry Hwy	30	R							X						03/02/2004
+703354	  05	00786	     	05-786	 	005	Amherst County	005	Amherst County	0.15	05-661 Stage Rd	Dead End	140	R							X						04/27/2004
+703355	  05	00787	     	05-787	 	005	Amherst County	005	Amherst County	1.17	Dead End	05-1410 Lake Ridge Dr	90	R							X						03/02/2004
+703356	  05	00787	     	05-787	 	005	Amherst County	005	Amherst County	0.33	05-1410 Lake Ridge Dr	05-652	220	R							X						03/02/2004
+703357	  05	00787	     	05-787	Salat Creek Rd	005	Amherst County	005	Amherst County	0.55	05-652	Dead End; Gap	40	R							X						03/05/2007
+703358	  05	00787	     	05-787	Crab Creek Rd	005	Amherst County	005	Amherst County	1.05	Dead End	05-650, E Perch Rd	40	R							X						03/05/2007
+703359	  05	00788	     	05-788	Garten Pl	005	Amherst County	005	Amherst County	0.16	05-728 Eastview Dr	Dead End	40	R							X						04/19/2007
+703360	  05	00789	     	05-789	 	005	Amherst County	005	Amherst County	0.10	Dead End	SR 130 Elon Rd	250	R							X						04/06/2004
+703361	  05	00790	     	05-790	Adrian St	005	Amherst County	005	Amherst County	0.15	05-791 Lee Dr	05-677	130	R							X						04/19/2007
+703362	  05	00791	     	05-791	Lee Dr	005	Amherst County	005	Amherst County	0.10	Dead End	05-790 Adrian St	60	R							X						04/19/2007
+703363	  05	00791	     	05-791	 	005	Amherst County	005	Amherst County	0.07	05-790 Adrian St	Dead End	60	R							X						04/06/2004
+703364	  05	00792	     	05-792	 	005	Amherst County	005	Amherst County	0.30	05-1304 Sunset Circle	Bus US 29	790	R							X						05/25/2004
+703365	  05	00793	     	05-793	Amer Circle	005	Amherst County	005	Amherst County	0.07	Bus US 29	Dead End	80	R							X						04/17/2007
+703366	  05	00794	     	05-794	 	005	Amherst County	005	Amherst County	0.20	05-712	US 60 Richmond Hwy	30	R							X						03/30/2004
+403911	  05	00795	     	05-795	Winridge Rd	005	Amherst County	005	Amherst County	0.80	SR 130 Elon Rd	05-675 Winesap Rd	810	G	99%	0%	1%	0%	0%	0%	C	0.0988	F	0.5670	880	G	2009
+703367	  05	00796	     	05-796	Mountain View Dr	005	Amherst County	005	Amherst County	0.10	05-675; 05-1319	05-1327, W Briar Pl	730	R							X						04/23/2007
+703368	  05	00796	     	05-796	Mountain View Dr	005	Amherst County	005	Amherst County	0.45	05-1327, W Briar Pl	05-1332 Chesterfield Pl	430	R							X						04/23/2007
+703369	  05	00796	     	05-796	Mountain View Dr	005	Amherst County	005	Amherst County	0.04	05-1332 Chesterfield Pl	Dead End	40	R							X						04/23/2007
+703370	  05	00797	     	05-797	Camden Dr	005	Amherst County	005	Amherst County	0.47	Dead End	05-703	180	R							X						03/19/2007
+703371	  05	00798	     	05-798	 	005	Amherst County	005	Amherst County	0.18	05-1309 S, Beechwood Dr; Andrews Dr	05-1309 N, Beechwood Dr	30	R							X						05/04/2004
+703372	  05	00798	     	05-798	Foreston Manor Dr	005	Amherst County	005	Amherst County	0.16	05-1309 N, Beechwood Dr	05-675	240	R							X						04/23/2007
+703373	  05	00799	     	05-799	 	005	Amherst County	005	Amherst County	0.53	05-635 Buffalo Springs Tpke	05-642 Meadow Hollow Rd	90	R							X						03/30/2004
+703374	  05	00800	     	05-800	 	005	Amherst County	005	Amherst County	0.12	05-635 S, Buffalo Springs Tpke	05-635 N, Buffalo Springs Tpke	10	R							X						04/06/2004
+703375	  05	00801	     	05-801	Grooms Lane	005	Amherst County	005	Amherst County	0.32	05-717 Brown Town Rd	Dead End	30	R							X						03/15/2007
+703376	  05	00802	     	05-802	Forest Sale Rd	005	Amherst County	005	Amherst County	0.07	Dead End	0.07 MN Dead End	40	R							X						03/12/2007
+703377	  05	00802	     	05-802	Forest Sale Rd	005	Amherst County	005	Amherst County	0.60	0.07 MN Dead End	0.67 MN Dead End	80	R							X						03/12/2007
+703378	  05	00802	     	05-802	Forest Sale Rd	005	Amherst County	005	Amherst County	0.18	0.67 MN Dead End	0.85 MN Dead End	90	R							X						03/12/2007
+703379	  05	00802	     	05-802	Forest Sale Rd	005	Amherst County	005	Amherst County	0.14	0.85 MN Dead End	US 60 Lexington Tpke	100	R							X						03/12/2007
+703380	  05	00803	     	05-803	Harrison Creek Lane	005	Amherst County	005	Amherst County	0.33	05-610	Dead End	130	R							X						03/15/2007
+703381	  05	00805	     	05-805	Lynwood Dr	005	Amherst County	005	Amherst County	0.19	Dead End	05-675	210	R							X						04/23/2007
+703382	  05	00806	     	05-806	Montrose Rd	005	Amherst County	005	Amherst County	0.20	05-653	Dead End	170	R							X						03/15/2007
+703383	  05	00807	     	05-807	Mount Cedron Rd	005	Amherst County	005	Amherst County	0.40	05-657 Cedar Gate Rd	05-657 Cedar Gate Rd	60	R							X						03/08/2007
+703384	  05	00808	     	05-808	Loblolly Lane	005	Amherst County	005	Amherst County	0.25	05-610	Dead End	50	R							X						03/05/2007
+703385	  05	00809	     	05-809	Casey Lane	005	Amherst County	005	Amherst County	0.48	05-677	Dead End	320	R							X						04/10/2007
+703386	  05	00810	     	05-810	Lamont Dr	005	Amherst County	005	Amherst County	0.16	05-677; 05-1311	05-1325 Lamont Circle	470	R							X						04/17/2007
+703387	  05	00810	     	05-810	Lamont Dr	005	Amherst County	005	Amherst County	0.09	05-1325 Lamont Circle	Dead End	60	R							X						04/17/2007
+703388	  05	00811	     	05-811	 	005	Amherst County	005	Amherst County	0.39	05-671 Possum Island Rd	Dead End	120	R							X						06/15/2004
+703389	  05	00812	     	05-812	Hercules Rd	005	Amherst County	005	Amherst County	0.42	US 501	Dead End	50	R							X						03/07/2007
+703390	  05	00813	     	05-813	Long View Dr	005	Amherst County	005	Amherst County	0.34	Cul-de-Sac	05-604	260	R							X						04/17/2007
+703391	  05	00814	     	05-814	Morcom Dr	005	Amherst County	005	Amherst County	0.25	05-624	05-622 Stapleton Rd	30	R							X						04/12/2007
+703392	  05	00815	     	05-815	Clingempeel Lane	005	Amherst County	005	Amherst County	0.35	05-739	Dead End	20	R							X						03/07/2007
+703393	  05	00816	     	05-816	Charley Hill Rd	005	Amherst County	005	Amherst County	0.40	Dead End	05-665	40	R							X						03/07/2007
+703394	  05	00817	     	05-817	Jackson Dr	005	Amherst County	005	Amherst County	0.20	05-622 Galts Mill Rd	Dead End	170	R							X						04/10/2007
+703395	  05	00818	     	05-818	Harris Rd	005	Amherst County	005	Amherst County	0.17	Dead End	05-826 Sweeny Rd	350	R							X						04/10/2007
+703396	  05	00818	     	05-818	Harris Rd	005	Amherst County	005	Amherst County	0.30	05-826 Sweeny Rd	05-622 Galts Mill Rd	530	R							X						04/10/2007
+703397	  05	00819	     	05-819	Quarry Rd	005	Amherst County	005	Amherst County	0.70	05-665	Dead End	20	R							X						03/05/2007
+703398	  05	00820	     	05-820	Roses Mill Rd	005	Amherst County	005	Amherst County	0.19	05-674 Athole Lane	Dead End	10	R							X						03/07/2007
+703399	  05	00821	     	05-821	Amethyst Lane	005	Amherst County	005	Amherst County	0.40	Dead End	05-659 Buffalo Ridge Rd	60	R							X						04/10/2007
+703400	  05	00822	     	05-822	Lipscomb Hollow Rd	005	Amherst County	005	Amherst County	0.46	Dead End	05-739	160	R							X						03/07/2007
+403912	  05	00823	     	05-823	Fiber Plant Rd	005	Amherst County	005	Amherst County	0.53	05-600	05-622 Stapleton Rd	350	G	99%	0%	1%	0%	1%	0%	C	0.1663	F	0.8169	380	G	2009
+703401	  05	00824	     	05-824	Banton Lane	005	Amherst County	005	Amherst County	0.38	US 60 Richmond Hwy	Dead End	120	R							X						03/07/2007
+703402	  05	00825	     	05-825	Industrial Park Dr	005	Amherst County	005	Amherst County	0.42	Dead End	05-731 Zane Snead Dr	260	R							X						03/22/2007
+703403	  05	00826	     	05-826	Sweeny Rd	005	Amherst County	005	Amherst County	0.15	05-818 Harris Rd	Cul-de-Sac	80	R							X						04/10/2007
+703404	  05	00827	     	05-827	Perkins Mill Rd	005	Amherst County	005	Amherst County	2.58	62-666; Nelson County Line	Nelson County Line	100	R							X						03/05/2007
+703405	  05	00828	     	05-828	Briarwood Dr	005	Amherst County	005	Amherst County	1.14	Dead End	05-663 Brightwells Mill Rd	170	R							X						03/15/2007
+703406	  05	00829	     	05-829	Thrashers Lake Rd	005	Amherst County	005	Amherst County	0.38	Cul-de-Sac	05-617	10	R							X						03/05/2007
+703407	  05	00830	     	05-830	Stone House Lake Rd	005	Amherst County	005	Amherst County	0.70	Cul-de-Sac	05-625	46	R							X						03/05/2007
+403913	  05	00833	     	05-833	Old Wright Shop Rd	005	Amherst County	005	Amherst County	0.53	05-622 W, New Wright Shop Rd; Wright Shop Rd	05-681	2000	G	98%	1%	1%	0%	0%	0%	F	0.0945	F	0.5721	2100	G	2009
+403914	  05	00833	     	05-833	Old Wright Shop Rd	005	Amherst County	005	Amherst County	0.88	05-681	05-622 E, New Wright Shop Rd	2700	G	98%	1%	1%	0%	0%	0%	C	0.0941	F	0.5371	2900	G	2009
+703408	  05	00835	     	05-835	Danny Dr	005	Amherst County	005	Amherst County	0.20	05-635 Buffalo Springs Tpke	Dead End	40	R							X						03/12/2007
+782033	  05	00838	     	05-838	Brockman Park Dr	005	Amherst County	005	Amherst County	0.48	US 60 Richmond Hwy	Dead End	620	R							X						04/12/2007
+782034	  05	00839	     	05-839	East Commerce St	005	Amherst County	005	Amherst County	0.29	Dead End	Dead End	110	R							X						04/12/2007
+703409	  05	00840	     	05-840	 	005	Amherst County	005	Amherst County	0.50	Dead End	05-604	170	R							X						04/27/2004
+703410	  05	00840	     	05-840	 	005	Amherst County	005	Amherst County	0.30	05-604	0.30 MN 05-604; Dead End	100	R							X						04/27/2004
+797605	  05	00842	     	05-842	Old Wright Shop Rd	005	Amherst County	005	Amherst County	0.30	Dead End	05-622 CVT Rd	0	?							X
+797606	  05	00843	     	05-843	 	005	Amherst County	005	Amherst County	0.18	05-622	05-1029 Rose Lane	0	?							X
+797699	  05	00845	     	05-845	Ragland Rd	005	Amherst County	005	Amherst County	0.13	Dead End	05-1033 Morris St	0	?							X
+703478	  05	00845	     	05-845	Ragland Rd	005	Amherst County	005	Amherst County	0.05	05-1033 Morris St	Dead End	320	R							X						04/30/2007
+403915	  05	00846	     	05-846	Stapelton Rd	005	Amherst County	005	Amherst County	0.99	05-622	Nelson County Line	610	G	34%	1%	1%	3%	61%	0%	C	0.1042	F	0.5946	670	G	2009
+406775	  05	00861	     	05-861	Old Stage Rd	005	Amherst County	005	Amherst County	0.23	Cul-de-Sac	05-624 S, Higginbotham Creek Rd	0	?							X
+403866	  05	00861	     	05-861	Old Stage Rd	005	Amherst County	005	Amherst County	0.17	05-624 S, Higginbotham Creek Rd	05-624 N, Sweet Briar Lane	350	G	98%	0%	0%	0%	0%	0%	C	0.1054	F	0.7556	380	G	2009
+703155	  05	00861	     	05-861	Old Stage Rd	005	Amherst County	005	Amherst County	1.25	05-624 N, Sweet Briar Lane	1.25 MN 05-624	370	R							X						04/05/2007
+703156	  05	00861	     	05-861	Old Stage Rd	005	Amherst County	005	Amherst County	0.34	1.25 MN 05-624	Dead End	10	R							X						06/15/2004
+703411	  05	01001	     	05-1001	Phelps Rd	005	Amherst County	005	Amherst County	0.10	Dead End	05-1036 East St	50	R							X						05/10/2007
+703412	  05	01001	     	05-1001	Phelps Rd	005	Amherst County	005	Amherst County	0.05	05-1036 East St	05-1026 Center St	280	R							X						05/10/2007
+703413	  05	01001	     	05-1001	Phelps Rd	005	Amherst County	005	Amherst County	0.10	05-1026 Center St	SR 163 Amherst Hwy	590	R							X						05/10/2007
+703414	  05	01002	     	05-1002	Dellwood Dr	005	Amherst County	005	Amherst County	0.20	05-1046 Triple Oak Circle	05-1054 Lakeview Dr	200	R							X						05/01/2007
+792289	  05	01003	     	05-1003	 	005	Amherst County	005	Amherst County	0.32	SR 130 Elon Rd	Dead End	0	?							X
+703415	  05	01004	     	05-1004	Lynchs Ferry Rd	005	Amherst County	005	Amherst County	0.15	SR 163; 05-685	05-1015 Rocky Hill Rd	1100	R							X						05/24/2007
+703416	  05	01004	     	05-1004	Lynchs Ferry Rd	005	Amherst County	005	Amherst County	0.43	05-1015 Rocky Hill Rd	05-1021	420	R							X						05/24/2007
+703417	  05	01004	     	05-1004	Lynchs Ferry Rd	005	Amherst County	005	Amherst County	0.47	05-1021	05-1006 Main St	490	R							X						05/24/2007
+703418	  05	01005	     	05-1005	Church St	005	Amherst County	005	Amherst County	0.06	05-1016	05-1017 Third St	100	R							X						05/17/2007
+703419	  05	01005	     	05-1005	Church St	005	Amherst County	005	Amherst County	0.06	05-1017 Third St	05-1018 Fourth St	100	R							X						05/17/2007
+703420	  05	01005	     	05-1005	Church St	005	Amherst County	005	Amherst County	0.06	05-1018 Fourth St	05-1019 Fifth St	100	R							X						05/17/2007
+703421	  05	01005	     	05-1005	Church St	005	Amherst County	005	Amherst County	0.06	05-1019 Fifth St	05-1020 Sixth St	80	R							X						05/17/2007
+703422	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.12	Dead End	05-1014 E Rucker St; W Rucker St	70	R							X						05/17/2007
+703423	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.08	05-1014 E Rucker St; W Rucker St	05-1015 Rocky Hill Rd; Horse Ford Rd	110	R							X						05/17/2007
+703424	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.04	05-1015 Rocky Hill Rd; Horse Ford Rd	05-1016	480	R							X						05/17/2007
+703425	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.06	05-1016	05-1017 Third St	590	R							X						05/17/2007
+703426	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.05	05-1017 Third St	05-1018 Fourth St	650	R							X						05/17/2007
+703427	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.07	05-1018 Fourth St	05-1019 Fifth St	810	R							X						05/17/2007
+703428	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.05	05-1019 Fifth St	05-1020 Sixth St	1100	R							X						05/17/2007
+703429	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.09	05-1020 Sixth St	05-1021 Seventh St	1200	R							X						05/17/2007
+703430	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.11	05-1021 Seventh St	05-1022 S, Eighth St	1400	R							X						05/17/2007
+703431	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.03	05-1022 S, Eighth St	05-1022 N, Eighth St	1500	R							X						05/17/2007
+703432	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.05	05-1022 N, Eighth St	05-1023 Ninth St	1600	R							X						05/17/2007
+703433	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.10	05-1023 Ninth St	05-1004 Lynchs Ferry Rd	1900	R							X						05/17/2007
+703434	  05	01006	     	05-1006	Main St	005	Amherst County	005	Amherst County	0.02	05-1004 Lynchs Ferry Rd	SR 210; 05-1034	2400	R							X						05/17/2007
+703435	  05	01007	     	05-1007	Clark St	005	Amherst County	005	Amherst County	0.10	Dead End	05-1016	60	R							X						05/17/2007
+703436	  05	01007	     	05-1007	Clark St	005	Amherst County	005	Amherst County	0.06	05-1016	05-1017 Third St	70	R							X						05/17/2007
+703437	  05	01007	     	05-1007	Clark St	005	Amherst County	005	Amherst County	0.06	05-1017 Third St	05-1018 Fourth St	80	R							X						05/17/2007
+703438	  05	01007	     	05-1007	Clark St	005	Amherst County	005	Amherst County	0.06	05-1018 Fourth St	05-1019 Fifth St	90	R							X						05/17/2007
+703439	  05	01007	     	05-1007	Clark St	005	Amherst County	005	Amherst County	0.15	05-1019 Fifth St	05-1021 Seventh St	100	R							X						05/17/2007
+703440	  05	01007	     	05-1007	Warwick St	005	Amherst County	005	Amherst County	0.14	05-1021 Seventh St	05-1022 Eighth St	80	R							X						05/17/2007
+703441	  05	01007	     	05-1007	Warwick St	005	Amherst County	005	Amherst County	0.05	05-1022 Eighth St	05-1023 Ninth St	80	R							X						05/17/2007
+703442	  05	01008	     	05-1008	 	005	Amherst County	005	Amherst County	0.15	Dead End	05-1023 Ninth St	45	R							X						04/27/2004
+703443	  05	01008	     	05-1008	 	005	Amherst County	005	Amherst County	0.10	05-1023 Ninth St	Cul-de-Sac	310	R							X						04/27/2004
+703444	  05	01009	     	05-1009	Parrish Place	005	Amherst County	005	Amherst County	0.08	Dead End	05-1023 Ninth St	50	R							X						05/24/2007
+703446	  05	01010	     	05-1010	Turner St	005	Amherst County	005	Amherst County	0.12	05-1017 Third St	05-1019 Fifth St	30	R							X						05/17/2007
+703447	  05	01011	     	05-1011	Early Dr	005	Amherst County	005	Amherst County	0.10	Dead End	SR 163 Amherst Hwy	80	R							X						05/24/2007
+703448	  05	01012	     	05-1012	Sunset Dr	005	Amherst County	005	Amherst County	0.60	SR 210 Colony Rd	Dead End	380	R							X						05/24/2007
+703449	  05	01013	     	05-1013	Caroline Ave	005	Amherst County	005	Amherst County	0.18	Dead End	0.18 MN Dead End	500	R							X						05/24/2007
+703450	  05	01013	     	05-1013	Caroline Ave	005	Amherst County	005	Amherst County	0.51	0.18 MN Dead End	SR 334 Lynchburg Training School and Hospital Road	460	R							X						05/24/2007
+703451	  05	01014	     	05-1014	W Rucker St	005	Amherst County	005	Amherst County	0.07	Dead End	05-1006 Main St	70	R							X						05/17/2007
+703452	  05	01014	     	05-1014	E Rucker St	005	Amherst County	005	Amherst County	0.02	05-1006 Main St	Dead End	40	R							X						05/17/2007
+703453	  05	01015	     	05-1015	Horse Ford Rd	005	Amherst County	005	Amherst County	0.07	Dead End	05-1006 Main St	10	R							X						05/24/2007
+703454	  05	01015	     	05-1015	Rocky Hill Rd	005	Amherst County	005	Amherst County	0.17	05-1006 Main St	05-1004 Lynchs Ferry Rd	870	R							X						05/24/2007
+703455	  05	01016	     	05-1016	 	005	Amherst County	005	Amherst County	0.07	05-1007 Clark St	05-1006 Main St	100	R							X						04/27/2004
+703456	  05	01016	     	05-1016	 	005	Amherst County	005	Amherst County	0.07	05-1006 Main St	05-1005 Church St	200	R							X						04/27/2004
+703457	  05	01017	     	05-1017	Third St	005	Amherst County	005	Amherst County	0.04	05-1010 Turner St	05-1007 Clark St	30	R							X						05/17/2007
+703458	  05	01017	     	05-1017	Third St	005	Amherst County	005	Amherst County	0.06	05-1007 Clark St	Dead End; Gap	40	R							X						05/17/2007
+703459	  05	01017	     	05-1017	Third St	005	Amherst County	005	Amherst County	0.05	Dead End; Gap	05-1005 Church St	30	R							X						05/17/2007
+703460	  05	01018	     	05-1018	Fourth St	005	Amherst County	005	Amherst County	0.07	05-1007 Clark St	05-1006 Main St	70	R							X						05/17/2007
+703461	  05	01018	     	05-1018	Fourth St	005	Amherst County	005	Amherst County	0.07	05-1006 Main St	05-1005 Church St	70	R							X						05/17/2007
+703462	  05	01019	     	05-1019	Fifth St	005	Amherst County	005	Amherst County	0.04	Dead End	05-1005 Church St	30	R							X						05/17/2007
+703463	  05	01019	     	05-1019	Fifth St	005	Amherst County	005	Amherst County	0.07	05-1005 Church St	05-1006 Main St	80	R							X						05/17/2007
+703464	  05	01019	     	05-1019	Fifth St	005	Amherst County	005	Amherst County	0.07	05-1006 Main St	05-1007 Clark St	110	R							X						05/17/2007
+703465	  05	01019	     	05-1019	Fifth St	005	Amherst County	005	Amherst County	0.04	05-1007 Clark St	05-1010 Turner St	100	R							X						05/17/2007
+703466	  05	01020	     	05-1020	Sixth St	005	Amherst County	005	Amherst County	0.07	05-1005 Church St	05-1006 Main St	100	R							X						05/17/2007
+703467	  05	01021	     	05-1021	 	005	Amherst County	005	Amherst County	0.20	05-1004 Lynchs Ferry Rd	05-1006 Main St	100	R							X						04/27/2004
+703468	  05	01021	     	05-1021	Seventh St	005	Amherst County	005	Amherst County	0.05	05-1006 Main St	05-1007 N, Warwick St	170	R							X						05/17/2007
+703469	  05	01021	     	05-1021	Seventh St	005	Amherst County	005	Amherst County	0.03	05-1007 N, Warwick St	05-1007 S, Clark St	140	R							X						05/17/2007
+703470	  05	01021	     	05-1021	Seventh St	005	Amherst County	005	Amherst County	0.24	05-1007 S, Clark St	Dead End	20	R							X						05/17/2007
+703471	  05	01022	     	05-1022	Eighth St	005	Amherst County	005	Amherst County	0.05	05-1007 Warwick St	05-1006 N, Main St	180	R							X						05/24/2007
+703472	  05	01022	     	05-1022	Eighth St	005	Amherst County	005	Amherst County	0.10	05-1006 S, Main St	Dead End	60	R							X						05/24/2007
+703473	  05	01023	     	05-1023	Ninth St	005	Amherst County	005	Amherst County	0.08	05-1009 Union St	05-1008	140	R							X						05/17/2007
+703474	  05	01023	     	05-1023	Ninth St	005	Amherst County	005	Amherst County	0.05	05-1008	05-1007 Warwick St	240	R							X						05/17/2007
+703475	  05	01023	     	05-1023	Ninth St	005	Amherst County	005	Amherst County	0.05	05-1007 Warwick St	05-1006 Main St	360	R							X						05/17/2007
+703476	  05	01024	     	05-1024	Ragland Rd	005	Amherst County	005	Amherst County	0.35	Dead End	05-622	200	R							X						05/10/2007
+703479	  05	01025	     	05-1025	Miller Lane	005	Amherst County	005	Amherst County	0.10	Bus US 29	05-1034 Main St	310	R							X						05/10/2007
+703480	  05	01026	     	05-1026	Center St	005	Amherst County	005	Amherst County	0.06	Dead End	05-1001 Phelps Rd	80	R							X						05/10/2007
+703481	  05	01026	     	05-1026	Center St	005	Amherst County	005	Amherst County	0.15	05-1001 Phelps Rd	Dead End	200	R							X						05/10/2007
+703482	  05	01027	     	05-1027	Recycle Rd	005	Amherst County	005	Amherst County	0.37	Dead End	05-842	230	R							X						05/10/2007
+703483	  05	01028	     	05-1028	Ridge St	005	Amherst County	005	Amherst County	0.03	Dead End	0.03 ME Dead End	100	R							X						04/30/2007
+703484	  05	01028	     	05-1028	Ridge St	005	Amherst County	005	Amherst County	0.24	0.03 ME Dead End	05-1041 Spring St	170	R							X						04/30/2007
+703485	  05	01028	     	05-1028	Ridge St	005	Amherst County	005	Amherst County	0.05	05-1041 Spring St	05-1035 Forbes St	320	R							X						04/30/2007
+703486	  05	01028	     	05-1028	Ridge St	005	Amherst County	005	Amherst County	0.15	05-1035 Forbes St	FR-622; 05-1040	370	R							X						04/30/2007
+703487	  05	01029	     	05-1029	Rose Lane	005	Amherst County	005	Amherst County	0.09	SR 210	Dead End	60	R							X						05/10/2007
+703489	  05	01030	     	05-1030	S Hill Crest Dr	005	Amherst County	005	Amherst County	0.65	Dead End	05-622	430	R							X						05/01/2007
+703490	  05	01030	     	05-1030	S Hill Crest Dr	005	Amherst County	005	Amherst County	0.04	05-622	05-1066	620	R							X						05/01/2007
+703491	  05	01030	     	05-1030	N Hill Crest Dr	005	Amherst County	005	Amherst County	0.16	05-1066	05-833	510	R							X						05/01/2007
+703492	  05	01031	     	05-1031	Pinecrest Dr	005	Amherst County	005	Amherst County	0.60	Dead End	0.60 MN Dead End	130	R							X						05/01/2007
+703493	  05	01031	     	05-1031	Pinecrest Dr	005	Amherst County	005	Amherst County	0.20	0.60 MN Dead End	05-1056 Poplar Dr	330	R							X						05/01/2007
+703494	  05	01031	     	05-1031	Pinecrest Dr	005	Amherst County	005	Amherst County	0.18	05-1056 Poplar Dr	05-622	600	R							X						05/01/2007
+703495	  05	01032	     	05-1032	Pamona Dr	005	Amherst County	005	Amherst County	0.25	05-833	Dead End	190	R							X						05/10/2007
+703496	  05	01033	     	05-1033	Morris St	005	Amherst County	005	Amherst County	0.22	Dead End	05-845 Ragland Rd	260	R							X						05/10/2007
+703497	  05	01034	     	05-1034	Main St	005	Amherst County	005	Amherst County	0.16	SR 210; 05-1006	05-1043 Campbell St	2500	R							X						05/10/2007
+703498	  05	01034	     	05-1034	Main St	005	Amherst County	005	Amherst County	0.10	05-1043 Campbell St	05-1025 Miller Lane	2100	R							X						05/10/2007
+703499	  05	01034	     	05-1034	Main St	005	Amherst County	005	Amherst County	0.15	05-1025 Miller Lane	Bus US 29; FR-622	2000	R							X						05/10/2007
+703500	  05	01035	     	05-1035	Forbes St	005	Amherst County	005	Amherst County	0.07	Dead End	05-1028 Ridge St	70	R							X						05/25/2007
+703501	  05	01036	     	05-1036	East St	005	Amherst County	005	Amherst County	0.07	Dead End	05-1001 Phelps Rd	200	R							X						05/10/2007
+703502	  05	01037	     	05-1037	Spinner St	005	Amherst County	005	Amherst County	0.14	05-1024 Ragland Rd	Dead End	100	R							X						05/10/2007
+703503	  05	01038	     	05-1038	Wells St	005	Amherst County	005	Amherst County	0.19	SR 163 Amherst Hwy	Dead End	260	R							X						05/10/2007
+703504	  05	01039	     	05-1039	Williams Rd	005	Amherst County	005	Amherst County	0.20	SR 163 Amherst Hwy	Dead End	120	R							X						05/10/2007
+703505	  05	01040	     	05-1040	Lyttleton Lane	005	Amherst County	005	Amherst County	0.19	Dead End	05-1060 Worley Dr	210	R							X						04/30/2007
+703506	  05	01040	     	05-1040	Lyttleton Lane	005	Amherst County	005	Amherst County	0.24	05-1060 Worley Dr	FR-622; 05-1028	450	R							X						04/30/2007
+703507	  05	01040	     	05-1040	Lyttleton Lane	005	Amherst County	005	Amherst County	0.01	FR-622; 05-1028	Bus US 29	1600	R							X						04/30/2007
+703508	  05	01041	     	05-1041	Spring St	005	Amherst County	005	Amherst County	0.05	05-1028 Ridge St	Dead End	110	R							X						04/30/2007
+703509	  05	01042	     	05-1042	Viars Rd	005	Amherst County	005	Amherst County	0.10	05-622	Dead End	110	R							X						05/10/2007
+703510	  05	01043	     	05-1043	Campbell St	005	Amherst County	005	Amherst County	0.13	05-1034 Main St	Dead End	110	R							X						05/10/2007
+703511	  05	01044	     	05-1044	Reichard Dr	005	Amherst County	005	Amherst County	0.10	05-833	05-622	140	R							X						04/26/2007
+703512	  05	01044	     	05-1044	Reichard Dr	005	Amherst County	005	Amherst County	0.10	05-622	Dead End	120	R							X						04/26/2007
+703513	  05	01045	     	05-1045	Crestview Dr	005	Amherst County	005	Amherst County	0.10	Dead End	05-833	70	R							X						04/26/2007
+703514	  05	01046	     	05-1046	Triple Oak Circle	005	Amherst County	005	Amherst County	0.12	05-681	05-1047 Long Pine Dr	110	R							X						05/01/2007
+703515	  05	01046	     	05-1046	Triple Oak Circle	005	Amherst County	005	Amherst County	0.09	05-1047 Long Pine Dr	05-1002 Dellwood Dr	110	R							X						05/01/2007
+703516	  05	01046	     	05-1046	Triple Oak Circle	005	Amherst County	005	Amherst County	0.17	05-1002 Dellwood Dr	05-681	290	R							X						05/01/2007
+703517	  05	01047	     	05-1047	Long Pine Dr	005	Amherst County	005	Amherst County	0.10	05-1046 Triple Oak Circle	Dead End	70	R							X						05/01/2007
+703518	  05	01048	     	05-1048	Lakeland Circle	005	Amherst County	005	Amherst County	0.10	05-681	05-1051 Greenwood Dr	1900	R							X						05/01/2007
+703519	  05	01048	     	05-1048	Lakeland Circle	005	Amherst County	005	Amherst County	0.09	05-1051 Greenwood Dr	05-1049 Hilltop Dr	1300	R							X						05/01/2007
+703520	  05	01049	     	05-1049	Hilltop Dr	005	Amherst County	005	Amherst County	0.20	05-1048 Lakeland Circle	05-1050 Circle View Dr	1300	R							X						05/01/2007
+703521	  05	01049	     	05-1049	Hilltop Dr	005	Amherst County	005	Amherst County	0.24	05-1050 Circle View Dr	05-1063 Wellview Dr	1100	R							X						05/01/2007
+703522	  05	01049	     	05-1049	Hilltop Dr	005	Amherst County	005	Amherst County	0.19	05-1063 Wellview Dr	Dead End	250	R							X						05/01/2007
+703523	  05	01050	     	05-1050	Circle View Dr	005	Amherst County	005	Amherst County	0.09	05-1051 Greenwood Dr	05-1049 Hilltop Dr	140	R							X						05/01/2007
+703524	  05	01051	     	05-1051	Greenwood Dr	005	Amherst County	005	Amherst County	0.20	05-1048 Lakeland Circle	05-1050 Circle View Dr	570	R							X						05/01/2007
+703525	  05	01051	     	05-1051	Greenwood Dr	005	Amherst County	005	Amherst County	0.38	05-1050 Circle View Dr	Cul-de-Sac	320	R							X						05/01/2007
+703526	  05	01052	     	05-1052	Locust St	005	Amherst County	005	Amherst County	0.05	05-1070 Grove Ave	05-1053 Oak Hill Dr	60	R							X						05/25/2007
+703527	  05	01053	     	05-1053	Oak Hill Dr	005	Amherst County	005	Amherst County	0.05	Dead End	05-1052 Locust St	49	R							X						05/25/2007
+703528	  05	01053	     	05-1053	Oak Hill Dr	005	Amherst County	005	Amherst County	0.08	05-1052 Locust St	Dead End	60	R							X						05/25/2007
+403916	  05	01054	     	05-1054	Lakeview Dr	005	Amherst County	005	Amherst County	0.86	Bus US 29	05-681 Seminole Dr	2200	G	98%	1%	1%	0%	0%	0%	C	0.1002	F	0.5917	2400	G	2009
+703529	  05	01055	     	05-1055	Madison Circle	005	Amherst County	005	Amherst County	0.14	Dead End	SR 163 Amherst Hwy	100	R							X						04/30/2007
+703530	  05	01056	     	05-1056	Poplar Dr	005	Amherst County	005	Amherst County	0.10	Dead End	05-1031 Pinecrest Dr	200	R							X						05/01/2007
+703531	  05	01057	     	05-1057	Merrymoor Dr	005	Amherst County	005	Amherst County	0.04	05-1058 Otway Dr	SR 163 Amherst Hwy	1000	R							X						04/30/2007
+703532	  05	01058	     	05-1058	Otway Dr	005	Amherst County	005	Amherst County	0.10	05-1059 Moorman Dr	05-1057 Merrymoor Dr	920	R							X						04/30/2007
+703533	  05	01059	     	05-1059	Moorman Dr	005	Amherst County	005	Amherst County	0.12	Cul-de-Sac	05-1071 River Ridge Dr	110	R							X						04/30/2007
+703534	  05	01059	     	05-1059	Moorman Dr	005	Amherst County	005	Amherst County	0.14	05-1071 River Ridge Dr	05-1072 Scotts Mill Rd	340	R							X						04/30/2007
+703535	  05	01059	     	05-1059	Moorman Dr	005	Amherst County	005	Amherst County	0.09	Dead End	05-1058 Otway Dr	710	R							X						04/30/2007
+703536	  05	01060	     	05-1060	Worley Dr	005	Amherst County	005	Amherst County	0.20	Cul-de-Sac	05-1040 Lyttleton Lane	130	R							X						04/30/2007
+703537	  05	01061	     	05-1061	 	005	Amherst County	005	Amherst County	0.40	Dead End	0.40 ME 05-672	140	R							X						03/02/2004
+703538	  05	01061	     	05-1061	 	005	Amherst County	005	Amherst County	0.15	0.40 ME 05-672	Dead End	80	R							X						03/02/2004
+703539	  05	01062	     	05-1062	Laurel Dr	005	Amherst County	005	Amherst County	0.17	05-1064 Garford Rd	05-1063 Wellview Dr	150	R							X						05/01/2007
+703540	  05	01062	     	05-1062	Laurel Dr	005	Amherst County	005	Amherst County	0.18	05-1063 Wellview Dr	Dead End	370	R							X						05/01/2007
+703541	  05	01063	     	05-1063	Wellview Dr	005	Amherst County	005	Amherst County	0.09	05-1049 Hilltop Dr	05-1062 Laurel Dr	790	R							X						05/01/2007
+703542	  05	01063	     	05-1063	Wellview Dr	005	Amherst County	005	Amherst County	0.20	05-1062 Laurel Dr	05-1065 Prescott Pl	260	R							X						05/01/2007
+703543	  05	01064	     	05-1064	Garford Rd	005	Amherst County	005	Amherst County	0.18	05-1062 Laurel Dr	Cul-de-Sac	150	R							X						05/01/2007
+703544	  05	01065	     	05-1065	Prescott Pl	005	Amherst County	005	Amherst County	0.04	Dead End	05-1063 Wellview Dr	90	R							X						05/01/2007
+703545	  05	01066	     	05-1066	Highland Circle	005	Amherst County	005	Amherst County	0.19	05-1030, N Hill Crest Dr; S Hill Crest Dr	Dead End	100	R							X						05/01/2007
+703546	  05	01067	     	05-1067	Maple Dr	005	Amherst County	005	Amherst County	0.21	Dead End	05-622	300	R							X						04/26/2007
+703547	  05	01067	     	05-1067	Maple Dr	005	Amherst County	005	Amherst County	0.06	05-622	05-833	460	R							X						04/26/2007
+703548	  05	01068	     	05-1068	 	005	Amherst County	005	Amherst County	0.10	05-773 Martins Lane	0.10 ME 05-773	160	R							X						04/27/2004
+703549	  05	01068	     	05-1068	Merry Acres Dr	005	Amherst County	005	Amherst County	0.09	0.10 ME 05-773	SR 163 Amherst Hwy	160	R							X						04/30/2007
+703550	  05	01069	     	05-1069	Cloverdale Dr	005	Amherst County	005	Amherst County	0.09	Dead End	05-1054 Lakeview Drive	120	R							X						05/01/2007
+703551	  05	01070	     	05-1070	Edgewood Lane	005	Amherst County	005	Amherst County	0.10	Dead End	05-681 Mays St	80	R							X						04/25/2007
+703552	  05	01070	     	05-1070	Grove Ave	005	Amherst County	005	Amherst County	0.30	05-681 Mays St	05-1052 Locust St	160	R							X						04/25/2007
+703553	  05	01070	     	05-1070	Grove Ave	005	Amherst County	005	Amherst County	0.10	05-1052 Locust St	Bus US 29	490	R							X						04/25/2007
+703554	  05	01071	     	05-1071	River Ridge Dr	005	Amherst County	005	Amherst County	0.18	Cul-de-Sac	05-1059 Moorman Dr	140	R							X						04/30/2007
+703555	  05	01072	     	05-1072	Scotts Mill Rd	005	Amherst County	005	Amherst County	0.22	Cul-de-Sac	05-1059 Moorman Dr	230	R							X						04/30/2007
+703556	  05	01073	     	05-1073	 	005	Amherst County	005	Amherst County	0.13	Dead End	05-622	120	R							X						04/27/2004
+785966	  05	01074	     	05-1074	 	005	Amherst County	005	Amherst County	0.07	05-833	Dead End	20	R							X						04/27/2004
+797464	  05	01075	     	05-1075	 	005	Amherst County	005	Amherst County	0.02	05-661 Stage Rd	Cul-de-Sac	0	?							X
+703557	  05	01080	     	05-1080	Farmdale Dr	005	Amherst County	005	Amherst County	0.30	05-604	Cul-de-Sac	200	R							X						04/17/2007
+703558	  05	01081	     	05-1081	Tiffany Lane	005	Amherst County	005	Amherst County	0.07	05-1080 Farmdale Dr	Cul-de-Sac	80	R							X						04/17/2007
+703559	  05	01100	     	05-1100	Arthur Ct	005	Amherst County	005	Amherst County	0.30	Bus US 29	Dead End	70	R							X						03/22/2007
+403917	  05	01101	     	05-1101	Second St	163	Town of Amherst	005	Amherst County	0.15	05-659 Depot St; Second St	05-1102 Washington St	1300	G	97%	1%	1%	0%	0%	0%	C	0.0958	F	0.6429	1400	G	2009
+703560	  05	01101	     	05-1101	 	163	Town of Amherst	005	Amherst County	0.10	05-1102 Washington St	05-1109 Norfolk Ave	1200	R							X						04/12/2007
+703561	  05	01102	     	05-1102	Washington St	163	Town of Amherst	005	Amherst County	0.12	05-659 Depot St	05-1123, 1st St	60	R							X						04/12/2007
+703562	  05	01102	     	05-1102	Washington St	163	Town of Amherst	005	Amherst County	0.07	05-1123, 1st St	05-1101, 2nd St	390	R							X						04/12/2007
+703563	  05	01102	     	05-1102	Washington St	163	Town of Amherst	005	Amherst County	0.08	05-1101, 2nd St	US 60; 05-1112	2300	R							X						04/12/2007
+703564	  05	01103	     	05-1103	Ridge Dr	163	Town of Amherst	005	Amherst County	0.45	Bus US 29	NCL Amherst	470	R							X						03/27/2007
+703565	  05	01103	     	05-1103	Ridge Dr	005	Amherst County	005	Amherst County	0.05	NCL Amherst	05-1120 Ridge View Terrace	280	R							X						03/27/2007
+703566	  05	01103	     	05-1103	Ridge Dr	005	Amherst County	005	Amherst County	0.02	05-1120 Ridge View Terrace	Dead End	30	R							X						03/27/2007
+703567	  05	01104	     	05-1104	W Court St	163	Town of Amherst	005	Amherst County	0.10	Dead End	05-1107 Mt Olive Rd	170	R							X						04/12/2007
+703568	  05	01104	     	05-1104	W Court St	163	Town of Amherst	005	Amherst County	0.12	05-1107 Mt Olive Rd	Bus US 29	840	R							X						04/12/2007
+703569	  05	01104	     	05-1104	E Court St	163	Town of Amherst	005	Amherst County	0.03	Bus US 29	05-1105 Goodwin St	450	R							X						04/12/2007
+703570	  05	01104	     	05-1104	E Court St	163	Town of Amherst	005	Amherst County	0.02	05-1105 Goodwin St	Dead End	370	R							X						04/12/2007
+703571	  05	01105	     	05-1105	Goodwin St	163	Town of Amherst	005	Amherst County	0.03	05-659 Second St	05-1104, E Court St	390	R							X						04/12/2007
+703572	  05	01105	     	05-1105	Goodwin St	163	Town of Amherst	005	Amherst County	0.05	05-1104, E Court St	Dead End	210	R							X						04/12/2007
+703573	  05	01106	     	05-1106	Garland Ave	163	Town of Amherst	005	Amherst County	0.22	Dead End	05-1129 Scotts Hill Rd	160	R							X						04/12/2007
+703574	  05	01106	     	05-1106	Garland Ave	163	Town of Amherst	005	Amherst County	0.19	05-1129 Scotts Hill Rd	Bus US 29	350	R							X						04/12/2007
+703575	  05	01107	     	05-1107	Mt Olive Rd	163	Town of Amherst	005	Amherst County	0.21	Dead End	05-1104, W Court St	490	R							X						04/12/2007
+703576	  05	01108	     	05-1108	Grandview Dr	163	Town of Amherst	005	Amherst County	0.10	Bus US 29	NCL Amherst	450	R							X						03/22/2007
+703577	  05	01108	     	05-1108	Grandview Dr	005	Amherst County	005	Amherst County	0.37	NCL Amherst	05-1132 Hill Crest Dr	270	R							X						03/22/2007
+703578	  05	01108	     	05-1108	Grandview Dr	005	Amherst County	005	Amherst County	0.08	05-1132 Hill Crest Dr	05-1130 Grandview Terrace	150	R							X						03/22/2007
+703579	  05	01108	     	05-1108	Grandview Dr	005	Amherst County	005	Amherst County	0.14	05-1130 Grandview Terrace	Dead End	90	R							X						03/22/2007
+703580	  05	01109	     	05-1109	Norfolk Ave	163	Town of Amherst	005	Amherst County	0.18	05-659 Depot St	05-1123, 1st St	580	R							X						04/12/2007
+703581	  05	01109	     	05-1109	Norfolk Ave	163	Town of Amherst	005	Amherst County	0.08	05-1123, 1st St	05-1101	400	R							X						04/12/2007
+703582	  05	01110	     	05-1110	Pine St	163	Town of Amherst	005	Amherst County	0.08	Bus US 29	Dead End	160	R							X						03/27/2007
+703583	  05	01111	     	05-1111	Hangar Rd	163	Town of Amherst	005	Amherst County	0.35	Bus US 29	Dead End	80	R							X						03/27/2007
+703584	  05	01112	     	05-1112	Whitehead Dr	163	Town of Amherst	005	Amherst County	0.14	US 60; 05-1102	Dead End	260	R							X						03/27/2007
+703585	  05	01113	     	05-1113	Glenway Dr	163	Town of Amherst	005	Amherst County	0.12	Bus US 29	05-1127 Spruce St	870	R							X						03/27/2007
+703586	  05	01113	     	05-1113	Glenway Dr	163	Town of Amherst	005	Amherst County	0.01	05-1127 Spruce St	ECL Amherst	730	R							X						03/27/2007
+703587	  05	01113	     	05-1113	Glenway Dr	005	Amherst County	005	Amherst County	0.05	ECL Amherst	05-1117 Maple Lane	730	R							X						03/27/2007
+703588	  05	01113	     	05-1113	Glenway Dr	005	Amherst County	005	Amherst County	0.08	05-1117 Maple Lane	05-1128 Loch Lane	410	R							X						03/27/2007
+703589	  05	01114	     	05-1114	Cedar St	163	Town of Amherst	005	Amherst County	0.14	Bus US 29	Bus US 29	160	R							X						03/22/2007
+703590	  05	01115	     	05-1115	Taylor St	163	Town of Amherst	005	Amherst County	0.16	05-1101, 2nd St	Dead End	110	R							X						04/12/2007
+703591	  05	01116	     	05-1116	Blue Ridge Lane	163	Town of Amherst	005	Amherst County	0.42	Bus US 29	Dead End	330	R							X						03/22/2007
+703592	  05	01117	     	05-1117	Maple Lane	005	Amherst County	005	Amherst County	0.16	Dead End	05-1113 Glenway Dr	180	R							X						03/27/2007
+703593	  05	01118	     	05-1118	Gregory Lane	163	Town of Amherst	005	Amherst County	0.10	05-643 Kenmore Rd	05-1140 Woodland Dr	140	R							X						04/12/2007
+703594	  05	01118	     	05-1118	Gregory Lane	163	Town of Amherst	005	Amherst County	0.15	05-1140 Woodland Dr	Dead End	30	R							X						04/12/2007
+703595	  05	01119	     	05-1119	Monitor Rd	163	Town of Amherst	005	Amherst County	0.28	Bus US 29	US 60 Lexington Tpke	40	R							X						03/27/2007
+703596	  05	01120	     	05-1120	Ridge View Terrace	005	Amherst County	005	Amherst County	0.10	05-1103	05-1121	250	R							X						03/27/2007
+703597	  05	01121	     	05-1121	Vista Dr	005	Amherst County	005	Amherst County	0.10	Dead End	05-1120 Ridge View Terrace	70	R							X						03/27/2007
+703598	  05	01121	     	05-1121	Vista Dr	005	Amherst County	005	Amherst County	0.03	05-1120 Ridge View Terrace	05-1122 Lake Dr	190	R							X						03/27/2007
+703599	  05	01122	     	05-1122	Lake Dr	005	Amherst County	005	Amherst County	0.04	Dead End	05-1121 Vista Dr	30	R							X						03/27/2007
+703600	  05	01122	     	05-1122	Lake Dr	005	Amherst County	005	Amherst County	0.06	05-1121 Vista Dr	Dead End	160	R							X						03/27/2007
+703601	  05	01123	     	05-1123	1st St	163	Town of Amherst	005	Amherst County	0.05	05-1109 Norfolk Ave	05-1124 Church St	170	R							X						04/12/2007
+703602	  05	01123	     	05-1123	1st St	163	Town of Amherst	005	Amherst County	0.04	05-1124 Church St	05-1102 Washington St	210	R							X						04/12/2007
+703603	  05	01123	     	05-1123	1st St	163	Town of Amherst	005	Amherst County	0.10	05-1102 Washington St	05-659; 05-1135	60	R							X						04/12/2007
+703604	  05	01124	     	05-1124	Church St	163	Town of Amherst	005	Amherst County	0.12	Dead End	05-1123, 1st St	70	R							X						04/12/2007
+703605	  05	01125	     	05-1125	Lynchburg Rd	163	Town of Amherst	005	Amherst County	0.09	05-659 Depot St	Dead End	50	R							X						04/12/2007
+703606	  05	01126	     	05-1126	Locust St	163	Town of Amherst	005	Amherst County	0.12	Bus US 29	Dead End	60	R							X						03/22/2007
+703607	  05	01127	     	05-1127	Spruce St	163	Town of Amherst	005	Amherst County	0.08	Dead End	05-1113 Glenway Dr	90	R							X						03/27/2007
+703608	  05	01128	     	05-1128	Loch Lane	005	Amherst County	005	Amherst County	0.15	Dead End	05-1113 Glenway Dr	310	R							X						03/27/2007
+703609	  05	01129	     	05-1129	Scotts Hill Rd	005	Amherst County	005	Amherst County	0.22	Dead End	SCL Amherst	20	R							X						03/12/2007
+703610	  05	01129	     	05-1129	Scotts Hill Rd	163	Town of Amherst	005	Amherst County	0.01	SCL Amherst	05-1131 Oakland Dr	40	R							X						03/12/2007
+703611	  05	01129	     	05-1129	Scotts Hill Rd	163	Town of Amherst	005	Amherst County	0.27	05-1131 Oakland Dr	05-1106 Garland Ave	70	R							X						03/12/2007
+703612	  05	01130	     	05-1130	Grandview Terrace	005	Amherst County	005	Amherst County	0.09	05-1108 Grandview Dr	Cul-de-Sac	50	R							X						03/22/2007
+703613	  05	01131	     	05-1131	Oakland Dr	163	Town of Amherst	005	Amherst County	0.12	05-1129 Scotts Hill Rd	Dead End	2	R							X						03/12/2007
+703614	  05	01132	     	05-1132	Hill Crest Dr	005	Amherst County	005	Amherst County	0.27	Dead End	05-1108 Grandview Dr	100	R							X						03/22/2007
+703615	  05	01133	     	05-1133	 	163	Town of Amherst	005	Amherst County	0.10	Dead End	05-659 Depot St	80	R							X						04/12/2007
+703616	  05	01134	     	05-1134	Star St	163	Town of Amherst	005	Amherst County	0.03	Bus US 29	Dead End	180	R							X						04/12/2007
+703617	  05	01135	     	05-1135	School St	163	Town of Amherst	005	Amherst County	0.08	05-1136 Greenmeadows	05-659 Depot St	130	R							X						04/12/2007
+703618	  05	01136	     	05-1136	Green Meadow Dr	163	Town of Amherst	005	Amherst County	0.04	Dead End	05-1135 School St	80	R							X						04/12/2007
+703619	  05	01136	     	05-1136	Green Meadow Dr	163	Town of Amherst	005	Amherst County	0.02	05-1135 School St	Dead End	20	R							X						04/12/2007
+703620	  05	01137	     	05-1137	Forest Ave	163	Town of Amherst	005	Amherst County	0.05	Bus US 29	05-1138 Dogwood St	480	R							X						03/22/2007
+703621	  05	01137	     	05-1137	Forest Ave	163	Town of Amherst	005	Amherst County	0.07	05-1138 Dogwood St	Cul-de-Sac	300	R							X						03/22/2007
+703622	  05	01138	     	05-1138	Dogwood St	163	Town of Amherst	005	Amherst County	0.18	05-1137 Forest Ave	Dead End	190	R							X						03/22/2007
+703623	  05	01139	     	05-1139	Briarherst Dr	005	Amherst County	005	Amherst County	0.33	Cul-de-Sac	05-726 Waughs Ferry Rd	120	R							X						04/12/2007
+703624	  05	01140	     	05-1140	Woodland Dr	163	Town of Amherst	005	Amherst County	0.08	Cul-de-Sac	05-1141 Peyton Lane	45	R							X						04/12/2007
+703625	  05	01140	     	05-1140	Woodland Dr	163	Town of Amherst	005	Amherst County	0.09	05-1141 Peyton Lane	05-1118 Gregory Lane	140	R							X						04/12/2007
+703626	  05	01141	     	05-1141	Peyton Lane	163	Town of Amherst	005	Amherst County	0.05	05-1140 Woodland Dr	Cul-de-Sac	50	R							X						04/12/2007
+785581	  05	01142	     	05-1142	Wellington St	163	Town of Amherst	005	Amherst County	0.09	Dead End	Bus US 29	110	R							X						03/27/2007
+703627	  05	01145	     	05-1145	Glassgow Dr	005	Amherst County	005	Amherst County	0.31	Dead End	05-610	100	R							X						03/07/2007
+794175	  05	01190	     	05-1190	 	005	Amherst County	005	Amherst County	0.33	Dead End	FUTURE 670?	0	?							X
+703628	  05	01201	     	05-1201	Southern Lane	005	Amherst County	005	Amherst County	0.25	Dead End	05-657 Cedar Gate Rd	60	R							X						04/19/2007
+703629	  05	01202	     	05-1202	Brook St	005	Amherst County	005	Amherst County	0.15	05-657 Cedar Gate Rd	05-1211 Pinecone Ct	70	R							X						03/08/2007
+703630	  05	01202	     	05-1202	Brook St	005	Amherst County	005	Amherst County	0.16	05-1211 Pinecone Ct	05-1210	40	R							X						03/08/2007
+703631	  05	01202	     	05-1202	Brook St	005	Amherst County	005	Amherst County	0.05	05-1210	05-1203 Mildred Ave	100	R							X						03/08/2007
+703632	  05	01202	     	05-1202	Brook St	005	Amherst County	005	Amherst County	0.06	05-1203 Mildred Ave	05-1208, A St	110	R							X						03/08/2007
+703633	  05	01202	     	05-1202	 	005	Amherst County	005	Amherst County	0.06	05-1208, A St	05-1207, B St	150	R							X						05/04/2004
+703634	  05	01202	     	05-1202	Old Country Rd	005	Amherst County	005	Amherst County	0.13	05-1207, B St	05-1204 Harrison Ave	110	R							X						03/08/2007
+703635	  05	01202	     	05-1202	Old Country Rd	005	Amherst County	005	Amherst County	0.06	05-1204 Harrison Ave	05-1206 Spencer St	80	R							X						03/08/2007
+703636	  05	01202	     	05-1202	Coapman Rd	005	Amherst County	005	Amherst County	0.11	05-1206 Spencer St	05-1214 Myrtle St	90	R							X						03/08/2007
+703637	  05	01203	     	05-1203	Mildred Ave	005	Amherst County	005	Amherst County	0.05	Dead End	05-1202 Brook St	50	R							X						03/08/2007
+703638	  05	01203	     	05-1203	Monroe St	005	Amherst County	005	Amherst County	0.58	05-1202 Brook St	05-1214 Myrtle St	70	R							X						05/04/2004
+703639	  05	01204	     	05-1204	Harrison Ave	005	Amherst County	005	Amherst County	0.10	05-1203	05-1202 Old Country Rd	40	R							X						03/08/2007
+703640	  05	01204	     	05-1204	Harrison Ave	005	Amherst County	005	Amherst County	0.13	05-1202 Old Country Rd	05-1214 Myrtle St	150	R							X						03/08/2007
+703641	  05	01206	     	05-1206	Spencer St	005	Amherst County	005	Amherst County	0.05	05-1202 Coapman Rd; Old Country Rd	05-1203	40	R							X						03/08/2007
+703642	  05	01207	     	05-1207	B St	005	Amherst County	005	Amherst County	0.05	Dead End	0.05 MW Dead End	30	R							X						03/08/2007
+703643	  05	01207	     	05-1207	B St	005	Amherst County	005	Amherst County	0.05	0.05 MW Dead End	05-1202 Old Country Rd	30	R							X						03/08/2007
+703644	  05	01207	     	05-1207	B St	005	Amherst County	005	Amherst County	0.06	05-1202 Old Country Rd	05-1203	30	R							X						03/08/2007
+703645	  05	01208	     	05-1208	A St	005	Amherst County	005	Amherst County	0.05	Dead End	05-1202 Brook St	30	R							X						03/08/2007
+703646	  05	01208	     	05-1208	A St	005	Amherst County	005	Amherst County	0.06	05-1202 Brook St	05-1203	70	R							X						03/08/2007
+703647	  05	01210	     	05-1210	Lynchburg Ave	005	Amherst County	005	Amherst County	0.25	Bus US 29	05-1202 Brook St	370	R							X						05/04/2004
+703648	  05	01211	     	05-1211	Pinecone Ct	005	Amherst County	005	Amherst County	0.10	05-1202 Brook St	Dead End	90	R							X						03/08/2007
+703649	  05	01212	     	05-1212	Propane Lane	005	Amherst County	005	Amherst County	0.30	Dead End	05-657 Cedar Gate Rd	30	R							X						04/19/2007
+703650	  05	01213	     	05-1213	 	005	Amherst County	005	Amherst County	0.10	Bus US 29; 05-657	Dead End	30	R							X						04/27/2004
+703651	  05	01214	     	05-1214	Myrtle St	005	Amherst County	005	Amherst County	0.15	Bus US 29; 05-657	05-1204 Harrison Ave	360	R							X						03/08/2007
+703652	  05	01214	     	05-1214	Myrtle St	005	Amherst County	005	Amherst County	0.06	05-1204 Harrison Ave	05-1202 Coapman Rd	260	R							X						03/08/2007
+703653	  05	01214	     	05-1214	Myrtle St	005	Amherst County	005	Amherst County	0.07	05-1202 Coapman Rd	05-1203	260	R							X						03/08/2007
+703654	  05	01214	     	05-1214	Frances Ave	005	Amherst County	005	Amherst County	0.15	05-1203	05-671	250	R							X						03/08/2007
+703655	  05	01215	     	05-1215	Myrtle St	005	Amherst County	005	Amherst County	0.15	Bus US 29	Dead End	80	R							X						04/19/2007
+703656	  05	01216	     	05-1216	 	005	Amherst County	005	Amherst County	0.15	05-671	0.15 MN 05-671	40	R							X						05/04/2004
+703657	  05	01216	     	05-1216	Daffodil Rd	005	Amherst County	005	Amherst County	0.15	0.15 MN 05-671	Dead End	30	R							X						03/12/2007
+703658	  05	01217	     	05-1217	Woodrow Court	005	Amherst County	005	Amherst County	0.15	Cul-de-Sac	05-646 Woodrow Ave	100	R							X						04/19/2007
+703659	  05	01220	     	05-1220	 	005	Amherst County	005	Amherst County	0.14	Dead End	05-657 Cedar Gate Rd	170	R							X						05/04/2004
+703660	  05	01225	     	05-1225	 	005	Amherst County	005	Amherst County	0.03	05-1226	05-675	310	R							X						04/27/2004
+703661	  05	01226	     	05-1226	 	005	Amherst County	005	Amherst County	0.22	05-1225	Cul-de-Sac	170	R							X						04/27/2004
+703662	  05	01240	     	05-1240	Berg Dr	005	Amherst County	005	Amherst County	0.44	Dead End	05-1241	270	R							X						03/05/2007
+703663	  05	01240	     	05-1240	Berg Dr	005	Amherst County	005	Amherst County	0.09	05-1241	SR 130 Elon Rd	440	R							X						03/05/2007
+703664	  05	01241	     	05-1241	 	005	Amherst County	005	Amherst County	0.63	Cul-de-Sac	05-1240 Berg Dr	380	R							X						03/02/2004
+703665	  05	01242	     	05-1242	 	005	Amherst County	005	Amherst County	0.49	Cul-de-Sac	05-1240 Berg Dr	90	R							X						03/02/2004
+703666	  05	01243	     	05-1243	 	005	Amherst County	005	Amherst County	0.17	05-1240 Berg Dr	Cul-de-Sac	90	R							X						03/02/2004
+795968	  05	01245	     	05-1245	 	005	Amherst County	005	Amherst County	0.66	Dead End	05-795 Winridge Rd	0	?							X
+795969	  05	01246	     	05-1246	 	005	Amherst County	005	Amherst County	0.06	05-1245	Dead End	0	?							X
+795970	  05	01247	     	05-1247	 	005	Amherst County	005	Amherst County	0.23	05-1245	Dead End	0	?							X
+795971	  05	01248	     	05-1248	 	005	Amherst County	005	Amherst County	0.09	Dead End	05-1247	0	?							X
+703667	  05	01301	     	05-1301	Goyer Dr	005	Amherst County	005	Amherst County	0.34	05-1302 Chapel View Dr	05-1303 Royal Circle	70	R							X						04/25/2007
+703668	  05	01301	     	05-1301	Goyer Dr	005	Amherst County	005	Amherst County	0.04	05-1303 Royal Circle	05-1302 Chapel View Dr	200	R							X						04/25/2007
+703669	  05	01301	     	05-1301	Goyer Dr	005	Amherst County	005	Amherst County	0.08	05-1302 Chapel View Dr	Bus US 29	260	R							X						04/25/2007
+703670	  05	01301	     	05-1301	Daniels Pl	005	Amherst County	005	Amherst County	0.02	Bus US 29	05-680	100	R							X						05/25/2007
+703671	  05	01302	     	05-1302	Chapel View Dr	005	Amherst County	005	Amherst County	0.22	05-1301 Goyer Dr	05-1301 Goyer Dr	100	R							X						05/25/2007
+703672	  05	01303	     	05-1303	Royal Circle	005	Amherst County	005	Amherst County	0.23	Dead End	05-1301 Goyer Dr	120	R							X						05/25/2007
+703673	  05	01304	     	05-1304	Sunset Circle	005	Amherst County	005	Amherst County	0.10	Dead End	05-792	60	R							X						04/19/2007
+703674	  05	01304	     	05-1304	Sunset Circle	005	Amherst County	005	Amherst County	0.11	05-792	05-1305 Sunset Circle; Orchard St	240	R							X						04/19/2007
+703675	  05	01305	     	05-1305	Orchard St	005	Amherst County	005	Amherst County	0.39	Dead End	05-1304 Sunset Circle	190	R							X						04/19/2007
+703676	  05	01305	     	05-1305	Sunset Circle	005	Amherst County	005	Amherst County	0.05	05-1304 Sunset Circle	Dead End	30	R							X						04/19/2007
+703677	  05	01306	     	05-1306	Great Oaks Dr	005	Amherst County	005	Amherst County	0.03	Dead End	05-1307 Idlebrook Rd	40	R							X						05/25/2007
+703678	  05	01306	     	05-1306	Great Oaks Dr	005	Amherst County	005	Amherst County	0.22	05-1307 Idlebrook Rd	Bus US 29; 05-682	570	R							X						05/25/2007
+703679	  05	01307	     	05-1307	Idlebrook Rd	005	Amherst County	005	Amherst County	0.04	Dead End	05-1306 Great Oaks Dr	90	R							X						05/25/2007
+703680	  05	01308	     	05-1308	Hill Crest Circle	005	Amherst County	005	Amherst County	0.17	05-677	05-1342 Glenwood Dr	330	R							X						04/19/2007
+703681	  05	01308	     	05-1308	Hill Crest Circle	005	Amherst County	005	Amherst County	0.05	05-1342 Glenwood Dr	Dead End	80	R							X						04/19/2007
+703682	  05	01309	     	05-1309	Andrews Dr	005	Amherst County	005	Amherst County	0.06	05-730	05-1318 Shanon Dr	190	R							X						04/24/2007
+703683	  05	01309	     	05-1309	Andrews Dr	005	Amherst County	005	Amherst County	0.18	05-1318 Shanon Dr	05-798 NORTH	160	R							X						04/24/2007
+703684	  05	01309	     	05-1309	Beechwood Dr	005	Amherst County	005	Amherst County	0.13	05-798 NORTH	05-798 S, Foreston Manor Dr	200	R							X						04/24/2007
+703685	  05	01310	     	05-1310	Daniels Dr	005	Amherst County	005	Amherst County	0.69	Bus US 29	05-682	980	R							X						04/25/2007
+703686	  05	01311	     	05-1311	Shearingham Dr	005	Amherst County	005	Amherst County	0.04	Dead End	05-1334 Crest Wood Dr	80	R							X						04/17/2007
+703687	  05	01311	     	05-1311	Shearingham Dr	005	Amherst County	005	Amherst County	0.10	05-1334 Crest Wood Dr	05-1312 Yorkshire Pl	430	R							X						04/17/2007
+703688	  05	01311	     	05-1311	Shearingham Dr	005	Amherst County	005	Amherst County	0.27	05-1312 Yorkshire Pl	05-677; 05-810	720	R							X						04/17/2007
+703689	  05	01312	     	05-1312	Yorkshire Pl	005	Amherst County	005	Amherst County	0.10	Dead End	05-1313 Charlestown Rd	110	R							X						04/17/2007
+703690	  05	01312	     	05-1312	Yorkshire Pl	005	Amherst County	005	Amherst County	0.11	05-1313 Charlestown Rd	05-1311 Shearingham Dr	260	R							X						04/17/2007
+703691	  05	01313	     	05-1313	Charlestown Rd	005	Amherst County	005	Amherst County	0.03	05-1312 Yorkshire Pl	Dead End	40	R							X						04/17/2007
+703692	  05	01314	     	05-1314	Amelon Pl	005	Amherst County	005	Amherst County	0.13	Dead End	05-669	130	R							X						04/24/2007
+703693	  05	01315	     	05-1315	Holiday Dr	005	Amherst County	005	Amherst County	0.08	05-1317 Valley View Dr	05-1316 Patrick Ct	120	R							X						04/19/2007
+703694	  05	01315	     	05-1315	Holiday Dr	005	Amherst County	005	Amherst County	0.08	05-1316 Patrick Ct	05-728 Eastview Dr	210	R							X						04/19/2007
+703695	  05	01316	     	05-1316	Patrick Ct	005	Amherst County	005	Amherst County	0.04	Dead End	05-1315 Holiday Dr	50	R							X						04/19/2007
+703696	  05	01316	     	05-1316	Patrick Ct	005	Amherst County	005	Amherst County	0.06	05-1315 Holiday Dr	Dead End	70	R							X						04/19/2007
+703697	  05	01317	     	05-1317	Valley View Dr	005	Amherst County	005	Amherst County	0.06	Dead End	05-1315 Holiday Dr	60	R							X						04/19/2007
+703698	  05	01317	     	05-1317	Valley View Dr	005	Amherst County	005	Amherst County	0.04	05-1315 Holiday Dr	Dead End	70	R							X						04/19/2007
+703699	  05	01318	     	05-1318	Shanon Dr	005	Amherst County	005	Amherst County	0.11	05-1309 Andrews Dr	Dead End	80	R							X						04/24/2007
+703700	  05	01319	     	05-1319	Nottingham Pl	005	Amherst County	005	Amherst County	0.20	05-1320 Robin Hood Pl; Robin Hool Pl	05-1321 Canterberry Pl	340	R							X						04/23/2007
+703701	  05	01319	     	05-1319	Nottingham Pl	005	Amherst County	005	Amherst County	0.16	05-1321 Canterberry Pl	05-675; 05-796	480	R							X						04/23/2007
+703702	  05	01320	     	05-1320	Robin Hood Pl	005	Amherst County	005	Amherst County	0.05	Dead End	05-1322 Barkshire Pl	120	R							X						04/23/2007
+703703	  05	01320	     	05-1320	Robin Hool Pl	005	Amherst County	005	Amherst County	0.05	05-1322 Barkshire Pl	05-1319 Nottingham Pl	220	R							X						04/23/2007
+703704	  05	01320	     	05-1320	Robin Hood Pl	005	Amherst County	005	Amherst County	0.06	05-1319 Nottingham Pl	Dead End	60	R							X						04/23/2007
+703705	  05	01321	     	05-1321	Canterberry Pl	005	Amherst County	005	Amherst County	0.09	05-1319 Nottingham Pl	05-782	30	R							X						04/23/2007
+703706	  05	01322	     	05-1322	Barkshire Pl	005	Amherst County	005	Amherst County	0.18	05-1320 Robin Hool Pl; Robin Hood Pl	Dead End	260	R							X						04/23/2007
+703707	  05	01323	     	05-1323	Wedgewood Pl	005	Amherst County	005	Amherst County	0.18	Dead End	05-675	130	R							X						04/23/2007
+703708	  05	01324	     	05-1324	Mitchell Bell Rd	005	Amherst County	005	Amherst County	0.44	Dead End	SR 130 Elon Rd	650	R							X						04/25/2007
+703709	  05	01325	     	05-1325	Lamont Circle	005	Amherst County	005	Amherst County	0.15	05-810 Lamont Dr	05-1348 Wood Haven Court	330	R							X						04/17/2007
+703710	  05	01325	     	05-1325	 	005	Amherst County	005	Amherst County	0.12	05-1348 Wood Haven Court	Dead End	90	R							X						04/17/2007
+703711	  05	01326	     	05-1326	Enterprise Dr	005	Amherst County	005	Amherst County	0.20	Dead End	05-766	870	R							X						04/25/2007
+703712	  05	01327	     	05-1327	W Briar Pl	005	Amherst County	005	Amherst County	0.34	05-796 Mountain View Dr	Dead End	350	R							X						04/23/2007
+703713	  05	01328	     	05-1328	Lynn St	005	Amherst County	005	Amherst County	0.13	05-791 Lee Dr	05-677	130	R							X						04/19/2007
+703714	  05	01329	     	05-1329	Wildwood Dr	005	Amherst County	005	Amherst County	0.33	05-682	05-669	1400	R							X						04/25/2007
+703715	  05	01330	     	05-1330	Troy Lane	005	Amherst County	005	Amherst County	0.21	05-604	Dead End	240	R							X						04/19/2007
+703716	  05	01331	     	05-1331	Oakland Dr	005	Amherst County	005	Amherst County	0.16	Dead End	05-1345 Stage Coach Lane	180	R							X						04/24/2007
+703717	  05	01331	     	05-1331	Oakland Dr	005	Amherst County	005	Amherst County	0.15	05-1345 Stage Coach Lane	05-669	670	R							X						04/24/2007
+703718	  05	01332	     	05-1332	Chesterfield Pl	005	Amherst County	005	Amherst County	0.03	Dead End	05-1333 Westhaven Dr	20	R							X						04/23/2007
+703719	  05	01332	     	05-1332	Chesterfield Pl	005	Amherst County	005	Amherst County	0.09	05-1333	05-796	200	R							X						04/23/2007
+703720	  05	01333	     	05-1333	Westhaven Dr	005	Amherst County	005	Amherst County	0.14	Dead End	05-1332	100	R							X						04/23/2007
+703721	  05	01334	     	05-1334	Crest Wood Dr	005	Amherst County	005	Amherst County	0.10	Dead End	05-1335	140	R							X						04/17/2007
+703722	  05	01334	     	05-1334	Crest Wood Dr	005	Amherst County	005	Amherst County	0.13	05-1335	05-1311 Shearingham Dr	350	R							X						04/17/2007
+703723	  05	01335	     	05-1335	 	005	Amherst County	005	Amherst County	0.10	Cul-de-Sac	05-1334	90	R							X						04/06/2004
+703724	  05	01336	     	05-1336	W Bethel Dr	005	Amherst County	005	Amherst County	0.06	05-669	05-1337 Howard Dr	470	R							X						04/24/2007
+703725	  05	01336	     	05-1336	W Bethel Dr	005	Amherst County	005	Amherst County	0.08	05-1337 Howard Dr	05-1339 William Dr	330	R							X						04/24/2007
+703726	  05	01336	     	05-1336	W Bethel Dr	005	Amherst County	005	Amherst County	0.24	05-1339 William Dr	Cul-de-Sac	160	R							X						04/24/2007
+703727	  05	01337	     	05-1337	Howard Dr	005	Amherst County	005	Amherst County	0.06	Cul-de-Sac	05-1338 Spurlock Circle	60	R							X						04/24/2007
+703728	  05	01337	     	05-1337	Howard Dr	005	Amherst County	005	Amherst County	0.09	05-1338 Spurlock Circle	05-1336, W Bethel Dr	140	R							X						04/24/2007
+703729	  05	01338	     	05-1338	Spurlock Circle	005	Amherst County	005	Amherst County	0.05	Cul-de-Sac	05-1337 Howard Dr	60	R							X						04/24/2007
+703730	  05	01339	     	05-1339	William Dr	005	Amherst County	005	Amherst County	0.16	Cul-de-Sac	05-1336, W Bethel Dr	160	R							X						04/24/2007
+703731	  05	01340	     	05-1340	Monticello Lane	005	Amherst County	005	Amherst County	0.12	05-774 Liggon Rd	Dead End	110	R							X						04/10/2007
+703732	  05	01341	     	05-1341	Odins Bow Rd	005	Amherst County	005	Amherst County	0.09	05-1329 Wildwood Dr	05-1356 Lance Lane	1400	R							X						04/24/2007
+703733	  05	01341	     	05-1341	Odins Bow Rd	005	Amherst County	005	Amherst County	0.21	05-1356 Lance Lane	05-1354 Arrow Circle	1200	R							X						04/24/2007
+703734	  05	01341	     	05-1341	Odins Bow Rd	005	Amherst County	005	Amherst County	0.08	05-1354 Arrow Circle	05-1355 Thors Club Dr	1200	R							X						04/24/2007
+703735	  05	01341	     	05-1341	Odins Bow Rd	005	Amherst County	005	Amherst County	0.12	05-1355 Thors Club Dr	05-783	1200	R							X						04/24/2007
+703736	  05	01342	     	05-1342	Glenwood Dr	005	Amherst County	005	Amherst County	0.07	Dead End	05-1343 Lancaster Dr	90	R							X						04/19/2007
+703737	  05	01342	     	05-1342	Glenwood Dr	005	Amherst County	005	Amherst County	0.08	05-1343 Lancaster Dr	05-1308 Hill Crest Circle	230	R							X						04/19/2007
+703738	  05	01343	     	05-1343	Lancaster Dr	005	Amherst County	005	Amherst County	0.17	Dead End	05-1342 Glenwood Dr	140	R							X						04/19/2007
+703739	  05	01344	     	05-1344	Ashmont Dr	005	Amherst County	005	Amherst County	0.17	05-795	Dead End	70	R							X						03/05/2007
+703740	  05	01345	     	05-1345	Stage Coach Lane	005	Amherst County	005	Amherst County	0.09	05-1331 Oakland Dr	05-1346 Arrow Head Dr	460	R							X						04/24/2007
+703741	  05	01345	     	05-1345	Stage Coach Lane	005	Amherst County	005	Amherst County	0.13	05-1346 Arrow Head Dr	Dead End	90	R							X						04/24/2007
+703742	  05	01346	     	05-1346	Arrow Head Dr	005	Amherst County	005	Amherst County	0.08	05-1345 Stage Coach Lane	05-1352 Carriage Pl	350	R							X						04/24/2007
+703743	  05	01346	     	05-1346	Arrow Head Dr	005	Amherst County	005	Amherst County	0.37	05-1352 Carriage Pl	Dead End	240	R							X						04/24/2007
+703744	  05	01347	     	05-1347	Morgan Rd	005	Amherst County	005	Amherst County	0.25	Cul-de-Sac	SR 130; 05-706	190	R							X						04/25/2007
+703745	  05	01348	     	05-1348	Wood Haven Court	005	Amherst County	005	Amherst County	0.28	05-1325 Lamont Circle	05-1349 Forest Dr	330	R							X						04/10/2007
+703746	  05	01348	     	05-1348	Wood Haven Court	005	Amherst County	005	Amherst County	0.12	05-1349 Forest Dr	Cul-de-Sac	120	R							X						04/10/2007
+703747	  05	01349	     	05-1349	Forest Dr	005	Amherst County	005	Amherst County	0.09	05-1348 Wood Haven Court	05-1365, N Wood Duck Dr; S Wood Duck Dr	300	R							X						04/10/2007
+703748	  05	01349	     	05-1349	Forest Dr	005	Amherst County	005	Amherst County	0.08	05-1365, N Wood Duck Dr; S Wood Duck Dr	05-671 Possum Island Rd	410	R							X						04/10/2007
+703749	  05	01350	     	05-1350	 	005	Amherst County	005	Amherst County	0.17	Dead End	05-677	40	R							X						04/06/2004
+703750	  05	01351	     	05-1351	 	005	Amherst County	005	Amherst County	0.13	Dead End	05-677	70	R							X						04/06/2004
+703751	  05	01352	     	05-1352	Carriage Pl	005	Amherst County	005	Amherst County	0.08	05-1346 Arrow Head Dr	Cul-de-Sac	70	R							X						04/24/2007
+703752	  05	01354	     	05-1354	Arrow Circle	005	Amherst County	005	Amherst County	0.05	05-1341 Odins Bow Rd	Cul-de-Sac	70	R							X						04/25/2007
+703753	  05	01355	     	05-1355	Thors Club Dr	005	Amherst County	005	Amherst County	0.07	Cul-de-Sac	05-1341 Odins Bow Rd	60	R							X						04/24/2007
+703754	  05	01356	     	05-1356	Lance Lane	005	Amherst County	005	Amherst County	0.07	Cul-de-Sac	05-1341 Odins Bow Rd	60	R							X						04/25/2007
+703755	  05	01357	     	05-1357	Shady Oak Dr	005	Amherst County	005	Amherst County	0.28	Dead End	05-1374 Abby Ct	360	R							X						04/26/2007
+703756	  05	01357	     	05-1357	Shady Oak Dr	005	Amherst County	005	Amherst County	0.16	05-1374 Abby Ct	05-1358	600	R							X						04/26/2007
+703757	  05	01357	     	05-1357	Shady Oak Dr	005	Amherst County	005	Amherst County	0.12	05-1358	05-783	770	R							X						04/26/2007
+703758	  05	01358	     	05-1358	 	005	Amherst County	005	Amherst County	0.06	05-1357 Shady Oak Dr	Cul-de-Sac	40	R							X						04/06/2004
+703759	  05	01359	     	05-1359	Timber Lane	005	Amherst County	005	Amherst County	0.10	Cul-de-Sac	05-783	60	R							X						04/26/2007
+703760	  05	01360	     	05-1360	Melwood Dr	005	Amherst County	005	Amherst County	0.10	05-669	05-1361 Longwood Pl	440	R							X						04/24/2007
+703761	  05	01360	     	05-1360	Melwood Dr	005	Amherst County	005	Amherst County	0.07	05-1361 Longwood Pl	05-1362 Amwood Pl	330	R							X						04/24/2007
+703762	  05	01360	     	05-1360	Melwood Dr	005	Amherst County	005	Amherst County	0.22	05-1362 Amwood Pl	Cul-de-Sac	270	R							X						04/24/2007
+703763	  05	01361	     	05-1361	Longwood Pl	005	Amherst County	005	Amherst County	0.12	05-1360 Melwood Dr	Cul-de-Sac	140	R							X						04/24/2007
+703764	  05	01362	     	05-1362	Amwood Pl	005	Amherst County	005	Amherst County	0.05	Cul-de-Sac	05-1360 Melwood Dr	30	R							X						04/24/2007
+703765	  05	01363	     	05-1363	 	005	Amherst County	005	Amherst County	0.28	Dead End	05-1364 Rebecah Lane	60	R							X						06/28/2004
+703766	  05	01363	     	05-1363	Oak Ridge Dr	005	Amherst County	005	Amherst County	0.25	05-1364 Rebecah Lane	05-783	470	R							X						04/26/2007
+703767	  05	01364	     	05-1364	Rebecah Lane	005	Amherst County	005	Amherst County	0.19	05-1363 Oak Ridge Dr	Cul-de-Sac	150	R							X						04/26/2007
+703768	  05	01365	     	05-1365	S Wood Duck Dr	005	Amherst County	005	Amherst County	0.11	Dead End	05-1367 Robindale Circle	40	R							X						04/17/2007
+703769	  05	01365	     	05-1365	S Wood Duck Dr	005	Amherst County	005	Amherst County	0.08	05-1367 Robindale Circle	05-1349 Forest Dr	140	R							X						04/17/2007
+703770	  05	01365	     	05-1365	N Wood Duck Dr	005	Amherst County	005	Amherst County	0.08	05-1349 Forest Dr	05-1366 Whipporwill Circle	130	R							X						04/17/2007
+703771	  05	01365	     	05-1365	N Wood Duck Dr	005	Amherst County	005	Amherst County	0.12	05-1366 Whipporwill Circle	Dead End	49	R							X						04/17/2007
+703772	  05	01366	     	05-1366	Whipporwill Circle	005	Amherst County	005	Amherst County	0.05	05-1365, N Wood Duck Dr	Cul-de-Sac	70	R							X						04/17/2007
+703773	  05	01367	     	05-1367	Robindale Circle	005	Amherst County	005	Amherst County	0.05	05-1365, S Wood Duck Dr	Cul-de-Sac	40	R							X						04/17/2007
+703774	  05	01368	     	05-1368	Oakridge Court	005	Amherst County	005	Amherst County	0.21	05-1363	05-1364 Rebecah Lane	49	R							X						04/26/2007
+703775	  05	01370	     	05-1370	Fairmont Dr	005	Amherst County	005	Amherst County	0.23	Dead End	05-677	210	R							X						04/10/2007
+703776	  05	01371	     	05-1371	Pocono Point	005	Amherst County	005	Amherst County	0.13	Dead End	05-1370 Fairmont Dr	40	R							X						04/10/2007
+787635	  05	01372	     	05-1372	 	005	Amherst County	005	Amherst County	0.21	05-1357 Shady Oak Dr	Dead End	46	R							X						06/28/2004
+787636	  05	01373	     	05-1373	 	005	Amherst County	005	Amherst County	0.14	05-1372	Cul-de-Sac	60	R							X						06/28/2004
+703777	  05	01374	     	05-1374	Abby Ct	005	Amherst County	005	Amherst County	0.08	05-1357 Shady Oak Dr	Cul-de-Sac	40	R							X						04/26/2007
+703778	  05	01376	     	05-1376	 	005	Amherst County	005	Amherst County	0.08	05-675	Cul-de-Sac	150	R							X						04/27/2004
+703779	  05	01377	     	05-1377	Erin Dr	005	Amherst County	005	Amherst County	0.13	05-783	05-1378	230	R							X						04/26/2007
+703780	  05	01377	     	05-1377	Erin Dr	005	Amherst County	005	Amherst County	0.08	05-1378	Dead End	130	R							X						04/26/2007
+703781	  05	01378	     	05-1378	 	005	Amherst County	005	Amherst County	0.28	Cul-de-Sac	05-1377 Erin Dr	120	R							X						06/28/2004
+787637	  05	01379	     	05-1379	Hannah Way	005	Amherst County	005	Amherst County	0.17	05-1378	Dead End	160	R							X						04/26/2007
+703782	  05	01380	     	05-1380	Huges Dr	005	Amherst County	005	Amherst County	0.17	Cul-de-Sac	Bus US 29	390	R							X						04/19/2007
+794176	  05	01381	     	05-1381	 	005	Amherst County	005	Amherst County	0.13	Dead End	05-1379 Hannah Way	0	?							X
+703783	  05	01383	     	05-1383	Fern Wood Dr	005	Amherst County	005	Amherst County	0.17	Dead End	05-1384 Fern Wood Court	100	R							X						04/26/2007
+703784	  05	01383	     	05-1383	Fern Wood Dr	005	Amherst County	005	Amherst County	0.10	05-1384 Fern Wood Court	05-783	110	R							X						04/26/2007
+703785	  05	01384	     	05-1384	Fern Wood Court	005	Amherst County	005	Amherst County	0.28	Cul-de-Sac	05-1383 Fern Wood Dr	70	R							X						04/26/2007
+782149	  05	01385	     	05-1385	 	005	Amherst County	005	Amherst County	0.07	05-783	Cul-de-Sac	20	R							X						06/28/2004
+782150	  05	01386	     	05-1386	 	005	Amherst County	005	Amherst County	0.07	05-783	Cul-de-Sac	30	R							X						06/28/2004
+703786	  05	01389	     	05-1389	Cedar Ridge Dr	005	Amherst County	005	Amherst County	0.17	05-701	Cul-de-Sac	60	R							X						04/10/2007
+703787	  05	01390	     	05-1390	 	005	Amherst County	005	Amherst County	0.18	Cul-de-Sac	05-706	80	R							X						03/02/2004
+703788	  05	01401	     	05-1401	Hunt Club Dr	005	Amherst County	005	Amherst County	0.20	Dead End	05-1403 Partridge Pl	70	R							X						03/19/2007
+703789	  05	01401	     	05-1401	Hunt Club Dr	005	Amherst County	005	Amherst County	0.13	05-1403 Partridge Pl	05-652	130	R							X						03/19/2007
+703790	  05	01402	     	05-1402	 	005	Amherst County	005	Amherst County	0.02	Dead End	05-1403 Partridge Pl	100	R							X						1994
+703791	  05	01402	     	05-1402	Deerfield Df	005	Amherst County	005	Amherst County	0.22	05-1403 Partridge Pl	05-652	90	R							X						03/19/2007
+703792	  05	01403	     	05-1403	Partridge Pl	005	Amherst County	005	Amherst County	0.04	Cul-de-Sac	05-1402 Deerfield Df	10	R							X						03/19/2007
+703793	  05	01403	     	05-1403	Partridge Pl	005	Amherst County	005	Amherst County	0.08	05-1402 Deerfield Df	05-1401 Hunt Club Dr	90	R							X						03/19/2007
+782151	  05	01404	     	05-1404	Belmont Terrace	005	Amherst County	005	Amherst County	0.09	Dead End	05-1401 Hunt Club Dr	20	R							X						03/19/2007
+703794	  05	01406	     	05-1406	 	005	Amherst County	005	Amherst County	0.14	SR 130 Elon Rd	05-1407	520	R							X						06/08/2004
+703795	  05	01406	     	05-1406	 	005	Amherst County	005	Amherst County	0.10	05-1407	05-1408	230	R							X						06/08/2004
+703796	  05	01406	     	05-1406	 	005	Amherst County	005	Amherst County	0.08	05-1408	Cul-de-Sac	70	R							X						06/08/2004
+703797	  05	01407	     	05-1407	 	005	Amherst County	005	Amherst County	0.06	Cul-de-Sac	05-1406	30	R							X						06/08/2004
+703798	  05	01408	     	05-1408	 	005	Amherst County	005	Amherst County	0.06	0.06 MS 05-1406	05-1406	90	R							X						06/08/2004
+703799	  05	01408	     	05-1408	 	005	Amherst County	005	Amherst County	0.06	05-1406	0.06 MN 05-1406	80	R							X						06/08/2004
+783479	  05	01409	     	05-1409	 	005	Amherst County	005	Amherst County	0.04	Cul-de-Sac	SR 130 Elon Rd	60	R							X						03/30/2004
+703800	  05	01410	     	05-1410	Lake Ridge Dr	005	Amherst County	005	Amherst County	0.28	05-787	Dead End	80	R							X						03/05/2007
+703801	  05	01411	     	05-1411	Oakcroft Dr	005	Amherst County	005	Amherst County	0.55	Dead End	05-652	100	R							X						03/05/2007
+703802	  05	01412	     	05-1412	Briar Cliff Lane	005	Amherst County	005	Amherst County	0.45	Dead End	05-676 Johns Creek Rd	80	R							X						03/05/2007
+703803	  05	01413	     	05-1413	Surry Lane	005	Amherst County	005	Amherst County	0.32	Dead End	05-676	100	R							X						03/05/2007
+703804	  05	01414	     	05-1414	Blackberry Lane	005	Amherst County	005	Amherst County	0.23	Dead End	05-676 Johns Creek Rd	30	R							X						03/05/2007
+782152	  05	01415	     	05-1415	Sage Lane	005	Amherst County	005	Amherst County	0.38	Cul-de-Sac	05-676	220	R							X						03/05/2007
+703805	  05	01420	     	05-1420	Fox Croft Dr	005	Amherst County	005	Amherst County	0.19	Dead End	05-1422 Bridle Path Lane	30	R							X						03/15/2007
+703806	  05	01420	     	05-1420	Fox Croft Dr	005	Amherst County	005	Amherst County	0.43	05-1422 Bridle Path Lane	05-1421 Cubbing Lane	130	R							X						03/15/2007
+703807	  05	01420	     	05-1420	Fox Croft Dr	005	Amherst County	005	Amherst County	0.17	05-1421 Cubbing Lane	05-643	190	R							X						03/15/2007
+703808	  05	01421	     	05-1421	Cubbing Lane	005	Amherst County	005	Amherst County	0.27	05-1420 Fox Croft Dr	Cul-de-Sac	80	R							X						03/15/2007
+703809	  05	01422	     	05-1422	Bridle Path Lane	005	Amherst County	005	Amherst County	0.16	Cul-de-Sac	05-1420 Fox Croft Dr	30	R							X						03/15/2007
+703810	  05	01423	     	05-1423	Ridgeview Lane	005	Amherst County	005	Amherst County	0.44	Cul-de-Sac	05-676	290	R							X						03/05/2007
+703811	  05	01430	     	05-1430	Apple Way	005	Amherst County	005	Amherst County	0.11	Cul-de-Sac	05-1431 York Dr	100	R							X						04/23/2007
+703812	  05	01430	     	05-1430	Apple Way	005	Amherst County	005	Amherst County	0.04	05-1431 York Dr	05-1432 Jonathan St	150	R							X						04/23/2007
+703813	  05	01430	     	05-1430	Apple Way	005	Amherst County	005	Amherst County	0.12	05-1432 Jonathan St	05-1433 Grimes Dr	290	R							X						04/23/2007
+703814	  05	01430	     	05-1430	Apple Way	005	Amherst County	005	Amherst County	0.07	05-1433 Grimes Dr	05-1434 Stayman Lane	150	R							X						04/23/2007
+703815	  05	01430	     	05-1430	Apple Way	005	Amherst County	005	Amherst County	0.09	05-1434 Stayman Lane	05-675	230	R							X						04/23/2007
+703816	  05	01431	     	05-1431	York Dr	005	Amherst County	005	Amherst County	0.04	05-1430 Apple Way	Cul-de-Sac	80	R							X						04/23/2007
+703817	  05	01432	     	05-1432	Jonathan St	005	Amherst County	005	Amherst County	0.12	Cul-de-Sac	05-1430 Apple Way	160	R							X						04/23/2007
+703818	  05	01433	     	05-1433	Grimes Dr	005	Amherst County	005	Amherst County	0.05	Dead End	05-1435 Brandy Wine Dr	100	R							X						04/23/2007
+703819	  05	01433	     	05-1433	Grimes Dr	005	Amherst County	005	Amherst County	0.08	05-1435 Brandy Wine Dr	05-1430 Apple Way	290	R							X						04/23/2007
+703820	  05	01434	     	05-1434	Stayman Lane	005	Amherst County	005	Amherst County	0.05	Cul-de-Sac	05-1430 Apple Way	110	R							X						04/23/2007
+703821	  05	01435	     	05-1435	Brandy Wine Dr	005	Amherst County	005	Amherst County	0.30	05-795	05-1433 Grimes Dr	390	R							X						04/23/2007
+703822	  05	01440	     	05-1440	Sugar Mill Dr	005	Amherst County	005	Amherst County	0.44	05-655	Cul-de-Sac	540	R							X						04/05/2007
+703823	  05	01441	     	05-1441	Dark Pines Lane	005	Amherst County	005	Amherst County	0.15	Cul-de-Sac	05-1440 Sugar Mill Dr	180	R							X						04/05/2007
+703824	  05	01442	     	05-1442	Silvers Lane	005	Amherst County	005	Amherst County	0.20	05-1441 Dark Pines Lane	05-1443 Regal Oaks Way	210	R							X						04/05/2007
+703825	  05	01443	     	05-1443	Regal Oaks Way	005	Amherst County	005	Amherst County	0.37	05-1442 Silvers Lane	05-1440 Sugar Mill Dr	120	R							X						04/05/2007
+703826	  05	01444	     	05-1444	Cane Raiser Ct	005	Amherst County	005	Amherst County	0.07	Cul-de-Sac	05-1443 Regal Oaks Way	48	R							X						04/05/2007
+703827	  05	01445	     	05-1445	Old Mill Ct	005	Amherst County	005	Amherst County	0.04	Cul-de-Sac	05-1440 Sugar Mill Dr	30	R							X						04/05/2007
+703828	  05	01446	     	05-1446	Beaus Ct	005	Amherst County	005	Amherst County	0.05	Cul-de-Sac	05-1440 Sugar Mill Dr	45	R							X						04/05/2007
+703829	  05	09015	     	05-9015	 	005	Amherst County	005	Amherst County	0.12	05-778	Temperance Elem Sch	210	R							X						06/01/2004
+703830	  05	09016	     	05-9016	 	005	Amherst County	005	Amherst County	0.02	Dead End	05-1214 Myrtle St	60	R							X						06/01/2004
+703831	  05	09017	     	05-9017	 	005	Amherst County	005	Amherst County	0.14	05-610	New Pleasant View Sch	160	R							X						06/01/2004
+703832	  05	09018	     	05-9018	 	163	Town of Amherst	005	Amherst County	0.21	Bus US 29	Amherst Elem Sch	550	R							X						06/01/2004
+703833	  05	09019	     	05-9019	 	005	Amherst County	005	Amherst County	0.08	Elon Elem Sch	05-703	350	R							X						06/01/2004
+703834	  05	09022	     	05-9022	 	005	Amherst County	005	Amherst County	0.11	Amelon Elem Sch	05-793 Amer Circle	960	R							X						06/01/2004
+703835	  05	09717	     	05-9717	 	005	Amherst County	005	Amherst County	0.23	Jr High Sch	05-1310 Daniels Dr	640	R							X						06/01/2004
+703836	  05	09722	     	05-9722	 	005	Amherst County	005	Amherst County	0.35	05-777 Gordons Fair Grounds Rd	Amherst Middle Sch	170	R							X						06/01/2004
+703837	  05	09722	     	05-9722	 	005	Amherst County	005	Amherst County	0.10	05-777 Gordons Fair Grounds Rd	Amherst Jr High Sch	370	R							X						06/01/2004
+703838	  05	09723	     	05-9723	 	005	Amherst County	005	Amherst County	0.15	05-693	Amherst High Sch	1600	R							X						06/01/2004
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

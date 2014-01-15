@@ -1,0 +1,537 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Goochland Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+140188	  SR	00006	     	VA 6	River Rd West	037	Goochland County	037	Goochland County	6.01	Fluvanna County Line, ECL Columbia	SR 45 Georges Tavern	1600	F	94%	1%	1%	1%	3%	0%	C	0.1072	F	0.6250	1700	F	2009
+140189	  SR	00006	     	VA 6	River Rd West	037	Goochland County	037	Goochland County	6.47	SR 45 Georges Tavern	37-600 Rock Castle Rd	3800	F	94%	1%	1%	1%	3%	0%	F	0.0912	F	0.6982	4000	F	2009
+140190	  SR	00006	     	VA 6	River Rd West	037	Goochland County	037	Goochland County	3.41	37-600 Rock Castle Rd	US 522 W, Sandy Hook Rd	5300	F	94%	1%	1%	1%	3%	0%	F	0.1067	F	0.8046	5700	F	2009
+040424	  SR	00006	     		River Road West	037	Goochland County	037	Goochland County	1.74	W US 522	E US 522	7300	F	96%	1%	1%	0%	2%	0%	F	0.1010	F	0.5805	7800	F	2009	
+140192	  SR	00006	     	VA 6	River Rd West	037	Goochland County	037	Goochland County	4.95	US 522 E, Maidens Rd	37-628 Lee Rd	4200	F	99%	0%	0%	1%	0%	0%	F	0.1091	F	0.5723	4500	F	2009
+140193	  SR	00006	     	VA 6	River Rd West	037	Goochland County	037	Goochland County	6.62	37-628 Lee Rd	37-621 Manakin Rd	5700	F	99%	0%	0%	1%	0%	0%	F	0.1061	F	0.5547	6100	F	2009
+140231	  SR	00006	     	VA 6	Patterson Ave	037	Goochland County	037	Goochland County	1.84	37-621 Manakin Rd	SR 288	8800	F	97%	0%	1%	1%	1%	0%	C	0.0971	F	0.5868	9400	F	2009
+140194	  SR	00006	     	VA 6	Patterson Ave	037	Goochland County	037	Goochland County	2.36	SR 288	Henrico County Line	18000	F	99%	0%	0%	1%	0%	0%	C	0.1113	F	0.5475	19000	F	2009
+040417	  SR	00045	     	VA 45	Cartersville Rd	037	Goochland County	037	Goochland County	2.47	Cumberland County Line	37-707 Hackney Rd	950	F	95%	1%	1%	2%	1%	0%	F	0.1112	F	0.6233	1000	F	2009
+040416	  SR	00045	     	VA 45	Cartersville Rd	037	Goochland County	037	Goochland County	2.57	37-707 Hackney Rd	SR 6 River Rd West	1400	F	95%	1%	1%	2%	1%	0%	C	0.0943	F	0.6479	1500	F	2009
+970311	  IS	00064	E    	I-64 EB	 	037	Goochland County	037	Goochland County	1.11	Maintenance Boundary	37-605 Shannon Hill Rd	13000	F	89%	1%	1%	0%	9%	0%	F				12000	F	2009		27000	F	89%	1%	1%	0%	9%	0%	F				25000	F
+040418	  IS	00064	E    	I-64 EB	 	037	Goochland County	037	Goochland County	3.92	37-605 Shannon Hill Rd	37-629 Old Fredericksburg Rd	14000	F	89%	1%	1%	0%	9%	0%	F				13000	F	2009		28000	F	89%	1%	1%	0%	9%	0%	F				26000	F
+040005	  IS	00064	E    	I-64 EB	 	037	Goochland County	037	Goochland County	5.20	37-629 Old Fredericksburg Rd	Louisa County Line	14000	F	89%	1%	1%	0%	9%	0%	F				13000	F	2009		28000	F	89%	1%	1%	0%	9%	0%	F				25000	F
+940005	  IS	00064	E    	I-64 EB	 	054	Louisa County	037	Goochland County	1.49	Goochland County Line	US 522 Cross County Rd	14000	F	89%	1%	1%	0%	9%	0%	F				13000	F	2009		28000	F	89%	1%	1%	0%	9%	0%	F				25000	F
+040419	  IS	00064	E    	I-64 EB	 	054	Louisa County	037	Goochland County	3.07	US 522 Cross County Rd	Goochland County Line	16000	F	89%	1%	1%	0%	9%	0%	F				15000	F	2009		32000	N	89%	1%	1%	0%	9%	0%	N				29000	N
+940419	  IS	00064	E    	I-64 EB	 	037	Goochland County	037	Goochland County	4.81	Louisa County Line	37-617 Oilville Rd	16000	F	89%	1%	1%	0%	9%	0%	F				15000	F	2009		32000	F	89%	1%	1%	0%	9%	0%	F				29000	F
+040044	  IS	00064	E    	I-64 EB	 	037	Goochland County	037	Goochland County	6.56	37-617 Oilville Rd	37-623 Ashland Rd	21000	F	89%	1%	1%	0%	9%	0%	F				19000	F	2009		42000	F	89%	1%	1%	0%	9%	0%	F				38000	F
+040426	  IS	00064	E    	I-64 EB	 	037	Goochland County	037	Goochland County	1.19	37-623 Ashland Rd	SR 288	24000	F	89%	1%	1%	0%	9%	0%	F	0.1307	F	1.0000	24000	F	2009		47000	G	89%	1%	1%	0%	9%	0%	F				45000	G
+040420	  IS	00064	E    	I-64 EB	 	037	Goochland County	037	Goochland County	0.64	SR 288	Henrico County Line	30000	N	89%	1%	1%	0%	9%	0%	N	0.1420	N	1.0000	30000	N	2009		60000	N	89%	1%	1%	0%	9%	0%	N				61000	N
+170009	  IS	00064	W    	I-64 WB	 	037	Goochland County	037	Goochland County	1.50	Maintenance Boundary	37-605 Shannon Hill Rd	13000	F	89%	1%	1%	0%	9%	0%	F				12000	F	2009		27000	F	89%	1%	1%	0%	9%	0%	F				25000	F
+170010	  IS	00064	W    	I-64 WB	 	037	Goochland County	037	Goochland County	3.92	37-605 Shannon Hill Rd	37-629 Old Fredericksburg Rd	14000	F	89%	1%	1%	0%	9%	0%	F				13000	F	2009		28000	F	89%	1%	1%	0%	9%	0%	F				26000	F
+170011	  IS	00064	W    	I-64 WB	 	037	Goochland County	037	Goochland County	4.75	37-629 Old Fredericksburg Rd	Louisa County Line	14000	F	89%	1%	1%	0%	9%	0%	F				13000	F	2009		28000	F	89%	1%	1%	0%	9%	0%	F				25000	F
+870011	  IS	00064	W    	I-64 WB	 	054	Louisa County	037	Goochland County	2.03	Goochland County Line	US 522 Cross County Rd	14000	F	89%	1%	1%	0%	9%	0%	F				13000	F	2009		28000	F	89%	1%	1%	0%	9%	0%	F				25000	F
+870012	  IS	00064	W    	I-64 WB	 	054	Louisa County	037	Goochland County	2.61	US 522 Cross County Rd	Goochland County Line	16000	N	89%	1%	1%	0%	9%	0%	N				15000	N	2009		32000	N	89%	1%	1%	0%	9%	0%	N				29000	N
+170012	  IS	00064	W    	I-64 WB	 	037	Goochland County	037	Goochland County	5.02	Louisa County Line	37-617 Oilville Rd	16000	F	89%	1%	1%	0%	9%	0%	F				15000	F	2009		32000	F	89%	1%	1%	0%	9%	0%	F				29000	F
+140076	  IS	00064	W    	I-64 WB	 	037	Goochland County	037	Goochland County	6.56	37-617 Oilville Rd	37-623 Ashland Rd	21000	F	89%	1%	1%	0%	9%	0%	F				19000	F	2009		42000	F	89%	1%	1%	0%	9%	0%	F				38000	F
+840078	  IS	00064	W    	I-64 WB	 	037	Goochland County	037	Goochland County	0.71	37-623 Ashland Rd	SR 288	23000	G	89%	1%	1%	0%	9%	0%	F	0.0965	F	1.0000	21000	G	2009		47000	G	89%	1%	1%	0%	9%	0%	F				45000	G
+840077	  IS	00064	W    	I-64 WB	 	037	Goochland County	037	Goochland County	0.74	SR 288	Henrico County Line	30000	F	89%	1%	1%	0%	9%	0%	F	0.1437	A	1.0000	31000	F	2009		60000	N	89%	1%	1%	0%	9%	0%	N				61000	N
+781108	  IS	00064	W152A	I-64 WB Exit 152A	Ramp	037	Goochland County	037	Goochland County	0.17	I-64-W TO RT 629WEST & EAST	37-629; 37-629- 1B FROM & TO I-64	750	F							X				750	F	2009
+781112	  IS	00064	W173A	I-64 WB Exit 173A	Ramp from I-64 W Exit 173A to 37-623	037	Goochland County	037	Goochland County	0.18	I-64 West	37-623 Ashland Rd	4800	G	87%	2%	3%	4%	4%	0%	C	0.1267	F	1.0000	4800	G	2009
+040275	  IS	00064	W175A	I-64 WB Exit 175A	Ramp from I-64 W Exit 175A to SR 288	037	Goochland County	037	Goochland County	0.45	I-64 West	SR 288	15000	G	96%	0%	1%	1%	2%	0%	C	0.1565	F	1.0000	15000	G	2009
+040528	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	054	Louisa County	2.05	Fluvanna County Line	37-605 Shannon Hill Rd	1200	N	97%	1%	1%	1%	1%	0%	N	0.1023	N	0.5455	1300	N	2009
+070434	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	054	Louisa County	0.29	37-605 Shannon Hill Rd	Richmond Maintenance Boundary	1200	G	97%	1%	1%	1%	1%	0%	F	0.0982	F	0.5510	1300	G	2009
+040519	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	037	Goochland County	3.23	Richmond Maintenance Boundary	37-606 Three Chopt Rd; Hadensville-Fife Rd	1500	F	97%	1%	1%	1%	1%	0%	C	0.1071	F	0.5814	1600	F	2009
+040518	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	037	Goochland County	6.80	37-606 Three Chopt Rd; Hadensville-Fife Rd	Louisa County Line	1200	F	97%	1%	1%	1%	1%	0%	F	0.1089	F	0.6679	1300	F	2009
+070316	  US	00250	     	US 250	Broad Street Rd	054	Louisa County	037	Goochland County	0.48	Goochland County Line	US 522 Cross County Rd; Sandy Hook Rd	2400	F	97%	1%	1%	1%	1%	0%	F	0.0970	F	0.7584	2500	F	2009
+070454	  US	00250	     	US 250	Broad Street Rd	054	Louisa County	037	Goochland County	1.63	US 522 Cross County Rd	Goochland County Line	1500	F	95%	1%	1%	1%	2%	0%	C	0.1069	F	0.6384	1600	F	2009
+040132	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	037	Goochland County	6.72	Louisa County Line	37-670 Cardwell Rd	2500	F	97%	0%	1%	1%	1%	0%	C	0.1029	F	0.7911	2700	F	2009
+040421	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	037	Goochland County	5.56	37-670 Cardwell Rd	37-621 Manakin Rd	5600	F	97%	0%	1%	1%	1%	0%	F	0.1041	F	0.7019	6000	F	2009
+040425	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	037	Goochland County	0.49	37-621 Manakin Rd	37-623 W, Hockett Rd	11000	F	97%	0%	1%	1%	1%	0%	F	0.0947	F	0.6510	12000	F	2009
+040225	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	037	Goochland County	1.47	37-623 W, Hockett Rd	SR 288	11000	F	97%	0%	1%	1%	1%	0%	C	0.0998	F	0.5222	12000	F	2009
+040226	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	037	Goochland County	0.28	SR 288	Henrico County Line	24000	F	99%	0%	1%	0%	0%	0%	F	0.0991	F	0.5323	25000	F	2009
+040422	  SR	00271	     	VA 271	Pouncey Tract Rd	037	Goochland County	037	Goochland County	0.53	Henrico County Line	Hanover County Line	4900	F	96%	0%	1%	2%	0%	0%	C	0.0938	F	0.5637	5300	F	2009
+040299	  SR	00288	     	VA 288	 	037	Goochland County	037	Goochland County	1.57	Powhatan County Line	SR 6 Patterson Ave	42000	A	96%	0%	0%	1%	2%	0%	C	0.1368	A	0.7092	47000	A	2009
+791000	  SR	00288	     	VA 288	 	037	Goochland County	037	Goochland County	0.64	SR 6 Patterson Ave	West Creek Parkway	32000	F	96%	0%	1%	1%	2%	0%	F				37000	F	2009
+790884	  SR	00288	     	VA 288	 	037	Goochland County	037	Goochland County	1.68	West Creek Parkway	Tuckahoe Creek Parkway	34000	F	96%	0%	1%	1%	2%	0%	F	0.1529	N	0.5186	39000	F	2009
+781400	  SR	00288	     	VA 288	 	037	Goochland County	037	Goochland County	1.79	Tuckahoe Creek Parkway	US 250 Broad St	41000	A	96%	0%	1%	1%	2%	0%	C	0.1529	A	0.5186	48000	A	2009
+040271	  SR	00288	     	VA 288	 	037	Goochland County	037	Goochland County	0.85	US 250 Broad St	I-64	35000	A	95%	0%	1%	1%	3%	0%	C	0.1540	A	0.5078	40000	A	2009
+040273	  SR	00288	N021B	VA 288 NB Exit 021B	Ramp from SR 288 N to I-64 W	037	Goochland County	037	Goochland County	0.37	SR 288	I-64 W	5800	F	87%	1%	2%	2%	9%	0%	C	0.1141	F	1.0000	6200	F	2009
+040754	  US	00522	     	US 522	Maidens Rd	037	Goochland County	037	Goochland County	0.38	Powhatan County Line	S SR 6 River Road West	3900	F	93%	1%	1%	1%	4%	0%	F	0.1095	F	0.5887	4200	F	2009
+040424	  US	00522	     		River Road West	037	Goochland County	037	Goochland County	1.74	S SR 6; Maidens Rd	N SR 6; Sandy Hook Rd	7300	F	96%	1%	1%	0%	2%	0%	F	0.1010	F	0.5805	7800	F	2009
+040423	  US	00522	     	US 522	Sandy Hook Rd	037	Goochland County	037	Goochland County	6.24	N SR 6 River Road West	Louisa County Line	4200	F	96%	1%	1%	0%	2%	0%	C	0.1017	F	0.7694	4500	F	2009
+070291	  US	00522	     	US 522	Cross County Rd	054	Louisa County	037	Goochland County	0.35	Goochland County Line	US 250 Broad Street Rd	4100	F	93%	1%	1%	1%	4%	0%	F	0.0981	F	0.6649	4400	F	2009
+780340	  FR	00084	     	FR 84	Fleming Rd	037	Goochland County	037	Goochland County	0.27	Dead End	37-605 Shannon Hill Rd	180	R							X						08/22/2006
+780341	  FR	00085	     	FR 85	Ange Rd	037	Goochland County	037	Goochland County	0.73	37-606 Three Chopt Rd	Dead End	80	R							X						08/24/2006
+780342	  FR	00086	     	FR 86	Aspen Rd	037	Goochland County	037	Goochland County	0.14	Dead End	37-629 Old Fredericksburg Rd	9	R							X						08/24/2006
+780344	  FR	00088	     	FR 88	Junction Rd	037	Goochland County	037	Goochland County	0.13	Dead End	US 522 Cross County Rd	48	R							X						03/30/2006
+780347	  FR	00091	     	FR 91	Goosewing Rd	037	Goochland County	037	Goochland County	0.25	37-654 Shallow Well Rd	Dead End	220	R							X						02/16/2006
+780348	  FR	00092	     	FR 92	Landis Rd	037	Goochland County	037	Goochland County	0.47	37-654 Shallow Well Rd	Dead End	100	R							X						02/16/2006
+780349	  FR	00094	     	FR 94	Bennington Rd	037	Goochland County	037	Goochland County	0.84	37-623 Ashland Rd	Dead End	80	R							X						02/27/2006
+791249	  FR	01067	     	FR 1067	Sweetback Lane	037	Goochland County	037	Goochland County	0.21	Dead End	37-647 Pagebrook Dr	30	R							X						09/15/2009
+791250	  FR	01068	     	FR 1068	 	037	Goochland County	037	Goochland County	0.26	Dead End	SR 6 Patterson Ave	2	R							X						09/21/2009
+738039	  32	00674	     	32-674	Timber Rd	037	Goochland County	032	Fluvanna County	0.20	Dead End	Goochland County Line	20	R							X						07/08/2008
+738040	  32	00674	     	32-674	Timber Rd	037	Goochland County	032	Fluvanna County	0.20	Goochland County Line	32-659 Stage Junction Rd	90	R							X						07/08/2008
+741411	  37	00600	     	37-600	Rock Castle Rd	037	Goochland County	037	Goochland County	1.50	Dead End	37-627 Ben Lomond Rd	49	R							X						07/22/2009
+741412	  37	00600	     	37-600	Rock Castle Rd	037	Goochland County	037	Goochland County	2.64	37-627 Ben Lomond Rd	37-625 Three Square Rd	620	R							X						08/22/2006
+741413	  37	00600	     	37-600	Rock Castle Rd	037	Goochland County	037	Goochland County	3.73	37-625 Three Square Rd	SR 6 River Rd West	1000	R							X						08/22/2006
+741414	  37	00600	     	37-600	Rock Castle Rd	037	Goochland County	037	Goochland County	0.53	SR 6 River Rd West	37-614 Dogtown Rd	300	R							X						08/22/2006
+741415	  37	00601	     	37-601	Pryor Rd	037	Goochland County	037	Goochland County	2.19	37-648 Matthews Rd	37-606 Hadensville-Fife Rd	200	R							X						07/20/2009
+741416	  37	00602	     	37-602	Old Stage Rd	037	Goochland County	037	Goochland County	0.50	Dead End	37-614 Dogtown Rd	60	R							X						07/22/2009
+741417	  37	00603	     	37-603	Elk Island Rd	037	Goochland County	037	Goochland County	1.23	Cumberland County Line	SR 6 River Rd West	30	R							X						08/22/2006
+741418	  37	00603	     	37-603	Elk Island Rd	037	Goochland County	037	Goochland County	2.21	SR 6 River Rd West	37-667 W, Old Columbia Rd	80	R							X						08/22/2006
+741419	  37	00603	     	37-603	Tabscott Rd	037	Goochland County	037	Goochland County	2.30	37-667 E, Old Columbia Rd	37-610 E, Community House Rd	150	R							X						08/22/2006
+741420	  37	00603	     	37-603	Tabscott Rd	037	Goochland County	037	Goochland County	2.35	37-610 W, Community House Rd	2.35 MN 37-610	80	R							X						08/10/2009
+741421	  37	00603	     	37-603	Tabscott Rd	037	Goochland County	037	Goochland County	0.51	2.35 MN 37-610	37-688 Pink Dogwood Rd	50	R							X						07/13/2009
+741422	  37	00603	     	37-603	Tabscott Rd	037	Goochland County	037	Goochland County	4.70	37-688 Pink Dogwood Rd	Fluvanna County Line	190	R							X						08/22/2006
+741423	  37	00604	     	37-604	Whitsell Rd	037	Goochland County	037	Goochland County	0.44	US 250 Broad St Rd	Louisa County Line	440	R							X						07/13/2009
+741424	  37	00605	     	37-605	Shannon Hill Rd	037	Goochland County	037	Goochland County	0.95	Fluvanna County Line	37-610 Community House Rd	560	R							X						08/22/2006
+741425	  37	00605	     	37-605	Shannon Hill Rd	037	Goochland County	037	Goochland County	3.92	37-610 Community House Rd	37-603 Tabscott Rd	440	R							X						08/22/2006
+741426	  37	00605	     	37-605	Shannon Hill Rd	037	Goochland County	037	Goochland County	1.95	37-603 Tabscott Rd	US 250 Broad St Rd	420	R							X						08/22/2006
+400067	  37	00605	     	37-605	Shannon Hill Rd	037	Goochland County	037	Goochland County	0.40	US 250 Broad Street Rd	0.40 MN US 250	1600	F	95%	1%	0%	1%	3%	0%	F	0.1178	F	0.8488	1700	F	2009
+400068	  37	00605	     	37-605	Shannon Hill Rd	037	Goochland County	037	Goochland County	0.15	0.40 MN US 250	I-64	1300	G	95%	1%	0%	1%	3%	0%	F	0.1178	N	0.8488	1300	G	2009
+400069	  37	00605	     	37-605	Shannon Hill Rd	037	Goochland County	037	Goochland County	0.31	I-64	Louisa County Line	1300	F	95%	1%	0%	1%	3%	0%	C	0.1212	F	0.5763	1400	F	2009
+400071	  37	00606	     	37-606	Hadensville-Fife Rd	037	Goochland County	037	Goochland County	1.07	SR 6 River Rd West	37-667 Old Columbia Rd	1300	F	97%	2%	1%	0%	1%	0%	C	0.1029	F	0.6500	1400	F	2009
+400072	  37	00606	     	37-606	Hadensville-Fife Rd	037	Goochland County	037	Goochland County	3.12	37-667 Old Columbia Rd	37-648 Matthews Rd	700	F	97%	2%	1%	0%	1%	0%	F	0.1466	F	0.5479	750	F	2009
+400073	  37	00606	     	37-606	Hadensville-Fife Rd	037	Goochland County	037	Goochland County	0.02	37-648 Matthews Rd	37-673 Whitehall Rd	970	F	97%	2%	1%	0%	1%	0%	F	0.1174	F	0.5375	1100	F	2009
+400074	  37	00606	     	37-606	Hadensville-Fife Rd	037	Goochland County	037	Goochland County	3.04	37-673 Whitehall Rd	37-609 S, Hickory Hill Rd	790	F	97%	2%	1%	0%	1%	0%	F	0.1153	F	0.5640	860	F	2009
+400075	  37	00606	     	37-606	Hadensville-Fife Rd	037	Goochland County	037	Goochland County	1.52	37-609 S, Hickory Hill Rd	37-629 Old Fredericksburg Rd	1200	F	97%	2%	1%	0%	1%	0%	F	0.0945	F	0.6054	1300	F	2009
+741429	  37	00606	     	37-606	Hadensville-Fife Rd	037	Goochland County	037	Goochland County	0.38	37-629 Old Fredericksburg Rd	US 250 Broad Street Rd	590	R							X						07/13/2009
+741430	  37	00606	     	37-606	Three Chopt Rd	037	Goochland County	037	Goochland County	1.67	US 250 Broad Street Rd	Louisa County Line	540	R							X						07/13/2009
+741431	  37	00607	     	37-607	Irwin Rd	037	Goochland County	037	Goochland County	0.40	Dead End	SR 6 River Rd West	10	R							X						08/22/2006
+741432	  37	00607	     	37-607	Jackson Shop Rd	037	Goochland County	037	Goochland County	3.15	SR 6 River Rd West	US 522 Sandy Hook Rd	360	R							X						08/22/2006
+741433	  37	00608	     	37-608	Elk Hill Rd	037	Goochland County	037	Goochland County	1.70	Dead End	SR 6 River Rd West	130	R							X						07/20/2009
+741434	  37	00608	     	37-608	Davis Mill Rd	037	Goochland County	037	Goochland County	1.20	SR 6 River Rd West	37-606 Hadensville-Fife Rd	160	R							X						07/20/2009
+741435	  37	00608	     	37-608	Davis Mill Rd	037	Goochland County	037	Goochland County	4.93	37-606 Hadensville-Fife Rd	37-673 Whitehall Rd	200	R							X						07/20/2009
+741436	  37	00609	     	37-609	Hickory Hill Rd	037	Goochland County	037	Goochland County	2.30	37-603 Tabscott Rd	37-606 W, Hadensville-Fife Rd	240	R							X						08/24/2006
+741437	  37	00609	     	37-609	Three Chopt Rd	037	Goochland County	037	Goochland County	3.00	37-606 E, Hadensville-Fife Rd	US 250 Broad Street Rd	300	R							X						08/24/2006
+741438	  37	00610	     	37-610	Community House Rd	037	Goochland County	037	Goochland County	5.70	Fluvanna County Line	37-606 Hadensville-Fife Rd	370	R							X						07/13/2009
+741439	  37	00611	     	37-611	Cedar Plains Rd	037	Goochland County	037	Goochland County	4.13	37-673 Whitehall Rd	37-615 Forest Grove Rd	350	R							X						08/24/2006
+741440	  37	00612	     	37-612	Three Chopt Rd	037	Goochland County	037	Goochland County	2.05	37-621 Manakin Rd	US 250 E, Broad Street Rd	550	R							X						08/03/2009
+741441	  37	00612	     	37-612	Three Chopt Rd	037	Goochland County	037	Goochland County	1.45	US 250 W, Broad Street Rd	37-654 Shallow Well Rd	280	R							X						08/12/2009
+741442	  37	00613	     	37-613	Riddles Bridge Rd	037	Goochland County	037	Goochland County	3.81	37-615 Chapel Hill Rd	37-614 Dogtown Rd	330	R							X						08/24/2006
+741443	  37	00614	     	37-614	Dogtown Rd	037	Goochland County	037	Goochland County	2.70	SR 6 River Rd West	37-613 Riddles Bridge Rd	510	G	95%	2%	1%	0%	1%	0%	C	0.1233	F	0.0000	510	G	2009
+741444	  37	00614	     	37-614	Dogtown Rd	037	Goochland County	037	Goochland County	1.25	37-613 Riddles Bridge Rd	37-673 Whitehall Rd	1600	R							X						07/22/2009
+741445	  37	00615	     	37-615	Chapel Hill Rd	037	Goochland County	037	Goochland County	4.30	SR 6 River Rd West	37-673 E, Whitehall Rd	300	R							X						08/24/2006
+741446	  37	00615	     	37-615	Forest Grove Rd	037	Goochland County	037	Goochland County	3.15	37-673 W, Whitehall Rd	37-609 Three Chopt Rd	430	R							X						08/24/2006
+741447	  37	00616	     	37-616	Stokes Station Rd	037	Goochland County	037	Goochland County	0.40	Dead End	37-618 Whittcamp Rd	20	R							X						07/22/2009
+741448	  37	00616	     	37-616	Stokes Station Rd	037	Goochland County	037	Goochland County	1.50	37-618 Whittcamp Rd	37-678 Marlin Rd	130	R							X						07/22/2009
+741449	  37	00616	     	37-616	Stokes Station Rd	037	Goochland County	037	Goochland County	0.97	37-678 Marlin Rd	37-625 N, St Pauls Church Rd	530	R							X						07/22/2009
+789792	  37	00616	     	37-616	Haskins Rd	037	Goochland County	037	Goochland County	3.13	37-625 N, St Pauls Church Rd	SR 6 River Rd West	680	R							X						08/24/2006
+400076	  37	00617	     	37-617	Oilville Rd	037	Goochland County	037	Goochland County	0.72	US 250 Broad Street Rd	I-64	8200	F	97%	0%	1%	0%	1%	0%	C	0.1056	F	0.6471	8800	F	2009
+400077	  37	00617	     	37-617	Oilville Rd	037	Goochland County	037	Goochland County	0.25	I-64	37-702 Pony Farm Rd	4600	F	97%	0%	1%	0%	1%	0%	F	0.1076	F	0.7553	5000	F	2009
+400078	  37	00617	     	37-617	Oilville Rd	037	Goochland County	037	Goochland County	0.20	37-702 Pony Farm Rd	37-620 Hanover Rd	3100	F	97%	0%	1%	0%	1%	0%	F	0.1042	F	0.8190	3300	F	2009
+400079	  37	00617	     	37-617	Oilville Rd	037	Goochland County	037	Goochland County	0.33	37-620 Hanover Rd	Hanover County Line	2400	F	97%	0%	1%	0%	1%	0%	F	0.1082	F	0.8371	2600	F	2009
+741452	  37	00618	     	37-618	Whittcamp Rd	037	Goochland County	037	Goochland County	3.10	37-616 Stokes Station Rd	SR 45 Cartersville Rd	160	R							X						08/22/2006
+741453	  37	00619	     	37-619	Newline Rd	037	Goochland County	037	Goochland County	0.95	37-700 Three Chopt Rd	Louisa County Line	440	R							X						08/10/2009
+400080	  37	00620	     	37-620	Hanover Rd	037	Goochland County	037	Goochland County	0.80	37-617 Oilville Rd	37-654 Shallow Well Rd	1000	F	98%	0%	1%	0%	1%	0%	C	0.1025	F	0.5221	1100	F	2009
+400081	  37	00620	     	37-620	Hanover Rd	037	Goochland County	037	Goochland County	0.80	37-654 Shallow Well Rd	Hanover County Line	800	F	98%	0%	1%	0%	1%	0%	F	0.1222	F	0.5142	860	F	2009
+741454	  37	00621	     	37-621	Manakin Ferry Rd	037	Goochland County	037	Goochland County	0.70	Dead End	SR 6 E, River Rd West	80	R							X						08/03/2009
+400082	  37	00621	     	37-621	Manakin Rd	037	Goochland County	037	Goochland County	5.95	SR 6 W, River Rd West	37-676 Hermitage Rd	1300	F	98%	0%	1%	0%	0%	0%	C	0.0922	F	0.5417	1400	F	2009
+400083	  37	00621	     	37-621	Manakin Rd	037	Goochland County	037	Goochland County	0.58	37-676 Hermitage Rd	US 250 Broad Street Rd	3100	F	97%	0%	1%	1%	1%	0%	C	0.0867	F	0.6153	3300	F	2009
+400084	  37	00621	     	37-621	Manakin Rd	037	Goochland County	037	Goochland County	2.74	US 250 Broad Street Rd	37-626 Seay Rd	1700	F	98%	0%	1%	0%	0%	0%	C	0.1061	F	0.6927	1800	F	2009
+400085	  37	00621	     	37-621	Manakin Rd	037	Goochland County	037	Goochland County	0.39	37-626 Seay Rd	Hanover County Line	580	F	98%	0%	1%	0%	0%	0%	F	0.1122	F	0.5414	620	F	2009
+741455	  37	00622	     	37-622	Three Chopt Rd	037	Goochland County	037	Goochland County	0.23	US 250 Broad St	Dead End at SR 288	80	R							X						08/24/2009
+797450	  37	00622	     	37-622	Three Chopt Rd	037	Goochland County	037	Goochland County	1.37	Dead End at SR 288	37-623 S, Ashland Rd	80	N							X				0	N	08/24/2009
+400086	  37	00622	     	37-622	Rockville Rd	037	Goochland County	037	Goochland County	2.35	37-623 S, Ashland Rd	Hanover County Line	2000	F	98%	0%	1%	0%	1%	0%	C	0.0986	F	0.6713	2200	F	2009
+400087	  37	00623	     	37-623	Hockett Rd	037	Goochland County	037	Goochland County	1.42	SR 6 Patterson Ave; River Rd West	37-668 N, Snead Rd	1100	F	94%	0%	1%	3%	1%	0%	F	0.1161	F	0.5952	1200	F	2009
+400088	  37	00623	     	37-623	Hockett Rd	037	Goochland County	037	Goochland County	3.72	37-668 N, Snead Rd	US 250 W, Broad St	1600	F	94%	0%	1%	3%	1%	0%	F	0.1173	F	0.7152	1700	F	2009
+400089	  37	00623	     	37-623	Ashland Rd	037	Goochland County	037	Goochland County	1.17	US 250 E, Broad St	I-64	8900	F	94%	0%	1%	3%	1%	0%	C	0.1026	F	0.6080	9500	F	2009
+400090	  37	00623	     	37-623	Ashland Rd	037	Goochland County	037	Goochland County	2.38	I-64	Hanover County Line	5700	F	91%	0%	1%	4%	3%	0%	C	0.1102	F	0.6186	6100	F	2009
+741458	  37	00624	     	37-624	Vinita Rd	037	Goochland County	037	Goochland County	0.35	Dead End	37-650 River Rd	80	R							X						02/13/2006
+741459	  37	00625	     	37-625	Three Square Rd	037	Goochland County	037	Goochland County	1.50	37-600 Rock Castle Rd	37-616 S, Stokes Station Rd	630	R							X						07/22/2009
+741460	  37	00625	     	37-625	St Pauls Church Rd	037	Goochland County	037	Goochland County	2.65	37-616 N, Haskins Rd; Stokes Station Rd	SR 45 Cartersville Rd	250	R							X						07/22/2009
+741461	  37	00626	     	37-626	Seay Rd	037	Goochland County	037	Goochland County	2.85	37-654 Shallow Well Rd	37-621 Manakin Rd	530	R							X						02/27/2006
+741462	  37	00627	     	37-627	Ben Lomond Rd	037	Goochland County	037	Goochland County	1.35	37-600 Rock Castle Rd	Dead End	30	R							X						07/22/2009
+741463	  37	00628	     	37-628	Lee Rd	037	Goochland County	037	Goochland County	0.92	Dead End	0.92 MN Dead End	100	R							X						02/15/2006
+741464	  37	00628	     	37-628	Lee Rd	037	Goochland County	037	Goochland County	1.48	0.92 MN Dead End	SR 6 River Rd West	260	R							X						02/15/2006
+400091	  37	00629	     	37-629	Old Fredericksburg Rd	037	Goochland County	037	Goochland County	0.30	37-606 Hadensville-Fife Rd	US 250 Broad Street Rd	630	F	97%	0%	1%	0%	1%	0%	C	0.1072	F	0.7123	680	F	2009
+400092	  37	00629	     	37-629	Old Fredericksburg Rd	037	Goochland County	037	Goochland County	0.78	US 250 Broad Street Rd	I-64	1800	F	96%	0%	1%	1%	1%	0%	C	0.0988	F	0.6119	1900	F	2009
+741465	  37	00629	     	37-629	Old Fredericksburg Rd	037	Goochland County	037	Goochland County	2.04	I-64	Louisa County Line	1000	R							X						07/13/2009
+741466	  37	00629	 001A	37-629 Exit 001A	Ramp	037	Goochland County	037	Goochland County	0.24	37-629 I-64-E152A FROM & TO IS 64	I-64-E FROM RT 629WEST & EAST	720	F	96%	0%	1%	1%	1%	0%	F				770	F	2009
+741468	  37	00630	     	37-630	Cedar Point Rd	037	Goochland County	037	Goochland County	0.70	Dead End	SR 6 River Rd West	60	R							X						02/27/2006
+741469	  37	00631	     	37-631	Scott Rd	037	Goochland County	037	Goochland County	0.25	Dead End	37-666 Gathright Dr	40	R							X						07/27/2009
+741470	  37	00631	     	37-631	Scott Rd	037	Goochland County	037	Goochland County	0.25	37-666 Gathright Dr	37-1205 Pitts Ave	90	R							X						07/27/2009
+741471	  37	00631	     	37-631	Scott Rd	037	Goochland County	037	Goochland County	0.15	37-1205 Pitts Ave	US 522 River Rd West	150	R							X						07/27/2009
+400093	  37	00632	     	37-632	Fairground Rd	037	Goochland County	037	Goochland County	1.66	US 522 Sandy Hook Rd	37-634 Maidens Rd	6700	F	97%	0%	1%	0%	1%	0%	C	0.1051	F	0.6465	7200	F	2009
+400094	  37	00632	     	37-632	Fairground Rd	037	Goochland County	037	Goochland County	1.32	37-634 Maidens Rd	37-637 Hawk Town Rd	7100	F	97%	0%	1%	0%	1%	0%	F	0.1024	F	0.7037	7700	F	2009
+400095	  37	00632	     	37-632	Fairground Rd	037	Goochland County	037	Goochland County	2.16	37-637 Hawk Town Rd	US 250 Broad Street Rd	7000	F	97%	0%	1%	0%	1%	0%	F	0.1025	F	0.7175	7500	F	2009
+741472	  37	00633	     	37-633	Poor House Rd	037	Goochland County	037	Goochland County	2.12	US 522 Sandy Hook Rd	37-634 Maidens Rd	300	R							X						03/14/2006
+741473	  37	00634	     	37-634	Maidens Rd	037	Goochland County	037	Goochland County	2.40	US 522 River Road West; Maidens Rd	37-632 Fairground Rd	1700	R							X						07/27/2009
+741474	  37	00634	     	37-634	Maidens Rd	037	Goochland County	037	Goochland County	1.50	37-632 Fairground Rd	37-637 Hawk Town Rd	660	R							X						07/27/2009
+741475	  37	00634	     	37-634	Maidens Rd	037	Goochland County	037	Goochland County	1.80	37-637 Hawk Town Rd	37-702 Pony Farm Rd	430	R							X						07/27/2009
+741476	  37	00634	     	37-634	Maidens Rd	037	Goochland County	037	Goochland County	0.50	37-702 Pony Farm Rd	37-672 Turner Rd	230	R							X						07/27/2009
+741477	  37	00634	     	37-634	Maidens Rd	037	Goochland County	037	Goochland County	0.20	37-672 Turner Rd	US 250 Broad Street Rd	280	R							X						07/27/2009
+741478	  37	00635	     	37-635	Camelback Rd	037	Goochland County	037	Goochland County	1.15	37-637 Hawk Town Rd	US 250 E, Broad Street Rd	760	R							X						02/27/2006
+400096	  37	00635	     	37-635	Perkinsville Church Rd	037	Goochland County	037	Goochland County	1.90	US 250 W, Broad Street Rd	Louisa County Line	220	F	97%	3%	0%	0%	0%	0%	C	0.1098	F	0.5714	230	F	2009
+741479	  37	00636	     	37-636	Elpis Church Rd	037	Goochland County	037	Goochland County	0.70	US 250 Broad Street Rd	37-702 Pony Farm Rd	340	R							X						03/14/2006
+741480	  37	00637	     	37-637	Hawk Town Rd	037	Goochland County	037	Goochland County	1.50	37-632 Fairground Rd	37-634 Maidens Rd	280	R							X						03/14/2006
+741481	  37	00638	     	37-638	Soldiers Lodge Rd	037	Goochland County	037	Goochland County	0.27	Dead End	37-639 Sheppard Town Rd	46	R							X						07/29/2009
+741482	  37	00639	     	37-639	Sheppard Town Rd	037	Goochland County	037	Goochland County	5.08	37-634 Maidens Rd	37-670 Cardwell Rd	1100	R							X						08/24/2006
+741483	  37	00640	     	37-640	Rochelle Rd	037	Goochland County	037	Goochland County	0.24	SR 6 Patterson Ave	Dead End	100	R							X						09/15/2009
+741484	  37	00641	     	37-641	Taylor Rd	037	Goochland County	037	Goochland County	0.64	Dead End	37-670 S, Cardwell Rd	620	R							X						02/16/2006
+789793	  37	00641	     	37-641	Genito Rd	037	Goochland County	037	Goochland County	1.55	37-670 E, Cardwell Rd	37-654 Shallow Well Rd	320	R							X						02/16/2006
+741485	  37	00641	     	37-641	Shallow Well Rd	037	Goochland County	037	Goochland County	1.95	37-654; Genito Rd	37-644 Miller Lane	360	R							X						02/16/2006
+741486	  37	00642	     	37-642	Dover Rd	037	Goochland County	037	Goochland County	1.90	SR 6 River Rd West	37-641 Shallow Well Rd	150	R							X						07/29/2009
+741487	  37	00643	     	37-643	West View Rd	037	Goochland County	037	Goochland County	1.10	Dead End	37-600 Rock Castle Rd	60	R							X						08/22/2006
+741488	  37	00644	     	37-644	Sabot Station Rd	037	Goochland County	037	Goochland County	0.08	Dead End	SR 6 E, River Rd West	45	R							X						07/29/2009
+741489	  37	00644	     	37-644	Miller Lane	037	Goochland County	037	Goochland County	4.50	SR 6 W, River Rd West	37-621 Manakin Rd	540	R							X						07/29/2009
+741490	  37	00645	     	37-645	Beaverdam Creek Rd	037	Goochland County	037	Goochland County	1.33	SR 6 River Rd West	Dead End	560	R							X						02/16/2006
+741491	  37	00646	     	37-646	Duval Rd	037	Goochland County	037	Goochland County	2.47	37-603 Tabscott Rd	US 250 Broad Street Rd	200	R							X						08/22/2006
+741492	  37	00647	     	37-647	Pagebrook Dr	037	Goochland County	037	Goochland County	0.60	37-650 River Rd	37-1109 S, Briarwood Circle	860	R							X						02/13/2006
+741493	  37	00647	     	37-647	Pagebrook Dr	037	Goochland County	037	Goochland County	0.10	37-1109 S, Briarwood Circle	37-1109 N, Briarwood Circle	1000	R							X						02/13/2006
+741494	  37	00647	     	37-647	Pagebrook Dr	037	Goochland County	037	Goochland County	0.45	37-1109 N, Briarwood Circle	SR 6 Patterson Ave	1000	R							X						02/13/2006
+741495	  37	00648	     	37-648	Matthews Rd	037	Goochland County	037	Goochland County	2.00	37-610 Community House Rd	37-606 Hadensville-Fife Rd	150	R							X						07/20/2009
+741496	  37	00649	     	37-649	Blair Rd	037	Goochland County	037	Goochland County	1.00	37-650 River Rd	SR 6 Patterson Ave	1300	R							X						02/13/2006
+400097	  37	00650	     	37-650	River Rd	037	Goochland County	037	Goochland County	4.37	SR 6 Patterson Ave	Henrico County Line	3400	F	98%	0%	1%	1%	0%	0%	C	0.1315	F	0.5913	3700	F	2009
+741497	  37	00651	     	37-651	Lowry Rd	037	Goochland County	037	Goochland County	2.80	37-667 Old Columbia Rd	37-610 Community House Rd	140	R							X						07/13/2009
+741498	  37	00652	     	37-652	Dadneys Rd	037	Goochland County	037	Goochland County	0.15	SR 45 Cartersville Rd	37-618 Whittcamp Rd	110	R							X						08/22/2006
+741499	  37	00653	     	37-653	Three Chopt Rd	037	Goochland County	037	Goochland County	1.00	37-605 Shannon Hill Rd	37-683 Parrish Rd	130	R							X						07/13/2009
+741500	  37	00653	     	37-653	Three Chopt Rd	037	Goochland County	037	Goochland County	0.85	37-683 Parrish Rd	37-604 Whitsell Rd	90	R							X						07/13/2009
+741501	  37	00654	     	37-654	Shallow Well Rd	037	Goochland County	037	Goochland County	3.64	37-641 Shallow Well Rd; Genito Rd	37-620 Hanover Rd	630	R							X						08/27/2006
+741502	  37	00655	     	37-655	First Union Rd	037	Goochland County	037	Goochland County	0.12	37-670 Cardwell Rd	Dead End	50	R							X						07/29/2009
+741503	  37	00656	     	37-656	Leabough Rd	037	Goochland County	037	Goochland County	0.60	Dead End	37-614 Dogtown Rd	80	R							X						08/24/2006
+741504	  37	00657	     	37-657	Sargent Rd	037	Goochland County	037	Goochland County	0.50	37-670 Cardwell Rd	Dead End	70	R							X						07/29/2009
+741505	  37	00658	     	37-658	Pace Rd	037	Goochland County	037	Goochland County	0.50	Dead End	37-606 Hadensville-Fife Rd	120	R							X						08/22/2006
+741506	  37	00659	     	37-659	Creekmore Rd	037	Goochland County	037	Goochland County	0.25	SR 6 Patterson Ave	Dead End	290	R							X						09/15/2009
+741507	  37	00660	     	37-660	Childress Rd	037	Goochland County	037	Goochland County	0.25	Dead End	37-622 Rockville Rd	20	R							X						02/27/2006
+741508	  37	00661	     	37-661	Salmontown Rd	037	Goochland County	037	Goochland County	0.55	Dead End	37-625 St Pauls Church Rd	150	R							X						07/22/2009
+741509	  37	00662	     	37-662	Willway Dr	037	Goochland County	037	Goochland County	0.05	SR 6 River Rd West	37-663 Hickory Dr; 37-664 Dogwood Dr	1000	R							X						02/13/2006
+741510	  37	00662	     	37-662	Willway Dr	037	Goochland County	037	Goochland County	0.30	37-663 Hickory Dr; 37-664 Dogwood Dr	37-714 Sawdust Dr	400	R							X						02/13/2006
+741511	  37	00662	     	37-662	Willway Dr	037	Goochland County	037	Goochland County	0.14	37-714 Sawdust Dr	37-1040 Edgehill Wood Dr	300	R							X						02/13/2006
+741512	  37	00662	     	37-662	Willway Dr	037	Goochland County	037	Goochland County	0.09	37-1040 Edgehill Wood Dr	37-1046 Red Maple Dr	230	R							X						02/13/2006
+792220	  37	00662	     	37-662	Willway Dr	037	Goochland County	037	Goochland County	0.40	37-1046 Red Maple Dr	Cul-de-Sac	170	R							X						08/03/2009
+741513	  37	00663	     	37-663	Hickory Dr	037	Goochland County	037	Goochland County	0.17	37-662 Willway Dr	37-709 Holly Dr	460	R							X						08/03/2009
+741514	  37	00663	     	37-663	Hickory Dr	037	Goochland County	037	Goochland County	0.18	37-709 Holly Dr	37-714 Sawdust Dr	360	R							X						08/03/2009
+741515	  37	00663	     	37-663	Hickory Dr	037	Goochland County	037	Goochland County	0.13	37-714 Sawdust Dr	37-1045 Red Cedar Dr	320	R							X						08/03/2009
+741516	  37	00663	     	37-663	Hickory Dr	037	Goochland County	037	Goochland County	0.17	37-1045 Red Cedar Dr	37-1046 Red Maple Dr	230	R							X						08/03/2009
+741517	  37	00663	     	37-663	Hickory Dr	037	Goochland County	037	Goochland County	0.24	37-1046 Red Maple Dr	37-1047 Hickory Court	110	R							X						08/03/2009
+791165	  37	00663	     	37-663	Hickory Dr	037	Goochland County	037	Goochland County	0.10	37-1047 Hickory Court	Cul-de-Sac	90	R							X						08/03/2009
+741518	  37	00664	     	37-664	Dogwood Dr	037	Goochland County	037	Goochland County	0.22	Dead End	37-662; 37-663	140	R							X						02/13/2006
+784034	  37	00665	     	37-665	Landfill Rd	037	Goochland County	037	Goochland County	0.15	37-632 Fairground Rd	Dead End	500	R							X						07/27/2009
+741519	  37	00666	     	37-666	Gathright Dr	037	Goochland County	037	Goochland County	0.60	37-631 Scott Rd	US 522 River Road West	160	R							X						07/27/2009
+741520	  37	00667	     	37-667	Old Columbia Rd	037	Goochland County	037	Goochland County	3.10	Fluvanna County Line	37-651 Lowry Rd	270	R							X						08/22/2006
+741521	  37	00667	     	37-667	Old Columbia Rd	037	Goochland County	037	Goochland County	3.52	37-651 Lowry Rd	37-606 Hadensville-Fife Rd	260	R							X						08/22/2006
+741522	  37	00668	     	37-668	Snead Rd	037	Goochland County	037	Goochland County	0.66	37-623 S, Hockett Rd	37-623 N, Hockett Rd	280	R							X						08/03/2009
+741523	  37	00669	     	37-669	County Line Rd	037	Goochland County	037	Goochland County	3.40	37-609 Hickory Hill Rd	37-699 Three Chopt Rd	190	R							X						08/22/2006
+741524	  37	00669	     	37-669	County Line Rd	037	Goochland County	037	Goochland County	0.18	37-699 Three Chopt Rd	US 250 Broad Street Rd	210	R							X						08/22/2006
+400098	  37	00670	     	37-670	Cardwell Rd	037	Goochland County	037	Goochland County	5.20	SR 6 River Rd West	US 250 Broad Street Rd	1200	F	96%	1%	1%	2%	0%	0%	C	0.1383	F	0.5661	1300	F	2009
+741525	  37	00671	     	37-671	Cemetery Lane	037	Goochland County	037	Goochland County	0.12	Dead End	37-615 Forest Grove Rd	20	R							X						08/24/2006
+741526	  37	00672	     	37-672	Turner Rd	037	Goochland County	037	Goochland County	2.10	37-633 Poor House Rd	37-634 Maidens Rd	350	R							X						03/13/2006
+400099	  37	00673	     	37-673	Whitehall Rd	037	Goochland County	037	Goochland County	4.91	37-606 Hadensville-Fife Rd	37-611 Cedar Plains Rd	900	F	98%	1%	1%	0%	0%	0%	F	0.1033	F	0.6507	980	F	2009
+400100	  37	00673	     	37-673	Whitehall Rd	037	Goochland County	037	Goochland County	2.00	37-611 Cedar Plains Rd	US 522 Sandy Hook Rd	2000	F	98%	1%	1%	0%	0%	0%	C	0.1083	F	0.8622	2100	F	2009
+741527	  37	00675	     	37-675	Ranson Rd	037	Goochland County	037	Goochland County	0.01	SR 6 W, River Rd West	0.01 MN SR 6	50	R							X						07/20/2009
+741528	  37	00675	     	37-675	Ranson Rd	037	Goochland County	037	Goochland County	0.34	0.01 MN SR 6	SR 6 E, River Rd West	46	R							X						07/20/2009
+741529	  37	00676	     	37-676	Hermitage Rd	037	Goochland County	037	Goochland County	0.43	SR 6 River Rd West	37-1040 Edgehill Wood Dr	710	R							X						02/13/2006
+741530	  37	00676	     	37-676	Hermitage Rd	037	Goochland County	037	Goochland County	1.38	37-1040 Edgehill Wood Dr	37-621 S, Manakin Rd	520	R							X						02/13/2006
+741531	  37	00676	     	37-676	Hermitage Rd	037	Goochland County	037	Goochland County	2.85	37-621 S, Manakin Rd	37-621 N, Manakin Rd	1400	R							X						02/13/2006
+741532	  37	00677	     	37-677	Bowles Rd	037	Goochland County	037	Goochland County	0.20	Cul-de-Sac	37-605 Shannon Hill Rd	8	R							X						07/13/2009
+741533	  37	00678	     	37-678	Marlin Rd	037	Goochland County	037	Goochland County	1.00	Dead End	37-616 Stokes Station Rd	150	R							X						07/22/2009
+787825	  37	00679	     	37-679	Funny Tree Trail	037	Goochland County	037	Goochland County	0.16	37-605 Shannon Hill Rd	Dead End	20	R							X						08/22/2006
+741534	  37	00680	     	37-680	Youngstown Rd	037	Goochland County	037	Goochland County	0.88	Dead End	SR 6 River Rd West	50	R							X						07/20/2009
+741535	  37	00681	     	37-681	Payne Rd	037	Goochland County	037	Goochland County	2.00	Dead End	37-605 Shannon Hill Rd	120	R							X						08/22/2006
+741536	  37	00683	     	37-683	Parrish Rd	037	Goochland County	037	Goochland County	0.29	37-653 Three Chopt Rd	Louisa County Line	60	R							X						07/13/2009
+741537	  37	00684	     	37-684	Ragland Rd	037	Goochland County	037	Goochland County	0.80	Dead End	37-625 St Pauls Church Rd	120	R							X						07/22/2009
+741538	  37	00685	     	37-685	Johnson Rd	037	Goochland County	037	Goochland County	0.50	37-623 Ashland Rd	Dead End	630	R							X						08/05/2009
+741540	  37	00686	     	37-686	New Town Rd	037	Goochland County	037	Goochland County	0.85	Dead End	37-600 Rock Castle Rd	230	R							X						08/22/2006
+741541	  37	00687	     	37-687	Danieltown Rd	037	Goochland County	037	Goochland County	2.50	SR 6 River Rd West	37-608 Davis Mill Rd	180	R							X						07/20/2009
+741542	  37	00688	     	37-688	Pink Dogwood Rd	037	Goochland County	037	Goochland County	0.50	37-603 Tabscott Rd	Dead End	40	R							X						07/13/2009
+741543	  37	00689	     	37-689	Robinson Rd	037	Goochland County	037	Goochland County	0.30	Dead End	0.30 MS Dead End	70	R							X						08/24/2006
+741544	  37	00689	     	37-689	Robinson Rd	037	Goochland County	037	Goochland County	0.20	0.30 MS Dead End	37-614 Dogtown Rd	120	R							X						08/24/2006
+741545	  37	00690	     	37-690	Springfield Rd	037	Goochland County	037	Goochland County	0.35	Dead End	37-614 Dogtown Rd	110	R							X						08/24/2006
+741546	  37	00691	     	37-691	Stage Coach Rd	037	Goochland County	037	Goochland County	0.25	37-644 Miller Lane	Dead End	160	R							X						02/16/2006
+741547	  37	00692	     	37-692	Bell Rd	037	Goochland County	037	Goochland County	0.50	Dead End	37-613 Riddles Bridge Rd	110	R							X						08/24/2006
+741548	  37	00693	     	37-693	Martin Rd	037	Goochland County	037	Goochland County	0.60	Dead End	37-605 Shannon Hill Rd	40	R							X						07/13/2009
+741549	  37	00694	     	37-694	Proffitt Rd	037	Goochland County	037	Goochland County	0.48	Cul-de-Sac	37-621 Manakin Rd	140	R							X						08/26/2009
+741550	  37	00695	     	37-695	Waddy Dr	037	Goochland County	037	Goochland County	0.40	US 250 Broad Street Rd	Cul-de-Sac	160	R							X						08/22/2006
+741551	  37	00696	     	37-696	Pacetown Rd	037	Goochland County	037	Goochland County	0.59	Dead End	37-615 Forest Grove Rd	210	R							X						08/24/2006
+741552	  37	00697	     	37-697	Marle Rd	037	Goochland County	037	Goochland County	0.36	37-667 Old Columbia Rd	Dead End	10	R							X						07/13/2009
+741553	  37	00698	     	37-698	Mickeytown Rd	037	Goochland County	037	Goochland County	0.12	37-632 Fairground Rd	37-637 Hawk Town Rd	70	R							X						03/13/2006
+741554	  37	00699	     	37-699	Three Chopt Rd	037	Goochland County	037	Goochland County	1.30	37-606 Three Chopt Rd	37-695 Waddy Dr	220	R							X						07/13/2009
+741555	  37	00699	     	37-699	Three Chopt Rd	037	Goochland County	037	Goochland County	0.20	37-695 Waddy Dr	US 250 Broad Street Rd	60	R							X						08/22/2006
+741556	  37	00699	     	37-699	Three Chopt Rd	037	Goochland County	037	Goochland County	1.35	US 250 Broad Street Rd	37-669 County Line Rd	120	R							X						08/22/2006
+741557	  37	00700	     	37-700	Three Chopt Rd	037	Goochland County	037	Goochland County	3.20	US 250 W, Broad Street Rd	US 250 E, Broad Street Rd	760	R							X						03/30/2006
+741558	  37	00701	     	37-701	Oakland Church Rd	037	Goochland County	037	Goochland County	0.35	US 250 Broad Street Rd	Louisa County Line	550	R							X						08/12/2009
+741559	  37	00702	     	37-702	Pony Farm Rd	037	Goochland County	037	Goochland County	0.20	37-634 Maidens Rd	US 250 Broad Street Rd	430	R							X						03/13/2006
+741560	  37	00702	     	37-702	Pony Farm Rd	037	Goochland County	037	Goochland County	0.70	US 250 Broad Street Rd	37-636 Elpis Church Rd	300	R							X						08/12/2009
+741561	  37	00702	     	37-702	Pony Farm Rd	037	Goochland County	037	Goochland County	0.90	37-636 Elpis Church Rd	37-635 W, Perkinsville Church Rd	410	R							X						03/13/2006
+741562	  37	00702	     	37-702	Pony Farm Rd	037	Goochland County	037	Goochland County	3.25	37-635 E, Perkinsville Church Rd	37-617 Oilville Rd	400	R							X						03/13/2006
+741563	  37	00703	     	37-703	Herndon Rd	037	Goochland County	037	Goochland County	0.30	Dead End	37-601 Pryor Rd	50	R							X						07/20/2009
+741564	  37	00704	     	37-704	Alvis Rd	037	Goochland County	037	Goochland County	0.40	Dead End	37-612 Three Chopt Rd	160	R							X						02/16/2006
+741565	  37	00705	     	37-705	Cooley Rd	037	Goochland County	037	Goochland County	0.60	Cul-de-Sac	US 250 Broad Street Rd	340	R							X						08/10/2009
+741566	  37	00706	     	37-706	Jerusalem Church Rd	037	Goochland County	037	Goochland County	0.23	37-612 Three Chopt Rd	Dead End	30	R							X						02/16/2006
+741567	  37	00707	     	37-707	Hackney Rd	037	Goochland County	037	Goochland County	0.33	Dead End	SR 45 Cartersville Rd	110	R							X						07/22/2009
+741568	  37	00708	     	37-708	St Matthew Lane	037	Goochland County	037	Goochland County	0.71	US 250 Broad Street Rd	37-622 Rockville Rd	790	R							X						02/27/2006
+741569	  37	00708	     	37-708	St Matthew Lane	037	Goochland County	037	Goochland County	0.22	37-622 Rockville Rd	Dead End	40	R							X						02/27/2006
+741570	  37	00709	     	37-709	Holly Dr	037	Goochland County	037	Goochland County	0.18	37-663 Hickory Dr	Cul-de-Sac	90	R							X						08/03/2009
+741571	  37	00710	     	37-710	Maidens Loop	037	Goochland County	037	Goochland County	0.11	US 522 N, Maidens Rd	Dead End	30	R							X						02/27/2006
+741572	  37	00711	     	37-711	 	037	Goochland County	037	Goochland County	0.03	Dead End	37-710 Maidens Loop	2	R							X						07/27/2009
+741573	  37	00712	     	37-712	Windsor Way	037	Goochland County	037	Goochland County	1.07	Begin Loop	End Loop	120	R							X						02/13/2006
+741574	  37	00712	     	37-712	Devon Way	037	Goochland County	037	Goochland County	0.54	End Loop	37-621 Manakin Rd	380	R							X						02/13/2006
+741575	  37	00713	     	37-713	Grays Lane	037	Goochland County	037	Goochland County	0.20	Dead End	37-614 Dogtown Rd	70	R							X						07/22/2009
+741576	  37	00714	     	37-714	Sawdust Dr	037	Goochland County	037	Goochland County	0.25	Cul-de-Sac	37-662 Willway Dr	100	R							X						02/13/2006
+741577	  37	00714	     	37-714	Sawdust Dr	037	Goochland County	037	Goochland County	0.18	37-662 Willway Dr	37-715 Birch Circle	60	R							X						02/13/2006
+741578	  37	00714	     	37-714	Sawdust Dr	037	Goochland County	037	Goochland County	0.07	37-715 Birch Circle	37-663 Hickory Dr	50	R							X						02/13/2006
+741579	  37	00715	     	37-715	Birch Circle	037	Goochland County	037	Goochland County	0.08	37-714 Sawdust Dr	Cul-de-Sac	60	R							X						08/03/2009
+791685	  37	00717	     	37-717	Maidens Loop	037	Goochland County	037	Goochland County	0.16	Dead End	US 522 Maidens Rd	180	R							X						03/13/2006
+741580	  37	00718	     	37-718	Halls Rd	037	Goochland County	037	Goochland County	0.80	37-629 Old Fredericksburg Road	Louisa County Line	430	R							X						08/24/2006
+741581	  37	00720	     	37-720	Rollins Dr	037	Goochland County	037	Goochland County	0.34	Dead End	37-699 Three Chopt Rd	50	R							X						07/13/2009
+788555	  37	00724	     	37-724	Bulldog Way	037	Goochland County	037	Goochland County	0.92	SR 6 River Rd West	US 522 Sandy Hook Rd	1300	R							X						02/27/2006
+741582	  37	00725	     	37-725	Nelwood Rd	037	Goochland County	037	Goochland County	0.07	37-727 Nelwood Place	37-726 Nelwood Cove	50	R							X						02/27/2006
+741583	  37	00725	     	37-725	Nelwood Rd	037	Goochland County	037	Goochland County	0.31	37-726 Nelwood Cove	37-621 Manakin Rd	70	R							X						02/27/2006
+741584	  37	00726	     	37-726	Nelwood Cove	037	Goochland County	037	Goochland County	0.06	Cul-de-Sac	37-725 Nelwood Rd	20	R							X						02/27/2006
+741585	  37	00727	     	37-727	Nelwood Place	037	Goochland County	037	Goochland County	0.11	37-725 Nelwood Rd	Cul-de-Sac	40	R							X						02/27/2006
+741586	  37	00730	     	37-730	Courthouse Creek Rd	037	Goochland County	037	Goochland County	0.08	Dead End	37-634 Maidens Rd	110	R							X						07/27/2009
+780346	  37	00735	     	37-735	Goodluck Rd	037	Goochland County	037	Goochland County	0.55	Dead End	37-702 Pony Farm Rd	100	R							X						08/12/2009
+780343	  37	00737	     	37-737	Shephed Spring Rd	037	Goochland County	037	Goochland County	0.81	37-619 Newline Rd	37-1140 Fox Chase Run	230	R							X						08/10/2009
+787593	  37	00737	     	37-737	Cabin Rd	037	Goochland County	037	Goochland County	2.25	37-1140 Fox Chase Run	Dead End	70	R							X						08/10/2009
+792461	  37	00740	     	37-740	Tuckahoe Creek Pkwy	037	Goochland County	037	Goochland County	0.65	37-676 Hermitage Rd	37-1150 Kinloch Rd	1100	R							X						08/12/2009
+791686	  37	00740	     	37-740	Tuckahoe Creek Pkwy	037	Goochland County	037	Goochland County	0.60	37-1150 Kinloch Rd	37-623 Hockett Rd	1800	R							X						08/12/2009
+793032	  37	00741	     	37-741	Capital One Dr	037	Goochland County	037	Goochland County	0.84	37-1250 West Creek Pkwy	Dead End	3000	R							X						09/15/2009
+741587	  37	01000	     	37-1000	Plaza Dr	037	Goochland County	037	Goochland County	0.33	US 250 Broad Street Rd	37-1013 Briggs Dr	1800	R							X						08/05/2009
+741588	  37	01000	     	37-1000	Plaza Dr	037	Goochland County	037	Goochland County	0.09	37-1013 Briggs Dr	37-708 St Matthew Lane	1900	R							X						08/05/2009
+741589	  37	01000	     	37-1000	Plaza Dr	037	Goochland County	037	Goochland County	0.29	37-708 St Matthew Lane	37-623 Ashland Rd	2100	R							X						08/05/2009
+741590	  37	01001	     	37-1001	Mills Rd	037	Goochland County	037	Goochland County	0.13	US 250 Broad St	37-1002 Pamela Lane	180	R							X						02/27/2006
+741591	  37	01002	     	37-1002	Pamela Lane	037	Goochland County	037	Goochland County	0.09	37-1001 Mills Rd	37-1004 Dorthy Dr	100	R							X						02/27/2006
+741592	  37	01002	     	37-1002	Pamela Lane	037	Goochland County	037	Goochland County	0.17	37-1004 Dorthy Dr	37-1003 Burfoot Rd	150	R							X						08/05/2009
+741593	  37	01002	     	37-1002	Pamela Lane	037	Goochland County	037	Goochland County	0.07	37-1003 Burfoot Rd	Dead End	60	R							X						08/05/2009
+741594	  37	01003	     	37-1003	Burfoot Rd	037	Goochland County	037	Goochland County	0.09	37-1005 Fawn Lane	37-1002 Pamela Lane	30	R							X						02/27/2006
+741595	  37	01004	     	37-1004	Dorthy Dr	037	Goochland County	037	Goochland County	0.09	37-1002 Pamela Lane	37-1005 Fawn Lane	130	R							X						08/05/2009
+741596	  37	01005	     	37-1005	Fawn Lane	037	Goochland County	037	Goochland County	0.15	37-1004 Dorthy Dr	37-1003 Burfoot Rd	60	R							X						02/27/2006
+741597	  37	01005	     	37-1005	Fawn Lane	037	Goochland County	037	Goochland County	0.07	37-1003 Burfoot Rd	Dead End	20	R							X						02/27/2006
+741598	  37	01006	     	37-1006	Holly Lane	037	Goochland County	037	Goochland County	0.16	37-623 Hockett Rd	37-1007 Oak Lane	260	R							X						08/05/2009
+741599	  37	01006	     	37-1006	Holly Lane	037	Goochland County	037	Goochland County	0.09	37-1007 Oak Lane	37-1008 Birch Rd	200	R							X						08/05/2009
+741600	  37	01006	     	37-1006	Holly Lane	037	Goochland County	037	Goochland County	0.10	37-1008 Birch Rd	37-1009 Cedar Circle	100	R							X						08/05/2009
+741601	  37	01006	     	37-1006	Holly Lane	037	Goochland County	037	Goochland County	0.04	37-1009 Cedar Circle	Dead End	30	R							X						08/05/2009
+741602	  37	01007	     	37-1007	Oak Lane	037	Goochland County	037	Goochland County	0.06	37-1006 Holly Lane	Dead End	60	R							X						02/27/2006
+741603	  37	01008	     	37-1008	Birch Rd	037	Goochland County	037	Goochland County	0.05	37-1006 Holly Lane	37-1009 Cedar Circle	100	R							X						08/05/2009
+741604	  37	01008	     	37-1008	Birch Rd	037	Goochland County	037	Goochland County	0.04	37-1009 Cedar Circle	Dead End	30	R							X						08/05/2009
+741605	  37	01009	     	37-1009	Cedar Circle	037	Goochland County	037	Goochland County	0.12	37-1008 Birch Rd	37-1006 Holly Lane	80	R							X						02/27/2006
+741606	  37	01010	     	37-1010	Whippoorwill Rd	037	Goochland County	037	Goochland County	0.37	Dead End	US 250 Broad St	190	R							X						08/05/2009
+741607	  37	01011	     	37-1011	Valentine Rd	037	Goochland County	037	Goochland County	0.05	37-708 St Matthew Lane	Dead End	10	R							X						02/27/2006
+741608	  37	01012	     	37-1012	Little Falls Lane	037	Goochland County	037	Goochland County	0.29	37-708 St Matthew Lane	Cul-de-Sac	100	R							X						08/05/2009
+741609	  37	01013	     	37-1013	Briggs Dr	037	Goochland County	037	Goochland County	0.19	US 250 Broad Street Rd	37-1000 Plaza Dr	1200	R							X						02/27/2006
+741610	  37	01014	     	37-1014	Goins Rd	037	Goochland County	037	Goochland County	0.23	37-623 Hockett Rd	37-623 Hockett Rd	20	R							X						02/27/2006
+794564	  37	01015	     	37-1015	Commerce Center Dr	037	Goochland County	037	Goochland County	0.23	Cul-de-Sac	37-623 Ashland Rd	860	R							X						08/26/2009
+794565	  37	01016	     	37-1016	Granite Ridge Rd	037	Goochland County	037	Goochland County	0.23	Cul-de-Sac	37-1015	580	R							X						08/26/2009
+794566	  37	01017	     	37-1017	Greystone Court	037	Goochland County	037	Goochland County	0.06	37-1016	Cul-de-Sac	70	R							X						08/26/2009
+791687	  37	01018	     	37-1018	Shadow Creek Lane	037	Goochland County	037	Goochland County	0.50	37-621 Manakin Rd	Cul-de-Sac	170	R							X						02/16/2006
+788556	  37	01019	     	37-1019	Forest Meadow Lane	037	Goochland County	037	Goochland County	0.23	Cul-de-Sac	37-621 Manakin Rd	60	R							X						02/13/2006
+741611	  37	01020	     	37-1020	Broad Run Dr	037	Goochland County	037	Goochland County	0.10	37-621 Manakin Rd	37-1021 Deer Run Rd	220	R							X						08/12/2009
+741612	  37	01020	     	37-1020	Broad Run Dr	037	Goochland County	037	Goochland County	0.48	37-1021 Deer Run Rd	Cul-de-Sac	130	R							X						08/12/2009
+741613	  37	01021	     	37-1021	Deer Run Rd	037	Goochland County	037	Goochland County	0.30	37-1020 Broad Run Dr	Cul-de-Sac	90	R							X						08/12/2009
+741614	  37	01022	     	37-1022	Red Fox Rd	037	Goochland County	037	Goochland County	0.16	37-621 Manakin Rd	Cul-de-Sac	50	R							X						02/15/2006
+741615	  37	01023	     	37-1023	Mellick Ridge Rd	037	Goochland County	037	Goochland County	0.33	Cul-de-Sac	37-1024 Mellick Ridge Court	90	R							X						02/13/2006
+741616	  37	01023	     	37-1023	Mellick Ridge Rd	037	Goochland County	037	Goochland County	0.08	37-1024 Mellick Ridge Court	37-621 Manakin Rd	160	R							X						02/13/2006
+741617	  37	01024	     	37-1024	Mellick Ridge Court	037	Goochland County	037	Goochland County	0.14	Cul-de-Sac	37-1023 Mellick Ridge Rd	60	R							X						02/13/2006
+786320	  37	01025	     	37-1025	Goosepoint Court	037	Goochland County	037	Goochland County	0.06	Cul-de-Sac	37-676 Hermitage Rd	60	R							X						02/16/2006
+741618	  37	01026	     	37-1026	Hunting Ridge Rd	037	Goochland County	037	Goochland County	0.34	Cul-de-Sac	37-1028 Quail Run Dr	110	R							X						02/16/2006
+741619	  37	01026	     	37-1026	Hunting Ridge Rd	037	Goochland County	037	Goochland County	0.40	37-1028 Quail Run Dr	37-1027 W, Game Bird Court	290	R							X						02/16/2006
+741620	  37	01026	     	37-1026	Hunting Ridge Rd	037	Goochland County	037	Goochland County	0.04	37-1027 W, Game Bird Court	37-1027 E, Game Bird Court	290	R							X						02/16/2006
+741621	  37	01026	     	37-1026	Hunting Ridge Rd	037	Goochland County	037	Goochland County	0.07	37-1027 E, Game Bird Court	37-676 Hermitage Rd	320	R							X						02/16/2006
+741622	  37	01027	     	37-1027	Game Bird Court	037	Goochland County	037	Goochland County	0.16	37-1026 Hunting Ridge Rd	37-1026 Hunting Ridge Rd	40	R							X						08/12/2009
+741623	  37	01028	     	37-1028	Quail Run Dr	037	Goochland County	037	Goochland County	0.36	Cul-de-Sac	37-1026 Hunting Ridge Rd	110	R							X						02/16/2006
+741624	  37	01029	     	37-1029	Hawk Wing Dr	037	Goochland County	037	Goochland County	0.34	Cul-de-Sac	37-676 Hermitage Rd	50	R							X						08/12/2009
+741625	  37	01030	     	37-1030	Holly Lake Dr	037	Goochland County	037	Goochland County	0.14	Cul-de-Sac	37-1031 Rolling Lake Court	70	R							X						02/16/2006
+741626	  37	01030	     	37-1030	Holly Lake Dr	037	Goochland County	037	Goochland County	0.19	37-1031 Rolling Lake Court	37-676 Hermitage Rd	140	R							X						02/16/2006
+741627	  37	01031	     	37-1031	Rolling Lake Court	037	Goochland County	037	Goochland County	0.13	Cul-de-Sac	37-1030 Holly Lake Dr	70	R							X						08/12/2009
+785789	  37	01032	     	37-1032	First Flite Lane	037	Goochland County	037	Goochland County	0.30	Cul-de-Sac	37-676 Hermitage Rd	40	R							X						08/03/2009
+741628	  37	01035	     	37-1035	Perrow Lane	037	Goochland County	037	Goochland County	0.50	Cul-de-Sac	37-676 Hermitage Rd	100	R							X						02/13/2006
+786321	  37	01037	     	37-1037	Cedar Run Court	037	Goochland County	037	Goochland County	0.05	37-676 Hermitage Rd	Cul-de-Sac	30	R							X						02/13/2006
+741629	  37	01038	     	37-1038	Elm Creek Dr	037	Goochland County	037	Goochland County	0.38	37-1039 Crossridge Lane	37-676 Hermitage Rd	220	R							X						02/13/2006
+741630	  37	01039	     	37-1039	Crossridge Lane	037	Goochland County	037	Goochland County	0.33	Cul-de-Sac	37-1038 Elm Creek Dr	90	R							X						02/13/2006
+741631	  37	01039	     	37-1039	Crossridge Lane	037	Goochland County	037	Goochland County	0.46	37-1038 Elm Creek Dr	Cul-de-Sac	60	R							X						02/13/2006
+741632	  37	01040	     	37-1040	Edgehill Wood Dr	037	Goochland County	037	Goochland County	0.42	37-676 Hermitage Rd	37-1041 Edgehill Wood Court	180	R							X						02/13/2006
+741633	  37	01040	     	37-1040	Edgehill Wood Dr	037	Goochland County	037	Goochland County	0.14	37-1041 Edgehill Wood Court	37-662 Willway Dr	160	R							X						02/13/2006
+741634	  37	01041	     	37-1041	Edgehill Wood Court	037	Goochland County	037	Goochland County	0.13	37-1040 Edgehill Wood Dr	Cul-de-Sac	70	R							X						08/03/2009
+786322	  37	01042	     	37-1042	Cedar Run Rd	037	Goochland County	037	Goochland County	0.89	Cul-de-Sac	37-676 Hermitage Rd	170	R							X						02/13/2006
+786323	  37	01043	     	37-1043	Cypress Court	037	Goochland County	037	Goochland County	0.08	37-1042 Cedar Run Rd	Cul-de-Sac	30	R							X						02/13/2006
+786324	  37	01044	     	37-1044	Summit Court	037	Goochland County	037	Goochland County	0.10	37-1042 Cedar Run Rd	Cul-de-Sac	40	R							X						02/13/2006
+741635	  37	01045	     	37-1045	Red Cedar Dr	037	Goochland County	037	Goochland County	0.14	37-663 Old Hickory Dr	37-1046 Red Maple Dr	30	R							X						02/13/2006
+741636	  37	01046	     	37-1046	Red Maple Dr	037	Goochland County	037	Goochland County	0.11	37-662 Willway Dr	37-1045 Red Cedar Dr	120	R							X						08/03/2009
+741637	  37	01046	     	37-1046	Red Maple Dr	037	Goochland County	037	Goochland County	0.16	37-1045 Red Cedar Dr	37-663 Old Hickory Dr	40	R							X						08/03/2009
+791688	  37	01047	     	37-1047	Hickory Court	037	Goochland County	037	Goochland County	0.04	37-663 Hickory Dr	Cul-de-Sac	9	R							X						02/13/2006
+741638	  37	01050	     	37-1050	Adventure Lane	037	Goochland County	037	Goochland County	0.23	37-1052 White Horse Rd	37-634 Maidens Rd	190	R							X						02/27/2006
+741639	  37	01051	     	37-1051	Rohrer Rd	037	Goochland County	037	Goochland County	0.07	37-1050 Adventure Lane	Cul-de-Sac	30	R							X						02/27/2006
+741640	  37	01052	     	37-1052	White Horse Rd	037	Goochland County	037	Goochland County	0.15	Cul-de-Sac SOUTH	37-1050 Adventure Lane	60	R							X						02/27/2006
+783414	  37	01052	     	37-1052	White Horse Rd	037	Goochland County	037	Goochland County	0.09	37-1050 Adventure Lane	Cul-de-Sac NORTH	80	R							X						02/27/2006
+741641	  37	01055	     	37-1055	Alldever Dr	037	Goochland County	037	Goochland County	0.15	37-634 Maidens Rd	37-1056 Craig Run Court	130	R							X						02/27/2006
+741642	  37	01055	     	37-1055	Alldever Dr	037	Goochland County	037	Goochland County	0.35	37-1056 Craig Run Court	Cul-de-Sac	70	R							X						02/27/2006
+741643	  37	01056	     	37-1056	Craig Run Court	037	Goochland County	037	Goochland County	0.11	Cul-de-Sac	37-1055 Alldever Dr	30	R							X						02/27/2006
+784035	  37	01058	     	37-1058	Log Cabin Rd	037	Goochland County	037	Goochland County	0.86	Cul-de-Sac	37-634 Maidens Rd	180	R							X						07/27/2009
+784036	  37	01059	     	37-1059	Old Store Rd	037	Goochland County	037	Goochland County	0.12	Cul-de-Sac	37-1058 Log Cabin Rd	30	R							X						07/27/2009
+741644	  37	01060	     	37-1060	Brittland Dr	037	Goochland County	037	Goochland County	0.52	37-626 Seay Rd	Cul-de-Sac	140	R							X						02/27/2006
+790401	  37	01063	     	37-1063	Bexley Wood Run	037	Goochland County	037	Goochland County	0.34	Cul-de-Sac	37-613	120	R							X						08/24/2006
+741645	  37	01064	     	37-1064	Sycamore Creek Dr	037	Goochland County	037	Goochland County	0.27	US 250 Broad Street Rd	Cul-de-Sac	50	R							X						02/16/2006
+782486	  37	01065	     	37-1065	Rabbit Warren Rd	037	Goochland County	037	Goochland County	0.21	US 250 Broad Street Rd	Cul-de-Sac	80	R							X						02/16/2006
+797016	  37	01066	     	37-1066	 	037	Goochland County	037	Goochland County	0.18	37-1067	37-623 Hockett Rd	0	?							X
+797017	  37	01067	     	37-1067	 	037	Goochland County	037	Goochland County	0.76	37-1066	37-1066 End of Loop	0	?							X
+797018	  37	01068	     	37-1068	 	037	Goochland County	037	Goochland County	0.04	.	37-1067	0	?							X
+794567	  37	01071	     	37-1071	Sandwedge Court	037	Goochland County	037	Goochland County	0.05	Cul-de-Sac	37-1099; 37-1098	20	R							X						08/10/2009
+794568	  37	01072	     	37-1072	Par Three Plaza	037	Goochland County	037	Goochland County	0.10	Cul-de-Sac	37-1098	20	R							X						08/10/2009
+794569	  37	01073	     	37-1073	Putting Green Way	037	Goochland County	037	Goochland County	0.06	37-1098	Cul-de-Sac	20	R							X						08/10/2009
+794570	  37	01074	     	37-1074	Double Eagle Court	037	Goochland County	037	Goochland County	0.05	Cul-de-Sac	37-1098	20	R							X						08/10/2009
+792462	  37	01077	     	37-1077	Parkers Hill Dr	037	Goochland County	037	Goochland County	0.88	37-634 Maidens Rd	Cul-de-Sac	170	R							X						07/27/2009
+785692	  37	01078	     	37-1078	Blackwood Dr	037	Goochland County	037	Goochland County	0.22	37-639 Sheppard Town Rd	Cul-de-Sac	49	R							X						07/27/2009
+785693	  37	01079	     	37-1079	Long Branch Dr	037	Goochland County	037	Goochland County	0.13	37-639 Sheppard Town Rd	Cul-de-Sac	40	R							X						07/27/2009
+741646	  37	01080	     	37-1080	Greenbriar Branch Dr	037	Goochland County	037	Goochland County	0.35	37-632 Fairground Rd	37-1081 Wicker Woods Dr	130	R							X						07/27/2009
+741647	  37	01080	     	37-1080	Greenbriar Branch Dr	037	Goochland County	037	Goochland County	0.11	37-1081 Wicker Woods Dr	Cul-de-Sac	47	R							X						07/27/2009
+741648	  37	01081	     	37-1081	Wicker Woods Dr	037	Goochland County	037	Goochland County	0.23	37-1080 Greenbriar Branch Dr	Cul-de-Sac	60	R							X						10/23/2006
+786325	  37	01086	     	37-1086	Eastleigh Dr	037	Goochland County	037	Goochland County	0.09	Cul-de-Sac	37-1092 Tranbycroft Way	30	R							X						03/30/2006
+789794	  37	01087	     	37-1087	Checketts Dr	037	Goochland County	037	Goochland County	0.22	Cul-de-Sac	37-1092 Tranbycroft Way	90	R							X						03/30/2006
+786326	  37	01087	     	37-1087	Checketts Dr	037	Goochland County	037	Goochland County	0.24	37-1092 Tranbycroft Way	Cul-de-Sac	90	R							X						03/30/2006
+786327	  37	01088	     	37-1088	Caleherne Ct	037	Goochland County	037	Goochland County	0.06	37-1092 Tranbycroft Way	Cul-de-Sac	46	R							X						03/30/2006
+786328	  37	01089	     	37-1089	Blackfriar Lane	037	Goochland County	037	Goochland County	0.03	37-1092 Tranbycroft Way	Louisa County Line	20	R							X						03/30/2006
+741649	  37	01090	     	37-1090	Broadland Way	037	Goochland County	037	Goochland County	0.50	US 522 Sandy Hook Rd	37-1091 Hill House Lane	510	R							X						03/30/2006
+741650	  37	01090	     	37-1090	Broadland Way	037	Goochland County	037	Goochland County	0.15	37-1091 Hill House Lane	37-1092 Tranbycroft Way	420	R							X						03/30/2006
+741651	  37	01091	     	37-1091	Hill House Lane	037	Goochland County	037	Goochland County	0.09	37-1090 Broadland Way	Cul-de-Sac	46	R							X						03/30/2006
+787433	  37	01092	     	37-1092	Tranbycroft Way	037	Goochland County	037	Goochland County	0.93	Cul-de-Sac	37-1090 Broadland Way	230	R							X						03/30/2006
+741652	  37	01092	     	37-1092	Tranbycroft Way	037	Goochland County	037	Goochland County	0.23	37-1090 Broadland Way	37-1093 Kingsmere Dr	220	R							X						03/30/2006
+741653	  37	01092	     	37-1092	Tranbycroft Way	037	Goochland County	037	Goochland County	0.06	37-1093 Kingsmere Dr	Cul-de-Sac	30	R							X						03/30/2006
+741654	  37	01093	     	37-1093	Kingsmere Dr	037	Goochland County	037	Goochland County	0.09	Cul-de-Sac	37-1094 Parkhouse Court	30	R							X						03/30/2006
+741655	  37	01093	     	37-1093	Kingsmere Dr	037	Goochland County	037	Goochland County	0.11	37-1094 Parkhouse Court	37-1092 Tranbycroft Way	150	R							X						03/30/2006
+741656	  37	01094	     	37-1094	Parkhouse Court	037	Goochland County	037	Goochland County	0.17	Cul-de-Sac	37-1093 Kingsmere Dr	60	R							X						03/30/2006
+741657	  37	01094	     	37-1094	Parkhouse Court	037	Goochland County	037	Goochland County	0.15	37-1093 Kingsmere Dr	Cul-de-Sac	60	R							X						03/30/2006
+794571	  37	01095	     	37-1095	Royal Virginia Court	037	Goochland County	037	Goochland County	0.20	37-1097 Royal Virginia Pkwy	Cul-de-Sac	20	R							X						08/10/2009
+794572	  37	01096	     	37-1096	Royal Virginia Lane	037	Goochland County	037	Goochland County	0.11	Cul-de-Sac	37-1097 Royal Virginia Pkwy	2	R							X						08/10/2009
+790402	  37	01097	     	37-1097	Royal Virginia Pkwy	037	Goochland County	037	Goochland County	1.23	37-1099; 37-1098	37-606 Hadensville-Fife Rd	390	R							X						08/24/2006
+794573	  37	01098	     	37-1098	Dougle Eagle Dr	037	Goochland County	037	Goochland County	0.63	Cul-de-Sac	37-1097; 37-1071	80	R							X						08/10/2009
+794574	  37	01099	     	37-1099	Sand Trap Circle	037	Goochland County	037	Goochland County	0.11	37-1097; 37-1071	Cul-de-Sac	6	R							X						08/10/2009
+741658	  37	01101	     	37-1101	Berkley Dr	037	Goochland County	037	Goochland County	0.10	37-1102 Brook Run Dr	37-650 River Rd	470	R							X						09/21/2009
+741659	  37	01102	     	37-1102	Brook Run Dr	037	Goochland County	037	Goochland County	0.10	Dead End	37-1104 W, Ashley Dr	20	R							X						02/13/2006
+741660	  37	01102	     	37-1102	Brook Run Dr	037	Goochland County	037	Goochland County	0.40	37-1104 W, Ashley Dr	37-1101 Berkley Dr	340	R							X						02/13/2006
+741661	  37	01102	     	37-1102	Brook Run Dr	037	Goochland County	037	Goochland County	0.03	37-1101 Berkley Dr	37-1103 Sweetbriar Dr	520	R							X						02/13/2006
+741662	  37	01102	     	37-1102	Brook Run Dr	037	Goochland County	037	Goochland County	0.49	37-1103 Sweetbriar Dr	37-1104 E, Ashley Dr	210	R							X						02/13/2006
+741663	  37	01103	     	37-1103	Sweetbriar Dr	037	Goochland County	037	Goochland County	0.12	Dead End	37-1104 Ashley Dr	50	R							X						09/21/2009
+741664	  37	01103	     	37-1103	Sweetbriar Dr	037	Goochland County	037	Goochland County	0.40	37-1104 Ashley Dr	37-1102 Brook Run Dr	200	R							X						09/21/2009
+741665	  37	01104	     	37-1104	Ashley Dr	037	Goochland County	037	Goochland County	0.10	37-1102 W, Brook Run Dr	37-1103 Sweetbriar Dr	47	R							X						02/13/2006
+741666	  37	01104	     	37-1104	Ashley Dr	037	Goochland County	037	Goochland County	0.08	37-1103 Sweetbriar Dr	37-1102 E, Brook Run Dr	60	R							X						02/13/2006
+741667	  37	01105	     	37-1105	Willow Oaks Rd	037	Goochland County	037	Goochland County	0.20	Dead End	37-650 River Rd	80	R							X						09/15/2009
+741668	  37	01106	     	37-1106	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.06	37-1107 Lower Tuckahoe Rd	37-650 River Rd	790	R							X						02/13/2006
+741669	  37	01107	     	37-1107	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.37	Dead End	37-1108 Roads End Lane	140	R							X						09/21/2009
+741670	  37	01107	     	37-1107	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.29	37-1108 Roads End Lane	37-1106 Lower Tuckahoe Rd	280	R							X						09/21/2009
+741671	  37	01107	     	37-1107	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.06	37-1106 Lower Tuckahoe Rd	37-1111 W, Dahlgren Rd	270	R							X						09/21/2009
+741672	  37	01107	     	37-1107	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.11	37-1111 W, Dahlgren Rd	37-1113 Buck Branch Dr	300	R							X						09/21/2009
+741673	  37	01107	     	37-1107	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.07	37-1113 Buck Branch Dr	37-1111 E, Dahlgren Rd	320	R							X						09/21/2009
+741674	  37	01107	     	37-1107	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.12	37-1111 E, Dahlgren Rd	37-1120 Hill Point Rd	470	R							X						09/21/2009
+741675	  37	01107	     	37-1107	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.05	37-1120 Hill Point Rd	37-1121 Lower Tuckahoe Court	150	R							X						09/21/2009
+741676	  37	01107	     	37-1107	Lower Tuckahoe Rd	037	Goochland County	037	Goochland County	0.11	37-1121 Lower Tuckahoe Court	Cul-de-Sac	70	R							X						09/21/2009
+741677	  37	01108	     	37-1108	Roads End Lane	037	Goochland County	037	Goochland County	0.13	37-1107 Lower Tuckahoe Rd	Dead End	50	R							X						02/13/2006
+741678	  37	01109	     	37-1109	Briarwood Circle	037	Goochland County	037	Goochland County	0.24	37-647 Pagebrook Dr	37-647 Pagebrook Dr	70	R							X						09/15/2009
+741679	  37	01110	     	37-1110	Knollwood Dr	037	Goochland County	037	Goochland County	0.12	37-647 Pagebrook Dr	Cul-de-Sac	60	R							X						02/13/2006
+741680	  37	01111	     	37-1111	Dahlgren Rd	037	Goochland County	037	Goochland County	0.54	37-1107 W, Lower Tuckahoe Rd	37-1113 Buck Branch Dr	200	R							X						09/21/2009
+741681	  37	01111	     	37-1111	Dahlgren Rd	037	Goochland County	037	Goochland County	0.15	37-1113 Buck Branch Dr	37-1114 Dover Place	150	R							X						09/21/2009
+741682	  37	01111	     	37-1111	Dahlgren Rd	037	Goochland County	037	Goochland County	0.11	37-1114 Dover Place	37-1107 E, Lower Tuckahoe Rd	180	R							X						09/21/2009
+741683	  37	01112	     	37-1112	Flag Stage Rd	037	Goochland County	037	Goochland County	0.25	Dead End	37-650 River Rd	100	R							X						02/13/2006
+741684	  37	01113	     	37-1113	Buck Branch Dr	037	Goochland County	037	Goochland County	0.29	Dead End	37-1111 Dahlgren Rd	200	R							X						09/21/2009
+741685	  37	01114	     	37-1114	Dover Place	037	Goochland County	037	Goochland County	0.05	37-1111 Dahlgren Rd	Dead End	20	R							X						02/13/2006
+741686	  37	01115	     	37-1115	Partridge Rd	037	Goochland County	037	Goochland County	0.50	Cul-de-Sac	37-650 River Rd	220	R							X						09/21/2009
+741687	  37	01116	     	37-1116	Mystic Court	037	Goochland County	037	Goochland County	0.15	Dead End	37-1111 Dahlgren Rd	60	R							X						02/13/2006
+795662	  37	01117	     	37-1117	Archway Lane	037	Goochland County	037	Goochland County	0.11	37-1146 Stone Creek Dr	37-1147 Rockcress Lane	260	R							X						07/20/2009
+795663	  37	01118	     	37-1118	Timber Trail Dr	037	Goochland County	037	Goochland County	0.32	Cul-de-Sac	37-1147 Rockcress Lane	46	R							X						07/20/2009
+795664	  37	01119	     	37-1119	Fallen Creek Dr	037	Goochland County	037	Goochland County	0.08	37-1147 Rockcress Lane	Cul-de-Sac	40	R							X						07/20/2009
+741688	  37	01120	     	37-1120	Hill Point Rd	037	Goochland County	037	Goochland County	0.17	Dead End	37-1122 Hill Point Court	50	R							X						02/13/2006
+741689	  37	01120	     	37-1120	Hill Point Rd	037	Goochland County	037	Goochland County	0.25	37-1122 Hill Point Court	37-1107 Lower Tuckahoe Rd	270	R							X						02/13/2006
+741690	  37	01120	     	37-1120	Hill Point Rd	037	Goochland County	037	Goochland County	0.05	37-1107 Lower Tuckahoe Rd	37-650 River Rd	500	R							X						02/13/2006
+741691	  37	01121	     	37-1121	Lower Tuckahoe Court	037	Goochland County	037	Goochland County	0.06	Cul-de-Sac	37-1107 Lower Tuckahoe Rd	40	R							X						09/21/2009
+741692	  37	01122	     	37-1122	Hill Point Court	037	Goochland County	037	Goochland County	0.05	37-1120 Hill Point Rd	Dead End	50	R							X						02/13/2006
+786329	  37	01123	     	37-1123	Dunaway Dr	037	Goochland County	037	Goochland County	0.11	37-1120 Hill Point Rd	Dead End	30	R							X						02/13/2006
+791689	  37	01126	     	37-1126	Victoria Lane	037	Goochland County	037	Goochland County	0.17	37-659 Creekmore Rd	37-1127 Regina Lane	250	R							X						02/13/2006
+791690	  37	01127	     	37-1127	Regina Lane	037	Goochland County	037	Goochland County	0.16	Cul-de-Sac	37-1126 Victoria Lane	160	R							X						02/13/2006
+795465	  37	01127	     	37-1127	Regina Lane	037	Goochland County	037	Goochland County	0.03	37-1126 Victoria Lane	Cul-de-Sac	50	R							X						09/15/2009
+786330	  37	01128	     	37-1128	Drew Ridge Dr	037	Goochland County	037	Goochland County	0.41	Cul-de-Sac	US 250; 37-699	230	R							X						08/22/2006
+786331	  37	01129	     	37-1129	Royal Ridge Court	037	Goochland County	037	Goochland County	0.33	Cul-de-Sac	37-1128 Drew Ridge Dr	80	R							X						08/22/2006
+741693	  37	01130	     	37-1130	Rockford Rd	037	Goochland County	037	Goochland County	0.29	37-1133 Windy Run	37-1131 W, Wheatlands Dr	160	R							X						02/16/2006
+741694	  37	01130	     	37-1130	Rockford Rd	037	Goochland County	037	Goochland County	0.20	37-1131 W, Wheatlands Dr	37-1131 E, Wheatlands Dr	160	R							X						02/16/2006
+741695	  37	01130	     	37-1130	Rockford Rd	037	Goochland County	037	Goochland County	0.49	37-1131 E, Wheatlands Dr	37-621 Manakin Rd	570	R							X						02/16/2006
+741696	  37	01131	     	37-1131	Wheatlands Dr	037	Goochland County	037	Goochland County	1.12	37-1130 W, Rockford Rd	37-1130 E, Rockford Rd	220	R							X						08/26/2009
+790403	  37	01132	     	37-1132	Harolds Dr	037	Goochland County	037	Goochland County	0.35	Cul-de-Sac	37-621 Manakin Rd	130	R							X						02/16/2006
+793033	  37	01133	     	37-1133	Windy Run	037	Goochland County	037	Goochland County	0.25	Cul-de-Sac	37-1130 Rockford Rd	60	R							X						08/26/2009
+786332	  37	01134	     	37-1134	Massies Lane	037	Goochland County	037	Goochland County	0.17	Cul-de-Sac	37-621 Manakin Rd	150	R							X						08/26/2009
+741697	  37	01135	     	37-1135	Ford Rd	037	Goochland County	037	Goochland County	0.76	Dead End	37-621 Manakin Rd	320	R							X						02/16/2006
+741698	  37	01136	     	37-1136	Fed Lane	037	Goochland County	037	Goochland County	0.33	Dead End	37-1135 Ford Rd	100	R							X						02/16/2006
+791691	  37	01137	     	37-1137	Willowtrace Lane	037	Goochland County	037	Goochland County	0.96	37-673 Whitehall Rd	Cul-de-Sac	220	R							X						03/30/2006
+741699	  37	01140	     	37-1140	Fox Chase Run	037	Goochland County	037	Goochland County	0.40	FR-87	37-1141 West Grey Fox Circle	290	R							X						03/30/2006
+741700	  37	01141	     	37-1141	West Grey Fox Circle	037	Goochland County	037	Goochland County	0.95	37-1142 E, Fox Lair Rd	37-1142 W, Fox Lair Rd	180	R							X						08/24/2009
+741701	  37	01142	     	37-1142	Fox Lair Rd	037	Goochland County	037	Goochland County	0.11	Cul-de-Sac	37-1141 W, West Grey Fox Circle	30	R							X						08/24/2009
+783415	  37	01142	     	37-1142	Fox Lair Rd	037	Goochland County	037	Goochland County	0.39	37-1141 W, West Grey Fox Circle	Cul-de-Sac	49	R							X						08/24/2009
+787826	  37	01143	     	37-1143	Elm Creek Dr	037	Goochland County	037	Goochland County	0.37	Cul-de-Sac	37-676; 37-1038	260	R							X						02/16/2006
+787827	  37	01144	     	37-1144	Elm Creek Circle	037	Goochland County	037	Goochland County	0.08	37-1143 Elm Creek Dr	Cul-de-Sac	60	R							X						02/13/2006
+786333	  37	01145	     	37-1145	Mill Trace Lane	037	Goochland County	037	Goochland County	0.55	US 522 Sandy Hook Rd	37-1146 Stone Creek Dr	260	R							X						03/30/2006
+786334	  37	01146	     	37-1146	Stone Creek Dr	037	Goochland County	037	Goochland County	0.77	Cul-de-Sac	Cul-de-Sac	220	R							X						03/30/2006
+791692	  37	01147	     	37-1147	Rockcress Lane	037	Goochland County	037	Goochland County	0.33	Cul-de-Sac	37-1137 Willowtrace Lane	210	R							X						03/30/2006
+796462	  37	01147	     	37-1147	Rockcress Lane	037	Goochland County	037	Goochland County	0.81	37-1137 Willowtrace Lane	Cul-de-Sac	220	R							X						07/20/2009
+791693	  37	01148	     	37-1148	Stonecastle Lane	037	Goochland County	037	Goochland County	0.21	37-1137 Willowtrace Lane	Cul-de-Sac	50	R							X						07/20/2009
+791694	  37	01149	     	37-1149	Heathmill Rd	037	Goochland County	037	Goochland County	0.15	37-1147 Rockcress Lane	Cul-de-Sac	40	R							X						03/30/2006
+792506	  37	01150	     	37-1150	Kinloch Rd	037	Goochland County	037	Goochland County	0.16	Cul-de-Sac	37-1151 Kinloch Rd	70	R							X						02/16/2006
+791695	  37	01150	     	37-1150	Kinloch Rd	037	Goochland County	037	Goochland County	0.31	37-1151 Kinloch Rd	37-740 Tuckahoe Creek Parkway	200	R							X						02/16/2006
+791696	  37	01151	     	37-1151	Kinloch Rd	037	Goochland County	037	Goochland County	0.22	37-1150 Kinloch Rd	Cul-de-Sac	100	R							X						02/16/2006
+794575	  37	01152	     	37-1152	Long Pond Rd	037	Goochland County	037	Goochland County	0.48	37-1158 Fairstead Rd	37-740 Tuckahoe Creek Pkwy	610	R							X						09/15/2009
+794576	  37	01153	     	37-1153	Hill Grove Rd	037	Goochland County	037	Goochland County	0.33	Cul-de-Sac	37-1155 Wellfield Rd	190	R							X						09/15/2009
+794577	  37	01154	     	37-1154	Hunt Field Rd	037	Goochland County	037	Goochland County	0.14	Cul-de-Sac	37-1153 Hill Grove Rd	80	R							X						09/15/2009
+794578	  37	01154	     	37-1154	Hunt Field Rd	037	Goochland County	037	Goochland County	0.04	37-1153 Hill Grove Rd	Cul-de-Sac	20	R							X						09/15/2009
+794579	  37	01155	     	37-1155	Wellfield Rd	037	Goochland County	037	Goochland County	0.33	37-1157 Broadfield Circle	Cul-de-Sac	160	R							X						09/15/2009
+794580	  37	01156	     	37-1156	Glenmeade Circle	037	Goochland County	037	Goochland County	0.04	Cul-de-Sac	37-1155 Wellfield Rd	20	R							X						09/15/2009
+794581	  37	01157	     	37-1157	Broadfield Circle	037	Goochland County	037	Goochland County	0.15	37-1152 Long Pond Rd	Cul-de-Sac	50	R							X						09/15/2009
+795665	  37	01158	     	37-1158	Fairstead Rd	037	Goochland County	037	Goochland County	0.19	37-1152 Long Pond Rd	Cul-de-Sac	60	R							X						09/30/2009
+795666	  37	01159	     	37-1159	Longfield Dr	037	Goochland County	037	Goochland County	0.20	Cul-de-Sac	37-1158 Fairstead Rd	30	R							X						09/30/2009
+795667	  37	01160	     	37-1160	Fairhurst Court	037	Goochland County	037	Goochland County	0.03	Cul-de-Sac	37-1159 Longfield Dr	8	R							X						09/30/2009
+795668	  37	01161	     	37-1161	Millstead Lane	037	Goochland County	037	Goochland County	0.11	37-1158 Fairstead Rd	Cul-de-Sac	45	R							X						09/30/2009
+797019	  37	01162	     	37-1162	 	037	Goochland County	037	Goochland County	0.27	Cul-de-Sac	37-1152	0	?							X
+794761	  37	01170	     	37-1170	Thoroughbred Pkwy	037	Goochland County	037	Goochland County	0.61	SR 6 River Rd West	Cul-de-Sac	350	R							X						08/19/2009
+794762	  37	01171	     	37-1171	Bayberry Lane	037	Goochland County	037	Goochland County	0.19	Cul-de-Sac	Cul-de-Sac	90	R							X						08/19/2009
+794763	  37	01172	     	37-1172	Hounds Run	037	Goochland County	037	Goochland County	0.14	37-1170 Thoroughbred Pkwy	37-1173 Horseshoe Bend	190	R							X						08/19/2009
+794764	  37	01173	     	37-1173	Horseshoe Bend	037	Goochland County	037	Goochland County	0.33	37-1174 Bridle Ridge	Cul-de-Sac	90	R							X						08/19/2009
+794765	  37	01174	     	37-1174	Bridle Ridge	037	Goochland County	037	Goochland County	0.05	Cul-de-Sac	37-1173 Horseshoe Bend	60	R							X						08/19/2009
+794766	  37	01174	     	37-1174	Bridle Ridge	037	Goochland County	037	Goochland County	0.16	37-1173 Horseshoe Bend	Cul-de-Sac	30	R							X						08/19/2009
+794767	  37	01175	     	37-1175	Incline Court	037	Goochland County	037	Goochland County	0.12	37-1170 Thoroughbred Pkwy	Cul-de-Sac	40	R							X						08/19/2009
+794768	  37	01176	     	37-1176	Steeplechase Pkwy	037	Goochland County	037	Goochland County	0.75	Cul-de-Sac	37-724 Bulldog Way	230	R							X						08/19/2009
+794769	  37	01177	     	37-1177	Saddlebrook Dr	037	Goochland County	037	Goochland County	0.19	Cul-de-Sac	37-1176 Steeplechase Pkwy	90	R							X						08/19/2009
+794770	  37	01178	     	37-1178	Crest Hollow Court	037	Goochland County	037	Goochland County	0.32	Cul-de-Sac	37-1176 Steeplechase Pkwy	80	R							X						08/19/2009
+795669	  37	01190	     	37-1190	Manakin Park Dr	037	Goochland County	037	Goochland County	0.50	37-676 Hermitage Rd	Cul-de-Sac	290	R							X						08/24/2009
+795670	  37	01191	     	37-1191	Anitas Landing Way	037	Goochland County	037	Goochland County	0.04	Cul-de-Sac	37-1190 Manakin Park Dr	30	R							X						08/24/2009
+795671	  37	01192	     	37-1192	Maymont Way	037	Goochland County	037	Goochland County	0.07	37-1190 Manakin Park Dr	Cul-de-Sac	70	R							X						08/24/2009
+795672	  37	01193	     	37-1193	Libby Hill Court	037	Goochland County	037	Goochland County	0.07	37-1190 Manakin Park Dr	Cul-de-Sac	90	R							X						08/24/2009
+795673	  37	01194	     	37-1194	Powhatan Hill Place	037	Goochland County	037	Goochland County	0.09	37-1190 Manakin Park Dr	Cul-de-Sac	110	R							X						08/24/2009
+795674	  37	01195	     	37-1195	Manakin Parke Circle	037	Goochland County	037	Goochland County	0.09	SR 6 River Rd West	37-1190 Manakin Park Dr	220	R							X						08/24/2009
+795675	  37	01196	     	37-1196	Jefferson Hill Way	037	Goochland County	037	Goochland County	0.08	Cul-de-Sac	37-1190 Manakin Park Dr	70	R							X						08/24/2009
+795676	  37	01197	     	37-1197	Canoe Run Place	037	Goochland County	037	Goochland County	0.08	37-1190 Manakin Park Dr	Cul-de-Sac	70	R							X						08/24/2009
+795677	  37	01198	     	37-1198	Taylors Hill Ct	037	Goochland County	037	Goochland County	0.07	37-1190 Manakin Park Dr	Cul-de-Sac	80	R							X						08/24/2009
+741702	  37	01200	     	37-1200	Turkey Creek Rd	037	Goochland County	037	Goochland County	0.28	37-617 Oilville Rd	Dead End	520	R							X						02/27/2006
+741703	  37	01201	     	37-1201	Courthouse Dr	037	Goochland County	037	Goochland County	0.10	US 522 River Road West	37-1202 Courthouse Circle	740	R							X						02/27/2006
+741704	  37	01202	     	37-1202	Courthouse Circle	037	Goochland County	037	Goochland County	0.28	US 522 River Road West	37-1201 Courthouse Dr	330	R							X						07/27/2009
+741705	  37	01205	     	37-1205	Pitts Ave	037	Goochland County	037	Goochland County	0.22	37-631 Scott Rd	37-666 Gathright Dr	60	R							X						02/27/2006
+797020	  37	01206	     	37-1206	 	037	Goochland County	037	Goochland County	0.07	37-1207	37-632 Fairground Rd	0	?							X
+797021	  37	01207	     	37-1207	 	037	Goochland County	037	Goochland County	0.14	Cul-de-Sac	37-1206	0	?							X
+797022	  37	01207	     	37-1207	 	037	Goochland County	037	Goochland County	0.34	37-1206	Cul-de-Sac	0	?							X
+797023	  37	01208	     	37-1208	 	037	Goochland County	037	Goochland County	0.06	37-1207	Cul-de-Sac	0	?							X
+797024	  37	01209	     	37-1209	 	037	Goochland County	037	Goochland County	0.23	Cul-de-Sac	37-1207	0	?							X
+741706	  37	01210	     	37-1210	Horsepen Rd	037	Goochland County	037	Goochland County	0.49	Cul-de-Sac	37-632 Fairground Rd	110	R							X						07/29/2009
+741707	  37	01213	     	37-1213	Road A	037	Goochland County	037	Goochland County	0.08	US 250 Broad Street Rd	37-1214 Road B	790	R							X						02/16/2006
+741708	  37	01213	     	37-1213	Road A	037	Goochland County	037	Goochland County	0.09	37-1214 Road B	Dead End	590	R							X						02/16/2006
+741709	  37	01214	     	37-1214	Road B	037	Goochland County	037	Goochland County	0.18	37-1213 Road A	Cul-de-Sac	280	R							X						07/29/2009
+741710	  37	01215	     	37-1215	Valpark Dr	037	Goochland County	037	Goochland County	0.59	37-1213 Road A	FR-92 Landis Rd	550	R							X						07/29/2009
+786335	  37	01216	     	37-1216	Tri County Dr	037	Goochland County	037	Goochland County	0.56	37-1215 Valpark Dr	37-1215 Valpark Dr	150	R							X						07/29/2009
+741711	  37	01220	     	37-1220	Fox Downs Lane	037	Goochland County	037	Goochland County	0.41	Cul-de-Sac	37-1222 Huntsman Circle	120	R							X						02/16/2006
+741712	  37	01220	     	37-1220	Fox Downs Lane	037	Goochland County	037	Goochland County	0.59	37-1222 Huntsman Circle	37-1221 Lake Pointe Circle	290	R							X						02/16/2006
+741713	  37	01220	     	37-1220	Fox Downs Lane	037	Goochland County	037	Goochland County	0.34	37-1221 Lake Pointe Circle	US 250 Broad Street Rd	390	R							X						02/16/2006
+741714	  37	01221	     	37-1221	Lake Pointe Circle	037	Goochland County	037	Goochland County	0.08	Cul-de-Sac	37-1220 Fox Downs Lane	20	R							X						07/29/2009
+741715	  37	01222	     	37-1222	Huntsman Circle	037	Goochland County	037	Goochland County	0.14	37-1220 Fox Downs Lane	Cul-de-Sac	40	R							X						02/16/2006
+788557	  37	01223	     	37-1223	Ridgewell Dr	037	Goochland County	037	Goochland County	0.40	Cul-de-Sac	37-632 Fairground Rd	220	R							X						03/13/2006
+788558	  37	01224	     	37-1224	Madison Court	037	Goochland County	037	Goochland County	0.09	37-1223 Ridgewell Dr	Cul-de-Sac	20	R							X						10/02/2006
+788559	  37	01225	     	37-1225	Elizabeth Lane	037	Goochland County	037	Goochland County	0.16	37-1226 Copperstone Ct	37-1223 Ridgewell Dr	30	R							X						10/02/2006
+788560	  37	01226	     	37-1226	Copperstone Ct	037	Goochland County	037	Goochland County	0.15	Cul-de-Sac	Cul-de-Sac	100	R							X						10/02/2006
+741716	  37	01230	     	37-1230	Shade Hunter Lane	037	Goochland County	037	Goochland County	0.30	37-632 Fairground Rd	Cul-de-Sac	70	R							X						07/27/2009
+793034	  37	01231	     	37-1231	Autumn Breez Dr	037	Goochland County	037	Goochland County	0.98	37-670 Cardwell Rd	End of Loop	190	R							X						07/29/2009
+793035	  37	01232	     	37-1232	Autumn Breez Place	037	Goochland County	037	Goochland County	0.11	Cul-de-Sac	37-1231 Autumn Breez Dr	30	R							X						07/29/2009
+793036	  37	01233	     	37-1233	Autumn Breeze Dr	037	Goochland County	037	Goochland County	0.03	37-1231	Cul-de-Sac	10	R							X						07/29/2009
+793037	  37	01234	     	37-1234	Autumn Breez Dr	037	Goochland County	037	Goochland County	0.03	Cul-de-Sac	37-1231 Autumn Breez Dr	20	R							X						07/29/2009
+741717	  37	01240	     	37-1240	Hill Stream Dr	037	Goochland County	037	Goochland County	0.25	Cul-de-Sac	37-620 Hanover Rd	110	R							X						02/27/2006
+795678	  37	01242	     	37-1242	Temple Lane	037	Goochland County	037	Goochland County	0.22	Cul-de-Sac	37-620 Hanover Rd	50	R							X						09/30/2009
+784037	  37	01250	     	37-1250	West Creek Pkwy	037	Goochland County	037	Goochland County	2.97	SR 6 W, Patterson Ave	SR 6 E, Patterson Ave	2800	R							X						02/27/2006
+741718	  37	09168	     	37-9168	Byrd Primary School	037	Goochland County	037	Goochland County	0.07	Byrd Primary School	37-606 Hadensville-Fife Rd	170	R							X						10/02/2006
+741719	  37	09170	     	37-9170	Goochland Elem Sch	037	Goochland County	037	Goochland County	0.14	Goochland Elem Sch	SR 6 River Rd West	630	R							X						10/02/2006
+741720	  37	09171	     	37-9171	Goochland High Sch	037	Goochland County	037	Goochland County	0.08	Goochland High Sch	US 522 Sandy Hook Rd	1100	R							X						10/02/2006
+741721	  37	09172	     	37-9172	Cardwell School	037	Goochland County	037	Goochland County	0.09	Chadwell School	37-670 Cardwell Rd	230	R							X						03/20/2003
+741722	  37	09173	     	37-9173	Randolph Elem Sch	037	Goochland County	037	Goochland County	0.10	Randolph Sch	37-639 Sheppard Town Rd	500	R							X						10/02/2006
+741723	  37	09174	     	37-9174	Central High Sch	037	Goochland County	037	Goochland County	0.17	37-614 Dogtown Rd	Goochland Jr High	470	R							X						10/02/2006
+741724	  37	09661	     	37-9661	Goochland Central Elem	037	Goochland County	037	Goochland County	0.08	37-614 Dogtown Rd	Kanawha Elem Sch	320	R							X						06/02/2003
+743661	  42	00771	     	42-771	Echo Meadows Rd	037	Goochland County	042	Hanover County	0.63	Hanover County Line	Hanover County Line	480	R							X						09/02/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

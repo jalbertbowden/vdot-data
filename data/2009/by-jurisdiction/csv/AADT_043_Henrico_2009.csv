@@ -1,0 +1,594 @@
+Virginia Department of Transportation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Traffic Engineering Division,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Annual Average Daily Traffic Volume Estimates By Section of Route,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Henrico Maintenance Area,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Parallel Facilities Combined,,,,,,,,,,,,,
+Link ID,Route Prefix,Route Number,Route Suffix,Route Label,Route Alias,Physical Jurisdiction,,Maintenance Jurisdiction,,Link Length,Start Label,End Label,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality,Data Date,Comment,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality
+665770,  US,00001,     ,US 1,Brook Rd,043,Henrico County,043,Henrico County,0.30,NCL Richmond,I-95,20000,G,97%,1%,1%,0%,1%,0%,F,0.0890,F,0.5425,22000,G,2009,,,,,,,,,,,,,,,
+665101,  US,00001,     ,US 1,Brook Rd,043,Henrico County,043,Henrico County,0.83,I-95,Hilliard Rd,22000,G,99%,0%,1%,0%,0%,0%,C,0.0908,F,0.5256,24000,G,2009,,,,,,,,,,,,,,,
+665102,  US,00001,     ,US 1,Brook Rd,043,Henrico County,043,Henrico County,0.72,Hilliard Rd,Wilkinson Rd,19000,G,99%,0%,1%,0%,0%,0%,F,0.0958,F,0.5348,20000,G,2009,,,,,,,,,,,,,,,
+665103,  US,00001,     ,US 1,Brook Rd,043,Henrico County,043,Henrico County,0.48,Wilkinson Rd,SR 73 Parham Rd,25000,G,98%,0%,1%,0%,1%,0%,C,0.0906,F,0.5112,25000,G,2009,,,,,,,,,,,,,,,
+665771,  US,00001,     ,US 1,Brook Rd,043,Henrico County,043,Henrico County,1.42,SR 73 Parham Rd,I-295,23000,G,98%,0%,1%,0%,1%,0%,C,0.0934,F,0.5149,25000,G,2009,,,,,,,,,,,,,,,
+665185,  US,00001,     ,US 1,Brook Rd,043,Henrico County,043,Henrico County,0.73,I-295,Virginia Center Parkway,41000,G,98%,0%,1%,0%,1%,0%,F,0.0946,F,0.5152,43000,G,2009,,,,,,,,,,,,,,,
+665193,  US,00001,     ,US 1,Brook Rd,043,Henrico County,043,Henrico County,0.38,Virginia Center Parkway,J.E.B. Stuart Parkway,31000,G,98%,0%,1%,0%,1%,0%,F,0.0946,F,0.5203,34000,G,2009,,,,,,,,,,,,,,,
+665196,  US,00001,     ,US 1,Brook Rd,043,Henrico County,043,Henrico County,0.60,J.E.B. Stuart Parkway,Hanover County Line,23000,G,98%,0%,1%,0%,1%,0%,F,,,,25000,G,2009,,,,,,,,,,,,,,,
+789651,  US,00001,N093B,US 1 NB Exit 093B,Ramp,127,City of Richmond,043,Henrico County,0.12,US 1 Chamberlayne Ave; Belvidere St,I-95 North,7800,F,,,,,,,X,0.1275,B,1.0000,8400,F,2009,,,,,,,,,,,,,,,
+665104,  SR,00002,     ,,Chamberlayne Ave,043,Henrico County,043,Henrico County,0.55,NCL Richmond,I-95,14000,G,96%,1%,1%,0%,1%,0%,C,0.0976,F,0.6021,15000,G,2009,,,,,,,,,,,,,,,
+665107,  SR,00002,     ,,Chamberlayne Ave NB,043,Henrico County,043,Henrico County,0.90,I-95,Upham Dr,17000,G,97%,0%,1%,0%,1%,0%,F,0.1165,F,0.0000,18000,G,2009,,25000,G,97%,0%,1%,0%,1%,0%,F,,,,27000,G
+665105,  SR,00002,     ,,Chamberlayne Ave,043,Henrico County,043,Henrico County,1.57,Upham Dr,Parham Rd,14000,G,97%,0%,1%,0%,1%,0%,C,0.1044,F,0.7148,15000,G,2009,,,,,,,,,,,,,,,
+665106,  SR,00002,     ,,Chamberlayne Ave,043,Henrico County,043,Henrico County,0.17,Parham Rd,Hanover County Line,24000,G,97%,0%,1%,0%,1%,0%,F,0.0982,F,0.7149,27000,G,2009,,,,,,,,,,,,,,,
+665109,  SR,00005,     ,VA 5,Osborne Tpke,043,Henrico County,043,Henrico County,1.99,ECL Richmond,New Market Rd,7700,G,97%,0%,0%,1%,1%,0%,C,0.1184,F,0.8473,8300,G,2009,,,,,,,,,,,,,,,
+665108,  SR,00005,     ,VA 5,New Market Rd,043,Henrico County,043,Henrico County,2.13,Osborne Tpke,Laburnum Ave,6300,G,96%,0%,1%,2%,1%,0%,C,0.1061,F,0.0000,6800,G,2009,,,,,,,,,,,,,,,
+665195,  SR,00005,     ,VA 5,New Market Rd,043,Henrico County,043,Henrico County,3.27,Laburnum Ave,I-295,6900,G,96%,0%,1%,2%,1%,0%,F,0.0970,F,0.6513,7500,G,2009,,,,,,,,,,,,,,,
+665772,  SR,00005,     ,VA 5,New Market Rd,043,Henrico County,043,Henrico County,4.70,I-295,Willis Church Rd,2300,G,93%,1%,1%,2%,4%,0%,C,0.0931,F,0.6496,2500,G,2009,,,,,,,,,,,,,,,
+665773,  SR,00005,     ,,New Market Rd,043,Henrico County,043,Henrico County,1.72,Willis Church Rd,Charles City County Line,2100,G,93%,1%,1%,2%,4%,0%,F,0.0878,F,0.7389,2200,G,2009,,,,,,,,,,,,,,,
+665774,  SR,00006,     ,VA 6,Patterson Ave,043,Henrico County,043,Henrico County,1.04,Goochland County Line,Pump Rd,24000,G,99%,0%,0%,0%,0%,0%,F,0.0969,F,0.5493,26000,G,2009,,,,,,,,,,,,,,,
+665775,  SR,00006,     ,VA 6,Patterson Ave,043,Henrico County,043,Henrico County,0.69,Pump Rd,Gaskins Rd,28000,G,99%,0%,0%,0%,0%,0%,F,0.1045,F,0.6449,31000,G,2009,,,,,,,,,,,,,,,
+665110,  SR,00006,     ,VA 6,Patterson Ave,043,Henrico County,043,Henrico County,1.04,Gaskins Rd,Gayton Rd,25000,G,99%,0%,0%,0%,0%,0%,F,0.0993,F,0.6052,27000,G,2009,,,,,,,,,,,,,,,
+665776,  SR,00006,     ,VA 6,Patterson Ave,043,Henrico County,043,Henrico County,0.52,Gayton Rd,Parham Rd,24000,G,99%,0%,0%,0%,0%,0%,F,0.0948,F,0.5189,27000,G,2009,,,,,,,,,,,,,,,
+665112,  SR,00006,     ,VA 6,Patterson Ave,043,Henrico County,043,Henrico County,0.97,Parham Rd,Forest Ave,22000,G,99%,0%,0%,0%,0%,0%,F,0.0976,F,0.6305,24000,G,2009,,,,,,,,,,,,,,,
+040270,  SR,00006,     ,VA 6,Patterson Ave,043,Henrico County,043,Henrico County,0.94,Forest Ave,WCL Richmond,18000,G,99%,0%,0%,0%,0%,0%,C,0.1143,B,0.0000,18000,G,2009,,,,,,,,,,,,,,,
+665777,  US,00033,     ,US 33,Staples Mill Rd,043,Henrico County,043,Henrico County,0.38,Hanover County Line,I-295,13000,G,96%,0%,1%,1%,1%,0%,F,0.1039,F,0.7295,15000,G,2009,,,,,,,,,,,,,,,
+665778,  US,00033,     ,US 33,Staples Mill Rd,043,Henrico County,043,Henrico County,0.61,I-295,SR 157; Springfield Rd; Mountain Rd,21000,G,99%,0%,1%,0%,0%,0%,F,0.1049,F,0.5143,22000,G,2009,,,,,,,,,,,,,,,
+665119,  US,00033,     ,US 33,Staples Mill Rd,043,Henrico County,043,Henrico County,2.18,SR 157; Springfield Rd; Mountain Rd,43-7526 Hungary Rd,19000,G,99%,0%,1%,0%,0%,0%,F,0.0982,F,0.5835,22000,G,2009,,,,,,,,,,,,,,,
+665118,  US,00033,     ,US 33,Staples Mill Rd,043,Henrico County,043,Henrico County,1.05,43-7526 Hungary Rd,Parham Rd,21000,G,99%,0%,1%,0%,0%,0%,F,0.0995,F,0.6633,24000,G,2009,,,,,,,,,,,,,,,
+140116,  US,00033,     ,US 33,Staples Mill Rd,043,Henrico County,043,Henrico County,1.10,Parham Rd,Bremner Blvd,33000,A,99%,0%,1%,0%,0%,0%,C,0.1070,A,0.5896,38000,A,2009,,,,,,,,,,,,,,,
+665780,  US,00033,     ,US 33,Staples Mill Rd,043,Henrico County,043,Henrico County,0.37,Bremner Blvd,SR 356 Hilliard Rd; 43-7536 Glenside Dr,37000,G,99%,0%,1%,0%,0%,0%,F,0.0899,F,0.5339,42000,G,2009,,,,,,,,,,,,,,,
+665117,  US,00033,     ,US 33,Staples Mill Rd,043,Henrico County,043,Henrico County,1.01,SR 356 Hilliard Rd; 43-7536 Glenside Dr,I-64,35000,G,99%,0%,1%,0%,0%,0%,F,0.0893,F,0.5582,40000,G,2009,,,,,,,,,,,,,,,
+665116,  US,00033,     ,US 33,Staples Mill Rd,043,Henrico County,043,Henrico County,1.32,I-64,WCL Richmond,18000,G,99%,0%,1%,0%,0%,0%,F,0.1072,F,0.5152,21000,G,2009,,,,,,,,,,,,,,,
+781527,  US,00033,E131A,US 33 EB Exit 131A,Ramp,043,Henrico County,043,Henrico County,0.34,US 33 Staples Mill Rd,I-64 West,2600,A,,,,,,,X,0.2161,A,1.0000,3000,A,2009,,,,,,,,,,,,,,,
+665115,  SR,00033,     ,VA 33,Nine Mile Rd,043,Henrico County,043,Henrico County,1.49,ECL Richmond,Laburnum Ave,23000,G,97%,1%,1%,1%,1%,0%,C,0.0863,F,0.6016,24000,G,2009,,,,,,,,,,,,,,,
+665114,  SR,00033,     ,VA 33,Nine Mile Rd,043,Henrico County,043,Henrico County,2.10,Laburnum Ave,Beauregard Ave,16000,G,97%,1%,1%,1%,1%,0%,F,0.0890,F,0.5419,18000,G,2009,,,,,,,,,,,,,,,
+665113,  SR,00033,     ,VA 33,Nine Mile Rd,043,Henrico County,043,Henrico County,1.27,Beauregard Ave,SR 156 Airport Dr,12000,G,97%,1%,1%,1%,0%,0%,C,0.0873,F,0.5203,13000,G,2009,,,,,,,,,,,,,,,
+665781,  SR,00033,     ,VA 33,Nine Mile Rd,043,Henrico County,043,Henrico County,1.43,SR 156 Airport Dr,SR 33 Y,7800,G,97%,1%,1%,1%,0%,0%,F,0.0989,F,0.5339,8400,G,2009,,,,,,,,,,,,,,,
+665782,  SR,00033,     ,VA 33,Nine Mile Rd,043,Henrico County,043,Henrico County,0.15,SR 33 Y,US 60 Williamsburg Rd,2000,G,97%,1%,1%,1%,0%,0%,F,0.1085,F,1.0000,2100,G,2009,,4100,G,97%,1%,1%,1%,1%,0%,F,,,,4400,G
+665123,  SR,00033,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,1.38,US 60 Williamsburg Rd,I-295,12000,G,93%,1%,1%,1%,3%,0%,F,0.0937,F,0.5270,13000,G,2009,,,,,,,,,,,,,,,
+665783,  SR,00033,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,2.24,I-295,SR 156 Elko Rd,13000,A,93%,1%,1%,2%,3%,0%,C,0.1229,A,0.6430,14000,A,2009,,,,,,,,,,,,,,,
+665784,  SR,00033,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,1.85,SR 156 Elko Rd,New Kent County Line,9000,G,93%,1%,1%,2%,3%,0%,F,0.0811,F,0.6732,9800,G,2009,,,,,,,,,,,,,,,
+040478,Y SR,00033,     ,Wye VA 33, ,043,Henrico County,043,Henrico County,0.13,SR 33,US 60 Williamsburg Rd,2100,G,97%,0%,1%,1%,1%,0%,C,0.1047,F,1.0000,2300,G,2009,,4100,G,97%,1%,1%,1%,1%,0%,F,,,,4400,G
+665120,  US,00060,     ,US 60,Williamsburg Rd,043,Henrico County,043,Henrico County,0.57,ECL Richmond,Charles City Rd,14000,G,97%,0%,1%,1%,1%,0%,F,0.0851,F,0.5014,15000,G,2009,,,,,,,,,,,,,,,
+665121,  US,00060,     ,US 60,Williamsburg Rd,043,Henrico County,043,Henrico County,1.54,Charles City Rd,Laburnum Ave,12000,G,97%,0%,1%,1%,1%,0%,C,0.0816,F,0.5348,13000,G,2009,,,,,,,,,,,,,,,
+665122,  US,00060,     ,US 60,Williamsburg Rd,043,Henrico County,043,Henrico County,1.23,Laburnum Ave,SR 156 Airport Dr,17000,G,93%,1%,1%,1%,3%,0%,C,0.0779,F,0.5297,18000,G,2009,,,,,,,,,,,,,,,
+040480,  US,00060,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,1.50,SR 156 Airport Dr,SR 33 Nine Mile Rd,12000,G,93%,1%,1%,1%,3%,0%,F,0.0931,F,0.5711,13000,G,2009,,,,,,,,,,,,,,,
+665123,  US,00060,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,1.38,SR 33 Nine Mile Rd,I-295,12000,G,93%,1%,1%,1%,3%,0%,F,0.0937,F,0.5270,13000,G,2009,,,,,,,,,,,,,,,
+665783,  US,00060,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,2.24,I-295,SR 156; Elko Rd,13000,A,93%,1%,1%,2%,3%,0%,C,0.1229,A,0.6430,14000,A,2009,,,,,,,,,,,,,,,
+665784,  US,00060,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,1.85,SR 156; Elko Rd,New Kent County Line,9000,G,93%,1%,1%,2%,3%,0%,F,0.0811,F,0.6732,9800,G,2009,,,,,,,,,,,,,,,
+940420,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,2.28,Goochland County Line,I-295,30000,F,89%,1%,1%,0%,9%,0%,F,0.1420,A,1.0000,30000,F,2009,,60000,F,89%,1%,1%,0%,9%,0%,F,0.1260,A,0.5689,61000,F
+040106,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,0.67,I-295,US 250 Near Short Pump,26000,G,97%,0%,0%,1%,1%,0%,F,0.1251,F,1.0000,29000,G,2009,,54000,G,97%,0%,0%,1%,1%,0%,F,,,,60000,G
+040048,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,1.43,US 250 Near Short Pump,Gaskins Rd,34000,F,97%,0%,0%,1%,1%,0%,F,0.1121,F,1.0000,38000,F,2009,,69000,F,97%,0%,0%,1%,1%,0%,F,,,,76000,F
+040777,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,1.39,Gaskins Rd,Parham Rd,45000,A,97%,0%,0%,1%,1%,0%,C,0.1311,A,1.0000,51000,A,2009,,90000,A,97%,0%,0%,1%,1%,0%,C,0.1116,A,0.5907,101000,A
+040766,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,2.03,Parham Rd,US 250; Glenside Dr,48000,F,97%,0%,0%,1%,1%,0%,F,0.1093,F,1.0000,54000,F,2009,,96000,F,97%,0%,0%,1%,1%,0%,F,,,,107000,F
+040108,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,2.03,US 250; Glenside Dr,US 33 Staples Mill Rd,53000,A,97%,0%,0%,1%,1%,0%,F,0.1045,A,1.0000,58000,A,2009,,109000,A,97%,0%,0%,1%,1%,0%,F,0.1100,A,0.5325,121000,A
+040481,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,1.19,US 33 Staples Mill Rd,WCL Richmond,55000,F,97%,0%,0%,1%,1%,0%,F,0.1047,B,1.0000,62000,F,2009,,94000,F,97%,0%,0%,1%,1%,0%,F,0.1145,B,0.5370,107000,F
+040485,  IS,00064,E    ,I-64 EB, ,127,City of Richmond,043,Henrico County,0.74,Henrico County Line,I-95; I-195,55000,F,97%,0%,0%,1%,1%,0%,F,0.1047,B,1.0000,62000,F,2009,,94000,F,97%,0%,0%,1%,1%,0%,F,,,,107000,F
+140012,  IS,00064,E    ,, ,127,City of Richmond,043,Henrico County,0.48,I-95; I-195,SR 161 Boulevard,77000,A,,,,,,,X,0.0920,A,1.0000,81000,A,2009,,152000,A,,,,,,,X,0.0861,A,0.5326,160000,A
+140013,  IS,00064,E    ,, ,127,City of Richmond,043,Henrico County,2.19,SR 161 Boulevard,"Leigh St, Gilmer St",73000,A,,,,,,,X,0.0902,A,1.0000,78000,A,2009,,145000,A,,,,,,,X,,,,153000,A
+140242,  IS,00064,E    ,, ,127,City of Richmond,043,Henrico County,0.28,"Leigh St, Gilmer St","US 1, US 301 Belvidere St",63000,F,,,,,,,X,0.0888,B,1.0000,66000,F,2009,,132000,F,,,,,,,X,0.0850,B,0.5270,138000,F
+140243,  IS,00064,E    ,, ,127,City of Richmond,043,Henrico County,0.25,"US 1, US 301 Belvidere St",I-95 East Interchange,41000,A,,,,,,,X,0.1429,A,1.0000,43000,A,2009,,110000,A,,,,,,,X,0.1045,A,0.5095,115000,A
+040282,  IS,00064,E    ,I-64 EB, ,127,City of Richmond,043,Henrico County,1.67,I-95 East Interchange,US 360 Mechanicsville Tpke,47000,F,95%,0%,1%,1%,3%,0%,F,0.0985,F,1.0000,50000,F,2009,,95000,F,95%,1%,1%,1%,3%,0%,F,,,,101000,F
+040482,  IS,00064,E    ,I-64 EB, ,127,City of Richmond,043,Henrico County,0.25,US 360 Mechanicsville Tpke,MECL Richmond,36000,F,95%,0%,1%,1%,3%,0%,F,0.1110,B,1.0000,38000,F,2009,,74000,F,95%,1%,1%,1%,3%,0%,F,0.0906,B,0.5624,78000,F
+040486,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,0.77,MECL Richmond,MWCL Richmond,36000,F,95%,0%,1%,1%,3%,0%,F,0.1110,B,1.0000,38000,F,2009,,74000,F,95%,1%,1%,1%,3%,0%,F,,,,78000,F
+040487,  IS,00064,E    ,I-64 EB, ,127,City of Richmond,043,Henrico County,0.24,MWCL Richmond,ECL Richmond,36000,F,95%,0%,1%,1%,3%,0%,F,0.1110,B,1.0000,38000,F,2009,,74000,F,95%,1%,1%,1%,3%,0%,F,,,,78000,F
+040490,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,0.10,ECL Richmond,SR 33 Nine Mile Rd,36000,F,95%,0%,1%,1%,3%,0%,F,0.1110,B,1.0000,38000,F,2009,,74000,F,95%,1%,1%,1%,3%,0%,F,,,,78000,F
+040678,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,2.14,SR 33 Nine Mile Rd,Laburnum Ave,29000,F,95%,0%,1%,1%,3%,0%,F,0.1005,F,1.0000,31000,F,2009,,59000,F,95%,1%,1%,1%,3%,0%,F,,,,62000,F
+040483,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,1.88,Laburnum Ave,SR 156 Airport Dr,23000,A,95%,0%,1%,1%,3%,0%,C,0.1172,A,1.0000,24000,A,2009,,47000,A,95%,1%,1%,1%,3%,0%,C,0.0924,A,0.6036,49000,A
+040284,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,4.07,SR 156 Airport Dr,I-295,17000,F,95%,0%,1%,1%,3%,0%,F,0.1073,F,1.0000,17000,F,2009,,34000,F,95%,1%,1%,1%,3%,0%,F,,,,35000,F
+140317,  IS,00064,E    ,I-64 EB, ,043,Henrico County,043,Henrico County,2.84,I-295,New Kent County Line,34000,G,91%,1%,1%,1%,7%,0%,F,0.0862,F,1.0000,30000,G,2009,,69000,G,91%,1%,1%,1%,7%,0%,F,,,,61000,G
+780994,  IS,00064,E178A,I-64 EB Exit 178A,Ramp from I-64 E Exit 178A to US 250,043,Henrico County,043,Henrico County,0.17,I-64 East,US 250 Broad St,5800,G,99%,0%,1%,0%,0%,0%,F,,,,5800,G,2009,,,,,,,,,,,,,,,
+780995,  IS,00064,E178B,I-64 EB Exit 178B,Ramp from I-64 E Exit 178B to US 250,043,Henrico County,043,Henrico County,0.21,I-64 East,US 250 Broad St,3400,G,99%,0%,1%,0%,0%,0%,F,,,,3400,G,2009,,,,,,,,,,,,,,,
+781003,  IS,00064,E185B,I-64 EB Exit 185B,Ramp from I-64 E Exit 185B to SR 33,043,Henrico County,043,Henrico County,0.14,I-64 East,SR 33 Staples Mill Rd,1400,A,,,,,,,X,0.2129,A,1.0000,1800,A,2009,,,,,,,,,,,,,,,
+781013,  IS,00064,E197A,I-64 EB Exit 197A,Ramp from I-64 E Exit 197A to SR 156 S,043,Henrico County,043,Henrico County,0.28,I-64 East,"SR 156 S, Airport Dr",6500,G,95%,1%,1%,1%,2%,0%,C,0.0799,F,1.0000,6500,G,2009,,,,,,,,,,,,,,,
+781014,  IS,00064,E197B,I-64 EB Exit 197B,Ramp from I-64 E Exit 197B to SR 156 N,043,Henrico County,043,Henrico County,0.20,I-64 East,"SR 156 N, Airport Dr",4200,G,97%,0%,1%,0%,1%,0%,C,0.1168,F,1.0000,4200,G,2009,,,,,,,,,,,,,,,
+781015,  IS,00064,E200A,I-64 EB Exit 200A,Ramp from I-64 E Exit 200A to I-295 E,043,Henrico County,043,Henrico County,0.44,I-64 East,I-295 East,3300,G,81%,1%,1%,1%,17%,0%,F,,,,3300,G,2009,,,,,,,,,,,,,,,
+781016,  IS,00064,E200B,I-64 EB Exit 200B,Ramp from I-64 E Exit 200B to I-295 W,043,Henrico County,043,Henrico County,0.22,I-64 East,I-295 West,500,G,91%,1%,1%,1%,7%,0%,F,,,,500,G,2009,,,,,,,,,,,,,,,
+781017,  IS,00064,E200X,I-64 EB Exit 200X,Ramp,043,Henrico County,043,Henrico County,1.60,I-64 East,I-64 East Collector Road From Rts 295 & 60,3900,G,91%,1%,1%,1%,7%,0%,F,,,,3900,G,2009,,,,,,,,,,,,,,,
+140077,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,2.57,Goochland County Line,I-295,30000,F,89%,1%,1%,0%,9%,0%,F,0.1437,A,1.0000,31000,F,2009,,60000,F,89%,1%,1%,0%,9%,0%,F,0.1260,A,0.5689,61000,F
+140078,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,0.79,I-295,US 250 Near Short Pump,28000,G,97%,0%,0%,1%,1%,0%,F,0.1187,F,1.0000,32000,G,2009,,54000,G,97%,0%,0%,1%,1%,0%,F,,,,60000,G
+140079,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,1.67,US 250 Near Short Pump,Gaskins Rd,35000,F,97%,0%,0%,1%,1%,0%,F,0.1141,F,1.0000,39000,F,2009,,69000,F,97%,0%,0%,1%,1%,0%,F,,,,76000,F
+140080,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,1.33,Gaskins Rd,Parham Rd,45000,A,97%,0%,0%,1%,1%,0%,C,0.1324,A,1.0000,50000,A,2009,,90000,A,97%,0%,0%,1%,1%,0%,C,0.1116,A,0.5907,101000,A
+140081,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,2.35,Parham Rd,US 250; Glenside Dr,48000,F,97%,0%,0%,1%,1%,0%,F,0.1129,F,1.0000,54000,F,2009,,96000,F,97%,0%,0%,1%,1%,0%,F,,,,107000,F
+140082,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,1.53,US 250; Glenside Dr,US 33 Staples Mill Rd,56000,A,97%,0%,0%,1%,1%,0%,F,0.1001,F,1.0000,63000,A,2009,,109000,A,97%,0%,0%,1%,1%,0%,F,,,,121000,A
+840083,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,0.71,US 33 Staples Mill Rd,WCL Richmond,39000,F,97%,0%,0%,1%,1%,0%,F,0.1297,B,1.0000,45000,F,2009,,94000,F,97%,0%,0%,1%,1%,0%,F,0.1145,B,0.5370,107000,F
+140083,  IS,00064,W    ,I-64 WB, ,127,City of Richmond,043,Henrico County,0.92,Henrico County Line,I-95; I-195,39000,F,97%,0%,0%,1%,1%,0%,F,0.1297,B,1.0000,45000,F,2009,,94000,F,97%,0%,0%,1%,1%,0%,F,,,,107000,F
+040304,  IS,00064,W    ,, ,127,City of Richmond,043,Henrico County,0.78,I-95; I-195,SR 161 Boulevard,75000,A,93%,1%,1%,1%,5%,0%,F,0.0929,A,1.0000,79000,A,2009,,152000,A,,,,,,,X,0.0861,A,0.5326,160000,A
+040489,  IS,00064,W    ,, ,127,City of Richmond,043,Henrico County,1.97,SR 161 Boulevard,"US 1, US 301 Belvidere St",71000,A,93%,1%,1%,1%,5%,0%,C,0.0765,A,1.0000,75000,A,2009,,145000,A,,,,,,,X,0.0753,A,0.5125,153000,A
+040492,  IS,00064,W    ,, ,127,City of Richmond,043,Henrico County,0.24,"US 1, US 301 Belvidere St",Chamberlayne Ave,69000,F,93%,1%,1%,1%,5%,0%,F,0.0860,B,1.0000,72000,F,2009,,132000,F,,,,,,,X,0.0850,B,0.5270,138000,F
+040493,  IS,00064,W    ,, ,127,City of Richmond,043,Henrico County,0.30,Chamberlayne Ave,I-95 East Interchange,69000,A,93%,1%,1%,1%,5%,0%,F,0.0911,A,1.0000,72000,A,2009,,110000,A,,,,,,,X,0.1045,A,0.5095,115000,A
+140085,  IS,00064,W    ,I-64 WB, ,127,City of Richmond,043,Henrico County,1.70,I-95 East Interchange,MECL Richmond,48000,F,95%,1%,1%,1%,3%,0%,F,0.0904,F,1.0000,50000,F,2009,,95000,F,95%,1%,1%,1%,3%,0%,F,,,,101000,F
+140306,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,0.06,MECL Richmond,US 360 Mechanicsville Tpke,48000,F,95%,1%,1%,1%,3%,0%,F,0.0904,F,1.0000,50000,F,2009,,95000,F,95%,1%,1%,1%,3%,0%,F,0.0000,?,0.0000,101000,F
+140307,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,0.71,US 360 Mechanicsville Tpke,MWCL Richmond,38000,F,95%,1%,1%,1%,3%,0%,F,0.1099,B,1.0000,40000,F,2009,,74000,F,95%,1%,1%,1%,3%,0%,F,0.0906,B,0.5624,78000,F
+140308,  IS,00064,W    ,I-64 WB, ,127,City of Richmond,043,Henrico County,0.24,MWCL Richmond,ECL Richmond,38000,F,95%,1%,1%,1%,3%,0%,F,0.1099,B,1.0000,40000,F,2009,,74000,F,95%,1%,1%,1%,3%,0%,F,,,,78000,F
+140086,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,0.43,ECL Richmond,SR 33 Nine Mile Road,38000,F,95%,1%,1%,1%,3%,0%,F,0.1099,B,1.0000,40000,F,2009,,74000,F,95%,1%,1%,1%,3%,0%,F,,,,78000,F
+140087,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,2.18,SR 33 Nine Mile Road,Laburnum Ave,30000,F,95%,1%,1%,1%,3%,0%,F,0.0993,F,1.0000,31000,F,2009,,59000,F,95%,1%,1%,1%,3%,0%,F,,,,62000,F
+140088,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,1.99,Laburnum Ave,SR 156 Airport Dr,24000,A,95%,1%,1%,1%,3%,0%,C,0.1188,A,1.0000,25000,A,2009,,47000,A,95%,1%,1%,1%,3%,0%,C,0.0924,A,0.6036,49000,A
+140089,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,3.62,SR 156 Airport Dr,I-295,17000,F,95%,1%,1%,1%,3%,0%,F,0.1211,F,1.0000,18000,F,2009,,34000,F,95%,1%,1%,1%,3%,0%,F,,,,35000,F
+140220,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,1.06,I-295,Urban Boundary,36000,F,,,,,,,X,0.0940,A,1.0000,34000,F,2009,,70000,G,,,,,,,X,0.0959,A,0.5462,65000,G
+140090,  IS,00064,W    ,I-64 WB, ,043,Henrico County,043,Henrico County,1.65,Urban Boundary,New Kent County Line,35000,G,91%,1%,1%,1%,7%,0%,F,0.0932,F,1.0000,31000,G,2009,,69000,G,91%,1%,1%,1%,7%,0%,F,,,,61000,G
+781113,  IS,00064,W177A,I-64 WB Exit 177A,Ramp from I-64 W Exit 177B to I-295 S (E),043,Henrico County,043,Henrico County,0.60,I-64 West,I-295 East (South),15000,G,91%,1%,1%,1%,7%,0%,F,,,,15000,G,2009,,,,,,,,,,,,,,,
+781114,  IS,00064,W178A,I-64 WB Exit 178A,Ramp from I-64 W Exit 178A to US 250,043,Henrico County,043,Henrico County,0.16,I-64 West,US 250 Broad St,12000,G,99%,0%,1%,0%,0%,0%,F,,,,12000,G,2009,,,,,,,,,,,,,,,
+781115,  IS,00064,W178B,I-64 WB Exit 178B,Ramp from I-64 W Exit 178B to US 250,043,Henrico County,043,Henrico County,0.14,I-64 West,US 250 Broad St,4400,G,99%,0%,1%,0%,0%,0%,F,,,,4400,G,2009,,,,,,,,,,,,,,,
+781131,  IS,00064,W197A,I-64 WB Exit 197A,Ramp from I-64 W Exit 197A to SR 156 S,043,Henrico County,043,Henrico County,0.19,I-64 West,"SR 156 S, Airport Dr",2200,G,89%,2%,1%,1%,7%,0%,C,0.0959,F,1.0000,2200,G,2009,,,,,,,,,,,,,,,
+781132,  IS,00064,W197B,I-64 WB Exit 197B,Ramp from I-64 W Exit 197B to SR 156 N,043,Henrico County,043,Henrico County,0.26,I-64 West,"SR 156 N, Airport Dr",810,G,92%,1%,1%,0%,6%,0%,C,0.1061,F,1.0000,810,G,2009,,,,,,,,,,,,,,,
+665785,  SR,00073,     ,VA 73,Parham Rd,043,Henrico County,043,Henrico County,0.78,"US 1 Brook Rd, 43-7518","I-95, 43-7518",33000,G,98%,0%,1%,0%,0%,0%,F,0.0900,F,0.5543,36000,G,2009,,,,,,,,,,,,,,,
+789579,  SR,00073,W000B,VA 73 WB Exit 000B,Ramp,043,Henrico County,043,Henrico County,0.28,SR 73 Parham Rd,I-95 North,1700,A,,,,,,,X,0.1890,A,1.0000,2000,A,2009,,,,,,,,,,,,,,,
+040755,  SR,00076,     ,VA 76,Powhite Pkwy,127,City of Richmond,043,Henrico County,0.66,Powhite Pkwy Bridge,SR 146,82000,F,98%,0%,0%,0%,1%,0%,F,,,,94000,F,2009,,,,,,,,,,,,,,,
+040753,  SR,00076,     ,VA 76,Powhite Pkwy,127,City of Richmond,043,Henrico County,0.94,SR 146,I-195,69000,G,98%,0%,0%,0%,1%,0%,F,0.1145,F,0.7369,78000,G,2009,,,,,,,,,,,,,,,
+040302,  IS,00095,N    ,I-95 NB, ,127,City of Richmond,043,Henrico County,0.40,James River Bridge,SR 195 Downtown Expressway,51000,G,91%,1%,1%,1%,7%,0%,F,,,,27000,G,2009,,96000,G,90%,1%,1%,1%,7%,0%,F,,,,38000,G
+040488,  IS,00095,N    ,I-95 NB, ,127,City of Richmond,043,Henrico County,0.62,SR 195 Downtown Expressway,US 250 Broad St,57000,F,91%,1%,1%,1%,7%,0%,F,0.0887,F,1.0000,59000,F,2009,,125000,F,90%,1%,1%,1%,7%,0%,F,,,,130000,F
+040491,  IS,00095,N    ,I-95 NB, ,127,City of Richmond,043,Henrico County,0.92,US 250 Broad St,I-64 South Interchange,60000,F,91%,1%,1%,1%,7%,0%,F,0.0887,N,1.0000,62000,F,2009,,125000,F,90%,1%,1%,1%,7%,0%,F,,,,130000,F
+040493,  IS,00095,N    ,, ,127,City of Richmond,043,Henrico County,0.30,I-64 South Interchange,Chamberlayne Ave,69000,A,93%,1%,1%,1%,5%,0%,F,0.0911,A,1.0000,72000,A,2009,,110000,A,,,,,,,X,0.1045,A,0.5095,115000,A
+040492,  IS,00095,N    ,, ,127,City of Richmond,043,Henrico County,0.24,Chamberlayne Ave,"US 1, US 301 Belvidere St",69000,F,93%,1%,1%,1%,5%,0%,F,0.0860,B,1.0000,72000,F,2009,,132000,F,,,,,,,X,0.0850,B,0.5270,138000,F
+040489,  IS,00095,N    ,, ,127,City of Richmond,043,Henrico County,1.97,"US 1, US 301 Belvidere St",SR 161 Boulevard,71000,A,93%,1%,1%,1%,5%,0%,C,0.0765,A,1.0000,75000,A,2009,,145000,A,,,,,,,X,0.0753,A,0.5125,153000,A
+040304,  IS,00095,N    ,, ,127,City of Richmond,043,Henrico County,0.78,SR 161 Boulevard,I-64 North Interchange; I-195,75000,A,93%,1%,1%,1%,5%,0%,F,0.0929,A,1.0000,79000,A,2009,,152000,A,,,,,,,X,0.0861,A,0.5326,160000,A
+040305,  IS,00095,N    ,I-95 NB, ,127,City of Richmond,043,Henrico County,1.07,I-64 North Interchange; I-195,"NCL Richmond, SR 161",58000,F,91%,1%,1%,1%,6%,1%,F,0.0735,F,1.0000,59000,F,2009,,112000,G,91%,1%,1%,1%,7%,0%,F,,,,115000,G
+040316,  IS,00095,N    ,I-95 NB, ,043,Henrico County,043,Henrico County,0.91,"NCL Richmond, SR 161",US 1 Brook Rd,58000,N,91%,1%,1%,1%,6%,1%,N,0.0735,N,1.0000,59000,N,2009,,112000,N,91%,1%,1%,1%,7%,0%,N,,,,115000,N
+040436,  IS,00095,N    ,I-95 NB, ,043,Henrico County,043,Henrico County,0.30,US 1 Brook Rd,US 301 Chamberlayne Ave,49000,B,91%,1%,1%,1%,6%,1%,F,0.0965,A,1.0000,50000,B,2009,,100000,B,91%,1%,1%,1%,7%,0%,F,0.0888,A,0.5971,102000,B
+040285,  IS,00095,N    ,I-95 NB, ,043,Henrico County,043,Henrico County,1.82,US 301 Chamberlayne Ave,SR 73 Parham Rd,48000,B,91%,1%,1%,1%,6%,1%,C,0.0961,A,1.0000,49000,B,2009,,96000,B,91%,1%,1%,1%,7%,0%,C,0.0893,A,0.5484,98000,B
+040287,  IS,00095,N    ,I-95 NB, ,043,Henrico County,043,Henrico County,1.47,SR 73 Parham Rd,I-295,45000,A,91%,1%,1%,1%,6%,1%,F,0.1028,A,1.0000,45000,A,2009,,89000,A,91%,1%,1%,1%,7%,0%,F,0.0896,A,0.5626,89000,A
+140316,  IS,00095,N    ,I-95 NB, ,043,Henrico County,043,Henrico County,1.94,I-295,Hanover County Line,64000,F,87%,1%,1%,1%,10%,0%,F,0.0872,B,1.0000,60000,F,2009,,130000,F,87%,1%,1%,1%,10%,0%,F,0.0821,A,0.5428,122000,F
+781246,  IS,00095,N075A,I-95 NB Exit 075A,Ramp,127,City of Richmond,043,Henrico County,0.14,I-95 North,Ramp to 7th Street,21000,F,,,,,,,X,,,,22000,F,2009,,,,,,,,,,,,,,,
+789299,  IS,00095,N080A,I-95 NB Exit 080A,Ramp,127,City of Richmond,043,Henrico County,0.15,I-95 North,127-7576 Westbrook Ave,0,?,,,,,,,X,,,,,,,,,,,,,,,,,,,,,
+140301,  IS,00095,S    ,I-95 SB, ,127,City of Richmond,043,Henrico County,0.75,Maury St,SR 195 Downtown Expy,45000,G,90%,1%,1%,1%,7%,0%,F,,,,11000,G,2009,,96000,G,90%,1%,1%,1%,7%,0%,F,,,,38000,G
+140014,  IS,00095,S    ,I-95 SB, ,127,City of Richmond,043,Henrico County,0.45,SR 195 Downtown Expy,US 250 Broad St,68000,F,90%,1%,1%,1%,7%,0%,F,0.0780,F,1.0000,71000,F,2009,,125000,F,90%,1%,1%,1%,7%,0%,F,,,,130000,F
+140236,  IS,00095,S    ,I-95 SB, ,127,City of Richmond,043,Henrico County,1.02,US 250 Broad St,I-64 South Interchange,65000,F,90%,1%,1%,1%,7%,0%,F,0.0780,N,1.0000,68000,F,2009,,125000,F,90%,1%,1%,1%,7%,0%,F,,,,130000,F
+140243,  IS,00095,S    ,, ,127,City of Richmond,043,Henrico County,0.25,I-64 South Interchange,"US 1, US 301 Belvidere St",41000,A,,,,,,,X,0.1429,A,1.0000,43000,A,2009,,110000,A,,,,,,,X,0.1045,A,0.5095,115000,A
+140242,  IS,00095,S    ,, ,127,City of Richmond,043,Henrico County,0.28,"US 1, US 301 Belvidere St",Leigh St; Gilmer St,63000,F,,,,,,,X,0.0888,B,1.0000,66000,F,2009,,132000,F,,,,,,,X,0.0850,B,0.5270,138000,F
+140013,  IS,00095,S    ,, ,127,City of Richmond,043,Henrico County,2.19,Leigh St; Gilmer St,SR 161 Boulevard,73000,A,,,,,,,X,0.0902,A,1.0000,78000,A,2009,,145000,A,,,,,,,X,,,,153000,A
+140012,  IS,00095,S    ,, ,127,City of Richmond,043,Henrico County,0.48,SR 161 Boulevard,"I-64 North Interchange, I-195",77000,A,,,,,,,X,0.0920,A,1.0000,81000,A,2009,,152000,A,,,,,,,X,0.0861,A,0.5326,160000,A
+140237,  IS,00095,S    ,I-95 SB, ,127,City of Richmond,043,Henrico County,0.82,"I-64 North Interchange, I-195",SR 161,62000,F,91%,1%,1%,1%,7%,0%,F,,,,64000,F,2009,,120000,F,91%,1%,1%,1%,7%,0%,F,0.0000,?,0.0000,123000,F
+140011,  IS,00095,S    ,I-95 SB, ,127,City of Richmond,043,Henrico County,0.19,SR 161,NCL Richmond,54000,G,91%,1%,1%,1%,7%,0%,F,,,,56000,G,2009,,112000,G,91%,1%,1%,1%,7%,0%,F,,,,115000,G
+140180,  IS,00095,S    ,I-95 SB, ,043,Henrico County,043,Henrico County,0.76,NCL Richmond,US 1 Brook Rd,54000,N,91%,1%,1%,1%,7%,0%,N,,,,56000,N,2009,,112000,N,91%,1%,1%,1%,7%,0%,N,,,,115000,N
+140010,  IS,00095,S    ,I-95 SB, ,043,Henrico County,043,Henrico County,1.06,US 1 Brook Rd,US 301 Chamberlayne Ave,50000,B,91%,1%,1%,1%,7%,0%,F,0.1035,A,1.0000,51000,B,2009,,100000,B,91%,1%,1%,1%,7%,0%,F,0.0888,A,0.5971,102000,B
+140009,  IS,00095,S    ,I-95 SB, ,043,Henrico County,043,Henrico County,1.60,US 301 Chamberlayne Ave,SR 73 Parham Rd,48000,A,91%,1%,1%,1%,7%,0%,C,0.0967,A,1.0000,49000,A,2009,,96000,B,91%,1%,1%,1%,7%,0%,C,0.0893,A,0.5484,98000,B
+140008,  IS,00095,S    ,I-95 SB, ,043,Henrico County,043,Henrico County,2.04,SR 73 Parham Rd,I-295,44000,A,91%,1%,1%,1%,7%,0%,F,0.1043,A,1.0000,44000,A,2009,,89000,A,91%,1%,1%,1%,7%,0%,F,0.0896,A,0.5626,89000,A
+140300,  IS,00095,S    ,I-95 SB, ,043,Henrico County,043,Henrico County,0.98,I-295,Hanover County Line,66000,A,87%,1%,1%,1%,10%,0%,F,0.0893,A,1.0000,62000,A,2009,,130000,F,87%,1%,1%,1%,10%,0%,F,0.0821,A,0.5428,122000,F
+789392,  IS,00095,S084A,I-95 SB Exit 084A,Ramp,043,Henrico County,043,Henrico County,1.42,I-95 South,I-295 East,22000,A,,,,,,,X,0.1107,A,1.0000,20000,A,2009,,,,,,,,,,,,,,,
+040086,  SR,00146,     ,VA 146, ,127,City of Richmond,043,Henrico County,0.86,SR 76 Powhite Pkwy,SR 195 Downtown Expwy,20000,G,99%,0%,0%,0%,0%,0%,C,0.1107,F,0.7781,24000,G,2009,,,,,,,,,,,,,,,
+665133,  SR,00147,     ,VA 147,Huguenot Rd,043,Henrico County,043,Henrico County,0.45,Huguenot Memorial Bridge,43-7506 River Rd,23000,G,99%,0%,0%,0%,0%,0%,C,0.1001,F,0.6225,25000,G,2009,,,,,,,,,,,,,,,
+665136,  SR,00147,     ,VA 147,River Rd,043,Henrico County,043,Henrico County,0.02,43-7506 River Rd,WCL Richmond,30000,N,99%,0%,0%,0%,0%,0%,N,0.0822,N,0.5674,28000,N,2009,,,,,,,,,,,,,,,
+665786,  SR,00150,     ,VA 150,Chippenham Pkwy,043,Henrico County,043,Henrico County,1.25,43-7518 Parham Rd,NCL Richmond,36000,G,98%,0%,1%,0%,1%,0%,F,0.1047,F,0.5217,39000,G,2009,,,,,,,,,,,,,,,
+665773,  SR,00156,     ,,New Market Rd,043,Henrico County,043,Henrico County,1.72,Charles City County Line,W SR 5,2100,G,93%,1%,1%,2%,4%,0%,F,0.0878,F,0.7389,2200,G,2009,,,,,,,,,,,,,,,
+665788,  SR,00156,     ,VA 156,Willis Church Rd,043,Henrico County,043,Henrico County,3.70,W SR 5,Charles City Rd,200,G,97%,0%,1%,0%,1%,0%,F,0.1082,F,0.6190,220,G,2009,,,,,,,,,,,,,,,
+665789,  SR,00156,     ,VA 156,Charles City Rd,043,Henrico County,043,Henrico County,1.19,Willis Church Rd,Elko Rd,1800,G,97%,0%,1%,0%,1%,0%,F,0.0901,F,0.6450,2000,G,2009,,,,,,,,,,,,,,,
+665790,  SR,00156,     ,VA 156,Elko Rd,043,Henrico County,043,Henrico County,4.40,Charles City Rd,Elko Tract Rd,1600,G,97%,0%,1%,0%,1%,0%,C,0.0988,F,0.6000,1700,G,2009,,,,,,,,,,,,,,,
+665791,  SR,00156,     ,VA 156,Elko Rd,043,Henrico County,043,Henrico County,0.54,Elko Tract Rd,E US 60,3900,G,97%,0%,1%,0%,1%,0%,F,0.1002,F,0.7566,4300,G,2009,,,,,,,,,,,,,,,
+665783,  SR,00156,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,2.24,E US 60,I-295,13000,A,93%,1%,1%,2%,3%,0%,C,0.1229,A,0.6430,14000,A,2009,,,,,,,,,,,,,,,
+665123,  SR,00156,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,1.38,I-295,NINE MILE RD SR 33,12000,G,93%,1%,1%,1%,3%,0%,F,0.0937,F,0.5270,13000,G,2009,,,,,,,,,,,,,,,
+040480,  SR,00156,     ,,Williamsburg Rd,043,Henrico County,043,Henrico County,1.50,NINE MILE RD SR 33,US 60,12000,G,93%,1%,1%,1%,3%,0%,F,0.0931,F,0.5711,13000,G,2009,,,,,,,,,,,,,,,
+665197,  SR,00156,     ,VA 156,Airport Dr,043,Henrico County,043,Henrico County,0.75,US 60 Williamsburg Rd,I-64,32000,G,94%,1%,1%,1%,3%,0%,C,0.0795,F,0.0000,34000,G,2009,,,,,,,,,,,,,,,
+665198,  SR,00156,     ,VA 156,Airport Dr,043,Henrico County,043,Henrico County,0.55,I-64,SR 33 Nine Mile Rd,20000,G,94%,1%,1%,1%,3%,0%,F,0.0852,F,0.5759,21000,G,2009,,,,,,,,,,,,,,,
+665199,  SR,00156,     ,VA 156,Airport Dr,043,Henrico County,043,Henrico County,1.86,SR 33 Nine Mile Rd,I-295,15000,G,94%,1%,1%,1%,3%,0%,C,0.0938,F,0.5637,16000,G,2009,,,,,,,,,,,,,,,
+665792,  SR,00156,     ,VA 156,Airport Dr,043,Henrico County,043,Henrico County,1.09,I-295,Hanover County Line,5100,G,96%,0%,1%,2%,1%,0%,F,0.1025,F,0.7543,5500,G,2009,,,,,,,,,,,,,,,
+665194,  SR,00157,     ,VA 157,Gaskins Rd,043,Henrico County,043,Henrico County,0.82,SR 6 Patterson Avenue,Quioccasin Rd,18000,G,99%,0%,1%,0%,0%,0%,F,0.1032,F,0.5707,19000,G,2009,,,,,,,,,,,,,,,
+665192,  SR,00157,     ,VA 157,Quioccasin Rd,043,Henrico County,043,Henrico County,0.63,Quioccasin Rd,Pemberton Rd,11000,G,99%,0%,1%,0%,0%,0%,F,0.0932,F,0.6299,12000,G,2009,,,,,,,,,,,,,,,
+665191,  SR,00157,     ,VA 157,Pemberton Rd,043,Henrico County,043,Henrico County,1.47,Quioccasin Rd,Three Chopt Rd,8000,G,99%,0%,1%,0%,0%,0%,F,0.1047,F,0.5302,8700,G,2009,,,,,,,,,,,,,,,
+665189,  SR,00157,     ,VA 157,Pemberton Rd,043,Henrico County,043,Henrico County,1.17,Three Chopt Rd,US 250 Broad St,10000,G,99%,0%,1%,0%,0%,0%,C,0.1123,F,0.5939,11000,G,2009,,,,,,,,,,,,,,,
+665187,  SR,00157,     ,VA 157,Springfield Rd,043,Henrico County,043,Henrico County,0.59,US 250 Broad St,Hungary Rd,16000,G,99%,0%,0%,0%,0%,0%,F,0.0976,F,0.5044,17000,G,2009,,,,,,,,,,,,,,,
+665793,  SR,00157,     ,VA 157,Springfield Rd,043,Henrico County,043,Henrico County,0.97,Hungary Rd,Nuckols Rd,17000,G,99%,0%,0%,0%,0%,0%,C,0.1035,F,0.5748,18000,G,2009,,,,,,,,,,,,,,,
+665186,  SR,00157,     ,VA 157,Springfield Rd,043,Henrico County,043,Henrico County,1.78,Nuckols Rd,Francistown Rd,5600,G,99%,0%,0%,0%,0%,0%,F,0.1202,F,0.5450,6100,G,2009,,,,,,,,,,,,,,,
+665200,  SR,00157,     ,VA 157,Springfield Rd,043,Henrico County,043,Henrico County,0.28,Francistown Rd,US 33 Staples Mill Rd,5600,N,99%,0%,0%,0%,0%,0%,N,0.1202,N,0.5450,6100,N,2009,,,,,,,,,,,,,,,
+665794,  SR,00161,     ,VA 161,Lakeside Ave,043,Henrico County,043,Henrico County,0.35,NCL Richmond,Dumbarton Rd,15000,G,99%,0%,1%,0%,0%,0%,F,0.0999,F,0.5738,16000,G,2009,,,,,,,,,,,,,,,
+665134,  SR,00161,     ,VA 161,Lakeside Ave,043,Henrico County,043,Henrico County,0.93,Dumbarton Rd,SR 356 Hilliard Rd,12000,G,99%,0%,1%,0%,0%,0%,C,0.0980,F,0.5912,13000,G,2009,,,,,,,,,,,,,,,
+665135,  SR,00161,     ,VA 161,Hilliard Rd,043,Henrico County,043,Henrico County,0.74,Lakeside Ave,US 1; Brook Rd,7100,G,98%,0%,1%,0%,1%,0%,C,0.1167,F,0.6569,7700,G,2009,,,,,,,,,,,,,,,
+040499,  IS,00195,N    ,I-195 NB, ,127,City of Richmond,043,Henrico County,0.48,SR 195 Downtown Expwy,SR 76 Powhite Pkwy,13000,G,98%,0%,0%,0%,1%,0%,F,0.1677,F,1.0000,14000,G,2009,,23000,G,98%,0%,0%,0%,1%,0%,F,,,,27000,G
+040500,  IS,00195,N    ,I-195 NB, ,127,City of Richmond,043,Henrico County,0.79,SR 76 Powhite Pkwy,Thompson St,33000,A,98%,0%,0%,0%,1%,0%,C,0.1584,A,1.0000,38000,A,2009,,66000,A,98%,0%,0%,0%,1%,0%,C,0.1359,A,0.5770,77000,A
+040290,  IS,00195,N    ,I-195 NB, ,127,City of Richmond,043,Henrico County,0.41,Thompson St,"US 33, US 250 Broad St",34000,G,98%,0%,0%,0%,1%,0%,F,0.1159,F,1.0000,39000,G,2009,,68000,G,98%,0%,0%,0%,1%,0%,F,,,,79000,G
+040292,  IS,00195,N    ,I-195 NB, ,127,City of Richmond,043,Henrico County,0.45,"US 33, US 250 Broad St",NCL Richmond,37000,G,98%,0%,0%,0%,1%,0%,F,0.1183,F,1.0000,44000,G,2009,,82000,G,98%,0%,0%,0%,1%,0%,F,,,,94000,G
+040501,  IS,00195,N    ,I-195 NB, ,043,Henrico County,043,Henrico County,0.37,NCL Richmond,SCL Richmond,37000,G,98%,0%,0%,0%,1%,0%,F,0.1183,F,1.0000,44000,G,2009,,82000,G,98%,0%,0%,0%,1%,0%,F,,,,94000,G
+040503,  IS,00195,N    ,I-195 NB, ,127,City of Richmond,043,Henrico County,0.12,SCL Richmond,SR 197 Laburnum Ave,37000,G,98%,0%,0%,0%,1%,0%,F,0.1183,F,1.0000,44000,G,2009,,82000,G,98%,0%,0%,0%,1%,0%,F,,,,94000,G
+040502,  IS,00195,N    ,I-195 NB, ,127,City of Richmond,043,Henrico County,0.88,SR 197 Laburnum Ave,I-95,24000,F,98%,0%,0%,0%,1%,0%,F,0.1183,N,1.0000,26000,F,2009,,68000,N,98%,0%,0%,0%,1%,0%,N,,,,77000,N
+140049,  IS,00195,S    ,I-195 SB, ,127,City of Richmond,043,Henrico County,0.61,SR 195 Downtown Expwy,SR 76 Powhite Pkwy,11000,G,98%,0%,0%,0%,1%,0%,F,0.1934,F,1.0000,12000,G,2009,,23000,G,98%,0%,0%,0%,1%,0%,F,,,,27000,G
+240500,  IS,00195,S    ,I-195 SB, ,127,City of Richmond,043,Henrico County,0.22,SR 76 Powhite Pkwy,Grove Ave,34000,A,98%,0%,0%,0%,1%,0%,C,0.1518,A,1.0000,39000,A,2009,,66000,A,98%,0%,0%,0%,1%,0%,C,0.1359,A,0.5770,77000,A
+140051,  IS,00195,S    ,I-195 SB, ,127,City of Richmond,043,Henrico County,0.65,Grove Ave,US 33 US 250 Broad St,34000,G,98%,0%,0%,0%,1%,0%,F,0.1153,F,1.0000,39000,G,2009,,68000,G,98%,0%,0%,0%,1%,0%,F,,,,79000,G
+140055,  IS,00195,S    ,I-195 SB, ,127,City of Richmond,043,Henrico County,0.65,US 33 US 250 Broad St,NCL Richmond,44000,G,98%,0%,0%,0%,1%,0%,F,0.1049,F,1.0000,51000,G,2009,,82000,G,98%,0%,0%,0%,1%,0%,F,,,,94000,G
+140053,  IS,00195,S    ,I-195 SB, ,127,City of Richmond,043,Henrico County,0.37,NCL Richmond,SCL Richmond,44000,G,98%,0%,0%,0%,1%,0%,F,0.1049,F,1.0000,51000,G,2009,,82000,G,98%,0%,0%,0%,1%,0%,F,,,,94000,G
+140054,  IS,00195,S    ,I-195 SB, ,127,City of Richmond,043,Henrico County,0.07,SCL Richmond,SR 197 Laburnum Ave,44000,G,98%,0%,0%,0%,1%,0%,F,0.1049,F,1.0000,51000,G,2009,,82000,G,98%,0%,0%,0%,1%,0%,F,,,,94000,G
+140052,  IS,00195,S    ,I-195 SB, ,127,City of Richmond,043,Henrico County,0.93,SR 197 Laburnum Ave,I-95,44000,N,98%,0%,0%,0%,1%,0%,N,0.1049,N,1.0000,51000,N,2009,,68000,N,98%,0%,0%,0%,1%,0%,N,,,,77000,N
+040498,  SR,00195,N    ,VA 195 NB,Downtown Expressway,127,City of Richmond,043,Henrico County,1.02,I-95 S,Ramp to Canal Street,13000,G,99%,0%,0%,0%,0%,0%,F,,,,38000,G,2009,,29000,G,99%,0%,0%,0%,0%,0%,F,,,,59000,G
+140118,  SR,00195,N    ,VA 195 NB,Downtown Expressway,127,City of Richmond,043,Henrico County,2.10,Ramp to Canal Street,SR 146,19000,A,99%,0%,0%,0%,0%,0%,C,0.2381,A,1.0000,23000,A,2009,,37000,A,99%,0%,0%,0%,0%,0%,C,0.1590,A,0.8005,45000,A
+140217,  SR,00195,N    ,VA 195 NB,Downtown Expressway,127,City of Richmond,043,Henrico County,0.27,SR 146,I-195 N,9400,G,99%,0%,0%,0%,0%,0%,F,,,,17000,G,2009,,19000,G,99%,0%,0%,0%,0%,0%,F,,,,28000,G
+140218,  SR,00195,S    ,VA 195 SB,Downtown Expressway,127,City of Richmond,043,Henrico County,1.00,I-95 N,Ramp to Byrd Street,16000,G,99%,0%,0%,0%,0%,0%,F,,,,20000,G,2009,,29000,G,99%,0%,0%,0%,0%,0%,F,,,,59000,G
+340118,  SR,00195,S    ,VA 195 SB,Downtown Expressway,127,City of Richmond,043,Henrico County,2.15,Ramp to Byrd Street,SR 146,18000,A,99%,0%,0%,0%,0%,0%,C,0.2565,A,1.0000,22000,A,2009,,37000,A,99%,0%,0%,0%,0%,0%,C,0.1590,A,0.8005,45000,A
+140219,  SR,00195,S    ,VA 195 SB,Downtown Expressway,127,City of Richmond,043,Henrico County,0.24,SR 146,I-195 S,10000,G,99%,0%,0%,0%,0%,0%,F,,,,11000,G,2009,,19000,G,99%,0%,0%,0%,0%,0%,F,,,,28000,G
+665795,  SR,00197,     ,VA 197,Westwood Ave,043,Henrico County,043,Henrico County,0.52,ECL Richmond,WCL Richmond,12000,G,99%,0%,0%,0%,0%,0%,F,0.1014,F,0.6405,13000,G,2009,,,,,,,,,,,,,,,
+665800,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,1.60,Goochland County Line,Lauderdale Drive,23000,G,99%,0%,1%,0%,0%,0%,F,0.0958,F,0.5213,25000,G,2009,,,,,,,,,,,,,,,
+665796,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,0.54,Lauderdale Drive,SR 271 Pouncy Tract Rd,31000,G,99%,0%,1%,0%,0%,0%,C,0.0895,F,0.5136,34000,G,2009,,,,,,,,,,,,,,,
+665184,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,0.84,SR 271 Pouncy Tract Rd,I-64,53000,G,98%,0%,1%,0%,0%,0%,C,0.0838,F,0.5939,56000,G,2009,,,,,,,,,,,,,,,
+665190,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,0.75,I-64,Cox Rd,39000,G,99%,0%,1%,0%,0%,0%,C,0.0965,F,0.5117,42000,G,2009,,,,,,,,,,,,,,,
+665798,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,0.81,Cox Rd,Gaskins Rd,44000,G,99%,0%,1%,0%,0%,0%,F,0.0906,F,0.5469,47000,G,2009,,,,,,,,,,,,,,,
+665799,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,0.50,Gaskins Rd,SR 157 Pemberton Rd; Springfield Rd,33000,G,99%,0%,0%,0%,0%,0%,F,0.0908,F,0.5385,35000,G,2009,,,,,,,,,,,,,,,
+665188,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,1.57,SR 157 Pemberton Rd; Springfield Rd,Parham Rd,41000,G,99%,0%,0%,0%,0%,0%,C,0.0876,F,0.5363,43000,G,2009,,,,,,,,,,,,,,,
+665797,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,0.72,Parham Rd,Hungary Springs Rd,32000,G,98%,1%,1%,0%,0%,0%,F,0.0830,F,0.5128,35000,G,2009,,,,,,,,,,,,,,,
+665138,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,1.15,Hungary Springs Rd,I-64,36000,G,98%,1%,1%,0%,0%,0%,F,0.0858,F,0.5691,40000,G,2009,,,,,,,,,,,,,,,
+665139,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,0.90,I-64,Horsepen Rd,35000,G,98%,1%,1%,0%,0%,0%,F,0.1000,F,0.5946,40000,G,2009,,,,,,,,,,,,,,,
+665140,  US,00250,     ,US 250,Broad St,043,Henrico County,043,Henrico County,1.32,Horsepen Rd,WCL Richmond,26000,G,98%,1%,1%,0%,0%,0%,F,0.0975,F,0.5026,30000,G,2009,,,,,,,,,,,,,,,
+665141,  SR,00271,     ,VA 271,Pouncey Tract Rd,043,Henrico County,043,Henrico County,2.51,US 250 Broad Street Rd,Nuckols Rd,10000,G,97%,0%,1%,1%,0%,0%,C,0.0841,F,0.5341,11000,G,2009,,,,,,,,,,,,,,,
+665301,  SR,00271,     ,VA 271,Pouncey Tract Rd,043,Henrico County,043,Henrico County,1.19,Nuckols Rd,Goochland County Line,5000,G,96%,0%,1%,2%,0%,0%,F,0.1297,F,0.5460,5500,G,2009,,,,,,,,,,,,,,,
+040509,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,1.89,I-64,Nuckols Rd,24000,F,95%,0%,1%,1%,3%,0%,F,0.1179,F,1.0000,26000,F,2009,East I-295 is signed as South I-295,47000,F,95%,0%,1%,1%,3%,0%,F,,,,51000,F
+040510,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,2.43,Nuckols Rd,US 33 Staples Mill Rd,25000,F,95%,0%,1%,1%,3%,0%,F,0.1491,B,1.0000,28000,F,2009,East I-295 is signed as South I-295,50000,F,95%,0%,1%,1%,3%,0%,F,0.1295,B,0.5854,55000,F
+040007,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,3.42,US 33 Staples Mill Rd,Woodman Rd,27000,A,95%,0%,1%,1%,3%,0%,C,0.1380,A,1.0000,29000,A,2009,East I-295 is signed as South I-295,53000,A,95%,0%,1%,1%,3%,0%,C,0.1296,A,0.5306,58000,A
+140056,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,1.34,Woodman Rd,US 1 Brook Rd,30000,G,95%,0%,1%,1%,3%,0%,F,0.1230,F,1.0000,33000,G,2009,East I-295 is signed as South I-295,59000,G,95%,0%,1%,1%,3%,0%,F,,,,64000,G
+140057,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,1.88,US 1 Brook Rd,I-95,15000,F,95%,0%,1%,1%,3%,0%,F,0.1380,F,1.0000,17000,F,2009,East I-295 is signed as South I-295,70000,F,,,,,,,X,,,,75000,F
+040050,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,0.17,I-95,Hanover County Line,47000,F,92%,1%,1%,1%,6%,0%,F,0.1152,B,1.0000,46000,F,2009,East I-295 is signed as South I-295,94000,F,92%,1%,1%,1%,7%,0%,F,,,,92000,F
+040447,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,0.75,Hanover County Line,SR 156 Airport Drive North,37000,F,92%,1%,1%,1%,6%,0%,F,0.1059,A,1.0000,35000,F,2009,East I-295 is signed as South I-295,73000,F,92%,1%,1%,1%,7%,0%,F,0.1028,A,0.5058,70000,F
+040511,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,1.34,SR 156 Airport Drive North,I-64; US 60 Collector Rd Begin,30000,F,92%,1%,1%,1%,6%,0%,F,0.1113,A,1.0000,28000,F,2009,East I-295 is signed as South I-295,61000,F,92%,1%,1%,1%,7%,0%,F,0.1086,A,0.5280,56000,F
+040052,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,2.49,I-64; US 60 Collector Rd Begin,I-64; US 60 Collector Rd End,11000,F,81%,1%,1%,1%,17%,0%,F,0.1188,A,1.0000,10000,F,2009,East I-295 is signed as South I-295,23000,F,81%,1%,1%,1%,16%,0%,F,0.1149,A,0.5509,21000,F
+040513,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,2.23,I-64; US 60 Collector Rd End,SR 895 Pocahontas Pkwy,18000,A,81%,1%,1%,1%,17%,0%,F,0.1020,A,1.0000,17000,A,2009,East I-295 is signed as South I-295,36000,A,81%,1%,1%,1%,16%,0%,F,0.1056,A,0.5451,35000,A
+040512,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,2.91,SR 895 Pocahontas Pkwy,SR 5 New Market Rd,16000,B,81%,1%,1%,1%,17%,0%,F,0.1014,F,1.0000,15000,B,2009,East I-295 is signed as South I-295,31000,B,81%,1%,1%,1%,16%,0%,F,,,,30000,B
+040761,  IS,00295,E    ,I-295 EB, ,043,Henrico County,043,Henrico County,4.45,SR 5 New Market Rd,Chesterfield County Line,16000,A,81%,1%,1%,1%,17%,0%,F,0.1071,A,1.0000,15000,A,2009,East I-295 is signed as South I-295,32000,A,81%,1%,1%,1%,16%,0%,F,0.1075,A,0.5322,31000,A
+940761,  IS,00295,E    ,I-295 EB, ,020,Chesterfield County,043,Henrico County,2.64,Henrico County Line,SR 10 Hundred Rd East,16000,A,81%,1%,1%,1%,17%,0%,F,0.1071,A,1.0000,15000,A,2009,East I-295 is signed as South I-295,32000,A,81%,1%,1%,1%,16%,0%,F,,,,31000,A
+795415,  IS,00295,E028X,I-295 EB Exit 028X,Ramp,043,Henrico County,043,Henrico County,0.27,I-64,US 60,9400,B,,,,,,,X,0.1252,A,1.0000,9800,B,2009,,,,,,,,,,,,,,,
+781280,  IS,00295,W    ,I-295 WB,Ramp From I-295 N (W) to I-64 W,043,Henrico County,043,Henrico County,0.43,I-64 W,I-295 N,12000,F,95%,0%,1%,1%,3%,0%,F,0.1341,A,1.0000,13000,F,2009,,,,,,,,,,,,,,,
+140075,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,1.79,I-64,Nuckols Rd,23000,F,95%,0%,1%,1%,3%,0%,F,0.1230,F,1.0000,25000,F,2009,West I-295 is signed as North I-295,47000,F,95%,0%,1%,1%,3%,0%,F,,,,51000,F
+140074,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,2.31,Nuckols Rd,US 33 Staples Mill Rd,25000,F,95%,0%,1%,1%,3%,0%,F,0.1482,B,1.0000,27000,F,2009,West I-295 is signed as North I-295,50000,F,95%,0%,1%,1%,3%,0%,F,0.1295,B,0.5854,55000,F
+140073,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,3.22,US 33 Staples Mill Rd,Woodman Rd,26000,A,95%,0%,1%,1%,3%,0%,C,0.1382,A,1.0000,28000,A,2009,West I-295 is signed as North I-295,53000,A,95%,0%,1%,1%,3%,0%,C,0.1296,A,0.5306,58000,A
+140072,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,0.91,Woodman Rd,US 1 Brook Rd,29000,F,95%,0%,1%,1%,3%,0%,F,0.1302,F,1.0000,32000,F,2009,West I-295 is signed as North I-295,59000,G,95%,0%,1%,1%,3%,0%,F,,,,64000,G
+140071,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,1.83,US 1 Brook Rd,I-95,15000,F,95%,0%,1%,1%,3%,0%,F,0.1603,F,1.0000,17000,F,2009,West I-295 is signed as North I-295,70000,F,,,,,,,X,,,,75000,F
+840070,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,0.29,I-95,Hanover County Line,47000,F,91%,1%,1%,1%,7%,0%,F,0.1079,A,1.0000,46000,F,2009,West I-295 is signed as North I-295,94000,F,92%,1%,1%,1%,7%,0%,F,,,,92000,F
+140066,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,1.30,Hanover County Line,SR 156 Airport Drive North,37000,F,91%,1%,1%,1%,7%,0%,F,0.1064,A,1.0000,35000,F,2009,West I-295 is signed as North I-295,74000,G,92%,1%,1%,1%,7%,0%,F,0.0000,?,0.0000,72000,G
+140065,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,1.10,SR 156 Airport Drive North,I-64; US 60 Williamsburg Rd Collector Rd End,31000,F,91%,1%,1%,1%,7%,0%,F,0.1125,A,1.0000,28000,F,2009,West I-295 is signed as North I-295,61000,F,92%,1%,1%,1%,7%,0%,F,0.1086,A,0.5280,56000,F
+140064,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,2.18,I-64; US 60 Williamsburg Rd Collector Rd End,I-64; US 60 Williamsburg Rd Collector Rd Begin,12000,F,82%,1%,1%,1%,16%,0%,F,0.1236,A,1.0000,11000,F,2009,West I-295 is signed as North I-295,23000,F,81%,1%,1%,1%,16%,0%,F,0.1149,A,0.5509,21000,F
+140216,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,2.21,I-64; US 60 Williamsburg Rd Collector Rd Begin,SR 895 Pocahontas Parkway,18000,A,82%,1%,1%,1%,16%,0%,F,0.1122,A,1.0000,18000,A,2009,West I-295 is signed as North I-295,36000,A,81%,1%,1%,1%,16%,0%,F,0.1056,A,0.5451,35000,A
+140063,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,3.49,SR 895 Pocahontas Parkway,SR 5 New Market Rd,16000,B,82%,1%,1%,1%,16%,0%,F,0.1135,A,1.0000,15000,B,2009,West I-295 is signed as North I-295,31000,B,81%,1%,1%,1%,16%,0%,F,,,,30000,B
+840062,  IS,00295,W    ,I-295 WB, ,043,Henrico County,043,Henrico County,3.89,SR 5 New Market Rd,Chesterfield County Line,16000,A,82%,1%,1%,1%,16%,0%,F,0.0894,N,1.0000,16000,A,2009,West I-295 is signed as North I-295,32000,A,81%,1%,1%,1%,16%,0%,F,,,,31000,A
+140062,  IS,00295,W    ,I-295 WB, ,020,Chesterfield County,043,Henrico County,2.64,Henrico County Line,SR 10 Hundred Road East,16000,A,82%,1%,1%,1%,16%,0%,F,,,,16000,A,2009,West I-295 is signed as North I-295,32000,A,81%,1%,1%,1%,16%,0%,F,,,,31000,A
+795407,  IS,00295,W028X,I-295 WB Exit 028X,Ramp,043,Henrico County,043,Henrico County,0.27,US 60,I-64,9900,B,,,,,,,X,,,,10000,B,2009,,,,,,,,,,,,,,,
+789503,  IS,00295,W043A,I-295 WB Exit 043A,Ramp,043,Henrico County,043,Henrico County,1.53,I-295 West,I-95 North,22000,A,,,,,,,X,0.1712,B,1.0000,20000,A,2009,,,,,,,,,,,,,,,
+795433,  IS,00295,W043X,I-295 WB Exit 043X,Ramp,043,Henrico County,043,Henrico County,0.23,Ramp from US 1 South,I-295 West,14000,F,,,,,,,X,,,,16000,F,2009,,,,,,,,,,,,,,,
+781281,  IS,00295,W053A,I-295 WB Exit 053A,Ramp From I-295 N (W) to I-64 E,043,Henrico County,043,Henrico County,0.47,I-295 NB,I-64 EB,0,?,,,,,,,X,,,,,,,,,,,,,,,,,,,,,
+665104,  US,00301,     ,,Chamberlayne Ave,043,Henrico County,043,Henrico County,0.55,NCL Richmond,I-95,14000,G,96%,1%,1%,0%,1%,0%,C,0.0976,F,0.6021,15000,G,2009,,,,,,,,,,,,,,,
+665107,  US,00301,     ,,Chamberlayne Ave NB,043,Henrico County,043,Henrico County,0.90,I-95,Upham Dr,17000,G,97%,0%,1%,0%,1%,0%,F,0.1165,F,0.0000,18000,G,2009,,25000,G,97%,0%,1%,0%,1%,0%,F,,,,27000,G
+665105,  US,00301,     ,,Chamberlayne Ave,043,Henrico County,043,Henrico County,1.57,Upham Dr,Parham Rd,14000,G,97%,0%,1%,0%,1%,0%,C,0.1044,F,0.7148,15000,G,2009,,,,,,,,,,,,,,,
+665106,  US,00301,     ,,Chamberlayne Ave,043,Henrico County,043,Henrico County,0.17,Parham Rd,Hanover County Line,24000,G,97%,0%,1%,0%,1%,0%,F,0.0982,F,0.7149,27000,G,2009,,,,,,,,,,,,,,,
+789753, 2US,00301,P    ,,Chamberlayne Ave SB,043,Henrico County,043,Henrico County,0.90,Ramp from I-95 North,Upham Dr,7900,G,97%,0%,1%,0%,1%,0%,F,0.1471,F,1.0000,8600,G,2009,,25000,G,97%,0%,1%,0%,1%,0%,F,,,,27000,G
+665302,  SR,00356,     ,VA 356,Hilliard Rd,043,Henrico County,043,Henrico County,0.67,US 33; Staples Mill Rd,Thornrose Ave,15000,G,98%,0%,1%,0%,1%,0%,F,0.1003,F,0.6123,16000,G,2009,,,,,,,,,,,,,,,
+665142,  SR,00356,     ,VA 356,Hilliard Rd,043,Henrico County,043,Henrico County,0.60,Thornrose Ave,Hermitage Rd,15000,G,98%,0%,1%,0%,1%,0%,C,0.1013,F,0.5944,16000,G,2009,,,,,,,,,,,,,,,
+665303,  SR,00356,     ,VA 356,Hilliard Rd,043,Henrico County,043,Henrico County,0.16,Hermitage Rd,SR 161; Lakeside Ave,18000,G,98%,0%,1%,0%,1%,0%,F,0.1006,F,0.5421,20000,G,2009,,,,,,,,,,,,,,,
+665143,  US,00360,     ,US 360,Mechanicsville Tpke,043,Henrico County,043,Henrico County,1.53,ECL Richmond,Laburnum Ave,35000,G,98%,0%,1%,0%,1%,0%,F,0.0924,F,0.6661,36000,G,2009,,,,,,,,,,,,,,,
+665144,  US,00360,     ,US 360,Mechanicsville Tpke,043,Henrico County,043,Henrico County,1.34,Laburnum Ave,Hanover County Line,33000,G,97%,0%,1%,0%,1%,0%,C,0.0919,F,0.6441,35000,G,2009,,,,,,,,,,,,,,,
+788186,  SR,00895,E    ,VA 895 EB,Pocahontas Pkwy,043,Henrico County,043,Henrico County,2.22,Chesterfield County Line,Laburnum Ave,8600,G,92%,1%,1%,1%,5%,1%,F,0.1363,F,1.0000,9400,G,2009,,16000,G,92%,1%,1%,1%,5%,1%,F,,,,18000,G
+788257,  SR,00895,E    ,VA 895 EB,Pocahontas Pkwy,043,Henrico County,043,Henrico County,4.94,Laburnum Ave,I-295,2700,F,92%,1%,1%,1%,5%,1%,C,0.1153,F,1.0000,2900,F,2009,,5300,F,92%,1%,1%,1%,5%,1%,C,0.1243,F,1.0000,5600,F
+795326,  SR,00895,E    ,VA 895 EB,Ramp,043,Henrico County,043,Henrico County,0.72,SR 895 East,I-295 North,2900,A,92%,1%,1%,1%,5%,1%,F,0.1364,A,1.0000,2900,A,2009,,5600,A,92%,1%,1%,1%,5%,1%,F,0.1219,A,0.5194,5600,A
+788185,  SR,00895,W    ,VA 895 WB,Pocahontas Pkwy,043,Henrico County,043,Henrico County,2.38,Chesterfield County Line,Laburnum Ave,7600,G,91%,1%,1%,1%,5%,1%,F,0.1154,F,1.0000,8300,G,2009,,16000,G,92%,1%,1%,1%,5%,1%,F,,,,18000,G
+788258,  SR,00895,W    ,VA 895 WB,Pocahontas Pkwy,043,Henrico County,043,Henrico County,4.60,Laburnum Ave,I-295,2600,F,91%,1%,1%,1%,5%,1%,C,0.1435,F,1.0000,2800,F,2009,,5300,F,92%,1%,1%,1%,5%,1%,C,0.1243,F,1.0000,5600,F
+795305,  SR,00895,W    ,VA 895 WB,Ramp,043,Henrico County,043,Henrico County,0.43,SR 895 West,I-295 South,2700,A,91%,1%,1%,1%,5%,1%,F,0.1267,A,1.0000,2800,A,2009,,5600,A,92%,1%,1%,1%,5%,1%,F,0.1219,A,0.5194,5600,A
+780356,  FR,00101,     ,FR 101, ,043,Henrico County,043,Henrico County,0.09,Mall Circle,SR 271 Pouncey Tract Rd,6200,G,,,,,,,X,0.1036,F,0.0000,6200,G,2009,,,,,,,,,,,,,,,
+780358,  FR,00103,     ,FR 103,Bohollow Dr,043,Henrico County,043,Henrico County,0.24,Dead End,SR 157 Pemberton Rd,330,G,,,,,,,X,0.1577,F,0.6699,330,G,2009,,,,,,,,,,,,,,,
+780359,  FR,00106,     ,FR 106, ,043,Henrico County,043,Henrico County,0.19,Dead End,43-7555,10,G,,,,,,,X,0.2857,F,0.5000,10,G,2009,,,,,,,,,,,,,,,
+780360,  FR,00109,     ,FR 109, ,043,Henrico County,043,Henrico County,1.81,Dead End,Dead End,100,G,,,,,,,X,0.1464,F,0.8000,100,G,2009,,,,,,,,,,,,,,,
+780494,  FR,00270,     ,FR 270, ,127,City of Richmond,043,Henrico County,0.46,MEADOW STREET,DAVIS STREET,1700,G,,,,,,,X,0.0923,F,0.5676,1700,G,2009,,,,,,,,,,,,,,,
+780544,  FR,00332,     ,FR 332, ,043,Henrico County,043,Henrico County,0.24,SR 5,Dead End,70,G,,,,,,,X,0.1769,F,0.5385,70,G,2009,,,,,,,,,,,,,,,
+782026,  FR,00333,     ,FR 333, ,043,Henrico County,043,Henrico County,0.05,SR 5,Dead End,0,?,,,,,,,X,,,,,,,,,,,,,,,,,,,,,
+780546,  FR,00334,     ,FR 334, ,043,Henrico County,043,Henrico County,0.50,Dead End,43-7559 PROP RT FR 334,2,G,,,,,,,X,1.0000,F,0.5000,2,G,2009,,,,,,,,,,,,,,,
+780600,  FR,00653,     ,FR 653,Chamberlayne Rd,043,Henrico County,043,Henrico County,0.93,US 301; Ramp From I-95 N,Upham Dr,630,G,,,,,,,X,0.1168,F,0.6267,630,G,2009,,,,,,,,,,,,,,,
+665644,  43,00026,     ,43-26,Mill Rd,043,Henrico County,043,Henrico County,1.70,Mountain Rd,Old Washington Hwy,2200,G,97%,1%,1%,1%,0%,0%,C,0.1063,F,0.5138,2400,G,2009,,,,,,,,,,,,,,,
+665652,  43,00027,     ,43-27,Old Washington Hwy,043,Henrico County,043,Henrico County,1.67,Mountain Rd,Greenwood Rd,1000,G,98%,0%,1%,1%,0%,0%,C,0.1140,F,0.6014,1100,G,2009,,,,,,,,,,,,,,,
+665653,  43,00027,     ,43-27,Old Washington Hwy,043,Henrico County,043,Henrico County,0.62,Greenwood Rd,Hanover County Line,2700,G,98%,0%,1%,1%,0%,0%,F,0.1071,F,0.5483,2900,G,2009,,,,,,,,,,,,,,,
+665672,  43,00029,     ,43-29,Shady Grove Rd,043,Henrico County,043,Henrico County,1.83,PounceyTract Rd,Nuckols Rd,2600,G,99%,0%,0%,0%,0%,0%,C,0.1085,F,0.6177,2800,G,2009,,,,,,,,,,,,,,,
+665673,  43,00029,     ,43-29,Shady Grove Rd,043,Henrico County,043,Henrico County,0.54,Nuckols Rd,Hanover County Line,2000,G,99%,0%,0%,0%,0%,0%,F,0.1042,F,0.6468,2200,G,2009,,,,,,,,,,,,,,,
+665636,  43,00030,     ,43-30,Long Bridge Rd,043,Henrico County,043,Henrico County,1.38,New Market Rd,Bradbury Rd,400,G,95%,1%,1%,2%,1%,0%,C,0.1186,F,0.6667,430,G,2009,,,,,,,,,,,,,,,
+665637,  43,00030,     ,43-30,Long Bridge Rd,043,Henrico County,043,Henrico County,2.38,Bradbury Rd,Darbytown Rd,200,G,95%,1%,1%,2%,1%,0%,F,0.1115,F,0.6349,220,G,2009,,,,,,,,,,,,,,,
+665688,  43,00031,     ,43-31,Turner Rd,043,Henrico County,043,Henrico County,1.77,New Market Rd,Darbytown Rd,1000,G,93%,0%,4%,1%,2%,0%,C,0.1253,F,0.5926,1100,G,2009,,,,,,,,,,,,,,,
+665689,  43,00031,     ,43-31,Turner Rd,043,Henrico County,043,Henrico County,1.76,Darbytown Rd,Charles City Rd,850,G,93%,0%,4%,1%,2%,0%,F,0.1126,F,0.5504,920,G,2009,,,,,,,,,,,,,,,
+665314,  43,00032,     ,43-32,Bradbury Rd,043,Henrico County,043,Henrico County,1.35,Longbridge Rd,Darbytown Rd,210,G,95%,0%,2%,2%,1%,0%,C,0.1373,F,0.5641,230,G,2009,,,,,,,,,,,,,,,
+665363,  43,00033,     ,43-33,Gill Dale Rd,043,Henrico County,043,Henrico County,1.67,Darbytown Rd,Charles City Rd,310,G,97%,0%,2%,0%,0%,0%,C,0.1194,F,0.5208,330,G,2009,,,,,,,,,,,,,,,
+745346,  43,00034,     ,43-34,Poplar Spring Rd,043,Henrico County,043,Henrico County,1.00,43-7723 Charles City Rd,43-35 Portugee Rd,1600,G,97%,0%,2%,1%,0%,0%,C,0.1089,F,0.6682,1700,G,2009,,,,,,,,,,,,,,,
+665643,  43,00035,     ,43-35,Memorial Dr,043,Henrico County,043,Henrico County,1.44,Portugee Rd,Williamsburg Rd,2000,G,94%,0%,1%,2%,2%,0%,C,0.0959,F,0.6434,2100,G,2009,,,,,,,,,,,,,,,
+665318,  43,00037,     ,43-37,Britton Rd,043,Henrico County,043,Henrico County,1.39,Darbytown Rd,Charles City Rd,770,G,97%,1%,1%,0%,1%,0%,C,0.1216,F,0.6538,830,G,2009,,,,,,,,,,,,,,,
+665341,  43,00038,     ,43-38,Doran Rd,043,Henrico County,043,Henrico County,2.10,New Market Rd,Darbytown Rd,1300,G,98%,0%,1%,1%,0%,0%,C,0.0965,F,0.5796,1400,G,2009,,,,,,,,,,,,,,,
+665671,  43,00039,     ,43-39,Seven Hills Rd,043,Henrico County,043,Henrico County,0.62,Laburnum Ave,Settler Rd,1400,G,85%,3%,1%,3%,8%,0%,C,0.1192,F,0.6056,1600,G,2009,,,,,,,,,,,,,,,
+665395,  43,00040,     ,43-40,Kingsland Rd,043,Henrico County,043,Henrico County,1.63,Osborne Tpke,Varina Rd,400,G,94%,1%,1%,1%,3%,0%,C,0.0975,F,0.6078,430,G,2009,,,,,,,,,,,,,,,
+665396,  43,00040,     ,43-40,Kingsland Rd,043,Henrico County,043,Henrico County,1.20,Varina Rd,Wallo Rd,290,G,94%,1%,1%,1%,3%,0%,F,0.1090,F,0.5244,310,G,2009,,,,,,,,,,,,,,,
+665324,  43,00041,     ,43-41,Church Rd,043,Henrico County,043,Henrico County,1.24,Lauderdale Rd,Pump Rd,6800,G,99%,0%,0%,0%,0%,0%,C,0.1020,F,0.7042,7300,G,2009,,,,,,,,,,,,,,,
+665325,  43,00041,     ,43-41,Church Rd,043,Henrico County,043,Henrico County,1.72,Pump Rd,Three Chopt Rd,6300,G,99%,0%,0%,0%,0%,0%,F,0.1160,F,0.7401,6900,G,2009,,,,,,,,,,,,,,,
+565060,  43,00042,     ,43-42,Cox Rd,043,Henrico County,043,Henrico County,0.64,Ridgefield Pkwy,Dead End; Gap,3400,G,99%,0%,1%,0%,0%,0%,C,0.1211,F,0.7550,3700,G,2009,,,,,,,,,,,,,,,
+665327,  43,00042,     ,43-42,Cox Rd,043,Henrico County,043,Henrico County,0.57,Three Chopt Rd; Gap,US 250 Broad St,14000,G,99%,0%,0%,0%,0%,0%,C,0.1168,F,0.7374,16000,G,2009,,,,,,,,,,,,,,,
+665690,  43,00043,     ,43-43,Varina Rd,043,Henrico County,043,Henrico County,3.19,Kingsland Rd,New Market Rd,700,G,98%,0%,1%,1%,1%,0%,C,0.0968,F,0.5568,760,G,2009,,,,,,,,,,,,,,,
+565073,  43,00044,     ,43-44,Old Courtney Rd,043,Henrico County,043,Henrico County,0.44,Staples Mill Rd,Courtney Rd,420,G,98%,1%,0%,0%,0%,0%,C,0.1201,F,0.9836,460,G,2009,,,,,,,,,,,,,,,
+787850,  43,00045,     ,43-45,Sadler Rd,043,Henrico County,043,Henrico County,2.10,43-46 Dominion Blvd.,43-7706 Lake Brook Dr,1800,G,99%,0%,1%,0%,0%,0%,C,0.1053,F,0.5652,1900,G,2009,,,,,,,,,,,,,,,
+787851,  43,00046,     ,43-46,Dominion Blvd,043,Henrico County,043,Henrico County,0.20,US 250 Broad St,43-45 Sadler Rd,11000,G,99%,0%,0%,0%,0%,0%,C,0.1103,F,0.7330,12000,G,2009,,,,,,,,,,,,,,,
+787852,  43,00047,     ,43-47,Old Three Chopt Rd,043,Henrico County,043,Henrico County,0.35,US 250 Broad St,Three Chopt Rd,2900,G,,,,,,,X,,,,3100,G,2009,,,,,,,,,,,,,,,
+797037,  43,00048,     ,43-48, ,043,Henrico County,043,Henrico County,1.69,US 1 Brook Rd,Carriage Point,0,?,,,,,,,X,,,,,,,,,,,,,,,,,,,,,
+780355,  43,00049,     ,43-49,Bacova Dr,043,Henrico County,043,Henrico County,1.62,Dead End,SR 271 Pouncey Tract Rd,130,G,,,,,,,X,0.1407,F,0.6033,130,G,2009,,,,,,,,,,,,,,,
+665356,  43,01585,     ,43-1585,North Gayton Rd,043,Henrico County,043,Henrico County,1.45,Broad St,Lauderdale Rd,4400,G,98%,0%,1%,1%,0%,0%,C,0.1165,F,0.5245,4700,G,2009,,,,,,,,,,,,,,,
+665686,  43,01587,     ,43-1587,Three Chopt Rd,043,Henrico County,043,Henrico County,2.23,43-7703 Lauderdale Dr,Cox Rd,9300,G,99%,0%,1%,0%,0%,0%,C,0.1425,F,0.5777,10000,G,2009,,,,,,,,,,,,,,,
+665685,  43,01587,     ,43-1587,Three Chopt Rd,043,Henrico County,043,Henrico County,0.85,Cox Rd,Gaskins Rd,13000,G,99%,0%,1%,0%,0%,0%,C,0.1105,F,0.5481,15000,G,2009,,,,,,,,,,,,,,,
+665684,  43,01587,     ,43-1587,Three Chopt Rd,043,Henrico County,043,Henrico County,0.27,Gaskins Rd,SR 157 Pemberton Rd,12000,G,99%,0%,1%,0%,0%,0%,F,0.0929,F,0.5070,13000,G,2009,,,,,,,,,,,,,,,
+665357,  43,07502,     ,43-7502,Gayton Rd,043,Henrico County,043,Henrico County,0.58,Lauderdale Rd,Ridgefield Pkwy,5700,G,99%,0%,0%,0%,0%,0%,F,0.0965,F,0.5031,6200,G,2009,,,,,,,,,,,,,,,
+665358,  43,07502,     ,43-7502,Gayton Rd,043,Henrico County,043,Henrico County,2.48,Ridgefield Pkwy,Pump Rd,6400,G,99%,0%,0%,0%,0%,0%,C,0.1014,F,0.5842,6900,G,2009,,,,,,,,,,,,,,,
+665359,  43,07502,     ,43-7502,Gayton Rd,043,Henrico County,043,Henrico County,0.89,Pump Rd,SR 157; Quioccasin Rd,8600,G,99%,0%,0%,0%,0%,0%,F,0.0948,F,0.6177,9300,G,2009,,,,,,,,,,,,,,,
+665360,  43,07502,     ,43-7502,Quioccasin Rd,043,Henrico County,043,Henrico County,0.38,SR 157; Pemberton Rd,Blue Jay Lane,15000,G,99%,0%,0%,0%,0%,0%,F,0.0922,F,0.6256,16000,G,2009,,,,,,,,,,,,,,,
+665361,  43,07502,     ,43-7502,Quioccasin Rd,043,Henrico County,043,Henrico County,0.54,Blue Jay Lane,Parham Rd,12000,G,99%,0%,0%,0%,0%,0%,F,0.0972,F,0.6974,13000,G,2009,,,,,,,,,,,,,,,
+665362,  43,07502,     ,43-7502,Eastridge Rd,043,Henrico County,043,Henrico County,0.28,Parham Rd,Three Chopt Rd,11000,G,99%,0%,0%,0%,0%,0%,C,0.0935,F,0.6296,12000,G,2009,,,,,,,,,,,,,,,
+665668,  43,07506,     ,43-7506,River Rd,043,Henrico County,043,Henrico County,0.88,Goochland County Line,Gaskins Rd,5600,G,99%,0%,0%,0%,0%,0%,F,0.1186,F,0.6413,6100,G,2009,,,,,,,,,,,,,,,
+665669,  43,07506,     ,43-7506,River Rd,043,Henrico County,043,Henrico County,1.80,Gaskins Rd,Parham Rd,10000,G,99%,0%,0%,0%,0%,0%,C,0.1140,F,0.6159,11000,G,2009,,,,,,,,,,,,,,,
+665670,  43,07506,     ,43-7506,River Rd,043,Henrico County,043,Henrico County,1.41,Parham Rd,Ridge Rd,8100,G,99%,0%,0%,0%,0%,0%,C,0.1206,F,0.6711,8800,G,2009,,,,,,,,,,,,,,,
+665170,  43,07506,     ,43-7506,River Rd,043,Henrico County,043,Henrico County,0.93,Ridge Rd,Huguenot Rd,12000,G,99%,0%,0%,0%,0%,0%,F,0.1092,F,0.5820,13000,G,2009,,,,,,,,,,,,,,,
+665335,  43,07508,     ,43-7508,Derbyshire Rd,043,Henrico County,043,Henrico County,1.50,Gaskins Rd,Parham Rd,13000,G,,,,,,,X,,,,14000,G,2009,,,,,,,,,,,,,,,
+665350,  43,07514,     ,43-7514,Gaskins Rd,043,Henrico County,043,Henrico County,1.03,River Rd,Patterson Ave,8600,G,98%,0%,1%,0%,0%,0%,F,0.1055,F,0.5567,9300,G,2009,,,,,,,,,,,,,,,
+665351,  43,07514,     ,43-7514,Gaskins Rd,043,Henrico County,043,Henrico County,0.96,Quioccasin Rd,Ridgefield Pkwy,19000,G,98%,0%,1%,0%,0%,0%,C,0.1017,F,0.6031,21000,G,2009,,,,,,,,,,,,,,,
+665352,  43,07514,     ,43-7514,Gaskins Rd,043,Henrico County,043,Henrico County,0.83,Ridgefield Pkwy,Three Chopt Rd,29000,G,98%,0%,1%,0%,0%,0%,F,0.0995,F,0.6522,32000,G,2009,,,,,,,,,,,,,,,
+665353,  43,07514,     ,43-7514,Gaskins Rd,043,Henrico County,043,Henrico County,0.13,Three Chopt Rd,I-64,35000,G,98%,0%,1%,0%,0%,0%,F,0.0995,F,0.6574,38000,G,2009,,,,,,,,,,,,,,,
+665354,  43,07514,     ,43-7514,Gaskins Rd,043,Henrico County,043,Henrico County,0.92,I-64,Broad St,40000,G,98%,0%,1%,0%,0%,0%,F,0.1068,F,0.5532,43000,G,2009,,,,,,,,,,,,,,,
+665355,  43,07514,     ,43-7514,Gaskins Rd,043,Henrico County,043,Henrico County,0.59,Broad St,Springfield Rd,18000,G,98%,0%,1%,0%,0%,0%,F,0.1046,F,0.5854,20000,G,2009,,,,,,,,,,,,,,,
+745352,  43,07516,     ,43-7516,Ridgefield Parkway,043,Henrico County,043,Henrico County,0.32,Dead End,43-7703 Lauderdale Dr,520,G,99%,0%,0%,0%,0%,0%,F,0.1030,F,0.6279,560,G,2009,,,,,,,,,,,,,,,
+665667,  43,07516,     ,43-7516,Ridgefield Parkway,043,Henrico County,043,Henrico County,0.32,Lauderdale Rd,Gayton Rd,1700,G,99%,0%,0%,0%,0%,0%,F,0.1184,F,0.5915,1900,G,2009,,,,,,,,,,,,,,,
+565075,  43,07516,     ,43-7516,Ridgefield Pkwy,043,Henrico County,043,Henrico County,1.85,Gayton Rd,Pump Rd,11000,G,99%,0%,0%,0%,0%,0%,C,0.0944,F,0.6224,12000,G,2009,,,,,,,,,,,,,,,
+565076,  43,07516,     ,43-7516,Ridgefield Pkwy,043,Henrico County,043,Henrico County,1.34,Pump Rd,Gaskins Rd,12000,G,99%,0%,0%,0%,0%,0%,F,0.0956,F,0.6716,13000,G,2009,,,,,,,,,,,,,,,
+665176,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,1.91,River Rd,SR 6 Patterson Ave,28000,G,98%,0%,1%,0%,0%,0%,F,0.1043,F,0.5076,32000,G,2009,,,,,,,,,,,,,,,
+665165,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,0.51,SR 6 Patterson Ave,Quioccasin Rd,26000,G,98%,0%,1%,0%,0%,0%,F,0.0836,F,0.5233,30000,G,2009,,,,,,,,,,,,,,,
+665657,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,0.67,Quioccasin Rd,Three Chopt Rd,33000,G,98%,0%,1%,0%,0%,0%,F,0.0825,F,0.5467,38000,G,2009,,,,,,,,,,,,,,,
+665166,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,0.95,Three Chopt Rd,I-64,33000,G,98%,0%,1%,0%,0%,0%,F,0.0824,F,0.5459,38000,G,2009,,,,,,,,,,,,,,,
+665167,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,1.22,I-64,US 250 Broad St,24000,G,98%,0%,1%,0%,0%,0%,F,0.0836,F,0.5338,28000,G,2009,,,,,,,,,,,,,,,
+665168,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,0.91,US 250 Broad St,Hungary Springs Rd,21000,G,98%,0%,1%,0%,0%,0%,F,0.0779,F,0.5165,24000,G,2009,,,,,,,,,,,,,,,
+665658,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,0.66,Hungary Springs Rd,US 33 Staples Mill Road,24000,G,98%,0%,1%,0%,0%,0%,C,0.0837,F,0.0000,27000,G,2009,,,,,,,,,,,,,,,
+140121,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,1.08,US 33 Staples Mill Road,43-7663 Woodman Road,27000,A,98%,0%,1%,0%,0%,0%,C,0.1068,A,0.5865,31000,A,2009,,,,,,,,,,,,,,,
+665169,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,1.91,43-7663 Woodman Road,US 1 Brook Rd,27000,G,98%,0%,1%,0%,1%,0%,C,0.0884,F,0.5220,31000,G,2009,See Route SR 73 for Parham Rd between US 1 and I-95.,,,,,,,,,,,,,,
+665183,  43,07518,     ,43-7518,Parham Rd,043,Henrico County,043,Henrico County,1.48,I-95,"US 301, SR 2 Chamberlayne Ave",17000,G,97%,0%,1%,1%,1%,0%,C,0.0979,F,0.5260,19000,G,2009,See Route SR 73 for Parham Rd between US 1 and I-95.,,,,,,,,,,,,,,
+665386,  43,07526,     ,43-7526,Hungary Rd,043,Henrico County,043,Henrico County,1.07,SR 157 Springfield Rd,West End Dr,17000,G,99%,0%,1%,0%,0%,0%,F,0.1088,F,0.5577,18000,G,2009,,,,,,,,,,,,,,,
+665387,  43,07526,     ,43-7526,Hungary Rd,043,Henrico County,043,Henrico County,1.32,West End Dr,US 33 Staples Mill Rd,17000,G,99%,0%,1%,0%,0%,0%,C,0.1098,F,0.5002,19000,G,2009,,,,,,,,,,,,,,,
+665388,  43,07526,     ,43-7526,Hungary Rd,043,Henrico County,043,Henrico County,0.53,US 33 Staples Mill Rd,Old Staples Mill Rd,12000,G,98%,0%,1%,0%,0%,0%,F,0.1068,F,0.5052,13000,G,2009,,,,,,,,,,,,,,,
+665389,  43,07526,     ,43-7526,Hungary Rd,043,Henrico County,043,Henrico County,0.13,Old Staples Mill Rd,Purcell Rd,15000,G,98%,0%,1%,0%,0%,0%,F,0.1047,F,0.5149,16000,G,2009,,,,,,,,,,,,,,,
+665390,  43,07526,     ,43-7526,Hungary Rd,043,Henrico County,043,Henrico County,0.71,Purcell Rd,Woodman Rd,9800,G,98%,0%,1%,0%,0%,0%,F,0.1054,F,0.5165,11000,G,2009,,,,,,,,,,,,,,,
+665391,  43,07526,     ,43-7526,Hungary Rd,043,Henrico County,043,Henrico County,2.08,Woodman Rd,Parham Rd,5200,G,98%,0%,1%,0%,0%,0%,C,0.1068,F,0.6533,5700,G,2009,,,,,,,,,,,,,,,
+665175,  43,07536,     ,43-7536,Horsepen Rd,043,Henrico County,043,Henrico County,0.24,Three Chopt Rd,Glenside Dr,21000,G,99%,0%,0%,0%,0%,0%,F,0.0850,F,0.5117,22000,G,2009,,,,,,,,,,,,,,,
+665147,  43,07536,     ,43-7536,Glenside Dr,043,Henrico County,043,Henrico County,0.48,Horsepen Rd,Forest Ave,19000,G,99%,0%,0%,0%,0%,0%,C,0.0852,F,0.5382,20000,G,2009,,,,,,,,,,,,,,,
+665364,  43,07536,     ,43-7536,Glenside Dr,043,Henrico County,043,Henrico County,0.15,Forest Ave,I-64,32000,G,99%,0%,0%,0%,0%,0%,F,0.0878,F,0.5822,36000,G,2009,,,,,,,,,,,,,,,
+665365,  43,07536,     ,43-7536,Glenside Dr,043,Henrico County,043,Henrico County,0.41,I-64,Broad St,24000,G,98%,0%,1%,0%,0%,0%,C,0.0911,F,0.5534,27000,G,2009,,,,,,,,,,,,,,,
+665148,  43,07536,     ,43-7536,Glenside Dr,043,Henrico County,043,Henrico County,1.30,Broad St,Staples Mill Rd,15000,G,98%,0%,1%,0%,0%,0%,C,0.0981,F,0.5784,17000,G,2009,,,,,,,,,,,,,,,
+665316,  43,07537,     ,43-7537,Masonic Home Ln,043,Henrico County,043,Henrico County,0.46,Nine Mile Rd,Brittles Lane,11000,G,94%,1%,1%,2%,2%,0%,F,0.0842,F,0.5662,12000,G,2009,,,,,,,,,,,,,,,
+665317,  43,07537,     ,43-7537,Brittles Ln,043,Henrico County,043,Henrico County,1.10,Masonic Home Lane,Williamsburg Rd,9300,G,94%,1%,1%,2%,2%,0%,C,0.0907,F,0.5638,10000,G,2009,,,,,,,,,,,,,,,
+665162,  43,07538,     ,43-7538,Monument Ave,043,Henrico County,043,Henrico County,1.42,Horsepen Rd,Libbie Ave,17000,G,99%,0%,0%,0%,0%,0%,F,0.0997,F,0.6536,19000,G,2009,,,,,,,,,,,,,,,
+665161,  43,07538,     ,43-7538,Monument Ave,043,Henrico County,043,Henrico County,0.57,Libbie Ave,Willow Lawn Dr,18000,G,99%,0%,0%,0%,0%,0%,C,0.1056,F,0.5703,19000,G,2009,,,,,,,,,,,,,,,
+665645,  43,07538,     ,43-7538,Monument Ave,043,Henrico County,043,Henrico County,0.22,Willow Lawn Dr,WCL Richmond,19000,G,99%,0%,0%,0%,0%,0%,F,0.1087,F,0.5442,21000,G,2009,,,,,,,,,,,,,,,
+665312,  43,07539,     ,43-7539,Beulah Rd,043,Henrico County,043,Henrico County,3.03,Charles City Rd,Roy Rd,1700,G,87%,1%,1%,7%,3%,0%,C,0.0931,F,0.5211,1800,G,2009,,,,,,,,,,,,,,,
+665313,  43,07539,     ,43-7539,Beulah Rd,043,Henrico County,043,Henrico County,0.40,Roy Rd,Williamsburg Rd,3100,G,87%,1%,1%,7%,3%,0%,F,0.1243,F,0.5631,3400,G,2009,,,,,,,,,,,,,,,
+665385,  43,07540,     ,43-7540,Horsepen Rd,043,Henrico County,043,Henrico County,0.49,Glenside Drive,Miami Ave,5500,G,99%,0%,1%,0%,0%,0%,C,0.0934,F,0.5638,6000,G,2009,,,,,,,,,,,,,,,
+665149,  43,07540,     ,43-7540,Horsepen Rd,043,Henrico County,043,Henrico County,0.61,Miami Ave,Broad St Rd,7100,G,99%,0%,1%,0%,0%,0%,F,0.0934,F,0.5919,7700,G,2009,,,,,,,,,,,,,,,
+665336,  43,07546,     ,43-7546,Dickens Rd,043,Henrico County,043,Henrico County,0.36,Broad St,Falmouth St,3800,G,98%,1%,1%,0%,0%,0%,C,0.1132,F,0.5752,4100,G,2009,,,,,,,,,,,,,,,
+665337,  43,07546,     ,43-7546,Dickens Rd,043,Henrico County,043,Henrico County,0.25,Falmouth St,Bethlehem Rd,4500,G,98%,1%,1%,0%,0%,0%,F,0.1124,F,0.5117,4900,G,2009,,,,,,,,,,,,,,,
+665338,  43,07546,     ,43-7546,Dickens Rd,043,Henrico County,043,Henrico County,0.13,Bethlehem Rd,I-64,5700,G,98%,1%,1%,0%,0%,0%,F,0.1098,F,0.5121,6200,G,2009,,,,,,,,,,,,,,,
+665339,  43,07546,     ,43-7546,Dickens Rd,043,Henrico County,043,Henrico County,0.56,I-64,Staples Mill Rd,6600,G,98%,1%,1%,0%,0%,0%,F,0.1026,F,0.7336,7100,G,2009,,,,,,,,,,,,,,,
+665371,  43,07550,     ,43-7550,Hermitage Rd,043,Henrico County,043,Henrico County,1.74,Staples Mill Rd,Woodman Rd,4100,G,98%,0%,1%,0%,0%,0%,C,0.1294,F,0.7089,4400,G,2009,,,,,,,,,,,,,,,
+665344,  43,07552,     ,43-7552,Dumbarton Rd,043,Henrico County,043,Henrico County,1.34,Staples Mill Rd,Lakeside Ave,11000,G,98%,0%,1%,0%,0%,0%,C,0.1097,F,0.5965,12000,G,2009,,,,,,,,,,,,,,,
+665345,  43,07552,     ,43-7552,Dumbarton Rd,043,Henrico County,043,Henrico County,0.72,Lakeside Ave,WCL Richmond,9100,G,98%,0%,1%,0%,0%,0%,F,0.1076,F,0.6291,9800,G,2009,,,,,,,,,,,,,,,
+665151,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,1.86,New Market Rd,Darbytown Rd,14000,G,98%,0%,1%,0%,0%,0%,F,0.0944,F,0.6033,14000,G,2009,,,,,,,,,,,,,,,
+665152,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,1.55,Darbytown Rd,Charles City Rd,24000,G,98%,0%,1%,0%,0%,0%,F,0.0877,F,0.6195,24000,G,2009,,,,,,,,,,,,,,,
+665397,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,0.94,Charles City Rd,Williamsburg Rd,23000,G,98%,0%,1%,0%,0%,0%,F,0.0769,F,0.5527,23000,G,2009,,,,,,,,,,,,,,,
+665398,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,1.11,Williamsburg Rd,I-64,36000,G,98%,0%,1%,0%,0%,0%,F,0.0796,F,0.5110,36000,G,2009,,,,,,,,,,,,,,,
+665399,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,1.08,I-64,Nine Mile Rd,21000,G,98%,0%,1%,0%,0%,0%,F,0.0872,F,0.5212,21000,G,2009,,,,,,,,,,,,,,,
+140122,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,1.27,Nine Mile Rd,Creighton Rd,23000,G,98%,0%,1%,0%,0%,0%,F,0.0921,F,0.5227,23000,G,2009,,,,,,,,,,,,,,,
+665631,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,1.65,Creighton Rd,Mechanicsville Tpke,25000,A,98%,0%,1%,0%,0%,0%,C,0.1000,A,0.5627,25000,A,2009,,,,,,,,,,,,,,,
+665632,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,1.20,Mechanicsville Tpke,Carolina Ave,28000,G,97%,1%,1%,0%,1%,0%,C,0.0942,F,0.0000,28000,G,2009,,,,,,,,,,,,,,,
+665633,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,0.50,Carolina Ave,Richmond-Henrico Tpke,19000,G,98%,0%,1%,0%,0%,0%,F,0.0903,F,0.5786,18000,G,2009,,,,,,,,,,,,,,,
+665634,  43,07555,     ,43-7555,Laburnum Ave,043,Henrico County,043,Henrico County,0.80,Richmond-Henrico Tpke,ECL Richmond,22000,G,98%,0%,1%,0%,0%,0%,F,0.0920,F,0.5829,22000,G,2009,,,,,,,,,,,,,,,
+665635,  43,07557,     ,43-7557,Lewis Rd,043,Henrico County,043,Henrico County,1.26,Charles City Rd,Williamsburg Rd,4200,G,92%,1%,1%,2%,4%,0%,C,0.0783,F,0.5648,4600,G,2009,,,,,,,,,,,,,,,
+665646,  43,07558,     ,43-7558,Mountain Rd,043,Henrico County,043,Henrico County,2.26,Staples Mill Rd,Old Washington Hwy,5200,G,98%,1%,1%,0%,0%,0%,C,0.1079,F,0.5299,5600,G,2009,,,,,,,,,,,,,,,
+665647,  43,07558,     ,43-7558,Mountain Rd,043,Henrico County,043,Henrico County,0.89,Old Washington Hwy,Woodman Rd,7900,G,98%,0%,1%,0%,0%,0%,C,0.1040,F,0.5988,8500,G,2009,,,,,,,,,,,,,,,
+665648,  43,07558,     ,43-7558,Mountain Rd,043,Henrico County,043,Henrico County,2.20,Woodman Rd,Brook Rd,4200,G,98%,0%,1%,0%,0%,0%,F,0.0976,F,0.6185,4500,G,2009,,,,,,,,,,,,,,,
+665331,  43,07559,     ,43-7559,Darbytown  Rd,043,Henrico County,043,Henrico County,0.77,ECL Richmond,Louisa Street,6700,G,97%,0%,1%,1%,0%,0%,C,0.0858,F,0.6078,7300,G,2009,,,,,,,,,,,,,,,
+665332,  43,07559,     ,43-7559,Darbytown Rd,043,Henrico County,043,Henrico County,2.24,Louisa Street,43-7555 Laburnum Ave,5900,G,97%,0%,1%,1%,0%,0%,F,0.0837,F,0.5781,6400,G,2009,,,,,,,,,,,,,,,
+665333,  43,07559,     ,43-7559,Darbytown Rd,043,Henrico County,043,Henrico County,5.28,43-7555 Laburnum Ave,Bradbury Rd,3000,G,97%,0%,1%,1%,0%,0%,F,0.0889,F,0.8102,3200,G,2009,,,,,,,,,,,,,,,
+665334,  43,07559,     ,43-7559,Darbytown Rd,043,Henrico County,043,Henrico County,2.54,Bradbury Rd,Willis Church Rd,1800,G,97%,0%,1%,1%,0%,0%,F,0.0997,F,0.8176,1900,G,2009,,,,,,,,,,,,,,,
+665649,  43,07565,     ,43-7565,Osborne Tpke,043,Henrico County,043,Henrico County,3.12,Kingsland Rd,Mill Rd,760,G,98%,0%,1%,0%,1%,0%,F,0.1083,F,0.7184,820,G,2009,,,,,,,,,,,,,,,
+665164,  43,07565,     ,43-7565,Osborne Tpke,043,Henrico County,043,Henrico County,3.34,Mill Rd,SR 5 New Market Rd,1500,G,98%,0%,1%,0%,1%,0%,C,0.1018,F,0.7475,1700,G,2009,,,,,,,,,,,,,,,
+665650,  43,07565,     ,43-7565,New Osborne Tpke,043,Henrico County,043,Henrico County,0.81,SR 5 New Market Rd,SCL Richmond,1700,G,98%,0%,1%,0%,1%,0%,F,0.1049,F,0.6010,1800,G,2009,,,,,,,,,,,,,,,
+665001,  43,07581,     ,43-7581,Airport Dr South,043,Henrico County,043,Henrico County,1.18,Airport Entrance,US 60 Williamsburg Rd,16000,G,97%,1%,1%,0%,1%,0%,C,0.0738,F,0.6143,18000,G,2009,,,,,,,,,,,,,,,
+665340,  43,07586,     ,43-7586,Dill Ave,043,Henrico County,043,Henrico County,0.66,ECL Richmond,Mechanicsville Tpke,4400,G,99%,0%,1%,0%,0%,0%,C,0.1013,F,0.6601,4800,G,2009,,,,,,,,,,,,,,,
+665342,  43,07589,     ,43-7589,Dry Bridge Rd,043,Henrico County,043,Henrico County,1.16,US 60 Williamsburg Rd,Ponderosa Dr,770,G,76%,1%,1%,17%,5%,0%,C,0.0984,F,0.5532,840,G,2009,,,,,,,,,,,,,,,
+665343,  43,07589,     ,43-7589,Grapevine Rd,043,Henrico County,043,Henrico County,1.51,Meadow Rd,SR 156; Old Hanover Rd,810,G,76%,1%,1%,17%,5%,0%,F,0.1106,F,0.5853,880,G,2009,,,,,,,,,,,,,,,
+665369,  43,07591,     ,43-7591,Hanover Rd,043,Henrico County,043,Henrico County,1.54,Nine Mile Rd,Airport Dr,2500,G,99%,0%,1%,0%,0%,0%,C,0.1005,F,0.5710,2700,G,2009,,,,,,,,,,,,,,,
+665694,  43,07594,     ,43-7594,Wilkinson Rd,043,Henrico County,043,Henrico County,0.83,US 1 Brook Rd,Ridge Rd,8500,G,98%,1%,1%,0%,0%,0%,C,0.0942,F,0.0000,9300,G,2009,,,,,,,,,,,,,,,
+665695,  43,07594,     ,43-7594,Wilkinson Rd,043,Henrico County,043,Henrico County,0.48,Ridge Rd,US 301 Chamberlayne Ave,6000,G,98%,0%,1%,0%,0%,0%,C,0.1016,F,0.5593,6500,G,2009,,,,,,,,,,,,,,,
+665696,  43,07594,     ,43-7594,Wilkinson Rd,043,Henrico County,043,Henrico County,0.56,US 301 Chamberlayne Ave,Diane Lane,6500,G,98%,0%,1%,0%,0%,0%,F,0.0953,F,0.5712,7100,G,2009,,,,,,,,,,,,,,,
+745366,  43,07594,     ,43-7594,Wilkinson Rd,043,Henrico County,043,Henrico County,1.44,43-7596 Azalea Ave,1.44 MN Azalea Near Diane Lane,5500,G,,,,,,,X,0.0859,F,0.5242,6000,G,2009,,,,,,,,,,,,,,,
+665304,  43,07596,     ,43-7596,Azalea Ave,043,Henrico County,043,Henrico County,1.33,ECL Richmond,Richmond-Henrico Tpke,13000,G,98%,1%,1%,0%,1%,0%,C,0.0946,F,0.5644,14000,G,2009,,,,,,,,,,,,,,,
+665381,  43,07607,     ,43-7607,Oakleys Lane,043,Henrico County,043,Henrico County,1.33,Williamsburg Rd,Holly Ave,6500,G,99%,0%,1%,0%,0%,0%,F,0.0881,F,0.5634,7100,G,2009,,,,,,,,,,,,,,,
+665382,  43,07607,     ,43-7607,Holly Ave,043,Henrico County,043,Henrico County,1.03,Oakleys Lane,Nine Mile Rd,3300,G,99%,0%,1%,0%,0%,0%,C,0.0971,F,0.6099,3500,G,2009,,,,,,,,,,,,,,,
+665383,  43,07607,     ,43-7607,Holly Ave,043,Henrico County,043,Henrico County,0.49,Nine Mile Rd,W. Washington St,720,G,99%,0%,1%,0%,0%,0%,F,0.1202,F,0.5646,780,G,2009,,,,,,,,,,,,,,,
+665384,  43,07607,     ,43-7607,W. Washington St,043,Henrico County,043,Henrico County,0.76,Washington St,SR 156; 43-7591,1700,G,99%,0%,1%,0%,0%,0%,F,0.1044,F,0.6522,1800,G,2009,,,,,,,,,,,,,,,
+665640,  43,07609,     ,43-7609,Meadowbridge Rd,043,Henrico County,043,Henrico County,0.23,NCL Richmond,Laburnum Ave,6200,G,99%,0%,1%,0%,0%,0%,F,0.0895,F,0.5932,6700,G,2009,,,,,,,,,,,,,,,
+665641,  43,07609,     ,43-7609,Richmond-Henrico Tpke,043,Henrico County,043,Henrico County,1.28,Laburnum Ave,Azalea Ave,6100,G,99%,0%,1%,0%,0%,0%,C,0.0963,F,0.5885,6700,G,2009,,,,,,,,,,,,,,,
+665642,  43,07609,     ,43-7609,Richmond-Henrico Tpke,043,Henrico County,043,Henrico County,1.17,Azalea Ave,Hanover County Line,7700,G,99%,0%,1%,0%,0%,0%,F,0.1021,F,0.6712,8300,G,2009,,,,,,,,,,,,,,,
+665330,  43,07613,     ,43-7613,Dabbs House Rd,043,Henrico County,043,Henrico County,1.58,Nine Mile Rd,Creighton Rd,3000,G,97%,1%,1%,0%,0%,0%,C,0.0993,F,0.5914,3300,G,2009,,,,,,,,,,,,,,,
+665320,  43,07617,     ,43-7617,Cedar Fork Rd,043,Henrico County,043,Henrico County,1.51,West Cedar Fork Rd,Creighton Rd,8300,G,,,,,,,X,0.1069,F,0.5767,9000,G,2009,,,,,,,,,,,,,,,
+665328,  43,07618,     ,43-7618,Creighton Rd,043,Henrico County,043,Henrico County,1.51,ECL Richmond,Laburnum Ave,2900,G,99%,0%,1%,0%,0%,0%,C,0.1002,F,0.6753,3200,G,2009,,,,,,,,,,,,,,,
+665329,  43,07618,     ,43-7618,Creighton Rd,043,Henrico County,043,Henrico County,2.56,Laburnum Ave,Hanover County Line,11000,G,99%,0%,1%,0%,0%,0%,F,0.1090,F,0.5329,11000,G,2009,,,,,,,,,,,,,,,
+665370,  43,07622,     ,43-7622,Harvie Rd,043,Henrico County,043,Henrico County,1.02,Mechanicsville Tpke,Laburnum Ave,5500,G,99%,0%,1%,0%,0%,0%,C,0.0992,F,0.6647,5900,G,2009,,,,,,,,,,,,,,,
+665639,  43,07628,     ,43-7628,Meadow Rd,043,Henrico County,043,Henrico County,2.19,Hanover Rd,Grapevine Rd,690,G,99%,0%,0%,0%,0%,0%,C,0.1145,F,0.5955,750,G,2009,,,,,,,,,,,,,,,
+665157,  43,07641,     ,43-7641,Libbie Ave,043,Henrico County,043,Henrico County,0.16,ECL Richmond,Monument Ave,12000,G,99%,0%,1%,0%,0%,0%,F,0.0860,F,0.5528,13000,G,2009,,,,,,,,,,,,,,,
+665158,  43,07641,     ,43-7641,Libbie Ave,043,Henrico County,043,Henrico County,0.56,Monument Ave,Broad St,15000,G,99%,0%,1%,0%,0%,0%,C,0.0843,F,0.5013,16000,G,2009,,,,,,,,,,,,,,,
+665159,  43,07641,     ,43-7641,Libbie Ave,043,Henrico County,043,Henrico County,0.48,Broad St,Bethlehem Rd,8700,G,99%,0%,1%,0%,0%,0%,F,0.0803,F,0.5255,9400,G,2009,,,,,,,,,,,,,,,
+665678,  43,07645,     ,43-7645,Three Chopt Rd,043,Henrico County,043,Henrico County,0.17,WCL Richmond,Horsepen Rd,13000,G,99%,0%,1%,0%,0%,0%,F,0.0870,F,0.5100,15000,G,2009,,,,,,,,,,,,,,,
+665679,  43,07645,     ,43-7645,Three Chopt Rd,043,Henrico County,043,Henrico County,0.37,Horsepen Rd,Skipwith Rd,13000,G,99%,0%,1%,0%,0%,0%,F,0.0971,F,0.5756,14000,G,2009,,,,,,,,,,,,,,,
+665680,  43,07645,     ,43-7645,Three Chopt Rd,043,Henrico County,043,Henrico County,0.49,Skipwith Rd,Forest Ave,11000,G,99%,0%,1%,0%,0%,0%,C,0.0976,F,0.6110,12000,G,2009,,,,,,,,,,,,,,,
+665681,  43,07645,     ,43-7645,Three Chopt Rd,043,Henrico County,043,Henrico County,0.79,Forest Ave,Eastridge Rd,18000,G,97%,1%,1%,0%,0%,0%,F,0.0986,F,0.6167,20000,G,2009,,,,,,,,,,,,,,,
+665682,  43,07645,     ,43-7645,Three Chopt Rd,043,Henrico County,043,Henrico County,0.62,Eastridge Rd,Parham Rd,13000,G,97%,1%,1%,0%,0%,0%,C,0.0905,F,0.0000,14000,G,2009,,,,,,,,,,,,,,,
+665683,  43,07645,     ,43-7645,Three Chopt Rd,043,Henrico County,043,Henrico County,1.32,Parham Rd,Pemberton Ave,9700,G,99%,0%,0%,0%,0%,0%,C,0.0897,F,0.5322,11000,G,2009,,,,,,,,,,,,,,,
+665306,  43,07647,     ,43-7647,Dabney Rd,043,Henrico County,043,Henrico County,1.24,Westwood Ave,Bethlehem Rd,5900,G,91%,2%,1%,1%,4%,0%,F,0.1231,F,0.6033,6400,G,2009,,,,,,,,,,,,,,,
+665307,  43,07647,     ,43-7647,Bethlehem Rd,043,Henrico County,043,Henrico County,0.39,Dabney Rd,US 33 Staples Mill Rd,6400,G,91%,2%,1%,1%,4%,0%,C,0.1217,F,0.6139,6900,G,2009,,,,,,,,,,,,,,,
+665308,  43,07647,     ,43-7647,Bethlehem Rd,043,Henrico County,043,Henrico County,0.84,US 33 Staples Mill Rd,Dickens Rd,4900,G,98%,0%,1%,1%,0%,0%,F,0.1059,F,0.5530,5300,G,2009,,,,,,,,,,,,,,,
+665309,  43,07647,     ,43-7647,Bethlehem Rd,043,Henrico County,043,Henrico County,0.92,Dickens Rd,Glenside Drive,5300,G,98%,0%,1%,1%,0%,0%,C,0.1204,F,0.6485,5700,G,2009,,,,,,,,,,,,,,,
+665310,  43,07647,     ,43-7647,Bethlehem Rd,043,Henrico County,043,Henrico County,0.33,Glenside Drive,Basie Rd,3700,G,98%,0%,1%,1%,0%,0%,F,0.0977,F,0.6596,4100,G,2009,,,,,,,,,,,,,,,
+665311,  43,07647,     ,43-7647,Bethlehem Rd,043,Henrico County,043,Henrico County,0.18,Basie Rd,Broad St,3800,G,98%,0%,1%,1%,0%,0%,F,0.0961,F,0.6173,4100,G,2009,,,,,,,,,,,,,,,
+665665,  43,07649,     ,43-7649,Ridge Rd,043,Henrico County,043,Henrico County,0.69,River Rd,Forest Ave,8000,G,99%,0%,0%,0%,0%,0%,C,0.1008,F,0.6218,8700,G,2009,,,,,,,,,,,,,,,
+665666,  43,07649,     ,43-7649,Ridge Rd,043,Henrico County,043,Henrico County,0.98,Forest Ave,Parham Rd,5000,G,99%,0%,0%,0%,0%,0%,F,0.0846,F,0.6158,5400,G,2009,,,,,,,,,,,,,,,
+665677,  43,07651,     ,43-7651,Sleepy Hollow Dr,043,Henrico County,043,Henrico County,1.07,River Rd,Derbyshire Rd,1700,G,98%,0%,1%,0%,0%,0%,C,0.0963,F,0.6311,1900,G,2009,,,,,,,,,,,,,,,
+665319,  43,07655,     ,43-7655,Carolina Ave,043,Henrico County,043,Henrico County,1.67,Laburnum Ave,Richmond-Henrico Tpke,7800,G,96%,1%,1%,1%,2%,0%,C,0.0865,F,0.5066,8400,G,2009,,,,,,,,,,,,,,,
+665348,  43,07657,     ,43-7657,Forest Ave,043,Henrico County,043,Henrico County,0.86,Ridge Rd,Patterson Ave,9500,G,99%,0%,1%,0%,0%,0%,C,0.1111,F,0.6672,10000,G,2009,,,,,,,,,,,,,,,
+665182,  43,07657,     ,43-7657,Forest Ave,043,Henrico County,043,Henrico County,0.42,Patterson Ave,Three Chopt Rd,8900,G,99%,0%,1%,0%,0%,0%,F,0.1068,F,0.7313,9600,G,2009,,,,,,,,,,,,,,,
+665181,  43,07657,     ,43-7657,Forest Ave,043,Henrico County,043,Henrico County,1.43,Three Chopt Rd,Glenside Dr,19000,G,99%,0%,1%,0%,0%,0%,F,0.0946,F,0.6126,20000,G,2009,,,,,,,,,,,,,,,
+665373,  43,07663,     ,43-7663,Hermitage Rd,043,Henrico County,043,Henrico County,0.94,Dumbarton Rd,SR 356; Hilliard Rd,3000,G,98%,1%,1%,0%,0%,0%,F,0.1120,F,0.5000,3200,G,2009,,,,,,,,,,,,,,,
+665374,  43,07663,     ,43-7663,Hermitage Rd,043,Henrico County,043,Henrico County,0.25,SR 356; Hilliard Rd,43-7550 Woodman Rd,9000,G,98%,1%,1%,0%,0%,0%,C,0.1190,F,0.5641,9800,G,2009,,,,,,,,,,,,,,,
+665375,  43,07663,     ,43-7663,Woodman Rd,043,Henrico County,043,Henrico County,1.65,43-7550 Hermitage Rd,43-7518 Parham Rd,8000,G,98%,1%,1%,0%,0%,0%,C,0.1211,F,0.5782,8600,G,2009,,,,,,,,,,,,,,,
+665376,  43,07663,     ,43-7663,Woodman Rd,043,Henrico County,043,Henrico County,0.23,43-7518 Parham Rd,43-7526 Hungary Rd,15000,G,98%,1%,1%,0%,0%,0%,F,0.1063,F,0.6871,16000,G,2009,,,,,,,,,,,,,,,
+665377,  43,07663,     ,43-7663,Woodman Rd,043,Henrico County,043,Henrico County,0.27,43-7526 Hungary Rd,Aeronca Ave; Ramsey Ct,14000,G,97%,1%,1%,0%,0%,0%,F,0.0997,F,0.6073,15000,G,2009,,,,,,,,,,,,,,,
+665378,  43,07663,     ,43-7663,Woodman Rd,043,Henrico County,043,Henrico County,1.36,Aeronca Ave; Ramsey Ct,43-7558 Mountain Rd,12000,G,97%,1%,1%,0%,0%,0%,C,0.1102,F,0.5848,13000,G,2009,,,,,,,,,,,,,,,
+665379,  43,07663,     ,43-7663,Woodman Rd,043,Henrico County,043,Henrico County,0.11,43-7558 Mountain Rd,I-295,18000,G,97%,1%,1%,0%,0%,0%,F,0.1151,F,0.6110,20000,G,2009,,,,,,,,,,,,,,,
+665380,  43,07663,     ,43-7663,Woodman Rd,043,Henrico County,043,Henrico County,0.46,I-295,43-7685 Greenwood Rd,7000,G,97%,1%,1%,0%,0%,0%,F,0.1094,F,0.5848,7600,G,2009,,,,,,,,,,,,,,,
+665660,  43,07665,     ,43-7665,Pump Rd,043,Henrico County,043,Henrico County,0.74,SR 6 Patterson Ave,Gayton Rd,10000,G,99%,0%,0%,0%,0%,0%,C,0.0979,F,0.5213,11000,G,2009,,,,,,,,,,,,,,,
+665661,  43,07665,     ,43-7665,Pump Rd,043,Henrico County,043,Henrico County,1.04,Gayton Rd,Ridgefield Pkwy,12000,G,99%,0%,0%,0%,0%,0%,F,0.0969,F,0.5796,13000,G,2009,,,,,,,,,,,,,,,
+665662,  43,07665,     ,43-7665,Pump Rd,043,Henrico County,043,Henrico County,0.87,Ridgefield Pkwy,Church Rd,12000,G,99%,0%,0%,0%,0%,0%,F,0.0934,F,0.5219,13000,G,2009,,,,,,,,,,,,,,,
+665663,  43,07665,     ,43-7665,Pump Rd,043,Henrico County,043,Henrico County,1.36,Church Rd,US 250 Broad St,12000,G,99%,0%,1%,0%,0%,0%,C,0.0943,F,0.5262,13000,G,2009,,,,,,,,,,,,,,,
+665674,  43,07667,     ,43-7667,Skipwith Rd,043,Henrico County,043,Henrico County,0.53,Three Chopt Rd,Forest Ave,4800,G,98%,0%,1%,0%,0%,0%,F,0.1024,F,0.6357,5200,G,2009,,,,,,,,,,,,,,,
+665675,  43,07667,     ,43-7667,Skipwith Rd,043,Henrico County,043,Henrico County,0.92,Forest Ave,Hungary Springs Rd,11000,G,98%,0%,1%,0%,0%,0%,F,0.1045,F,0.5754,12000,G,2009,,,,,,,,,,,,,,,
+665676,  43,07667,     ,43-7667,Skipwith Rd,043,Henrico County,043,Henrico County,0.77,Hungary Springs Rd,Parham Rd,5500,G,98%,0%,1%,0%,0%,0%,C,0.0980,F,0.5488,6000,G,2009,,,,,,,,,,,,,,,
+665392,  43,07679,     ,43-7679,Hungary Springs Rd,043,Henrico County,043,Henrico County,0.64,Skipwith Rd,Broad St,9100,G,,,,,,,X,0.0991,F,0.5014,9900,G,2009,,,,,,,,,,,,,,,
+665393,  43,07679,     ,43-7679,Hungary Springs Rd,043,Henrico County,043,Henrico County,0.66,Broad St,Parham Rd,11000,G,,,,,,,X,,,,13000,G,2009,,,,,,,,,,,,,,,
+665394,  43,07679,     ,43-7679,Hungary Springs Rd,043,Henrico County,043,Henrico County,0.84,Parham Rd,Staples Mill Rd,12000,G,,,,,,,X,,,,13000,G,2009,,,,,,,,,,,,,,,
+665366,  43,07685,     ,43-7685,Greenwood Rd,043,Henrico County,043,Henrico County,1.67,Mountain Rd,Woodman Rd,3200,G,98%,0%,1%,0%,0%,0%,F,0.1011,F,0.5598,3400,G,2009,,,,,,,,,,,,,,,
+655367,  43,07685,     ,43-7685,Greenwood Rd,043,Henrico County,043,Henrico County,1.00,Woodman Rd,Branch Rd,3400,G,98%,0%,1%,0%,0%,0%,C,0.1059,F,0.6861,3700,G,2009,,,,,,,,,,,,,,,
+665368,  43,07685,     ,43-7685,Greenwood Rd,043,Henrico County,043,Henrico County,1.77,Branch Rd,Hanover County Line,1500,G,98%,0%,1%,0%,0%,0%,F,0.1159,F,0.7224,1600,G,2009,,,,,,,,,,,,,,,
+665664,  43,07687,     ,43-7687,Purcell Rd,043,Henrico County,043,Henrico County,1.53,Hungary Rd,Mountain Rd,3300,G,99%,0%,0%,0%,0%,0%,C,0.1157,F,0.5877,3600,G,2009,,,,,,,,,,,,,,,
+745368,  43,07689,     ,43-7689,Gordon Ln,043,Henrico County,043,Henrico County,0.49,SR 33 Nine Mile Rd,43-7618 Creighton Rd,3600,G,98%,1%,1%,0%,0%,0%,C,0.0946,F,0.5025,4000,G,2009,,,,,,,,,,,,,,,
+565066,  43,07703,     ,43-7703,Lauderdale Rd,043,Henrico County,043,Henrico County,1.26,Patterson Ave,John Rolfe Pkwy,7500,G,99%,0%,1%,0%,0%,0%,F,0.1013,F,0.5774,8100,G,2009,,,,,,,,,,,,,,,
+565067,  43,07703,     ,43-7703,Lauderdale Rd,043,Henrico County,043,Henrico County,1.23,John Rolfe Pkwy,Ridgefield Pkwy,4600,G,99%,0%,1%,0%,0%,0%,C,0.0968,F,0.5788,5000,G,2009,,,,,,,,,,,,,,,
+565068,  43,07703,     ,43-7703,Lauderdale Rd,043,Henrico County,043,Henrico County,1.33,Ridgefield Pkwy,N Gayton Rd,5300,G,99%,0%,1%,0%,0%,0%,F,0.0976,F,0.5521,5700,G,2009,,,,,,,,,,,,,,,
+565069,  43,07703,     ,43-7703,Lauderdale Rd,043,Henrico County,043,Henrico County,1.10,N Gayton Rd,US 250 Broad St,12000,G,99%,0%,1%,0%,0%,0%,C,0.0929,F,0.5873,13000,G,2009,,,,,,,,,,,,,,,
+665347,  43,07704,     ,43-7704,Falconbridge Dr,043,Henrico County,043,Henrico County,1.31,Pump Rd,Ridgefield Pkwy,2100,G,98%,0%,1%,0%,0%,0%,C,0.1036,F,0.5885,2200,G,2009,,,,,,,,,,,,,,,
+665349,  43,07705,     ,43-7705,Francistown Rd,043,Henrico County,043,Henrico County,1.58,Hungary Rd,SR 157 Springfield Rd,6500,G,98%,1%,1%,0%,0%,0%,C,0.1220,F,0.5801,7100,G,2009,,,,,,,,,,,,,,,
+745369,  43,07706,     ,43-7706,Nuckols Rd,043,Henrico County,043,Henrico County,1.65,SR 271 Pouncey Tract Rd,Shady Grove Rd,6800,G,97%,1%,1%,1%,0%,0%,F,0.1137,F,0.5881,7400,G,2009,,,,,,,,,,,,,,,
+565070,  43,07706,     ,43-7706,Nuckols Rd,043,Henrico County,043,Henrico County,1.44,Shady Grove Rd,I-295,20000,G,97%,1%,1%,1%,0%,0%,C,0.1032,F,0.5818,22000,G,2009,,,,,,,,,,,,,,,
+565071,  43,07706,     ,43-7706,Nuckols Rd,043,Henrico County,043,Henrico County,0.82,I-295,Cox Rd,28000,G,99%,0%,1%,0%,0%,0%,F,0.1146,F,0.7459,31000,G,2009,,,,,,,,,,,,,,,
+565072,  43,07706,     ,43-7706,Nuckols Rd,043,Henrico County,043,Henrico County,0.62,Cox Rd,Springfield Rd; Gap,16000,G,99%,0%,1%,0%,0%,0%,C,0.1168,F,0.6916,17000,G,2009,,,,,,,,,,,,,,,
+794714,  43,07706,     ,43-7706,Nuckols Rd,043,Henrico County,043,Henrico County,0.14,Drayton Dr; Gap,Crystal Brook Terrace; Gap,530,N,98%,1%,1%,0%,0%,0%,N,0.1509,N,0.5521,580,N,2009,,,,,,,,,,,,,,,
+745370,  43,07706,     ,43-7706,Nuckols Rd,043,Henrico County,043,Henrico County,0.26,Fairlake Lane; Gap,Francistown Rd,530,G,98%,1%,1%,0%,0%,0%,C,0.1509,F,0.5521,580,G,2009,,,,,,,,,,,,,,,
+665691,  43,07707,     ,43-7707,West End Dr,043,Henrico County,043,Henrico County,0.50,Broad St Rd,Greenford Dr,10000,G,99%,0%,1%,0%,0%,0%,C,0.1112,F,0.6121,11000,G,2009,,,,,,,,,,,,,,,
+745371,  43,07707,     ,43-7707,West End Dr,043,Henrico County,043,Henrico County,0.53,Greenford Dr,43-7526 Hungary Rd,8700,G,99%,0%,1%,0%,0%,0%,F,0.1106,F,0.5914,9400,G,2009,,,,,,,,,,,,,,,
+665698,  43,07708,     ,43-7708,Mayland Dr,043,Henrico County,043,Henrico County,0.44,43-7514 Gaskins Rd,SR 157 Pemberton Rd,0,?,,,,,,,X,,,,,,,,,,,,,,,,,,,,,
+665692,  43,07708,     ,43-7708,Mayland Dr,043,Henrico County,043,Henrico County,0.62,SR 157 Pemberton Rd,43-7709 Tuckernuck Dr,0,?,,,,,,,X,,,,,,,,,,,,,,,,,,,,,
+665638,  43,07708,     ,43-7708,Mayland Dr,043,Henrico County,043,Henrico County,0.49,43-7709 Tuckernuck Dr,Parham Rd,9700,G,99%,0%,0%,0%,0%,0%,C,0.0920,F,0.5590,10000,G,2009,,,,,,,,,,,,,,,
+665687,  43,07709,     ,43-7709,Tuckernuck Dr,043,Henrico County,043,Henrico County,0.53,Broad St,Mayland Dr,7900,G,99%,0%,0%,0%,0%,0%,C,0.0942,F,0.5941,8600,G,2009,,,,,,,,,,,,,,,
+665326,  43,07710,     ,43-7710,Courtney Rd,043,Henrico County,043,Henrico County,0.78,Staples Mill Rd,Mountain Rd,1200,G,98%,1%,1%,0%,0%,0%,C,0.1171,F,0.6646,1300,G,2009,,,,,,,,,,,,,,,
+665305,  43,07712,     ,43-7712,Basie Rd,043,Henrico County,043,Henrico County,0.44,Bethlehem Rd,Bremner Blvd,3300,G,98%,0%,1%,0%,0%,0%,C,0.1042,F,0.5975,3600,G,2009,,,,,,,,,,,,,,,
+665315,  43,07712,     ,43-7712,Bremner Blvd,043,Henrico County,043,Henrico County,0.62,Basie Rd,Staples Mill Rd,3300,G,98%,0%,1%,0%,0%,0%,F,0.1086,F,0.5876,3600,G,2009,,,,,,,,,,,,,,,
+665654,  43,07714,     ,43-7714,Pilots Lane,043,Henrico County,043,Henrico County,0.26,NCL Richmond,Laburnum Ave,1300,G,99%,0%,1%,0%,0%,0%,F,0.0997,F,0.6054,1400,G,2009,,,,,,,,,,,,,,,
+665655,  43,07714,     ,43-7714,Pilots Ln,043,Henrico County,043,Henrico County,0.22,Laburnum Ave,Oronco Ave,1200,G,99%,0%,1%,0%,0%,0%,F,0.0900,F,0.5252,1300,G,2009,,,,,,,,,,,,,,,
+665656,  43,07714,     ,43-7714,Oronco Ave,043,Henrico County,043,Henrico County,0.30,Pilots Lane,Richmond-Henrico Tpke,1300,G,99%,0%,1%,0%,0%,0%,C,0.1190,F,0.5479,1400,G,2009,,,,,,,,,,,,,,,
+665659,  43,07715,     ,43-7715,Pleasant St,043,Henrico County,043,Henrico County,1.35,Holly Ave,Nine Mile Rd,2200,G,99%,0%,0%,0%,0%,0%,C,0.0905,F,0.5138,2400,G,2009,,,,,,,,,,,,,,,
+745374,  43,07716,     ,43-7716,Autobon Dr,043,Henrico County,043,Henrico County,1.40,43-7555 Laburnum Ave,SR 156,4900,G,96%,1%,1%,1%,1%,0%,C,0.0908,F,0.5366,5300,G,2009,,,,,,,,,,,,,,,
+665346,  43,07717,     ,43-7717,Eubank Rd,043,Henrico County,043,Henrico County,0.48,Laburnum Ave,Lewis Rd,3100,G,89%,2%,2%,1%,5%,0%,C,0.0878,F,0.5665,3400,G,2009,,,,,,,,,,,,,,,
+665651,  43,07718,     ,43-7718,Oakland Rd,043,Henrico County,043,Henrico County,1.56,Osborne Tpke,Darbytown Rd,2500,G,96%,1%,1%,2%,0%,0%,C,0.0951,F,0.5414,2700,G,2009,,,,,,,,,,,,,,,
+665697,  43,07722,     ,43-7722,Willow Lawn Dr,043,Henrico County,043,Henrico County,0.62,NCL Richmond,Broad St,6900,G,99%,0%,0%,0%,0%,0%,F,0.1020,F,0.5434,7400,G,2009,,,,,,,,,,,,,,,
+665321,  43,07723,     ,43-7723,Charles City Rd,043,Henrico County,043,Henrico County,1.92,Williamsburg Rd,Laburnum Ave,3500,G,88%,2%,1%,7%,2%,0%,C,0.0940,F,0.5171,3800,G,2009,,,,,,,,,,,,,,,
+665322,  43,07723,     ,43-7723,Charles City Rd,043,Henrico County,043,Henrico County,2.58,Laburnum Ave,Britton Rd,2100,G,88%,2%,1%,7%,2%,0%,F,0.1065,F,0.6712,2300,G,2009,,,,,,,,,,,,,,,
+665323,  43,07723,     ,43-7723,Charles City Rd,043,Henrico County,043,Henrico County,5.43,Britton Rd,Darbytown Rd,1600,G,88%,2%,1%,7%,2%,0%,F,0.1099,F,0.7011,1700,G,2009,,,,,,,,,,,,,,,
+559000,  43,00000,     ,43-0,Aeronca Ave,043,Henrico County,043,Henrico County,0.00,Woodman Rd,Thacker Lane,1000,G,,,,,,,X,0.1003,F,0.6524,1000,G,2009,,,,,,,,,,,,,,,
+559010,  43,00000,     ,43-0,Allenshaw Dr,043,Henrico County,043,Henrico County,0.00,Finlay St,Probst St,610,G,,,,,,,X,0.1006,F,0.6640,610,G,2009,,,,,,,,,,,,,,,
+559028,  43,00000,     ,43-0,Alvarado Rd,043,Henrico County,043,Henrico County,0.00,Michael Rd,Nortonia Rd,1300,G,,,,,,,X,0.1093,F,0.5636,1300,G,2009,,,,,,,,,,,,,,,
+559011,  43,00000,     ,43-0,Andover Rd,043,Henrico County,043,Henrico County,0.00,Gayton Rd,Camrose Rd,550,G,,,,,,,X,0.0941,F,0.5333,550,G,2009,,,,,,,,,,,,,,,
+559040,  43,00000,     ,43-0,Antioch Rd,043,Henrico County,043,Henrico County,0.00,Dilworth Cir,Woodview Dr,430,G,,,,,,,X,0.0991,F,0.6163,430,G,2009,,,,,,,,,,,,,,,
+559086,  43,00000,     ,43-0,Antionette Dr,043,Henrico County,043,Henrico County,0.00,Wilkerson Rd,Kahlua Dr,520,G,,,,,,,X,0.1226,F,0.5846,520,G,2009,,,,,,,,,,,,,,,
+559012,  43,00000,     ,43-0,Argus Ln,043,Henrico County,043,Henrico County,0.00,Libbie Ave,Beacon Lane,400,G,,,,,,,X,0.1280,F,0.6571,400,G,2009,,,,,,,,,,,,,,,
+559013,  43,00000,     ,43-0,Athens Ave,043,Henrico County,043,Henrico County,0.00,US 1,Aberdeen St,1600,G,,,,,,,X,0.1316,F,0.7807,1600,G,2009,,,,,,,,,,,,,,,
+559050,  43,00000,     ,43-0,Attems Way,043,Henrico County,043,Henrico County,0.00,Alf Ct,Heritage Lane,2500,G,,,,,,,X,0.1079,F,0.6312,2500,G,2009,,,,,,,,,,,,,,,
+559102,  43,00000,     ,43-0,Avalon Dr,043,Henrico County,043,Henrico County,0.00,Mayberry Rd,Farmwood Dr,850,G,,,,,,,X,0.1623,F,0.7138,850,G,2009,,,,,,,,,,,,,,,
+559014,  43,00000,     ,43-0,Baldwin Rd,043,Henrico County,043,Henrico County,0.00,SR 6 Patterson Ave,Hollins Rd,580,G,,,,,,,X,0.1395,F,0.7561,580,G,2009,,,,,,,,,,,,,,,
+559060,  43,00000,     ,43-0,Battery Ave,043,Henrico County,043,Henrico County,0.00,Artillery Dr,Washington St,160,G,,,,,,,X,0.1104,F,0.6571,160,G,2009,,,,,,,,,,,,,,,
+559015,  43,00000,     ,43-0,Bayard Rd,043,Henrico County,043,Henrico County,0.00,US 33,Biloxi Rd,590,G,,,,,,,X,0.1006,F,0.6033,590,G,2009,,,,,,,,,,,,,,,
+559111,  43,00000,     ,43-0,Bentbrook Dr,043,Henrico County,043,Henrico County,0.00,Gilchrist Ave,Piccadilly Rd,250,G,,,,,,,X,,,,250,G,2009,,,,,,,,,,,,,,,
+559031,  43,00000,     ,43-0,Broad Meadows Dr,043,Henrico County,043,Henrico County,0.00,Mesquite Rd,Fireside Dr,480,G,,,,,,,X,0.1493,F,0.8219,480,G,2009,,,,,,,,,,,,,,,
+559048,  43,00000,     ,43-0,Broad Meadows Rd,043,Henrico County,043,Henrico County,0.00,Darrowby Rd,Francistown Rd,1800,G,,,,,,,X,0.1289,F,0.7792,1800,G,2009,,,,,,,,,,,,,,,
+559087,  43,00000,     ,43-0,Broadway Ave,043,Henrico County,043,Henrico County,0.00,Second Ave,Oakdale Ave,380,G,,,,,,,X,0.1115,F,0.6512,380,G,2009,,,,,,,,,,,,,,,
+559076,  43,00000,     ,43-0,Byron St,043,Henrico County,043,Henrico County,0.00,Hargrove Ave,Thompson St,2600,G,,,,,,,X,0.0860,F,0.5893,2600,G,2009,,,,,,,,,,,,,,,
+559032,  43,00000,     ,43-0,Camrose Rd,043,Henrico County,043,Henrico County,0.00,Vassar Rd,Lester Lane,610,G,,,,,,,X,0.1245,F,0.5484,610,G,2009,,,,,,,,,,,,,,,
+559070,  43,00000,     ,43-0,Candlewood Ln,043,Henrico County,043,Henrico County,0.00,Meadow Rd,Mailbrook Lane,360,G,,,,,,,X,0.0980,F,0.6667,360,G,2009,,,,,,,,,,,,,,,
+559016,  43,00000,     ,43-0,Charnwood Rd,043,Henrico County,043,Henrico County,0.00,Shadow Lane,Higginbotham Pl,320,G,,,,,,,X,0.1014,F,0.5606,320,G,2009,,,,,,,,,,,,,,,
+559094,  43,00000,     ,43-0,Chickahominy Ave,043,Henrico County,043,Henrico County,0.00,Ott St,Springdale Rd,340,G,,,,,,,X,0.1188,F,0.7683,340,G,2009,,,,,,,,,,,,,,,
+559049,  43,00000,     ,43-0,Chickahominy Branch Dr,043,Henrico County,043,Henrico County,0.00,River Run Dr,Mill Rd,460,G,,,,,,,X,0.1174,F,0.7273,460,G,2009,,,,,,,,,,,,,,,
+559042,  43,00000,     ,43-0,Clauson Rd,043,Henrico County,043,Henrico County,0.00,Hood Dr,Franconia Rd,110,G,,,,,,,X,0.1504,F,0.5294,110,G,2009,,,,,,,,,,,,,,,
+559047,  43,00000,     ,43-0,Cliffmore Dr,043,Henrico County,043,Henrico County,0.00,Schaum Ct,Springfield Rd,560,G,,,,,,,X,0.1029,F,0.7712,560,G,2009,,,,,,,,,,,,,,,
+559114,  43,00000,     ,43-0,Cliffmore Dr,043,Henrico County,043,Henrico County,0.00,Baria Dr,Schaum Ct,240,G,,,,,,,X,,,,240,G,2009,,,,,,,,,,,,,,,
+559107,  43,00000,     ,43-0,Cloverdale St,043,Henrico County,043,Henrico County,0.00,Penick Road,Glenside Dr,1100,G,,,,,,,X,0.1257,F,0.6075,1100,G,2009,,,,,,,,,,,,,,,
+559021,  43,00000,     ,43-0,Cole Blvd,043,Henrico County,043,Henrico County,0.00,Virginia Rd,Washington Rd,860,G,,,,,,,X,0.1950,F,0.5364,860,G,2009,,,,,,,,,,,,,,,
+559053,  43,00000,     ,43-0,Cole Blvd,043,Henrico County,043,Henrico County,0.00,Longdale Ave,Norfolk St,780,G,,,,,,,X,0.2179,F,0.5402,780,G,2009,,,,,,,,,,,,,,,
+559079,  43,00000,     ,43-0,Colleen Rd,043,Henrico County,043,Henrico County,0.00,Subrenda Dr,Annlyn Dr,750,G,,,,,,,X,0.0944,F,0.6528,750,G,2009,,,,,,,,,,,,,,,
+559090,  43,00000,     ,43-0,Colony Bluff Dr,043,Henrico County,043,Henrico County,0.00,Bonruth Pl,Dellbrooks Pl,800,G,,,,,,,X,0.1128,F,0.5191,800,G,2009,,,,,,,,,,,,,,,
+559057,  43,00000,     ,43-0,Comet Rd,043,Henrico County,043,Henrico County,0.00,Rudolph Rd,Skipwith Rd,810,G,,,,,,,X,0.1084,F,0.5111,810,G,2009,,,,,,,,,,,,,,,
+792606,  43,00000,     ,43-0,Cookes Farm Dr,043,Henrico County,043,Henrico County,0.00,Dead End,Warriner Rd,170,G,,,,,,,X,0.1329,F,0.6522,170,G,2009,,,,,,,,,,,,,,,
+559103,  43,00000,     ,43-0,Copperas Lane,043,Henrico County,043,Henrico County,0.00,Glen Point Cir,Brandon Creek Pl,3100,G,,,,,,,X,0.1287,F,0.6569,3100,G,2009,,,,,,,,,,,,,,,
+559118,  43,00000,     ,43-0,Cottage Cove Dr,043,Henrico County,043,Henrico County,0.00,Northwind Dr,Causeway Dr,730,G,,,,,,,X,,,,730,G,2009,,,,,,,,,,,,,,,
+559085,  43,00000,     ,43-0,Cottage St,043,Henrico County,043,Henrico County,0.00,Maplewood Rd,Parkside Ave,1500,G,,,,,,,X,0.1253,F,0.5106,1500,G,2009,,,,,,,,,,,,,,,
+559066,  43,00000,     ,43-0,Country Creek Way,043,Henrico County,043,Henrico County,0.00,SR 271 Pouncy Tract Rd,Country Creek Ct,930,G,,,,,,,X,0.0958,F,0.6096,930,G,2009,,,,,,,,,,,,,,,
+559068,  43,00000,     ,43-0,Crystalwood Ln,043,Henrico County,043,Henrico County,0.00,West End Dr,Donaldwood DR,260,G,,,,,,,X,0.1179,F,0.5806,260,G,2009,,,,,,,,,,,,,,,
+559058,  43,00000,     ,43-0,Damascus Dr,043,Henrico County,043,Henrico County,0.00,Upham Dr,Old Orchard Rd,390,G,,,,,,,X,0.1207,F,0.6632,390,G,2009,,,,,,,,,,,,,,,
+559117,  43,00000,     ,43-0,Damascus Dr,043,Henrico County,043,Henrico County,0.00,Old Orchard Rd,Brookfield Rd,470,G,,,,,,,X,,,,470,G,2009,,,,,,,,,,,,,,,
+559106,  43,00000,     ,43-0,Dresden Rd,043,Henrico County,043,Henrico County,0.00,Three Chopt Rd,Claymont Rd,1300,G,,,,,,,X,0.1005,F,0.5827,1300,G,2009,,,,,,,,,,,,,,,
+559099,  43,00000,     ,43-0,Drovin Dr,043,Henrico County,043,Henrico County,0.00,Westwick Rd,Kingsbridge Rd,120,G,,,,,,,X,0.1089,F,0.5185,120,G,2009,,,,,,,,,,,,,,,
+559034,  43,00000,     ,43-0,Fenwick St,043,Henrico County,043,Henrico County,0.00,Laburnum Ave,Sizer Rd,670,G,,,,,,,X,0.0967,F,0.6364,670,G,2009,,,,,,,,,,,,,,,
+559116,  43,00000,     ,43-0,Franconia Rd,043,Henrico County,043,Henrico County,0.00,Diane Lane,Clauson Rd,410,G,,,,,,,X,,,,410,G,2009,,,,,,,,,,,,,,,
+559029,  43,00000,     ,43-0,Galaxie Rd,043,Henrico County,043,Henrico County,0.00,Alycia Ave,Vernon Rd,2000,G,,,,,,,X,0.1773,F,0.5129,2000,G,2009,,,,,,,,,,,,,,,
+559059,  43,00000,     ,43-0,Gay Ave,043,Henrico County,043,Henrico County,0.00,Lakefield Mews Dr,Millers Lane,6400,G,,,,,,,X,0.0941,F,0.5319,6400,G,2009,,,,,,,,,,,,,,,
+559033,  43,00000,     ,43-0,Gunby Rd,043,Henrico County,043,Henrico County,0.00,Belfort Rd,Wishart Rd,640,G,,,,,,,X,0.1133,F,0.5503,640,G,2009,,,,,,,,,,,,,,,
+559051,  43,00000,     ,43-0,Hamilton Rd,043,Henrico County,043,Henrico County,0.00,Englewood Rd,Mountain Rd,1100,G,,,,,,,X,0.1133,F,0.6757,1100,G,2009,,,,,,,,,,,,,,,
+559100,  43,00000,     ,43-0,Henrico Ave,043,Henrico County,043,Henrico County,0.00,Ridge Rd,David Dr,740,G,,,,,,,X,0.1867,F,0.8107,740,G,2009,,,,,,,,,,,,,,,
+559092,  43,00000,     ,43-0,Hickory Ave,043,Henrico County,043,Henrico County,0.00,Wildwood St,SR 5; New Market Rd,170,G,,,,,,,X,0.1147,F,0.6667,170,G,2009,,,,,,,,,,,,,,,
+559095,  43,00000,     ,43-0,Hilliard Rd,043,Henrico County,043,Henrico County,0.00,Chamberlayne Ave,Hawthorne Ave,340,G,,,,,,,X,0.1003,F,0.7246,340,G,2009,,,,,,,,,,,,,,,
+559063,  43,00000,     ,43-0,Hillside Ave,043,Henrico County,043,Henrico County,0.00,Three Chopt Rd,Granger Rd,370,G,,,,,,,X,0.1355,F,0.6471,370,G,2009,,,,,,,,,,,,,,,
+559067,  43,00000,     ,43-0,Holly Hill Dr,043,Henrico County,043,Henrico County,0.00,N Parham Rd,Saint Michaels Lane,3900,G,,,,,,,X,0.1022,F,0.5521,3900,G,2009,,,,,,,,,,,,,,,
+565062,  43,00000,     ,43-0,Horsepen Rd,043,Henrico County,043,Henrico County,0.00,Patterson Ave,Three Chopt Rd,7600,G,,,,,,,X,0.1039,F,0.6995,8200,G,2009,,,,,,,,,,,,,,,
+559030,  43,00000,     ,43-0,Hungary Ridge Dr,043,Henrico County,043,Henrico County,0.00,Hungary Rd,Hungary Ridge Ct,820,G,,,,,,,X,0.1184,F,0.6566,820,G,2009,,,,,,,,,,,,,,,
+565063,  43,00000,     ,43-0,Hungary Springs Rd,043,Henrico County,043,Henrico County,0.00,Staples Mill Rd,Hungary Rd,4600,G,,,,,,,X,0.0949,F,0.5787,4900,G,2009,,,,,,,,,,,,,,,
+559072,  43,00000,     ,43-0,Ivy Ave,043,Henrico County,043,Henrico County,0.00,Beal St,Read St,200,G,,,,,,,X,0.1135,F,0.5532,200,G,2009,,,,,,,,,,,,,,,
+565064,  43,00000,     ,43-0,John Rolfe Pkwy,043,Henrico County,043,Henrico County,0.00,Lauderdale Rd,Ridgefield Pkwy,4500,G,,,,,,,X,0.0952,F,0.5325,4900,G,2009,,,,,,,,,,,,,,,
+559108,  43,00000,     ,43-0,Jordan Dr,043,Henrico County,043,Henrico County,0.00,Mountain Rd,Bowles Lane,330,G,,,,,,,X,0.0995,F,0.5606,330,G,2009,,,,,,,,,,,,,,,
+559045,  43,00000,     ,43-0,Kain Rd,043,Henrico County,043,Henrico County,0.00,SR 271; Pouncy Tract Rd,Willane Rd,1100,G,,,,,,,X,0.0931,F,0.6010,1100,G,2009,,,,,,,,,,,,,,,
+559037,  43,00000,     ,43-0,Kinvan Rd,043,Henrico County,043,Henrico County,0.00,Strath Rd,Beowulf Dr,590,G,,,,,,,X,0.1114,F,0.7612,590,G,2009,,,,,,,,,,,,,,,
+559020,  43,00000,     ,43-0,Lafayette Ave,043,Henrico County,043,Henrico County,0.00,Linbrook Dr,Thornrose Ave,240,G,,,,,,,X,0.1056,F,0.6078,240,G,2009,,,,,,,,,,,,,,,
+559052,  43,00000,     ,43-0,Lakefront Dr,043,Henrico County,043,Henrico County,0.00,Monida Rd,Sunburst Rd,240,G,,,,,,,X,0.1349,F,0.5172,240,G,2009,,,,,,,,,,,,,,,
+559062,  43,00000,     ,43-0,Lakewood Rd,043,Henrico County,043,Henrico County,0.00,Creston Rd,Meadowbrook Rd,330,G,,,,,,,X,0.1123,F,0.5263,330,G,2009,,,,,,,,,,,,,,,
+559061,  43,00000,     ,43-0,Lambeth Rd,043,Henrico County,043,Henrico County,0.00,Mountain Rd,Glen Lake Dr,630,G,,,,,,,X,0.1131,F,0.5205,630,G,2009,,,,,,,,,,,,,,,
+559113,  43,00000,     ,43-0,Lampworth Rd,043,Henrico County,043,Henrico County,0.00,Lampworth Cir,Lampworth Ct,250,G,,,,,,,X,,,,250,G,2009,,,,,,,,,,,,,,,
+559065,  43,00000,     ,43-0,Lawndell Rd,043,Henrico County,043,Henrico County,0.00,Haviland Dr,Murdock Rd,1600,G,,,,,,,X,0.1031,F,0.5872,1600,G,2009,,,,,,,,,,,,,,,
+559115,  43,00000,     ,43-0,Lothbury Lane,043,Henrico County,043,Henrico County,0.00,Brendonridge Lane,Edenbury Dr,60,G,,,,,,,X,,,,60,G,2009,,,,,,,,,,,,,,,
+559019,  43,00000,     ,43-0,Lourdes Rd,043,Henrico County,043,Henrico County,0.00,Hermitage Rd,Galway Lane,1400,G,,,,,,,X,0.1292,F,0.6555,1400,G,2009,,,,,,,,,,,,,,,
+559069,  43,00000,     ,43-0,Marlin Dr,043,Henrico County,043,Henrico County,0.00,SR 33; Nine Mile Rd,Third St,510,G,,,,,,,X,0.0971,F,0.6832,510,G,2009,,,,,,,,,,,,,,,
+559026,  43,00000,     ,43-0,Meadow View Rd,043,Henrico County,043,Henrico County,0.00,SR 157,Ceres Rd,210,G,,,,,,,X,0.1384,F,0.6364,210,G,2009,,,,,,,,,,,,,,,
+559025,  43,00000,     ,43-0,Megan Dr,043,Henrico County,043,Henrico County,0.00,Mountain Rd,Megan Way,340,G,,,,,,,X,0.1060,F,0.5946,340,G,2009,,,,,,,,,,,,,,,
+559071,  43,00000,     ,43-0,Midview Rd,043,Henrico County,043,Henrico County,0.00,SR 5,Holland St,2300,G,,,,,,,X,0.0953,F,0.7358,2300,G,2009,,,,,,,,,,,,,,,
+559093,  43,00000,     ,43-0,Monaco Dr,043,Henrico County,043,Henrico County,0.00,Rasmussen Dr,Turka Dr,540,G,,,,,,,X,0.1096,F,0.5583,540,G,2009,,,,,,,,,,,,,,,
+559096,  43,00000,     ,43-0,Montclair Rd,043,Henrico County,043,Henrico County,0.00,Harvie Rd,E Laburnum Ave,570,G,,,,,,,X,0.0870,F,0.5392,570,G,2009,,,,,,,,,,,,,,,
+559039,  43,00000,     ,43-0,Mooreland Rd,043,Henrico County,043,Henrico County,0.00,Norwick Rd,Tolman Rd,2100,G,,,,,,,X,0.1030,F,0.6644,2100,G,2009,,,,,,,,,,,,,,,
+559075,  43,00000,     ,43-0,Neal St,043,Henrico County,043,Henrico County,0.00,US 360,Bolling Rd,4400,G,,,,,,,X,0.0888,F,0.6138,4400,G,2009,,,,,,,,,,,,,,,
+559022,  43,00000,     ,43-0,North Run Rd,043,Henrico County,043,Henrico County,0.00,Hungary Rd,Joycelyn Ct,3400,G,,,,,,,X,0.1040,F,0.6813,3400,G,2009,,,,,,,,,,,,,,,
+565074,  43,00000,     ,43-0,Old Hanover Rd,043,Henrico County,043,Henrico County,0.00,Grapevine Rd,SR 156; Airport Dr,880,G,,,,,,,X,0.0856,F,0.5628,960,G,2009,,,,,,,,,,,,,,,
+559120,  43,00000,     ,43-0,Omega Rd,043,Henrico County,043,Henrico County,0.00,Purcell Rd,Fruehauf Rd,110,G,,,,,,,X,,,,110,G,2009,,,,,,,,,,,,,,,
+559055,  43,00000,     ,43-0,Opaca Ln,043,Henrico County,043,Henrico County,0.00,Nuckols Rd,Chapel Rd,220,G,,,,,,,X,0.1043,F,0.5652,220,G,2009,,,,,,,,,,,,,,,
+559018,  43,00000,     ,43-0,Penick Rd,043,Henrico County,043,Henrico County,0.00,Delwood St,Cloverdale St,1600,G,,,,,,,X,0.1152,F,0.5561,1600,G,2009,,,,,,,,,,,,,,,
+559119,  43,00000,     ,43-0,Pinoak Rd,043,Henrico County,043,Henrico County,0.00,Harvie Rd,Dixie Rd,70,G,,,,,,,X,,,,70,G,2009,,,,,,,,,,,,,,,
+559073,  43,00000,     ,43-0,Pleasant St,043,Henrico County,043,Henrico County,0.00,Yates Lane,Apple Grove Lane,2400,G,,,,,,,X,0.0849,F,0.6336,2400,G,2009,,,,,,,,,,,,,,,
+559121,  43,00000,     ,43-0,Poates Dr,043,Henrico County,043,Henrico County,0.00,Beagle Dr,Galway Lane,400,G,,,,,,,X,,,,400,G,2009,,,,,,,,,,,,,,,
+559038,  43,00000,     ,43-0,Poplar Spring Rd,043,Henrico County,043,Henrico County,0.00,Charles City Rd,Portugee Rd,2000,G,,,,,,,X,0.0972,F,0.8313,2000,G,2009,,,,,,,,,,,,,,,
+559082,  43,00000,     ,43-0,Raines Ave,043,Henrico County,043,Henrico County,0.00,Gray St,Wooton Rd,980,G,,,,,,,X,0.1032,F,0.6117,980,G,2009,,,,,,,,,,,,,,,
+559088,  43,00000,     ,43-0,Raintree Dr,043,Henrico County,043,Henrico County,0.00,Pepperbill Lane,Falconbridge Dr,2600,G,,,,,,,X,0.1029,F,0.5231,2600,G,2009,,,,,,,,,,,,,,,
+559081,  43,00000,     ,43-0,Raleigh Rd,043,Henrico County,043,Henrico County,0.00,US 60,Caswell St,470,G,,,,,,,X,0.1068,F,0.5098,470,G,2009,,,,,,,,,,,,,,,
+559122,  43,00000,     ,43-0,Richmond-Henrico Tpke,043,Henrico County,043,Henrico County,0.00,NCL Richmond,Laburnum Ave,1700,G,,,,,,,X,0.1186,F,0.6675,1700,G,2009,,,,,,,,,,,,,,,
+559083,  43,00000,     ,43-0,Sandston Ave,043,Henrico County,043,Henrico County,0.00,Roy Rd,Huntsman Rd,400,G,,,,,,,X,0.1104,F,0.6813,400,G,2009,,,,,,,,,,,,,,,
+559078,  43,00000,     ,43-0,Sandy Ln,043,Henrico County,043,Henrico County,0.00,Harvie Rd,Glenda Rd,1900,G,,,,,,,X,0.0964,F,0.5598,1900,G,2009,,,,,,,,,,,,,,,
+559084,  43,00000,     ,43-0,Santa Clara Dr,043,Henrico County,043,Henrico County,0.00,Barck Pl,Tarrytown Dr,250,G,,,,,,,X,0.1695,F,0.7200,250,G,2009,,,,,,,,,,,,,,,
+559041,  43,00000,     ,43-0,Scotland Ln,043,Henrico County,043,Henrico County,0.00,Glasgow St,Sadler Rd,500,G,,,,,,,X,0.0927,F,0.6915,500,G,2009,,,,,,,,,,,,,,,
+559054,  43,00000,     ,43-0,Scott Rd,043,Henrico County,043,Henrico County,0.00,Best Plaza,Level Green Lane,350,G,,,,,,,X,0.1248,F,0.6591,350,G,2009,,,,,,,,,,,,,,,
+559097,  43,00000,     ,43-0,Second Ave,043,Henrico County,043,Henrico County,0.00,Broadway Ave,Ackley Ave,290,G,,,,,,,X,0.1199,F,0.5857,290,G,2009,,,,,,,,,,,,,,,
+559091,  43,00000,     ,43-0,Sedgwick St,043,Henrico County,043,Henrico County,0.00,Confederate Ave,Wilson Way,180,G,,,,,,,X,0.1209,F,0.7727,180,G,2009,,,,,,,,,,,,,,,
+559074,  43,00000,     ,43-0,Springdale Rd,043,Henrico County,043,Henrico County,0.00,Gaines Rd,Thomas Dr,1600,G,,,,,,,X,0.0926,F,0.5724,1600,G,2009,,,,,,,,,,,,,,,
+559024,  43,00000,     ,43-0,St Charles Rd,043,Henrico County,043,Henrico County,0.00,Glidewell Rd,Diane Lane,1200,G,,,,,,,X,0.1080,F,0.6642,1200,G,2009,,,,,,,,,,,,,,,
+559089,  43,00000,     ,43-0,Stoneleigh St,043,Henrico County,043,Henrico County,0.00,Buckingham Ave,Essex Rd,370,G,,,,,,,X,0.1070,F,0.7250,370,G,2009,,,,,,,,,,,,,,,
+559027,  43,00000,     ,43-0,Terry Dr,043,Henrico County,043,Henrico County,0.00,Timber Rd,Royerton Dr,1100,G,,,,,,,X,0.0934,F,0.5413,1100,G,2009,,,,,,,,,,,,,,,
+559043,  43,00000,     ,43-0,Thorncroft Dr,043,Henrico County,043,Henrico County,0.00,Sadler Rd,Waterfront Dr,300,G,,,,,,,X,0.1070,F,0.5758,300,G,2009,,,,,,,,,,,,,,,
+559046,  43,00000,     ,43-0,Thorncroft Dr,043,Henrico County,043,Henrico County,0.00,Riverdale Ave,Chicopee Rd,710,G,,,,,,,X,0.1464,F,0.5070,710,G,2009,,,,,,,,,,,,,,,
+559112,  43,00000,     ,43-0,Tiffanywoods Lane,043,Henrico County,043,Henrico County,0.00,Cedar Fork Rd,Cloverfield Lane,630,G,,,,,,,X,,,,630,G,2009,,,,,,,,,,,,,,,
+559080,  43,00000,     ,43-0,Union St,043,Henrico County,043,Henrico County,0.00,Garland Ave,Medlock Rd,170,G,,,,,,,X,0.1239,F,0.7619,170,G,2009,,,,,,,,,,,,,,,
+559056,  43,00000,     ,43-0,Valleyfield Rd,043,Henrico County,043,Henrico County,0.00,Stoneman Rd,Wistar Rd,680,G,,,,,,,X,0.0957,F,0.5455,680,G,2009,,,,,,,,,,,,,,,
+559104,  43,00000,     ,43-0,Warren View Rd,043,Henrico County,043,Henrico County,0.00,Evansdale Rd,Poplar Forest Dr,270,G,,,,,,,X,0.1416,F,0.6341,270,G,2009,,,,,,,,,,,,,,,
+792607,  43,00000,     ,43-0,Warriner Rd,043,Henrico County,043,Henrico County,0.00,Charles City Rd,Cookes Farm Dr,910,G,,,,,,,X,0.0941,F,0.7011,910,G,2009,,,,,,,,,,,,,,,
+559077,  43,00000,     ,43-0,Watts Ln,043,Henrico County,043,Henrico County,0.00,US 360,Rosser Rd,3400,G,,,,,,,X,0.0860,F,0.5301,3400,G,2009,,,,,,,,,,,,,,,
+559017,  43,00000,     ,43-0,Weldon Dr,043,Henrico County,043,Henrico County,0.00,Parham Rd,Bridle Lane,250,G,,,,,,,X,0.1170,F,0.6833,250,G,2009,,,,,,,,,,,,,,,
+559105,  43,00000,     ,43-0,Wilde Lake Dr,043,Henrico County,043,Henrico County,0.00,Causeway Dr,Northlake Dr,530,G,,,,,,,X,0.1221,F,0.6063,530,G,2009,,,,,,,,,,,,,,,
+559035,  43,00000,     ,43-0,Wilderness Dr,043,Henrico County,043,Henrico County,0.00,Dead End,Kilgore St,110,G,,,,,,,X,0.1644,F,0.5000,110,G,2009,,,,,,,,,,,,,,,
+559064,  43,00000,     ,43-0,Wistar St,043,Henrico County,043,Henrico County,0.00,US 250- Broad St,Oak Ridge Rd,290,G,,,,,,,X,0.1531,F,0.8222,290,G,2009,,,,,,,,,,,,,,,
+559098,  43,00000,     ,43-0,Wood Rd,043,Henrico County,043,Henrico County,0.00,Baldwin Rd,Sunderland Rd,140,G,,,,,,,X,0.1092,F,0.6875,140,G,2009,,,,,,,,,,,,,,,
+559101,  43,00000,     ,43-0,Woodberry Rd,043,Henrico County,043,Henrico County,0.00,Westham Pkwy,Horsepen Rd,170,G,,,,,,,X,0.1080,F,0.0000,170,G,2009,,,,,,,,,,,,,,,
+559044,  43,00000,     ,43-0,Wyndham Park Dr,043,Henrico County,043,Henrico County,0.00,Wyndam Lake Dr,Dominion Club Dr,4100,G,,,,,,,X,0.1011,F,0.7469,4100,G,2009,,,,,,,,,,,,,,,
+559036,  43,00000,     ,43-0,Yarnell Rd,043,Henrico County,043,Henrico County,0.00,Wilson Rd,Miller Rd,70,G,,,,,,,X,0.1288,F,0.8824,70,G,2009,,,,,,,,,,,,,,,
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

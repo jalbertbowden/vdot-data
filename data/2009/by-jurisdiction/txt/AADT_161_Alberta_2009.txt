@@ -1,0 +1,50 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Alberta																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+140138	  US	00001	     	US 1	Boydton Plank Rd	161	Town of Alberta	012	Brunswick County	1.55	SCL Alberta	NCL Alberta	1100	G	91%	2%	1%	0%	5%	0%	F	0.0966	F	0.5272	1200	G	2009
+040126	  SR	00136	     	VA 136	Second Ave	161	Town of Alberta	012	Brunswick County	1.17	WCL Alberta	US 1 Alberta	300	G	94%	0%	1%	1%	5%	0%	C	0.1006	F	0.5882	320	G	2009
+404022	  12	00606	     	12-606	Virginia Ave	161	Town of Alberta	012	Brunswick County	0.37	NCL Alberta	12-1401 Main St	260	G	96%	1%	0%	1%	3%	0%	F	0.1283	F	0.6506	280	G	2009
+404023	  12	00606	     	12-606	Virginia Ave	161	Town of Alberta	012	Brunswick County	0.17	12-1401 Main St	12-1404 Oak St	370	G	96%	1%	0%	1%	3%	0%	F	0.1123	F	0.5607	400	G	2009
+404024	  12	00606	     	12-606	Virginia Ave	161	Town of Alberta	012	Brunswick County	0.27	12-1404 Oak St	12-628 Church St	120	G	96%	1%	0%	1%	3%	0%	F	0.1924	F	0.5357	130	G	2009
+404025	  12	00606	     	12-606	Virginia Ave	161	Town of Alberta	012	Brunswick County	0.61	12-628 Church St	US 1 Boydton Plank Rd	120	G	96%	1%	0%	1%	3%	0%	C	0.1181	F	0.5882	130	G	2009
+707617	  12	00606	     	12-606	 	161	Town of Alberta	012	Brunswick County	0.16	US 1 Boydton Plank Rd	ECL Alberta	120	R							X						09/08/2004
+785060	  12	00628	     	12-628	Church St	161	Town of Alberta	012	Brunswick County	0.67	NCL Alberta	12-606 Virginia Ave	320	N							X				0	N	08/04/2004
+404054	  12	00628	     	12-628	Church St	161	Town of Alberta	012	Brunswick County	0.15	12-606 Virginia Ave	SR 136; 12-1403	310	G	92%	2%	2%	0%	4%	0%	C	0.1313	F	0.5227	330	G	2009
+707971	  12	01401	     	12-1401	Main St	161	Town of Alberta	012	Brunswick County	0.06	12-1420	US 1 Boydton Plank Rd	20	R							X						03/13/2007
+404125	  12	01401	     	12-1401	Main St	161	Town of Alberta	012	Brunswick County	0.53	US 1 Boydton Plank Rd	SR 136 Second Ave	810	G	93%	1%	1%	0%	4%	0%	C	0.1090	F	0.5000	880	G	2009
+404126	  12	01401	     	12-1401	Main St	161	Town of Alberta	012	Brunswick County	0.16	SR 136 Second Ave	12-606 Virginia Ave	640	G	93%	1%	1%	0%	4%	0%	F	0.0999	F	0.5636	700	G	2009
+707972	  12	01402	     	12-1402	North St	161	Town of Alberta	012	Brunswick County	0.03	Dead End	12-1404 Oak St	6	R							X						03/13/2007
+707973	  12	01402	     	12-1402	North St	161	Town of Alberta	012	Brunswick County	0.29	12-1404 Oak St	12-628 Church St	100	R							X						08/23/2004
+707974	  12	01403	     	12-1403	Second Ave	161	Town of Alberta	012	Brunswick County	0.30	SR 136 Second Ave	US 1 Boydton Plank Rd	60	R							X						03/13/2007
+707975	  12	01404	     	12-1404	Oak St	161	Town of Alberta	012	Brunswick County	0.15	12-606 Virginia Ave	12-1414 Samford St	400	R							X						03/01/2001
+707976	  12	01405	     	12-1405	Selma St	161	Town of Alberta	012	Brunswick County	0.08	US 1 Boydton Plank Rd	12-1406, E First Ave	110	R							X						03/13/2007
+707977	  12	01406	     	12-1406	W First Ave	161	Town of Alberta	012	Brunswick County	0.01	Dead End	12-1408 Maple St	8	R							X						03/13/2007
+707978	  12	01406	     	12-1406	W First Ave	161	Town of Alberta	012	Brunswick County	0.12	12-1408 Maple St	12-1410 Oak St	190	R							X						03/13/2007
+707979	  12	01406	     	12-1406	W First Ave	161	Town of Alberta	012	Brunswick County	0.06	12-1410 Oak St	Dead End; Gap	50	R							X						03/13/2007
+707980	  12	01406	     	12-1406	 	161	Town of Alberta	012	Brunswick County	0.19	Dead End; Gap	Dead End; O.O8 NE US 1	30	R							X						03/13/2007
+707981	  12	01407	     	12-1407	S Center St	161	Town of Alberta	012	Brunswick County	0.10	US 1 Boydton Plank Rd	12-1417 Third Ave	40	R							X						03/13/2007
+707982	  12	01408	     	12-1408	Maple St	161	Town of Alberta	012	Brunswick County	0.05	SR 136 Second Ave	12-1406 First Ave	120	R							X						03/13/2007
+707983	  12	01409	     	12-1409	Cemetery Rd	161	Town of Alberta	012	Brunswick County	0.13	Dead End	US 1 Boydton Plank Rd	10	R							X						03/13/2007
+707984	  12	01410	     	12-1410	Oak St	161	Town of Alberta	012	Brunswick County	0.05	SR 136 Second Ave	12-1406, W First Ave	160	R							X						03/13/2007
+707985	  12	01411	     	12-1411	W Third Ave	161	Town of Alberta	012	Brunswick County	0.17	SR 136 Second Ave	12-1415 Elm St	30	R							X						03/13/2007
+707986	  12	01412	     	12-1412	Forest Ave	161	Town of Alberta	012	Brunswick County	0.07	12-606 Virginia Ave	12-1413 Brunswood Ave	70	R							X						03/13/2007
+707987	  12	01413	     	12-1413	Brunswood Ave	161	Town of Alberta	012	Brunswick County	0.03	12-628 Church St	0.03 ME 12-628 Church St	20	R							X						08/23/2004
+707988	  12	01413	     	12-1413	Brunswood Ave	161	Town of Alberta	012	Brunswick County	0.38	0.03 ME 12-628 Church St	12-1412 Forest Ave	30	R							X						08/23/2004
+707989	  12	01414	     	12-1414	Samford St	161	Town of Alberta	012	Brunswick County	0.30	12-1404 Oak St	12-628 Church St	180	R							X						03/13/2007
+707990	  12	01415	     	12-1415	Elm St	161	Town of Alberta	012	Brunswick County	0.10	Dead End	12-1411 Third Ave	20	R							X						03/13/2007
+707991	  12	01415	     	12-1415	Elm St	161	Town of Alberta	012	Brunswick County	0.08	12-1411 Third Ave	SR 136 Second Ave	60	R							X						03/13/2007
+707992	  12	01416	     	12-1416	Connelly St	161	Town of Alberta	012	Brunswick County	0.15	US 1 Boydton Plank Rd	12-1417 Third Ave	70	R							X						03/13/2007
+707993	  12	01416	     	12-1416	Connelly St	161	Town of Alberta	012	Brunswick County	0.10	12-1417 Third Ave	SR 136 Second Ave	80	R							X						03/13/2007
+707994	  12	01417	     	12-1417	E Third Ave	161	Town of Alberta	012	Brunswick County	0.21	12-1416 Connelly St	SR 136 Second Ave	40	R							X						03/13/2007
+707995	  12	01418	     	12-1418	N Center St	161	Town of Alberta	012	Brunswick County	0.11	12-606 Virginia Ave	12-628 Church St	60	R							X						03/13/2007
+707996	  12	01419	     	12-1419	Pine St	161	Town of Alberta	012	Brunswick County	0.21	12-606 Virginia Ave	12-1402 North St	40	R							X						03/13/2007
+707997	  12	01420	     	12-1420	 	161	Town of Alberta	012	Brunswick County	0.10	Dead End	12-1401 Main St	7	R							X						03/13/2007
+707998	  12	01420	     	12-1420	 	161	Town of Alberta	012	Brunswick County	0.09	12-1401 Main St	Dead End	6	R							X						08/23/2004
+707999	  12	01421	     	12-1421	Walnut St	161	Town of Alberta	012	Brunswick County	0.10	12-606 Virginia Ave	Dead End	8	R							X						03/13/2007
+708000	  12	01422	     	12-1422	Ramblewood Dr	161	Town of Alberta	012	Brunswick County	0.10	12-1423 Branch Dr	12-1401 Main St	20	R							X						03/13/2007
+708001	  12	01423	     	12-1423	Branch Dr	161	Town of Alberta	012	Brunswick County	0.15	12-1422 Ramblewood Rd	Dead End	20	R							X						03/13/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

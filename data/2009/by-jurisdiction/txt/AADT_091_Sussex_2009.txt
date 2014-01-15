@@ -1,0 +1,550 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Sussex Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050362	  SR	00031	     	VA 31	 	320	Town of Wakefield	091	Sussex County	0.44	US 460	NCL Wakefield	3000	G	96%	1%	1%	1%	1%	0%	C	0.1028	F	0.0000	3200	G	2009
+050388	  SR	00031	     	VA 31	 	091	Sussex County	091	Sussex County	3.22	NCL Wakefield	Surry County Line	3000	N	96%	1%	1%	1%	1%	0%	N	0.1028	N	0.0000	3200	N	2009
+050365	  SR	00035	     	VA 35	Jeruselem Plank Rd	091	Sussex County	091	Sussex County	7.48	Southampton County Line	SR 40 Sussex Dr	1900	G	76%	1%	1%	2%	20%	0%	C	0.0852	F	0.0000	2000	G	2009
+050364	  SR	00035	     	VA 35	Jeruselem Plank Rd	091	Sussex County	091	Sussex County	5.81	SR 40 Sussex Dr	91-626 Neblett Mill Rd	1500	G	76%	2%	1%	1%	19%	0%	C	0.0904	F	0.6379	1600	G	2009
+050363	  SR	00035	     	VA 35	Jeruselem Plank Rd	091	Sussex County	091	Sussex County	4.46	91-626 Neblett Mill Rd	Prince George County Line	2000	G	76%	2%	1%	1%	19%	0%	F	0.0872	F	0.5050	2100	G	2009
+050042	  SR	00040	     	VA 40	Sussex Dr	091	Sussex County	091	Sussex County	4.37	Dinwiddie County Line	Bus SR 40 Lee Ave	2100	G	88%	1%	1%	5%	6%	0%	C	0.0866	F	0.6214	2300	G	2009
+050370	  SR	00040	     	VA 40	Sussex Dr	091	Sussex County	091	Sussex County	1.04	Bus SR 40 Lee Ave	US 301 Blue Star Hwy	2200	G	91%	1%	1%	1%	5%	0%	F	0.0854	F	0.0000	2300	G	2009
+050369	  SR	00040	     	VA 40	Sussex Dr	091	Sussex County	091	Sussex County	0.08	US 301 Blue Star Hwy	I-95	3000	G	91%	1%	1%	1%	5%	0%	C	0.0889	F	0.0000	3200	G	2009
+050368	  SR	00040	     	VA 40	Sussex Dr	091	Sussex County	091	Sussex County	6.72	I-95	91-735 Courthouse Rd	2100	G	85%	2%	1%	1%	10%	0%	C	0.0963	F	0.0000	2200	G	2009
+050367	  SR	00040	     	VA 40	Sussex Dr	091	Sussex County	091	Sussex County	6.53	91-735 Courthouse Rd	SR 35 Jeruselem Plank Rd	1400	G	82%	4%	1%	2%	11%	0%	C	0.1091	F	0.6319	1500	G	2009
+050040	  SR	00040	     	VA 40	Sussex Dr	091	Sussex County	091	Sussex County	5.99	SR 35 Jeruselem Plank Rd	WCL Waverly	1800	G	80%	3%	1%	2%	13%	0%	C	0.0960	F	0.6224	1900	G	2009
+050041	  SR	00040	     	VA 40	W Main St	323	Town of Waverly	091	Sussex County	0.76	WCL Waverly	91-651 Lobbs Shop Rd	1800	N	80%	3%	1%	2%	13%	0%	N	0.0960	N	0.6224	1900	N	2009
+050366	  SR	00040	     	VA 40	W Main St	323	Town of Waverly	091	Sussex County	1.15	91-651 Lobbs Shop Rd	US 460 General Mahone Hwy	4000	G	89%	1%	1%	1%	7%	0%	C	0.0894	F	0.0000	4200	G	2009
+050450	  SR	00040	     	VA 40	W Main St	323	Town of Waverly	091	Sussex County	1.25	US 460 General Mahone Hwy	ECL Waverly	2900	G	95%	1%	1%	2%	2%	0%	C	0.0965	F	0.0000	3100	G	2009
+050455	  SR	00040	     	VA 40	Sussex Dr	091	Sussex County	091	Sussex County	1.86	ECL Waverly	Surry County Line	2900	N	95%	1%	1%	2%	2%	0%	N	0.0965	N	0.0000	3100	N	2009
+789567	  SR	00040	 196B	VA 40 Exit 196B	Ramp	091	Sussex County	091	Sussex County	0.21	SR 40 Sussex Dr	I-95 North	930	A							X	0.1130	A	1.0000	920	A	2009
+050371	C1SR	00040	     	Bus VA 40	Lee Ave	091	Sussex County	091	Sussex County	0.37	SR 40 Sussex Dr	WCL Stony Creek	250	G	96%	1%	1%	1%	1%	0%	C	0.1188	F	0.7419	260	G	2009
+050440	C1SR	00040	     	Bus VA 40	Lee Ave	305	Town of Stony Creek	091	Sussex County	0.74	WCL Stony Creek	US 301 Blue Star Hwy	250	N	96%	1%	1%	1%	1%	0%	N	0.1188	N	0.7419	260	N	2009
+050456	C1SR	00040	     		 	305	Town of Stony Creek	091	Sussex County	0.22	US 301 Stony Creek	SCL Stony Creek	2300	N	93%	0%	2%	4%	2%	0%	N	0.0825	N	0.0000	2500	N	2009	
+050451	C1SR	00040	     		 	091	Sussex County	091	Sussex County	0.02	SCL Stony Creek	SR 40	2300	G	93%	0%	2%	4%	2%	0%	C	0.0825	F	0.0000	2500	G	2009	
+050372	  IS	00095	N    	I-95 NB	 	091	Sussex County	091	Sussex County	0.16	Greenville County Line	US 301	17000	A	82%	1%	1%	1%	15%	0%	F	0.1498	A	1.0000	14000	A	2009		34000	A	84%	1%	1%	0%	14%	0%	F				28000	A
+050373	  IS	00095	N    	I-95 NB	 	091	Sussex County	091	Sussex County	2.95	US 301	91-631 Jarratt	17000	A	82%	1%	1%	1%	15%	0%	F	0.1516	A	1.0000	14000	A	2009		33000	A	84%	1%	1%	0%	14%	0%	F	0.1343	A	0.6756	27000	A
+050117	  IS	00095	N    	I-95 NB	 	091	Sussex County	091	Sussex County	4.04	91-631 Jarratt	91-645	17000	B	82%	1%	1%	1%	15%	0%	F	0.1406	A	1.0000	14000	B	2009		33000	B	84%	1%	1%	0%	14%	0%	F	0.1330	A	0.5268	28000	B
+050374	  IS	00095	N    	I-95 NB	 	091	Sussex County	091	Sussex County	6.63	91-645	SR 40 Stony Creek	17000	A	82%	1%	1%	1%	15%	0%	F	0.1437	A	1.0000	14000	A	2009		34000	A	84%	1%	1%	0%	14%	0%	F	0.1297	A	0.6779	28000	A
+050375	  IS	00095	N    	I-95 NB	 	091	Sussex County	091	Sussex County	0.22	SR 40 Stony Creek	SCL Stony Creek	17000	A	85%	1%	1%	0%	13%	0%	F	0.1417	A	1.0000	14000	A	2009		35000	A	85%	1%	1%	0%	13%	0%	F	0.1280	A	0.5325	29000	A
+050385	  IS	00095	N    	I-95 NB	 	305	Town of Stony Creek	091	Sussex County	0.09	SCL Stony Creek	NCL Stony Creek	17000	A	85%	1%	1%	0%	13%	0%	F	0.1417	A	1.0000	14000	A	2009		35000	A	85%	1%	1%	0%	13%	0%	F				29000	A
+050445	  IS	00095	N    	I-95 NB	 	091	Sussex County	091	Sussex County	2.14	NCL Stony Creek	91-602	17000	A	85%	1%	1%	0%	13%	0%	F	0.1417	A	1.0000	14000	A	2009		35000	A	85%	1%	1%	0%	13%	0%	F				29000	A
+140318	  IS	00095	N    	I-95 NB	 	091	Sussex County	091	Sussex County	1.37	91-602	Prince George County Line	18000	A	84%	1%	1%	0%	14%	0%	C	0.1319	A	1.0000	15000	A	2009		35000	F	84%	1%	1%	0%	13%	0%	F	0.0676	A	1.0000	30000	F
+150300	  IS	00095	S    	I-95 SB	 	091	Sussex County	091	Sussex County	0.58	Greensville County Line	US 301	17000	A	85%	1%	1%	0%	13%	0%	F	0.1442	A	1.0000	14000	A	2009		34000	A	84%	1%	1%	0%	14%	0%	F				28000	A
+150004	  IS	00095	S    	I-95 SB	 	091	Sussex County	091	Sussex County	3.04	US 301	91-631 Jarratt	17000	A	85%	1%	1%	0%	13%	0%	F	0.1438	A	1.0000	14000	A	2009		33000	A	84%	1%	1%	0%	14%	0%	F	0.1343	A	0.6756	27000	A
+150003	  IS	00095	S    	I-95 SB	 	091	Sussex County	091	Sussex County	3.92	91-631 Jarratt	91-645	17000	B	85%	1%	1%	0%	13%	0%	F	0.1478	A	1.0000	14000	B	2009		33000	B	84%	1%	1%	0%	14%	0%	F	0.1330	A	0.5268	28000	B
+150002	  IS	00095	S    	I-95 SB	 	091	Sussex County	091	Sussex County	6.54	91-645	SR 40 Stony Creek	17000	A	85%	1%	1%	0%	13%	0%	F	0.1443	A	1.0000	14000	A	2009		34000	A	84%	1%	1%	0%	14%	0%	F	0.1297	A	0.6779	28000	A
+150001	  IS	00095	S    	I-95 SB	 	091	Sussex County	091	Sussex County	2.52	SR 40 Stony Creek	91-602	17000	A	85%	1%	1%	0%	13%	0%	F	0.1398	A	1.0000	14000	A	2009		35000	A	85%	1%	1%	0%	13%	0%	F	0.1280	A	0.5325	29000	A
+140033	  IS	00095	S    	I-95 SB	 	091	Sussex County	091	Sussex County	0.97	91-602	Prince George County Line	17000	F	85%	1%	1%	0%	13%	0%	F				16000	F	2009		35000	F	84%	1%	1%	0%	13%	0%	F				30000	F
+789359	  IS	00095	S020A	I-95 SB Exit 020A	Ramp	091	Sussex County	091	Sussex County	0.23	I-95 South	91-631	690	B							X	0.1131	A	1.0000	690	B	2009
+789360	  IS	00095	S024A	I-95 SB Exit 024A	Ramp	091	Sussex County	091	Sussex County	0.21	I-95 South	91-645	170	A							X				170	A	2009
+789361	  IS	00095	S031A	I-95 SB Exit 031A	Ramp	091	Sussex County	091	Sussex County	0.14	I-95 South	SR 40 Sussex Dr	860	A							X	0.1172	A	1.0000	860	A	2009
+050240	  SR	00139	     	VA 139	Jarratt Ave	244	Town of Jarratt	040	Greensville County	0.76	40-610 CL Jarratt	Sussex County Line	1300	G	91%	0%	1%	1%	7%	0%	F	0.1157	F	0.5156	1400	G	2009
+050044	  SR	00139	     	VA 139	Jarratt Ave	244	Town of Jarratt	091	Sussex County	0.23	Greensville County Line	91-646	2400	G	91%	0%	1%	1%	7%	0%	C	0.0921	F	0.0000	2500	G	2009
+050376	  SR	00139	     	VA 139	Jarratt Ave	244	Town of Jarratt	091	Sussex County	0.49	91-646	US 301 Jarratt	2000	G	91%	0%	1%	1%	7%	0%	F	0.0889	F	0.5845	2200	G	2009
+050381	  US	00301	     	US 301	 	091	Sussex County	091	Sussex County	3.69	Greensville County Line	SR 139 Jarratt	3400	G	96%	0%	1%	1%	2%	0%	F	0.1070	F	0.0000	3600	G	2009
+050380	  US	00301	     	US 301	 	091	Sussex County	091	Sussex County	4.00	SR 139 Jarratt	91-645	970	G	95%	1%	1%	1%	2%	0%	C	0.0968	F	0.5726	1000	G	2009
+050379	  US	00301	     	US 301	 	091	Sussex County	091	Sussex County	3.93	91-645	91-734	780	G	95%	1%	1%	1%	2%	0%	F	0.1044	F	0.6558	840	G	2009
+050378	  US	00301	     	US 301	 	091	Sussex County	091	Sussex County	2.77	91-734	SR 40	910	G	95%	1%	1%	1%	2%	0%	F	0.0946	F	0.6473	970	G	2009
+050451	  US	00301	     		 	091	Sussex County	091	Sussex County	0.02	SR 40	SCL Stony Creek	2300	G	93%	0%	2%	4%	2%	0%	C	0.0825	F	0.0000	2500	G	2009
+050456	  US	00301	     		 	305	Town of Stony Creek	091	Sussex County	0.22	SCL Stony Creek	BUS SR 40	2300	N	93%	0%	2%	4%	2%	0%	N	0.0825	N	0.0000	2500	N	2009
+050377	  US	00301	     	US 301	 	091	Sussex County	091	Sussex County	3.52	BUS SR 40	Prince George County Line	1600	G	86%	0%	2%	2%	10%	0%	F	0.0949	F	0.5178	1800	G	2009
+050384	  US	00460	     	US 460	 	091	Sussex County	091	Sussex County	6.24	Prince George County Line	WCL Waverly	12000	G	84%	1%	1%	1%	13%	0%	F				11000	G	2009
+050435	  US	00460	     	US 460	 	323	Town of Waverly	091	Sussex County	0.66	WCL Waverly	SR 40 W Main St	12000	N	84%	1%	1%	1%	13%	0%	N				11000	N	2009
+050457	  US	00460	     	US 460	 	323	Town of Waverly	091	Sussex County	0.72	SR 40 W Main St	ECL Waverly	9400	N	96%	0%	0%	1%	3%	0%	N	0.0891	N	0.5011	8400	N	2009
+050437	  US	00460	     	US 460	 	091	Sussex County	091	Sussex County	6.28	ECL Waverly	WCL Wakefield	9400	N	96%	0%	0%	1%	3%	0%	N	0.0891	N	0.5011	8400	N	2009
+050447	  US	00460	     	US 460	 	320	Town of Wakefield	091	Sussex County	1.06	WCL Wakefield	ECL Wakefield	9400	N	96%	0%	0%	1%	3%	0%	N	0.0891	N	0.5011	8400	N	2009
+050383	  US	00460	     	US 460	 	091	Sussex County	091	Sussex County	1.80	ECL Wakefield	Southampton County Line	9400	G	96%	0%	0%	1%	3%	0%	C	0.0891	F	0.5011	8400	G	2009
+780526	  FR	00311	     	FR 311	Slagle Rd	091	Sussex County	091	Sussex County	1.99	Dead End	Dead End	49	R							X						04/16/2008
+780527	  FR	00313	     	FR 313	 	091	Sussex County	091	Sussex County	1.93	91-648	91-659 Gee Farm	40	R							X						04/16/2008
+780528	  FR	00314	     	FR 314	 	091	Sussex County	091	Sussex County	0.09	Dead End	91-648	70	R							X						04/16/2008
+780529	  FR	00315	     	FR 315	Andrew Rd	091	Sussex County	091	Sussex County	5.17	91-646; 91-1107	91-640; 91-642	130	R							X						04/16/2008
+780531	  FR	00317	     	FR 317	Redbank Rd	091	Sussex County	091	Sussex County	0.39	SR 40 Sussex Dr	Dead End	20	R							X						04/16/2008
+780534	  FR	00321	     	FR 321	 	091	Sussex County	091	Sussex County	1.31	Dead End	91-631	0	?							X
+303764	  40	00610	     	40-610	Allen Rd	244	Town of Jarratt	040	Greensville County	0.29	WCL Jarratt	40-1101 Grigg Ave	1700	N	97%	2%	1%	1%	0%	0%	N	0.1208	N	0.5260	1800	N	2009
+300117	  40	00630	     	40-630	 	244	Town of Jarratt	040	Greensville County	0.23	SR 139 Jarratt Ave	NCL Jarratt	670	G	91%	2%	0%	2%	5%	0%	F	0.1100	F	0.5965	720	G	2009
+742743	  40	01101	     	40-1101	Grigg Ave	244	Town of Jarratt	040	Greensville County	0.13	40-610 Allen Rd	40-1107 Gray St	130	R							X						06/16/2005
+742744	  40	01101	     	40-1101	Grigg Ave	244	Town of Jarratt	040	Greensville County	0.09	40-1107 Gray St	40-1102	110	R							X						06/16/2005
+742745	  40	01101	     	40-1101	Grigg Ave	244	Town of Jarratt	040	Greensville County	0.38	40-1102	40-1106 Susan St	160	R							X						06/16/2005
+742746	  40	01101	     	40-1101	Grigg Ave	244	Town of Jarratt	040	Greensville County	0.02	40-1106 Susan St	40-1108 Willow Ave	220	R							X						06/16/2005
+742747	  40	01101	     	40-1101	 	244	Town of Jarratt	040	Greensville County	0.03	40-1108 Willow Ave	40-1105 First St	390	R							X						06/16/2005
+742748	  40	01101	     	40-1101	 	244	Town of Jarratt	040	Greensville County	0.05	40-1105 First St	40-1103 Braxton Ave	290	R							X						06/16/2005
+742749	  40	01101	     	40-1101	 	244	Town of Jarratt	040	Greensville County	0.13	40-1103 Braxton Ave	Sussex County Line	250	R							X						06/16/2005
+742752	  40	01102	     	40-1102	 	244	Town of Jarratt	040	Greensville County	0.25	SCL Jarratt	40-1101 Grigg Ave	80	R							X						06/16/2005
+742754	  40	01103	     	40-1103	Braxton Ave	244	Town of Jarratt	040	Greensville County	0.14	SCL Jarratt	40-1111 St Francis St	100	R							X						06/16/2005
+742755	  40	01103	     	40-1103	Braxton Ave	244	Town of Jarratt	040	Greensville County	0.15	40-1111 St Francis St	40-1101	180	R							X						06/16/2005
+742756	  40	01103	     	40-1103	 	244	Town of Jarratt	040	Greensville County	0.03	40-1101	Sussex County Line	240	R							X						06/16/2005
+742757	  40	01104	     	40-1104	Lincoln Ave	244	Town of Jarratt	040	Greensville County	0.12	40-630; NCL Jarratt	40-1110 Pine St	150	R							X						06/07/2005
+742758	  40	01104	     	40-1104	Lincoln Ave	244	Town of Jarratt	040	Greensville County	0.17	40-1110 Pine St	40-1112 York St	50	R							X						06/06/2005
+742759	  40	01105	     	40-1105	Ivey St	244	Town of Jarratt	040	Greensville County	0.15	40-1111 St Francis St	40-1101 Grigg Ave	80	R							X						06/07/2005
+742760	  40	01106	     	40-1106	Susan St	244	Town of Jarratt	040	Greensville County	0.07	Dead End	40-1111 St Francis St	80	R							X						06/07/2005
+742761	  40	01106	     	40-1106	Susan St	244	Town of Jarratt	040	Greensville County	0.15	40-1111 St Francis St	40-1101 Grigg Ave	190	R							X						06/07/2005
+742762	  40	01107	     	40-1107	Gray St	244	Town of Jarratt	040	Greensville County	0.25	40-1101 Grigg Ave	Dead End	220	R							X						06/16/2005
+742763	  40	01108	     	40-1108	Park St; Town St	244	Town of Jarratt	040	Greensville County	0.17	Dead End	40-1109 N, Pine Place	40	R							X						06/16/2005
+742764	  40	01108	     	40-1108	Park St; Town St	244	Town of Jarratt	040	Greensville County	0.07	40-1109 N, Pine Place	40-1109 S, Pine Place	7	R							X						06/16/2005
+742765	  40	01108	     	40-1108	Park St; Town St	244	Town of Jarratt	040	Greensville County	0.04	40-1109 S, Pine Place	40-1101 Grigg Ave	170	R							X						06/16/2005
+742766	  40	01109	     	40-1109	Pine Place	244	Town of Jarratt	040	Greensville County	0.09	40-1108 Park St; Town St	40-1108 Park St; Town St	20	R							X						06/16/2005
+742767	  40	01110	     	40-1110	Pine St	244	Town of Jarratt	040	Greensville County	0.64	SR 139 Jarrett Ave	Sussex County Line	170	R							X						06/16/2005
+742768	  40	01111	     	40-1111	St Francis St	244	Town of Jarratt	040	Greensville County	0.05	40-1106 Susan St	40-1105 Ivey St	90	R							X						06/16/2005
+742769	  40	01111	     	40-1111	St Francis St	244	Town of Jarratt	040	Greensville County	0.05	40-1105 Ivey St	40-1103 Braxton Ave	180	R							X						06/16/2005
+742770	  40	01112	     	40-1112	York St	244	Town of Jarratt	040	Greensville County	0.07	40-1113 Batte St	40-1104 Lincoln Ave	30	R							X						06/16/2005
+742771	  40	01112	     	40-1112	York St	244	Town of Jarratt	040	Greensville County	0.10	40-1104 Lincoln Ave	40-1110 Pine St	40	R							X						06/16/2005
+742772	  40	01113	     	40-1113	Batte St	244	Town of Jarratt	040	Greensville County	0.15	40-630 Allen Rd	40-1110 Pine St	150	R							X						06/16/2005
+742773	  40	01113	     	40-1113	Batte St	244	Town of Jarratt	040	Greensville County	0.18	40-1110 Pine St	40-1112 York St	40	R							X						06/16/2005
+742774	  40	01114	     	40-1114	 	244	Town of Jarratt	040	Greensville County	0.23	40-630 Allen Rd	40-1116 Nicholson St	100	R							X						06/16/2005
+742775	  40	01115	     	40-1115	Duncan St	244	Town of Jarratt	040	Greensville County	0.03	Dead End	40-1110 Pine St	30	R							X						06/16/2005
+783194	  40	01115	     	40-1115	Pine St	244	Town of Jarratt	040	Greensville County	0.12	40-1110 Pine St	40-1116	40	R							X						05/13/2008
+742776	  40	01116	     	40-1116	Nicholson St	244	Town of Jarratt	040	Greensville County	0.06	SR 139 Jarratt Ave	40-1114	47	R							X						06/16/2005
+783195	  40	01116	     	40-1116	 	244	Town of Jarratt	040	Greensville County	0.12	40-1114	40-1115 Pine St	140	R							X						05/13/2008
+742777	  40	01117	     	40-1117	 	244	Town of Jarratt	040	Greensville County	0.24	Sussex County Line	Dead End	10	R							X						06/16/2005
+742778	  40	01118	     	40-1118	 	244	Town of Jarratt	040	Greensville County	0.11	40-630 Allen Rd	40-1110 Pine St	130	R							X						05/13/2008
+775293	  91	00600	     	91-600	 	091	Sussex County	091	Sussex County	1.20	91-628	Southampton County Line	120	R							X						02/07/2008
+775294	  91	00601	     	91-601	 	091	Sussex County	091	Sussex County	0.80	91-628	Southampton County Line	90	R							X						02/07/2008
+775295	  91	00602	     	91-602	 	091	Sussex County	091	Sussex County	0.25	Dead End	91-618 SOUTH	10	R							X						02/07/2008
+300316	  91	00602	     	91-602	St Johns Church Rd	091	Sussex County	091	Sussex County	0.60	91-618 NORTH	91-657 Gallary Rd	200	G	79%	0%	1%	14%	6%	0%	F	0.1773	F	0.6047	210	G	2009
+300317	  91	00602	     	91-602	St Johns Church Rd	091	Sussex County	091	Sussex County	0.60	91-657 Gallary Rd	US 301	620	G	79%	0%	1%	14%	6%	0%	C	0.1241	F	0.5507	660	G	2009
+300318	  91	00602	     	91-602	Cabin Point Rd	091	Sussex County	091	Sussex County	0.39	US 301	91-670 Setzer Lane	500	G	82%	0%	0%	4%	14%	0%	F	0.1032	F	0.6871	530	G	2009
+300319	  91	00602	     	91-602	Cabin Point Rd	091	Sussex County	091	Sussex County	1.55	91-670 Setzer Lane	91-623 Rowanty Rd	380	G	82%	0%	0%	4%	14%	0%	F	0.1045	F	0.5043	410	G	2009
+300320	  91	00602	     	91-602	Cabin Point Rd	091	Sussex County	091	Sussex County	2.41	91-623 Rowanty Rd	91-638 Zion Rd	280	G	82%	0%	0%	4%	14%	0%	C	0.1159	F	0.7105	300	G	2009
+300321	  91	00602	     	91-602	Cabin Point Rd	091	Sussex County	091	Sussex County	0.53	91-638 Zion Rd	91-637 Bethal Church Rd	290	G	82%	0%	0%	4%	14%	0%	F	0.1068	F	0.6264	310	G	2009
+300322	  91	00602	     	91-602	Cabin Point Rd	091	Sussex County	091	Sussex County	3.42	91-637 Bethal Church Rd	SR 35 S, Jeruselem Plank Rd	210	G	82%	0%	0%	4%	14%	0%	F	0.1248	F	0.5789	220	G	2009
+775296	  91	00602	     	91-602	 	091	Sussex County	091	Sussex County	6.10	SR 35 N, Jeruselem Plank Rd	91-625	320	R							X						02/07/2008
+775297	  91	00602	     	91-602	 	091	Sussex County	091	Sussex County	3.20	91-625	91-626 Beef Steak Rd	1000	R							X						02/07/2008
+775298	  91	00602	     	91-602	Cabin Point Rd	091	Sussex County	091	Sussex County	0.30	91-626 Beef Steak Rd	US 460	1400	R							X						02/07/2008
+775299	  91	00602	     	91-602	Petersburg Rd	091	Sussex County	091	Sussex County	1.10	US 460	91-613	260	R							X						02/07/2008
+775300	  91	00602	     	91-602	 	091	Sussex County	091	Sussex County	0.90	91-613	Surry County Line	180	R							X						02/07/2008
+789182	  91	00602	 001B	91-602 Exit 001B	Ramp	091	Sussex County	091	Sussex County	0.16	91-602 I-95-N033A TO AND FROM RT	I-95-N FROM RT 602	1300	F							X				1300	F	2009
+300323	  91	00603	     	91-603	Church St	320	Town of Wakefield	091	Sussex County	0.32	91-628 Main St	US 460	1100	G	98%	1%	0%	1%	0%	0%	C	0.1172	F	0.0000	1200	G	2009
+300324	  91	00603	     	91-603	Church St	320	Town of Wakefield	091	Sussex County	0.30	US 460	NCL Wakefield	240	G	98%	1%	0%	1%	0%	0%	F	0.1213	F	0.5507	260	G	2009
+303783	  91	00603	     	91-603	 	091	Sussex County	091	Sussex County	0.81	NCL Wakefield	91-615	240	N	98%	1%	0%	1%	0%	0%	N	0.1213	N	0.5507	260	N	2009
+775301	  91	00603	     	91-603	 	091	Sussex County	091	Sussex County	1.90	91-615	91-604	310	R							X						02/07/2008
+775302	  91	00603	     	91-603	 	091	Sussex County	091	Sussex County	1.10	91-604	91-614	100	R							X						02/07/2008
+775303	  91	00603	     	91-603	 	091	Sussex County	091	Sussex County	0.70	91-614	91-613	170	R							X						02/07/2008
+775304	  91	00603	     	91-603	 	091	Sussex County	091	Sussex County	1.20	91-613	Surry County Line	50	R							X						02/07/2008
+775305	  91	00604	     	91-604	 	091	Sussex County	091	Sussex County	3.30	91-634	91-606 SOUTH	30	R							X						02/07/2008
+775306	  91	00604	     	91-604	Summefield Rd	091	Sussex County	091	Sussex County	2.90	91-606 NORTH	91-621 Harrells Mill Rd	40	R							X						02/07/2008
+775307	  91	00604	     	91-604	Chiquapin Rd	091	Sussex County	091	Sussex County	1.60	91-621 Harrells Mill Rd	US 460	150	R							X						02/07/2008
+300325	  91	00604	     	91-604	 	091	Sussex County	091	Sussex County	4.01	US 460	Surry County Line	590	G	96%	0%	0%	1%	3%	0%	C	0.1239	F	0.6027	640	G	2009
+775308	  91	00605	     	91-605	Barrett Church Rd	091	Sussex County	091	Sussex County	1.70	91-606 Union Hill Rd	Southampton County Line	50	R							X						02/07/2008
+775309	  91	00606	     	91-606	Union Hill Rd	091	Sussex County	091	Sussex County	1.80	Southampton County Line	91-605 Barrett Church Rd	47	R							X						02/07/2008
+775310	  91	00606	     	91-606	 	091	Sussex County	091	Sussex County	1.80	91-605 Barrett Church Rd	91-622 SOUTH	80	R							X						02/07/2008
+775311	  91	00606	     	91-606	 	091	Sussex County	091	Sussex County	7.39	91-622 SOUTH	91-614 Walnut Hill Rd	360	R							X						02/07/2008
+775312	  91	00606	     	91-606	 	091	Sussex County	091	Sussex County	0.90	91-614 Walnut Hill Rd	91-653 Bank St	570	R							X						02/07/2008
+300326	  91	00606	     	91-606	 	091	Sussex County	091	Sussex County	0.40	91-653 Bank St	US 460	820	G	97%	1%	1%	2%	0%	0%	C	0.0986	F	0.5484	880	G	2009
+300327	  91	00606	     	91-606	 	091	Sussex County	091	Sussex County	0.60	US 460	SR 40 W, W Main St	660	G	96%	1%	2%	0%	1%	0%	C	0.1245	F	0.5814	710	G	2009
+300328	  91	00606	     	91-606	Beaver Dam Rd	323	Town of Waverly	091	Sussex County	0.60	SR 40 W, W Main St	NCL Waverly	270	G	96%	1%	2%	0%	1%	0%	F	0.1165	F	0.5224	290	G	2009
+303784	  91	00606	     	91-606	 	091	Sussex County	091	Sussex County	0.56	NCL Waverly	91-613 WEST	270	N	96%	1%	2%	0%	1%	0%	N	0.1165	N	0.5224	290	N	2009
+300329	  91	00606	     	91-606	 	091	Sussex County	091	Sussex County	0.82	91-613 WEST	SR 40 E; 91-613 EAST	160	G	96%	1%	2%	0%	1%	0%	F	0.1440	F	0.6038	170	G	2009
+775313	  91	00607	     	91-607	Sandy Hill Rd	091	Sussex County	091	Sussex County	3.40	Southampton County Line	91-631 Gary Rd	30	R							X						02/07/2008
+775314	  91	00608	     	91-608	Poole Rd	091	Sussex County	091	Sussex County	3.00	91-642 Coman Wells Rd	91-632 NORTH	60	R							X						04/01/2008
+775315	  91	00608	     	91-608	 	091	Sussex County	091	Sussex County	1.85	91-632 S, Hunting Quarter Rd	91-631 N, Gary Rd	70	R							X						04/01/2008
+775316	  91	00608	     	91-608	 	091	Sussex County	091	Sussex County	1.80	91-631 S, Gary Rd	Southampton County Line	20	R							X						04/01/2008
+775317	  91	00609	     	91-609	 	091	Sussex County	091	Sussex County	0.50	Greensville County Line	US 301	110	G	95%	1%	1%	0%	1%	0%	C	0.1538	F	0.6250	110	G	2009
+775318	  91	00609	     	91-609	 	091	Sussex County	091	Sussex County	0.70	US 301	91-612	280	R							X						04/01/2008
+775319	  91	00609	     	91-609	Lebanon Church Rd	091	Sussex County	091	Sussex County	2.70	91-612	91-611 SOUTH	380	R							X						04/01/2008
+775320	  91	00609	     	91-609	Gray Rd	091	Sussex County	091	Sussex County	1.40	91-611 NORTH	91-610 Harrell Rd	380	R							X						04/01/2008
+775321	  91	00609	     	91-609	 	091	Sussex County	091	Sussex County	3.30	91-610 Harrell Rd	91-635	140	R							X						04/01/2008
+775322	  91	00609	     	91-609	 	091	Sussex County	091	Sussex County	1.85	91-635	91-697	80	R							X						04/01/2008
+775323	  91	00609	     	91-609	 	091	Sussex County	091	Sussex County	2.25	91-697	91-735 Courthouse Rd	20	R							X						04/01/2008
+775324	  91	00610	     	91-610	Harrell Rd	091	Sussex County	091	Sussex County	3.13	Southampton County Line	91-609 Gray Rd	180	R							X						04/01/2008
+775325	  91	00610	     	91-610	 	091	Sussex County	091	Sussex County	3.10	91-609 Gray Rd	91-631	390	G	94%	1%	2%	1%	2%	0%	C	0.1191	F	0.7708	390	G	2009
+775326	  91	00611	     	91-611	 	091	Sussex County	091	Sussex County	1.30	Greensville County Line	91-612 NORTH	340	R							X						04/01/2008
+775327	  91	00611	     	91-611	 	091	Sussex County	091	Sussex County	2.90	91-612 NORTH	91-609 N, Gray Rd	170	R							X						04/01/2008
+775328	  91	00611	     	91-611	 	091	Sussex County	091	Sussex County	1.50	91-609 N, Gray Rd	91-610	70	R							X						04/01/2008
+775329	  91	00612	     	91-612	Proctor Rd	091	Sussex County	091	Sussex County	1.50	Southampton County Line	91-611 SOUTH	210	R							X						04/01/2008
+775330	  91	00612	     	91-612	 	091	Sussex County	091	Sussex County	4.20	91-611 NORTH	91-609 Lebanon Church Rd	330	R							X						04/01/2008
+775331	  91	00613	     	91-613	 	091	Sussex County	091	Sussex County	5.45	Prince George County Line	91-653	120	R							X						04/01/2008
+300330	  91	00613	     	91-613	 	091	Sussex County	091	Sussex County	2.20	91-653	91-606 SOUTH	110	G	94%	3%	1%	0%	2%	0%	C	0.1466	F	0.5294	120	G	2009
+775332	  91	00613	     	91-613	 	091	Sussex County	091	Sussex County	3.97	SR 40; 91-606 NORTH	91-603	170	R							X						04/01/2008
+775333	  91	00614	     	91-614	Walnut Hill Rd	091	Sussex County	091	Sussex County	1.40	91-606	US 460	70	R							X						04/01/2008
+775334	  91	00614	     	91-614	 	091	Sussex County	091	Sussex County	0.80	US 460	91-615	250	R							X						04/01/2008
+775335	  91	00614	     	91-614	 	091	Sussex County	091	Sussex County	3.10	91-615	91-603	110	R							X						04/01/2008
+775336	  91	00615	     	91-615	Georgetown Rd	323	Town of Waverly	091	Sussex County	0.28	SR 40, W Main St	ECL Waverly	310	R							X						04/01/2008
+785232	  91	00615	     	91-615	 	091	Sussex County	091	Sussex County	1.89	ECL Waverly	91-614	300	R							X						02/25/2002
+775337	  91	00615	     	91-615	 	091	Sussex County	091	Sussex County	1.00	91-614	91-700 George Town Rd	200	R							X						04/01/2008
+775338	  91	00615	     	91-615	 	091	Sussex County	091	Sussex County	1.60	91-700 George Town Rd	91-604	310	R							X						04/01/2008
+775339	  91	00615	     	91-615	 	091	Sussex County	091	Sussex County	1.99	91-604	91-603	130	R							X						04/01/2008
+775340	  91	00616	     	91-616	 	091	Sussex County	091	Sussex County	2.80	91-656	91-619 EAST	70	R							X						04/01/2008
+775341	  91	00616	     	91-616	 	091	Sussex County	091	Sussex County	1.80	91-619 WEST	Dinwiddie County Line	10	R							X						04/01/2008
+300331	  91	00617	     	91-617	 	091	Sussex County	091	Sussex County	0.87	SR 31	Surry County Line	670	G	93%	1%	2%	2%	2%	0%	C	0.1061	F	0.5128	720	G	2009
+775342	  91	00618	     	91-618	 	091	Sussex County	091	Sussex County	0.85	Dinwiddie County Line	91-602 SOUTH	230	R							X						04/01/2008
+300332	  91	00618	     	91-618	 	091	Sussex County	091	Sussex County	1.30	91-602 SOUTH	91-657 Gallary Rd	110	G	99%	0%	1%	0%	0%	0%	C	0.1377	F	0.5263	120	G	2009
+300333	  91	00619	     	91-619	 	091	Sussex County	091	Sussex County	3.30	Greensville County Line	91-681	260	G	94%	2%	3%	1%	1%	0%	C	0.1135	F	0.5938	280	G	2009
+300334	  91	00619	     	91-619	 	091	Sussex County	091	Sussex County	0.50	91-681	Dinwiddie County Line	500	G	94%	2%	3%	1%	1%	0%	F	0.0920	F	0.6286	530	G	2009
+775343	  91	00620	     	91-620	 	091	Sussex County	091	Sussex County	3.30	91-622	91-621 Harrells Mill Rd	180	R							X						02/14/2002
+300335	  91	00620	     	91-620	 	091	Sussex County	091	Sussex County	1.15	91-621 Harrells Mill Rd	WCL Wakefield	330	G	96%	1%	0%	0%	2%	0%	C	0.1549	F	0.6842	350	G	2009
+303785	  91	00620	     	91-620	Brittles Neck Rd	320	Town of Wakefield	091	Sussex County	0.14	WCL Wakefield	91-628 Main St	330	N	96%	1%	0%	0%	2%	0%	N	0.1549	N	0.6842	350	N	2009
+775344	  91	00621	     	91-621	 	091	Sussex County	091	Sussex County	1.58	91-654 Coppahaunk Rd	91-606	30	R							X						04/01/2008
+775345	  91	00621	     	91-621	 	091	Sussex County	091	Sussex County	2.58	91-606	91-604 Chiquapin Rd; Summefield Rd	60	R							X						04/01/2008
+775346	  91	00621	     	91-621	Harrells Mill Rd	091	Sussex County	091	Sussex County	3.20	91-604 Chiquapin Rd; Summefield Rd	91-620	190	R							X						04/01/2008
+775347	  91	00622	     	91-622	Beaver Dam Rd	091	Sussex County	091	Sussex County	1.90	91-634 Old Forty Rd	SR 35 N, Jeruselem Plank Rd	80	R							X						04/01/2008
+775348	  91	00622	     	91-622	 	091	Sussex County	091	Sussex County	2.51	SR 35 S, Jeruselem Plank Rd	91-606 WEST	210	R							X						02/07/2008
+775349	  91	00622	     	91-622	 	091	Sussex County	091	Sussex County	4.00	91-606 EAST	91-620	130	R							X						02/07/2008
+775350	  91	00622	     	91-622	 	091	Sussex County	091	Sussex County	1.60	91-620	91-628	130	R							X						02/07/2008
+300336	  91	00623	     	91-623	Rowanty Rd	091	Sussex County	091	Sussex County	0.70	91-602 Cabin Point Rd	Prince George County Line	180	G	97%	1%	2%	1%	1%	0%	C	0.1495	F	0.5517	190	G	2009
+775351	  91	00624	     	91-624	 	091	Sussex County	091	Sussex County	1.70	91-602	Prince George County Line	30	R							X						02/07/2008
+775352	  91	00625	     	91-625	Newville Rd	091	Sussex County	091	Sussex County	3.00	SR 35 Jeruselem Plank Rd	91-655	320	R							X						02/07/2008
+300337	  91	00625	     	91-625	 	091	Sussex County	091	Sussex County	0.10	91-655	91-626 Beef Steak Rd	390	G	96%	1%	1%	1%	1%	0%	F	0.1189	F	0.6154	410	G	2009
+300338	  91	00625	     	91-625	 	091	Sussex County	091	Sussex County	5.70	91-626 Beef Steak Rd	Prince George County Line	390	G	96%	1%	1%	1%	1%	0%	C	0.1432	F	0.5645	420	G	2009
+300339	  91	00626	     	91-626	 	091	Sussex County	091	Sussex County	5.65	SR 40 Sussex Dr	SR 35 W, Jeruselem Plank Rd	570	G	98%	1%	0%	0%	1%	0%	F	0.1115	F	0.6212	610	G	2009
+300340	  91	00626	     	91-626	 	091	Sussex County	091	Sussex County	4.90	SR 35 E, Jeruselem Plank Rd	91-625	100	G	98%	1%	0%	0%	1%	0%	C	0.1683	F	0.5294	110	G	2009
+775353	  91	00626	     	91-626	Beef Steak Rd	091	Sussex County	091	Sussex County	5.79	91-625	91-602 Cabin Point Rd	180	R							X						02/07/2008
+300341	  91	00627	     	91-627	Baxter Rd	091	Sussex County	091	Sussex County	2.21	SR 35 Jeruselem Plank Rd	Prince George County Line	90	G	93%	0%	1%	5%	2%	0%	C	0.1531	F	0.6000	90	G	2009
+300342	  91	00628	     	91-628	 	091	Sussex County	091	Sussex County	4.52	Southampton County Line	SCL Wakefield	640	G	96%	1%	1%	1%	1%	0%	F	0.1124	F	0.5671	680	G	2009
+303786	  91	00628	     	91-628	Main St	320	Town of Wakefield	091	Sussex County	0.53	SCL Wakefield	91-620 Brittles Neck Rd	640	N	96%	1%	1%	1%	1%	0%	N	0.1124	N	0.5671	680	N	2009
+300343	  91	00628	     	91-628	Main St	320	Town of Wakefield	091	Sussex County	0.57	91-620 Brittles Neck Rd	US 460	1800	G	96%	1%	1%	1%	1%	0%	C	0.1048	F	0.5049	1900	G	2009
+775354	  91	00629	     	91-629	 	091	Sussex County	091	Sussex County	0.10	SR 31	Surry County Line	90	R							X						02/07/2008
+300344	  91	00630	     	91-630	 	091	Sussex County	091	Sussex County	1.20	Greensville County Line	91-656	390	G	85%	2%	1%	0%	12%	0%	F	0.1017	F	0.5392	420	G	2009
+300345	  91	00630	     	91-630	 	091	Sussex County	091	Sussex County	2.49	91-656	91-687 Parham Rd	270	G	85%	2%	1%	0%	12%	0%	C	0.1119	F	0.5152	290	G	2009
+300346	  91	00630	     	91-630	 	091	Sussex County	091	Sussex County	0.90	91-687 Parham Rd	91-681	310	G	85%	2%	1%	0%	12%	0%	F	0.0967	F	0.5570	330	G	2009
+775355	  91	00630	     	91-630	Little Mill Rd	091	Sussex County	091	Sussex County	2.20	91-681	Dinwiddie County Line	280	R							X						02/07/2008
+300347	  91	00631	     	91-631	 	091	Sussex County	091	Sussex County	4.53	US 301	91-645 NORTH	200	G	92%	2%	0%	0%	5%	0%	C	0.1106	F	0.6000	210	G	2009
+300348	  91	00631	     	91-631	 	091	Sussex County	091	Sussex County	6.65	91-645 S, Owen Rd	91-735 W, Courthouse Rd	80	G	92%	2%	0%	0%	5%	0%	F	0.1250	F	0.7143	80	G	2009
+775356	  91	00631	     	91-631	Gary Rd	091	Sussex County	091	Sussex County	7.98	91-735 E, Courthouse Rd	91-607 Sandy Hill Rd	120	R							X						02/07/2008
+775357	  91	00631	     	91-631	 	091	Sussex County	091	Sussex County	1.60	91-607 Sandy Hill Rd	SR 35 Jeruselem Plank Rd	260	R							X						02/07/2008
+789184	  91	00631	 000B	91-631 Exit 000B	Ramp	091	Sussex County	091	Sussex County	0.26	91-631	I-95 North	640	B							X				670	B	2009
+775358	  91	00632	     	91-632	 	091	Sussex County	091	Sussex County	0.90	91-631 Gary Rd	91-660	40	R							X						02/07/2008
+775359	  91	00632	     	91-632	Gilliam Rd	091	Sussex County	091	Sussex County	0.85	91-660	91-718	49	R							X						02/07/2008
+775360	  91	00632	     	91-632	Hunting Quarter Rd	091	Sussex County	091	Sussex County	0.35	91-718	91-608 SOUTH	70	R							X						02/07/2008
+775361	  91	00632	     	91-632	 	091	Sussex County	091	Sussex County	2.90	91-608 SOUTH	91-634 S, Old Forty Rd	80	R							X						02/07/2008
+775362	  91	00632	     	91-632	 	091	Sussex County	091	Sussex County	2.20	91-634 N, Old Forty Rd	SR 40 Sussex Dr	110	R							X						02/07/2008
+775363	  91	00632	     	91-632	 	091	Sussex County	091	Sussex County	2.40	SR 40 Sussex Dr	2.40 MN SR 40	20	R							X						02/07/2008
+775364	  91	00632	     	91-632	Robinson Rd	091	Sussex County	091	Sussex County	1.00	2.40 MN SR 40	91-626	20	R							X						02/07/2008
+775365	  91	00633	     	91-633	Brown Rd	091	Sussex County	091	Sussex County	0.95	Dead End	91-621	30	R							X						02/07/2008
+300349	  91	00634	     	91-634	Princeton Rd	091	Sussex County	091	Sussex County	1.00	SR 40 W, Sussex Dr	91-735 S, Courthouse Rd	430	G	95%	0%	1%	1%	3%	0%	F	0.1470	F	0.6892	460	G	2009
+470089	  91	00634	     	91-634	Old Forty Rd	091	Sussex County	091	Sussex County	4.30	91-735 N, Courthouse Rd	91-650	210	G	95%	0%	1%	1%	3%	0%	C	0.1328	F	0.6176	230	G	2009
+407090	  91	00634	     	91-634	Old Forty Rd	091	Sussex County	091	Sussex County	4.83	91-650	SR 35 Jeruselem Plank Rd	100	G	95%	0%	1%	1%	3%	0%	F	0.1429	F	0.6842	110	G	2009
+775366	  91	00634	     	91-634	 	091	Sussex County	091	Sussex County	2.86	SR 35 Jeruselem Plank Rd	SR 40 E, Sussex Dr	160	R							X						02/07/2008
+775367	  91	00635	     	91-635	 	091	Sussex County	091	Sussex County	3.35	91-610 Harrell Rd	91-609	40	R							X						02/07/2008
+775368	  91	00635	     	91-635	 	091	Sussex County	091	Sussex County	0.30	91-609	91-631 WEST	160	R							X						02/07/2008
+775369	  91	00635	     	91-635	 	091	Sussex County	091	Sussex County	1.27	91-631 EAST	91-644 W, Faison Rd	180	R							X						02/07/2008
+775370	  91	00635	     	91-635	 	091	Sussex County	091	Sussex County	3.11	91-644 W, Faison Rd	91-660 Gilliam Rd	210	R							X						02/07/2008
+775371	  91	00635	     	91-635	 	091	Sussex County	091	Sussex County	2.39	91-660 Gilliam Rd	91-735 Courthouse Rd	250	R							X						02/07/2008
+775372	  91	00636	     	91-636	Anderson Rd	091	Sussex County	091	Sussex County	2.40	SR 40 Sussex Dr	91-626 NORTH	80	R							X						02/07/2008
+775373	  91	00636	     	91-636	Booker Rd	091	Sussex County	091	Sussex County	1.00	91-626 SOUTH	91-637 S, Cabin Stick	60	R							X						02/07/2008
+775374	  91	00636	     	91-636	Anderson Rd	091	Sussex County	091	Sussex County	2.50	91-637 N, Cabin Stick	91-661 Tyus	70	R							X						02/07/2008
+775375	  91	00637	     	91-637	Cabin Stick	091	Sussex County	091	Sussex County	3.80	91-626	91-640 E, Dillard Rd	160	R							X						02/07/2008
+775376	  91	00637	     	91-637	Bethal Church Rd	091	Sussex County	091	Sussex County	5.29	91-640 W, Dillard Rd	Prince George County Line	70	R							X						02/07/2008
+300351	  91	00638	     	91-638	Zion Rd	091	Sussex County	091	Sussex County	1.50	91-602 Cabin Point Rd	Prince George County Line	70	G	97%	0%	1%	1%	2%	0%	C	0.2717	F	0.5200	70	G	2009
+775377	  91	00639	     	91-639	 	091	Sussex County	091	Sussex County	0.10	US 460	Surry County Line	220	R							X						02/07/2008
+775378	  91	00640	     	91-640	Briggs Rd	091	Sussex County	091	Sussex County	4.94	FR-315; 91-642	SR 40 Sussex Dr	230	R							X						02/07/2008
+775379	  91	00640	     	91-640	Dillard Rd	091	Sussex County	091	Sussex County	4.78	SR 40 Sussex Dr	91-637 E, Cabin Stick	110	R							X						02/07/2008
+775380	  91	00640	     	91-640	 	091	Sussex County	091	Sussex County	2.00	91-637 E, Cabin Stick	91-626	60	R							X						02/07/2008
+775381	  91	00641	     	91-641	 	091	Sussex County	091	Sussex County	2.50	91-642	91-662 Hunting Quarter Church Rd	20	R							X						02/07/2008
+775382	  91	00641	     	91-641	 	091	Sussex County	091	Sussex County	2.10	91-662 Hunting Quarter Church Rd	SR 40 Sussex Dr	90	R							X						02/07/2008
+775383	  91	00642	     	91-642	 	091	Sussex County	091	Sussex County	0.25	US 301	FR-315; 91-640	520	R							X						02/07/2008
+775384	  91	00642	     	91-642	 	091	Sussex County	091	Sussex County	1.70	FR-315; 91-640	91-643 Loco School Rd	420	R							X						02/07/2008
+775385	  91	00642	     	91-642	 	091	Sussex County	091	Sussex County	5.02	91-643 Loco School Rd	91-735 W, Courthouse Rd	180	R							X						02/07/2008
+775386	  91	00642	     	91-642	Coman Wells Rd	091	Sussex County	091	Sussex County	3.21	91-735 E, Courthouse Rd	91-634 Old Forty Rd	290	R							X						02/07/2008
+775387	  91	00642	     	91-642	 	091	Sussex County	091	Sussex County	1.35	91-634 Old Forty Rd	SR 40 Sussex Dr	190	R							X						02/07/2008
+775388	  91	00643	     	91-643	Loco School Rd	091	Sussex County	091	Sussex County	3.80	91-644 Faison Rd	91-642	70	R							X						02/07/2008
+775389	  91	00643	     	91-643	 	091	Sussex County	091	Sussex County	1.70	91-642	91-640 Briggs Rd	110	R							X						02/07/2008
+775390	  91	00644	     	91-644	Faison Rd	091	Sussex County	091	Sussex County	5.14	91-645	91-635 WEST	140	R							X						02/07/2008
+775391	  91	00644	     	91-644	 	091	Sussex County	091	Sussex County	1.12	91-635 EAST	91-631	110	R							X						02/07/2008
+775392	  91	00645	     	91-645	Owen Rd	091	Sussex County	091	Sussex County	1.00	91-609	91-631 SOUTH	70	G	97%	0%	3%	0%	0%	0%	C	0.1639	F	0.6000	70	G	2009
+300352	  91	00645	     	91-645	 	091	Sussex County	091	Sussex County	5.19	91-631 SOUTH	US 301 SOUTH	90	G	95%	3%	2%	0%	1%	0%	C	0.1345	F	0.7500	100	G	2009
+775393	  91	00645	     	91-645	Green Church Rd	091	Sussex County	091	Sussex County	2.57	US 301 NORTH	91-649 Henderson Rd	170	R							X						02/07/2008
+789185	  91	00645	 006A	91-645 Exit 006A	Ramp	091	Sussex County	091	Sussex County	0.21	91-645 Owen Rd	I-95 North	140	A							X				140	A	2009
+775394	  91	00646	     	91-646	 	091	Sussex County	091	Sussex County	0.20	Dead End	US 301 SOUTH	30	R							X						02/07/2008
+775395	  91	00646	     	91-646	South Halifax Rd	091	Sussex County	091	Sussex County	1.96	US 301 SOUTH	91-708 Carver Ave	660	R							X						02/07/2008
+775396	  91	00646	     	91-646	 	091	Sussex County	091	Sussex County	0.32	91-708 Carver Ave	SCL Jarrett	1200	R							X						04/09/2008
+775397	  91	00646	     	91-646	 	244	Town of Jarratt	091	Sussex County	0.24	SCL Jarrett	91-1120	1400	R							X						04/09/2008
+300353	  91	00646	     	91-646	 	244	Town of Jarratt	091	Sussex County	0.25	91-1120	SR 139 S, Jarratt Ave	270	G	99%	0%	1%	0%	1%	0%	C	0.1188	F	0.5833	280	G	2009
+775398	  91	00646	     	91-646	Kientz Rd	244	Town of Jarratt	091	Sussex County	0.65	SR 139 N, Jarratt Ave	US 301 NORTH	520	R							X						04/09/2008
+300354	  91	00646	     	91-646	Kientz Rd	091	Sussex County	091	Sussex County	0.29	US 301 MID	91-1107 Reese Town Rd	350	G	97%	0%	0%	0%	2%	0%	C	0.1239	F	0.6780	380	G	2009
+775399	  91	00646	     	91-646	 	091	Sussex County	091	Sussex County	3.13	FR-315; 91-1107	91-645 SOUTH	190	R							X						04/09/2008
+775400	  91	00646	     	91-646	South Halifax Rd	091	Sussex County	091	Sussex County	1.25	91-645 NORTH	Dead End	6	R							X						04/09/2008
+775401	  91	00647	     	91-647	North St	320	Town of Wakefield	091	Sussex County	0.04	91-603 Church St	US 460	520	R							X						04/09/2008
+775402	  91	00647	     	91-647	North St	320	Town of Wakefield	091	Sussex County	0.10	US 460	91-712 Virginia Ave	720	R							X						04/09/2008
+775403	  91	00647	     	91-647	North St	320	Town of Wakefield	091	Sussex County	0.06	91-712 Virginia Ave	91-672 Pinecrest Rd	650	R							X						04/09/2008
+775404	  91	00647	     	91-647	North St	320	Town of Wakefield	091	Sussex County	0.10	91-672 Pinecrest Rd	91-717 Richardson St	570	R							X						04/09/2008
+775405	  91	00647	     	91-647	North St	320	Town of Wakefield	091	Sussex County	0.01	91-717 Richardson St	91-711 Savedge Ave	690	R							X						04/09/2008
+775406	  91	00647	     	91-647	North St	320	Town of Wakefield	091	Sussex County	0.07	91-711 Savedge Ave	91-725 Club Dr	350	R							X						04/09/2008
+775407	  91	00647	     	91-647	North St	320	Town of Wakefield	091	Sussex County	0.05	91-725 Club Dr	ECL Wakefield	320	R							X						04/09/2008
+775408	  91	00647	     	91-647	 	091	Sussex County	091	Sussex County	0.05	ECL Wakefield	91-679	210	R							X						04/09/2008
+775409	  91	00648	     	91-648	 	091	Sussex County	091	Sussex County	2.09	91-630	2.09 ME 91-630	60	R							X						04/09/2008
+775410	  91	00648	     	91-648	 	091	Sussex County	091	Sussex County	0.41	2.09 ME 91-630	2.50 ME 91-630	40	R							X						04/09/2008
+775411	  91	00648	     	91-648	 	091	Sussex County	091	Sussex County	1.00	2.50 ME 91-630	91-649 N, Woodyard Rd	60	R							X						04/09/2008
+775412	  91	00648	     	91-648	Reed Rd	091	Sussex County	091	Sussex County	2.68	91-649 S, Woodyard Rd; Henderson Rd	91-734	120	R							X						04/09/2008
+775413	  91	00648	     	91-648	 	091	Sussex County	091	Sussex County	0.64	91-734	FR-313	70	R							X						04/09/2008
+775414	  91	00649	     	91-649	 	091	Sussex County	091	Sussex County	6.10	91-681	91-645 Green Church Rd	190	R							X						04/09/2008
+775415	  91	00649	     	91-649	Henderson Rd	091	Sussex County	091	Sussex County	0.40	91-645 Green Church Rd	91-648 S, Reed Rd	170	R							X						04/09/2008
+775416	  91	00649	     	91-649	Woodyard Rd	091	Sussex County	091	Sussex County	2.90	91-648 S, Reed Rd	91-657	70	R							X						04/09/2008
+775417	  91	00650	     	91-650	 	091	Sussex County	091	Sussex County	1.20	Dead End	91-634 Old Forty Rd	90	R							X						04/09/2008
+300355	  91	00651	     	91-651	Lobbs Shop Rd	091	Sussex County	091	Sussex County	1.62	91-626	WCL Waverly	510	G	93%	1%	2%	3%	1%	0%	C	0.1220	F	0.6111	540	G	2009
+303787	  91	00651	     	91-651	Lobbs Shop Rd	323	Town of Waverly	091	Sussex County	0.28	WCL Waverly	SR 40 W Main St	510	N	93%	1%	2%	3%	1%	0%	N	0.1220	N	0.6111	540	N	2009
+775418	  91	00652	     	91-652	Fredericksburg Rd	091	Sussex County	091	Sussex County	0.07	US 460 EAST	0.07 MN US 460	40	R							X						04/09/2008
+775419	  91	00652	     	91-652	 	091	Sussex County	091	Sussex County	0.61	0.07 MN US 460	ECL Wakefield	80	R							X						04/09/2008
+785233	  91	00652	     	91-652	Fredenburg Rd	320	Town of Wakefield	091	Sussex County	0.11	ECL Wakefield	US 460 WEST	100	R							X						02/14/2002
+300356	  91	00653	     	91-653	Bank St	323	Town of Waverly	091	Sussex County	0.94	91-606 Beaver Dam Rd	91-654 Gray Ave	560	G	98%	1%	1%	0%	0%	0%	C	0.1140	F	0.5652	600	G	2009
+300357	  91	00653	     	91-653	Bank St	323	Town of Waverly	091	Sussex County	0.26	91-654 Gray Ave	SR 40 E, W Main St	670	G	98%	1%	1%	0%	0%	0%	F	0.1103	F	0.5949	720	G	2009
+300358	  91	00653	     	91-653	Hunter St	323	Town of Waverly	091	Sussex County	0.09	SR 40 W, W Main St	US 460 NORTH	340	G	95%	2%	2%	1%	1%	0%	C	0.1304	F	0.8125	360	G	2009
+300359	  91	00653	     	91-653	Hunter St	323	Town of Waverly	091	Sussex County	0.21	US 460 SOUTH	91-1002	120	G	97%	1%	1%	1%	0%	0%	C	0.1382	F	0.7647	130	G	2009
+303758	  91	00653	     	91-653	Bank St; Spring Branch Rd	323	Town of Waverly	091	Sussex County	0.46	91-1002	NCL Waverly	210	N	97%	1%	1%	1%	0%	0%	N	0.1973	N	0.5192	230	N	2009
+300360	  91	00653	     	91-653	 	091	Sussex County	091	Sussex County	1.25	NCL Waverly	91-613	210	G	97%	1%	1%	1%	0%	0%	F	0.1973	F	0.5192	230	G	2009
+300361	  91	00654	     	91-654	Coppahaunk Rd	091	Sussex County	091	Sussex County	2.08	91-655 Oakdale Rd	SCL Waverly	80	G	97%	1%	2%	0%	0%	0%	F	0.2941	F	0.5111	90	G	2009
+300362	  91	00654	     	91-654	Coppahaunk  Ave	323	Town of Waverly	091	Sussex County	0.49	SCL Waverly	91-1014 Norris Ave	280	G	97%	1%	2%	0%	0%	0%	F	0.1066	F	0.6232	300	G	2009
+300363	  91	00654	     	91-654	Coppahaunk Rd	323	Town of Waverly	091	Sussex County	0.40	91-1014 Norris Ave	91-653 Bank St	510	G	97%	1%	2%	0%	0%	0%	C	0.1222	F	0.5246	540	G	2009
+300364	  91	00655	     	91-655	 	091	Sussex County	091	Sussex County	2.20	91-625 Newville Rd	SR 40 Sussex Dr	190	G	92%	2%	0%	1%	4%	0%	C	0.1165	F	0.5833	210	G	2009
+775420	  91	00655	     	91-655	Oakdale Rd	091	Sussex County	091	Sussex County	1.60	SR 40 Sussex Dr	91-654 Coppahaunk Rd	120	R							X						04/09/2008
+775421	  91	00655	     	91-655	 	091	Sussex County	091	Sussex County	1.57	91-654 Coppahaunk Rd	91-606	40	R							X						04/09/2008
+775422	  91	00656	     	91-656	 	091	Sussex County	091	Sussex County	3.80	91-619	91-630	200	R							X						04/09/2008
+300365	  91	00657	     	91-657	 	091	Sussex County	091	Sussex County	3.60	91-681	SCL Stony Creek	180	G							X	0.0990	F	0.5789	190	G	2009
+303788	  91	00657	     	91-657	Main St	305	Town of Stony Creek	091	Sussex County	0.21	SCL Stony Creek	Bus SR 40 WEST	180	N							X	0.0990	N	0.5789	190	N	2009
+300366	  91	00657	     	91-657	Main St	305	Town of Stony Creek	091	Sussex County	0.17	Bus SR 40 EAST	91-658 Flatfoot Rd; Halifax Rd	1100	G	98%	0%	0%	0%	1%	0%	F	0.1205	F	0.5415	1200	G	2009
+300367	  91	00657	     	91-657	Main St	305	Town of Stony Creek	091	Sussex County	0.24	91-658 Flatfoot Rd; Halifax Rd	91-670 Cedar Rd	410	G	98%	0%	0%	0%	1%	0%	C	0.1165	F	0.5094	440	G	2009
+300368	  91	00657	     	91-657	Main St	305	Town of Stony Creek	091	Sussex County	0.40	91-670 Cedar Rd	NCL Stony Creek	350	G	98%	0%	0%	0%	1%	0%	F	0.1241	F	0.5200	370	G	2009
+300369	  91	00657	     	91-657	 	091	Sussex County	091	Sussex County	0.06	NCL Stony Creek	91-618	210	G	98%	0%	0%	0%	1%	0%	F	0.1241	N	0.5200	210	G	2009
+775423	  91	00657	     	91-657	Gallary Rd	091	Sussex County	091	Sussex County	1.14	91-618	91-602 St Johns Church Rd	100	R							X						04/09/2008
+775424	  91	00658	     	91-658	 	091	Sussex County	091	Sussex County	1.36	SR 40 W, Sussex Dr	SR 40 E, Sussex Dr	40	R							X						04/09/2008
+775425	  91	00658	     	91-658	 	091	Sussex County	091	Sussex County	0.09	SR 40 E, Sussex Dr	WCL Stony Creek	510	R							X						04/09/2008
+785234	  91	00658	     	91-658	Flatfoot Rd; Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.07	WCL Stony Creek	Bus SR 40	670	R							X						02/06/2002
+775426	  91	00658	     	91-658	Flatfoot Rd	305	Town of Stony Creek	091	Sussex County	0.08	Bus SR 40	91-703 Park Ave	210	R							X						04/09/2008
+775427	  91	00658	     	91-658	Flatfoot Rd	305	Town of Stony Creek	091	Sussex County	0.15	91-703 Park Ave	91-702 Owen Ave	140	R							X						04/09/2008
+775428	  91	00658	     	91-658	Flatfoot Rd	305	Town of Stony Creek	091	Sussex County	0.15	91-702 Owen Ave	91-657 Main St	400	R							X						04/09/2008
+775429	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.05	91-657 Main St	91-1203 Hartley St	650	R							X						04/09/2008
+775430	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.06	91-1203 Hartley St	91-668 Church St	520	R							X						04/09/2008
+775431	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.11	91-668 Church St	91-1201 May St	480	R							X						04/09/2008
+775432	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.18	91-1201 May St	91-1204 Confederate Ave	610	R							X						04/09/2008
+775433	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.03	91-1204 Confederate Ave	ECL Stony Creek	490	R							X						04/09/2008
+775434	  91	00658	     	91-658	Flatfoot Rd	091	Sussex County	091	Sussex County	0.10	ECL Stony Creek	US 301	580	R							X						04/09/2008
+775435	  91	00659	     	91-659	 	091	Sussex County	091	Sussex County	0.19	Dead End	FR-313	48	R							X						04/09/2008
+775436	  91	00659	     	91-659	Gee Farm	091	Sussex County	091	Sussex County	1.00	FR-313	SR 40 Sussex Dr	70	R							X						04/09/2008
+775437	  91	00660	     	91-660	Gilliam Rd	091	Sussex County	091	Sussex County	1.35	91-635	91-735 N, Courthouse Rd	70	R							X						04/09/2008
+775438	  91	00660	     	91-660	 	091	Sussex County	091	Sussex County	3.50	91-735 N, Courthouse Rd	91-632 Gilliam Rd	50	R							X						04/09/2008
+775439	  91	00661	     	91-661	Tyus	091	Sussex County	091	Sussex County	2.00	SR 40 Sussex Dr	Dead End	210	R							X						04/09/2008
+775440	  91	00662	     	91-662	Hunting Quarter Church Rd	091	Sussex County	091	Sussex County	2.97	91-640 Briggs Rd	91-641	150	R							X						04/09/2008
+775441	  91	00663	     	91-663	Osborne Rd	091	Sussex County	091	Sussex County	0.30	91-681	91-674	40	R							X						04/09/2008
+775442	  91	00663	     	91-663	 	091	Sussex County	091	Sussex County	0.20	91-674	Dead End	20	R							X						04/09/2008
+775443	  91	00664	     	91-664	 	091	Sussex County	091	Sussex County	0.82	Dead End	91-620	250	R							X						04/09/2008
+775444	  91	00665	     	91-665	 	091	Sussex County	091	Sussex County	0.80	91-619	Dinwiddie County Line	180	R							X						04/09/2008
+775445	  91	00666	     	91-666	 	091	Sussex County	091	Sussex County	0.04	SR 35 Jeruselem Plank Rd	91-634	6	R							X						04/09/2008
+775446	  91	00667	     	91-667	Mongun Lane	091	Sussex County	091	Sussex County	0.10	US 301	91-736 Moores Lane	220	R							X						04/09/2008
+775447	  91	00668	     	91-668	Church St	305	Town of Stony Creek	091	Sussex County	0.07	SR 40 Bus	91-669 S, Hardy St	180	R							X						04/09/2008
+775448	  91	00668	     	91-668	Church St	305	Town of Stony Creek	091	Sussex County	0.01	91-669 S, Hardy St	91-669 N, Hardy St	60	R							X						04/09/2008
+775449	  91	00668	     	91-668	Church St	305	Town of Stony Creek	091	Sussex County	0.08	91-669 N, Hardy St	91-658 Halifax Rd	90	R							X						04/09/2008
+775450	  91	00669	     	91-669	Maplewood Ave	305	Town of Stony Creek	091	Sussex County	0.30	Dead End	Bus SR 40	60	R							X						04/01/2008
+775451	  91	00669	     	91-669	Maplewood Ave	305	Town of Stony Creek	091	Sussex County	0.11	Bus SR 40	91-1201 May St	150	R							X						04/01/2008
+775452	  91	00669	     	91-669	Maplewood Ave	305	Town of Stony Creek	091	Sussex County	0.10	91-1201 May St	91-668 S, Church St	100	R							X						04/01/2008
+775453	  91	00669	     	91-669	Maplewood Ave	305	Town of Stony Creek	091	Sussex County	0.06	91-668 N, Church St	91-1203 Hartley St	50	R							X						04/01/2008
+775454	  91	00670	     	91-670	Cedar Rd	305	Town of Stony Creek	091	Sussex County	0.40	91-657 Main St	ECL Stony Creek	200	R							X						04/01/2008
+785235	  91	00670	     	91-670	 	091	Sussex County	091	Sussex County	0.08	ECL Stony Creek	91-1214	150	R							X						02/05/2002
+775455	  91	00670	     	91-670	Setzer Lane	091	Sussex County	091	Sussex County	3.75	91-1214	91-602 Cabin Point Rd	190	R							X						04/01/2008
+775456	  91	00671	     	91-671	Bryan Ave	320	Town of Wakefield	091	Sussex County	0.25	US 460	91-676 Williams Lane	210	R							X						04/01/2008
+775457	  91	00672	     	91-672	Pinecrest Rd	320	Town of Wakefield	091	Sussex County	0.16	91-647 North St	91-673 Sylvan Rd	80	R							X						04/01/2008
+775458	  91	00673	     	91-673	Sylvan Rd	320	Town of Wakefield	091	Sussex County	0.10	US 460	91-672 Pinecrest Rd	260	R							X						04/01/2008
+775459	  91	00673	     	91-673	Sylvan Rd	320	Town of Wakefield	091	Sussex County	0.13	91-672 Pinecrest Rd	Dead End	90	R							X						04/01/2008
+775460	  91	00674	     	91-674	 	091	Sussex County	091	Sussex County	0.40	91-663 Osborne Rd	Dead End	40	R							X						04/01/2008
+775461	  91	00675	     	91-675	Champion Rd	091	Sussex County	091	Sussex County	1.50	91-735 Courthouse Rd	Dead End	9	R							X						04/01/2008
+775462	  91	00676	     	91-676	Williams Lane	320	Town of Wakefield	091	Sussex County	0.20	91-671 Bryan Ave	SR 31	490	R							X						04/01/2008
+775463	  91	00677	     	91-677	Branch St	091	Sussex County	091	Sussex County	0.06	91-705	91-678	270	R							X						04/01/2008
+775464	  91	00677	     	91-677	Branch St	091	Sussex County	091	Sussex County	0.14	91-678	US 460	570	R							X						04/01/2008
+775465	  91	00678	     	91-678	 	091	Sussex County	091	Sussex County	0.10	91-677 Branch St	NCL Wakefield	640	R							X						04/01/2008
+775466	  91	00678	     	91-678	Higgins St	320	Town of Wakefield	091	Sussex County	0.17	NCL Wakefield	91-682 Knight St	490	R							X						04/01/2008
+775467	  91	00679	     	91-679	Pine St	320	Town of Wakefield	091	Sussex County	0.36	SR 31	ECL Wakefield	300	R							X						04/01/2008
+775468	  91	00679	     	91-679	 	091	Sussex County	091	Sussex County	0.10	ECL Wakefield	91-647	280	R							X						04/01/2008
+775469	  91	00680	     	91-680	Wilson Ave	320	Town of Wakefield	091	Sussex County	0.12	91-701 Railroad Ave	91-714 Grace St	360	R							X						04/01/2008
+775470	  91	00680	     	91-680	Wilson Ave	320	Town of Wakefield	091	Sussex County	0.12	91-714 Grace St	91-603 Church St	420	R							X						04/01/2008
+300370	  91	00681	     	91-681	 	091	Sussex County	091	Sussex County	5.10	91-619	91-630 Little Mill Rd	100	G	95%	2%	1%	1%	0%	0%	F	0.1333	F	0.5937	110	G	2009
+300371	  91	00681	     	91-681	 	091	Sussex County	091	Sussex County	2.60	91-630 Little Mill Rd	91-657	250	G	95%	2%	1%	1%	0%	0%	C	0.0935	F	0.6923	270	G	2009
+300372	  91	00681	     	91-681	 	091	Sussex County	091	Sussex County	1.38	91-657	SR 40 Sussex Dr	250	G	95%	2%	1%	1%	0%	0%	F	0.1119	F	0.6563	270	G	2009
+775471	  91	00681	     	91-681	 	091	Sussex County	091	Sussex County	1.23	SR 40 Sussex Dr	Dinwiddie County Line	280	R							X						04/01/2008
+775472	  91	00682	     	91-682	Knight St	320	Town of Wakefield	091	Sussex County	0.06	91-705 Railroad Ave	91-678 Higgins St	370	R							X						04/01/2008
+775473	  91	00682	     	91-682	Knight St	320	Town of Wakefield	091	Sussex County	0.06	91-678 Higgins St	91-731 Twilight St	250	R							X						04/01/2008
+775474	  91	00682	     	91-682	Knight St	320	Town of Wakefield	091	Sussex County	0.05	91-731 Twilight St	91-732 King St	220	R							X						04/01/2008
+775475	  91	00683	     	91-683	Wyte Lane	091	Sussex County	091	Sussex County	0.10	Dead End	91-645 Green Church Rd	2	R							X						02/04/2002
+775476	  91	00684	     	91-684	Jefferson Rd	091	Sussex County	091	Sussex County	1.10	91-609 WEST	91-609 E, Lebanon Church Rd	80	R							X						04/09/2008
+775478	  91	00685	     	91-685	 	091	Sussex County	091	Sussex County	0.60	Dead End	91-638 Zion Rd	30	R							X						04/09/2008
+775479	  91	00686	     	91-686	Spiers Rd	091	Sussex County	091	Sussex County	0.60	Dead End	91-698 Sandy Field Rd	40	R							X						04/09/2008
+775480	  91	00687	     	91-687	Parham Rd	091	Sussex County	091	Sussex County	0.20	Dead End	91-630	40	R							X						04/09/2008
+775481	  91	00697	     	91-697	 	091	Sussex County	091	Sussex County	1.79	Southampton County Line	91-609	30	R							X						04/09/2008
+775482	  91	00698	     	91-698	Sandy Field Rd	091	Sussex County	091	Sussex County	2.00	91-681	Dinwiddie County Line	80	R							X						04/09/2008
+775483	  91	00699	     	91-699	Rocky Branch Rd	091	Sussex County	091	Sussex County	2.20	91-698 Sandy Field Rd	91-630 Little Mill Rd	20	R							X						04/09/2008
+775484	  91	00700	     	91-700	George Town Rd	091	Sussex County	091	Sussex County	0.30	US 460	91-615	70	R							X						04/09/2008
+775485	  91	00701	     	91-701	Railroad Ave	320	Town of Wakefield	091	Sussex County	0.03	91-628 Main St	91-766 Prospect St	770	R							X						04/09/2008
+775486	  91	00701	     	91-701	Railroad Ave	320	Town of Wakefield	091	Sussex County	0.09	91-766 Prospect St	91-680 Wilson Ave	810	R							X						04/09/2008
+775487	  91	00701	     	91-701	Railroad Ave	320	Town of Wakefield	091	Sussex County	0.08	91-680 Wilson Ave	91-706 Fleetwood St	430	R							X						04/09/2008
+775488	  91	00701	     	91-701	Railroad Ave; Sussex Ave	320	Town of Wakefield	091	Sussex County	0.05	91-706 Fleetwood St	91-705 Railroad Ave	360	R							X						04/09/2008
+775489	  91	00701	     	91-701	Sussex Ave	320	Town of Wakefield	091	Sussex County	0.09	91-705 Railroad Ave	91-714 Grace St	880	R							X						04/09/2008
+775490	  91	00701	     	91-701	Sussex Ave	320	Town of Wakefield	091	Sussex County	0.16	91-714 Grace St	US 460	610	R							X						04/09/2008
+775491	  91	00702	     	91-702	Owen St	305	Town of Stony Creek	091	Sussex County	0.07	Bus SR 40	91-703 Park Ave	270	R							X						04/09/2008
+775492	  91	00702	     	91-702	Owen St	305	Town of Stony Creek	091	Sussex County	0.10	91-703 Park Ave	91-658 Flatfoot Rd	220	R							X						04/09/2008
+775493	  91	00703	     	91-703	Park Ave	305	Town of Stony Creek	091	Sussex County	0.08	91-658 Flatfoot Rd	91-702 Owen St	90	R							X						04/07/2008
+775494	  91	00703	     	91-703	Park Ave	305	Town of Stony Creek	091	Sussex County	0.04	91-702 Owen St	Dead End	48	R							X						04/07/2008
+775495	  91	00704	     	91-704	River Town Rd	091	Sussex County	091	Sussex County	2.50	91-697	91-735 Courthouse Rd	140	R							X						04/07/2008
+775496	  91	00705	     	91-705	 	091	Sussex County	091	Sussex County	0.27	Dead End	91-677 Branch St	180	R							X						04/07/2008
+775497	  91	00705	     	91-705	 	091	Sussex County	091	Sussex County	0.07	91-677 Branch St	WCL Wakefield	280	R							X						04/07/2008
+775498	  91	00705	     	91-705	Railroad Ave	320	Town of Wakefield	091	Sussex County	0.20	WCL Wakefield	91-682 Knight St	280	R							X						04/07/2008
+775499	  91	00705	     	91-705	Railroad Ave	320	Town of Wakefield	091	Sussex County	0.22	91-682 Knight St	91-701 Sussex Ave	250	R							X						04/07/2008
+775500	  91	00706	     	91-706	Fleetwood St	320	Town of Wakefield	091	Sussex County	0.12	91-701 Railroad Ave; Sussex Ave	91-714 Grace St	360	R							X						04/07/2008
+775501	  91	00706	     	91-706	Fleetwood St	320	Town of Wakefield	091	Sussex County	0.17	91-714 Grace St	US 460; 91-603	610	R							X						04/07/2008
+775502	  91	00707	     	91-707	Maclin	091	Sussex County	091	Sussex County	0.29	91-646	US 301	220	R							X						04/07/2008
+775503	  91	00708	     	91-708	Carver Ave	091	Sussex County	091	Sussex County	0.26	91-646 South Halifax Rd	US 301	170	R							X						04/07/2008
+775504	  91	00709	     	91-709	 	091	Sussex County	091	Sussex County	0.21	Dead End	91-660	120	R							X						04/07/2008
+775505	  91	00710	     	91-710	New St	320	Town of Wakefield	091	Sussex County	0.14	91-714 Grace St	91-603 Church St	60	R							X						04/07/2008
+775506	  91	00711	     	91-711	Savedge Ave	320	Town of Wakefield	091	Sussex County	0.14	91-647 North St	Dead End	210	R							X						04/07/2008
+775507	  91	00712	     	91-712	Virginia Ave	320	Town of Wakefield	091	Sussex County	0.11	Dead End	91-647 North St	90	R							X						04/07/2008
+775508	  91	00713	     	91-713	 	091	Sussex County	091	Sussex County	0.75	Dead End	SR 40 Sussex Dr	140	R							X						04/07/2008
+775509	  91	00714	     	91-714	Grace St	320	Town of Wakefield	091	Sussex County	0.08	91-680 Wilson Ave	91-706 Fleetwood St	200	R							X						04/07/2008
+775510	  91	00714	     	91-714	Grace St	320	Town of Wakefield	091	Sussex County	0.05	91-706 Fleetwood St	91-701 Sussex Ave	160	R							X						04/07/2008
+775511	  91	00714	     	91-714	Grace St	320	Town of Wakefield	091	Sussex County	0.19	91-701 Sussex Ave	US 460	530	R							X						04/07/2008
+775512	  91	00714	     	91-714	Grace St	320	Town of Wakefield	091	Sussex County	0.09	US 460	NCL Wakefield	280	R							X						04/07/2008
+775513	  91	00714	     	91-714	 	091	Sussex County	091	Sussex County	0.39	NCL Wakefield	91-603	410	R							X						04/07/2008
+775514	  91	00715	     	91-715	 	091	Sussex County	091	Sussex County	1.14	Southampton County Line	91-635	30	R							X						04/07/2008
+775515	  91	00716	     	91-716	Clay St	320	Town of Wakefield	091	Sussex County	0.06	91-714 Grace St	Dead End	60	R							X						04/07/2008
+775516	  91	00717	     	91-717	Richardson St	320	Town of Wakefield	091	Sussex County	0.10	91-647 North St	Dead End	100	R							X						04/07/2008
+775517	  91	00718	     	91-718	 	091	Sussex County	091	Sussex County	3.80	91-735 Courthouse Rd	91-632 Hunting Quarter Rd; Gilliam Rd	10	R							X						04/07/2008
+775518	  91	00719	     	91-719	South St	320	Town of Wakefield	091	Sussex County	0.10	Dead End	SR 31	140	R							X						04/17/2008
+775519	  91	00720	     	91-720	Baptist St	320	Town of Wakefield	091	Sussex County	0.08	Dead End	US 460; 91-652	20	R							X						04/07/2008
+775520	  91	00721	     	91-721	 	091	Sussex County	091	Sussex County	2.20	91-644 W, Faison Rd	91-644 E, Faison Rd	310	R							X						04/07/2008
+775521	  91	00722	     	91-722	Tunnel Rd	320	Town of Wakefield	091	Sussex County	0.20	91-620 Brittles Neck Rd	Dead End	3	R							X						04/07/2008
+775522	  91	00723	     	91-723	Nicholson Dr	320	Town of Wakefield	091	Sussex County	0.17	Dead End	91-730 Chipen Rd	9	R							X						04/07/2008
+775523	  91	00723	     	91-723	Nicholson Dr	320	Town of Wakefield	091	Sussex County	0.09	91-730 Chipen Rd	91-628 Main St	40	R							X						04/07/2008
+775524	  91	00724	     	91-724	Bailey Rd	091	Sussex County	091	Sussex County	0.70	SR 35 Jeruselem Plank Rd	Dead End	48	R							X						02/07/2008
+775525	  91	00725	     	91-725	Club Dr	320	Town of Wakefield	091	Sussex County	0.16	Dead End	91-647 North St	90	R							X						02/07/2008
+775526	  91	00726	     	91-726	 	091	Sussex County	091	Sussex County	0.19	Dead End	91-642	1	R							X						06/21/2005
+775527	  91	00727	     	91-727	 	091	Sussex County	091	Sussex County	0.14	91-642 Coman Wells Rd	Dead End	40	R							X						02/07/2008
+775528	  91	00728	     	91-728	 	091	Sussex County	091	Sussex County	0.33	Dead End	SR 40 Sussex Dr	70	R							X						02/07/2008
+775529	  91	00729	     	91-729	 	091	Sussex County	091	Sussex County	1.35	Dead End	91-737	49	R							X						02/07/2008
+775530	  91	00729	     	91-729	 	091	Sussex County	091	Sussex County	0.85	91-737	91-628	120	R							X						02/07/2008
+775531	  91	00730	     	91-730	Chipen Rd	320	Town of Wakefield	091	Sussex County	0.07	Dead End	91-723 Nicholson Dr	10	R							X						02/07/2008
+775532	  91	00731	     	91-731	Twilight St	320	Town of Wakefield	091	Sussex County	0.10	Dead End	91-682 Knight St	120	R							X						02/07/2008
+775533	  91	00732	     	91-732	King St	320	Town of Wakefield	091	Sussex County	0.10	Dead End	91-682 Knight St	90	R							X						02/07/2008
+775534	  91	00733	     	91-733	Optimist Rd	091	Sussex County	091	Sussex County	0.40	Dead End	SR 40 Sussex Dr	90	R							X						02/07/2008
+775535	  91	00734	     	91-734	 	091	Sussex County	091	Sussex County	0.17	US 301	91-648 Reed Rd	170	R							X						02/07/2008
+300373	  91	00735	     	91-735	Courthouse Rd	091	Sussex County	091	Sussex County	2.20	Southampton County Line	91-631 E, Gary Rd	350	G	90%	0%	1%	1%	8%	0%	F	0.1018	F	0.5524	380	G	2009
+300374	  91	00735	     	91-735	Courthouse Rd	091	Sussex County	091	Sussex County	0.50	91-631 E, Gary Rd	91-631 WEST	400	G	90%	0%	1%	1%	8%	0%	F	0.0944	F	0.5981	420	G	2009
+300375	  91	00735	     	91-735	Courthouse Rd	091	Sussex County	091	Sussex County	2.08	91-631 WEST	91-660 S, Gilliam Rd	390	G	90%	0%	1%	1%	8%	0%	C	0.1027	F	0.5000	410	G	2009
+300376	  91	00735	     	91-735	Courthouse Rd	091	Sussex County	091	Sussex County	5.22	91-660 N, Gilliam Rd	91-634 N, Old Forty Rd	690	G	90%	0%	1%	1%	8%	0%	F	0.0966	F	0.5287	740	G	2009
+300377	  91	00735	     	91-735	Courthouse Rd	091	Sussex County	091	Sussex County	0.32	91-634 N, Old Forty Rd	SR 40 Sussex Dr	950	G	90%	0%	1%	1%	8%	0%	F	0.1141	F	0.5142	1000	G	2009
+775536	  91	00736	     	91-736	Moores Lane	091	Sussex County	091	Sussex County	0.10	0.10 SE 91-667 Mongun Lane	91-667 Mongun Lane	60	R							X						02/07/2008
+775537	  91	00736	     	91-736	 	091	Sussex County	091	Sussex County	0.08	91-667 Mongun Lane	Dead End	20	R							X						02/07/2008
+775538	  91	00737	     	91-737	 	091	Sussex County	091	Sussex County	0.68	Dead End	91-729	110	R							X						02/07/2008
+784790	  91	00738	     	91-738	 	091	Sussex County	091	Sussex County	0.14	US 460	Dead End	40	R							X						02/07/2008
+790770	  91	00739	     	91-739	 	091	Sussex County	091	Sussex County	0.17	91-723 Nicholson Dr	Dead End	0	?							X
+775539	  91	00740	     	91-740	 	091	Sussex County	091	Sussex County	1.09	91-622	91-729	20	R							X						02/07/2008
+786900	  91	00741	     	91-741	 	091	Sussex County	091	Sussex County	0.10	91-642	Cul-de-Sac	20	R							X						06/21/2005
+775540	  91	00766	     	91-766	Prospect St	320	Town of Wakefield	091	Sussex County	0.20	91-701 Railroad Ave	91-603 Church St	470	R							X						02/07/2008
+775541	  91	01001	     	91-1001	New St	323	Town of Waverly	091	Sussex County	0.11	SR 40, W Main St	91-1006 School St	1000	R							X						02/07/2008
+775542	  91	01001	     	91-1001	New St	323	Town of Waverly	091	Sussex County	0.17	91-1006 School St	91-1009 Maple St	870	R							X						02/07/2008
+775543	  91	01001	     	91-1001	New St	323	Town of Waverly	091	Sussex County	0.06	91-1009 Maple St	91-1011 Pine St	490	R							X						02/07/2008
+775544	  91	01001	     	91-1001	New St	323	Town of Waverly	091	Sussex County	0.08	91-1011 Pine St	Dead End	280	R							X						02/07/2008
+775545	  91	01002	     	91-1002	 	323	Town of Waverly	091	Sussex County	0.25	SR 40, W Main St	US 460	720	R							X						02/07/2008
+775546	  91	01002	     	91-1002	 	323	Town of Waverly	091	Sussex County	0.06	US 460	91-653 Hunter St	180	R							X						02/07/2008
+775547	  91	01003	     	91-1003	Railroad Ave	323	Town of Waverly	091	Sussex County	0.13	91-606 Beaver Dam Rd	91-1029 Locust Dr	720	R							X						02/07/2008
+775548	  91	01003	     	91-1003	Railroad Ave	323	Town of Waverly	091	Sussex County	0.08	91-1029 Locust St	91-1028 Dogwood Ave	680	R							X						02/07/2008
+775549	  91	01003	     	91-1003	Railroad Ave	323	Town of Waverly	091	Sussex County	0.24	91-1028 Dogwood Ave	91-1016 Butler St	1200	R							X						02/07/2008
+775550	  91	01003	     	91-1003	Railroad Ave	323	Town of Waverly	091	Sussex County	0.20	91-1016 Butler St	91-1005 Chestnut St	1300	R							X						02/07/2008
+775551	  91	01003	     	91-1003	Railroad Ave	323	Town of Waverly	091	Sussex County	0.15	91-1005 Chestnut St	SR 40, W Main St	1500	R							X						02/07/2008
+775552	  91	01004	     	91-1004	Fleetwood Ave	323	Town of Waverly	091	Sussex County	0.12	SR 40, W Main St	91-1021 Chappell Lane	820	R							X						02/07/2008
+775553	  91	01004	     	91-1004	Fleetwood Ave	323	Town of Waverly	091	Sussex County	0.15	91-1021 Chappell Lane	91-1019 Thomas Circle	390	R							X						02/07/2008
+775554	  91	01004	     	91-1004	Fleetwood Ave	323	Town of Waverly	091	Sussex County	0.21	91-1019 Thomas Circle	91-1023 Carpenter Dr	270	R							X						02/07/2008
+775555	  91	01005	     	91-1005	Chestnut St	323	Town of Waverly	091	Sussex County	0.13	91-653 Bank St	91-1003 Railroad Ave	140	R							X						02/26/2008
+775556	  91	01006	     	91-1006	School St	323	Town of Waverly	091	Sussex County	0.13	91-1008 Pleasant Spring Ave	91-1001 New St	420	R							X						02/26/2008
+775557	  91	01007	     	91-1007	Oak St	323	Town of Waverly	091	Sussex County	0.18	91-1008 Pleasant Spring Ave	91-1009 Maple St	300	R							X						02/26/2008
+775558	  91	01007	     	91-1007	Oak St	323	Town of Waverly	091	Sussex County	0.05	91-1009 Maple St	91-1011 Pine St	200	R							X						02/26/2008
+775559	  91	01008	     	91-1008	Pleasant Spring Ave	323	Town of Waverly	091	Sussex County	0.13	SR 40, W Main St	91-1006 School St	820	R							X						02/26/2008
+775560	  91	01008	     	91-1008	Pleasant Spring Ave	323	Town of Waverly	091	Sussex County	0.10	91-1006 School St	91-1007 Oak St	100	R							X						02/26/2008
+775561	  91	01008	     	91-1008	Pleasant Spring Ave	323	Town of Waverly	091	Sussex County	0.24	91-1007 Oak St	WCL Waverly	210	R							X						02/26/2008
+775562	  91	01008	     	91-1008	 	091	Sussex County	091	Sussex County	0.21	WCL Waverly	Dead End	160	R							X						02/26/2008
+775563	  91	01009	     	91-1009	Maple St	323	Town of Waverly	091	Sussex County	0.11	91-1007 Oak St	91-1001 New St	250	R							X						02/25/2008
+775564	  91	01010	     	91-1010	Robert Wilkins Ave	323	Town of Waverly	091	Sussex County	0.46	91-1026 Wye St	SR 40, W Main St	220	R							X						02/25/2008
+775565	  91	01011	     	91-1011	Pine St	323	Town of Waverly	091	Sussex County	0.11	91-1001 New St	91-1007 Oak St	100	R							X						02/25/2008
+775566	  91	01012	     	91-1012	Elm St	323	Town of Waverly	091	Sussex County	0.27	SR 40, W Main St	91-1013 Burt St	360	R							X						02/25/2008
+775567	  91	01012	     	91-1012	Elm St	323	Town of Waverly	091	Sussex County	0.05	91-1013 Burt St	Dead End	110	R							X						02/25/2008
+775568	  91	01013	     	91-1013	Burt St	323	Town of Waverly	091	Sussex County	0.08	SR 40; 91-1018	91-1017 Gum Lane	410	R							X						02/25/2008
+775569	  91	01013	     	91-1013	Burt St	323	Town of Waverly	091	Sussex County	0.05	91-1017 Gum Lane	91-1012 Elm St	290	R							X						02/25/2008
+775570	  91	01013	     	91-1013	Burt St	323	Town of Waverly	091	Sussex County	0.05	91-1012 Elm St	91-1031	110	R							X						02/25/2008
+775571	  91	01014	     	91-1014	Norris Ave	323	Town of Waverly	091	Sussex County	0.12	91-654 Coppahaunk Rd	91-1015 N; Graydon Circle	240	R							X						02/25/2008
+775572	  91	01014	     	91-1014	Norris Ave	323	Town of Waverly	091	Sussex County	0.10	91-1015 N; Graydon Circle	91-1015 S; Graydon Circle	270	R							X						02/25/2008
+775573	  91	01014	     	91-1014	Norris Ave	323	Town of Waverly	091	Sussex County	0.10	91-1015 S; Graydon Circle	91-653 Bank St	250	R							X						02/25/2008
+775574	  91	01015	     	91-1015	Graydon Circle	323	Town of Waverly	091	Sussex County	0.23	91-1014 W; Norris Ave	91-1014 E; Norris Ave	60	R							X						02/25/2008
+775575	  91	01016	     	91-1016	Butler St	323	Town of Waverly	091	Sussex County	0.10	Dead End	91-1003 Railroad Ave	340	R							X						02/25/2008
+775576	  91	01017	     	91-1017	Gum Lane	323	Town of Waverly	091	Sussex County	0.07	91-1013 Burt St	91-1032 Horton Circle	40	R							X						02/25/2008
+775577	  91	01018	     	91-1018	Coppahaunk Ave	323	Town of Waverly	091	Sussex County	0.25	91-654 Coppahaunk Rd	SR 40; 91-1013	560	R							X						03/25/2008
+775578	  91	01019	     	91-1019	Sylvan Rd	323	Town of Waverly	091	Sussex County	0.10	SR 40, W Main St	91-1027 Belvidere St	560	R							X						02/25/2008
+775579	  91	01019	     	91-1019	Sylvan Rd	323	Town of Waverly	091	Sussex County	0.11	91-1027 Belvidere St	91-1020 Arthur Ct	230	R							X						02/25/2008
+775580	  91	01019	     	91-1019	Sylvan Rd	323	Town of Waverly	091	Sussex County	0.21	91-1020 Arthur Ct	91-1004 Fleetwood Ave	220	R							X						02/25/2008
+775581	  91	01019	     	91-1019	Thomas Circle	323	Town of Waverly	091	Sussex County	0.07	91-1004 Fleetwood Ave	91-1021 Chappell Lane	220	R							X						02/25/2008
+775582	  91	01019	     	91-1019	Thomas Circle	323	Town of Waverly	091	Sussex County	0.03	91-1021 Chappell Lane	91-1022 Jasper Lane	320	R							X						02/25/2008
+775583	  91	01020	     	91-1020	Arthur Ct	323	Town of Waverly	091	Sussex County	0.04	91-1019 Thomas Circle	Cul-de-Sac	140	R							X						02/25/2008
+775584	  91	01021	     	91-1021	Chappell Lane	323	Town of Waverly	091	Sussex County	0.21	91-1004 Fleetwood Ave	91-1019 Thomas Circle	190	R							X						02/25/2008
+775585	  91	01022	     	91-1022	Jasper Lane	323	Town of Waverly	091	Sussex County	0.28	91-1019 Thomas Circle	91-1024 Branch St	310	R							X						02/25/2008
+775586	  91	01022	     	91-1022	Jasper Lane	323	Town of Waverly	091	Sussex County	0.12	91-1024 Branch St	91-1025 Cowling St	150	R							X						02/25/2008
+775587	  91	01022	     	91-1022	Jasper Lane	323	Town of Waverly	091	Sussex County	0.43	91-1025 Cowling St	Dead End	100	R							X						02/25/2008
+775588	  91	01023	     	91-1023	Carpenter Dr	323	Town of Waverly	091	Sussex County	0.13	91-1004 Fleetwood Ave	91-1024 Branch St	160	R							X						02/25/2008
+775589	  91	01023	     	91-1023	Carpenter Dr	323	Town of Waverly	091	Sussex County	0.12	91-1024 Branch St	91-1025 Cowling St	60	R							X						02/25/2008
+775590	  91	01023	     	91-1023	Carpenter Dr	323	Town of Waverly	091	Sussex County	0.06	91-1025 Cowling St	Dead End	9	R							X						02/25/2008
+775591	  91	01024	     	91-1024	Branch St	323	Town of Waverly	091	Sussex County	0.08	91-1023 Carpenter Dr	91-1022 Jasper Lane	30	R							X						02/25/2008
+775592	  91	01024	     	91-1024	Branch St	323	Town of Waverly	091	Sussex County	0.04	91-1022 Jasper Lane	Dead End	8	R							X						02/25/2008
+775593	  91	01025	     	91-1025	Cowling St	323	Town of Waverly	091	Sussex County	0.03	Dead End	91-1023 Carpenter Dr	8	R							X						02/25/2008
+775594	  91	01025	     	91-1025	Cowling St	323	Town of Waverly	091	Sussex County	0.08	91-1023 Carpenter Dr	91-1022 Jasper Lane	50	R							X						02/25/2008
+775595	  91	01026	     	91-1026	Wye St	323	Town of Waverly	091	Sussex County	0.08	0.08 MS 91-1010 Robert Wilkins Ave	91-1010 Robert Wilkins Ave	120	R							X						02/25/2008
+775596	  91	01026	     	91-1026	 	323	Town of Waverly	091	Sussex County	0.08	91-1010 Robert Wilkins Ave	Dead End	60	R							X						02/25/2008
+775597	  91	01027	     	91-1027	Belvidere St	323	Town of Waverly	091	Sussex County	0.13	91-1019 Sylvan Rd	Cul-de-Sac	270	R							X						02/25/2008
+775598	  91	01028	     	91-1028	Dogwood Ave	323	Town of Waverly	091	Sussex County	0.20	91-1030 Middle St	91-1003 Railroad Ave	450	R							X						02/25/2008
+775599	  91	01029	     	91-1029	Locust Dr	323	Town of Waverly	091	Sussex County	0.16	91-653 Bank St	91-1030 Middle St	200	R							X						02/25/2008
+775600	  91	01029	     	91-1029	Locust Dr	323	Town of Waverly	091	Sussex County	0.21	91-1030 Middle St	91-1003 Railroad Ave	480	R							X						02/26/2008
+775601	  91	01030	     	91-1030	Middle St	323	Town of Waverly	091	Sussex County	0.10	Cul-de-Sac	91-1028 Dogwood Ave	180	R							X						02/26/2008
+775602	  91	01030	     	91-1030	Middle St	323	Town of Waverly	091	Sussex County	0.11	91-1028 Dogwood Ave	91-1029 Locust Dr	260	R							X						02/26/2008
+775603	  91	01030	     	91-1030	Middle St	323	Town of Waverly	091	Sussex County	0.09	91-1029 Locust Dr	Dead End	270	R							X						02/26/2008
+775604	  91	01031	     	91-1031	 	323	Town of Waverly	091	Sussex County	0.06	Dead End	Dead End	40	R							X						02/26/2008
+775605	  91	01032	     	91-1032	Horton Circle	323	Town of Waverly	091	Sussex County	0.05	91-1013 Burt St	91-1017 Gum Lane	20	R							X						02/26/2008
+775606	  91	01032	     	91-1032	 	323	Town of Waverly	091	Sussex County	0.02	91-1017 Gum Lane	Dead End	2	R							X						02/26/2008
+775607	  91	01034	     	91-1034	Moore St	323	Town of Waverly	091	Sussex County	0.02	91-1008 Pleasant Spring Ave	Dead End	200	R							X						02/25/2008
+775608	  91	01035	     	91-1035	Merchants Dr	323	Town of Waverly	091	Sussex County	0.04	Dead End	91-653 Bank St	300	R							X						02/25/2008
+775609	  91	01036	     	91-1036	Cedar St	323	Town of Waverly	091	Sussex County	0.07	Dead End	91-1029 Locust Dr	60	R							X						02/25/2008
+775610	  91	01037	     	91-1037	Barkley Place	323	Town of Waverly	091	Sussex County	0.11	Dead End	91-1038 Brian Dr	230	R							X						02/25/2008
+775611	  91	01037	     	91-1037	 	323	Town of Waverly	091	Sussex County	0.08	91-1038 Brian Dr	91-653 Bank St	570	R							X						02/25/2008
+775612	  91	01038	     	91-1038	Brian Dr	323	Town of Waverly	091	Sussex County	0.22	91-1037 Barkley Place	91-606 Beaver Dam Rd	180	R							X						02/25/2008
+775613	  91	01039	     	91-1039	 	323	Town of Waverly	091	Sussex County	0.09	91-1037 Barkley Place	Cul-de-Sac	70	R							X						02/25/2008
+775614	  91	01040	     	91-1040	Brian Ct	323	Town of Waverly	091	Sussex County	0.07	Cul-de-Sac	91-1038 Brian Dr	120	R							X						02/26/2008
+785488	  91	01041	     	91-1041	Forest Lane	323	Town of Waverly	091	Sussex County	0.28	Dead End	91-1014 Norris Ave	120	R							X						02/26/2008
+775615	  91	01101	     	91-1101	 	244	Town of Jarratt	091	Sussex County	0.17	Greensville County Line	SR 139 Jarratt Ave	410	R							X						02/26/2008
+775616	  91	01101	     	91-1101	North Braxton Ave	244	Town of Jarratt	091	Sussex County	0.10	SR 139 Jarratt Ave	Dead End	120	R							X						02/26/2008
+775617	  91	01102	     	91-1102	Mayes Rd	091	Sussex County	091	Sussex County	0.08	Greensville County Line	91-1113 Harvell St	490	R							X						02/26/2008
+775618	  91	01102	     	91-1102	 	091	Sussex County	091	Sussex County	0.02	91-1113 Harvell St	91-646	670	R							X						02/26/2008
+775619	  91	01102	     	91-1102	 	091	Sussex County	091	Sussex County	0.30	91-646	US 301	1000	R							X						02/26/2008
+775620	  91	01103	     	91-1103	Grigg Ave	244	Town of Jarratt	091	Sussex County	0.10	Greensville County Line	91-1105 Ivey St	660	R							X						02/26/2008
+775621	  91	01103	     	91-1103	Braxton Ave	244	Town of Jarratt	091	Sussex County	0.02	91-1105 Ivey St	91-646	900	R							X						02/26/2008
+775622	  91	01104	     	91-1104	Marion Ave	091	Sussex County	091	Sussex County	0.27	91-646	US 301	100	R							X						02/26/2008
+775623	  91	01105	     	91-1105	Ivey St	244	Town of Jarratt	091	Sussex County	0.10	Dead End	91-1103 Braxton Ave	20	R							X						02/26/2008
+775624	  91	01105	     	91-1105	Ivey St	244	Town of Jarratt	091	Sussex County	0.05	91-1103 Braxton Ave	Dead End	40	R							X						02/26/2008
+775625	  91	01106	     	91-1106	 	091	Sussex County	091	Sussex County	0.18	0.11 MW 91-1107	Dead End	40	R							X						02/26/2008
+775626	  91	01107	     	91-1107	Reese Town Rd	091	Sussex County	091	Sussex County	0.02	91-1106	FR-315; 91-646	50	R							X						02/26/2008
+775627	  91	01108	     	91-1108	Willow Ave	244	Town of Jarratt	091	Sussex County	0.05	Dead End	91-646 Kientz Rd	30	R							X						02/26/2008
+775628	  91	01110	     	91-1110	 	244	Town of Jarratt	091	Sussex County	0.23	Greensville County Line	91-1115	120	R							X						02/26/2008
+775629	  91	01113	     	91-1113	Harvell St	091	Sussex County	091	Sussex County	0.25	Dead End	91-1102 Mayes Rd	90	R							X						02/26/2008
+775630	  91	01115	     	91-1115	 	244	Town of Jarratt	091	Sussex County	0.07	Dead End	91-1110	40	R							X						02/26/2008
+775631	  91	01117	     	91-1117	 	244	Town of Jarratt	091	Sussex County	0.05	91-1101	Greensville County Line	120	R							X						02/26/2008
+775632	  91	01120	     	91-1120	 	244	Town of Jarratt	091	Sussex County	0.18	91-646	SR 139 Jarratt Ave	700	G	100%	0%	0%	0%	0%	0%	C	0.0911	F	0.5211	750	G	2009
+775633	  91	01201	     	91-1201	May St	305	Town of Stony Creek	091	Sussex County	0.05	91-669 Maplewood Ave	91-658 Halifax Rd	40	R							X						02/26/2008
+775634	  91	01202	     	91-1202	 	091	Sussex County	091	Sussex County	0.09	Dead End	91-602 Cabin Point Rd	380	R							X						02/26/2008
+775635	  91	01203	     	91-1203	Hartley St	305	Town of Stony Creek	091	Sussex County	0.08	Bus SR 40	91-669 Maplewood Ave	140	R							X						02/26/2008
+775636	  91	01203	     	91-1203	Hartley St	305	Town of Stony Creek	091	Sussex County	0.10	91-669 Maplewood Ave	91-658 Halifax Rd	130	R							X						02/26/2008
+775637	  91	01204	     	91-1204	Confederate Ave	305	Town of Stony Creek	091	Sussex County	0.07	Bus SR 40	91-1205 Peebles St	80	R							X						02/26/2008
+775638	  91	01204	     	91-1204	Confederate Ave	305	Town of Stony Creek	091	Sussex County	0.04	91-1205 Peebles St	91-658 Halifax Rd	70	R							X						02/26/2008
+775639	  91	01205	     	91-1205	Peebles St	305	Town of Stony Creek	091	Sussex County	0.15	Bus SR 40	91-1204 Confederate Ave	46	R							X						02/26/2008
+775640	  91	01210	     	91-1210	 	091	Sussex County	091	Sussex County	0.08	Dead End	Gap	20	R							X						02/26/2008
+775641	  91	01210	     	91-1210	 	091	Sussex County	091	Sussex County	0.05	Dead End	T Intersection	7	R							X						02/26/2008
+775642	  91	01210	     	91-1210	 	091	Sussex County	091	Sussex County	0.02	T Intersection	91-602 Cabin Point Rd	30	R							X						02/26/2008
+775643	  91	01212	     	91-1212	 	305	Town of Stony Creek	091	Sussex County	0.12	91-657 Main St	Dead End	2	R							X						02/05/2002
+775644	  91	01213	     	91-1213	 	091	Sussex County	091	Sussex County	0.18	91-657	Dead End	100	R							X						02/26/2008
+775645	  91	01214	     	91-1214	 	091	Sussex County	091	Sussex County	0.11	91-670 Setzer Lane	US 301	290	R							X						04/09/2008
+775646	  91	09403	     	91-9403	 	323	Town of Waverly	091	Sussex County	0.07	Waverly School	SR 40; 91-1018	30	R							X						04/09/2008
+775647	  91	09871	     	91-9871	 	091	Sussex County	091	Sussex County	0.07	Central School; SR 40	0.07 ME SR 40	410	R							X						04/09/2008
+775648	  91	09871	     	91-9871	 	091	Sussex County	091	Sussex County	0.21	0.07 ME SR 40	0.28 ME SR 40	420	R							X						04/09/2008
+775649	  91	09871	     	91-9871	 	091	Sussex County	091	Sussex County	0.09	0.28 ME SR 40	0.37 ME SR 40	260	R							X						04/09/2008
+775650	  91	09871	     	91-9871	 	091	Sussex County	091	Sussex County	0.07	0.37 ME SR 40	SR 40 Sussex Dr	290	R							X						04/09/2008
+775651	  91	09872	     	91-9872	 	091	Sussex County	091	Sussex County	0.10	Chambliss Elem School	0.10 ME 91-678	250	R							X						04/09/2008
+775652	  91	09872	     	91-9872	 	091	Sussex County	091	Sussex County	0.03	0.10 ME 91-678	91-678	240	R							X						04/09/2008
+775653	  91	09873	     	91-9873	 	323	Town of Waverly	091	Sussex County	0.01	Jackson Elem School	0.01 ME 91-1006 School St	210	R							X						04/09/2008
+775654	  91	09873	     	91-9873	 	323	Town of Waverly	091	Sussex County	0.11	0.01ME 91-1006 School St	91-1006 School St	290	R							X						04/09/2008
+775655	  91	09874	     	91-9874	 	091	Sussex County	091	Sussex County	0.05	Jefferson Elem School	0.05 ME 91-1102	240	R							X						04/09/2008
+775656	  91	09874	     	91-9874	 	091	Sussex County	091	Sussex County	0.11	0.05 ME 91-1102	91-1102	200	R							X						04/16/2008
+775657	  91	09875	     	91-9875	 	305	Town of Stony Creek	091	Sussex County	0.05	91-1204 Confederate Ave	Dead End	140	R							X						04/16/2008
+775658	  91	09876	     	91-9876	 	091	Sussex County	091	Sussex County	0.07	Stony Creek High School	US 301	30	R							X						04/16/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

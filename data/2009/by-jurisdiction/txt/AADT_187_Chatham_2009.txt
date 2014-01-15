@@ -1,0 +1,79 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Chatham																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030406	  US	00029	     	US 29	 	187	Town of Chatham	071	Pittsylvania County	0.03	SCL Chatham	Bus US 29 South Main St	18000	N	84%	1%	1%	1%	12%	1%	N	0.0775	N	0.5117	17000	N	2009
+030151	  US	00029	     	US 29	 	187	Town of Chatham	071	Pittsylvania County	0.76	Bus US 29 South Main St	NCL Chatham	11000	F	84%	1%	1%	1%	12%	1%	F	0.0788	F	0.5064	10000	F	2009
+030149	C2US	00029	     	Bus US 29	S Main St	187	Town of Chatham	071	Pittsylvania County	1.36	US 29 South of Chatham	SR-57 S, Halifax Rd	5800	F	97%	0%	1%	0%	1%	0%	C	0.0846	F	0.5184	6300	F	2009
+030150	C2US	00029	     		S Main St	187	Town of Chatham	071	Pittsylvania County	0.19	SR-57 S, Halifax Rd	SR-57 N, Depot St	5800	N	97%	0%	1%	0%	1%	0%	N	0.0846	N	0.5184	6300	N	2009
+030486	C2US	00029	     	Bus US 29	N Main St	187	Town of Chatham	071	Pittsylvania County	0.90	SR-57 N, Depot St	NCL Chatham	4100	F	97%	0%	1%	0%	1%	0%	F	0.0865	F	0.5396	4400	F	2009
+030090	  SR	00057	     	VA 57	Depot St	187	Town of Chatham	071	Pittsylvania County	0.52	WCL Chatham	Bus US 29 N, S Main St	3500	N	91%	1%	1%	1%	6%	0%	N	0.0892	N	0.5469	3700	N	2009
+030150	  SR	00057	     		S Main St	187	Town of Chatham	071	Pittsylvania County	0.19	BUS US 29	BUS US 29	5800	N	97%	0%	1%	0%	1%	0%	N	0.0846	N	0.5184	6300	N	2009	
+403036	  SR	00057	     	VA 57	Halifax Rd	187	Town of Chatham	071	Pittsylvania County	0.18	Bus US 29 S, S Main St	ECL Chatham	1100	F	96%	0%	1%	0%	2%	0%	C	0.0984	F	0.5276	1200	F	2009
+780579	  FR	00632	     	FR 632	Haymes Lane	187	Town of Chatham	071	Pittsylvania County	0.48	Dead End	71-694 Davis Rd	2	R							X						08/08/2006
+758866	  71	00685	     	71-685	Hurt St	187	Town of Chatham	071	Pittsylvania County	0.13	71-1407 Military Dr	Bus US 29	380	R							X						09/08/2009
+402969	  71	00685	     	71-685	Hurt St	187	Town of Chatham	071	Pittsylvania County	0.44	Bus US 29	ECL Chatham	940	G	98%	0%	1%	0%	1%	0%	C				960	G	2009
+758887	  71	00694	     	71-694	Davis Rd	187	Town of Chatham	071	Pittsylvania County	0.52	Dead End; Gap	71-1420 E, Oakland Dr	150	R							X						08/29/2006
+758888	  71	00694	     	71-694	Davis Rd	187	Town of Chatham	071	Pittsylvania County	0.27	71-1420 E, Oakland Dr	US 29 Bus SOUTH	1200	R							X						08/29/2006
+758889	  71	00694	     	71-694	Woodland Heights	187	Town of Chatham	071	Pittsylvania County	0.50	US 29 Bus NORTH	Dead End	300	R							X						08/29/2006
+759652	  71	01401	     	71-1401	Pruden St	187	Town of Chatham	071	Pittsylvania County	0.03	Bus US 29	71-1419 Payne St	1000	R							X						09/08/2009
+759653	  71	01401	     	71-1401	Pruden St	187	Town of Chatham	071	Pittsylvania County	0.03	71-1419 Payne St	71-1408 Reid St	870	R							X						09/08/2009
+759654	  71	01401	     	71-1401	Pruden St	187	Town of Chatham	071	Pittsylvania County	0.03	71-1408 Reid St	71-1418 Bank St	1500	R							X						09/08/2009
+759655	  71	01401	     	71-1401	Pruden St	187	Town of Chatham	071	Pittsylvania County	0.09	71-1418 Bank St	71-1404 Peach St	790	R							X						09/08/2009
+759656	  71	01401	     	71-1401	Pruden St	187	Town of Chatham	071	Pittsylvania County	0.01	71-1404 Peach St	Dead End	330	R							X						09/14/2009
+759657	  71	01402	     	71-1402	Carter St	187	Town of Chatham	071	Pittsylvania County	0.09	SR 57 Depot St	71-1415 Bank St	990	R							X						09/14/2009
+759658	  71	01402	     	71-1402	Whittle St	187	Town of Chatham	071	Pittsylvania County	0.10	71-1415 Bank St	71-1407 Military Dr	870	R							X						09/14/2009
+759659	  71	01402	     	71-1402	Whittle St	187	Town of Chatham	071	Pittsylvania County	0.09	71-1407 Military Dr	71-1414 Whittle St	430	R							X						09/14/2009
+759660	  71	01402	     	71-1402	Rison St	187	Town of Chatham	071	Pittsylvania County	0.20	71-1414 Whittle St	WCL Chatham	170	R							X						09/14/2009
+759662	  71	01403	     	71-1403	Whitehead St	187	Town of Chatham	071	Pittsylvania County	0.06	SR 57 Depot St	71-1416 Sugar Hill Rd	560	R							X						09/02/2009
+759663	  71	01403	     	71-1403	Whitehead St	187	Town of Chatham	071	Pittsylvania County	0.07	71-1416 Sugar Hill Rd	71-1440 Depot St	620	R							X						09/02/2009
+759664	  71	01403	     	71-1403	Whitehead St	187	Town of Chatham	071	Pittsylvania County	0.37	71-1440 Depot St	Bus US 29	820	R							X						09/02/2009
+759665	  71	01404	     	71-1404	Peach St	187	Town of Chatham	071	Pittsylvania County	0.10	71-1401 Pruden St	71-1405 Lanier Ave	540	R							X						06/01/2009
+759666	  71	01404	     	71-1404	Peach St	187	Town of Chatham	071	Pittsylvania County	0.15	71-1405 Lanier Ave	71-1410 Holt St	530	R							X						06/01/2009
+759667	  71	01404	     	71-1404	Peach St	187	Town of Chatham	071	Pittsylvania County	0.15	71-1410 Holt St	71-1412 Oak St	520	R							X						06/01/2009
+759668	  71	01404	     	71-1404	Peach St	187	Town of Chatham	071	Pittsylvania County	0.19	71-1412 Oak St	71-685 Hurt St	540	R							X						06/01/2009
+759669	  71	01404	     	71-1404	Peach St	187	Town of Chatham	071	Pittsylvania County	0.10	71-685 Hurt St	Bus US 29; 71-1441	530	R							X						06/01/2009
+759670	  71	01405	     	71-1405	Church Lane	187	Town of Chatham	071	Pittsylvania County	0.07	71-1407 Military Dr	71-1422 Hunt St	140	R							X						09/08/2009
+759671	  71	01405	     	71-1405	Church Lane	187	Town of Chatham	071	Pittsylvania County	0.07	71-1422 Hunt St	Bus US 29	190	R							X						09/08/2009
+759672	  71	01405	     	71-1405	Lanier Ave	187	Town of Chatham	071	Pittsylvania County	0.22	Bus US 29	71-1404 Peach St	430	R							X						06/01/2009
+759673	  71	01406	     	71-1406	Center St	187	Town of Chatham	071	Pittsylvania County	0.13	71-1407 Military Dr	Bus US 29	650	R							X						09/08/2009
+759674	  71	01407	     	71-1407	Military Dr	187	Town of Chatham	071	Pittsylvania County	0.06	71-1402 Whittle St	71-1406 Center St	550	R							X						09/08/2009
+759675	  71	01407	     	71-1407	Military Dr	187	Town of Chatham	071	Pittsylvania County	0.07	71-1406 Center St	71-1405 Church Lane	650	R							X						09/08/2009
+759676	  71	01407	     	71-1407	Military Dr	187	Town of Chatham	071	Pittsylvania County	0.15	71-1405 Church Lane	71-1410 Hargrave Blvd	470	R							X						09/08/2009
+759677	  71	01407	     	71-1407	Military Dr	187	Town of Chatham	071	Pittsylvania County	0.24	71-1410 Hargrave Blvd	71-685 Hurt St	280	R							X						09/08/2009
+759678	  71	01408	     	71-1408	Reid St	187	Town of Chatham	071	Pittsylvania County	0.22	SR 57 Halifax Rd	71-1401 Pruden St	1000	R							X						09/08/2009
+759679	  71	01409	     	71-1409	Spruce Hill St	187	Town of Chatham	071	Pittsylvania County	0.19	71-685 Hurt St	Bus US 29	90	R							X						09/08/2009
+759680	  71	01410	     	71-1410	Hargrave Blvd	187	Town of Chatham	071	Pittsylvania County	0.14	71-1407 Military Dr	Bus US 29	540	R							X						09/02/2009
+759681	  71	01410	     	71-1410	Holt St	187	Town of Chatham	071	Pittsylvania County	0.01	Bus US 29	71-1413 Gilmer Dr	280	R							X						09/02/2009
+759682	  71	01410	     	71-1410	Holt St	187	Town of Chatham	071	Pittsylvania County	0.14	71-1413 Gilmer Dr	71-1411 Catalpa Dr	180	R							X						06/01/2009
+759683	  71	01410	     	71-1410	Holt St	187	Town of Chatham	071	Pittsylvania County	0.07	71-1411 Catalpa Dr	71-1404 Peach St	250	R							X						06/01/2009
+759684	  71	01411	     	71-1411	Catalpa Dr	187	Town of Chatham	071	Pittsylvania County	0.14	71-1410 Holt St	71-1412 Oak St	140	R							X						06/01/2009
+759685	  71	01412	     	71-1412	Oak St	187	Town of Chatham	071	Pittsylvania County	0.07	71-1411 Catalpa Dr	71-1404 Peach St	110	R							X						06/01/2009
+759686	  71	01413	     	71-1413	Gilmer Dr	187	Town of Chatham	071	Pittsylvania County	0.08	71-1410 Holt St	Bus US 29	40	R							X						09/16/2009
+759687	  71	01414	     	71-1414	Whittle St	187	Town of Chatham	071	Pittsylvania County	0.19	Dead End	71-1402 Rison St; Whittle St	120	R							X						09/14/2009
+759688	  71	01415	     	71-1415	Bank St	187	Town of Chatham	071	Pittsylvania County	0.03	71-1402 Whittle St; Carter St	Bus US 29; Gap	980	R							X						09/16/2009
+759689	  71	01415	     	71-1415	Court Place	187	Town of Chatham	071	Pittsylvania County	0.07	71-1419 Gap	71-1418 Bank St	500	R							X						09/14/2009
+759690	  71	01416	     	71-1416	Sugar Hill Rd	187	Town of Chatham	071	Pittsylvania County	0.26	71-1403 Whitehead St	SR 57 Depot St	250	R							X						09/02/2009
+759692	  71	01418	     	71-1418	Bank St	187	Town of Chatham	071	Pittsylvania County	0.03	71-1401 Pruden St	71-1415 Court Place	540	R							X						09/14/2009
+759693	  71	01419	     	71-1419	Payne St	187	Town of Chatham	071	Pittsylvania County	0.03	Dead End	71-1401 Pruden St	170	R							X						09/14/2009
+759694	  71	01419	     	71-1419	Payne St	187	Town of Chatham	071	Pittsylvania County	0.04	71-1401 Pruden St	71-1415 Court Place	260	R							X						09/14/2009
+759695	  71	01420	     	71-1420	Oakland Dr	187	Town of Chatham	071	Pittsylvania County	0.20	71-694 W, Davis Rd	71-1426 N, Hedrick Dr	300	R							X						09/02/2009
+759696	  71	01420	     	71-1420	Oakland Dr	187	Town of Chatham	071	Pittsylvania County	0.10	71-1426 N, Hedrick Dr	71-1426 S, Hedrick Dr	250	R							X						09/02/2009
+759697	  71	01420	     	71-1420	Oakland Dr	187	Town of Chatham	071	Pittsylvania County	0.02	71-1426 S, Hedrick Dr	71-694 E, Davis Rd	390	R							X						09/02/2009
+759698	  71	01421	     	71-1421	Jefferson Rd	187	Town of Chatham	071	Pittsylvania County	0.21	71-694 Davis Rd	Dead End	170	R							X						09/02/2009
+759699	  71	01422	     	71-1422	Hunt St	187	Town of Chatham	071	Pittsylvania County	0.09	71-1405 Church Lane	Dead End	90	R							X						09/08/2009
+759700	  71	01423	     	71-1423	Washington Court	187	Town of Chatham	071	Pittsylvania County	0.03	71-694 Davis Rd	Dead End	40	R							X						09/02/2009
+759701	  71	01424	     	71-1424	Paul Rd	187	Town of Chatham	071	Pittsylvania County	0.23	SR 57 Depot St	Dead End	600	R							X						09/02/2009
+759704	  71	01426	     	71-1426	Hedrick Dr	187	Town of Chatham	071	Pittsylvania County	0.25	71-1420 Oakland Dr	71-1420 Oakland Dr	160	R							X						09/02/2009
+759705	  71	01427	     	71-1427	Minor Rd	187	Town of Chatham	071	Pittsylvania County	0.12	Dead End	Bus US 29	90	R							X						09/02/2009
+759723	  71	01440	     	71-1440	Depot St	187	Town of Chatham	071	Pittsylvania County	0.29	71-1403 Whitehead St	SR 57 Depot St	190	R							X						09/02/2009
+759724	  71	01441	     	71-1441	Lynn St	187	Town of Chatham	071	Pittsylvania County	0.12	Bus US 29; 71-1404	Dead End	170	R							X						06/01/2009
+759726	  71	01443	     	71-1443	Evergreen Rd	187	Town of Chatham	071	Pittsylvania County	0.20	Bus US 29	Dead End	140	R							X						09/02/2009
+759731	  71	01449	     	71-1449	Aston Place	187	Town of Chatham	071	Pittsylvania County	0.08	71-1402 Rison St	Dead End	130	R							X						09/14/2009
+787947	  71	01460	     	71-1460	Catalpa Dr	187	Town of Chatham	071	Pittsylvania County	0.13	71-1411; 71-1412	71-685 Hurt St	300	R							X						08/28/2006
+759905	  71	09323	     	71-9323	Chatham Elementary Lane	187	Town of Chatham	071	Pittsylvania County	0.06	Chatham Elem Sch	Bus US 29	110	R							X						03/09/2009
+759909	  71	09495	     	71-9495	Central School Lane	187	Town of Chatham	071	Pittsylvania County	0.25	Central Elem Sch	Bus US 29	700	R							X						03/09/2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

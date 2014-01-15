@@ -1,0 +1,47 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Iron Gate																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080278	  SR	00042	     		 	241	Town of Iron Gate	003	Alleghany County	0.88	Alleghany County Line	CL Iron Gate	6400	G	92%	1%	1%	0%	6%	0%	F	0.0786	F	0.0000	6900	G	2009	
+080278	  US	00220	     		 	241	Town of Iron Gate	003	Alleghany County	0.88	Alleghany County Line	SCL Iron Gate	6400	G	92%	1%	1%	0%	6%	0%	F	0.0786	F	0.0000	6900	G	2009
+702465	  03	00701	     	03-701	Earnest Ave	241	Town of Iron Gate	003	Alleghany County	0.34	WCL Irongate	US 220	980	R							X						04/07/2005
+702690	  03	01701	     	03-1701	Earnest Ave	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	120	R							X						07/22/2008
+702691	  03	01702	     	03-1702	Fourth St	241	Town of Iron Gate	003	Alleghany County	0.06	03-1708 Seventh St	US 220	47	R							X						1999
+702692	  03	01702	     	03-1702	Fourth St	241	Town of Iron Gate	003	Alleghany County	0.06	US 220	03-1706 Commerce Ave	100	R							X						07/22/2008
+702693	  03	01702	     	03-1702	Fourth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce St	03-1711 Railroad Ave	130	R							X						1999
+702694	  03	01703	     	03-1703	Fifth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1708 Chaylbeate; Riverview	US 220	80	R							X						07/24/2008
+702695	  03	01703	     	03-1703	Fifth St	241	Town of Iron Gate	003	Alleghany County	0.06	US 220	03-1706 Commerce Ave	230	R							X						1999
+702696	  03	01703	     	03-1703	Fifth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	120	R							X						07/22/2008
+702697	  03	01704	     	03-1704	Ninth St	241	Town of Iron Gate	003	Alleghany County	0.06	Dead End	US 220	80	R							X						07/24/2008
+702698	  03	01704	     	03-1704	Ninth St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220	03-1706 Commerce Ave	90	R							X						1986
+702699	  03	01705	     	03-1705	Tenth St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220 Botetourt County Line	03-1706 Commerce Ave	750	R							X						07/24/2008
+702700	  03	01705	     	03-1705	Tenth St	241	Town of Iron Gate	003	Alleghany County	0.65	03-1706 Commerce Ave	Dead End	650	R							X						04/05/2005
+702701	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.07	03-1705 Tenth St	03-1704 Ninth St	240	R							X						07/24/2008
+702702	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.08	03-1704 Ninth St	03-1709 Eighth St	220	R							X						1999
+702703	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.06	03-1709 Eighth St	03-1708 Seventh St	280	R							X						07/24/2008
+702704	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.15	03-1708 Seventh St	03-1707 Sixth St	290	R							X						1999
+702705	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.10	03-1707 Sixth St	03-1703 Fifth St	330	R							X						07/22/2008
+702706	  03	01706	     	03-1706	Commerce St	241	Town of Iron Gate	003	Alleghany County	0.09	03-1703 Fifth St	03-1702 Fourth St	340	R							X						1999
+702707	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.09	03-1702 Fourth St	03-1701 Earnest Ave	380	R							X						07/22/2008
+702708	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.10	03-1701 Earnest Ave	US 220	420	R							X						1999
+702709	  03	01707	     	03-1707	Sixth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1708 Seventh St	US 220	80	R							X						07/11/2002
+702710	  03	01707	     	03-1707	Sixth St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220	03-1706 Commerce Ave	260	R							X						1999
+702711	  03	01707	     	03-1707	Sixth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	130	R							X						07/22/2008
+702712	  03	01708	     	03-1708	Seventh St	241	Town of Iron Gate	003	Alleghany County	0.09	03-1702 Fourth St	03-1703 Fifth St	50	R							X						1999
+702713	  03	01708	     	03-1708	Seventh St	241	Town of Iron Gate	003	Alleghany County	0.20	03-1703 Fifth St	US 220	10	R							X						07/24/2008
+702714	  03	01708	     	03-1708	Seventh St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220	03-1706 Commerce Ave	110	R							X						1999
+702715	  03	01708	     	03-1708	Seventh St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	60	R							X						07/22/2008
+702716	  03	01709	     	03-1709	Eighth St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220	03-1706 Commerce Ave	150	R							X						1999
+702717	  03	01709	     	03-1709	Eighth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	80	R							X						07/24/2008
+702720	  03	01710	     	03-1710	Park Ave	241	Town of Iron Gate	003	Alleghany County	0.13	NCL Irongate	03-1715 Ferrol Ave	450	R							X						04/05/2005
+702721	  03	01710	     	03-1710	Park Ave	241	Town of Iron Gate	003	Alleghany County	0.05	03-1715 Ferrol Ave	WCL Irongate	350	R							X						07/24/2008
+702724	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.08	03-1709 Eighth St	03-1708 Seventh St	30	R							X						1999
+702725	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.06	Dead End; Gap	03-1707 Sixth St	70	R							X						07/24/2008
+702726	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.10	03-1707 Sixth St	03-1703 Fifth St	100	R							X						07/22/2008
+702727	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.10	03-1703 Fifth St	03-1702 Fourth St	110	R							X						1999
+702728	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.09	03-1702 Fourth St	03-1701 Earnest Ave	100	R							X						07/22/2008
+702729	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.16	03-1701 Earnest Ave	Dead End	47	R							X						1999
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

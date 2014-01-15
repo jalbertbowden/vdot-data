@@ -1,0 +1,47 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Ridgeway																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+781328	  SR	00087	     	VA 87	Morehead Ave	290	Town of Ridgeway	044	Henry County	0.55	SCL Ridgeway	Bus US 220 Church St; Main St	12000	F	90%	0%	1%	1%	8%	1%	F	0.0837	F	1.0000	13000	F	2009
+020129	  SR	00087	     	VA 87	Morehead Ave	290	Town of Ridgeway	044	Henry County	0.28	Bus US 220 Church St; Main St	US 220 Greensboro Rd	9500	F	86%	1%	1%	1%	11%	1%	C	0.0857	F	0.5082	9800	F	2009
+020338	  US	00220	     	US 220	Greensboro Rd	290	Town of Ridgeway	044	Henry County	0.36	SCL Ridgeway	SR 87 Morehead Ave	10000	N	79%	1%	1%	1%	16%	1%	N	0.0798	N	0.5302	9800	N	2009
+020349	  US	00220	     	US 220	Greensboro Rd	290	Town of Ridgeway	044	Henry County	0.58	SR 87 Morehead Ave	NCL Ridgeway	19000	F	81%	1%	1%	1%	14%	1%	C	0.0787	F	0.5211	18000	F	2009
+202008	C5US	00220	     	Bus US 220	Church St	290	Town of Ridgeway	044	Henry County	0.53	SCL Ridgeway	SR 87 Morehead Ave	1500	N	99%	0%	0%	0%	0%	0%	N	0.0992	N	0.6968	1600	N	2009
+020070	C5US	00220	     	Bus US 220	Main St	290	Town of Ridgeway	044	Henry County	0.81	SR 87 Morehead Ave	NCL Ridgeway	4500	G	99%	0%	0%	0%	0%	0%	C				4700	G	2009
+780776	  FR	00845	     	FR 845	 	290	Town of Ridgeway	044	Henry County	0.11	Dead End	NCL Ridgeway	0	R							X						03/27/2009
+745431	  44	00637	     	44-637	Kings Mill Rd	290	Town of Ridgeway	044	Henry County	0.20	SR 87 W, Morehead Ave	SCL Ridgeway	1300	R							X						06/13/2006
+745434	  44	00639	     	44-639	Prospho Springs Rd	290	Town of Ridgeway	044	Henry County	0.40	Bus US 220	NCL Ridgeway	630	R							X						06/13/2006
+745443	  44	00643	     	44-643	Peanut Rd	290	Town of Ridgeway	044	Henry County	0.07	Bus US 220	NCL Ridgeway	6	R							X						06/05/2000
+400490	  44	00750	     	44-750	Old Leaksville Rd	290	Town of Ridgeway	044	Henry County	0.07	SR 87 W, Morehead Ave	ECL Ridgeway	1500	F	97%	1%	1%	0%	0%	0%	C	0.0966	F	0.5263	1600	F	2009
+400491	  44	00750	     	44-750	Old Leaksville Rd	290	Town of Ridgeway	044	Henry County	0.23	ECL Ridgeway	ECL Ridgeway	1500	F	97%	1%	1%	0%	0%	0%	F	0.0996	F	0.5418	1600	F	2009
+745629	  44	00783	     	44-783	Antioch Church St	290	Town of Ridgeway	044	Henry County	0.20	Dead End	Bus US 220	110	R							X						06/13/2006
+400498	  44	00902	     	44-902	Mica Rd	290	Town of Ridgeway	044	Henry County	0.03	Bus US 220	NCL Ridgeway	470	F	96%	2%	1%	0%	1%	0%	C	0.1181	F	0.6129	490	F	2009
+745893	  44	01001	     	44-1001	Wickersham Rd	290	Town of Ridgeway	044	Henry County	0.25	Bus US 220	Dead End	270	R							X						05/08/2009
+745894	  44	01002	     	44-1002	Blue St	290	Town of Ridgeway	044	Henry County	0.06	Dead End	Bus US 220	30	R							X						05/08/2009
+745895	  44	01003	     	44-1003	Grass St	290	Town of Ridgeway	044	Henry County	0.06	Dead End	44-639 Prospho Springs Rd	20	R							X						05/08/2009
+745896	  44	01004	     	44-1004	Twin Oak Dr	290	Town of Ridgeway	044	Henry County	0.10	Bus US 220	Dead End	150	R							X						04/29/2009
+745897	  44	01005	     	44-1005	Summit	290	Town of Ridgeway	044	Henry County	0.24	Bus US 220	Dead End	430	R							X						05/08/2009
+745898	  44	01006	     	44-1006	Magnolia St	290	Town of Ridgeway	044	Henry County	0.17	Bus US 220	44-1014 Vista View Lane	740	R							X						04/29/2009
+745899	  44	01007	     	44-1007	Hicks St	290	Town of Ridgeway	044	Henry County	0.13	44-1009 Pecan Ave	SCL Ridgeway	70	R							X						05/08/2009
+785290	  44	01007	     	44-1007	 	290	Town of Ridgeway	044	Henry County	0.19	SCL Ridgeway	44-1011 Harbour St	70	N							X				0	N	05/08/2009
+745900	  44	01008	     	44-1008	Almond St	290	Town of Ridgeway	044	Henry County	0.06	SR 87 Morehead Ave	44-1006 Magnolia St	380	R							X						04/29/2009
+745901	  44	01009	     	44-1009	Pecan Ave	290	Town of Ridgeway	044	Henry County	0.18	44-1007 Hicks St	44-1011 Harbour St	180	R							X						05/08/2009
+745902	  44	01009	     	44-1009	Pecan Ave	290	Town of Ridgeway	044	Henry County	0.02	44-1011 Harbour St	SR 87 Morehead Ave	420	R							X						05/08/2009
+745903	  44	01010	     	44-1010	Shiloh Hills	290	Town of Ridgeway	044	Henry County	0.15	44-1005 Summit	Dead End	90	R							X						05/08/2009
+745904	  44	01011	     	44-1011	Harbour St	290	Town of Ridgeway	044	Henry County	0.16	Dead End	44-637 Kings Mill Rd	330	R							X						05/08/2009
+745905	  44	01012	     	44-1012	Elizabeth Dr	290	Town of Ridgeway	044	Henry County	0.24	Dead End	Bus US 220	150	R							X						04/29/2009
+745907	  44	01014	     	44-1014	Vista View Lane	290	Town of Ridgeway	044	Henry County	0.22	SR 87 Morehead Ave	44-1015 Mary Court	370	R							X						04/29/2009
+745908	  44	01014	     	44-1014	Vista View Lane	290	Town of Ridgeway	044	Henry County	0.70	44-1015 Mary Court	NCL Ridgeway	260	R							X						04/29/2009
+745909	  44	01015	     	44-1015	Mary Court	290	Town of Ridgeway	044	Henry County	0.08	44-1014 Vista View Lane	Dead End	80	R							X						05/08/2009
+745915	  44	01018	     	44-1018	Mulberry Rd	290	Town of Ridgeway	044	Henry County	0.03	SCL Ridgeway	44-1025	440	R							X						04/29/2009
+745916	  44	01018	     	44-1018	Mulberry Rd	290	Town of Ridgeway	044	Henry County	0.08	44-1025	Bus US 220	640	R							X						04/29/2009
+745919	  44	01021	     	44-1021	Carriage Court	290	Town of Ridgeway	044	Henry County	0.30	Dead End	44-750 Old Leaksville Rd	130	R							X						05/08/2009
+745920	  44	01022	     	44-1022	Carriage Court	290	Town of Ridgeway	044	Henry County	0.06	44-1021 Carriage Court	NCL Ridgeway	360	R							X						05/08/2009
+785126	  44	01025	     	44-1025	 	290	Town of Ridgeway	044	Henry County	0.09	44-1018 Mulberry Rd	SCL Ridgeway	140	R							X						04/29/2009
+785291	  44	01025	     	44-1025	 	290	Town of Ridgeway	044	Henry County	0.22	SCL Ridgeway	SCL Ridgeway	140	R							X						04/29/2009
+745952	  44	01055	     	44-1055	Primitive Dr	290	Town of Ridgeway	044	Henry County	0.06	Dead End	Bus US 220	30	R							X						05/08/2009
+746396	  44	09198	     	44-9198	 	290	Town of Ridgeway	044	Henry County	0.06	Bus US 220	Ridgeway Sch	0	R							X						04/24/2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

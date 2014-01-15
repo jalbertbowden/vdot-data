@@ -1,0 +1,271 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Rappahannock Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+787381	  SR	00048	     	VA 48	Skyline Dr	078	Rappahannock County	US 	Federal	4.99	Madison County Line	Page County Line	800	O							X						2009
+787383	  SR	00048	     	VA 48	Skyline Dr	078	Rappahannock County	US 	Federal	4.41	Page County Line	Page County Line	650	O							X						2009
+787385	  SR	00048	     	VA 48	Skyline Dr	078	Rappahannock County	US 	Federal	5.92	Page County Line	Warren County Line	650	O							X						2009
+787387	  SR	00048	     	VA 48	Skyline Dr	078	Rappahannock County	US 	Federal	3.87	Warren County Line	Warren County Line	650	O							X						2009
+070070	  US	00211	     	US 211	Lee Highway	078	Rappahannock County	078	Rappahannock County	7.09	Page County Line; Skyline Drive	US 522 Sperryville	2300	G	96%	1%	1%	1%	2%	0%	F				2400	G	2009
+070353	  US	00211	     		Lee Highway	078	Rappahannock County	078	Rappahannock County	4.62	US 522 Sperryville	US 211 Bus South of Washington	4500	G	96%	1%	1%	1%	2%	0%	F				4600	G	2009
+070352	  US	00211	     		Lee Highway	078	Rappahannock County	078	Rappahannock County	0.68	US 211 Bus South of Washington	WCL Washington	5100	G	96%	1%	1%	1%	2%	0%	F				5200	G	2009
+070372	  US	00211	     		Lee Highway	322	Town of Washington	078	Rappahannock County	0.02	WCL Washington	ECL Washington	5100	N	96%	1%	1%	1%	2%	0%	N				5200	N	2009
+070377	  US	00211	     		Lee Highway	078	Rappahannock County	078	Rappahannock County	0.39	ECL Washington	US 211 Bus East of Washington	5100	N	96%	1%	1%	1%	2%	0%	N				5200	N	2009
+070202	  US	00211	     		Lee Highway	078	Rappahannock County	078	Rappahannock County	2.38	US 211 Bus East of Washington	US 522 Zachary Taylor Ave	5700	G	96%	1%	1%	1%	2%	0%	F				5800	G	2009
+070351	  US	00211	     	US 211	Lee Highway	078	Rappahannock County	078	Rappahannock County	9.17	US 522 Zachary Taylor Ave	Culpeper County Line	5600	G	97%	1%	1%	1%	1%	0%	F				6200	G	2009
+070350	  US	00211	     	US 211	Lee Highway	023	Culpeper County	078	Rappahannock County	2.95	Rappahannock County Line	SR 229 Rixeyville Rd	7300	G	97%	1%	1%	1%	1%	0%	C				8100	G	2009
+070349	  US	00211	     	US 211	Lee Highway	023	Culpeper County	078	Rappahannock County	0.95	SR 229 Rixeyville Rd	Fauquier County Line	14000	G	97%	1%	1%	0%	0%	0%	F				14000	G	2009
+070068	C2US	00211	     		Main St	078	Rappahannock County	078	Rappahannock County	0.72	US 211 South of Wahington	SCL Washington	1100	G	98%	0%	1%	0%	0%	0%	C				1100	G	2009
+070069	C2US	00211	     		Main St	322	Town of Washington	078	Rappahannock County	0.37	SCL Washington	78-628 Middle St	1100	N	98%	0%	1%	0%	0%	0%	N				1100	N	2009
+070073	C2US	00211	     		Warren St	322	Town of Washington	078	Rappahannock County	0.26	78-628 Main St	ECL Washington	1100	N	98%	0%	1%	0%	0%	0%	N				1100	N	2009
+070071	C2US	00211	     		 	078	Rappahannock County	078	Rappahannock County	0.15	ECL Washington	US 211 East of Washington	1100	N	98%	0%	1%	0%	0%	0%	N				1100	N	2009
+070072	  SR	00231	     	VA 231	F T Valley Rd	078	Rappahannock County	078	Rappahannock County	8.19	Madison County Line	US 522 Sperryville Pike	1400	G	94%	0%	2%	2%	3%	0%	F				1400	G	2009
+070355	  US	00522	     	US 522	Zachary Taylor Ave	078	Rappahannock County	078	Rappahannock County	4.67	Culpeper County Line	78-618 Hawlin Rd	2000	G	97%	1%	1%	1%	1%	0%	F				2000	G	2009
+170300	  US	00522	     	US 522	Zachary Taylor Ave	078	Rappahannock County	078	Rappahannock County	4.02	78-618 Hawlin Rd	SR 231 F T Valley Rd	1900	G	97%	1%	1%	1%	1%	0%	F				1900	G	2009
+070354	  US	00522	     	US 522	Sperryville Pike	078	Rappahannock County	078	Rappahannock County	0.66	SR 231 F T Valley Rd	Berryville Pike	3600	G	94%	1%	2%	1%	2%	0%	C				3700	G	2009
+070387	  US	00522	     	US 522	Berryville Pike	078	Rappahannock County	078	Rappahannock County	0.11	Sperryville Pike	US 211 S, Lee Hwy	3100	G	89%	2%	4%	3%	3%	0%	C	0.0903	F	0.6296	3300	G	2009
+070353	  US	00522	     		Lee Highway	078	Rappahannock County	078	Rappahannock County	4.62	S US 211 Lee Hwy	US 211 BUS SOUTH OF WASHINGTON	4500	G	96%	1%	1%	1%	2%	0%	F				4600	G	2009	
+070352	  US	00522	     		Lee Highway	078	Rappahannock County	078	Rappahannock County	0.68	US 211 BUS SOUTH OF WASHINGTON	CL Washington	5100	G	96%	1%	1%	1%	2%	0%	F				5200	G	2009	
+070372	  US	00522	     		Lee Highway	322	Town of Washington	078	Rappahannock County	0.02	CL Washington	CL Washington	5100	N	96%	1%	1%	1%	2%	0%	N				5200	N	2009	
+070377	  US	00522	     		Lee Highway	078	Rappahannock County	078	Rappahannock County	0.39	CL Washington	Bus US 211 East of Washington	5100	N	96%	1%	1%	1%	2%	0%	N				5200	N	2009	
+070202	  US	00522	     		Lee Highway	078	Rappahannock County	078	Rappahannock County	2.38	Bus US 211 East of Washington	N US 211 Lee Hwy	5700	G	96%	1%	1%	1%	2%	0%	F				5800	G	2009	
+070074	  US	00522	     	US 522	Zachary Taylor Ave	078	Rappahannock County	078	Rappahannock County	2.82	US 211 N, Lee Hwy	78-641 N, Fodderstack Rd	3300	G	95%	1%	2%	0%	2%	0%	F				3400	G	2009
+070110	  US	00522	     	US 522	Zachary Taylor Ave	078	Rappahannock County	078	Rappahannock County	7.26	78-641 N, Fodderstack Rd	Warren County Line	3700	G	95%	1%	2%	0%	2%	0%	C				3800	G	2009
+070068	C1US	00522	     		Main St	078	Rappahannock County	078	Rappahannock County	0.72	US 211 SOUTH OF WASHINGTON	WCL Washington	1100	G	98%	0%	1%	0%	0%	0%	C				1100	G	2009	
+070069	C1US	00522	     		Main St	322	Town of Washington	078	Rappahannock County	0.37	WCL Washington	78-628 Middle St; Warren St	1100	N	98%	0%	1%	0%	0%	0%	N				1100	N	2009	
+070073	C1US	00522	     		Warren St	322	Town of Washington	078	Rappahannock County	0.26	78-628 Middle St; Main St	ECL Washington	1100	N	98%	0%	1%	0%	0%	0%	N				1100	N	2009	
+070071	C1US	00522	     		 	078	Rappahannock County	078	Rappahannock County	0.15	ECL Washington	US 211 Lee Highway	1100	N	98%	0%	1%	0%	0%	0%	N				1100	N	2009	
+780669	  FR	00724	     	FR 724	 	078	Rappahannock County	078	Rappahannock County	0.15	US 211 Lee Highway	Dead End	20	R							X						04/14/2006
+780670	  FR	00725	     	FR 725	Park Lane	078	Rappahannock County	078	Rappahannock County	0.05	Dead End	US 211 Lee Highway	46	R							X						03/28/2006
+797688	  FR	01100	     	FR 1100	 	078	Rappahannock County	078	Rappahannock County	0.15	US 211 Lee Highway	Dead End	0	?							X
+765150	  78	00600	     	78-600	Woodward Rd	078	Rappahannock County	078	Rappahannock County	2.30	78-681 Rolling Rd	78-608 Ashby Rd	50	R							X						04/04/2006
+765151	  78	00600	     	78-600	Woodward Rd	078	Rappahannock County	078	Rappahannock County	1.85	78-608 Ashby Rd	1.85 MN 78-608 Ashby Rd	80	R							X						04/04/2006
+765152	  78	00600	     	78-600	Woodward Rd	078	Rappahannock County	078	Rappahannock County	0.10	1.85 MN 78-608 Ashby Rd	78-667 Estes Mill Rd	80	R							X						04/04/2006
+765153	  78	00600	     	78-600	Woodward Rd	078	Rappahannock County	078	Rappahannock County	0.85	78-667 Estes Mill Rd	0.85 MN 78-667 Estes Mill Rd	40	R							X						04/04/2006
+765154	  78	00600	     	78-600	Woodward Rd	078	Rappahannock County	078	Rappahannock County	0.15	0.85 MN 78-667 Estes Mill Rd	78-1001 Main St; Gap	150	R							X						03/28/2006
+765155	  78	00600	     	78-600	Bryans Rd	078	Rappahannock County	078	Rappahannock County	0.30	US 211 Lee Highway; Gap	78-671 Thorton Gap Church Rd	10	R							X						03/28/2006
+765156	  78	00600	     	78-600	Thorton Gap Church Rd	078	Rappahannock County	078	Rappahannock County	1.00	78-671; Bryans Rd	78-612 E, Old Hollow Rd	260	R							X						05/16/2003
+401927	  78	00600	     	78-600	Old Hollow Rd	078	Rappahannock County	078	Rappahannock County	0.30	78-612 E; Thorton Gap Church Rd	78-612 W; Swindler Hollow Rd	370	G	97%	1%	1%	1%	1%	0%	C				380	G	2009
+765157	  78	00600	     	78-600	Swindler Hollow Rd	078	Rappahannock County	078	Rappahannock County	2.05	78-612 W, Old Holow Rd	78-653 Sycamore Ridge Rd	90	R							X						04/04/2006
+765158	  78	00600	     	78-600	Pickeral Ridge Lane	078	Rappahannock County	078	Rappahannock County	0.10	78-653 Sycamore Ridge Rd	Dead End	40	R							X						04/04/2006
+789804	  78	00601	     	78-601	Peola Mills Rd	078	Rappahannock County	078	Rappahannock County	0.30	SR 231 F T Valley Rd	78-602 Nethers Rd	250	R							X						05/10/2006
+765159	  78	00601	     	78-601	Nethers Rd	078	Rappahannock County	078	Rappahannock County	0.90	78-602; Peola Mills Rd	78-707 Sharp Rock Rd	390	R							X						05/10/2006
+765160	  78	00602	     	78-602	Nethers Rd	078	Rappahannock County	078	Rappahannock County	0.10	Madison County Line	78-601 Peola Mills Rd	190	R							X						05/10/2006
+765161	  78	00603	     	78-603	Pophams Ford Rd	078	Rappahannock County	078	Rappahannock County	1.30	Madison County Line	78-707 Slate Mills Rd	70	R							X						05/10/2006
+765162	  78	00604	     	78-604	Green Rd	078	Rappahannock County	078	Rappahannock County	0.40	Culpeper County Line	78-707 W, Slate Mills Rd	160	R							X						05/10/2006
+765163	  78	00604	     	78-604	Round Hill Rd	078	Rappahannock County	078	Rappahannock County	2.50	78-707 E, Slate Mills Rd	US 522 Zachary Taylor Ave	160	R							X						05/10/2006
+765164	  78	00605	     	78-605	Major Brown Dr	078	Rappahannock County	078	Rappahannock County	0.70	Culpeper County Line	78-707 Slate Mills Rd	48	R							X						05/29/2003
+401928	  78	00606	     	78-606	Fodderstack Rd	078	Rappahannock County	078	Rappahannock County	1.00	78-628 Dearing Rd	78-641 Alleen Rd	370	G	96%	1%	1%	1%	1%	0%	C				370	G	2009
+765165	  78	00607	     	78-607	Quaintance Rd	078	Rappahannock County	078	Rappahannock County	4.20	78-707 Slate Mills Rd	78-618 Hawlin Rd	20	R							X						05/10/2006
+765166	  78	00608	     	78-608	Ashby Rd	078	Rappahannock County	078	Rappahannock County	0.64	78-600 Woodward Rd	0.64 ME 78-600 Woodward Rd	180	R							X						04/04/2006
+765167	  78	00608	     	78-608	Ashby Rd	078	Rappahannock County	078	Rappahannock County	0.26	0.64 ME 78-600 Woodward Rd	SR 231 F T Valley Rd	200	R							X						04/04/2006
+765168	  78	00609	     	78-609	Jobbers Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.50	Dead End	78-621 Yancey Rd	20	R							X						05/12/2006
+765169	  78	00610	     	78-610	Chester Gap Rd	078	Rappahannock County	078	Rappahannock County	0.88	Dead End	78-686 Blue Ridge Ave	420	R							X						04/16/2003
+765170	  78	00610	     	78-610	Chester Gap Rd	078	Rappahannock County	078	Rappahannock County	0.10	78-686 Blue Ridge Ave	78-670 Cemetery Rd	650	R							X						04/16/2003
+765171	  78	00610	     	78-610	Chester Gap Rd	078	Rappahannock County	078	Rappahannock County	0.15	78-670 Cemetery Rd	78-660 Waterfall Rd	690	R							X						04/16/2003
+401929	  78	00610	     	78-610	Chester Gap Rd	078	Rappahannock County	078	Rappahannock County	0.52	78-660 Waterfall Rd	78-666 Headwaters Rd	1100	G	98%	0%	2%	0%	0%	0%	F				1200	G	2009
+401930	  78	00610	     	78-610	Chester Gap Rd	078	Rappahannock County	078	Rappahannock County	0.17	78-666 Headwaters Rd	US 522 Zachary Taylor Hwy	1200	G	98%	0%	2%	0%	0%	0%	C				1200	G	2009
+401931	  78	00611	     	78-611	Waterford Rd	078	Rappahannock County	078	Rappahannock County	0.70	Culpeper County Line	78-642 E, Viewtown Rd	770	G	97%	0%	1%	0%	0%	0%	C				790	G	2009
+765172	  78	00611	     	78-611	Seven Ponds Rd	078	Rappahannock County	078	Rappahannock County	0.80	78-642 W, Viewtown Rd	0.80 MN 78-642 Viewtown Rd	250	R							X						04/21/2006
+765173	  78	00611	     	78-611	Seven Ponds Rd	078	Rappahannock County	078	Rappahannock County	0.70	0.80 MN 78-642 Viewtown Rd	78-648 Jefferson Rd	250	R							X						04/21/2006
+765174	  78	00611	     	78-611	Seven Ponds Rd	078	Rappahannock County	078	Rappahannock County	0.60	78-648 Jefferson Rd	US 211 Lee Highway	120	R							X						04/02/2003
+765175	  78	00612	     	78-612	Hull School Rd	078	Rappahannock County	078	Rappahannock County	0.83	Dead End	78-653 Sycamore Ridge Rd	20	R							X						04/04/2006
+765176	  78	00612	     	78-612	Old Hollow Rd	078	Rappahannock County	078	Rappahannock County	2.50	78-653 Sycamore Ridge Rd	78-600 W, Swindler Hollow Rd	100	R							X						04/04/2006
+401932	  78	00612	     	78-612	Old Hollow Rd	078	Rappahannock County	078	Rappahannock County	1.00	78-600 E, Thornton Gap Church Rd	US 211 Lee Highway	320	G	96%	1%	2%	1%	1%	0%	C				320	G	2009
+765177	  78	00613	     	78-613	 	078	Rappahannock County	078	Rappahannock County	0.14	Culpeper County Line	Culpeper County Line	500	R							X						04/02/2003
+765178	  78	00614	     	78-614	Keyser Run Rd	078	Rappahannock County	078	Rappahannock County	3.10	Dead End	78-623 Pullens Bluff Rd	90	R							X						04/04/2006
+765179	  78	00614	     	78-614	Keyser Run Rd	078	Rappahannock County	078	Rappahannock County	1.20	78-623 Pullens Bluff Rd	78-622 Girdbrown Hollow Rd	100	R							X						04/04/2006
+765180	  78	00615	     	78-615	Turkey Ridge Rd	078	Rappahannock County	078	Rappahannock County	4.40	23-650; 78-650 O'Bannons Mill Rd	78-617 Castleton Ford Rd	20	R							X						04/25/2003
+765181	  78	00615	     	78-615	Castleton Ford Rd	078	Rappahannock County	078	Rappahannock County	1.00	78-617; Turkey Ridge Rd	1.00 MN 78-617 Turkey Ridge Rd	90	R							X						04/25/2003
+765182	  78	00615	     	78-615	Castleton Ford Rd	078	Rappahannock County	078	Rappahannock County	0.90	1.00 MN 78-617 Turkey Ridge Rd	78-649 Castle Mountain Rd	190	R							X						06/29/2000
+765183	  78	00615	     	78-615	Castleton Ford Rd	078	Rappahannock County	078	Rappahannock County	0.30	78-649 Castle Mountain Rd	78-729 Richmond Rd	310	R							X						04/21/2006
+765184	  78	00616	     	78-616	Castleton View Rd	078	Rappahannock County	078	Rappahannock County	2.60	78-626 Scrabble Rd	78-617 Castleton Ford Rd	80	R							X						04/25/2003
+765185	  78	00617	     	78-617	Castleton Ford Rd	078	Rappahannock County	078	Rappahannock County	0.60	78-615; Turkey Rdige Rd	78-616 Castleton View Rd	100	R							X						04/25/2003
+765186	  78	00617	     	78-617	Castleton View Rd	078	Rappahannock County	078	Rappahannock County	1.30	78-616; Castleton Ford Rd	78-618 Laurel Mills Rd; Hope Hill Rd	180	R							X						04/21/2006
+765187	  78	00618	     	78-618	Hawlin Rd	078	Rappahannock County	078	Rappahannock County	3.47	SR 231 Fort Valley Rd	78-607 Quaintance Rd	20	R							X						05/12/2006
+765188	  78	00618	     	78-618	Hawlin Rd	078	Rappahannock County	078	Rappahannock County	1.40	78-607 Quaintance Rd	US 522 S, Zachary Taylor Ave	100	R							X						06/29/2000
+765189	  78	00618	     	78-618	Red Oak Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.30	US 522 N, Zachary Taylor Ave	0.30 MN US 522 Zachary Taylor Ave	80	R							X						05/10/2006
+765190	  78	00618	     	78-618	Red Oak Mountain Rd	078	Rappahannock County	078	Rappahannock County	1.20	0.30 MN US 522 Zachary Taylor Ave	78-658; Besse Bell Mountain Rd	60	R							X						04/25/2003
+765191	  78	00618	     	78-618	Besse Bell Mountain Rd	078	Rappahannock County	078	Rappahannock County	2.40	78-658 Red Oak Mountain Rd	78-626 S, Scrabble Rd	30	R							X						05/16/2006
+765192	  78	00618	     	78-618	Hope Hill Rd	078	Rappahannock County	078	Rappahannock County	1.40	78-626 N, Whorton Hollow Rd	78-617 Castleton View Rd	370	R							X						04/21/2006
+765193	  78	00618	     	78-618	Laurel Mills Rd	078	Rappahannock County	078	Rappahannock County	3.00	78-617 Castleton View Rd	78-729 Richmond Rd	520	R							X						06/29/2000
+765194	  78	00619	     	78-619	Lizzie Mills Rd	078	Rappahannock County	078	Rappahannock County	1.79	78-626 Whorton Hollow Rd	1.79 ME 78-626 Whorton Hollow Rd	100	R							X						05/09/2003
+765195	  78	00619	     	78-619	Lizzie Mills Rd	078	Rappahannock County	078	Rappahannock County	0.03	1.79 ME 78-626 Whorton Hollow Rd	78-618 Laurel Mills Rd	130	R							X						05/09/2003
+765196	  78	00620	     	78-620	Fletchers Mill Rd	078	Rappahannock County	078	Rappahannock County	2.50	US 522 Zachary Taylor Ave	78-621 Rudasill Mill Rd	160	R							X						05/16/2006
+765197	  78	00620	     	78-620	Five Forks Rd	078	Rappahannock County	078	Rappahannock County	1.25	78-621 Rudasill Mill Rd	Dead End	90	R							X						05/16/2006
+765198	  78	00621	     	78-621	Yancey Rd	078	Rappahannock County	078	Rappahannock County	1.80	SR 231 F T Valley Rd	78-609 Jobbers Mountain Rd	70	R							X						05/12/2006
+765199	  78	00621	     	78-621	Yancey Rd	078	Rappahannock County	078	Rappahannock County	2.10	78-609 Jobbers Mountain Rd	US 522 N, Zachary Taylor Ave	80	R							X						05/12/2006
+765200	  78	00621	     	78-621	Rudasill Mill Rd	078	Rappahannock County	078	Rappahannock County	1.50	US 522 S, Zachary Taylor Ave	1.50 MN US 522 Zachary Taylor Ave	220	R							X						05/16/2006
+765201	  78	00621	     	78-621	Rudasill Mill Rd	078	Rappahannock County	078	Rappahannock County	0.90	1.50 MN US 522 Zachary Taylor Ave	2.40 MN US 522 Zachary Taylor Ave	240	R							X						05/16/2006
+765202	  78	00621	     	78-621	Rudasill Mill Rd	078	Rappahannock County	078	Rappahannock County	0.80	2.40 MN US 522 Zachary Taylor Ave	78-620 Five Forks Rd; Fletchers Mill Rd	280	R							X						05/16/2006
+765203	  78	00621	     	78-621	Rudasill Mill Rd	078	Rappahannock County	078	Rappahannock County	1.50	78-620 Five Forks Rd; Fletchers Mill Rd	78-622 W, Rock Mills Rd	410	R							X						05/16/2006
+765204	  78	00621	     	78-621	Hunters Rd	078	Rappahannock County	078	Rappahannock County	1.45	78-622 E, Rock Mills Rd	1.45 MN 78-622 Rock Mills Rd	80	R							X						04/14/2006
+765205	  78	00621	     	78-621	Hunters Rd	078	Rappahannock County	078	Rappahannock County	0.10	1.45 MN 78-622 Rock Mills Rd	78-674 Grand View Rd	90	R							X						04/14/2006
+765206	  78	00621	     	78-621	Hunters Rd	078	Rappahannock County	078	Rappahannock County	1.00	78-674 Grand View Rd	78-626 Tiger Valley Rd	450	R							X						05/16/2006
+765207	  78	00622	     	78-622	Calvert St	322	Town of Washington	078	Rappahannock County	0.04	78-1101 Gay St	78-628 Main St	110	R							X						04/04/2003
+765208	  78	00622	     	78-622	Calvert St	322	Town of Washington	078	Rappahannock County	0.21	78-628 Main St	NCL Washington	570	R							X						04/04/2003
+785197	  78	00622	     	78-622	Harris Hollow Rd	078	Rappahannock County	078	Rappahannock County	1.10	NCL Washington	78-624 Sunnyside Orchard Lane	570	N							X				0	N	04/04/2003
+765209	  78	00622	     	78-622	Harris Hollow Rd	078	Rappahannock County	078	Rappahannock County	1.40	78-624 Sunnyside Orchard Lane	78-625 Plains Lane	240	R							X						04/09/2003
+765210	  78	00622	     	78-622	Gidbrown Hollow Rd	078	Rappahannock County	078	Rappahannock County	4.80	78-625 Plains Lane	78-623 Pullens Bluff Rd	40	R							X						04/04/2006
+765211	  78	00622	     	78-622	Gidbrown Hollow Rd	078	Rappahannock County	078	Rappahannock County	0.80	78-623 Pullens Bluff Rd	78-614 Keyser Run Rd	260	R							X						04/04/2006
+401933	  78	00622	     	78-622	Gidbrown Hollow Rd	078	Rappahannock County	078	Rappahannock County	2.00	78-614 Keyser Run Rd	78-690	430	G	98%	1%	1%	0%	0%	0%	C				440	G	2009
+406763	  78	00622	     	78-622	Gidbrown Hollow Rd	078	Rappahannock County	078	Rappahannock County	0.08	78-690	US 211 E, Lee Highway	0	?							X
+765212	  78	00622	     	78-622	Rock Mills Rd	078	Rappahannock County	078	Rappahannock County	2.25	US 211 E, Lee Highway	78-621 E, Hunters Rd	700	R							X						05/09/2003
+765213	  78	00622	     	78-622	Rock Mills Rd	078	Rappahannock County	078	Rappahannock County	1.89	78-621 E, Hunters Rd	1.89 ME 78-621 Hunters Rd	340	R							X						05/09/2003
+765214	  78	00622	     	78-622	Rock Mills Rd	078	Rappahannock County	078	Rappahannock County	0.21	1.89 ME 78-621 Hunters Rd	78-626 W, Whorton Hollow Rd	300	R							X						05/09/2003
+765215	  78	00622	     	78-622	Rock Mills Rd	078	Rappahannock County	078	Rappahannock County	0.05	78-626 W, Whorton Hollow Rd	78-626 E, Long Mountain Rd	120	R							X						05/16/2003
+765216	  78	00622	     	78-622	Aaron Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.85	78-626 E, Long Mountain Rd	0.85 ME 78-626 Long Mountain Rd	120	R							X						05/04/2006
+765217	  78	00622	     	78-622	Aaron Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.75	0.85 ME 78-626 Long Mountain Rd	78-661 Airy Settle Rd	240	R							X						05/04/2006
+765218	  78	00622	     	78-622	Aaron Mountain Rd	078	Rappahannock County	078	Rappahannock County	1.40	78-661 Airy Settle Rd	78-656 Comptons Rd	120	R							X						05/06/2003
+765219	  78	00622	     	78-622	Aaron Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.85	78-656 Comptons Rd	78-729 Richmond Rd	270	R							X						05/06/2003
+765220	  78	00623	     	78-623	Pullens Bluff Rd	078	Rappahannock County	078	Rappahannock County	0.50	78-614 Keyser Run Rd	78-622 Gidbrown Hollow Rd	110	R							X						04/04/2006
+765221	  78	00624	     	78-624	Sunnyside Orchard Lane	078	Rappahannock County	078	Rappahannock County	1.00	78-622 Harris Hollow Rd	Dead End	70	R							X						04/04/2006
+765222	  78	00625	     	78-625	Plains Lane	078	Rappahannock County	078	Rappahannock County	0.40	78-622 Harris Holow Rd	0.40 MN 78-622 Harris Holow Rd	40	R							X						04/04/2006
+765223	  78	00625	     	78-625	Plains Lane	078	Rappahannock County	078	Rappahannock County	0.62	0.40 MN 622 Harris Holow Rd	Dead End	10	R							X						04/04/2006
+765224	  78	00626	     	78-626	Piedmont Ave	078	Rappahannock County	078	Rappahannock County	0.50	End State Maintenance	WCL Washington	400	R							X						03/28/2006
+765225	  78	00626	     	78-626	Piedmont Ave	322	Town of Washington	078	Rappahannock County	0.30	WCL Washington	Bus US 211, Bus US 522 N, Main St	210	R							X						05/27/2003
+765226	  78	00626	     	78-626	Porter St	322	Town of Washington	078	Rappahannock County	0.04	Bus US 211, Bus US 522 S, Main St	78-1101 Gay St	450	R							X						04/04/2003
+765227	  78	00626	     	78-626	Mount Salem Ave	322	Town of Washington	078	Rappahannock County	0.26	78-1101 Gay St	ECL Washington	640	R							X						04/04/2003
+785198	  78	00626	     	78-626	Mount Salem Ave	078	Rappahannock County	078	Rappahannock County	0.02	ECL Washington	US 211, US 522 Lee Highway	640	N							X				0	N	04/04/2003
+765228	  78	00626	     	78-626	Tiger Valley Rd	078	Rappahannock County	078	Rappahannock County	1.47	US 211, US 522 Lee Highway	78-621 Hunters Rd	600	R							X						04/14/2006
+765229	  78	00626	     	78-626	Tiger Valley Rd	078	Rappahannock County	078	Rappahannock County	1.20	78-621 Hunters Rd	78-627 Long Mountain Rd	140	R							X						04/14/2006
+765230	  78	00626	     	78-626	Long Mountain Rd	078	Rappahannock County	078	Rappahannock County	2.40	78-627; Tiger Valley Rd	78-622 E, Aaron Mountain Rd; Rock Mills Rd	30	R							X						05/06/2003
+765231	  78	00626	     	78-626	Whorton Hollow Rd	078	Rappahannock County	078	Rappahannock County	0.30	78-622 W, Rock Mills Rd	0.30 MW 78-622 Rock Mills Rd	250	R							X						05/16/2006
+765232	  78	00626	     	78-626	Whorton Hollow Rd	078	Rappahannock County	078	Rappahannock County	0.95	0.30 MW 78-622 Rock Mills Rd	1.25 MW 78-622 Rock Mills Rd	170	R							X						05/16/2003
+765233	  78	00626	     	78-626	Whorton Hollow Rd	078	Rappahannock County	078	Rappahannock County	0.25	1.25 MW 78-622 Rock Mills Rd	78-619 Lizzie Mills Rd	200	R							X						05/16/2006
+765234	  78	00626	     	78-626	Whorton Hollow Rd	078	Rappahannock County	078	Rappahannock County	1.10	78-619 Lizzie Mills Rd	78-618 S, Besse Bell Mountain Rd	180	R							X						05/16/2006
+401934	  78	00626	     	78-626	Scrabble Rd	078	Rappahannock County	078	Rappahannock County	2.50	78-618 S, Besse Bell Mountain Rd	78-616 Castleton View Rd	250	G	96%	1%	1%	1%	1%	0%	F				250	G	2009
+401935	  78	00626	     	78-626	Scrabble Rd	078	Rappahannock County	078	Rappahannock County	0.80	78-616 Castleton View Rd	78-680 Dennis Rd	300	G	96%	1%	1%	1%	1%	0%	F				310	G	2009
+401936	  78	00626	     	78-626	Scrabble Rd	078	Rappahannock County	078	Rappahannock County	1.00	78-680 Dennis Rd	US 522 Zachary Taylor Ave	390	G	96%	1%	1%	1%	1%	0%	C				400	G	2009
+765235	  78	00627	     	78-627	Long Mountain Rd	078	Rappahannock County	078	Rappahannock County	1.60	78-626 Tiger Valley Rd	78-633 Battle Run Rd	40	R							X						04/14/2006
+765236	  78	00627	     	78-627	Long Mountain Rd	078	Rappahannock County	078	Rappahannock County	1.10	78-633 Battle Run Rd	US 211, US 522 Lee Highway	80	R							X						04/14/2006
+765237	  78	00628	     	78-628	Main St	322	Town of Washington	078	Rappahannock County	0.01	Dead End	Bus US 211	390	R							X						03/28/2006
+401937	  78	00628	     	78-628	Main St	322	Town of Washington	078	Rappahannock County	0.10	Bus US 211	78-622 Calvert St	1200	G	97%	1%	1%	0%	0%	0%	C				1200	G	2009
+401938	  78	00628	     	78-628	Main St	322	Town of Washington	078	Rappahannock County	0.20	78-622 Calvert St	NCL Washington	640	G	97%	1%	1%	0%	0%	0%	F				650	G	2009
+401939	  78	00628	     	78-628	Fodderstack Rd	078	Rappahannock County	078	Rappahannock County	3.85	NCL Washington	78-606 Dearing Rd	450	G	97%	1%	1%	0%	0%	0%	F				460	G	2009
+765238	  78	00628	     	78-628	Dearing Rd	078	Rappahannock County	078	Rappahannock County	0.75	78-606 Fodderstack Rd	78-629 Bean Hollow Rd	130	R							X						04/18/2003
+765239	  78	00628	     	78-628	Dearing Rd	078	Rappahannock County	078	Rappahannock County	0.37	78-629 Bean Hollow Rd	0.37 MN 78-629 Bean Hollow Rd	180	R							X						04/12/2006
+765240	  78	00628	     	78-628	Dearing Rd	078	Rappahannock County	078	Rappahannock County	0.07	0.37 MN 78-629 Bean Hollow Rd	78-659 Resettlement Rd	140	R							X						04/12/2006
+401940	  78	00628	     	78-628	Dearing Rd	078	Rappahannock County	078	Rappahannock County	0.44	78-659 Resettlement Rd	78-663 Bear Wallow Rd	320	G	97%	1%	1%	0%	0%	0%	F				330	G	2009
+401941	  78	00628	     	78-628	Dearing Rd	078	Rappahannock County	078	Rappahannock County	1.06	78-663 Bear Wallow Rd	78-630 Hittles Mill Rd; Riley Hollow Rd	240	G	97%	1%	1%	0%	0%	0%	F				240	G	2009
+765241	  78	00629	     	78-629	Bean Hollow Rd	078	Rappahannock County	078	Rappahannock County	2.35	Dead End	78-628 Dearing Rd	100	R							X						04/12/2006
+765242	  78	00630	     	78-630	Riley Hollow Rd	078	Rappahannock County	078	Rappahannock County	1.50	Dead End	78-631 Mill Hill Rd	100	R							X						04/12/2006
+765243	  78	00630	     	78-630	Riley Hollow Rd	078	Rappahannock County	078	Rappahannock County	0.80	78-631 Mill Hill Rd	78-628 Dearing Rd	150	R							X						04/12/2006
+401942	  78	00630	     	78-630	Hittles Mill Rd	078	Rappahannock County	078	Rappahannock County	0.70	78-628 Dearing Rd	US 522 Zachary Taylor Ave	310	G	93%	1%	2%	4%	1%	0%	C				320	G	2009
+765244	  78	00631	     	78-631	Mill Hill Rd	078	Rappahannock County	078	Rappahannock County	1.80	78-630 Riley Hollow Rd	Dead End	130	R							X						04/12/2006
+765245	  78	00632	     	78-632	Black Rock Ford Rd	078	Rappahannock County	078	Rappahannock County	0.60	US 522 Zachary Taylor Ave	78-634 Withers Mill Rd	60	R							X						04/12/2006
+765246	  78	00632	     	78-632	Black Rock Ford Rd	078	Rappahannock County	078	Rappahannock County	0.05	78-634 Withers Mill Rd	Fauquier County Line	40	R							X						04/12/2006
+765247	  78	00633	     	78-633	Battle Run Rd	078	Rappahannock County	078	Rappahannock County	1.50	Dead End	78-627 Long Mountain Rd	46	R							X						04/14/2006
+765248	  78	00634	     	78-634	Withers Mill Rd	078	Rappahannock County	078	Rappahannock County	0.90	78-632 Black Rock Ford Rd	Fauquier County Line	20	R							X						04/12/2006
+765249	  78	00635	     	78-635	Fiery Run Rd	078	Rappahannock County	078	Rappahannock County	0.70	US 522 Zachary Taylor Ave	Fauquier County Line	420	R							X						05/13/2003
+765250	  78	00636	     	78-636	Schoolhouse Rd	078	Rappahannock County	078	Rappahannock County	0.49	Dead End	0.06 MN 78-9915	180	R							X						04/19/2006
+765251	  78	00636	     	78-636	Schoolhouse Rd	078	Rappahannock County	078	Rappahannock County	0.22	0.06 MN 78-9915	US 211, US 522 Lee Highway	1300	R							X						04/19/2006
+765252	  78	00637	     	78-637	South Poes Rd	078	Rappahannock County	078	Rappahannock County	3.20	78-645 Hackleys Mill Rd	78-687 Four Springs Lane	340	R							X						03/28/2006
+765253	  78	00637	     	78-637	South Poes Rd	078	Rappahannock County	078	Rappahannock County	2.00	78-687 Four Springs Lane	78-647 W, Crest Hill Rd	190	R							X						03/28/2006
+765254	  78	00637	     	78-637	North Poes Rd	078	Rappahannock County	078	Rappahannock County	2.90	78-647 E, Crest Hill Rd	2.90 MW 78-647 Crest Hill Rd	60	R							X						03/28/2006
+765255	  78	00637	     	78-637	Jericho Rd	078	Rappahannock County	078	Rappahannock County	2.60	2.90 MW 78-647 Crest Hill Rd	5.50 MW 78-647 Crest Hill Rd	70	R							X						03/28/2006
+765256	  78	00637	     	78-637	Jericho Rd	078	Rappahannock County	078	Rappahannock County	1.10	5.50 MW 78-647 Crest Hill Rd	US 522 Zachary Taylor Ave	230	R							X						03/28/2006
+765257	  78	00638	     	78-638	Grimsley Rd	078	Rappahannock County	078	Rappahannock County	2.50	78-729 Ben Venue Rd	78-647 Crest Hill Rd	40	R							X						03/28/2006
+765258	  78	00639	     	78-639	Holly Springs Rd	078	Rappahannock County	078	Rappahannock County	0.20	Culpeper County Line	US 211 Lee Highway	690	R							X						04/21/2006
+765259	  78	00639	     	78-639	Weaver Rd	078	Rappahannock County	078	Rappahannock County	0.70	US 211 Lee Highway	Dead End	330	R							X						04/02/2003
+765260	  78	00640	     	78-640	Forest Grove Rd	078	Rappahannock County	078	Rappahannock County	0.90	Culpeper County Line	78-642 Viewtown Rd	240	R							X						04/21/2006
+401943	  78	00640	     	78-640	Forest Grove Rd	078	Rappahannock County	078	Rappahannock County	0.70	78-642 Viewtown Rd	78-729 S, Richmond Rd	1200	G	98%	0%	1%	0%	0%	0%	C				1200	G	2009
+765261	  78	00640	     	78-640	Battle Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.03	78-729 N, Richmond Rd	0.03 MN 78-729 Richmond Rd	120	R							X						04/21/2006
+765262	  78	00640	     	78-640	Battle Mountain Rd	078	Rappahannock County	078	Rappahannock County	2.11	0.03 MN 78-729 Richmond Rd	2.14 MN 78-729 Richmond Rd	120	R							X						04/21/2006
+765263	  78	00640	     	78-640	Battle Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.60	2.14 MN 78-729 Richmond Rd	2.74 MN 78-729 Richmond Rd	100	R							X						04/21/2006
+765264	  78	00640	     	78-640	Battle Mountain Rd	078	Rappahannock County	078	Rappahannock County	1.00	2.74 MN 78-729 Richmond Rd	US 211 Lee Highway	200	R							X						04/21/2006
+765265	  78	00641	     	78-641	Alleen Rd	078	Rappahannock County	078	Rappahannock County	1.10	US 522 S, Zachary Taylor Ave	78-606 Fodderstack Rd	750	R							X						04/18/2003
+401944	  78	00641	     	78-641	Fodderstack Rd	078	Rappahannock County	078	Rappahannock County	0.14	78-606; Aileen Rd	78-659 Resettlement Rd	500	G	97%	0%	1%	1%	1%	0%	F				510	G	2009
+401945	  78	00641	     	78-641	Fodderstack Rd	078	Rappahannock County	078	Rappahannock County	0.28	78-659 Resettlement Rd	US 522 N, Zachary Taylor Ave	760	G	97%	0%	1%	1%	1%	0%	C				780	G	2009
+401946	  78	00642	     	78-642	Viewtown Rd	078	Rappahannock County	078	Rappahannock County	0.79	78-640 Forest Grove Rd	78-646 Dodson Rd	1200	G	98%	0%	1%	0%	0%	0%	F				1300	G	2009
+401947	  78	00642	     	78-642	Viewtown Rd	078	Rappahannock County	078	Rappahannock County	2.26	78-646 Dodson Rd	78-611 E, Waterford Rd	1500	G	98%	0%	1%	0%	0%	0%	F				1600	G	2009
+401948	  78	00642	     	78-642	Viewtown Rd	078	Rappahannock County	078	Rappahannock County	1.00	78-611 E, Waterford Rd	US 211 Lee Highway	2200	G	98%	0%	1%	0%	0%	0%	C				2300	G	2009
+765266	  78	00643	     	78-643	Hinsons Ford Rd	078	Rappahannock County	078	Rappahannock County	2.00	US 211 Lee Highway	Dead End	180	R							X						04/02/2003
+765267	  78	00644	     	78-644	Reva Rd	078	Rappahannock County	078	Rappahannock County	0.30	Culpeper County Line	78-707 Slate Mills Rd	210	R							X						04/04/2006
+765268	  78	00645	     	78-645	South Poes Rd	078	Rappahannock County	078	Rappahannock County	0.30	US 211 Lee Highway	78-637; Hackleys Mill Rd	830	R							X						04/02/2003
+765269	  78	00645	     	78-645	Hackleys Mill Rd	078	Rappahannock County	078	Rappahannock County	2.40	78-637 South Poes Rd	Fauquier County Line	270	R							X						04/02/2003
+765270	  78	00646	     	78-646	Dodson Rd	078	Rappahannock County	078	Rappahannock County	0.80	Dead End	78-642 Viewtown Rd	160	R							X						05/06/2003
+401949	  78	00647	     	78-647	Crest Hill Rd	078	Rappahannock County	078	Rappahannock County	2.09	US 522 Zachary Taylor Ave	2.09 ME US 522 Zachary Taylor Ave	560	G	98%	0%	1%	0%	0%	0%	C				570	G	2009
+401950	  78	00647	     	78-647	Crest Hill Rd	078	Rappahannock County	078	Rappahannock County	1.51	2.09 ME US 522 Zachary Taylor Ave	78-638 Grimsley Rd	520	G	98%	0%	1%	0%	0%	0%	F				530	G	2009
+401951	  78	00647	     	78-647	Crest Hill Rd	078	Rappahannock County	078	Rappahannock County	1.20	78-638 Grimsely Rd	Fauquier County Line	550	G	98%	0%	1%	0%	0%	0%	F				560	G	2009
+765271	  78	00648	     	78-648	Jefferson Rd	078	Rappahannock County	078	Rappahannock County	0.35	Dead End	78-611 Seven Ponds Rd	20	R							X						04/21/2006
+765272	  78	00649	     	78-649	Castle Mountain Rd	078	Rappahannock County	078	Rappahannock County	2.59	78-615 Castleton Ford Rd	2.59 MN 78-615 Castleton Ford Rd	30	R							X						05/04/2006
+765273	  78	00649	     	78-649	Castle Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.03	2.59 MN 78-615 Castleton Ford Rd	78-618 Laurel Mills Rd	49	R							X						05/04/2006
+765274	  78	00650	     	78-650	O'Bannons Mill Rd	078	Rappahannock County	078	Rappahannock County	0.41	78-615 Turkey Ridge Rd	Dead End	50	R							X						04/15/2003
+765275	  78	00651	     	78-651	Atkins Rd	078	Rappahannock County	078	Rappahannock County	0.70	US 211 Lee Highway	Dead End	260	R							X						04/11/2003
+765276	  78	00652	     	78-652	Poortown Rd	078	Rappahannock County	078	Rappahannock County	0.75	Dead End	SR 231 F T Valley Rd	60	R							X						04/04/2006
+765277	  78	00653	     	78-653	Sycamore Ridge Rd	078	Rappahannock County	078	Rappahannock County	0.70	78-612 Hull School Rd; Old Hollow Rd	78-600 Pickeral Ridge Lane; Swindler Hollow Rd	20	R							X						04/04/2006
+765278	  78	00654	     	78-654	Massies Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.30	Dead End	78-622 Harris Hollow Rd	70	R							X						04/04/2006
+765279	  78	00655	     	78-655	 	078	Rappahannock County	078	Rappahannock County	0.10	US 522 Zachary Taylor Ave	78-620 Fletchers Mill Rd	60	R							X						05/16/2006
+765280	  78	00656	     	78-656	Comptons Rd	078	Rappahannock County	078	Rappahannock County	1.00	78-622 Aaron Mountain Rd	Dead End	130	R							X						05/04/2006
+765281	  78	00657	     	78-657	Sandy Hook Rd	078	Rappahannock County	078	Rappahannock County	0.28	78-664 Huntly Rd	Dead End	100	R							X						04/12/2006
+765282	  78	00658	     	78-658	Red Oak Mountain Rd	078	Rappahannock County	078	Rappahannock County	1.53	78-618 Besse Bell Mountain Rd	Dead End	20	R							X						05/16/2006
+401952	  78	00659	     	78-659	Resettlement Rd	078	Rappahannock County	078	Rappahannock County	1.30	78-641 Fodderstack Rd	78-628 Dearing Rd	270	G	96%	1%	1%	1%	1%	0%	C				280	G	2009
+765283	  78	00660	     	78-660	Waterfall Rd	078	Rappahannock County	078	Rappahannock County	0.38	Dead End	0.38 MN Dead End	20	R							X						03/28/2006
+765284	  78	00660	     	78-660	Waterfall Rd	078	Rappahannock County	078	Rappahannock County	0.11	0.38 MN Dead End	78-670 Cemetery Rd	70	R							X						03/28/2006
+765285	  78	00660	     	78-660	Waterfall Rd	078	Rappahannock County	078	Rappahannock County	0.15	78-670 Cemetery Rd	78-610 Chester Gap Rd	280	R							X						04/15/2003
+765286	  78	00661	     	78-661	Airy Settle Rd	078	Rappahannock County	078	Rappahannock County	0.21	Dead End	78-622 Aaron Mountain Rd	70	R							X						05/04/2006
+765287	  78	00662	     	78-662	Hillsboro Rd	078	Rappahannock County	078	Rappahannock County	0.90	Dead End	US 522 S, Zachary Taylor Ave	40	R							X						04/12/2006
+765288	  78	00662	     	78-662	Little Long Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.52	US 522 N, Zachary Taylor Ave	78-673 Shootz Hollow Rd	230	R							X						05/13/2003
+765289	  78	00662	     	78-662	Little Long Mountain Rd	078	Rappahannock County	078	Rappahannock County	1.28	78-673 Shootz Hollow Rd	Dead End	220	R							X						04/12/2006
+765290	  78	00663	     	78-663	Bear Wallow Rd	078	Rappahannock County	078	Rappahannock County	0.34	Dead End	0.34 ME Dead End	100	R							X						04/12/2006
+765291	  78	00663	     	78-663	Bear Wallow Rd	078	Rappahannock County	078	Rappahannock County	0.81	0.34 ME Dead End	78-628 Dearing Rd	420	R							X						04/12/2006
+765292	  78	00664	     	78-664	Huntly Rd	078	Rappahannock County	078	Rappahannock County	0.39	US 522 Zachary Taylor Ave	78-657 Sandy Hook Rd	70	R							X						05/13/2003
+765293	  78	00664	     	78-664	Huntly Rd	078	Rappahannock County	078	Rappahannock County	0.26	78-657 Sandy Hook Rd	US 522 Zachary Taylor Ave	60	R							X						05/13/2003
+765294	  78	00665	     	78-665	Chester Gap Rd	078	Rappahannock County	078	Rappahannock County	0.03	78-610 Chester Gap Rd	Warren County Line	960	R							X						04/15/2003
+765295	  78	00666	     	78-666	Headwaters Rd	078	Rappahannock County	078	Rappahannock County	0.30	Dead End	78-610 Chester Gap Rd	140	R							X						04/15/2003
+765296	  78	00667	     	78-667	Estes Mill Rd	078	Rappahannock County	078	Rappahannock County	0.10	78-600 Woodward Rd	US 211 Lee Highway	110	R							X						06/22/2000
+765297	  78	00668	     	78-668	Starks Rd	078	Rappahannock County	078	Rappahannock County	0.60	78-626 Tiger Valley Rd	Dead End	80	R							X						04/14/2006
+765298	  78	00669	     	78-669	Rollins Ford Rd	078	Rappahannock County	078	Rappahannock County	1.50	78-613	Dead End	210	R							X						04/02/2003
+765299	  78	00670	     	78-670	Cemetery Rd	078	Rappahannock County	078	Rappahannock County	0.15	78-660 Waterfall Rd	78-610 Chester Gap Rd	60	R							X						04/15/2003
+765300	  78	00671	     	78-671	Thorton Gap Church Rd	078	Rappahannock County	078	Rappahannock County	0.20	US 211 Lee Highway	78-600 Bryans Rd	370	R							X						03/28/2006
+765301	  78	00672	     	78-672	Daiseys Rest Rd	078	Rappahannock County	078	Rappahannock County	0.36	Dead End	78-614 Keyser Run Rd	30	R							X						04/04/2006
+765302	  78	00673	     	78-673	Shootz Hollow Rd	078	Rappahannock County	078	Rappahannock County	0.55	78-662 Little Long Mountain Rd	Dead End	70	R							X						04/12/2006
+765303	  78	00674	     	78-674	Grand View Rd	078	Rappahannock County	078	Rappahannock County	1.49	Dead End	78-621 Hunters Rd	300	R							X						04/14/2006
+765304	  78	00675	     	78-675	Old Massies Corner Rd	078	Rappahannock County	078	Rappahannock County	0.45	US 211 W, Lee Highway	US 211 E, Lee Highway	40	R							X						04/14/2006
+765305	  78	00676	     	78-676	Gore Rd	078	Rappahannock County	078	Rappahannock County	0.10	End State Maintanence	78-729 Richmond Rd	40	R							X						04/21/2006
+765306	  78	00677	     	78-677	Mountain View Rd	078	Rappahannock County	078	Rappahannock County	0.14	US 522 Zachary Taylor Ave	Dead End	210	R							X						05/16/2003
+765307	  78	00678	     	78-678	Jordans Rd	078	Rappahannock County	078	Rappahannock County	0.55	US 211 Lee Highway	US 211 Lee Highway	10	R							X						04/02/2003
+765308	  78	00679	     	78-679	Goog Mountain Rd	078	Rappahannock County	078	Rappahannock County	0.33	US 211 Lee Highway	End State Maintenance	20	R							X						04/14/2006
+765309	  78	00680	     	78-680	Dennis Rd	078	Rappahannock County	078	Rappahannock County	0.79	Dead End	78-626 Scrabble Rd	80	R							X						04/25/2003
+765310	  78	00681	     	78-681	Rolling Rd	078	Rappahannock County	078	Rappahannock County	2.63	Dead End	SR 231 F T Valley Rd	150	R							X						05/12/2006
+765311	  78	00683	     	78-683	Old Mill Rd	078	Rappahannock County	078	Rappahannock County	0.39	Bus US 211, Bus US 522	US 211, US 522 Lee Highway	90	R							X						04/04/2003
+765312	  78	00684	     	78-684	Ash Tree Lane	078	Rappahannock County	078	Rappahannock County	0.15	End State Maintenance	US 211 Lee Highway	80	R							X						05/06/2003
+765313	  78	00686	     	78-686	Blue Ridge Ave	078	Rappahannock County	078	Rappahannock County	0.28	78-610 Chester Gap Rd	Dead End	200	R							X						03/28/2006
+785440	  78	00687	     	78-687	Four Springs Lane	078	Rappahannock County	078	Rappahannock County	0.46	78-637 South Poes Rd	Cul-de-Sac	47	R							X						05/14/2003
+796313	  78	00690	     	78-690	 	078	Rappahannock County	078	Rappahannock County	0.14	Dead End	78-622 Gidbrown Hollow Rd	0	?							X
+796314	  78	00691	     	78-691	 	078	Rappahannock County	078	Rappahannock County	0.12	Dead End	US 211 Lee Highway	0	?							X
+765314	  78	00707	     	78-707	Pine Hill Rd	078	Rappahannock County	078	Rappahannock County	0.38	Dead End	Madison County Line; 56-707	40	R							X						05/10/2006
+765315	  78	00707	     	78-707	Nethers Rd	078	Rappahannock County	078	Rappahannock County	0.40	Madison County Line; 56-707	78-601; Sharp Rock Rd	370	R							X						05/10/2006
+765316	  78	00707	     	78-707	Sharp Rock Rd	078	Rappahannock County	078	Rappahannock County	1.29	78-601 Nethers Rd	1.29 ME 78-601 Nethers Rd	70	R							X						05/10/2006
+765317	  78	00707	     	78-707	Sharp Rock Rd	078	Rappahannock County	078	Rappahannock County	0.10	1.29 ME 78-601 Nethers Rd	SR 231 F T Valley Rd	190	R							X						05/10/2006
+401953	  78	00707	     	78-707	Slate Mills Rd	078	Rappahannock County	078	Rappahannock County	3.10	SR 231 F T Valley Rd	78-607 Quaintance Rd	310	G	97%	1%	2%	0%	0%	0%	C				310	G	2009
+401954	  78	00707	     	78-707	Slate Mills Rd	078	Rappahannock County	078	Rappahannock County	1.70	78-607 Quaintance Rd	78-644 Reva Rd	470	G	97%	1%	2%	0%	0%	0%	F				480	G	2009
+401955	  78	00707	     	78-707	Slate Mills Rd	078	Rappahannock County	078	Rappahannock County	0.50	78-644 Reva Rd	Culpeper County Line	510	G	97%	1%	2%	0%	0%	0%	F				520	G	2009
+401956	  78	00729	     	78-729	Richmond Rd	078	Rappahannock County	078	Rappahannock County	0.11	Culpeper County Line	78-615 Castleton Ford Rd	1000	G	96%	1%	2%	1%	0%	0%	C				1100	G	2009
+401957	  78	00729	     	78-729	Richmond Rd	078	Rappahannock County	078	Rappahannock County	1.10	78-615 Castleton Ford Rd	78-676 Gore Rd	1100	G	96%	1%	2%	1%	0%	0%	F				1100	G	2009
+401958	  78	00729	     	78-729	Richmond Rd	078	Rappahannock County	078	Rappahannock County	1.53	78-676 Gore Rd	78-640 S, Forest Grove Rd	1100	G	96%	1%	2%	1%	0%	0%	F				1100	G	2009
+401959	  78	00729	     	78-729	Richmond Rd	078	Rappahannock County	078	Rappahannock County	0.07	78-640 S, Forest Grove Rd	78-640 N Battle Mountain Rd	940	G	96%	1%	2%	1%	0%	0%	F				960	G	2009
+401960	  78	00729	     	78-729	Richmond Rd	078	Rappahannock County	078	Rappahannock County	0.90	78-640 N Battle Mountain Rd	78-618 Laurel Mills Rd	860	G	96%	1%	2%	1%	0%	0%	F				880	G	2009
+401961	  78	00729	     	78-729	Richmond Rd	078	Rappahannock County	078	Rappahannock County	1.69	78-618 Laurel Mills Rd	78-622 Aaron Mountain Rd	620	G	96%	1%	2%	1%	0%	0%	F				630	G	2009
+401962	  78	00729	     	78-729	Richmond Rd	078	Rappahannock County	078	Rappahannock County	3.75	78-622 Aaron Mountain Rd	US 211 Lee Highway	880	G	96%	1%	2%	1%	0%	0%	F				890	G	2009
+765318	  78	00729	     	78-729	Ben Venue Rd	078	Rappahannock County	078	Rappahannock County	3.44	US 211 Lee Highway	US 522 Zachary Taylor Ave	810	R							X						05/16/2003
+765319	  78	00730	     	78-730	Indian Run Rd	078	Rappahannock County	078	Rappahannock County	1.00	Culpeper County Line	US 211 Lee Highway	290	R							X						04/21/2006
+765320	  78	00749	     	78-749	Moon Rd	078	Rappahannock County	078	Rappahannock County	0.80	Madison County Line	Dead End	30	R							X						05/10/2006
+401963	  78	01001	     	78-1001	Main St	078	Rappahannock County	078	Rappahannock County	0.20	US 211 Lee Hwy	US 522 Sperryville Pike	1400	G	98%	0%	1%	0%	0%	0%	C				1400	G	2009
+401964	  78	01002	     	78-1002	Water St	078	Rappahannock County	078	Rappahannock County	0.65	US 522 Berryville Pike	78-1003 Sons Rd	130	G	95%	2%	1%	0%	2%	0%	C				140	G	2009
+401965	  78	01003	     	78-1003	Sons Rd	078	Rappahannock County	078	Rappahannock County	0.08	78-1002 Water St	US 211 Lee Highway	170	G	95%	4%	1%	0%	1%	0%	C				170	G	2009
+796315	  78	01005	     	78-1005	 	078	Rappahannock County	078	Rappahannock County	0.23	78-636 Schoolhouse Rd	US 211 Lee Highway	0	?							X
+791987	  78	01010	     	78-1010	Smith Creek Rd	078	Rappahannock County	078	Rappahannock County	0.10	Cul-de-Sac	US 522 Zachary Taylor Ave	0	?							X
+765321	  78	01101	     	78-1101	Gay St	322	Town of Washington	078	Rappahannock County	0.05	Dead End	78-626 Porter St; Mount Salem Ave; Porter St	110	R							X						04/04/2003
+765322	  78	01101	     	78-1101	Gay St	322	Town of Washington	078	Rappahannock County	0.20	78-626 Porter St; Mount Salem Ave; Porter St	Bus US 211	640	R							X						04/04/2003
+765323	  78	01101	     	78-1101	Gay St	322	Town of Washington	078	Rappahannock County	0.09	Bus US 211	78-622 Calvert St	140	R							X						04/04/2003
+765324	  78	01101	     	78-1101	Gay St	322	Town of Washington	078	Rappahannock County	0.12	78-622 Calvert St	78-628 Main St	46	R							X						04/04/2003
+765325	  78	01102	     	78-1102	Jett St	322	Town of Washington	078	Rappahannock County	0.04	78-1101 Gay St	Bus US 211	280	R							X						04/04/2003
+765326	  78	01103	     	78-1103	Porter St	322	Town of Washington	078	Rappahannock County	0.05	Dead End	Bus US 211	40	R							X						04/04/2003
+765327	  78	09908	     	78-9908	 	078	Rappahannock County	078	Rappahannock County	0.10	US 211	Rappahannock HS	1700	R							X						05/15/2003
+765328	  78	09917	     	78-9917	 	078	Rappahannock County	078	Rappahannock County	0.12	78-636 Schoolhouse Rd	Rappahannock Elem Sch	170	R							X						05/16/2003
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

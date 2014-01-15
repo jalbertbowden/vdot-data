@@ -1,0 +1,28 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Remington																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+070287	C3US	00015	     		James Madsion St	288	Town of Remington	030	Fauquier County	0.13	SCL Remington	30-651 Main St	1500	N	98%	0%	1%	0%	1%	0%	N	0.0911	N	0.5192	1700	N	2009
+070017	C3US	00015	     		James Madsion St	288	Town of Remington	030	Fauquier County	0.30	30-651 Main St	NCL Remington	2200	G	98%	0%	1%	0%	1%	0%	F	0.0953	F	0.6680	2500	G	2009
+070287	CBUS	00029	     		James Madsion St	288	Town of Remington	030	Fauquier County	0.13	SCL Remington	30-651	1500	N	98%	0%	1%	0%	1%	0%	N	0.0911	N	0.5192	1700	N	2009	
+070017	CBUS	00029	     		James Madsion St	288	Town of Remington	030	Fauquier County	0.30	30-651	NCL Remington	2200	G	98%	0%	1%	0%	1%	0%	F	0.0953	F	0.6680	2500	G	2009	
+405142	  30	00651	     	30-651	Main St	288	Town of Remington	030	Fauquier County	0.24	SCL Remington	Bus US 15, Bus US 29	1500	N	94%	1%	1%	1%	3%	0%	N	0.0937	N	0.5540	1700	N	2009
+405099	  30	00651	     	30-651	Main St	288	Town of Remington	030	Fauquier County	0.27	Bus US 15, Bus US 29	WCL Remington	2800	G	95%	0%	2%	1%	1%	0%	F	0.0889	F	0.5934	3200	G	2009
+785088	  30	00655	     	30-655	Tinpot Run Lane	288	Town of Remington	030	Fauquier County	0.08	ECL Remington	30-651 Main St	1100	N							X				0	N	07/13/2004
+405101	  30	00656	     	30-656	Franklin St	288	Town of Remington	030	Fauquier County	0.17	30-651 Main St	30-1203	1200	G	96%	1%	1%	0%	1%	0%	F	0.1124	F	0.6796	1300	G	2009
+736644	  30	00656	     	30-656	Remington Rd	288	Town of Remington	030	Fauquier County	0.07	30-1203	ECL Remington	1200	R							X						07/13/2004
+785089	  30	01203	     	30-1203	Bowen St	288	Town of Remington	030	Fauquier County	0.09	NCL Remington	Bus US 15	1100	R							X						09/05/2001
+405148	  30	01203	     	30-1203	 	288	Town of Remington	030	Fauquier County	0.20	Bus US 15	30-656 Remington Rd; Franklin St	370	G	97%	1%	1%	1%	0%	0%	C	0.1688	F	0.6173	430	G	2009
+737120	  30	01204	     	30-1204	 	288	Town of Remington	030	Fauquier County	0.30	30-651 Main St	NCL Remington	360	R							X						09/05/2001
+737123	  30	01205	     	30-1205	Washington St	288	Town of Remington	030	Fauquier County	0.29	30-1204	Bus US 15	150	R							X						09/05/2001
+737124	  30	01205	     	30-1205	Washington St	288	Town of Remington	030	Fauquier County	0.06	Bus US 15	30-1210 John Stone St	90	R							X						09/05/2001
+737125	  30	01206	     	30-1206	Church St	288	Town of Remington	030	Fauquier County	0.25	30-651 Main St	30-1203 Bowen St	200	R							X						09/05/2001
+737126	  30	01207	     	30-1207	Madison St	288	Town of Remington	030	Fauquier County	0.13	Bus US 15	30-656 Franklin St	690	R							X						09/05/2001
+737127	  30	01208	     	30-1208	Marshall St	288	Town of Remington	030	Fauquier County	0.30	30-1209	30-656 Franklin St	450	R							X						09/05/2001
+737128	  30	01209	     	30-1209	 	288	Town of Remington	030	Fauquier County	0.26	30-651 Main St	30-1203 Bowen St	110	R							X						09/05/2001
+737129	  30	01210	     	30-1210	John Stone St	288	Town of Remington	030	Fauquier County	0.12	30-1207 Madison St	30-1205 Washington St	180	R							X						09/05/2001
+792346	  30	01215	     	30-1215	 	288	Town of Remington	030	Fauquier County	0.08	30-1203 Bowen Street	Cul-de-Sac	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

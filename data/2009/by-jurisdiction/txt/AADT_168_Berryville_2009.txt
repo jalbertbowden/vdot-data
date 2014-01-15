@@ -1,0 +1,106 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Berryville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+180095	C1SR	00007	     	Bus VA 7	West Main St	168	Town of Berryville	021	Clarke County	0.86	WCL Berryville	US 340 Berryville	5800	N	98%	1%	1%	0%	0%	0%	N	0.1017	N	0.5192	6100	N	2009
+180077	C1SR	00007	     	Bus VA 7	East Main St	168	Town of Berryville	021	Clarke County	1.12	US 340 Berryville	ECL Berryville	4200	F	96%	0%	1%	0%	2%	0%	C	0.1019	F	0.6500	4500	F	2009
+080351	  US	00340	     	US 340	S Buckmarsh St	168	Town of Berryville	021	Clarke County	0.51	SCL Berryville	Bus SR 7 Main St	9200	N	92%	1%	1%	1%	5%	0%	N	0.0964	N	0.6295	9800	N	2009
+080345	  US	00340	     	US 340	N Buckmarsh St	168	Town of Berryville	021	Clarke County	0.45	Bus SR 7 Main St	NCL Berryville	8600	F	92%	1%	1%	1%	5%	0%	F	0.0859	F	0.5491	9300	F	2009
+403938	  21	00613	     	21-613	 	168	Town of Berryville	021	Clarke County	0.03	SCL Berryville	21-700 Jack Enders Blvd	480	N	99%	0%	0%	0%	0%	0%	N	0.1322	N	0.6232	520	N	2009
+719504	  21	00614	     	21-614	Josephine St	168	Town of Berryville	021	Clarke County	0.48	Dead End	21-616, S Church St	850	R							X						04/09/2009
+401898	  21	00615	     	21-615	1st St; Boom Rd	168	Town of Berryville	021	Clarke County	0.68	Bus SR 7	NCL Berryville	970	F	98%	1%	1%	0%	0%	0%	C	0.0964	F	0.6415	1100	F	2009
+401901	  21	00616	     	21-616	S Church St	168	Town of Berryville	021	Clarke County	0.48	SCL Berryville	21-1011 Crow St	1900	F	99%	0%	1%	0%	0%	0%	C	0.0975	F	0.5224	2100	F	2009
+401902	  21	00616	     	21-616	S Church St	168	Town of Berryville	021	Clarke County	0.06	21-1011 Crow St	Bus SR 7	2600	F	99%	0%	1%	0%	0%	0%	F	0.0934	F	0.5484	2800	F	2009
+401903	  21	00616	     	21-616	N Church St	168	Town of Berryville	021	Clarke County	0.13	Bus SR 7	21-1005 Liberty St	1600	F	99%	0%	1%	0%	0%	0%	F	0.1026	F	0.5854	1700	F	2009
+401904	  21	00616	     	21-616	N Church St	168	Town of Berryville	021	Clarke County	0.25	21-1005 Liberty St	US 340 N, N Buckmarsh St	570	F	99%	0%	1%	0%	0%	0%	F	0.1035	F	0.9242	620	F	2009
+719615	  21	00671	     	21-671	Battletown Dr	168	Town of Berryville	021	Clarke County	0.37	Dead End	21-1020 Bel Voi Dr	300	R							X						04/06/2000
+719616	  21	00671	     	21-671	Battletown Dr	168	Town of Berryville	021	Clarke County	0.08	21-1020 Bel Voi Dr	Bus SR 7	440	R							X						04/06/2000
+719619	  21	00673	     	21-673	Blue Ridge St	168	Town of Berryville	021	Clarke County	0.11	21-700 Jack Enders Blvd	Dead End	80	R							X						10/24/2006
+719630	  21	00681	     	21-681	Osborne St	168	Town of Berryville	021	Clarke County	0.07	Dead End	21-616, N Church St	120	R							X						10/24/2006
+406731	  21	00700	     	21-700	Jack Enders Blvd	168	Town of Berryville	021	Clarke County	0.41	SCL Berryville	21-673 Blue Rdige St	0	?							X
+401897	  21	00700	     	21-700	Jack Enders Blvd	168	Town of Berryville	021	Clarke County	0.17	21-673 Blue Rdige St	Bus SR 7	2300	F	99%	0%	0%	0%	0%	0%	F	0.1112	F	0.5148	2500	F	2009
+719633	  21	01001	     	21-1001	Academy St	168	Town of Berryville	021	Clarke County	0.08	21-616, N Church St	US 340 S, N Buckmarsh St	2200	R							X						04/09/2009
+719634	  21	01001	     	21-1001	Academy St	168	Town of Berryville	021	Clarke County	0.12	US 340 N, N Buckmarsh St	21-1004 Rice St	390	R							X						10/24/2006
+719635	  21	01001	     	21-1001	Academy St	168	Town of Berryville	021	Clarke County	0.06	21-1004 Rice St	21-1025 Academy Court	180	R							X						04/14/2009
+719636	  21	01001	     	21-1001	Academy St	168	Town of Berryville	021	Clarke County	0.06	21-1025 Academy Court	21-1003	180	R							X						10/24/2006
+719637	  21	01002	     	21-1002	Treadwell St	168	Town of Berryville	021	Clarke County	0.08	US 340, Buckmarsh St	21-1004 Rice St	310	R							X						10/24/2006
+719638	  21	01002	     	21-1002	Treadwell St	168	Town of Berryville	021	Clarke County	0.13	21-1004 Rice St	21-1003	250	R							X						04/14/2009
+719639	  21	01002	     	21-1002	Treadwell St	168	Town of Berryville	021	Clarke County	0.07	21-1003	21-1009 Crown St	200	R							X						10/24/2006
+719640	  21	01002	     	21-1002	Treadwell St	168	Town of Berryville	021	Clarke County	0.03	21-1009 Crown St	Dead End	170	R							X						10/24/2006
+719641	  21	01003	     	21-1003	 	168	Town of Berryville	021	Clarke County	0.21	21-1031	Bus SR 7	500	R							X						04/14/2009
+719642	  21	01003	     	21-1003	 	168	Town of Berryville	021	Clarke County	0.09	Bus SR 7	21-1001 Academy St	210	R							X						04/14/2009
+719643	  21	01003	     	21-1003	 	168	Town of Berryville	021	Clarke County	0.07	21-1001 Academy St	21-1002 Treadwell St	150	R							X						04/14/2009
+719644	  21	01004	     	21-1004	Rice St	168	Town of Berryville	021	Clarke County	0.09	Bus SR 7	21-1001 Academy St	260	R							X						10/24/2006
+719645	  21	01004	     	21-1004	Rice St	168	Town of Berryville	021	Clarke County	0.08	21-1001 Academy St	21-1002 Treadwell St	210	R							X						04/14/2009
+719646	  21	01004	     	21-1004	Rice St	168	Town of Berryville	021	Clarke County	0.11	21-1002 Treadwell St	21-1010 Walnut St	150	R							X						10/24/2006
+719647	  21	01005	     	21-1005	Liberty St	168	Town of Berryville	021	Clarke County	0.19	21-615 Boom Rd	21-1014 S, Page St	850	R							X						04/09/2009
+719648	  21	01005	     	21-1005	Liberty St	168	Town of Berryville	021	Clarke County	0.01	21-1014 S, Page St	21-1014 N, Page St	2000	R							X						04/23/2003
+719649	  21	01005	     	21-1005	Liberty St	168	Town of Berryville	021	Clarke County	0.17	21-1014 N, Page St	21-616, N Church St	2100	R							X						04/09/2009
+719650	  21	01006	     	21-1006	Taylor St	168	Town of Berryville	021	Clarke County	0.14	Dead End	US 340, S Buckmarsh St	230	R							X						04/09/2009
+719651	  21	01006	     	21-1006	Taylor St	168	Town of Berryville	021	Clarke County	0.09	US 340, S Buckmarch St	21-616, S Church St	180	R							X						04/09/2009
+719652	  21	01007	     	21-1007	Chalmers Court	168	Town of Berryville	021	Clarke County	0.16	Dead End	Bus SR 7	1400	R							X						04/09/2009
+719653	  21	01008	     	21-1008	Swan Ave	168	Town of Berryville	021	Clarke County	0.11	Dead End	21-1013 Rosemont Circle	120	R							X						04/09/2009
+719654	  21	01008	     	21-1008	Swan Ave	168	Town of Berryville	021	Clarke County	0.15	21-1013 Rosemont Circle	US 340, S Buckmarsh St	210	R							X						04/09/2009
+719655	  21	01008	     	21-1008	Swan Ave	168	Town of Berryville	021	Clarke County	0.09	US 340, S Buckmarsh St	21-616, S Church St	150	R							X						04/09/2009
+719656	  21	01009	     	21-1009	Crown St	168	Town of Berryville	021	Clarke County	0.08	21-1002 Treadwell St	21-1010 Walnut St	40	R							X						10/24/2006
+719657	  21	01010	     	21-1010	Walnut St	168	Town of Berryville	021	Clarke County	0.03	US 340, N Buckmarsh St	21-1004 Rice St	700	R							X						04/14/2009
+719658	  21	01010	     	21-1010	Walnut St	168	Town of Berryville	021	Clarke County	0.20	21-1004 Rice St	21-1009 Crown St	280	R							X						04/14/2009
+719659	  21	01010	     	21-1010	Walnut St	168	Town of Berryville	021	Clarke County	0.12	21-1009 Crown St	21-1024 Dorsey St	310	R							X						04/14/2009
+719660	  21	01010	     	21-1010	Walnut St	168	Town of Berryville	021	Clarke County	0.08	21-1024 Dorsey St	NWCL Berryville	70	R							X						04/14/2009
+719662	  21	01011	     	21-1011	Crow St	168	Town of Berryville	021	Clarke County	0.08	21-616, S Church St	US 340, S Buckmarsh St	1300	R							X						04/09/2009
+719663	  21	01012	     	21-1012	Byrd Ave	168	Town of Berryville	021	Clarke County	0.16	Dead End	21-616, S Church St	200	R							X						04/09/2009
+719664	  21	01013	     	21-1013	Rosemont Circle	168	Town of Berryville	021	Clarke County	0.21	US 340, S Buckmarsh St	21-1008 Swan Ave	100	R							X						04/09/2009
+719665	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.10	Dead End	21-1005 S, Liberty St	460	R							X						04/09/2009
+719666	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.06	21-1005 N, Liberty St	21-1021 Cameron St	1700	R							X						04/09/2009
+719667	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.05	21-1021 Cameron St	21-1023 Moore Dr	1200	R							X						04/09/2009
+719668	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.05	21-1023 Moore Dr	21-1026 East Fairfax St	810	R							X						04/09/2009
+797381	  21	01014	     	21-1014	Page St	168	Town of Berryville	021	Clarke County	0.33	21-1026 East Fairfax St	Cul-de-Sac	0	?							X
+719669	  21	01015	     	21-1015	West Fairfax St	168	Town of Berryville	021	Clarke County	0.06	21-1016 Rockcroft Dr	21-1017 Ridge Rd	180	R							X						10/24/2006
+719670	  21	01015	     	21-1015	West Fairfax St	168	Town of Berryville	021	Clarke County	0.08	21-1017 Ridge Rd	US 340, N Buckmarsh St	320	R							X						04/09/2009
+719671	  21	01016	     	21-1016	Rockcroft Dr	168	Town of Berryville	021	Clarke County	0.09	21-1017 Ridge Rd	21-1015 West Fairfax St	60	R							X						10/24/2006
+719672	  21	01017	     	21-1017	Ridge Rd	168	Town of Berryville	021	Clarke County	0.05	21-1015 West Fairfax St	21-1016 Rockcroft Dr	150	R							X						10/24/2006
+719673	  21	01017	     	21-1017	Ridge Rd	168	Town of Berryville	021	Clarke County	0.04	21-1016 Rockcroft Dr	21-1018 Circle Dr	50	R							X						04/14/2009
+719674	  21	01018	     	21-1018	Circle Dr	168	Town of Berryville	021	Clarke County	0.05	Cul-de-Sac	21-1017 Ridge Rd	70	R							X						10/24/2006
+719676	  21	01020	     	21-1020	Bel Voi Dr	168	Town of Berryville	021	Clarke County	0.15	Dead End	21-671 Battletown Dr	180	R							X						10/24/2006
+719677	  21	01021	     	21-1021	Cameron St	168	Town of Berryville	021	Clarke County	0.10	Dead End	21-1014 Page St	300	R							X						04/09/2009
+719678	  21	01021	     	21-1021	Cameron St	168	Town of Berryville	021	Clarke County	0.06	21-1014 Page St	21-1022	280	R							X						04/23/2003
+719679	  21	01022	     	21-1022	 	168	Town of Berryville	021	Clarke County	0.04	21-1021 Cameron St	21-1023 Moore Dr	230	R							X						04/23/2003
+719680	  21	01023	     	21-1023	Moore Dr	168	Town of Berryville	021	Clarke County	0.06	Cul-de-Sac	21-1014 Page St	200	R							X						04/09/2009
+719681	  21	01023	     	21-1023	Moore Dr	168	Town of Berryville	021	Clarke County	0.04	21-1014 Page St	21-1022	130	R							X						04/23/2003
+719682	  21	01024	     	21-1024	Dorsey St	168	Town of Berryville	021	Clarke County	0.20	Bus SR 7	21-1010 Walnut St	400	R							X						04/14/2009
+719683	  21	01025	     	21-1025	Academy Court	168	Town of Berryville	021	Clarke County	0.05	21-1001 Academy St	Cul-de-Sac	48	R							X						10/24/2006
+783766	  21	01026	     	21-1026	East Fairfax St	168	Town of Berryville	021	Clarke County	0.22	21-1014 Page St	21-615 Boom Rd	240	R							X						04/23/2003
+786154	  21	01027	     	21-1027	Henderson Court	168	Town of Berryville	021	Clarke County	0.21	Cul-de-Sac	21-1006 Taylor St	190	R							X						04/09/2009
+786155	  21	01028	     	21-1028	Dunlap Dr	168	Town of Berryville	021	Clarke County	0.30	Dead End	21-1027 Henderson Court	180	R							X						04/09/2009
+788389	  21	01029	     	21-1029	Hermitage Blvd	168	Town of Berryville	021	Clarke County	0.97	US 340 Lord Fairfax Hwy	SR 7	980	G	98%	0%	1%	0%	0%	0%	C	0.1137	F	0.5877	980	G	2009
+788390	  21	01030	     	21-1030	Craigs Run Circle	168	Town of Berryville	021	Clarke County	0.12	Cul-de-Sac	21-1028 Dunlap Dr	0	?							X
+796456	  21	01031	     	21-1031	 	168	Town of Berryville	021	Clarke County	0.36	Dead End	21-1029 Hermitage Blvd	0	?							X
+792371	  21	01031	     	21-1031	 	168	Town of Berryville	021	Clarke County	0.07	21-1029 Hermitage Blvd	21-1003	0	?							X
+792372	  21	01032	     	21-1032	 	168	Town of Berryville	021	Clarke County	0.05	Cul-de-Sac	21-1029 Hermitage Blvd	0	?							X
+795611	  21	01033	     	21-1033	 	168	Town of Berryville	021	Clarke County	0.09	21-1031	Cul-de-Sac	0	?							X
+795612	  21	01034	     	21-1034	 	168	Town of Berryville	021	Clarke County	0.12	21-1031	Cul-de-Sac	0	?							X
+719684	  21	01035	     	21-1035	Mosby Blvd	168	Town of Berryville	021	Clarke County	0.62	Cul-de-Sac	21-1036 Pickett Court	1200	G	99%	0%	0%	1%	0%	0%	C	0.1086	F	0.6364	1200	G	2009
+719685	  21	01035	     	21-1035	Mosby Blvd	168	Town of Berryville	021	Clarke County	0.07	21-1036 Pickett Court	US 340, N Buckmarsh St	4400	R							X						10/24/2006
+719686	  21	01036	     	21-1036	Pickett Court	168	Town of Berryville	021	Clarke County	0.05	Cul-de-Sac	21-1035 Mosby Blvd	70	R							X						04/06/2000
+786156	  21	01037	     	21-1037	Breckinridge Court	168	Town of Berryville	021	Clarke County	0.09	Cul-de-Sac	21-1035 Mosby Blvd	120	R							X						04/28/2003
+786157	  21	01038	     	21-1038	Ashby Court	168	Town of Berryville	021	Clarke County	0.09	Cul-de-Sac	21-1035 Mosby Blvd	120	R							X						04/28/2003
+786158	  21	01039	     	21-1039	Archer Court	168	Town of Berryville	021	Clarke County	0.09	Cul-de-Sac	21-1035 Mosby Blvd	120	R							X						04/28/2003
+786159	  21	01040	     	21-1040	Stuart Court	168	Town of Berryville	021	Clarke County	0.08	Cul-de-Sac	21-1035 Mosby Blvd	100	R							X						04/28/2003
+787751	  21	01041	     	21-1041	Jackson Dr	168	Town of Berryville	021	Clarke County	0.33	Bus SR 7	21-1035 Mosby Blvd	1200	G	100%	0%	0%	0%	0%	0%	C	0.1111	F	0.5580	1200	G	2009
+787752	  21	01042	     	21-1042	Ewell Court	168	Town of Berryville	021	Clarke County	0.11	Cul-de-Sac	21-1041 Jackson Dr	0	?							X
+795613	  21	01044	     	21-1044	 	168	Town of Berryville	021	Clarke County	0.14	21-1035; 21-1041	Cul-de-Sac	0	?							X
+795614	  21	01045	     	21-1045	 	168	Town of Berryville	021	Clarke County	0.14	21-1035 Mosby Blvd	Cul-de-Sac	0	?							X
+795615	  21	01046	     	21-1046	 	168	Town of Berryville	021	Clarke County	0.14	21-1035 Mosby Blvd	Cul-de-Sac	0	?							X
+795616	  21	01047	     	21-1047	 	168	Town of Berryville	021	Clarke County	0.14	Cul-de-Sac	21-1035 Mosby Blvd	0	?							X
+795617	  21	01048	     	21-1048	 	168	Town of Berryville	021	Clarke County	0.10	21-1047	Cul-de-Sac	0	?							X
+795618	  21	01050	     	21-1050	 	168	Town of Berryville	021	Clarke County	0.14	21-1031	21-1029 Hermitage Blvd	0	?							X
+795619	  21	01051	     	21-1051	 	168	Town of Berryville	021	Clarke County	0.13	21-1031	Cul-de-Sac	0	?							X
+796932	  21	01055	     	21-1055	 	168	Town of Berryville	021	Clarke County	0.20	21-1026 East Fairfax St	Cul-de-Sac	0	?							X
+796933	  21	01056	     	21-1056	 	168	Town of Berryville	021	Clarke County	0.23	21-1026 East Fairfax St	Cul-de-Sac	0	?							X
+796934	  21	01058	     	21-1058	 	168	Town of Berryville	021	Clarke County	0.13	21-1014	21-1055	0	?							X
+796935	  21	01059	     	21-1059	 	168	Town of Berryville	021	Clarke County	0.03	Dead End	21-1014	0	?							X
+719688	  21	09104	     	21-9104	 	168	Town of Berryville	021	Clarke County	0.06	SR 7	Berryville High School	320	R							X						1995
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

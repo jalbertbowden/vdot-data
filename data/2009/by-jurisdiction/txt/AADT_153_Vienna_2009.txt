@@ -1,0 +1,42 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Vienna																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+990112	  IS	00066	E    	I-66 EB	 	153	Town of Vienna	029	Fairfax County	0.25	WCL Vienna	ECL Vienna	78000	F	96%	1%	1%	1%	2%	0%	F				82000	F	2009		165000	F	96%	1%	1%	1%	2%	0%	F				172000	F
+676617	  SR	00123	     	VA 123	Maple Ave	153	Town of Vienna	153	Town of Vienna	0.07	SCL Vienna	SR 243 Nutley St	28000	F	98%	0%	0%	0%	1%	0%	F	0.0800	F	0.6443	30000	F	2009
+676601	  SR	00123	     	VA 123	Maple Ave	153	Town of Vienna	153	Town of Vienna	1.53	SR 243 Nutley St	Follin Lane	34000	F	98%	0%	0%	0%	1%	0%	F	0.0744	F	0.5928	36000	F	2009
+676612	  SR	00123	     	VA 123	Maple Ave	153	Town of Vienna	153	Town of Vienna	0.50	Follin Lane	NCL Vienna	33000	F	98%	0%	0%	0%	1%	0%	F	0.0741	F	0.7577	35000	F	2009
+676603	  SR	00243	     	VA 243	Nutley St	153	Town of Vienna	153	Town of Vienna	0.25	ECL Vienna	Tapawingo Rd	27000	F	98%	0%	1%	0%	1%	0%	F	0.0860	F	0.5675	29000	F	2009
+676604	  SR	00243	     	VA 243	Nutley St	153	Town of Vienna	153	Town of Vienna	0.63	Tapawingo Rd	SR 123; 153-6643	26000	F	98%	0%	1%	0%	1%	0%	F	0.0832	F	0.5909	28000	F	2009
+736444	  29	09611	     	29-9611	 	153	Town of Vienna	029	Fairfax County	0.03	Louise Arche School	Louise Arches School	1800	R							X						05/07/2009
+736452	  29	09619	     	29-9619	 	153	Town of Vienna	029	Fairfax County	0.08	Vienna School	Vienna School	320	R							X						1991
+676628	 153	00001	     	153-1	Electric Ave	153	Town of Vienna	153	Town of Vienna	0.34	Alma St	Fairfax County Line	8500	G	99%	0%	0%	0%	0%	0%	C	0.1038	N	0.8281	9100	G	2009
+676630	 153	00002	     	153-2	Echols St	153	Town of Vienna	153	Town of Vienna	0.34	Branch Rd	Follin Lane	3600	F	99%	0%	0%	0%	0%	0%	C	0.1244	F	0.7535	3900	F	2009
+676629	 153	00003	     	153-3	Locust St	153	Town of Vienna	153	Town of Vienna	0.09	Cottage St	Courthouse Rd	5200	F	98%	1%	0%	0%	0%	0%	C	0.1190	F	0.6619	5600	F	2009
+676620	 153	06638	     	153-6638	Malcolm Rd	153	Town of Vienna	153	Town of Vienna	0.50	WCL Vienna	29-673 Lawyers Rd	5000	F	99%	0%	0%	0%	0%	0%	C	0.1059	F	0.7547	5500	F	2009
+676624	 153	06642	     	153-6642	Tapawingo Rd	153	Town of Vienna	153	Town of Vienna	0.62	SR 243 Nutley St	153-6925 Cottage St	4100	F	98%	0%	1%	1%	0%	0%	C	0.1116	F	0.6123	4300	F	2009
+676626	 153	06642	     	153-6642	Tapawingo Rd	153	Town of Vienna	153	Town of Vienna	0.48	153-6925 Cottage St	153-6676 Park St	3600	F	99%	0%	1%	0%	0%	0%	C	0.1213	F	0.7031	3900	F	2009
+676400	 153	06643	     	153-6643	Nutley St	153	Town of Vienna	153	Town of Vienna	0.09	Maple Ave	Windover Ave	5000	F	99%	0%	0%	1%	0%	0%	F	0.0990	F	0.5428	5200	F	2009
+676621	 153	06643	     	153-6643	Nutley St	153	Town of Vienna	153	Town of Vienna	0.49	Windover Ave	Malcom Rd	4500	F	99%	0%	0%	1%	0%	0%	C	0.0991	F	0.5306	4700	F	2009
+676611	 153	06648	     	153-6648	Courthouse Rd	153	Town of Vienna	153	Town of Vienna	0.73	SR 243 Nutley St	SR 123 Maple Ave	7700	F	99%	0%	0%	0%	0%	0%	C	0.0968	F	0.5587	8100	F	2009
+676610	 153	06648	     	153-6648	Lawyers Rd	153	Town of Vienna	153	Town of Vienna	0.80	SR 123 Maple Ave	NWCL Vienna	14000	F	99%	0%	0%	0%	0%	0%	F	0.0871	F	0.7116	15000	F	2009
+781841	 153	06668	     	153-6668	Old Court House Rd	153	Town of Vienna	153	Town of Vienna	0.32	29-677; ECL Vienna	29-677; WCL Vienna	9500	F	99%	0%	0%	0%	0%	0%	F	0.1181	F	0.7769	10000	F	2009
+676616	 153	06669	     	153-6669	Beulah Rd	153	Town of Vienna	153	Town of Vienna	0.78	SR 123 Maple Ave	WCL Vienna	11000	F	99%	0%	1%	0%	0%	0%	C	0.0980	F	0.5492	11000	F	2009
+781842	 153	06673	     	153-6673	Creek Crossing Rd	153	Town of Vienna	153	Town of Vienna	0.24	153-6669 Beulah Rd	29-724 ; NCL Vienna	1600	F	98%	0%	0%	1%	0%	0%	F	0.1510	F	0.8529	1800	F	2009
+676608	 153	06676	     	153-6676	Park St	153	Town of Vienna	153	Town of Vienna	1.27	ECL Vienna	SR 123 Maple Ave	11000	F	99%	0%	1%	0%	0%	0%	C	0.0991	F	0.5264	12000	F	2009
+676606	 153	06925	     	153-6925	Cottage St	153	Town of Vienna	153	Town of Vienna	1.02	29-698 Cedar Lane	153-6642 Tapawingo Rd	4300	F	99%	1%	0%	0%	0%	0%	C	0.1094	F	0.6145	4600	F	2009
+676607	 153	06925	     	153-6925	Cottage St	153	Town of Vienna	153	Town of Vienna	0.64	153-6642 Tapawingo Rd	153-3 Locust St	6200	F	98%	2%	1%	0%	0%	0%	C	0.1100	F	0.5751	6500	F	2009
+676625	 153	06927	     	153-6927	Follin Lane	153	Town of Vienna	153	Town of Vienna	0.67	SR 123 Maple Ave	Alma St	6800	F	99%	0%	1%	0%	0%	0%	C	0.0859	F	0.7358	7100	F	2009
+676627	 153	06933	     	153-6933	Church St	153	Town of Vienna	153	Town of Vienna	0.70	153-6648 Lawyers Rd	153-6669 Beulah Rd	5900	F	100%	0%	0%	0%	0%	0%	C	0.1042	F	0.6351	6200	F	2009
+676632	 153	06933	     	153-6933	Church St	153	Town of Vienna	153	Town of Vienna	0.19	153-6669 Beulah Rd	EAST ST	4100	F	99%	0%	0%	0%	0%	0%	C	0.1180	F	0.7428	4300	F	2009
+676631	 153	06934	     	153-6934	Branch Rd	153	Town of Vienna	153	Town of Vienna	0.37	Echols St	SR 123 Maple Ave	3800	F	98%	0%	0%	1%	0%	0%	C	0.1184	F	0.7782	4100	F	2009
+676401	 153	06935	     	153-6935	Locust Lane	153	Town of Vienna	153	Town of Vienna	0.30	Park St	Branch Rd	6400	F	98%	0%	0%	1%	0%	0%	F	0.1048	F	0.5668	7000	F	2009
+576003	 153	00000	     	153-0	Adahi Rd	153	Town of Vienna	153	Town of Vienna	0.00	Park St	Glyndon St	1000	F							X	0.1071	F	0.5207	1100	F	2009
+576001	 153	00000	     	153-0	Center St	153	Town of Vienna	153	Town of Vienna	0.00	Maple Ave	Locust St	4900	F							X	0.0899	F	0.5487	5200	F	2009
+576005	 153	00000	     	153-0	Highland St	153	Town of Vienna	153	Town of Vienna	0.00	Lincoln St	Dead End	100	F							X				120	F	2009
+576004	 153	00000	     	153-0	Westwood Dr	153	Town of Vienna	153	Town of Vienna	0.00	Overlook Lane	Devonshire Dr	430	F							X	0.1071	F	0.5100	470	F	2009
+576002	 153	00000	     	153-0	Yeonas Dr	153	Town of Vienna	153	Town of Vienna	0.00	Ware St.	Lakewood Dr	660	F							X	0.1187	F	0.5640	720	F	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

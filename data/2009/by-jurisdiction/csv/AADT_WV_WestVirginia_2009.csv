@@ -1,0 +1,10 @@
+Virginia Department of Transportation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Traffic Engineering Division,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Annual Average Daily Traffic Volume Estimates By Section of Route,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Virginia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Parallel Facilities Combined,,,,,,,,,,,,,
+Link ID,Route Prefix,Route Number,Route Suffix,Route Label,Route Alias,Physical Jurisdiction,,Maintenance Jurisdiction,,Link Length,Start Label,End Label,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality,Data Date,Comment,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality
+010545,  IS,00077,N    ,I-77 NB, ,WV ,West Virginia,010,Bland County,0.50,West Virginia State Line,"End of Tunnel, West Virginia",15000,F,79%,1%,1%,0%,18%,1%,F,,,,13000,F,2009,,28000,F,75%,1%,1%,1%,21%,2%,F,,,,25000,F
+110046,  IS,00077,S    ,I-77 SB, ,WV ,West Virginia,010,Bland County,0.50,West Virginia State Line,"End of Tunnel, West Virginia",14000,F,71%,1%,1%,1%,25%,2%,F,,,,12000,F,2009,,28000,F,75%,1%,1%,1%,21%,2%,F,,,,25000,F
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,25 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Occoquan																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+090321	  SR	00123	     	VA 123	Gordon Blvd	272	Town of Occoquan	076	Prince William County	0.15	SCL Occoquan	76-1203 Commerce St	41000	N	98%	0%	0%	0%	1%	0%	N	0.0829	N	0.6725	44000	N	2009
+090040	  SR	00123	     	VA 123	Gordon Blvd	272	Town of Occoquan	076	Prince William County	0.18	76-1203 Commerce St	NCL Occoquan	49000	G	98%	0%	0%	0%	1%	0%	F	0.0947	F	0.7884	52000	G	2009
+090319	  76	00906	     	76-906	Occoquan Rd	272	Town of Occoquan	076	Prince William County	0.38	SCL Occoquan	76-1203 Commerce St	2000	N	98%	1%	1%	0%	0%	0%	N	0.1150	N	0.7193	2200	N	2009
+761637	  76	01200	     	76-1200	Edgehill Dr	272	Town of Occoquan	076	Prince William County	0.12	76-1205 WCL Occoquan	76-906 Occoquan Rd	100	R							X						1998
+405282	  76	01201	     	76-1201	Ellicott St	272	Town of Occoquan	076	Prince William County	0.16	76-2100 Union St	76-1208 Poplar Lane	610	G	97%	1%	2%	0%	0%	0%	C	0.0976	F	0.7500	660	G	2009
+761638	  76	01202	     	76-1202	Washington St	272	Town of Occoquan	076	Prince William County	0.05	SR 253; 76-1203	76-1208 Poplar Lane	2500	R							X						1998
+405283	  76	01203	     	76-1203	Commerce St	272	Town of Occoquan	076	Prince William County	0.16	SR 123 Gordon Blvd	76-906; 76-1202	4800	G	98%	1%	1%	0%	0%	0%	C	0.1384	F	0.9609	5200	G	2009
+405284	  76	01203	     	76-1203	Commerce St	272	Town of Occoquan	076	Prince William County	0.06	76-906; 76-1202	76-2100 Union St	3300	G	98%	1%	1%	0%	0%	0%	F	0.1529	F	1.0000	3600	G	2009
+301635	  76	01203	     	76-1203	Commerce St	272	Town of Occoquan	076	Prince William County	0.06	76-2100 Union St	76-1201 Ellicott St	680	G	98%	1%	1%	0%	0%	0%	F	0.0900	F	1.0000	740	G	2009
+761639	  76	01204	     	76-1204	Locust St	272	Town of Occoquan	076	Prince William County	0.09	76-906 Occoquan Rd	Dead End	180	R							X						1998
+761641	  76	01205	     	76-1205	Mount High St	272	Town of Occoquan	076	Prince William County	0.07	WCL Occoquan	76-906 Occoquan Rd	490	R							X						1998
+405367	  76	01208	     	76-1208	Poplar Lane	272	Town of Occoquan	076	Prince William County	0.29	ECL Occoquan	76-1202 Washington St	410	N	96%	2%	1%	1%	1%	0%	N	0.1018	N	0.5333	450	N	2009
+405287	  76	01208	     	76-1208	Poplar Lane	272	Town of Occoquan	076	Prince William County	0.12	76-1202 Washington St	76-1201 Ellicott St	740	G	96%	2%	1%	1%	1%	0%	C	0.0991	F	1.0000	800	G	2009
+761646	  76	01208	     	76-1208	Poplar Lane	272	Town of Occoquan	076	Prince William County	0.13	76-1201 Ellicott St	Dead End	1400	R							X						1998
+405383	  76	02100	     	76-2100	Tanyard Hill Rd	272	Town of Occoquan	076	Prince William County	0.14	WCL Occoquan	76-1201 Ellicott St	3700	G	99%	0%	0%	0%	0%	0%	F	0.1339	F	0.9485	4000	G	2009
+405384	  76	02100	     	76-2100	Tanyard Hill Rd	272	Town of Occoquan	076	Prince William County	0.13	76-1201 Ellicott St	76-1203 Commerce St	3500	G	99%	0%	0%	0%	0%	0%	F	0.1392	F	0.9489	3800	G	2009
+405385	  76	02100	     	76-2100	Union St	272	Town of Occoquan	076	Prince William County	0.05	76-1203 Commerce St	76-1208 Poplar Lane	2100	G	99%	0%	0%	0%	0%	0%	F	0.1983	F	1.0000	2300	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

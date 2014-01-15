@@ -1,0 +1,228 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Elizabeth City Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+636002	  US	00060	     	US 60	Kecoughtan Rd	114	City of Hampton	114	City of Hampton	1.18	WCL Newport News	Powhatan Pkwy	6100	G	97%	2%	1%	0%	0%	0%	C	0.0899	F	0.5042	6600	G	2009
+636134	  US	00060	     	US 60	Kecoughtan Rd	114	City of Hampton	114	City of Hampton	1.03	Powhatan Pkwy	Lasalle Ave	7300	G	98%	2%	0%	0%	0%	0%	F	0.0939	F	0.5109	8000	G	2009
+636004	  US	00060	     	US 60	Kecoughtan Rd	114	City of Hampton	114	City of Hampton	1.04	Lasalle Ave	SR 143 Victoria Blvd	8800	G	98%	2%	0%	0%	0%	0%	C	0.0911	F	0.5069	9600	G	2009
+781538	  US	00060	     		Kecoughtan Rd	114	City of Hampton	114	City of Hampton	0.26	SR 143 Victoria Blvd	Settlers Landing Rd	12000	G	98%	2%	0%	0%	0%	0%	F	0.0861	F	0.5169	13000	G	2009
+636138	  US	00060	     		Settlers Landing Rd	114	City of Hampton	114	City of Hampton	0.13	Kecoughtan Rd	SR 134 Armistead Ave	17000	G	96%	1%	1%	1%	0%	0%	C	0.0884	F	0.5072	18000	G	2009
+636121	  US	00060	     		Settlers Landing Rd	114	City of Hampton	114	City of Hampton	0.46	SR 134 Armistead Ave	Eaton St	14000	G	96%	1%	1%	1%	0%	0%	F	0.0877	F	0.0000	15000	G	2009
+636005	  US	00060	     		Settlers Landing Rd	114	City of Hampton	114	City of Hampton	0.67	Eaton St	I-64	19000	G	96%	1%	1%	1%	0%	0%	F	0.0940	F	0.7843	21000	G	2009
+050396	  US	00060	     		Hampton Roads Beltway	114	City of Hampton	099	York County	0.33	US 60 SR 143 Tyler St	SR 169 Mallory St	43000	G	96%	1%	1%	0%	2%	0%	F				63000	G	2009		89000	G	96%	1%	1%	0%	2%	0%	F				130000	G
+150319	  US	00060	     		Hampton Roads Bridge Tunnel	114	City of Hampton	099	York County	4.00	SR 169 Mallory St	WCL Norfolk	44000	A	96%	1%	1%	0%	2%	0%	C	0.0845	A	1.0000	45000	A	2009		87000	A	97%	0%	1%	0%	2%	0%	C	0.0783	A	0.5081	90000	A
+050160	  IS	00064	E    	I-64 EB	 	114	City of Hampton	099	York County	1.97	ECL Newport News	Hampton Roads Center Parkway	70000	G	96%	0%	1%	0%	3%	0%	F	0.0744	F	1.0000	72000	G	2009		144000	G	96%	0%	1%	0%	3%	0%	F				147000	G
+050394	  IS	00064	E    	I-64 EB	 	114	City of Hampton	099	York County	1.33	Hampton Roads Center Parkway	SR 134 Magruder Blvd	66000	G	96%	0%	1%	0%	3%	0%	F				11000	G	2009		130000	G	96%	0%	1%	0%	3%	0%	F				39000	G
+050395	  IS	00064	E    		 	114	City of Hampton	099	York County	0.55	SR 134 Magruder Blvd	US 258, SR 134 Mercury Blvd	77000	G	96%	0%	1%	0%	3%	0%	F				59000	G	2009		155000	G	96%	0%	1%	0%	3%	0%	F				84000	G
+050391	  IS	00064	E    		 	114	City of Hampton	099	York County	0.30	US 258, SR 134 Mercury Blvd	US 258 Mercury Blvd	75000	G	96%	1%	1%	0%	2%	0%	F						2009		148000	G	96%	1%	1%	0%	2%	0%	F					
+050398	  IS	00064	E    	I-64 EB	 	114	City of Hampton	099	York County	0.86	US 258 Mercury Blvd	I-664 Hampton Roads Beltway	73000	G	96%	0%	1%	0%	3%	0%	F				72000	G	2009		146000	G	96%	0%	1%	0%	3%	0%	F				131000	G
+050153	  IS	00064	E    	I-64 EB	Hampton Roads Beltway	114	City of Hampton	099	York County	0.77	I-664	SR 167 LaSalle Ave	54000	G	96%	1%	1%	0%	2%	0%	F	0.0790	F	1.0000	56000	G	2009		104000	G	96%	1%	1%	0%	2%	0%	F				106000	G
+050135	  IS	00064	E    	I-64 EB	Hampton Roads Beltway	114	City of Hampton	099	York County	2.51	SR 167 LaSalle Ave	US 60, SR 143 Settlers Landing Rd	43000	G	96%	1%	1%	0%	2%	0%	F				16000	G	2009		93000	G	96%	1%	1%	0%	2%	0%	F				92000	G
+050396	  IS	00064	E    		Hampton Roads Beltway	114	City of Hampton	099	York County	0.33	US 60, SR 143 Settlers Landing Rd	SR 169 Mallory St	43000	G	96%	1%	1%	0%	2%	0%	F				63000	G	2009		89000	G	96%	1%	1%	0%	2%	0%	F				130000	G
+150319	  IS	00064	E    		Hampton Roads Bridge Tunnel	114	City of Hampton	099	York County	4.00	SR 169 Mallory St	WCL Norfolk	44000	A	96%	1%	1%	0%	2%	0%	C	0.0845	A	1.0000	45000	A	2009		87000	A	97%	0%	1%	0%	2%	0%	C	0.0783	A	0.5081	90000	A
+150308	  IS	00064	W    	I-64 WB	 	114	City of Hampton	099	York County	2.41	ECL Newport News	Hampton Roads Center Parkway	74000	G	96%	0%	1%	1%	3%	0%	F	0.0834	F	1.0000	76000	G	2009		144000	G	96%	0%	1%	0%	3%	0%	F				147000	G
+150053	  IS	00064	W    	I-64 WB	 	114	City of Hampton	099	York County	0.78	Hampton Roads Center Parkway	SR 134 Magruder Blvd	64000	G	96%	0%	1%	1%	3%	0%	F	0.0732	F	1.0000	28000	G	2009		130000	G	96%	0%	1%	0%	3%	0%	F				39000	G
+150054	  IS	00064	W    		 	114	City of Hampton	099	York County	0.65	SR 134 Magruder Blvd	US 258, SR 134 Mercury Blvd	78000	G	96%	0%	1%	1%	3%	0%	F	0.0841	F	1.0000	25000	G	2009		155000	G	96%	0%	1%	0%	3%	0%	F				84000	G
+150055	  IS	00064	W    		 	114	City of Hampton	099	York County	1.06	US 258, SR 134 Mercury Blvd	I-664 Hampton Roads Beltway	73000	G	96%	0%	1%	1%	3%	0%	F				59000	G	2009		148000	G	96%	1%	1%	0%	2%	0%	F					
+150056	  IS	00064	W    	I-64 WB	Hampton Roads Beltway	114	City of Hampton	099	York County	1.05	I-664	SR 167 LaSalle Ave	50000	G	96%	0%	1%	1%	3%	0%	F	0.0691	F	1.0000	51000	G	2009		104000	G	96%	1%	1%	0%	2%	0%	F				106000	G
+150057	  IS	00064	W    	I-64 WB	Hampton Roads Beltway	114	City of Hampton	099	York County	2.36	SR 167 LaSalle Ave	US 60, SR 143 Settlers Landing Rd	50000	G	96%	0%	1%	1%	3%	0%	F				76000	G	2009		93000	G	96%	1%	1%	0%	2%	0%	F				92000	G
+150058	  IS	00064	W    		Hampton Roads Beltway	114	City of Hampton	099	York County	0.38	US 60, SR 143 Settlers Landing Rd	SR 169 Mallory St	46000	G	96%	0%	1%	1%	3%	0%	F				67000	G	2009		89000	G	96%	1%	1%	0%	2%	0%	F				130000	G
+150059	  IS	00064	W    		Hampton Roads Bridge Tunnel	114	City of Hampton	099	York County	3.93	SR 169 Mallory St	WCL Norfolk	44000	A	97%	0%	1%	0%	2%	0%	C	0.0802	A	1.0000	45000	A	2009		87000	A	97%	0%	1%	0%	2%	0%	C				90000	A
+781167	  IS	00064	W267A	I-64 WB Exit 267A	Ramp	114	City of Hampton	099	York County	0.11	I-64 West	SR 143 County St	4800	G	96%	0%	1%	1%	3%	0%	F				370	G	2009
+636013	  SR	00134	     	VA 134	Magruder Blvd	114	City of Hampton	114	City of Hampton	0.28	York County Line	Semple Farm Rd	24000	G	99%	0%	1%	0%	0%	0%	C	0.0981	F	0.6816	26000	G	2009
+636135	  SR	00134	     	VA 134	Magruder Blvd	114	City of Hampton	114	City of Hampton	0.83	Semple Farm Rd	SR 172 Cmdr Shepard Blvd	29000	G	98%	0%	1%	0%	0%	0%	F	0.0917	F	0.6564	30000	G	2009
+636140	  SR	00134	     	VA 134	Magruder Blvd	114	City of Hampton	114	City of Hampton	1.46	SR 172 Cmdr Shepard Blvd	Hampton Roads Center Pkwy	32000	G	98%	0%	1%	0%	0%	0%	F	0.0920	F	0.5513	33000	G	2009
+636193	  SR	00134	     	VA 134	Magruder Blvd	114	City of Hampton	114	City of Hampton	0.94	Hampton Roads Center Pkwy	I-64 WB	28000	G	98%	0%	1%	0%	0%	0%	F	0.0888	F	0.5033	29000	G	2009
+050395	  SR	00134	     		 	114	City of Hampton	099	York County	0.55	SR 134 Magruder Blvd	US 258, SR 134 Mercury Blvd	77000	G	96%	0%	1%	0%	3%	0%	F				59000	G	2009		155000	G	96%	0%	1%	0%	3%	0%	F				84000	G
+050391	  SR	00134	     		 	114	City of Hampton	099	York County	0.30	US 258, SR 134 Mercury Blvd	US 258, SR 134 Mercury Blvd	75000	G	96%	1%	1%	0%	2%	0%	F						2009		148000	G	96%	1%	1%	0%	2%	0%	F					
+636115	  SR	00134	     		Mercury Blvd	114	City of Hampton	114	City of Hampton	0.26	I-64	Coliseum Dr	49000	G	99%	0%	0%	0%	1%	0%	F	0.0889	F	0.5457	49000	G	2009	
+636046	  SR	00134	     		Mercury Blvd	114	City of Hampton	114	City of Hampton	0.57	Coliseum Dr	SR 152 Cunningham Dr	44000	G	99%	0%	0%	0%	1%	0%	F	0.0835	F	0.5324	44000	G	2009	
+636095	  SR	00134	     		Mercury Blvd	114	City of Hampton	114	City of Hampton	0.24	SR 152 Cunningham Dr	US 258; Arminstead Ave	55000	G	99%	0%	0%	0%	1%	0%	F	0.0844	F	0.5585	56000	G	2009	
+636186	  SR	00134	     	VA 134	Armistead Ave	114	City of Hampton	114	City of Hampton	0.24	US 258 Mercury Blvd	Pine Chapel Rd	19000	G	99%	0%	1%	0%	0%	0%	C	0.0851	F	0.5106	21000	G	2009
+636015	  SR	00134	     	VA 134	Armistead Ave	114	City of Hampton	114	City of Hampton	0.79	Pine Chapel Rd	Lasalle Ave	21000	G	98%	0%	1%	0%	0%	0%	C	0.0834	F	0.5261	23000	G	2009
+636093	  SR	00134	     	VA 134	Armistead Ave	114	City of Hampton	114	City of Hampton	0.51	Lasalle Ave	Rip Rap Rd	13000	G	98%	0%	1%	0%	0%	0%	F	0.0926	F	0.5904	14000	G	2009
+636016	  SR	00134	     	VA 134	Armistead Ave	114	City of Hampton	114	City of Hampton	0.38	Rip Rap Rd	SR 351 Pembroke Ave	15000	G	98%	0%	1%	0%	0%	0%	F	0.0986	F	0.5360	16000	G	2009
+636094	  SR	00134	     	VA 134	Armistead Ave	114	City of Hampton	114	City of Hampton	0.27	SR 351 Pembroke Ave	Queen St	14000	G	98%	0%	1%	1%	0%	0%	C	0.0971	F	0.5617	15000	G	2009
+789585	  SR	00134	     	VA 134	Armistead Ave	114	City of Hampton	114	City of Hampton	0.10	Queen St	US 60 Settlers Landing Rd	14000	N	98%	0%	1%	1%	0%	0%	N	0.0971	N	0.5617	15000	N	2009
+636017	  SR	00143	     	VA 143	Ingalls Rd	114	City of Hampton	US 	Federal	0.28	US 258 Mercury Blvd	Begin State Maintenance	4600	G	99%	1%	0%	0%	0%	0%	C	0.1381	F	0.8890	4900	G	2009
+636020	  SR	00143	     	VA 143	Mellen St	114	City of Hampton	114	City of Hampton	0.41	Begin State Maintenance	SR 169 Mallory St	4600	G	99%	1%	0%	0%	0%	0%	C	0.1381	F	0.8890	4900	G	2009
+636125	  SR	00143	     	VA 143	County St	114	City of Hampton	114	City of Hampton	0.59	SR 169 Mallory St	I-64	4500	G	97%	1%	1%	0%	0%	0%	C	0.1224	F	0.8208	4900	G	2009
+636005	  SR	00143	     		Settlers Landing Rd	114	City of Hampton	114	City of Hampton	0.67	Tyler St	Eaton St	19000	G	96%	1%	1%	1%	0%	0%	F	0.0940	F	0.7843	21000	G	2009	
+636121	  SR	00143	     		Settlers Landing Rd	114	City of Hampton	114	City of Hampton	0.46	Eaton St	SR 134 Armistead Ave	14000	G	96%	1%	1%	1%	0%	0%	F	0.0877	F	0.0000	15000	G	2009	
+636138	  SR	00143	     		Settlers Landing Rd	114	City of Hampton	114	City of Hampton	0.13	SR 134 Armistead Ave	Kecoughtan Rd	17000	G	96%	1%	1%	1%	0%	0%	C	0.0884	F	0.5072	18000	G	2009	
+781538	  SR	00143	     		Kecoughtan Rd	114	City of Hampton	114	City of Hampton	0.26	Settlers Landing Rd	US 60 Kecoughtan Rd	12000	G	98%	2%	0%	0%	0%	0%	F	0.0861	F	0.5169	13000	G	2009	
+636019	  SR	00143	     	VA 143	Victoria Blvd	114	City of Hampton	114	City of Hampton	0.54	US 60 Kecoughtan Rd	Lasalle Ave	3300	G	98%	1%	1%	0%	0%	0%	F	0.0833	F	0.5482	3600	G	2009
+636136	  SR	00143	     	VA 143	Victoria Blvd	114	City of Hampton	114	City of Hampton	1.25	Lasalle Ave	Powhatan Pkwy	6700	G	98%	1%	1%	0%	0%	0%	F	0.0885	F	0.5263	7200	G	2009
+636141	  SR	00143	     	VA 143	Victoria Blvd	114	City of Hampton	114	City of Hampton	1.15	Powhatan Pkwy	ECL Newport News	7000	G	98%	1%	1%	0%	0%	0%	C	0.0826	F	0.5072	7600	G	2009
+636088	  SR	00152	     	VA 152	Todds Lane	114	City of Hampton	114	City of Hampton	1.21	ECL Newport News	Big Bethel Rd	20000	G	99%	1%	0%	0%	0%	0%	C	0.0946	F	0.5254	21000	G	2009
+636196	  SR	00152	     	VA 152	Todds Lane	114	City of Hampton	114	City of Hampton	1.03	Big Bethel Rd	Aberdeen Rd	19000	G	99%	1%	0%	0%	0%	0%	F	0.0986	F	0.5687	20000	G	2009
+636177	  SR	00152	     	VA 152	Todds Lane	114	City of Hampton	114	City of Hampton	0.61	Aberdeen Rd	Mag-Cunningham Connector	21000	G	99%	1%	0%	0%	0%	0%	C	0.0880	F	0.5589	23000	G	2009
+636098	  SR	00152	     	VA 152	Cunningham Dr	114	City of Hampton	114	City of Hampton	0.59	Mag-Cunningham Connector	Coliseum Dr	22000	G	99%	1%	0%	0%	0%	0%	F	0.0925	F	0.5112	24000	G	2009
+636111	  SR	00152	     	VA 152	Cunningham Dr	114	City of Hampton	114	City of Hampton	0.77	Coliseum Dr	US 258, SR 134 Mercury Blvd	12000	G	99%	1%	0%	0%	0%	0%	C	0.0936	F	0.5458	13000	G	2009
+636067	  SR	00169	     	VA 169	Mallory St	114	City of Hampton	114	City of Hampton	0.07	SR 143 Mellen St	SR 143 County St	9300	N	98%	1%	1%	0%	0%	0%	N	0.0895	N	0.8544	10000	N	2009
+636036	  SR	00169	     	VA 169	Mallory St	114	City of Hampton	114	City of Hampton	0.15	SR 143 County St	US 258 Mercury Blvd	9300	G	98%	1%	1%	0%	0%	0%	F	0.0895	F	0.8544	10000	G	2009
+636035	  SR	00169	     	VA 169	Mallory St	114	City of Hampton	114	City of Hampton	1.95	US 258 Mercury Blvd	SR 351 E, Pembroke Ave	6800	G	98%	1%	1%	0%	0%	0%	C	0.0859	F	0.6044	7400	G	2009
+636061	  SR	00169	     		Pembroke Ave	114	City of Hampton	114	City of Hampton	0.60	SR 351 E, Pembroke Ave	SR 351 W, Pembroke Ave	3500	G	98%	1%	1%	0%	0%	0%	F	0.0948	F	0.5770	3800	G	2009	
+636034	  SR	00169	     	VA 169	Old Buckroe Rd	114	City of Hampton	114	City of Hampton	1.37	SR 351 W, Pembroke Ave	Fox Hill Rd	6400	G	98%	1%	0%	0%	0%	0%	C	0.0987	F	0.6662	7000	G	2009
+636146	  SR	00169	     	VA 169	Fox Hill Rd	114	City of Hampton	114	City of Hampton	1.08	Old Buckroe Rd	Woodland Rd	14000	G	98%	1%	1%	0%	0%	0%	F	0.0953	F	0.5914	15000	G	2009
+636033	  SR	00169	     	VA 169	Fox Hill Rd	114	City of Hampton	114	City of Hampton	0.88	Woodland Rd	Clemwood Pkwy	22000	G	98%	1%	1%	0%	0%	0%	C	0.0991	F	0.5407	24000	G	2009
+636031	  SR	00169	     	VA 169	Fox Hill Rd	114	City of Hampton	114	City of Hampton	0.95	Clemwood Pkwy	US 258; Mercury Blvd	26000	G	98%	1%	1%	0%	0%	0%	F	0.0949	F	0.5613	28000	G	2009
+636110	  SR	00172	     	VA 172	Cmdr Shepard Blvd	114	City of Hampton	114	City of Hampton	0.61	SR 134 Magruder Blvd	Armistead Ave	7000	G	98%	0%	1%	0%	0%	0%	F	0.1159	F	0.8658	7600	G	2009
+636040	  SR	00172	     	VA 172	Cmdr Shepard Blvd	114	City of Hampton	114	City of Hampton	0.42	Armistead Ave	NASA Main Gate	17000	G	98%	0%	1%	0%	0%	0%	C	0.1023	F	0.5983	18000	G	2009
+636200	  SR	00172	     	VA 172	Armistead Ave	114	City of Hampton	114	City of Hampton	0.85	NASA Main Gate	Semple Farm Rd	14000	G	98%	0%	1%	1%	0%	0%	C	0.1041	F	0.6815	16000	G	2009
+636126	  SR	00172	     	VA 172	Wythe Creek Rd	114	City of Hampton	114	City of Hampton	1.03	Semple Farm Rd	SCL Poquoson	16000	G	98%	0%	1%	1%	0%	0%	F	0.1001	F	0.7593	18000	G	2009
+636042	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.74	ECL Newport News	114-7019 Chestnut Ave	47000	G	99%	0%	0%	0%	1%	0%	F	0.0825	F	0.5472	48000	G	2009
+150118	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.52	114-7019 Chestnut Ave	114-7021 Big Bethel Rd	50000	A	99%	0%	0%	0%	1%	0%	C	0.0992	A	0.5376	52000	A	2009
+636043	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.80	114-7021 Big Bethel Rd	Aberdeen Rd	54000	G	99%	0%	0%	0%	1%	0%	F	0.0844	F	0.5398	55000	G	2009
+636127	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.43	Aberdeen Rd	SR 415 Power Plant Pkwy	55000	G	99%	0%	0%	0%	1%	0%	F	0.0827	F	0.5188	56000	G	2009
+636045	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.34	SR 415 Power Plant Pkwy	I-64	61000	G	99%	0%	0%	0%	1%	0%	F	0.0827	F	0.5504	62000	G	2009
+636115	  US	00258	     		Mercury Blvd	114	City of Hampton	114	City of Hampton	0.26	I-64	Coliseum Dr	49000	G	99%	0%	0%	0%	1%	0%	F	0.0889	F	0.5457	49000	G	2009
+636046	  US	00258	     		Mercury Blvd	114	City of Hampton	114	City of Hampton	0.57	Coliseum Dr	SR 152 Cunningham Dr	44000	G	99%	0%	0%	0%	1%	0%	F	0.0835	F	0.5324	44000	G	2009
+636095	  US	00258	     		Mercury Blvd	114	City of Hampton	114	City of Hampton	0.24	SR 152 Cunningham Dr	SR 134 Armistead Ave	55000	G	99%	0%	0%	0%	1%	0%	F	0.0844	F	0.5585	56000	G	2009
+636047	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.63	SR 134 Armistead Ave	Lasalle Ave	53000	G	99%	0%	0%	0%	0%	0%	C	0.0811	F	0.5165	57000	G	2009
+636048	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.89	Lasalle Ave	SR 278 King St	58000	G	99%	0%	0%	0%	0%	0%	F	0.0872	F	0.5283	63000	G	2009
+636049	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	1.12	SR 278 King St	Andrews Blvd	30000	G	98%	1%	1%	0%	0%	0%	C	0.0952	F	0.5784	32000	G	2009
+636128	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.55	Andrews Blvd	SR 351 Pembroke Ave	18000	G	98%	1%	1%	0%	0%	0%	F	0.1012	F	0.6867	20000	G	2009
+636050	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.94	SR 351 Pembroke Ave	SR 169 Mallory St	13000	G	98%	1%	1%	0%	0%	0%	C	0.1233	F	0.7081	14000	G	2009
+636051	  US	00258	     	US 258	Mercury Blvd	114	City of Hampton	114	City of Hampton	0.80	SR 169 Mallory St	SR 143 Ingalls Rd	4600	G	98%	1%	1%	0%	0%	0%	F	0.1770	F	0.9081	5000	G	2009
+781399	  SR	00278	     	VA 278	King Street North	114	City of Hampton	114	City of Hampton	0.10	US 258 Mercury Blvd	114-7047 Old Fox Hill Rd	26000	G	99%	1%	0%	0%	0%	0%	F	0.0937	F	0.5600	28000	G	2009
+636096	  SR	00278	     	VA 278	King St	114	City of Hampton	114	City of Hampton	0.85	114-7047 Old Fox Hill Rd	Lamington Rd	20000	G	99%	1%	0%	0%	0%	0%	F	0.0919	F	0.5668	21000	G	2009
+636171	  SR	00278	     	VA 278	King St	114	City of Hampton	114	City of Hampton	0.69	Lamington Rd	Langley Air Force Base	8500	G	99%	1%	0%	0%	0%	0%	C	0.0956	F	0.6912	9300	G	2009
+636055	  SR	00351	     	VA 351	Pembroke Ave	114	City of Hampton	114	City of Hampton	1.53	ECL Newport News	Powhatan Pkwy	8800	G	97%	1%	1%	1%	0%	0%	F	0.0978	F	0.6235	9500	G	2009
+636117	  SR	00351	     	VA 351	Pembroke Ave	114	City of Hampton	114	City of Hampton	1.52	Powhatan Pkwy	Settlers Landing Rd	11000	G	96%	1%	1%	1%	1%	0%	C	0.0887	F	0.6275	11000	G	2009
+636056	  SR	00351	     	VA 351	Pembroke Ave	114	City of Hampton	114	City of Hampton	0.14	Settlers Landing Rd	Lasalle Ave	11000	G	96%	1%	1%	1%	1%	0%	F	0.0880	F	0.5498	12000	G	2009
+636057	  SR	00351	     	VA 351	Pembroke Ave	114	City of Hampton	114	City of Hampton	0.73	Lasalle Ave	SR 134 Armistead Ave	11000	G	95%	2%	1%	1%	0%	0%	C	0.1108	F	0.6610	11000	G	2009
+636058	  SR	00351	     	VA 351	Pembroke Ave	114	City of Hampton	114	City of Hampton	1.41	SR 134 Armistead Ave	US 258 Mercury Blvd	10000	G	96%	2%	1%	0%	0%	0%	C	0.1022	F	0.5169	11000	G	2009
+636059	  SR	00351	     	VA 351	Pembroke Ave	114	City of Hampton	114	City of Hampton	0.20	US 258 Mercury Blvd	Woodland Rd	12000	G	96%	2%	1%	0%	0%	0%	F	0.0841	F	0.6565	13000	G	2009
+636116	  SR	00351	     	VA 351	Pembroke Ave	114	City of Hampton	114	City of Hampton	1.10	Woodland Rd	SR 169 W, Old Buckroe Rd	14000	G	98%	1%	1%	0%	0%	0%	C	0.0872	F	0.6052	15000	G	2009
+636061	  SR	00351	     		Pembroke Ave	114	City of Hampton	114	City of Hampton	0.60	SR 169 W, Old Buckroe Rd	SR 169 E, Mallory St	3500	G	98%	1%	1%	0%	0%	0%	F	0.0948	F	0.5770	3800	G	2009
+636062	  SR	00351	     	VA 351	Pembroke Ave	114	City of Hampton	114	City of Hampton	0.07	SR 169 E, Mallory St	Second St	3500	N	98%	1%	1%	0%	0%	0%	N	0.0948	N	0.5770	3800	N	2009
+636077	  SR	00415	     	VA 415	Power Plant Pkwy	114	City of Hampton	114	City of Hampton	0.72	US 258 Mercury Blvd	Pine Chapel Rd	16000	G	97%	1%	1%	1%	0%	0%	F	0.1062	F	0.6452	17000	G	2009
+636119	  SR	00415	     	VA 415	Power Plant Pkwy	114	City of Hampton	114	City of Hampton	0.47	Pine Chapel Rd	Briarfield Rd	22000	G	97%	1%	1%	1%	0%	0%	C	0.0887	F	0.5293	24000	G	2009
+636071	  SR	00415	     	VA 415	Queen St	114	City of Hampton	114	City of Hampton	0.84	Briarfield Rd	Michigan Dr	12000	G	97%	2%	1%	0%	0%	0%	C	0.0873	F	0.5062	13000	G	2009
+636194	  SR	00415	     	VA 415	Settlers Landing Rd	114	City of Hampton	114	City of Hampton	0.56	Michigan Dr	SR 351 Pembroke Ave	11000	G	97%	2%	1%	0%	0%	0%	F	0.0908	F	0.5309	11000	G	2009
+050137	  IS	00664	E    	I-664 EB	Hampton Roads Beltway	114	City of Hampton	099	York County	1.13	I-64	Powhatan Parkway	39000	G	94%	0%	1%	1%	3%	0%	F						2009	East I-664 is signed as South I-664	80000	G	94%	0%	1%	1%	4%	0%	F					
+150011	  IS	00664	E    	I-664 EB	Hampton Roads Beltway	114	City of Hampton	099	York County	1.21	Powhatan Parkway	Aberdeen Road	39000	G	94%	0%	1%	1%	3%	0%	F				11000	G	2009	East I-664 is signed as South I-664	94000	G	94%	0%	1%	1%	4%	0%	F				43000	G
+150317	  IS	00664	E    	I-664 EB	Hampton Roads Beltway	114	City of Hampton	099	York County	0.66	Aberdeen Road	NCL Newport News	37000	G	94%	0%	1%	1%	3%	0%	F				30000	G	2009	East I-664 is signed as South I-664	73000	G	94%	0%	1%	1%	4%	0%	F				65000	G
+150015	  IS	00664	W    	I-664 WB	Hampton Roads Beltway	114	City of Hampton	099	York County	1.66	I-64	Powhatan Parkway	41000	G	94%	0%	1%	1%	4%	0%	F						2009	West I-664 is signed as North I-664	80000	G	94%	0%	1%	1%	4%	0%	F					
+150016	  IS	00664	W    	I-664 WB	Hampton Roads Beltway	114	City of Hampton	099	York County	1.27	Powhatan Parkway	Aberdeen Road	54000	G	94%	0%	1%	1%	4%	0%	F				32000	G	2009	West I-664 is signed as North I-664	94000	G	94%	0%	1%	1%	4%	0%	F				43000	G
+150017	  IS	00664	W    	I-664 WB	Hampton Roads Beltway	114	City of Hampton	099	York County	0.28	Aberdeen Road	NCL Newport News	36000	G	94%	0%	1%	1%	4%	0%	F				36000	G	2009	West I-664 is signed as North I-664	73000	G	94%	0%	1%	1%	4%	0%	F				65000	G
+636086	 114	07006	     	114-7006	Shell Rd	114	City of Hampton	114	City of Hampton	1.21	Powhatan Pkwy	Lasalle Ave	4500	G	98%	1%	0%	0%	0%	0%	C	0.0940	F	0.5523	4800	G	2009
+636174	 114	07006	     	114-7006	Shell Rd	114	City of Hampton	114	City of Hampton	0.33	Lasalle Ave	Newport News Ave	1300	G	98%	1%	0%	0%	0%	0%	F	0.0932	F	0.5591	1500	G	2009
+636156	 114	07006	     	114-7006	Newport News Ave	114	City of Hampton	114	City of Hampton	0.20	Shell Rd	Back River Rd	1600	G	98%	1%	0%	0%	0%	0%	F	0.0973	F	0.5490	1700	G	2009
+784982	 114	07008	     	114-7008	Nickerson Blvd	114	City of Hampton	114	City of Hampton	0.43	SR 169;  Fox Hill Rd	Andrews Blvd	7700	G	98%	1%	0%	0%	0%	0%	F	0.0991	F	0.5208	8400	G	2009
+636157	 114	07008	     	114-7008	Nickerson Blvd	114	City of Hampton	114	City of Hampton	0.69	Andrews Blvd	SR 169;  Old Buckroe Rd	4800	G	98%	1%	0%	0%	0%	0%	C	0.0975	F	0.5535	5200	G	2009
+636160	 114	07011	     	114-7011	Orcutt Ave	114	City of Hampton	114	City of Hampton	0.18	SECL Newport News	US 258 Mercury Blvd	3100	G	94%	5%	1%	0%	0%	0%	C	0.0992	F	0.5048	3300	G	2009
+636161	 114	07011	     	114-7011	Orcutt Ave	114	City of Hampton	114	City of Hampton	1.37	US 258 Mercury Blvd	SR 152 Todds Lane	12000	G	94%	5%	1%	0%	0%	0%	F	0.0943	F	0.5686	13000	G	2009
+636149	 114	07012	     	114-7012	Briarfield Rd	114	City of Hampton	114	City of Hampton	0.39	SECL Newport News	Big Bethel Rd	9300	G	98%	1%	1%	0%	0%	0%	C	0.0898	F	0.5193	10000	G	2009
+636190	 114	07012	     	114-7012	Briarfield Rd	114	City of Hampton	114	City of Hampton	0.48	Big Bethel Rd	Aberdeen Rd	12000	G	98%	1%	1%	0%	0%	0%	F	0.0868	F	0.5367	13000	G	2009
+636101	 114	07012	     	114-7012	Briarfield Rd	114	City of Hampton	114	City of Hampton	0.99	Aberdeen Rd	Queen St	12000	G	98%	1%	1%	0%	0%	0%	F	0.0900	F	0.5254	14000	G	2009
+636155	 114	07015	     	114-7015	New Market Dr	114	City of Hampton	114	City of Hampton	0.13	SWCL Newport News	US 258 Mercury Blvd	7200	G							X	0.1015	F	0.5840	7800	G	2009
+636165	 114	07017	     	114-7017	Roanoke Ave	114	City of Hampton	114	City of Hampton	0.17	SWCL Newport News	US 258 Mercury Blvd	5000	G	99%	1%	0%	0%	0%	0%	F	0.1332	F	0.5922	5400	G	2009
+636090	 114	07017	     	114-7017	Whealton Rd	114	City of Hampton	114	City of Hampton	1.30	US 258 Mercury Blvd	SR 152 Todds Lane	4300	G	99%	1%	0%	0%	0%	0%	C	0.1130	F	0.6893	4700	G	2009
+636151	 114	07019	     	114-7019	Chestnut Ave	114	City of Hampton	114	City of Hampton	0.19	SWCL Newport News	US 258 Mercury Blvd	4900	G	99%	0%	1%	0%	0%	0%	C	0.1002	F	0.6102	5400	G	2009
+636100	 114	07021	     	114-7021	Big Bethel Rd	114	City of Hampton	114	City of Hampton	1.11	Briarfield Rd	US 258 Mercury Blvd	8900	G	99%	1%	0%	0%	0%	0%	F	0.1008	F	0.5409	9600	G	2009
+636069	 114	07021	     	114-7021	Big Bethel Rd	114	City of Hampton	114	City of Hampton	0.94	US 258 Mercury Blvd	SR 152 Todds Lane	13000	G	99%	1%	0%	0%	0%	0%	C	0.0935	F	0.5233	14000	G	2009
+636068	 114	07021	     	114-7021	Big Bethel Rd	114	City of Hampton	114	City of Hampton	1.31	SR 152 Todds Lane	Hampton Roads Center Pkwy	23000	G	99%	1%	0%	0%	0%	0%	F	0.0917	F	0.5097	25000	G	2009
+636179	 114	07021	     	114-7021	Big Bethel Rd	114	City of Hampton	114	City of Hampton	0.48	Hampton Roads Center Pkwy	Thomas Nelson Dr	26000	G	99%	1%	0%	0%	0%	0%	F	0.0875	F	0.5697	28000	G	2009
+636099	 114	07021	     	114-7021	Big Bethel Rd	114	City of Hampton	114	City of Hampton	1.41	Thomas Nelson Dr	Semple Farm Rd	17000	G	99%	1%	0%	0%	0%	0%	F	0.0890	F	0.5749	19000	G	2009
+636130	 114	07021	     	114-7021	Big Bethel Rd	114	City of Hampton	114	City of Hampton	0.34	Semple Farm Rd	York County Line	10000	G	99%	1%	0%	0%	0%	0%	F	0.0943	F	0.5219	11000	G	2009
+636118	 114	07022	     	114-7022	Pine Chapel Rd	114	City of Hampton	114	City of Hampton	0.53	SR 415 Power Plant Pkwy	Coliseum Dr	11000	G	99%	1%	0%	0%	0%	0%	C	0.0903	F	0.5337	12000	G	2009
+636137	 114	07022	     	114-7022	Pine Chapel Rd	114	City of Hampton	114	City of Hampton	0.64	Coliseum Dr	SR 134 Armistead Ave	5900	G	99%	1%	0%	0%	0%	0%	F	0.0840	F	0.5682	6400	G	2009
+781644	 114	07025	     	114-7025	Aberdeen Rd	114	City of Hampton	114	City of Hampton	0.40	SWCL Newport News	I-664	10000	G	95%	1%	1%	1%	1%	0%	F	0.0799	F	0.5818	11000	G	2009
+636104	 114	07025	     	114-7025	Aberdeen Rd	114	City of Hampton	114	City of Hampton	1.10	I-664	Briarfield Rd	19000	G	95%	1%	1%	1%	1%	0%	C	0.0817	F	0.5084	20000	G	2009
+636187	 114	07025	     	114-7025	Aberdeen Rd	114	City of Hampton	114	City of Hampton	1.32	Briarfield Rd	US 258 Mercury Blvd	15000	G	98%	0%	1%	0%	0%	0%	C				16000	G	2009
+636178	 114	07025	     	114-7025	Aberdeen Rd	114	City of Hampton	114	City of Hampton	0.19	US 258 Mercury Blvd	SR 152 Todds Lane	11000	G	98%	0%	1%	0%	0%	0%	F	0.0885	F	0.5652	12000	G	2009
+636129	 114	07026	     	114-7026	Hampton Rds Ctr Pkwy	114	City of Hampton	114	City of Hampton	1.20	ECL Newport News; 121-6	Big Bethel Rd	21000	A	99%	0%	0%	0%	0%	0%	C	0.1182	A	0.5487	23000	A	2009
+636122	 114	07026	     	114-7026	Hampton Rds Ctr Pkwy	114	City of Hampton	114	City of Hampton	0.26	Big Bethel Rd	I-64	44000	G	99%	0%	0%	0%	0%	0%	F	0.0845	F	0.5358	50000	G	2009
+150092	 114	07026	     	114-7026	Hampton Rds Ctr Pkwy	114	City of Hampton	114	City of Hampton	1.02	I-64	SR 134 Magruder Blvd	42000	G	99%	0%	0%	1%	0%	0%	C	0.0962	F	0.6293	41000	G	2009
+636123	 114	07026	     	114-7026	Hampton Rds Ctr Pkwy	114	City of Hampton	114	City of Hampton	0.65	SR 134 Magruder Blvd	Coliseum Dr	36000	G	99%	0%	0%	0%	0%	0%	F	0.0929	F	0.5912	41000	G	2009
+636124	 114	07026	     	114-7026	Hampton Rds Ctr Pkwy	114	City of Hampton	114	City of Hampton	0.40	Coliseum Dr	Armistead Ave	28000	G	99%	0%	0%	0%	0%	0%	F	0.0953	F	0.5709	32000	G	2009
+636169	 114	07028	     	114-7028	Tide Mill Lane	114	City of Hampton	114	City of Hampton	0.83	Armistead Ave	Lasalle Ave	8200	G	99%	1%	0%	0%	0%	0%	C	0.1068	F	0.6217	8800	G	2009
+636097	 114	07033	     	114-7033	Armistead Ave	114	City of Hampton	114	City of Hampton	0.72	US 258 Mercury Blvd	Tide Mill Lane	24000	G	99%	1%	0%	0%	0%	0%	F	0.0860	F	0.5554	26000	G	2009
+150091	 114	07033	     	114-7033	Armistead Ave	114	City of Hampton	114	City of Hampton	0.53	Tidemill Lane	Hampton Rds Ctr Pkwy	25000	A	99%	1%	0%	0%	0%	0%	C	0.1094	A	0.5173	27000	A	2009
+636064	 114	07033	     	114-7033	Armistead Ave	114	City of Hampton	114	City of Hampton	1.52	Hampton Rds Ctr Pkwy	Cmdr Shepard Blvd	17000	G	99%	1%	0%	0%	0%	0%	F	0.0947	F	0.6762	18000	G	2009
+636083	 114	07034	     	114-7034	Saunders Rd	114	City of Hampton	114	City of Hampton	0.72	ECL Newport News	Big Bethel Rd	9400	G	98%	1%	1%	0%	0%	0%	F	0.0873	F	0.5206	10000	G	2009
+636167	 114	07034	     	114-7034	Semple Farm Rd	114	City of Hampton	114	City of Hampton	2.07	Big Bethel Rd	SR 134 Magruder Blvd	4200	G	98%	1%	1%	0%	0%	0%	C	0.1197	F	0.8541	4500	G	2009
+636176	 114	07034	     	114-7034	Cmdr Shepard Blvd	114	City of Hampton	114	City of Hampton	0.19	SR 134 Magruder Blvd	Wythe Creek Rd	20000	G	98%	1%	1%	0%	0%	0%	F	0.0925	F	0.5733	22000	G	2009
+636142	 114	07035	     	114-7035	Chesapeake Ave	114	City of Hampton	114	City of Hampton	1.13	SECL Newport News	Powhatan Pkwy	1300	G	98%	1%	1%	0%	0%	0%	C	0.0997	F	0.5177	1400	G	2009
+636143	 114	07035	     	114-7035	Chesapeake Ave	114	City of Hampton	114	City of Hampton	0.83	Powhatan Pkwy	Lasalle Ave	1200	G	98%	1%	1%	0%	0%	0%	F	0.1059	F	0.5036	1300	G	2009
+636144	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	0.37	Chesapeake Ave	US 60 Kecoughtan Rd	1500	G	98%	1%	1%	0%	0%	0%	F	0.0912	F	0.5361	1600	G	2009
+636027	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	0.57	US 60 Kecoughton Rd	SR 143 Victoria Blvd	5900	G	98%	1%	1%	0%	0%	0%	F	0.0868	F	0.5734	6400	G	2009
+636025	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	0.66	SR 143 Victoria Blvd	Settlers Landing Rd	17000	G	98%	1%	1%	0%	0%	0%	F	0.0850	F	0.5727	19000	G	2009
+636191	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	0.12	Settlers Landing Rd	SR 351 Pembroke Ave	15000	G	98%	1%	1%	0%	0%	0%	F	0.0850	F	0.5744	16000	G	2009
+636024	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	0.27	SR 351 Pembroke Ave	Michigan Dr	19000	G	98%	1%	1%	0%	0%	0%	F	0.0813	F	0.5875	21000	G	2009
+636192	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	0.24	Michigan Dr	SR 134 Armistead Ave	24000	G	97%	1%	1%	0%	1%	0%	F	0.0833	F	0.5706	26000	G	2009
+636023	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	0.50	SR 134 Armistead Ave	US 258 Mercury Blvd	13000	G	97%	1%	1%	0%	1%	0%	C	0.0880	F	0.5495	15000	G	2009
+636145	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	1.24	US 258 Mercury Blvd	Tide Mill Lane	13000	G	97%	1%	1%	0%	1%	0%	F	0.0941	F	0.6115	14000	G	2009
+636021	 114	07035	     	114-7035	Lasalle Ave	114	City of Hampton	114	City of Hampton	0.31	Tide Mill Lane	Langley Gate	12000	G	97%	1%	1%	0%	1%	0%	F	0.0992	F	0.7507	13000	G	2009
+636106	 114	07037	     	114-7037	Back River Rd	114	City of Hampton	114	City of Hampton	0.19	Newport News Ave	Settlers Landing Rd	1200	G	97%	2%	1%	0%	0%	0%	F	0.1056	F	0.5818	1300	G	2009
+636188	 114	07037	     	114-7037	Back River Rd	114	City of Hampton	114	City of Hampton	0.31	Settlers Landing Rd	SR 351 Pembroke Ave	1800	G	97%	2%	1%	0%	0%	0%	C	0.0915	F	0.5511	1900	G	2009
+636189	 114	07037	     	114-7037	Back River Rd	114	City of Hampton	114	City of Hampton	0.29	Pembroke Ave	Rip Rap Rd	1900	G	97%	2%	1%	0%	0%	0%	F	0.0915	F	0.5276	2100	G	2009
+636202	 114	07037	     	114-7037	Rip Rap Rd	114	City of Hampton	114	City of Hampton	0.18	Back River Rd	I-64	1900	N	97%	2%	1%	0%	0%	0%	N	0.0915	N	0.5276	2100	N	2009
+636120	 114	07037	     	114-7037	Rip Rap Rd	114	City of Hampton	114	City of Hampton	0.48	I-64	King St	11000	G	98%	1%	1%	0%	0%	0%	C	0.0977	F	0.8390	12000	G	2009
+636153	 114	07039	     	114-7039	King St	114	City of Hampton	114	City of Hampton	0.70	SR 351 Pembroke Ave	Rip Rap Rd	9300	G	98%	1%	1%	0%	0%	0%	F	0.0886	F	0.5866	10000	G	2009
+636112	 114	07039	     	114-7039	King St	114	City of Hampton	114	City of Hampton	0.20	Rip Rap Rd	US 258 Mercury Blvd	18000	G	98%	1%	1%	0%	0%	0%	F	0.0965	F	0.7074	20000	G	2009
+636108	 114	07041	     	114-7041	Clemwood Pkwy	114	City of Hampton	114	City of Hampton	0.79	SR 169 Fox Hill Rd	Little Back River Rd	3100	G	96%	1%	2%	0%	0%	0%	C	0.1029	F	0.6358	3400	G	2009
+636074	 114	07045	     	114-7045	Little Back River Rd	114	City of Hampton	114	City of Hampton	0.78	SR 278 King St	Clemwood Pkwy	14000	G	98%	1%	1%	0%	0%	0%	F	0.0988	F	0.6760	15000	G	2009
+636154	 114	07045	     	114-7045	Little Back River Rd	114	City of Hampton	114	City of Hampton	0.34	Clemwood Pkwy	Rockwell Rd	9600	G	98%	1%	1%	0%	0%	0%	C	0.0981	F	0.6700	10000	G	2009
+636113	 114	07045	     	114-7045	Little Back River Rd	114	City of Hampton	114	City of Hampton	0.84	Rockwell Rd	Harris Creek Rd	5800	G	98%	1%	1%	0%	0%	0%	F	0.1033	F	0.6820	6300	G	2009
+636107	 114	07047	     	114-7047	Beach Rd	114	City of Hampton	114	City of Hampton	2.76	SR 169 Fox Hill Rd	Lighthouse Dr	5400	G	98%	1%	1%	0%	0%	0%	C	0.1283	F	0.6424	5800	G	2009
+636103	 114	07049	     	114-7049	Woodland Rd	114	City of Hampton	114	City of Hampton	0.35	County St West	US 258 Mercury Blvd	16000	G	97%	1%	1%	0%	1%	0%	C	0.0913	F	0.7903	18000	G	2009
+636197	 114	07049	     	114-7049	Woodland Rd	114	City of Hampton	114	City of Hampton	0.45	US 258 Mercury Blvd	SR 351 Pembroke Ave	13000	G	98%	1%	0%	0%	0%	0%	F	0.0854	F	0.6358	14000	G	2009
+636198	 114	07049	     	114-7049	Woodland Rd	114	City of Hampton	114	City of Hampton	0.62	SR 35 Pembroke Ave	Andrews Blvd	9400	G	98%	1%	0%	0%	0%	0%	F	0.0925	F	0.6341	10000	G	2009
+636091	 114	07049	     	114-7049	Woodland Rd	114	City of Hampton	114	City of Hampton	1.20	Andrews Blvd	SR 169 Fox Hill Rd	8900	G	98%	1%	0%	0%	0%	0%	C	0.1123	F	0.5099	9700	G	2009
+636158	 114	07051	     	114-7051	Old Buckroe Rd	114	City of Hampton	114	City of Hampton	1.50	US 258 Mercury Blvd	SR 351 Pembroke Ave	3700	G	98%	1%	0%	0%	0%	0%	C	0.0934	F	0.6138	4000	G	2009
+636105	 114	07053	     	114-7053	Andrews Blvd	114	City of Hampton	114	City of Hampton	0.53	US 258 Mercury Blvd	Woodland Rd	12000	G	98%	1%	0%	0%	0%	0%	C	0.0946	F	0.5886	13000	G	2009
+636148	 114	07053	     	114-7053	Andrews Blvd	114	City of Hampton	114	City of Hampton	1.38	Woodland Rd	SR 169 Old Buckroe Rd	5200	G	97%	2%	1%	0%	0%	0%	C	0.0958	F	0.5714	5600	G	2009
+636132	 114	07055	     	114-7055	Harris Creek Rd	114	City of Hampton	114	City of Hampton	0.82	SR 169 Fox Hill Rd	Little Back River Rd	3100	G	97%	2%	1%	0%	0%	0%	C	0.1046	F	0.6199	3300	G	2009
+636133	 114	07055	     	114-7055	Harris Creek Rd	114	City of Hampton	114	City of Hampton	0.42	Little Back River Rd	Farmhouse Lane	2600	G	97%	2%	1%	0%	0%	0%	F	0.0975	F	0.5699	2900	G	2009
+781653	 114	07057	     	114-7057	Mallory St	114	City of Hampton	114	City of Hampton	0.36	I-64-E Ramp	SR 143 Mellen St	13000	G	97%	1%	1%	0%	1%	0%	F	0.0831	F	0.7563	14000	G	2009
+636164	 114	07059	     	114-7059	Powhatan Pkwy	114	City of Hampton	114	City of Hampton	0.33	Chesapeake Ave	US 60 Kecoughtan Rd	710	G	99%	0%	0%	0%	0%	0%	C	0.0918	F	0.5616	770	G	2009
+636199	 114	07059	     	114-7059	Powhatan Pkwy	114	City of Hampton	114	City of Hampton	0.24	US 60 Kecoughtan Rd	SR 143 Victoria Blvd	4500	G	99%	0%	0%	0%	0%	0%	F	0.0896	F	0.5585	4800	G	2009
+636001	 114	07059	     	114-7059	Powhatan Pkwy	114	City of Hampton	114	City of Hampton	0.56	SR 143 Victoria Blvd	SR 351 Pembroke Ave	9800	G	97%	2%	1%	0%	0%	0%	C	0.0835	F	0.5241	11000	G	2009
+636180	 114	07059	     	114-7059	Powhatan Pkwy	114	City of Hampton	114	City of Hampton	0.16	SR 351 Pembroke Ave	I-664	22000	G	97%	2%	1%	0%	0%	0%	F	0.0823	F	0.5963	24000	G	2009
+636181	 114	07059	     	114-7059	Power Plant Pkwy	114	City of Hampton	114	City of Hampton	0.76	I-664	Briarfield Rd	14000	G							X	0.0875	F	0.5210	15000	G	2009
+536021	 114	00000	     	114-0	2nd St	114	City of Hampton	114	City of Hampton	0.00	SR 351 Pembroke Ave	Buckroe Ave	610	G							X	0.1068	F	0.0000	660	G	2009
+536002	 114	00000	     	114-0	Aberdeen Rd	114	City of Hampton	114	City of Hampton	0.00	SR 351 Pembroke Ave	I-664	19000	G							X				20000	G	2009
+536036	 114	00000	     	114-0	Armistead Ave	114	City of Hampton	114	City of Hampton	0.00	SR 143 Victoria Blvd	Settlers Landing Rd	2500	G							X	0.0872	F	0.5265	2700	G	2009
+536020	 114	00000	     	114-0	Bellwood Rd	114	City of Hampton	114	City of Hampton	0.00	SR 152 Todds Lane	ECL Newport News	1400	G							X	0.0879	F	0.5676	1600	G	2009
+536043	 114	00000	     	114-0	Brightwood Ave	114	City of Hampton	114	City of Hampton	0.00	Fairfax Dr	Lauderdale Ave	770	G							X				770	G	2009
+536016	 114	00000	     	114-0	Catesby Jones Dr	114	City of Hampton	114	City of Hampton	0.00	Worden Ave	Eggleston Ave	420	G							X	0.1096	F	0.7320	460	G	2009
+536004	 114	00000	     	114-0	Coliseum Dr	114	City of Hampton	114	City of Hampton	0.00	Pine Chapel Rd	US 258 Mercury Blvd	8300	G							X	0.0844	F	0.5020	9000	G	2009
+536005	 114	00000	     	114-0	Coliseum Dr	114	City of Hampton	114	City of Hampton	0.00	US 258 Mercury Blvd	SR 152 Cunningham Dr	21000	G							X				23000	G	2009
+536006	 114	00000	     	114-0	Coliseum Dr	114	City of Hampton	114	City of Hampton	0.00	SR 152 Cunningham Dr	Marcella Rd	20000	G							X				22000	G	2009
+536007	 114	00000	     	114-0	Coliseum Dr	114	City of Hampton	114	City of Hampton	0.00	Marcella Rd	0.40 MN Of Marcella Rd	21000	G							X				23000	G	2009
+536008	 114	00000	     	114-0	Coliseum Dr	114	City of Hampton	114	City of Hampton	0.00	0.40 MN of Marcella Rd	Hampton Rds Ctr Pkwy	18000	G							X				19000	G	2009
+536012	 114	00000	     	114-0	Elizabeth Lake Dr	114	City of Hampton	114	City of Hampton	0.00	Eltham Ct	Club Run Blvd	2700	G							X	0.1245	F	0.0000	2900	G	2009
+536031	 114	00000	     	114-0	Farmington Blvd	114	City of Hampton	114	City of Hampton	0.00	Woodlawn Dr	Templewood Dr	3300	G							X	0.0953	F	0.6606	3600	G	2009
+536003	 114	00000	     	114-0	Fox Grove Dr	114	City of Hampton	114	City of Hampton	0.00	Old Buckroe Rd	Revere Dr	780	G							X				780	G	2009
+536042	 114	00000	     	114-0	Grimes Rd	114	City of Hampton	114	City of Hampton	0.00	Hurst Dr	Canavan Dr	1800	G							X				1800	G	2009
+536035	 114	00000	     	114-0	Hall Rd	114	City of Hampton	114	City of Hampton	0.00	Beach Rd	Emma Dr	700	G							X	0.1107	F	0.6316	750	G	2009
+536037	 114	00000	     	114-0	Hall Rd	114	City of Hampton	114	City of Hampton	0.00	Oldenburg Lane	Edmonds Cove	640	G							X				640	G	2009
+536024	 114	00000	     	114-0	Harris Creek Rd	114	City of Hampton	114	City of Hampton	0.00	Farmhouse Lane	Pacer Point	770	G							X	0.1130	F	0.6374	830	G	2009
+536015	 114	00000	     	114-0	Ivy Home Rd	114	City of Hampton	114	City of Hampton	0.00	Somerset Lane	Pratt St	2900	G							X	0.1032	F	0.5327	3100	G	2009
+536030	 114	00000	     	114-0	Kingsway	114	City of Hampton	114	City of Hampton	0.00	SR 351 Pembroke Ave	Lincoln St	4100	G							X				4500	G	2009
+536028	 114	00000	     	114-0	Lassiter St	114	City of Hampton	114	City of Hampton	0.00	Martha Lee Dr	Freda Ct	2500	G							X	0.0846	F	0.5262	2700	G	2009
+536039	 114	00000	     	114-0	Lewis Dr	114	City of Hampton	114	City of Hampton	0.00	Aspenwood Dr	Hickory Hill Rd	1200	G							X				1200	G	2009
+536014	 114	00000	     	114-0	Lincoln St	114	City of Hampton	114	City of Hampton	0.00	North King St	Franklin St	6400	G							X	0.0951	F	0.5244	6900	G	2009
+536017	 114	00000	     	114-0	Macon Rd	114	City of Hampton	114	City of Hampton	0.00	Florence Dr	Roberta Dr	890	G							X	0.1168	F	0.5085	960	G	2009
+536018	 114	00000	     	114-0	Martha Lee Dr	114	City of Hampton	114	City of Hampton	0.00	Roberta Dr	Pecan Rd	1300	G							X	0.1087	F	0.6387	1400	G	2009
+536040	 114	00000	     	114-0	Michaels Wood Dr	114	City of Hampton	114	City of Hampton	0.00	Rollingwood Rd	Jimmy Ct	5200	G							X				5200	G	2009
+536010	 114	00000	     	114-0	Newton Rd	114	City of Hampton	114	City of Hampton	0.00	Rawood Dr	Gurley Ct	920	G							X	0.1052	F	0.5773	1000	G	2009
+536029	 114	00000	     	114-0	Queen St	114	City of Hampton	114	City of Hampton	0.00	Armistead Ave	Stewart St	1700	G							X	0.1968	F	0.8117	1800	G	2009
+536032	 114	00000	     	114-0	Salters Creek Rd	114	City of Hampton	114	City of Hampton	0.00	Queen St	Powhatan Pkwy	1700	G							X	0.0973	F	0.5127	1900	G	2009
+536011	 114	00000	     	114-0	Seward Dr	114	City of Hampton	114	City of Hampton	0.00	Beall Dr	Winfree Rd	1100	G							X	0.1866	F	0.7553	1200	G	2009
+536026	 114	00000	     	114-0	Shell Rd	114	City of Hampton	114	City of Hampton	0.00	WCL Hampton	Maple Ave	610	G							X	0.0818	F	0.6726	660	G	2009
+536033	 114	00000	     	114-0	Silver Isle Blvd	114	City of Hampton	114	City of Hampton	0.00	Revere Dr	Glenhaven Dr	4400	G							X	0.0991	F	0.0000	4700	G	2009
+536044	 114	00000	     	114-0	Smiley Rd	114	City of Hampton	114	City of Hampton	0.00	Pembroke Ave	Fordham Lane	630	G							X				630	G	2009
+536009	 114	00000	     	114-0	Stockton St	114	City of Hampton	114	City of Hampton	0.00	Nathan St	Fairfield Blvd	350	G	95%	4%	1%	0%	0%	0%	C	0.1536	F	0.6491	380	G	2009
+536019	 114	00000	     	114-0	Warner Rd	114	City of Hampton	114	City of Hampton	0.00	Todds Lane	0.20 MS of Todds Lane	190	G							X	0.1108	F	0.5106	200	G	2009
+536041	 114	00000	     	114-0	Westbrook Dr	114	City of Hampton	114	City of Hampton	0.00	Blackmore Place	Armistead Ave N	490	G							X				490	G	2009
+536038	 114	00000	     	114-0	Wilderness Rd	114	City of Hampton	114	City of Hampton	0.00	Willow Oaks Blvd	Rapidan Rd	420	G							X				420	G	2009
+536034	 114	00000	     	114-0	Willard Ave S	114	City of Hampton	114	City of Hampton	0.00	Howard St	Mellon St	560	G							X	0.1208	F	0.6405	600	G	2009
+536013	 114	00000	     	114-0	Willow Oaks Blvd	114	City of Hampton	114	City of Hampton	0.00	Missionary Bridge	Beauregard Hgts	3200	G							X	0.1203	F	0.5767	3500	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

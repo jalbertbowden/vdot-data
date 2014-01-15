@@ -1,0 +1,23 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Surry																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050387	  SR	00010	     		Colonial Trail	308	Town of Surry	090	Surry County	0.57	SCL Surry	N SR 31	4300	N	93%	0%	1%	1%	5%	0%	N	0.0894	N	0.5588	4500	N	2009
+050061	  SR	00010	     	VA 10	Colonial Trail	308	Town of Surry	090	Surry County	0.72	N SR 31	ECL Surry	4800	F	93%	0%	1%	1%	5%	0%	F	0.0929	F	0.5030	5000	F	2009
+050387	  SR	00031	     		Colonial Trail	308	Town of Surry	090	Surry County	0.57	SCL Surry	N SR 10	4300	N	93%	0%	1%	1%	5%	0%	N	0.0894	N	0.5588	4500	N	2009	
+050032	  SR	00031	     	VA 31	Rolfe Hwy	308	Town of Surry	090	Surry County	0.41	SR 10 N, Colonial Trail	NCL Surry	2000	F	97%	1%	0%	1%	0%	0%	C	0.1053	F	0.6479	2000	F	2009
+403961	  90	00626	     	90-626	Beachland Rd	308	Town of Surry	090	Surry County	0.35	SCL Surry	SR 10 S, Colonial Trail	400	R							X	0.1148	N	0.6545			11/26/2000
+400118	  90	00626	     	90-626	Lebanon Rd	308	Town of Surry	090	Surry County	0.42	SR 10 N, Colonial Trail	NCL Surry	1600	F	99%	0%	0%	0%	0%	0%	C	0.1070	F	0.6379	1700	F	2009
+775243	  90	01001	     	90-1001	Bank St	308	Town of Surry	090	Surry County	0.11	90-626 Beachland Rd	90-1002 School St	360	R							X						02/21/2006
+775244	  90	01001	     	90-1001	Bank St	308	Town of Surry	090	Surry County	0.32	90-1002 School St	SR 10 Colonial Trail	780	R							X						03/02/2006
+775245	  90	01002	     	90-1002	School St	308	Town of Surry	090	Surry County	0.14	SR 10 Colonial Trail	90-1001 Bank St	490	R							X						02/28/2006
+775246	  90	01002	     	90-1002	School St	308	Town of Surry	090	Surry County	0.23	90-1001 Bank St	Dead End	30	R							X						02/22/2006
+775247	  90	01003	     	90-1003	Church St	308	Town of Surry	090	Surry County	0.14	90-1002 School St	90-1004 Oak St	110	R							X						02/28/2006
+775248	  90	01003	     	90-1003	Church St	308	Town of Surry	090	Surry County	0.07	90-1004 Oak St	90-1005 Academy St	20	R							X						02/28/2006
+775249	  90	01003	     	90-1003	Church St	308	Town of Surry	090	Surry County	0.07	90-1005 Academy St	SR 10 Colonial Trail	120	R							X						02/28/2006
+775250	  90	01004	     	90-1004	Oak St	308	Town of Surry	090	Surry County	0.03	SR 10 Colonial Trail	90-1003 Church St	40	R							X						02/28/2006
+796365	  90	01006	     	90-1006	 	308	Town of Surry	090	Surry County	0.09	SR 10 Colonial Trail	Cul-de-Sac	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

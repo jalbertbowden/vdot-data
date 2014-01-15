@@ -1,0 +1,48 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Blackstone																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+608017	  SR	00040	     	VA 40	South Main St	142	Town of Blackstone	142	Town of Blackstone	0.18	SCL Blackstone	SR 46 Brunswick Rd	3300	G	94%	1%	1%	1%	3%	0%	C	0.0946	F	0.6591	3600	G	2009
+608018	  SR	00040	     	VA 40	South Main St	142	Town of Blackstone	142	Town of Blackstone	0.57	SR 46 Brunswick Rd	Tenth St	9700	G	96%	0%	1%	0%	3%	0%	C	0.1001	F	0.0000	10000	G	2009
+608019	  SR	00040	     	VA 40	South Main St	142	Town of Blackstone	142	Town of Blackstone	0.21	Tenth St	West Entrance Rd	9400	G	96%	0%	1%	0%	3%	0%	C	0.0989	F	0.0000	10000	G	2009
+608020	  SR	00040	     	VA 40	South Main St	142	Town of Blackstone	142	Town of Blackstone	0.47	West Entrance Rd	Bus US 460 Church St	7600	G	95%	1%	1%	1%	3%	0%	C	0.0945	F	0.0000	8100	G	2009
+608013	  SR	00040	     		North Main St	142	Town of Blackstone	142	Town of Blackstone	0.59	Church St	Dinwiddie Ave	6100	G	93%	1%	2%	1%	3%	0%	C	0.0890	F	0.0000	6600	G	2009	
+608010	  SR	00040	     	VA 40	Dinwiddie Ave	142	Town of Blackstone	142	Town of Blackstone	0.53	Bus US 460, North Main St	ECL Blackstone	1800	G	92%	0%	1%	3%	4%	0%	C	0.1152	F	0.5726	2000	G	2009
+608026	  SR	00046	     	VA 46	Brunswick Rd	142	Town of Blackstone	142	Town of Blackstone	0.15	SCL Blackstone	SR 40 South Main St	2000	G	91%	1%	1%	1%	6%	0%	C	0.0889	F	0.5845	2200	G	2009
+608007	C2US	00460	     	Bus US 460	Church St	142	Town of Blackstone	142	Town of Blackstone	0.44	WCL Blackstone	Amelia Ave	3400	G	94%	1%	1%	0%	3%	0%	C	0.0986	F	0.5214	3600	G	2009
+608008	C2US	00460	     	Bus US 460	Church St	142	Town of Blackstone	142	Town of Blackstone	0.74	Amelia Ave	SR 40 South Main St	4800	G	95%	1%	1%	0%	3%	0%	C	0.0995	F	0.0000	5100	G	2009
+608013	C2US	00460	     		North Main St	142	Town of Blackstone	142	Town of Blackstone	0.59	Elm St	Dinwiddie Ave	6100	G	93%	1%	2%	1%	3%	0%	C	0.0890	F	0.0000	6600	G	2009
+608014	C2US	00460	     	Bus US 460	North Main St	142	Town of Blackstone	142	Town of Blackstone	0.14	SR 40 Dinwiddie St	Division St	5300	G	94%	1%	1%	1%	3%	0%	C	0.0969	F	0.0000	5600	G	2009
+608015	C2US	00460	     	Bus US 460	North Main St	142	Town of Blackstone	142	Town of Blackstone	0.37	Division St	Barco Rd	5200	G	93%	1%	2%	1%	3%	0%	F	0.0976	F	0.5184	5600	G	2009
+608016	C2US	00460	     	Bus US 460	North Main St	142	Town of Blackstone	142	Town of Blackstone	0.56	Barco Rd	ECL Blackstone	3500	G	93%	1%	1%	1%	3%	0%	C	0.0974	F	0.5406	3800	G	2009
+793916	  67	01103	     	67-1103	 	142	Town of Blackstone	067	Nottoway County	0.32	Dead End	142-9 Tenth St; WCL Blackstone	110	R							X						08/28/2008
+608003	 142	00001	     	142-1	Amelia Ave	142	Town of Blackstone	142	Town of Blackstone	0.21	Nottoway Ave	Church St	1200	G	98%	1%	1%	0%	0%	0%	C	0.1090	F	0.5063	1300	G	2009
+608002	 142	00001	     	142-1	Amelia Ave	142	Town of Blackstone	142	Town of Blackstone	0.21	Fourth St	Church St	650	G	99%	0%	0%	0%	0%	0%	C	0.1179	F	0.6629	690	G	2009
+608004	 142	00002	     	142-2	Brown St	142	Town of Blackstone	142	Town of Blackstone	0.24	Church St	Nottoway Ave	3300	G	98%	1%	1%	0%	0%	0%	C	0.0999	F	0.0000	3600	G	2009
+608005	 142	00002	     	142-2	Brown St	142	Town of Blackstone	142	Town of Blackstone	0.04	Nottoway Ave	Broad St	2300	G	98%	1%	1%	0%	1%	0%	C	0.0878	F	0.5460	2400	G	2009
+608006	 142	00002	     	142-2	Brown St	142	Town of Blackstone	142	Town of Blackstone	0.33	Broad St	Division St	1000	G	97%	1%	1%	0%	0%	0%	C	0.0957	F	0.5862	1100	G	2009
+608009	 142	00003	     	142-3	College Ave	142	Town of Blackstone	142	Town of Blackstone	0.55	Beach Cliff Rd	Tenth St	270	G	98%	0%	2%	0%	0%	0%	C	0.1479	F	0.5000	290	G	2009
+608011	 142	00004	     	142-4	Division St	142	Town of Blackstone	142	Town of Blackstone	0.06	Brown St	North Main St	860	G	96%	1%	3%	0%	1%	0%	C	0.0999	F	0.6535	920	G	2009
+608012	 142	00005	     	142-5	Fourth St	142	Town of Blackstone	142	Town of Blackstone	0.11	South Freeman St	Amelia Ave	980	G	92%	3%	4%	0%	1%	0%	C	0.1117	F	0.6189	1000	G	2009
+781830	 142	00006	     	142-6	S Freeman St	142	Town of Blackstone	142	Town of Blackstone	0.19	JB-67-142 SCL Blackstone	Fourth Street	960	G	98%	1%	1%	0%	0%	0%	F	0.1161	F	0.6554	1000	G	2009
+781831	 142	00007	     	142-7	Nottoway Ave	142	Town of Blackstone	142	Town of Blackstone	0.47	67-665 Cole Harbor Rd; WCL Blackstone	Maben Ave	590	G	96%	1%	1%	1%	1%	0%	C	0.1055	F	0.5195	640	G	2009
+795933	 142	00007	     	142-7	Nottoway Ave	142	Town of Blackstone	142	Town of Blackstone	0.46	Maben Ave	Courthouse Rd	1100	G	97%	1%	1%	1%	1%	0%	C	0.1047	F	0.5704	1200	G	2009
+608025	 142	00008	     	142-8	Ridge Rd	142	Town of Blackstone	142	Town of Blackstone	0.40	SCL Blackstone	West Entrance Rd	960	G	97%	1%	1%	0%	0%	0%	C	0.2070	F	0.8824	1000	G	2009
+783039	 142	00009	     	142-9	Tenth St	142	Town of Blackstone	142	Town of Blackstone	0.81	Dead End	College Ave	100	G	99%	0%	1%	0%	0%	0%	F	0.1622	F	0.5000	110	G	2009
+608027	 142	00009	     	142-9	Tenth St	142	Town of Blackstone	142	Town of Blackstone	0.33	College Ave	SR 40 South Main St	880	G	99%	0%	1%	0%	0%	0%	C	0.1242	F	0.5500	940	G	2009
+608001	 142	00010	     	142-10	Barco Rd	142	Town of Blackstone	142	Town of Blackstone	0.20	Cottage Rd Rt 606	US 460 BUS N. Main St	1700	G	96%	0%	1%	0%	2%	0%	C	0.0871	F	0.5708	1900	G	2009
+608028	 142	00591	     	142-591	West Entrance Rd	142	Town of Blackstone	142	Town of Blackstone	0.22	South Main St	Lester St	3000	G	98%	1%	1%	0%	0%	0%	C	0.1178	F	0.0000	3200	G	2009
+608029	 142	00591	     	142-591	West Entrance Rd	142	Town of Blackstone	142	Town of Blackstone	0.15	Lester St	ECL Blackstone	1600	G	98%	1%	0%	0%	0%	0%	C	0.1330	F	0.5767	1700	G	2009
+608021	 142	00592	     	142-592	Courthouse Rd	142	Town of Blackstone	142	Town of Blackstone	0.83	WCL Blackstone	Nottoway Ave	510	G	99%	1%	0%	0%	0%	0%	C	0.1250	F	0.5139	540	G	2009
+608022	 142	00592	     	142-592	Nottoway Ave	142	Town of Blackstone	142	Town of Blackstone	0.07	Courthouse Rd	Fort Ave	1700	G	98%	1%	0%	0%	0%	0%	C	0.1019	F	0.6709	1800	G	2009
+608024	 142	00592	     	142-592	Nottoway Ave	142	Town of Blackstone	142	Town of Blackstone	0.22	Fort Ave	Brown St	1800	G	98%	1%	0%	1%	0%	0%	C	0.1013	F	0.0000	1900	G	2009
+781832	 142	00592	     	142-592	Elm St	142	Town of Blackstone	142	Town of Blackstone	0.09	Brown St	Bus US 460	740	G	98%	1%	0%	1%	0%	0%	F	0.1284	F	0.5840	790	G	2009
+608030	 142	01584	     	142-1584	North West Ave	142	Town of Blackstone	142	Town of Blackstone	1.82	Nottoway Ave	SCL Blackstone	2900	G	94%	1%	1%	2%	3%	0%	C	0.0937	F	0.5508	3100	G	2009
+793616	 142	00000	     	142-0	8th St	142	Town of Blackstone	142	Town of Blackstone	0.00	Lunenburg Ave	SR 40 Main St	440	G	97%	2%	1%	0%	0%	0%	C	0.1239	F	0.0000	440	G	2009
+788270	 142	00000	     	142-0	Bird St	142	Town of Blackstone	142	Town of Blackstone	0.00	Courthhouse Rd	Thomas Lane	100	G							X	0.1667	F	0.7143	100	G	2009
+788269	 142	00000	     	142-0	Lester St	142	Town of Blackstone	142	Town of Blackstone	0.00	West Entrance Rd	Birch Street	450	G							X	0.1464	F	0.5571	450	G	2009
+793617	 142	00000	     	142-0	Lunenburg Avenue	142	Town of Blackstone	142	Town of Blackstone	0.00	4th St	BUS US 460 Church St	1000	G	99%	0%	1%	0%	0%	0%	C	0.1079	F	0.5179	1000	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

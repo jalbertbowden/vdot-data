@@ -1,0 +1,18 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Mount Crawford																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080590	  US	00011	     	US 11	Lee Highway	264	Town of Mount Crawford	082	Rockingham County	0.92	SCL Mt Crawford	82-919 Parsons Court	5400	N	96%	0%	1%	1%	2%	0%	N	0.0980	N	0.6827	5600	N	2009
+080439	  US	00011	     	US 11	Lee Highway	264	Town of Mount Crawford	082	Rockingham County	0.20	82-919 Parsons Court	NCL Mt Crawford	6700	F	96%	0%	1%	1%	2%	0%	F	0.0914	F	0.6258	6800	F	2009
+402824	  82	00867	     	82-867	North River Rd	264	Town of Mount Crawford	082	Rockingham County	0.37	WCL Mt Crawford	US 11 Lee Highway	690	F	96%	0%	0%	0%	3%	0%	C	0.1028	F	0.6447	720	F	2009
+402825	  82	00867	     	82-867	North River Rd	264	Town of Mount Crawford	082	Rockingham County	0.20	US 11 Lee Highway	ECL Mt Crawford	920	F	86%	0%	2%	9%	3%	0%	C	0.1378	F	0.7068	960	F	2009
+768662	  82	00918	     	82-918	Mill St	264	Town of Mount Crawford	082	Rockingham County	0.25	US 11 Lee Highway	82-867 North River Rd	90	R							X						03/12/2009
+768663	  82	00919	     	82-919	Parsons Court	264	Town of Mount Crawford	082	Rockingham County	0.05	US 11 Lee Highway	ECL Mt Crawford	80	R							X						03/12/2009
+786757	  82	01023	     	82-1023	Angler Landing	264	Town of Mount Crawford	082	Rockingham County	0.06	82-1024 Transom Court	82-867 North River Rd	120	R							X						03/12/2009
+786758	  82	01024	     	82-1024	Transom Court	264	Town of Mount Crawford	082	Rockingham County	0.10	Cul-de-Sac	Cul-de-Sac	90	R							X						03/12/2009
+793402	  82	01063	     	82-1063	 	264	Town of Mount Crawford	082	Rockingham County	0.28	Cul-de-Sac	US 11	580	R							X						04/10/2009
+793403	  82	01064	     	82-1064	 	264	Town of Mount Crawford	082	Rockingham County	0.18	Cul-de-Sac	82-1063	170	R							X						04/10/2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

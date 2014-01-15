@@ -1,0 +1,225 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Lynchburg																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030323	  US	00029	     		 	118	City of Lynchburg	015	Campbell County	1.13	SCL Lynchburg	Candler Mountain Rd	42000	G	93%	0%	1%	1%	4%	0%	F	0.0914	F	0.6237	43000	G	2009	
+130007	  US	00029	     		 	118	City of Lynchburg	015	Campbell County	0.44	Candler Mountain Rd	US 501	36000	G	93%	0%	1%	1%	4%	0%	F	0.0921	F	0.6156	37000	G	2009	
+030019	  US	00029	     		 	118	City of Lynchburg	015	Campbell County	2.36	US 501	US 501 Campbell Ave	36000	A	93%	0%	1%	1%	4%	0%	C	0.1060	A	0.5029	37000	A	2009	
+130015	  US	00029	     		Richmond Hwy	118	City of Lynchburg	015	Campbell County	1.90	Functional Class Change	US 29	34000	G	93%	0%	1%	1%	4%	0%	F	0.0840	F	0.5049	35000	G	2009	
+030268	  US	00029	     	US 29	 	118	City of Lynchburg	015	Campbell County	0.33	SCL Lynchburg	NCL Lynchburg	16000	G	93%	0%	0%	0%	6%	0%	F	0.0896	F	0.5303	16000	G	2009
+647204	C5US	00029	     	Bus US 29	Wards Rd	118	City of Lynchburg	118	City of Lynchburg	1.64	SCL Lynchburg	US 501; SR 163 Lynchburg Expressway	36000	G	98%	0%	1%	0%	1%	0%	F				37000	G	2009
+647804	C5US	00029	     		Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	0.34	SR 163 Wards Rd	Candler Mt Rd	40000	N	98%	0%	1%	0%	1%	0%	N				44000	N	2009
+647301	C5US	00029	     	Bus US 29	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	1.37	Candler Mt Rd	Odd Fellows Rd	40000	G	98%	0%	1%	0%	1%	0%	F				44000	G	2009
+647302	C5US	00029	     	Bus US 29	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	1.46	Odd Fellows Rd	Kemper Street	44000	G	98%	0%	1%	0%	1%	0%	F				43000	G	2009
+647304	C5US	00029	     	Bus US 29	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	1.02	Kemper Street	Main Street	39000	G	98%	0%	1%	0%	1%	0%	F				47000	G	2009
+647807	C5US	00029	     	Bus US 29	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	0.22	Main Street	Amherst County Line	25000	G	98%	0%	1%	0%	1%	0%	F	0.0914	F	0.5833	26000	G	2009
+647322	  SR	00128	     	VA 128	Candler Mt Rd	118	City of Lynchburg	118	City of Lynchburg	0.29	US 29 Bus Wards Rd	US 501 Lynchburg Exp	19000	G	89%	5%	1%	1%	4%	0%	F	0.0804	F	0.5437	21000	G	2009
+647323	  SR	00128	     		Candler Mtn Rd	118	City of Lynchburg	118	City of Lynchburg	0.40	RT 501 W	RT 501 E	41000	G							X				45000	G	2009	
+647324	  SR	00128	     	VA 128	Mayflower Dr	118	City of Lynchburg	118	City of Lynchburg	1.30	US 501 Candlers Mt Rd	Odd Fellows Rd	7900	G	89%	5%	1%	1%	4%	0%	C	0.0966	F	0.5050	8600	G	2009
+647325	  SR	00128	     	VA 128	Mayflower Dr	118	City of Lynchburg	118	City of Lynchburg	1.48	Odd Fellows Rd	US 501 Bus Campbell Ave	2000	G	96%	2%	1%	1%	0%	0%	C	0.1082	F	0.6761	2200	G	2009
+647307	  SR	00163	     	VA 163	Wards Rd	118	City of Lynchburg	118	City of Lynchburg	0.44	Bus US 29, US 501 Lynchburg Expressway	SR 128 Candler Mtn Rd	18000	G							X	0.0770	F	0.5168	20000	G	2009
+647309	  SR	00163	     	VA 163	Wards Rd	118	City of Lynchburg	118	City of Lynchburg	0.42	SR 128 Candler Mtn Rd	Bus US 460 Fort Avenue	28000	G							X	0.0742	F	0.5218	31000	G	2009
+647308	  SR	00163	     		Fort Ave	118	City of Lynchburg	118	City of Lynchburg	1.19	Wards Rd	Memorial Ave	24000	G							X				26000	G	2009
+647311	  SR	00163	     	VA 163	Memorial Ave	118	City of Lynchburg	118	City of Lynchburg	0.60	Fort Ave	Oakley Ave	9900	G	98%	0%	1%	0%	1%	0%	C	0.0782	F	0.6218	11000	G	2009
+647313	  SR	00163	     	VA 163	Memorial Ave	118	City of Lynchburg	118	City of Lynchburg	0.47	Oakley Ave	Park Ave	13000	G	98%	0%	1%	0%	1%	0%	F	0.0825	F	0.5289	14000	G	2009
+647393	  SR	00163	     	VA 163	Memorial Ave	118	City of Lynchburg	118	City of Lynchburg	0.33	Park Ave	Langhorne Rd	12000	G	98%	0%	1%	0%	1%	0%	F	0.0837	F	0.5445	13000	G	2009
+647315	  SR	00163	     	VA 163	5th St	118	City of Lynchburg	118	City of Lynchburg	0.17	Langhorne Rd	Pollard St	14000	G	98%	1%	1%	0%	0%	0%	C	0.0817	F	0.5232	15000	G	2009
+647316	  SR	00163	     	VA 163	5th St	118	City of Lynchburg	118	City of Lynchburg	0.26	Pollard St	Pierce St	14000	G	98%	0%	1%	0%	1%	0%	F	0.0816	F	0.5469	15000	G	2009
+647317	  SR	00163	     	VA 163	5th St	118	City of Lynchburg	118	City of Lynchburg	0.27	Pierce St	Park Ave	13000	G	98%	0%	1%	0%	0%	0%	F	0.0817	F	0.5374	14000	G	2009
+647318	  SR	00163	     	VA 163	5th St	118	City of Lynchburg	118	City of Lynchburg	0.38	Park Ave	Clay St	14000	G	98%	0%	1%	0%	0%	0%	F	0.0800	F	0.5378	16000	G	2009
+647501	  SR	00163	     	VA 163	5th St	118	City of Lynchburg	118	City of Lynchburg	0.57	Clay St	Amherst County Line	15000	G	98%	0%	1%	0%	0%	0%	C	0.0881	F	0.6000	17000	G	2009
+647214	  US	00221	     	US 221	Lakeside Dr	118	City of Lynchburg	118	City of Lynchburg	0.53	WCL Lynchburg	Lynchburg Expressway	26000	G	98%	0%	1%	0%	1%	0%	C	0.0893	F	0.5923	29000	G	2009
+647215	  US	00221	     	US 221	Lakeside Dr	118	City of Lynchburg	118	City of Lynchburg	0.94	Lynchburg Expressway	Forest Brook Rd	16000	G	98%	0%	1%	0%	1%	0%	F	0.0897	F	0.6235	17000	G	2009
+647216	  US	00221	     	US 221	Lakeside Dr	118	City of Lynchburg	118	City of Lynchburg	1.52	Forest Brook Rd	Old Forest Rd	13000	G	98%	0%	1%	0%	1%	0%	F	0.0889	F	0.5562	14000	G	2009
+647314	  US	00221	     	US 221	Lakeside Dr	118	City of Lynchburg	118	City of Lynchburg	0.15	Old Forest Rd	Oakley Ave	16000	G	98%	0%	1%	0%	1%	0%	F	0.0885	F	0.5880	18000	G	2009
+647329	  US	00221	     	US 221	Oakley Ave	118	City of Lynchburg	118	City of Lynchburg	0.57	Lakeside Dr	Bus US 29 Memorial Ave	9300	G	98%	0%	1%	0%	1%	0%	F	0.0968	F	0.5336	10000	G	2009
+647330	  US	00221	     	US 221	Oakley Ave	118	City of Lynchburg	118	City of Lynchburg	0.24	Memorial Ave	Bus US 460 Fort Ave	13000	G	98%	0%	1%	0%	1%	0%	F				14000	G	2009
+781555	  US	00221	     		Fort Ave	118	City of Lynchburg	118	City of Lynchburg	0.42	Bus US 460 Oakley Ave	118-6029 Fort Ave	10000	G	97%	1%	1%	0%	1%	0%	C	0.0922	F	0.5591	11000	G	2009
+788871	  US	00221	     		12th St	118	City of Lynchburg	118	City of Lynchburg	0.25	118-6029 Fort Ave	Bus US 501 Campbell Ave	10000	N	97%	1%	1%	0%	1%	0%	N	0.0922	N	0.5591	11000	N	2009
+781966	  US	00221	     		12th St	118	City of Lynchburg	118	City of Lynchburg	0.18	Bus US 501 Campbell Ave	Kemper St	7200	G	96%	1%	2%	0%	1%	0%	F	0.0992	F	0.5396	7800	G	2009
+647335	  US	00221	     		Kemper St	118	City of Lynchburg	118	City of Lynchburg	0.41	12th Street	US 29 Lynchburg Expressway	11000	G	96%	1%	2%	0%	1%	0%	C	0.0870	F	0.6308	12000	G	2009
+030323	  US	00460	     		 	118	City of Lynchburg	015	Campbell County	1.13	SCL Lynchburg	Candler Mountain Rd	42000	G	93%	0%	1%	1%	4%	0%	F	0.0914	F	0.6237	43000	G	2009
+130007	  US	00460	     		 	118	City of Lynchburg	015	Campbell County	0.44	Candler Mountain Rd	US 501	36000	G	93%	0%	1%	1%	4%	0%	F	0.0921	F	0.6156	37000	G	2009
+030019	  US	00460	     		 	118	City of Lynchburg	015	Campbell County	2.36	US 501	Bus US 501; US 501 Campbell Ave	36000	A	93%	0%	1%	1%	4%	0%	C	0.1060	A	0.5029	37000	A	2009
+130015	  US	00460	     		Richmond Hwy	118	City of Lynchburg	015	Campbell County	1.90	Functional Class Change	US 29	34000	G	93%	0%	1%	1%	4%	0%	F	0.0840	F	0.5049	35000	G	2009
+130010	  US	00460	     	US 460	Richmond Hwy	118	City of Lynchburg	015	Campbell County	0.11	US 29	ECL Lynchburg	26000	N	94%	0%	1%	1%	4%	0%	N				22000	N	2009
+647555	CBUS	00460	     	Bus US 460	Timberlake Rd	118	City of Lynchburg	118	City of Lynchburg	0.62	WCL Lynchburg	Old Graves Mill Rd	31000	G	98%	0%	0%	0%	1%	0%	F				33000	G	2009
+647211	CBUS	00460	     	Bus US 460	Timberlake Rd	118	City of Lynchburg	118	City of Lynchburg	1.14	Old Graves Mill Rd	Leesville Rd	24000	G	98%	0%	0%	0%	1%	0%	F	0.0908	F	0.5355	25000	G	2009
+647212	CBUS	00460	     	Bus US 460	Timberlake Rd	118	City of Lynchburg	118	City of Lynchburg	0.37	Leesville Rd	US 501 Lynchburg Expressway	30000	G	98%	0%	0%	0%	1%	0%	F	0.0906	F	0.5715	32000	G	2009
+647321	CBUS	00460	     	Bus US 460	Fort Ave	118	City of Lynchburg	118	City of Lynchburg	1.15	US 501 Lynchburg Expressway	Bus US 29 Wards Rd	17000	G	98%	0%	0%	0%	1%	0%	F	0.0864	F	0.5746	18000	G	2009
+647308	CBUS	00460	     		Fort Ave	118	City of Lynchburg	118	City of Lynchburg	1.19	Wards Rd	Memorial Ave	24000	G							X				26000	G	2009	
+781912	CBUS	00460	     	Bus US 460	Fort Ave	118	City of Lynchburg	118	City of Lynchburg	0.57	Bus US 29 Memorial Ave	US 221 Oakley Ave	25000	G	98%	0%	0%	0%	1%	0%	F				26000	G	2009
+781555	CBUS	00460	     		Fort Ave	118	City of Lynchburg	118	City of Lynchburg	0.42	US 221 Oakley Ave	118-6029 Fort Ave	10000	G	97%	1%	1%	0%	1%	0%	C	0.0922	F	0.5591	11000	G	2009	
+788871	CBUS	00460	     		12th St	118	City of Lynchburg	118	City of Lynchburg	0.25	118-6029 Fort Ave	Bus US 501 Campbell Ave	10000	N	97%	1%	1%	0%	1%	0%	N	0.0922	N	0.5591	11000	N	2009	
+781966	CBUS	00460	     		12th St	118	City of Lynchburg	118	City of Lynchburg	0.18	Bus US 501 Campbell Ave	Kemper St	7200	G	96%	1%	2%	0%	1%	0%	F	0.0992	F	0.5396	7800	G	2009	
+647335	CBUS	00460	     		Kemper St	118	City of Lynchburg	118	City of Lynchburg	0.41	12th Street	Bus US 29 Lynchburg Expressway	11000	G	96%	1%	2%	0%	1%	0%	C	0.0870	F	0.6308	12000	G	2009	
+647336	CBUS	00460	     		Kemper St	118	City of Lynchburg	118	City of Lynchburg	0.34	US 29 Lynchburg Expressway	Campbell Ave	10000	G	97%	1%	1%	0%	1%	0%	F	0.1008	F	0.6229	11000	G	2009	
+647337	CBUS	00460	     		Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.88	Kemper St	Mayflower Dr	17000	G	97%	1%	1%	0%	1%	0%	C	0.0999	F	0.6599	18000	G	2009	
+647338	CBUS	00460	     		Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.48	Mayflower Dr	Florida Ave	16000	G	97%	1%	1%	0%	1%	0%	F	0.1035	F	0.6334	17000	G	2009	
+647339	CBUS	00460	     		Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.23	Florida Ave	US 460 Richmond Hwy	17000	G	97%	1%	1%	0%	1%	0%	F	0.0988	F	0.6542	19000	G	2009	
+647221	  US	00501	     	US 501	Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.99	SCL Lynchburg	US 460	12000	G	97%	0%	1%	0%	1%	0%	F	0.0981	F	0.6753	13000	G	2009
+030019	  US	00501	     		 	118	City of Lynchburg	015	Campbell County	2.36	US 460	US 501	36000	A	93%	0%	1%	1%	4%	0%	C	0.1060	A	0.5029	37000	A	2009	
+647419	  US	00501	     	US 501	 	118	City of Lynchburg	118	City of Lynchburg	0.59	US 460 Lynchburg Hwy	SR 128 Mayflower Dr	30000	G							X				33000	G	2009
+647323	  US	00501	     		Candler Mtn Rd	118	City of Lynchburg	118	City of Lynchburg	0.40	SR 128 Mayflower Dr	US 29 Lynchburg Expressway	41000	G							X				45000	G	2009
+647804	  US	00501	     		Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	0.34	US 29 Lynchburg Expressway	Wards Rd Exit	40000	N	98%	0%	1%	0%	1%	0%	N				44000	N	2009	
+647213	  US	00501	     	US 501	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	1.51	Wards Rd Exit	Timberlake Rd	42000	G	98%	0%	0%	0%	1%	0%	F				6400	G	2009
+647206	  US	00501	     	US 501	Lynchburg Expressway Ext	118	City of Lynchburg	118	City of Lynchburg	1.21	Timberlake Rd	Graves Mill Rd	49000	G							X				39000	G	2009
+647390	  US	00501	     	US 501	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	1.24	Graves Mill Rd	Lakeside Dr	32000	G							X				47000	G	2009
+647521	  US	00501	     	US 501	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	0.31	Lakeside Dr	118-6044 Old Forest Rd	15000	G							X				17000	G	2009
+647522	  US	00501	     	US 501	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	1.23	118-6044 Old Forest Rd	Wiggington Rd	13000	G							X				48000	G	2009
+647520	  US	00501	     	US 501	Lynchburg Expressway	118	City of Lynchburg	118	City of Lynchburg	1.86	Wiggington Rd	Boonsboro Rd	14000	G	96%	0%	1%	1%	2%	0%	F	0.0856	F	0.5412	15000	G	2009
+647108	  US	00501	     	US 501	Boonsboro Rd	118	City of Lynchburg	118	City of Lynchburg	1.80	Lynchburg Expressway	WCL Lynchburg	9000	G	96%	1%	1%	0%	2%	0%	C	0.0981	F	0.6163	9700	G	2009
+647339	C1US	00501	     		Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.23	US 460	Florida Ave	17000	G	97%	1%	1%	0%	1%	0%	F	0.0988	F	0.6542	19000	G	2009
+647338	C1US	00501	     		Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.48	Florida Ave	Mayflower Dr	16000	G	97%	1%	1%	0%	1%	0%	F	0.1035	F	0.6334	17000	G	2009
+647337	C1US	00501	     		Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.88	Mayflower Dr	Kemper St	17000	G	97%	1%	1%	0%	1%	0%	C	0.0999	F	0.6599	18000	G	2009
+647336	C1US	00501	     		Kemper St	118	City of Lynchburg	118	City of Lynchburg	0.34	Campbell Ave	Lynchburg Expressway	10000	G	97%	1%	1%	0%	1%	0%	F	0.1008	F	0.6229	11000	G	2009
+647335	C1US	00501	     		Kemper St	118	City of Lynchburg	118	City of Lynchburg	0.41	US 221	12TH STREET	11000	G	96%	1%	2%	0%	1%	0%	C	0.0870	F	0.6308	12000	G	2009	
+781966	C1US	00501	     		12th St	118	City of Lynchburg	118	City of Lynchburg	0.18	118-6027; 118-6031	FORT AVE	7200	G	96%	1%	2%	0%	1%	0%	F	0.0992	F	0.5396	7800	G	2009	
+647346	C1US	00501	     	Bus US 501	Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.23	Fort Ave	Park Ave	8900	G	99%	0%	0%	0%	0%	0%	F	0.0982	F	0.6342	9700	G	2009
+647345	C1US	00501	     	Bus US 501	Langhorne Rd	118	City of Lynchburg	118	City of Lynchburg	0.27	Park Ave	Memorial Ave	9400	G	98%	1%	1%	0%	0%	0%	C	0.0945	F	0.5431	10000	G	2009
+647344	C1US	00501	     	Bus US 501	Langhorne Rd	118	City of Lynchburg	118	City of Lynchburg	0.29	Memorial Ave	Murrell Rd	18000	G	98%	1%	1%	0%	0%	0%	C	0.0837	F	0.5318	19000	G	2009
+647397	C1US	00501	     	Bus US 501	Langhorne Rd	118	City of Lynchburg	118	City of Lynchburg	1.06	Murrell Rd	Hill St	13000	G	99%	0%	0%	0%	0%	0%	C	0.0979	F	0.7305	14000	G	2009
+647343	C1US	00501	     	Bus US 501	Langhorne Rd	118	City of Lynchburg	118	City of Lynchburg	0.47	Hill St	Cranehill Dr	13000	G	99%	0%	0%	0%	0%	0%	F	0.0984	F	0.7045	14000	G	2009
+647342	C1US	00501	     	Bus US 501	Langhorne Rd	118	City of Lynchburg	118	City of Lynchburg	1.37	Cranehill Dr	Rivermont Terrace	8000	G	99%	1%	0%	0%	0%	0%	C	0.0900	F	0.5150	8700	G	2009
+647811	C1US	00501	     	Bus US 501	Rivermont Terrace	118	City of Lynchburg	118	City of Lynchburg	0.25	Langhorne Rd	Rivermont Ave	5600	G	99%	1%	0%	0%	0%	0%	F	0.0720	F	0.5134	6000	G	2009
+647341	C1US	00501	     	Bus US 501	Rivermont Ave	118	City of Lynchburg	118	City of Lynchburg	0.44	Rivermont Terrace	Link Rd	15000	G	98%	0%	1%	1%	1%	0%	F	0.0850	F	0.6290	16000	G	2009
+647340	C1US	00501	     	Bus US 501	Boonsboro Rd	118	City of Lynchburg	118	City of Lynchburg	0.76	Link Rd	Trents Ferry Rd	14000	G	98%	0%	1%	1%	1%	0%	F	0.0915	F	0.6128	15000	G	2009
+647109	C1US	00501	     	Bus US 501	Boonsboro Rd	118	City of Lynchburg	118	City of Lynchburg	1.75	Trents Ferry Rd	Lynchburg Expressway	13000	G	98%	0%	1%	1%	1%	0%	C	0.0917	F	0.5380	14000	G	2009
+780730	  FR	00794	     	FR 794	Top Ridge Rd	118	City of Lynchburg	015	Campbell County	1.16	Dead End	15-837 Top Ridge Rd	20	R							X						08/22/2007
+780793	  FR	00864	     	FR 864	Brown Haven Lane	118	City of Lynchburg	015	Campbell County	0.12	Dead End	118-6033 Brown Haven Lane	10	R							X						08/14/2007
+780829	  FR	00905	     	FR 905	Memo Rd	118	City of Lynchburg	015	Campbell County	0.20	US 29; 15-758	Dead End	0	?							X
+780830	  FR	00906	     	FR 906	Liberty Mt Dr	118	City of Lynchburg	015	Campbell County	0.40	Dead End	118-6035; Ramp Fr US 460 Byp Ent To L	3100	R							X						08/22/2007
+780831	  FR	00907	     	FR 907	Liberty Mt Dr	118	City of Lynchburg	015	Campbell County	0.78	Dead End	FR-906 Liberty Mt Dr	2500	R							X						08/22/2007
+780892	  FR	00975	     	FR 975	Chetnut Creek Dr	118	City of Lynchburg	015	Campbell County	0.46	Dead End	Dead End	160	R							X						07/31/2007
+647517	 118	00001	     	118-1	Pawnee Dr	118	City of Lynchburg	118	City of Lynchburg	0.86	Long Meadow Dr	Sandusky Dr	2200	G							X	0.1457	F	0.5694	2300	G	2009
+647803	 118	00002	     	118-2	9th St	118	City of Lynchburg	118	City of Lynchburg	0.18	Church St	Jefferson St	1100	G							X	0.1262	F	0.6013	1200	G	2009
+647801	 118	00003	     	118-3	Alta Lane	118	City of Lynchburg	118	City of Lynchburg	0.85	Del Ray Circle	Wards Ferry Rd	2900	G	98%	1%	1%	0%	0%	0%	C	0.0979	F	0.5541	3100	G	2009
+781665	 118	00004	     	118-4	Del Ray Circle	118	City of Lynchburg	118	City of Lynchburg	0.16	Leesville Rd	Alta lane	3000	G	98%	1%	1%	0%	0%	0%	F	0.1018	F	0.5111	3200	G	2009
+647802	 118	00005	     	118-5	8th St	118	City of Lynchburg	118	City of Lynchburg	0.59	Park Ave	Court St	1400	G	97%	1%	2%	0%	0%	0%	C	0.0919	F	0.5542	1500	G	2009
+781666	 118	00006	     	118-6	Langhorne Rd	118	City of Lynchburg	118	City of Lynchburg	0.16	C1US 501 Rivermont Terrace	Villa Rd	2100	G	98%	1%	1%	0%	0%	0%	F	0.1037	F	0.8059	2300	G	2009
+788779	 118	00006	     	118-6	Villa Rd	118	City of Lynchburg	118	City of Lynchburg	0.12	Langhorne Rd	Rivermont Ave	2000	G	98%	1%	1%	0%	0%	0%	F	0.1033	F	0.7365	2200	G	2009
+781667	 118	00007	     	118-7	Long Meadow Dr	118	City of Lynchburg	118	City of Lynchburg	0.73	CBUS 460 Fort Ave	Pawnee Dr	2100	G							X	0.1215	F	0.5611	2200	G	2009
+781668	 118	00008	     	118-8	Sussex St	118	City of Lynchburg	118	City of Lynchburg	0.79	Perrymont Ave	Langhorne Rd	2400	G							X	0.1250	F	0.7129	2600	G	2009
+781669	 118	00009	     	118-9	University Blvd	118	City of Lynchburg	118	City of Lynchburg	0.42	Entrance to Liberty University	Candlers Mountain Rd	10000	G	94%	0%	5%	0%	0%	0%	C	0.0861	F	0.5197	11000	G	2009
+130011	 118	00010	     	118-10	Pleasant Valley Rd	118	City of Lynchburg	118	City of Lynchburg	0.52	118-6078 Concord Tpke	Urban Boundary	0	?							X
+130016	 118	00010	     	118-10	Pleasant Valley Rd	118	City of Lynchburg	118	City of Lynchburg	0.13	Urban Boundary	Functional Class Change	0	?							X
+130012	 118	00010	     	118-10	Pleasant Valley Rd	118	City of Lynchburg	118	City of Lynchburg	0.15	Functional Class Change	ECL Lynchburg; 15-817	0	?							X
+781670	 118	06001	     	118-6001	V E S Rd	118	City of Lynchburg	118	City of Lynchburg	0.92	C1US 501	Williams Rd	2800	G	95%	1%	1%	2%	1%	0%	C	0.1048	F	0.6239	3100	G	2009
+647527	 118	06002	     	118-6002	Trents Ferry Rd	118	City of Lynchburg	118	City of Lynchburg	1.88	Boonsboro Rd	Bedford County Line	1400	G	97%	1%	1%	0%	0%	0%	C	0.1044	F	0.5879	1500	G	2009
+647368	 118	06003	     	118-6003	Link Rd	118	City of Lynchburg	118	City of Lynchburg	0.78	Old Forest Rd	Cranehill Dr	7700	G	98%	1%	1%	0%	0%	0%	F	0.0895	F	0.5626	8400	G	2009
+647369	 118	06003	     	118-6003	Link Rd	118	City of Lynchburg	118	City of Lynchburg	1.32	Cranehill Rd	Rivermont Ave	6600	G	98%	1%	1%	0%	0%	0%	C	0.0875	F	0.5272	7100	G	2009
+647413	 118	06004	     	118-6004	Wiggington Rd	118	City of Lynchburg	118	City of Lynchburg	1.04	Old Forest Rd	Lynchburg Exp	3900	G	98%	1%	1%	0%	0%	0%	F	0.1038	F	0.8110	4300	G	2009
+647505	 118	06004	     	118-6004	Wiggington Rd	118	City of Lynchburg	118	City of Lynchburg	0.76	Lynchburg Exp	Chadwick Dr	3500	G	98%	1%	1%	0%	0%	0%	C	0.1081	F	0.6454	3800	G	2009
+647414	 118	06004	     	118-6004	Wiggington Rd	118	City of Lynchburg	118	City of Lynchburg	1.82	Chadwick Dr	Hawkins Mill Rd	1400	G	98%	1%	1%	0%	0%	0%	F	0.1076	F	0.7225	1500	G	2009
+647502	 118	06004	     	118-6004	Hawkins Mill Rd	118	City of Lynchburg	118	City of Lynchburg	0.36	Wiggington Rd	Coffee Rd	1700	G	97%	2%	1%	0%	0%	0%	C	0.1219	F	0.5221	1800	G	2009
+647399	 118	06004	     	118-6004	Coffee Rd	118	City of Lynchburg	118	City of Lynchburg	0.89	Hawkins Mill Rd	Walnut Hollow Rd	2200	G	97%	2%	1%	0%	0%	0%	F	0.1312	F	0.5950	2400	G	2009
+647405	 118	06004	     	118-6004	Coffee Rd	118	City of Lynchburg	118	City of Lynchburg	0.33	Walnut Hollow Rd	US 501 Boonsboro Rd	3500	G	97%	2%	1%	0%	0%	0%	F	0.1082	F	0.7036	3800	G	2009
+647516	 118	06009	     	118-6009	Graves Mill Rd	118	City of Lynchburg	118	City of Lynchburg	0.60	US 460 Bus Fort Ave	Old Mill Rd	6200	G	97%	1%	1%	1%	1%	0%	F				6800	G	2009
+647395	 118	06009	     	118-6009	Graves Mill Rd	118	City of Lynchburg	118	City of Lynchburg	0.66	Old Mill Rd	Nationwide Dr	3200	G	97%	1%	1%	1%	1%	0%	F	0.1027	F	0.5527	3500	G	2009
+647810	 118	06009	     	118-6009	Graves Mill Rd	118	City of Lynchburg	118	City of Lynchburg	0.27	Nationwide Dr	US 501 Lynchburg Expressway	11000	G	97%	1%	1%	1%	1%	0%	F	0.0982	F	0.6328	12000	G	2009
+647394	 118	06009	     	118-6009	Graves Mill Rd	118	City of Lynchburg	118	City of Lynchburg	0.18	US 501 Lynchburg Expressway	Old Graves Mill Rd	25000	G	97%	1%	1%	1%	1%	0%	C	0.0921	F	0.5120	27000	G	2009
+647101	 118	06009	     	118-6009	Graves Mill Rd	118	City of Lynchburg	118	City of Lynchburg	1.04	Old Graves Mill Rd	WCL Lynchburg 09-1425	19000	G	97%	1%	1%	1%	1%	0%	F	0.0930	F	0.5328	21000	G	2009
+647356	 118	06012	     	118-6012	Church St	118	City of Lynchburg	118	City of Lynchburg	0.23	Pearl St	12th St	3700	G							X	0.1193	F	1.0000	4000	G	2009
+647312	 118	06012	     	118-6012	Church St	118	City of Lynchburg	118	City of Lynchburg	0.47	12th St	5th St	7100	G	98%	0%	1%	0%	1%	0%	F				7800	G	2009
+647557	 118	06012	     	118-6012	Rivermont Ave	118	City of Lynchburg	118	City of Lynchburg	0.90	5th St	Bedford Ave E INT	15000	G	98%	0%	1%	0%	1%	0%	C	0.0954	F	0.6102	16000	G	2009
+647348	 118	06012	     	118-6012	Bedford Ave	118	City of Lynchburg	118	City of Lynchburg	0.96	Rivermont Ave E Int	Rivermont Ave W Int	4100	G	96%	1%	1%	0%	2%	0%	C	0.0889	F	0.5074	4400	G	2009
+647347	 118	06012	     	118-6012	Rivermont Ave	118	City of Lynchburg	118	City of Lynchburg	1.01	Bedford Ave W Int	Rivermont Terrace	15000	G	96%	1%	1%	0%	2%	0%	F	0.0989	F	0.5233	16000	G	2009
+647379	 118	06020	     	118-6020	Rivermont Ave	118	City of Lynchburg	118	City of Lynchburg	0.96	Bedford Ave W Int	Bedford Ave E Int	8800	G	96%	1%	1%	0%	2%	0%	F	0.0976	F	0.6024	9500	G	2009
+647418	 118	06022	     	118-6022	Hollins Mill Rd	118	City of Lynchburg	118	City of Lynchburg	1.16	Bedford Ave	Hollins St	3100	G	96%	1%	1%	0%	2%	0%	F	0.0952	F	0.5586	3400	G	2009
+647360	 118	06022	     	118-6022	Federal St	118	City of Lynchburg	118	City of Lynchburg	0.40	Hollins St	5Th St	3900	G	96%	1%	1%	0%	2%	0%	F	0.0970	F	0.5343	4300	G	2009
+647372	 118	06023	     	118-6023	Murrell Rd	118	City of Lynchburg	118	City of Lynchburg	0.37	Lakeside Dr	Langhorne Rd	8200	G	96%	1%	1%	0%	2%	0%	F	0.0977	F	0.5685	8900	G	2009
+647388	 118	06027	     	118-6027	12th St	118	City of Lynchburg	118	City of Lynchburg	0.80	Kemper St	Clay St	6500	G	98%	0%	1%	0%	0%	0%	F	0.1035	F	0.5494	7100	G	2009
+647809	 118	06027	     	118-6027	12th St	118	City of Lynchburg	118	City of Lynchburg	0.25	Clay St	Commerce St	5200	G	98%	0%	1%	0%	0%	0%	F	0.0948	F	0.5505	5700	G	2009
+647400	 118	06028	     	118-6028	Commerce St	118	City of Lynchburg	118	City of Lynchburg	0.33	5Th St	10Th St	4800	G	98%	0%	1%	0%	0%	0%	F	0.1140	F	0.5474	5200	G	2009
+647401	 118	06028	     	118-6028	Commerce St	118	City of Lynchburg	118	City of Lynchburg	0.30	10Th St	Main St	3200	G	98%	0%	1%	0%	0%	0%	F	0.1329	F	0.8089	3500	G	2009
+647424	 118	06029	     	118-6029	Fort Ave	118	City of Lynchburg	118	City of Lynchburg	0.43	Wadsworth Ave	Kemper St	5500	G	98%	0%	1%	0%	0%	0%	F	0.0878	F	0.5766	6000	G	2009
+647376	 118	06029	     	118-6029	Park Ave	118	City of Lynchburg	118	City of Lynchburg	0.28	Kemper St	9Th St	7900	G	98%	0%	1%	0%	0%	0%	F	0.0815	F	0.5755	8600	G	2009
+647375	 118	06029	     	118-6029	Park Ave	118	City of Lynchburg	118	City of Lynchburg	0.36	9Th St	5Th St	6500	G	98%	0%	1%	0%	0%	0%	F	0.0803	F	0.5107	7100	G	2009
+647365	 118	06031	     	118-6031	Lakeside Dr	118	City of Lynchburg	118	City of Lynchburg	0.41	Oakley Ave	Murrell Rd	12000	G	98%	0%	1%	0%	0%	0%	F	0.0934	F	0.5867	13000	G	2009
+647366	 118	06031	     	118-6031	Lakeside Dr	118	City of Lynchburg	118	City of Lynchburg	0.34	Murrell Rd	Memorial Ave	6000	G	98%	0%	1%	0%	0%	0%	C	0.0938	F	0.5803	6500	G	2009
+647378	 118	06031	     	118-6031	Park Ave	118	City of Lynchburg	118	City of Lynchburg	0.36	Memorial Ave	Langhorne Rd	6900	G	98%	1%	1%	0%	0%	0%	F	0.0920	F	0.5108	7500	G	2009
+781671	 118	06031	     	118-6031	Park Ave	118	City of Lynchburg	118	City of Lynchburg	0.35	C1US 501	US 221; 118-6027:12Th St	9400	G	98%	0%	1%	0%	0%	0%	F	0.0810	F	0.5465	10000	G	2009
+647371	 118	06032	     	118-6032	Main St	118	City of Lynchburg	118	City of Lynchburg	0.25	Florida Ave	Lynchburg Expressway	2500	G	98%	1%	1%	0%	0%	0%	F	0.0950	F	0.5104	2700	G	2009
+647370	 118	06032	     	118-6032	Main St	118	City of Lynchburg	118	City of Lynchburg	0.28	Lynchburg Exp	12Th St	7300	G	98%	1%	1%	0%	0%	0%	F				8000	G	2009
+647319	 118	06032	     	118-6032	Main St	118	City of Lynchburg	118	City of Lynchburg	0.55	12Th St	5Th St	6300	G	98%	1%	1%	0%	0%	0%	F	0.1035	F	1.0000	6800	G	2009
+647403	 118	06033	     	118-6033	Florida Ave	118	City of Lynchburg	118	City of Lynchburg	1.28	Campbell Ave	Augusta St	4500	G	98%	1%	1%	0%	0%	0%	C	0.1040	F	0.6201	4900	G	2009
+647361	 118	06033	     	118-6033	Florida Ave	118	City of Lynchburg	118	City of Lynchburg	0.88	Augusta St	Main St	3300	G	98%	1%	1%	0%	0%	0%	F	0.1109	F	0.6489	3500	G	2009
+647553	 118	06034	     	118-6034	Martin St	118	City of Lynchburg	118	City of Lynchburg	0.58	Florida Ave	ECL Lynchburg	1100	G	98%	1%	1%	0%	0%	0%	C	0.1151	F	0.6620	1200	G	2009
+647422	 118	06035	     	118-6035	Candler Mtn Rd	118	City of Lynchburg	118	City of Lynchburg	1.09	SCL Lynchburg	Ramp From US 460; FR 906	3200	G	100%	0%	0%	0%	0%	0%	C	0.1049	F	0.7014	3400	G	2009
+647421	 118	06035	     	118-6035	Candler Mtn Rd	118	City of Lynchburg	118	City of Lynchburg	0.74	Ramp From US 460; FR 906	SR 128; Mayflower Drive	12000	G	100%	0%	0%	0%	0%	0%	F	0.0873	F	0.6017	13000	G	2009
+647398	 118	06036	     	118-6036	Clay St	118	City of Lynchburg	118	City of Lynchburg	0.50	5Th St	12Th St	2100	G	99%	0%	1%	0%	0%	0%	C	0.1099	F	0.6625	2300	G	2009
+647363	 118	06036	     	118-6036	Grace St	118	City of Lynchburg	118	City of Lynchburg	0.88	12Th St	Florida Ave	3400	G	97%	1%	1%	0%	0%	0%	C	0.1060	F	0.7018	3700	G	2009
+647383	 118	06037	     	118-6037	Stadium Dr	118	City of Lynchburg	118	City of Lynchburg	0.38	Wythe St	Carroll Ave	4300	G	97%	1%	1%	0%	0%	0%	F	0.1017	F	0.5447	4700	G	2009
+647384	 118	06038	     	118-6038	Wythe St	118	City of Lynchburg	118	City of Lynchburg	0.27	Fort Ave	Stadium Dr	7400	G	96%	1%	1%	1%	1%	0%	C	0.1022	F	0.5114	8000	G	2009
+647552	 118	06040	     	118-6040	James St	118	City of Lynchburg	118	City of Lynchburg	0.22	Stadium Dr	Carroll Ave	3700	G	96%	2%	1%	0%	0%	0%	C	0.0989	F	0.5432	4000	G	2009
+647359	 118	06042	     	118-6042	Cranehill Dr	118	City of Lynchburg	118	City of Lynchburg	1.04	Langhorne Rd	Link Rd	2200	G	98%	1%	1%	0%	0%	0%	C	0.1407	F	0.7884	2400	G	2009
+647208	 118	06044	     	118-6044	Old Forest Rd	118	City of Lynchburg	118	City of Lynchburg	0.94	US 501 NW Expressway	Forrest Brook Rd	20000	G	98%	1%	1%	0%	0%	0%	F	0.0882	F	0.5275	21000	G	2009
+647207	 118	06044	     	118-6044	Old Forest Rd	118	City of Lynchburg	118	City of Lynchburg	0.45	Forrest Brook Rd	Link Rd	19000	G	98%	1%	0%	1%	0%	0%	C	0.0888	F	0.5082	20000	G	2009
+647396	 118	06044	     	118-6044	Old Forest Rd	118	City of Lynchburg	118	City of Lynchburg	0.21	Link Rd	Linkhorne Dr	14000	G	98%	1%	0%	1%	0%	0%	F	0.0928	F	0.5644	16000	G	2009
+647327	 118	06044	     	118-6044	Old Forest Rd	118	City of Lynchburg	118	City of Lynchburg	1.61	Linkhorne Dr	Lakeside Dr	11000	G	98%	1%	0%	1%	0%	0%	F				12000	G	2009
+647556	 118	06045	     	118-6045	Greenwood Dr	118	City of Lynchburg	118	City of Lynchburg	0.38	Oakdale Dr	Perrymont Ave	4500	G							X				4900	G	2009
+647410	 118	06045	     	118-6045	Thomas Dr	118	City of Lynchburg	118	City of Lynchburg	0.71	Perrymont Ave	Langhorne Lane	6300	G							X				6900	G	2009
+647409	 118	06045	     	118-6045	Richmond Rd	118	City of Lynchburg	118	City of Lynchburg	0.35	Langhorne Lane	Oakley Ave	5600	G							X				6100	G	2009
+647381	 118	06046	     	118-6046	Sandusky Dr	118	City of Lynchburg	118	City of Lynchburg	0.77	Greenwood Dr	Pawnee Dr	4200	G							X				4600	G	2009
+647382	 118	06046	     	118-6046	Sandusky Dr	118	City of Lynchburg	118	City of Lynchburg	0.49	Pawnee Dr	Fort Ave	5600	G							X				6200	G	2009
+647554	 118	06048	     	118-6048	Perrymont Ave	118	City of Lynchburg	118	City of Lynchburg	0.84	US 29 Bus Fort Ave	Greenwood Dr	5400	G							X				5900	G	2009
+647373	 118	06050	     	118-6050	Odd Fellows Rd	118	City of Lynchburg	118	City of Lynchburg	0.60	Lynchburg Expressway	Mayflower Dr	8000	G	84%	2%	4%	2%	8%	0%	F	0.1027	F	0.5222	8700	G	2009
+647503	 118	06050	     	118-6050	Odd Fellows Rd	118	City of Lynchburg	118	City of Lynchburg	0.67	Mayflower Dr	Dead End	1500	G	84%	2%	4%	2%	8%	0%	C	0.1212	F	0.6839	1600	G	2009
+647354	 118	06052	     	118-6052	Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.33	12Th St	17Th St	8100	G	98%	0%	1%	0%	0%	0%	C	0.0905	F	0.6265	8800	G	2009
+647353	 118	06052	     	118-6052	Campbell Ave	118	City of Lynchburg	118	City of Lynchburg	0.41	17Th St	Kemper St	8200	G	98%	0%	1%	0%	0%	0%	F	0.0900	F	0.6412	8900	G	2009
+647510	 118	06054	     	118-6054	Fenwick Dr	118	City of Lynchburg	118	City of Lynchburg	0.23	Bus US 460 Fort Ave	Sheffield Dr	4900	G							X				5400	G	2009
+647523	 118	06054	     	118-6054	Sheffield Dr	118	City of Lynchburg	118	City of Lynchburg	0.73	Fenwick Dr	SR 163 Wards Rd	0	?							X
+647800	 118	06056	     	118-6056	Greenview Dr	118	City of Lynchburg	118	City of Lynchburg	1.29	WCL Lynchburg	Leesville Rd	16000	G	98%	1%	1%	1%	0%	0%	C	0.0834	F	0.5381	17000	G	2009
+647389	 118	06066	     	118-6066	Leesville Rd	118	City of Lynchburg	118	City of Lynchburg	1.14	SCL Lynchburg	North St	7900	G	97%	1%	1%	1%	0%	0%	F	0.1024	F	0.5901	8600	G	2009
+647406	 118	06066	     	118-6066	Leesville Rd	118	City of Lynchburg	118	City of Lynchburg	1.15	North St	Timberlake Rd	11000	G	97%	1%	1%	1%	0%	0%	C	0.1116	F	0.5891	12000	G	2009
+781672	 118	06070	     	118-6070	Wards Ferry Rd	118	City of Lynchburg	118	City of Lynchburg	1.29	CBusUS 460 Logans Lane	Harvard St	10000	G	98%	0%	0%	1%	0%	0%	F	0.0942	F	0.5895	11000	G	2009
+787602	 118	06070	     	118-6070	Wards Ferry Rd	118	City of Lynchburg	118	City of Lynchburg	1.06	Harvard St	US 29; Wards Rd	10000	G	98%	0%	0%	1%	0%	0%	C	0.0994	F	0.5600	11000	G	2009
+647511	 118	06071	     	118-6071	Harvard St	118	City of Lynchburg	118	City of Lynchburg	0.08	Wards Ferry Rd	College Park Dr	200	G							X	0.0946	F	0.8095	210	G	2009
+647407	 118	06072	     	118-6072	Old Graves Mill Rd	118	City of Lynchburg	118	City of Lynchburg	1.70	Timberlake Rd	Graves Mill Rd	11000	G							X				12000	G	2009
+647515	 118	06073	     	118-6073	McConville Rd	118	City of Lynchburg	118	City of Lynchburg	1.80	Graves Mill Rd	Wyndale Dr	4800	G	99%	0%	0%	0%	0%	0%	C	0.1031	F	0.5215	5200	G	2009
+647519	 118	06073	     	118-6073	Wyndale Dr	118	City of Lynchburg	118	City of Lynchburg	0.24	McConville Rd	Lakeside Dr	3600	G	99%	0%	1%	0%	0%	0%	C	0.0948	F	0.5820	4000	G	2009
+647509	 118	06074	     	118-6074	Evergreen Rd	118	City of Lynchburg	118	City of Lynchburg	0.33	Link Rd	Indian Hill Rd	2300	G	98%	1%	1%	0%	0%	0%	C	0.1163	F	0.7425	2400	G	2009
+647512	 118	06074	     	118-6074	Indian Hill Rd	118	City of Lynchburg	118	City of Lynchburg	0.98	Evergreen Rd	Burnt Bridge Rd	1800	G	98%	1%	0%	0%	0%	0%	F	0.1096	F	0.5134	1900	G	2009
+647506	 118	06074	     	118-6074	Burnt Bridge Rd	118	City of Lynchburg	118	City of Lynchburg	0.97	Indian Hill Rd	Boonsboro Rd	1700	G	98%	1%	0%	0%	0%	0%	C	0.1190	F	0.5574	1900	G	2009
+647367	 118	06075	     	118-6075	Langhorne Lane	118	City of Lynchburg	118	City of Lynchburg	0.34	Richmond St	Eldon St	2300	G	98%	1%	1%	0%	0%	0%	C	0.0904	F	0.5278	2500	G	2009
+647551	 118	06075	     	118-6075	Eldon St	118	City of Lynchburg	118	City of Lynchburg	0.07	Langhorne Lane	Memorial Ave	2600	G	98%	1%	1%	0%	0%	0%	F	0.0991	F	0.5054	2800	G	2009
+647514	 118	06076	     	118-6076	Linkhorne Rd	118	City of Lynchburg	118	City of Lynchburg	0.59	Old Forest Rd	Cranehill Dr	5400	G	98%	1%	1%	0%	0%	0%	F	0.1047	F	0.5555	5800	G	2009
+647513	 118	06077	     	118-6077	Jefferson St	118	City of Lynchburg	118	City of Lynchburg	0.41	7Th St	Concord Tpke	1000	G	98%	1%	1%	0%	0%	0%	F	0.1497	F	0.5000	1100	G	2009
+647504	 118	06078	     	118-6078	Washington St	118	City of Lynchburg	118	City of Lynchburg	0.11	Main St	Jefferson St	1200	G	85%	1%	3%	7%	4%	0%	F	0.1054	F	0.5696	1300	G	2009
+647358	 118	06078	     	118-6078	Concord Tpke	118	City of Lynchburg	118	City of Lynchburg	1.66	Jefferson St	Rockwell Rd	1800	G	85%	1%	3%	7%	4%	0%	F	0.0932	F	0.6973	1900	G	2009
+647402	 118	06078	     	118-6078	Concord Tpke	118	City of Lynchburg	118	City of Lynchburg	1.07	Rockwell Rd	US 460	1800	G	85%	1%	3%	7%	4%	0%	C	0.0995	F	0.7391	2000	G	2009
+647507	 118	06080	     	118-6080	Court St	118	City of Lynchburg	118	City of Lynchburg	0.50	12Th St	5Th St	1300	G	85%	1%	3%	7%	4%	0%	F	0.1095	F	0.5150	1400	G	2009
+647404	 118	06081	     	118-6081	Forest Brook Rd	118	City of Lynchburg	118	City of Lynchburg	0.92	Lakeside Dr	Old Forest Rd	3500	G	96%	1%	1%	1%	1%	0%	C	0.1149	F	0.6129	3800	G	2009
+647417	 118	06082	     	118-6082	Hill St	118	City of Lynchburg	118	City of Lynchburg	0.58	Old Forest Rd	Langhorne Rd	4800	G	99%	0%	1%	0%	0%	0%	F	0.1012	F	0.6818	5200	G	2009
+647508	 118	06083	     	118-6083	Edgewood Ave	118	City of Lynchburg	118	City of Lynchburg	0.73	Fort Ave	Wards Rd	2300	G	99%	0%	1%	0%	0%	0%	C	0.0976	F	0.5415	2500	G	2009
+547101	 118	00000	     	118-0	4th St	118	City of Lynchburg	118	City of Lynchburg	0.00	Wise St	Monroe St	46	G							X	0.1389	F	0.0000	50	G	2009
+547011	 118	00000	     	118-0	Caroline St	118	City of Lynchburg	118	City of Lynchburg	0.00	York St	Chambers St	420	G							X	0.1041	F	0.0000	460	G	2009
+547012	 118	00000	     	118-0	Chambers St	118	City of Lynchburg	118	City of Lynchburg	0.00	Caroline St	2Nd St	680	G							X	0.0925	F	0.0000	740	G	2009
+547023	 118	00000	     	118-0	Clayton Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Morningside Dr	Spottswood Pl	480	G							X	0.1052	F	0.0000	520	G	2009
+547100	 118	00000	     	118-0	Danridge Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	Berkley Pl	Craigmont Dr	1200	G							X	0.0878	F	0.0000	1300	G	2009
+547025	 118	00000	     	118-0	Enterprise Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	15-1520	Bedford County Line	13000	G							X				14000	G	2009
+547016	 118	00000	     	118-0	Fairview Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Maryland Ave	Mackel St	340	G							X	0.1055	F	0.0000	370	G	2009
+547009	 118	00000	     	118-0	Fleetwood Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	Ridgeway Dr	Hillwood Dr	1000	G							X	0.0899	F	0.0000	1100	G	2009
+547014	 118	00000	     	118-0	Georgia Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Campbell Ave	Nevada Ave	350	G							X	0.0987	F	0.0000	380	G	2009
+547019	 118	00000	     	118-0	Gorman Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	Glen Oak Lane	Northwood Cir	360	G							X	0.1019	F	0.0000	390	G	2009
+547021	 118	00000	     	118-0	Hawthorne Rd	118	City of Lynchburg	118	City of Lynchburg	0.00	Montgomery Rd	Woodcrest Dr	170	G							X	0.1008	F	0.0000	180	G	2009
+547008	 118	00000	     	118-0	Hayes Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	Rhonda Dr	Crawford Dr	180	G							X	0.1172	F	0.0000	190	G	2009
+547024	 118	00000	     	118-0	John Scott Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	Old Trents Ferry Rd	Dead End	460	G							X				510	G	2009
+547017	 118	00000	     	118-0	Leyburn Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Mosby Ave	Sackett St	240	G							X	0.1080	F	0.0000	260	G	2009
+547018	 118	00000	     	118-0	Locksview Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	Bell Tavern Rd	Norvell House Ct	940	G							X	0.1026	F	0.0000	1000	G	2009
+547015	 118	00000	     	118-0	Maryland Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Craig St	Fairview Ave	230	G							X	0.0890	F	0.0000	260	G	2009
+547002	 118	00000	     	118-0	McKinney Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Clarke St	Dodd St	340	G							X	0.0879	F	0.0000	370	G	2009
+547020	 118	00000	     	118-0	Mimosa Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	Burnt Bridge Rd	Woodcrest Dr	700	G							X	0.0907	F	0.0000	760	G	2009
+547022	 118	00000	     	118-0	Morningside Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	McGuffey Lane	Eastwood Lane	300	G							X	0.1103	F	0.0000	330	G	2009
+547004	 118	00000	     	118-0	Myrtle St	118	City of Lynchburg	118	City of Lynchburg	0.00	Westview Dr	Toledo Ave	540	G							X	0.1022	F	0.0000	590	G	2009
+547005	 118	00000	     	118-0	New Hampshire Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Oakridge Blvd	Tremont St	300	G							X	0.0963	F	0.0000	330	G	2009
+547003	 118	00000	     	118-0	Oxford St	118	City of Lynchburg	118	City of Lynchburg	0.00	McKinney Ave	Radcliffe Ave	290	G							X	0.1261	F	0.0000	310	G	2009
+547010	 118	00000	     	118-0	Page St	118	City of Lynchburg	118	City of Lynchburg	0.00	Hillcrest Rd	2Nd St	3100	G							X	0.1046	F	0.0000	3400	G	2009
+547001	 118	00000	     	118-0	Rhode Island Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Tremont St	Fort Ave	110	G							X	0.1012	F	0.0000	120	G	2009
+547007	 118	00000	     	118-0	Sanhill Dr	118	City of Lynchburg	118	City of Lynchburg	0.00	Rhonda Dr	Apache Lane	400	G							X	0.1478	F	0.0000	440	G	2009
+547013	 118	00000	     	118-0	Texas Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Campbell Ave	Nevada Ave	360	G							X	0.0822	F	0.0000	390	G	2009
+547006	 118	00000	     	118-0	Warren Ave	118	City of Lynchburg	118	City of Lynchburg	0.00	Wingfield Ave	Perry Ave	150	G							X	0.1169	F	0.0000	170	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

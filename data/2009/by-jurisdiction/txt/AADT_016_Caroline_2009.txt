@@ -1,0 +1,567 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Caroline Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+140168	  US	00001	     	US 1	Jefferson Davis Hwy	016	Caroline County	016	Caroline County	2.99	Hanover County Line	SR 207 Carmel Church	4200	G	86%	1%	1%	3%	9%	0%	F	0.0868	F	0.6329	4600	G	2009
+160010	  US	00001	     	US 1	Jefferson Davis Hwy	016	Caroline County	016	Caroline County	6.29	SR 207 Carmel Church	16-639 Ladysmith Rd	4500	G	93%	1%	1%	2%	3%	0%	F	0.0814	F	0.5389	4800	G	2009
+160011	  US	00001	     	US 1	Jefferson Davis Hwy	016	Caroline County	016	Caroline County	3.06	16-639 Ladysmith Rd	16-632 Cedon Rd; Quarters Rd	6800	G	93%	1%	1%	2%	3%	0%	F	0.0887	F	0.6923	7300	G	2009
+160012	  US	00001	     	US 1	Jefferson Davis Hwy	016	Caroline County	016	Caroline County	2.53	16-632 Cedon Rd; Quarters Rd	Spotsylvania County Line	5500	G	93%	1%	1%	2%	3%	0%	C	0.0873	F	0.6019	6000	G	2009
+060189	  SR	00002	     		Richmond Tpke	016	Caroline County	016	Caroline County	3.16	Hanover County Line	SR 30 Dawn	4200	G	97%	0%	1%	1%	1%	0%	F	0.1006	F	0.6081	4600	G	2009	
+060188	  SR	00002	     		Richmond Tpke	016	Caroline County	016	Caroline County	4.44	SR 30 Dawn	16-647	3100	G	89%	1%	1%	2%	6%	0%	F	0.0983	F	0.5180	3400	G	2009	
+060187	  SR	00002	     		Richmond Tpke	016	Caroline County	016	Caroline County	7.50	16-647	16-721 Near de Jarnette	2700	G	89%	1%	1%	2%	6%	0%	C	0.1003	F	0.5926	2900	G	2009	
+060102	  SR	00002	     		Richmond Tpke	016	Caroline County	016	Caroline County	2.46	16-721 Near de Jarnette	Bus US 301	5600	G	89%	1%	1%	2%	6%	0%	F	0.0951	F	0.6618	6000	G	2009	
+060109	  SR	00002	     		Richmond Tpke	171	Town of Bowling Green	016	Caroline County	0.11	SCL Bowling Green	Bus US 301	5600	N	89%	1%	1%	2%	6%	0%	N	0.0951	N	0.6618	6000	N	2009	
+060378	  SR	00002	     		Main St	016	Caroline County	016	Caroline County	0.22	US 301	SCL Bowling Green	5100	G	97%	1%	1%	1%	1%	0%	F	0.1009	F	0.6425	5500	G	2009	
+060377	  SR	00002	     		Main St	171	Town of Bowling Green	016	Caroline County	0.74	SCL Bowling Green	Bus SR 207	5200	G	97%	1%	1%	1%	1%	0%	C	0.0948	F	0.5117	5700	G	2009	
+160092	  SR	00002	     	VA 2	Main St	171	Town of Bowling Green	016	Caroline County	0.39	Bus US 301, Bus SR 207	NCL Bowling Green	6100	G	95%	1%	1%	1%	2%	0%	F	0.0921	F	0.5047	6600	G	2009
+160028	  SR	00002	     	VA 2	Fredericksburg Tpke	016	Caroline County	016	Caroline County	7.73	NCL Bowling Green	16-606	5000	G	95%	1%	1%	1%	2%	0%	F	0.0921	N	0.5047	5100	G	2009
+160029	  SR	00002	     	VA 2	Fredericksburg Tpke	016	Caroline County	016	Caroline County	3.71	16-606	Spotsylvania County Line	4900	G	95%	1%	1%	1%	2%	0%	C	0.1012	F	0.5967	5300	G	2009
+060176	  US	00017	     	US 17	Tidewater Trail	016	Caroline County	016	Caroline County	5.89	Essex County Line	US 301 Port Royal	6400	G	90%	1%	1%	1%	7%	0%	F	0.0767	F	0.6215	5700	G	2009
+060001	  US	00017	     	US 17	 	016	Caroline County	016	Caroline County	9.66	US 301 Port Royal	16-610 Pepmeier Hill Rd	5400	G	90%	1%	1%	1%	7%	0%	F	0.0875	F	0.5301	4800	G	2009
+060175	  US	00017	     	US 17	 	016	Caroline County	016	Caroline County	2.57	16-610 Pepmeier Hill Rd	Spotsylvania County Line	6100	G	90%	1%	1%	1%	7%	0%	F	0.0819	F	0.5444	5400	G	2009
+060003	  SR	00030	     	VA 30	Dawn Blvd	016	Caroline County	016	Caroline County	3.47	Hanover County Line	US 301, SR 2 Richmond Trnpk	5000	G	77%	2%	1%	5%	16%	0%	C	0.0952	F	0.6022	5400	G	2009
+060177	  SR	00030	     	VA 30	Dawn Blvd	016	Caroline County	016	Caroline County	3.18	US 301, SR 2 Richmond Trnpk	King William County Line	3500	G	73%	2%	2%	5%	19%	0%	C	0.0948	F	0.8360	3800	G	2009
+140313	  IS	00095	N    	I-95 NB	 	016	Caroline County	016	Caroline County	3.07	Hanover County Line	SR 207 Rogers Clark Blvd	47000	F	87%	1%	1%	1%	10%	0%	F	0.0667	F	1.0000	43000	F	2009		96000	F	87%	1%	1%	1%	10%	0%	F				85000	F
+060162	  IS	00095	N    	I-95 NB	 	016	Caroline County	016	Caroline County	6.12	SR 207 Rogers Clark Blvd	16-639 Ladysmith Rd	45000	F	87%	1%	1%	0%	11%	1%	F	0.0652	F	1.0000	40000	F	2009		91000	F	91%	1%	1%	0%	7%	0%	F				80000	F
+060170	  IS	00095	N    	I-95 NB	 	016	Caroline County	016	Caroline County	6.35	16-639 Ladysmith Rd	Spotsylvania County Line	48000	G	87%	1%	1%	0%	11%	1%	F	0.0626	F	1.0000	43000	G	2009		92000	G	91%	1%	1%	0%	8%	0%	F				81000	G
+792625	  IS	00095	N108R	I-95 NB Exit 108R	Ladysmith Rest Area Ramp	016	Caroline County	016	Caroline County	0.07	Exit Rest Area Parking Lot	I-95 North from Rest Area	80	F							X				100	F	2009
+160308	  IS	00095	S    	I-95 SB	 	016	Caroline County	016	Caroline County	3.67	Hanover County Line	SR 207 Rogers Clark Blvd	48000	F	87%	1%	1%	1%	10%	0%	F	0.0704	F	1.0000	43000	F	2009		96000	F	87%	1%	1%	1%	10%	0%	F				85000	F
+160007	  IS	00095	S    	I-95 SB	 	016	Caroline County	016	Caroline County	6.02	SR 207 Rogers Clark Blvd	16-639 Ladysmith Rd	46000	F	95%	0%	0%	0%	4%	0%	F	0.0730	F	1.0000	40000	F	2009		91000	F	91%	1%	1%	0%	7%	0%	F				80000	F
+160006	  IS	00095	S    	I-95 SB	 	016	Caroline County	016	Caroline County	6.05	16-639 Ladysmith Rd	Spotsylvania County Line	44000	G	95%	0%	0%	0%	4%	0%	F	0.0699	F	1.0000	38000	G	2009		92000	G	91%	1%	1%	0%	8%	0%	F				81000	G
+060058	  SR	00207	     	VA 207	Rogers Clark Blvd	016	Caroline County	016	Caroline County	0.46	US 1 Jefferson Davis Hwy	I-95	7000	G	67%	1%	2%	2%	28%	0%	C	0.0775	F	0.5485	6700	G	2009
+060180	  SR	00207	     	VA 207	Rogers Clark Blvd	016	Caroline County	016	Caroline County	5.14	I-95	16-601 S, Penola Rd	9300	A	89%	1%	1%	1%	8%	1%	C	0.1125	A	0.5390	8800	A	2009
+060181	  SR	00207	     	VA 207	Rogers Clark Blvd	016	Caroline County	016	Caroline County	4.31	16-601 S, Penola Rd	16-722 Milford	11000	G	89%	1%	1%	1%	8%	1%	F	0.0836	F	0.5628	10000	G	2009
+060182	  SR	00207	     	VA 207	Rogers Clark Blvd	016	Caroline County	016	Caroline County	0.57	16-722 Milford	Bus SR 207	11000	G	89%	1%	1%	1%	8%	1%	F	0.0815	F	0.5551	11000	G	2009
+303766	  SR	00207	     	VA 207	 	016	Caroline County	016	Caroline County	1.45	Bus SR 207	US 301 Richmond Tpke	8000	G	89%	1%	1%	1%	8%	1%	F	0.0794	F	0.5839	7600	G	2009
+789607	  SR	00207	E000A	VA 207 EB Exit 000A	Ramp	016	Caroline County	016	Caroline County	0.32	SR 207 N, Rogers Clark Blvd	I-95 South	2700	G	63%	1%	2%	1%	32%	0%	C	0.1131	F	1.0000	2600	G	2009
+789609	  SR	00207	W000A	VA 207 WB Exit 000A	Ramp	016	Caroline County	016	Caroline County	0.18	SR 207 S, Rogers Clark Blvd	I-95 South	5300	G	59%	1%	1%	2%	36%	1%	C	0.0729	F	1.0000	5000	G	2009
+160078	C1SR	00207	     	Bus VA 207	Rogers Clark Blvd	016	Caroline County	016	Caroline County	0.54	SR 207 Rogers Clark Blvd	WCL Bowling Green	3300	G	96%	1%	1%	1%	2%	0%	C	0.1077	F	0.5586	3600	G	2009
+160081	C1SR	00207	     	Bus VA 207	W Broaddus Ave	171	Town of Bowling Green	016	Caroline County	0.73	WCL Bowling Green	Bus US 301, SR 2 Main St	4800	G	97%	1%	1%	0%	1%	0%	C	0.0945	F	0.5285	5200	G	2009
+060189	  US	00301	     		Richmond Tpke	016	Caroline County	016	Caroline County	3.16	Hanover County Line	SR 30 Dawn Boulevard	4200	G	97%	0%	1%	1%	1%	0%	F	0.1006	F	0.6081	4600	G	2009
+060188	  US	00301	     		Richmond Tpke	016	Caroline County	016	Caroline County	4.44	SR 30 Dawn Boulevard	16-647 Doggetts Fork Rd	3100	G	89%	1%	1%	2%	6%	0%	F	0.0983	F	0.5180	3400	G	2009
+060187	  US	00301	     		Richmond Tpke	016	Caroline County	016	Caroline County	7.50	16-647 Doggetts Fork Rd	16-721 Near De Jarnette	2700	G	89%	1%	1%	2%	6%	0%	C	0.1003	F	0.5926	2900	G	2009
+060102	  US	00301	     		Richmond Tpke	016	Caroline County	016	Caroline County	2.46	16-721 Near De Jarnette	SCL Bowling Green	5600	G	89%	1%	1%	2%	6%	0%	F	0.0951	F	0.6618	6000	G	2009
+060109	  US	00301	     		Richmond Tpke	171	Town of Bowling Green	016	Caroline County	0.11	SCL Bowling Green	Bus US 301 Main St	5600	N	89%	1%	1%	2%	6%	0%	N	0.0951	N	0.6618	6000	N	2009
+060103	  US	00301	     	US 301	Richmond Tpke	171	Town of Bowling Green	016	Caroline County	0.23	Bus US 301 Main St	SR 207	5600	N	89%	1%	1%	2%	6%	0%	N	0.0951	N	0.6618	6000	N	2009
+060186	  US	00301	     	US 301	Richmond Tpke	171	Town of Bowling Green	016	Caroline County	1.03	SR 207	Bus US 301, Bus SR 207 Broaddus Ave	10000	G	91%	1%	1%	1%	6%	0%	F	0.0855	F	0.5734	9800	G	2009
+060185	  US	00301	     	US 301	A P Hill Blvd	171	Town of Bowling Green	016	Caroline County	0.98	Bus US 301, Bus SR 207 Broaddus Ave	NCL Bowling Green; 16-608 Lakewood Rd	11000	G	91%	1%	1%	1%	6%	0%	F	0.0896	F	0.6040	10000	G	2009
+060184	  US	00301	     	US 301	A P Hill Blvd	016	Caroline County	016	Caroline County	9.90	16-608 Lakewood Rd	US 17 Tidewater Trail	8700	G	91%	1%	1%	1%	6%	0%	F	0.0881	F	0.5212	8200	G	2009
+060183	  US	00301	     	US 301	A P Hill Blvd	016	Caroline County	016	Caroline County	0.39	US 17 Tidewater Trail	SCL Port Royal	14000	G	91%	1%	1%	1%	6%	0%	F	0.0877	F	0.5413	13000	G	2009
+060197	  US	00301	     	US 301	A P Hill Blvd	284	Town of Port Royal	016	Caroline County	0.47	SCL Port Royal	NCL Port Royal	14000	N	91%	1%	1%	1%	6%	0%	N	0.0877	N	0.5413	13000	N	2009
+060204	  US	00301	     	US 301	A P Hill Blvd	016	Caroline County	016	Caroline County	0.29	NCL Port Royal	King George County Line	14000	N	91%	1%	1%	1%	6%	0%	N	0.0877	N	0.5413	13000	N	2009
+060378	C1US	00301	     		Main St	016	Caroline County	016	Caroline County	0.22	US 301	SCL Bowling Green	5100	G	97%	1%	1%	1%	1%	0%	F	0.1009	F	0.6425	5500	G	2009
+060377	C1US	00301	     		Main St	171	Town of Bowling Green	016	Caroline County	0.74	SCL Bowling Green	Bus SR 207	5200	G	97%	1%	1%	1%	1%	0%	C	0.0948	F	0.5117	5700	G	2009
+060376	C1US	00301	     	Bus US 301	 	171	Town of Bowling Green	016	Caroline County	0.27	SR 2 Main St	ECL Bowling Green	3000	G	97%	1%	1%	1%	1%	0%	F	0.1081	F	0.6159	3200	G	2009
+060375	C1US	00301	     	Bus US 301	 	016	Caroline County	016	Caroline County	0.27	ECL Bowling Green	US 301 North of Bowling Green	2000	G	96%	1%	1%	1%	1%	0%	C	0.1037	F	0.6623	2200	G	2009
+780400	  FR	00160	     	FR 160	Welcome Way Dr	016	Caroline County	016	Caroline County	0.44	SR 207 Rogers Clark Blvd	Dead End	830	R							X						09/06/2007
+780401	  FR	00161	     	FR 161	 	016	Caroline County	016	Caroline County	0.54	16-652 Cool Water Dr	Dead End	40	R							X						08/28/2007
+780402	  FR	00162	     	FR 162	Clifton Rd	016	Caroline County	016	Caroline County	0.42	16-743 Clifton Rd	Dead End	4	R							X						08/30/2007
+780747	  FR	00813	     	FR 813	Clark St	016	Caroline County	016	Caroline County	0.07	US 301; 16-1204	Dead End	2	R							X						09/24/2007
+780748	  FR	00814	     	FR 814	School St	016	Caroline County	016	Caroline County	0.53	US 301 Richmond Tpke	Dead End	630	R							X						09/12/2007
+782787	  FR	01043	     	FR 1043	Christmas Tree Lane	016	Caroline County	016	Caroline County	0.27	SR 207 Rogers Clark Blvd	Dead End	3	G	89%	1%	1%	1%	8%	1%	F	1.0000	F	0.5000	3	G	2009
+709628	  16	00600	     	16-600	Frog Level Rd	016	Caroline County	016	Caroline County	0.15	16-602 Concord Rd	US 301 Richmond Tpke	100	R							X						07/20/2004
+404414	  16	00600	     	16-600	Frog Level Rd	016	Caroline County	016	Caroline County	3.07	US 301 Richmond Tpke	16-670 Lewis Moore Rd	920	G	72%	2%	2%	11%	14%	0%	C	0.0978	F	0.6535	990	G	2009
+404415	  16	00600	     	16-600	Frog Level Rd	016	Caroline County	016	Caroline County	2.23	16-670 Lewis Moore Rd	16-601 E, Mt Vernon Church Rd	840	G	72%	2%	2%	11%	14%	0%	F	0.1102	F	0.6222	910	G	2009
+404416	  16	00600	     	16-600	Frog Level Rd	016	Caroline County	016	Caroline County	2.27	16-601 E, Mt Vernon Church Rd	King William County Line	530	G	72%	2%	2%	11%	14%	0%	F	0.1353	F	0.6571	570	G	2009
+404417	  16	00601	     	16-601	Hewlett Rd	016	Caroline County	016	Caroline County	1.61	Hanover County Line	16-658 S, Jericho Rd	320	G	95%	2%	1%	1%	0%	0%	F	0.1289	F	0.6667	350	G	2009
+404418	  16	00601	     	16-601	Cedar Fork Rd	016	Caroline County	016	Caroline County	3.07	16-658 N, Jericho Rd	US 1 Jefferson Davis Hwy	300	G	95%	2%	1%	1%	0%	0%	F	0.1227	F	0.6279	330	G	2009
+404419	  16	00601	     	16-601	Golansville Rd	016	Caroline County	016	Caroline County	1.80	US 1 Jefferson Davis Hwy	16-633 Bull Church Rd	510	G	95%	2%	1%	1%	0%	0%	F	0.1488	F	0.7368	550	G	2009
+404420	  16	00601	     	16-601	Golansville Rd	016	Caroline County	016	Caroline County	1.00	16-633 Bull Church Rd	16-672 Boxley Rd	750	G	95%	2%	1%	1%	0%	0%	F	0.1418	F	0.6996	810	G	2009
+404421	  16	00601	     	16-601	Golansville Rd	016	Caroline County	016	Caroline County	1.12	16-672 Boxley Rd	16-664 Baily Rd	730	G	95%	2%	1%	1%	0%	0%	F	0.1446	F	0.7407	790	G	2009
+404422	  16	00601	     	16-601	Golansville Rd	016	Caroline County	016	Caroline County	1.52	16-664 Baily Rd	16-714 Boulwares Rd	880	G	95%	2%	1%	1%	0%	0%	C	0.1430	F	0.7698	950	G	2009
+405390	  16	00601	     	16-601	Golansville Rd	016	Caroline County	016	Caroline County	0.08	16-714 Boulwares Rd	SR 207 N, Rogers Clark Blvd	1000	G	95%	2%	1%	1%	0%	0%	F	0.1322	F	0.7443	1100	G	2009
+709629	  16	00601	     	16-601	Penola Rd	016	Caroline County	016	Caroline County	5.84	SR 207 S, Rogers Clark Blvd	US 301 Richmond Tpke	320	R							X						09/06/2007
+404423	  16	00601	     	16-601	Reedy Mill Rd	016	Caroline County	016	Caroline County	3.01	US 301 Richmond Tpke	16-647 W, Doggetts Fork Rd	180	G	95%	2%	1%	1%	0%	0%	F	0.1026	F	0.6809	190	G	2009
+404424	  16	00601	     	16-601	Reedy Mill Rd	016	Caroline County	016	Caroline County	0.79	16-647 W, Doggetts Fork Rd	16-647 E, Reedy Mill Rd	370	G	95%	2%	1%	1%	0%	0%	F	0.1128	F	0.8021	400	G	2009
+404425	  16	00601	     	16-601	Mt Vernon Church Rd	016	Caroline County	016	Caroline County	2.62	16-647 E, Reedy Mill Rd	16-600 E, Frog Level Rd	160	G	95%	2%	1%	1%	0%	0%	F	0.1221	F	0.6458	170	G	2009
+709630	  16	00601	     	16-601	Edgar Rd	016	Caroline County	016	Caroline County	3.39	16-600 WEST	King William County Line	140	R							X						08/06/2007
+709631	  16	00602	     	16-602	Concord Rd	016	Caroline County	016	Caroline County	1.79	16-652 Signboard Rd	16-662 Gregory Rd	350	R							X						08/08/2007
+709632	  16	00602	     	16-602	Concord Rd	016	Caroline County	016	Caroline County	1.20	16-662 Gregory Rd	US 301; 16-651	450	R							X						08/08/2007
+709633	  16	00603	     	16-603	Landora Bridge Rd	016	Caroline County	016	Caroline County	2.61	Hanover County Line	16-669 Sizer Rd	280	R							X						08/09/2004
+709634	  16	00603	     	16-603	Landora Bridge Rd	016	Caroline County	016	Caroline County	1.11	16-669 Sizer Rd	16-639, Ladysmith Rd; Anderson Mill Rd	400	R							X						08/09/2004
+404426	  16	00603	     	16-603	County Line Church Rd	016	Caroline County	016	Caroline County	4.15	16-639, Anderson Mill Rd	16-604 Blantons Rd	660	G	97%	1%	1%	1%	1%	0%	F	0.0941	F	0.5874	710	G	2009
+404427	  16	00603	     	16-603	Church Rd	016	Caroline County	016	Caroline County	0.40	16-604 Blantons Rd	16-661 Cedon Rd	860	G	97%	1%	1%	1%	1%	0%	C	0.0936	F	0.7065	930	G	2009
+709635	  16	00603	     	16-603	Church Rd	016	Caroline County	016	Caroline County	2.01	16-661 Cedon Rd	16-632 Quarters Rd	760	R							X						08/16/2004
+791121	  16	00603	     	16-603	Arcadia Rd	016	Caroline County	016	Caroline County	0.38	16-632 Quarters Rd	Spotsylvania County Line	1100	R							X						08/30/2007
+709636	  16	00604	     	16-604	Blantons Rd	016	Caroline County	016	Caroline County	0.72	Spotsylvania County Line	16-603 N, Countyline Church Rd	390	R							X						08/30/2007
+709637	  16	00604	     	16-604	Gatewood Rd	016	Caroline County	016	Caroline County	2.88	16-603 S, Countyline Church Rd	US 1 Jefferson Davis Hwy	680	R							X						08/30/2007
+709638	  16	00605	     	16-605	Marye Rd	016	Caroline County	016	Caroline County	0.43	Spotsylvania County Line	US 1 Jefferson Davis Hwy	510	R							X						08/30/2007
+404428	  16	00605	     	16-605	Paige Rd	016	Caroline County	016	Caroline County	0.71	US 1 Jefferson Davis Hwy	16-633 Nancy Wrights Dr	850	G	98%	1%	1%	0%	0%	0%	C	0.0996	F	0.5109	920	G	2009
+404429	  16	00605	     	16-605	 	016	Caroline County	016	Caroline County	1.57	16-633 Nancy Wrights Dr	16-632 E, Edgehill Academy Rd	780	G	98%	1%	1%	0%	0%	0%	F	0.0899	F	0.5253	850	G	2009
+404430	  16	00605	     	16-605	 	016	Caroline County	016	Caroline County	2.67	16-632 E, Edgehill Academy Rd	16-626 N, Woodford Rd	620	G	98%	1%	1%	0%	0%	0%	F	0.0981	F	0.5070	670	G	2009
+404431	  16	00605	     	16-605	 	016	Caroline County	016	Caroline County	1.94	16-626 N, Woodford Rd	16-638, S River Rd	510	G	98%	1%	1%	0%	0%	0%	F	0.1034	F	0.6077	550	G	2009
+404432	  16	00605	     	16-605	 	016	Caroline County	016	Caroline County	4.08	16-638, S River Rd	NCL Bowling Green	540	G	98%	1%	1%	0%	0%	0%	F	0.0934	F	0.5041	580	G	2009
+404489	  16	00605	     	16-605	 	171	Town of Bowling Green	016	Caroline County	0.04	NCL Bowling Green	SR 2 Main St	540	G	98%	1%	1%	0%	0%	0%	F	0.0934	F	0.5041	580	G	2009
+404433	  16	00606	     	16-606	Stonewall Jackson Rd	016	Caroline County	016	Caroline County	3.51	Spotsylvania County Line	16-755 Guinea Dr	1800	G	90%	2%	1%	2%	5%	0%	F	0.0923	F	0.5748	2000	G	2009
+404434	  16	00606	     	16-606	 	016	Caroline County	016	Caroline County	0.19	16-755 Guinea Dr	16-607 EAST	1900	G	90%	2%	1%	2%	5%	0%	F	0.0930	F	0.5253	2100	G	2009
+404435	  16	00606	     	16-606	 	016	Caroline County	016	Caroline County	0.63	16-607 EAST	16-609 E, Rozell Rd	1700	G	90%	2%	1%	2%	5%	0%	F	0.0933	F	0.5100	1900	G	2009
+404436	  16	00606	     	16-606	 	016	Caroline County	016	Caroline County	2.30	16-609 E, Rozell Rd	SR 2 Fredericksburg Tpke	1400	G	90%	2%	1%	2%	5%	0%	C	0.0982	F	0.5455	1500	G	2009
+709639	  16	00607	     	16-607	 	016	Caroline County	016	Caroline County	2.09	Spotsylvania County Line	16-606 WEST	300	R							X						08/02/2004
+709640	  16	00607	     	16-607	 	016	Caroline County	016	Caroline County	0.76	16-606 EAST	16-609 W, Rozell Rd	170	R							X						08/02/2004
+709641	  16	00607	     	16-607	 	016	Caroline County	016	Caroline County	2.10	16-609 E, Rozell Rd	SR 2 Fredericksburg Tpke	150	R							X						08/02/2004
+709642	  16	00608	     	16-608	Seals Rd	016	Caroline County	016	Caroline County	2.41	16-630	16-621 SOUTH	70	R							X						08/01/2007
+709643	  16	00608	     	16-608	Seals Rd	016	Caroline County	016	Caroline County	1.20	16-621 SOUTH	16-641 Gap	60	R							X						08/01/2007
+709644	  16	00608	     	16-608	Lakewood Rd	016	Caroline County	016	Caroline County	0.09	Dead End; Gap	ECL Bowling Green	530	R							X						09/24/2007
+785062	  16	00608	     	16-608	Lakewood Rd	171	Town of Bowling Green	016	Caroline County	0.01	ECL Bowling Green	US 301 E, A P Hill Blvd	390	R							X						10/01/2001
+709645	  16	00608	     	16-608	Lakewood Rd	171	Town of Bowling Green	016	Caroline County	0.44	US 301 E, A P Hill Blvd	WCL Bowling Green	60	R							X						09/24/2007
+785063	  16	00608	     	16-608	 	016	Caroline County	016	Caroline County	0.84	WCL Bowling Green	NCL Bowling Green	70	R							X						10/01/2001
+785282	  16	00608	     	16-608	 	171	Town of Bowling Green	016	Caroline County	0.35	NCL Bowling Green	US 301 BUS WEST	150	R							X						10/01/2001
+709646	  16	00609	     	16-609	Woodslane Rd	016	Caroline County	016	Caroline County	0.61	SR 2 Fredericksburg Tpke	16-780 Mt Pleasant Blvd	220	R							X						07/30/2007
+709647	  16	00609	     	16-609	Woodslane Rd	016	Caroline County	016	Caroline County	1.71	16-780 Mt Pleasant Blvd	16-626 S, Woodford Rd	150	R							X						07/30/2007
+709648	  16	00609	     	16-609	Rozell Rd	016	Caroline County	016	Caroline County	1.30	16-626 NORTH	16-607 EAST	190	R							X						08/01/2007
+709649	  16	00609	     	16-609	Rozell Rd	016	Caroline County	016	Caroline County	1.48	16-607 EAST	16-606 E, Stonewall Jackson Rd	450	R							X						08/01/2007
+302107	  16	00609	     	16-609	Macedonia Rd	016	Caroline County	016	Caroline County	2.89	16-606 W, Stonewall Jackson Rd	16-668 S, Summit Crossing Rd	590	G	96%	0%	1%	2%	0%	0%	C	0.1041	F	0.5811	640	G	2009
+709650	  16	00609	     	16-609	Macedonia Rd	016	Caroline County	016	Caroline County	0.61	16-668 S, Summit Crossing Rd	Spotsylvania County Line	880	R							X						09/27/2007
+404437	  16	00610	     	16-610	Pepmeier Hill Rd	016	Caroline County	016	Caroline County	4.73	SR 2 Fredericksburg Tpke	US 17 Tidewater Trail	480	G	97%	1%	1%	1%	1%	0%	C	0.0991	F	0.5741	520	G	2009
+709651	  16	00611	     	16-611	Prospect Hill Lane	016	Caroline County	016	Caroline County	0.70	Dead End	US 17	20	R							X						08/20/2007
+709652	  16	00612	     	16-612	Gravatt Rd	016	Caroline County	016	Caroline County	0.37	US 301; 16-628	16-703 Cannery Rd	30	R							X						09/12/2007
+709653	  16	00613	     	16-613	Zion Rd	016	Caroline County	016	Caroline County	1.15	US 1 S, Jefferson Davis Hwy	US 1 N, Jefferson Davis Hwy	130	R							X						09/06/2007
+709654	  16	00614	     	16-614	Ware Creek Rd	016	Caroline County	016	Caroline County	1.40	US 17 Tidewater Trail	16-615 W, Skinners Neck Rd	340	R							X						08/18/2004
+404438	  16	00614	     	16-614	Ware Creek Rd	016	Caroline County	016	Caroline County	0.20	16-615 W, Skinners Neck Rd	16-615 E, Buckner Rd	110	G	90%	3%	1%	3%	3%	0%	C	0.1186	F	0.6429	120	G	2009
+709655	  16	00614	     	16-614	Ware Creek Rd	016	Caroline County	016	Caroline County	0.40	16-615 E, Buckner Rd	Dead End	40	R							X						08/18/2004
+404439	  16	00615	     	16-615	Buckner Rd	016	Caroline County	016	Caroline County	0.90	US 17 Tidewater Trail	16-614 E, Ware Creek Rd	170	G	91%	3%	2%	1%	3%	0%	C	0.1176	F	0.5417	190	G	2009
+709656	  16	00615	     	16-615	Buckner Rd	016	Caroline County	016	Caroline County	2.30	16-614 E, Ware Creek Rd	16-728 Black Marsh Rd	400	R							X						08/18/2004
+404440	  16	00615	     	16-615	Skinkers Neck Rd	016	Caroline County	016	Caroline County	2.20	16-728 Black Marsh Rd	16-614 W, Ware Creek Rd	270	G	91%	3%	2%	1%	3%	0%	F	0.0983	F	0.6032	300	G	2009
+709657	  16	00616	     	16-616	Beverley Run Rd	016	Caroline County	016	Caroline County	0.79	16-618 Alps Rd	Dead End	40	R							X						07/30/2007
+709658	  16	00617	     	16-617	Fortune Dr	016	Caroline County	016	Caroline County	1.40	Dead End	16-630	50	R							X						07/30/2007
+709659	  16	00618	     	16-618	Alps Rd	016	Caroline County	016	Caroline County	1.10	Dead End	16-645 Lauraville Lane	40	R							X						07/30/2007
+709660	  16	00618	     	16-618	Alps Rd	016	Caroline County	016	Caroline County	1.00	16-645 Lauraville Lane	16-630	90	R							X						08/16/2004
+709661	  16	00618	     	16-618	Alps Rd	016	Caroline County	016	Caroline County	0.70	16-630	16-665 Dodge City Rd	310	R							X						08/18/2004
+709662	  16	00618	     	16-618	Alps Rd	016	Caroline County	016	Caroline County	2.97	16-665 Dodge City Rd	16-641 Perimeter Rd	30	R							X						08/18/2004
+709663	  16	00618	     	16-618	Alps Rd	016	Caroline County	016	Caroline County	2.43	16-641 Perimeter Rd	16-625 Passing Rd	60	R							X						08/18/2004
+709664	  16	00619	     	16-619	Milford St	016	Caroline County	016	Caroline County	0.37	SR 207	WCL Bowling Green	530	R							X						09/24/2007
+709665	  16	00619	     	16-619	Milford St	171	Town of Bowling Green	016	Caroline County	0.55	WCL Bowling Green	Bus US 301	1500	R							X						09/24/2007
+404441	  16	00619	     	16-619	Chase St	171	Town of Bowling Green	016	Caroline County	0.06	Bus US 301	16-1205 Ennis St	1300	G	98%	1%	1%	0%	0%	0%	F	0.1115	F	0.5382	1400	G	2009
+404442	  16	00619	     	16-619	Chase St	171	Town of Bowling Green	016	Caroline County	0.28	16-1205 Ennis St	US 301 Richmond Tpke	780	G	98%	1%	1%	0%	0%	0%	C	0.1046	F	0.6170	840	G	2009
+404443	  16	00619	     	16-619	Chase St	016	Caroline County	016	Caroline County	2.52	US 301 Richmond Tpke	16-640 Smoots Rd; Wrightsville Rd	340	G	98%	1%	1%	0%	0%	0%	F	0.1293	F	0.6222	370	G	2009
+709666	  16	00620	     	16-620	Chesterfield Rd	016	Caroline County	016	Caroline County	0.19	16-652 Ruther Glen Rd	Dead End	45	R							X						09/06/2007
+709667	  16	00621	     	16-621	 	016	Caroline County	016	Caroline County	2.50	16-640 Maragossic Dr	16-608 S, Seals Rd	40	R							X						08/18/2004
+709668	  16	00621	     	16-621	 	016	Caroline County	016	Caroline County	2.00	16-608 N, Seals Rd	16-618 Alps Rd	40	R							X						08/18/2004
+709669	  16	00622	     	16-622	Durrette Rd	016	Caroline County	016	Caroline County	1.54	Dead End	US 1 Jefferson Davis Hwy	110	R							X						08/11/2004
+709670	  16	00623	     	16-623	Old Stage Rd	016	Caroline County	016	Caroline County	1.10	16-654 Burkes Bridge Rd	16-627 Mattaponi Trail	20	R							X						08/01/2007
+709671	  16	00624	     	16-624	Tignor Rd	016	Caroline County	016	Caroline County	0.33	King & Queen County Line	16-630	70	R							X						07/30/2007
+709672	  16	00625	     	16-625	Passing Rd	016	Caroline County	016	Caroline County	1.50	King & Queen County Line	16-630	260	R							X						07/30/2007
+709673	  16	00625	     	16-625	Passing Rd	016	Caroline County	016	Caroline County	8.97	16-630	Essex County Line	140	R							X						07/30/2007
+709674	  16	00626	     	16-626	Sunshine School Rd	016	Caroline County	016	Caroline County	3.30	16-633 Bull Church Rd	16-605 SOUTH	70	R							X						08/04/2004
+709675	  16	00626	     	16-626	Woodford Rd	016	Caroline County	016	Caroline County	2.59	16-605 NORTH	16-609 S, Woodslane Rd	250	R							X						08/04/2004
+709676	  16	00626	     	16-626	 	016	Caroline County	016	Caroline County	2.40	16-609 S, Woodslane Rd	SR 2 Fredericksburg Tpke	270	R							X						08/04/2004
+709677	  16	00627	     	16-627	Mattaponi Trail	016	Caroline County	016	Caroline County	4.70	16-721	16-654 Kidds Fork Rd; Burkes Bridge Rd	430	R							X						08/01/2007
+709678	  16	00627	     	16-627	Mattaponi Trail	016	Caroline County	016	Caroline County	4.60	16-654 Kidds Fork Rd; Burkes Bridge Rd	16-644 Bagby Rd	440	R							X						08/01/2007
+709679	  16	00627	     	16-627	Mattaponi Trail	016	Caroline County	016	Caroline County	2.90	16-644 Bagby Rd	King & Queen County Line	200	R							X						07/30/2007
+404444	  16	00628	     	16-628	Antioch Rd	016	Caroline County	016	Caroline County	0.30	16-722 Colonial Rd	16-722 Nelson Hill Rd; 16-640 New Baltimore Rd	1000	G	93%	1%	2%	1%	2%	0%	C	0.1041	F	0.5285	1100	G	2009
+404445	  16	00628	     	16-628	Antioch Rd	016	Caroline County	016	Caroline County	1.88	16-722 Nelson Hill Rd; 16-640 New Baltimore Rd	US 301, SR 2 Richmond Tpke	1500	G	93%	1%	2%	1%	2%	0%	F	0.1076	F	0.6554	1600	G	2009
+709680	  16	00629	     	16-629	Minarchi Rd	016	Caroline County	016	Caroline County	0.80	16-609 Woodslane Rd	SR 2 Fredericksburg Tpke	50	R							X						07/30/2007
+404446	  16	00630	     	16-630	Sparta Rd	016	Caroline County	016	Caroline County	3.10	16-721 Newton Rd	16-618 Alps Rd	870	G	93%	2%	2%	1%	2%	0%	C	0.1018	F	0.5446	940	G	2009
+404447	  16	00630	     	16-630	Sparta Rd	016	Caroline County	016	Caroline County	2.78	16-618 Alps Rd	16-625 Passing Rd	610	G	93%	2%	2%	1%	2%	0%	F	0.1184	F	0.6034	660	G	2009
+404448	  16	00630	     	16-630	Sparta Rd	016	Caroline County	016	Caroline County	3.91	16-625 Passing Rd	16-635; Essex County Line	290	G	93%	2%	2%	1%	2%	0%	F	0.1264	F	0.6304	320	G	2009
+709681	  16	00631	     	16-631	Farmer Dr	016	Caroline County	016	Caroline County	1.20	SR 2 S, Fredericksburg Tpke	SR 2 N, Fredericksburg Tpke	210	R							X						09/24/2007
+709682	  16	00631	     	16-631	Farmer Dr	016	Caroline County	016	Caroline County	0.70	SR 2 N, Fredericksburg Tpke	Dead End	160	R							X						09/24/2007
+709683	  16	00632	     	16-632	Quarters Rd	016	Caroline County	016	Caroline County	1.26	16-603 Countyline Church Rd	16-754 Apple Orchard Dr	210	R							X						08/30/2007
+709684	  16	00632	     	16-632	Quarters Rd	016	Caroline County	016	Caroline County	0.72	16-754 Apple Orchard Dr	US 1 Jefferson Davis Hwy	380	R							X						08/30/2007
+404449	  16	00632	     	16-632	Cedon Rd	016	Caroline County	016	Caroline County	1.70	US 1 Jefferson Davis Hwy	16-633 S, Nancy Wrights Dr	400	G	95%	2%	0%	0%	2%	0%	C	0.1083	F	0.5882	430	G	2009
+404450	  16	00632	     	16-632	 	016	Caroline County	016	Caroline County	0.60	16-633 S, Nancy Wrights Dr	16-633 Bull Church Rd	330	G	95%	2%	0%	0%	2%	0%	F	0.1213	F	0.5000	360	G	2009
+406768	  16	00632	     	16-632	 	016	Caroline County	016	Caroline County	0.40	16-633 Bull Church Rd	16-605 WEST	330	N	95%	2%	0%	0%	2%	0%	N	0.1213	N	0.5000	360	N	2009
+709685	  16	00632	     	16-632	Edgehill Academy Rd	016	Caroline County	016	Caroline County	3.18	16-605 WEST	16-606 Stonewall Jackson Rd	270	R							X						08/30/2007
+709686	  16	00633	     	16-633	Bull Church Rd	016	Caroline County	016	Caroline County	1.80	16-601 Golansville Rd	16-639 Ladysmith Rd	230	R							X						08/04/2004
+709687	  16	00633	     	16-633	Bull Church Rd	016	Caroline County	016	Caroline County	1.76	16-639 Ladysmith Rd	16-634 Michaels Rd	240	R							X						08/04/2004
+709688	  16	00633	     	16-633	Bull Church Rd	016	Caroline County	016	Caroline County	2.87	16-634 Michaels Rd	16-632 NORTH	330	R							X						08/04/2004
+709689	  16	00633	     	16-633	Nancy Wrights Dr	016	Caroline County	016	Caroline County	1.30	16-632 S, Cedon Rd	16-605 Paige Rd	140	R							X						08/04/2004
+709690	  16	00633	     	16-633	Nancy Wrights Dr	016	Caroline County	016	Caroline County	0.81	16-605 Paige Rd	Dead End	30	R							X						08/30/2007
+709691	  16	00634	     	16-634	Michaels Rd	016	Caroline County	016	Caroline County	2.20	16-633 Bull Church Rd	16-664 Bath Rd	30	R							X						09/10/2007
+404451	  16	00635	     	16-635	Battery Rd	016	Caroline County	016	Caroline County	0.70	King & Queen County Line	16-630	270	G	95%	1%	3%	0%	2%	0%	C	0.1125	F	0.6286	290	G	2009
+709692	  16	00636	     	16-636	 	016	Caroline County	016	Caroline County	1.50	16-625 Passing Rd	Essex County Line	70	R							X						08/16/2004
+709693	  16	00637	     	16-637	Hustle Rd	016	Caroline County	016	Caroline County	0.40	16-625 Passing Rd	Essex County Line	80	R							X						07/30/2007
+709694	  16	00638	     	16-638	S River Rd	016	Caroline County	016	Caroline County	4.35	16-639 Ladysmith Rd	16-605	150	R							X						09/10/2007
+709695	  16	00638	     	16-638	S River Rd	016	Caroline County	016	Caroline County	1.70	16-605	16-626 Woodford Rd	170	R							X						09/10/2007
+404452	  16	00639	     	16-639	Anderson Mill Rd	016	Caroline County	016	Caroline County	0.53	16-738 Partlow Rd; Teman Rd	16-603 E, Landora Bridge Rd	2500	G	98%	1%	1%	0%	0%	0%	F	0.0920	F	0.6340	2700	G	2009
+404453	  16	00639	     	16-639	Ladysmith Rd	016	Caroline County	016	Caroline County	4.20	16-603 E, Landora Bridge Rd	US 1 Jefferson Davis Hwy	7300	G	98%	1%	1%	0%	0%	0%	C	0.0964	F	0.7414	7900	G	2009
+709696	  16	00639	     	16-639	Ladysmith Rd	016	Caroline County	016	Caroline County	0.79	US 1 Jefferson Davis Hwy	I-95	8700	R							X						08/11/2004
+709697	  16	00639	     	16-639	Ladysmith Rd	016	Caroline County	016	Caroline County	0.54	I-95	16-633 Bull Church Rd	5200	R							X						08/04/2004
+709698	  16	00639	     	16-639	Ladysmith Rd	016	Caroline County	016	Caroline County	5.38	16-633 Bull Church Rd	SR 207 Rogers Clark Blvd	3100	R							X						08/09/2004
+404454	  16	00640	     	16-640	Industrial Dr	016	Caroline County	016	Caroline County	0.19	Dead End	16-773 House Dr	60	G	66%	1%	2%	8%	22%	0%	F	0.1408	F	0.5333	60	G	2009
+404455	  16	00640	     	16-640	Industrial Dr	016	Caroline County	016	Caroline County	0.51	16-773 House Dr	16-768 Aspen Rd	230	G	66%	1%	2%	8%	22%	0%	F	0.1425	F	0.5600	250	G	2009
+404456	  16	00640	     	16-640	Industrial Dr	016	Caroline County	016	Caroline County	0.26	16-768 Aspen Rd	16-722 W, Nelson Hill Rd	570	G	66%	1%	2%	8%	22%	0%	C	0.1103	F	0.7500	620	G	2009
+404457	  16	00640	     	16-640	New Baltimore Rd	016	Caroline County	016	Caroline County	1.92	16-628 Antioch Rd; 16-722 Nelson Hill Rd	US 301, SR 2 S, Richmond Tpke	570	G	66%	1%	2%	8%	22%	0%	F	0.1032	F	0.6610	620	G	2009
+405454	  16	00640	     	16-640	Wrightsville Rd	016	Caroline County	016	Caroline County	2.06	US 301, SR 2 N, Richmond Tpke	16-619 Chase St	120	G	66%	1%	2%	8%	22%	0%	F	0.1263	F	0.6170	130	G	2009
+709699	  16	00640	     	16-640	Smoots Rd	016	Caroline County	016	Caroline County	2.35	16-619	16-641 W, Perimeter Rd	230	R							X						09/27/2007
+709700	  16	00640	     	16-640	Maragossic Dr	016	Caroline County	016	Caroline County	3.28	16-641 E, Perimeter Rd	16-721 Sparta Rd	70	R							X						08/01/2007
+709701	  16	00641	     	16-641	Perimeter Rd	016	Caroline County	016	Caroline County	3.25	16-721	16-640 E, Maragossic Dr	130	R							X						09/27/2007
+709702	  16	00641	     	16-641	Perimeter Rd	016	Caroline County	016	Caroline County	5.90	16-640 E, Maragossic Dr	16-618 Alps Rd	160	R							X						08/01/2007
+709703	  16	00642	     	16-642	Cammack Rd	016	Caroline County	016	Caroline County	0.30	16-716 Moncure Dr	Dead End	220	R							X						09/06/2007
+709704	  16	00643	     	16-643	File Rd	016	Caroline County	016	Caroline County	1.80	16-721	16-654 E, Pendleton Rd	420	R							X						08/01/2007
+709705	  16	00643	     	16-643	File Rd	016	Caroline County	016	Caroline County	2.20	16-654 E, Pendleton Rd	16-644 Bagby Rd	120	R							X						08/01/2007
+709706	  16	00644	     	16-644	Bagby Rd	016	Caroline County	016	Caroline County	2.20	16-627 Mattaponi Trail	16-643 File Rd	90	R							X						07/30/2007
+709707	  16	00644	     	16-644	Bagby Rd	016	Caroline County	016	Caroline County	2.00	16-643 File Rd	16-721	120	R							X						07/30/2007
+709708	  16	00645	     	16-645	Lauraville Lane	016	Caroline County	016	Caroline County	1.65	16-721	16-618 Alps Rd	80	R							X						07/30/2007
+709709	  16	00646	     	16-646	Fork Bridge Rd	016	Caroline County	016	Caroline County	3.60	16-627 Mattaponi Trail	16-721	40	R							X						07/30/2007
+709710	  16	00647	     	16-647	Doggetts Fork Rd	016	Caroline County	016	Caroline County	0.55	US 301 Richmond Tpke	16-1310	830	R							X						08/06/2007
+709711	  16	00647	     	16-647	Doggetts Fork Rd	016	Caroline County	016	Caroline County	2.06	16-1310	16-601 WEST	210	R							X						08/06/2007
+709712	  16	00647	     	16-647	Reedy Mill Rd	016	Caroline County	016	Caroline County	1.90	16-601 EAST	16-627 W, Mattaponi Trail	280	R							X						08/06/2007
+709713	  16	00647	     	16-647	Asheville Rd	016	Caroline County	016	Caroline County	1.80	16-627 E, Mattaponi Trail	16-654 Kidds Fork Rd	6	R							X						08/01/2007
+709714	  16	00648	     	16-648	Sunshine Rd	016	Caroline County	016	Caroline County	1.95	US 301 S, Richmond Tpke	16-663	320	R							X						08/06/2007
+709715	  16	00648	     	16-648	Sunshine Rd	016	Caroline County	016	Caroline County	1.90	16-663	16-647 Doggetts Fork Rd	110	R							X						08/06/2007
+709716	  16	00648	     	16-648	Sunshine Rd	016	Caroline County	016	Caroline County	0.53	16-647 Doggetts Fork Rd	US 301 N, Richmond Tpke	330	R							X						08/06/2007
+709717	  16	00649	     	16-649	 	016	Caroline County	016	Caroline County	0.55	16-600	16-648 Sunshine Rd	110	R							X						10/29/2004
+709718	  16	00650	     	16-650	Discovery Lane	016	Caroline County	016	Caroline County	2.07	Dead End	SR 30 W, Dawn Blvd	170	R							X						08/06/2007
+709719	  16	00650	     	16-650	Winston Loop	016	Caroline County	016	Caroline County	0.60	SR 30 MID	SR 30 E, Dawn Blvd	48	R							X						08/06/2007
+709720	  16	00651	     	16-651	North Wales Rd	016	Caroline County	016	Caroline County	0.60	US 301 S, Richmond Tpke	US 301 S MID	2	R							X						08/08/2007
+709721	  16	00651	     	16-651	Mt Gideon Rd	016	Caroline County	016	Caroline County	2.10	US 301 S MID	US 301 MID	190	R							X						07/19/2004
+709722	  16	00651	     	16-651	Baylor Rd	016	Caroline County	016	Caroline County	0.50	US 301 MID	US 301 N MID	420	R							X						07/19/2004
+709723	  16	00651	     	16-651	Old Dawn Rd	016	Caroline County	016	Caroline County	0.22	US 301 N MID	SR 30 Dawn Blvd	1300	R							X						07/19/2004
+709724	  16	00651	     	16-651	Old Dawn Rd	016	Caroline County	016	Caroline County	0.20	SR 30 Dawn Blvd	16-694 Courtney Rd	840	R							X						07/19/2004
+709725	  16	00651	     	16-651	Old Dawn Rd	016	Caroline County	016	Caroline County	0.80	16-694 Courtney Rd	US 301 N, Richmond Tpke	360	R							X						07/19/2004
+709726	  16	00652	     	16-652	Riva Rd	016	Caroline County	016	Caroline County	1.00	16-651 Baylor Rd	16-725 Sadie Lane Rd	580	R							X						07/19/2004
+709727	  16	00652	     	16-652	Meadow Farm Rd	016	Caroline County	016	Caroline County	3.03	16-725 Sadie Lane Rd	SR 30 W, Dawn Blvd	70	R							X						07/19/2004
+404459	  16	00652	     	16-652	Signboard Rd	016	Caroline County	016	Caroline County	3.83	SR 30 E, Dawn Blvd	16-654 Signboard Rd	1200	G	96%	1%	0%	0%	2%	0%	C	0.0943	F	0.6667	1300	G	2009
+404460	  16	00652	     	16-652	Ruther Glen Rd	016	Caroline County	016	Caroline County	4.26	16-654 Signboard Rd	SR 207 Rogers Clark Blvd	2000	G	96%	1%	0%	0%	2%	0%	F	0.0975	F	0.6794	2100	G	2009
+709728	  16	00652	     	16-652	 	016	Caroline County	016	Caroline County	0.95	SR 207 Rogers Clark Blvd	16-716 Moncure Dr	710	G							X				710	G	2009
+709729	  16	00652	     	16-652	Cool Water Dr	016	Caroline County	016	Caroline County	2.80	16-716 Moncure Dr	US 1 Jefferson Davis Hwy	370	R							X						08/09/2004
+709730	  16	00653	     	16-653	Burruss Lane	016	Caroline County	016	Caroline County	3.45	16-652 Signboard Rd	US 301 Richmond Tpke	190	R							X						07/19/2004
+709731	  16	00654	     	16-654	Signboard Rd	016	Caroline County	016	Caroline County	1.70	16-652 Ruther Glen Rd	16-656 W, Day Bridge Rd	420	R							X						08/08/2007
+709732	  16	00654	     	16-654	Moores Mill Rd	016	Caroline County	016	Caroline County	2.60	16-656 E, Day Bridge Rd	US 301; SR 2	240	R							X						08/08/2007
+709733	  16	00654	     	16-654	Burkes Bridge Rd	016	Caroline County	016	Caroline County	0.10	US 301; SR 2	16-601 WEST	290	R							X						08/08/2007
+709734	  16	00654	     	16-654	Burkes Bridge Rd	016	Caroline County	016	Caroline County	2.84	16-601 EAST	16-627 Mattaponi Trail	90	R							X						08/06/2007
+709735	  16	00654	     	16-654	Kidds Fork Rd	016	Caroline County	016	Caroline County	3.40	16-627 Mattaponi Trail	16-643 W, File Rd	130	R							X						08/01/2007
+709736	  16	00654	     	16-654	Pendleton Rd	016	Caroline County	016	Caroline County	1.80	16-643 E, File Rd	16-721	120	R							X						08/01/2007
+709737	  16	00655	     	16-655	McBryant Rd	016	Caroline County	016	Caroline County	1.76	16-656 Day Bridge Rd	16-654 Moores Mill Rd	160	R							X						08/08/2007
+709738	  16	00656	     	16-656	Dry Bridge Rd	016	Caroline County	016	Caroline County	2.10	US 301; 16-648	16-654 E, Moores Mill Rd	310	R							X						08/08/2007
+709739	  16	00656	     	16-656	Dry Bridge Rd	016	Caroline County	016	Caroline County	1.81	16-654 E, Moores Mill Rd	16-655 McBryant Rd	360	R							X						08/08/2007
+709740	  16	00656	     	16-656	Dry Bridge Rd	016	Caroline County	016	Caroline County	2.10	16-655 McBryant Rd	16-684 Dry Bridge Rd	490	F	89%	0%	0%	0%	10%	0%	C	0.0987	F	0.6809	490	F	2009
+709741	  16	00656	     	16-656	Colemans Mill Rd	016	Caroline County	016	Caroline County	0.89	16-684 Dry Bridge Rd	RF&P Railroad	330	R							X						09/06/2007
+709742	  16	00656	     	16-656	Colemans Mill Rd	016	Caroline County	016	Caroline County	0.39	RF&P Railroad	SR 207; 16-716	260	R							X						09/06/2007
+709743	  16	00657	     	16-657	Telegraph Rd	016	Caroline County	016	Caroline County	2.72	US 1 S, Jefferson Davis Hwy	US 1 N, Jefferson Davis Hwy	140	R							X						08/09/2004
+404461	  16	00658	     	16-658	Jericho Rd	016	Caroline County	016	Caroline County	4.32	16-639 Ladysmith Rd	16-601 E, Hewlett Rd	880	G	96%	1%	1%	1%	1%	0%	F	0.1090	F	0.6595	950	G	2009
+404462	  16	00658	     	16-658	Jericho Rd	016	Caroline County	016	Caroline County	0.86	16-601 E, Hewlett Rd	16-659 Palace Green Rd	1200	G	96%	1%	1%	1%	1%	0%	F	0.1055	F	0.7097	1300	G	2009
+404463	  16	00658	     	16-658	Jericho Rd	016	Caroline County	016	Caroline County	3.25	16-659 Palace Green Rd	US 1 Jefferson Davis Hwy; SR 207 Rogers Clark Blvd	1700	G	96%	1%	1%	1%	1%	0%	C	0.1043	F	0.7212	1800	G	2009
+709744	  16	00659	     	16-659	Palace Green Rd	016	Caroline County	016	Caroline County	1.50	16-658 Jericho Rd	Dead End	90	R							X						08/28/2007
+709745	  16	00660	     	16-660	Claiborne Crossing Rd	016	Caroline County	016	Caroline County	0.27	16-607	16-1020 Tanglewood Dr	510	R							X						09/27/2007
+709746	  16	00660	     	16-660	Claiborne Crossing Rd	016	Caroline County	016	Caroline County	1.23	16-1020 Tanglewood Dr	16-609 Macedonia Rd	220	R							X						09/27/2007
+404464	  16	00661	     	16-661	Cedon Rd	016	Caroline County	016	Caroline County	2.40	16-603 Church Rd	US 1 Jefferson Davis Hwy	480	G	97%	1%	1%	0%	0%	0%	C	0.1030	F	0.5455	510	G	2009
+709747	  16	00662	     	16-662	Gregory Rd	016	Caroline County	016	Caroline County	2.10	16-602 Concord Rd	16-653 Burruss Lane	70	R							X						08/08/2007
+709748	  16	00663	     	16-663	 	016	Caroline County	016	Caroline County	3.25	16-648 Sunshine Rd	16-601	110	R							X						07/22/2004
+709749	  16	00664	     	16-664	Balty Rd	016	Caroline County	016	Caroline County	0.82	Dead End	0.82 MN Dead End	80	R							X						08/28/2007
+709750	  16	00664	     	16-664	Balty Rd	016	Caroline County	016	Caroline County	0.08	0.82 MN Dead End	16-601 Golansville Rd	150	R							X						08/28/2007
+709751	  16	00664	     	16-664	Balty Rd	016	Caroline County	016	Caroline County	1.90	16-601 Golansville Rd	16-639 W, Ladysmith Rd	200	R							X						09/10/2007
+709752	  16	00664	     	16-664	Bath Rd	016	Caroline County	016	Caroline County	2.13	16-639 E, Ladysmith Rd	16-638, S River Rd	220	R							X						09/10/2007
+709753	  16	00665	     	16-665	Dodge City Rd	016	Caroline County	016	Caroline County	4.20	16-618 Alps Rd	16-625 Passing Rd	120	R							X						07/30/2007
+709754	  16	00666	     	16-666	Rixey Rd	016	Caroline County	016	Caroline County	0.69	Dead End	0.69 ME Dead End	40	R							X						09/12/2007
+709755	  16	00666	     	16-666	Rixey Rd	016	Caroline County	016	Caroline County	0.21	0.69 ME Dead End	16-631 Farmer Dr	80	R							X						09/12/2007
+709756	  16	00668	     	16-668	Summit Crossing Rd	016	Caroline County	016	Caroline County	0.42	Spotsylvania County Line	16-609 S, Macedonia Rd	260	R							X						09/27/2007
+709757	  16	00668	     	16-668	Long Branch Rd	016	Caroline County	016	Caroline County	3.08	16-609 N, Macedonia Rd	SR 2 Fredericksburg Tpke	270	R							X						09/27/2007
+709758	  16	00669	     	16-669	Trivette Rd	016	Caroline County	016	Caroline County	1.75	Spotsylvania County Line	16-738 N, Anderson Mill Rd	210	R							X						08/09/2004
+709759	  16	00669	     	16-669	Sizer Rd	016	Caroline County	016	Caroline County	1.10	16-738 S, Anderson Mill Rd	16-603 Landora Bridge Rd	60	R							X						08/09/2004
+709760	  16	00670	     	16-670	Lewis Moore Rd	016	Caroline County	016	Caroline County	1.60	16-600	16-663	140	R							X						08/06/2007
+709761	  16	00671	     	16-671	Chilesburg Rd	016	Caroline County	016	Caroline County	1.90	16-738 S, Anderson Mill Rd	16-738 Mid, Partlow Rd	190	R							X						08/28/2007
+709762	  16	00671	     	16-671	Goose Hill Rd	016	Caroline County	016	Caroline County	1.37	16-738 W, Partlow Rd	16-603 County Line Church Rd	300	R							X						08/28/2007
+709763	  16	00672	     	16-672	Boxley Rd	016	Caroline County	016	Caroline County	1.90	16-601 Golansville Rd	16-639 Ladysmith Rd	100	R							X						09/10/2007
+709764	  16	00673	     	16-673	Old Grain Rd	016	Caroline County	016	Caroline County	0.30	SR 2 Fredericksburg Tpke	Dead End	10	R							X						09/27/2007
+709765	  16	00674	     	16-674	Burnetts Rd	016	Caroline County	016	Caroline County	0.40	Dead End	16-718 Allport Lane	90	R							X						08/01/2007
+709766	  16	00674	     	16-674	Burnetts Rd	016	Caroline County	016	Caroline County	1.20	16-718 Allport Lane	16-627 Mattaponi Trail	280	R							X						08/01/2007
+709767	  16	00675	     	16-675	Hazelwood Lane	016	Caroline County	016	Caroline County	1.43	US 17 Tidewater Trail	Dead End	70	R							X						08/20/2007
+404465	  16	00676	     	16-676	Devils Three Jump Rd	016	Caroline County	016	Caroline County	2.21	SR 207 Rogers Clark Blvd	16-722 Nelson Hill Rd; Colonial Rd	470	G	96%	3%	2%	0%	0%	0%	C	0.1460	F	0.6250	510	G	2009
+709768	  16	00677	     	16-677	Camp Rd	016	Caroline County	016	Caroline County	0.80	SR 30 Dawn Blvd	16-694 Courtney Rd	280	R							X						08/06/2007
+709769	  16	00677	     	16-677	Camp Rd	016	Caroline County	016	Caroline County	1.00	16-694 Courtney Rd	16-693 Herring Creek Rd	20	R							X						08/06/2007
+709770	  16	00678	     	16-678	Jerusalem Rd	016	Caroline County	016	Caroline County	0.12	16-644 Bagby Rd	16-721	100	R							X						07/30/2007
+709771	  16	00679	     	16-679	Country Rd	016	Caroline County	016	Caroline County	1.20	16-669 Trivette Rd	Spotsylvania County Line	100	R							X						08/28/2007
+709772	  16	00680	     	16-680	Rattletrap Rd	016	Caroline County	016	Caroline County	0.85	Dead End	16-603 County Line Church Rd	40	R							X						08/30/2007
+709773	  16	00681	     	16-681	 	016	Caroline County	016	Caroline County	1.65	US 17 Tidewater Trail	16-758 Eva Rd	70	R							X						08/16/2004
+709774	  16	00681	     	16-681	Snowden Rd	016	Caroline County	016	Caroline County	0.10	16-758 Eva Rd	Dead End	8	R							X						08/20/2007
+709775	  16	00682	     	16-682	Beasley Lane	016	Caroline County	016	Caroline County	1.20	Dead End	US 301 Richmond Tpke	220	R							X						09/12/2007
+709776	  16	00683	     	16-683	CCC Rd	016	Caroline County	016	Caroline County	4.21	16-658 Jericho Rd	US 1 Jefferson Davis Hwy	110	R							X						08/28/2007
+709777	  16	00684	     	16-684	Dry Bridge Rd	016	Caroline County	016	Caroline County	0.88	SR 207 Rogers Clark Blvd	16-656 Colemans Mill Rd	930	F	92%	0%	0%	1%	7%	0%	C	0.1092	F	0.6392	930	F	2009
+709778	  16	00685	     	16-685	 	016	Caroline County	016	Caroline County	0.45	16-639 S, Ladysmith Rd	16-639 N, Ladysmith Rd	47	R							X						08/09/2004
+709779	  16	00686	     	16-686	Camden Rd	016	Caroline County	016	Caroline County	1.08	US 17 Tidewater Trail	Dead End	40	R							X						08/20/2007
+709780	  16	00687	     	16-687	First St	016	Caroline County	016	Caroline County	0.20	16-722 Nelson Hill Rd	Dead End	40	R							X						09/12/2007
+709781	  16	00688	     	16-688	Miller Lane	016	Caroline County	016	Caroline County	0.20	Dead End	16-632 Cedon Rd	110	R							X						08/30/2007
+709782	  16	00689	     	16-689	Oxford Rd	016	Caroline County	016	Caroline County	4.90	US 1 Jefferson Davis Hwy	16-658 Jericho Rd	60	R							X						08/04/2004
+709783	  16	00690	     	16-690	Old CC Rd	016	Caroline County	016	Caroline County	2.40	16-652 Ruther Glen Rd	16-732 Taylor Dr	20	R							X						09/06/2007
+709784	  16	00690	     	16-690	Old CC Rd	016	Caroline County	016	Caroline County	0.30	16-732 Taylor Dr	16-656 Day Bridge Rd	50	R							X						09/06/2007
+709785	  16	00691	     	16-691	Selph Lane	016	Caroline County	016	Caroline County	1.48	16-654 Kidds Fork Rd	Dead End	70	R							X						08/01/2007
+709786	  16	00692	     	16-692	 	016	Caroline County	016	Caroline County	0.10	16-778 Allen Lane	16-639 Ladysmith Rd	650	R							X						08/11/2004
+709787	  16	00693	     	16-693	Herring Creek Rd	016	Caroline County	016	Caroline County	1.50	16-694 Courtney Rd	16-677 Camp Rd	30	R							X						08/06/2007
+709788	  16	00693	     	16-693	Herring Creek Rd	016	Caroline County	016	Caroline County	1.50	16-677 Camp Rd	16-601 Edgar Rd	70	R							X						08/06/2007
+709789	  16	00694	     	16-694	Courtney Rd	016	Caroline County	016	Caroline County	1.85	16-651 Old Dawn Rd	16-677 Camp Rd	400	R							X						07/19/2004
+709790	  16	00694	     	16-694	Courtney Rd	016	Caroline County	016	Caroline County	2.15	16-677 Camp Rd	16-601 Edgar Rd	170	R							X						07/19/2004
+709791	  16	00695	     	16-695	Edwards Rd	016	Caroline County	016	Caroline County	0.68	US 301, SR 2 SOUTH	16-1238 Elm St	510	R							X						09/12/2007
+709792	  16	00695	     	16-695	Edwards Rd	016	Caroline County	016	Caroline County	0.16	16-1238 Elm St	US 301, SR 2 NORTH; FR 814 School St	780	R							X						09/12/2007
+709793	  16	00696	     	16-696	Parkers Lane	016	Caroline County	016	Caroline County	0.01	16-639 Ladysmith Rd	16-764 Scotts Lane	60	R							X						09/10/2007
+709794	  16	00696	     	16-696	Parkers Lane	016	Caroline County	016	Caroline County	0.29	16-764 Scotts Lane	Dead End	30	R							X						09/10/2007
+709795	  16	00697	     	16-697	Cedar Fork Rd	016	Caroline County	016	Caroline County	0.65	16-601 Cedar Fork Rd	Dead End	40	R							X						08/28/2007
+709796	  16	00698	     	16-698	Shockey Lane	016	Caroline County	016	Caroline County	0.50	Dead End	16-669 Trivette Rd	30	R							X						08/28/2007
+709797	  16	00699	     	16-699	 	016	Caroline County	016	Caroline County	0.90	Dead End	16-603 Landora Bridge Rd	80	R							X						08/09/2004
+709798	  16	00700	     	16-700	Mr Airey Rd	016	Caroline County	016	Caroline County	0.50	Dead End	16-658 Jericho Rd	40	R							X						08/28/2007
+709799	  16	00701	     	16-701	 	016	Caroline County	016	Caroline County	0.90	Dead End	16-627 Mattaponi Trail	30	R							X						08/16/2004
+709800	  16	00702	     	16-702	Smith Wright Lane	016	Caroline County	016	Caroline County	0.85	Dead End	16-626 Sunshine School Rd	300	R							X						08/30/2007
+709801	  16	00703	     	16-703	Cannery Rd	016	Caroline County	016	Caroline County	0.25	Dead End	16-612 Gravatt Rd	70	R							X						09/12/2007
+709802	  16	00703	     	16-703	 	016	Caroline County	016	Caroline County	0.04	16-612 Gravatt Rd	US 301 Richmond Tpke	90	R							X						07/28/2004
+709803	  16	00704	     	16-704	Hill Crest Dr	016	Caroline County	016	Caroline County	0.35	Dead End	US 1 Jefferson Davis Hwy	120	R							X						08/28/2007
+709804	  16	00705	     	16-705	McDuff Dr	016	Caroline County	016	Caroline County	0.70	16-716 Moncure Dr	16-652 Cool Water Dr	270	R							X						09/06/2007
+709805	  16	00706	     	16-706	Orlett St	016	Caroline County	016	Caroline County	0.60	Dead End	16-721	10	R							X						07/30/2007
+709806	  16	00707	     	16-707	Mt Cloud Rd	016	Caroline County	016	Caroline County	1.25	16-654 Pendleton Rd	Dead End	60	R							X						08/01/2007
+709807	  16	00708	     	16-708	Liberty Fork Rd	016	Caroline County	016	Caroline County	0.60	Dead End	16-665 Dodge City Rd	7	R							X						07/30/2007
+709808	  16	00708	     	16-708	Liberty Fork Rd	016	Caroline County	016	Caroline County	1.40	16-665 Dodge City Rd	16-618 Alps Rd	9	R							X						07/30/2007
+709809	  16	00709	     	16-709	Wenrich Lane	016	Caroline County	016	Caroline County	0.60	Dead End	16-640 Wrightsville Rd	30	R							X						09/12/2007
+709810	  16	00710	     	16-710	Collins Blvd	016	Caroline County	016	Caroline County	0.10	US 1 Jefferson Davis Hwy	Dead End	30	R							X						08/28/2007
+709811	  16	00711	     	16-711	Alliance Dr	016	Caroline County	016	Caroline County	0.10	16-722 Nelson Hill Rd	Dead End	110	R							X						09/12/2007
+709812	  16	00712	     	16-712	Green Rd	016	Caroline County	016	Caroline County	1.13	US 1 Jefferson Davis Hwy	16-639 Ladysmith Rd	1700	R							X						08/28/2007
+709813	  16	00713	     	16-713	Minor Lane	016	Caroline County	016	Caroline County	0.27	SR 207 S, Rogers Clark Blvd	16-639 Ladysmith Rd	10	R							X						08/09/2004
+709814	  16	00713	     	16-713	Minor Lane	016	Caroline County	016	Caroline County	0.12	16-639 Ladysmith Rd	SR 207 N, Rogers Clark Blvd	160	R							X						08/09/2004
+709815	  16	00714	     	16-714	Boulwares Rd	016	Caroline County	016	Caroline County	0.46	SR 207 Rogers Clark Blvd	16-601 Golansville Rd	80	R							X						08/04/2004
+709816	  16	00715	     	16-715	Patterson Lane	016	Caroline County	016	Caroline County	0.29	Dead End	16-652 Ruther Glen Rd	60	R							X						09/06/2007
+709817	  16	00716	     	16-716	Moncure Dr	016	Caroline County	016	Caroline County	0.77	16-652 Cool Water Dr	16-642 Cammack Rd	420	R							X						09/06/2007
+709818	  16	00716	     	16-716	 	016	Caroline County	016	Caroline County	1.40	16-642 Cammack Rd	SR 207; 16-656	200	R							X						09/06/2007
+709819	  16	00717	     	16-717	Cecil Rd	016	Caroline County	016	Caroline County	0.55	Dead End	16-721	70	R							X						08/01/2007
+709820	  16	00718	     	16-718	Allport Lane	016	Caroline County	016	Caroline County	0.40	Dead End	16-674 Burnetts Rd	40	R							X						08/01/2007
+709821	  16	00719	     	16-719	Mount Rd	016	Caroline County	016	Caroline County	0.35	US 17	Dead End	90	R							X						08/18/2004
+709822	  16	00720	     	16-720	Tate Rd	016	Caroline County	016	Caroline County	0.99	16-658 Jericho Rd	Cul-de-Sac	170	R							X						08/28/2007
+404466	  16	00721	     	16-721	Sparta Rd	016	Caroline County	016	Caroline County	2.46	US 301 Richmond Tpke	16-717 Cecil Rd	2800	G	93%	2%	2%	1%	2%	0%	C	0.0904	F	0.7089	3000	G	2009
+404467	  16	00721	     	16-721	Sparta Rd	016	Caroline County	016	Caroline County	4.00	16-717 Cecil Rd	16-630 Sparta Rd	1800	G	93%	2%	2%	1%	2%	0%	F	0.1000	F	0.7687	1900	G	2009
+404468	  16	00721	     	16-721	Newtown Rd	016	Caroline County	016	Caroline County	1.93	16-630 Sparta Rd	16-644 Bagby Rd	830	G	93%	2%	2%	1%	2%	0%	F	0.0921	F	0.6474	890	G	2009
+404469	  16	00721	     	16-721	Newtown Rd	016	Caroline County	016	Caroline County	1.08	16-644 Bagby Rd	16-646 Fork Bridge Rd	610	G	93%	2%	2%	1%	2%	0%	F	0.1054	F	0.6341	660	G	2009
+404470	  16	00721	     	16-721	Newtown Rd	016	Caroline County	016	Caroline County	1.08	16-646 Fork Bridge Rd	King & Queen County Line	520	G	93%	2%	2%	1%	2%	0%	F	0.0965	F	0.5344	570	G	2009
+404471	  16	00722	     	16-722	Nelson Hill Rd	016	Caroline County	016	Caroline County	1.22	SR 207 W, Rogers Clark Blvd	16-676 Devils Three Jump Rd	1900	G	93%	1%	1%	1%	3%	0%	F	0.1078	F	0.5928	2000	G	2009
+406778	  16	00722	     	16-722	Nelson Hill Rd	016	Caroline County	016	Caroline County	1.05	16-676 Devils Three Jump Rd	16-628 Antioch Rd	0	?							X
+404472	  16	00722	     	16-722	Colonial Rd	016	Caroline County	016	Caroline County	0.98	16-628 Antioch Rd	SR 207 E, Rogers Clark Blvd	800	G	93%	1%	1%	1%	3%	0%	C	0.1002	F	0.6044	870	G	2009
+709823	  16	00723	     	16-723	Maggies Lane	016	Caroline County	016	Caroline County	0.55	16-604 Gatewood Rd	Dead End	90	R							X						08/30/2007
+709824	  16	00724	     	16-724	Poindexter Lane	016	Caroline County	016	Caroline County	0.20	Dead End	16-683 CCC Rd	60	R							X						08/28/2007
+709825	  16	00725	     	16-725	Sadie Lane Rd	016	Caroline County	016	Caroline County	0.84	16-652 Meadow Farm Rd; Riva Rd	SR 30 E, Dawn Blvd	370	R							X						08/08/2007
+709826	  16	00725	     	16-725	Secretariat Rd	016	Caroline County	016	Caroline County	0.84	SR 30 W, Dawn Blvd	16-602 Concord Rd	200	R							X						08/08/2007
+709827	  16	00726	     	16-726	Bowies Dr	016	Caroline County	016	Caroline County	0.20	Dead End	16-626	30	R							X						08/01/2007
+709828	  16	00727	     	16-727	Bullocks Rd	016	Caroline County	016	Caroline County	0.70	Dead End	16-604 Gatewood Rd	60	R							X						08/30/2007
+709829	  16	00728	     	16-728	Black Marsh Rd	016	Caroline County	016	Caroline County	0.65	16-615 Skinkers Neck Rd; Buckner Rd	Dead End	190	R							X						08/20/2007
+709830	  16	00729	     	16-729	Jeter Rd	016	Caroline County	016	Caroline County	0.01	16-630	0.01 MN 16-630	30	R							X						08/16/2004
+709831	  16	00729	     	16-729	Jeter Rd	016	Caroline County	016	Caroline County	0.31	0.01 MN 16-630	Dead End	30	R							X						08/16/2004
+709832	  16	00730	     	16-730	Fall Hole Dr	016	Caroline County	016	Caroline County	0.30	Dead End	16-689 Oxford Rd	30	R							X						08/28/2007
+709833	  16	00731	     	16-731	Jordan Smith Rd	016	Caroline County	016	Caroline County	0.31	Dead End	16-657 Telegraph Rd	50	R							X						09/06/2007
+709834	  16	00732	     	16-732	Taylor Dr	016	Caroline County	016	Caroline County	0.20	Dead End	16-690 Old CC Rd	10	R							X						09/06/2007
+709835	  16	00733	     	16-733	School House Rd	016	Caroline County	016	Caroline County	0.40	16-654 Moores Mill Rd	Dead End	80	R							X						08/08/2007
+709836	  16	00734	     	16-734	Old Sparta Rd	016	Caroline County	016	Caroline County	0.37	16-721 WEST	16-721 EAST	30	R							X						08/16/2004
+709837	  16	00735	     	16-735	Hobbie St	016	Caroline County	016	Caroline County	0.30	Dead End	16-626 Sunshine School Rd	10	R							X						08/30/2007
+709838	  16	00736	     	16-736	Brownstone Rd	016	Caroline County	016	Caroline County	0.30	Dead End	16-656 Day Bridge Rd	190	R							X						07/19/2004
+709839	  16	00737	     	16-737	 	016	Caroline County	016	Caroline County	0.01	16-606	0.01 MN 16-606	80	R							X						08/02/2004
+709840	  16	00737	     	16-737	 	016	Caroline County	016	Caroline County	0.49	0.01 MN 16-606	Dead End	40	R							X						08/02/2004
+404473	  16	00738	     	16-738	Teman Rd	016	Caroline County	016	Caroline County	3.46	Hanover County Line	16-639 Anderson Mill Rd	890	G	95%	1%	1%	1%	2%	0%	F	0.0975	F	0.7315	960	G	2009
+404474	  16	00738	     	16-738	Partlow Rd	016	Caroline County	016	Caroline County	1.81	16-639 Anderson Mill Rd	Spotsylvania County Line	1600	G	95%	1%	1%	1%	2%	0%	C	0.1005	F	0.5969	1800	G	2009
+709841	  16	00739	     	16-739	Point Eastern Dr	016	Caroline County	016	Caroline County	0.27	16-600	16-601	40	R							X						08/06/2007
+709842	  16	00740	     	16-740	Motley Dr	016	Caroline County	016	Caroline County	0.80	Dead End	16-630	10	R							X						07/30/2007
+709843	  16	00741	     	16-741	Faulkner Lane	016	Caroline County	016	Caroline County	0.32	16-604 Blantons Rd	Dead End	60	R							X						08/30/2007
+709844	  16	00742	     	16-742	Rylands Rd	016	Caroline County	016	Caroline County	0.23	US 1 Jefferson Davis Hwy	0.23 ME US 1	80	R							X						08/30/2007
+709845	  16	00742	     	16-742	Rylands Rd	016	Caroline County	016	Caroline County	0.78	0.23 ME US 1	Dead End	60	R							X						08/30/2007
+709846	  16	00743	     	16-743	Clifton Rd	016	Caroline County	016	Caroline County	1.00	FR-162 Clifton Rd	16-633 Bull Church Rd	20	R							X						08/30/2007
+709847	  16	00744	     	16-744	Hutcheson Rd	016	Caroline County	016	Caroline County	0.21	16-652 W, Ruther Glen Rd	16-652 E, Ruther Glen Rd	8	R							X						07/19/2004
+709848	  16	00745	     	16-745	Widewake Dr	016	Caroline County	016	Caroline County	0.10	16-668 Long Branch Rd; Dunford Lane	SR 2 Fredericksburg Tpke	230	R							X						09/27/2007
+709849	  16	00746	     	16-746	Carneal Lane	016	Caroline County	016	Caroline County	0.55	16-656 Day Bridge Rd	Dead End	20	R							X						09/06/2007
+709850	  16	00747	     	16-747	Locust Grove Rd	016	Caroline County	016	Caroline County	1.56	16-640 Maragossic Dr	16-621	70	R							X						08/01/2007
+709851	  16	00748	     	16-748	 	016	Caroline County	016	Caroline County	0.25	US 1 Jefferson Davis Hwy	16-1302	190	R							X						08/09/2004
+709852	  16	00749	     	16-749	Rainbow Dr	016	Caroline County	016	Caroline County	0.08	US 1 Jefferson Davis Hwy	Dead End	49	R							X						09/06/2007
+709853	  16	00750	     	16-750	Alex Lane	016	Caroline County	016	Caroline County	0.30	Dead End	16-640 New Baltimore Rd	30	R							X						09/12/2007
+709854	  16	00751	     	16-751	Colemantown Rd	016	Caroline County	016	Caroline County	1.35	16-608 Seals Rd	Dead End	70	R							X						07/30/2007
+709855	  16	00752	     	16-752	Jesse Lane	016	Caroline County	016	Caroline County	0.40	16-684 Dry Bridge Rd	Dead End	70	R							X						08/09/2004
+709856	  16	00753	     	16-753	Artillery Dr	016	Caroline County	016	Caroline County	0.15	16-606	Dead End	10	R							X						08/01/2007
+709857	  16	00754	     	16-754	Apple Orchard Dr	016	Caroline County	016	Caroline County	0.25	16-632 Quarters Rd	Dead End	40	R							X						08/16/2004
+709858	  16	00755	     	16-755	Guinea Dr	016	Caroline County	016	Caroline County	0.33	16-606 Stonewall Jackson Rd	Dead End	100	R							X						08/01/2007
+709859	  16	00756	     	16-756	Chance Pl	016	Caroline County	016	Caroline County	0.24	16-633 Bull Church Rd	16-639 Ladysmith Rd	160	R							X						08/30/2007
+709860	  16	00757	     	16-757	 	016	Caroline County	016	Caroline County	0.06	Dead End	US 1 Jefferson Davis Hwy	80	R							X						08/11/2004
+709861	  16	00758	     	16-758	Eva Rd	016	Caroline County	016	Caroline County	0.30	16-681 Snowden Rd	Dead End	50	R							X						08/20/2007
+709862	  16	00759	     	16-759	Orrock Rd	016	Caroline County	016	Caroline County	0.55	Dead End	Spotsylvania County Line	48	R							X						08/30/2007
+709863	  16	00760	     	16-760	Sorrell Lane	016	Caroline County	016	Caroline County	1.50	Dead End	16-646 Fork Bridge Rd	50	R							X						07/30/2007
+709864	  16	00761	     	16-761	Gether Lane	016	Caroline County	016	Caroline County	0.90	Dead End	16-627 Mattaponi Trail	60	R							X						07/30/2007
+709865	  16	00762	     	16-762	Long Creek Dr	016	Caroline County	016	Caroline County	0.20	16-689 Oxford Rd	Dead End	70	R							X						08/28/2007
+709866	  16	00763	     	16-763	 	016	Caroline County	016	Caroline County	0.45	SR 30 W, Dawn Blvd	SR 30 E, Dawn Blvd	110	R							X						07/19/2004
+709867	  16	00764	     	16-764	Scotts Lane	016	Caroline County	016	Caroline County	0.26	16-696 Parkers Lane	Dead End	20	R							X						09/10/2007
+709868	  16	00765	     	16-765	St Johns Church Rd	016	Caroline County	016	Caroline County	0.23	16-639 Ladysmith Rd	16-638, S River Rd	90	R							X						09/10/2007
+709869	  16	00766	     	16-766	Burma Rd	016	Caroline County	016	Caroline County	2.30	Dead End	US 17	30	R							X						08/20/2007
+709871	  16	00767	     	16-767	McKinney Dr	016	Caroline County	016	Caroline County	0.65	16-664 Bath Rd	Dead End	70	R							X						09/10/2007
+709872	  16	00768	     	16-768	Aspen Rd	016	Caroline County	016	Caroline County	0.23	16-640 Industrial Dr	Dead End	160	R							X						09/12/2007
+709873	  16	00770	     	16-770	Rock Lane	016	Caroline County	016	Caroline County	0.19	Dead End	16-722 Colonial Rd	40	R							X						08/28/2007
+709874	  16	00771	     	16-771	Miss Clara Lane	016	Caroline County	016	Caroline County	0.10	Dead End	16-639 Ladysmith Rd	30	R							X						08/28/2007
+709875	  16	00772	     	16-772	Twin Cedars Dr	016	Caroline County	016	Caroline County	0.45	16-606	Cul-de-Sac	210	R							X						08/01/2007
+709876	  16	00773	     	16-773	House Dr	016	Caroline County	016	Caroline County	0.19	16-640 Industrial Dr	Dead End	220	R							X						09/12/2007
+709877	  16	00774	     	16-774	 	016	Caroline County	016	Caroline County	0.36	Dead End	US 1 Jefferson Davis Hwy	130	R							X						08/16/2004
+709878	  16	00775	     	16-775	 	016	Caroline County	016	Caroline County	0.15	Dead End	SR 2 Fredericksburg Tpke	60	R							X						08/02/2004
+709879	  16	00776	     	16-776	 	016	Caroline County	016	Caroline County	0.14	16-654 Moores Mill Rd	Cul-de-Sac	120	R							X						07/19/2004
+709880	  16	00777	     	16-777	Jennings Dr	016	Caroline County	016	Caroline County	0.34	16-653 Burruss Lane	Cul-de-Sac	90	R							X						07/19/2004
+709881	  16	00778	     	16-778	Allen Lane	016	Caroline County	016	Caroline County	0.14	Dead End	16-692	49	R							X						08/28/2007
+709882	  16	00779	     	16-779	 	016	Caroline County	016	Caroline County	0.31	Dead End	16-601 Golansville Rd	140	R							X						08/04/2004
+709883	  16	00780	     	16-780	Mt Pleasant Blvd	016	Caroline County	016	Caroline County	0.10	16-609 Woodslane Rd	16-781 Campbell Mill Dr	80	R							X						07/30/2007
+709884	  16	00781	     	16-781	Campbell Mill Dr	016	Caroline County	016	Caroline County	0.10	16-780 Mt Pleasant Blvd	Cul-de-Sac	30	R							X						07/30/2007
+709885	  16	00785	     	16-785	Mudville Rd	016	Caroline County	016	Caroline County	0.60	16-661 Cedon Rd	Dead End	240	R							X						08/30/2007
+709886	  16	00798	     	16-798	 	016	Caroline County	016	Caroline County	0.10	Cul-de-Sac	16-799	190	R							X						08/09/2004
+709887	  16	00798	     	16-798	 	016	Caroline County	016	Caroline County	0.10	16-799	Cul-de-Sac	70	R							X						08/09/2004
+709888	  16	00799	     	16-799	 	016	Caroline County	016	Caroline County	0.34	16-798	SR 207 Rogers Clark Blvd	870	R							X						08/09/2004
+709889	  16	01001	     	16-1001	Cumberland St	284	Town of Port Royal	016	Caroline County	0.15	US 301, A P Hill Blvd	16-1005 Frederick St	50	R							X						08/23/2004
+709890	  16	01002	     	16-1002	King St	284	Town of Port Royal	016	Caroline County	0.24	16-1003 Back St	16-1004 Water St	60	R							X						08/20/2007
+709891	  16	01002	     	16-1002	King St	284	Town of Port Royal	016	Caroline County	0.12	16-1004 Water St	Dead End	30	R							X						08/20/2007
+709892	  16	01003	     	16-1003	Back St	284	Town of Port Royal	016	Caroline County	0.04	ECL Port Royal	16-1005 Frederick St	60	R							X						08/20/2007
+709893	  16	01003	     	16-1003	Back St	284	Town of Port Royal	016	Caroline County	0.06	16-1005 Frederick St	16-1006 Market St	160	R							X						08/20/2007
+709894	  16	01003	     	16-1003	Back St	284	Town of Port Royal	016	Caroline County	0.10	16-1006 Market St	US 301, A P Hill Blvd	250	R							X						08/20/2007
+709895	  16	01004	     	16-1004	Water St	284	Town of Port Royal	016	Caroline County	0.15	16-1005 Frederick St	US 301, A P Hill Blvd	110	R							X						08/23/2004
+787404	  16	01004	     	16-1004	Water St	284	Town of Port Royal	016	Caroline County	0.05	US 301, A P Hill Blvd	Dead End	80	R							X						08/23/2004
+709896	  16	01005	     	16-1005	Frederick St	284	Town of Port Royal	016	Caroline County	0.06	SCL Port Royal	16-1003 Back St, Gap	90	R							X						08/20/2007
+709897	  16	01005	     	16-1005	Frederick St	284	Town of Port Royal	016	Caroline County	0.18	16-1001 Cumberland St, Gap	16-1004 Water St	20	R							X						08/20/2007
+709898	  16	01006	     	16-1006	Market St	284	Town of Port Royal	016	Caroline County	0.06	SCL Port Royal	16-1003 Back St	80	R							X						08/20/2007
+709899	  16	01006	     	16-1006	Market St	284	Town of Port Royal	016	Caroline County	0.24	16-1003 Back St	16-1004 Water St	30	R							X						08/20/2007
+709900	  16	01007	     	16-1007	Middle St	284	Town of Port Royal	016	Caroline County	0.17	Dead End	US 301, A P Hill Blvd	60	R							X						08/20/2007
+709901	  16	01008	     	16-1008	Caroline St	284	Town of Port Royal	016	Caroline County	0.18	ECL Port Royal	US 301, A P Hill Blvd	70	R							X						08/23/2004
+709902	  16	01009	     	16-1009	Townfield Dr	016	Caroline County	016	Caroline County	0.20	US 17 Tidewater Trail	16-1010 Port St & Royal St	110	R							X						08/18/2004
+709903	  16	01010	     	16-1010	Port St & Royal St	016	Caroline County	016	Caroline County	0.15	US 17 Tidewater Trail	16-1009 Townfield Dr	50	R							X						08/18/2004
+789989	  16	01011	     	16-1011	Center St	016	Caroline County	016	Caroline County	0.13	16-639 Ladysmith Rd	Dead End	270	R							X						09/27/2007
+709904	  16	01020	     	16-1020	Tanglewood Dr	016	Caroline County	016	Caroline County	0.29	16-660 Claiborne Crossing Rd	16-1021 Tanglewood Dr	400	R							X						09/27/2007
+793573	  16	01020	     	16-1020	 	016	Caroline County	016	Caroline County	0.67	16-1021 Tanglewood Dr	16-1022	0	?							X
+709905	  16	01021	     	16-1021	Tanglewood Dr	016	Caroline County	016	Caroline County	0.11	Cul-de-Sac	16-1020 Tanglewood Dr	48	R							X						09/27/2007
+792743	  16	01022	     	16-1022	 	016	Caroline County	016	Caroline County	0.18	Cul-de-Sac	Cul-de-Sac	0	?							X
+794238	  16	01023	     	16-1023	 	016	Caroline County	016	Caroline County	0.40	Cul-de-Sac	16-1020	0	?							X
+792339	  16	01026	     	16-1026	Oak Ridge Lane	016	Caroline County	016	Caroline County	0.09	16-648 Sunshine Rd	Cul-de-Sac	70	R							X						08/08/2007
+783564	  16	01030	     	16-1030	Holly Ridge Lane	016	Caroline County	016	Caroline County	0.40	Cul-de-Sac	16-652 Ruther Glen Rd	140	R							X						09/06/2007
+783565	  16	01031	     	16-1031	Harmony Court S	016	Caroline County	016	Caroline County	0.11	Cul-de-Sac	16-1030; 16-1032	30	R							X						09/06/2007
+783566	  16	01032	     	16-1032	Harmony Court N	016	Caroline County	016	Caroline County	0.10	Cul-de-Sac	16-1030; 16-1031	30	R							X						09/06/2007
+792744	  16	01038	     	16-1038	 	016	Caroline County	016	Caroline County	0.10	16-1041	Cul-de-Sac	0	?							X
+792745	  16	01039	     	16-1039	 	016	Caroline County	016	Caroline County	0.12	16-1041	Cul-de-Sac	0	?							X
+709906	  16	01040	     	16-1040	Watermans Blvd	016	Caroline County	016	Caroline County	0.09	US 17 Tidewater Trail	16-1041 Begin Loop	230	R							X						08/20/2007
+709907	  16	01041	     	16-1041	Portobago Trail	016	Caroline County	016	Caroline County	2.01	16-1040 Begin Loop	16-1040 End Loop	90	R							X						08/20/2007
+709908	  16	01042	     	16-1042	Goosepoint Ct	016	Caroline County	016	Caroline County	0.46	16-1041 Portobago Trail	Cul-de-Sac	49	R							X						08/20/2007
+709909	  16	01043	     	16-1043	Canvasback Ct	016	Caroline County	016	Caroline County	0.18	Cul-de-Sac	16-1041 Portobago Trail	40	R							X						08/20/2007
+792340	  16	01044	     	16-1044	Rolling Hills Dr	016	Caroline County	016	Caroline County	0.04	Cul-de-Sac	16-631 Farmer Dr	30	R							X						09/24/2007
+793679	  16	01048	     	16-1048	 	016	Caroline County	016	Caroline County	0.56	16-668 Long Branch Rd; Dunford Lane	Dead End	0	?							X
+793680	  16	01049	     	16-1049	 	016	Caroline County	016	Caroline County	0.33	16-1048	Dead End	0	?							X
+782197	  16	01050	     	16-1050	Catalpa Dr	016	Caroline County	016	Caroline County	0.25	16-651 Mt Gideon Rd	16-1051 Arch Hill Rd	190	R							X						08/08/2007
+782198	  16	01051	     	16-1051	Arch Hill Rd	016	Caroline County	016	Caroline County	0.33	16-1050 Catalpa Dr	16-1053 Pine Top School Rd	110	R							X						08/08/2007
+793574	  16	01051	     	16-1051	 	016	Caroline County	016	Caroline County	0.23	16-1053 Pine Top School Rd	Cul-de-Sac	0	?							X
+782199	  16	01052	     	16-1052	Ashley Ct	016	Caroline County	016	Caroline County	0.08	Cul-de-Sac	16-1051 Arch Hill Rd	30	R							X						08/08/2007
+782200	  16	01053	     	16-1053	Pine Top School Rd	016	Caroline County	016	Caroline County	0.20	16-1051 Arch Hill Rd	Cul-de-Sac	50	R							X						08/08/2007
+792746	  16	01054	     	16-1054	 	016	Caroline County	016	Caroline County	0.11	Cul-de-Sac	16-1051	0	?							X
+791350	  16	01070	     	16-1070	Belmont Blvd	016	Caroline County	016	Caroline County	0.06	SR 207 Rogers Clark Blvd	16-1071 Omaha Dr	1300	R							X						09/12/2007
+795235	  16	01070	     	16-1070	Belmont Blvd	016	Caroline County	016	Caroline County	0.18	16-1071 Omaha Dr	16-1075	0	?							X
+791351	  16	01071	     	16-1071	Omaha Dr	016	Caroline County	016	Caroline County	0.05	16-1072 Johnstown Lane	16-1070 Belmont Blvd	460	R							X						09/12/2007
+791352	  16	01072	     	16-1072	Johnstown Lane	016	Caroline County	016	Caroline County	0.17	16-1071 Omaha Dr	16-1073 Whirlaway Lane	290	R							X						09/12/2007
+795236	  16	01072	     	16-1072	Johnstown Lane	016	Caroline County	016	Caroline County	0.48	16-1073 Whirlaway Lane	16-1074	0	?							X
+791353	  16	01073	     	16-1073	Whirlaway Lane	016	Caroline County	016	Caroline County	0.21	16-1072 Johnstown Lane	16-1072 Johnstown Lane	150	R							X						09/12/2007
+794239	  16	01074	     	16-1074	 	016	Caroline County	016	Caroline County	0.40	16-1075	16-1070	0	?							X
+794240	  16	01075	     	16-1075	 	016	Caroline County	016	Caroline County	0.43	16-1074	Cul-de-Sac	0	?							X
+709910	  16	01101	     	16-1101	Rowe St	016	Caroline County	016	Caroline County	0.09	16-1102 Healy St	16-1104 Park Ave	20	R							X						07/22/2004
+709911	  16	01101	     	16-1101	Rowe St	016	Caroline County	016	Caroline County	0.09	16-1104 Park Ave	16-1103 Old Colonial Rd	30	R							X						07/22/2004
+709912	  16	01102	     	16-1102	Healy St	016	Caroline County	016	Caroline County	0.06	16-1101 Rowe St	16-1105 Frances Ave	40	R							X						07/22/2004
+709913	  16	01102	     	16-1102	Healy St	016	Caroline County	016	Caroline County	0.06	16-1105 Frances Ave	16-722 Nelson Hill Rd	60	R							X						07/22/2004
+709914	  16	01102	     	16-1102	Healy St	016	Caroline County	016	Caroline County	0.05	16-722 Nelson Hill Rd	16-1106 Blatt Ave	240	R							X						07/22/2004
+709915	  16	01102	     	16-1102	Healy St	016	Caroline County	016	Caroline County	0.11	16-1106 Blatt Ave	16-1108 Mathias Ave	120	R							X						07/22/2004
+709916	  16	01102	     	16-1102	Healy St	016	Caroline County	016	Caroline County	0.06	16-1108 Mathias Ave	16-1109 Moter Ave	60	R							X						07/22/2004
+709917	  16	01103	     	16-1103	Old Colonial Rd	016	Caroline County	016	Caroline County	0.06	16-722; 16-1110	16-1105 Frances Ave	80	R							X						07/22/2004
+709918	  16	01103	     	16-1103	Old Colonial Rd	016	Caroline County	016	Caroline County	0.07	16-1105 Frances Ave	16-1101 Rowe St	40	R							X						07/22/2004
+709919	  16	01104	     	16-1104	Park Ave	016	Caroline County	016	Caroline County	0.06	16-722 Nelson Hill Rd	16-1105 Frances Ave	100	R							X						07/22/2004
+709920	  16	01104	     	16-1104	Park Ave	016	Caroline County	016	Caroline County	0.06	16-1105 Frances Ave	16-1101 Rowe St	30	R							X						07/22/2004
+709921	  16	01105	     	16-1105	Frances Ave	016	Caroline County	016	Caroline County	0.09	16-1103 Old Colonial Rd	16-1104 Park Ave	40	R							X						07/22/2004
+709922	  16	01105	     	16-1105	Frances Ave	016	Caroline County	016	Caroline County	0.09	16-1104 Park Ave	16-1102 Healy St	10	R							X						07/22/2004
+709923	  16	01106	     	16-1106	Blatt Ave	016	Caroline County	016	Caroline County	0.20	16-1107 Church St	16-1102 Healy St	100	R							X						07/22/2004
+709924	  16	01107	     	16-1107	Church St	016	Caroline County	016	Caroline County	0.06	16-1109 Moter Ave	16-1108 Mathias Ave	90	R							X						07/22/2004
+709925	  16	01107	     	16-1107	Church St	016	Caroline County	016	Caroline County	0.07	16-1108 Mathias Ave	16-1106 Blatt Ave	210	R							X						07/22/2004
+709926	  16	01107	     	16-1107	Church St	016	Caroline County	016	Caroline County	0.05	16-1106 Blatt Ave	16-722 Nelson Hill Rd	250	R							X						07/22/2004
+709927	  16	01108	     	16-1108	Mathias Ave	016	Caroline County	016	Caroline County	0.20	16-1107 Church St	16-1102 Healy St	40	R							X						07/22/2004
+709928	  16	01108	     	16-1108	Mathias Ave	016	Caroline County	016	Caroline County	0.12	16-1102 Healy St	16-1111 Wagner St	20	R							X						07/22/2004
+709929	  16	01109	     	16-1109	Moter Ave	016	Caroline County	016	Caroline County	0.20	16-1107 Church St	16-1102 Healy St	40	R							X						07/22/2004
+709930	  16	01110	     	16-1110	Patrick Ave	016	Caroline County	016	Caroline County	0.20	Dead End	16-722; 16-1103	60	R							X						07/22/2004
+709931	  16	01111	     	16-1111	Wagner St	016	Caroline County	016	Caroline County	0.04	Dead End	16-1108 Mathias Ave	30	R							X						07/22/2004
+709932	  16	01111	     	16-1111	Wagner St	016	Caroline County	016	Caroline County	0.17	16-1108 Mathias Ave	16-722 Nelson Hill Rd	110	R							X						07/22/2004
+709933	  16	01115	     	16-1115	Paradise Lane	016	Caroline County	016	Caroline County	0.20	16-601 Penola Rd	Dead End	100	R							X						08/04/2004
+709934	  16	01116	     	16-1116	Maple Dr	016	Caroline County	016	Caroline County	0.55	Cul-de-Sac	16-640 Wrightsville Rd	140	R							X						09/27/2007
+709935	  16	01201	     	16-1201	Maury Ave	171	Town of Bowling Green	016	Caroline County	0.48	16-1216 Elliotte Dr	Bus US 301	440	R							X						09/24/2007
+709936	  16	01202	     	16-1202	Anderson Ave	171	Town of Bowling Green	016	Caroline County	0.21	16-619 Mildford St	SR 207 Broaddus Ave	1100	R							X						09/24/2007
+709937	  16	01202	     	16-1202	Anderson Ave	171	Town of Bowling Green	016	Caroline County	0.08	SR 207 Broaddus Ave	WCL Bowling Green	110	R							X						09/24/2007
+709938	  16	01203	     	16-1203	Davis Ct	171	Town of Bowling Green	016	Caroline County	0.10	Bus US 301	Dead End	590	R							X						09/24/2007
+709939	  16	01204	     	16-1204	Courthouse Lane	171	Town of Bowling Green	016	Caroline County	0.06	Bus US 301	16-1205 Ennis St	1400	R							X						08/02/2004
+709940	  16	01204	     	16-1204	Courthouse Lane	171	Town of Bowling Green	016	Caroline County	0.06	16-1205 Ennis St	16-1229 Travis St	1100	R							X						09/24/2007
+709941	  16	01204	     	16-1204	Courthouse Lane	171	Town of Bowling Green	016	Caroline County	0.15	16-1229 Travis St	US 301; FR-813	440	R							X						09/24/2007
+709942	  16	01205	     	16-1205	Ennis St	171	Town of Bowling Green	016	Caroline County	0.10	16-619 Chase St	16-1204 Courthouse Lane	300	R							X						09/24/2007
+709943	  16	01206	     	16-1206	Butler St	171	Town of Bowling Green	016	Caroline County	0.11	16-619 Chase St	16-1204 Courthouse Lane	410	R							X						09/24/2007
+709944	  16	01207	     	16-1207	Cary St	171	Town of Bowling Green	016	Caroline County	0.07	SCL Bowling Green	Bus US 301	130	R							X						08/02/2004
+709945	  16	01208	     	16-1208	Hoomes Circle	171	Town of Bowling Green	016	Caroline County	0.07	16-1211 S, Hoomes Circle	SCL Bowling Green	80	R							X						08/02/2004
+709946	  16	01208	     	16-1208	Hoomes Circle	171	Town of Bowling Green	016	Caroline County	0.03	SCL Bowling Green	16-1211 N, Hoomes Circle	48	R							X						08/02/2004
+709947	  16	01209	     	16-1209	Coghill St	171	Town of Bowling Green	016	Caroline County	0.13	16-619 Milford St	Dead End	40	R							X						08/02/2004
+709948	  16	01210	     	16-1210	Martin St	171	Town of Bowling Green	016	Caroline County	0.26	16-619 Milford St	SR 207 Broaddus Ave	150	R							X						09/24/2007
+709949	  16	01211	     	16-1211	Hoomes Circle	171	Town of Bowling Green	016	Caroline County	0.10	16-1208 Hoomes Circle	16-1212 Alsop Lane	30	R							X						08/02/2004
+709950	  16	01211	     	16-1211	Hoomes Circle	171	Town of Bowling Green	016	Caroline County	0.10	16-1212 Alsop Lane	16-1208 Hoomes Circle	10	R							X						08/02/2004
+709952	  16	01212	     	16-1212	Alsop Lane	171	Town of Bowling Green	016	Caroline County	0.08	Dead End	16-1211 Hoomes Circle	8	R							X						08/02/2004
+709953	  16	01213	     	16-1213	Sunset Dr	171	Town of Bowling Green	016	Caroline County	0.12	Dead End	Bus US 301	70	R							X						08/02/2004
+709954	  16	01214	     	16-1214	County St	171	Town of Bowling Green	016	Caroline County	0.04	16-619 Chase St	Dead End	80	R							X						09/24/2007
+709955	  16	01215	     	16-1215	White St	171	Town of Bowling Green	016	Caroline County	0.09	16-1201 Maury St	16-619 Milford St	510	R							X						08/02/2004
+709957	  16	01216	     	16-1216	Elliotte Dr	171	Town of Bowling Green	016	Caroline County	0.03	Dead End	16-1201 Maury St	20	R							X						08/02/2004
+709958	  16	01216	     	16-1216	Elliotte Dr	171	Town of Bowling Green	016	Caroline County	0.04	16-1201 Maury St	16-619 Milford St	120	R							X						08/02/2004
+709959	  16	01217	     	16-1217	Oak Ridge St	171	Town of Bowling Green	016	Caroline County	0.19	Bus US 301	16-1229 Travis St	80	R							X						09/24/2007
+709960	  16	01218	     	16-1218	Tinder Dr	016	Caroline County	016	Caroline County	0.12	Dead End	16-1219 Crystal Court	60	R							X						08/02/2004
+709961	  16	01218	     	16-1218	Tinder Dr	016	Caroline County	016	Caroline County	0.17	16-1219 Crystal Court	SR 2 Fredericksburg Tpke	160	R							X						08/02/2004
+709962	  16	01218	     	16-1218	Tinder Dr	016	Caroline County	016	Caroline County	0.11	SR 2 Fredericksburg Tpke	Dead End	40	R							X						08/02/2004
+709963	  16	01219	     	16-1219	Crystal Court	016	Caroline County	016	Caroline County	0.16	16-1218 Tinder Dr	Dead End	80	R							X						08/02/2004
+709964	  16	01220	     	16-1220	Lafayette Ave	171	Town of Bowling Green	016	Caroline County	0.26	Bus US 301	Cul-de-Sac	130	R							X						07/28/2004
+709965	  16	01221	     	16-1221	Dorsey St	171	Town of Bowling Green	016	Caroline County	0.12	Dead End	Bus US 301	130	R							X						08/02/2004
+709966	  16	01222	     	16-1222	Lee St	171	Town of Bowling Green	016	Caroline County	0.18	16-1202 Anderson Ave	SR 207 Broaddus Ave	180	R							X						08/02/2004
+709967	  16	01223	     	16-1223	Mulberry Lane	016	Caroline County	016	Caroline County	0.09	16-1224 Holly Ave	16-695 Edwards Rd	70	R							X						07/28/2004
+709968	  16	01224	     	16-1224	Holly Ave	016	Caroline County	016	Caroline County	0.08	16-1225 White Meadow Dr	16-1223 Mulberry Lane	30	R							X						07/28/2004
+709969	  16	01225	     	16-1225	White Meadow Dr	016	Caroline County	016	Caroline County	0.14	Cul-de-Sac	16-1224 Holly Ave	110	R							X						07/28/2004
+709970	  16	01225	     	16-1225	 	016	Caroline County	016	Caroline County	0.13	16-1224 Holly Ave	16-695 Edwards Rd	30	R							X						07/28/2004
+709971	  16	01227	     	16-1227	Gill St	171	Town of Bowling Green	016	Caroline County	0.21	Bus US 301	Cul-de-Sac	100	R							X						07/28/2004
+709972	  16	01228	     	16-1228	Cedar Lane	171	Town of Bowling Green	016	Caroline County	0.05	16-1229 Travis St	ECL Bowling Green	60	R							X						09/24/2007
+709973	  16	01229	     	16-1229	Travis St	171	Town of Bowling Green	016	Caroline County	0.39	16-1204 Court House Lane	Bus US 301	270	R							X						09/24/2007
+709974	  16	01230	     	16-1230	Sarah St	016	Caroline County	016	Caroline County	0.30	Dead End	16-695 Edwards Rd	120	R							X						07/28/2004
+709975	  16	01231	     	16-1231	Virginia Ave	171	Town of Bowling Green	016	Caroline County	0.16	16-1217 Oak Ridge St	16-1229 Travis St	70	R							X						07/28/2004
+709976	  16	01231	     	16-1231	Virginia Ave	171	Town of Bowling Green	016	Caroline County	0.27	16-1229 Travis St	Dead End	100	R							X						07/28/2004
+709978	  16	01232	     	16-1232	White Pine Dr	016	Caroline County	016	Caroline County	0.11	US 301 Richmond Tpke	16-1233 Pine Needle Lane	150	R							X						07/28/2004
+709979	  16	01232	     	16-1232	White Pine Dr	016	Caroline County	016	Caroline County	0.15	16-1233 Pine Needle Lane	Begin Loop	110	R							X						07/28/2004
+709980	  16	01232	     	16-1232	White Pine Dr	016	Caroline County	016	Caroline County	0.34	Begin Loop	End Loop	40	R							X						09/12/2007
+709981	  16	01233	     	16-1233	Pine Needle Lane	016	Caroline County	016	Caroline County	0.08	Dead End	16-1232 White Pine Dr	30	R							X						07/28/2004
+709982	  16	01234	     	16-1234	Harding Dr	016	Caroline County	016	Caroline County	0.32	FR-814 School St	16-1235 Tyler Ct	420	R							X						07/28/2004
+791634	  16	01234	     	16-1234	Harding Dr	016	Caroline County	016	Caroline County	0.18	16-1235 Tyler Ct	16-1237 Madison St	410	R							X						09/12/2007
+709983	  16	01235	     	16-1235	Tyler Ct	016	Caroline County	016	Caroline County	0.07	16-1234 Harding Dr	Cul-de-Sac	60	R							X						07/28/2004
+791354	  16	01236	     	16-1236	Monroe St	016	Caroline County	016	Caroline County	0.08	16-1237 Madison St	16-1234 Harding Dr	380	R							X						09/12/2007
+791355	  16	01237	     	16-1237	Madison St	016	Caroline County	016	Caroline County	0.28	Cul-de-Sac	16-1234 Harding Dr	210	R							X						09/12/2007
+709984	  16	01238	     	16-1238	Elm St	016	Caroline County	016	Caroline County	0.36	Cul-de-Sac	16-695 Edwards Rd	170	R							X						07/28/2004
+709985	  16	01239	     	16-1239	Milford St	016	Caroline County	016	Caroline County	0.17	Cul-de-Sac	16-619 Milford St	120	R							X						08/02/2004
+709986	  16	01240	     	16-1240	Wagon Wheel Rd	016	Caroline County	016	Caroline County	0.17	Dead End	16-1241 Mill Run Lane	40	R							X						08/02/2004
+709987	  16	01240	     	16-1240	Wagon Wheel Rd	016	Caroline County	016	Caroline County	0.12	16-1241 Mill Run Lane	SCL Bowling Green	140	R							X						08/02/2004
+785065	  16	01240	     	16-1240	Wagon Wheel Rd	171	Town of Bowling Green	016	Caroline County	0.04	SCL Bowling Green	US 301, A P Hill Blvd	140	N							X				0	N	08/02/2004
+709988	  16	01241	     	16-1241	Mill Run Lane	016	Caroline County	016	Caroline County	0.20	16-1242 Mill Stone Lane	16-1240 Wagon Wheel Rd	80	R							X						08/02/2004
+709989	  16	01242	     	16-1242	Mill Stone Lane	016	Caroline County	016	Caroline County	0.16	16-1241 Mill Run Lane	Dead End	20	R							X						08/02/2004
+709990	  16	01245	     	16-1245	Braswell St	016	Caroline County	016	Caroline County	0.75	16-695 N, Edwards Rd	16-695 S, Edwards Rd	200	R							X						09/12/2007
+789990	  16	01250	     	16-1250	Meadow Lane	171	Town of Bowling Green	016	Caroline County	0.18	Cul-de-Sac	16-619 Chase St	310	R							X						09/24/2007
+789991	  16	01251	     	16-1251	Roper Dr	171	Town of Bowling Green	016	Caroline County	0.37	16-1250 Meadow Lane	End of Loop	200	R							X						09/24/2007
+791356	  16	01252	     	16-1252	Dickinson Dr	171	Town of Bowling Green	016	Caroline County	0.20	Dead End	16-1250 Meadow Lane	70	R							X						09/24/2007
+709991	  16	01301	     	16-1301	 	016	Caroline County	016	Caroline County	0.13	Dead End	16-748	80	R							X						08/09/2004
+709992	  16	01302	     	16-1302	 	016	Caroline County	016	Caroline County	0.12	Dead End	16-748	70	R							X						08/09/2004
+709993	  16	01310	     	16-1310	 	016	Caroline County	016	Caroline County	0.11	16-647 Doggetts Fork Rd	16-1311	250	R							X						07/22/2004
+709994	  16	01310	     	16-1310	 	016	Caroline County	016	Caroline County	0.09	16-1311	16-1312	210	R							X						07/22/2004
+709995	  16	01310	     	16-1310	 	016	Caroline County	016	Caroline County	0.09	16-1312	16-1313	170	R							X						07/22/2004
+709996	  16	01310	     	16-1310	 	016	Caroline County	016	Caroline County	0.08	16-1313	Anderson St	70	R							X						07/22/2004
+709997	  16	01311	     	16-1311	 	016	Caroline County	016	Caroline County	0.31	16-648 Sunshine Rd	16-1310	330	R							X						07/22/2004
+709998	  16	01311	     	16-1311	 	016	Caroline County	016	Caroline County	0.06	16-1310	Cul-de-Sac	30	R							X						07/22/2004
+709999	  16	01312	     	16-1312	 	016	Caroline County	016	Caroline County	0.05	16-1310	Cul-de-Sac	47	R							X						07/22/2004
+710000	  16	01313	     	16-1313	 	016	Caroline County	016	Caroline County	0.05	16-1310	Cul-de-Sac	140	R							X						07/22/2004
+797608	  16	01317	     	16-1317	 	016	Caroline County	016	Caroline County	0.19	16-722 Nelson Hill Rd	Dead End	0	?							X
+710001	  16	01401	     	16-1401	 	016	Caroline County	016	Caroline County	0.11	Dead End	16-1403	20	R							X						08/11/2004
+710002	  16	01401	     	16-1401	 	016	Caroline County	016	Caroline County	0.06	16-1403	16-1402	550	R							X						08/11/2004
+710003	  16	01401	     	16-1401	 	016	Caroline County	016	Caroline County	0.06	16-1402	US 1 Jefferson Davis Hwy	760	R							X						08/11/2004
+710004	  16	01402	     	16-1402	 	016	Caroline County	016	Caroline County	0.34	16-1401	Cul-de-Sac	240	R							X						08/11/2004
+710005	  16	01403	     	16-1403	 	016	Caroline County	016	Caroline County	0.15	Dead End	16-1401	200	R							X						08/11/2004
+710006	  16	01403	     	16-1403	 	016	Caroline County	016	Caroline County	0.18	16-1401	16-1404	390	R							X						08/11/2004
+710007	  16	01403	     	16-1403	 	016	Caroline County	016	Caroline County	0.16	16-1404	16-1405	200	R							X						08/11/2004
+710008	  16	01403	     	16-1403	 	016	Caroline County	016	Caroline County	0.07	16-1405	Cul-de-Sac	60	R							X						08/11/2004
+710009	  16	01404	     	16-1404	 	016	Caroline County	016	Caroline County	0.05	Cul-de-Sac	16-1403	40	R							X						08/11/2004
+710010	  16	01405	     	16-1405	 	016	Caroline County	016	Caroline County	0.04	US 1 Jefferson Davis Hwy	16-1402	750	R							X						08/11/2004
+710011	  16	01405	     	16-1405	 	016	Caroline County	016	Caroline County	0.07	16-1402	16-1407	620	R							X						08/11/2004
+710012	  16	01405	     	16-1405	 	016	Caroline County	016	Caroline County	0.12	16-1407	16-1403	490	R							X						08/11/2004
+710013	  16	01405	     	16-1405	 	016	Caroline County	016	Caroline County	0.06	16-1403	16-1408	230	R							X						08/11/2004
+710014	  16	01406	     	16-1406	 	016	Caroline County	016	Caroline County	0.08	Cul-de-Sac	16-1402	70	R							X						08/11/2004
+710015	  16	01407	     	16-1407	 	016	Caroline County	016	Caroline County	0.13	16-1405	Cul-de-Sac	80	R							X						08/11/2004
+710016	  16	01408	     	16-1408	 	016	Caroline County	016	Caroline County	0.10	Dead End	16-1405	80	R							X						08/11/2004
+710017	  16	01408	     	16-1408	 	016	Caroline County	016	Caroline County	0.09	16-1405	Dead End	110	R							X						08/11/2004
+710018	  16	01420	     	16-1420	French Lane	016	Caroline County	016	Caroline County	0.20	16-1421 Powers Lane	16-632 Quarters Rd	130	R							X						08/30/2007
+710019	  16	01421	     	16-1421	Powers Lane	016	Caroline County	016	Caroline County	0.17	Dead End O.17 MS 1420	16-1420 French Lane	30	R							X						08/30/2007
+710020	  16	01421	     	16-1421	Powers Lane	016	Caroline County	016	Caroline County	0.20	16-1420 French Lane	Dead End O.2O MN 16-1420 N 1420	48	R							X						08/30/2007
+710021	  16	01440	     	16-1440	County Park Dr	016	Caroline County	016	Caroline County	0.18	Dead End	16-676 Devils Three Jump Rd	390	R							X						08/09/2004
+710022	  16	09078	     	16-9078	Bowling Green Primary School	016	Caroline County	016	Caroline County	0.15	16-640 Bowling Green	Bowling Green Primary School	630	R							X						07/28/2004
+710023	  16	09080	     	16-9080	 	171	Town of Bowling Green	016	Caroline County	0.17	US 301 Bowling Green	US 301 Jr High	210	R							X						08/23/2004
+710024	  16	09081	     	16-9081	 	016	Caroline County	016	Caroline County	0.08	16-639 Ladysmith Rd	16-639 Ladysmith Rd	50	R							X						08/11/2004
+710025	  16	09081	     	16-9081	 	016	Caroline County	016	Caroline County	0.07	16-639 High	16-692 School	40	R							X						08/11/2004
+710026	  16	09082	     	16-9082	 	016	Caroline County	016	Caroline County	0.18	SR 207 Caroline	16-676 High School	160	R							X						08/09/2004
+710027	  16	09837	     	16-9837	 	016	Caroline County	016	Caroline County	0.11	16-756 Ladysmith	16-756 Elem School	250	R							X						08/23/2004
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

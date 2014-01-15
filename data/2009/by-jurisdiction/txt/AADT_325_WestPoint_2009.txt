@@ -1,0 +1,164 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of West Point																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+060241	  SR	00030	     	VA 30	Main St	325	Town of West Point	050	King William County	2.19	WCL West Point	SR 33, 14th St	3900	G	77%	1%	1%	4%	17%	0%	C	0.0906	F	0.5770	3900	G	2009
+060233	  SR	00030	     		14th St	325	Town of West Point	050	King William County	0.25	SR 33 Main St	New Kent County Line	16000	G	84%	2%	1%	2%	11%	0%	F				16000	G	2009
+060233	  SR	00033	     		14th St	325	Town of West Point	050	King William County	0.25	King William County Line	SR 30 Main St	16000	G	84%	2%	1%	2%	11%	0%	F				16000	G	2009	
+060126	  SR	00033	     	VA 33	14th St	325	Town of West Point	050	King William County	0.48	SR 30 Main St	King & Queen County Line	15000	G	92%	0%	1%	2%	5%	0%	F				15000	G	2009
+060017	  SR	00296	     	VA 296	Kirby St	325	Town of West Point	050	King William County	0.22	SR 30, SR 33	50-1107; 50-1126, 10th St	690	G	94%	0%	1%	2%	2%	0%	C	0.1039	F	0.5375	750	G	2009
+060018	  SR	00296	     	VA 296	10th St	325	Town of West Point	050	King William County	0.17	50-1107 Kirby St; 50-1126	SR 298 Lee St	260	G	94%	0%	1%	2%	2%	0%	F	0.1211	F	0.5802	280	G	2009
+060242	  SR	00298	     	VA 298	5th St	325	Town of West Point	050	King William County	0.24	Dead End	50-1109 Lee St; 50-1128	70	G	98%	1%	1%	0%	0%	0%	F	0.1695	F	0.5667	80	G	2009
+060237	  SR	00298	     	VA 298	Lee St	325	Town of West Point	050	King William County	0.29	50-1109; 50-1128, 5th St	SR 296, 10th St	1300	G	98%	1%	1%	0%	0%	0%	C	0.1040	F	0.5646	1400	G	2009
+060236	  SR	00298	     	VA 298	Lee St	325	Town of West Point	050	King William County	0.22	SR 296 10th St	SR 33 14th St	1700	G	98%	1%	1%	0%	0%	0%	F	0.1041	F	0.5538	1800	G	2009
+748466	  50	00636	     	50-636	VFW Rd	325	Town of West Point	050	King William County	0.19	50-702 Industrial Pkwy	NCL West Point	450	R							X						03/28/2007
+785133	  50	00701	     	50-701	Euclid Heights Blvd	325	Town of West Point	050	King William County	0.20	WCL West Point	50-1026 Dogwood Dr	60	R							X						05/17/2001
+404550	  50	00701	     	50-701	Euclid Heights Blvd	325	Town of West Point	050	King William County	0.58	50-1026 Dogwood Dr	SR 30 King William Ave	810	G	97%	1%	1%	0%	1%	0%	C	0.0969	F	0.6182	870	G	2009
+784136	  50	00702	     	50-702	Industrial Pkwy	325	Town of West Point	050	King William County	0.07	SR 30 Main St	50-636 VFW Rd	830	R							X						03/28/2007
+748523	  50	01000	     	50-1000	Azalea Cresent	325	Town of West Point	050	King William County	0.28	50-1013 N, River Rd	50-1013 S, River Rd	70	R							X						04/06/2004
+748524	  50	01001	     	50-1001	Bond St	325	Town of West Point	050	King William County	0.50	50-1002, E Magnolia Dr	Dead End	220	R							X						03/22/2007
+748525	  50	01002	     	50-1002	E Magnolia Dr	325	Town of West Point	050	King William County	0.20	50-1010 Southern Ave	SR 30 King William Ave	410	R							X						03/22/2007
+404551	  50	01002	     	50-1002	E Magnolia Dr	325	Town of West Point	050	King William County	1.02	SR 30 King William Ave	50-1003 Chelsea Rd	1300	G	99%	1%	0%	0%	0%	0%	C	0.1018	F	0.5350	1400	G	2009
+748526	  50	01002	     	50-1002	E Magnolia Dr	325	Town of West Point	050	King William County	0.09	50-1003 Chelsea Rd	0.09 MN 50-1003 Chelsea Rd	30	R							X						03/22/2007
+793644	  50	01003	     	50-1003	 	325	Town of West Point	050	King William County	0.12	SR 33, 14th St	50-1130 Glass Island Rd	0	?							X
+404552	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	1.05	50-1130 Glass Island Rd	50-1004 Mattaponi Ave	1600	G	98%	1%	0%	0%	0%	0%	C	0.1353	F	0.6538	1700	G	2009
+404553	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.30	50-1004 Mattaponi Ave	50-1006 Thompson Ave	960	G	98%	1%	0%	0%	0%	0%	F	0.1362	F	0.6540	1000	G	2009
+404554	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.75	50-1006 Thompson Ave	50-1002, E Magnolia Dr	780	G	98%	1%	0%	0%	0%	0%	F	0.1163	F	0.5000	850	G	2009
+748527	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.28	50-1002, E Magnolia Dr	50-1014, E Euclid Blvd	710	R							X						04/19/2004
+748528	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.15	50-1014, E Euclid Blvd	0.15 MN 50-1014	110	R							X						04/19/2004
+748529	  50	01003	     	50-1003	Chelsea Rd	325	Town of West Point	050	King William County	0.24	0.15 MN 50-1014	NCL West Point	70	R							X						03/22/2007
+748530	  50	01004	     	50-1004	Mattaponi Ave	325	Town of West Point	050	King William County	0.70	50-1002, E Magnolia Dr	50-1006 Thompson Ave	780	R							X						03/28/2007
+748531	  50	01004	     	50-1004	Mattaponi Ave	325	Town of West Point	050	King William County	0.20	50-1006 Thompson Ave	50-1003 Chelsea Rd	800	R							X						03/28/2007
+795269	  50	01005	     	50-1005	Odi St	325	Town of West Point	050	King William County	0.07	50-1002, E Magnolia Dr	Dead End; Gap	0	?							X
+748532	  50	01005	     	50-1005	Odi St	325	Town of West Point	050	King William County	0.45	50-1030 Bagby St	50-1006 Thompson Ave	440	R							X						03/28/2007
+748533	  50	01005	     	50-1005	Odi St	325	Town of West Point	050	King William County	0.20	50-1006 Thompson Ave	Dead End	80	R							X						03/28/2007
+404555	  50	01006	     	50-1006	Thompson Ave	325	Town of West Point	050	King William County	0.93	SR 30 Main St	50-1003 Chelsea Rd	1800	G	98%	1%	1%	0%	0%	0%	C	0.1043	F	0.5616	2000	G	2009
+748534	  50	01007	     	50-1007	Lyndale St	325	Town of West Point	050	King William County	0.13	50-1108, C St	SR 30 Main St	120	R							X						03/22/2007
+748535	  50	01007	     	50-1007	Ogden St	325	Town of West Point	050	King William County	0.20	SR 30 Main St	Dead End	200	R							X						03/22/2007
+748536	  50	01008	     	50-1008	Dupont St	325	Town of West Point	050	King William County	0.20	Dead End	SR 30 Main St	330	R							X						03/22/2007
+748537	  50	01009	     	50-1009	W Oak Grove St	325	Town of West Point	050	King William County	0.16	Dead End	SR 30 Main St	70	R							X						03/22/2007
+748538	  50	01009	     	50-1009	Oak Grove St	325	Town of West Point	050	King William County	0.06	SR 30 Main St	Dead End	1300	R							X						03/22/2007
+748539	  50	01010	     	50-1010	Southern Ave	325	Town of West Point	050	King William County	0.25	50-701 Euclid Heights Rd	50-1002, E Magnolia Dr	140	R							X						03/22/2007
+748540	  50	01010	     	50-1010	Southern Ave	325	Town of West Point	050	King William County	0.20	50-1002, E Magnolia Dr	Pamunkey Ave	180	R							X						03/22/2007
+791140	  50	01010	     	50-1010	Pamunkey Ave	325	Town of West Point	050	King William County	0.20	Southern Ave	SR 30 King William Ave	400	R							X						03/22/2007
+748541	  50	01011	     	50-1011	Romancoke Ave	325	Town of West Point	050	King William County	0.05	50-1002, E Magnolia Dr	Dead End	90	R							X						03/22/2007
+748542	  50	01012	     	50-1012	Berkley St	325	Town of West Point	050	King William County	0.13	50-1108, C St	SR 30 Main St	140	R							X						03/22/2007
+748543	  50	01013	     	50-1013	Pine Lane	325	Town of West Point	050	King William County	0.50	Dead End	50-701 Euclid Heights Blvd	90	R							X						04/06/2004
+783433	  50	01013	     	50-1013	Camelia Dr	325	Town of West Point	050	King William County	0.33	50-701 Euclid Heights Blvd	50-1026 Dogwood Dr	390	R							X						04/06/2004
+748547	  50	01014	     	50-1014	E Euclid Blvd	325	Town of West Point	050	King William County	0.10	50-1003 Chelsea Rd	50-1032 Shoreline Dr	330	R							X						04/16/2004
+748548	  50	01014	     	50-1014	E Euclid Blvd	325	Town of West Point	050	King William County	0.17	50-1032 Shoreline Dr	50-1015 Newman Rd	90	R							X						04/16/2004
+748549	  50	01015	     	50-1015	Newman Rd	325	Town of West Point	050	King William County	0.17	50-1014, E Euclid Blvd	50-1034 Sandy Creek	80	R							X						04/19/2004
+748550	  50	01016	     	50-1016	Romancoke Ave	325	Town of West Point	050	King William County	0.05	50-1009, W Oak Grove St	Dead End	10	R							X						03/22/2007
+748551	  50	01017	     	50-1017	Taylor Ave	325	Town of West Point	050	King William County	0.06	50-1009, W Oak Grove St	Dead End	50	R							X						03/22/2007
+748552	  50	01018	     	50-1018	Camelia Dr	325	Town of West Point	050	King William County	0.07	Dead End	50-701 Euclid Heights Blvd	40	R							X						04/06/2004
+748553	  50	01019	     	50-1019	Romancoke Ave	325	Town of West Point	050	King William County	0.10	50-701 Euclid Heights Blvd	50-1020 Cypress Ave	80	R							X						04/06/2004
+748554	  50	01020	     	50-1020	Cypress Ave	325	Town of West Point	050	King William County	0.08	Dead End	50-1019 Romancoke Ave	40	R							X						04/06/2004
+748555	  50	01020	     	50-1020	Cypress Ave	325	Town of West Point	050	King William County	0.08	50-1019 Romancoke Ave	Dead End	40	R							X						04/06/2004
+748556	  50	01021	     	50-1021	Cheatham Dr	325	Town of West Point	050	King William County	0.07	SR 30 Main St	50-1025 Cheatham Dr	180	R							X						03/22/2007
+748557	  50	01022	     	50-1022	Bellwood St	325	Town of West Point	050	King William County	0.12	50-1108, C St	SR 30 Main St	100	R							X						03/22/2007
+748558	  50	01023	     	50-1023	Fort St	325	Town of West Point	050	King William County	0.13	50-1108, C St	SR 30 Main St	120	R							X						2004
+748559	  50	01024	     	50-1024	Glenn St	325	Town of West Point	050	King William County	0.12	50-1108, C St	SR 30 Main St	170	R							X						03/22/2007
+748560	  50	01024	     	50-1024	Thompson St	325	Town of West Point	050	King William County	0.12	SR 30 Main St	50-1006 Thompson Ave	2200	R							X						03/22/2007
+748561	  50	01025	     	50-1025	Cheatham Dr	325	Town of West Point	050	King William County	0.08	50-1021 Cheatham Dr	Dead End	90	R							X						03/22/2007
+748562	  50	01026	     	50-1026	Dogwood Dr	325	Town of West Point	050	King William County	0.17	50-701 Euclid Heights Blvd	50-1028 Tanager Ct	160	R							X						04/06/2004
+748563	  50	01026	     	50-1026	Dogwood Dr	325	Town of West Point	050	King William County	0.11	50-1028 Tanager Ct	50-1027 Mockingbird Ct	100	R							X						04/06/2004
+748564	  50	01026	     	50-1026	Dogwood Dr	325	Town of West Point	050	King William County	0.02	50-1027 Mockingbird Ct	50-1013 River Rd	130	R							X						04/06/2004
+748565	  50	01026	     	50-1026	Dogwood Dr	325	Town of West Point	050	King William County	0.14	50-1013 River Rd	Dead End	50	R							X						04/06/2004
+748566	  50	01027	     	50-1027	Mockingbird Ct	325	Town of West Point	050	King William County	0.06	Dead End	50-1026 Dogwood Dr	40	R							X						04/06/2004
+748567	  50	01028	     	50-1028	Tanager Ct	325	Town of West Point	050	King William County	0.06	Dead End	50-1026 Dogwood Dr	30	R							X						04/06/2004
+748568	  50	01029	     	50-1029	Taylor Ave	325	Town of West Point	050	King William County	0.08	O.O8 MN 50-1002	50-1002, E Magnolia Dr	150	R							X						03/22/2007
+748569	  50	01029	     	50-1029	Taylor Ave	325	Town of West Point	050	King William County	0.21	50-1002, E Magnolia Dr	50-1010 Pamunkey Ave; Southern Ave	150	R							X						03/22/2007
+748570	  50	01030	     	50-1030	Bagby St	325	Town of West Point	050	King William County	0.28	50-1005 Odi St	50-1004 Mattaponi Ave	210	R							X						03/28/2007
+748571	  50	01030	     	50-1030	Bagby St	325	Town of West Point	050	King William County	0.29	50-1004 Mattaponi Ave	50-1003 Chelsea Rd	200	R							X						03/28/2007
+748572	  50	01031	     	50-1031	Riverview Dr	325	Town of West Point	050	King William County	0.11	50-1003 Chelsea Rd	50-1032 Shoreline Dr	150	R							X						04/19/2004
+748573	  50	01032	     	50-1032	Shoreline Dr	325	Town of West Point	050	King William County	0.12	50-1014, E Euclid Blvd	50-1031 Riverview Dr	49	R							X						04/19/2004
+784137	  50	01032	     	50-1032	Shoreline Dr	325	Town of West Point	050	King William County	0.04	50-1031 Riverview Dr	Dead End	30	R							X						03/22/2007
+748574	  50	01033	     	50-1033	E Oak Lane	325	Town of West Point	050	King William County	0.22	50-1006 Thompson Ave	Cul-de-Sac	180	R							X						04/19/2004
+748575	  50	01034	     	50-1034	Sandy Creek	325	Town of West Point	050	King William County	0.08	50-1036 Blue Heron Rd	50-1015 Newman Rd	60	R							X						03/22/2007
+748576	  50	01036	     	50-1036	Blue Heron Rd	325	Town of West Point	050	King William County	0.14	50-1014, E Euclid Blvd	50-1034 Sandy Creek	90	R							X						03/22/2007
+748577	  50	01037	     	50-1037	Westwood Ct	325	Town of West Point	050	King William County	0.16	Dead End	50-1004 Mattaponi Ave	210	R							X						04/19/2004
+748578	  50	01038	     	50-1038	N Oak Lane	325	Town of West Point	050	King William County	0.12	Dead End	50-1006 Thompson Ave	70	R							X						04/19/2004
+784138	  50	01039	     	50-1039	Briarwood Lane	325	Town of West Point	050	King William County	0.16	50-1014, E Euclid Blvd	Dead End	80	R							X						03/22/2007
+748579	  50	01040	     	50-1040	Winter St	325	Town of West Point	050	King William County	0.13	SR 30 Main St	Dead End	1100	R							X						03/22/2007
+788670	  50	01041	     	50-1041	Chelsea Run	325	Town of West Point	050	King William County	0.12	50-1004 Mattaponi Ave	Dead End	90	R							X						03/28/2007
+791734	  50	01042	     	50-1042	Cressfield Dr	325	Town of West Point	050	King William County	0.25	50-1005 Odi St	Dead End	210	R							X						03/28/2007
+794617	  50	01043	     	50-1043	York St	325	Town of West Point	050	King William County	0.09	Dead End	50-1001 Bond St	0	?							X
+794839	  50	01044	     	50-1044	Cherokee St	325	Town of West Point	050	King William County	0.08	50-1004 Mattaponi Ave	Cul-de-Sac	0	?							X
+748580	  50	01045	     	50-1045	Ball Park Dr	325	Town of West Point	050	King William County	0.11	Dead End	50-1003 Chelsea Rd	80	R							X						04/19/2004
+797039	  50	01046	     	50-1046	 	325	Town of West Point	050	King William County	0.14	50-1047	50-1005 Odi St	0	?							X
+797040	  50	01047	     	50-1047	 	325	Town of West Point	050	King William County	0.10	50-1046	50-1005 Odi St	0	?							X
+748581	  50	01101	     	50-1101	Lee St	325	Town of West Point	050	King William County	0.22	SR 33, 14th St	50-1114, 18th St	1200	R							X						03/26/2007
+748582	  50	01101	     	50-1101	Lee St	325	Town of West Point	050	King William County	0.29	50-1114, 18th St	50-1120, 23rd St	390	R							X						03/26/2007
+748583	  50	01102	     	50-1102	13th St	325	Town of West Point	050	King William County	0.06	Dead End	SR 296 Kirby St	40	R							X						04/15/2004
+748584	  50	01102	     	50-1102	13th St	325	Town of West Point	050	King William County	0.08	SR 296 Kirby St	50-1129 Main St	300	R							X						04/15/2004
+748585	  50	01102	     	50-1102	13th St	325	Town of West Point	050	King William County	0.03	50-1129 Main St	0.03 ME 05-1129 Main St	360	R							X						04/15/2004
+748586	  50	01102	     	50-1102	13th St	325	Town of West Point	050	King William County	0.02	SR 298 Lee St	Dead End	160	R							X						04/15/2004
+748587	  50	01103	     	50-1103	12th St	325	Town of West Point	050	King William County	0.05	Dead End	SR 296 Kirby St	3	R							X						04/15/2004
+748588	  50	01103	     	50-1103	12th St	325	Town of West Point	050	King William County	0.17	SR 296 Kirby St	SR 298 Lee St	210	R							X						04/15/2004
+748589	  50	01103	     	50-1103	12th St	325	Town of West Point	050	King William County	0.06	SR 298 Lee St	Dead End	70	R							X						04/15/2004
+748590	  50	01104	     	50-1104	11th St	325	Town of West Point	050	King William County	0.09	Dead End	SR 298 Lee St	140	R							X						04/08/2004
+748591	  50	01104	     	50-1104	11th St	325	Town of West Point	050	King William County	0.17	SR 298 Lee St	SR 296 Kirby St	270	R							X						04/08/2004
+748592	  50	01104	     	50-1104	11th St	325	Town of West Point	050	King William County	0.02	SR 296 Kirby St	Dead End	30	R							X						04/08/2004
+748593	  50	01105	     	50-1105	9th St	325	Town of West Point	050	King William County	0.03	Dead End	50-1107 Kirby St	2	R							X						04/08/2004
+748594	  50	01105	     	50-1105	9th St	325	Town of West Point	050	King William County	0.17	50-1107 Kirby St	SR 298 Lee St	350	R							X						04/08/2004
+748595	  50	01105	     	50-1105	9th St	325	Town of West Point	050	King William County	0.02	SR 298 Lee St	Dead End	20	R							X						04/08/2004
+748596	  50	01106	     	50-1106	7th St	325	Town of West Point	050	King William County	0.08	Dead End	50-1107 Kirby St	100	R							X						04/08/2004
+748597	  50	01106	     	50-1106	7th St	325	Town of West Point	050	King William County	0.17	50-1107 Kirby St	SR 298 Lee St	480	R							X						04/08/2004
+748598	  50	01106	     	50-1106	7th St	325	Town of West Point	050	King William County	0.08	SR 298 Lee St	Dead End	100	R							X						04/08/2004
+748599	  50	01107	     	50-1107	Kirby St	325	Town of West Point	050	King William County	0.21	50-1121, 1st St	SR 298, 5th St	100	R							X						04/08/2004
+784139	  50	01107	     	50-1107	Kirby St	325	Town of West Point	050	King William County	0.06	SR 298, 5th St	50-1110, 6th St	150	R							X						04/08/2004
+748600	  50	01107	     	50-1107	Kirby St	325	Town of West Point	050	King William County	0.23	50-1110, 6th St	SR 296, 10th St	1000	R							X						04/08/2004
+748601	  50	01108	     	50-1108	Kirby St	325	Town of West Point	050	King William County	0.24	SR 30, 14th St	SR 30 Main St; Gap	760	R							X						04/15/2004
+748602	  50	01108	     	50-1108	C St	325	Town of West Point	050	King William County	0.19	50-1008; Gap	50-1022 Bellwood St	80	R							X						04/15/2004
+748603	  50	01108	     	50-1108	C St	325	Town of West Point	050	King William County	0.12	50-1022 Bellwood St	50-1007 Lyndale St	70	R							X						04/15/2004
+748604	  50	01109	     	50-1109	Lee St	325	Town of West Point	050	King William County	0.23	50-1121, 1st St	SR 298, 5th St	470	R							X						04/08/2004
+748605	  50	01110	     	50-1110	6th St	325	Town of West Point	050	King William County	0.09	50-1107 Kirby St	50-1129 Main St	240	R							X						04/08/2004
+748606	  50	01110	     	50-1110	6th St	325	Town of West Point	050	King William County	0.08	50-1129 Main St	SR 298 Lee St	290	R							X						04/08/2004
+748607	  50	01111	     	50-1111	4th St	325	Town of West Point	050	King William County	0.25	Dead End	50-1109 Lee St	100	R							X						04/08/2004
+748608	  50	01112	     	50-1112	2nd St	325	Town of West Point	050	King William County	0.03	Dead End	50-1107 Kirby St	20	R							X						04/08/2004
+748609	  50	01112	     	50-1112	2nd St	325	Town of West Point	050	King William County	0.16	50-1107 Kirby St	50-1109 Lee St	140	R							X						04/08/2004
+748610	  50	01112	     	50-1112	2nd St	325	Town of West Point	050	King William County	0.05	50-1109 Lee St	Dead End	10	R							X						04/08/2004
+748611	  50	01113	     	50-1113	17th St	325	Town of West Point	050	King William County	0.15	SR 30 Main St	50-1127, F St	360	R							X						04/15/2004
+748612	  50	01114	     	50-1114	18th St	325	Town of West Point	050	King William County	0.15	SR 30 Main St	50-1127, F St	230	R							X						04/15/2004
+788671	  50	01114	     	50-1114	18th St	325	Town of West Point	050	King William County	0.05	50-1127, F St	Dead End	110	R							X						03/26/2007
+748613	  50	01115	     	50-1115	19th St	325	Town of West Point	050	King William County	0.15	SR 30 Main St	50-1127, F St	270	R							X						04/15/2004
+748614	  50	01116	     	50-1116	21st St	325	Town of West Point	050	King William County	0.16	SR 30 Main St	50-1127, F St	410	R							X						04/15/2004
+793608	  50	01116	     	50-1116	21st St	325	Town of West Point	050	King William County	0.05	50-1127, F St	Cul-de-Sac	0	?							X
+748615	  50	01117	     	50-1117	3rd St	325	Town of West Point	050	King William County	0.16	50-1107 Kirby St	50-1109 Lee St	100	R							X						04/08/2004
+748616	  50	01118	     	50-1118	16th St	325	Town of West Point	050	King William County	0.08	Dead End	50-1108 Kirby St	46	R							X						04/15/2004
+748617	  50	01118	     	50-1118	16th St	325	Town of West Point	050	King William County	0.07	50-1108 Kirby St	SR 30 Main St	490	R							X						04/15/2004
+748618	  50	01118	     	50-1118	16th St	325	Town of West Point	050	King William County	0.14	SR 30 Main St	50-1127, F St	360	R							X						04/15/2004
+748619	  50	01119	     	50-1119	20th St	325	Town of West Point	050	King William County	0.14	SR 30 Main St	50-1127, F St	90	R							X						03/26/2007
+748620	  50	01120	     	50-1120	23rd St	325	Town of West Point	050	King William County	0.08	SR 30 Main St	50-1101 Lee St	460	R							X						03/26/2007
+748621	  50	01120	     	50-1120	23rd St	325	Town of West Point	050	King William County	0.08	50-1101 Lee St	Dead End	80	R							X						03/26/2007
+748622	  50	01121	     	50-1121	1st St	325	Town of West Point	050	King William County	0.08	50-1107 Kirby St	50-1129 Main St	120	R							X						03/26/2007
+748623	  50	01121	     	50-1121	1st St	325	Town of West Point	050	King William County	0.08	50-1129 Main St	50-1109 Lee St	200	R							X						03/26/2007
+748624	  50	01122	     	50-1122	15th St	325	Town of West Point	050	King William County	0.08	Dead End	50-1108 Kirby St	49	R							X						04/23/2007
+748625	  50	01122	     	50-1122	15th St	325	Town of West Point	050	King William County	0.08	50-1108 Kirby St	SR 30 Main St	710	R							X						04/23/2007
+748626	  50	01122	     	50-1122	15th St	325	Town of West Point	050	King William County	0.13	SR 30 Main St	50-1127, F St	340	R							X						04/23/2007
+748627	  50	01122	     	50-1122	15th St	325	Town of West Point	050	King William County	0.02	50-1127, F St	Dead End	70	R							X						04/03/2001
+748628	  50	01123	     	50-1123	8th St	325	Town of West Point	050	King William County	0.16	50-1107 Kirby St	SR 298 Lee St	160	R							X						03/26/2007
+748629	  50	01123	     	50-1123	8th St	325	Town of West Point	050	King William County	0.02	SR 298 Lee St	Dead End	30	R							X						03/26/2007
+748630	  50	01124	     	50-1124	Prospect St	325	Town of West Point	050	King William County	0.09	Dead End	50-1001 Bond St	48	R							X						03/22/2007
+748631	  50	01125	     	50-1125	22nd St	325	Town of West Point	050	King William County	0.08	SR 30 Main St	50-1101 Lee St	130	R							X						04/15/2004
+748632	  50	01125	     	50-1125	22nd St	325	Town of West Point	050	King William County	0.14	50-1101 Lee St	Dead End	20	R							X						03/26/2007
+748633	  50	01126	     	50-1126	10th St	325	Town of West Point	050	King William County	0.02	Dead End	SR 296 Kirby St	9	R							X						03/26/2007
+748634	  50	01126	     	50-1126	10th St	325	Town of West Point	050	King William County	0.05	SR 298 Lee St	Dead End	90	R							X						03/26/2007
+748635	  50	01127	     	50-1127	F St	325	Town of West Point	050	King William County	0.01	Dead End	SR 33, 14th St	160	R							X						04/03/2001
+748636	  50	01127	     	50-1127	F St	325	Town of West Point	050	King William County	0.23	SR 33, 14th St	50-1114, 18th St	520	R							X						04/03/2001
+748637	  50	01127	     	50-1127	F St	325	Town of West Point	050	King William County	0.18	50-1114, 18th St	50-1116, 21st St	240	R							X						03/26/2007
+793609	  50	01127	     	50-1127	F St	325	Town of West Point	050	King William County	0.06	50-1116, 21st St	50-1125, 22nd St	0	?							X
+748638	  50	01128	     	50-1128	5th St	325	Town of West Point	050	King William County	0.05	SR 298 Lee St	Dead End	30	G							X				30	G	2009
+748639	  50	01129	     	50-1129	Main St	325	Town of West Point	050	King William County	0.23	50-1121, 1st St	SR 298, 5th St	610	R							X						03/26/2007
+748640	  50	01129	     	50-1129	Main St	325	Town of West Point	050	King William County	0.10	SR 298, 5th St	50-1106, 7th St	1100	R							X						03/26/2007
+748641	  50	01129	     	50-1129	Main St	325	Town of West Point	050	King William County	0.17	50-1106, 7th St	SR 296, 10th St	2300	R							X						03/26/2007
+404556	  50	01129	     	50-1129	Main St	325	Town of West Point	050	King William County	0.22	SR 296, 10th St	SR 33, 14th St	2700	G							X				2800	G	2009
+748642	  50	01130	     	50-1130	Glass Island Rd	325	Town of West Point	050	King William County	0.25	50-1003 Chelsea Rd	Dead End	470	R							X						03/26/2007
+796010	  50	01207	     	50-1207	14th St	325	Town of West Point	050	King William County	0.17	Dead End	SR 30 Main St; SR 33; 14th St	0	?							X
+748697	  50	09205	     	50-9205	West Point Elem Sch	325	Town of West Point	050	King William County	0.11	50-1006 Thompson Ave	West Point Schools	340	R							X						03/28/2007
+748699	  50	09406	     	50-9406	West Point HS	325	Town of West Point	050	King William County	0.11	50-1004 Mattaponi Ave	West Point HS	300	R							X						03/28/2007
+748700	  50	09407	     	50-9407	West Point Elem Sch	325	Town of West Point	050	King William County	0.05	50-1006 Thompson Ave	50-1006 Thompson Ave	110	R							X						04/19/2004
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

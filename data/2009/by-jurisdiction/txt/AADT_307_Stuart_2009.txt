@@ -1,0 +1,47 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Stuart																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+120302	  SR	00008	     	VA 8	Patrick Ave	307	Town of Stuart	070	Patrick County	0.75	SCL Stuart	Bus US 58	4400	N	94%	0%	1%	1%	3%	0%	N	0.0879	N	0.6465	4700	N	2009
+020430	  SR	00008	     		West Blue Ridge St	307	Town of Stuart	070	Patrick County	1.00	Bus US 58	WCL Stuart	2700	G	94%	1%	1%	1%	3%	0%	C	0.0942	F	0.0000	2800	G	2009	
+020430	CDUS	00058	     		West Blue Ridge St	307	Town of Stuart	070	Patrick County	1.00	WCL Stuart	E SR 8 Stuart; Patrick Ave	2700	G	94%	1%	1%	1%	3%	0%	C	0.0942	F	0.0000	2800	G	2009
+405973	  70	00631	     	70-631	Dobyns Rd	307	Town of Stuart	070	Patrick County	0.13	WCL Stuart	SCL Stuart	2000	G							X	0.1289	F	0.5289	2100	G	2009
+406639	  70	00631	     	70-631	Dobyns Rd	307	Town of Stuart	070	Patrick County	0.05	SCL Stuart	SCL Stuart	2000	G							X	0.1289	F	0.5289	2100	G	2009
+406641	  70	00631	     	70-631	Dobyns Rd	307	Town of Stuart	070	Patrick County	0.32	SCL Stuart	70-1009 North Main St	2000	N							X	0.1289	N	0.5289	2100	N	2009
+405974	  70	00631	     	70-631	South Main St	307	Town of Stuart	070	Patrick County	0.35	70-1009 North Main St	SR 8 N, Patrick Ave	5900	G							X	0.0962	F	0.6529	6200	G	2009
+405979	  70	00642	     	70-642	Sunset Dr	307	Town of Stuart	070	Patrick County	0.52	US 58 Blue Ridge St	70-1015 Oak St	520	G	99%	1%	1%	0%	0%	0%	C	0.1115	F	0.5303	550	G	2009
+758326	  70	00642	     	70-642	Pine St	307	Town of Stuart	070	Patrick County	0.07	70-1015 Oak St	70-1021 Akers Dr	120	R							X						11/16/2005
+758327	  70	00642	     	70-642	Poorhouse Creek Rd	307	Town of Stuart	070	Patrick County	0.29	70-1021 Akers Dr	WCL Stuart	170	R							X						10/03/2008
+405994	  70	00681	     	70-681	Commerce St	307	Town of Stuart	070	Patrick County	0.40	SR 8 Patrick Ave	ECL Stuart	2900	G	96%	1%	1%	1%	2%	0%	C	0.0918	F	0.5417	3100	G	2009
+758498	  70	00743	     	70-743	Johnson St	307	Town of Stuart	070	Patrick County	0.10	US 58	NCL Stuart	2700	R							X						10/03/2008
+406016	  70	01001	     	70-1001	Mayo Ct	307	Town of Stuart	070	Patrick County	0.54	70-1001 Dobyns Rd	70-1010 Staples Avenue	720	G	90%	2%	0%	0%	7%	0%	C	0.1824	F	0.5315	750	G	2009
+758657	  70	01002	     	70-1002	Chestnut Ave	307	Town of Stuart	070	Patrick County	0.47	SR 8 Patrick Ave	US 58	130	R							X						11/06/2005
+406017	  70	01003	     	70-1003	Park St	307	Town of Stuart	070	Patrick County	0.12	70-1010 Staples Avenue	70-1011 Buena Vista Ave	350	G	99%	1%	0%	0%	0%	0%	C	0.1705	F	0.6119	370	G	2009
+785187	  70	01004	     	70-1004	Mountain View Heights	307	Town of Stuart	070	Patrick County	0.06	NCL Stuart	US 58 EAST	48	N							X				0	N	11/16/2005
+406018	  70	01006	     	70-1006	Rye Cove St	307	Town of Stuart	070	Patrick County	0.20	70-1011 Buena Vista Ave	70-1009 North Main St	600	G	99%	0%	0%	0%	0%	0%	C	0.1489	F	0.5859	630	G	2009
+758660	  70	01007	     	70-1007	Forest Lane	307	Town of Stuart	070	Patrick County	0.05	Dead End	0.05 MN Dead End	70	R							X						10/03/2008
+758661	  70	01007	     	70-1007	Forest Lane	307	Town of Stuart	070	Patrick County	0.12	0.05 MN Dead End	US 58	70	R							X						10/03/2008
+758662	  70	01008	     	70-1008	Via Lane	307	Town of Stuart	070	Patrick County	0.25	US 58 WEST	US 58 EAST	50	R							X						11/16/2005
+406019	  70	01009	     	70-1009	North Main St	307	Town of Stuart	070	Patrick County	0.21	70-631 South Main St; Dobyns Rd	US 58	4000	G	97%	0%	1%	1%	2%	0%	C	0.0976	F	0.0000	4200	G	2009
+758663	  70	01010	     	70-1010	Staples Ave	307	Town of Stuart	070	Patrick County	0.06	70-1012 Hillcrest St	70-1001 Mayo Ct	50	R							X						11/16/2005
+406020	  70	01010	     	70-1010	Staples Ave	307	Town of Stuart	070	Patrick County	0.23	70-1001 Mayo Ct	US 58	1000	G	91%	2%	1%	0%	6%	0%	C	0.1842	F	0.6250	1000	G	2009
+758664	  70	01011	     	70-1011	Buena Vista Ave	307	Town of Stuart	070	Patrick County	0.23	70-631 Dobyns Rd	70-1003 Park St	230	R							X						11/16/2005
+406021	  70	01011	     	70-1011	Buena Vista Ave	307	Town of Stuart	070	Patrick County	0.04	70-1003 Park Street	70-1006 Rye Cove St	810	G	99%	0%	0%	0%	0%	0%	C	0.1685	F	0.5533	850	G	2009
+758665	  70	01011	     	70-1011	Buena Vista Ave	307	Town of Stuart	070	Patrick County	0.14	70-1006 Rye Cove St	US 58	640	R							X						11/16/2005
+758666	  70	01012	     	70-1012	Hilcrest Court	307	Town of Stuart	070	Patrick County	0.03	70-1016 Oak Hurst Dr	70-1010 Staples Ave	70	R							X						11/16/2005
+758667	  70	01012	     	70-1012	Hillcrest Court	307	Town of Stuart	070	Patrick County	0.12	70-1010 Staples Ave	70-1001 Mayo Ct	30	R							X						11/16/2005
+758668	  70	01013	     	70-1013	Hill St	307	Town of Stuart	070	Patrick County	0.08	SR 8 Patrick Ave	70-1002 Chestnut Ave	30	R							X						11/16/2005
+758669	  70	01014	     	70-1014	Sunset Dr	307	Town of Stuart	070	Patrick County	0.11	70-642 W, Poorhouse Creek Rd	70-1015 Oak St	150	R							X						11/16/2005
+758670	  70	01014	     	70-1014	Sunset Dr	307	Town of Stuart	070	Patrick County	0.08	70-1015 Oak St	70-642 E, Poorhouse Creek Rd	170	R							X						11/16/2005
+758671	  70	01015	     	70-1015	Oak St	307	Town of Stuart	070	Patrick County	0.18	70-642 Poorhouse Creek Rd	70-1014 Sunset Dr	20	R							X						11/16/2005
+758672	  70	01016	     	70-1016	Oak Hurst Dr	307	Town of Stuart	070	Patrick County	0.34	70-631 Dobyns Rd	70-1003 Park St	100	R							X						11/16/2005
+758674	  70	01018	     	70-1018	West St	307	Town of Stuart	070	Patrick County	0.12	Dead End	US 58	20	R							X						11/16/2005
+758675	  70	01019	     	70-1019	Rucker St	307	Town of Stuart	070	Patrick County	0.06	70-1006 Rye Cove St	Dead End	410	R							X						11/16/2005
+758676	  70	01020	     	70-1020	Riverside Dr	307	Town of Stuart	070	Patrick County	0.13	Dead End	70-1021 Akers Dr	10	R							X						11/16/2005
+758677	  70	01020	     	70-1020	Riverside Dr	307	Town of Stuart	070	Patrick County	0.09	70-1021 Akers Dr	70-1001 Mayo Ct	320	R							X						11/16/2005
+758678	  70	01021	     	70-1021	Akers Dr	307	Town of Stuart	070	Patrick County	0.21	70-1020 Riverside Dr	70-642 Poorhouse Creek Rd	260	R							X						11/16/2005
+758679	  70	01022	     	70-1022	Laurel Ct	307	Town of Stuart	070	Patrick County	0.15	Dead End	70-1010 Staples Ave	40	R							X						11/16/2005
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

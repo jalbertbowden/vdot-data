@@ -1,0 +1,37 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Chincoteague																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050572	  SR	00175	     	VA 175	Chincoteague Rd	190	Town of Chincoteague	001	Accomack County	2.11	WCL Chincoteague	Main St	7600	G	97%	1%	1%	1%	1%	0%	F	0.0851	F	0.0000	8100	G	2009
+617012	 190	00001	     	190-1	Maddox Blvd	190	Town of Chincoteague	190	Town of Chincoteague	0.38	Main St	Deep Hole Rd	6700	G	98%	0%	1%	0%	0%	0%	C	0.0787	F	0.0000	7100	G	2009
+617013	 190	00001	     	190-1	Maddox Blvd	190	Town of Chincoteague	190	Town of Chincoteague	0.27	Deep Hole Rd	Chicken City Rd	8800	G	98%	0%	1%	0%	0%	0%	F	0.0826	F	0.6112	9400	G	2009
+617014	 190	00001	     	190-1	Maddox Blvd	190	Town of Chincoteague	190	Town of Chincoteague	0.92	Chicken City Rd	Entrance To Assateague Island	5000	G	98%	0%	1%	0%	0%	0%	F	0.0959	F	0.6407	5400	G	2009
+617022	 190	00002	     	190-2	Ridge Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.69	Beebe Rd	Bunting Rd	2700	G	99%	0%	0%	0%	0%	0%	F	0.0874	F	0.5149	2900	G	2009
+617023	 190	00002	     	190-2	Ridge Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.95	Bunting Rd	Church St	3200	G	99%	0%	0%	0%	0%	0%	C	0.0882	F	0.0000	3400	G	2009
+617004	 190	00002	     	190-2	Chicken City Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.41	Church St	Maddox Blvd	4900	G	99%	0%	0%	0%	0%	0%	F	0.0867	F	0.5419	5200	G	2009
+617005	 190	00002	     	190-2	Chicken City Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.39	Maddox Blvd	Deep Hole Rd	1800	G	99%	0%	0%	0%	0%	0%	F	0.0995	F	0.5878	1900	G	2009
+617008	 190	00003	     	190-3	Church St	190	Town of Chincoteague	190	Town of Chincoteague	0.32	Chicken City Rd	Pension St	3800	G	99%	0%	0%	0%	0%	0%	C	0.0918	F	0.0000	4000	G	2009
+617007	 190	00003	     	190-3	Church St	190	Town of Chincoteague	190	Town of Chincoteague	0.08	Pension St	Willow St	4700	G	99%	0%	0%	0%	0%	0%	F	0.0861	F	0.5075	5000	G	2009
+617006	 190	00003	     	190-3	Church St	190	Town of Chincoteague	190	Town of Chincoteague	0.22	Willow St	Main St	2900	G	99%	0%	0%	0%	0%	0%	F	0.0881	F	0.5537	3100	G	2009
+617003	 190	00004	     	190-4	Bunting Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.39	Ridge Rd	Willow St	1700	G	98%	0%	1%	1%	1%	0%	C	0.0957	F	0.5058	1800	G	2009
+617002	 190	00004	     	190-4	Bunting Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.16	Willow St	Main St	1400	G	98%	0%	1%	1%	1%	0%	F	0.0938	F	0.6215	1500	G	2009
+617001	 190	00005	     	190-5	Beebe Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.30	Main St	Ridge Rd	1000	G	96%	0%	3%	1%	1%	0%	C	0.1100	F	0.5862	1100	G	2009
+617024	 190	00006	     	190-6	Willow St	190	Town of Chincoteague	190	Town of Chincoteague	0.93	Bunting Rd	Church St	1300	G	99%	0%	0%	0%	0%	0%	C	0.0957	F	0.6260	1400	G	2009
+617021	 190	00007	     	190-7	Pension St	190	Town of Chincoteague	190	Town of Chincoteague	0.21	Church St	Deep Hole Rd	1900	G	99%	0%	0%	0%	0%	0%	C	0.0949	F	0.5405	2000	G	2009
+617009	 190	00008	     	190-8	Deep Hole Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.18	Pension St	Maddox Blvd	2500	G	98%	0%	1%	0%	0%	0%	F	0.1020	F	0.6030	2600	G	2009
+617010	 190	00008	     	190-8	Deep Hole Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.38	Maddox Blvd	Chicken City Rd	2100	G	98%	0%	1%	0%	0%	0%	C	0.0907	F	0.0000	2300	G	2009
+617011	 190	00008	     	190-8	Deep Hole Rd	190	Town of Chincoteague	190	Town of Chincoteague	0.40	Chicken City Rd	0.40 Mi N Chicken City Rd	1800	G	98%	0%	1%	0%	0%	0%	F	0.1000	F	0.5409	1900	G	2009
+617016	 190	01622	     	190-1622	South Main St	190	Town of Chincoteague	190	Town of Chincoteague	0.77	Bunting Rd	SR 175 Channel Bridge	4900	G	98%	0%	1%	0%	1%	0%	C	0.0835	F	0.0000	5300	G	2009
+617015	 190	01622	     	190-1622	South Main St	190	Town of Chincoteague	190	Town of Chincoteague	0.60	Bunting Rd	Beebe Rd	2800	G	98%	0%	1%	0%	1%	0%	F	0.0933	F	0.5108	3000	G	2009
+781852	 190	01622	     	190-1622	South Main	190	Town of Chincoteague	190	Town of Chincoteague	1.21	Beebe Road	JB-190 End State Maintenance	870	G	98%	0%	1%	0%	1%	0%	F	0.1020	F	0.5650	930	G	2009
+617017	 190	01623	     	190-1623	North Main St	190	Town of Chincoteague	190	Town of Chincoteague	0.11	SR 175 Channel Bridge	Church St	10000	G	98%	0%	1%	0%	0%	0%	F	0.0797	F	0.5189	11000	G	2009
+617018	 190	01623	     	190-1623	North Main St	190	Town of Chincoteague	190	Town of Chincoteague	0.32	Church St	Maddox Blvd	9200	G	98%	0%	1%	0%	0%	0%	F	0.0821	F	0.5527	9800	G	2009
+617019	 190	01623	     	190-1623	North Main St	190	Town of Chincoteague	190	Town of Chincoteague	0.73	Maddox Blvd	Misty Meadows Dr	2400	G	98%	0%	1%	0%	0%	0%	C	0.0942	F	0.0000	2600	G	2009
+617020	 190	01623	     	190-1623	North Main St	190	Town of Chincoteague	190	Town of Chincoteague	1.08	Misty Meadows Dr	Richardson St	1500	G	98%	0%	1%	0%	0%	0%	F	0.1061	F	0.5044	1600	G	2009
+781853	 190	01623	     	190-1623	N Main St	190	Town of Chincoteague	190	Town of Chincoteague	0.13	Richardson Street	JB-1-190 RT.2101 NCL Chincoteague	690	G	98%	0%	1%	0%	0%	0%	F	0.1336	F	0.5806	730	G	2009
+517002	 190	00000	     	190-0	Taylor St	190	Town of Chincoteague	190	Town of Chincoteague	0.00	Main St	Deep Hole Rd	930	G							X	0.0912	F	0.0000	1000	G	2009
+517001	 190	00000	     	190-0	Wayne Dr	190	Town of Chincoteague	190	Town of Chincoteague	0.00	Eastside Rd	Filmore St	330	G							X	0.1108	F	0.5513	360	G	2009
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

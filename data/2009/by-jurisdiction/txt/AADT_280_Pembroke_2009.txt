@@ -1,0 +1,78 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2009																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Pembroke																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+657009	  US	00460	     	US 460	 	280	Town of Pembroke	035	Giles County	0.86	WCL Pembroke	35-626 Castle Ave	12000	G	91%	0%	1%	1%	7%	0%	F				12000	G	2009
+020301	  US	00460	     	US 460	 	280	Town of Pembroke	035	Giles County	0.73	35-626 Castle Ave	ECL Pembroke	12000	G	91%	0%	1%	1%	7%	0%	F				12000	G	2009
+740288	  35	00618	     	35-618	Collins Ave	280	Town of Pembroke	035	Giles County	0.03	US 460 WB	US 460 EB	190	R							X						07/25/2008
+740289	  35	00618	     	35-618	Collins Ave	280	Town of Pembroke	035	Giles County	0.12	US 460 EB	ECL Pembroke	140	R							X						02/27/2006
+740291	  35	00619	     	35-619	Mays Hollow Rd	280	Town of Pembroke	035	Giles County	0.29	US 460	NCL Pembroke	130	R							X						07/25/2008
+405926	  35	00623	     	35-623	 	280	Town of Pembroke	035	Giles County	0.42	SCL Pembroke	35-1404 E, Snidow St	750	G	99%	1%	0%	0%	0%	0%	F	0.1047	F	0.5988	790	G	2009
+405927	  35	00623	     	35-623	 	280	Town of Pembroke	035	Giles County	0.08	35-1404 W, Snidow St	US 460	1000	G	99%	1%	0%	0%	0%	0%	F	0.0923	F	0.6154	1100	G	2009
+405928	  35	00623	     	35-623	 	280	Town of Pembroke	035	Giles County	1.07	US 460	35-688; NCL Pembroke	1200	G	99%	1%	0%	0%	0%	0%	C	0.1018	F	0.5039	1200	G	2009
+785104	  35	00626	     	35-626	 	280	Town of Pembroke	035	Giles County	0.03	SCL Pembroke	35-1407 Fourth St	480	R							X						04/17/2002
+740309	  35	00626	     	35-626	Castle Rock Rd	280	Town of Pembroke	035	Giles County	0.11	35-1407 Fourth St	35-1405 Castle Rock Dr; Second St	1500	R							X						07/25/2008
+740310	  35	00626	     	35-626	Castle Rock Rd	280	Town of Pembroke	035	Giles County	0.30	35-1405 Castle Rock Dr; Second St	US 460 EAST	1800	R							X						07/25/2008
+405931	  35	00626	     	35-626	Mill St	280	Town of Pembroke	035	Giles County	0.49	US 460 West Virginia Ave	35-623 South Cascade Dr	610	G	98%	0%	1%	0%	0%	0%	C	0.1211	F	0.5062	640	G	2009
+740311	  35	00626	     	35-626	Johnson Rd	280	Town of Pembroke	035	Giles County	0.10	35-623 NORTH	NCL Pembroke	90	R							X						02/27/2006
+740322	  35	00631	     	35-631	Giles St	280	Town of Pembroke	035	Giles County	0.06	Dead End	35-747 Hoge St	40	R							X						07/30/2008
+740323	  35	00631	     	35-631	Giles St	280	Town of Pembroke	035	Giles County	0.12	35-747 Hoge St	35-1404 Snidow St	100	R							X						07/30/2008
+740448	  35	00695	     	35-695	Peck St	280	Town of Pembroke	035	Giles County	0.20	35-626 Mill Rd	35-623 Cascade Dr	120	R							X						07/25/2008
+785109	  35	00701	     	35-701	Morrison Ave	280	Town of Pembroke	035	Giles County	0.18	SCL Pembroke	US 460	30	R							X						04/17/2002
+740496	  35	00727	     	35-727	First St	280	Town of Pembroke	035	Giles County	0.25	35-626 Castle Rock Rd	35-1420, SCL Pembroke	80	R							X						07/25/2008
+740519	  35	00742	     	35-742	Pembroke St	280	Town of Pembroke	035	Giles County	0.22	US 460	35-1412 W, Circle Dr	430	R							X						07/30/2008
+740520	  35	00742	     	35-742	Pembroke St	280	Town of Pembroke	035	Giles County	0.03	35-1412 W, Circle Dr	35-1415 Circle Dr	400	R							X						07/30/2008
+740521	  35	00742	     	35-742	Pembroke St	280	Town of Pembroke	035	Giles County	0.10	35-1415 Circle Dr	Begin Loop	190	R							X						07/30/2008
+740522	  35	00742	     	35-742	Pembroke St	280	Town of Pembroke	035	Giles County	0.01	Begin Loop	35-1409 Circle Dr	110	R							X						07/30/2008
+740523	  35	00742	     	35-742	Pembroke St	280	Town of Pembroke	035	Giles County	0.25	35-1409 Circle Dr	35-1417 Orchard St	100	R							X						07/30/2008
+740524	  35	00742	     	35-742	Pembroke St	280	Town of Pembroke	035	Giles County	0.15	35-1417 Orchard St	35-1412 E, Circle Dr	48	R							X						07/30/2008
+740525	  35	00742	     	35-742	Pembroke St	280	Town of Pembroke	035	Giles County	0.09	35-1412 E, Circle Dr	End Loop	90	R							X						07/30/2008
+740531	  35	00747	     	35-747	Hoge St	280	Town of Pembroke	035	Giles County	0.04	35-631 Giles St	35-1402 Wilson St	70	R							X						07/30/2008
+740532	  35	00747	     	35-747	Hoge St	280	Town of Pembroke	035	Giles County	0.16	35-1402 Wilson St	35-1404 E, Snidow St	120	R							X						07/25/2008
+740533	  35	00747	     	35-747	Hilton St	280	Town of Pembroke	035	Giles County	0.05	35-1404 W, Snidow St	US 460	440	R							X						07/25/2008
+740534	  35	00747	     	35-747	Hilton St	280	Town of Pembroke	035	Giles County	0.06	US 460	Dead End	50	R							X						07/25/2008
+740543	  35	00754	     	35-754	Ridge Rd	280	Town of Pembroke	035	Giles County	0.25	35-626 Mill St	Dead End	30	R							X						07/25/2008
+740755	  35	01401	     	35-1401	Ellen St	280	Town of Pembroke	035	Giles County	0.06	35-1404 Snidow St	US 460	230	R							X						03/27/2006
+740756	  35	01402	     	35-1402	Wilson St	280	Town of Pembroke	035	Giles County	0.12	35-747 Hoge St	35-1404 Snidow St	120	R							X						03/27/2006
+740757	  35	01403	     	35-1403	Hillcrest Ave	280	Town of Pembroke	035	Giles County	0.12	US 460; 35-626	35-1413; 35-1414	320	R							X						02/27/2006
+740758	  35	01403	     	35-1403	Hillcrest Ave	280	Town of Pembroke	035	Giles County	0.13	35-1413; 35-1414	35-626 Mill St	20	R							X						02/27/2006
+740759	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.02	US 460	35-631 Giles St	270	R							X						07/30/2008
+740760	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.05	35-631 Giles St	35-1402 Wilson St	160	R							X						03/27/2006
+740761	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.04	35-1402 Wilson St	35-747 W, Hilton St	310	R							X						03/27/2006
+740762	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.02	35-747 W, Hilton St	35-747 E, Hoge St	410	R							X						03/27/2006
+740763	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.14	35-747 E, Hoge St	35-623 WEST	470	R							X						03/27/2006
+740764	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.03	35-623 WEST	35-623 EAST	1400	G	99%	1%	0%	0%	0%	0%	F	0.1034	F	0.5409	1500	G	2009
+740765	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.17	35-623 EAST	35-1401 Ellen St	930	R							X						03/27/2006
+740766	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.15	35-1401 Ellen St	35-626 Castle Rock Rd	1000	R							X						03/27/2006
+740767	  35	01404	     	35-1404	Snidow St	280	Town of Pembroke	035	Giles County	0.02	35-626 Castle Rock Rd	US 460	1300	R							X						03/27/2006
+740769	  35	01405	     	35-1405	Second St	280	Town of Pembroke	035	Giles County	0.07	SCL Pembroke	35-626 Castle Rock Rd	70	R							X						03/27/2006
+740770	  35	01405	     	35-1405	Castle Rock Dr	280	Town of Pembroke	035	Giles County	0.05	35-626 Castle Rock Rd	35-1408 College Ave	60	R							X						03/27/2006
+740771	  35	01405	     	35-1405	Castle Rock Dr	280	Town of Pembroke	035	Giles County	0.05	35-1408 College Ave	Dead End	10	R							X						03/27/2006
+740772	  35	01406	     	35-1406	Third St	280	Town of Pembroke	035	Giles County	0.06	35-626 Castle Rock Rd	35-1408 College Ave	40	R							X						03/27/2006
+740773	  35	01407	     	35-1407	Fourth St	280	Town of Pembroke	035	Giles County	0.06	35-626 Castle Rock Rd	35-1408 College Ave	40	R							X						03/27/2006
+740774	  35	01408	     	35-1408	College Ave	280	Town of Pembroke	035	Giles County	0.05	35-1407 Fourth St	35-1406 Third St	30	R							X						03/27/2006
+740775	  35	01408	     	35-1408	College Ave	280	Town of Pembroke	035	Giles County	0.05	35-1406 Third St	35-1405 Castle Rock Dr	70	R							X						03/27/2006
+740776	  35	01409	     	35-1409	Lilly Dr	280	Town of Pembroke	035	Giles County	0.20	US 460	35-1415 Circle Dr	45	R							X						03/13/2006
+740777	  35	01409	     	35-1409	Circle Dr	280	Town of Pembroke	035	Giles County	0.05	35-1415 Circle Dr	35-742 Pembroke St	10	R							X						03/13/2006
+740778	  35	01410	     	35-1410	Smith Hollow Rd	280	Town of Pembroke	035	Giles County	0.18	US 460	Dead End	50	R							X						02/27/2006
+740779	  35	01411	     	35-1411	Pembroke Park Lane	280	Town of Pembroke	035	Giles County	0.12	Dead End	35-626 Castle Rock Rd	60	R							X						03/29/2006
+740780	  35	01412	     	35-1412	Circle Dr	280	Town of Pembroke	035	Giles County	0.20	35-742 S, Pembroke St	35-742 N, Pembroke St	70	R							X						03/13/2006
+740781	  35	01413	     	35-1413	Riverview St	280	Town of Pembroke	035	Giles County	0.10	Dead End	35-1403; 35-1414	20	R							X						02/27/2006
+740782	  35	01413	     	35-1413	Riverview St	280	Town of Pembroke	035	Giles County	0.15	35-1403; 35-1414	Dead End	40	R							X						02/27/2006
+740783	  35	01414	     	35-1414	Center St	280	Town of Pembroke	035	Giles County	0.04	35-1403; 35-1413	35-1416 Smith St	240	R							X						02/27/2006
+740784	  35	01414	     	35-1414	Center St	280	Town of Pembroke	035	Giles County	0.05	35-1416 Smith St	35-1418 High St	100	R							X						02/27/2006
+740785	  35	01414	     	35-1414	Center St	280	Town of Pembroke	035	Giles County	0.16	35-1418 High St	Dead End	40	R							X						02/27/2006
+740786	  35	01415	     	35-1415	Circle Dr	280	Town of Pembroke	035	Giles County	0.10	35-742 Pembroke St	35-1409 Circle Dr; Lilly Dr	40	R							X						03/13/2006
+740787	  35	01416	     	35-1416	Smith St	280	Town of Pembroke	035	Giles County	0.08	0.08 MS 35-1414 Center St	35-1414 Center St	20	R							X						02/27/2006
+740788	  35	01416	     	35-1416	Smith St	280	Town of Pembroke	035	Giles County	0.43	35-1414 Center St	Dead End	110	R							X						02/27/2006
+740789	  35	01417	     	35-1417	Orchard St	280	Town of Pembroke	035	Giles County	0.17	35-742 Pembroke St	Dead End	10	R							X						03/13/2006
+740790	  35	01418	     	35-1418	High St	280	Town of Pembroke	035	Giles County	0.04	Dead End	35-1414 Center St	8	R							X						02/27/2006
+740791	  35	01418	     	35-1418	High St	280	Town of Pembroke	035	Giles County	0.03	35-1414 Center St	0.03 MS 35-1414 Center St	10	R							X						02/27/2006
+740792	  35	01418	     	35-1418	High St	280	Town of Pembroke	035	Giles County	0.08	0.03 MS 35-1414 Center St	Dead End	10	R							X						02/27/2006
+740793	  35	01419	     	35-1419	Croft Manner	280	Town of Pembroke	035	Giles County	0.10	Cul-de-Sac	35-626 Mill St	30	R							X						02/27/2006
+740795	  35	01421	     	35-1421	Fisher Dr	280	Town of Pembroke	035	Giles County	0.10	35-626 Mill St	Dead End	10	R							X						02/27/2006
+740821	  35	09161	     	35-9161	Eastern Elem/Mid School	280	Town of Pembroke	035	Giles County	0.05	Dead End	US 460	370	R							X						09/05/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									
