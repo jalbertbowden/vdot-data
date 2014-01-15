@@ -1,0 +1,121 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Dublin																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+020427	  US	00011	     	US 11	Broad St	210	Town of Dublin	077	Pulaski County	0.16	WCL Dublin	SR 100 Oakwood Ave	13000	N	98%	1%	1%	0%	0%	0%	N	0.1059	N	0.0000	13000	N	2008
+020378	  US	00011	     	US 11	Broad St	210	Town of Dublin	077	Pulaski County	0.97	SR 100 Oakwood Ave	ECL Dublin	14000	F	98%	0%	0%	1%	1%	0%	F	0.0872	F	0.0000	15000	F	2008
+020422	  SR	00100	     	VA 100	 	210	Town of Dublin	077	Pulaski County	0.51	SCL Dublin	US 11 Dublin	18000	N	96%	0%	1%	1%	3%	0%	N	0.0907	N	0.0000	19000	N	2008
+020387	  SR	00100	     	VA 100	 	210	Town of Dublin	077	Pulaski County	0.21	US 11 Dublin	NCL Dublin	5800	G	96%	0%	1%	1%	3%	0%	F	0.0943	N	0.0000	6200	G	2008
+764534	  77	00632	     	77-632	Dunlap Rd	210	Town of Dublin	077	Pulaski County	0.11	77-747 Old Route 11	77-1032 Free St	590	R							X						11/04/2008
+764535	  77	00632	     	77-632	Dunlap Rd	210	Town of Dublin	077	Pulaski County	0.06	77-1032 Free St	77-1007 Kerry St	500	R							X						11/04/2008
+764536	  77	00632	     	77-632	Dunlap Rd	210	Town of Dublin	077	Pulaski County	0.12	77-1007 Kerry St	77-9927	480	R							X						11/04/2008
+764537	  77	00632	     	77-632	Dunlap Rd	210	Town of Dublin	077	Pulaski County	0.02	77-9927	77-1031 Zeigler Ave	1100	R							X						11/04/2008
+764538	  77	00632	     	77-632	Dunlap Rd	210	Town of Dublin	077	Pulaski County	0.06	77-1031 Zeigler Ave	77-1035 Flanagan Ave	1200	R							X						11/04/2008
+764539	  77	00632	     	77-632	Dunlap Rd	210	Town of Dublin	077	Pulaski County	0.06	77-1035 Flanagan Ave	77-1038 Hudson Dr	290	R							X						10/29/2008
+764540	  77	00632	     	77-632	Dunlap Rd	210	Town of Dublin	077	Pulaski County	0.05	77-1038 Hudson Dr	ECL Dublin	490	R							X						10/29/2008
+764543	  77	00633	     	77-633	Powell Ave	210	Town of Dublin	077	Pulaski County	0.03	ECL Dublin	77-1005 Maple St	650	R							X						10/27/2008
+764544	  77	00633	     	77-633	Powell Ave	210	Town of Dublin	077	Pulaski County	0.06	77-1005 Maple St	NCL Dublin	510	R							X						10/27/2008
+785194	  77	00635	     	77-635	Baskerville St	210	Town of Dublin	077	Pulaski County	0.06	SCL Dublin	SR 100	600	R							X						03/20/2002
+764550	  77	00635	     	77-635	Baskerville St	210	Town of Dublin	077	Pulaski County	0.05	SR 100	77-747 Old Route 11	530	R							X						11/17/2008
+764636	  77	00688	     	77-688	Dunlap Ave	210	Town of Dublin	077	Pulaski County	0.13	77-1006 Locust St	77-632 Dunlap Rd	620	R							X						02/06/2006
+764637	  77	00689	     	77-689	Newburn Rd	210	Town of Dublin	077	Pulaski County	0.24	Dead End	77-747 Old Route 11	90	R							X						11/17/2008
+764665	  77	00706	     	77-706	Circle Dr	210	Town of Dublin	077	Pulaski County	0.12	77-707 High St	77-1012 Walker Ave	30	R							X						11/17/2008
+764666	  77	00707	     	77-707	High St	210	Town of Dublin	077	Pulaski County	0.07	77-1011 West Ave	77-706 Circle Dr	110	R							X						11/17/2008
+764667	  77	00707	     	77-707	High St	210	Town of Dublin	077	Pulaski County	0.06	77-706 Circle Dr	77-1012 Walker Ave	80	R							X						11/17/2008
+406084	  77	00746	     	77-746	Old Giles Rd	210	Town of Dublin	077	Pulaski County	0.08	77-747 Old Route 11	US 11 Broad St	2700	F	96%	2%	1%	1%	0%	0%	F	0.1198	F	0.0000	2900	F	2008
+406085	  77	00746	     	77-746	Giles Ave	210	Town of Dublin	077	Pulaski County	0.15	US 11 Broad St	77-1005 Third St	3100	F	96%	2%	1%	1%	0%	0%	C	0.1267	F	0.0000	3200	F	2008
+406086	  77	00746	     	77-746	Giles Ave	210	Town of Dublin	077	Pulaski County	0.28	77-1005 Third St	NCL Dublin	2600	F	96%	2%	1%	1%	0%	0%	F	0.1403	F	0.5605	2700	F	2008
+764729	  77	00747	     	77-747	Old Route 11	210	Town of Dublin	077	Pulaski County	0.65	SR 100	77-746 Old Giles Rd	1400	R							X						11/07/2008
+406087	  77	00747	     	77-747	Old Route 11	210	Town of Dublin	077	Pulaski County	0.50	77-746 Old Giles Rd	NCL Dublin	1700	F	98%	1%	1%	1%	0%	0%	C	0.1084	F	0.5430	1800	F	2008
+764828	  77	01001	     	77-1001	Fifth St	210	Town of Dublin	077	Pulaski County	0.12	77-1002 Oakwood Ave	77-1004 W, Trinkle Ave	320	R							X						10/20/2008
+764829	  77	01001	     	77-1001	Fifth St	210	Town of Dublin	077	Pulaski County	0.02	77-1004 W, South Ave	77-1004 E, Trinkle Ave	360	R							X						10/20/2008
+764830	  77	01001	     	77-1001	Fifth St	210	Town of Dublin	077	Pulaski County	0.08	77-1004 E, Trinkle Ave	77-746 Old Giles Rd	390	R							X						01/30/2006
+764831	  77	01002	     	77-1002	Oakwood Ave	210	Town of Dublin	077	Pulaski County	0.07	77-1003 Fourth St	77-1001 Fifth St	290	R							X						10/20/2008
+764832	  77	01002	     	77-1002	Oakwood Ave	210	Town of Dublin	077	Pulaski County	0.05	77-1001 Fifth St	77-1009 Sixth St	580	R							X						10/20/2008
+764833	  77	01003	     	77-1003	Fourth St	210	Town of Dublin	077	Pulaski County	0.05	SR 100 Clebone Rd	77-1002 Oakwood Ave	990	R							X						01/30/2006
+764834	  77	01003	     	77-1003	Fourth St	210	Town of Dublin	077	Pulaski County	0.13	77-1002 Oakwood Ave	77-1004 Trinkle Ave	650	R							X						10/20/2008
+764835	  77	01004	     	77-1004	Trinkle Ave	210	Town of Dublin	077	Pulaski County	0.09	US 11 Broad St	77-1013 Second St	900	R							X						01/30/2006
+764836	  77	01004	     	77-1004	Trinkle Ave	210	Town of Dublin	077	Pulaski County	0.07	77-1013 Second St	77-1005 Third St	680	R							X						10/20/2008
+764837	  77	01004	     	77-1004	Trinkle Ave	210	Town of Dublin	077	Pulaski County	0.08	77-1005 Third St	77-1003 Fourth St	690	R							X						10/20/2008
+764838	  77	01004	     	77-1004	Trinkle Ave	210	Town of Dublin	077	Pulaski County	0.08	77-1003 Fourth St	77-1001 Fifth St	140	R							X						10/20/2008
+764839	  77	01004	     	77-1004	Trinkle Ave	210	Town of Dublin	077	Pulaski County	0.04	77-1001 Fifth St	77-1009 Sixth St	50	R							X						10/20/2008
+764840	  77	01005	     	77-1005	Third St	210	Town of Dublin	077	Pulaski County	0.13	Dead End	77-1004 Trinkle Ave	60	R							X						01/30/2006
+764841	  77	01005	     	77-1005	Third St	210	Town of Dublin	077	Pulaski County	0.08	77-1004 Trinkle Ave	77-746 Old Giles Rd	880	R							X						01/30/2006
+764842	  77	01005	     	77-1005	Maple St	210	Town of Dublin	077	Pulaski County	0.12	77-746 Old Giles Rd	77-1023 Walnut St	1600	R							X						01/30/2006
+764843	  77	01005	     	77-1005	Maple St	210	Town of Dublin	077	Pulaski County	0.01	77-1023 Walnut St	77-1015 Glendy Ave	1900	R							X						10/27/2008
+764844	  77	01005	     	77-1005	Maple St	210	Town of Dublin	077	Pulaski County	0.15	77-1015 Glendy Ave	77-1033 Black Ave	1400	R							X						01/30/2006
+764845	  77	01005	     	77-1005	Maple St	210	Town of Dublin	077	Pulaski County	0.10	77-1033 Black Ave	77-1016 Linkous Ave	1400	R							X						10/27/2008
+764846	  77	01005	     	77-1005	Maple St	210	Town of Dublin	077	Pulaski County	0.02	77-1016 Linkous Ave	77-1083 Hanks Ave	1600	R							X						10/27/2008
+764847	  77	01005	     	77-1005	Maple St	210	Town of Dublin	077	Pulaski County	0.13	77-1083 Hanks Ave	77-1024 Mebane Ave	1000	R							X						10/27/2008
+764848	  77	01005	     	77-1005	Maple St	210	Town of Dublin	077	Pulaski County	0.08	77-1024 Mebane Ave	77-633 Powell Ave	720	R							X						01/30/2006
+764849	  77	01006	     	77-1006	Locust St	210	Town of Dublin	077	Pulaski County	0.06	77-688 Dunlap Ave	77-1007 S, Jordon St	500	R							X						02/06/2006
+764850	  77	01006	     	77-1006	Locust	210	Town of Dublin	077	Pulaski County	0.02	77-1007 S, Jordon	77-1007 N, Kerry	950	R							X						11/04/2008
+764851	  77	01006	     	77-1006	Locust	210	Town of Dublin	077	Pulaski County	0.08	77-1007 N, Kerry	Dead End	970	R							X						11/04/2008
+764852	  77	01007	     	77-1007	Jordon St	210	Town of Dublin	077	Pulaski County	0.10	77-1011	77-1012 Walker Ave	170	R							X						10/27/2008
+764853	  77	01007	     	77-1007	Jordon St	210	Town of Dublin	077	Pulaski County	0.03	77-1012 Walker Ave	77-1034 Vaughan Ave	200	R							X						10/27/2008
+764854	  77	01007	     	77-1007	Jordon St	210	Town of Dublin	077	Pulaski County	0.07	77-1034 Vaughan Ave	77-1010 Dunbar Ave	330	R							X						10/27/2008
+764855	  77	01007	     	77-1007	Jordon St	210	Town of Dublin	077	Pulaski County	0.21	77-1010 Dunbar Ave	77-1006 Locust St	310	R							X						10/27/2008
+764856	  77	01007	     	77-1007	Kerry St	210	Town of Dublin	077	Pulaski County	0.04	77-1006 Locust	77-1008 Galway St	120	R							X						11/04/2008
+764857	  77	01007	     	77-1007	Kerry St	210	Town of Dublin	077	Pulaski County	0.05	77-1008 Galway St	77-632 Dunlap Rd	60	R							X						02/06/2006
+764858	  77	01007	     	77-1007	Kerry St	210	Town of Dublin	077	Pulaski County	0.10	77-632 Dunlap Rd	77-1031 Zeigler Ave	70	R							X						11/04/2008
+764859	  77	01007	     	77-1007	Kerry St	210	Town of Dublin	077	Pulaski County	0.06	77-1031 Zeigler Ave	77-1035 Flanagan	140	R							X						11/04/2008
+764860	  77	01007	     	77-1007	Kerry St	210	Town of Dublin	077	Pulaski County	0.06	77-1035 Flanagan	77-1038 Hudson Dr	60	R							X						11/04/2008
+764861	  77	01008	     	77-1008	Galway St	210	Town of Dublin	077	Pulaski County	0.09	77-688 Dunlap Ave	77-1007 Kerry St	50	R							X						02/06/2006
+764862	  77	01009	     	77-1009	Sixth St	210	Town of Dublin	077	Pulaski County	0.12	77-1002 Oakwood Ave	77-1004 Trinkle Ave	160	R							X						10/20/2008
+764863	  77	01010	     	77-1010	Dunbar Ave	210	Town of Dublin	077	Pulaski County	0.13	SCL Dublin	77-1007 Jordon St	40	R							X						11/04/2008
+764864	  77	01010	     	77-1010	Dunbar Ave	210	Town of Dublin	077	Pulaski County	0.15	77-1007 Jordon St	77-747 Old Route 11	400	R							X						02/06/2006
+764865	  77	01011	     	77-1011	West Ave	210	Town of Dublin	077	Pulaski County	0.03	77-747 Old Route 11	77-707 High St	400	R							X						02/06/2006
+764866	  77	01011	     	77-1011	West Ave	210	Town of Dublin	077	Pulaski County	0.05	77-707 High St	77-1007 Jordon St	240	R							X						10/27/2008
+764867	  77	01012	     	77-1012	Walker Ave	210	Town of Dublin	077	Pulaski County	0.03	77-1007 Jordon St	77-707 Jordon St	120	R							X						11/17/2008
+764868	  77	01012	     	77-1012	Walker Ave	210	Town of Dublin	077	Pulaski County	0.06	77-707 High St	77-706 Circle Dr	140	R							X						11/17/2008
+764869	  77	01012	     	77-1012	Walker Ave	210	Town of Dublin	077	Pulaski County	0.08	77-706 Circle Dr	77-747 Old Route 11	370	R							X						02/02/2006
+764870	  77	01013	     	77-1013	Second St	210	Town of Dublin	077	Pulaski County	0.08	77-1004 Trinkle Ave	77-746 Old Giles Rd	210	R							X						10/20/2008
+764871	  77	01014	     	77-1014	Church St	210	Town of Dublin	077	Pulaski County	0.10	US 11 Broad St	77-1015 Glendy Ave	260	R							X						01/30/2006
+764872	  77	01014	     	77-1014	Church St	210	Town of Dublin	077	Pulaski County	0.23	77-1015 Glendy Ave	77-1016 Linkous Ave	180	R							X						01/30/2006
+764873	  77	01015	     	77-1015	Glendy Ave	210	Town of Dublin	077	Pulaski County	0.06	77-1014 Church St	77-1022 Roseberry St	190	R							X						10/27/2008
+764874	  77	01015	     	77-1015	Glendy Ave	210	Town of Dublin	077	Pulaski County	0.09	77-1022 Roseberry St	77-1005 Maple St	160	R							X						10/27/2008
+764875	  77	01016	     	77-1016	Linkous Ave	210	Town of Dublin	077	Pulaski County	0.06	77-1014 Church St	77-1022 Roseberry St	720	R							X						10/27/2008
+764876	  77	01016	     	77-1016	Linkous Ave	210	Town of Dublin	077	Pulaski County	0.09	77-1022 Roseberry St	77-1005 Maple	510	R							X						10/27/2008
+764885	  77	01022	     	77-1022	Roseberry St	210	Town of Dublin	077	Pulaski County	0.10	Dead End	77-1015 Glendy Ave	130	R							X						10/27/2008
+764886	  77	01022	     	77-1022	Roseberry St	210	Town of Dublin	077	Pulaski County	0.24	77-1015 Glendy Ave	77-1016 Linkous Ave	160	R							X						10/27/2008
+764887	  77	01023	     	77-1023	Walnut St	210	Town of Dublin	077	Pulaski County	0.10	77-1005 Maple St	77-1049 Vermilion St	310	R							X						10/27/2008
+764888	  77	01023	     	77-1023	Walnut St	210	Town of Dublin	077	Pulaski County	0.05	77-1049 Vermilion St	77-1025	420	R							X						10/27/2008
+764889	  77	01024	     	77-1024	Mebane Ave	210	Town of Dublin	077	Pulaski County	0.04	77-1005 Maple St	77-1049 Vermilion St	490	R							X						10/27/2008
+764890	  77	01024	     	77-1024	Mebane Ave	210	Town of Dublin	077	Pulaski County	0.04	77-1049 Vermilion St	NCL Dublin	440	R							X						01/30/2006
+764892	  77	01025	     	77-1025	Long St	210	Town of Dublin	077	Pulaski County	0.05	Dead End	77-1023 Walnut St	340	R							X						10/27/2008
+764894	  77	01026	     	77-1026	Hawkins St	210	Town of Dublin	077	Pulaski County	0.07	WCL Dublin	SR 100	850	R							X						11/30/2005
+764895	  77	01026	     	77-1026	Hawkins St	210	Town of Dublin	077	Pulaski County	0.07	SR 100	77-747 Old Route 11	840	R							X						02/06/2006
+764904	  77	01031	     	77-1031	Zeigler Ave	210	Town of Dublin	077	Pulaski County	0.12	77-632 Dunlap Rd	77-1007 Kerry St	700	R							X						11/04/2008
+764905	  77	01031	     	77-1031	Zeigler Ave	210	Town of Dublin	077	Pulaski County	0.06	77-1007 Kerry St	77-1032 Free St	790	R							X						11/04/2008
+764906	  77	01031	     	77-1031	Zeigler Ave	210	Town of Dublin	077	Pulaski County	0.04	77-1032 Free St	77-1037 Hudson Dr	790	R							X						11/04/2008
+764907	  77	01031	     	77-1031	Zeiglar Ave	210	Town of Dublin	077	Pulaski County	0.08	77-1037 Hudson Dr	77-747 Old Route 11	740	R							X						02/06/2006
+764908	  77	01032	     	77-1032	Free St	210	Town of Dublin	077	Pulaski County	0.10	77-632 Dunlap Rd	77-1031 Zeigler Ave	40	R							X						11/04/2008
+764909	  77	01033	     	77-1033	Black Ave	210	Town of Dublin	077	Pulaski County	0.05	Dead End	77-1005 Maple St	30	R							X						01/30/2006
+785195	  77	01034	     	77-1034	Vaughan Ave	210	Town of Dublin	077	Pulaski County	0.05	SCL Dublin	77-1050 Armstrong St	180	N							X				0	N	11/12/2008
+764913	  77	01034	     	77-1034	Vaughan Ave	210	Town of Dublin	077	Pulaski County	0.09	77-1050 Armstrong St	77-1007 Kerry St	390	R							X						11/04/2008
+764914	  77	01035	     	77-1035	Flanagan	210	Town of Dublin	077	Pulaski County	0.11	77-632 Dunlap Rd	77-1007 Kerry St	140	R							X						11/04/2008
+764915	  77	01035	     	77-1035	Flanagan	210	Town of Dublin	077	Pulaski County	0.15	77-1007 Kerry St	77-1037 Hudson Dr	100	R							X						11/04/2008
+788226	  77	01037	     	77-1037	Hudson Dr	210	Town of Dublin	077	Pulaski County	0.07	77-632 Dunlap Rd	77-1031 Zeiglar Ave	30	R							X						02/08/2006
+764917	  77	01037	     	77-1037	Hudson Dr	210	Town of Dublin	077	Pulaski County	0.08	77-1031 Zeiglar Ave	77-1035 Flanagan	200	R							X						10/29/2008
+764918	  77	01037	     	77-1037	Hudson Dr	210	Town of Dublin	077	Pulaski County	0.07	77-1035 Flanagan	77-1038	110	R							X						10/29/2008
+764919	  77	01038	     	77-1038	Hudson Dr	210	Town of Dublin	077	Pulaski County	0.11	77-632 Dunlap Rd	77-1007 Kerry St	100	R							X						10/29/2008
+764920	  77	01038	     	77-1038	Hudson Dr	210	Town of Dublin	077	Pulaski County	0.17	77-1007 Kerry St	77-1037 Hudson Dr	100	R							X						10/29/2008
+764943	  77	01049	     	77-1049	Vermillion St	210	Town of Dublin	077	Pulaski County	0.25	77-1023 Walnut St	77-1083 Hanks Ave	260	R							X						10/27/2008
+764944	  77	01049	     	77-1049	Vermilion St	210	Town of Dublin	077	Pulaski County	0.15	77-1083 Hanks Ave	77-1024 Mebane Ave	90	R							X						10/27/2008
+764946	  77	01050	     	77-1050	Armstrong St	210	Town of Dublin	077	Pulaski County	0.13	SCL Dublin	SCL Dublin	420	R							X						11/12/2008
+765011	  77	01083	     	77-1083	Hanks Ave	210	Town of Dublin	077	Pulaski County	0.07	77-1005 Maple	77-1049 Vermilion St	580	R							X						10/27/2008
+765012	  77	01083	     	77-1083	Hanks Ave	210	Town of Dublin	077	Pulaski County	0.06	77-1049 Vermilion St	NCL Dublin; Gap	470	R							X						01/30/2006
+785196	  77	01090	     	77-1090	Locust Ave Extension	210	Town of Dublin	077	Pulaski County	0.13	SCL Dublin	77-688; 77-1006	610	R							X						03/28/2002
+786725	  77	01094	     	77-1094	Pine St	210	Town of Dublin	077	Pulaski County	0.02	77-1023 Walnut St	Dead End	30	R							X						01/30/2006
+765028	  77	01097	     	77-1097	Dublin Park Rd	210	Town of Dublin	077	Pulaski County	0.04	SR 100; 77-682 Newbern Rd	77-1098 Town Center Dr	2200	R							X						02/06/2006
+765029	  77	01097	     	77-1097	Dublin Park Rd	210	Town of Dublin	077	Pulaski County	0.11	77-1098 Town Center Dr	Dead End	950	R							X						02/06/2006
+765030	  77	01098	     	77-1098	Town Center Dr	210	Town of Dublin	077	Pulaski County	0.09	77-682 Newbern Rd	77-1097 Dublin Park Rd	1300	R							X						02/06/2006
+765031	  77	01098	     	77-1098	Town Center Dr	210	Town of Dublin	077	Pulaski County	0.18	77-1097 Dublin Park Rd	SR 100 Cleburne Blvd	1800	R							X						02/06/2006
+765142	  77	09346	     	77-9346	 	210	Town of Dublin	077	Pulaski County	0.05	77-1004 Trinkle Ave	77-1001 Fifth St	170	R							X						1986
+765143	  77	09346	     	77-9346	 	210	Town of Dublin	077	Pulaski County	0.09	77-1001 Fifth St	77-746 Giles Ave	160	R							X						1986
+765148	  77	09520	     	77-9520	Dublin Middle School	210	Town of Dublin	077	Pulaski County	0.24	77-746 Old Giles Rd	Dublin School	390	R							X						11/13/2008
+765149	  77	09927	     	77-9927	Dublin Elementary School	210	Town of Dublin	077	Pulaski County	0.26	Dublin Mid School	77-632 Dunlap Rd	720	R							X						11/13/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

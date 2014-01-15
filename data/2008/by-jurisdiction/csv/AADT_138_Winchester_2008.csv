@@ -1,0 +1,138 @@
+Virginia Department of Transportation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Traffic Engineering Division,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Annual Average Daily Traffic Volume Estimates By Section of Route,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+City of Winchester,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Parallel Facilities Combined,,,,,,,,,,,,,
+Link ID,Route Prefix,Route Number,Route Suffix,Route Label,Route Alias,Physical Jurisdiction,,Maintenance Jurisdiction,,Link Length,Start Label,End Label,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality,Data Date,Comment,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality
+681004,  SR,00007,     ,"VA 7, US 522",Boscawen St,138,City of Winchester,138,City of Winchester,0.18,"US 50, US 522 Par, Braddock St",US 11 Cameron St,2000,F,97%,1%,2%,0%,0%,0%,C,0.0935,F,1.0000,2200,F,2008,,11000,F,97%,1%,2%,0%,0%,0%,F,,,,12000,F
+681010,  SR,00007,     ,"US 11, US 50 Par, US 522, VA 7",Cameron St,138,City of Winchester,138,City of Winchester,0.17,Boscawen St,Piccadilly St,7400,F,96%,1%,2%,0%,1%,0%,F,,,,8100,F,2008,,14000,F,96%,1%,2%,0%,1%,0%,F,,,,15000,F
+681036,  SR,00007,     ,VA 7,Piccaddilly St,138,City of Winchester,138,City of Winchester,0.18,US 11 Cameron St,East Lane,9300,F,97%,1%,1%,0%,1%,0%,F,0.0872,F,0.0000,10000,F,2008,,,,,,,,,,,,,,,
+681017,  SR,00007,     ,VA 7,East Lane,138,City of Winchester,138,City of Winchester,0.02,Piccadilly St,Fairfax Lane,8500,F,97%,1%,1%,0%,1%,0%,F,0.0853,F,0.0000,9300,F,2008,,,,,,,,,,,,,,,
+681031,  SR,00007,     ,VA 7,National Ave,138,City of Winchester,138,City of Winchester,0.32,Highland Ave,138-5213 Pleasant Valley Rd,8800,F,97%,1%,1%,0%,1%,0%,F,0.0918,F,0.0000,9600,F,2008,,,,,,,,,,,,,,,
+681008,  SR,00007,     ,VA 7,Berryville Ave,138,City of Winchester,138,City of Winchester,0.79,138-5213 Pleasant Valley Rd,Ross St,22000,F,97%,1%,1%,0%,1%,0%,C,0.0840,F,0.0000,24000,F,2008,,,,,,,,,,,,,,,
+180070,  SR,00007,     ,VA 7,Berryville Ave,138,City of Winchester,034,Frederick County,0.16,Ross St,I-81; ECL Winchester,25000,F,97%,1%,1%,0%,1%,0%,F,0.0869,F,0.0000,27000,F,2008,,,,,,,,,,,,,,,
+781860, 1SR,00007,P    ,"US 522 Par, US 11 Par, US 50 Par, US 522, VA 7, VA 7 Par",Braddock St,138,City of Winchester,138,City of Winchester,0.17,US 50 Boscawen St,Piccadilly St,6600,F,96%,1%,2%,0%,1%,0%,F,0.0858,F,0.0000,7200,F,2008,,14000,F,96%,1%,2%,0%,1%,0%,F,,,,15000,F
+681006, 1SR,00007,P    ,"VA 7 Par, US 50 Par, US 522",Piccadilly St,138,City of Winchester,138,City of Winchester,0.18,Braddock St,SR 7 Cameron St,8800,F,97%,1%,2%,0%,0%,0%,F,0.0888,F,0.0000,9500,F,2008,,11000,F,97%,1%,2%,0%,0%,0%,F,,,,12000,F
+681044,  US,00011,     ,US 11,Valley Ave,138,City of Winchester,138,City of Winchester,1.37,SCL Winchester,Middle Rd,14000,F,97%,0%,1%,0%,1%,0%,C,0.0864,F,0.0000,15000,F,2008,,,,,,,,,,,,,,,
+681045,  US,00011,     ,US 11,Valley Ave,138,City of Winchester,138,City of Winchester,0.12,Middle Rd,Weems Lane,19000,F,96%,0%,1%,1%,2%,0%,F,0.0864,F,0.5176,20000,F,2008,,,,,,,,,,,,,,,
+681046,  US,00011,     ,US 11,Valley Ave,138,City of Winchester,138,City of Winchester,0.67,Weems Lane,Jubal Early Dr,17000,F,96%,0%,1%,1%,2%,0%,F,,,,18000,F,2008,,,,,,,,,,,,,,,
+681047,  US,00011,     ,US 11,Valley Ave,138,City of Winchester,138,City of Winchester,0.59,Jubal Early Dr,US 11 Par Braddock St,11000,F,98%,0%,1%,0%,0%,0%,C,0.0932,F,0.0000,12000,F,2008,,,,,,,,,,,,,,,
+681055,  US,00011,     ,US 11,Valley Ave,138,City of Winchester,138,City of Winchester,0.09,US 11 Par Braddock St,Gerrard St,2900,F,96%,1%,1%,1%,1%,0%,F,0.0933,F,1.0000,3200,F,2008,,12000,F,93%,2%,3%,1%,1%,0%,F,0.0931,F,0.0000,13000,F
+681048,  US,00011,     ,"US 11, US 50, US 522 Par",Gerrard St,138,City of Winchester,138,City of Winchester,0.10,Valley Ave,Cameron St,10000,F,96%,1%,1%,1%,1%,0%,F,0.0874,F,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681009,  US,00011,     ,"US 11, US 50 Par, US 522",Cameron St,138,City of Winchester,138,City of Winchester,0.53,US 50 Gerrard St,Boscawen St,5200,F,96%,1%,2%,0%,1%,0%,C,0.0804,F,1.0000,5600,F,2008,,12000,F,97%,1%,1%,0%,1%,0%,C,0.0885,F,0.0000,13000,F
+681010,  US,00011,     ,"US 11, US 50 Par, US 522, VA 7",Cameron St,138,City of Winchester,138,City of Winchester,0.17,Boscawen St,Piccadilly St,7400,F,96%,1%,2%,0%,1%,0%,F,,,,8100,F,2008,,14000,F,96%,1%,2%,0%,1%,0%,F,,,,15000,F
+681011,  US,00011,     ,US 11,Cameron St,138,City of Winchester,138,City of Winchester,0.83,Piccadilly St,"US 11 Par, Loudoun St",4800,F,96%,1%,1%,1%,1%,0%,C,0.1053,F,0.0000,5300,F,2008,,9400,F,96%,1%,1%,1%,1%,0%,C,0.0985,F,0.0000,10000,F
+681027,  US,00011,     ,US 11,Martinsburg Pike,138,City of Winchester,138,City of Winchester,0.31,"US 11 Par, Loudoun St",NCL Winchester,10000,F,96%,1%,1%,1%,1%,0%,F,0.0860,F,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681022, 1US,00011,P    ,US 11 Par,Braddock St,138,City of Winchester,138,City of Winchester,0.09,US 11 Valley Ave,Gerrard St,9100,F,92%,2%,4%,1%,1%,0%,F,0.0963,F,0.0000,9900,F,2008,,12000,F,93%,2%,3%,1%,1%,0%,F,0.0931,F,0.0000,13000,F
+681007, 1US,00011,P    ,"US 50, US 11 Par, US 522, US 522 Par",Braddock St,138,City of Winchester,138,City of Winchester,0.53,Gerrard St,Boscawen St,6400,F,97%,1%,1%,0%,1%,0%,C,0.0963,F,1.0000,7000,F,2008,,12000,F,97%,1%,1%,0%,1%,0%,C,0.0885,F,0.0000,13000,F
+781860, 1US,00011,P    ,"US 522 Par, US 11 Par, US 50 Par, US 522, VA 7, VA 7 Par",Braddock St,138,City of Winchester,138,City of Winchester,0.17,Boscawen St,Piccadilly St,6600,F,96%,1%,2%,0%,1%,0%,F,0.0858,F,0.0000,7200,F,2008,,14000,F,96%,1%,2%,0%,1%,0%,F,,,,15000,F
+681005, 1US,00011,P    ,US 11 Par,Braddock St,138,City of Winchester,138,City of Winchester,0.36,Piccadilly St,North Ave,2600,F,92%,2%,4%,1%,1%,0%,C,0.0900,F,1.0000,2900,F,2008,,7500,F,95%,1%,2%,1%,1%,0%,C,0.0000,?,0.0000,8100,F
+681056, 1US,00011,P    ,US 11 Par,North Ave,138,City of Winchester,138,City of Winchester,0.03,Braddock St,Loudoun St,520,F,96%,1%,1%,1%,0%,0%,C,0.1024,F,0.6923,570,F,2008,,,,,,,,,,,,,,,
+681057, 1US,00011,P    ,US 11 Par,Loudoun St,138,City of Winchester,138,City of Winchester,0.30,North Ave,Wyck St,3500,F,98%,1%,1%,0%,0%,0%,C,0.0847,F,0.6953,3800,F,2008,,8400,F,97%,1%,1%,0%,1%,0%,C,0.0000,?,0.0000,9100,F
+681026, 1US,00011,P    ,US 11 Par,Loudoun St,138,City of Winchester,138,City of Winchester,0.24,Wyck St,US 11 Cameron St,4600,F,95%,1%,1%,1%,1%,0%,C,0.0920,F,0.0000,4900,F,2008,,9400,F,96%,1%,1%,1%,1%,0%,C,0.0985,F,0.0000,10000,F
+681029,  US,00017,     ,"US 50, US 17, US 522",Millwood Ave,138,City of Winchester,138,City of Winchester,0.09,I-81,Jubal Early Dr,25000,N,97%,0%,1%,1%,1%,0%,N,0.0914,N,0.0000,27000,N,2008,,,,,,,,,,,,,,,
+681062,  US,00017,     ,"US 50, US 17, US 522",Jubal Early Dr,138,City of Winchester,138,City of Winchester,0.06,"US 50 Par, Millwood Ave",Apple Blossom Dr,25000,F,97%,0%,1%,1%,1%,0%,C,0.0914,F,0.0000,27000,F,2008,,,,,,,,,,,,,,,
+681061,  US,00017,     ,"US 50, US 17, US 522",Apple Blossom Dr,138,City of Winchester,138,City of Winchester,0.05,Jubal Early Dr,"US 50 Par, Millwood Dr",10000,F,97%,0%,1%,1%,1%,0%,F,0.0839,N,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681030,  US,00017,     ,"US 50, US 17, US 522",Millwood Ave,138,City of Winchester,138,City of Winchester,0.75,US 50 Par; Apple Blossom Dr,US 11 Cameron St,13000,F,97%,1%,1%,0%,1%,0%,F,0.0839,F,0.0000,14000,F,2008,,,,,,,,,,,,,,,
+681002,  US,00050,     ,US 50,Amherst St,138,City of Winchester,138,City of Winchester,0.64,WCL Winchester,Fox Dr,18000,F,99%,1%,0%,0%,0%,0%,F,0.0899,F,0.0000,20000,F,2008,,,,,,,,,,,,,,,
+681001,  US,00050,     ,US 50,Amherst St,138,City of Winchester,138,City of Winchester,0.75,Fox Dr,Boscawen St,15000,F,99%,1%,0%,0%,0%,0%,C,0.0856,F,0.0000,17000,F,2008,,,,,,,,,,,,,,,
+681003,  US,00050,     ,US 50,Boscawen St,138,City of Winchester,138,City of Winchester,0.37,Amherst St,Braddock St,11000,F,99%,1%,0%,0%,0%,0%,F,0.0853,F,0.0000,12000,F,2008,,,,,,,,,,,,,,,
+681007,  US,00050,     ,"US 50, US 11 Par, US 522, US 522 Par",Braddock St,138,City of Winchester,138,City of Winchester,0.53,Boscawen St,Gerrard St,6400,F,97%,1%,1%,0%,1%,0%,C,0.0963,F,1.0000,7000,F,2008,,12000,F,97%,1%,1%,0%,1%,0%,C,0.0885,F,0.0000,13000,F
+681023,  US,00050,     ,"US 50, US 522 Par",Gerrard St,138,City of Winchester,138,City of Winchester,0.07,Braddock St,Valley Ave,8200,F,97%,1%,1%,0%,1%,0%,F,0.0866,F,0.0000,8900,F,2008,,,,,,,,,,,,,,,
+681048,  US,00050,     ,"US 11, US 50, US 522 Par",Gerrard St,138,City of Winchester,138,City of Winchester,0.10,Valley Ave,US 11 Cameron St,10000,F,96%,1%,1%,1%,1%,0%,F,0.0874,F,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681030,  US,00050,     ,"US 50, US 17, US 522",Millwood Ave,138,City of Winchester,138,City of Winchester,0.75,US 11 Cameron St,US 50 Par; Apple Blossom Dr,13000,F,97%,1%,1%,0%,1%,0%,F,0.0839,F,0.0000,14000,F,2008,,,,,,,,,,,,,,,
+681061,  US,00050,     ,"US 50, US 17, US 522",Apple Blossom Dr,138,City of Winchester,138,City of Winchester,0.05,"US 50 Par, Millwood Dr",Jubal Early Dr,10000,F,97%,0%,1%,1%,1%,0%,F,0.0839,N,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681062,  US,00050,     ,"US 50, US 17, US 522",Jubal Early Dr,138,City of Winchester,138,City of Winchester,0.06,Apple Blossom Dr,"US 50 Par, Millwood Ave",25000,F,97%,0%,1%,1%,1%,0%,C,0.0914,F,0.0000,27000,F,2008,,,,,,,,,,,,,,,
+681029,  US,00050,     ,"US 50, US 17, US 522",Millwood Ave,138,City of Winchester,138,City of Winchester,0.09,US 50 Par; Jubal Early Dr,I-81,25000,N,97%,0%,1%,1%,1%,0%,N,0.0914,N,0.0000,27000,N,2008,,,,,,,,,,,,,,,
+781860, 1US,00050,P    ,"US 522 Par, US 11 Par, US 50 Par, US 522, VA 7, VA 7 Par",Braddock St,138,City of Winchester,138,City of Winchester,0.17,Boscawen St,Piccadilly St,6600,F,96%,1%,2%,0%,1%,0%,F,0.0858,F,0.0000,7200,F,2008,,14000,F,96%,1%,2%,0%,1%,0%,F,,,,15000,F
+681006, 1US,00050,P    ,"VA 7 Par, US 50 Par, US 522",Piccadilly St,138,City of Winchester,138,City of Winchester,0.18,Braddock St,Cameron St,8800,F,97%,1%,2%,0%,0%,0%,F,0.0888,F,0.0000,9500,F,2008,,11000,F,97%,1%,2%,0%,0%,0%,F,,,,12000,F
+681010, 1US,00050,P    ,"US 11, US 50 Par, US 522, VA 7",Cameron St,138,City of Winchester,138,City of Winchester,0.17,Piccadilly St,Boscawen St,7400,F,96%,1%,2%,0%,1%,0%,F,,,,8100,F,2008,,14000,F,96%,1%,2%,0%,1%,0%,F,,,,15000,F
+681009, 1US,00050,P    ,"US 11, US 50 Par, US 522",Cameron St,138,City of Winchester,138,City of Winchester,0.53,Boscawen St,US 50 Millwood Ave,5200,F,96%,1%,2%,0%,1%,0%,C,0.0804,F,1.0000,5600,F,2008,,12000,F,97%,1%,1%,0%,1%,0%,C,0.0885,F,0.0000,13000,F
+781882, 2US,00050,P    ,US 50 Par,Millwood Ave,138,City of Winchester,138,City of Winchester,0.18,US 50 Apple Blossom Dr,US 50 Jubal Early Drive,9000,F,98%,0%,1%,0%,1%,0%,C,0.0837,F,0.0000,9800,F,2008,,,,,,,,,,,,,,,
+080394,  IS,00081,N    ,I-81 NB, ,138,City of Winchester,034,Frederick County,0.07,SCL Winchester,NCL Winchester,29000,A,78%,1%,1%,1%,18%,1%,C,0.0956,A,1.0000,30000,A,2008,,58000,A,78%,1%,1%,1%,18%,1%,C,,,,59000,A
+180094,  IS,00081,S    ,I-81 SB, ,138,City of Winchester,034,Frederick County,0.07,SCL Winchester,NCL Winchester,29000,A,78%,1%,1%,1%,18%,1%,C,0.0954,A,1.0000,29000,A,2008,,58000,A,78%,1%,1%,1%,18%,1%,C,,,,59000,A
+681029,  US,00522,     ,"US 50, US 17, US 522",Millwood Ave,138,City of Winchester,138,City of Winchester,0.09,I-81,US 50 Par; Jubal Early Dr,25000,N,97%,0%,1%,1%,1%,0%,N,0.0914,N,0.0000,27000,N,2008,,,,,,,,,,,,,,,
+681062,  US,00522,     ,"US 50, US 17, US 522",Jubal Early Dr,138,City of Winchester,138,City of Winchester,0.06,"US 50 Par, Millwood Ave",Apple Blossom Dr,25000,F,97%,0%,1%,1%,1%,0%,C,0.0914,F,0.0000,27000,F,2008,,,,,,,,,,,,,,,
+681061,  US,00522,     ,"US 50, US 17, US 522",Apple Blossom Dr,138,City of Winchester,138,City of Winchester,0.05,Jubal Early Dr,"US 50 Par, Millwood Dr",10000,F,97%,0%,1%,1%,1%,0%,F,0.0839,N,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681030,  US,00522,     ,"US 50, US 17, US 522",Millwood Ave,138,City of Winchester,138,City of Winchester,0.75,US 50 Par; Apple Blossom Dr,US 11 Cameron St,13000,F,97%,1%,1%,0%,1%,0%,F,0.0839,F,0.0000,14000,F,2008,,,,,,,,,,,,,,,
+681009,  US,00522,     ,"US 11, US 50 Par, US 522",Cameron St,138,City of Winchester,138,City of Winchester,0.53,Millwood Ave,Boscawen St,5200,F,96%,1%,2%,0%,1%,0%,C,0.0804,F,1.0000,5600,F,2008,,12000,F,97%,1%,1%,0%,1%,0%,C,0.0885,F,0.0000,13000,F
+681010,  US,00522,     ,"US 11, US 50 Par, US 522, VA 7",Cameron St,138,City of Winchester,138,City of Winchester,0.17,Boscawen St,SR 7 Piccadilly St,7400,F,96%,1%,2%,0%,1%,0%,F,,,,8100,F,2008,,14000,F,96%,1%,2%,0%,1%,0%,F,,,,15000,F
+681006,  US,00522,     ,"VA 7 Par, US 50 Par, US 522",Piccadilly St,138,City of Winchester,138,City of Winchester,0.18,US 11 Cameron St,"US 50, SR 7 Braddock St",8800,F,97%,1%,2%,0%,0%,0%,F,0.0888,F,0.0000,9500,F,2008,,11000,F,97%,1%,2%,0%,0%,0%,F,,,,12000,F
+681035,  US,00522,     ,US 522,Piccadilly St,138,City of Winchester,138,City of Winchester,0.19,"US 50, SR 7 Braddock St",Fairmont Ave,5500,F,97%,0%,1%,0%,1%,0%,F,0.0958,F,0.0000,6000,F,2008,,,,,,,,,,,,,,,
+681018,  US,00522,     ,US 522,Fairmont Ave,138,City of Winchester,138,City of Winchester,0.22,Piccadilly St,Commercial St,5700,F,97%,0%,1%,0%,1%,0%,F,0.1010,F,0.0000,6200,F,2008,,,,,,,,,,,,,,,
+681019,  US,00522,     ,US 522,Fairmont Ave,138,City of Winchester,138,City of Winchester,0.55,Commercial St,NCL Winchester,11000,F,97%,0%,1%,0%,1%,0%,C,0.0998,F,0.0000,12000,F,2008,,,,,,,,,,,,,,,
+681048, 1US,00522,P    ,"US 11, US 50, US 522 Par",Gerrard St,138,City of Winchester,138,City of Winchester,0.10,"US 522, US 11 Cameron St",US 11 Valley Ave,10000,F,96%,1%,1%,1%,1%,0%,F,0.0874,F,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681023, 1US,00522,P    ,"US 50, US 522 Par",Gerrard St,138,City of Winchester,138,City of Winchester,0.07,US 11 Valley Ave,Braddock St,8200,F,97%,1%,1%,0%,1%,0%,F,0.0866,F,0.0000,8900,F,2008,,,,,,,,,,,,,,,
+681007, 1US,00522,P    ,"US 50, US 11 Par, US 522, US 522 Par",Braddock St,138,City of Winchester,138,City of Winchester,0.53,Gerrard St,US 50 Boscawen St,6400,F,97%,1%,1%,0%,1%,0%,C,0.0963,F,1.0000,7000,F,2008,,12000,F,97%,1%,1%,0%,1%,0%,C,0.0885,F,0.0000,13000,F
+781860, 1US,00522,P    ,"US 522 Par, US 11 Par, US 50 Par, US 522, VA 7, VA 7 Par",Braddock St,138,City of Winchester,138,City of Winchester,0.17,US 50 Boscawen St,US 522 Piccadilly St,6600,F,96%,1%,2%,0%,1%,0%,F,0.0858,F,0.0000,7200,F,2008,,14000,F,96%,1%,2%,0%,1%,0%,F,,,,15000,F
+681051, 138,00001,     ,138-1,Woodstock Ln,138,City of Winchester,138,City of Winchester,0.63,Pleasant Valley Rd,ECL Winchester,1700,F,97%,1%,2%,0%,0%,0%,C,0.1010,F,0.5108,1800,F,2008,,,,,,,,,,,,,,,
+681020, 138,00002,     ,138-2,Fort Collier Dr,138,City of Winchester,138,City of Winchester,0.16,Berryville Ave,NCL Winchester,7100,F,95%,1%,1%,1%,3%,1%,C,0.0886,F,0.0000,7700,F,2008,,,,,,,,,,,,,,,
+681049, 138,00003,     ,138-3,Washington St,138,City of Winchester,138,City of Winchester,0.64,Handley Blvd,Piccadilly St,3500,F,99%,1%,0%,0%,0%,0%,C,0.0913,F,0.0000,3800,F,2008,,,,,,,,,,,,,,,
+681024, 138,00004,     ,138-4,Handley Blvd,138,City of Winchester,138,City of Winchester,0.08,Braddock St,Washington St,9600,F,99%,1%,0%,0%,0%,0%,F,0.0883,F,0.0000,10000,F,2008,,,,,,,,,,,,,,,
+681043, 138,00005,     ,138-5,Tevis Ave,138,City of Winchester,138,City of Winchester,0.21,Valley Ave,Cedarmeade Ave,7600,F,99%,0%,1%,0%,0%,0%,C,0.0865,F,0.0000,8300,F,2008,,,,,,,,,,,,,,,
+681013, 138,00006,     ,138-6,Cedarmeade Ave,138,City of Winchester,138,City of Winchester,0.55,Tevis St,Papermill Rd,1300,F,98%,1%,1%,0%,0%,0%,C,0.1063,F,0.5274,1400,F,2008,,,,,,,,,,,,,,,
+784990, 138,00007,     ,138-7,Jubal Early Dr,138,City of Winchester,138,City of Winchester,0.65,Handley Ave,US 11 Valley Avenue,5700,F,99%,1%,0%,0%,0%,0%,F,0.1069,F,0.0000,6200,F,2008,,,,,,,,,,,,,,,
+783038, 138,00007,     ,138-7,Jubal Early Dr,138,City of Winchester,138,City of Winchester,0.98,US 11 Valley Avenue,US 50 Par Apple Blossom Dr,20000,F,99%,1%,0%,0%,0%,0%,F,0.0887,F,0.0000,21000,F,2008,,,,,,,,,,,,,,,
+681012, 138,05200,     ,138-5200,Cedar Creek Grade,138,City of Winchester,138,City of Winchester,0.52,WCL Winchester,Valley Ave,13000,F,98%,0%,1%,1%,0%,0%,F,0.0951,F,0.0000,14000,F,2008,,,,,,,,,,,,,,,
+681050, 138,05200,     ,138-5200,Weems Ln,138,City of Winchester,138,City of Winchester,0.50,Valley Ave,Papermill Rd,11000,F,98%,0%,1%,1%,0%,0%,C,0.0855,F,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681028, 138,05201,     ,138-5201,Middle Rd,138,City of Winchester,138,City of Winchester,1.01,Valley Ave,WCL Winchester,4200,F,98%,0%,0%,1%,0%,0%,C,0.1008,F,0.0000,4600,F,2008,,,,,,,,,,,,,,,
+681021, 138,05203,     ,138-5203,Fox Dr,138,City of Winchester,138,City of Winchester,0.86,US 50 Amherst St,NCL Winchester,5100,F,97%,2%,1%,0%,0%,0%,C,0.1036,F,0.0000,5600,F,2008,,,,,,,,,,,,,,,
+681015, 138,05204,     ,138-5204,Cork St,138,City of Winchester,138,City of Winchester,0.08,US 11 Cameron St,Kent St,8000,F,99%,0%,0%,0%,0%,0%,F,0.0911,F,0.0000,8700,F,2008,,,,,,,,,,,,,,,
+781825, 138,05204,     ,138-5204,Cork St,138,City of Winchester,138,City of Winchester,0.48,Kent St,138-5213 Pleasant Valley Rd,9400,F,99%,0%,0%,0%,0%,0%,F,0.0877,F,0.0000,10000,F,2008,,,,,,,,,,,,,,,
+681016, 138,05204,     ,138-5204,Senseny Rd,138,City of Winchester,138,City of Winchester,0.44,138-5213 Pleasant Valley Rd,ECL Winchester,10000,F,99%,0%,0%,0%,0%,0%,C,0.0899,F,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681014, 138,05206,     ,138-5206,Commercial St,138,City of Winchester,138,City of Winchester,0.29,Fairmont Ave,Cameron St,3400,F,98%,0%,1%,0%,0%,0%,C,0.0998,F,0.0000,3700,F,2008,,,,,,,,,,,,,,,
+681041, 138,05207,     ,138-5207,Shawnee Dr,138,City of Winchester,138,City of Winchester,0.67,SCL Winchester,Papermill Rd,5000,F,96%,0%,1%,1%,2%,0%,C,0.0944,F,0.0000,5500,F,2008,,,,,,,,,,,,,,,
+681032, 138,05209,     ,138-5209,Papermill Rd,138,City of Winchester,138,City of Winchester,0.86,SECL Winchester,Pleasant Valley Rd,10000,F,98%,0%,1%,0%,0%,0%,F,0.0868,F,0.0000,11000,F,2008,,,,,,,,,,,,,,,
+681033, 138,05209,     ,138-5209,Papermill Rd,138,City of Winchester,138,City of Winchester,0.64,Pleasant Valley Rd,Weems Lane,6200,F,97%,1%,1%,0%,0%,0%,C,0.0917,F,0.0000,6700,F,2008,,,,,,,,,,,,,,,
+681034, 138,05209,     ,138-5209,Loudoun St,138,City of Winchester,138,City of Winchester,0.58,Weems Lane,Commerce St,12000,F,98%,0%,1%,0%,0%,0%,C,0.0908,F,0.5479,13000,F,2008,,,,,,,,,,,,,,,
+681025, 138,05209,     ,138-5209,Loudoun St,138,City of Winchester,138,City of Winchester,0.57,Commerce St,Gerrard St,5200,F,98%,0%,1%,0%,0%,0%,F,0.0931,F,0.0000,5600,F,2008,,,,,,,,,,,,,,,
+681037, 138,05213,     ,138-5213,Pleasant Valley Rd,138,City of Winchester,138,City of Winchester,1.22,Papermill Rd,Jubal Early Drive,21000,F,98%,0%,1%,0%,1%,0%,C,,,,23000,F,2008,,,,,,,,,,,,,,,
+681038, 138,05213,     ,138-5213,Pleasant Valley Rd,138,City of Winchester,138,City of Winchester,0.36,Jubal Early Drive,Millwood Ave,23000,F,98%,0%,1%,0%,1%,0%,F,0.0648,F,0.0000,25000,F,2008,,,,,,,,,,,,,,,
+681039, 138,05213,     ,138-5213,Pleasant Valley Rd,138,City of Winchester,138,City of Winchester,0.91,Millwood Ave,Cork St,21000,F,98%,0%,1%,0%,1%,0%,F,,,,23000,F,2008,,,,,,,,,,,,,,,
+681040, 138,05213,     ,138-5213,Pleasant Valley Rd,138,City of Winchester,138,City of Winchester,0.36,Cork St,Berryville Ave,17000,F,98%,0%,1%,0%,1%,0%,F,,,,19000,F,2008,,,,,,,,,,,,,,,
+681042, 138,05221,     ,138-5221,Smithfield Ave,138,City of Winchester,138,City of Winchester,0.63,National Ave,NCL Winchester,2200,F,97%,1%,1%,1%,1%,0%,C,0.0927,F,0.5929,2400,F,2008,,,,,,,,,,,,,,,
+581037, 138,00000,     ,138-0,2nd St,138,City of Winchester,138,City of Winchester,0.00,Summit Ave,Papermill Rd,260,F,,,,,,,X,0.0946,F,0.5690,280,F,2008,,,,,,,,,,,,,,,
+581044, 138,00000,     ,138-0,Amherst St,138,City of Winchester,138,City of Winchester,0.00,Boscawen St,Braddock St,4400,F,,,,,,,X,0.0924,F,0.0000,4800,F,2008,,,,,,,,,,,,,,,
+581039, 138,00000,     ,138-0,Battaile Dr,138,City of Winchester,138,City of Winchester,0.00,Shawnee Dr,SCL Winchester,680,F,,,,,,,X,0.1961,F,0.5282,730,F,2008,,,,,,,,,,,,,,,
+581042, 138,00000,     ,138-0,Beachcroft Rd,138,City of Winchester,138,City of Winchester,0.00,Wentworth Dr,Oakwood Ct,210,F,,,,,,,X,0.1054,F,0.5102,230,F,2008,,,,,,,,,,,,,,,
+581034, 138,00000,     ,138-0,Bellview Ave,138,City of Winchester,138,City of Winchester,0.00,Valley Ave,Lewis St,940,F,,,,,,,X,0.1049,F,0.0000,1000,F,2008,,,,,,,,,,,,,,,
+581021, 138,00000,     ,138-0,Bond St,138,City of Winchester,138,City of Winchester,0.00,Loudoun St,Cameron St,370,F,,,,,,,X,0.0975,F,0.0000,400,F,2008,,,,,,,,,,,,,,,
+581008, 138,00000,     ,138-0,Braddock St,138,City of Winchester,138,City of Winchester,0.00,Jackson Ave,Locust Ave,610,F,,,,,,,X,0.1045,F,0.0000,660,F,2008,,,,,,,,,,,,,,,
+581027, 138,00000,     ,138-0,Branner Ave,138,City of Winchester,138,City of Winchester,0.00,Ridge Ave,Isaac St,340,F,,,,,,,X,0.1247,F,0.0000,370,F,2008,,,,,,,,,,,,,,,
+581006, 138,00000,     ,138-0,Butler Ave,138,City of Winchester,138,City of Winchester,0.00,Green St,Beau St,230,F,,,,,,,X,0.1359,F,0.0000,250,F,2008,,,,,,,,,,,,,,,
+581028, 138,00000,     ,138-0,Caroline St,138,City of Winchester,138,City of Winchester,0.00,Old Fort Rd,Marion St,280,F,,,,,,,X,0.1229,F,0.0000,310,F,2008,,,,,,,,,,,,,,,
+581024, 138,00000,     ,138-0,Commerce St,138,City of Winchester,138,City of Winchester,0.00,Whitlock Ave,Southwerk St,720,F,,,,,,,X,0.0997,F,0.0000,790,F,2008,,,,,,,,,,,,,,,
+581005, 138,00000,     ,138-0,Dunlap St,138,City of Winchester,138,City of Winchester,0.00,Bruce St,WCL Winchester,180,F,,,,,,,X,0.1137,F,0.0000,200,F,2008,,,,,,,,,,,,,,,
+581022, 138,00000,     ,138-0,E Southwerk St,138,City of Winchester,138,City of Winchester,0.00,S Loudoun St,S Cameron St,1400,F,,,,,,,X,0.1172,F,0.0000,1500,F,2008,,,,,,,,,,,,,,,
+581002, 138,00000,     ,138-0,Elm St,138,City of Winchester,138,City of Winchester,0.00,Frederick Ave,Woodland Ave,2600,F,,,,,,,X,0.0960,F,0.0000,2800,F,2008,,,,,,,,,,,,,,,
+581012, 138,00000,     ,138-0,Euclid Ave,138,City of Winchester,138,City of Winchester,0.00,Grove St,Woodstock Lane,250,F,,,,,,,X,0.1298,F,0.5211,270,F,2008,,,,,,,,,,,,,,,
+581025, 138,00000,     ,138-0,Glaize Ave,138,City of Winchester,138,City of Winchester,0.00,S.Loudoun St,Dead End,260,F,,,,,,,X,0.1073,F,0.0000,280,F,2008,,,,,,,,,,,,,,,
+581033, 138,00000,     ,138-0,Handley St,138,City of Winchester,138,City of Winchester,0.00,Whitlock Ave,Sheridan St,650,F,,,,,,,X,0.1459,F,0.0000,710,F,2008,,,,,,,,,,,,,,,
+581035, 138,00000,     ,138-0,Imperial St,138,City of Winchester,138,City of Winchester,0.00,Papermill Rd,Superior Ave,260,F,,,,,,,X,0.1129,F,0.6667,280,F,2008,,,,,,,,,,,,,,,
+581009, 138,00000,     ,138-0,Jackson Ave,138,City of Winchester,138,City of Winchester,0.00,Braddock St,Pennsylvania Ave,380,F,,,,,,,X,0.1254,F,0.0000,420,F,2008,,,,,,,,,,,,,,,
+581007, 138,00000,     ,138-0,Kent St,138,City of Winchester,138,City of Winchester,0.00,Beau St,WCL Winchester,950,F,,,,,,,X,0.0964,F,0.5550,1000,F,2008,,,,,,,,,,,,,,,
+581016, 138,00000,     ,138-0,Kent St,138,City of Winchester,138,City of Winchester,0.00,Boscawen St,Philpot St,4600,F,,,,,,,X,0.0951,F,0.0000,5000,F,2008,,,,,,,,,,,,,,,
+581014, 138,00000,     ,138-0,Leicester St,138,City of Winchester,138,City of Winchester,0.00,Parkway Ave,Shawnee Ave,330,F,,,,,,,X,0.1130,F,0.5949,360,F,2008,,,,,,,,,,,,,,,
+581026, 138,00000,     ,138-0,Marion St,138,City of Winchester,138,City of Winchester,0.00,Branner Ave,Caroline St,350,F,,,,,,,X,0.1317,F,0.0000,390,F,2008,,,,,,,,,,,,,,,
+581040, 138,00000,     ,138-0,Massanutten Terrace,138,City of Winchester,138,City of Winchester,0.00,Hockman Ave,Middle Rd,160,F,,,,,,,X,0.1086,F,0.7727,170,F,2008,,,,,,,,,,,,,,,
+581032, 138,00000,     ,138-0,Miller St,138,City of Winchester,138,City of Winchester,0.00,Handley St,Ivy St,530,G,,,,,,,X,,,,580,G,2008,,,,,,,,,,,,,,,
+581004, 138,00000,     ,138-0,Orchard Ave,138,City of Winchester,138,City of Winchester,0.00,Elm St,ECL Winchester,190,F,,,,,,,X,0.1277,F,0.5926,200,F,2008,,,,,,,,,,,,,,,
+581015, 138,00000,     ,138-0,Parkway Ave,138,City of Winchester,138,City of Winchester,0.00,Pall Mall St,Leicester St,820,F,,,,,,,X,0.1238,F,0.0000,890,F,2008,,,,,,,,,,,,,,,
+581010, 138,00000,     ,138-0,Pennsylvania Ave,138,City of Winchester,138,City of Winchester,0.00,Richards,Jackson Ave,480,F,,,,,,,X,0.1079,F,0.0000,520,F,2008,,,,,,,,,,,,,,,
+581017, 138,00000,     ,138-0,Peyton St,138,City of Winchester,138,City of Winchester,0.00,Fairmont Ave,Braddock St,390,F,,,,,,,X,0.1194,F,0.0000,420,F,2008,,,,,,,,,,,,,,,
+581036, 138,00000,     ,138-0,Pleasant Valley Rd,138,City of Winchester,138,City of Winchester,0.00,Dead End,Cedarmeade Ave,480,F,,,,,,,X,0.2276,F,0.7610,530,F,2008,,,,,,,,,,,,,,,
+581011, 138,00000,     ,138-0,Purcell Ave,138,City of Winchester,138,City of Winchester,0.00,Cork St,Grove St,1800,F,,,,,,,X,0.1410,F,0.0000,1900,F,2008,,,,,,,,,,,,,,,
+581023, 138,00000,     ,138-0,S Kent St,138,City of Winchester,138,City of Winchester,0.00,Millwood Ave,Southwerk St,1000,F,,,,,,,X,0.1086,F,0.0000,1100,F,2008,,,,,,,,,,,,,,,
+581043, 138,00000,     ,138-0,Saratoga Dr,138,City of Winchester,138,City of Winchester,0.00,Dulles Circle,Lake Dr,500,F,,,,,,,X,0.1206,F,0.0000,540,F,2008,,,,,,,,,,,,,,,
+581013, 138,00000,     ,138-0,Shenandoah Ave,138,City of Winchester,138,City of Winchester,0.00,Leicester St,Cork St,790,F,,,,,,,X,0.0999,F,0.8750,860,F,2008,,,,,,,,,,,,,,,
+581020, 138,00000,     ,138-0,Stewart St,138,City of Winchester,138,City of Winchester,0.00,Wolfe St,Boscawen St,8800,F,,,,,,,X,0.0923,F,0.0000,9500,F,2008,,,,,,,,,,,,,,,
+581038, 138,00000,     ,138-0,Summit Ave,138,City of Winchester,138,City of Winchester,0.00,2Nd St,1St Street,150,F,,,,,,,X,0.1383,F,0.7442,160,F,2008,,,,,,,,,,,,,,,
+581031, 138,00000,     ,138-0,Tennyson Ave,138,City of Winchester,138,City of Winchester,0.00,Jefferson St,Leicester St,660,F,,,,,,,X,0.1705,F,0.0000,720,F,2008,,,,,,,,,,,,,,,
+581019, 138,00000,     ,138-0,Washington St,138,City of Winchester,138,City of Winchester,0.00,Boscawen St,Amherst St,3900,F,,,,,,,X,0.0911,F,0.0000,4200,F,2008,,,,,,,,,,,,,,,
+581041, 138,00000,     ,138-0,Wentworth Dr,138,City of Winchester,138,City of Winchester,0.00,Applecroft Rd,Beachcroft Rd,1200,F,,,,,,,X,0.1109,F,0.0000,1300,F,2008,,,,,,,,,,,,,,,
+581030, 138,00000,     ,138-0,Whitter Ave,138,City of Winchester,138,City of Winchester,0.00,Wood Ave,Ridge Ave,730,F,,,,,,,X,0.1115,F,0.0000,790,F,2008,,,,,,,,,,,,,,,
+581029, 138,00000,     ,138-0,Wood Ave,138,City of Winchester,138,City of Winchester,0.00,Whitter Ave,Lanny Dr,570,F,,,,,,,X,0.1039,F,0.0000,620,F,2008,,,,,,,,,,,,,,,
+581003, 138,00000,     ,138-0,Woodland Ave,138,City of Winchester,138,City of Winchester,0.00,Pine St,Elm St,870,F,,,,,,,X,0.0973,F,0.5313,950,F,2008,,,,,,,,,,,,,,,
+581001, 138,00000,     ,138-0,Wyck St,138,City of Winchester,138,City of Winchester,0.00,Loudoun St,Braddock St,3600,F,,,,,,,X,0.1013,F,0.0000,3900,F,2008,,,,,,,,,,,,,,,
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,39 @@
+ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008	Prepared	7/13/2009
+Daily Vehicle Miles Traveled (DVMT) by FHWA Vehicle Class																														
+Public Road Segments within the Commonwealth of Virginia																														
+Using Distance Measured Along North and East Bound Direction of Separated Inventoried Highways																														
+2008																														
+																														
+									Secondary						Primary						Interstate						All Roads			
+													%	%					%	%					%	%				%
+										%	%		of	of		%	%		of	of		%	%		of	of		%		of
+										of	of		Secondary	State		of	of		Primary	State		of	of		Interstate	State		of		State
+						Federal				Secondary	State	Road	Total	Total		Primary	State	Road	Total	Total		Interstate	State	Road	Total	Total		State	Road	Total
+						Vehicle				Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Length	Road
+						Class			DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	(Miles)	Length
+																														
+ 		   				01	Motorcycles	              	181,190	0.27%	0.08%	62,792.22	100.00%	84.97%	395,098	0.43%	0.18%	9,991.84	100.00%	13.52%	235,405	0.36%	0.10%	1,118.53	100.00%	1.51%	811,693	0.36%	73,902.59	100.00%
+ 		   				02	Passenger Cars	              	57,981,906	86.62%	25.79%	62,792.22	100.00%	84.97%	70,816,133	76.30%	31.50%	9,991.84	100.00%	13.52%	46,714,325	71.81%	20.78%	1,118.53	100.00%	1.51%	175,512,365	78.07%	73,902.59	100.00%
+ 		   				03	Two Axle, 4 Tire Single Unit Vehicles	              	7,554,186	11.28%	3.36%	62,792.22	100.00%	84.97%	16,706,808	18.00%	7.43%	9,991.84	100.00%	13.52%	9,686,753	14.89%	4.31%	1,118.53	100.00%	1.51%	33,947,747	15.10%	73,902.59	100.00%
+ 		   				04	Busses	              	267,606	0.40%	0.12%	62,792.22	100.00%	84.97%	521,580	0.56%	0.23%	9,991.84	100.00%	13.52%	425,780	0.65%	0.19%	1,118.53	100.00%	1.51%	1,214,967	0.54%	73,902.59	100.00%
+ 		   				05	Two Axle, 6 Tire Single Unit Trucks	              	381,079	0.57%	0.17%	62,792.22	100.00%	84.97%	779,099	0.84%	0.35%	9,991.84	100.00%	13.52%	494,279	0.76%	0.22%	1,118.53	100.00%	1.51%	1,654,457	0.74%	73,902.59	100.00%
+ 		   				06	Three Axle Single Unit Trucks	              	224,587	0.34%	0.10%	62,792.22	100.00%	84.97%	572,026	0.62%	0.25%	9,991.84	100.00%	13.52%	371,251	0.57%	0.17%	1,118.53	100.00%	1.51%	1,167,865	0.52%	73,902.59	100.00%
+ 		   				07	Four or More Axle Single Unit Trucks	              	54,493	0.08%	0.02%	62,792.22	100.00%	84.97%	148,166	0.16%	0.07%	9,991.84	100.00%	13.52%	68,817	0.11%	0.03%	1,118.53	100.00%	1.51%	271,476	0.12%	73,902.59	100.00%
+ 		   				08	Four Axle or Fewer Single Trailers	              	81,651	0.12%	0.04%	62,792.22	100.00%	84.97%	295,124	0.32%	0.13%	9,991.84	100.00%	13.52%	273,063	0.42%	0.12%	1,118.53	100.00%	1.51%	649,837	0.29%	73,902.59	100.00%
+ 		   				09	Five Axle Single Trailers	              	196,118	0.29%	0.09%	62,792.22	100.00%	84.97%	2,411,966	2.60%	1.07%	9,991.84	100.00%	13.52%	6,312,949	9.70%	2.81%	1,118.53	100.00%	1.51%	8,921,033	3.97%	73,902.59	100.00%
+ 		   				10	Six or More Axle Single Trailers	              	15,528	0.02%	0.01%	62,792.22	100.00%	84.97%	82,248	0.09%	0.04%	9,991.84	100.00%	13.52%	82,260	0.13%	0.04%	1,118.53	100.00%	1.51%	180,036	0.08%	73,902.59	100.00%
+ 		   				11	Five Axle or Fewer Multi-Trailers	              	1,873	0.00%	0.00%	62,792.22	100.00%	84.97%	69,328	0.07%	0.03%	9,991.84	100.00%	13.52%	282,253	0.43%	0.13%	1,118.53	100.00%	1.51%	353,454	0.16%	73,902.59	100.00%
+ 		   				12	Six Axle Multi-Trailers	              	383	0.00%	0.00%	62,792.22	100.00%	84.97%	13,586	0.01%	0.01%	9,991.84	100.00%	13.52%	104,247	0.16%	0.05%	1,118.53	100.00%	1.51%	118,216	0.05%	73,902.59	100.00%
+ 		   				13	Seven or More Axle Multi-Trailers	              	24	0.00%	0.00%	62,792.22	100.00%	84.97%	213	0.00%	0.00%	9,991.84	100.00%	13.52%	619	0.00%	0.00%	1,118.53	100.00%	1.51%	856	0.00%	73,902.59	100.00%
+									66,940,623	100.00%	29.78%	62,792.22	100.00%	84.97%	92,811,377	100.00%	41.29%	9,991.84	100.00%	13.52%	65,052,000	100.00%	28.94%	1,118.53	100.00%	1.51%	224,804,000	100.00%	73,902.59	100.00%
+
+
+
+'Secondary' includes those routes in the VDOT secondary system,  (unnumbered) routes maintained by Arlington and Henrico Counties and unnumbered routes maintained by cities and towns.
+'Primary' includes those routes designated as 'US', 'SR' (Virginia State Route) and Frontage Roads.
+'Primary' also includes the named federal parkways (George Washington Pkwy, Colonial Pkwy, Blue Ridge Pkwy, Skyline Drive) and the Dulles Access road.
+'Interstate' includes those routes in the Interstate System.
+Road Length values are a reasonable copy of centerline road length values maintained by VDOT Asset Management Division using HTRIS road inventory with input from the Local Assistance Division.
+Rounding errors may occur resulting in minor variances in totals.
+
+ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008		ReportID:	220	DataYear:	2008	Prepared	7/13/2009

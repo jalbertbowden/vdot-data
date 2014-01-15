@@ -1,0 +1,69 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Emporia																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+626037	  US	00058	     	US 58	West Atlantic St	109	City of Emporia	040	Greensville County	0.41	WCL Emporia	Purdy Rd	14000	F	80%	1%	1%	1%	17%	1%	F	0.0732	F	0.0000	13000	F	2008
+626038	  US	00058	     	US 58	West Atlantic St	109	City of Emporia	040	Greensville County	0.21	Purdy Rd	I-95	22000	F	80%	1%	1%	1%	17%	1%	F	0.0831	F	0.0000	21000	F	2008
+626001	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.84	I-95	US 301 Main St	17000	F	76%	1%	1%	1%	21%	1%	C	0.0769	F	0.0000	16000	F	2008
+626002	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.64	US 301 Main St	Reese St	14000	F	71%	1%	1%	2%	25%	1%	C	0.0781	F	0.0000	14000	F	2008
+626003	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.49	Reese St	Davis St	16000	F	84%	1%	1%	1%	13%	0%	F	0.0717	F	0.0000	15000	F	2008
+626004	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.65	Davis St	East Atlantic St	16000	F	84%	1%	1%	1%	13%	0%	F	0.0732	F	0.0000	15000	F	2008
+626005	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.40	East Atlantic St	ECL Emporia	16000	F	84%	1%	1%	1%	13%	0%	F	0.0711	F	0.0000	15000	F	2008
+626006	C3US	00058	     	Bus US 58	Market Dr	109	City of Emporia	109	City of Emporia	0.21	US 58 West Intersection	West Atlantic St	9600	F	98%	0%	1%	0%	1%	0%	C				10000	F	2008
+626039	C3US	00058	     	Bus US 58	West Atlantic St	109	City of Emporia	109	City of Emporia	0.44	US 58 Connector	North Main Street	9900	F	98%	0%	1%	0%	1%	0%	C	0.0809	F	0.0000	11000	F	2008
+626011	C3US	00058	     	Bus US 58	East Atlantic St	109	City of Emporia	109	City of Emporia	0.25	North Main Street	Reese St	3600	F	92%	1%	1%	0%	7%	0%	F	0.1018	F	0.5233	4000	F	2008
+626012	C3US	00058	     	Bus US 58	East Atlantic St	109	City of Emporia	109	City of Emporia	1.20	Reese St	US 58 East Intersection	1600	F	92%	1%	1%	0%	7%	0%	C	0.0998	F	0.0000	1800	F	2008
+050257	  IS	00095	N    	I-95 NB	 	109	City of Emporia	040	Greensville County	1.05	SCL Emporia	US 58	19000	F	81%	1%	1%	1%	17%	0%	F				16000	F	2008		38000	F	81%	1%	1%	1%	17%	0%	F				33000	F
+050578	  IS	00095	N    	I-95 NB	 	109	City of Emporia	040	Greensville County	0.62	US 58	NCL Emporia	16000	F	81%	1%	1%	1%	17%	0%	F				14000	F	2008		30000	F	82%	1%	1%	1%	15%	0%	F				28000	F
+150020	  IS	00095	S    	I-95 SB	 	109	City of Emporia	040	Greensville County	1.24	SCL Emporia	US 58	19000	F	81%	1%	1%	1%	16%	0%	F				16000	F	2008		38000	F	81%	1%	1%	1%	17%	0%	F				33000	F
+150006	  IS	00095	S    	I-95 SB	 	109	City of Emporia	040	Greensville County	0.35	US 58	NCL Emporia	14000	F	84%	1%	1%	1%	14%	0%	F				14000	F	2008		30000	F	82%	1%	1%	1%	15%	0%	F				28000	F
+626028	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.45	SCL Emporia	Low Ground Rd	5800	F	95%	1%	1%	0%	3%	0%	C	0.0922	F	0.0000	6300	F	2008
+626029	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.24	Low Ground Rd	Jefferson St	9700	F	95%	1%	1%	0%	3%	0%	F	0.0879	F	0.0000	11000	F	2008
+626030	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.36	Jefferson St	Brunswick Ave	9700	F	95%	1%	1%	0%	3%	0%	F	0.0892	F	0.0000	11000	F	2008
+626031	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.49	Brunswick Ave	Valley St	14000	F	97%	1%	1%	0%	1%	0%	C	0.0802	F	0.0000	16000	F	2008
+626032	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.20	Valley St	Atlantic Ave	13000	F	97%	1%	1%	0%	1%	0%	F	0.0810	F	0.0000	15000	F	2008
+626022	  US	00301	     	US 301	North Main St	109	City of Emporia	109	City of Emporia	0.74	Atlantic Ave	US 58	9900	F	97%	1%	1%	0%	1%	0%	F				11000	F	2008
+626023	  US	00301	     	US 301	North Main St	109	City of Emporia	109	City of Emporia	0.34	US 58	Halifax St	8100	F	96%	0%	1%	1%	2%	0%	F				8800	F	2008
+626024	  US	00301	     	US 301	North Main St	109	City of Emporia	109	City of Emporia	0.16	Halifax St	NCL Emporia	9200	F	96%	0%	1%	1%	2%	0%	F				10000	F	2008
+780379	  FR	00131	     	FR 131	Clover Leaf Dr	109	City of Emporia	040	Greensville County	1.06	US 58; Bus US 58	Dead End	210	R							X						05/13/2008
+780881	  FR	00963	     	FR 963	 	109	City of Emporia	040	Greensville County	0.04	Bus US 58	Dead End	0	?							X
+780882	  FR	00964	     	FR 964	 	109	City of Emporia	040	Greensville County	0.07	US 58; Bus US 58	Dead End	7	R							X						05/13/2008
+780883	  FR	00965	     	FR 965	 	109	City of Emporia	040	Greensville County	0.31	Reese St	Dead End	3	R							X						05/13/2008
+781629	 109	00001	     	109-1	Brink Rd	109	City of Emporia	109	City of Emporia	0.16	JB-40-109 SCL Emporia	US 301	2500	F	97%	0%	1%	2%	0%	0%	F	0.0934	F	0.6390	2700	F	2008
+626025	 109	00002	     	109-2	Purdy Rd	109	City of Emporia	109	City of Emporia	0.49	West Atlantic St	Satterfield Dr	2400	F	95%	1%	1%	1%	3%	0%	C	0.1008	F	0.0000	2700	F	2008
+781630	 109	00002	     	109-2	Purdy Rd	109	City of Emporia	109	City of Emporia	0.14	Satterfield Dr	NCL Emporia	1200	F	95%	1%	1%	1%	3%	0%	F	0.0998	F	0.7057	1300	F	2008
+781631	 109	00005	     	109-5	West End Dr	109	City of Emporia	109	City of Emporia	0.42	US 58	109-2 Purdy Rd	390	G	99%	0%	0%	0%	0%	0%	C				420	G	2008
+626013	 109	03800	     	109-3800	Greenville Ave	109	City of Emporia	109	City of Emporia	0.17	South Main St	Tillar St	390	F	98%	1%	1%	0%	0%	0%	C	0.0913	F	0.6098	430	F	2008
+626021	 109	03801	     	109-3801	Low Ground Rd	109	City of Emporia	109	City of Emporia	0.43	SCL Emporia	South Main St	2500	F	98%	1%	1%	0%	0%	0%	C	0.0938	F	0.0000	2700	F	2008
+626019	 109	03801	     	109-3801	Laurel St	109	City of Emporia	109	City of Emporia	0.43	South Main St	Temple Ave	780	F	98%	1%	1%	0%	0%	0%	C	0.1063	F	0.5393	850	F	2008
+626009	 109	03802	     	109-3802	Brunswick Ave	109	City of Emporia	109	City of Emporia	0.20	WCL Emporia	Brunswick Ave Ext.	3600	F	98%	0%	1%	0%	0%	0%	F	0.0906	F	0.6452	3900	F	2008
+626008	 109	03802	     	109-3802	Brunswick Ave	109	City of Emporia	109	City of Emporia	0.66	Brunswick Ave Ext.	South Main St	4400	F	97%	1%	1%	1%	1%	0%	C	0.0876	F	0.6418	4800	F	2008
+626018	 109	03802	     	109-3802	Hicksford Ave	109	City of Emporia	109	City of Emporia	0.46	South Main St	Lee St	2800	F	98%	0%	1%	0%	0%	0%	C	0.1085	F	0.6006	3100	F	2008
+626020	 109	03802	     	109-3802	Lee St	109	City of Emporia	109	City of Emporia	0.37	Hicksford Ave	Southampton St	1800	F	98%	1%	1%	0%	0%	0%	C	0.0978	F	0.5779	1900	F	2008
+626036	 109	03804	     	109-3804	Valley St	109	City of Emporia	109	City of Emporia	0.14	North Main St	Halifax St	880	F	98%	0%	1%	0%	0%	0%	F	0.1087	F	0.5207	960	F	2008
+626033	 109	03804	     	109-3804	Southampton St	109	City of Emporia	109	City of Emporia	0.29	Halifax St	Lee St	1000	F	98%	0%	1%	0%	0%	0%	C	0.0993	F	0.5000	1100	F	2008
+626034	 109	03804	     	109-3804	Southampton St	109	City of Emporia	109	City of Emporia	0.18	Lee St	East Atlantic St	1700	F	98%	0%	1%	0%	0%	0%	F	0.0993	F	0.5714	1800	F	2008
+626010	 109	03805	     	109-3805	Davis St	109	City of Emporia	109	City of Emporia	1.32	East Atlantic St	ECL Emporia	1300	F	96%	1%	0%	1%	2%	0%	C	0.1133	F	0.6146	1400	F	2008
+626014	 109	03807	     	109-3807	Halifax St	109	City of Emporia	109	City of Emporia	0.15	Southampton St	East Atlantic St	2100	F	98%	0%	1%	0%	0%	0%	F	0.1120	F	0.7313	2300	F	2008
+626015	 109	03807	     	109-3807	Halifax St	109	City of Emporia	109	City of Emporia	0.34	East Atlantic St	Ruffin St	2200	F	98%	0%	1%	0%	0%	0%	C	0.0817	F	0.6188	2400	F	2008
+626016	 109	03807	     	109-3807	Halifax St	109	City of Emporia	109	City of Emporia	0.30	Ruffin St	US 58	1600	F	100%	0%	0%	0%	0%	0%	C	0.0920	F	0.5566	1700	F	2008
+626017	 109	03807	     	109-3807	Halifax St	109	City of Emporia	109	City of Emporia	0.53	US 58	North Main St	1100	F	98%	1%	1%	0%	0%	0%	C	0.1148	F	0.5102	1200	F	2008
+788274	 109	03808	     	109-3808	Reese St	109	City of Emporia	109	City of Emporia	0.12	109-3804 Southampton St	Bus US 58	690	F	98%	1%	1%	0%	0%	0%	C	0.1131	F	0.7263	750	F	2008
+787398	 109	03808	     	109-3808	Reese St	109	City of Emporia	109	City of Emporia	0.83	Bus US 58	US 58 Bypass	1700	F	98%	0%	1%	0%	0%	0%	C	0.0966	F	0.6552	1900	F	2008
+781632	 109	03808	     	109-3808	Reese St	109	City of Emporia	109	City of Emporia	0.84	US 58 Bypass	Sunnyside Rd	950	F	92%	1%	2%	2%	4%	0%	C	0.1162	F	0.7266	1000	F	2008
+626007	 109	03809	     	109-3809	Belfield Dr	109	City of Emporia	109	City of Emporia	0.17	West Atlantic St	Weaver Ave	2200	F	97%	0%	1%	2%	0%	0%	C	0.1026	F	0.5815	2300	F	2008
+626040	 109	03810	     	109-3810	Weaver Ave	109	City of Emporia	109	City of Emporia	0.21	Belfield Dr	North Main St	2500	F	98%	0%	1%	1%	0%	0%	C	0.1035	F	0.0000	2700	F	2008
+783015	 109	03815	     	109-3815	W Atlantic Ave	109	City of Emporia	109	City of Emporia	0.24	Dead End near Florida Ave	Bus US 58	720	F	97%	0%	1%	2%	0%	0%	F				780	F	2008
+526001	 109	00000	     	109-0	Baker St	109	City of Emporia	109	City of Emporia	0.00	North Main St	Halifax St	650	G							X				710	G	2008
+526002	 109	00000	     	109-0	Briggs St	109	City of Emporia	109	City of Emporia	0.00	Clay St	Tillar St	1300	F							X	0.1022	F	0.0000	1400	F	2008
+526003	 109	00000	     	109-0	Clay St	109	City of Emporia	109	City of Emporia	0.00	Low Ground Rd	South Main St	2200	F							X	0.0942	F	0.0000	2400	F	2008
+526004	 109	00000	     	109-0	Jefferson St	109	City of Emporia	109	City of Emporia	0.00	South Main St	West Ave	1400	F							X	0.0884	F	0.0000	1500	F	2008
+526009	 109	00000	     	109-0	Ruffin St	109	City of Emporia	109	City of Emporia	0.00	Halifax St	North Main St	1100	F							X	0.1079	F	0.0000	1200	F	2008
+526005	 109	00000	     	109-0	Temple Ave	109	City of Emporia	109	City of Emporia	0.00	Laurel St	Jefferson St	500	F							X	0.1348	F	0.0000	540	F	2008
+526006	 109	00000	     	109-0	Tillar St	109	City of Emporia	109	City of Emporia	0.00	Briggs St	Hicksford Ave	1400	F							X	0.1140	F	0.0000	1600	F	2008
+526007	 109	00000	     	109-0	West Ave	109	City of Emporia	109	City of Emporia	0.00	Jefferson St	Brunswick Ave	310	F							X	0.1081	F	0.5238	340	F	2008
+526008	 109	00000	     	109-0	West End Blvd	109	City of Emporia	109	City of Emporia	0.00	North Main St	Gay St	740	F							X	0.0948	F	0.0000	800	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

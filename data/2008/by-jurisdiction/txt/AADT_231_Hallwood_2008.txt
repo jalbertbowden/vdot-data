@@ -1,0 +1,23 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Hallwood																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+785040	  01	00687	     	01-687	Bethel Church Rd	231	Town of Hallwood	001	Accomack County	0.10	SCL Hallwood	01-692 Main St	230	N							X				0	N	07/12/2005
+300048	  01	00692	     	01-692	Main St	231	Town of Hallwood	001	Accomack County	0.20	WCL Hallwood	01-779 Mears Station Rd	380	F	96%	1%	2%	0%	1%	0%	F	0.1162	F	0.6344	400	F	2008
+300049	  01	00692	     	01-692	Main St	231	Town of Hallwood	001	Accomack County	0.59	01-779 Mears Station Rd	01-687 Bethel Church Rd	740	F	96%	1%	2%	0%	1%	0%	F	0.1126	F	0.5810	790	F	2008
+300050	  01	00692	     	01-692	Main St	231	Town of Hallwood	001	Accomack County	0.44	01-687 Bethel Church Rd	ECL Hallwood	620	F	96%	1%	2%	0%	1%	0%	F	0.1030	F	0.5182	660	F	2008
+300052	  01	00693	     	01-693	Neal Parker Dr	231	Town of Hallwood	001	Accomack County	0.28	01-692 Main St	NCL Hallwood	740	F	95%	0%	1%	1%	3%	0%	F	0.0928	F	0.6078	790	F	2008
+300079	  01	00779	     	01-779	Mears Station Rd	231	Town of Hallwood	001	Accomack County	0.01	SCL Hallwood	01-692	1200	G	96%	0%	1%	2%	1%	0%	F	0.0972	N	0.5556	1300	G	2008
+700961	  01	02401	     	01-2401	Church St	231	Town of Hallwood	001	Accomack County	0.15	Dead End	01-692 Main St	10	R							X						07/12/2005
+700962	  01	02402	     	01-2402	Taylor St	231	Town of Hallwood	001	Accomack County	0.19	SCL Hallwood	01-692 Main St	20	R							X						07/12/2005
+700963	  01	02403	     	01-2403	Marshall St	231	Town of Hallwood	001	Accomack County	0.09	01-693 Neal Parker Dr	01-692 Main St	450	R							X						07/12/2005
+700964	  01	02404	     	01-2404	Fitzgerald St	231	Town of Hallwood	001	Accomack County	0.10	01-692 Main St	01-2405 Seaside Ave	20	R							X						07/12/2005
+700965	  01	02405	     	01-2405	Seaside Ave	231	Town of Hallwood	001	Accomack County	0.08	01-2409 Ridge Ave	01-2404 Fitzgerald St	10	R							X						07/12/2005
+700966	  01	02406	     	01-2406	Bloomtown Rd	231	Town of Hallwood	001	Accomack County	0.18	01-693 S, Neal Parker Dr	NCL Hallwood	20	R							X						07/12/2005
+700968	  01	02407	     	01-2407	Railroad Ave	231	Town of Hallwood	001	Accomack County	0.15	01-692 Main St	Dead End	40	R							X						07/12/2005
+700969	  01	02408	     	01-2408	Hall St	231	Town of Hallwood	001	Accomack County	0.16	01-692 Main St	Dead End	60	R							X						07/12/2005
+700970	  01	02409	     	01-2409	Ridge Ave	231	Town of Hallwood	001	Accomack County	0.12	01-692 Main St	01-2405 Seaside Ave	20	R							X						07/12/2005
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

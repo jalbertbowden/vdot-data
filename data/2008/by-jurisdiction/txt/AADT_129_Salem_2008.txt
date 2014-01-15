@@ -1,0 +1,107 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Salem																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+686709	  US	00011	     	US 11, US 460	West Main St	129	City of Salem	129	City of Salem	1.12	WCL Salem	SR 112 Wildwood Rd	19000	G	94%	0%	1%	3%	2%	0%	F	0.0849	F	0.5143	21000	G	2008
+686110	  US	00011	     	US 11, US 460	West Main St	129	City of Salem	129	City of Salem	1.31	SR 112 Wildwood Rd	ALT US 460, 4th St	28000	G	98%	0%	1%	0%	0%	0%	F	0.0841	F	0.5404	31000	G	2008
+666109	  US	00011	     	US 11, US 460	West Main St	129	City of Salem	129	City of Salem	0.60	ALT US 460, 4th St	Academy St	15000	G	98%	0%	1%	0%	0%	0%	F				17000	G	2008
+686108	  US	00011	     	US 11, US 460	West Main St	129	City of Salem	129	City of Salem	0.35	Academy St	College Ave	13000	G	98%	0%	1%	0%	0%	0%	F	0.0828	F	0.5077	14000	G	2008
+686109	  US	00011	     	US 11	College Ave	129	City of Salem	129	City of Salem	0.09	US 460, Main St	SR 311, Thompson Memorial Dr	2400	G	98%	0%	1%	0%	0%	0%	F	0.1125	F	0.6252	2600	G	2008
+686103	  US	00011	     	US 11	College Ave	129	City of Salem	129	City of Salem	0.72	SR 311, Thompson Memorial Dr	8th St	5500	G	98%	0%	1%	0%	0%	0%	F	0.0945	F	0.6204	6200	G	2008
+686104	  US	00011	     	US 11	Colorado St	129	City of Salem	129	City of Salem	0.58	8th St	Apperson Dr	16000	G	98%	0%	1%	0%	0%	0%	F	0.0847	F	0.5742	18000	G	2008
+686102	  US	00011	     	US 11	Apperson Dr	129	City of Salem	129	City of Salem	0.98	Colorado St	SR 419 Electric Rd	20000	G	98%	0%	1%	0%	0%	0%	F	0.0862	F	0.6079	22000	G	2008
+686101	  US	00011	     	US 11	Apperson Dr	129	City of Salem	129	City of Salem	1.04	SR 419 Electric Rd	WCL Roanoke	13000	G	96%	0%	1%	1%	1%	0%	C	0.0836	F	0.5227	15000	G	2008
+686118	A1US	00011	     	Alt US 460, Alt US 11	4th St	129	City of Salem	129	City of Salem	0.40	W Main St	Elm St	16000	G	96%	0%	1%	1%	2%	0%	F	0.0855	F	0.5298	17000	G	2008	
+686117	A1US	00011	     	Alt US 460, Alt US 11	4th St	129	City of Salem	129	City of Salem	0.37	Elm St	Union St	18000	G	96%	0%	1%	1%	2%	0%	C	0.0848	F	0.5288	20000	G	2008	
+686116	A1US	00011	     	Alt US 460, Alt US 11	4th St	129	City of Salem	129	City of Salem	0.29	Union St	Colorado St	16000	G	96%	0%	1%	1%	2%	0%	F	0.0816	F	0.5436	17000	G	2008	
+686115	A1US	00011	     	Alt US 460, Alt US 11	4th St	129	City of Salem	129	City of Salem	0.28	Colorado St	Roanoke Blvd	9400	G	97%	0%	1%	1%	1%	0%	F	0.0895	F	0.5376	10000	G	2008	
+686114	A1US	00011	     	Alt US 460, Alt US 11	Texas St	129	City of Salem	129	City of Salem	0.31	Roanoke Blvd	Idaho St	11000	G	97%	0%	1%	1%	1%	0%	C	0.0923	F	0.5662	11000	G	2008	
+686113	A1US	00011	     	Alt US 460, Alt US 11	Texas St	129	City of Salem	129	City of Salem	0.61	Idaho St	Lynchburg Tnpk	6100	G	96%	0%	1%	1%	1%	0%	C	0.0927	F	0.5380	6600	G	2008	
+686112	A1US	00011	     	Alt US 460, Alt US 11	Texas St	129	City of Salem	129	City of Salem	0.24	Lynchburg Tnpk	Electric Rd	2600	G	96%	0%	1%	1%	1%	0%	F	0.0942	F	0.9895	2800	G	2008	
+686111	A1US	00011	     	Alt US 460, Alt US 11, VA 419	Electric Rd	129	City of Salem	129	City of Salem	0.53	Texas St	E Main St	21000	G	96%	0%	1%	1%	1%	0%	F	0.0929	F	0.6064	23000	G	2008	
+686701	A1US	00011	     	US 460, Alt US 11	E Main St	129	City of Salem	129	City of Salem	0.44	SR 419 Electric Rd	WCL Roanoke	15000	G	96%	1%	1%	1%	2%	0%	F	0.0865	F	0.5223	16000	G	2008	
+020395	  IS	00081	N    	I-81 NB	 	129	City of Salem	080	Roanoke County	0.20	SCL Salem	SR 112 Wildwood Rd	24000	A	74%	1%	1%	1%	22%	2%	C	0.1020	A	1.0000	24000	A	2008		49000	A	75%	1%	1%	1%	21%	2%	C				48000	A
+020404	  IS	00081	N    	I-81 NB	 	129	City of Salem	080	Roanoke County	0.22	SR 112 Wildwood Rd	NCL Salem	28000	G	78%	1%	1%	1%	18%	1%	F	0.0800	F	1.0000	28000	G	2008		55000	G	78%	1%	1%	1%	18%	1%	F				56000	G
+120037	  IS	00081	S    	I-81 SB	 	129	City of Salem	080	Roanoke County	0.28	SCL Salem	SR 112 Wildwood Rd	24000	A	76%	1%	1%	1%	20%	2%	C	0.1104	A	1.0000	24000	A	2008		49000	A	75%	1%	1%	1%	21%	2%	C				48000	A
+120038	  IS	00081	S    	I-81 SB	 	129	City of Salem	080	Roanoke County	0.14	SR 112 Wildwood Rd	NCL Salem	28000	A	79%	1%	1%	1%	17%	1%	C	0.1070	A	1.0000	28000	A	2008		55000	G	78%	1%	1%	1%	18%	1%	F				56000	G
+120040	  IS	00081	S    	I-81 SB	 	129	City of Salem	080	Roanoke County	0.90	SCL Salem	NCL Salem	28000	A	79%	1%	1%	1%	17%	1%	C	0.1070	A	1.0000	28000	A	2008		55000	G	78%	1%	1%	1%	18%	1%	F	0.0000	?	0.0000	56000	G
+686119	  SR	00112	     	VA 112	Wildwood Rd	129	City of Salem	129	City of Salem	0.44	US 11, US 460 Main St	NCL Salem	19000	G	99%	0%	0%	0%	0%	0%	F	0.0899	F	0.5195	20000	G	2008
+686150	  SR	00311	     	VA 311	Thompson Memorial Dr	129	City of Salem	129	City of Salem	0.17	College Ave	Main St	7500	G	97%	0%	1%	1%	1%	0%	F	0.1039	F	0.5045	8000	G	2008
+686151	  SR	00311	     	VA 311	Thompson Memorial Dr	129	City of Salem	129	City of Salem	0.94	Main St	Rose Ln	14000	G	97%	0%	1%	1%	1%	0%	C	0.0972	F	0.5550	15000	G	2008
+686152	  SR	00311	     	VA 311	Thompson Memorial Dr	129	City of Salem	129	City of Salem	0.55	Rose Ln	NCL Salem	13000	G	97%	0%	1%	1%	1%	0%	F	0.1060	F	0.6076	14000	G	2008
+686122	  SR	00419	     	VA 419	Electric Rd	129	City of Salem	129	City of Salem	0.69	SCL Salem	US 11 Apperson Dr	26000	G	98%	0%	1%	0%	1%	0%	C	0.0897	F	0.5036	29000	G	2008
+686123	  SR	00419	     	VA 419	Electric Rd	129	City of Salem	129	City of Salem	0.58	US 11 Apperson Dr	Roanoke Boulevard	23000	G	98%	0%	1%	0%	1%	0%	C	0.0874	F	0.5327	25000	G	2008
+686124	  SR	00419	     	VA 419	Electric Rd	129	City of Salem	129	City of Salem	0.89	Roanoke Boulevard	ALT US 460 Texas St	17000	G	96%	0%	1%	1%	2%	0%	C	0.0968	F	0.5823	19000	G	2008
+686111	  SR	00419	     	Alt US 460, Alt US 11, VA 419	Electric Rd	129	City of Salem	129	City of Salem	0.53	ALT US 460 Texas St	US 460 East Main St	21000	G	96%	0%	1%	1%	1%	0%	F	0.0929	F	0.6064	23000	G	2008	
+686125	  SR	00419	     	VA 419	Electric Rd	129	City of Salem	129	City of Salem	0.88	US 460 East Main St	NCL Salem	16000	G	96%	1%	1%	1%	2%	0%	F	0.1015	F	0.6233	18000	G	2008
+686709	  US	00460	     	US 11, US 460	West Main St	129	City of Salem	129	City of Salem	1.12	WCL Salem	SR 112	19000	G	94%	0%	1%	3%	2%	0%	F	0.0849	F	0.5143	21000	G	2008	
+686110	  US	00460	     	US 11, US 460	West Main St	129	City of Salem	129	City of Salem	1.31	SR 112	ALT US 460, 4th St	28000	G	98%	0%	1%	0%	0%	0%	F	0.0841	F	0.5404	31000	G	2008	
+666109	  US	00460	     	US 11, US 460	West Main St	129	City of Salem	129	City of Salem	0.60	ALT US 460, 4th St	Academy St	15000	G	98%	0%	1%	0%	0%	0%	F				17000	G	2008	
+686108	  US	00460	     	US 11, US 460	West Main St	129	City of Salem	129	City of Salem	0.35	Academy St	US 11 College Ave	13000	G	98%	0%	1%	0%	0%	0%	F	0.0828	F	0.5077	14000	G	2008	
+686107	  US	00460	     	US 460	Main St	129	City of Salem	129	City of Salem	0.11	US 11 College Ave	SR 311 Thompson Memorial Dr	12000	G	96%	1%	1%	1%	2%	0%	F	0.0822	F	0.5400	13000	G	2008
+686129	  US	00460	     	US 460	E Main St	129	City of Salem	129	City of Salem	0.29	SR 311 Thompson Memorial Dr	Lynchburg Tpke	13000	G	98%	0%	1%	0%	0%	0%	C	0.0836	F	0.5169	14000	G	2008
+686128	  US	00460	     	US 460	E Main St	129	City of Salem	129	City of Salem	0.93	Lynchburg Tpke	Kessler Mill Rd	12000	G	97%	0%	1%	0%	1%	0%	C	0.0892	F	0.5612	13000	G	2008
+686127	  US	00460	     	US 460	E Main St	129	City of Salem	129	City of Salem	0.24	Kessler Mill Rd	SR 419 Electric Rd	14000	G	96%	1%	1%	1%	2%	0%	F	0.0903	F	0.5728	15000	G	2008
+686701	  US	00460	     	US 460, Alt US 11	E Main St	129	City of Salem	129	City of Salem	0.44	SR 419 Electric Rd	WCL Roanoke	15000	G	96%	1%	1%	1%	2%	0%	F	0.0865	F	0.5223	16000	G	2008
+686118	A2US	00460	     	Alt US 460, Alt US 11	4th St	129	City of Salem	129	City of Salem	0.40	W Main St	Elm St	16000	G	96%	0%	1%	1%	2%	0%	F	0.0855	F	0.5298	17000	G	2008
+686117	A2US	00460	     	Alt US 460, Alt US 11	4th St	129	City of Salem	129	City of Salem	0.37	Elm St	Union St	18000	G	96%	0%	1%	1%	2%	0%	C	0.0848	F	0.5288	20000	G	2008
+686116	A2US	00460	     	Alt US 460, Alt US 11	4th St	129	City of Salem	129	City of Salem	0.29	Union St	Colorado St	16000	G	96%	0%	1%	1%	2%	0%	F	0.0816	F	0.5436	17000	G	2008
+686115	A2US	00460	     	Alt US 460, Alt US 11	4th St	129	City of Salem	129	City of Salem	0.28	Colorado St	Roanoke Blvd	9400	G	97%	0%	1%	1%	1%	0%	F	0.0895	F	0.5376	10000	G	2008
+686114	A2US	00460	     	Alt US 460, Alt US 11	Texas St	129	City of Salem	129	City of Salem	0.31	Roanoke Blvd	Idaho St	11000	G	97%	0%	1%	1%	1%	0%	C	0.0923	F	0.5662	11000	G	2008
+686113	A2US	00460	     	Alt US 460, Alt US 11	Texas St	129	City of Salem	129	City of Salem	0.61	Idaho St	Lynchburg Tpke	6100	G	96%	0%	1%	1%	1%	0%	C	0.0927	F	0.5380	6600	G	2008
+686112	A2US	00460	     	Alt US 460, Alt US 11	Texas St	129	City of Salem	129	City of Salem	0.24	Lynchburg Tpke	Electric Rd	2600	G	96%	0%	1%	1%	1%	0%	F	0.0942	F	0.9895	2800	G	2008
+686111	A2US	00460	     	Alt US 460, Alt US 11, VA 419	Electric Rd	129	City of Salem	129	City of Salem	0.53	Texas St	E Main St	21000	G	96%	0%	1%	1%	1%	0%	F	0.0929	F	0.6064	23000	G	2008
+780327	  FR	00070	     	FR 70	Skyview Rd	129	City of Salem	080	Roanoke County	0.02	SR 112; 80-619 Litchell Rd	Roanoke County Line	600	R							X						11/27/2006
+686130	 129	00001	     	129-1	Market St	129	City of Salem	129	City of Salem	0.10	Burwell St	US 11 West Main St	3600	G	99%	0%	1%	0%	0%	0%	C	0.0856	F	0.5329	3900	G	2008
+586007	 129	00002	     	129-2	Idaho St	129	City of Salem	129	City of Salem	0.18	ALT US 460 Texas St	Illinois Ave	3600	N	99%	0%	1%	0%	0%	0%	N	0.0999	N	0.5643	3900	N	2008
+686136	 129	00002	     	129-2	Idaho St	129	City of Salem	129	City of Salem	0.27	Illinois Ave	Lynchburg Tpke	3600	G	99%	0%	1%	0%	0%	0%	F	0.0999	F	0.5643	3900	G	2008
+781764	 129	00003	     	129-3	King St	129	City of Salem	129	City of Salem	0.07	Front Ave	Colorado St	150	G	98%	0%	1%	0%	0%	0%	F	0.1273	F	1.0000	160	G	2008
+686142	 129	00004	     	129-4	Mill Lane	129	City of Salem	129	City of Salem	0.37	W Riverside Dr	W Main St	8500	G	97%	0%	1%	1%	0%	0%	C	0.0911	F	0.5432	9100	G	2008
+796409	 129	00005	     	129-5	Piedmont Ave	129	City of Salem	129	City of Salem	0.10	129-8051 Eddy Ave	129-8002 Mulberry St	0	?							X
+796410	 129	00006	     	129-6	Green Ridge Rd	129	City of Salem	129	City of Salem	0.20	SR 419 Electric Rd	129-8018 Dalewood Ave	0	?							X
+686700	 129	08002	     	129-8002	Riverside Dr	129	City of Salem	129	City of Salem	0.40	WCL Salem; 80-639 West Riverside Dr	Mill Lane	5400	G	99%	0%	0%	0%	1%	0%	F	0.1111	F	0.6164	5800	G	2008
+686515	 129	08002	     	129-8002	Riverside Dr	129	City of Salem	129	City of Salem	0.93	Mill Lane	Twelve OClock Knob Rd	6500	G	98%	0%	1%	0%	0%	0%	F	0.1069	F	0.5394	7000	G	2008
+686517	 129	08002	     	129-8002	Riverside Dr	129	City of Salem	129	City of Salem	0.05	Twelve OClock Knob Rd	Lucas St	2900	N	98%	0%	1%	0%	0%	0%	N	0.1110	N	0.5217	3200	N	2008
+686514	 129	08002	     	129-8002	Piedmont Ave	129	City of Salem	129	City of Salem	0.20	Lucas St	Mulberry St	6000	G	98%	0%	1%	0%	0%	0%	F	0.1050	F	0.5633	6500	G	2008
+686518	 129	08002	     	129-8002	Mulberry St	129	City of Salem	129	City of Salem	0.19	Piedmont Ave	Front Ave	2900	N	98%	0%	1%	0%	0%	0%	N	0.1110	N	0.5217	3200	N	2008
+781765	 129	08002	     	129-8002	Front Ave	129	City of Salem	129	City of Salem	0.65	Mulberry St	King Street	2900	G	98%	0%	1%	0%	0%	0%	C	0.1110	F	0.5217	3200	G	2008
+686133	 129	08004	     	129-8004	Colorado St	129	City of Salem	129	City of Salem	0.29	Roanoke Blvd	Alt US 11, Alt US 460	2600	G	99%	0%	0%	0%	1%	0%	C	0.1061	F	0.6452	2800	G	2008
+686132	 129	08004	     	129-8004	Colorado St	129	City of Salem	129	City of Salem	0.38	Alt US 11, Alt US 460	US 11 College Ave; Gap	14000	G	99%	0%	0%	0%	1%	0%	F	0.0870	F	0.5553	15000	G	2008
+781766	 129	08004	     	129-8004	Burwell St	129	City of Salem	129	City of Salem	0.25	US 11 College Ave; Gap	Broad Street	1300	G	99%	0%	0%	0%	1%	0%	F	0.0997	F	0.5441	1400	G	2008
+686143	 129	08006	     	129-8006	Roanoke Blvd	129	City of Salem	129	City of Salem	0.48	Burwell St	4Th St	3300	G	99%	0%	0%	0%	1%	0%	F	0.1230	F	0.8067	3600	G	2008
+686141	 129	08008	     	129-8008	Lynchburg Tpke	129	City of Salem	129	City of Salem	0.17	US 460 E Main St	129-2 Idaho St	4300	G	99%	0%	0%	0%	1%	0%	F	0.0982	F	0.5534	4600	G	2008
+686140	 129	08008	     	129-8008	Lynchburg Tpke	129	City of Salem	129	City of Salem	0.67	129-2 Idaho St	Alt US 460	2500	G	99%	0%	0%	0%	1%	0%	F	0.1016	F	0.5045	2700	G	2008
+686139	 129	08008	     	129-8008	Lynchburg Tpke	129	City of Salem	129	City of Salem	0.25	Alt US 460	SR 419 Electric Rd	5200	G	99%	0%	0%	0%	1%	0%	F	0.0975	F	0.6988	5600	G	2008
+686138	 129	08008	     	129-8008	Lynchburg Tpke	129	City of Salem	129	City of Salem	0.44	SR 419 Electric Rd	ECL Salem	6500	G	97%	0%	1%	1%	1%	0%	C	0.0966	F	0.5618	7000	G	2008
+686144	 129	08010	     	129-8010	Roanoke Blvd	129	City of Salem	129	City of Salem	0.41	Texas St	Pearl St	8300	G	97%	0%	1%	1%	1%	0%	F	0.1001	F	0.5065	8900	G	2008
+686145	 129	08010	     	129-8010	Roanoke Blvd	129	City of Salem	129	City of Salem	0.30	Pearl St	Electric Rd	9600	G	98%	0%	1%	0%	0%	0%	C	0.1017	F	0.5062	10000	G	2008
+686146	 129	08010	     	129-8010	Roanoke Blvd	129	City of Salem	129	City of Salem	1.30	Electric Rd	ECL Salem	12000	G	98%	0%	1%	0%	0%	0%	F	0.0958	F	0.6140	13000	G	2008
+686708	 129	08018	     	129-8018	Dalewood Ave	129	City of Salem	129	City of Salem	0.55	US 460 Main St	128-6 Green Ridge Rd	1000	G	98%	0%	1%	0%	0%	0%	F	0.1400	F	0.6522	1100	G	2008
+686258	 129	08018	     	129-8018	Green Ridge Rd	129	City of Salem	129	City of Salem	0.19	128-6; Dalewood Ave	NCL Salem	5900	G	98%	0%	1%	0%	0%	0%	F	0.1396	F	0.5859	6300	G	2008
+686516	 129	08037	     	129-8037	Twelve O'Clock Knob Rd	129	City of Salem	129	City of Salem	0.98	SCL Salem	Riverside Dr	1200	G	98%	0%	1%	0%	0%	0%	F	0.1234	F	0.6916	1300	G	2008
+686262	 129	08047	     	129-8047	Diuguids Lane	129	City of Salem	129	City of Salem	0.09	SCL Salem	US 11; 460	4500	G	98%	0%	1%	0%	0%	0%	F	0.1136	F	0.5442	4900	G	2008
+686149	 129	08051	     	129-8051	Eddy Ave	129	City of Salem	129	City of Salem	0.20	129-5 Piedmont Ave	Front Ave	0	?							X
+686134	 129	08051	     	129-8051	Eddy Ave	129	City of Salem	129	City of Salem	0.18	Front Ave	Union St	6800	G	98%	0%	1%	0%	0%	0%	F	0.1084	F	0.6405	7300	G	2008
+686148	 129	08051	     	129-8051	Union St	129	City of Salem	129	City of Salem	0.23	Eddy Ave	Alt US 460, Alt US 11, W 4th St	8400	G	99%	0%	1%	0%	0%	0%	C	0.0931	F	0.5598	9100	G	2008
+686147	 129	08051	     	129-8051	Union St	129	City of Salem	129	City of Salem	0.46	Alt US 460, Alt US 11, W 4th St	US 11, US 460 West Main St	2400	G	98%	0%	1%	0%	0%	0%	C	0.0999	F	0.5219	2600	G	2008
+686131	 129	08051	     	129-8051	Academy St	129	City of Salem	129	City of Salem	0.64	US 11, US 460 West Main St	W Carrolton Ave	1500	G	98%	0%	1%	0%	0%	0%	F	0.1012	F	0.6054	1600	G	2008
+686707	 129	08051	     	129-8051	Academy St	129	City of Salem	129	City of Salem	0.51	W Carrolton Ave	I-81 Overpass; Wildwood Rd	1900	G	98%	0%	1%	0%	0%	0%	F	0.1005	F	0.6247	2100	G	2008
+686135	 129	08059	     	129-8059	Goodwin Ave	129	City of Salem	129	City of Salem	0.72	US 11 West Main St	NCL Salem	2100	G	97%	1%	2%	0%	0%	0%	C	0.1126	F	0.5060	2200	G	2008
+686137	 129	08065	     	129-8065	Kessler Mill Rd	129	City of Salem	129	City of Salem	1.65	Main St	NCL Salem	1700	G	96%	0%	2%	1%	1%	0%	C	0.0959	F	0.5143	1900	G	2008
+586800	 129	00000	     	129-0	3rd St	129	City of Salem	129	City of Salem	0.00	College Ave	Roanoke Blvd	230	G							X	0.1308	F	0.5231	240	G	2008
+586008	 129	00000	     	129-0	6th St	129	City of Salem	129	City of Salem	0.00	Tennesee St	College Ave	720	G							X				770	G	2008
+586009	 129	00000	     	129-0	8th St	129	City of Salem	129	City of Salem	0.00	Delaware St	Florida St	4300	G							X	0.1175	F	0.6492	4600	G	2008
+586004	 129	00000	     	129-0	Bonavista Rd	129	City of Salem	129	City of Salem	0.00	Valledale Rd	Ft Lewis Blvd	150	G							X	0.1090	F	0.5429	160	G	2008
+586011	 129	00000	     	129-0	Burwell St	129	City of Salem	129	City of Salem	0.00	Shanks St	Chestnut St	1500	G							X	0.1620	F	0.5325	1600	G	2008
+586801	 129	00000	     	129-0	Chapman St	129	City of Salem	129	City of Salem	0.00	Burwell St	2nd St	510	G							X	0.1079	F	0.6529	550	G	2008
+586001	 129	00000	     	129-0	Fletcher St	129	City of Salem	129	City of Salem	0.00	Gardner Dr	Howard Dr	190	G							X	0.1422	F	0.6379	200	G	2008
+586012	 129	00000	     	129-0	Goodwin Ave	129	City of Salem	129	City of Salem	0.00	Logan St	NCL Salem	1100	G							X				1200	G	2008
+586002	 129	00000	     	129-0	Jackson Dr	129	City of Salem	129	City of Salem	0.00	Randolph Ave	Kessling Ave	550	G							X	0.1159	F	0.5957	590	G	2008
+586005	 129	00000	     	129-0	Macon St	129	City of Salem	129	City of Salem	0.00	Keesling Ave	Randolph Ave	140	G							X	0.1254	F	0.0000	150	G	2008
+586010	 129	00000	     	129-0	Pearl St	129	City of Salem	129	City of Salem	0.00	Carolina Ave	Missouri Ave	220	G							X	0.0996	F	0.6042	230	G	2008
+586003	 129	00000	     	129-0	Texas Hollow Rd	129	City of Salem	129	City of Salem	0.00	Valleydale Rd	W Main St	2800	G							X	0.1102	F	0.0000	3000	G	2008
+586006	 129	00000	     	129-0	Virginia Ave	129	City of Salem	129	City of Salem	0.00	Richfield Ave	Fairview Ave	390	G							X	0.1801	F	0.8052	420	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

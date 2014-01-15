@@ -1,0 +1,17 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Duffield																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+010162	  US	00023	     	US 23	 	211	Town of Duffield	084	Scott County	1.27	SCL Duffield	NCL Duffield	10000	N	92%	0%	1%	1%	6%	0%	N	0.0825	N	0.5061	10000	N	2008
+010471	  US	00058	     	US 58, US 421	 	211	Town of Duffield	084	Scott County	0.20	WCL Duffield	US 23	4500	N	92%	1%	1%	1%	6%	0%	N	0.0820	N	0.5612	4600	N	2008
+010471	  US	00421	     	US 58, US 421	 	211	Town of Duffield	084	Scott County	0.20	CL Duffield	US 23, US 58	4500	N	92%	1%	1%	1%	6%	0%	N	0.0820	N	0.5612	4600	N	2008	
+769773	  84	00654	     	84-654	 	211	Town of Duffield	084	Scott County	0.27	US 23	ECL Duffield	350	R							X						01/21/2004
+785213	  84	00856	     	84-856	 	211	Town of Duffield	084	Scott County	0.20	ECL Duffield	US 23 SOUTH	70	R							X						04/06/2000
+770132	  84	00856	     	84-856	 	211	Town of Duffield	084	Scott County	0.43	US 23 SOUTH	US 23 NORTH	90	R							X						07/05/2007
+770140	  84	00864	     	84-864	 	211	Town of Duffield	084	Scott County	0.29	US 23	84-871	110	R							X						07/05/2007
+770155	  84	00879	     	84-879	Industrial Park	211	Town of Duffield	084	Scott County	1.40	US 58	Dead End	1300	R							X						07/05/2007
+785474	  84	00959	     	84-959	 	211	Town of Duffield	084	Scott County	0.05	84-856	Dead End	20	R							X						07/05/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

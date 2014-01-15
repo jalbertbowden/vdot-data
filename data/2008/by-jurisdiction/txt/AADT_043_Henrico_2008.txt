@@ -1,0 +1,580 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Henrico Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+665770	  US	00001	     	US 1	Brook Rd	043	Henrico County	043	Henrico County	0.30	NCL Richmond	I-95	22000	G	97%	1%	1%	0%	1%	0%	F	0.0890	F	0.5425	24000	G	2008
+665101	  US	00001	     	US 1	Brook Rd	043	Henrico County	043	Henrico County	0.83	I-95	Hilliard Rd	24000	G	99%	0%	1%	0%	0%	0%	C	0.0908	F	0.5256	26000	G	2008
+665102	  US	00001	     	US 1	Brook Rd	043	Henrico County	043	Henrico County	0.72	Hilliard Rd	Wilkinson Rd	21000	G	99%	0%	1%	0%	0%	0%	F	0.0958	F	0.5348	22000	G	2008
+665103	  US	00001	     	US 1	Brook Rd	043	Henrico County	043	Henrico County	0.48	Wilkinson Rd	SR 73 Parham Rd	25000	F	98%	0%	1%	0%	1%	0%	C	0.0906	F	0.5112	25000	F	2008
+665771	  US	00001	     	US 1	Brook Rd	043	Henrico County	043	Henrico County	1.42	SR 73 Parham Rd	I-295	26000	G	98%	0%	1%	0%	1%	0%	C	0.0934	F	0.5149	27000	G	2008
+665185	  US	00001	     	US 1	Brook Rd	043	Henrico County	043	Henrico County	0.73	I-295	Virginia Center Parkway	45000	G	98%	0%	1%	0%	1%	0%	F	0.0946	F	0.5152	48000	G	2008
+665193	  US	00001	     	US 1	Brook Rd	043	Henrico County	043	Henrico County	0.38	Virginia Center Parkway	J.E.B. Stuart Parkway	32000	G	98%	0%	1%	0%	1%	0%	F	0.0946	F	0.5203	35000	G	2008
+665196	  US	00001	     	US 1	Brook Rd	043	Henrico County	043	Henrico County	0.60	J.E.B. Stuart Parkway	Hanover County Line	26000	G	98%	0%	1%	0%	1%	0%	F				27000	G	2008
+789651	  US	00001	N093B	US 1 NB Exit 093B	Ramp	127	City of Richmond	043	Henrico County	0.12	US 1 TO ROUTE 95 NORTH	I-95-N FROM ROUTE 1 NORTH	7700	F							X				7700	F	2008
+665104	  SR	00002	     	US 301, VA 2	Chamberlayne Ave	043	Henrico County	043	Henrico County	0.55	NCL Richmond	I-95	16000	G	96%	1%	1%	0%	1%	0%	C	0.0976	F	0.6021	17000	G	2008	
+665107	  SR	00002	     	US 301, VA 2	Chamberlayne Ave	043	Henrico County	043	Henrico County	0.90	I-95	Upham Dr	17000	F	97%	0%	1%	0%	1%	0%	F	0.1165	F	0.0000	19000	F	2008		26000	G	97%	0%	1%	0%	1%	0%	F				28000	G
+665105	  SR	00002	     	US 301, VA 2	Chamberlayne Ave	043	Henrico County	043	Henrico County	1.57	Upham Dr	Parham Rd	16000	G	97%	0%	1%	0%	1%	0%	C	0.1044	F	0.7148	17000	G	2008	
+665106	  SR	00002	     	US 301, VA 2	Chamberlayne Ave	043	Henrico County	043	Henrico County	0.17	Parham Rd	Hanover County Line	27000	G	97%	0%	1%	0%	1%	0%	F	0.0982	F	0.7149	30000	G	2008	
+665109	  SR	00005	     	VA 5	Osborne Tpke	043	Henrico County	043	Henrico County	1.99	ECL Richmond	New Market Rd	8500	G	97%	0%	0%	1%	1%	0%	C	0.1184	F	0.8473	9200	G	2008
+665108	  SR	00005	     	VA 5	New Market Rd	043	Henrico County	043	Henrico County	2.13	Osborne Tpke	Laburnum Ave	7000	G	96%	0%	1%	2%	1%	0%	C	0.1061	F	0.0000	7600	G	2008
+665195	  SR	00005	     	VA 5	New Market Rd	043	Henrico County	043	Henrico County	3.27	Laburnum Ave	I-295	7700	G	96%	0%	1%	2%	1%	0%	F	0.0970	F	0.6513	8400	G	2008
+665772	  SR	00005	     	VA 5	New Market Rd	043	Henrico County	043	Henrico County	4.70	I-295	Willis Church Rd	2500	G	93%	1%	1%	2%	4%	0%	C	0.0931	F	0.6496	2700	G	2008
+665773	  SR	00005	     	VA 5, VA 156	New Market Rd	043	Henrico County	043	Henrico County	1.72	Willis Church Rd	Charles City County Line	2300	G	93%	1%	1%	2%	4%	0%	F	0.0878	F	0.7389	2500	G	2008
+665774	  SR	00006	     	VA 6	Patterson Ave	043	Henrico County	043	Henrico County	1.04	Goochland County Line	Pump Rd	24000	G	99%	0%	0%	0%	0%	0%	F	0.0969	F	0.5493	26000	G	2008
+665775	  SR	00006	     	VA 6	Patterson Ave	043	Henrico County	043	Henrico County	0.69	Pump Rd	Gaskins Rd	28000	G	99%	0%	0%	0%	0%	0%	F	0.1045	F	0.6449	31000	G	2008
+665110	  SR	00006	     	VA 6	Patterson Ave	043	Henrico County	043	Henrico County	1.04	Gaskins Rd	Gayton Rd	25000	G	99%	0%	0%	0%	0%	0%	F	0.0993	F	0.6052	27000	G	2008
+665776	  SR	00006	     	VA 6	Patterson Ave	043	Henrico County	043	Henrico County	0.52	Gayton Rd	Parham Rd	24000	G	99%	0%	0%	0%	0%	0%	F	0.0948	F	0.5189	27000	G	2008
+665112	  SR	00006	     	VA 6	Patterson Ave	043	Henrico County	043	Henrico County	0.97	Parham Rd	Forest Ave	22000	G	99%	0%	0%	0%	0%	0%	F	0.0976	F	0.6305	24000	G	2008
+040270	  SR	00006	     	VA 6	Patterson Ave	043	Henrico County	043	Henrico County	0.94	Forest Ave	WCL Richmond	18000	F	99%	0%	0%	0%	0%	0%	C	0.1143	B	0.0000	18000	F	2008
+665777	  US	00033	     	US 33	Staples Mill Rd	043	Henrico County	043	Henrico County	0.38	Hanover County Line	I-295	15000	G	96%	0%	1%	1%	1%	0%	F	0.1039	F	0.7295	16000	G	2008
+665778	  US	00033	     	US 33	Staples Mill Rd	043	Henrico County	043	Henrico County	0.61	I-295	SR 157; Springfield Rd; Mountain Rd	23000	G	98%	0%	1%	0%	0%	0%	F	0.1049	F	0.5143	25000	G	2008
+665119	  US	00033	     	US 33	Staples Mill Rd	043	Henrico County	043	Henrico County	2.18	SR 157; Springfield Rd; Mountain Rd	43-7526 Hungary Rd	19000	G	98%	0%	1%	0%	0%	0%	F	0.0982	F	0.5835	22000	G	2008
+665118	  US	00033	     	US 33	Staples Mill Rd	043	Henrico County	043	Henrico County	1.05	43-7526 Hungary Rd	Parham Rd	21000	G	98%	0%	1%	0%	0%	0%	F	0.0995	F	0.6633	24000	G	2008
+140116	  US	00033	     	US 33	Staples Mill Rd	043	Henrico County	043	Henrico County	1.10	Parham Rd	Bremner Blvd	33000	A	98%	0%	1%	0%	0%	0%	C	0.1085	A	0.0000	38000	A	2008
+665780	  US	00033	     	US 33	Staples Mill Rd	043	Henrico County	043	Henrico County	0.37	Bremner Blvd	SR 356 Hilliard Rd; 43-7536 Glenside Dr	37000	G	98%	0%	1%	0%	0%	0%	F	0.0899	F	0.5339	43000	G	2008
+665117	  US	00033	     	US 33	Staples Mill Rd	043	Henrico County	043	Henrico County	1.01	SR 356 Hilliard Rd; 43-7536 Glenside Dr	I-64	35000	G	98%	0%	1%	0%	0%	0%	F	0.0893	F	0.5582	40000	G	2008
+665116	  US	00033	     	US 33	Staples Mill Rd	043	Henrico County	043	Henrico County	1.32	I-64	WCL Richmond	19000	G	98%	0%	1%	0%	0%	0%	F	0.1072	F	0.5152	21000	G	2008
+665115	  SR	00033	     	VA 33	Nine Mile Rd	043	Henrico County	043	Henrico County	1.49	ECL Richmond	Laburnum Ave	25000	G	97%	1%	1%	1%	1%	0%	C	0.0863	F	0.6016	27000	G	2008
+665114	  SR	00033	     	VA 33	Nine Mile Rd	043	Henrico County	043	Henrico County	2.10	Laburnum Ave	Beauregard Ave	18000	G	97%	1%	1%	1%	1%	0%	F	0.0890	F	0.5419	20000	G	2008
+665113	  SR	00033	     	VA 33	Nine Mile Rd	043	Henrico County	043	Henrico County	1.27	Beauregard Ave	SR 156 Airport Dr	13000	G	97%	1%	1%	1%	0%	0%	C	0.0873	F	0.5203	14000	G	2008
+665781	  SR	00033	     	VA 33	Nine Mile Rd	043	Henrico County	043	Henrico County	1.43	SR 156 Airport Dr	SR 33 Y	8600	G	97%	1%	1%	1%	0%	0%	F	0.0989	F	0.5339	9400	G	2008
+665782	  SR	00033	     	VA 33	Nine Mile Rd	043	Henrico County	043	Henrico County	0.15	SR 33 Y	US 60 Williamsburg Rd	2200	G	97%	1%	1%	1%	0%	0%	F	0.1085	F	1.0000	2400	G	2008
+665123	  SR	00033	     	US 60, VA 33, VA 156	Williamsburg Rd	043	Henrico County	043	Henrico County	1.38	WILLIAMSBURG RD US 60	I-295	14000	G	93%	1%	1%	1%	3%	0%	F	0.0937	F	0.5270	15000	G	2008	
+665783	  SR	00033	     	US 60, VA 33, VA 156	Williamsburg Rd	043	Henrico County	043	Henrico County	2.24	I-295	ELKO RD SR 156	14000	A	93%	1%	1%	2%	3%	0%	C	0.1169	A	0.6380	14000	A	2008	
+665784	  SR	00033	     	US 60, VA 33	Williamsburg Rd	043	Henrico County	043	Henrico County	1.85	ELKO RD SR 156	New Kent County Line	10000	G	93%	1%	1%	2%	3%	0%	F	0.0811	F	0.6732	11000	G	2008	
+040478	Y SR	00033	     	Wye VA 33	 	043	Henrico County	043	Henrico County	0.13	SR 33	US 60 Williamsburg Rd	2300	G	97%	0%	1%	1%	1%	0%	C	0.1047	F	1.0000	2500	G	2008
+665120	  US	00060	     	US 60	Williamsburg Rd	043	Henrico County	043	Henrico County	0.57	ECL Richmond	Charles City Rd	16000	G	97%	0%	1%	1%	1%	0%	F	0.0851	F	0.5014	17000	G	2008
+665121	  US	00060	     	US 60	Williamsburg Rd	043	Henrico County	043	Henrico County	1.54	Charles City Rd	Laburnum Ave	14000	G	97%	0%	1%	1%	1%	0%	C	0.0816	F	0.5348	15000	G	2008
+665122	  US	00060	     	US 60	Williamsburg Rd	043	Henrico County	043	Henrico County	1.23	Laburnum Ave	SR 156 Airport Dr	18000	G	93%	1%	1%	1%	3%	0%	C	0.0779	F	0.5297	20000	G	2008
+040480	  US	00060	     	US 60, VA 156	Williamsburg Rd	043	Henrico County	043	Henrico County	1.50	SR 156 Airport Dr	SR 33 Nine Mile Rd	13000	G	93%	1%	1%	1%	3%	0%	F	0.0931	F	0.5711	14000	G	2008
+665123	  US	00060	     	US 60, VA 33, VA 156	Williamsburg Rd	043	Henrico County	043	Henrico County	1.38	SR 33 Nine Mile Rd	I-295	14000	G	93%	1%	1%	1%	3%	0%	F	0.0937	F	0.5270	15000	G	2008
+665783	  US	00060	     	US 60, VA 33, VA 156	Williamsburg Rd	043	Henrico County	043	Henrico County	2.24	I-295	SR 156; Elko Rd	14000	A	93%	1%	1%	2%	3%	0%	C	0.1169	A	0.6380	14000	A	2008
+665784	  US	00060	     	US 60, VA 33	Williamsburg Rd	043	Henrico County	043	Henrico County	1.85	SR 156; Elko Rd	New Kent County Line	10000	G	93%	1%	1%	2%	3%	0%	F	0.0811	F	0.6732	11000	G	2008
+940420	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	2.28	Goochland County Line	I-295	30000	F	87%	1%	1%	1%	10%	0%	F	0.1165	F	1.0000	28000	F	2008		61000	F	87%	1%	1%	1%	10%	0%	F	0.1077	F	0.5963	57000	F
+040106	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	0.67	I-295	US 250 Near Short Pump	26000	G	97%	0%	1%	1%	2%	0%	F	0.1251	F	1.0000	29000	G	2008		55000	G	97%	0%	0%	1%	2%	0%	F	0.1047	F	0.5945	61000	G
+040048	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	1.43	US 250 Near Short Pump	Gaskins Rd	36000	G	97%	0%	1%	1%	2%	0%	F	0.1121	F	1.0000	40000	G	2008		69000	G	97%	0%	0%	1%	2%	0%	F				77000	G
+040777	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	1.39	Gaskins Rd	Parham Rd	46000	A	97%	0%	1%	1%	2%	0%	C	0.1284	A	1.0000	51000	A	2008		92000	A	97%	0%	0%	1%	2%	0%	C	0.1123	A	0.0000	102000	A
+040766	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	2.03	Parham Rd	US 250; Glenside Dr	47000	G	97%	0%	1%	1%	2%	0%	F	0.1093	F	1.0000	52000	G	2008		96000	G	97%	0%	0%	1%	2%	0%	F	0.0949	F	0.6201	107000	G
+040108	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	2.03	US 250; Glenside Dr	US 33 Staples Mill Rd	54000	F	97%	0%	1%	1%	2%	0%	F	0.0910	F	1.0000	54000	F	2008		111000	F	97%	0%	0%	1%	2%	0%	F	0.0932	F	0.5249	112000	F
+040481	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	1.19	US 33 Staples Mill Rd	WCL Richmond	60000	G	97%	0%	1%	1%	2%	0%	F	0.0852	F	1.0000	67000	G	2008		130000	G	97%	0%	0%	1%	2%	0%	F	0.0874	F	0.5857	146000	G
+040485	  IS	00064	E    	I-64 EB	 	127	City of Richmond	043	Henrico County	0.74	Henrico County Line	I-95; I-195	60000	G	97%	0%	1%	1%	2%	0%	F	0.0852	F	1.0000	67000	G	2008		130000	G	97%	0%	0%	1%	2%	0%	F				146000	G
+140012	  IS	00064	E    	I-95 SB, I-64 EB	 	127	City of Richmond	043	Henrico County	0.48	I-95; I-195	SR 161 Boulevard	77000	F	91%	1%	1%	1%	6%	0%	F	0.0778	F	1.0000	75000	F	2008		151000	F	92%	1%	1%	1%	6%	0%	F	0.0752	F	0.5839	149000	F
+140013	  IS	00064	E    	I-95 SB, I-64 EB	 	127	City of Richmond	043	Henrico County	2.19	SR 161 Boulevard	Leigh St, Gilmer St	73000	A	91%	1%	1%	1%	6%	0%	C	0.0901	A	1.0000	77000	A	2008		143000	A	92%	1%	1%	1%	6%	0%	C	0.0873	A	0.0000	152000	A
+140242	  IS	00064	E    	I-95 SB, I-64 EB	 	127	City of Richmond	043	Henrico County	0.28	Leigh St, Gilmer St	US 1, US 301 Belvidere St	60000	F	91%	1%	1%	1%	6%	0%	F	0.0901	N	1.0000	60000	F	2008		125000	F	92%	1%	1%	1%	6%	0%	F				125000	F
+140243	  IS	00064	E    	I-95 SB, I-64 EB	 	127	City of Richmond	043	Henrico County	0.25	US 1, US 301 Belvidere St	I-95 East Interchange	46000	F	91%	1%	1%	1%	6%	0%	F	0.0901	N	1.0000	46000	F	2008		115000	F	92%	1%	1%	1%	6%	0%	F				115000	F
+040282	  IS	00064	E    	I-64 EB	 	127	City of Richmond	043	Henrico County	1.67	I-95 East Interchange	US 360 Mechanicsville Tpke	48000	G	94%	1%	1%	1%	4%	0%	F	0.0985	F	1.0000	50000	G	2008		96000	G	95%	1%	1%	1%	3%	0%	F	0.0798	F	0.6143	100000	G
+040482	  IS	00064	E    	I-64 EB	 	127	City of Richmond	043	Henrico County	0.25	US 360 Mechanicsville Tpke	MECL Richmond	38000	G	94%	1%	1%	1%	4%	0%	F	0.0969	F	1.0000	39000	G	2008		74000	G	95%	1%	1%	1%	3%	0%	F	0.0778	F	0.5902	77000	G
+040486	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	0.77	MECL Richmond	MWCL Richmond	38000	G	94%	1%	1%	1%	4%	0%	F	0.0969	F	1.0000	39000	G	2008		74000	G	95%	1%	1%	1%	3%	0%	F				77000	G
+040487	  IS	00064	E    	I-64 EB	 	127	City of Richmond	043	Henrico County	0.24	MWCL Richmond	ECL Richmond	38000	G	94%	1%	1%	1%	4%	0%	F	0.0969	F	1.0000	39000	G	2008		74000	G	95%	1%	1%	1%	3%	0%	F				77000	G
+040490	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	0.10	ECL Richmond	SR 33 Nine Mile Rd	38000	G	94%	1%	1%	1%	4%	0%	F	0.0969	F	1.0000	39000	G	2008		74000	G	95%	1%	1%	1%	3%	0%	F				77000	G
+040678	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	2.14	SR 33 Nine Mile Rd	Laburnum Ave	29000	G	94%	1%	1%	1%	4%	0%	F	0.1005	F	1.0000	31000	G	2008		57000	G	95%	1%	1%	1%	3%	0%	F	0.0819	F	0.6291	59000	G
+040483	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	1.88	Laburnum Ave	SR 156 Airport Dr	24000	A	94%	1%	1%	1%	4%	0%	C	0.1155	A	1.0000	25000	A	2008		47000	A	95%	1%	1%	1%	3%	0%	C	0.0924	A	0.0000	50000	A
+040284	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	4.07	SR 156 Airport Dr	I-295	16000	G	90%	1%	1%	1%	7%	0%	C	0.1073	F	1.0000	17000	G	2008		32000	G	90%	1%	1%	1%	7%	0%	C	0.0876	F	0.6850	34000	G
+140317	  IS	00064	E    	I-64 EB	 	043	Henrico County	043	Henrico County	2.84	I-295	New Kent County Line	33000	G	90%	1%	1%	1%	8%	0%	F	0.0862	F	1.0000	29000	G	2008		67000	G	90%	1%	1%	1%	8%	0%	F	0.0800	F	0.5111	60000	G
+780993	  IS	00064	E177B	I-64 EB Exit 177B	Ramp From I-64 E to I-295 S (E)	043	Henrico County	043	Henrico County	0.29	I-64 E	I-295 S	14000	G	88%	1%	2%	2%	8%	0%	C				14000	G	2008
+781003	  IS	00064	E185B	I-64 EB Exit 185B	Ramp	043	Henrico County	043	Henrico County	0.14	I-64 East	SR 33 Staples Mill Rd	1500	F							X				1500	F	2008
+140077	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	2.57	Goochland County Line	I-295	31000	F	87%	1%	1%	1%	10%	0%	F	0.1176	F	1.0000	29000	F	2008		61000	F	87%	1%	1%	1%	10%	0%	F	0.1077	F	0.5963	57000	F
+140078	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	0.79	I-295	US 250 Near Short Pump	29000	G	97%	0%	0%	1%	2%	0%	F	0.1187	F	1.0000	32000	G	2008		55000	G	97%	0%	0%	1%	2%	0%	F	0.1047	F	0.5945	61000	G
+140079	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	1.67	US 250 Near Short Pump	Gaskins Rd	34000	G	97%	0%	0%	1%	2%	0%	F	0.1141	F	1.0000	38000	G	2008		69000	G	97%	0%	0%	1%	2%	0%	F				77000	G
+140080	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	1.33	Gaskins Rd	Parham Rd	45000	A	97%	0%	0%	1%	2%	0%	C	0.1317	A	1.0000	51000	A	2008		92000	A	97%	0%	0%	1%	2%	0%	C	0.1123	A	0.0000	102000	A
+140081	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	2.35	Parham Rd	US 250; Glenside Dr	49000	G	97%	0%	0%	1%	2%	0%	F	0.1129	F	1.0000	55000	G	2008		96000	G	97%	0%	0%	1%	2%	0%	F	0.0949	F	0.6201	107000	G
+140082	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	1.53	US 250; Glenside Dr	US 33 Staples Mill Rd	57000	F	97%	0%	0%	1%	2%	0%	F	0.1001	F	1.0000	58000	F	2008		111000	F	97%	0%	0%	1%	2%	0%	F	0.0932	F	0.5249	112000	F
+840083	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	0.71	US 33 Staples Mill Rd	WCL Richmond	70000	G	97%	0%	0%	1%	2%	0%	F	0.0941	F	1.0000	79000	G	2008		130000	G	97%	0%	0%	1%	2%	0%	F	0.0874	F	0.5857	146000	G
+140083	  IS	00064	W    	I-64 WB	 	127	City of Richmond	043	Henrico County	0.92	Henrico County Line	I-95; I-195	70000	G	97%	0%	0%	1%	2%	0%	F	0.0941	F	1.0000	79000	G	2008		130000	G	97%	0%	0%	1%	2%	0%	F				146000	G
+040304	  IS	00064	W    	I-95 NB, I-64 WB	 	127	City of Richmond	043	Henrico County	0.78	I-95; I-195	SR 161 Boulevard	74000	F	92%	1%	1%	1%	5%	0%	F	0.0793	F	1.0000	73000	F	2008		151000	F	92%	1%	1%	1%	6%	0%	F	0.0752	F	0.5839	149000	F
+040489	  IS	00064	W    	I-95 NB, I-64 WB	 	127	City of Richmond	043	Henrico County	1.97	SR 161 Boulevard	US 1, US 301 Belvidere St	70000	A	92%	1%	1%	1%	5%	0%	C	0.0878	A	1.0000	75000	A	2008		143000	A	92%	1%	1%	1%	6%	0%	C	0.0873	A	0.0000	152000	A
+040492	  IS	00064	W    	I-95 NB, I-64 WB	 	127	City of Richmond	043	Henrico County	0.24	US 1, US 301 Belvidere St	Chamberlayne Ave	65000	F	92%	1%	1%	1%	5%	0%	F	0.0878	N	1.0000	65000	F	2008		125000	F	92%	1%	1%	1%	6%	0%	F				125000	F
+040493	  IS	00064	W    	I-95 NB, I-64 WB	 	127	City of Richmond	043	Henrico County	0.30	Chamberlayne Ave	I-95 East Interchange	69000	F	92%	1%	1%	1%	5%	0%	F	0.0878	N	1.0000	69000	F	2008		115000	F	92%	1%	1%	1%	6%	0%	F				115000	F
+140085	  IS	00064	W    	I-64 WB	 	127	City of Richmond	043	Henrico County	1.70	I-95 East Interchange	MECL Richmond	48000	G	95%	1%	1%	1%	3%	0%	F	0.0904	F	1.0000	50000	G	2008		96000	G	95%	1%	1%	1%	3%	0%	F	0.0798	F	0.6143	100000	G
+140306	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	0.06	MECL Richmond	US 360 Mechanicsville Tpke	48000	G	95%	1%	1%	1%	3%	0%	F	0.0904	F	1.0000	50000	G	2008		96000	G	95%	1%	1%	1%	3%	0%	F	0.0000	?	0.0000	100000	G
+140307	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	0.71	US 360 Mechanicsville Tpke	MWCL Richmond	36000	G	95%	1%	1%	1%	3%	0%	F	0.1033	F	1.0000	37000	G	2008		74000	G	95%	1%	1%	1%	3%	0%	F	0.0778	F	0.5902	77000	G
+140308	  IS	00064	W    	I-64 WB	 	127	City of Richmond	043	Henrico County	0.24	MWCL Richmond	ECL Richmond	36000	G	95%	1%	1%	1%	3%	0%	F	0.1033	F	1.0000	37000	G	2008		74000	G	95%	1%	1%	1%	3%	0%	F				77000	G
+140086	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	0.43	ECL Richmond	SR 33 Nine Mile Road	36000	G	95%	1%	1%	1%	3%	0%	F	0.1033	F	1.0000	37000	G	2008		74000	G	95%	1%	1%	1%	3%	0%	F				77000	G
+140087	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	2.18	SR 33 Nine Mile Road	Laburnum Ave	27000	G	95%	1%	1%	1%	3%	0%	F	0.0993	F	1.0000	29000	G	2008		57000	G	95%	1%	1%	1%	3%	0%	F	0.0819	F	0.6291	59000	G
+140088	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	1.99	Laburnum Ave	SR 156 Airport Dr	24000	A	95%	1%	1%	1%	3%	0%	C	0.1225	A	1.0000	25000	A	2008		47000	A	95%	1%	1%	1%	3%	0%	C	0.0924	A	0.0000	50000	A
+140089	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	3.62	SR 156 Airport Dr	I-295	16000	G	91%	1%	1%	1%	6%	0%	C	0.1211	F	1.0000	17000	G	2008		32000	G	90%	1%	1%	1%	7%	0%	C	0.0876	F	0.6850	34000	G
+140220	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	1.06	I-295	Urban Boundary	34000	N	90%	1%	1%	1%	7%	0%	N	0.0932	N	1.0000	30000	N	2008		67000	N	90%	1%	1%	1%	8%	0%	N				60000	N
+140090	  IS	00064	W    	I-64 WB	 	043	Henrico County	043	Henrico County	1.65	Urban Boundary	New Kent County Line	34000	G	90%	1%	1%	1%	7%	0%	F	0.0932	F	1.0000	30000	G	2008		67000	G	90%	1%	1%	1%	8%	0%	F	0.0800	F	0.5111	60000	G
+781113	  IS	00064	W177B	I-64 WB Exit 177B	Ramp From I-64 W to I-295 S (E)	043	Henrico County	043	Henrico County	0.25	I-64 W	I-295 E	14000	G	98%	0%	1%	0%	1%	0%	C				14000	G	2008
+665785	  SR	00073	     	VA 73	Parham Rd	043	Henrico County	043	Henrico County	0.78	US 1 Brook Rd, 43-7518	I-95, 43-7518	37000	G	98%	0%	1%	0%	0%	0%	F	0.0900	F	0.5543	40000	G	2008
+040755	  SR	00076	     	VA 76	Powhite Pkwy	127	City of Richmond	043	Henrico County	0.66	Powhite Pkwy Bridge	SR 146	93000	G	98%	0%	0%	0%	1%	0%	F				92000	G	2008
+040753	  SR	00076	     	VA 76	Powhite Pkwy	127	City of Richmond	043	Henrico County	0.94	SR 146	I-195	71000	G	98%	0%	0%	0%	1%	0%	F	0.1145	F	0.7369	80000	G	2008
+040302	  IS	00095	N    	I-95 NB	 	127	City of Richmond	043	Henrico County	0.40	James River Bridge	SR 195 Downtown Expressway	50000	G	89%	1%	1%	1%	8%	0%	F				59000	G	2008		94000	G	89%	1%	1%	1%	8%	0%	F				113000	G
+040488	  IS	00095	N    	I-95 NB	 	127	City of Richmond	043	Henrico County	0.62	SR 195 Downtown Expressway	US 250 Broad St	55000	G	89%	1%	1%	1%	8%	0%	F	0.0887	F	1.0000	57000	G	2008		107000	G	89%	1%	1%	1%	8%	0%	F	0.0815	F	0.5547	112000	G
+040491	  IS	00095	N    	I-95 NB	 	127	City of Richmond	043	Henrico County	0.92	US 250 Broad St	I-64 South Interchange	55000	N	89%	1%	1%	1%	8%	0%	N	0.0887	N	1.0000	57000	N	2008		107000	N	89%	1%	1%	1%	8%	0%	N				112000	N
+040493	  IS	00095	N    	I-95 NB, I-64 WB	 	127	City of Richmond	043	Henrico County	0.30	I-64 South Interchange	Chamberlayne Ave	69000	F	92%	1%	1%	1%	5%	0%	F	0.0878	N	1.0000	69000	F	2008		115000	F	92%	1%	1%	1%	6%	0%	F				115000	F
+040492	  IS	00095	N    	I-95 NB, I-64 WB	 	127	City of Richmond	043	Henrico County	0.24	Chamberlayne Ave	US 1, US 301 Belvidere St	65000	F	92%	1%	1%	1%	5%	0%	F	0.0878	N	1.0000	65000	F	2008		125000	F	92%	1%	1%	1%	6%	0%	F				125000	F
+040489	  IS	00095	N    	I-95 NB, I-64 WB	 	127	City of Richmond	043	Henrico County	1.97	US 1, US 301 Belvidere St	SR 161 Boulevard	70000	A	92%	1%	1%	1%	5%	0%	C	0.0878	A	1.0000	75000	A	2008		143000	A	92%	1%	1%	1%	6%	0%	C	0.0873	A	0.0000	152000	A
+040304	  IS	00095	N    	I-95 NB, I-64 WB	 	127	City of Richmond	043	Henrico County	0.78	SR 161 Boulevard	I-64 North Interchange; I-195	74000	F	92%	1%	1%	1%	5%	0%	F	0.0793	F	1.0000	73000	F	2008		151000	F	92%	1%	1%	1%	6%	0%	F	0.0752	F	0.5839	149000	F
+040305	  IS	00095	N    	I-95 NB	 	127	City of Richmond	043	Henrico County	1.07	I-64 North Interchange; I-195	NCL Richmond, SR 161	44000	G	90%	1%	1%	1%	7%	1%	F	0.0735	F	1.0000	46000	G	2008		99000	G	90%	1%	1%	1%	7%	1%	F	0.0735	F	1.0000	101000	G
+040316	  IS	00095	N    	I-95 NB	 	043	Henrico County	043	Henrico County	0.91	NCL Richmond, SR 161	US 1 Brook Rd	44000	N	90%	1%	1%	1%	7%	1%	N	0.0735	N	1.0000	46000	N	2008		99000	N	90%	1%	1%	1%	7%	1%	N				101000	N
+040436	  IS	00095	N    	I-95 NB	 	043	Henrico County	043	Henrico County	0.30	US 1 Brook Rd	US 301 Chamberlayne Ave	43000	G	90%	1%	1%	1%	7%	1%	F	0.0804	F	1.0000	44000	G	2008		92000	G	90%	1%	1%	1%	7%	1%	F	0.0793	F	0.5819	94000	G
+040285	  IS	00095	N    	I-95 NB	 	043	Henrico County	043	Henrico County	1.82	US 301 Chamberlayne Ave	SR 73 Parham Rd	48000	A	90%	1%	1%	1%	7%	1%	C	0.0965	A	1.0000	49000	A	2008		96000	A	90%	1%	1%	1%	7%	1%	C	0.0902	A	0.0000	98000	A
+040287	  IS	00095	N    	I-95 NB	 	043	Henrico County	043	Henrico County	1.47	SR 73 Parham Rd	I-295	47000	F	90%	1%	1%	1%	7%	1%	F	0.0830	F	1.0000	48000	F	2008		92000	F	90%	1%	1%	1%	7%	1%	F	0.0786	F	0.5760	94000	F
+140316	  IS	00095	N    	I-95 NB	 	043	Henrico County	043	Henrico County	1.94	I-295	Hanover County Line	63000	F	85%	1%	1%	1%	11%	1%	F	0.0719	F	1.0000	57000	F	2008		128000	F	85%	1%	1%	1%	11%	1%	F				121000	F
+781246	  IS	00095	N075A	I-95 NB Exit 075A	Ramp	127	City of Richmond	043	Henrico County	0.14	I-95 North	Ramp to 7th Street	0	?							X
+140301	  IS	00095	S    	I-95 SB	 	127	City of Richmond	043	Henrico County	0.75	Maury St	SR 195 Downtown Expy	45000	G	89%	1%	1%	1%	8%	0%	F				54000	G	2008		94000	G	89%	1%	1%	1%	8%	0%	F				113000	G
+140014	  IS	00095	S    	I-95 SB	 	127	City of Richmond	043	Henrico County	0.45	SR 195 Downtown Expy	US 250 Broad St	52000	G	89%	1%	1%	1%	8%	0%	F	0.0780	F	1.0000	54000	G	2008		107000	G	89%	1%	1%	1%	8%	0%	F	0.0815	F	0.5547	112000	G
+140236	  IS	00095	S    	I-95 SB	 	127	City of Richmond	043	Henrico County	1.02	US 250 Broad St	I-64 South Interchange	52000	N	89%	1%	1%	1%	8%	0%	N	0.0780	N	1.0000	54000	N	2008		107000	N	89%	1%	1%	1%	8%	0%	N				112000	N
+140243	  IS	00095	S    	I-95 SB, I-64 EB	 	127	City of Richmond	043	Henrico County	0.25	I-64 South Interchange	US 1, US 301 Belvidere St	46000	F	91%	1%	1%	1%	6%	0%	F	0.0901	N	1.0000	46000	F	2008		115000	F	92%	1%	1%	1%	6%	0%	F				115000	F
+140242	  IS	00095	S    	I-95 SB, I-64 EB	 	127	City of Richmond	043	Henrico County	0.28	US 1, US 301 Belvidere St	Leigh St; Gilmer St	60000	F	91%	1%	1%	1%	6%	0%	F	0.0901	N	1.0000	60000	F	2008		125000	F	92%	1%	1%	1%	6%	0%	F				125000	F
+140013	  IS	00095	S    	I-95 SB, I-64 EB	 	127	City of Richmond	043	Henrico County	2.19	Leigh St; Gilmer St	SR 161 Boulevard	73000	A	91%	1%	1%	1%	6%	0%	C	0.0901	A	1.0000	77000	A	2008		143000	A	92%	1%	1%	1%	6%	0%	C	0.0873	A	0.0000	152000	A
+140012	  IS	00095	S    	I-95 SB, I-64 EB	 	127	City of Richmond	043	Henrico County	0.48	SR 161 Boulevard	I-64 North Interchange, I-195	77000	F	91%	1%	1%	1%	6%	0%	F	0.0778	F	1.0000	75000	F	2008		151000	F	92%	1%	1%	1%	6%	0%	F	0.0752	F	0.5839	149000	F
+140237	  IS	00095	S    	I-95 SB	 	127	City of Richmond	043	Henrico County	0.82	I-64 North Interchange, I-195	SR 161	54000	N	90%	1%	1%	1%	7%	1%	N				55000	N	2008		99000	N	90%	1%	1%	1%	7%	1%	N	0.0000	?	0.0000	101000	N
+140011	  IS	00095	S    	I-95 SB	 	127	City of Richmond	043	Henrico County	0.19	SR 161	NCL Richmond	54000	G	90%	1%	1%	1%	7%	1%	F				55000	G	2008		99000	G	90%	1%	1%	1%	7%	1%	F	0.0735	F	1.0000	101000	G
+140180	  IS	00095	S    	I-95 SB	 	043	Henrico County	043	Henrico County	0.76	NCL Richmond	US 1 Brook Rd	54000	N	90%	1%	1%	1%	7%	1%	N				55000	N	2008		99000	N	90%	1%	1%	1%	7%	1%	N				101000	N
+140010	  IS	00095	S    	I-95 SB	 	043	Henrico County	043	Henrico County	1.06	US 1 Brook Rd	US 301 Chamberlayne Ave	50000	G	90%	1%	1%	1%	7%	1%	F	0.0872	F	1.0000	51000	G	2008		92000	G	90%	1%	1%	1%	7%	1%	F	0.0793	F	0.5819	94000	G
+140009	  IS	00095	S    	I-95 SB	 	043	Henrico County	043	Henrico County	1.60	US 301 Chamberlayne Ave	SR 73 Parham Rd	48000	A	90%	1%	1%	1%	7%	1%	C	0.0995	A	1.0000	49000	A	2008		96000	A	90%	1%	1%	1%	7%	1%	C	0.0902	A	0.0000	98000	A
+140008	  IS	00095	S    	I-95 SB	 	043	Henrico County	043	Henrico County	2.04	SR 73 Parham Rd	I-295	45000	F	90%	1%	1%	1%	7%	1%	F	0.0980	F	1.0000	46000	F	2008		92000	F	90%	1%	1%	1%	7%	1%	F	0.0786	F	0.5760	94000	F
+140300	  IS	00095	S    	I-95 SB	 	043	Henrico County	043	Henrico County	0.98	I-295	Hanover County Line	65000	F	85%	1%	1%	1%	12%	1%	F	0.0766	F	1.0000	63000	F	2008		128000	F	85%	1%	1%	1%	11%	1%	F				121000	F
+789392	  IS	00095	S084A	I-95 SB Exit 084A	Ramp	043	Henrico County	043	Henrico County	1.42	I-95 South	I-295 East	23000	F							X				23000	F	2008
+040086	  SR	00146	     	VA 146	 	127	City of Richmond	043	Henrico County	0.86	SR 76 Powhite Pkwy	SR 195 Downtown Expwy	22000	G	99%	0%	0%	0%	0%	0%	C	0.1107	F	0.7781	26000	G	2008
+665133	  SR	00147	     	VA 147	Huguenot Rd	043	Henrico County	043	Henrico County	0.45	Huguenot Memorial Bridge	43-7506 River Rd	26000	G	99%	0%	0%	0%	0%	0%	C	0.1001	F	0.6225	28000	G	2008
+665136	  SR	00147	     	VA 147	River Rd	043	Henrico County	043	Henrico County	0.02	43-7506 River Rd	WCL Richmond	26000	N	99%	0%	0%	0%	0%	0%	N	0.0852	N	0.5678	28000	N	2008
+665786	  SR	00150	     	VA 150	Chippenham Pkwy	043	Henrico County	043	Henrico County	1.25	43-7518 Parham Rd	NCL Richmond	36000	G	98%	0%	1%	0%	1%	0%	F	0.1047	F	0.5217	39000	G	2008
+665773	  SR	00156	     	VA 5, VA 156	New Market Rd	043	Henrico County	043	Henrico County	1.72	Charles City County Line	W SR 5	2300	G	93%	1%	1%	2%	4%	0%	F	0.0878	F	0.7389	2500	G	2008	
+665788	  SR	00156	     	VA 156	Willis Church Rd	043	Henrico County	043	Henrico County	3.70	W SR 5	Charles City Rd	220	G	97%	0%	1%	0%	1%	0%	F	0.1082	F	0.6190	240	G	2008
+665789	  SR	00156	     	VA 156	Charles City Rd	043	Henrico County	043	Henrico County	1.19	Willis Church Rd	Elko Rd	2000	G	97%	0%	1%	0%	1%	0%	F	0.0901	F	0.6450	2200	G	2008
+665790	  SR	00156	     	VA 156	Elko Rd	043	Henrico County	043	Henrico County	4.40	Charles City Rd	Elko Tract Rd	1800	G	97%	0%	1%	0%	1%	0%	C	0.0988	F	0.6000	1900	G	2008
+665791	  SR	00156	     	VA 156	Elko Rd	043	Henrico County	043	Henrico County	0.54	Elko Tract Rd	E US 60	4400	G	97%	0%	1%	0%	1%	0%	F	0.1002	F	0.7566	4800	G	2008
+665783	  SR	00156	     	US 60, VA 33, VA 156	Williamsburg Rd	043	Henrico County	043	Henrico County	2.24	E US 60	I-295	14000	A	93%	1%	1%	2%	3%	0%	C	0.1169	A	0.6380	14000	A	2008	
+665123	  SR	00156	     	US 60, VA 33, VA 156	Williamsburg Rd	043	Henrico County	043	Henrico County	1.38	I-295	NINE MILE RD SR 33	14000	G	93%	1%	1%	1%	3%	0%	F	0.0937	F	0.5270	15000	G	2008	
+040480	  SR	00156	     	US 60, VA 156	Williamsburg Rd	043	Henrico County	043	Henrico County	1.50	NINE MILE RD SR 33	US 60	13000	G	93%	1%	1%	1%	3%	0%	F	0.0931	F	0.5711	14000	G	2008	
+665197	  SR	00156	     	VA 156	Airport Dr	043	Henrico County	043	Henrico County	0.75	US 60 Williamsburg Rd	I-64	32000	F	94%	1%	1%	1%	3%	0%	C	0.0795	F	0.0000	35000	F	2008
+665198	  SR	00156	     	VA 156	Airport Dr	043	Henrico County	043	Henrico County	0.55	I-64	SR 33 Nine Mile Rd	22000	G	94%	1%	1%	1%	3%	0%	F	0.0852	F	0.5759	24000	G	2008
+665199	  SR	00156	     	VA 156	Airport Dr	043	Henrico County	043	Henrico County	1.86	SR 33 Nine Mile Rd	I-295	16000	G	94%	1%	1%	1%	3%	0%	C	0.0938	F	0.5637	18000	G	2008
+665792	  SR	00156	     	VA 156	Airport Dr	043	Henrico County	043	Henrico County	1.09	I-295	Hanover County Line	5600	G	96%	0%	1%	2%	1%	0%	F	0.1025	F	0.7543	6100	G	2008
+665194	  SR	00157	     	VA 157	Gaskins Rd	043	Henrico County	043	Henrico County	0.82	SR 6 Patterson Avenue	Quioccasin Rd	20000	G	99%	0%	1%	0%	0%	0%	F	0.1032	F	0.5707	21000	G	2008
+665192	  SR	00157	     	VA 157	Quioccasin Rd	043	Henrico County	043	Henrico County	0.63	Quioccasin Rd	Pemberton Rd	13000	G	99%	0%	1%	0%	0%	0%	F	0.0932	F	0.6299	14000	G	2008
+665191	  SR	00157	     	VA 157	Pemberton Rd	043	Henrico County	043	Henrico County	1.47	Quioccasin Rd	Three Chopt Rd	8900	G	99%	0%	1%	0%	0%	0%	F	0.1047	F	0.5302	9700	G	2008
+665189	  SR	00157	     	VA 157	Pemberton Rd	043	Henrico County	043	Henrico County	1.17	Three Chopt Rd	US 250 Broad St	11000	G	99%	0%	1%	0%	0%	0%	C	0.1123	F	0.5939	12000	G	2008
+665187	  SR	00157	     	VA 157	Springfield Rd	043	Henrico County	043	Henrico County	0.59	US 250 Broad St	Hungary Rd	18000	G	99%	0%	0%	0%	0%	0%	F	0.0976	F	0.5044	19000	G	2008
+665793	  SR	00157	     	VA 157	Springfield Rd	043	Henrico County	043	Henrico County	0.97	Hungary Rd	Nuckols Rd	18000	G	99%	0%	0%	0%	0%	0%	C	0.1035	F	0.5748	20000	G	2008
+665186	  SR	00157	     	VA 157	Springfield Rd	043	Henrico County	043	Henrico County	1.78	Nuckols Rd	Francistown Rd	6300	G	99%	0%	0%	0%	0%	0%	F	0.1202	F	0.5450	6800	G	2008
+665200	  SR	00157	     	VA 157	Springfield Rd	043	Henrico County	043	Henrico County	0.28	Francistown Rd	US 33 Staples Mill Rd	6300	N	99%	0%	0%	0%	0%	0%	N	0.1202	N	0.5450	6800	N	2008
+665794	  SR	00161	     	VA 161	Lakeside Ave	043	Henrico County	043	Henrico County	0.35	NCL Richmond	Dumbarton Rd	16000	G	99%	0%	1%	0%	0%	0%	F	0.0999	F	0.5738	17000	G	2008
+665134	  SR	00161	     	VA 161	Lakeside Ave	043	Henrico County	043	Henrico County	0.93	Dumbarton Rd	SR 356 Hilliard Rd	14000	G	99%	0%	1%	0%	0%	0%	C	0.0980	F	0.5912	15000	G	2008
+665135	  SR	00161	     	VA 161	Hilliard Rd	043	Henrico County	043	Henrico County	0.74	Lakeside Ave	US 1; Brook Rd	7800	G	98%	0%	1%	0%	1%	0%	C	0.1167	F	0.6569	8500	G	2008
+040499	  IS	00195	N    	I-195 NB	 	127	City of Richmond	043	Henrico County	0.48	SR 195 Downtown Expwy	SR 76 Powhite Pkwy	13000	G	98%	0%	0%	0%	1%	0%	F	0.1677	F	1.0000	15000	G	2008		24000	G	98%	0%	0%	0%	1%	0%	F	0.1260	F	0.7251	28000	G
+040500	  IS	00195	N    	I-195 NB	 	127	City of Richmond	043	Henrico County	0.79	SR 76 Powhite Pkwy	Thompson St	34000	A	98%	0%	0%	0%	1%	0%	C	0.1557	A	1.0000	39000	A	2008		70000	A	98%	0%	0%	0%	1%	0%	C	0.1353	A	0.0000	80000	A
+040290	  IS	00195	N    	I-195 NB	 	127	City of Richmond	043	Henrico County	0.41	Thompson St	US 33 US 250 Broad St	36000	G	98%	0%	0%	0%	1%	0%	F	0.1159	F	1.0000	41000	G	2008		72000	G	98%	0%	0%	0%	1%	0%	F	0.1023	F	0.5667	83000	G
+040292	  IS	00195	N    	I-195 NB	 	127	City of Richmond	043	Henrico County	0.45	US 33 US 250 Broad St	NCL Richmond	39000	G	98%	0%	0%	0%	1%	0%	F	0.1183	F	1.0000	46000	G	2008		86000	G	98%	0%	0%	0%	1%	0%	F				99000	G
+040501	  IS	00195	N    	I-195 NB	 	043	Henrico County	043	Henrico County	0.37	NCL Richmond	SCL Richmond	39000	G	98%	0%	0%	0%	1%	0%	F	0.1183	F	1.0000	46000	G	2008		86000	G	98%	0%	0%	0%	1%	0%	F				99000	G
+040503	  IS	00195	N    	I-195 NB	 	127	City of Richmond	043	Henrico County	0.12	SCL Richmond	SR 197 Laburnum Ave	39000	G	98%	0%	0%	0%	1%	0%	F	0.1183	F	1.0000	46000	G	2008		86000	G	98%	0%	0%	0%	1%	0%	F	0.1183	F	1.0000	99000	G
+040502	  IS	00195	N    	I-195 NB	 	127	City of Richmond	043	Henrico County	0.88	SR 197 Laburnum Ave	I-95	39000	N	98%	0%	0%	0%	1%	0%	N	0.1183	N	1.0000	46000	N	2008		86000	N	98%	0%	0%	0%	1%	0%	N				99000	N
+140049	  IS	00195	S    	I-195 SB	 	127	City of Richmond	043	Henrico County	0.61	SR 195 Downtown Expwy	SR 76 Powhite Pkwy	11000	G	98%	0%	0%	0%	1%	0%	F	0.1934	F	1.0000	13000	G	2008		24000	G	98%	0%	0%	0%	1%	0%	F	0.1260	F	0.7251	28000	G
+240500	  IS	00195	S    	I-195 SB	 	127	City of Richmond	043	Henrico County	0.22	SR 76 Powhite Pkwy	Grove Ave	36000	A	98%	0%	0%	0%	1%	0%	C	0.1465	A	1.0000	41000	A	2008		70000	A	98%	0%	0%	0%	1%	0%	C	0.1353	A	0.0000	80000	A
+140051	  IS	00195	S    	I-195 SB	 	127	City of Richmond	043	Henrico County	0.65	Grove Ave	US 33 US 250 Broad St	36000	G	98%	0%	0%	0%	1%	0%	F	0.1153	F	1.0000	41000	G	2008		72000	G	98%	0%	0%	0%	1%	0%	F	0.1023	F	0.5667	83000	G
+140055	  IS	00195	S    	I-195 SB	 	127	City of Richmond	043	Henrico County	0.65	US 33 US 250 Broad St	NCL Richmond	46000	G	98%	0%	0%	0%	1%	0%	F	0.1049	F	1.0000	53000	G	2008		86000	G	98%	0%	0%	0%	1%	0%	F				99000	G
+140053	  IS	00195	S    	I-195 SB	 	127	City of Richmond	043	Henrico County	0.37	NCL Richmond	SCL Richmond	46000	G	98%	0%	0%	0%	1%	0%	F	0.1049	F	1.0000	53000	G	2008		86000	G	98%	0%	0%	0%	1%	0%	F				99000	G
+140054	  IS	00195	S    	I-195 SB	 	127	City of Richmond	043	Henrico County	0.07	SCL Richmond	SR 197 Laburnum Ave	46000	G	98%	0%	0%	0%	1%	0%	F	0.1049	F	1.0000	53000	G	2008		86000	G	98%	0%	0%	0%	1%	0%	F				99000	G
+140052	  IS	00195	S    	I-195 SB	 	127	City of Richmond	043	Henrico County	0.93	SR 197 Laburnum Ave	I-95	46000	N	98%	0%	0%	0%	1%	0%	N	0.1049	N	1.0000	53000	N	2008		86000	N	98%	0%	0%	0%	1%	0%	N				99000	N
+040498	  SR	00195	N    	VA 195 NB	Downtown Expressway	127	City of Richmond	043	Henrico County	1.02	I-95 S	Ramp to Canal Street	14000	G	99%	0%	0%	0%	0%	0%	F				16000	G	2008		32000	G	99%	0%	0%	0%	0%	0%	F				28000	G
+140118	  SR	00195	N    	VA 195 NB	Downtown Expressway	127	City of Richmond	043	Henrico County	2.10	Ramp to Canal Street	SR 146	20000	A	99%	0%	0%	0%	0%	0%	C	0.2284	A	1.0000	25000	A	2008		40000	A	99%	0%	0%	0%	0%	0%	C	0.1567	A	0.0000	49000	A
+140217	  SR	00195	N    	VA 195 NB	Downtown Expressway	127	City of Richmond	043	Henrico County	0.27	SR 146	I-195 N	10000	G	99%	0%	0%	0%	0%	0%	F				12000	G	2008		21000	G	99%	0%	0%	0%	0%	0%	F				22000	G
+140218	  SR	00195	S    	VA 195 SB	Downtown Expressway	127	City of Richmond	043	Henrico County	1.00	I-95 N	Ramp to Byrd Street	18000	G	99%	0%	0%	0%	0%	0%	F				12000	G	2008		32000	G	99%	0%	0%	0%	0%	0%	F				28000	G
+340118	  SR	00195	S    	VA 195 SB	Downtown Expressway	127	City of Richmond	043	Henrico County	2.15	Ramp to Byrd Street	SR 146	20000	A	99%	0%	0%	0%	0%	0%	C	0.2488	A	1.0000	24000	A	2008		40000	A	99%	0%	0%	0%	0%	0%	C	0.1567	A	0.0000	49000	A
+140219	  SR	00195	S    	VA 195 SB	Downtown Expressway	127	City of Richmond	043	Henrico County	0.24	SR 146	I-195 S	11000	G	99%	0%	0%	0%	0%	0%	F				10000	G	2008		21000	G	99%	0%	0%	0%	0%	0%	F				22000	G
+665795	  SR	00197	     	VA 197	Westwood Ave	043	Henrico County	043	Henrico County	0.52	ECL Richmond	WCL Richmond	14000	G	99%	1%	1%	0%	0%	0%	F	0.1014	F	0.6405	15000	G	2008
+665800	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	1.60	Goochland County Line	Lauderdale Drive	26000	G	99%	0%	1%	0%	0%	0%	F	0.0958	F	0.5213	28000	G	2008
+665796	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	0.54	Lauderdale Drive	SR 271 Pouncy Tract Rd	35000	G	99%	0%	1%	0%	0%	0%	C	0.0895	F	0.5136	38000	G	2008
+665184	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	0.84	SR 271 Pouncy Tract Rd	I-64	59000	G	98%	0%	1%	0%	0%	0%	C	0.0838	F	0.5939	62000	G	2008
+665190	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	0.75	I-64	Cox Rd	44000	G	99%	0%	1%	0%	0%	0%	C	0.0965	F	0.5117	46000	G	2008
+665798	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	0.81	Cox Rd	Gaskins Rd	49000	G	99%	0%	1%	0%	0%	0%	F	0.0906	F	0.5469	52000	G	2008
+665799	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	0.50	Gaskins Rd	SR 157 Pemberton Rd; Springfield Rd	37000	G	99%	0%	0%	0%	0%	0%	F	0.0908	F	0.5385	39000	G	2008
+665188	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	1.57	SR 157 Pemberton Rd; Springfield Rd	Parham Rd	45000	G	99%	0%	0%	0%	0%	0%	C	0.0876	F	0.5363	48000	G	2008
+665797	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	0.72	Parham Rd	Hungary Springs Rd	32000	G	98%	1%	1%	0%	0%	0%	F	0.0830	F	0.5128	36000	G	2008
+665138	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	1.15	Hungary Springs Rd	I-64	37000	G	98%	1%	1%	0%	0%	0%	F	0.0858	F	0.5691	41000	G	2008
+665139	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	0.90	I-64	Horsepen Rd	36000	G	98%	1%	1%	0%	0%	0%	F	0.1000	F	0.5946	41000	G	2008
+665140	  US	00250	     	US 250	Broad St	043	Henrico County	043	Henrico County	1.32	Horsepen Rd	WCL Richmond	27000	G	98%	1%	1%	0%	0%	0%	F	0.0975	F	0.5026	30000	G	2008
+665141	  SR	00271	     	VA 271	Pouncey Tract Rd	043	Henrico County	043	Henrico County	2.51	US 250 Broad Street Rd	Nuckols Rd	11000	G	97%	0%	1%	1%	0%	0%	C	0.0841	F	0.5341	12000	G	2008
+665301	  SR	00271	     	VA 271	Pouncey Tract Rd	043	Henrico County	043	Henrico County	1.19	Nuckols Rd	Goochland County Line	5600	G	94%	0%	1%	4%	1%	0%	F	0.1297	F	0.5460	6100	G	2008
+040509	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	1.35	I-64	Nuckols Rd	23000	G	94%	1%	1%	1%	3%	0%	F	0.1179	F	1.0000	25000	G	2008	East I-295 is signed as South I-295	47000	G	94%	0%	1%	1%	3%	0%	F	0.1116	F	0.5246	51000	G
+040510	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	2.43	Nuckols Rd	US 33 Staples Mill Rd	26000	G	94%	1%	1%	1%	3%	0%	F	0.1292	F	1.0000	28000	G	2008	East I-295 is signed as South I-295	51000	G	94%	0%	1%	1%	3%	0%	F	0.1174	F	0.5950	56000	G
+040007	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	3.42	US 33 Staples Mill Rd	Woodman Rd	26000	A	94%	1%	1%	1%	3%	0%	C	0.1434	A	1.0000	29000	A	2008	East I-295 is signed as South I-295	52000	A	94%	0%	1%	1%	3%	0%	C	0.1345	A	0.0000	57000	A
+140056	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	1.34	Woodman Rd	US 1 Brook Rd	29000	G	94%	1%	1%	1%	3%	0%	F	0.1230	F	1.0000	32000	G	2008	East I-295 is signed as South I-295	59000	G	94%	0%	1%	1%	3%	0%	F	0.1111	F	0.5555	65000	G
+140057	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	1.88	US 1 Brook Rd	I-95	16000	G	94%	1%	1%	1%	3%	0%	F	0.1380	F	1.0000	17000	G	2008	East I-295 is signed as South I-295	33000	G	94%	0%	1%	1%	3%	0%	F	0.1273	F	0.6271	36000	G
+040050	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	0.17	I-95	Hanover County Line	47000	F	91%	1%	1%	1%	7%	0%	F				47000	F	2008	East I-295 is signed as South I-295	95000	F	91%	1%	1%	1%	7%	0%	F				93000	F
+040447	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	0.75	Hanover County Line	SR 156 Airport Drive North	37000	N	91%	1%	1%	1%	7%	0%	N				37000	N	2008	East I-295 is signed as South I-295	74000	N	91%	1%	1%	1%	7%	0%	N				74000	N
+040511	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	1.34	SR 156 Airport Drive North	I-64; US 60 Collector Rd Begin	24000	G	80%	1%	1%	1%	17%	0%	C	0.1023	F	1.0000	24000	G	2008	East I-295 is signed as South I-295	51000	G	79%	1%	1%	1%	17%	0%	C	0.0904	F	0.5707	50000	G
+040052	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	2.49	I-64; US 60 Collector Rd Begin	I-64; US 60 Collector Rd End	10000	G	72%	1%	1%	1%	24%	0%	C	0.1044	F	1.0000	8800	G	2008	East I-295 is signed as South I-295	21000	G	70%	1%	1%	1%	27%	0%	C	0.0978	F	0.5079	19000	G
+040513	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	2.23	I-64; US 60 Collector Rd End	SR 895 Pocahontas Pkwy	19000	F	78%	1%	2%	1%	18%	0%	C	0.1001	F	1.0000	17000	F	2008	East I-295 is signed as South I-295	38000	F	78%	1%	2%	1%	19%	0%	C	0.0911	F	0.5122	35000	F
+040512	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	2.91	SR 895 Pocahontas Pkwy	SR 5 New Market Rd	15000	G	79%	1%	1%	1%	18%	0%	F	0.1014	F	1.0000	13000	G	2008	East I-295 is signed as South I-295	30000	G	78%	1%	1%	1%	19%	0%	F	0.0910	F	0.5573	27000	G
+040761	  IS	00295	E    	I-295 EB	 	043	Henrico County	043	Henrico County	4.45	SR 5 New Market Rd	Chesterfield County Line	17000	F	79%	1%	1%	1%	18%	0%	F	0.0931	F	1.0000	15000	F	2008	East I-295 is signed as South I-295	35000	F	78%	1%	1%	1%	19%	0%	F				30000	F
+940761	  IS	00295	E    	I-295 EB	 	020	Chesterfield County	043	Henrico County	2.64	Henrico County Line	SR 10 Hundred Rd East	17000	F	79%	1%	1%	1%	18%	0%	F	0.0931	F	1.0000	15000	F	2008	East I-295 is signed as South I-295	35000	F	78%	1%	1%	1%	19%	0%	F				30000	F
+795415	  IS	00295	E028X	I-295 EB Exit 028X	Ramp	043	Henrico County	043	Henrico County	0.27	I-64	US 60	0	?							X
+140075	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	2.03	I-64	Nuckols Rd	24000	G	94%	0%	1%	1%	4%	0%	F	0.1230	F	1.0000	26000	G	2008	West I-295 is signed as North I-295	47000	G	94%	0%	1%	1%	3%	0%	F	0.1116	F	0.5246	51000	G
+140074	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	2.31	Nuckols Rd	US 33 Staples Mill Rd	25000	G	94%	0%	1%	1%	4%	0%	F	0.1481	F	1.0000	27000	G	2008	West I-295 is signed as North I-295	51000	G	94%	0%	1%	1%	3%	0%	F	0.1174	F	0.5950	56000	G
+140073	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	3.22	US 33 Staples Mill Rd	Woodman Rd	26000	A	94%	0%	1%	1%	4%	0%	C	0.1457	A	1.0000	28000	A	2008	West I-295 is signed as North I-295	52000	A	94%	0%	1%	1%	3%	0%	C	0.1345	A	0.0000	57000	A
+140072	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	0.91	Woodman Rd	US 1 Brook Rd	30000	G	94%	0%	1%	1%	4%	0%	F	0.1302	F	1.0000	33000	G	2008	West I-295 is signed as North I-295	59000	G	94%	0%	1%	1%	3%	0%	F	0.1111	F	0.5555	65000	G
+140071	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	1.83	US 1 Brook Rd	I-95	17000	G	94%	0%	1%	1%	4%	0%	F	0.1603	F	1.0000	18000	G	2008	West I-295 is signed as North I-295	33000	G	94%	0%	1%	1%	3%	0%	F	0.1273	F	0.6271	36000	G
+840070	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	0.29	I-95	Hanover County Line	47000	F	90%	1%	1%	1%	7%	0%	F				47000	F	2008	West I-295 is signed as North I-295	95000	F	91%	1%	1%	1%	7%	0%	F				93000	F
+140066	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	1.30	Hanover County Line	SR 156 Airport Drive North	37000	N	90%	1%	1%	1%	7%	0%	N				37000	N	2008	West I-295 is signed as North I-295	74000	N	91%	1%	1%	1%	7%	0%	N	0.0000	?	0.0000	74000	N
+140065	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	1.10	SR 156 Airport Drive North	I-64; US 60 Williamsburg Rd Collector Rd End	27000	G	79%	1%	1%	1%	17%	0%	C	0.0943	F	1.0000	26000	G	2008	West I-295 is signed as North I-295	51000	G	79%	1%	1%	1%	17%	0%	C	0.0904	F	0.5707	50000	G
+140064	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	2.18	I-64; US 60 Williamsburg Rd Collector Rd End	I-64; US 60 Williamsburg Rd Collector Rd Begin	11000	G	68%	1%	1%	1%	29%	0%	C	0.0875	F	1.0000	9900	G	2008	West I-295 is signed as North I-295	21000	G	70%	1%	1%	1%	27%	0%	C	0.0978	F	0.5079	19000	G
+140216	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	2.21	I-64; US 60 Williamsburg Rd Collector Rd Begin	SR 895 Pocahontas Parkway	19000	F	77%	1%	1%	1%	19%	0%	C	0.0897	F	1.0000	18000	F	2008	West I-295 is signed as North I-295	38000	F	78%	1%	2%	1%	19%	0%	C	0.0911	F	0.5122	35000	F
+140063	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	3.49	SR 895 Pocahontas Parkway	SR 5 New Market Rd	15000	G	78%	1%	1%	1%	19%	0%	F	0.0875	F	1.0000	13000	G	2008	West I-295 is signed as North I-295	30000	G	78%	1%	1%	1%	19%	0%	F	0.0910	F	0.5573	27000	G
+840062	  IS	00295	W    	I-295 WB	 	043	Henrico County	043	Henrico County	3.89	SR 5 New Market Rd	Chesterfield County Line	18000	F	78%	1%	1%	1%	19%	0%	F	0.0894	N	1.0000	15000	F	2008	West I-295 is signed as North I-295	35000	F	78%	1%	1%	1%	19%	0%	F				30000	F
+140062	  IS	00295	W    	I-295 WB	 	020	Chesterfield County	043	Henrico County	2.64	Henrico County Line	SR 10 Hundred Road East	18000	F	78%	1%	1%	1%	19%	0%	F				15000	F	2008	West I-295 is signed as North I-295	35000	F	78%	1%	1%	1%	19%	0%	F				30000	F
+795407	  IS	00295	W028X	I-295 WB Exit 028X	Ramp	043	Henrico County	043	Henrico County	0.27	US 60	I-64	0	?							X
+789503	  IS	00295	W043A	I-295 WB Exit 043A	Ramp	043	Henrico County	043	Henrico County	1.53	I-295 West	I-95 North	19000	F							X				19000	F	2008
+795433	  IS	00295	W043X	I-295 WB Exit 043X	Ramp	043	Henrico County	043	Henrico County	0.23	Ramp from US 1 South	I-295 West	0	?							X
+781280	  IS	00295	W053A	I-295 WB Exit 053A	Ramp From I-295 N (W) to I-64 W	043	Henrico County	043	Henrico County	0.31	I-295 N	I-64 W	0	?							X
+781281	  IS	00295	W053B	I-295 WB Exit 053B	Ramp From I-295 N (W) to I-64 E	043	Henrico County	043	Henrico County	0.23	I-295 N	I-64 E	0	?							X
+665104	  US	00301	     	US 301, VA 2	Chamberlayne Ave	043	Henrico County	043	Henrico County	0.55	NCL Richmond	I-95	16000	G	96%	1%	1%	0%	1%	0%	C	0.0976	F	0.6021	17000	G	2008
+665107	  US	00301	     	US 301, VA 2	Chamberlayne Ave	043	Henrico County	043	Henrico County	0.90	I-95	Upham Dr	17000	F	97%	0%	1%	0%	1%	0%	F	0.1165	F	0.0000	19000	F	2008		26000	G	97%	0%	1%	0%	1%	0%	F				28000	G
+665105	  US	00301	     	US 301, VA 2	Chamberlayne Ave	043	Henrico County	043	Henrico County	1.57	Upham Dr	Parham Rd	16000	G	97%	0%	1%	0%	1%	0%	C	0.1044	F	0.7148	17000	G	2008
+665106	  US	00301	     	US 301, VA 2	Chamberlayne Ave	043	Henrico County	043	Henrico County	0.17	Parham Rd	Hanover County Line	27000	G	97%	0%	1%	0%	1%	0%	F	0.0982	F	0.7149	30000	G	2008
+789753	 2US	00301	P    	US 301 Par, VA 2	Chamberlayne Ave SB	043	Henrico County	043	Henrico County	0.90	Ramp from I-95 North	Upham Dr	8800	G	97%	0%	1%	0%	1%	0%	F	0.1471	F	1.0000	9600	G	2008		26000	G	97%	0%	1%	0%	1%	0%	F				28000	G
+665302	  SR	00356	     	VA 356	Hilliard Rd	043	Henrico County	043	Henrico County	0.67	US 33; Staples Mill Rd	Thornrose Ave	17000	G	98%	0%	1%	0%	1%	0%	F	0.1003	F	0.6123	18000	G	2008
+665142	  SR	00356	     	VA 356	Hilliard Rd	043	Henrico County	043	Henrico County	0.60	Thornrose Ave	Hermitage Rd	16000	G	98%	0%	1%	0%	1%	0%	C	0.1013	F	0.5944	18000	G	2008
+665303	  SR	00356	     	VA 356	Hilliard Rd	043	Henrico County	043	Henrico County	0.16	Hermitage Rd	SR 161; Lakeside Ave	20000	G	98%	0%	1%	0%	1%	0%	F	0.1006	F	0.5421	22000	G	2008
+665143	  US	00360	     	US 360	Mechanicsville Tpke	043	Henrico County	043	Henrico County	1.53	ECL Richmond	Laburnum Ave	36000	G	98%	0%	1%	0%	1%	0%	F	0.0924	F	0.6661	38000	G	2008
+665144	  US	00360	     	US 360	Mechanicsville Tpke	043	Henrico County	043	Henrico County	1.34	Laburnum Ave	Hanover County Line	35000	G	97%	0%	1%	0%	1%	0%	C	0.0919	F	0.6441	36000	G	2008
+788186	  SR	00895	E    	VA 895 EB	Pocahontas Pkwy	043	Henrico County	043	Henrico County	2.22	Chesterfield County Line	Laburnum Ave	8600	G	92%	1%	1%	1%	5%	1%	F	0.1363	F	1.0000	9400	G	2008		16000	G	92%	1%	1%	1%	5%	1%	F	0.1232	F	0.6008	18000	G
+788257	  SR	00895	E    	VA 895 EB	Pocahontas Pkwy	043	Henrico County	043	Henrico County	4.94	Laburnum Ave	I-295	3300	F	92%	1%	1%	1%	5%	1%	C	0.1144	F	1.0000	3300	F	2008		6500	F	92%	1%	1%	1%	5%	1%	C	0.1258	F	0.5538	6500	F
+795326	  SR	00895	E    	VA 895 EB	Ramp	043	Henrico County	043	Henrico County	0.72	SR 895 East	I-295 North	3400	F	92%	1%	1%	1%	5%	1%	F				3400	F	2008		6600	F	92%	1%	1%	1%	5%	1%	F				6600	F
+788185	  SR	00895	W    	VA 895 WB	Pocahontas Pkwy	043	Henrico County	043	Henrico County	2.38	Chesterfield County Line	Laburnum Ave	7600	G	91%	1%	1%	1%	5%	1%	F	0.1154	F	1.0000	8300	G	2008		16000	G	92%	1%	1%	1%	5%	1%	F	0.1232	F	0.6008	18000	G
+788258	  SR	00895	W    	VA 895 WB	Pocahontas Pkwy	043	Henrico County	043	Henrico County	4.60	Laburnum Ave	I-295	3200	F	91%	1%	1%	1%	5%	1%	C	0.1392	F	1.0000	3200	F	2008		6500	F	92%	1%	1%	1%	5%	1%	C	0.1258	F	0.5538	6500	F
+795305	  SR	00895	W    	VA 895 WB	Ramp	043	Henrico County	043	Henrico County	0.43	SR 895 West	I-295 South	3300	F	91%	1%	1%	1%	5%	1%	F				3300	F	2008		6600	F	92%	1%	1%	1%	5%	1%	F				6600	F
+780355	  FR	00100	     	FR 100	 	043	Henrico County	043	Henrico County	1.62	Dead End	SR 271	130	F							X	0.1407	F	0.6033	130	F	2008
+780356	  FR	00101	     	FR 101	 	043	Henrico County	043	Henrico County	0.09	Mall Circle	SR 271	6200	F							X	0.1036	F	0.0000	6200	F	2008
+780358	  FR	00103	     	FR 103	Bohollow Dr	043	Henrico County	043	Henrico County	0.24	Dead End	SR 157	330	F							X	0.1577	F	0.6699	330	F	2008
+780359	  FR	00106	     	FR 106	 	043	Henrico County	043	Henrico County	0.19	Dead End	43-7555	10	F							X	0.2857	F	0.5000	10	F	2008
+780360	  FR	00109	     	FR 109	 	043	Henrico County	043	Henrico County	1.81	Dead End	Dead End	100	F							X	0.1464	F	0.8000	100	F	2008
+780494	  FR	00270	     	FR 270	 	127	City of Richmond	043	Henrico County	0.46	MEADOW STREET	DAVIS STREET	1700	F							X	0.0923	F	0.5676	1700	F	2008
+780544	  FR	00332	     	FR 332	 	043	Henrico County	043	Henrico County	0.24	SR 5	Dead End	70	F							X	0.1769	F	0.5385	70	F	2008
+782026	  FR	00333	     	FR 333	 	043	Henrico County	043	Henrico County	0.05	SR 5	Dead End	0	?							X
+780546	  FR	00334	     	FR 334	 	043	Henrico County	043	Henrico County	0.50	Dead End	43-7559 PROP RT FR 334	2	F							X	1.0000	F	0.5000	2	F	2008
+780600	  FR	00653	     	FR 653	Chamberlayne Rd	043	Henrico County	043	Henrico County	0.93	US 301; Ramp From I-95 N	Upham Dr	630	F							X	0.1168	F	0.6267	630	F	2008
+665644	  43	00026	     	43-26	Mill Rd	043	Henrico County	043	Henrico County	1.70	Mountain Rd	Old Washington Hwy	2400	G	97%	1%	1%	1%	0%	0%	C	0.1063	F	0.5138	2600	G	2008
+665652	  43	00027	     	43-27	Old Washington Hwy	043	Henrico County	043	Henrico County	1.67	Mountain Rd	Greenwood Rd	1200	G	98%	0%	1%	1%	0%	0%	C	0.1140	F	0.6014	1300	G	2008
+665653	  43	00027	     	43-27	Old Washington Hwy	043	Henrico County	043	Henrico County	0.62	Greenwood Rd	Hanover County Line	3000	G	98%	0%	1%	1%	0%	0%	F	0.1071	F	0.5483	3200	G	2008
+665672	  43	00029	     	43-29	Shady Grove Rd	043	Henrico County	043	Henrico County	1.83	PounceyTract Rd	Nuckols Rd	2800	G	99%	0%	0%	0%	0%	0%	C	0.1085	F	0.6177	3100	G	2008
+665673	  43	00029	     	43-29	Shady Grove Rd	043	Henrico County	043	Henrico County	0.54	Nuckols Rd	Hanover County Line	2200	G	99%	0%	0%	0%	0%	0%	F	0.1042	F	0.6468	2400	G	2008
+665636	  43	00030	     	43-30	Long Bridge Rd	043	Henrico County	043	Henrico County	1.38	New Market Rd	Bradbury Rd	440	G	95%	1%	1%	2%	1%	0%	C	0.1186	F	0.6667	480	G	2008
+665637	  43	00030	     	43-30	Long Bridge Rd	043	Henrico County	043	Henrico County	2.38	Bradbury Rd	Darbytown Rd	230	G	95%	1%	1%	2%	1%	0%	F	0.1115	F	0.6349	240	G	2008
+665688	  43	00031	     	43-31	Turner Rd	043	Henrico County	043	Henrico County	1.77	New Market Rd	Darbytown Rd	1100	G	93%	0%	4%	1%	2%	0%	C	0.1253	F	0.5926	1200	G	2008
+665689	  43	00031	     	43-31	Turner Rd	043	Henrico County	043	Henrico County	1.76	Darbytown Rd	Charles City Rd	940	G	93%	0%	4%	1%	2%	0%	F	0.1126	F	0.5504	1000	G	2008
+665314	  43	00032	     	43-32	Bradbury Rd	043	Henrico County	043	Henrico County	1.35	Longbridge Rd	Darbytown Rd	240	G	95%	0%	2%	2%	1%	0%	C	0.1373	F	0.5641	260	G	2008
+665363	  43	00033	     	43-33	Gill Dale Rd	043	Henrico County	043	Henrico County	1.67	Darbytown Rd	Charles City Rd	340	G	97%	0%	2%	0%	0%	0%	C	0.1194	F	0.5208	370	G	2008
+745346	  43	00034	     	43-34	Poplar Spring Rd	043	Henrico County	043	Henrico County	1.00	43-7723 Charles City Rd	43-35 Portugee Rd	1800	G	97%	0%	2%	1%	0%	0%	C	0.1089	F	0.6682	1900	G	2008
+665643	  43	00035	     	43-35	Memorial Dr	043	Henrico County	043	Henrico County	1.44	Portugee Rd	Williamsburg Rd	2200	G	94%	0%	1%	2%	2%	0%	C	0.0959	F	0.6434	2400	G	2008
+665318	  43	00037	     	43-37	Britton Rd	043	Henrico County	043	Henrico County	1.39	Darbytown Rd	Charles City Rd	850	G	97%	1%	1%	0%	1%	0%	C	0.1216	F	0.6538	920	G	2008
+665341	  43	00038	     	43-38	Doran Rd	043	Henrico County	043	Henrico County	2.10	New Market Rd	Darbytown Rd	1500	G	98%	0%	1%	1%	0%	0%	C	0.0965	F	0.5796	1600	G	2008
+665671	  43	00039	     	43-39	Seven Hills Rd	043	Henrico County	043	Henrico County	0.62	Laburnum Ave	Settler Rd	1600	G	85%	3%	1%	3%	8%	0%	C	0.1192	F	0.6056	1700	G	2008
+665395	  43	00040	     	43-40	Kingsland Rd	043	Henrico County	043	Henrico County	1.63	Osborne Tpke	Varina Rd	440	G	94%	1%	1%	1%	3%	0%	C	0.0975	F	0.6078	480	G	2008
+665396	  43	00040	     	43-40	Kingsland Rd	043	Henrico County	043	Henrico County	1.20	Varina Rd	Wallo Rd	320	G	94%	1%	1%	1%	3%	0%	F	0.1090	F	0.5244	350	G	2008
+665324	  43	00041	     	43-41	Church Rd	043	Henrico County	043	Henrico County	1.24	Lauderdale Rd	Pump Rd	7500	G	99%	0%	0%	0%	0%	0%	C	0.1020	F	0.7042	8200	G	2008
+665325	  43	00041	     	43-41	Church Rd	043	Henrico County	043	Henrico County	1.72	Pump Rd	Three Chopt Rd	7000	G	99%	0%	0%	0%	0%	0%	F	0.1160	F	0.7401	7600	G	2008
+565060	  43	00042	     	43-42	Cox Rd	043	Henrico County	043	Henrico County	0.64	Ridgefield Pkwy	Dead End; Gap	3800	G	99%	0%	1%	0%	0%	0%	C	0.1211	F	0.7550	4100	G	2008
+665327	  43	00042	     	43-42	Cox Rd	043	Henrico County	043	Henrico County	0.57	Three Chopt Rd; Gap	US 250 Broad St	16000	G	99%	0%	0%	0%	0%	0%	C	0.1168	F	0.7374	17000	G	2008
+665690	  43	00043	     	43-43	Varina Rd	043	Henrico County	043	Henrico County	3.19	Kingsland Rd	New Market Rd	780	G	98%	0%	1%	1%	1%	0%	C	0.0968	F	0.5568	840	G	2008
+565073	  43	00044	     	43-44	Old Courtney Rd	043	Henrico County	043	Henrico County	0.44	Staples Mill Rd	Courtney Rd	470	G	98%	1%	0%	0%	0%	0%	C	0.1201	F	0.9836	510	G	2008
+787850	  43	00045	     	43-45	Sadler Rd	043	Henrico County	043	Henrico County	2.10	43-46 Dominion Blvd.	43-7706 Lake Brook Dr	2000	G	99%	0%	1%	0%	0%	0%	C	0.1053	F	0.5652	2100	G	2008
+787851	  43	00046	     	43-46	Dominion Blvd	043	Henrico County	043	Henrico County	0.20	US 250 Broad St	43-45 Sadler Rd	13000	G	99%	0%	0%	0%	0%	0%	C	0.1103	F	0.7330	14000	G	2008
+787852	  43	00047	     	43-47	Old Three Chopt Rd	043	Henrico County	043	Henrico County	0.35	US 250 Broad St	Three Chopt Rd	3000	G							X				3300	G	2008
+665356	  43	01585	     	43-1585	North Gayton Rd	043	Henrico County	043	Henrico County	1.45	Broad St	Lauderdale Rd	4800	G	98%	0%	1%	1%	0%	0%	C	0.1165	F	0.5245	5300	G	2008
+665686	  43	01587	     	43-1587	Three Chopt Rd	043	Henrico County	043	Henrico County	2.23	43-7703 Lauderdale Dr	Cox Rd	10000	G	99%	0%	1%	0%	0%	0%	C	0.1425	F	0.5777	11000	G	2008
+665685	  43	01587	     	43-1587	Three Chopt Rd	043	Henrico County	043	Henrico County	0.85	Cox Rd	Gaskins Rd	15000	G	99%	0%	1%	0%	0%	0%	C	0.1105	F	0.5481	16000	G	2008
+665684	  43	01587	     	43-1587	Three Chopt Rd	043	Henrico County	043	Henrico County	0.27	Gaskins Rd	SR 157 Pemberton Rd	13000	G	99%	0%	1%	0%	0%	0%	F	0.0929	F	0.5070	14000	G	2008
+665357	  43	07502	     	43-7502	Gayton Rd	043	Henrico County	043	Henrico County	0.58	Lauderdale Rd	Ridgefield Pkwy	6400	G	99%	0%	0%	0%	0%	0%	F	0.0965	F	0.5031	6900	G	2008
+665358	  43	07502	     	43-7502	Gayton Rd	043	Henrico County	043	Henrico County	2.48	Ridgefield Pkwy	Pump Rd	7100	G	99%	0%	0%	0%	0%	0%	C	0.1014	F	0.5842	7700	G	2008
+665359	  43	07502	     	43-7502	Gayton Rd	043	Henrico County	043	Henrico County	0.89	Pump Rd	SR 157; Quioccasin Rd	9500	G	99%	0%	0%	0%	0%	0%	F	0.0948	F	0.6177	10000	G	2008
+665360	  43	07502	     	43-7502	Quioccasin Rd	043	Henrico County	043	Henrico County	0.38	SR 157; Pemberton Rd	Blue Jay Lane	17000	G	99%	0%	0%	0%	0%	0%	F	0.0922	F	0.6256	18000	G	2008
+665361	  43	07502	     	43-7502	Quioccasin Rd	043	Henrico County	043	Henrico County	0.54	Blue Jay Lane	Parham Rd	13000	G	99%	0%	0%	0%	0%	0%	F	0.0972	F	0.6974	14000	G	2008
+665362	  43	07502	     	43-7502	Eastridge Rd	043	Henrico County	043	Henrico County	0.28	Parham Rd	Three Chopt Rd	13000	G	99%	0%	0%	0%	0%	0%	C	0.0935	F	0.6296	14000	G	2008
+665668	  43	07506	     	43-7506	River Rd	043	Henrico County	043	Henrico County	0.88	Goochland County Line	Gaskins Rd	6200	G	99%	0%	0%	0%	0%	0%	F	0.1186	F	0.6413	6700	G	2008
+665669	  43	07506	     	43-7506	River Rd	043	Henrico County	043	Henrico County	1.80	Gaskins Rd	Parham Rd	11000	G	99%	0%	0%	0%	0%	0%	C	0.1140	F	0.6159	12000	G	2008
+665670	  43	07506	     	43-7506	River Rd	043	Henrico County	043	Henrico County	1.41	Parham Rd	Ridge Rd	9000	G	99%	0%	0%	0%	0%	0%	C	0.1206	F	0.6711	9800	G	2008
+665170	  43	07506	     	43-7506	River Rd	043	Henrico County	043	Henrico County	0.93	Ridge Rd	Huguenot Rd	13000	G	99%	0%	0%	0%	0%	0%	F	0.1092	F	0.5820	14000	G	2008
+665335	  43	07508	     	43-7508	Derbyshire Rd	043	Henrico County	043	Henrico County	1.50	Gaskins Rd	Parham Rd	14000	G							X				15000	G	2008
+665350	  43	07514	     	43-7514	Gaskins Rd	043	Henrico County	043	Henrico County	1.03	River Rd	Patterson Ave	9600	G	98%	0%	1%	0%	0%	0%	F	0.1055	F	0.5567	10000	G	2008
+665351	  43	07514	     	43-7514	Gaskins Rd	043	Henrico County	043	Henrico County	0.96	Quioccasin Rd	Ridgefield Pkwy	21000	G	98%	0%	1%	0%	0%	0%	C	0.1017	F	0.6031	23000	G	2008
+665352	  43	07514	     	43-7514	Gaskins Rd	043	Henrico County	043	Henrico County	0.83	Ridgefield Pkwy	Three Chopt Rd	33000	G	98%	0%	1%	0%	0%	0%	F	0.0995	F	0.6522	35000	G	2008
+665353	  43	07514	     	43-7514	Gaskins Rd	043	Henrico County	043	Henrico County	0.13	Three Chopt Rd	I-64	39000	G	98%	0%	1%	0%	0%	0%	F	0.0995	F	0.6574	43000	G	2008
+665354	  43	07514	     	43-7514	Gaskins Rd	043	Henrico County	043	Henrico County	0.92	I-64	Broad St	44000	G	98%	0%	1%	0%	0%	0%	F	0.1068	F	0.5532	48000	G	2008
+665355	  43	07514	     	43-7514	Gaskins Rd	043	Henrico County	043	Henrico County	0.59	Broad St	Springfield Rd	20000	G	98%	0%	1%	0%	0%	0%	F	0.1046	F	0.5854	22000	G	2008
+745352	  43	07516	     	43-7516	Ridgefield Parkway	043	Henrico County	043	Henrico County	0.32	Dead End	43-7703 Lauderdale Dr	570	G	99%	0%	0%	0%	0%	0%	F	0.1030	F	0.6279	620	G	2008
+665667	  43	07516	     	43-7516	Ridgefield Parkway	043	Henrico County	043	Henrico County	0.32	Lauderdale Rd	Gayton Rd	1900	G	99%	0%	0%	0%	0%	0%	F	0.1184	F	0.5915	2100	G	2008
+565075	  43	07516	     	43-7516	Ridgefield Pkwy	043	Henrico County	043	Henrico County	1.85	Gayton Rd	Pump Rd	13000	G	99%	0%	0%	0%	0%	0%	C	0.0944	F	0.6224	14000	G	2008
+565076	  43	07516	     	43-7516	Ridgefield Pkwy	043	Henrico County	043	Henrico County	1.34	Pump Rd	Gaskins Rd	14000	G	99%	0%	0%	0%	0%	0%	F	0.0956	F	0.6716	15000	G	2008
+665176	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	1.91	River Rd	SR 6 Patterson Ave	29000	G	98%	0%	1%	0%	0%	0%	F	0.1043	F	0.5076	33000	G	2008
+665165	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	0.51	SR 6 Patterson Ave	Quioccasin Rd	27000	G	98%	0%	1%	0%	0%	0%	F	0.0836	F	0.5233	31000	G	2008
+665657	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	0.67	Quioccasin Rd	Three Chopt Rd	34000	G	98%	0%	1%	0%	0%	0%	F	0.0825	F	0.5467	39000	G	2008
+665166	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	0.95	Three Chopt Rd	I-64	33000	G	98%	0%	1%	0%	0%	0%	F	0.0824	F	0.5459	38000	G	2008
+665167	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	1.22	I-64	US 250 Broad St	25000	G	98%	0%	1%	0%	0%	0%	F	0.0836	F	0.5338	29000	G	2008
+665168	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	0.91	US 250 Broad St	Hungary Springs Rd	22000	G	98%	0%	1%	0%	0%	0%	F	0.0779	F	0.5165	25000	G	2008
+665658	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	0.66	Hungary Springs Rd	US 33 Staples Mill Road	24000	F	98%	0%	1%	0%	0%	0%	C	0.0837	F	0.0000	28000	F	2008
+140121	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	1.08	US 33 Staples Mill Road	43-7663 Woodman Road	27000	A	98%	0%	1%	0%	0%	0%	C	0.1068	A	0.0000	31000	A	2008
+665169	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	1.91	43-7663 Woodman Road	US 1 Brook Rd	28000	G	98%	0%	1%	0%	1%	0%	C	0.0884	F	0.5220	32000	G	2008	See Route SR 73 for Parham Rd between US 1 and I-95.
+665183	  43	07518	     	43-7518	Parham Rd	043	Henrico County	043	Henrico County	1.48	I-95	US 301, SR 2 Chamberlayne Ave	19000	G	97%	0%	1%	1%	1%	0%	C	0.0979	F	0.5260	21000	G	2008	See Route SR 73 for Parham Rd between US 1 and I-95.
+665386	  43	07526	     	43-7526	Hungary Rd	043	Henrico County	043	Henrico County	1.07	SR 157 Springfield Rd	West End Dr	19000	G	99%	0%	1%	0%	0%	0%	F	0.1088	F	0.5577	21000	G	2008
+665387	  43	07526	     	43-7526	Hungary Rd	043	Henrico County	043	Henrico County	1.32	West End Dr	US 33 Staples Mill Rd	19000	G	99%	0%	1%	0%	0%	0%	C	0.1098	F	0.5002	21000	G	2008
+665388	  43	07526	     	43-7526	Hungary Rd	043	Henrico County	043	Henrico County	0.53	US 33 Staples Mill Rd	Old Staples Mill Rd	13000	G	98%	0%	1%	0%	0%	0%	F	0.1068	F	0.5052	14000	G	2008
+665389	  43	07526	     	43-7526	Hungary Rd	043	Henrico County	043	Henrico County	0.13	Old Staples Mill Rd	Purcell Rd	16000	G	98%	0%	1%	0%	0%	0%	F	0.1047	F	0.5149	18000	G	2008
+665390	  43	07526	     	43-7526	Hungary Rd	043	Henrico County	043	Henrico County	0.71	Purcell Rd	Woodman Rd	11000	G	98%	0%	1%	0%	0%	0%	F	0.1054	F	0.5165	12000	G	2008
+665391	  43	07526	     	43-7526	Hungary Rd	043	Henrico County	043	Henrico County	2.08	Woodman Rd	Parham Rd	5800	G	98%	0%	1%	0%	0%	0%	C	0.1068	F	0.6533	6300	G	2008
+665175	  43	07536	     	43-7536	Horsepen Rd	043	Henrico County	043	Henrico County	0.24	Three Chopt Rd	Glenside Dr	23000	G	99%	0%	0%	0%	0%	0%	F	0.0850	F	0.5117	25000	G	2008
+665147	  43	07536	     	43-7536	Glenside Dr	043	Henrico County	043	Henrico County	0.48	Horsepen Rd	Forest Ave	21000	G	99%	0%	0%	0%	0%	0%	C	0.0852	F	0.5382	23000	G	2008
+665364	  43	07536	     	43-7536	Glenside Dr	043	Henrico County	043	Henrico County	0.15	Forest Ave	I-64	35000	G	99%	0%	0%	0%	0%	0%	F	0.0878	F	0.5822	40000	G	2008
+665365	  43	07536	     	43-7536	Glenside Dr	043	Henrico County	043	Henrico County	0.41	I-64	Broad St	27000	G	98%	0%	1%	0%	0%	0%	C	0.0911	F	0.5534	30000	G	2008
+665148	  43	07536	     	43-7536	Glenside Dr	043	Henrico County	043	Henrico County	1.30	Broad St	Staples Mill Rd	17000	G	98%	0%	1%	0%	0%	0%	C	0.0981	F	0.5784	19000	G	2008
+665316	  43	07537	     	43-7537	Masonic Home Ln	043	Henrico County	043	Henrico County	0.46	Nine Mile Rd	Brittles Lane	12000	G	94%	1%	1%	2%	2%	0%	F	0.0842	F	0.5662	13000	G	2008
+665317	  43	07537	     	43-7537	Brittles Ln	043	Henrico County	043	Henrico County	1.10	Masonic Home Lane	Williamsburg Rd	10000	G	94%	1%	1%	2%	2%	0%	C	0.0907	F	0.5638	11000	G	2008
+665162	  43	07538	     	43-7538	Monument Ave	043	Henrico County	043	Henrico County	1.42	Horsepen Rd	Libbie Ave	19000	G	99%	0%	0%	0%	0%	0%	F	0.0997	F	0.6536	21000	G	2008
+665161	  43	07538	     	43-7538	Monument Ave	043	Henrico County	043	Henrico County	0.57	Libbie Ave	Willow Lawn Dr	20000	G	99%	0%	0%	0%	0%	0%	C	0.1056	F	0.5703	21000	G	2008
+665645	  43	07538	     	43-7538	Monument Ave	043	Henrico County	043	Henrico County	0.22	Willow Lawn Dr	WCL Richmond	22000	G	99%	0%	0%	0%	0%	0%	F	0.1087	F	0.5442	23000	G	2008
+665312	  43	07539	     	43-7539	Beulah Rd	043	Henrico County	043	Henrico County	3.03	Charles City Rd	Roy Rd	1900	G	87%	1%	1%	7%	3%	0%	C	0.0931	F	0.5211	2000	G	2008
+665313	  43	07539	     	43-7539	Beulah Rd	043	Henrico County	043	Henrico County	0.40	Roy Rd	Williamsburg Rd	3500	G	87%	1%	1%	7%	3%	0%	F	0.1243	F	0.5631	3800	G	2008
+665385	  43	07540	     	43-7540	Horsepen Rd	043	Henrico County	043	Henrico County	0.49	Glenside Drive	Miami Ave	6100	G	99%	0%	1%	0%	0%	0%	C	0.0934	F	0.5638	6600	G	2008
+665149	  43	07540	     	43-7540	Horsepen Rd	043	Henrico County	043	Henrico County	0.61	Miami Ave	Broad St Rd	7900	G	99%	0%	1%	0%	0%	0%	F	0.0934	F	0.5919	8600	G	2008
+665336	  43	07546	     	43-7546	Dickens Rd	043	Henrico County	043	Henrico County	0.36	Broad St	Falmouth St	4200	G	98%	1%	1%	0%	0%	0%	C	0.1132	F	0.5752	4600	G	2008
+665337	  43	07546	     	43-7546	Dickens Rd	043	Henrico County	043	Henrico County	0.25	Falmouth St	Bethlehem Rd	5100	G	98%	1%	1%	0%	0%	0%	F	0.1124	F	0.5117	5500	G	2008
+665338	  43	07546	     	43-7546	Dickens Rd	043	Henrico County	043	Henrico County	0.13	Bethlehem Rd	I-64	6400	G	98%	1%	1%	0%	0%	0%	F	0.1098	F	0.5121	6900	G	2008
+665339	  43	07546	     	43-7546	Dickens Rd	043	Henrico County	043	Henrico County	0.56	I-64	Staples Mill Rd	7300	G	98%	1%	1%	0%	0%	0%	F	0.1026	F	0.7336	7900	G	2008
+665371	  43	07550	     	43-7550	Hermitage Rd	043	Henrico County	043	Henrico County	1.74	Staples Mill Rd	Woodman Rd	4500	G	98%	0%	1%	0%	0%	0%	C	0.1294	F	0.7089	4900	G	2008
+665344	  43	07552	     	43-7552	Dumbarton Rd	043	Henrico County	043	Henrico County	1.34	Staples Mill Rd	Lakeside Ave	12000	G	98%	0%	1%	0%	0%	0%	C	0.1097	F	0.5965	13000	G	2008
+665345	  43	07552	     	43-7552	Dumbarton Rd	043	Henrico County	043	Henrico County	0.72	Lakeside Ave	WCL Richmond	10000	G	98%	0%	1%	0%	0%	0%	F	0.1076	F	0.6291	11000	G	2008
+665151	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	1.86	New Market Rd	Darbytown Rd	14000	G	98%	0%	1%	0%	0%	0%	F	0.0944	F	0.6033	14000	G	2008
+665152	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	1.55	Darbytown Rd	Charles City Rd	24000	G	98%	0%	1%	0%	0%	0%	F	0.0877	F	0.6195	24000	G	2008
+665397	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	0.94	Charles City Rd	Williamsburg Rd	23000	G	98%	0%	1%	0%	0%	0%	F	0.0769	F	0.5527	23000	G	2008
+665398	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	1.11	Williamsburg Rd	I-64	36000	G	98%	0%	1%	0%	0%	0%	F	0.0796	F	0.5110	36000	G	2008
+665399	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	1.08	I-64	Nine Mile Rd	21000	G	98%	0%	1%	0%	0%	0%	F	0.0872	F	0.5212	21000	G	2008
+140122	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	1.27	Nine Mile Rd	Creighton Rd	23000	G	98%	0%	1%	1%	1%	0%	C	0.0921	F	0.5227	23000	G	2008
+665631	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	1.65	Creighton Rd	Mechanicsville Tpke	24000	B	98%	0%	1%	0%	0%	0%	C	0.0981	A	0.5405	25000	B	2008
+665632	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	1.20	Mechanicsville Tpke	Carolina Ave	28000	F	97%	1%	1%	0%	1%	0%	C	0.0942	F	0.0000	28000	F	2008
+665633	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	0.50	Carolina Ave	Richmond-Henrico Tpke	18000	G	98%	0%	1%	0%	0%	0%	F	0.0903	F	0.5786	18000	G	2008
+665634	  43	07555	     	43-7555	Laburnum Ave	043	Henrico County	043	Henrico County	0.80	Richmond-Henrico Tpke	ECL Richmond	22000	G	98%	0%	1%	0%	0%	0%	F	0.0920	F	0.5829	21000	G	2008
+665635	  43	07557	     	43-7557	Lewis Rd	043	Henrico County	043	Henrico County	1.26	Charles City Rd	Williamsburg Rd	4700	G	92%	1%	1%	2%	4%	0%	C	0.0783	F	0.5648	5100	G	2008
+665646	  43	07558	     	43-7558	Mountain Rd	043	Henrico County	043	Henrico County	2.26	Staples Mill Rd	Old Washington Hwy	5800	G	98%	1%	1%	0%	0%	0%	C	0.1079	F	0.5299	6200	G	2008
+665647	  43	07558	     	43-7558	Mountain Rd	043	Henrico County	043	Henrico County	0.89	Old Washington Hwy	Woodman Rd	8800	G	98%	0%	1%	0%	0%	0%	C	0.1040	F	0.5988	9500	G	2008
+665648	  43	07558	     	43-7558	Mountain Rd	043	Henrico County	043	Henrico County	2.20	Woodman Rd	Brook Rd	4600	G	98%	0%	1%	0%	0%	0%	F	0.0976	F	0.6185	5000	G	2008
+665331	  43	07559	     	43-7559	Darbytown  Rd	043	Henrico County	043	Henrico County	0.77	ECL Richmond	Louisa Street	7500	G	97%	0%	1%	1%	0%	0%	C	0.0858	F	0.6078	8100	G	2008
+665332	  43	07559	     	43-7559	Darbytown Rd	043	Henrico County	043	Henrico County	2.24	Louisa Street	43-7555 Laburnum Ave	6600	G	97%	0%	1%	1%	0%	0%	F	0.0837	F	0.5781	7100	G	2008
+665333	  43	07559	     	43-7559	Darbytown Rd	043	Henrico County	043	Henrico County	5.28	43-7555 Laburnum Ave	Bradbury Rd	3300	G	97%	0%	1%	1%	0%	0%	F	0.0889	F	0.8102	3600	G	2008
+665334	  43	07559	     	43-7559	Darbytown Rd	043	Henrico County	043	Henrico County	2.54	Bradbury Rd	Willis Church Rd	2000	G	97%	0%	1%	1%	0%	0%	F	0.0997	F	0.8176	2100	G	2008
+665649	  43	07565	     	43-7565	Osborne Tpke	043	Henrico County	043	Henrico County	3.12	Kingsland Rd	Mill Rd	840	G	98%	0%	1%	0%	1%	0%	F	0.1083	F	0.7184	920	G	2008
+665164	  43	07565	     	43-7565	Osborne Tpke	043	Henrico County	043	Henrico County	3.34	Mill Rd	New Market Rd	1700	G	98%	0%	1%	0%	1%	0%	C	0.1018	F	0.7475	1800	G	2008
+665650	  43	07565	     	43-7565	New Osborne Tpke	043	Henrico County	043	Henrico County	0.81	New Market Rd	SCL Richmond	1700	F	98%	0%	1%	0%	1%	0%	F	0.1049	F	0.6010	1800	F	2008
+665001	  43	07581	     	43-7581	Airport Dr South	043	Henrico County	043	Henrico County	1.18	Airport Entrance	US 60 Williamsburg Rd	18000	G	97%	1%	1%	0%	1%	0%	C	0.0738	F	0.6143	20000	G	2008
+665340	  43	07586	     	43-7586	Dill Ave	043	Henrico County	043	Henrico County	0.66	ECL Richmond	Mechanicsville Tpke	4900	G	99%	0%	1%	0%	0%	0%	C	0.1013	F	0.6601	5300	G	2008
+665342	  43	07589	     	43-7589	Dry Bridge Rd	043	Henrico County	043	Henrico County	1.16	US 60 Williamsburg Rd	Ponderosa Dr	860	G	76%	1%	1%	17%	5%	0%	C	0.0984	F	0.5532	930	G	2008
+665343	  43	07589	     	43-7589	Grapevine Rd	043	Henrico County	043	Henrico County	1.51	Meadow Rd	SR 156; Old Hanover Rd	900	G	76%	1%	1%	17%	5%	0%	F	0.1106	F	0.5853	970	G	2008
+665369	  43	07591	     	43-7591	Hanover Rd	043	Henrico County	043	Henrico County	1.54	Nine Mile Rd	Airport Dr	2800	G	99%	0%	1%	0%	0%	0%	C	0.1005	F	0.5710	3000	G	2008
+665694	  43	07594	     	43-7594	Wilkinson Rd	043	Henrico County	043	Henrico County	0.83	US 1; Brook Rd	Ridge Rd	8600	F	98%	1%	1%	0%	0%	0%	C	0.0942	F	0.0000	9300	F	2008
+665695	  43	07594	     	43-7594	Wilkinson Rd	043	Henrico County	043	Henrico County	0.48	Ridge Rd	US 301; Chamberlayne Ave	6700	G	98%	0%	1%	0%	0%	0%	C	0.1016	F	0.5593	7300	G	2008
+665696	  43	07594	     	43-7594	Wilkinson Rd	043	Henrico County	043	Henrico County	0.56	US 301; Chamberlayne Ave	Diane Lane	7300	G	98%	0%	1%	0%	0%	0%	F	0.0953	F	0.5712	7900	G	2008
+745366	  43	07594	     	43-7594	Wilkinson Rd	043	Henrico County	043	Henrico County	1.44	43-7596 Azalea Gap Terminus	1.44 MN Azalea Near Diane Lane	6100	G							X	0.0859	F	0.5242	6700	G	2008
+665304	  43	07596	     	43-7596	Azalea Ave	043	Henrico County	043	Henrico County	1.33	ECL Richmond	Richmond-Henrico Tpke	14000	G	98%	1%	1%	0%	1%	0%	C	0.0946	F	0.5644	16000	G	2008
+665381	  43	07607	     	43-7607	Oakleys Lane	043	Henrico County	043	Henrico County	1.33	Williamsburg Rd	Holly Ave	7300	G	99%	0%	1%	0%	0%	0%	F	0.0881	F	0.5634	7900	G	2008
+665382	  43	07607	     	43-7607	Holly Ave	043	Henrico County	043	Henrico County	1.03	Oakleys Lane	Nine Mile Rd	3600	G	99%	0%	1%	0%	0%	0%	C	0.0971	F	0.6099	3900	G	2008
+665383	  43	07607	     	43-7607	Holly Ave	043	Henrico County	043	Henrico County	0.49	Nine Mile Rd	W. Washington St	800	G	99%	0%	1%	0%	0%	0%	F	0.1202	F	0.5646	870	G	2008
+665384	  43	07607	     	43-7607	W. Washington St	043	Henrico County	043	Henrico County	0.76	Washington St	SR 156; 43-7591	1900	G	99%	0%	1%	0%	0%	0%	F	0.1044	F	0.6522	2000	G	2008
+665640	  43	07609	     	43-7609	Meadowbridge Rd	043	Henrico County	043	Henrico County	0.23	NCL Richmond	Laburnum Ave	6900	G	99%	0%	1%	0%	0%	0%	F	0.0895	F	0.5932	7500	G	2008
+665641	  43	07609	     	43-7609	Richmond-Henrico Tpke	043	Henrico County	043	Henrico County	1.28	Laburnum Ave	Azalea Ave	6800	G	99%	0%	1%	0%	0%	0%	C	0.0963	F	0.5885	7400	G	2008
+665642	  43	07609	     	43-7609	Richmond-Henrico Tpke	043	Henrico County	043	Henrico County	1.17	Azalea Ave	Hanover County Line	8500	G	99%	0%	1%	0%	0%	0%	F	0.1021	F	0.6712	9200	G	2008
+665330	  43	07613	     	43-7613	Dabbs House Rd	043	Henrico County	043	Henrico County	1.58	Nine Mile Rd	Creighton Rd	3300	G	97%	1%	1%	0%	0%	0%	C	0.0993	F	0.5914	3600	G	2008
+665320	  43	07617	     	43-7617	Cedar Fork Rd	043	Henrico County	043	Henrico County	1.51	West Cedar Fork Rd	Creighton Rd	9300	G							X	0.1069	F	0.5767	10000	G	2008
+665328	  43	07618	     	43-7618	Creighton Rd	043	Henrico County	043	Henrico County	1.51	ECL Richmond	Laburnum Ave	3300	G	99%	0%	1%	0%	0%	0%	C	0.1002	F	0.6753	3500	G	2008
+665329	  43	07618	     	43-7618	Creighton Rd	043	Henrico County	043	Henrico County	2.56	Laburnum Ave	Hanover County Line	12000	G	99%	0%	1%	0%	0%	0%	F	0.1090	F	0.5329	13000	G	2008
+665370	  43	07622	     	43-7622	Harvie Rd	043	Henrico County	043	Henrico County	1.02	Mechanicsville Tpke	Laburnum Ave	6100	G	99%	0%	1%	0%	0%	0%	C	0.0992	F	0.6647	6600	G	2008
+665639	  43	07628	     	43-7628	Meadow Rd	043	Henrico County	043	Henrico County	2.19	Hanover Rd	Grapevine Rd	770	G	99%	0%	0%	0%	0%	0%	C	0.1145	F	0.5955	830	G	2008
+665157	  43	07641	     	43-7641	Libbie Ave	043	Henrico County	043	Henrico County	0.16	ECL Richmond	Monument Ave	14000	G	99%	0%	1%	0%	0%	0%	F	0.0860	F	0.5528	15000	G	2008
+665158	  43	07641	     	43-7641	Libbie Ave	043	Henrico County	043	Henrico County	0.56	Monument Ave	Broad St	17000	G	99%	0%	1%	0%	0%	0%	C	0.0843	F	0.5013	18000	G	2008
+665159	  43	07641	     	43-7641	Libbie Ave	043	Henrico County	043	Henrico County	0.48	Broad St	Bethlehem Rd	9700	G	99%	0%	1%	0%	0%	0%	F	0.0803	F	0.5255	10000	G	2008
+665678	  43	07645	     	43-7645	Three Chopt Rd	043	Henrico County	043	Henrico County	0.17	WCL Richmond	Horsepen Rd	15000	G	99%	0%	1%	0%	0%	0%	F	0.0870	F	0.5100	16000	G	2008
+665679	  43	07645	     	43-7645	Three Chopt Rd	043	Henrico County	043	Henrico County	0.37	Horsepen Rd	Skipwith Rd	14000	G	99%	0%	1%	0%	0%	0%	F	0.0971	F	0.5756	16000	G	2008
+665680	  43	07645	     	43-7645	Three Chopt Rd	043	Henrico County	043	Henrico County	0.49	Skipwith Rd	Forest Ave	12000	G	99%	0%	1%	0%	0%	0%	C	0.0976	F	0.6110	13000	G	2008
+665681	  43	07645	     	43-7645	Three Chopt Rd	043	Henrico County	043	Henrico County	0.79	Forest Ave	Eastridge Rd	21000	G	97%	1%	1%	0%	0%	0%	F	0.0986	F	0.6167	22000	G	2008
+665682	  43	07645	     	43-7645	Three Chopt Rd	043	Henrico County	043	Henrico County	0.62	Eastridge Rd	Parham Rd	13000	F	97%	1%	1%	0%	0%	0%	C	0.0905	F	0.0000	14000	F	2008
+665683	  43	07645	     	43-7645	Three Chopt Rd	043	Henrico County	043	Henrico County	1.32	Parham Rd	Pemberton Ave	11000	G	99%	0%	0%	0%	0%	0%	C	0.0897	F	0.5322	12000	G	2008
+665306	  43	07647	     	43-7647	Dabney Rd	043	Henrico County	043	Henrico County	1.24	Westwood Ave	Bethlehem Rd	6500	G	91%	2%	1%	1%	4%	0%	F	0.1231	F	0.6033	7100	G	2008
+665307	  43	07647	     	43-7647	Bethlehem Rd	043	Henrico County	043	Henrico County	0.39	Dabney Rd	US 33 Staples Mill Rd	7100	G	91%	2%	1%	1%	4%	0%	C	0.1217	F	0.6139	7700	G	2008
+665308	  43	07647	     	43-7647	Bethlehem Rd	043	Henrico County	043	Henrico County	0.84	US 33 Staples Mill Rd	Dickens Rd	5400	G	98%	0%	1%	1%	0%	0%	F	0.1059	F	0.5530	5900	G	2008
+665309	  43	07647	     	43-7647	Bethlehem Rd	043	Henrico County	043	Henrico County	0.92	Dickens Rd	Glenside Drive	5900	G	98%	0%	1%	1%	0%	0%	C	0.1204	F	0.6485	6400	G	2008
+665310	  43	07647	     	43-7647	Bethlehem Rd	043	Henrico County	043	Henrico County	0.33	Glenside Drive	Basie Rd	4200	G	98%	0%	1%	1%	0%	0%	F	0.0977	F	0.6596	4500	G	2008
+665311	  43	07647	     	43-7647	Bethlehem Rd	043	Henrico County	043	Henrico County	0.18	Basie Rd	Broad St	4200	G	98%	0%	1%	1%	0%	0%	F	0.0961	F	0.6173	4600	G	2008
+665665	  43	07649	     	43-7649	Ridge Rd	043	Henrico County	043	Henrico County	0.69	River Rd	Forest Ave	8900	G	99%	0%	0%	0%	0%	0%	C	0.1008	F	0.6218	9700	G	2008
+665666	  43	07649	     	43-7649	Ridge Rd	043	Henrico County	043	Henrico County	0.98	Forest Ave	Parham Rd	5500	G	99%	0%	0%	0%	0%	0%	F	0.0846	F	0.6158	6000	G	2008
+665677	  43	07651	     	43-7651	Sleepy Hollow Dr	043	Henrico County	043	Henrico County	1.07	River Rd	Derbyshire Rd	1900	G	98%	0%	1%	0%	0%	0%	C	0.0963	F	0.6311	2100	G	2008
+665319	  43	07655	     	43-7655	Carolina Ave	043	Henrico County	043	Henrico County	1.67	Laburnum Ave	Richmond-Henrico Tpke	8600	G	96%	1%	1%	1%	2%	0%	C	0.0865	F	0.5066	9400	G	2008
+665348	  43	07657	     	43-7657	Forest Ave	043	Henrico County	043	Henrico County	0.86	Ridge Rd	Patterson Ave	11000	G	99%	0%	1%	0%	0%	0%	C	0.1111	F	0.6672	11000	G	2008
+665182	  43	07657	     	43-7657	Forest Ave	043	Henrico County	043	Henrico County	0.42	Patterson Ave	Three Chopt Rd	9900	G	99%	0%	1%	0%	0%	0%	F	0.1068	F	0.7313	11000	G	2008
+665181	  43	07657	     	43-7657	Forest Ave	043	Henrico County	043	Henrico County	1.43	Three Chopt Rd	Glenside Dr	21000	G	99%	0%	1%	0%	0%	0%	F	0.0946	F	0.6126	22000	G	2008
+665373	  43	07663	     	43-7663	Hermitage Rd	043	Henrico County	043	Henrico County	0.94	Dumbarton Rd	SR 356; Hilliard Rd	3300	G	98%	1%	1%	0%	0%	0%	F	0.1120	F	0.5000	3600	G	2008
+665374	  43	07663	     	43-7663	Hermitage Rd	043	Henrico County	043	Henrico County	0.25	SR 356; Hilliard Rd	43-7550 Woodman Rd	10000	G	98%	1%	1%	0%	0%	0%	C	0.1190	F	0.5641	11000	G	2008
+665375	  43	07663	     	43-7663	Woodman Rd	043	Henrico County	043	Henrico County	1.65	43-7550 Hermitage Rd	43-7518 Parham Rd	8900	G	98%	1%	1%	0%	0%	0%	C	0.1211	F	0.5782	9600	G	2008
+665376	  43	07663	     	43-7663	Woodman Rd	043	Henrico County	043	Henrico County	0.23	43-7518 Parham Rd	43-7526 Hungary Rd	17000	G	98%	1%	1%	0%	0%	0%	F	0.1063	F	0.6871	18000	G	2008
+665377	  43	07663	     	43-7663	Woodman Rd	043	Henrico County	043	Henrico County	0.27	43-7526 Hungary Rd	Aeronca Ave; Ramsey Ct	15000	G	97%	1%	1%	0%	0%	0%	F	0.0997	F	0.6073	17000	G	2008
+665378	  43	07663	     	43-7663	Woodman Rd	043	Henrico County	043	Henrico County	1.36	Aeronca Ave; Ramsey Ct	43-7558 Mountain Rd	13000	G	97%	1%	1%	0%	0%	0%	C	0.1102	F	0.5848	14000	G	2008
+665379	  43	07663	     	43-7663	Woodman Rd	043	Henrico County	043	Henrico County	0.11	43-7558 Mountain Rd	I-295	20000	G	97%	1%	1%	0%	0%	0%	F	0.1151	F	0.6110	22000	G	2008
+665380	  43	07663	     	43-7663	Woodman Rd	043	Henrico County	043	Henrico County	0.46	I-295	43-7685 Greenwood Rd	7800	G	97%	1%	1%	0%	0%	0%	F	0.1094	F	0.5848	8500	G	2008
+665660	  43	07665	     	43-7665	Pump Rd	043	Henrico County	043	Henrico County	0.74	SR 6 Patterson Ave	Gayton Rd	12000	G	99%	0%	0%	0%	0%	0%	C	0.0979	F	0.5213	13000	G	2008
+665661	  43	07665	     	43-7665	Pump Rd	043	Henrico County	043	Henrico County	1.04	Gayton Rd	Ridgefield Pkwy	13000	G	99%	0%	0%	0%	0%	0%	F	0.0969	F	0.5796	14000	G	2008
+665662	  43	07665	     	43-7665	Pump Rd	043	Henrico County	043	Henrico County	0.87	Ridgefield Pkwy	Church Rd	13000	G	99%	0%	0%	0%	0%	0%	F	0.0934	F	0.5219	14000	G	2008
+665663	  43	07665	     	43-7665	Pump Rd	043	Henrico County	043	Henrico County	1.36	Church Rd	US 250 Broad St	13000	G	99%	0%	1%	0%	0%	0%	C	0.0943	F	0.5262	14000	G	2008
+665674	  43	07667	     	43-7667	Skipwith Rd	043	Henrico County	043	Henrico County	0.53	Three Chopt Rd	Forest Ave	5300	G	98%	0%	1%	0%	0%	0%	F	0.1024	F	0.6357	5700	G	2008
+665675	  43	07667	     	43-7667	Skipwith Rd	043	Henrico County	043	Henrico County	0.92	Forest Ave	Hungary Springs Rd	13000	G	98%	0%	1%	0%	0%	0%	F	0.1045	F	0.5754	14000	G	2008
+665676	  43	07667	     	43-7667	Skipwith Rd	043	Henrico County	043	Henrico County	0.77	Hungary Springs Rd	Parham Rd	6100	G	98%	0%	1%	0%	0%	0%	C	0.0980	F	0.5488	6600	G	2008
+665392	  43	07679	     	43-7679	Hungary Springs Rd	043	Henrico County	043	Henrico County	0.64	Skipwith Rd	Broad St	10000	G							X	0.0991	F	0.5014	11000	G	2008
+665393	  43	07679	     	43-7679	Hungary Springs Rd	043	Henrico County	043	Henrico County	0.66	Broad St	Parham Rd	12000	G							X				13000	G	2008
+665394	  43	07679	     	43-7679	Hungary Springs Rd	043	Henrico County	043	Henrico County	0.84	Parham Rd	Staples Mill Rd	13000	G							X				14000	G	2008
+665366	  43	07685	     	43-7685	Greenwood Rd	043	Henrico County	043	Henrico County	1.67	Mountain Rd	Woodman Rd	3500	G	98%	0%	1%	0%	0%	0%	F	0.1011	F	0.5598	3800	G	2008
+655367	  43	07685	     	43-7685	Greenwood Rd	043	Henrico County	043	Henrico County	1.00	Woodman Rd	Branch Rd	3700	G	98%	0%	1%	0%	0%	0%	C	0.1059	F	0.6861	4100	G	2008
+665368	  43	07685	     	43-7685	Greenwood Rd	043	Henrico County	043	Henrico County	1.77	Branch Rd	Hanover County Line	1700	G	98%	0%	1%	0%	0%	0%	F	0.1159	F	0.7224	1800	G	2008
+665664	  43	07687	     	43-7687	Purcell Rd	043	Henrico County	043	Henrico County	1.53	Hungary Rd	Mountain Rd	3700	G	99%	0%	0%	0%	0%	0%	C	0.1157	F	0.5877	4000	G	2008
+745368	  43	07689	     	43-7689	Gordon Ln	043	Henrico County	043	Henrico County	0.49	SR 33 Nine Mile Rd	43-7618 Creighton Rd	4100	G	98%	1%	1%	0%	0%	0%	C	0.0946	F	0.5025	4400	G	2008
+565066	  43	07703	     	43-7703	Lauderdale Rd	043	Henrico County	043	Henrico County	1.26	Patterson Ave	John Rolfe Pkwy	8300	G	99%	0%	1%	0%	0%	0%	F	0.1013	F	0.5774	9000	G	2008
+565067	  43	07703	     	43-7703	Lauderdale Rd	043	Henrico County	043	Henrico County	1.23	John Rolfe Pkwy	Ridgefield Pkwy	5100	G	99%	0%	1%	0%	0%	0%	C	0.0968	F	0.5788	5600	G	2008
+565068	  43	07703	     	43-7703	Lauderdale Rd	043	Henrico County	043	Henrico County	1.33	Ridgefield Pkwy	N Gayton Rd	5900	G	99%	0%	1%	0%	0%	0%	F	0.0976	F	0.5521	6400	G	2008
+565069	  43	07703	     	43-7703	Lauderdale Rd	043	Henrico County	043	Henrico County	1.10	N Gayton Rd	US 250 Broad St	13000	G	99%	0%	1%	0%	0%	0%	C	0.0929	F	0.5873	14000	G	2008
+665347	  43	07704	     	43-7704	Falconbridge Dr	043	Henrico County	043	Henrico County	1.31	Pump Rd	Ridgefield Pkwy	2300	G	98%	0%	1%	0%	0%	0%	C	0.1036	F	0.5885	2500	G	2008
+665349	  43	07705	     	43-7705	Francistown Rd	043	Henrico County	043	Henrico County	1.58	Hungary Rd	SR 157 Springfield Rd	7300	G	98%	1%	1%	0%	0%	0%	C	0.1220	F	0.5801	7900	G	2008
+745369	  43	07706	     	43-7706	Nuckols Rd	043	Henrico County	043	Henrico County	1.65	SR 271 Pouncey Tract Rd	Shady Grove Rd	7500	G	97%	1%	1%	1%	0%	0%	F	0.1137	F	0.5881	8200	G	2008
+565070	  43	07706	     	43-7706	Nuckols Rd	043	Henrico County	043	Henrico County	1.44	Shady Grove Rd	I-295	22000	G	97%	1%	1%	1%	0%	0%	C	0.1032	F	0.5818	24000	G	2008
+565071	  43	07706	     	43-7706	Nuckols Rd	043	Henrico County	043	Henrico County	0.82	I-295	Cox Rd	32000	G	99%	0%	1%	0%	0%	0%	F	0.1146	F	0.7459	34000	G	2008
+565072	  43	07706	     	43-7706	Nuckols Rd	043	Henrico County	043	Henrico County	0.62	Cox Rd	Springfield Rd; Gap	17000	G	99%	0%	1%	0%	0%	0%	C	0.1168	F	0.6916	19000	G	2008
+794714	  43	07706	     	43-7706	Nuckols Rd	043	Henrico County	043	Henrico County	0.14	Drayton Dr; Gap	Crystal Brook Terrace; Gap	590	N	98%	1%	1%	0%	0%	0%	N	0.1509	N	0.5521	640	N	2008
+745370	  43	07706	     	43-7706	Nuckols Rd	043	Henrico County	043	Henrico County	0.26	Fairlake Lane; Gap	Francistown Rd	590	G	98%	1%	1%	0%	0%	0%	C	0.1509	F	0.5521	640	G	2008
+665691	  43	07707	     	43-7707	West End Dr	043	Henrico County	043	Henrico County	0.50	Broad St Rd	Greenford Dr	11000	G	99%	0%	1%	0%	0%	0%	C	0.1112	F	0.6121	12000	G	2008
+745371	  43	07707	     	43-7707	West End Dr	043	Henrico County	043	Henrico County	0.53	Greenford Dr	43-7526 Hungary Rd	9600	G	99%	0%	1%	0%	0%	0%	F	0.1106	F	0.5914	10000	G	2008
+665698	  43	07708	     	43-7708	Mayland Dr	043	Henrico County	043	Henrico County	0.44	43-7514 Gaskins Rd	SR 157 Pemberton Rd	0	?							X
+665692	  43	07708	     	43-7708	Mayland Dr	043	Henrico County	043	Henrico County	0.62	SR 157 Pemberton Rd	43-7709 Tuckernuck Dr	0	?							X
+665638	  43	07708	     	43-7708	Mayland Dr	043	Henrico County	043	Henrico County	0.49	43-7709 Tuckernuck Dr	Parham Rd	11000	G	99%	0%	0%	0%	0%	0%	C	0.0920	F	0.5590	12000	G	2008
+665687	  43	07709	     	43-7709	Tuckernuck Dr	043	Henrico County	043	Henrico County	0.53	Broad St	Mayland Dr	8800	G	99%	0%	0%	0%	0%	0%	C	0.0942	F	0.5941	9500	G	2008
+665326	  43	07710	     	43-7710	Courtney Rd	043	Henrico County	043	Henrico County	0.78	Staples Mill Rd	Mountain Rd	1300	G	98%	1%	1%	0%	0%	0%	C	0.1171	F	0.6646	1400	G	2008
+665305	  43	07712	     	43-7712	Basie Rd	043	Henrico County	043	Henrico County	0.44	Bethlehem Rd	Bremner Blvd	3700	G	98%	0%	1%	0%	0%	0%	C	0.1042	F	0.5975	4000	G	2008
+665315	  43	07712	     	43-7712	Bremner Blvd	043	Henrico County	043	Henrico County	0.62	Basie Rd	Staples Mill Rd	3700	G	98%	0%	1%	0%	0%	0%	F	0.1086	F	0.5876	4000	G	2008
+665654	  43	07714	     	43-7714	Pilots Lane	043	Henrico County	043	Henrico County	0.26	NCL Richmond	Laburnum Ave	1500	G	99%	0%	1%	0%	0%	0%	F	0.0997	F	0.6054	1600	G	2008
+665655	  43	07714	     	43-7714	Pilots Ln	043	Henrico County	043	Henrico County	0.22	Laburnum Ave	Oronco Ave	1300	G	99%	0%	1%	0%	0%	0%	F	0.0900	F	0.5252	1400	G	2008
+665656	  43	07714	     	43-7714	Oronco Ave	043	Henrico County	043	Henrico County	0.30	Pilots Lane	Richmond-Henrico Tpke	1400	G	99%	0%	1%	0%	0%	0%	C	0.1190	F	0.5479	1500	G	2008
+665659	  43	07715	     	43-7715	Pleasant St	043	Henrico County	043	Henrico County	1.35	Holly Ave	Nine Mile Rd	2500	G	99%	0%	0%	0%	0%	0%	C	0.0905	F	0.5138	2700	G	2008
+745374	  43	07716	     	43-7716	Autobon Dr	043	Henrico County	043	Henrico County	1.40	43-7555 Laburnum Ave	SR 156	5400	G	96%	1%	1%	1%	1%	0%	C	0.0908	F	0.5366	5900	G	2008
+665346	  43	07717	     	43-7717	Eubank Rd	043	Henrico County	043	Henrico County	0.48	Laburnum Ave	Lewis Rd	3500	G	89%	2%	2%	1%	5%	0%	C	0.0878	F	0.5665	3800	G	2008
+665651	  43	07718	     	43-7718	Oakland Rd	043	Henrico County	043	Henrico County	1.56	Osborne Tpke	Darbytown Rd	2800	G	96%	1%	1%	2%	0%	0%	C	0.0951	F	0.5414	3000	G	2008
+665697	  43	07722	     	43-7722	Willow Lawn Dr	043	Henrico County	043	Henrico County	0.62	NCL Richmond	Broad St	7600	G	99%	0%	1%	0%	0%	0%	F	0.1020	F	0.5434	8300	G	2008
+665321	  43	07723	     	43-7723	Charles City Rd	043	Henrico County	043	Henrico County	1.92	Williamsburg Rd	Laburnum Ave	3900	G	88%	2%	1%	7%	2%	0%	C	0.0940	F	0.5171	4300	G	2008
+665322	  43	07723	     	43-7723	Charles City Rd	043	Henrico County	043	Henrico County	2.58	Laburnum Ave	Britton Rd	2400	G	88%	2%	1%	7%	2%	0%	F	0.1065	F	0.6712	2600	G	2008
+665323	  43	07723	     	43-7723	Charles City Rd	043	Henrico County	043	Henrico County	5.43	Britton Rd	Darbytown Rd	1800	G	88%	2%	1%	7%	2%	0%	F	0.1099	F	0.7011	1900	G	2008
+559000	  43	00000	     	43-0	Aeronca Ave	043	Henrico County	043	Henrico County	0.00	Woodman Rd	Thacker Lane	1000	G							X	0.1003	F	0.6524	1000	G	2008
+559010	  43	00000	     	43-0	Allenshaw Dr	043	Henrico County	043	Henrico County	0.00	Finlay St	Probst St	610	G							X	0.1006	F	0.6640	610	G	2008
+559028	  43	00000	     	43-0	Alvarado Rd	043	Henrico County	043	Henrico County	0.00	Michael Rd	Nortonia Rd	1300	G							X	0.1093	F	0.5636	1300	G	2008
+559011	  43	00000	     	43-0	Andover Rd	043	Henrico County	043	Henrico County	0.00	Gayton Rd	Camrose Rd	550	G							X	0.0941	F	0.5333	550	G	2008
+559040	  43	00000	     	43-0	Antioch Rd	043	Henrico County	043	Henrico County	0.00	Dilworth Cir	Woodview Dr	430	G							X	0.0991	F	0.6163	430	G	2008
+559086	  43	00000	     	43-0	Antionette Dr	043	Henrico County	043	Henrico County	0.00	Wilkerson Rd	Kahlua Dr	520	G							X	0.1226	F	0.5846	520	G	2008
+559012	  43	00000	     	43-0	Argus Ln	043	Henrico County	043	Henrico County	0.00	Libbie Ave	Beacon Lane	400	G							X	0.1280	F	0.6571	400	G	2008
+559013	  43	00000	     	43-0	Athens Ave	043	Henrico County	043	Henrico County	0.00	US 1	Aberdeen St	1600	G							X	0.1316	F	0.7807	1600	G	2008
+559050	  43	00000	     	43-0	Attems Way	043	Henrico County	043	Henrico County	0.00	Alf Ct	Heritage Lane	2500	G							X	0.1079	F	0.6312	2500	G	2008
+559102	  43	00000	     	43-0	Avalon Dr	043	Henrico County	043	Henrico County	0.00	Mayberry Rd	Farmwood Dr	850	G							X	0.1623	F	0.7138	850	G	2008
+559014	  43	00000	     	43-0	Baldwin Rd	043	Henrico County	043	Henrico County	0.00	SR 6 Patterson Ave	Hollins Rd	580	G							X	0.1395	F	0.7561	580	G	2008
+559060	  43	00000	     	43-0	Battery Ave	043	Henrico County	043	Henrico County	0.00	Artillery Dr	Washington St	160	G							X	0.1104	F	0.6571	160	G	2008
+559015	  43	00000	     	43-0	Bayard Rd	043	Henrico County	043	Henrico County	0.00	US 33	Biloxi Rd	590	G							X	0.1006	F	0.6033	590	G	2008
+559111	  43	00000	     	43-0	Bentbrook Dr	043	Henrico County	043	Henrico County	0.00	Gilchrist Ave	Piccadilly Rd	250	G							X				250	G	2008
+559031	  43	00000	     	43-0	Broad Meadows Dr	043	Henrico County	043	Henrico County	0.00	Mesquite Rd	Fireside Dr	480	G							X	0.1493	F	0.8219	480	G	2008
+559048	  43	00000	     	43-0	Broad Meadows Rd	043	Henrico County	043	Henrico County	0.00	Darrowby Rd	Francistown Rd	1800	G							X	0.1289	F	0.7792	1800	G	2008
+559087	  43	00000	     	43-0	Broadway Ave	043	Henrico County	043	Henrico County	0.00	Second Ave	Oakdale Ave	380	G							X	0.1115	F	0.6512	380	G	2008
+559076	  43	00000	     	43-0	Byron St	043	Henrico County	043	Henrico County	0.00	Hargrove Ave	Thompson St	2600	G							X	0.0860	F	0.5893	2600	G	2008
+559032	  43	00000	     	43-0	Camrose Rd	043	Henrico County	043	Henrico County	0.00	Vassar Rd	Lester Lane	610	G							X	0.1245	F	0.5484	610	G	2008
+559070	  43	00000	     	43-0	Candlewood Ln	043	Henrico County	043	Henrico County	0.00	Meadow Rd	Mailbrook Lane	360	G							X	0.0980	F	0.6667	360	G	2008
+559016	  43	00000	     	43-0	Charnwood Rd	043	Henrico County	043	Henrico County	0.00	Shadow Lane	Higginbotham Pl	320	G							X	0.1014	F	0.5606	320	G	2008
+559094	  43	00000	     	43-0	Chickahominy Ave	043	Henrico County	043	Henrico County	0.00	Ott St	Springdale Rd	340	G							X	0.1188	F	0.7683	340	G	2008
+559049	  43	00000	     	43-0	Chickahominy Branch Dr	043	Henrico County	043	Henrico County	0.00	River Run Dr	Mill Rd	460	G							X	0.1174	F	0.7273	460	G	2008
+559042	  43	00000	     	43-0	Clauson Rd	043	Henrico County	043	Henrico County	0.00	Hood Dr	Franconia Rd	110	G							X	0.1504	F	0.5294	110	G	2008
+559047	  43	00000	     	43-0	Cliffmore Dr	043	Henrico County	043	Henrico County	0.00	Schaum Ct	Springfield Rd	560	G							X	0.1029	F	0.7712	560	G	2008
+559114	  43	00000	     	43-0	Cliffmore Dr	043	Henrico County	043	Henrico County	0.00	Baria Dr	Schaum Ct	240	G							X				240	G	2008
+559107	  43	00000	     	43-0	Cloverdale St	043	Henrico County	043	Henrico County	0.00	Penick Road	Glenside Dr	1100	G							X	0.1257	F	0.6075	1100	G	2008
+559021	  43	00000	     	43-0	Cole Blvd	043	Henrico County	043	Henrico County	0.00	Virginia Rd	Washington Rd	860	G							X	0.1950	F	0.5364	860	G	2008
+559053	  43	00000	     	43-0	Cole Blvd	043	Henrico County	043	Henrico County	0.00	Longdale Ave	Norfolk St	780	G							X	0.2179	F	0.5402	780	G	2008
+559079	  43	00000	     	43-0	Colleen Rd	043	Henrico County	043	Henrico County	0.00	Subrenda Dr	Annlyn Dr	750	G							X	0.0944	F	0.6528	750	G	2008
+559090	  43	00000	     	43-0	Colony Bluff Dr	043	Henrico County	043	Henrico County	0.00	Bonruth Pl	Dellbrooks Pl	800	G							X	0.1128	F	0.5191	800	G	2008
+559057	  43	00000	     	43-0	Comet Rd	043	Henrico County	043	Henrico County	0.00	Rudolph Rd	Skipwith Rd	810	G							X	0.1084	F	0.5111	810	G	2008
+792606	  43	00000	     	43-0	Cookes Farm Dr	043	Henrico County	043	Henrico County	0.00	Dead End	Warriner Rd	170	G							X	0.1329	F	0.6522	170	G	2008
+559103	  43	00000	     	43-0	Copperas Lane	043	Henrico County	043	Henrico County	0.00	Glen Point Cir	Brandon Creek Pl	3100	G							X	0.1287	F	0.6569	3100	G	2008
+559118	  43	00000	     	43-0	Cottage Cove Dr	043	Henrico County	043	Henrico County	0.00	Northwind Dr	Causeway Dr	730	G							X				730	G	2008
+559085	  43	00000	     	43-0	Cottage St	043	Henrico County	043	Henrico County	0.00	Maplewood Rd	Parkside Ave	1500	G							X	0.1253	F	0.5106	1500	G	2008
+559066	  43	00000	     	43-0	Country Creek Way	043	Henrico County	043	Henrico County	0.00	SR 271 Pouncy Tract Rd	Country Creek Ct	930	G							X	0.0958	F	0.6096	930	G	2008
+559068	  43	00000	     	43-0	Crystalwood Ln	043	Henrico County	043	Henrico County	0.00	West End Dr	Donaldwood DR	260	G							X	0.1179	F	0.5806	260	G	2008
+559058	  43	00000	     	43-0	Damascus Dr	043	Henrico County	043	Henrico County	0.00	Upham Dr	Old Orchard Rd	390	G							X	0.1207	F	0.6632	390	G	2008
+559117	  43	00000	     	43-0	Damascus Dr	043	Henrico County	043	Henrico County	0.00	Old Orchard Rd	Brookfield Rd	470	G							X				470	G	2008
+559106	  43	00000	     	43-0	Dresden Rd	043	Henrico County	043	Henrico County	0.00	Three Chopt Rd	Claymont Rd	1300	G							X	0.1005	F	0.5827	1300	G	2008
+559099	  43	00000	     	43-0	Drovin Dr	043	Henrico County	043	Henrico County	0.00	Westwick Rd	Kingsbridge Rd	120	G							X	0.1089	F	0.5185	120	G	2008
+559034	  43	00000	     	43-0	Fenwick St	043	Henrico County	043	Henrico County	0.00	Laburnum Ave	Sizer Rd	670	G							X	0.0967	F	0.6364	670	G	2008
+559116	  43	00000	     	43-0	Franconia Rd	043	Henrico County	043	Henrico County	0.00	Diane Lane	Clauson Rd	410	G							X				410	G	2008
+559029	  43	00000	     	43-0	Galaxie Rd	043	Henrico County	043	Henrico County	0.00	Alycia Ave	Vernon Rd	2000	G							X	0.1773	F	0.5129	2000	G	2008
+559059	  43	00000	     	43-0	Gay Ave	043	Henrico County	043	Henrico County	0.00	Lakefield Mews Dr	Millers Lane	6400	G							X	0.0941	F	0.5319	6400	G	2008
+559033	  43	00000	     	43-0	Gunby Rd	043	Henrico County	043	Henrico County	0.00	Belfort Rd	Wishart Rd	640	G							X	0.1133	F	0.5503	640	G	2008
+559051	  43	00000	     	43-0	Hamilton Rd	043	Henrico County	043	Henrico County	0.00	Englewood Rd	Mountain Rd	1100	G							X	0.1133	F	0.6757	1100	G	2008
+559100	  43	00000	     	43-0	Henrico Ave	043	Henrico County	043	Henrico County	0.00	Ridge Rd	David Dr	740	G							X	0.1867	F	0.8107	740	G	2008
+559092	  43	00000	     	43-0	Hickory Ave	043	Henrico County	043	Henrico County	0.00	Wildwood St	SR 5; New Market Rd	170	G							X	0.1147	F	0.6667	170	G	2008
+559095	  43	00000	     	43-0	Hilliard Rd	043	Henrico County	043	Henrico County	0.00	Chamberlayne Ave	Hawthorne Ave	340	G							X	0.1003	F	0.7246	340	G	2008
+559063	  43	00000	     	43-0	Hillside Ave	043	Henrico County	043	Henrico County	0.00	Three Chopt Rd	Granger Rd	370	G							X	0.1355	F	0.6471	370	G	2008
+559067	  43	00000	     	43-0	Holly Hill Dr	043	Henrico County	043	Henrico County	0.00	N Parham Rd	Saint Michaels Lane	3900	G							X	0.1022	F	0.5521	3900	G	2008
+565062	  43	00000	     	43-0	Horsepen Rd	043	Henrico County	043	Henrico County	0.00	Patterson Ave	Three Chopt Rd	8400	G							X	0.1039	F	0.6995	9100	G	2008
+559030	  43	00000	     	43-0	Hungary Ridge Dr	043	Henrico County	043	Henrico County	0.00	Hungary Rd	Hungary Ridge Ct	820	G							X	0.1184	F	0.6566	820	G	2008
+565063	  43	00000	     	43-0	Hungary Springs Rd	043	Henrico County	043	Henrico County	0.00	Staples Mill Rd	Hungary Rd	5100	G							X	0.0949	F	0.5787	5500	G	2008
+559072	  43	00000	     	43-0	Ivy Ave	043	Henrico County	043	Henrico County	0.00	Beal St	Read St	200	G							X	0.1135	F	0.5532	200	G	2008
+565064	  43	00000	     	43-0	John Rolfe Pkwy	043	Henrico County	043	Henrico County	0.00	Lauderdale Rd	Ridgefield Pkwy	5000	G							X	0.0952	F	0.5325	5400	G	2008
+559108	  43	00000	     	43-0	Jordan Dr	043	Henrico County	043	Henrico County	0.00	Mountain Rd	Bowles Lane	330	G							X	0.0995	F	0.5606	330	G	2008
+559045	  43	00000	     	43-0	Kain Rd	043	Henrico County	043	Henrico County	0.00	SR 271; Pouncy Tract Rd	Willane Rd	1100	G							X	0.0931	F	0.6010	1100	G	2008
+559037	  43	00000	     	43-0	Kinvan Rd	043	Henrico County	043	Henrico County	0.00	Strath Rd	Beowulf Dr	590	G							X	0.1114	F	0.7612	590	G	2008
+559020	  43	00000	     	43-0	Lafayette Ave	043	Henrico County	043	Henrico County	0.00	Linbrook Dr	Thornrose Ave	240	G							X	0.1056	F	0.6078	240	G	2008
+559052	  43	00000	     	43-0	Lakefront Dr	043	Henrico County	043	Henrico County	0.00	Monida Rd	Sunburst Rd	240	G							X	0.1349	F	0.5172	240	G	2008
+559062	  43	00000	     	43-0	Lakewood Rd	043	Henrico County	043	Henrico County	0.00	Creston Rd	Meadowbrook Rd	330	G							X	0.1123	F	0.5263	330	G	2008
+559061	  43	00000	     	43-0	Lambeth Rd	043	Henrico County	043	Henrico County	0.00	Mountain Rd	Glen Lake Dr	630	G							X	0.1131	F	0.5205	630	G	2008
+559113	  43	00000	     	43-0	Lampworth Rd	043	Henrico County	043	Henrico County	0.00	Lampworth Cir	Lampworth Ct	250	G							X				250	G	2008
+559065	  43	00000	     	43-0	Lawndell Rd	043	Henrico County	043	Henrico County	0.00	Haviland Dr	Murdock Rd	1600	G							X	0.1031	F	0.5872	1600	G	2008
+559115	  43	00000	     	43-0	Lothbury Lane	043	Henrico County	043	Henrico County	0.00	Brendonridge Lane	Edenbury Dr	60	G							X				60	G	2008
+559019	  43	00000	     	43-0	Lourdes Rd	043	Henrico County	043	Henrico County	0.00	Hermitage Rd	Galway Lane	1400	G							X	0.1292	F	0.6555	1400	G	2008
+559069	  43	00000	     	43-0	Marlin Dr	043	Henrico County	043	Henrico County	0.00	SR 33; Nine Mile Rd	Third St	510	G							X	0.0971	F	0.6832	510	G	2008
+559026	  43	00000	     	43-0	Meadow View Rd	043	Henrico County	043	Henrico County	0.00	SR 157	Ceres Rd	210	G							X	0.1384	F	0.6364	210	G	2008
+559025	  43	00000	     	43-0	Megan Dr	043	Henrico County	043	Henrico County	0.00	Mountain Rd	Megan Way	340	G							X	0.1060	F	0.5946	340	G	2008
+559071	  43	00000	     	43-0	Midview Rd	043	Henrico County	043	Henrico County	0.00	SR 5	Holland St	2300	G							X	0.0953	F	0.7358	2300	G	2008
+559093	  43	00000	     	43-0	Monaco Dr	043	Henrico County	043	Henrico County	0.00	Rasmussen Dr	Turka Dr	540	G							X	0.1096	F	0.5583	540	G	2008
+559096	  43	00000	     	43-0	Montclair Rd	043	Henrico County	043	Henrico County	0.00	Harvie Rd	E Laburnum Ave	570	G							X	0.0870	F	0.5392	570	G	2008
+559039	  43	00000	     	43-0	Mooreland Rd	043	Henrico County	043	Henrico County	0.00	Norwick Rd	Tolman Rd	2100	G							X	0.1030	F	0.6644	2100	G	2008
+559075	  43	00000	     	43-0	Neal St	043	Henrico County	043	Henrico County	0.00	US 360	Bolling Rd	4400	G							X	0.0888	F	0.6138	4400	G	2008
+559022	  43	00000	     	43-0	North Run Rd	043	Henrico County	043	Henrico County	0.00	Hungary Rd	Joycelyn Ct	3400	G							X	0.1040	F	0.6813	3400	G	2008
+565074	  43	00000	     	43-0	Old Hanover Rd	043	Henrico County	043	Henrico County	0.00	Grapevine Rd	SR 156; Airport Dr	980	G							X	0.0856	F	0.5628	1100	G	2008
+559120	  43	00000	     	43-0	Omega Rd	043	Henrico County	043	Henrico County	0.00	Purcell Rd	Fruehauf Rd	110	G							X				110	G	2008
+559055	  43	00000	     	43-0	Opaca Ln	043	Henrico County	043	Henrico County	0.00	Nuckols Rd	Chapel Rd	220	G							X	0.1043	F	0.5652	220	G	2008
+559018	  43	00000	     	43-0	Penick Rd	043	Henrico County	043	Henrico County	0.00	Delwood St	Cloverdale St	1600	G							X	0.1152	F	0.5561	1600	G	2008
+559119	  43	00000	     	43-0	Pinoak Rd	043	Henrico County	043	Henrico County	0.00	Harvie Rd	Dixie Rd	70	G							X				70	G	2008
+559073	  43	00000	     	43-0	Pleasant St	043	Henrico County	043	Henrico County	0.00	Yates Lane	Apple Grove Lane	2400	G							X	0.0849	F	0.6336	2400	G	2008
+559121	  43	00000	     	43-0	Poates Dr	043	Henrico County	043	Henrico County	0.00	Beagle Dr	Galway Lane	400	G							X				400	G	2008
+559038	  43	00000	     	43-0	Poplar Spring Rd	043	Henrico County	043	Henrico County	0.00	Charles City Rd	Portugee Rd	2000	G							X	0.0972	F	0.8313	2000	G	2008
+559082	  43	00000	     	43-0	Raines Ave	043	Henrico County	043	Henrico County	0.00	Gray St	Wooton Rd	980	G							X	0.1032	F	0.6117	980	G	2008
+559088	  43	00000	     	43-0	Raintree Dr	043	Henrico County	043	Henrico County	0.00	Pepperbill Lane	Falconbridge Dr	2600	G							X	0.1029	F	0.5231	2600	G	2008
+559081	  43	00000	     	43-0	Raleigh Rd	043	Henrico County	043	Henrico County	0.00	US 60	Caswell St	470	G							X	0.1068	F	0.5098	470	G	2008
+559122	  43	00000	     	43-0	Richmond-Henrico Tpke	043	Henrico County	043	Henrico County	0.00	NCL Richmond	Laburnum Ave	1700	G							X	0.1186	F	0.6675	1700	G	2008
+559083	  43	00000	     	43-0	Sandston Ave	043	Henrico County	043	Henrico County	0.00	Roy Rd	Huntsman Rd	400	G							X	0.1104	F	0.6813	400	G	2008
+559078	  43	00000	     	43-0	Sandy Ln	043	Henrico County	043	Henrico County	0.00	Harvie Rd	Glenda Rd	1900	G							X	0.0964	F	0.5598	1900	G	2008
+559084	  43	00000	     	43-0	Santa Clara Dr	043	Henrico County	043	Henrico County	0.00	Barck Pl	Tarrytown Dr	250	G							X	0.1695	F	0.7200	250	G	2008
+559041	  43	00000	     	43-0	Scotland Ln	043	Henrico County	043	Henrico County	0.00	Glasgow St	Sadler Rd	500	G							X	0.0927	F	0.6915	500	G	2008
+559054	  43	00000	     	43-0	Scott Rd	043	Henrico County	043	Henrico County	0.00	Best Plaza	Level Green Lane	350	G							X	0.1248	F	0.6591	350	G	2008
+559097	  43	00000	     	43-0	Second Ave	043	Henrico County	043	Henrico County	0.00	Broadway Ave	Ackley Ave	290	G							X	0.1199	F	0.5857	290	G	2008
+559091	  43	00000	     	43-0	Sedgwick St	043	Henrico County	043	Henrico County	0.00	Confederate Ave	Wilson Way	180	G							X	0.1209	F	0.7727	180	G	2008
+559074	  43	00000	     	43-0	Springdale Rd	043	Henrico County	043	Henrico County	0.00	Gaines Rd	Thomas Dr	1600	G							X	0.0926	F	0.5724	1600	G	2008
+559024	  43	00000	     	43-0	St Charles Rd	043	Henrico County	043	Henrico County	0.00	Glidewell Rd	Diane Lane	1200	G							X	0.1080	F	0.6642	1200	G	2008
+559089	  43	00000	     	43-0	Stoneleigh St	043	Henrico County	043	Henrico County	0.00	Buckingham Ave	Essex Rd	370	G							X	0.1070	F	0.7250	370	G	2008
+559027	  43	00000	     	43-0	Terry Dr	043	Henrico County	043	Henrico County	0.00	Timber Rd	Royerton Dr	1100	G							X	0.0934	F	0.5413	1100	G	2008
+559043	  43	00000	     	43-0	Thorncroft Dr	043	Henrico County	043	Henrico County	0.00	Sadler Rd	Waterfront Dr	300	G							X	0.1070	F	0.5758	300	G	2008
+559046	  43	00000	     	43-0	Thorncroft Dr	043	Henrico County	043	Henrico County	0.00	Riverdale Ave	Chicopee Rd	710	G							X	0.1464	F	0.5070	710	G	2008
+559112	  43	00000	     	43-0	Tiffanywoods Lane	043	Henrico County	043	Henrico County	0.00	Cedar Fork Rd	Cloverfield Lane	630	G							X				630	G	2008
+559080	  43	00000	     	43-0	Union St	043	Henrico County	043	Henrico County	0.00	Garland Ave	Medlock Rd	170	G							X	0.1239	F	0.7619	170	G	2008
+559056	  43	00000	     	43-0	Valleyfield Rd	043	Henrico County	043	Henrico County	0.00	Stoneman Rd	Wistar Rd	680	G							X	0.0957	F	0.5455	680	G	2008
+559104	  43	00000	     	43-0	Warren View Rd	043	Henrico County	043	Henrico County	0.00	Evansdale Rd	Poplar Forest Dr	270	G							X	0.1416	F	0.6341	270	G	2008
+792607	  43	00000	     	43-0	Warriner Rd	043	Henrico County	043	Henrico County	0.00	Charles City Rd	Cookes Farm Dr	910	G							X	0.0941	F	0.7011	910	G	2008
+559077	  43	00000	     	43-0	Watts Ln	043	Henrico County	043	Henrico County	0.00	US 360	Rosser Rd	3400	G							X	0.0860	F	0.5301	3400	G	2008
+559017	  43	00000	     	43-0	Weldon Dr	043	Henrico County	043	Henrico County	0.00	Parham Rd	Bridle Lane	250	G							X	0.1170	F	0.6833	250	G	2008
+559105	  43	00000	     	43-0	Wilde Lake Dr	043	Henrico County	043	Henrico County	0.00	Causeway Dr	Northlake Dr	530	G							X	0.1221	F	0.6063	530	G	2008
+559035	  43	00000	     	43-0	Wilderness Dr	043	Henrico County	043	Henrico County	0.00	Dead End	Kilgore St	110	G							X	0.1644	F	0.5000	110	G	2008
+559064	  43	00000	     	43-0	Wistar St	043	Henrico County	043	Henrico County	0.00	US 250- Broad St	Oak Ridge Rd	290	G							X	0.1531	F	0.8222	290	G	2008
+559098	  43	00000	     	43-0	Wood Rd	043	Henrico County	043	Henrico County	0.00	Baldwin Rd	Sunderland Rd	140	G							X	0.1092	F	0.6875	140	G	2008
+559101	  43	00000	     	43-0	Woodberry Rd	043	Henrico County	043	Henrico County	0.00	Westham Pkwy	Horsepen Rd	170	G							X	0.1080	F	0.0000	170	G	2008
+559044	  43	00000	     	43-0	Wyndham Park Dr	043	Henrico County	043	Henrico County	0.00	Wyndam Lake Dr	Dominion Club Dr	4100	G							X	0.1011	F	0.7469	4100	G	2008
+559036	  43	00000	     	43-0	Yarnell Rd	043	Henrico County	043	Henrico County	0.00	Wilson Rd	Miller Rd	70	G							X	0.1288	F	0.8824	70	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

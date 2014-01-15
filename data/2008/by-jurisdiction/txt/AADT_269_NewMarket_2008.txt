@@ -1,0 +1,80 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of New Market																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080488	  US	00011	     	US 11	South Congress St	269	Town of New Market	085	Shenandoah County	1.16	Shenandoah County Line	US 211 South Int New Market	4300	F	96%	0%	1%	0%	2%	0%	C	0.0875	F	0.0000	4500	F	2008
+080487	  US	00011	     	US 11, US 211	Congress St	269	Town of New Market	085	Shenandoah County	0.27	US 211 South Int New Market	US 211 North Int New Market	7200	F	96%	0%	1%	0%	2%	0%	F	0.0791	F	0.0000	7500	F	2008
+080486	  US	00011	     	US 11	North Congress St	269	Town of New Market	085	Shenandoah County	0.36	US 211 North Int New Market	NCL New Market	5100	F	97%	0%	1%	1%	1%	0%	F	0.0836	F	0.0000	5400	F	2008
+080528	  IS	00081	N    	I-81 NB	 	269	Town of New Market	085	Shenandoah County	0.85	SCL New Market	NCL New Market	17000	F	74%	1%	1%	1%	22%	2%	F				17000	F	2008		35000	F	75%	1%	1%	1%	21%	2%	F				35000	F
+180034	  IS	00081	S    	I-81 SB	 	269	Town of New Market	085	Shenandoah County	0.24	SCL New Market	US 211 Old Cross Rd	18000	G	76%	1%	1%	1%	20%	2%	F	0.0679	F	1.0000	18000	G	2008		37000	G	75%	1%	1%	1%	21%	2%	F	0.0000	?	0.0000	36000	G
+180020	  IS	00081	S    	I-81 SB	 	269	Town of New Market	085	Shenandoah County	0.61	US 211 Old Cross Rd	NCL New Market	18000	F	76%	1%	1%	1%	20%	2%	F				18000	F	2008		35000	F	75%	1%	1%	1%	21%	2%	F				35000	F
+080506	  US	00211	     	US 211	W Old Cross Rd	269	Town of New Market	085	Shenandoah County	0.26	I-81 West of New Market	US 11 New Market South Int	11000	F	96%	1%	1%	1%	2%	0%	C	0.0816	F	0.0000	12000	F	2008
+080487	  US	00211	     	US 11, US 211	Congress St	269	Town of New Market	085	Shenandoah County	0.27	US 11 S, Congress St; South Congress St	US 11 N, North Congress St; Congress St	7200	F	96%	0%	1%	0%	2%	0%	F	0.0791	F	0.0000	7500	F	2008	
+080505	  US	00211	     	US 211	Lee Highway	269	Town of New Market	085	Shenandoah County	0.45	US 11 New Market North Int	ECL New Market	5400	F	91%	1%	1%	2%	6%	0%	C	0.0855	F	0.0000	5600	F	2008
+080535	  SR	00211	     	VA 211	W Old Cross Rd	269	Town of New Market	085	Shenandoah County	0.42	WCL New Market	I-81 West of New Market	6100	N	93%	1%	1%	1%	4%	0%	N	0.0826	N	0.0000	6400	N	2008
+080509	  SR	00305	     	VA 305	George Collins Parkway	269	Town of New Market	085	Shenandoah County	1.79	SR 211 W Old Cross Rd	Battlefield Park Entrance	180	F	95%	3%	2%	0%	0%	0%	C	0.2828	F	0.9520	180	F	2008
+770450	  85	00619	     	85-619	Miller Lane	269	Town of New Market	085	Shenandoah County	0.08	SCL New Market	SR 211; SR 305 George Collins Pkwy	230	R							X						04/02/2008
+770730	  85	00719	     	85-719	Dixie Lane	269	Town of New Market	085	Shenandoah County	0.06	US 11, North Congress St	85-1001 John Sevier Rd	620	R							X						08/25/2005
+770731	  85	00719	     	85-719	Dixie Lane	269	Town of New Market	085	Shenandoah County	0.10	85-1001 John Sevier Rd	Dead End	200	R							X						04/02/2008
+770775	  85	00735	     	85-735	Smith Creek Rd	269	Town of New Market	085	Shenandoah County	0.05	85-1002 Old Cross Rd	ECL New Market	670	R							X						04/02/2008
+770876	  85	00787	     	85-787	Shenandoah Dr	269	Town of New Market	085	Shenandoah County	0.35	SR 211 Old Cross Rd	Cul-de-Sac	450	R							X						06/02/2008
+785216	  85	00823	     	85-823	Clicks Lane	269	Town of New Market	085	Shenandoah County	0.40	US 11 South Congress St	ECL New Market	1000	R							X						03/28/2002
+302814	  85	01001	     	85-1001	John Sevier Rd	269	Town of New Market	085	Shenandoah County	0.80	85-1020 Fairway Dr	US 211 Lee Hwy	1300	F	98%	0%	0%	0%	1%	0%	C	0.1065	F	0.5448	1300	F	2008
+770945	  85	01001	     	85-1001	John Sevier Rd	269	Town of New Market	085	Shenandoah County	0.09	US 211 Lee Hwy	85-719 Dixie Lane	620	R							X						08/25/2005
+770946	  85	01001	     	85-1001	John Sevier Rd	269	Town of New Market	085	Shenandoah County	0.07	85-719 Dixie Lane	Dead End	40	R							X						06/02/2008
+302815	  85	01002	     	85-1002	Old Cross Rd	269	Town of New Market	085	Shenandoah County	0.05	US 11;  US 211	85-1001 John Sevier Rd	2200	F	94%	0%	1%	2%	3%	0%	F	0.0897	F	0.0000	2300	F	2008
+302816	  85	01002	     	85-1002	Old Cross Rd	269	Town of New Market	085	Shenandoah County	0.37	85-1001 John Sevier Rd	85-735 Smith Creek Rd	2000	F	94%	0%	1%	2%	3%	0%	C	0.1137	F	0.6432	2100	F	2008
+302817	  85	01002	     	85-1002	Old Cross Rd	269	Town of New Market	085	Shenandoah County	0.13	85-735 Smith Creek Rd	ECL New Market	1800	F	94%	0%	1%	2%	3%	0%	F	0.1114	F	0.6592	1900	F	2008
+770947	  85	01003	     	85-1003	Cadet Rd	269	Town of New Market	085	Shenandoah County	0.20	Dead End	85-1005 Ashby Lane	240	R							X						1999
+770948	  85	01003	     	85-1003	Cadet Rd	269	Town of New Market	085	Shenandoah County	0.05	85-1005 Ashby Lane	85-1004 Stonewall St	770	R							X						06/02/2008
+302819	  85	01003	     	85-1003	Cadet Rd	269	Town of New Market	085	Shenandoah County	0.42	85-1004 Stonewall St	US 211, W Old Cross Rd	910	F	100%	0%	0%	0%	0%	0%	C	0.0999	F	0.5050	960	F	2008
+770949	  85	01004	     	85-1004	Stonewall St	269	Town of New Market	085	Shenandoah County	0.06	WCL New Market	85-1003 Cadet Rd	130	R							X						1999
+302820	  85	01004	     	85-1004	Stonewall St	269	Town of New Market	085	Shenandoah County	0.09	85-1003 Cadet Rd	US 11, South Congress St	400	F	98%	1%	0%	0%	0%	0%	C	0.0940	F	0.5366	420	F	2008
+770950	  85	01004	     	85-1004	Stonewall St	269	Town of New Market	085	Shenandoah County	0.06	US 11, South Congress St	85-1001 John Sevier Rd	200	R							X						06/02/2008
+770951	  85	01005	     	85-1005	Ashby Lane	269	Town of New Market	085	Shenandoah County	0.09	85-1003 Cadet Rd	US 11, South Congress St	300	R							X						09/08/2005
+770952	  85	01006	     	85-1006	East Seminary Lane	269	Town of New Market	085	Shenandoah County	0.06	US 11 Congress St	85-1001 John Sevier Rd	260	R							X						06/02/2008
+770953	  85	01007	     	85-1007	West Lee St	269	Town of New Market	085	Shenandoah County	0.06	Dead End	85-1003 Cadet Rd	90	R							X						1999
+770954	  85	01007	     	85-1007	West Lee St	269	Town of New Market	085	Shenandoah County	0.10	85-1003 Cadet Rd	US 11, South Congress St	870	R							X						06/02/2008
+770955	  85	01007	     	85-1007	West Lee St	269	Town of New Market	085	Shenandoah County	0.06	US 11, South Congress St	85-1001 John Sevier Rd	720	R							X						08/25/2005
+770956	  85	01007	     	85-1007	West Lee St	269	Town of New Market	085	Shenandoah County	0.10	85-1001 John Sevier Rd	Dead End	80	R							X						06/02/2008
+770957	  85	01008	     	85-1008	Confederate St	269	Town of New Market	085	Shenandoah County	0.10	85-1003 Cadet Rd	US 11, South Congress St	200	R							X						08/25/2005
+770958	  85	01008	     	85-1008	Confederate St	269	Town of New Market	085	Shenandoah County	0.06	US 11, South Congress St	85-1001 John Sevier Rd	370	R							X						06/02/2008
+770959	  85	01008	     	85-1008	Confederate St	269	Town of New Market	085	Shenandoah County	0.09	85-1001 John Sevier Rd	Dead End	210	R							X						06/02/2008
+770960	  85	01009	     	85-1009	Stuart St	269	Town of New Market	085	Shenandoah County	0.10	85-1003 Cadet Rd	US 11, South Congress St	320	R							X						08/25/2005
+770961	  85	01009	     	85-1009	Stuart St	269	Town of New Market	085	Shenandoah County	0.06	US 11, South Congress St	85-1001 John Sevier Rd	600	R							X						06/02/2008
+770962	  85	01010	     	85-1010	Breckenridge Rd	269	Town of New Market	085	Shenandoah County	0.15	Dead End	85-1001 John Sevier Rd	100	R							X						08/25/2005
+770963	  85	01011	     	85-1011	Clark St	269	Town of New Market	085	Shenandoah County	0.11	85-1001 John Sevier Rd	Dead End	130	R							X						06/02/2008
+770964	  85	01012	     	85-1012	Fairway Dr	269	Town of New Market	085	Shenandoah County	0.19	85-823 Clicks Lane	Dead End	210	R							X						1999
+770965	  85	01013	     	85-1013	Shenvalle Dr	269	Town of New Market	085	Shenandoah County	0.20	85-1012 Fairway Dr	Dead End	140	R							X						03/28/2002
+770966	  85	01014	     	85-1014	Shady Lane	269	Town of New Market	085	Shenandoah County	0.04	Dead End	85-1019 Pleasant View Dr	10	R							X						1999
+770967	  85	01014	     	85-1014	Shady Lane	269	Town of New Market	085	Shenandoah County	0.08	85-1019 Pleasant View Dr	85-1017 Massanutten Ave	260	R							X						06/02/2008
+770968	  85	01014	     	85-1014	Shady Lane	269	Town of New Market	085	Shenandoah County	0.03	85-1017 Massanutten Ave	US 11 South Congress St	610	R							X						1999
+770969	  85	01015	     	85-1015	Early St	269	Town of New Market	085	Shenandoah County	0.05	Dead End	85-1003 Cadet Rd	140	R							X						1999
+770970	  85	01016	     	85-1016	Shipp St	269	Town of New Market	085	Shenandoah County	0.14	Dead End	US 11 Old Valley Pike	40	R							X						04/02/2008
+770971	  85	01017	     	85-1017	Massanutten Ave	269	Town of New Market	085	Shenandoah County	0.21	Dead End	85-1014 Shady Lane	90	R							X						03/28/2002
+770972	  85	01017	     	85-1017	Massanutten Ave	269	Town of New Market	085	Shenandoah County	0.13	85-1014 Shady Lane	Dead End	60	R							X						1999
+770973	  85	01018	     	85-1018	Jackson Ave	269	Town of New Market	085	Shenandoah County	0.08	Dead End	SR 211 Old Cross Rd	350	R							X						06/02/2008
+770974	  85	01019	     	85-1019	Pleasant View Dr	269	Town of New Market	085	Shenandoah County	0.21	Dead End	85-1014 Shady Lane	110	R							X						1999
+770975	  85	01019	     	85-1019	Pleasant View Dr	269	Town of New Market	085	Shenandoah County	0.15	85-1014 Shady Lane	0.15 MS 85-1014	110	R							X						03/28/2002
+770976	  85	01020	     	85-1020	Fairway Dr	269	Town of New Market	085	Shenandoah County	0.05	US 11 South Congress St	85-1001 John Sevier Rd	1200	R							X						06/02/2008
+770977	  85	01022	     	85-1022	Clark St	269	Town of New Market	085	Shenandoah County	0.08	85-1011 Clark St	Dead End	70	R							X						08/25/2005
+794675	  85	01033	     	85-1033	 	269	Town of New Market	085	Shenandoah County	0.09	Cul-de-Sac	85-823 Clicks Lane	0	?							X
+770984	  85	01035	     	85-1035	Tyler Dr	269	Town of New Market	085	Shenandoah County	0.26	US 11 South Congress St	Cul-de-Sac	320	R							X						08/25/2005
+770985	  85	01036	     	85-1036	Sun Beau Court	269	Town of New Market	085	Shenandoah County	0.09	Cul-de-Sac	85-1035 Tyler Dr	70	R							X						1999
+770986	  85	01037	     	85-1037	Sun Briar Court	269	Town of New Market	085	Shenandoah County	0.04	Cul-de-Sac	85-1036 Sun Beau Court	40	R							X						1999
+770987	  85	01038	     	85-1038	Dillon Court	269	Town of New Market	085	Shenandoah County	0.05	85-1035 Tyler Dr	Cul-de-Sac	30	R							X						1999
+770988	  85	01040	     	85-1040	Woodbine Way	269	Town of New Market	085	Shenandoah County	0.26	Dead End, SCL New Market	85-1041 Periwinkle Lane	150	R							X						08/25/2005
+770989	  85	01040	     	85-1040	Woodbine Way	269	Town of New Market	085	Shenandoah County	0.07	85-1041 Periwinkle Lane	85-823 Clicks Lane	320	R							X						08/25/2005
+770990	  85	01041	     	85-1041	Periwinkle Lane	269	Town of New Market	085	Shenandoah County	0.18	Dead End	85-1040 Woodbine Way	70	R							X						1999
+792036	  85	01042	     	85-1042	 	269	Town of New Market	085	Shenandoah County	0.14	Dead End	US 11	0	?							X
+770991	  85	01044	     	85-1044	Par Dr	269	Town of New Market	085	Shenandoah County	0.16	85-823 Clicks Lane	85-1045 Tee Court	300	R							X						08/25/2005
+770992	  85	01044	     	85-1044	Par Dr	269	Town of New Market	085	Shenandoah County	0.08	85-1045 Tee Court	85-1046 Bogey Ave	70	R							X						08/25/2005
+770993	  85	01044	     	85-1044	Par Dr	269	Town of New Market	085	Shenandoah County	0.03	85-1046 Bogey Ave	Dead End	10	R							X						08/25/2005
+770994	  85	01045	     	85-1045	Tee Court	269	Town of New Market	085	Shenandoah County	0.07	Cul-de-Sac	85-1046 Bogey Ave	60	R							X						08/25/2005
+770995	  85	01045	     	85-1045	Tee Court	269	Town of New Market	085	Shenandoah County	0.08	85-1046 Bogey Ave	85-1044 Par Dr	130	R							X						08/25/2005
+770996	  85	01045	     	85-1045	Tee Court	269	Town of New Market	085	Shenandoah County	0.19	85-1044 Par Dr	Cul-de-Sac	110	R							X						08/25/2005
+770997	  85	01046	     	85-1046	Bogey Ave	269	Town of New Market	085	Shenandoah County	0.13	85-1045 Tee Court	85-1044 Par Dr	60	R							X						08/25/2005
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

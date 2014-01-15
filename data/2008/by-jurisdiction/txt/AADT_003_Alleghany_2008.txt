@@ -1,0 +1,710 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Alleghany Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080265	  SR	00018	     	VA 18	Potts Creek Rd	003	Alleghany County	003	Alleghany County	0.43	Craig County Line	03-607 Potts Creek	210	F	88%	0%	0%	6%	6%	0%	C	0.1351	F	0.6000	220	F	2008
+080007	  SR	00018	     	VA 18	Potts Creek Rd	003	Alleghany County	003	Alleghany County	2.82	03-607 Potts Creek	03-608 Wolfe Road	250	F	88%	0%	0%	6%	6%	0%	F	0.1086	F	0.5000	260	F	2008
+080005	  SR	00018	     	VA 18	Potts Creek Rd	003	Alleghany County	003	Alleghany County	7.93	03-608 Wolfe Road	03-614 Near Arritt	1200	F	96%	1%	0%	1%	1%	0%	F	0.0965	F	0.6552	1300	F	2008
+080003	  SR	00018	     	VA 18	Potts Creek Rd	003	Alleghany County	003	Alleghany County	3.20	03-614 Near Arritt	03-657 Pitzer Ridge Road	1500	F	96%	1%	0%	1%	1%	0%	C	0.0937	F	0.5931	1600	F	2008
+180078	  SR	00018	     	VA 18	Potts Creek Rd	003	Alleghany County	003	Alleghany County	4.04	03-657 Pitzer Ridge Road	SCL Covington	1900	F	96%	1%	0%	1%	1%	0%	F	0.0939	F	0.6532	2000	F	2008
+621009	  SR	00018	     	VA 18	Indian Valley	107	City of Covington	107	City of Covington	0.37	SCL Covington	S Pitzer Ridge	3000	F	97%	0%	1%	1%	1%	0%	C	0.0898	F	0.5977	3300	F	2008
+621015	  SR	00018	     	VA 18	S Carpenter Dr	107	City of Covington	107	City of Covington	0.44	S Pitzer Ridge	Gordon Street	4700	F	97%	1%	1%	1%	1%	0%	C	0.0896	F	0.0000	5100	F	2008
+621016	  SR	00018	     	VA 18	S Carpenter Dr	107	City of Covington	107	City of Covington	0.31	East Gordon Street	Edgemont Drive	5400	F	97%	1%	1%	1%	1%	0%	F	0.0924	F	0.6367	5900	F	2008
+621001	  SR	00018	     	VA 18	Carpenter Dr	107	City of Covington	107	City of Covington	1.20	Duyant Road Ext	US 220 Madison St	4500	F	95%	1%	1%	1%	2%	0%	C	0.0923	F	0.0000	4900	F	2008
+080278	  SR	00042	     	US 220, VA 42	 	241	Town of Iron Gate	003	Alleghany County	0.88	Alleghany County Line	CL Iron Gate	6400	F	92%	1%	1%	1%	6%	0%	F	0.0786	F	0.0000	6800	F	2008	
+080334	  SR	00042	     	US 220, VA 42	 	003	Alleghany County	003	Alleghany County	0.66	CL Iron Gate	Bus US 220	6400	N	92%	1%	1%	1%	6%	0%	N	0.0786	N	0.0000	6800	N	2008	
+080277	  SR	00042	     	US 220, VA 42	Market Ave	003	Alleghany County	003	Alleghany County	0.61	Bus US 220	Bus US 60, US 220	5900	F	92%	1%	1%	1%	6%	0%	F	0.0801	F	0.0000	6300	F	2008	
+080011	  SR	00042	     	Bus US 60, US 220, VA 42	 	003	Alleghany County	003	Alleghany County	0.47	Bus US 60, US 220	03-670	8100	F	87%	1%	1%	1%	10%	0%	C	0.0874	F	0.0000	8500	F	2008	
+080570	  SR	00042	     	VA 269, VA 42	Longdale Furnace Rd	003	Alleghany County	003	Alleghany County	0.18	I-64, US 60	SR 269;I-64	1100	F	95%	1%	2%	1%	1%	0%	C	0.1122	F	0.0000	1200	F	2008	
+080009	  SR	00042	     	VA 42	Forty Two Rd	003	Alleghany County	003	Alleghany County	4.89	SR 269	Bath County Line	1400	F	95%	1%	1%	2%	2%	0%	C	0.1057	F	0.6506	1500	F	2008
+080118	  US	00060	     	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	1.83	West Virginia State Line	F-198	4400	F	75%	1%	1%	1%	22%	1%	F				4100	F	2008		9100	F	75%	1%	1%	1%	22%	1%	F				8500	F
+080116	  US	00060	     	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	5.33	F-198	03-661	4400	F	75%	1%	1%	1%	22%	1%	F				4200	F	2008		9100	F	75%	1%	1%	1%	22%	1%	F				8600	F
+080268	  US	00060	     	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	2.85	03-661	US 60, SR 159	4400	F	75%	1%	1%	1%	22%	1%	F				4100	F	2008		8900	F	75%	1%	1%	1%	22%	1%	F				8400	F
+080604	  US	00060	     	US 60	 	003	Alleghany County	003	Alleghany County	0.40	W I-64 Callaghan	I-64 East	2800	F	90%	0%	1%	1%	7%	0%	C	0.0871	F	0.0000	2900	F	2008
+080267	  US	00060	     	US 60	 	003	Alleghany County	003	Alleghany County	4.29	I-64 East	WCL Covington	2100	F	82%	0%	1%	2%	16%	0%	C	0.0860	F	0.7245	2200	F	2008
+621014	  US	00060	     	US 60	N Monroe Avenue	107	City of Covington	107	City of Covington	0.09	WCL Covington	SR 154 W Riverside St	3500	F	90%	0%	1%	1%	8%	0%	C	0.0854	F	0.6107	3800	F	2008
+621024	  US	00060	     	US 60	N Monroe Avenue	107	City of Covington	107	City of Covington	0.14	SR 154 W Riverside St	W Locust Street	3600	F	98%	0%	1%	0%	0%	0%	F	0.0984	F	0.5205	3900	F	2008
+621018	  US	00060	     	US 60	S Monroe Avenue	107	City of Covington	107	City of Covington	0.43	W Locust Street	E Oak Street	5400	F	98%	0%	1%	0%	0%	0%	C	0.0962	F	0.0000	5900	F	2008
+621019	  US	00060	     	US 60	S Monroe Avenue	107	City of Covington	107	City of Covington	0.40	E Oak Street	US 220 N Alleghany Ave	5800	F	98%	1%	1%	0%	1%	0%	C	0.0952	F	0.0000	6300	F	2008
+621013	  US	00060	     	US 60, US 220	E Madison Avenue	107	City of Covington	107	City of Covington	0.12	US 220 N Alleghany Ave	S Highland Ave	12000	F	98%	0%	1%	0%	0%	0%	F	0.0814	F	0.0000	14000	F	2008
+621004	  US	00060	     	US 60, US 220	East Madison St	107	City of Covington	107	City of Covington	0.26	S Highland Ave	SR 18 Carpenter St	14000	F	93%	1%	1%	1%	5%	0%	C	0.0820	F	0.0000	15000	F	2008
+621006	  US	00060	     	US 60, US 220	E Madison St	107	City of Covington	107	City of Covington	0.46	SR 18 Carpenter St	ECL Covington	12000	F	91%	1%	1%	1%	6%	0%	C	0.0869	F	0.0000	14000	F	2008
+080266	  US	00060	     	US 60, US 220	 	003	Alleghany County	003	Alleghany County	0.62	ECL Covington	US 220	12000	F	91%	1%	1%	1%	6%	0%	F				13000	F	2008
+080271	  US	00060	     	US 60, US 220 Par	 	003	Alleghany County	003	Alleghany County	0.10	US 220	I-64 East of Covington	12000	N	91%	1%	1%	1%	6%	0%	N				13000	N	2008
+080242	  US	00060	     	I-64 EB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	4.81	US 60; US 220	03-696	9600	F	75%	1%	1%	1%	22%	1%	F				9000	F	2008		19000	F	75%	1%	1%	1%	22%	1%	F				18000	F
+080240	  US	00060	     	I-64 EB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	2.37	03-696	BUS US 60 BUS US 220 West of Clifton Forge	9000	F	75%	1%	1%	1%	22%	1%	F				8400	F	2008		18000	F	75%	1%	1%	1%	22%	1%	F				17000	F
+080273	  US	00060	     	I-64 EB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	1.11	BUS US 60 BUS US 220 West of Clifton Forge	WCL Clifton Forge	6300	F	75%	1%	1%	1%	22%	1%	F				5900	F	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+080324	  US	00060	     	I-64 EB, US 60, US 220	 	105	Town of Clifton Forge	003	Alleghany County	1.55	WCL Clifton Forge	ECL Clifton Forge	6300	F	75%	1%	1%	1%	22%	1%	F				5900	F	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+080337	  US	00060	     	I-64 EB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	0.97	ECL Clifton Forge	US 220; BUS US 60	6300	F	75%	1%	1%	1%	22%	1%	F				5900	F	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+080112	  US	00060	     	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	1.78	US 220; BUS US 60	SR 42, SR 269	4900	F	75%	1%	1%	1%	22%	1%	F				4600	F	2008		10000	F	75%	1%	1%	1%	22%	1%	F				9500	F
+080274	  US	00060	     	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	6.38	SR 42, SR 269	SR 269	3700	F	75%	1%	1%	1%	22%	1%	F				3500	F	2008		7900	F	75%	1%	1%	1%	22%	1%	F				7400	F
+080420	  US	00060	     	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	5.34	SR 269	Rockbridge County Line	3800	G	75%	1%	1%	1%	22%	1%	F				3500	G	2008		7600	G	75%	1%	1%	1%	22%	1%	F				7200	G
+080013	C1US	00060	     	Bus US 60, Bus US 220	 	003	Alleghany County	003	Alleghany County	0.44	I-64, SR 384	WCL Clifton Forge	8000	F	98%	1%	1%	0%	1%	0%	C	0.0892	F	0.0000	8400	F	2008
+619018	C1US	00060	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.27	WCL Clifton Forge	6th St	8100	F	98%	0%	1%	0%	0%	0%	F	0.0869	F	0.0000	8500	F	2008
+619019	C1US	00060	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.61	6th St	Roxbury St	8800	F	98%	0%	1%	0%	0%	0%	C	0.0872	F	0.0000	9200	F	2008
+619020	C1US	00060	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.14	Roxbury St	Commercial Ave	4800	F	98%	0%	1%	0%	0%	0%	F	0.0970	F	0.0000	5100	F	2008		8800	F	98%	0%	1%	0%	1%	0%	F	0.0903	F	0.0000	9300	F
+619024	C1US	00060	     	Bus US 60, Bus US 220, VA 188, VA 188 Par	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Commercial Ave	Main St	4900	G	97%	1%	2%	0%	1%	0%	C	0.0970	N	0.0000	4900	G	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+619012	C1US	00060	     	Bus US 60, Bus US 220	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.26	Ridgeway St	B St	7800	F	97%	1%	1%	0%	1%	0%	C	0.0886	F	0.0000	8200	F	2008
+619013	C1US	00060	     	Bus US 60, Bus US 220	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.06	B St	Bus US 220	6500	F	96%	1%	2%	0%	1%	0%	C	0.0904	F	0.0000	6800	F	2008
+080627	C1US	00060	     	Bus US 60	 	105	Town of Clifton Forge	105	Town of Clifton Forge	0.87	US 220 Bus	ECL Clifton Forge	5700	F	99%	0%	1%	0%	0%	0%	C	0.0954	F	0.0000	6000	F	2008
+080599	C1US	00060	     	Bus US 60	 	003	Alleghany County	003	Alleghany County	0.34	ECL Clifton Forge	US 220 Market Ave	5000	F	98%	0%	1%	0%	1%	0%	C	0.0963	F	0.0000	5200	F	2008
+080011	C1US	00060	     	Bus US 60, US 220, VA 42	 	003	Alleghany County	003	Alleghany County	0.47	US 220 Market Ave	03-670 Longdale Furnace Road	8100	F	87%	1%	1%	1%	10%	0%	C	0.0874	F	0.0000	8500	F	2008
+080622	C1US	00060	     	Bus US 60, US 220	 	003	Alleghany County	003	Alleghany County	0.19	03-670 Longdale Furnace Road	I-64 US 60	7700	F	87%	1%	1%	1%	10%	0%	F	0.0836	F	0.0000	8100	F	2008
+619022	C1US	00060	P    	Bus US 60 Par, Bus US 220	Roxbury St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.05	Ridgeway St	Kesswick St	5500	F	98%	1%	1%	0%	1%	0%	C	0.0846	F	0.0000	5800	F	2008
+619010	C1US	00060	P    	Bus US 60 Par, Bus US 220	Kesswick St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.14	Roxbury St	Main St	4000	F	98%	0%	0%	0%	1%	0%	C	0.0892	F	1.0000	4200	F	2008		8800	F	98%	0%	1%	0%	1%	0%	F	0.0903	F	0.0000	9300	F
+619015	C1US	00060	P    	Bus US 60 Par, Bus US 220, VA 188	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Kesswick St	Ridgeway Street	4100	F	98%	0%	1%	0%	1%	0%	C	0.0861	F	0.0000	4200	F	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+080118	  IS	00064	E    	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	1.83	West Virginia State Line	FR-198 Jerrys Run Rd	4400	F	75%	1%	1%	1%	22%	1%	F				4100	F	2008		9100	F	75%	1%	1%	1%	22%	1%	F				8500	F
+080116	  IS	00064	E    	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	5.33	FR-198 Jerrys Run Rd	03-661 Midland Trail; Ogles Creek Rd	4400	F	75%	1%	1%	1%	22%	1%	F				4200	F	2008		9100	F	75%	1%	1%	1%	22%	1%	F				8600	F
+080268	  IS	00064	E    	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	2.85	03-661 Midland Trail; Ogles Creek Rd	SR 159 Midland Trail	4400	F	75%	1%	1%	1%	22%	1%	F				4100	F	2008		8900	F	75%	1%	1%	1%	22%	1%	F				8400	F
+080269	  IS	00064	E    	I-64 EB	 	003	Alleghany County	003	Alleghany County	4.62	US 60; SR 159 Midland Trail	WCL Covington	4900	F	75%	1%	1%	1%	22%	1%	F				4600	F	2008		10000	F	75%	1%	1%	1%	22%	1%	F				9600	F
+080272	  IS	00064	E    	I-64 EB	 	107	City of Covington	003	Alleghany County	0.21	WCL Covington	SR 154 Durant Rd	4900	F	75%	1%	1%	1%	22%	1%	F				4600	F	2008		10000	F	75%	1%	1%	1%	22%	1%	F				9600	F
+080270	  IS	00064	E    	I-64 EB	 	107	City of Covington	003	Alleghany County	1.19	SR 154 Durant Rd	ECL Covington	6400	F	75%	1%	1%	1%	22%	1%	F				6000	F	2008		13000	F	75%	1%	1%	1%	22%	1%	F				13000	F
+080295	  IS	00064	E    	I-64 EB	 	003	Alleghany County	003	Alleghany County	0.65	ECL Covington	US 60, US 220	6400	F	75%	1%	1%	1%	22%	1%	F				6000	F	2008		13000	F	75%	1%	1%	1%	22%	1%	F				13000	F
+080242	  IS	00064	E    	I-64 EB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	4.81	US 60, US 220	03-696	9600	F	75%	1%	1%	1%	22%	1%	F				9000	F	2008		19000	F	75%	1%	1%	1%	22%	1%	F				18000	F
+080240	  IS	00064	E    	I-64 EB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	2.37	03-696	Bus US 60, Bus US 220	9000	F	75%	1%	1%	1%	22%	1%	F				8400	F	2008		18000	F	75%	1%	1%	1%	22%	1%	F				17000	F
+080273	  IS	00064	E    	I-64 EB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	1.11	Bus US 60, Bus US 220	WCL Clifton Forge	6300	F	75%	1%	1%	1%	22%	1%	F				5900	F	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+080324	  IS	00064	E    	I-64 EB, US 60, US 220	 	105	Town of Clifton Forge	003	Alleghany County	1.55	WCL Clifton Forge	ECL Clifton Forge	6300	F	75%	1%	1%	1%	22%	1%	F				5900	F	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+080337	  IS	00064	E    	I-64 EB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	0.97	ECL Clifton Forge	US 220, Bus US 60	6300	F	75%	1%	1%	1%	22%	1%	F				5900	F	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+080112	  IS	00064	E    	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	1.78	US 220, Bus US 60	SR 42; SR 269	4900	F	75%	1%	1%	1%	22%	1%	F				4600	F	2008		10000	F	75%	1%	1%	1%	22%	1%	F				9500	F
+080274	  IS	00064	E    	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	6.38	SR 42, SR 269	SR 269; 03-850, N Mountain Rd	3700	F	75%	1%	1%	1%	22%	1%	F				3500	F	2008		7900	F	75%	1%	1%	1%	22%	1%	F				7400	F
+080420	  IS	00064	E    	I-64 EB, US 60	 	003	Alleghany County	003	Alleghany County	5.34	SR 269; 03-850, N Mountain Rd	Rockbridge County Line	3800	G	75%	1%	1%	1%	22%	1%	F				3500	G	2008		7600	G	75%	1%	1%	1%	22%	1%	F				7200	G
+780954	  IS	00064	E002R	I-64 EB Exit 002R	Jerrys Run Welcome Center	003	Alleghany County	003	Alleghany County	0.10	Exit Welcome Center Parking Lot	I-64 East from Welcome Center	420	A	96%	1%	1%	0%	2%	0%	C	0.2029	A	1.0000	340	A	2008
+180062	  IS	00064	W    	I-64 WB, US 60	 	003	Alleghany County	003	Alleghany County	2.12	West Virginia State Line	FR-198 Jerrys Run Rd	4700	F	75%	1%	1%	1%	22%	1%	F				4400	F	2008		9100	F	75%	1%	1%	1%	22%	1%	F				8500	F
+180043	  IS	00064	W    	I-64 WB, US 60	 	003	Alleghany County	003	Alleghany County	5.06	FR-198 Jerrys Run Rd	03-661 Ogles Creek Rd; Midland Trail	4700	F	75%	1%	1%	1%	22%	1%	F				4400	F	2008		9100	F	75%	1%	1%	1%	22%	1%	F				8600	F
+180044	  IS	00064	W    	I-64 WB, US 60	 	003	Alleghany County	003	Alleghany County	3.23	03-661 Ogles Creek Rd; Midland Trail	SR 159 Midland Trail	4500	F	75%	1%	1%	1%	22%	1%	F				4300	F	2008		8900	F	75%	1%	1%	1%	22%	1%	F				8400	F
+880045	  IS	00064	W    	I-64 WB	 	003	Alleghany County	003	Alleghany County	4.27	US 60; SR 159 Midland Trail	WCL Covington	5400	F	75%	1%	1%	1%	22%	1%	F				5000	F	2008		10000	F	75%	1%	1%	1%	22%	1%	F				9600	F
+180045	  IS	00064	W    	I-64 WB	 	107	City of Covington	003	Alleghany County	0.28	WCL Covington	SR 154 Durant Rd	5400	F	75%	1%	1%	1%	22%	1%	F				5000	F	2008		10000	F	75%	1%	1%	1%	22%	1%	F				9600	F
+880046	  IS	00064	W    	I-64 WB	 	107	City of Covington	003	Alleghany County	1.08	SR 154 Durant Rd	ECL Covington	7000	F	75%	1%	1%	1%	22%	1%	F				6600	F	2008		13000	F	75%	1%	1%	1%	22%	1%	F				13000	F
+180046	  IS	00064	W    	I-64 WB	 	003	Alleghany County	003	Alleghany County	0.77	ECL Covington	US 60, US 220	7000	F	75%	1%	1%	1%	22%	1%	F				6600	F	2008		13000	F	75%	1%	1%	1%	22%	1%	F				13000	F
+180047	  IS	00064	W    	I-64 WB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	4.98	US 60, US 220	03-696	9800	F	75%	1%	1%	1%	22%	1%	F				9300	F	2008		19000	F	75%	1%	1%	1%	22%	1%	F				18000	F
+180048	  IS	00064	W    	I-64 WB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	2.34	03-696	Bus US 60, Bus US 220	9300	F	75%	1%	1%	1%	22%	1%	F				8800	F	2008		18000	F	75%	1%	1%	1%	22%	1%	F				17000	F
+880048	  IS	00064	W    	I-64 WB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	0.86	Bus US 60, Bus US 220	WCL Clifton Forge	6000	G	75%	1%	1%	1%	22%	1%	F				5800	G	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+880049	  IS	00064	W    	I-64 WB, US 60, US 220	 	105	Town of Clifton Forge	003	Alleghany County	1.55	WCL Clifton Forge	ECL Clifton Forge	6000	G	75%	1%	1%	1%	22%	1%	F				5800	G	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+180049	  IS	00064	W    	I-64 WB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	1.06	ECL Clifton Forge	US 220, Bus US 60	6000	G	75%	1%	1%	1%	22%	1%	F				5800	G	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+180050	  IS	00064	W    	I-64 WB, US 60	 	003	Alleghany County	003	Alleghany County	2.19	US 220, Bus US 60	SR 42, SR 269	5100	F	75%	1%	1%	1%	22%	1%	F				4800	F	2008		10000	F	75%	1%	1%	1%	22%	1%	F				9500	F
+180051	  IS	00064	W    	I-64 WB, US 60	 	003	Alleghany County	003	Alleghany County	6.52	SR 42, SR 269	SR 269; 03-850, N Mountain Rd	4200	F	75%	1%	1%	1%	22%	1%	F				3900	F	2008		7900	F	75%	1%	1%	1%	22%	1%	F				7400	F
+880052	  IS	00064	W    	I-64 WB, US 60	 	003	Alleghany County	003	Alleghany County	4.69	SR 269; 03-850, N Mountain Rd	Rockbridge County Line	3800	G	75%	1%	1%	1%	22%	1%	F				3800	G	2008		7600	G	75%	1%	1%	1%	22%	1%	F				7200	G
+080275	  SR	00154	     	VA 154	S Durant Rd/S Craig Ave	107	City of Covington	003	Alleghany County	0.75	I-64 Covington	Chestnut Street	11000	F	98%	0%	1%	0%	0%	0%	C	0.0943	F	0.0000	12000	F	2008
+621002	  SR	00154	     	VA 154	Craig Ave	107	City of Covington	107	City of Covington	0.56	Chestnut Street	Locust Street	5200	F	99%	0%	1%	0%	0%	0%	C	0.0984	F	0.0000	5600	F	2008
+621007	  SR	00154	     	VA 154	E Riverside St	107	City of Covington	107	City of Covington	0.28	Lexington Avenue	Monroe Avenue	3000	F	98%	0%	1%	1%	0%	0%	C	0.1083	F	0.6639	3300	F	2008
+621008	  SR	00154	     	VA 154	E Riverside St	107	City of Covington	107	City of Covington	0.24	Monroe Avenue	Magazine Avenue	4800	F	85%	0%	1%	1%	13%	0%	C	0.0947	F	0.0000	5200	F	2008
+621003	  SR	00154	     	VA 154	East Hickory St	107	City of Covington	107	City of Covington	0.09	Magazine Avenue	Alleghany Avenue	1000	F	85%	0%	1%	1%	13%	0%	F	0.1037	F	0.6222	1100	F	2008
+080276	  SR	00159	     	VA 159	Dunlap Creek Rd	003	Alleghany County	003	Alleghany County	8.52	SR 311 Kanawha Trail	03-665 Moss Run Rd	830	F	90%	1%	2%	2%	6%	0%	C	0.0932	F	0.5854	870	F	2008
+080015	  SR	00159	     	VA 159	Dunlap Creek Rd	003	Alleghany County	003	Alleghany County	2.81	03-665 Moss Run Rd	I-64	1200	F	92%	1%	1%	1%	4%	0%	C	0.0972	F	0.5917	1200	F	2008
+619015	  SR	00188	     	Bus US 60 Par, Bus US 220, VA 188	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Ridgeway St	Keswick St	4100	F	98%	0%	1%	0%	1%	0%	C	0.0861	F	0.0000	4200	F	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+619014	  SR	00188	     	VA 188	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.05	US 60 Par, Keswick St	McCormick Blvd	280	F	99%	0%	1%	0%	0%	0%	F	0.1380	F	1.0000	300	F	2008		2600	F	95%	1%	2%	0%	1%	0%	F	0.0982	F	0.0000	2800	F
+619017	  SR	00188	     	VA 188	McCormick Blvd	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Main St	SR 188 Par, Church St	270	F	98%	1%	1%	0%	0%	0%	C	0.1346	F	1.0000	300	F	2008		1700	F	98%	0%	1%	1%	0%	0%	C	0.1125	F	0.0000	1800	F
+619016	  SR	00188	     	VA 188	McCormick Blvd	105	Town of Clifton Forge	105	Town of Clifton Forge	0.23	SR 188 Par, Church St	Lafayette St	770	F	99%	0%	1%	0%	0%	0%	C	0.1041	F	0.5698	830	F	2008
+619011	  SR	00188	     	VA 188	Lafayette St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	McCormick Blvd	Rose Ave	250	F	99%	0%	1%	0%	0%	0%	C	0.1292	F	0.6615	270	F	2008
+619021	  SR	00188	     	VA 188	Rose Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.22	Lafayette St	Tremont St	600	F	97%	1%	2%	0%	0%	0%	C	0.1002	F	0.5156	650	F	2008
+619026	  SR	00188	     	VA 188	Tremont St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.03	Rose Ave	Sioux Ave	600	F	97%	1%	2%	0%	0%	0%	C	0.1002	F	0.5156	650	F	2008
+619025	  SR	00188	     	VA 188	Sioux Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.17	Tremont St	105-3551 Sioux Ave	600	F	97%	1%	2%	0%	0%	0%	C	0.1002	F	0.5156	650	F	2008
+619024	 1SR	00188	P    	Bus US 60, Bus US 220, VA 188, VA 188 Par	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Main St	Bus US 60 Commercial Ave	4900	G	97%	1%	2%	0%	1%	0%	C	0.0970	N	0.0000	4900	G	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+619001	 1SR	00188	P    	VA 188 Par	Commercial Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.05	Bus US 60, Ridgeway	US 60 Par, Main Street	1400	F	97%	0%	1%	1%	0%	0%	F	0.1047	F	0.6598	1500	F	2008
+619003	 1SR	00188	P    	VA 188 Par	Commercial Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.06	Bus US 60 Par, Main Street	Church Street	2300	F	95%	1%	3%	0%	1%	0%	C	0.0977	F	0.6759	2500	F	2008		2600	F	95%	1%	2%	0%	1%	0%	F	0.0982	F	0.0000	2800	F
+180091	 1SR	00188	P    	VA 188 Par	Church St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Commercial Ave	SR 188 McCormick Blvd	1400	F	97%	0%	1%	1%	0%	0%	C	0.1073	F	0.6131	1500	F	2008		1700	F	98%	0%	1%	1%	0%	0%	C	0.1125	F	0.0000	1800	F
+080278	  US	00220	     	US 220, VA 42	 	241	Town of Iron Gate	003	Alleghany County	0.88	Alleghany County Line	SCL Iron Gate	6400	F	92%	1%	1%	1%	6%	0%	F	0.0786	F	0.0000	6800	F	2008
+080334	  US	00220	     	US 220, VA 42	 	003	Alleghany County	003	Alleghany County	0.66	SCL Iron Gate	BUS US 220	6400	N	92%	1%	1%	1%	6%	0%	N	0.0786	N	0.0000	6800	N	2008
+080277	  US	00220	     	US 220, VA 42	Market Ave	003	Alleghany County	003	Alleghany County	0.61	BUS US 220	BUS US 60	5900	F	92%	1%	1%	1%	6%	0%	F	0.0801	F	0.0000	6300	F	2008
+080011	  US	00220	     	Bus US 60, US 220, VA 42	 	003	Alleghany County	003	Alleghany County	0.47	BUS US 60	03-670	8100	F	87%	1%	1%	1%	10%	0%	C	0.0874	F	0.0000	8500	F	2008	
+080622	  US	00220	     	Bus US 60, US 220	 	003	Alleghany County	003	Alleghany County	0.19	03-670	I-64 EAST OF CLIFTON FORGE	7700	F	87%	1%	1%	1%	10%	0%	F	0.0836	F	0.0000	8100	F	2008	
+180049	  US	00220	     	I-64 WB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	1.06	US 220; BUS US 60	ECL Clifton Forge	6000	G	75%	1%	1%	1%	22%	1%	F				5800	G	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+880049	  US	00220	     	I-64 WB, US 60, US 220	 	105	Town of Clifton Forge	003	Alleghany County	1.55	ECL Clifton Forge	WCL Clifton Forge	6000	G	75%	1%	1%	1%	22%	1%	F				5800	G	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+880048	  US	00220	     	I-64 WB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	0.86	WCL Clifton Forge	BUS US 60 BUS US 220	6000	G	75%	1%	1%	1%	22%	1%	F				5800	G	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+180048	  US	00220	     	I-64 WB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	2.34	BUS US 60 BUS US 220	03-696	9300	F	75%	1%	1%	1%	22%	1%	F				8800	F	2008		18000	F	75%	1%	1%	1%	22%	1%	F				17000	F
+180047	  US	00220	     	I-64 WB, US 60, US 220	 	003	Alleghany County	003	Alleghany County	4.98	03-696	US 60	9800	F	75%	1%	1%	1%	22%	1%	F				9300	F	2008		19000	F	75%	1%	1%	1%	22%	1%	F				18000	F
+080266	  US	00220	     	US 60, US 220	 	003	Alleghany County	003	Alleghany County	0.62	I-64	ECL Covington	12000	F	91%	1%	1%	1%	6%	0%	F				13000	F	2008	
+621006	  US	00220	     	US 60, US 220	E Madison St	107	City of Covington	107	City of Covington	0.46	ECL Covington	SR 18 Carpenter St	12000	F	91%	1%	1%	1%	6%	0%	C	0.0869	F	0.0000	14000	F	2008	
+621004	  US	00220	     	US 60, US 220	East Madison St	107	City of Covington	107	City of Covington	0.26	SR 18 Carpenter St	S Highland Avenue	14000	F	93%	1%	1%	1%	5%	0%	C	0.0820	F	0.0000	15000	F	2008	
+621013	  US	00220	     	US 60, US 220	E Madison Avenue	107	City of Covington	107	City of Covington	0.12	S Highland Avenue	S Monroe Avenue	12000	F	98%	0%	1%	0%	0%	0%	F	0.0814	F	0.0000	14000	F	2008	
+621010	  US	00220	     	US 220	N Alleghany Ave	107	City of Covington	107	City of Covington	0.93	S Monroe Avenue	E Locust Street	7800	F	87%	0%	1%	2%	10%	0%	C	0.0856	F	0.0000	8500	F	2008
+621011	  US	00220	     	US 220	N Alleghany Ave	107	City of Covington	107	City of Covington	0.62	E Locust Street	N Magazine Avenue	8100	F	87%	0%	1%	2%	10%	0%	C	0.0814	F	0.0000	8800	F	2008
+621012	  US	00220	     	US 220	N Alleghany Ave	107	City of Covington	107	City of Covington	0.66	N Magazine Avenue	NCL Covington	5800	F	97%	1%	1%	1%	1%	0%	C	0.0960	F	0.0000	6300	F	2008
+080124	  US	00220	     	US 220	 	003	Alleghany County	003	Alleghany County	1.61	NCL Covington	03-687 Clearwater	4800	F	97%	0%	1%	1%	1%	0%	C	0.0920	F	0.0000	5000	F	2008
+080017	  US	00220	     	US 220	 	003	Alleghany County	003	Alleghany County	8.28	03-687 Clearwater	Bath County Line	1300	F	97%	0%	1%	1%	1%	0%	F	0.0968	F	0.6035	1400	F	2008
+080271	 1US	00220	P    	US 60, US 220 Par	 	003	Alleghany County	003	Alleghany County	0.10	I-64 EAST OF COVINGTON	US 220	12000	N	91%	1%	1%	1%	6%	0%	N				13000	N	2008	
+080624	C1US	00220	     	Bus US 220	 	003	Alleghany County	003	Alleghany County	0.80	US 220 Near Clifton Forge	SCL Clifton Forge	1800	F	96%	0%	1%	1%	2%	0%	C	0.0992	F	0.5889	1800	F	2008
+080625	C1US	00220	     	Bus US 220	 	105	Town of Clifton Forge	105	Town of Clifton Forge	0.70	SCL Clifton Forge	Bus US 60	1800	F	95%	0%	1%	1%	2%	0%	C	0.0987	F	0.5855	1900	F	2008
+619013	C1US	00220	     	Bus US 60, Bus US 220	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.06	Bus US 60	B ST	6500	F	96%	1%	2%	0%	1%	0%	C	0.0904	F	0.0000	6800	F	2008	
+619012	C1US	00220	     	Bus US 60, Bus US 220	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.26	B ST	Ridgeway St	7800	F	97%	1%	1%	0%	1%	0%	C	0.0886	F	0.0000	8200	F	2008	
+619015	C1US	00220	     	Bus US 60 Par, Bus US 220, VA 188	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Ridgeway St	Keswick St	4100	F	98%	0%	1%	0%	1%	0%	C	0.0861	F	0.0000	4200	F	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+619010	C1US	00220	     	Bus US 60 Par, Bus US 220	Kesswick St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.14	Main St	Roxbury St	4000	F	98%	0%	0%	0%	1%	0%	C	0.0892	F	1.0000	4200	F	2008		8800	F	98%	0%	1%	0%	1%	0%	F	0.0903	F	0.0000	9300	F
+619022	C1US	00220	     	Bus US 60 Par, Bus US 220	Roxbury St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.05	Keswick St	Ridgeway St	5500	F	98%	1%	1%	0%	1%	0%	C	0.0846	F	0.0000	5800	F	2008	
+619019	C1US	00220	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.61	Roxbury St	6th St	8800	F	98%	0%	1%	0%	0%	0%	C	0.0872	F	0.0000	9200	F	2008	
+619018	C1US	00220	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.27	6th St	WCL Clifton Forge	8100	F	98%	0%	1%	0%	0%	0%	F	0.0869	F	0.0000	8500	F	2008	
+080013	C1US	00220	     	Bus US 60, Bus US 220	 	003	Alleghany County	003	Alleghany County	0.44	WCL Clifton Forge	I-64 SR 384	8000	F	98%	1%	1%	0%	1%	0%	C	0.0892	F	0.0000	8400	F	2008	
+080570	  SR	00269	     	VA 269, VA 42	Longdale Furnace Rd	003	Alleghany County	003	Alleghany County	0.18	I-64, US 60; SR 42	03-632 Longdale Furnace Rd	1100	F	95%	1%	2%	1%	1%	0%	C	0.1122	F	0.0000	1200	F	2008
+080279	  SR	00269	     	VA 269	Longdale Furnace Rd	003	Alleghany County	003	Alleghany County	6.62	03-632 Golf Course View	I-64, US 60	550	F	95%	1%	2%	1%	1%	0%	F	0.1066	F	0.5736	580	F	2008
+080280	  SR	00311	     	VA 311	Kanawha Trail	003	Alleghany County	003	Alleghany County	6.62	West Virginia State Line	SR 159 Dunlap Creek Rd	740	F	90%	1%	1%	2%	6%	0%	C	0.0939	F	0.7432	780	F	2008
+080019	  SR	00311	     	VA 311	Kanawha Trail	003	Alleghany County	003	Alleghany County	5.87	SR 159 Dunlap Creek Rd	West Virginia State Line	500	F	96%	2%	1%	1%	1%	0%	C	0.1185	F	0.6129	520	F	2008
+702421	  SR	00042	     	03-670, VA 42	Longdale Furnace Rd	003	Alleghany County	003	Alleghany County	0.50	Bus US 60	Bus US 60; SR 632	960	R							X						04/05/2005	
+702363	  SR	00042	     	03-632, VA 42	Golf Course View	003	Alleghany County	003	Alleghany County	0.83	Bus US 60; SR 632	03-639	1000	R							X						07/22/2008	
+702364	  SR	00042	     	03-632, VA 42	Golf Course View	003	Alleghany County	003	Alleghany County	0.48	03-639	SR 269; SR 632	880	R							X						04/05/2005	
+791016	  US	00220	     	03-1104, US 220	Valley Ridge Rd	003	Alleghany County	003	Alleghany County	0.16	03-1104	Ramp From I-64 WB	0	?							X							
+791107	  FR	00046	     	FR 46	Hoke Rd	003	Alleghany County	003	Alleghany County	0.46	Dead End	FR-198 Jerrys Run Rd	20	R							X						08/12/2008
+780305	  FR	00046	     	FR 46	Hoke Rd	003	Alleghany County	003	Alleghany County	2.53	FR-198 Jerrys Run Rd	Dead End	20	R							X						08/12/2008
+780434	  FR	00198	     	FR 198	Jerrys Run Rd	003	Alleghany County	003	Alleghany County	0.46	Dead End	I-64	40	R							X						08/12/2008
+791175	  FR	00198	     	FR 198	Jerrys Run Rd	003	Alleghany County	003	Alleghany County	0.11	I-64	FR-46 Hoke Rd	80	R							X						08/12/2008
+791176	  FR	00198	     	FR 198	Jerrys Run Rd	003	Alleghany County	003	Alleghany County	0.21	FR-46 Hoke Rd	Dead End	30	R							X						08/12/2008
+780437	  FR	00199	     	FR 199	Frontier Lane	003	Alleghany County	003	Alleghany County	1.54	Dead End	03-661 Ogles Creek Rd	200	R							X						08/12/2008
+780438	  FR	00200	     	FR 200	Bradley Spring Lane	003	Alleghany County	003	Alleghany County	0.49	03-661 Ogles Creek Rd	Dead End	170	R							X						08/12/2008
+780439	  FR	00201	     	FR 201	Thorny Lane	003	Alleghany County	003	Alleghany County	0.46	Dead End	03-600	30	R							X						08/12/2008
+780440	  FR	00202	     	FR 202	Dunlap Beach Lane	003	Alleghany County	003	Alleghany County	0.42	Dead End	03-712 Dunlap Beach Lane	0	?							X
+780441	  FR	00203	     	FR 203	Totten Dr	003	Alleghany County	003	Alleghany County	1.09	Dead End	WCL Covington	120	R							X						07/31/2008
+785261	  FR	00203	     	FR 203	Totten Dr	107	City of Covington	003	Alleghany County	0.79	Alleghany County Line	107-3605, S Durrant Rd	60	R							X						07/31/2008
+780442	  FR	00204	     	FR 204	Carlton Dr	107	City of Covington	003	Alleghany County	0.48	SR 18 Carolton Rd	Dead End	110	R							X						07/31/2008
+780443	  FR	00205	     	FR 205	Winterberry Ave	003	Alleghany County	003	Alleghany County	0.78	03-1101	Dead End	0	R							X						07/29/2008
+780444	  FR	00206	     	FR 206	 	105	Town of Clifton Forge	003	Alleghany County	0.05	Dead End	Dead End	290	R							X						07/24/2008
+780445	  FR	00207	     	FR 207	Holly Hill Rd	105	Town of Clifton Forge	003	Alleghany County	0.34	105-3551 Sioux Ave	Dead End	80	R							X						07/24/2008
+780446	  FR	00208	     	FR 208	Turner Rd	003	Alleghany County	003	Alleghany County	0.75	Dead End	03-629 Douthat Rd	130	R							X						07/22/2008
+780503	  FR	00279	     	FR 279	Matthews Lane	003	Alleghany County	003	Alleghany County	0.19	Dead End	SR 42 Forty Two Rd	120	R							X						07/22/2008
+780671	  FR	00726	     	FR 726	Hopkins Cemetery Lane	003	Alleghany County	003	Alleghany County	0.13	Dead End	Dead End	0	R							X						07/22/2008
+702291	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	6.90	SR 311 Kanawha Trail	03-613	40	R							X						08/12/2008
+702292	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	4.00	03-613	03-614 Castile Rd	30	R							X						08/07/2008
+702293	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	4.20	03-614 Castile Rd	03-658 Jingling Rocks Rd	70	R							X						08/05/2008
+702294	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	1.92	03-658 Jingling Rocks Rd	1.92 MN 03-658 Jingling Rocks Rd	120	R							X						08/05/2008
+702295	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	0.08	1.92 MN 03-658 Jingling Rocks Rd	03-712 Dunlap Beach Lane	190	R							X						08/05/2008
+702296	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	0.33	03-712 Dunlap Beach Lane	US 60; Gap	200	R							X						04/19/2005
+302591	  03	00600	     	03-600	Midland Trail	003	Alleghany County	003	Alleghany County	0.50	SR 159; Gap	03-661 S, Johnson Creek Rd	2400	F	97%	0%	1%	1%	1%	0%	C	0.0964	F	0.5483	2600	F	2008
+702297	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	0.40	03-661 S, Johnson Creek Rd	03-661 N, Midland Trail	1600	R							X						08/05/2008
+702298	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	4.60	03-661 N, Midland Trail	03-641 Indian Draft Rd	750	R							X						04/19/2005
+702299	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	4.80	03-641 Indian Draft Rd	03-666 East Morris Hill Rd	270	R							X						08/14/2008
+702300	  03	00600	     	03-600	 	003	Alleghany County	003	Alleghany County	0.10	03-666 East Morris Hill Rd	Dead End	190	R							X						04/19/2005
+702301	  03	00601	     	03-601	Tuckahoe Rd	003	Alleghany County	003	Alleghany County	0.60	West Virginia State Line	SR 311 Kanawha Trail	100	R							X						08/12/2008
+702302	  03	00602	     	03-602	Big Ridge Rd	003	Alleghany County	003	Alleghany County	3.70	West Virginia State Line	03-603 Cove Creek Rd	20	R							X						08/12/2008
+702303	  03	00602	     	03-602	Big Ridge Rd	003	Alleghany County	003	Alleghany County	4.90	03-603 Cove Creek Rd	4.90 MN 03-603 Cove Creek Rd	40	R							X						08/12/2008
+702304	  03	00602	     	03-602	Big Ridge Rd	003	Alleghany County	003	Alleghany County	0.50	4.90 MN 03-603 Cove Creek Rd	SR 311 Kanawha Trail	47	R							X						04/19/2005
+702305	  03	00603	     	03-603	Cove Creek Rd	003	Alleghany County	003	Alleghany County	2.41	SR 311 Kanawha Trail	West Virginia State Line	70	R							X						08/12/2008
+702306	  03	00603	     	03-603	Cove Creek Rd	003	Alleghany County	003	Alleghany County	3.70	West Virginia State Line	03-602 Big Ridge Rd	10	R							X						08/12/2008
+702307	  03	00604	     	03-604	Snake Run Rd	003	Alleghany County	003	Alleghany County	1.80	SR 311 Kanawha Trail	03-600 NORTH	49	R							X						08/12/2008
+702308	  03	00604	     	03-604	Snake Run Rd	003	Alleghany County	003	Alleghany County	0.40	03-600 SOUTH	Dead End	1	R							X						08/12/2008
+702309	  03	00605	     	03-605	Coles Mtn Rd	003	Alleghany County	003	Alleghany County	3.34	03-666 East Morris Hill Rd	3.34 MN 03-666 East Morris Hill Rd	130	R							X						08/14/2008
+702310	  03	00605	     	03-605	Coles Mtn Rd	003	Alleghany County	003	Alleghany County	1.41	3.34 MN 03-666 East Morris Hill Rd	Bath County Line	20	R							X						08/14/2008
+302592	  03	00606	     	03-606	Sulphur Springs Rd	003	Alleghany County	003	Alleghany County	1.40	NCL Clifton Forge	03-699	460	F	96%	1%	1%	2%	0%	0%	C	0.1022	F	0.6471	480	F	2008
+702311	  03	00606	     	03-606	 	003	Alleghany County	003	Alleghany County	6.80	03-699	Bath County Line	370	R							X						08/14/2008
+702312	  03	00607	     	03-607	 	003	Alleghany County	003	Alleghany County	3.40	SR 18 Potts Creek Rd	3.40 MN SR 18 Potts Creek Rd	40	R							X						08/07/2008
+702313	  03	00607	     	03-607	 	003	Alleghany County	003	Alleghany County	2.20	3.40 MN SR 18 Potts Creek Rd	03-610	40	R							X						08/07/2008
+702314	  03	00607	     	03-607	 	003	Alleghany County	003	Alleghany County	1.60	03-610	03-616	180	R							X						04/21/2005
+702315	  03	00608	     	03-608	Wolfe Rd	003	Alleghany County	003	Alleghany County	1.27	Dead End	1.27 ME Dead End	70	R							X						08/07/2008
+702316	  03	00608	     	03-608	Wolfe Rd	003	Alleghany County	003	Alleghany County	0.05	1.27 ME Dead End	SR 18 Potts Creek Rd	70	R							X						08/07/2008
+702317	  03	00609	     	03-609	Vine Patch Rd	003	Alleghany County	003	Alleghany County	1.80	Dead End	SR 18 Potts Creek Rd	6	R							X						08/07/2008
+702318	  03	00610	     	03-610	 	003	Alleghany County	003	Alleghany County	0.70	03-607	SR 18 S, Potts Creek Rd	140	R							X						04/21/2005
+702319	  03	00610	     	03-610	 	003	Alleghany County	003	Alleghany County	0.25	SR 18 MID, Potts Creek Rd	Dead End; Gap	40	R							X						04/21/2005
+702320	  03	00610	     	03-610	 	003	Alleghany County	003	Alleghany County	0.92	Dead End; Gap	03-611 Stone Mtn Rd	30	R							X						08/07/2008
+702321	  03	00610	     	03-610	 	003	Alleghany County	003	Alleghany County	1.95	03-611 Stone Mtn Rd	SR 18 N, Potts Creek Rd	190	R							X						08/07/2008
+702322	  03	00611	     	03-611	Stone Mtn Rd	003	Alleghany County	003	Alleghany County	0.40	Dead End	03-610	40	R							X						08/07/2008
+702323	  03	00612	     	03-612	Uplands Rd	003	Alleghany County	003	Alleghany County	1.56	03-616	SR 18 Potts Creek Rd	210	R							X						08/07/2008
+702324	  03	00613	     	03-613	 	003	Alleghany County	003	Alleghany County	1.40	Dead End	03-616 EAST	180	R							X						04/27/2005
+702325	  03	00613	     	03-613	 	003	Alleghany County	003	Alleghany County	1.62	03-616 EAST	SR 18 N, Potts Creek Rd	400	R							X						08/07/2008
+702326	  03	00613	     	03-613	 	003	Alleghany County	003	Alleghany County	4.40	SR 18 S, Potts Creek Rd	03-600	40	R							X						08/07/2008
+702327	  03	00614	     	03-614	Castile Rd	003	Alleghany County	003	Alleghany County	2.50	03-600	03-649 Wetground Lane	90	R							X						08/05/2008
+702328	  03	00614	     	03-614	Castile Rd	003	Alleghany County	003	Alleghany County	0.39	03-649 Wetground Lane	SR 18 Potts Creek Rd	370	R							X						04/21/2005
+302593	  03	00615	     	03-615	Blue Spring Run Rd	003	Alleghany County	003	Alleghany County	2.90	03-616 Ritch Patch Rd	SR 18 Potts Creek Rd	240	F	90%	2%	1%	4%	3%	0%	C	0.1362	F	0.5143	250	F	2008
+702329	  03	00616	     	03-616	 	003	Alleghany County	003	Alleghany County	0.20	SR 18 Potts Creek Rd	03-607	170	R							X						08/07/2008
+702330	  03	00616	     	03-616	 	003	Alleghany County	003	Alleghany County	1.60	03-607	03-612 Uplands Rd	80	R							X						04/27/2005
+702331	  03	00616	     	03-616	 	003	Alleghany County	003	Alleghany County	1.60	03-612 Uplands Rd	03-613 WEST	90	R							X						08/07/2008
+702332	  03	00616	     	03-616	 	003	Alleghany County	003	Alleghany County	3.87	03-613 EAST	03-617 Jamison Mtn Rd	270	R							X						04/27/2005
+702333	  03	00616	     	03-616	 	003	Alleghany County	003	Alleghany County	2.90	03-617 Jamison Mtn Rd	03-619 S, Hayes Gap Rd	390	R							X						08/07/2008
+302594	  03	00616	     	03-616	Rich Patch Rd	003	Alleghany County	003	Alleghany County	3.79	03-619 S, Hayes Gap Rd	03-621 Roaring Run Rd	410	F	87%	1%	1%	11%	0%	0%	F	0.1118	F	0.5283	430	F	2008
+302595	  03	00616	     	03-616	Rich Patch Rd	003	Alleghany County	003	Alleghany County	1.00	03-621 Roaring Run Rd	03-622 Rose Hill Lane	520	F	87%	1%	1%	11%	0%	0%	F	0.1012	F	0.5820	550	F	2008
+302596	  03	00616	     	03-616	Rich Patch Rd	003	Alleghany County	003	Alleghany County	3.00	03-622 Rose Hill Lane	03-623 White Rock Gap Rd	700	F	87%	1%	1%	11%	0%	0%	F	0.1015	F	0.7470	740	F	2008
+302597	  03	00616	     	03-616	Rich Patch Rd	003	Alleghany County	003	Alleghany County	1.42	03-623 White Rock Gap Rd	03-696 Selma Low Moor Rd	860	F	87%	1%	1%	11%	0%	0%	C	0.0914	F	0.6071	900	F	2008
+702334	  03	00617	     	03-617	Jamison Mtn Rd	003	Alleghany County	003	Alleghany County	2.40	Craig County Line	03-616	270	R							X						05/10/2005
+702335	  03	00618	     	03-618	Upper Rich Patch Dr	003	Alleghany County	003	Alleghany County	2.30	03-617 Jamison Mtn Rd	03-616	110	R							X						08/07/2008
+702336	  03	00619	     	03-619	 	003	Alleghany County	003	Alleghany County	0.90	Dead End	03-616 N, Rich Patch Rd	90	R							X						04/14/2005
+302598	  03	00619	     	03-619	Hayes Gap Rd	003	Alleghany County	003	Alleghany County	3.33	03-616 S, Rich Patch Rd	03-657 Pitzer Ridge Rd	330	F	100%	0%	0%	0%	0%	0%	C	0.1011	F	0.5676	350	F	2008
+702337	  03	00620	     	03-620	Watahala Lane	003	Alleghany County	003	Alleghany County	0.20	03-616 Rich Patch Rd	Dead End	50	R							X						08/05/2008
+302599	  03	00621	     	03-621	Roaring Run Rd	003	Alleghany County	003	Alleghany County	1.30	Botetourt County Line	03-616 Rich Patch Rd	450	F	97%	1%	1%	1%	0%	0%	C	0.1065	F	0.6111	470	F	2008
+702338	  03	00622	     	03-622	Rose Hill Lane	003	Alleghany County	003	Alleghany County	0.60	03-616 Rich Patch Rd	Dead End	60	R							X						04/14/2005
+702339	  03	00623	     	03-623	White Rock Gap Rd	003	Alleghany County	003	Alleghany County	0.10	Dead End	0.10 MW Dead End	60	R							X						07/29/2008
+702340	  03	00623	     	03-623	White Rock Gap Rd	003	Alleghany County	003	Alleghany County	2.10	0.10 MW Dead End	03-616 Rich Patch Rd	200	R							X						04/17/2005
+702341	  03	00624	     	03-624	Rosedale Ave	003	Alleghany County	003	Alleghany County	0.05	Dead End	03-654	50	R							X						07/31/2008
+702342	  03	00625	     	03-625	East Dolly Ann Dr	003	Alleghany County	003	Alleghany County	0.24	ECL Covington	03-631 Long Ave	2800	R							X						04/19/2005
+702343	  03	00625	     	03-625	East Dolly Ann Dr	003	Alleghany County	003	Alleghany County	0.14	03-631 Long Ave	03-676	1500	R							X						07/31/2008
+702344	  03	00625	     	03-625	East Dolly Ann Dr	003	Alleghany County	003	Alleghany County	0.45	03-676	03-708 McAllister Dr	1300	R							X						04/19/2005
+702345	  03	00625	     	03-625	East Dolly Ann Dr	003	Alleghany County	003	Alleghany County	0.05	03-708 McAllister Dr	03-655 Hatcher Ave	800	R							X						07/31/2008
+702346	  03	00625	     	03-625	East Dolly Ann Dr	003	Alleghany County	003	Alleghany County	0.35	03-655 Hatcher Ave	03-771 Mtn View Dr	730	R							X						04/19/2005
+702347	  03	00625	     	03-625	East Dolly Ann Dr	003	Alleghany County	003	Alleghany County	0.58	03-771 Mtn View Dr	Dead End	480	R							X						07/31/2008
+702348	  03	00626	     	03-626	Portland Ave	003	Alleghany County	003	Alleghany County	0.05	03-662	03-780 Benson St	500	R							X						04/05/2005
+702349	  03	00626	     	03-626	Portland Ave	003	Alleghany County	003	Alleghany County	0.05	03-780 Benson St	Bus US 60	480	R							X						07/22/2008
+702350	  03	00626	     	03-626	Portland Ave	003	Alleghany County	003	Alleghany County	0.05	Bus US 60	03-1402 Athol St	90	R							X						04/05/2005
+702351	  03	00627	     	03-627	North Oakwood Dr	003	Alleghany County	003	Alleghany County	0.15	Dead End	Bus US 60	110	R							X						07/11/2002
+702352	  03	00627	     	03-627	North Oakwood Dr	003	Alleghany County	003	Alleghany County	0.15	Bus US 60	03-1406 Dickson St	480	R							X						04/14/2005
+702353	  03	00627	     	03-627	North Oakwood Dr	003	Alleghany County	003	Alleghany County	0.04	03-1406 Dickson St	03-1401 Cliftwood Circle	280	R							X						07/11/2002
+702354	  03	00628	     	03-628	Jackson Dr	003	Alleghany County	003	Alleghany County	0.03	Dead End	03-1201 S, Winding Way	10	R							X						04/14/2005
+702355	  03	00628	     	03-628	Jackson Dr	003	Alleghany County	003	Alleghany County	0.09	03-1201 S, Winding Way	03-1202 Corner Dr	260	R							X						07/31/2008
+702356	  03	00628	     	03-628	Jackson Dr	003	Alleghany County	003	Alleghany County	0.08	03-1202 Corner Dr	03-1201 N, Winding Way	290	R							X						04/19/2005
+702357	  03	00628	     	03-628	Jackson Dr	003	Alleghany County	003	Alleghany County	0.13	03-1201 N, Winding Way	03-698 Chapel Dr	880	R							X						07/31/2008
+302600	  03	00629	     	03-629	Douthat Rd	003	Alleghany County	003	Alleghany County	0.22	I-64	03-1408 Falcon Ridge Road	1500	F	97%	1%	1%	0%	0%	0%	C	0.1049	F	0.6149	1600	F	2008
+302602	  03	00629	     	03-629	Douthat Rd	003	Alleghany County	003	Alleghany County	0.26	03-1408 Falcon Ridge Road	03-1405 Meadows Of Wilson Court	1200	F	97%	1%	1%	0%	0%	0%	F	0.0998	F	0.5543	1300	F	2008
+302603	  03	00629	     	03-629	Douthat Rd	003	Alleghany County	003	Alleghany County	3.87	03-1405 Meadows of Wilson Court	Bath County Line	830	F	97%	1%	1%	0%	0%	0%	F	0.1042	F	0.5106	870	F	2008
+702358	  03	00630	     	03-630	Griffith Rd	003	Alleghany County	003	Alleghany County	0.30	SR 42 Forty Two Rd	0.30 ME SR 42	80	R							X						04/19/2005
+702359	  03	00630	     	03-630	Griffith Rd	003	Alleghany County	003	Alleghany County	1.20	0.30 ME SR 42	Dead End	80	R							X						07/22/2008
+702360	  03	00631	     	03-631	Long Ave	003	Alleghany County	003	Alleghany County	0.08	03-625 East Dolly Ann Dr	Dead End	760	R							X						04/19/2005
+702361	  03	00632	     	03-632	Golf Course View	003	Alleghany County	003	Alleghany County	0.75	03-671 State Ave	0.75 ME 03-671	30	R							X						07/22/2008
+702362	  03	00632	     	03-632	Golf Course View	003	Alleghany County	003	Alleghany County	0.15	0.75 ME 03-671	03-670 Longdale Furnace Rd	49	R							X						07/22/2008
+702363	  03	00632	     	03-632, VA 42	Golf Course View	003	Alleghany County	003	Alleghany County	0.83	03-670 Longdale Furnace Rd	03-639 Longdale Station Rd	1000	R							X						07/22/2008
+702364	  03	00632	     	03-632, VA 42	Golf Course View	003	Alleghany County	003	Alleghany County	0.48	03-639 Longdale Station Rd	SR 42; SR 269	880	R							X						04/05/2005
+302604	  03	00633	     	03-633	McKinney Hollow Rd	003	Alleghany County	003	Alleghany County	1.90	Botetourt County Line	03-634 Riverland Rd	320	F	99%	1%	0%	0%	0%	0%	C	0.1196	F	0.6154	340	F	2008
+303820	  03	00633	     	03-633	McKinney Hollow Rd	003	Alleghany County	003	Alleghany County	0.40	03-634 Riverland Rd	SR 269 Longdale Furnace Rd	530	F	97%	2%	1%	0%	0%	0%	C	0.1095	F	0.6290	560	F	2008
+702365	  03	00634	     	03-634	Riverland Rd	003	Alleghany County	003	Alleghany County	1.20	Dead End	03-633 McKinney Hollow Rd	270	R							X						07/22/2008
+702366	  03	00635	     	03-635	Nicelytown Rd	003	Alleghany County	003	Alleghany County	0.28	SR 269 Longdale Furnace Rd	03-725 S, Firehouse Circle	410	R							X						04/05/2005
+702367	  03	00635	     	03-635	Nicelytown Rd	003	Alleghany County	003	Alleghany County	0.27	03-725 S, Firehouse Circle	03-725 N, Firehouse Circle	260	R							X						07/22/2008
+702368	  03	00635	     	03-635	Nicelytown Rd	003	Alleghany County	003	Alleghany County	1.53	03-725 N, Firehouse Circle	SR 42 Forty Two Rd	330	R							X						04/05/2005
+702369	  03	00636	     	03-636	Morgan Dr	003	Alleghany County	003	Alleghany County	0.27	Dead End	SR 42 Forty Two Rd	120	R							X						07/22/2008
+702370	  03	00637	     	03-637	Sycamore Bend Lane	003	Alleghany County	003	Alleghany County	0.50	03-687 Jackson River Rd	Dead End	20	R							X						08/14/2008
+302605	  03	00638	     	03-638	Natural Well Rd	003	Alleghany County	003	Alleghany County	0.75	03-666 East Morris Hill Rd	03-687 N, Jackson River Rd	210	F	97%	0%	2%	1%	0%	0%	C	0.1461	F	0.5313	220	F	2008
+702371	  03	00638	     	03-638	Natural Well Rd	003	Alleghany County	003	Alleghany County	0.20	03-687 N, Jackson River Rd	03-687 S, Jackson River Rd	40	R							X						08/14/2008
+702372	  03	00639	     	03-639	Longdale Station Rd	003	Alleghany County	003	Alleghany County	0.56	03-632 Golf Course View	0.56 MN 03-632	140	R							X						04/05/2005
+702373	  03	00639	     	03-639	Longdale Station Rd	003	Alleghany County	003	Alleghany County	0.20	0.56 MN 03-632	Dead End	90	R							X						07/22/2008
+702374	  03	00640	     	03-640	Falls Rd	003	Alleghany County	003	Alleghany County	2.80	03-687 Jackson River Rd	US 220	480	R							X						03/30/2005
+702375	  03	00641	     	03-641	Indian Draft Rd	003	Alleghany County	003	Alleghany County	1.36	03-600	03-666 East Morris Hill Rd	550	R							X						08/12/2008
+302606	  03	00641	     	03-641	Indian Draft Rd	003	Alleghany County	003	Alleghany County	0.55	03-666 East Morris Hill Rd	03-687 Jackson River Rd	590	F	97%	1%	1%	1%	0%	0%	C	0.1082	F	0.5672	620	F	2008
+702376	  03	00642	     	03-642	Mount Pleasure Dr	003	Alleghany County	003	Alleghany County	1.45	Dead End	03-687 Jackson River Rd	210	R							X						03/30/2005
+702377	  03	00643	     	03-643	Robert St	003	Alleghany County	003	Alleghany County	0.04	03-645 Westwood Dr	US 60	160	R							X						07/31/2008
+702378	  03	00644	     	03-644	Moffitt St	003	Alleghany County	003	Alleghany County	0.03	03-645 Westwood Dr	US 60	60	R							X						04/19/2005
+702379	  03	00645	     	03-645	Westwood Dr	003	Alleghany County	003	Alleghany County	0.14	Dead End	03-644 Moffitt St	30	R							X						07/31/2008
+702380	  03	00645	     	03-645	Westwood Dr	003	Alleghany County	003	Alleghany County	0.10	03-644 Moffitt St	03-643 Robert St	60	R							X						04/19/2005
+702381	  03	00645	     	03-645	Westwood Dr	003	Alleghany County	003	Alleghany County	0.30	03-643 Robert St	Dead End	40	R							X						07/31/2008
+702382	  03	00646	     	03-646	Ross Lane	003	Alleghany County	003	Alleghany County	0.20	SR 42; 03-705	Dead End	160	R							X						04/05/2005
+302607	  03	00647	     	03-647	Mallow Rd	003	Alleghany County	003	Alleghany County	0.86	ECL Covington	03-648 Horse Mtn View	1100	F	98%	1%	1%	0%	0%	0%	C	0.0995	F	0.5669	1200	F	2008
+702383	  03	00648	     	03-648	Horse Mtn View	003	Alleghany County	003	Alleghany County	0.02	Dead End	03-653	60	R							X						07/31/2008
+702384	  03	00648	     	03-648	Horse Mtn View	003	Alleghany County	003	Alleghany County	0.20	03-653	03-698 Chapel Dr	1300	R							X						1999
+702385	  03	00648	     	03-648	Horse Mtn View	003	Alleghany County	003	Alleghany County	0.12	03-698 Chapel Dr	03-792 Jacob St	2000	R							X						07/31/2008
+702386	  03	00648	     	03-648	Horse Mtn View	003	Alleghany County	003	Alleghany County	0.42	03-792 Jacob St	I-64; US 60	3400	R							X						04/05/2005
+702387	  03	00649	     	03-649	Wetground Lane	003	Alleghany County	003	Alleghany County	0.41	Dead End	03-614 Castile Rd	140	R							X						08/05/2008
+702388	  03	00650	     	03-650	School House Rd	003	Alleghany County	003	Alleghany County	0.70	SR 311 Kanawha Trail	Dead End	20	R							X						04/21/2005
+702389	  03	00651	     	03-651	 	003	Alleghany County	003	Alleghany County	0.26	US 60 WEST	US 60 EAST	10	R							X						08/05/2008
+702390	  03	00651	     	03-651	 	003	Alleghany County	003	Alleghany County	0.17	US 60 EAST	Dead End	280	R							X						08/05/2008
+702391	  03	00652	     	03-652	Crowder Hollow Rd	003	Alleghany County	003	Alleghany County	0.70	Dead End	SR 18 Potts Creek Rd	70	R							X						08/07/2008
+702392	  03	00653	     	03-653	 	003	Alleghany County	003	Alleghany County	0.26	Dead End	03-1206	160	R							X						1999
+702393	  03	00653	     	03-653	 	003	Alleghany County	003	Alleghany County	0.13	03-1206	03-648 Horse Mtn View	940	R							X						07/25/2002
+702394	  03	00654	     	03-654	 	003	Alleghany County	003	Alleghany County	0.07	US 60 WEST	03-674 Sweetbriar Ave	170	R							X						04/19/2005
+702395	  03	00654	     	03-654	 	003	Alleghany County	003	Alleghany County	0.16	03-674 Sweetbriar Ave	03-624 Rosedale Ave	150	R							X						07/31/2008
+702396	  03	00654	     	03-654	 	003	Alleghany County	003	Alleghany County	0.15	03-624 Rosedale Ave	US 60 EAST	540	R							X						04/19/2005
+702397	  03	00655	     	03-655	Hatcher Ave	003	Alleghany County	003	Alleghany County	0.21	Cul-de-Sac	03-625 East Dolly Ann Dr	160	R							X						07/25/2002
+702398	  03	00656	     	03-656	 	003	Alleghany County	003	Alleghany County	0.02	Dead End	SR 18 Potts Creek Rd	10	R							X						08/05/2008
+302609	  03	00657	     	03-657	Pitzer Ridge Rd	003	Alleghany County	003	Alleghany County	1.45	SR 18 Potts Creek Rd	03-619 Hayes Gap Rd	170	F	98%	0%	0%	1%	0%	0%	F	0.1298	F	0.6471	180	F	2008
+302610	  03	00657	     	03-657	Pitzer Ridge Rd	003	Alleghany County	003	Alleghany County	1.54	03-619 Hayes Gap Rd	SCL Covington	450	F	98%	0%	0%	1%	0%	0%	C	0.1237	F	0.5833	470	F	2008
+702399	  03	00658	     	03-658	Jingling Rocks Rd	003	Alleghany County	003	Alleghany County	1.90	Dead End	03-600	20	R							X						08/05/2008
+702400	  03	00659	     	03-659	Station Rd	003	Alleghany County	003	Alleghany County	0.10	SR 159 Dunlap Creek Rd	Dead End	8	R							X						08/05/2008
+302611	  03	00661	     	03-661	Midland Trail	003	Alleghany County	003	Alleghany County	2.38	03-600 S, East Midland Trail	I- 64	1400	F	96%	0%	1%	1%	2%	0%	C	0.0963	F	0.5132	1500	F	2008
+702403	  03	00661	     	03-661	Ogles Creek Rd	003	Alleghany County	003	Alleghany County	0.10	I- 64	FR-199 Frontier Lane; FR-200 Bradley Spring Lane	1000	R							X						08/19/2008
+702404	  03	00661	     	03-661	Ogles Creek Rd	003	Alleghany County	003	Alleghany County	8.30	FR-199 Frontier Lane; FR-200 Bradley Spring Lane	03-781 Johnson Creek Rd	310	R							X						03/30/2005
+702405	  03	00661	     	03-661	Johnson Creek Rd	003	Alleghany County	003	Alleghany County	7.00	03-781 Ogles Creek Rd	03-724 Cline Meadow Rd	350	R							X						08/19/2008
+702406	  03	00661	     	03-661	Johnson Creek Rd	003	Alleghany County	003	Alleghany County	1.30	03-724 Cline Meadow Rd	03-600 Indian Draft Rd	830	R							X						03/30/2005
+702408	  03	00662	     	03-662	 	003	Alleghany County	003	Alleghany County	0.20	ECL Clifton Forge	03-1401 Cliftwood Circle	260	R							X						08/12/2008
+702409	  03	00662	     	03-662	 	003	Alleghany County	003	Alleghany County	0.67	03-1401 Cliftwood Circle	03-626 Portland Ave	230	R							X						03/30/2005
+702410	  03	00662	     	03-662	 	003	Alleghany County	003	Alleghany County	0.15	03-626 Portland Ave	03-780 Benson St	290	R							X						07/22/2008
+702411	  03	00662	     	03-662	 	003	Alleghany County	003	Alleghany County	0.15	03-780 Benson St	Bus US 60; 03-1404	260	R							X						04/05/2005
+785745	  03	00663	     	03-663	Landis Dr	003	Alleghany County	003	Alleghany County	0.25	Dead End	03-687 Jackson River Rd	50	R							X						03/30/2005
+702412	  03	00664	     	03-664	Frazier Hill Lane	003	Alleghany County	003	Alleghany County	0.70	Dead End	SCL Clifton Forge	40	R							X						07/24/2008
+702413	  03	00665	     	03-665	Moss Run Rd	003	Alleghany County	003	Alleghany County	0.25	Dead End	0.25 ME Dead End	10	R							X						08/05/2008
+702414	  03	00665	     	03-665	Moss Run Rd	003	Alleghany County	003	Alleghany County	0.25	0.25 ME Dead End	SR 159 Dunlap Creek Rd	110	R							X						08/05/2008
+302612	  03	00666	     	03-666	East Morris Hill Rd	003	Alleghany County	003	Alleghany County	3.25	03-641 Indian Draft Rd	03-638 Natural Well Rd	240	F	98%	1%	0%	0%	0%	0%	C	0.1333	F	0.5313	250	F	2008
+702415	  03	00666	     	03-666	East Morris Hill Rd	003	Alleghany County	003	Alleghany County	0.45	03-638 Natural Well Rd	03-605 Coles Mtn Rd	300	R							X						03/30/2005
+702416	  03	00666	     	03-666	East Morris Hill Rd	003	Alleghany County	003	Alleghany County	0.50	03-605 Coles Mtn Rd	03-600	130	R							X						08/14/2008
+702417	  03	00667	     	03-667	Wrightstown Ave	003	Alleghany County	003	Alleghany County	0.10	US 60	03-697 Carlyle St	130	R							X						04/19/2005
+702418	  03	00667	     	03-667	Wrightstown Ave	003	Alleghany County	003	Alleghany County	0.09	03-697 Carlyle St	Dead End	80	R							X						07/31/2008
+702419	  03	00668	     	03-668	Valley View Dr	003	Alleghany County	003	Alleghany County	0.30	US 220	US 220	40	R							X						04/05/2005
+702420	  03	00669	     	03-669	Old County Rd	003	Alleghany County	003	Alleghany County	0.35	ECL Clifton Forge	Dead End	70	R							X						07/24/2008
+702421	  03	00670	     	03-670, VA 42	Longdale Furnace Rd	003	Alleghany County	003	Alleghany County	0.50	Bus US 60	03-632 Golf Course View	960	R							X						04/05/2005
+702422	  03	00671	     	03-671	State Ave	003	Alleghany County	003	Alleghany County	0.20	Dead End	03-632 Golf Course View	160	R							X						07/22/2008
+702423	  03	00671	     	03-671	State Ave	003	Alleghany County	003	Alleghany County	0.15	03-632 Golf Course View	Bus US 60	220	R							X						04/05/2005
+702424	  03	00672	     	03-672	Hooks Mill Lane	003	Alleghany County	003	Alleghany County	0.40	Dead End	03-621 Roaring Run Rd	110	R							X						08/05/2008
+702425	  03	00673	     	03-673	Stone Rd	003	Alleghany County	003	Alleghany County	0.20	SR 311 S, Kanawha Trail	SR 311 N, Kanawha Trail	100	R							X						04/05/2005
+702426	  03	00674	     	03-674	Sweetbriar Ave	003	Alleghany County	003	Alleghany County	0.04	Dead End	03-654	40	R							X						07/31/2008
+702427	  03	00675	     	03-675	White Oak Dr	003	Alleghany County	003	Alleghany County	0.85	03-675 White Oak Dr	US 60	200	R							X						04/05/2005
+702428	  03	00676	     	03-676	 	003	Alleghany County	003	Alleghany County	0.25	03-625 East Dolly Ann Dr	Dead End	320	R							X						07/31/2008
+702429	  03	00677	     	03-677	Parsonage Lane	003	Alleghany County	003	Alleghany County	0.24	Dead End	SR 18 Potts Creek Rd	70	R							X						08/07/2008
+702430	  03	00678	     	03-678	Stringer Rd	003	Alleghany County	003	Alleghany County	0.80	SR 311 Kanawha Trail	Dead End	60	R							X						04/21/2005
+702431	  03	00679	     	03-679	Sweet Spring Lane	003	Alleghany County	003	Alleghany County	0.10	Dead End	SR 311 Kanawha Trail	30	R							X						04/21/2005
+702432	  03	00680	     	03-680	Clearwater Dr	003	Alleghany County	003	Alleghany County	0.20	03-713 Gilpin Ave	03-681 Parkview Ave	50	R							X						08/14/2008
+702433	  03	00680	     	03-680	Clearwater Dr	003	Alleghany County	003	Alleghany County	0.10	03-681 Parkview Ave	03-682 Waller Ave	70	R							X						1999
+702434	  03	00680	     	03-680	Clearwater Dr	003	Alleghany County	003	Alleghany County	0.08	03-682 Waller Ave	03-728 S, Clearwater Circle	60	R							X						08/14/2008
+702435	  03	00680	     	03-680	Clearwater Dr	003	Alleghany County	003	Alleghany County	0.10	03-728 S, Clearwater Circle	03-728 N, Clearwater Circle	70	R							X						1999
+702436	  03	00680	     	03-680	Clearwater Dr	003	Alleghany County	003	Alleghany County	0.12	03-728 N, Clearwater Circle	03-687 Jackson River Rd	140	R							X						08/14/2008
+702437	  03	00681	     	03-681	Parkview Ave	003	Alleghany County	003	Alleghany County	0.20	03-680 Clearwater Dr	03-713 Gilpin Ave	150	R							X						1999
+702438	  03	00681	     	03-681	Parkview Ave	003	Alleghany County	003	Alleghany County	0.05	03-713 Gilpin Ave	03-687 Jackson River Rd	320	R							X						08/14/2008
+702439	  03	00682	     	03-682	Waller Ave	003	Alleghany County	003	Alleghany County	0.20	03-680 Clearwater Dr	03-687 Jackson River Rd	120	R							X						1999
+702440	  03	00683	     	03-683	Callaghan Circle	003	Alleghany County	003	Alleghany County	0.95	03-661 W, Midland Trail	03-661 E, Midland Trail	260	R							X						08/05/2008
+702441	  03	00684	     	03-684	Dunbrack Rd	003	Alleghany County	003	Alleghany County	2.35	US 220	03-791 Dunbrack Circle	360	R							X						03/30/2005
+702442	  03	00684	     	03-684	Dunbrack Rd	003	Alleghany County	003	Alleghany County	0.30	03-791 Dunbrack Circle	0.30 MN 03-791	180	R							X						08/14/2008
+702443	  03	00684	     	03-684	Dunbrack Rd	003	Alleghany County	003	Alleghany County	0.18	0.30 MN 03-791	Dead End	180	R							X						08/14/2008
+702444	  03	00685	     	03-685	Jacksons Flat	003	Alleghany County	003	Alleghany County	0.59	Dead End	03-657 Pitzer Ridge Rd	120	R							X						08/05/2008
+702445	  03	00686	     	03-686	Spring Church Rd	003	Alleghany County	003	Alleghany County	0.10	Dead End	03-687 Jackson River Rd	7	R							X						03/30/2005
+302613	  03	00687	     	03-687	Jackson River Rd	003	Alleghany County	003	Alleghany County	1.71	US 220	03-642 Mount Pleasure Drive	1900	F	98%	0%	1%	1%	1%	0%	C	0.0971	F	0.6000	2000	F	2008
+302614	  03	00687	     	03-687	Jackson River Rd	003	Alleghany County	003	Alleghany County	1.51	03-642 Mount Pleasure Drive	03-641 Indian Draft Road	1700	F	96%	0%	1%	3%	0%	0%	F	0.0969	F	0.5452	1700	F	2008
+302615	  03	00687	     	03-687	Jackson River Rd	003	Alleghany County	003	Alleghany County	1.52	03-641 Indian Draft Road	03-640 Falls Road	1300	F	96%	0%	1%	3%	0%	0%	C	0.1110	F	0.5633	1400	F	2008
+302616	  03	00687	     	03-687	Jackson River Rd	003	Alleghany County	003	Alleghany County	3.48	03-640 Falls Road	03-638 S, Natural Well Rd	580	F	96%	0%	1%	3%	0%	0%	F	0.1032	F	0.6324	610	F	2008
+302617	  03	00687	     	03-687	Jackson River Rd	003	Alleghany County	003	Alleghany County	0.97	03-638 S, Natural Well Rd	03-637 Sycamore Bend Lane	610	F	96%	0%	1%	3%	0%	0%	F	0.1077	F	0.6093	640	F	2008
+302618	  03	00687	     	03-687	Jackson River Rd	003	Alleghany County	003	Alleghany County	2.15	03-637 Sycamore Bend Lane	Bath County Line	570	F	96%	0%	1%	3%	0%	0%	F	0.1037	F	0.5797	600	F	2008
+702446	  03	00688	     	03-688	Stoughton Lane	003	Alleghany County	003	Alleghany County	0.11	Dead End	US 60	120	R							X						07/31/2008
+702448	  03	00690	     	03-690	Hattie St	003	Alleghany County	003	Alleghany County	0.26	03-647 Mallow Rd	03-792 Jacob St	830	R							X						07/31/2008
+702449	  03	00691	     	03-691	Second Avenue	003	Alleghany County	003	Alleghany County	0.50	03-774 Staunton Rd	Dead End	190	R							X						04/05/2005
+702450	  03	00692	     	03-692	Stratton St	003	Alleghany County	003	Alleghany County	0.07	Dead End	03-720 Miller St	90	R							X						08/19/2008
+702451	  03	00692	     	03-692	Stratton St	003	Alleghany County	003	Alleghany County	0.06	03-720 Miller St	03-625 East Dolly Ann Dr	130	R							X						07/31/2008
+702452	  03	00693	     	03-693	Haynes Dr	003	Alleghany County	003	Alleghany County	0.15	Dead End	SR 18 Potts Creek Rd	30	R							X						08/07/2008
+702453	  03	00694	     	03-694	Old Mill Rd	003	Alleghany County	003	Alleghany County	0.07	SR 18 Potts Creek Rd	Dead End	10	R							X						04/21/2005
+702454	  03	00695	     	03-695	Pioneer Rd	003	Alleghany County	003	Alleghany County	0.25	03-721	Dead End	100	R							X						08/14/2008
+702455	  03	00696	     	03-696	Selma Low Moor Rd	003	Alleghany County	003	Alleghany County	0.04	03-1101	I-64	4300	R							X						07/29/2008
+303819	  03	00696	     	03-696	Selma Low Moor Rd	003	Alleghany County	003	Alleghany County	0.16	I-64	03-1314 ARH Lane	6200	G	93%	0%	1%	5%	1%	0%	F				6500	G	2008
+302619	  03	00696	     	03-696	Selma Low Moor Rd	003	Alleghany County	003	Alleghany County	0.08	03-1314 ARH Lane	03-1312 Karnes Rd	2700	F	92%	0%	1%	4%	3%	0%	C	0.0925	F	0.5812	2800	F	2008
+302620	  03	00696	     	03-696	Selma Low Moor Rd	003	Alleghany County	003	Alleghany County	2.63	03-1312 Karnes Rd	03-1002 MID	1400	F	93%	0%	1%	5%	1%	0%	C	0.0978	F	0.5380	1500	F	2008
+302621	  03	00696	     	03-696	Selma Low Moor Rd	003	Alleghany County	003	Alleghany County	0.12	03-1002 MID	03-1002 EAST	1700	F	93%	0%	1%	5%	1%	0%	F	0.0962	F	0.6098	1800	F	2008
+302622	  03	00696	     	03-696	Selma Low Moor Rd	003	Alleghany County	003	Alleghany County	0.24	03-1002 EAST	Bus US 60	2200	F	93%	0%	1%	5%	1%	0%	F	0.0967	F	0.5093	2300	F	2008
+702458	  03	00697	     	03-697	Carlyle St	003	Alleghany County	003	Alleghany County	0.04	US 60	03-707 Rose Ave	410	R							X						07/31/2008
+702459	  03	00697	     	03-697	Carlyle St	003	Alleghany County	003	Alleghany County	0.06	03-707 Rose Ave	03-667 Wrightstown Ave	150	R							X						04/19/2005
+702460	  03	00698	     	03-698	Chapel Dr	003	Alleghany County	003	Alleghany County	0.13	03-648 Horse Mtn View	03-628 Jackson Dr	1100	R							X						07/31/2008
+702461	  03	00699	     	03-699	 	003	Alleghany County	003	Alleghany County	0.50	Dead End	03-606 Sulphur Springs Rd	110	R							X						03/30/2005
+702462	  03	00700	     	03-700	Evergreen Rd	003	Alleghany County	003	Alleghany County	0.67	03-778 Dressler Dr	03-778 Dressler Dr	140	R							X						08/14/2008
+702463	  03	00701	     	03-701	Alleghany Ave	003	Alleghany County	003	Alleghany County	0.10	Botetourt County Line	03-1710	490	R							X						04/07/2005
+702464	  03	00701	     	03-701	Alleghany Ave	003	Alleghany County	003	Alleghany County	0.06	03-1710	WCL Irongate	990	R							X						07/24/2008
+702465	  03	00701	     	03-701	Earnest Ave	241	Town of Iron Gate	003	Alleghany County	0.34	WCL Irongate	US 220	980	R							X						04/07/2005
+702466	  03	00702	     	03-702	Big Cedar Dr	003	Alleghany County	003	Alleghany County	0.12	03-721	03-715 Treetop Dr	40	R							X						08/14/2008
+702467	  03	00702	     	03-702	Big Cedar Dr	003	Alleghany County	003	Alleghany County	0.23	03-715 Treetop Dr	0.23 MN 03-715	30	R							X						08/14/2008
+702468	  03	00702	     	03-702	Big Cedar Dr	003	Alleghany County	003	Alleghany County	0.14	0.23 MN 03-715	03-718 Edgehill Rd	30	R							X						08/14/2008
+702469	  03	00703	     	03-703	Airport Dr	003	Alleghany County	003	Alleghany County	1.27	03-606	Bath County Line	90	R							X						04/05/2005
+702470	  03	00704	     	03-704	Cliffview Dr	003	Alleghany County	003	Alleghany County	0.38	Dead End	03-721	150	R							X						08/14/2008
+702471	  03	00705	     	03-705	Meadowdale Rd	003	Alleghany County	003	Alleghany County	0.20	Dead End	SR 42; 03-646	80	R							X						04/05/2005
+702472	  03	00706	     	03-706	Montgomery Knob Rd	003	Alleghany County	003	Alleghany County	0.97	Dead End	03-616 Rich Patch Rd	90	R							X						08/05/2008
+702473	  03	00707	     	03-707	Rose Ave	003	Alleghany County	003	Alleghany County	0.10	03-697 Carlyle St	Dead End	90	R							X						04/19/2005
+702474	  03	00708	     	03-708	McAllister Dr	003	Alleghany County	003	Alleghany County	0.15	Dead End	03-716	110	R							X						07/31/2008
+702475	  03	00708	     	03-708	McAllister Dr	003	Alleghany County	003	Alleghany County	0.22	03-716	03-625 East Dolly Ann Dr	410	R							X						1999
+702476	  03	00709	     	03-709	 	003	Alleghany County	003	Alleghany County	0.32	Dead End	03-661 Midland Trail	70	R							X						08/05/2008
+702477	  03	00710	     	03-710	Stonewall Lane	003	Alleghany County	003	Alleghany County	0.18	SR 159 Dunlap Creek Rd	Dead End	20	R							X						04/19/2005
+702478	  03	00711	     	03-711	Houston Circle	003	Alleghany County	003	Alleghany County	0.15	03-661 E, Midland Trail	03-661 W, Midland Trail	20	R							X						08/05/2008
+702479	  03	00712	     	03-712	Dunlap Beach Lane	003	Alleghany County	003	Alleghany County	0.28	03-600	FR-202 Dunlap Beach Lane	40	R							X						04/19/2005
+702480	  03	00713	     	03-713	Gilpin Ave	003	Alleghany County	003	Alleghany County	0.13	03-714 Woodbrook Dr	03-680 Clearwater Dr	120	R							X						08/14/2008
+702481	  03	00713	     	03-713	Gilpin Ave	003	Alleghany County	003	Alleghany County	0.10	03-680 Clearwater Dr	03-681 Parkview Ave	180	R							X						1999
+702482	  03	00714	     	03-714	Woodbrook Dr	003	Alleghany County	003	Alleghany County	0.06	Dead End	03-713 Gilpin Ave	30	R							X						08/14/2008
+702483	  03	00714	     	03-714	Woodbrook Dr	003	Alleghany County	003	Alleghany County	0.06	03-713 Gilpin Ave	Dead End	30	R							X						1999
+702484	  03	00715	     	03-715	Treetop Dr	003	Alleghany County	003	Alleghany County	0.27	03-702 Big Cedar Dr	03-718 Edgehill Rd	30	R							X						08/14/2008
+702485	  03	00716	     	03-716	 	003	Alleghany County	003	Alleghany County	0.22	Dead End	03-708 McAllister Dr	200	R							X						1999
+702486	  03	00717	     	03-717	Boone Rd	003	Alleghany County	003	Alleghany County	0.32	Dead End	SR 159 Dunlap Creek Rd	60	R							X						08/12/2008
+702487	  03	00718	     	03-718	Edgehill Rd	003	Alleghany County	003	Alleghany County	0.12	03-721	0.12 ME 03-721	250	R							X						03/30/2005
+702488	  03	00718	     	03-718	Edgehill Rd	003	Alleghany County	003	Alleghany County	0.15	0.12 ME 03-721	03-702 Big Cedar Dr	60	R							X						08/14/2008
+702489	  03	00719	     	03-719	 	003	Alleghany County	003	Alleghany County	0.23	Dead End	03-661 Midland Trail	40	R							X						03/30/2005
+702490	  03	00720	     	03-720	Miller St	003	Alleghany County	003	Alleghany County	0.04	03-692 Stratton St	Dead End	110	R							X						07/31/2008
+702491	  03	00721	     	03-721	 	003	Alleghany County	003	Alleghany County	0.35	03-687 S, Jackson River Rd	03-704 Cliffview Dr	410	R							X						03/30/2005
+702492	  03	00721	     	03-721	 	003	Alleghany County	003	Alleghany County	0.13	03-704 Cliffview Dr	03-695; Gap	200	R							X						08/14/2008
+702494	  03	00721	     	03-721	 	003	Alleghany County	003	Alleghany County	0.20	Dead End; Gap	03-702 Big Cedar Dr	110	R							X						08/14/2008
+702495	  03	00721	     	03-721	 	003	Alleghany County	003	Alleghany County	0.34	03-702 Big Cedar Dr	03-718 Edgehill Rd	100	R							X						03/30/2005
+702496	  03	00721	     	03-721	 	003	Alleghany County	003	Alleghany County	0.09	03-718 Edgehill Rd	03-687 N, Jackson River Rd	260	R							X						08/14/2008
+702497	  03	00722	     	03-722	Stacks Lane	003	Alleghany County	003	Alleghany County	0.05	SR 269 Longdale Furnace Rd	Dead End	80	R							X						04/05/2005
+702498	  03	00723	     	03-723	Circle H Lane	003	Alleghany County	003	Alleghany County	0.44	Dead End	SR 269 Longdale Furnace Rd	120	R							X						07/22/2008
+702499	  03	00724	     	03-724	Cline Meadow Rd	003	Alleghany County	003	Alleghany County	0.50	Dead End	03-661 Johnson Creek Rd	190	R							X						03/30/2005
+702500	  03	00725	     	03-725	Firehouse Circle	003	Alleghany County	003	Alleghany County	0.07	03-635 S, Nicelytown Rd	0.07 MN 03-635 S	50	R							X						07/22/2008
+702501	  03	00725	     	03-725	Firehouse Circle	003	Alleghany County	003	Alleghany County	0.28	0.07 MN 03-635 S	03-635 N, Nicelytown Rd	30	R							X						04/05/2005
+702502	  03	00727	     	03-727	Fork Farm Rd	003	Alleghany County	003	Alleghany County	0.13	Botetourt County Line	Dead End	170	R							X						07/24/2008
+702503	  03	00728	     	03-728	Clearwater Circle	003	Alleghany County	003	Alleghany County	0.25	03-680 N, Clearwater Dr	03-680 S, Clearwater Dr	30	R							X						1999
+702504	  03	00729	     	03-729	Patricia Dr	003	Alleghany County	003	Alleghany County	0.23	03-731 Sammys Rd	03-730 Sherry May St	960	R							X						08/14/2008
+702505	  03	00729	     	03-729	Patricia Dr	003	Alleghany County	003	Alleghany County	0.07	03-730 Sherry May St	03-687 Jackson River Rd	1100	R							X						04/19/2005
+702506	  03	00730	     	03-730	Sherry May St	003	Alleghany County	003	Alleghany County	0.35	03-732 Dusty Rd	03-729 Patricia Dr	120	R							X						08/14/2008
+702507	  03	00730	     	03-730	Sherry May St	003	Alleghany County	003	Alleghany County	0.10	03-729 Patricia Dr	Dead End	80	R							X						1999
+702508	  03	00731	     	03-731	Sammys Rd	003	Alleghany County	003	Alleghany County	0.15	Cul-de-Sac	03-729 Patricia Dr	110	R							X						08/14/2008
+702509	  03	00731	     	03-731	Sammys Rd	003	Alleghany County	003	Alleghany County	0.15	03-729 Patricia Dr	Dead End	820	R							X						08/19/2008
+702510	  03	00732	     	03-732	Dusty Rd	003	Alleghany County	003	Alleghany County	0.35	03-729 Patricia Dr	03-730 Sherry May St	100	R							X						03/30/2005
+782144	  03	00750	     	03-750	Commerce Center Dr	003	Alleghany County	003	Alleghany County	0.55	03-1101	03-751	1600	R							X						04/14/2005
+791304	  03	00751	     	03-751	 	003	Alleghany County	003	Alleghany County	0.24	03-750 Commerce Center Dr	Dead End	30	R							X						07/29/2008
+795524	  03	00760	     	03-760	 	003	Alleghany County	003	Alleghany County	0.12	Cul-de-Sac	03-750 Commerce Center Dr	0	?							X
+702511	  03	00770	     	03-770	Collierstown Rd	003	Alleghany County	003	Alleghany County	0.75	SR 269 Longdale Furnace Rd	0.75 ME SR 269	70	R							X						07/22/2008
+702512	  03	00770	     	03-770	Collierstown Rd	003	Alleghany County	003	Alleghany County	0.70	0.75 ME SR 269	1.45 ME SR 269	10	R							X						07/22/2008
+702513	  03	00770	     	03-770	Collierstown Rd	003	Alleghany County	003	Alleghany County	2.80	1.45 ME SR 269	Rockbridge County Line	10	R							X						07/22/2008
+702514	  03	00771	     	03-771	Mtn View Dr	003	Alleghany County	003	Alleghany County	0.10	03-625 East Dolly Ann Dr	Dead End	130	R							X						04/05/2005
+702515	  03	00772	     	03-772	Boys Home Rd	003	Alleghany County	003	Alleghany County	0.52	US 60	Dead End	260	R							X						08/19/2008
+702516	  03	00773	     	03-773	Big Mtn Rd	003	Alleghany County	003	Alleghany County	0.30	Dead End	03-616	30	R							X						08/07/2008
+702517	  03	00774	     	03-774	Staunton Rd	003	Alleghany County	003	Alleghany County	0.20	Dead End	03-691 Second Ave	9	R							X						08/19/2008
+702518	  03	00774	     	03-774	Staunton Rd	003	Alleghany County	003	Alleghany County	0.13	03-691 Second Ave	SR 42 Forty Two Rd	210	R							X						04/05/2005
+702519	  03	00775	     	03-775	Sugartree Rd	003	Alleghany County	003	Alleghany County	0.15	03-616 Rich Patch Rd	Dead End	60	R							X						04/05/2005
+702522	  03	00776	     	03-776	Church Rd	003	Alleghany County	003	Alleghany County	0.37	SR 269 Longdale Furnace Rd	SR 269 Longdale Furnace Rd	40	R							X						04/05/2005
+702523	  03	00777	     	03-777	Craft Rd	003	Alleghany County	003	Alleghany County	0.64	Dead End	03-850 North Mtn Rd	48	R							X						07/22/2008
+702524	  03	00778	     	03-778	Dressler Dr	003	Alleghany County	003	Alleghany County	0.10	03-790 Maple Lane	03-789 Minuet Dr	210	R							X						1999
+702525	  03	00778	     	03-778	Dressler Dr	003	Alleghany County	003	Alleghany County	0.08	03-789 Minuet Dr	03-700 W, Evergreen Rd	370	R							X						08/14/2008
+702526	  03	00778	     	03-778	Dressler Dr	003	Alleghany County	003	Alleghany County	0.60	03-700 W, Evergreen Rd	03-700 E, Evergreen Rd	560	R							X						03/30/2005
+702527	  03	00778	     	03-778	Dressler Dr	003	Alleghany County	003	Alleghany County	0.15	03-700 E, Evergreen Rd	US 220	2000	R							X						08/14/2008
+702528	  03	00780	     	03-780	Benson St	003	Alleghany County	003	Alleghany County	0.15	03-626 Portland Ave	03-662	50	R							X						1999
+702530	  03	00781	     	03-781	Rucker Gap Rd	003	Alleghany County	003	Alleghany County	1.91	West Virginia State Line	03-661 Johnson Creek Rd; Ogles Creek Rd	120	R							X						08/12/2008
+702531	  03	00782	     	03-782	Rogers Rd	003	Alleghany County	003	Alleghany County	1.42	Dead End	03-661 Midland Trail	170	R							X						08/05/2008
+702532	  03	00783	     	03-783	Oneida Trail	003	Alleghany County	003	Alleghany County	0.25	SR 18 Potts Creek Rd	Dead End	150	R							X						1999
+702533	  03	00784	     	03-784	Grayson Ave	003	Alleghany County	003	Alleghany County	0.20	US 60	Dead End	550	R							X						07/31/2008
+702534	  03	00785	     	03-785	Armentrout Rd	003	Alleghany County	003	Alleghany County	0.09	SR 18 Potts Creek Rd	Dead End	50	R							X						04/21/2005
+702535	  03	00786	     	03-786	Weikle Rd	003	Alleghany County	003	Alleghany County	0.10	SR 18 Potts Creek Rd	Dead End	10	R							X						08/07/2008
+702536	  03	00787	     	03-787	Gillespie Rd	003	Alleghany County	003	Alleghany County	0.10	Dead End	SR 18 Potts Creek Rd	8	R							X						08/07/2008
+702537	  03	00788	     	03-788	Llama Dr	003	Alleghany County	003	Alleghany County	0.35	SR 18 S, Potts Creek Rd	03-1601 Broken Arrow Lane	60	R							X						08/05/2008
+702538	  03	00788	     	03-788	Llama Dr	003	Alleghany County	003	Alleghany County	0.15	03-1601 Broken Arrow Lane	SR 18 N, Potts Creek Rd	180	R							X						05/10/2005
+702539	  03	00789	     	03-789	Minuet Dr	003	Alleghany County	003	Alleghany County	0.07	03-778 Dressler Dr	03-790 Maple Lane	160	R							X						08/14/2008
+702540	  03	00790	     	03-790	Maple Lane	003	Alleghany County	003	Alleghany County	0.11	Cul-de-Sac	03-778 Dressler Dr	60	R							X						1999
+702541	  03	00790	     	03-790	Maple Lane	003	Alleghany County	003	Alleghany County	0.29	03-778 Dressler Dr	03-789 Minuet Dr	70	R							X						08/14/2008
+702542	  03	00791	     	03-791	Dunbrack Circle	003	Alleghany County	003	Alleghany County	0.40	Dead End	03-684 Dunbrack Rd	80	R							X						03/30/2005
+702543	  03	00792	     	03-792	Jacob St	003	Alleghany County	003	Alleghany County	0.15	03-648 Horse Mtn View	03-690 Hattie St	1200	R							X						07/31/2008
+702544	  03	00792	     	03-792	Jacob St	003	Alleghany County	003	Alleghany County	0.05	03-690 Hattie St	03-647 Mallow Rd	480	R							X						04/19/2005
+702545	  03	00795	     	03-795	Wrights Rd	003	Alleghany County	003	Alleghany County	0.90	Dead End	03-616	60	R							X						08/07/2008
+702546	  03	00797	     	03-797	Smokey Bear Lane	003	Alleghany County	003	Alleghany County	0.31	03-1104 Valley Ridge Rd	Dead End	1500	R							X						04/19/2005
+702547	  03	00830	     	03-830	Little Mtn Rd	003	Alleghany County	003	Alleghany County	0.90	Dead End	03-687 Jackson River Rd	110	R							X						08/14/2008
+702548	  03	00835	     	03-835	Callie Mines Rd	003	Alleghany County	003	Alleghany County	0.44	Botetourt County Line	03-1710	110	R							X						07/24/2008
+302623	  03	00850	     	03-850	North Mountain Rd	003	Alleghany County	003	Alleghany County	5.15	Ramp From I-64	Rockbridge County Line	140	F	91%	3%	3%	1%	2%	0%	C	0.1154	F	0.5556	150	F	2008
+702549	  03	01001	     	03-1001	Cardinal Dr	003	Alleghany County	003	Alleghany County	0.11	Dead End	03-1006 15th St	20	R							X						07/29/2008
+702550	  03	01001	     	03-1001	Cardinal Dr	003	Alleghany County	003	Alleghany County	0.10	03-1006 15th St	03-1007 14th St	150	R							X						07/29/2008
+702551	  03	01001	     	03-1001	Cardinal Dr	003	Alleghany County	003	Alleghany County	0.05	03-1007 14th St	Dead End	40	R							X						04/19/2005
+702552	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.33	03-696 W, Selma Low Moor Rd	03-1006 15th St	100	R							X						07/29/2008
+702553	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.08	03-1006 15th St	03-1007 14th St	160	R							X						1999
+702554	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.06	03-1007 14th St	03-1008 13th St	420	R							X						07/29/2008
+702555	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.03	03-1008 13th St	03-696 MID	540	R							X						1999
+702556	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.02	03-696 E, Selma Low Moor Rd	03-1011 11th St	260	R							X						07/29/2008
+702557	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.05	03-1011 11th St	03-1010 Skyline Ave	300	R							X						1999
+702558	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.10	03-1010 Skyline Ave	03-1012 Clover Lane	300	R							X						07/24/2008
+702559	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.17	03-1012 Clover Lane	03-1005 Concord St	70	R							X						04/19/2005
+702560	  03	01002	     	03-1002	 	003	Alleghany County	003	Alleghany County	0.03	03-1005 Concord St	Dead End	30	R							X						07/24/2008
+702561	  03	01003	     	03-1003	Donovan St	003	Alleghany County	003	Alleghany County	0.12	Dead End	03-1007 Gap	70	R							X						1999
+702562	  03	01003	     	03-1003	Donovan St	003	Alleghany County	003	Alleghany County	0.08	03-1008 Gap	03-1009 12th St	47	R							X						07/29/2008
+702563	  03	01003	     	03-1003	Donovan St	003	Alleghany County	003	Alleghany County	0.09	03-1009 12th St	03-1011 11th St	120	R							X						1999
+702564	  03	01003	     	03-1003	Donovan St	003	Alleghany County	003	Alleghany County	0.10	03-1011 11th St	03-1010 Skyline Ave	70	R							X						07/24/2008
+702565	  03	01004	     	03-1004	Staunton St	003	Alleghany County	003	Alleghany County	0.07	Dead End	03-1007 14th St	50	R							X						1999
+702566	  03	01004	     	03-1004	Staunton St	003	Alleghany County	003	Alleghany County	0.06	03-1007 14th St	03-1008 13th St	90	R							X						07/29/2008
+702567	  03	01004	     	03-1004	Staunton St	003	Alleghany County	003	Alleghany County	0.07	03-1008 13th St	03-1009 12th St	80	R							X						1999
+702568	  03	01004	     	03-1004	Staunton St	003	Alleghany County	003	Alleghany County	0.09	03-1009 12th St	03-1011 11th St	90	R							X						07/24/2008
+702569	  03	01004	     	03-1004	Staunton St	003	Alleghany County	003	Alleghany County	0.08	03-1011 11th St	03-1010 Skyline Ave	140	R							X						1999
+702570	  03	01004	     	03-1004	Staunton St	003	Alleghany County	003	Alleghany County	0.04	03-1010 Skyline Ave	Dead End	50	R							X						07/24/2008
+702571	  03	01005	     	03-1005	Concord St	003	Alleghany County	003	Alleghany County	0.17	Dead End	03-1007 14th St	70	R							X						1999
+702572	  03	01005	     	03-1005	Concord St	003	Alleghany County	003	Alleghany County	0.07	03-1007 14th St	03-1008 13th St	80	R							X						07/29/2008
+702573	  03	01005	     	03-1005	Concord St	003	Alleghany County	003	Alleghany County	0.06	03-1008 13th St	03-1009 12th St	90	R							X						1999
+702574	  03	01005	     	03-1005	Concord St	003	Alleghany County	003	Alleghany County	0.08	03-1009 12th St	03-1011 11th St	60	R							X						07/24/2008
+702575	  03	01005	     	03-1005	Concord St	003	Alleghany County	003	Alleghany County	0.05	03-1011 11th St	Dead End; Gap	40	R							X						1999
+702576	  03	01005	     	03-1005	Concord St	003	Alleghany County	003	Alleghany County	0.02	Dead End; Gap	03-1002	30	R							X						07/24/2008
+702577	  03	01006	     	03-1006	15th St	003	Alleghany County	003	Alleghany County	0.03	03-1002	03-1001 Cardinal Dr	60	R							X						04/07/2005
+702578	  03	01006	     	03-1006	15th St	003	Alleghany County	003	Alleghany County	0.02	03-1001 Cardinal Dr	03-696 Selma Low Moor Rd	310	R							X						07/29/2008
+702579	  03	01007	     	03-1007	14th St	003	Alleghany County	003	Alleghany County	0.01	Dead End	03-1005 Concord St	90	R							X						1999
+702580	  03	01007	     	03-1007	14th St	003	Alleghany County	003	Alleghany County	0.05	03-1005 Concord St	03-1004 Staunton St	130	R							X						07/29/2008
+702581	  03	01007	     	03-1007	14th St	003	Alleghany County	003	Alleghany County	0.05	03-1004 Staunton St	03-1003 Donovan St	240	R							X						1999
+702582	  03	01007	     	03-1007	14th St	003	Alleghany County	003	Alleghany County	0.07	03-1003 Donovan St	03-1002	270	R							X						07/29/2008
+702583	  03	01007	     	03-1007	14th St	003	Alleghany County	003	Alleghany County	0.03	03-1002	03-1001 Cardinal Dr	220	R							X						1999
+702584	  03	01008	     	03-1008	13th St	003	Alleghany County	003	Alleghany County	0.03	Dead End	03-1005 Concord St	40	R							X						07/29/2008
+702585	  03	01008	     	03-1008	13th St	003	Alleghany County	003	Alleghany County	0.07	03-1005 Concord St	03-1004 Staunton St	100	R							X						1999
+702586	  03	01008	     	03-1008	13th St	003	Alleghany County	003	Alleghany County	0.05	03-1004 Staunton St	03-1003 Donovan St	170	R							X						07/29/2008
+702587	  03	01008	     	03-1008	13th St	003	Alleghany County	003	Alleghany County	0.05	03-1003 Donovan St	03-1002	170	R							X						1999
+702588	  03	01009	     	03-1009	12th St	003	Alleghany County	003	Alleghany County	0.04	03-1013 John Tyler St	03-1005 Concord St	80	R							X						07/24/2008
+702590	  03	01009	     	03-1009	12th St	003	Alleghany County	003	Alleghany County	0.05	03-1005 Concord St	03-1004 Staunton St	140	R							X						07/24/2008
+702591	  03	01009	     	03-1009	12th St	003	Alleghany County	003	Alleghany County	0.05	03-1004 Staunton St	03-1003 Donovan St	300	R							X						1999
+702592	  03	01009	     	03-1009	12th St	003	Alleghany County	003	Alleghany County	0.08	03-1003 Donovan St	03-696 Selma Low Moor Rd	360	R							X						07/24/2008
+702593	  03	01009	     	03-1009	12th St	003	Alleghany County	003	Alleghany County	0.03	03-696 Selma Low Moor Rd	Dead End	50	R							X						04/07/2005
+702594	  03	01010	     	03-1010	Skyline Ave	003	Alleghany County	003	Alleghany County	0.05	03-1002	03-1003 Donovan St	60	R							X						07/24/2008
+702595	  03	01010	     	03-1010	Skyline Ave	003	Alleghany County	003	Alleghany County	0.05	03-1003 Donovan St	03-1004 Staunton St	70	R							X						04/07/2005
+702596	  03	01010	     	03-1010	Skyline Ave	003	Alleghany County	003	Alleghany County	0.01	03-1004 Staunton St	Dead End	10	R							X						1986
+702597	  03	01011	     	03-1011	11th St	003	Alleghany County	003	Alleghany County	0.06	Dead End	03-1005 Concord St	40	R							X						1999
+702598	  03	01011	     	03-1011	11th St	003	Alleghany County	003	Alleghany County	0.05	03-1005 Concord St	03-1004 Staunton St	130	R							X						07/24/2008
+702599	  03	01011	     	03-1011	11th St	003	Alleghany County	003	Alleghany County	0.05	03-1004 Staunton St	03-1003 Donovan St	260	R							X						1999
+702600	  03	01011	     	03-1011	11th St	003	Alleghany County	003	Alleghany County	0.10	03-1003 Donovan St	03-1002	320	R							X						07/24/2008
+702601	  03	01012	     	03-1012	Clover Lane	003	Alleghany County	003	Alleghany County	0.08	03-1002	Dead End	40	R							X						1999
+702602	  03	01013	     	03-1013	John Tyler St	003	Alleghany County	003	Alleghany County	0.04	Dead End	03-1009 12th St	49	R							X						07/24/2008
+702603	  03	01013	     	03-1013	John Tyler St	003	Alleghany County	003	Alleghany County	0.08	03-1009 12th St	Dead End	40	R							X						07/24/2008
+702604	  03	01101	     	03-1101	 	003	Alleghany County	003	Alleghany County	0.23	03-1104 Valley Ridge Rd	0.23 ME 03-1104	260	R							X						1999
+782105	  03	01101	     	03-1101	 	003	Alleghany County	003	Alleghany County	0.09	0.23 ME 03-1104	03-1103 Butternut Hills	120	R							X						04/14/2005
+702605	  03	01101	     	03-1101	 	003	Alleghany County	003	Alleghany County	0.10	03-1103 Butternut Hills	03-1102 Oakcrest Dr	80	R							X						07/29/2008
+702606	  03	01101	     	03-1101	 	003	Alleghany County	003	Alleghany County	0.26	03-1102 Oakcrest Dr	03-1107 Mountaineer Dr	2100	R							X						04/14/2005
+702607	  03	01101	     	03-1101	 	003	Alleghany County	003	Alleghany County	1.33	03-1107 Mountaineer Dr	03-696 Selma Low Moor Rd	2200	R							X						07/29/2008
+702608	  03	01101	     	03-1101	 	003	Alleghany County	003	Alleghany County	0.25	03-696 Selma Low Moor Rd	FR-205 Winterberry Ave	3000	R							X						07/29/2008
+702609	  03	01102	     	03-1102	Oakcrest Dr	003	Alleghany County	003	Alleghany County	0.06	03-1104 Valley Ridge Rd	03-1101	2000	R							X						07/29/2008
+702610	  03	01103	     	03-1103	Butternut Hills	003	Alleghany County	003	Alleghany County	0.06	03-1104 Valley Ridge Rd	03-1101	60	R							X						04/14/2005
+791016	  03	01104	     	03-1104, US 220	Valley Ridge Rd	003	Alleghany County	003	Alleghany County	0.16	US 60	Ramp From I-64 WB	0	?							X
+702611	  03	01104	     	03-1104	Valley Ridge Rd	003	Alleghany County	003	Alleghany County	2.79	US 60	03-1109 Heatherton Drive	2800	R							X						07/31/2008
+702612	  03	01104	     	03-1104	Valley Ridge Rd	003	Alleghany County	003	Alleghany County	0.05	03-1109 Heatherton Dr	03-1108 Woodland Rd	2100	R							X						04/14/2005
+702613	  03	01104	     	03-1104	Valley Ridge Rd	003	Alleghany County	003	Alleghany County	0.18	03-1108 Woodland Rd	03-1101	2000	R							X						07/29/2008
+702614	  03	01104	     	03-1104	Valley Ridge Rd	003	Alleghany County	003	Alleghany County	0.23	03-1101	03-1103 Butternut Hills	2200	R							X						04/14/2005
+702615	  03	01104	     	03-1104	Valley Ridge Rd	003	Alleghany County	003	Alleghany County	0.12	03-1103 Butternut Hills	03-1102 Oakcrest Dr	1600	R							X						07/29/2008
+702616	  03	01104	     	03-1104	Valley Ridge Rd	003	Alleghany County	003	Alleghany County	0.08	03-1102 Oakcrest Dr	Dead End	60	R							X						1999
+702617	  03	01105	     	03-1105	Ridgewood Circle	003	Alleghany County	003	Alleghany County	0.06	03-1109 S, Heatherton Dr	03-1106 Enderley Rd	200	R							X						07/31/2008
+702618	  03	01105	     	03-1105	Ridgewood Circle	003	Alleghany County	003	Alleghany County	0.24	03-1106 Enderley Rd	03-1109 N, Heatherton Dr	110	R							X						04/14/2005
+702619	  03	01106	     	03-1106	Enderley Rd	003	Alleghany County	003	Alleghany County	0.05	Dead End	03-1105 Ridgewood Circle	30	R							X						07/29/2008
+702620	  03	01107	     	03-1107	Mountaineer Dr	003	Alleghany County	003	Alleghany County	0.23	Dead End	03-1101	1600	R							X						04/14/2005
+702621	  03	01108	     	03-1108	Woodland Rd	003	Alleghany County	003	Alleghany County	0.66	03-1109 Heatherton Dr	03-1104 Valley Ridge Rd	190	R							X						07/29/2008
+702622	  03	01109	     	03-1109	Heatherton Dr	003	Alleghany County	003	Alleghany County	0.32	03-1104 Valley Ridge Rd	03-1105 S, Ridgewood Circle	410	R							X						04/14/2005
+702623	  03	01109	     	03-1109	Heatherton Dr	003	Alleghany County	003	Alleghany County	0.05	03-1105 S, Ridgewood Circle	03-1108 Woodland Rd	200	R							X						07/31/2008
+702624	  03	01109	     	03-1109	Heatherton Dr	003	Alleghany County	003	Alleghany County	0.08	03-1108 Woodland Rd	03-1105 N, Ridgewood Circle	160	R							X						04/14/2005
+702625	  03	01109	     	03-1109	Heatherton Dr	003	Alleghany County	003	Alleghany County	0.12	03-1105 N, Ridgewood Circle	Dead End	120	R							X						07/31/2008
+702626	  03	01110	     	03-1110	East County Club Lane	003	Alleghany County	003	Alleghany County	0.14	Dead End	03-1107 Mountaineer Dr	600	R							X						07/29/2008
+782145	  03	01112	     	03-1112	West Country Club Lane	003	Alleghany County	003	Alleghany County	0.17	03-1108 Woodland Rd	Dead End	100	R							X						07/29/2008
+702627	  03	01201	     	03-1201	Winding Way	003	Alleghany County	003	Alleghany County	0.44	03-628 N, Jackson Dr	03-1203 Center Court	130	R							X						1999
+702628	  03	01201	     	03-1201	Winding Way	003	Alleghany County	003	Alleghany County	0.07	03-1203 Center Court	03-1202 Corner Dr	370	R							X						07/31/2008
+702629	  03	01201	     	03-1201	Winding Way	003	Alleghany County	003	Alleghany County	0.06	03-1202 Corner Dr	03-628 S, Jackson Dr	450	R							X						04/19/2005
+702630	  03	01202	     	03-1202	Corner Dr	003	Alleghany County	003	Alleghany County	0.10	03-628 Jackson Dr	03-1201 Winding Way	49	R							X						07/31/2008
+702631	  03	01203	     	03-1203	Center Court	003	Alleghany County	003	Alleghany County	0.13	Cul-de-Sac	03-1201 Winding Way	140	R							X						1999
+702632	  03	01206	     	03-1206	 	003	Alleghany County	003	Alleghany County	0.31	Begin Loop	03-1208 Brentwood Dr	510	R							X						07/25/2002
+702633	  03	01206	     	03-1206	 	003	Alleghany County	003	Alleghany County	0.06	03-1208 Brentwood Dr	03-1207 Brentwood Dr	610	R							X						1999
+702634	  03	01206	     	03-1206	 	003	Alleghany County	003	Alleghany County	0.15	03-1207 Brentwood Dr	03-653	690	R							X						07/25/2002
+702635	  03	01207	     	03-1207	Brentwood Dr	003	Alleghany County	003	Alleghany County	0.03	Cul-de-Sac	03-1206	50	R							X						1999
+702636	  03	01208	     	03-1208	Brentwood Dr	003	Alleghany County	003	Alleghany County	0.03	Cul-de-Sac	03-1206	50	R							X						1999
+702637	  03	01211	     	03-1211	Mountain Lake Dr	003	Alleghany County	003	Alleghany County	0.21	SR 18 Potts Creek Rd	03-1212 Cliffside Dr	120	R							X						05/10/2005
+702638	  03	01211	     	03-1211	Mountain Lake Dr	003	Alleghany County	003	Alleghany County	0.02	03-1212 Cliffside Dr	Dead End	30	R							X						08/05/2008
+702639	  03	01212	     	03-1212	Cliffside Dr	003	Alleghany County	003	Alleghany County	0.07	03-1211 Mtn Lake Dr	Dead End	40	R							X						05/10/2005
+702640	  03	01215	     	03-1215	Cherokee Trail	003	Alleghany County	003	Alleghany County	0.17	Cul-de-Sac	03-1217 Cherokee Place	190	R							X						07/25/2002
+702641	  03	01215	     	03-1215	Cherokee Trail	003	Alleghany County	003	Alleghany County	0.10	03-1217 Cherokee Place	03-1216 Iroquois Place	360	R							X						1999
+702642	  03	01215	     	03-1215	Cherokee Trail	003	Alleghany County	003	Alleghany County	0.19	03-1216 Iroquois Place	03-1219 Comanche Trail	420	R							X						07/25/2002
+702643	  03	01215	     	03-1215	Cherokee Trail	003	Alleghany County	003	Alleghany County	0.09	03-1219 Comanche Trail	03-1218 Apache Court	750	R							X						1999
+702644	  03	01215	     	03-1215	Cherokee Trail	003	Alleghany County	003	Alleghany County	0.23	03-1218 Apache Court	SR 18 Potts Creek Rd	750	R							X						07/25/2002
+702645	  03	01216	     	03-1216	Iroquois Place	003	Alleghany County	003	Alleghany County	0.03	Cul-de-Sac	03-1215 Cherokee Trail	60	R							X						1999
+702646	  03	01217	     	03-1217	Cherokee Place	003	Alleghany County	003	Alleghany County	0.02	Cul-de-Sac	03-1215 Cherokee Trail	45	R							X						1999
+702647	  03	01218	     	03-1218	Apache Court	003	Alleghany County	003	Alleghany County	0.08	03-1215 Cherokee Trail	03-1219 Comanche Trail	120	R							X						1999
+702648	  03	01218	     	03-1218	Apache Court	003	Alleghany County	003	Alleghany County	0.03	03-1219 Comanche Trail	Cul-de-Sac	50	R							X						1999
+702649	  03	01219	     	03-1219	Comanche Trail	003	Alleghany County	003	Alleghany County	0.18	03-1218 Apache Court	03-1215 Cherokee Trail	60	R							X						1999
+702650	  03	01301	     	03-1301	Crossing Lane	003	Alleghany County	003	Alleghany County	0.30	Dead End	03-696; 03-1309	150	R							X						08/19/2008
+702651	  03	01302	     	03-1302	 	003	Alleghany County	003	Alleghany County	0.12	Dead End	03-1313 Maldon St	130	R							X						04/15/2005
+702652	  03	01302	     	03-1302	 	003	Alleghany County	003	Alleghany County	0.06	03-1313 Maldon St	03-1306 Egbert St	190	R							X						07/29/2008
+702653	  03	01302	     	03-1302	 	003	Alleghany County	003	Alleghany County	0.06	03-1306 Egbert St	03-1305 Auburn St	340	R							X						04/15/2005
+702654	  03	01302	     	03-1302	 	003	Alleghany County	003	Alleghany County	0.06	03-1305 Auburn St	03-1304 Heritage St	330	R							X						07/29/2008
+702655	  03	01302	     	03-1302	 	003	Alleghany County	003	Alleghany County	0.06	03-1304 Heritage St	03-696 Selma Low Moor Rd	330	R							X						04/15/2005
+702656	  03	01303	     	03-1303	Lipsey Lane	003	Alleghany County	003	Alleghany County	0.18	Dead End	03-1313 Maldon St	40	R							X						07/29/2008
+702657	  03	01303	     	03-1303	Lipsey Lane	003	Alleghany County	003	Alleghany County	0.06	03-1313 Maldon St	03-1306 Egbert St	130	R							X						04/15/2005
+702658	  03	01303	     	03-1303	Lipsey Lane	003	Alleghany County	003	Alleghany County	0.06	03-1306 Egbert St	03-1305 Auburn St	130	R							X						07/29/2008
+702659	  03	01303	     	03-1303	Lipsey Lane	003	Alleghany County	003	Alleghany County	0.06	03-1305 Auburn St	03-1304 Heritage St	190	R							X						04/15/2005
+702660	  03	01303	     	03-1303	Lipsey Lane	003	Alleghany County	003	Alleghany County	0.06	03-1304 Heritage St	03-696 Selma Low Moor Rd	330	R							X						04/15/2005
+702661	  03	01304	     	03-1304	Heritage St	003	Alleghany County	003	Alleghany County	0.06	03-1303 Lipsey Lane	Dead End; Gap	50	R							X						04/15/2005
+702662	  03	01304	     	03-1304	Heritage St	003	Alleghany County	003	Alleghany County	0.16	03-1302	03-696 Selma Low Moor Rd	110	R							X						07/29/2008
+702663	  03	01305	     	03-1305	Auburn St	003	Alleghany County	003	Alleghany County	0.10	03-1303 Lipsey Lane	03-1302	45	R							X						04/15/2005
+702664	  03	01305	     	03-1305	Auburn St	003	Alleghany County	003	Alleghany County	0.10	03-1302	Dead End	30	R							X						07/29/2008
+702665	  03	01306	     	03-1306	Egbert St	003	Alleghany County	003	Alleghany County	0.10	03-1303 Lipsey Lane	03-1302	70	R							X						04/15/2005
+702666	  03	01306	     	03-1306	Egbert St	003	Alleghany County	003	Alleghany County	0.09	03-1302	Dead End	90	R							X						07/29/2008
+702668	  03	01307	     	03-1307	Old Church St	003	Alleghany County	003	Alleghany County	0.18	Dead End	03-9012	160	R							X						04/15/2005
+782106	  03	01307	     	03-1307	Old Church St	003	Alleghany County	003	Alleghany County	0.08	03-9012	03-696; 03-9012 NORTH	160	R							X						04/15/2005
+702669	  03	01308	     	03-1308	Garland Rd	003	Alleghany County	003	Alleghany County	0.15	Dead End	03-616 Rich Patch Rd	70	R							X						07/29/2008
+782027	  03	01309	     	03-1309	Crossing Lane	003	Alleghany County	003	Alleghany County	0.07	Dead End	03-1316 Vassar St	110	R							X						04/12/2005
+702670	  03	01309	     	03-1309	Crossing Lane	003	Alleghany County	003	Alleghany County	0.05	03-1316 Vassar St	03-696; 03-1301	110	R							X						04/12/2005
+702671	  03	01310	     	03-1310	 	003	Alleghany County	003	Alleghany County	0.09	03-696 Selma Low Moor Rd	Dead End	90	R							X						07/29/2008
+702672	  03	01312	     	03-1312	Karnes Rd	003	Alleghany County	003	Alleghany County	0.35	Dead End	03-696 Selma Low Moor Rd	350	R							X						04/15/2005
+702673	  03	01313	     	03-1313	Maldon St	003	Alleghany County	003	Alleghany County	0.10	03-1303 Lipsey Lane	03-1302	47	R							X						07/29/2008
+702674	  03	01314	     	03-1314	ARH Lane	003	Alleghany County	003	Alleghany County	0.05	03-696 Selma Low Moor Rd	03-1315 Westvaco Rd	5100	R							X						04/15/2005
+702675	  03	01314	     	03-1314	ARH Lane	003	Alleghany County	003	Alleghany County	0.14	03-1315 Westvaco Rd	Dead End	3100	R							X						07/29/2008
+702676	  03	01315	     	03-1315	Westvaco Rd	003	Alleghany County	003	Alleghany County	0.35	03-1314 ARH Lane	Dead End	1800	R							X						04/15/2005
+702677	  03	01316	     	03-1316	Vassar St	003	Alleghany County	003	Alleghany County	0.11	03-1304 Heritage St	03-1309 Crossing Lane	60	R							X						04/15/2005
+702678	  03	01401	     	03-1401	Cliftwood Circle	003	Alleghany County	003	Alleghany County	0.35	Begin Loop	03-627 End Loop	60	R							X						07/11/2002
+702679	  03	01401	     	03-1401	Cliftwood Circle	003	Alleghany County	003	Alleghany County	0.05	03-627; End Loop	03-662	150	R							X						04/05/2005
+702680	  03	01402	     	03-1402	Athol St	003	Alleghany County	003	Alleghany County	0.09	03-671 State Ave	03-626 Portland Ave	70	R							X						07/22/2008
+702681	  03	01402	     	03-1402	Athol St	003	Alleghany County	003	Alleghany County	0.06	03-626 Portland Ave	03-1403 Hollis Ave	80	R							X						1999
+702682	  03	01403	     	03-1403	Hollis Ave	003	Alleghany County	003	Alleghany County	0.05	03-780 Benson St	Bus US 60	120	R							X						07/11/2002
+702683	  03	01403	     	03-1403	Hollis Ave	003	Alleghany County	003	Alleghany County	0.05	Bus US 60	03-1402 Athol St	110	R							X						1999
+702684	  03	01404	     	03-1404	Whittier Ave	003	Alleghany County	003	Alleghany County	0.03	Dead End	Bus US 60; 03-662	290	R							X						07/22/2008
+702685	  03	01405	     	03-1405	Meadows Of Wilson Court	003	Alleghany County	003	Alleghany County	0.10	03-629 Douthat Rd	Cul-de-Sac	90	R							X						1999
+702686	  03	01406	     	03-1406	Dickson St	003	Alleghany County	003	Alleghany County	0.07	03-1407 Dickson Place	03-627 North Oakwood Dr	120	R							X						07/11/2002
+702687	  03	01407	     	03-1407	Dickson Place	003	Alleghany County	003	Alleghany County	0.02	Cul-de-Sac	03-1406 Dickson St	40	R							X						1999
+702688	  03	01408	     	03-1408	Falcon Ridge Rd	003	Alleghany County	003	Alleghany County	0.37	Dead End	03-629 Douthat Rd	340	R							X						07/11/2002
+702689	  03	01601	     	03-1601	Broken Arrow Lane	003	Alleghany County	003	Alleghany County	0.80	03-788 Llama Dr	Dead End	190	R							X						05/10/2005
+702690	  03	01701	     	03-1701	Earnest Ave	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	120	R							X						07/22/2008
+702691	  03	01702	     	03-1702	Fourth St	241	Town of Iron Gate	003	Alleghany County	0.06	03-1708 Seventh St	US 220	47	R							X						1999
+702692	  03	01702	     	03-1702	Fourth St	241	Town of Iron Gate	003	Alleghany County	0.06	US 220	03-1706 Commerce Ave	100	R							X						07/22/2008
+702693	  03	01702	     	03-1702	Fourth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce St	03-1711 Railroad Ave	130	R							X						1999
+702694	  03	01703	     	03-1703	Fifth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1708 Chaylbeate; Riverview	US 220	80	R							X						07/24/2008
+702695	  03	01703	     	03-1703	Fifth St	241	Town of Iron Gate	003	Alleghany County	0.06	US 220	03-1706 Commerce Ave	230	R							X						1999
+702696	  03	01703	     	03-1703	Fifth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	120	R							X						07/22/2008
+702697	  03	01704	     	03-1704	Ninth St	241	Town of Iron Gate	003	Alleghany County	0.06	Dead End	US 220	80	R							X						07/24/2008
+702698	  03	01704	     	03-1704	Ninth St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220	03-1706 Commerce Ave	90	R							X						1986
+702699	  03	01705	     	03-1705	Tenth St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220 Botetourt County Line	03-1706 Commerce Ave	750	R							X						07/24/2008
+702700	  03	01705	     	03-1705	Tenth St	241	Town of Iron Gate	003	Alleghany County	0.65	03-1706 Commerce Ave	Dead End	650	R							X						04/05/2005
+702701	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.07	03-1705 Tenth St	03-1704 Ninth St	240	R							X						07/24/2008
+702702	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.08	03-1704 Ninth St	03-1709 Eighth St	220	R							X						1999
+702703	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.06	03-1709 Eighth St	03-1708 Seventh St	280	R							X						07/24/2008
+702704	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.15	03-1708 Seventh St	03-1707 Sixth St	290	R							X						1999
+702705	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.10	03-1707 Sixth St	03-1703 Fifth St	330	R							X						07/22/2008
+702706	  03	01706	     	03-1706	Commerce St	241	Town of Iron Gate	003	Alleghany County	0.09	03-1703 Fifth St	03-1702 Fourth St	340	R							X						1999
+702707	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.09	03-1702 Fourth St	03-1701 Earnest Ave	380	R							X						07/22/2008
+702708	  03	01706	     	03-1706	Commerce Ave	241	Town of Iron Gate	003	Alleghany County	0.10	03-1701 Earnest Ave	US 220	420	R							X						1999
+702709	  03	01707	     	03-1707	Sixth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1708 Seventh St	US 220	80	R							X						07/11/2002
+702710	  03	01707	     	03-1707	Sixth St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220	03-1706 Commerce Ave	260	R							X						1999
+702711	  03	01707	     	03-1707	Sixth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	130	R							X						07/22/2008
+702712	  03	01708	     	03-1708	Seventh St	241	Town of Iron Gate	003	Alleghany County	0.09	03-1702 Fourth St	03-1703 Fifth St	50	R							X						1999
+702713	  03	01708	     	03-1708	Seventh St	241	Town of Iron Gate	003	Alleghany County	0.20	03-1703 Fifth St	US 220	10	R							X						07/24/2008
+702714	  03	01708	     	03-1708	Seventh St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220	03-1706 Commerce Ave	110	R							X						1999
+702715	  03	01708	     	03-1708	Seventh St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	60	R							X						07/22/2008
+702716	  03	01709	     	03-1709	Eighth St	241	Town of Iron Gate	003	Alleghany County	0.05	US 220	03-1706 Commerce Ave	150	R							X						1999
+702717	  03	01709	     	03-1709	Eighth St	241	Town of Iron Gate	003	Alleghany County	0.05	03-1706 Commerce Ave	03-1711 Railroad Ave	80	R							X						07/24/2008
+702718	  03	01710	     	03-1710	 	003	Alleghany County	003	Alleghany County	0.34	Dead End	03-1712 1st St	210	R							X						04/05/2005
+702719	  03	01710	     	03-1710	 	003	Alleghany County	003	Alleghany County	0.02	03-1712 1st St	NCL Irongate	180	R							X						07/24/2008
+702720	  03	01710	     	03-1710	Park Ave	241	Town of Iron Gate	003	Alleghany County	0.13	NCL Irongate	03-1715 Ferrol Ave	450	R							X						04/05/2005
+702721	  03	01710	     	03-1710	Park Ave	241	Town of Iron Gate	003	Alleghany County	0.05	03-1715 Ferrol Ave	WCL Irongate	350	R							X						07/24/2008
+702722	  03	01710	     	03-1710	 	003	Alleghany County	003	Alleghany County	0.11	WCL Irongate	03-1716 Vine Ave	610	R							X						04/05/2005
+702723	  03	01710	     	03-1710	 	003	Alleghany County	003	Alleghany County	0.05	03-1716 Vine Ave	03-701 Alleghany Ave	490	R							X						07/24/2008
+702724	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.08	03-1709 Eighth St	03-1708 Seventh St	30	R							X						1999
+702725	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.06	Dead End; Gap	03-1707 Sixth St	70	R							X						07/24/2008
+702726	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.10	03-1707 Sixth St	03-1703 Fifth St	100	R							X						07/22/2008
+702727	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.10	03-1703 Fifth St	03-1702 Fourth St	110	R							X						1999
+702728	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.09	03-1702 Fourth St	03-1701 Earnest Ave	100	R							X						07/22/2008
+702729	  03	01711	     	03-1711	Railroad Ave	241	Town of Iron Gate	003	Alleghany County	0.16	03-1701 Earnest Ave	Dead End	47	R							X						1999
+702730	  03	01712	     	03-1712	1st St	003	Alleghany County	003	Alleghany County	0.06	03-1716 Vine Ave	03-1715 Ferrol Ave	30	R							X						07/24/2008
+702731	  03	01712	     	03-1712	1st St	003	Alleghany County	003	Alleghany County	0.06	03-1715 Ferrol Ave	03-1710	30	R							X						1999
+702732	  03	01713	     	03-1713	2nd St	003	Alleghany County	003	Alleghany County	0.06	03-1717 Commonwealth Ave	03-1716 Vine Ave	20	R							X						07/24/2008
+702733	  03	01713	     	03-1713	2nd St	003	Alleghany County	003	Alleghany County	0.06	03-1716 Vine Ave	03-1715 Ferrol Ave	20	R							X						1999
+702734	  03	01714	     	03-1714	3rd St	003	Alleghany County	003	Alleghany County	0.05	03-1717 Commonwealth Ave	03-1716 Vine Ave	60	R							X						07/24/2008
+702735	  03	01715	     	03-1715	Ferrol Ave	003	Alleghany County	003	Alleghany County	0.03	03-1710 Park Ave	03-1713 2nd St	140	R							X						1999
+702736	  03	01715	     	03-1715	Ferrol Ave	003	Alleghany County	003	Alleghany County	0.09	03-1713 2nd St	03-1712 1st St	70	R							X						07/24/2008
+702737	  03	01715	     	03-1715	Ferrol Ave	003	Alleghany County	003	Alleghany County	0.05	03-1712 1st St	Dead End	40	R							X						1999
+702738	  03	01716	     	03-1716	Vine Ave	003	Alleghany County	003	Alleghany County	0.03	03-1710	03-1714 3rd St	160	R							X						07/24/2008
+702739	  03	01716	     	03-1716	Vine Ave	003	Alleghany County	003	Alleghany County	0.08	03-1714 3rd St	03-1713 2nd St	90	R							X						1999
+702740	  03	01716	     	03-1716	Vine Ave	003	Alleghany County	003	Alleghany County	0.09	03-1713 2nd St	03-1712 1st St	70	R							X						07/24/2008
+702741	  03	01716	     	03-1716	Vine Ave	003	Alleghany County	003	Alleghany County	0.04	03-1712 1st St	Dead End	30	R							X						1999
+702742	  03	01717	     	03-1717	Commonwealth Ave	003	Alleghany County	003	Alleghany County	0.07	03-1714 3rd St	03-1713 2nd St	50	R							X						07/24/2008
+702743	  03	09011	     	03-9011	 	003	Alleghany County	003	Alleghany County	0.11	SR 18 Potts Creek Rd	SR 18 Potts Creek Rd	230	R							X						03/14/2002
+702744	  03	09012	     	03-9012	 	003	Alleghany County	003	Alleghany County	0.08	03-1307 Old Church St	03-696; 03-1307	30	R							X						03/14/2002
+785962	  03	09036	     	03-9036	 	003	Alleghany County	003	Alleghany County	0.04	FR-205 Winterberry Ave	Dead End	1600	R							X						08/19/2008
+702745	  03	09577	     	03-9577	 	003	Alleghany County	003	Alleghany County	0.07	03-640 Falls Rd	Dead End	260	R							X						03/14/2002
+702746	  03	09876	     	03-9876	 	003	Alleghany County	003	Alleghany County	0.18	03-633 McKinney Hollow Rd	SR 269; 03-633	580	R							X						03/14/2002
+702747	  03	09881	     	03-9881	 	003	Alleghany County	003	Alleghany County	0.15	03-683 Callaghan Circle	03-661 Midland Trail	300	R							X						03/14/2002
+781617	 105	03550	     	105-3550	Church St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.12	1SR 188-P Commercial Street	105-3553 Jefferson Ave	1900	F	99%	0%	1%	0%	0%	0%	C	0.1155	F	0.5651	2000	F	2008
+619002	 105	03550	     	105-3550	Church St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.33	Jefferson St	A Street	1700	F	97%	1%	1%	0%	0%	0%	C	0.1132	F	0.6859	1700	F	2008
+619023	 105	03551	     	105-3551	Sioux Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.25	SR 188; I-64	NCL Clifton Forge; 03-606	500	F	98%	1%	1%	0%	0%	0%	C	0.1115	F	0.5439	530	F	2008
+619005	 105	03553	     	105-3553	Jefferson Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.06	US 60 Main St	Church Street	1800	F	98%	0%	1%	0%	1%	0%	C	0.0956	F	0.6440	1900	F	2008
+619006	 105	03553	     	105-3553	Jefferson Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.21	Church St	Lowell St	2100	F	98%	1%	1%	0%	0%	0%	C	0.0909	F	0.5490	2200	F	2008
+619007	 105	03553	     	105-3553	Jefferson Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.15	Lowell St	Kensington Ave	1800	F	98%	1%	1%	0%	0%	0%	C	0.0990	F	0.5635	1900	F	2008
+619008	 105	03553	     	105-3553	Jefferson Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.31	Kensington Ave	Benton St	1400	F	99%	0%	0%	0%	0%	0%	C	0.1028	F	0.5696	1500	F	2008
+619009	 105	03553	     	105-3553	Jefferson Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.09	Benton St	Ingalls St	1100	F	99%	0%	0%	0%	0%	0%	F	0.0958	F	0.5217	1200	F	2008
+619004	 105	03555	     	105-3555	Ingalls St	105	Town of Clifton Forge	105	Town of Clifton Forge	1.15	Main Street	Jefferson Ave	610	F	97%	1%	1%	0%	0%	0%	C	0.0957	F	0.5385	640	F	2008
+793537	 107	00001	     	107-1	E Mallow Rd	107	City of Covington	107	City of Covington	0.86	SR 18 Carpenter Drive	ECL Covington	1100	N	98%	1%	1%	0%	0%	0%	N	0.0995	N	0.5669	1200	N	2008
+793903	 107	00002	     	107-2	Hawthorne St	107	City of Covington	107	City of Covington	0.42	SR 154 Craig Ave	US 60 S Monroe Avenue	540	F	96%	1%	2%	0%	1%	0%	C	0.1196	F	0.7361	590	F	2008
+793904	 107	00003	     	107-3	Lexington Ave	107	City of Covington	107	City of Covington	0.71	107-5 Chestnut St	Riverside St	1500	F	98%	1%	1%	0%	0%	0%	C	0.0982	F	0.5492	1700	F	2008
+793905	 107	00004	     	107-4	Locust St	107	City of Covington	107	City of Covington	0.13	SR 154 Craig Ave	107-3 Lexington Ave	3100	F	98%	0%	1%	1%	1%	0%	C	0.1043	F	0.6758	3400	F	2008
+793906	 107	00005	     	107-5	Chestnut St	107	City of Covington	107	City of Covington	0.13	SR 154 Craig Ave; S. Durant Rd	107-3 Lexington Ave	2500	F	99%	0%	1%	0%	0%	0%	C	0.0926	F	0.5929	2700	F	2008
+793907	 107	00005	     	107-5	Chestnut St	107	City of Covington	107	City of Covington	0.29	107-3 Lexington Ave	US 220 N Alleghany Ave	1700	F	99%	1%	0%	0%	0%	0%	C	0.0961	F	1.0000	1800	F	2008
+621020	 107	03601	     	107-3601	S Pitzer Ridge	107	City of Covington	107	City of Covington	0.37	SR 18	SCL Covington	520	F	97%	0%	2%	1%	0%	0%	C	0.1060	F	0.6379	570	F	2008
+621022	 107	03605	     	107-3605	W Edgemont Dr	107	City of Covington	107	City of Covington	0.67	S Carpenter Dr	Rayon Drive	3200	F	96%	1%	1%	1%	1%	0%	C	0.1060	F	0.0000	3500	F	2008
+621021	 107	03605	     	107-3605	S Rayon Dr	107	City of Covington	107	City of Covington	0.21	W Edgemont Drive	W Jackson Street	3100	F	97%	1%	1%	1%	1%	0%	C	0.1015	F	0.0000	3300	F	2008
+621023	 107	03605	     	107-3605	W Jackson St	107	City of Covington	107	City of Covington	0.43	S Rayon Drive	S Willis Avenue	3500	F	97%	1%	1%	1%	1%	0%	C	0.1016	F	0.6506	3800	F	2008
+621017	 107	03605	     	107-3605	S Durrant Rd	107	City of Covington	107	City of Covington	0.45	S Willis Avenue	I-64	9700	F	98%	0%	0%	0%	1%	0%	C	0.0982	F	0.0000	11000	F	2008
+519001	 105	00000	     	105-0	A St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Church St	US 60	1500	G	98%	1%	1%	0%	0%	0%	C	0.0975	F	0.0000	1500	G	2008
+519003	 105	00000	     	105-0	A St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	NCSX RR	US 60 Main Street	2500	F	96%	1%	1%	0%	2%	0%	C	0.0969	F	0.5723	2500	F	2008
+519007	 105	00000	     	105-0	Alleghany St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	3rd St.	2nd St.	170	G							X				170	G	2008
+519005	 105	00000	     	105-0	Chestnut St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Oak Hill Avenue	ECL Clifton Forge	350	G							X				350	G	2008
+519010	 105	00000	     	105-0	Church St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Rose Ave	McCormick Blvd	1600	G	98%	1%	1%	0%	0%	0%	C	0.0957	F	0.0000	1600	G	2008
+519009	 105	00000	     	105-0	Commercial Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Revere St.	I-64	320	F							X	0.1173	F	0.5366	320	F	2008
+519004	 105	00000	     	105-0	Jefferson Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Ingalls St	Jackson Street	620	F							X	0.0976	F	0.5238	620	F	2008
+519008	 105	00000	     	105-0	Oak Hill Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	US 60	Chestnut Street	1300	F							X	0.1008	F	0.6113	1300	F	2008
+519006	 105	00000	     	105-0	Rose Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Church St	Lafayette St	1200	G							X				1200	G	2008
+521006	 107	00000	     	107-0	Beverly Avenue	107	City of Covington	107	City of Covington	0.00	Cypress St	Cedar St	120	F							X	0.1123	F	0.0000	120	F	2008
+521004	 107	00000	     	107-0	Cedar St	107	City of Covington	107	City of Covington	0.00	Pocahontas Avenue	Greenbrier Avenue	330	F							X	0.1218	F	0.0000	330	F	2008
+521012	 107	00000	     	107-0	Dollyann Dr	107	City of Covington	107	City of Covington	0.00	E Madison Street	S Pond Avenue	600	F							X	0.1130	F	0.0000	600	F	2008
+521026	 107	00000	     	107-0	E Chestnut St	107	City of Covington	107	City of Covington	0.00	CSX Railroad	S Highland Ave	6800	G	99%	0%	1%	0%	0%	0%	C	0.0858	F	0.5461	6800	G	2008
+521027	 107	00000	     	107-0	E Chestnut St	107	City of Covington	107	City of Covington	0.00	US 60 Monroe Ave	US 220 S Alleghany Ave	1200	G	98%	0%	1%	0%	0%	0%	C	0.0995	F	1.0000	1200	G	2008
+521015	 107	00000	     	107-0	E Fairlawn Dr	107	City of Covington	107	City of Covington	0.00	E Scotland Drive	S Carlton Drive	100	F							X	0.1579	F	0.0000	100	F	2008
+521016	 107	00000	     	107-0	E Gordon St	107	City of Covington	107	City of Covington	0.00	S Powhatan Avenue	Smith Avenue	160	F							X	0.1127	F	0.0000	160	F	2008
+521011	 107	00000	     	107-0	E Gray St	107	City of Covington	107	City of Covington	0.00	S Mound Avenue	S Pond Avenue	250	F							X	0.1772	F	0.0000	250	F	2008
+521023	 107	00000	     	107-0	E Hawthorne St	107	City of Covington	107	City of Covington	0.00	S Lawn Ave	S Highland Ave	0	?							X
+521028	 107	00000	     	107-0	E Magazine Ave	107	City of Covington	107	City of Covington	0.00	US 220 N Alleghany Ave	Hazel St	220	G	96%	1%	3%	0%	0%	0%	C	0.0965	F	0.5455	220	G	2008
+521030	 107	00000	     	107-0	E Mallow St	107	City of Covington	107	City of Covington	0.00	SR 18 S Carpenter Dr	E Hamilton Dr	1300	G	99%	0%	0%	0%	0%	0%	C	0.0900	F	0.5310	1300	G	2008
+521019	 107	00000	     	107-0	E Michigan St	107	City of Covington	107	City of Covington	0.00	S Ohio Dr	S Greenway Drive	210	F							X	0.1142	F	0.0000	210	F	2008
+521014	 107	00000	     	107-0	E Scotland Rd	107	City of Covington	107	City of Covington	0.00	S Carlton Drive	E Fairlawn Drive	90	F							X	0.2022	F	0.0000	90	F	2008
+521001	 107	00000	     	107-0	E Trout St	107	City of Covington	107	City of Covington	0.00	Carpenter Drive	ECL Covington	980	F							X	0.0933	F	0.0000	980	F	2008
+521020	 107	00000	     	107-0	Forest Avenue	107	City of Covington	107	City of Covington	0.00	S Greenway Drive	Dead End	90	F							X	0.1854	F	0.0000	90	F	2008
+521029	 107	00000	     	107-0	N Magazine Ave	107	City of Covington	107	City of Covington	0.00	E Larch St	N Mill Rd	4400	G	84%	0%	1%	1%	13%	0%	C	0.0848	F	0.5247	4400	G	2008
+521024	 107	00000	     	107-0	N Maple Ave	107	City of Covington	107	City of Covington	0.00	W Locust St	W Main St	1200	G	96%	1%	2%	0%	0%	0%	C	0.1338	F	0.5062	1200	G	2008
+521010	 107	00000	     	107-0	N Marion St	107	City of Covington	107	City of Covington	0.00	W Locust Street	W Hawthorne Street	390	F							X	0.1110	F	0.6304	390	F	2008
+521009	 107	00000	     	107-0	N Rockbridge Ave	107	City of Covington	107	City of Covington	0.00	E. Willow St.	E. Cedar St.	100	F							X	0.1204	F	0.6154	100	F	2008
+521005	 107	00000	     	107-0	Pocahontas Avenue	107	City of Covington	107	City of Covington	0.00	Cedar Street	McAllister Street	330	F							X	0.1425	F	0.5534	330	F	2008
+521013	 107	00000	     	107-0	S Carlton Dr	107	City of Covington	107	City of Covington	0.00	E Scotland Road	E Fairlawn Drive	140	F							X	0.1444	F	0.7000	140	F	2008
+521018	 107	00000	     	107-0	S Greenway Dr	107	City of Covington	107	City of Covington	0.00	E Michigan Street	E Pennsylvania Street	420	F							X	0.1161	F	0.0000	420	F	2008
+521022	 107	00000	     	107-0	S Highland Ave	107	City of Covington	107	City of Covington	0.00	E Pine St	E Oak St	2000	G	96%	0%	1%	0%	2%	0%	C	0.0898	F	0.5170	2000	G	2008
+521000	 107	00000	     	107-0	S Maple	107	City of Covington	107	City of Covington	0.00	W Fudge St	W Pine St	260	F							X	0.1194	F	0.7188	260	F	2008
+521008	 107	00000	     	107-0	W Hawthorne St	107	City of Covington	107	City of Covington	0.00	N Maple Avenue	N Court Avenue	1400	G							X				1400	G	2008
+521025	 107	00000	     	107-0	W Main St	107	City of Covington	107	City of Covington	0.00	N Maple Ave	N Court Ave	2100	G	96%	1%	2%	0%	0%	0%	C	0.1178	F	0.5041	2100	G	2008
+521021	 107	00000	     	107-0	W Riverview Dr	107	City of Covington	107	City of Covington	0.00	S Durant Road	S Conrad Avenue	610	F							X	0.1140	F	0.5000	610	F	2008
+521007	 107	00000	     	107-0	Woodlawn Avenue	107	City of Covington	107	City of Covington	0.00	E. Detroit Street	E. Michigan Street	20	F							X	0.2105	F	0.7500	20	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

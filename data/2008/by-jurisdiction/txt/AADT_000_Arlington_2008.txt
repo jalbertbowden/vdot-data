@@ -1,0 +1,480 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Arlington Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+190112	  US	00001	     	US 1	Patrick St	100	City of Alexandria	000	Arlington County	0.51	SCL Alexandria, I-95, I-495	Franklin St	45000	G	98%	1%	1%	0%	0%	0%	F	0.0703	F	0.5952	47000	G	2008
+190117	  US	00001	     	US 1	Patrick St	100	City of Alexandria	100	City of Alexandria	0.15	Franklin St	Wilkes St, US 1 Par	45000	N	98%	1%	1%	0%	0%	0%	N	0.0703	N	0.5952	47000	N	2008
+602011	  US	00001	     	US 1	Patrick St	100	City of Alexandria	100	City of Alexandria	0.36	Wilkes St, US 1 Par	King St	20000	G	98%	1%	1%	0%	0%	0%	F	0.0807	F	1.0000	21000	G	2008		39000	G	98%	1%	1%	0%	0%	0%	F	0.0640	F	0.6379	41000	G
+602007	  US	00001	     	US 1	Patrick St	100	City of Alexandria	100	City of Alexandria	0.72	King St	1st St	19000	G	98%	1%	1%	0%	0%	0%	F	0.0830	F	1.0000	20000	G	2008		40000	G	97%	1%	1%	1%	1%	0%	F	0.0642	F	0.5207	42000	G
+602050	  US	00001	     	US 1	Patrick St	100	City of Alexandria	100	City of Alexandria	0.44	1st St	Monroe Ave	47000	G	98%	1%	1%	0%	0%	0%	F	0.0711	F	0.5251	48000	G	2008
+602064	  US	00001	     	US 1	Jefferson Davis Hwy	100	City of Alexandria	100	City of Alexandria	1.35	Monroe Ave	NCL Alexandria	39000	G	98%	1%	1%	0%	0%	0%	F	0.0770	F	0.5057	40000	G	2008
+190114	  US	00001	     	US 1	Jefferson Davis Hwy	000	Arlington County	000	Arlington County	0.15	NCL Alexandria	SR 120 Glebe Rd	49000	G	98%	1%	1%	0%	0%	0%	F	0.0764	F	0.5960	51000	G	2008
+190113	  US	00001	     	US 1	Jefferson Davis Hwy	000	Arlington County	000	Arlington County	0.65	SR 120 Glebe Rd	SR 233 Reagan Washington National Airport	43000	G	98%	1%	1%	0%	0%	0%	F	0.0760	F	0.6520	45000	G	2008
+190115	  US	00001	     	US 1	Jefferson Davis Hwy	000	Arlington County	000	Arlington County	1.03	SR 233 Reagan Washington National Airport	I-395	48000	G	98%	1%	1%	0%	0%	0%	F	0.0816	F	0.5399	50000	G	2008
+090357	  US	00001	     	I-395 NB, US 1	 	000	Arlington County	000	Arlington County	0.55	I-395	George Washington Parkway	55000	G	97%	1%	1%	1%	1%	0%	F				79000	G	2008		170000	G	98%	1%	0%	1%	1%	0%	F				248000	G
+090359	  US	00001	     	I-395 NB, US 1	 	000	Arlington County	000	Arlington County	0.02	George Washington Parkway	District of Columbia	55000	N	97%	1%	1%	1%	1%	0%	N				79000	N	2008		170000	N	98%	1%	0%	1%	1%	0%	N				248000	N
+602009	 1US	00001	P    	US 1 Par	Henry St	100	City of Alexandria	100	City of Alexandria	0.36	Wilkes St	SR 7 King St	19000	G	98%	1%	1%	0%	0%	0%	F	0.0761	F	1.0000	20000	G	2008		39000	G	98%	1%	1%	0%	0%	0%	F	0.0640	F	0.6379	41000	G
+602006	 1US	00001	P    	US 1 Par	Henry St	100	City of Alexandria	100	City of Alexandria	0.72	SR 7 King St	1st Street	21000	G	97%	1%	1%	1%	1%	0%	C	0.0723	F	1.0000	21000	G	2008		40000	G	97%	1%	1%	1%	1%	0%	F	0.0642	F	0.5207	42000	G
+783049	 4US	00001	P    	US 1 Par, I-395 SB Exit 008C	Ramp	000	Arlington County	000	Arlington County	0.29	SR 110, US 1	I-395 SB	24000	G	98%	1%	1%	0%	0%	0%	F	0.0733	F	1.0000	25000	G	2008
+602033	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	1.09	WCL Alexandria	I-395	46000	G	98%	0%	1%	0%	1%	0%	F	0.0741	F	0.5676	49000	G	2008
+602032	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	0.65	I-395	Braddock Rd	20000	G	98%	0%	1%	0%	1%	0%	F	0.0809	F	0.5678	22000	G	2008
+602031	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	1.91	Braddock Rd	Russell Rd	13000	G	98%	0%	1%	0%	1%	0%	F	0.0890	F	0.5863	14000	G	2008
+602030	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	0.38	Russell Rd	West St	15000	G	98%	0%	1%	0%	1%	0%	F	0.0889	F	0.5897	16000	G	2008
+602053	  SR	00007	     	VA 7	King St	100	City of Alexandria	100	City of Alexandria	0.48	West St	Washington St	7300	G	98%	0%	1%	0%	1%	0%	F	0.0840	F	0.5343	7800	G	2008
+090207	  SR	00027	E    	VA 27 EB	Washington Blvd	000	Arlington County	000	Arlington County	0.82	US 50 Arlington Blvd; 00-6700	SR 244 Columbia Pike	36000	G	98%	1%	0%	0%	0%	0%	F	0.0837	F	1.0000	39000	G	2008		81000	G	98%	1%	1%	0%	0%	0%	F				89000	G
+090208	  SR	00027	E    	VA 27 EB	Washington Blvd	000	Arlington County	000	Arlington County	0.35	SR 244 Columbia Pike	I-395	49000	G	98%	1%	0%	0%	0%	0%	F	0.0874	F	1.0000	54000	G	2008		105000	G	98%	1%	1%	0%	0%	0%	F	0.0808	F	0.4873	116000	G
+090184	  SR	00027	E    	VA 27 EB	Washington Blvd	000	Arlington County	000	Arlington County	0.52	I-395	SR 244; Pentagon	25000	G	98%	1%	0%	0%	0%	0%	C	0.1368	F	1.0000	27000	G	2008		52000	G	98%	1%	1%	0%	0%	0%	F	0.0918	F	0.6074	57000	G
+090209	  SR	00027	E    	VA 27 EB	Washington Blvd	000	Arlington County	000	Arlington County	0.33	SR 244; Pentagon	SR 110	32000	G	98%	1%	0%	0%	0%	0%	F	0.1389	F	1.0000	35000	G	2008		71000	G	98%	1%	1%	0%	0%	0%	F	0.0905	F	0.6938	77000	G
+090210	  SR	00027	E    	VA 27 EB	Washington Blvd	000	Arlington County	000	Arlington County	0.52	SR 110	Boundary Drive	32000	G	98%	1%	0%	0%	0%	0%	F	0.1356	F	1.0000	34000	G	2008		56000	G	98%	1%	1%	0%	0%	0%	F	0.0943	F	0.8070	60000	G
+781299	  SR	00027	R    	VA 27 Rev	Washington Blvd	000	Arlington County	000	Arlington County	0.36	I-395 Reversible Lanes	SR 27 EB; SR 27 WB	8900	G	99%	0%	0%	0%	0%	0%	C	0.1122	F	1.0000	12000	G	2008		105000	G	98%	1%	1%	0%	0%	0%	F	0.0808	F	0.4873	116000	G
+190167	  SR	00027	W    	VA 27 WB	Washington Blvd	000	Arlington County	000	Arlington County	0.80	US 50 Arlington Blvd; 00-6700	SR 244 Columbia Pike	46000	G	98%	0%	1%	1%	0%	0%	F				50000	G	2008		81000	G	98%	1%	1%	0%	0%	0%	F				89000	G
+190168	  SR	00027	W    	VA 27 WB	Washington Blvd	000	Arlington County	000	Arlington County	0.60	SR 244 Columbia Pike	I-395	47000	G	98%	0%	1%	1%	0%	0%	C	0.0802	F	1.0000	50000	G	2008		105000	G	98%	1%	1%	0%	0%	0%	F	0.0808	F	0.4873	116000	G
+190169	  SR	00027	W    	VA 27 WB	 	000	Arlington County	000	Arlington County	0.13	I-395	SR 244 Columbia Pike	28000	G	98%	0%	1%	1%	0%	0%	F	0.1040	F	1.0000	30000	G	2008		52000	G	98%	1%	1%	0%	0%	0%	F	0.0918	F	0.6074	57000	G
+190170	  SR	00027	W    	VA 27 WB	 	000	Arlington County	000	Arlington County	0.62	SR 244 Columbia Pike	SR 110	38000	G	98%	0%	1%	1%	0%	0%	F	0.1152	F	1.0000	42000	G	2008		71000	G	98%	1%	1%	0%	0%	0%	F	0.0905	F	0.6938	77000	G
+190171	  SR	00027	W    	VA 27 WB	 	000	Arlington County	000	Arlington County	0.33	SR 110	Boundary Drive	24000	G	98%	0%	1%	1%	0%	0%	F	0.1109	F	1.0000	26000	G	2008		56000	G	98%	1%	1%	0%	0%	0%	F	0.0943	F	0.8070	60000	G
+090211	  US	00029	     	US 29, VA 237	Lee Highway	000	Arlington County	000	Arlington County	0.11	ECL Falls Church	SR 237 Washington Blvd	24000	G	98%	1%	1%	0%	0%	0%	F	0.0826	F	0.5938	27000	G	2008
+090228	  US	00029	     	US 29, VA 237 Par	Lee Highway	000	Arlington County	000	Arlington County	0.07	SR 237 Washington Blvd	SR 237 Par, Washington Blvd	23000	N	98%	1%	1%	0%	0%	0%	N	0.1015	N	0.5067	25000	N	2008
+090212	  US	00029	     	US 29	Lee Highway	000	Arlington County	000	Arlington County	2.16	SR 237 Par, Washington Blvd	SR 120 Glebe Rd	23000	A	98%	1%	1%	0%	0%	0%	C	0.1015	A	0.5067	25000	A	2008
+090213	  US	00029	     	US 29	Lee Highway	000	Arlington County	000	Arlington County	0.15	SR 120 Glebe Rd	S SR 309 Old Dominion Dr	18000	G	98%	1%	1%	0%	0%	0%	F	0.0880	F	0.6289	20000	G	2008
+090353	  US	00029	     	US 29, VA 309	Old Dominion Dr	000	Arlington County	000	Arlington County	0.05	S SR 309; Lee Hwy	M SR 309 Lee Hwy	29000	G	98%	1%	1%	0%	0%	0%	F	0.1030	F	0.6634	32000	G	2008
+090354	  US	00029	     	US 29	Old Dominion Dr	000	Arlington County	000	Arlington County	0.67	M SR 309 Lee Hwy;	N SR 309 Lee Hwy; Quincy St	18000	G	98%	1%	1%	0%	0%	0%	F	0.1165	F	0.6534	21000	G	2008
+090162	  US	00029	     	US 29	Lee Highway	000	Arlington County	000	Arlington County	0.67	N SR 309 Lee Hwy; Quincy St	SR 124; Kirkwood Rd	22000	G	98%	1%	1%	0%	0%	0%	F	0.1098	F	0.7431	25000	G	2008
+090160	  US	00029	     	US 29	Lee Highway	000	Arlington County	000	Arlington County	0.57	SR 124; Kirkwood Rd	21st St; US 29 Par	27000	G	98%	1%	1%	0%	0%	0%	F	0.0882	F	0.7880	30000	G	2008
+090161	  US	00029	     	US 29	Lee Highway NB	000	Arlington County	000	Arlington County	1.00	21st St; US 29 Par	District of Columbia Line	28000	G	98%	1%	1%	0%	0%	0%	F	0.0853	F	0.7946	31000	G	2008		34000	G	98%	1%	1%	0%	0%	0%	F				38000	G
+783044	 1US	00029	P    	US 29 Par	Lee Highway SB	000	Arlington County	000	Arlington County	0.90	US 29; 21st St	US 29; Lynn St at DC Line	6000	G	98%	1%	1%	0%	0%	0%	F	0.1432	F	1.0000	6700	G	2008		34000	G	98%	1%	1%	0%	0%	0%	F				38000	G
+090214	  US	00050	     	US 50	Arlington Blvd	000	Arlington County	000	Arlington County	2.03	Fairfax County Line	SR 120 Glebe Rd	58000	G	99%	0%	1%	0%	0%	0%	F	0.0933	F	0.6819	63000	G	2008
+090188	  US	00050	     	US 50	Arlington Blvd	000	Arlington County	000	Arlington County	1.06	SR 120 Glebe Rd	SR 27 Washington Blvd	64000	G	99%	0%	1%	0%	0%	0%	F	0.0990	F	0.6376	69000	G	2008
+090186	  US	00050	     	US 50	Arlington Blvd	000	Arlington County	000	Arlington County	1.93	SR 27 Washington Blvd	District of Columbia	55000	G	99%	0%	1%	0%	0%	0%	F	0.1010	F	0.6358	59000	G	2008
+990108	  IS	00066	E    	I-66 EB	 	000	Arlington County	000	Arlington County	0.24	Fairfax County Line	Westmoreland St	69000	G	99%	0%	0%	0%	0%	0%	F				73000	G	2008		135000	G	99%	0%	0%	0%	0%	0%	F				144000	G
+190018	  IS	00066	E    	I-66 EB	 	000	Arlington County	000	Arlington County	0.94	Westmoreland St	Sycamore St	53000	G	99%	0%	0%	0%	0%	0%	F				57000	G	2008		106000	G	99%	0%	0%	0%	0%	0%	F				113000	G
+190019	  IS	00066	E    	I-66 EB	 	000	Arlington County	000	Arlington County	1.74	Sycamore St	SR 237 Fairfax Drive	59000	G	99%	0%	0%	0%	0%	0%	F				63000	G	2008		114000	G	99%	0%	0%	0%	0%	0%	F				122000	G
+190020	  IS	00066	E    	I-66 EB	 	000	Arlington County	000	Arlington County	0.56	SR 237 Fairfax Drive	SR 120 Glebe Rd	52000	G	99%	0%	0%	0%	0%	0%	F				41000	G	2008		88000	G	99%	0%	0%	0%	0%	0%	F				85000	G
+090106	  IS	00066	E    	I-66 EB	 	000	Arlington County	000	Arlington County	0.97	SR 120 Glebe Rd	US 29 Lee Hwy Cherrydale	51000	A	99%	0%	0%	0%	0%	0%	C	0.0746	A	1.0000	55000	A	2008		98000	A	99%	0%	0%	0%	0%	0%	C	0.0721	A	0.0000	104000	A
+190021	  IS	00066	E    	I-66 EB	 	000	Arlington County	000	Arlington County	1.05	US 29 Lee Hwy Cherrydale	US 29 Near 20th Rd	44000	G	99%	0%	0%	0%	0%	0%	F				47000	G	2008		83000	G	99%	0%	0%	0%	0%	0%	F				88000	G
+190022	  IS	00066	E    	I-66 EB	 	000	Arlington County	000	Arlington County	0.85	US 29 Near 20th Rd	Lynn St Rosslyn	35000	G	99%	0%	0%	0%	0%	0%	F				37000	G	2008		68000	G	99%	0%	0%	0%	0%	0%	F				73000	G
+190023	  IS	00066	E    	I-66 EB	 	000	Arlington County	000	Arlington County	0.50	Lynn St Rosslyn	DC Line, Potomac River; Roosevelt Bridge	52000	G	99%	0%	0%	0%	0%	0%	F				56000	G	2008		95000	G	99%	0%	0%	0%	0%	0%	F				102000	G
+190033	  IS	00066	W    	I-66 WB	 	000	Arlington County	000	Arlington County	0.37	Fairfax County Line	SR 237 Washington Blvd; US 29 Lee Hwy	67000	G	99%	0%	0%	0%	0%	0%	F				71000	G	2008		135000	G	99%	0%	0%	0%	0%	0%	F				144000	G
+190032	  IS	00066	W    	I-66 WB	 	000	Arlington County	000	Arlington County	0.81	SR 237 Washington Blvd; US 29 Lee Hwy	Sycamore St	53000	G	99%	0%	0%	0%	0%	0%	F				56000	G	2008		106000	G	99%	0%	0%	0%	0%	0%	F				113000	G
+190031	  IS	00066	W    	I-66 WB	 	000	Arlington County	000	Arlington County	1.70	Sycamore St	SR 237 Fairfax Drive	55000	G	99%	0%	0%	0%	0%	0%	F				59000	G	2008		114000	G	99%	0%	0%	0%	0%	0%	F				122000	G
+190030	  IS	00066	W    	I-66 WB	 	000	Arlington County	000	Arlington County	0.61	SR 237 Fairfax Drive	SR 120 Glebe Rd	36000	G	99%	0%	0%	0%	0%	0%	F				43000	G	2008		88000	G	99%	0%	0%	0%	0%	0%	F				85000	G
+190029	  IS	00066	W    	I-66 WB	 	000	Arlington County	000	Arlington County	1.02	SR 120 Glebe Rd	US 29 Lee Hwy Cherrydale	47000	A	99%	0%	0%	0%	0%	0%	C	0.0745	A	1.0000	50000	A	2008		98000	A	99%	0%	0%	0%	0%	0%	C	0.0721	A	0.0000	104000	A
+190028	  IS	00066	W    	I-66 WB	 	000	Arlington County	000	Arlington County	0.98	US 29 Lee Hwy Cherrydale	US 29 Near 20th Rd	39000	G	99%	0%	0%	0%	0%	0%	F				42000	G	2008		83000	G	99%	0%	0%	0%	0%	0%	F				88000	G
+190027	  IS	00066	W    	I-66 WB	 	000	Arlington County	000	Arlington County	0.87	US 29 Near 20th Rd	Lynn St Rosslyn	33000	G	99%	0%	0%	0%	0%	0%	F				36000	G	2008		68000	G	99%	0%	0%	0%	0%	0%	F				73000	G
+190026	  IS	00066	W    	I-66 WB	 	000	Arlington County	000	Arlington County	0.49	Lynn St Rosslyn	DC Line, Potomac River; Roosevelt Bridge	43000	G	99%	0%	0%	0%	0%	0%	F				46000	G	2008		95000	G	99%	0%	0%	0%	0%	0%	F				102000	G
+090205	  IS	00095	N    	I-95 NB	Capital Beltway	100	City of Alexandria	029	Fairfax County	0.37	Fairfax County Line	US 1 Richmond Hwy	63000	G	95%	1%	1%	1%	3%	0%	F				62000	G	2008	Capital Beltway is also signed as I-495	135000	G	95%	1%	1%	1%	2%	0%	F				132000	G
+090247	  IS	00095	N    	I-95 NB	Capital Beltway	100	City of Alexandria	029	Fairfax County	0.95	US 1 Richmond Hwy	District of Columbia Line, Potomac River	76000	G	95%	1%	1%	1%	3%	0%	F				75000	G	2008	Capital Beltway is also signed as I-495	154000	G	95%	1%	1%	1%	2%	0%	F				153000	G
+190087	  IS	00095	S    	I-95 SB	Capital Beltway	100	City of Alexandria	029	Fairfax County	0.71	Fairfax County Line	US 1 Patrick St	72000	G	96%	1%	1%	1%	2%	0%	F				70000	G	2008	Capital Beltway is also signed as I-495	135000	G	95%	1%	1%	1%	2%	0%	F				132000	G
+190002	  IS	00095	S    	I-95 SB	Capital Beltway	100	City of Alexandria	029	Fairfax County	0.61	US 1 Patrick St	District of Columbia Line, Potomac River	78000	G	96%	1%	1%	1%	2%	0%	F				78000	G	2008	Capital Beltway is also signed as I-495	154000	G	95%	1%	1%	1%	2%	0%	F				153000	G
+090140	  SR	00110	     	VA 110	Jefferson Davis Hwy	000	Arlington County	000	Arlington County	1.29	Arlington Ridge Rd	SR 27	69000	G	98%	1%	0%	0%	0%	0%	F	0.0793	F	0.6140	72000	G	2008
+090215	  SR	00110	     	VA 110	Jefferson Davis Hwy	000	Arlington County	000	Arlington County	1.00	SR 27	US 1; 4US 01-P SR110 EAST & BEGI	58000	G	98%	1%	0%	0%	0%	0%	C	0.0777	F	0.6927	61000	G	2008
+403825	  SR	00120	     	VA 120	Glebe Rd	000	Arlington County	000	Arlington County	2.49	SR 123 Chain Bridge Rd	SR 309 Old Dominion Drive	13000	G	98%	1%	1%	0%	0%	0%	F	0.1112	F	0.6742	13000	G	2008
+090068	  SR	00120	     	VA 120	Glebe Rd	000	Arlington County	000	Arlington County	0.55	SR 309 Old Dominion Drive	US 29 Lee Highway	17000	G	98%	1%	1%	0%	0%	0%	F	0.0906	F	0.5687	18000	G	2008
+090067	  SR	00120	     	VA 120	Glebe Rd	000	Arlington County	000	Arlington County	0.93	US 29 Lee Highway	SR 237 Washington Blvd	20000	G	98%	1%	1%	0%	0%	0%	F	0.0841	F	0.5857	21000	G	2008
+090345	  SR	00120	     	VA 120, VA 237	Glebe Rd	000	Arlington County	000	Arlington County	0.25	SR 237 Washington Blvd	SR 237 Fairfax Dr	32000	G	98%	1%	1%	0%	0%	0%	F	0.0843	F	0.5908	34000	G	2008
+090217	  SR	00120	     	VA 120	Glebe Rd	000	Arlington County	000	Arlington County	1.13	SR 237 Fairfax Dr	US 50	27000	F	98%	1%	1%	0%	0%	0%	F	0.0903	A	0.5850	27000	F	2008
+090166	  SR	00120	     	VA 120	Glebe Rd	000	Arlington County	000	Arlington County	0.86	US 50	SR 244 Columbia Pike	35000	F	97%	1%	1%	1%	1%	0%	C	0.0805	F	0.0000	37000	F	2008
+090164	  SR	00120	     	VA 120	Glebe Rd	000	Arlington County	000	Arlington County	1.24	SR 244 Columbia Pike	I-395	26000	G	98%	1%	1%	0%	0%	0%	F	0.0757	F	0.5074	27000	G	2008
+090142	  SR	00120	     	VA 120	Glebe Rd	000	Arlington County	000	Arlington County	0.92	I-395	Arlington Ridge Rd	27000	G	98%	1%	1%	0%	0%	0%	F	0.0760	F	0.5950	29000	G	2008
+090216	  SR	00120	     	VA 120	Glebe Rd	000	Arlington County	000	Arlington County	0.73	Arlington Ridge Rd	US 1 Jefferson Davis Hwy	22000	G	98%	1%	1%	0%	0%	0%	F	0.0764	F	0.7846	23000	G	2008
+090219	  SR	00123	     	VA 123	Chain Bridge Rd	000	Arlington County	000	Arlington County	0.40	Fairfax County Line	DC Line, Chain Bridge	13000	G	99%	0%	0%	0%	0%	0%	F	0.0932	F	0.5876	16000	G	2008
+090220	  SR	00124	     	VA 124	 	000	Arlington County	000	Arlington County	0.17	US 29 Lee Hwy	Spout Run Parkway	17000	G	99%	0%	0%	0%	0%	0%	C	0.0892	F	0.5716	18000	G	2008
+090221	  SR	00233	     	VA 233	 	000	Arlington County	000	Arlington County	0.36	US 1 Jefferson Davis Hwy	Reagan National Airport	25000	G	98%	0%	1%	0%	0%	0%	C	0.0733	F	0.6375	27000	G	2008
+190101	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	029	Fairfax County	0.06	Fairfax County Line	WCL Alexandria	35000	N	99%	1%	0%	0%	0%	0%	N	0.0855	N	0.0000	37000	N	2008
+090260	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	029	Fairfax County	0.34	WCL Alexandria	I-395	50000	G	99%	1%	0%	0%	0%	0%	F	0.0702	F	0.5147	54000	G	2008
+602003	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	0.32	I-395	SR 401 Van Dorn St	74000	G	97%	1%	1%	0%	0%	0%	F	0.0730	F	0.5174	79000	G	2008
+602001	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	0.36	SR 401 Van Dorn St	N Pickett St	46000	G	97%	1%	1%	0%	0%	0%	F	0.0734	F	0.5383	49000	G	2008
+602002	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	2.66	N Pickett St	SR 241 Telegraph Rd	34000	G	97%	1%	1%	0%	0%	0%	C	0.0745	F	0.5642	37000	G	2008
+602004	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	1.26	SR 241 Telegraph Rd	US 1 SB Henry St	25000	G	97%	1%	1%	0%	0%	0%	C	0.0729	F	0.5178	27000	G	2008
+602054	  SR	00236	     	VA 236	Duke St	100	City of Alexandria	100	City of Alexandria	0.24	US 1 SB Henry St	SR 400 Washington St	14000	G	96%	1%	2%	0%	1%	0%	C	0.0724	F	0.5291	15000	G	2008
+090211	  SR	00237	     	US 29, VA 237	Lee Highway	000	Arlington County	000	Arlington County	0.11	ECL Falls Church	US 29 Lee Hwy	24000	G	98%	1%	1%	0%	0%	0%	F	0.0826	F	0.5938	27000	G	2008	
+090229	  SR	00237	     	VA 237	Washington Blvd	000	Arlington County	000	Arlington County	0.23	US 29 Lee Hwy	SR 237 P, Washington Blvd	14000	G	99%	1%	1%	0%	0%	0%	C	0.0904	F	1.0000	15000	G	2008		30000	G	99%	1%	1%	0%	0%	0%	C	0.0840	F	0.5093	32000	G
+090223	  SR	00237	     	VA 237	Washington Blvd	000	Arlington County	000	Arlington County	2.31	1SR 237-P	SR 120 Glebe Rd	15000	G	98%	1%	1%	0%	0%	0%	C	0.1036	F	0.5688	16000	G	2008
+090345	  SR	00237	     	VA 120, VA 237	Glebe Rd	000	Arlington County	000	Arlington County	0.25	SR 120 Glebe Rd	SR 120 Glebe Rd, Ballston	32000	G	98%	1%	1%	0%	0%	0%	F	0.0843	F	0.5908	34000	G	2008	
+090069	  SR	00237	     	VA 237	Fairfax Dr	000	Arlington County	000	Arlington County	0.91	SR 120 Glebe Rd, Ballston	10th St	21000	G	98%	0%	1%	0%	0%	0%	F	0.0796	F	0.5694	22000	G	2008
+090222	  SR	00237	     	VA 237	10th St	000	Arlington County	000	Arlington County	0.83	Fairfax Dr	US 50 Arlington Blvd	14000	G	98%	0%	1%	0%	0%	0%	C	0.0938	F	0.5258	15000	G	2008
+090228	 1SR	00237	P    	US 29, VA 237 Par	Lee Highway	000	Arlington County	000	Arlington County	0.07	SR 237	US 29 Lee Hwy	23000	N	98%	1%	1%	0%	0%	0%	N	0.1015	N	0.5067	25000	N	2008	
+090224	 1SR	00237	P    	VA 237 Par	Washington Blvd	000	Arlington County	000	Arlington County	0.17	US 29 Lee Hwy	SR 237 Washington Blvd	16000	G	99%	1%	1%	0%	0%	0%	C	0.0986	F	1.0000	17000	G	2008		30000	G	99%	1%	1%	0%	0%	0%	C	0.0840	F	0.5093	32000	G
+090277	  SR	00241	     	VA 241	Telegraph Rd	100	City of Alexandria	029	Fairfax County	0.39	Fairfax County Line	Maintenance Break	64000	N	98%	1%	1%	0%	0%	0%	N	0.0791	N	0.7163	69000	N	2008
+602012	  SR	00241	     	VA 241	Telegraph Rd	100	City of Alexandria	100	City of Alexandria	0.21	Maintenance Break	SR 236 WB	61000	G	98%	1%	1%	0%	0%	0%	F	0.0790	F	0.6988	65000	G	2008
+090225	  SR	00244	     	VA 244	Columbia Pike	000	Arlington County	000	Arlington County	1.67	Fairfax County Line	SR 120 Glebe Rd	31000	G	97%	1%	1%	0%	0%	0%	C	0.0867	F	0.5692	34000	G	2008
+090168	  SR	00244	     	VA 244	Columbia Pike	000	Arlington County	000	Arlington County	1.03	SR 120 Glebe Rd	SR 27 Washington Blvd	30000	G	97%	1%	1%	0%	0%	0%	F	0.0864	F	0.5646	32000	G	2008
+090070	  SR	00244	     	VA 244	Columbia Pike	000	Arlington County	000	Arlington County	0.91	SR 27 Washington Blvd	Spur-Pentagon Road	13000	G	97%	1%	1%	0%	0%	0%	F	0.1214	F	0.5856	14000	G	2008
+090072	  SR	00309	     	VA 309	Old Dominion Dr	000	Arlington County	000	Arlington County	1.18	Fairfax County Line	SR 120 Glebe Rd	18000	G	98%	1%	1%	0%	0%	0%	F	0.1076	F	0.5196	19000	G	2008
+090356	  SR	00309	     	VA 309	Old Dominion Dr	000	Arlington County	000	Arlington County	0.59	SR 120 Glebe Rd	US 29 Lee Hwy	14000	G	98%	1%	1%	0%	0%	0%	C	0.1179	F	0.6572	16000	G	2008
+090353	  SR	00309	     	US 29, VA 309	Old Dominion Dr	000	Arlington County	000	Arlington County	0.05	US 29 Lee Hwy	US 29 Old Dominion Dr, Wakefield St	29000	G	98%	1%	1%	0%	0%	0%	F	0.1030	F	0.6634	32000	G	2008	
+090226	  SR	00309	     	VA 309	Lee Highway	000	Arlington County	000	Arlington County	0.70	US 29 Old Dominion Dr, Wakefield St	US 29 Lee Hwy, Quincy St	6700	G	98%	1%	1%	0%	0%	0%	F	0.1089	F	0.6676	7200	G	2008
+199748	  IS	00395	1    	I-395 Exp NB	Northbound Express Lane	000	Arlington County	000	Arlington County	1.21	Reversible Lane Split	District of Columbia Line	23000	G	98%	1%	0%	0%	0%	0%	F				38000	G	2008		160000	G	98%	1%	0%	1%	1%	0%	F				190000	G
+199749	  IS	00395	3    	I-395 Exp SB	Southbound Express Lane	000	Arlington County	000	Arlington County	1.21	Reversible Lane Split	District of Columbia Line	30000	G	98%	1%	0%	0%	0%	0%	F				41000	G	2008		160000	G	98%	1%	0%	1%	1%	0%	F				190000	G
+090273	  IS	00395	N    	I-395 NB	 	100	City of Alexandria	029	Fairfax County	0.21	Fairfax County Line	SR 236 Duke St	75000	F	97%	1%	1%	1%	1%	0%	C	0.0761	B	1.0000	75000	F	2008		180000	F	97%	1%	1%	1%	1%	0%	C				192000	F
+190068	  IS	00395	N    	I-395 NB	 	100	City of Alexandria	029	Fairfax County	1.64	SR 236 Duke St	Seminary Rd	71000	G	97%	1%	1%	1%	1%	0%	F				74000	G	2008		171000	G	98%	1%	1%	1%	1%	0%	F				187000	G
+190069	  IS	00395	N    	I-395 NB	 	100	City of Alexandria	029	Fairfax County	1.11	Seminary Rd	SR 7 King St, Arlington County Line	74000	G	97%	1%	1%	1%	1%	0%	F				77000	G	2008		165000	G	98%	1%	1%	1%	1%	0%	F				180000	G
+190306	  IS	00395	N    	I-395 NB	 	000	Arlington County	000	Arlington County	0.77	SR 7 King St, Arlington County Line	Quaker Lane, WCL Alexandria	90000	G	97%	1%	1%	1%	1%	0%	F				93000	G	2008		198000	G	98%	1%	1%	1%	1%	0%	F				213000	G
+190310	  IS	00395	N    	I-395 NB	 	100	City of Alexandria	000	Arlington County	0.26	Quaker Lane, Arlington County Line	Arlington County Line	90000	G	97%	1%	1%	1%	1%	0%	F				93000	G	2008		199000	G	98%	1%	1%	1%	1%	0%	F				216000	G
+090347	  IS	00395	N    	I-395 NB	 	000	Arlington County	000	Arlington County	0.15	WCL Alexandria	SR 120 Glebe Rd	90000	G	97%	1%	1%	1%	1%	0%	F				93000	G	2008		199000	G	98%	1%	1%	1%	1%	0%	F				216000	G
+090348	  IS	00395	N    	I-395 NB	 	000	Arlington County	000	Arlington County	1.20	SR 120 Glebe Rd	SR 27 Washington Boulevard	78000	G	97%	1%	1%	1%	1%	0%	F				90000	G	2008		185000	G	98%	1%	1%	1%	1%	0%	F				219000	G
+190070	  IS	00395	N    	I-395 NB	 	000	Arlington County	000	Arlington County	1.42	SR 27 Washington Boulevard	US 1 Jefferson Davis Hwy	52000	G	97%	1%	1%	1%	1%	0%	F				54000	G	2008		160000	G	98%	1%	0%	1%	1%	0%	F				190000	G
+090357	  IS	00395	N    	I-395 NB, US 1	 	000	Arlington County	000	Arlington County	0.55	US 1 Jefferson Davis Hwy	George Washington Parkway	55000	G	97%	1%	1%	1%	1%	0%	F				79000	G	2008		170000	G	98%	1%	0%	1%	1%	0%	F				248000	G
+090359	  IS	00395	N    	I-395 NB, US 1	 	000	Arlington County	000	Arlington County	0.02	George Washington Parkway	District of Columbia	55000	N	97%	1%	1%	1%	1%	0%	N				79000	N	2008		170000	N	98%	1%	0%	1%	1%	0%	N				248000	N
+199751	  IS	00395	R    	I-395 Rev	 	100	City of Alexandria	029	Fairfax County	2.19	Fairfax County Line	Seminary Rd	28000	A	98%	1%	0%	0%	0%	0%	C	0.1284	A	0.0000	37000	A	2008		180000	F	97%	1%	1%	1%	1%	0%	C				192000	F
+199752	  IS	00395	R    	I-395 Rev	 	100	City of Alexandria	029	Fairfax County	0.71	Seminary Rd	SR 7; Arlington County Line	30000	G	98%	1%	0%	0%	0%	0%	F				39000	G	2008		165000	G	98%	1%	1%	1%	1%	0%	F				180000	G
+199753	  IS	00395	R    	I-395 Rev	 	000	Arlington County	000	Arlington County	0.77	SR 7; ECL Alexandria	Quaker Lane; WCL Alexandria	30000	G	98%	1%	0%	0%	0%	0%	F				39000	G	2008		198000	G	98%	1%	1%	1%	1%	0%	F				213000	G
+199755	  IS	00395	R    	I-395 Rev	 	100	City of Alexandria	000	Arlington County	0.26	Quaker Lane; Arlington County Line	Arlington County Line	31000	G	98%	1%	0%	0%	0%	0%	F	0.0917	F	0.0000	42000	G	2008		199000	G	98%	1%	1%	1%	1%	0%	F				216000	G
+199754	  IS	00395	R    	I-395 Rev	 	000	Arlington County	000	Arlington County	2.13	NCL Alexandria	Reversible Lane Split North of Washington Blvd	31000	G	98%	1%	0%	0%	0%	0%	F	0.0917	F	0.0000	42000	G	2008		199000	G	98%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	216000	G
+190174	  IS	00395	S    	I-395 SB	 	100	City of Alexandria	029	Fairfax County	0.71	Fairfax County Line	SR 236 Duke St	77000	A	97%	1%	1%	1%	1%	0%	C	0.0840	A	1.0000	80000	A	2008		180000	F	97%	1%	1%	1%	1%	0%	C				192000	F
+190074	  IS	00395	S    	I-395 SB	 	100	City of Alexandria	029	Fairfax County	1.44	SR 236 Duke St	Seminary Rd	72000	G	97%	1%	1%	1%	1%	0%	F				76000	G	2008		171000	G	98%	1%	1%	1%	1%	0%	F				187000	G
+190075	  IS	00395	S    	I-395 SB	 	100	City of Alexandria	029	Fairfax County	0.75	Seminary Rd	SR 7 King St, Arlington County Line	61000	G	97%	1%	1%	1%	1%	0%	F				64000	G	2008		165000	G	98%	1%	1%	1%	1%	0%	F				180000	G
+190077	  IS	00395	S    	I-395 SB	 	000	Arlington County	000	Arlington County	0.77	SR 7 King St, WCL Alexandria	Quaker Lane, WCL Alexandria	78000	G	97%	1%	1%	1%	1%	0%	F				81000	G	2008		198000	G	98%	1%	1%	1%	1%	0%	F				213000	G
+190300	  IS	00395	S    	I-395 SB	 	100	City of Alexandria	000	Arlington County	0.26	Quaker Lane, Arlington County Line	Arlington County Line	78000	G	97%	1%	1%	1%	1%	0%	F				81000	G	2008		199000	G	98%	1%	1%	1%	1%	0%	F				216000	G
+190301	  IS	00395	S    	I-395 SB	 	000	Arlington County	000	Arlington County	0.52	NCL Alexandria	SR 120 Glebe Rd	78000	G	97%	1%	1%	1%	1%	0%	F				81000	G	2008		199000	G	98%	1%	1%	1%	1%	0%	F				216000	G
+190078	  IS	00395	S    	I-395 SB	 	000	Arlington County	000	Arlington County	0.74	SR 120 Glebe Rd	SR 27 Washington Blvd	76000	G	97%	1%	1%	1%	1%	0%	F				87000	G	2008		185000	G	98%	1%	1%	1%	1%	0%	F				219000	G
+190079	  IS	00395	S    	I-395 SB	 	000	Arlington County	000	Arlington County	1.56	SR 27 Washington Blvd	SR 110	55000	G	97%	1%	1%	1%	1%	0%	F				57000	G	2008		160000	G	98%	1%	0%	1%	1%	0%	F				190000	G
+190080	  IS	00395	S    	I-395 SB, US 1	 	000	Arlington County	000	Arlington County	0.52	SR 110	District of Columbia	62000	G	97%	1%	1%	1%	1%	0%	F				89000	G	2008		170000	G	98%	1%	0%	1%	1%	0%	F				248000	G
+783049	  IS	00395	S008C	US 1 Par, I-395 SB Exit 008C	Ramp	000	Arlington County	000	Arlington County	0.29	I-395-SB	SR 110, US 1	24000	G	98%	1%	1%	0%	0%	0%	F	0.0733	F	1.0000	25000	G	2008	
+602036	  SR	00400	     	VA 400, VA 90005	Washington St	100	City of Alexandria	100	City of Alexandria	0.91	George Washington Memorial Parkway SCL Alexandria	SR 236 Duke St	33000	G	100%	0%	0%	0%	0%	0%	C	0.1056	F	0.7945	35000	G	2008
+190153	  SR	00400	     	VA 400, VA 90005	Washington St	100	City of Alexandria	100	City of Alexandria	0.32	SR 236 Duke St	Queen St	35000	G	100%	0%	0%	0%	0%	0%	F	0.0783	F	0.7957	38000	G	2008
+602035	  SR	00400	     	VA 400, VA 90005	Washington St	100	City of Alexandria	100	City of Alexandria	0.39	Queen St	Madison St	38000	G	100%	0%	0%	0%	0%	0%	F	0.0852	F	0.8011	41000	G	2008
+602077	  SR	00400	     	VA 400, VA 90005	Washington St	100	City of Alexandria	100	City of Alexandria	0.17	Madison St	1st Street; George Washington Memorial Parkway	38000	G	100%	0%	0%	0%	0%	0%	F	0.0797	F	0.5864	41000	G	2008
+602079	  SR	00401	     	VA 401	Van Dorn St	100	City of Alexandria	100	City of Alexandria	0.62	SCL Alexandria	Edsall Rd	59000	G	97%	1%	1%	1%	0%	0%	F	0.0763	F	0.5134	64000	G	2008
+602013	  SR	00401	     	VA 401	Van Dorn St	100	City of Alexandria	100	City of Alexandria	0.43	Edsall Rd	SR 236 Duke St	41000	G	97%	1%	1%	1%	0%	0%	C	0.0770	F	0.5360	44000	G	2008
+602014	  SR	00401	     	VA 401	Van Dorn St	100	City of Alexandria	100	City of Alexandria	1.56	SR 236 Duke St	Seminary Ave	27000	G	98%	0%	1%	0%	0%	0%	C	0.0887	F	0.7464	29000	G	2008
+602017	  SR	00402	     	VA 402	Quaker Lane	100	City of Alexandria	100	City of Alexandria	0.69	SR 420 Seminary Rd	SR 7 King St	22000	G	98%	1%	1%	1%	0%	0%	F	0.0775	F	0.6097	24000	G	2008
+602018	  SR	00402	     	VA 402	Quaker Lane	100	City of Alexandria	100	City of Alexandria	0.96	SR 7 King St	I-395	22000	G	98%	1%	1%	1%	0%	0%	C	0.0888	F	0.5740	24000	G	2008
+602028	  SR	00420	     	VA 420	Seminary Rd	100	City of Alexandria	100	City of Alexandria	1.72	I-395 Shirley Hwy, 100-6706	SR 402 Quaker Lane	18000	G	98%	1%	1%	0%	0%	0%	C	0.0980	F	0.6009	19000	G	2008
+602029	  SR	00420	     	VA 420	Janneys Lane	100	City of Alexandria	100	City of Alexandria	1.03	SR 402 Quaker Lane	SR 7 King St	6700	G	98%	1%	1%	0%	0%	0%	F	0.0907	F	0.6136	7200	G	2008
+602036	  SR	90005	     	VA 400, VA 90005	Washington St	100	City of Alexandria	100	City of Alexandria	0.91	SCL Alexandria	SR 236 Duke St	33000	G	100%	0%	0%	0%	0%	0%	C	0.1056	F	0.7945	35000	G	2008	
+190153	  SR	90005	     	VA 400, VA 90005	Washington St	100	City of Alexandria	100	City of Alexandria	0.32	SR 236 Duke St	Queen St	35000	G	100%	0%	0%	0%	0%	0%	F	0.0783	F	0.7957	38000	G	2008	
+602035	  SR	90005	     	VA 400, VA 90005	Washington St	100	City of Alexandria	100	City of Alexandria	0.39	Queen St	Madison St	38000	G	100%	0%	0%	0%	0%	0%	F	0.0852	F	0.8011	41000	G	2008	
+602077	  SR	90005	     	VA 400, VA 90005	Washington St	100	City of Alexandria	100	City of Alexandria	0.17	Madison St	1st Street	38000	G	100%	0%	0%	0%	0%	0%	F	0.0797	F	0.5864	41000	G	2008	
+787391	  SR	90005	     	VA 90005	George Washington Memorial Parkway	100	City of Alexandria	US 	Federal	1.81	1st Street	NCL Alexandria	49000	O							X						2008
+787392	  SR	90005	     	VA 90005	George Washington Memorial Parkway	000	Arlington County	US 	Federal	5.56	NCL Alexandria	00-6741 Spout Run Parkway	62000	O							X						2008
+789772	  SR	90005	     	VA 90005	George Washington Memorial Parkway	000	Arlington County	US 	Federal	3.10	00-6741 Spout Run Parkway	Fairfax County Line	71000	O							X						2008
+780643	  FR	00699	     	FR 699	 	000	Arlington County	000	Arlington County	0.51	N Rolfe St	00-6747; 00-6852 RAMP TO RT 50	2800	G	97%	2%	1%	0%	0%	0%	C	0.1209	F	0.8498	3000	G	2008
+780644	  FR	00700	     	FR 700	 	000	Arlington County	000	Arlington County	0.15	SR 237 10th Street	US 50 Arlington Blvd	0	?							X
+780646	  FR	00702	     	FR 702	 	000	Arlington County	000	Arlington County	0.31	N FILMORE STREET	00-6700 Washington Blvd	400	G							X	0.1239	F	0.0000	400	G	2008
+780647	  FR	00703	     	FR 703	 	000	Arlington County	000	Arlington County	0.47	S FENWICK STREET	00-5; 00-18 WALTER REED DR	460	G							X	0.1142	F	0.0000	460	G	2008
+780648	  FR	00704	     	FR 704	 	000	Arlington County	000	Arlington County	0.03	N IRVING STREET	SR 237 10th Street	30	G							X	0.1791	F	0.0000	30	G	2008
+780649	  FR	00705	     	FR 705	 	000	Arlington County	000	Arlington County	0.05	SR 237 10th Street	S HUDSON STREET	90	G							X	0.1522	F	0.0000	90	G	2008
+780650	  FR	00706	     	FR 706	S Old Glebe Rd	000	Arlington County	000	Arlington County	0.04	Dead End	US 50 Arlington Blvd	410	G							X	0.1518	F	0.0000	410	G	2008
+780651	  FR	00707	     	FR 707	 	000	Arlington County	000	Arlington County	0.43	N PERSHING DRIVE	Dead End	350	G							X	0.1004	F	0.0000	350	G	2008
+780652	  FR	00708	     	FR 708	 	000	Arlington County	000	Arlington County	0.67	Dead End	Dead End	820	G							X	0.2057	F	0.0000	820	G	2008
+780654	  FR	00710	     	FR 710	 	000	Arlington County	000	Arlington County	0.39	N PARK DRIVE	Dead End	200	G							X	0.1394	F	0.0000	200	G	2008
+780655	  FR	00711	     	FR 711	 	000	Arlington County	000	Arlington County	0.11	N EDISON STREET	Dead End	310	G							X	0.1200	F	0.0000	310	G	2008
+785269	  FR	00712	     	FR 712	Arlington Blvd Frontage	000	Arlington County	000	Arlington County	0.53	Fairfax County Line	S Lexington St	1500	G							X	0.1008	F	0.0000	1500	G	2008
+785270	  FR	00713	     	FR 713	Arlington Blvd Frontage	000	Arlington County	000	Arlington County	0.18	Fairfax County Line	N Manchester Street	1200	G							X	0.1230	F	0.0000	1200	G	2008
+780659	  FR	00714	     	FR 714	S Glebe Rd	000	Arlington County	000	Arlington County	0.32	Dead End	S TROY STREET	360	G							X	0.0977	F	0.0000	360	G	2008
+700001	  00	00001	     	00-1	20th St	000	Arlington County	000	Arlington County	0.05	00-6723 Eads St	US 1 Jefferson Davis Hwy	7800	G	94%	2%	4%	0%	0%	0%	F	0.0845	F	0.5445	8400	G	2008
+700002	  00	00001	     	00-1	20th St	000	Arlington County	000	Arlington County	0.15	US 1 Jefferson Davis Hwy	Crystal Dr	5100	G	94%	2%	4%	0%	0%	0%	C				5500	G	2008
+700003	  00	00002	     	00-2	26th St	000	Arlington County	000	Arlington County	0.07	00-6587 Clark St	00-6724 Crystal Dr	3900	G	94%	2%	4%	0%	0%	0%	C	0.1051	F	0.0000	4200	G	2008
+700004	  00	00003	     	00-3	27th St	000	Arlington County	000	Arlington County	0.09	US 1 Jefferson Davis Hwy	00-6724 Crystal Dr	6000	G	94%	4%	1%	0%	0%	0%	F	0.0912	F	0.0000	6500	G	2008
+700005	  00	00004	     	00-4	Clarendon Blvd	000	Arlington County	000	Arlington County	0.78	00-6700 Washington Blvd	00-6812 Courthouse Rd	13000	G	96%	1%	2%	1%	1%	0%	C	0.0890	F	1.0000	14000	G	2008
+700006	  00	00005	     	00-5	Courthouse Rd	000	Arlington County	000	Arlington County	0.58	SR 244 Columbia Pike	FR-703; Walter Reed Dr	6300	G	95%	1%	3%	0%	0%	0%	C	0.0905	F	0.6042	6800	G	2008
+700007	  00	00007	     	00-7	Columbus St	000	Arlington County	000	Arlington County	0.12	30th St	31st St	1300	G	98%	0%	1%	0%	0%	0%	C	0.0860	F	0.0000	1400	G	2008
+700008	  00	00008	     	00-8	Fairfax Dr	000	Arlington County	000	Arlington County	0.38	I-66	SR 120; SR 237 Fairfax Dr E	35000	G	99%	1%	0%	0%	0%	0%	C	0.0685	F	0.5460	38000	G	2008
+700009	  00	00009	     	00-9	Harrison St	000	Arlington County	000	Arlington County	0.30	00-6809 Patrick Henry Dr	US 29 Lee Hwy	7700	G	100%	0%	0%	0%	0%	0%	F	0.0933	F	0.5373	8400	G	2008
+787506	  00	00009	     	00-9	Harrison St	000	Arlington County	000	Arlington County	0.30	US 29 Lee Hwy	27th St	9300	G	100%	0%	0%	0%	0%	0%	F	0.1063	F	0.5419	10000	G	2008
+787507	  00	00009	     	00-9	Harrison St	000	Arlington County	000	Arlington County	0.62	27th St	Williamsburg Blvd	6100	G	100%	0%	0%	0%	0%	0%	C	0.1088	F	0.5798	6600	G	2008
+700010	  00	00010	     	00-10	Little Falls Rd	000	Arlington County	000	Arlington County	0.25	00-6771 Yorktown Blvd	00-6626, N George Mason Dr	3500	G	99%	0%	1%	0%	0%	0%	C	0.1183	F	0.6232	3800	G	2008
+700011	  00	00011	     	00-11	S Manchester St	000	Arlington County	000	Arlington County	0.15	Fairfax County Line	US 50 Arlington Blvd	8400	G	99%	0%	0%	0%	0%	0%	C	0.0897	F	0.7827	9100	G	2008
+700012	  00	00012	     	00-12	Memorial Dr	000	Arlington County	000	Arlington County	0.17	SR 110 Overpass	District of Columbia Line	16000	G	99%	0%	1%	0%	0%	0%	F	0.0897	F	0.0000	18000	G	2008
+700013	  00	00013	     	00-13	Nash St	000	Arlington County	000	Arlington County	0.11	00-6608 Wilson Blvd	00-6744 Key Blvd	6800	G	98%	1%	1%	0%	0%	0%	F	0.0898	F	0.5860	7400	G	2008
+700014	  00	00013	     	00-13	Nash St	000	Arlington County	000	Arlington County	0.14	00-6744 Key Blvd	US 29	2600	G	98%	1%	1%	0%	0%	0%	C	0.1192	F	0.8658	2900	G	2008
+700015	  00	00014	     	00-14	Pierce St	000	Arlington County	000	Arlington County	0.07	00-6812 Clarendon Blvd	00-6608 Wilson Blvd	5600	G	97%	2%	1%	0%	0%	0%	F	0.0837	F	0.5621	6100	G	2008
+700016	  00	00015	     	00-15	Quinn St	000	Arlington County	000	Arlington County	0.25	00-6608 Wilson Blvd	Key Blvd	4400	G	98%	1%	1%	0%	0%	0%	F	0.1014	F	0.6058	4700	G	2008
+700017	  00	00016	     	00-16	Randolph St	000	Arlington County	000	Arlington County	0.19	SR 120, N Glebe Rd	00-6608 Wilson Blvd	11000	G	94%	3%	2%	0%	0%	0%	C	0.0827	F	0.5517	12000	G	2008
+787508	  00	00016	     	00-16	Randolph St	000	Arlington County	000	Arlington County	0.18	00-6608 Wilson Blvd	SR 237 Fairfax Dr	6900	G	94%	3%	2%	0%	0%	0%	F	0.0993	F	0.5429	7500	G	2008
+700018	  00	00017	     	00-17	Stuart St	000	Arlington County	000	Arlington County	0.07	00-6608 Wilson Blvd	00-6753, 9 th Street	4800	G	98%	1%	1%	0%	0%	0%	F	0.0885	F	0.5355	5200	G	2008
+700020	  00	00019	     	00-19	Washington Blvd	000	Arlington County	000	Arlington County	0.42	00-6780 Westmoreland St	SR 237 P; US 29 Lee Hwy	2300	G	99%	1%	1%	0%	0%	0%	C	0.1554	F	1.0000	2500	G	2008
+700021	  00	00020	     	00-20	Monroe St	000	Arlington County	000	Arlington County	0.10	00-6608 Wilson Blvd	SR 237 Fairfax Dr	3300	G	98%	0%	1%	0%	0%	0%	C	0.0979	F	0.6541	3600	G	2008
+787509	  00	00020	     	00-20	Monroe St	000	Arlington County	000	Arlington County	0.20	SR 237	00-6700 Washington Blvd	3300	G	97%	0%	2%	0%	0%	0%	C	0.1001	F	0.5515	3600	G	2008
+700022	  00	00021	     	00-21	19th St	000	Arlington County	000	Arlington County	0.15	00-6746 Ft Myer Dr	Kent St	7900	G	96%	1%	2%	1%	1%	0%	F	0.1018	F	0.6675	8500	G	2008
+700024	  00	00025	     	00-25	Park Dr	000	Arlington County	000	Arlington County	0.17	00-6710 George Mason Dr	00-6811 Carlin Springs Rd	1300	G	99%	0%	1%	0%	0%	0%	C	0.1051	F	0.5448	1400	G	2008
+782115	  00	01250	     	00-1250	Shirlington Circle	000	Arlington County	000	Arlington County	0.13	I-395; SR 402 Par	00-6714 Shirlington Rd	21000	G	97%	2%	1%	0%	0%	0%	C	0.0864	F	1.0000	23000	G	2008
+700025	  00	06587	     	00-6587	Old Jefferson Davis Hwy	000	Arlington County	000	Arlington County	1.73	14th Rd	Dead End	3400	G	95%	3%	1%	0%	0%	0%	C	0.1307	F	0.6008	3700	G	2008
+700026	  00	06591	     	00-6591	Arlington Ridge Rd	000	Arlington County	000	Arlington County	1.20	NCL Alexandria	S Lynn Street	13000	G	98%	2%	1%	0%	0%	0%	C	0.0910	F	0.6821	14000	G	2008
+787510	  00	06591	     	00-6591	S Lynn St	000	Arlington County	000	Arlington County	0.32	Arlington Ridge Rd	Army Navy Dr	3000	G	98%	2%	1%	0%	0%	0%	F	0.0991	F	0.7432	3300	G	2008
+700027	  00	06602	     	00-6602	West Glebe Rd	000	Arlington County	000	Arlington County	0.10	100-6602 ; NCL Alexandria	SR 120, S Glebe Rd	19000	G	98%	0%	1%	0%	0%	0%	F	0.0719	F	0.5514	21000	G	2008
+787511	  00	06605	     	00-6605	Adams St; Army Navy Dr	000	Arlington County	000	Arlington County	0.42	26th Street	28th Street	4500	G	97%	2%	1%	0%	0%	0%	F	0.1195	F	0.6529	4900	G	2008
+787512	  00	06605	     	00-6605	Army Navy Dr	000	Arlington County	000	Arlington County	1.50	28th Street	I-395; S Hayes St	6400	G	97%	2%	1%	0%	0%	0%	C	0.1308	F	0.5951	6900	G	2008
+787513	  00	06605	     	00-6605	Army Navy Dr	000	Arlington County	000	Arlington County	0.45	I-395; S Hayes St	12th St	9900	G	97%	2%	1%	0%	0%	0%	F	0.1024	F	0.6978	11000	G	2008
+700029	  00	06606	     	00-6606	18th St	000	Arlington County	000	Arlington County	0.27	Crystal Dr	Hayes St	13000	G	97%	1%	2%	0%	0%	0%	F	0.0866	F	0.5631	14000	G	2008
+787514	  00	06606	     	00-6606	Hayes St	000	Arlington County	000	Arlington County	1.04	18th St	I-395	13000	G	97%	1%	2%	0%	0%	0%	C	0.0887	F	0.5461	14000	G	2008
+700030	  00	06608	     	00-6608	Wilson Blvd	000	Arlington County	000	Arlington County	0.56	Fairfax County Line	Larrimore St	17000	G	95%	3%	1%	0%	0%	0%	F	0.1017	F	0.6050	18000	G	2008
+787515	  00	06608	     	00-6608	Wilson Blvd	000	Arlington County	000	Arlington County	0.89	Larrimore St	N George Mason Dr	15000	G	95%	3%	1%	0%	0%	0%	F	0.1044	F	0.6531	17000	G	2008
+787516	  00	06608	     	00-6608	Wilson Blvd	000	Arlington County	000	Arlington County	0.41	N George Mason Dr	SR 120, N Glebe Rd	16000	G							X	0.0896	F	0.6774	18000	G	2008
+787517	  00	06608	     	00-6608	Wilson Blvd	000	Arlington County	000	Arlington County	0.92	SR 120, N Glebe Rd	SR 237 10th St	18000	G	95%	3%	1%	0%	0%	0%	C	0.0828	F	0.5719	20000	G	2008
+787518	  00	06608	     	00-6608	Wilson Blvd	000	Arlington County	000	Arlington County	0.14	SR 237 10th St	Washington Blvd	19000	G	95%	3%	1%	0%	0%	0%	F	0.0725	F	0.5422	20000	G	2008
+787519	  00	06608	     	00-6608	Wilson Blvd	000	Arlington County	000	Arlington County	1.45	Washington Blvd	Nash St	12000	G	95%	3%	1%	0%	0%	0%	F	0.0991	F	0.0000	13000	G	2008
+787520	  00	06608	     	00-6608	Wilson Blvd	000	Arlington County	000	Arlington County	0.28	Nash St	Arlington Ridge Rd	19000	G	95%	3%	1%	0%	0%	0%	F	0.0837	F	0.6772	21000	G	2008
+700031	  00	06622	     	00-6622	Walter Reed Dr	000	Arlington County	000	Arlington County	0.70	NCL Alexandria	Four Mile Run Dr	18000	G	98%	1%	1%	0%	0%	0%	C	0.0998	F	0.6603	19000	G	2008
+787521	  00	06622	     	00-6622	Walter Reed Dr	000	Arlington County	000	Arlington County	0.69	Four Mile Run Dr	SR 120 , S Glebe Rd	15000	G	98%	1%	1%	0%	0%	0%	F	0.0995	F	0.7805	17000	G	2008
+787522	  00	06622	     	00-6622	Walter Reed Dr	000	Arlington County	000	Arlington County	0.53	SR 120, S Glebe Rd	SR 244 Columbia Pike	14000	G	98%	1%	1%	0%	0%	0%	F	0.0996	F	0.8291	15000	G	2008
+787523	  00	06622	     	00-6622	Walter Reed Dr	000	Arlington County	000	Arlington County	0.36	SR 244 Columbia Pike	6th St	14000	G	98%	1%	1%	0%	0%	0%	F	0.0994	F	0.5703	15000	G	2008
+787524	  00	06622	     	00-6622	Fillmore St	000	Arlington County	000	Arlington County	0.40	Walter Reed Dr	US 50 Arlington Blvd	11000	G	98%	1%	1%	0%	0%	0%	F	0.0984	F	0.5765	12000	G	2008
+700033	  00	06626	     	00-6626	N George Mason Dr	000	Arlington County	000	Arlington County	0.35	00-10 Little Falls Rd	SR 309 Williamsburg Blvd	2900	G	99%	0%	1%	0%	0%	0%	C	0.1094	F	0.5924	3100	G	2008
+700035	  00	06682	     	00-6682	Sycamore St	000	Arlington County	000	Arlington County	0.26	NCL Falls Church	N 17th Street	23000	G	99%	0%	0%	0%	0%	0%	F	0.0842	F	0.6959	25000	G	2008
+787525	  00	06682	     	00-6682	Sycamore St	000	Arlington County	000	Arlington County	0.57	N 17th Street	US 29 Lee Hwy	22000	G	99%	0%	0%	0%	0%	0%	C	0.0846	F	0.7159	24000	G	2008
+787526	  00	06682	     	00-6682	Sycamore St	000	Arlington County	000	Arlington County	0.67	US 29 Lee Hwy	Williamsburg Blvd	12000	G	99%	0%	0%	0%	0%	0%	F	0.1117	F	0.5634	13000	G	2008
+787478	  00	06682	     	00-6682	Williamsburg Blvd	000	Arlington County	000	Arlington County	0.47	Sycamore St	John Marshall Dr	7900	G	99%	0%	0%	0%	0%	0%	F	0.1062	F	0.6473	8600	G	2008
+787527	  00	06682	     	00-6682	Williamsburg Blvd	000	Arlington County	000	Arlington County	0.76	John Marshall Dr	SR 309 Old Dominion Dr	8200	G	99%	0%	0%	0%	0%	0%	F	0.1070	F	0.6859	8900	G	2008
+787528	  00	06682	     	00-6682	Williamsburg Blvd	000	Arlington County	000	Arlington County	0.42	SR 309 Old Dominion Dr	SR 120, North Glebe Rd	7900	G	99%	0%	0%	0%	0%	0%	F	0.1131	F	0.6089	8500	G	2008
+700036	  00	06686	     	00-6686	16th St	000	Arlington County	000	Arlington County	0.77	Four Mile Run Dr	SR 120, S Glebe Rd	1800	G	98%	0%	2%	0%	0%	0%	C	0.1053	F	0.5812	1900	G	2008
+700037	  00	06700	     	00-6700	Washington Blvd	000	Arlington County	000	Arlington County	0.76	SR 27; US 50 Arlington Blvd	SR 237 10th Street	39000	G	97%	1%	1%	1%	0%	0%	F	0.0859	F	0.5071	43000	G	2008
+787529	  00	06700	     	00-6700	Washington Blvd	000	Arlington County	000	Arlington County	0.41	SR 237 10th Street	00-6741 Kirkwood Rd	18000	G	97%	1%	1%	1%	0%	0%	F	0.0916	F	0.5553	20000	G	2008
+787530	  00	06700	     	00-6700	Washington Blvd	000	Arlington County	000	Arlington County	0.92	00-6741 Kirkwood Rd	SR 120, N Glebe Rd	20000	G	97%	1%	1%	1%	0%	0%	C	0.0997	F	0.6307	21000	G	2008
+700038	  00	06708	     	00-6708	23rd St	000	Arlington County	000	Arlington County	0.29	00-6605 Army Navy Drive	Arlington Ridge Rd	2800	G	97%	2%	1%	0%	0%	0%	F	0.1007	F	0.7230	3100	G	2008
+787531	  00	06708	     	00-6708	23rd St	000	Arlington County	000	Arlington County	0.71	Arlington Ridge Rd	Fern St	8300	G	97%	2%	1%	0%	0%	0%	C	0.0946	F	0.6260	9000	G	2008
+787532	  00	06708	     	00-6708	23rd St	000	Arlington County	000	Arlington County	0.15	Fern St	US 1 Jefferson Davis Hwy	8800	G	97%	2%	1%	0%	0%	0%	F	0.0860	F	0.5037	9600	G	2008
+787533	  00	06708	     	00-6708	S 23rd St	000	Arlington County	000	Arlington County	0.15	US 1 Jefferson Davis Hwy	Crystal Drive	11000	G	97%	2%	1%	0%	0%	0%	F	0.0892	F	0.7891	12000	G	2008
+700039	  00	06710	     	00-6710	George Mason Dr	000	Arlington County	000	Arlington County	1.24	Fairfax County Line	SR 244 Columbia Pike	15000	G	98%	0%	1%	0%	0%	0%	F	0.0979	F	0.5847	16000	G	2008
+787534	  00	06710	     	00-6710	George Mason Dr	000	Arlington County	000	Arlington County	0.99	SR 244 Columbia Pike	Pershing Dr	29000	G	98%	0%	1%	0%	0%	0%	F	0.0935	F	0.5951	31000	G	2008
+787535	  00	06710	     	00-6710	George Mason Dr	000	Arlington County	000	Arlington County	0.46	Pershing Dr	Carlin Springs Rd	25000	G	98%	0%	1%	0%	0%	0%	F	0.0916	F	0.5258	27000	G	2008
+787536	  00	06710	     	00-6710	George Mason Dr	000	Arlington County	000	Arlington County	0.99	Carlin Springs Rd	SR 237 Washington Blvd	21000	G	98%	0%	1%	0%	0%	0%	F	0.0881	F	0.5525	23000	G	2008
+787537	  00	06710	     	00-6710	George Mason Dr	000	Arlington County	000	Arlington County	0.89	SR 237 Washington Blvd	US 29 Lee Hwy	18000	G	98%	0%	1%	0%	0%	0%	C	0.0907	F	0.5332	20000	G	2008
+787538	  00	06710	     	00-6710	George Mason Dr	000	Arlington County	000	Arlington County	0.48	US 29 Lee Highway	Yorktown Blvd	8400	G	98%	0%	1%	0%	0%	0%	F	0.1047	F	0.5645	9100	G	2008
+700040	  00	06712	     	00-6712	Greenbrier St	000	Arlington County	000	Arlington County	0.61	00-6737 Carlin Springs Rd	SR 244 Columbia Pike	3300	G	96%	1%	2%	0%	0%	0%	C	0.0870	F	0.5831	3500	G	2008
+700041	  00	06714	     	00-6714	Shirlington Rd	000	Arlington County	000	Arlington County	0.14	SR 402 Quaker Lane	Four Mile Run Dr	22000	G	97%	1%	2%	1%	0%	0%	F	0.0721	F	0.5385	23000	G	2008
+787539	  00	06714	     	00-6714	Four Mile Run Dr	000	Arlington County	000	Arlington County	1.54	Shirlington Rd	SR 244 Columbia Pike	19000	G	97%	1%	2%	1%	0%	0%	C	0.0858	F	0.5382	20000	G	2008
+700042	  00	06716	     	00-6716	Jefferson Street South	000	Arlington County	000	Arlington County	0.11	Fairfax County Line	SR 244 Columbia Pike	8800	G	98%	1%	1%	0%	0%	0%	F	0.0843	F	0.5144	9600	G	2008
+700043	  00	06717	     	00-6717	31st St	000	Arlington County	000	Arlington County	0.63	Dead End	Randolph St	5700	G	95%	4%	1%	0%	0%	0%	C	0.0923	F	0.6796	6200	G	2008
+787540	  00	06717	     	00-6717	Quincy St	000	Arlington County	000	Arlington County	0.30	Randolph St	Arlington Mill Dr	6500	G	95%	4%	1%	0%	0%	0%	F	0.0919	F	0.5113	7100	G	2008
+700044	  00	06718	     	00-6718	Arlington Mill Dr	000	Arlington County	000	Arlington County	0.69	00-6622 Walter Reed Dr	00-6714 Shirlington Rd; I-395 Ramp	10000	G	96%	1%	2%	1%	0%	0%	C	0.0796	F	0.6442	11000	G	2008
+700045	  00	06719	     	00-6719	Highland St	000	Arlington County	000	Arlington County	0.25	00-6622 Walter Reed Dr	SR 244 Columbia Pike	1600	G	95%	1%	3%	0%	0%	0%	F	0.0756	F	0.6748	1800	G	2008
+700046	  00	06720	     	00-6720	24th Rd	000	Arlington County	000	Arlington County	0.18	00-6721 Shirlington Rd	SR 120 , S Glebe Rd	8100	G	97%	2%	1%	0%	0%	0%	F	0.0954	F	0.7497	8800	G	2008
+700047	  00	06721	     	00-6721	Shirlington Rd	000	Arlington County	000	Arlington County	0.40	00-6714 Four Mile Run Dr	Kenmore St	8400	G	93%	3%	2%	1%	0%	0%	C	0.0897	F	0.5073	9100	G	2008
+787541	  00	06721	     	00-6721	Kenmore St	000	Arlington County	000	Arlington County	0.47	Shirlington Rd	Walter Reed Dr	2600	G	93%	3%	2%	1%	0%	0%	F	0.0857	F	0.5650	2900	G	2008
+700048	  00	06722	     	00-6722	Joyce St	000	Arlington County	000	Arlington County	0.55	Army Navy Drive	S Hayes St	11000	G	98%	1%	1%	0%	0%	0%	F	0.1012	F	0.5443	12000	G	2008
+787480	  00	06722	     	00-6722	15th St	000	Arlington County	000	Arlington County	0.55	S Hayes St	US 1 Jefferson Davis Hwy	18000	G	98%	1%	1%	0%	0%	0%	C	0.0846	F	0.5888	19000	G	2008
+700049	  00	06723	     	00-6723	Eades St	000	Arlington County	000	Arlington County	0.37	SR 120, S Glebe Rd	Fort Scott Dr	9000	G	94%	4%	1%	0%	0%	0%	F	0.0978	F	0.7109	9700	G	2008
+787542	  00	06723	     	00-6723	Eades St	000	Arlington County	000	Arlington County	0.53	Fort Scott Dr	20th St	10000	G	94%	4%	1%	0%	0%	0%	C	0.1001	F	0.7262	11000	G	2008
+787543	  00	06723	     	00-6723	Eades St	000	Arlington County	000	Arlington County	0.77	20th St	I-395	13000	G	94%	4%	1%	0%	0%	0%	F	0.0885	F	0.6586	14000	G	2008
+700050	  00	06724	     	00-6724	Crystal Dr	000	Arlington County	000	Arlington County	0.60	US 1 Jefferson Davis Hwy	26th St	5200	G	94%	4%	1%	0%	0%	0%	F	0.1456	F	1.0000	5700	G	2008
+787544	  00	06724	     	00-6724	Crystal Dr	000	Arlington County	000	Arlington County	0.73	26th St	12th St	7300	G	94%	4%	1%	0%	0%	0%	F	0.1183	F	1.0000	7900	G	2008
+787479	  00	06724	     	00-6724	12th St	000	Arlington County	000	Arlington County	0.45	Crystal Dr	00-6723 Eads St	4500	G	94%	4%	1%	0%	0%	0%	F	0.1072	F	0.7992	4900	G	2008
+700051	  00	06725	     	00-6725	Fern St	000	Arlington County	000	Arlington County	0.81	23 rd Street S	Army Navy Drive	5400	G	98%	0%	2%	0%	0%	0%	C	0.1059	F	0.7410	5800	G	2008
+787545	  00	06725	     	00-6725	S Fern St	000	Arlington County	000	Arlington County	0.14	Army Navy Drive	Entrance to Pentagon Parking Lot	7300	G	98%	0%	2%	0%	0%	0%	F	0.1162	F	0.6774	7900	G	2008
+700052	  00	06728	     	00-6728	2nd St	000	Arlington County	000	Arlington County	0.30	SR 120, S Glebe Rd	Irving Street S	6000	G	97%	2%	1%	0%	0%	0%	C	0.0944	F	0.5018	6500	G	2008
+787546	  00	06728	     	00-6728	2nd St	000	Arlington County	000	Arlington County	0.68	Irving Street	SR 27 Washington Blvd	7200	G	97%	2%	1%	0%	0%	0%	F	0.0928	F	0.6882	7900	G	2008
+700053	  00	06731	     	00-6731	McKinley Rd	000	Arlington County	000	Arlington County	0.55	Fairfax County Line	12th Road	3400	G	98%	1%	1%	0%	0%	0%	C	0.0958	F	0.5000	3700	G	2008
+700054	  00	06731	     	00-6731	Ohio St	000	Arlington County	000	Arlington County	0.25	12th Road	SR 237 Washington Blvd	3000	G	98%	1%	1%	0%	0%	0%	F	0.1100	F	0.5565	3200	G	2008
+788188	  00	06731	     	00-6731	Ohio St	000	Arlington County	000	Arlington County	0.09	SR 237 Washington Blvd	Dead End	160	G	98%	1%	1%	0%	0%	0%	F	0.2054	F	1.0000	170	G	2008
+700055	  00	06731	     	00-6731	John Marshall Dr	000	Arlington County	000	Arlington County	0.19	22nd Rd	US 29 Lee Highway	330	G	98%	1%	1%	0%	0%	0%	F	0.1003	F	0.5152	360	G	2008
+787547	  00	06731	     	00-6731	John Marshall Dr	000	Arlington County	000	Arlington County	0.84	US 29 Lee Highway	Williamsburg Rd	650	G	98%	1%	1%	0%	0%	0%	F	0.1217	F	0.5333	700	G	2008
+700056	  00	06735	     	00-6735	Glen Carlyn Rd	000	Arlington County	000	Arlington County	0.14	Fairfax County Line; 29-714	00-6737 Carlin Springs Rd	4600	G	99%	0%	0%	0%	0%	0%	F	0.1037	F	0.5921	5000	G	2008
+700057	  00	06736	     	00-6736	Joyce St	000	Arlington County	000	Arlington County	0.27	Army Navy Drive	SR 244 Columbia Pike	16000	G	98%	1%	1%	0%	0%	0%	F	0.0995	F	0.6029	17000	G	2008
+700058	  00	06737	     	00-6737	Carlin Springs Rd	000	Arlington County	000	Arlington County	0.59	Fairfax County Line	5th Rd	30000	G	98%	1%	1%	0%	0%	0%	C	0.0872	F	0.5941	33000	G	2008
+787548	  00	06737	     	00-6737	Carlin Springs Rd	000	Arlington County	000	Arlington County	0.36	5th Rd	US 50 Arlington Blvd	30000	G	98%	1%	1%	0%	0%	0%	F	0.0881	F	0.6229	33000	G	2008
+787549	  00	06737	     	00-6737	Carlin Springs Rd	000	Arlington County	000	Arlington County	0.88	US 50 Arlington Blvd	George Mason Dr	19000	G	98%	1%	1%	0%	0%	0%	F	0.0894	F	0.6232	20000	G	2008
+700059	  00	06738	     	00-6738	Pershing Dr	000	Arlington County	000	Arlington County	0.22	George Mason Drive	SR 120, N Glebe Road	7400	G	98%	1%	1%	0%	0%	0%	F	0.0981	F	0.5896	8000	G	2008
+787550	  00	06738	     	00-6738	N Pershing Dr	000	Arlington County	000	Arlington County	0.92	SR 120 Glebe Road	Washington Blvd	8400	G	98%	1%	1%	0%	0%	0%	F	0.1050	F	0.6724	9100	G	2008
+787551	  00	06738	     	00-6738	N Pershing Dr	000	Arlington County	000	Arlington County	0.34	Washington Blvd	US 50 Arlington Blvd	6400	G	98%	1%	1%	0%	0%	0%	F	0.1103	F	0.7053	6900	G	2008
+700060	  00	06741	     	00-6741	Kirkwood Rd	000	Arlington County	000	Arlington County	0.80	00-6700 Washington Blvd	US 29 Lee Highway	8600	G	99%	0%	1%	0%	0%	0%	C	0.0989	F	0.5768	9300	G	2008
+700061	  00	06741	     	00-6741	Spout Run Pkwy	000	Arlington County	000	Arlington County	0.89	SR 124; 00-6742 Lorcom Lane; Gap	SR 90005 George Washington Memorial Parkway	23000	G	99%	0%	1%	0%	0%	0%	F	0.1018	F	0.7498	25000	G	2008
+700062	  00	06742	     	00-6742	Lorcom Lane	000	Arlington County	000	Arlington County	0.60	SR 309 Old Lee Hwy	Military Road	8800	G	99%	0%	1%	0%	0%	0%	F	0.1097	F	0.7769	9500	G	2008
+787552	  00	06742	     	00-6742	Lorcom Lane	000	Arlington County	000	Arlington County	0.38	Military Road	Nellie Custis Dr	8200	G	99%	0%	1%	0%	0%	0%	C	0.1179	F	0.7554	8900	G	2008
+787553	  00	06742	     	00-6742	Lorcom Lane	000	Arlington County	000	Arlington County	0.49	Nellie Custis Dr	Spout Run Pkwy	15000	G	99%	0%	1%	0%	0%	0%	F	0.1156	F	0.7727	16000	G	2008
+700063	  00	06743	     	00-6743	Quincy St	000	Arlington County	000	Arlington County	0.18	00-6608 Wilson Blvd	SR 237 Fairfax Dr	10000	G	98%	0%	1%	0%	0%	0%	F	0.0958	F	0.5660	11000	G	2008
+787554	  00	06743	     	00-6743	Quincy St	000	Arlington County	000	Arlington County	0.24	SR 237 Fairfax Dr	Washington Blvd	11000	G	98%	0%	1%	0%	0%	0%	F	0.0902	F	0.5047	12000	G	2008
+787555	  00	06743	     	00-6743	Quincy St	000	Arlington County	000	Arlington County	0.28	Washington Blvd	15th St	14000	G	98%	0%	1%	0%	0%	0%	F	0.0952	F	0.5075	15000	G	2008
+787556	  00	06743	     	00-6743	Quincy St	000	Arlington County	000	Arlington County	0.50	15th St	US 29 Old Dominion Dr; Military Rd	11000	G	98%	0%	1%	0%	0%	0%	F	0.0969	F	0.5079	12000	G	2008
+700064	  00	06743	     	00-6743	Military Rd	000	Arlington County	000	Arlington County	0.51	US 29 Old Dominion Dr; Quincy St	Nellie Custis Dr	5800	G	98%	0%	1%	0%	0%	0%	F	0.1142	F	0.5012	6300	G	2008
+787557	  00	06743	     	00-6743	Military Rd	000	Arlington County	000	Arlington County	0.55	Nellie Custis Dr	Beechwood Circle	11000	G	98%	0%	1%	0%	0%	0%	F	0.1403	F	0.6471	11000	G	2008
+787558	  00	06743	     	00-6743	Military Rd	000	Arlington County	000	Arlington County	0.48	Beechwood Circle	Quincy St	8100	G	98%	0%	1%	0%	0%	0%	C	0.1339	F	0.6064	8800	G	2008
+787559	  00	06743	     	00-6743	Military Rd	000	Arlington County	000	Arlington County	0.78	Quincy St	SR 120, N Glebe Rd	7000	G	98%	0%	1%	0%	0%	0%	F	0.1327	F	0.5238	7600	G	2008
+700065	  00	06744	     	00-6744	Quinn St	000	Arlington County	000	Arlington County	0.12	US 29 Lee Highway NB	Key Blvd	3000	G	96%	1%	2%	1%	1%	0%	F	0.1841	F	0.8903	3200	G	2008
+787560	  00	06744	     	00-6744	Key Blvd	000	Arlington County	000	Arlington County	0.33	Quinn St	Fort Myer Dr	4900	G	96%	1%	2%	1%	1%	0%	F	0.1798	F	0.7820	5300	G	2008
+700066	  00	06745	     	00-6745	Henderson Rd	000	Arlington County	000	Arlington County	0.24	George Mason Dr	SR 120, N Glebe Rd	9100	G	97%	1%	1%	0%	0%	0%	C	0.0873	F	0.6135	9900	G	2008
+787562	  00	06745	     	00-6745	Pollard St	000	Arlington County	000	Arlington County	0.33	5th St	Wilson Blvd	1300	G	97%	1%	1%	0%	0%	0%	F	0.1234	F	0.7500	1400	G	2008
+700067	  00	06746	     	00-6746	Fairfax Dr	000	Arlington County	000	Arlington County	0.37	Troy St	14th St	690	G	96%	1%	2%	1%	1%	0%	F	0.1195	F	0.6183	750	G	2008
+787563	  00	06746	     	00-6746	Fairfax Dr	000	Arlington County	000	Arlington County	0.35	14th St	Fort Myer Dr	3900	G	96%	1%	2%	1%	1%	0%	F	0.1179	F	0.8289	4300	G	2008
+787564	  00	06746	     	00-6746	Fort Myer Dr	000	Arlington County	000	Arlington County	0.34	Fairfax Dr	US 29 Lee Highway NB	17000	G	96%	1%	2%	1%	1%	0%	F	0.0905	F	1.0000	19000	G	2008
+787565	  00	06747	     	00-6747	Lynn St	000	Arlington County	000	Arlington County	0.39	US 50	US 29 Lee Hwy NB	19000	G	97%	2%	1%	0%	0%	0%	F	0.0976	F	1.0000	21000	G	2008
+700069	  00	06748	     	00-6748	Nellie Custis Dr	000	Arlington County	000	Arlington County	0.44	Lorcom Lane	Military Rd	6400	G	99%	0%	1%	0%	0%	0%	F	0.1162	F	0.6419	6900	G	2008
+700070	  00	06749	     	00-6749	Williamsburg Blvd	000	Arlington County	000	Arlington County	0.95	Fairfax County Line	00-6682 Sycamore St	8000	G	99%	0%	1%	0%	0%	0%	C	0.1101	F	0.0000	8600	G	2008
+700071	  00	06750	     	00-6750	16th St	000	Arlington County	000	Arlington County	0.53	Patrick Henry Dr	George Mason Dr	1600	G	98%	0%	1%	0%	0%	0%	F	0.1194	F	0.6495	1800	G	2008
+787566	  00	06750	     	00-6750	16th St	000	Arlington County	000	Arlington County	0.50	George Mason Dr	SR 120, N Glebe Rd	7000	G	98%	0%	1%	0%	0%	0%	C	0.0952	F	0.6435	7600	G	2008
+700072	  00	06751	     	00-6751	Rhodes St	000	Arlington County	000	Arlington County	0.51	14th St	Wilson Blvd	4700	G	98%	1%	1%	0%	0%	0%	C	0.1271	F	0.6839	5100	G	2008
+700073	  00	06752	     	00-6752	15th St	000	Arlington County	000	Arlington County	0.24	SR 120, N Glebe Rd	Utah St	1800	G	98%	0%	1%	0%	0%	0%	F	0.1398	F	0.6058	2000	G	2008
+787567	  00	06752	     	00-6752	15th St	000	Arlington County	000	Arlington County	0.16	Utah St	N Stafford St	2400	G	98%	0%	1%	0%	0%	0%	F	0.1238	F	0.6943	2600	G	2008
+700074	  00	06753	     	00-6753	Stuart St	000	Arlington County	000	Arlington County	0.07	SR 237 Fairfax Dr	9th St	2900	G	97%	2%	1%	0%	0%	0%	F	0.0804	F	0.7127	3100	G	2008
+787568	  00	06753	     	00-6753	9th St	000	Arlington County	000	Arlington County	0.07	Stuart St	Stafford St	5400	G	97%	2%	1%	0%	0%	0%	F	0.1078	F	0.7590	5900	G	2008
+787569	  00	06753	     	00-6753	Stafford St	000	Arlington County	000	Arlington County	0.32	9th St	Washington Blvd	2600	G	97%	2%	1%	0%	0%	0%	F	0.1155	F	0.6081	2900	G	2008
+787570	  00	06753	     	00-6753	Stafford St	000	Arlington County	000	Arlington County	0.20	Washington Blvd	15th St	4500	G	97%	2%	1%	0%	0%	0%	F				4900	G	2008
+700075	  00	06755	     	00-6755	Highland St	000	Arlington County	000	Arlington County	0.44	US 50 Arlington Blvd	Pershing Dr	710	G	97%	2%	1%	0%	0%	0%	F	0.0995	F	0.5669	770	G	2008
+787571	  00	06755	     	00-6755	Highland St	000	Arlington County	000	Arlington County	0.43	Pershing Dr	10th St	2300	G	97%	2%	1%	0%	0%	0%	F	0.1086	F	0.6231	2500	G	2008
+787572	  00	06755	     	00-6755	Highland St	000	Arlington County	000	Arlington County	0.40	10th St	Key Blvd	4500	G	97%	2%	1%	0%	0%	0%	F	0.1000	F	0.6014	4900	G	2008
+787573	  00	06755	     	00-6755	Highland St	000	Arlington County	000	Arlington County	0.27	Key Blvd	US 29 Lee Hwy	4600	G	97%	2%	1%	0%	0%	0%	F	0.0944	F	0.5640	5000	G	2008
+700076	  00	06757	     	00-6757	Barton St	000	Arlington County	000	Arlington County	0.53	Dead End	SR 237 10th Street	3900	G	97%	2%	1%	0%	0%	0%	F	0.1217	F	0.6692	4200	G	2008
+787574	  00	06757	     	00-6757	Barton St	000	Arlington County	000	Arlington County	0.31	SR 237, 10th St	14th St	5800	G	97%	2%	1%	0%	0%	0%	C	0.1229	F	0.7602	6300	G	2008
+787575	  00	06757	     	00-6757	14th St	000	Arlington County	000	Arlington County	0.26	Barton St	Courthouse Rd	4600	G	97%	2%	1%	0%	0%	0%	F	0.1125	F	0.6900	5000	G	2008
+700077	  00	06759	     	00-6759	N Veitch St	000	Arlington County	000	Arlington County	0.88	00-6757 N Veitch Street	US 29	8600	G	98%	1%	1%	0%	0%	0%	C	0.0929	F	0.6228	9400	G	2008
+700078	  00	06770	     	00-6770	Chesterbrook Rd	000	Arlington County	000	Arlington County	0.28	SR 120 Glebe Rd	29-689; Fairfax County Line	3900	G	97%	1%	1%	0%	0%	0%	F	0.1693	F	0.0000	4200	G	2008
+700079	  00	06771	     	00-6771	Little Falls Rd	000	Arlington County	000	Arlington County	0.44	Sycamore St	Yorktown Blvd	5900	G	97%	1%	1%	0%	0%	0%	F	0.1150	F	0.5525	6400	G	2008
+787576	  00	06771	     	00-6771	Yorktown Blvd	000	Arlington County	000	Arlington County	0.60	Little Falls Rd	28th St	6800	G	97%	1%	1%	0%	0%	0%	C	0.1493	F	0.6442	7400	G	2008
+787577	  00	06771	     	00-6771	Yorktown Blvd	000	Arlington County	000	Arlington County	0.65	28th St	26th St	4800	G	97%	1%	1%	0%	0%	0%	F	0.1446	F	0.6280	5200	G	2008
+787578	  00	06771	     	00-6771	26th St	000	Arlington County	000	Arlington County	0.97	Yorktown Blvd	Military Rd	2900	G	97%	1%	1%	0%	0%	0%	F	0.1310	F	0.5923	3100	G	2008
+700080	  00	06773	     	00-6773	Moore St	000	Arlington County	000	Arlington County	0.20	Wilson Blvd	US 29 Lee Hwy	4900	G	98%	1%	1%	0%	0%	0%	F	0.0847	F	0.5235	5300	G	2008
+700081	  00	06774	     	00-6774	Fairfax Dr	000	Arlington County	000	Arlington County	0.15	ECL Falls Church	Little Falls Rd	9300	G	97%	1%	1%	0%	0%	0%	F	0.1098	F	0.6248	10000	G	2008
+787579	  00	06774	     	00-6774	Fairfax Dr	000	Arlington County	000	Arlington County	0.43	Little Falls Rd	US 29	7100	G	97%	1%	1%	0%	0%	0%	F	0.1216	F	1.0000	7700	G	2008
+700082	  00	06780	     	00-6780	Westmoreland St	000	Arlington County	000	Arlington County	0.34	00-6774 Fairfax Dr	Williamsburg Blvd	7800	G	99%	0%	0%	0%	0%	0%	F	0.1117	F	0.5998	8500	G	2008
+787580	  00	06780	     	00-6780	Westmoreland St	000	Arlington County	000	Arlington County	0.13	Williamsburg Blvd	Fairfax County Line	7600	G	99%	0%	0%	0%	0%	0%	F	0.1190	F	0.5255	8200	G	2008
+700083	  00	06787	     	00-6787	Woodstock St	000	Arlington County	000	Arlington County	0.35	SR 120 Glebe Road	SR 309 Lee Highway; 00-6742 Lorcom Lane	1900	G	98%	1%	1%	0%	0%	0%	C	0.1004	F	0.5737	2000	G	2008
+700084	  00	06794	     	00-6794	16th Street N	000	Arlington County	000	Arlington County	0.14	110-6794 ; ECL Falls Church	Roosevelt St	2300	G	99%	0%	0%	0%	0%	0%	F	0.1202	F	0.5036	2500	G	2008
+700085	  00	06797	     	00-6797	Little Falls Rd	000	Arlington County	000	Arlington County	0.12	110-6797; ECL Falls Church	00-6774 Fairfax Dr	3300	G	99%	0%	1%	0%	0%	0%	F	0.1340	F	0.0000	3600	G	2008
+700086	  00	06798	     	00-6798	19th St	000	Arlington County	000	Arlington County	0.17	00-6682 Sycamore St	Westmoreland St	2400	G	99%	0%	0%	0%	0%	0%	F	0.1171	F	0.5477	2600	G	2008
+787581	  00	06798	     	00-6798	Westmoreland St	000	Arlington County	000	Arlington County	0.27	19th St	US 29 Lee Hwy	1600	G	99%	0%	0%	0%	0%	0%	C	0.1146	F	0.7803	1800	G	2008
+700087	  00	06801	     	00-6801	26th St	000	Arlington County	000	Arlington County	0.06	SR 309 Old Dominion Dr	00-6771 Yorktown Blvd	5300	G	98%	1%	1%	0%	0%	0%	F	0.1008	F	0.6722	5700	G	2008
+700088	  00	06805	     	00-6805	16th St	000	Arlington County	000	Arlington County	0.03	Patrick Henry Dr	Lexington St	2900	G	99%	0%	1%	0%	0%	0%	F	0.1056	F	0.6957	3200	G	2008
+787582	  00	06805	     	00-6805	Lexington St	000	Arlington County	000	Arlington County	0.43	16th St	22nd St	3000	G	99%	0%	1%	0%	0%	0%	F	0.0955	F	0.5846	3300	G	2008
+787583	  00	06805	     	00-6805	Lexington St	000	Arlington County	000	Arlington County	0.28	22nd St	US 29 Lee Hwy	2700	G	99%	0%	1%	0%	0%	0%	F	0.0942	F	0.6592	2900	G	2008
+787584	  00	06805	     	00-6805	Lexington St	000	Arlington County	000	Arlington County	0.56	US 29 Lee Hwy	Little Falls Rd	1200	G	99%	0%	1%	0%	0%	0%	C	0.1010	F	0.5043	1300	G	2008
+700089	  00	06805	     	00-6805	Kensington St	000	Arlington County	000	Arlington County	0.26	Yorktown Blvd	Williamsburg Blvd	840	G	99%	0%	1%	0%	0%	0%	F	0.1158	F	0.6211	910	G	2008
+700090	  00	06808	     	00-6808	15th St	000	Arlington County	000	Arlington County	0.08	00-6759 Veitch St	00-6812 Courthouse Rd	7800	G	98%	1%	1%	0%	0%	0%	F	0.0806	F	0.5865	8400	G	2008
+700091	  00	06809	     	00-6809	Patrick Henry Dr	000	Arlington County	000	Arlington County	0.79	Wilson Blvd	SR 237 Washington Blvd	5700	G	99%	0%	0%	0%	0%	0%	F	0.0987	F	0.5799	6200	G	2008
+787585	  00	06809	     	00-6809	Patrick Henry Dr	000	Arlington County	000	Arlington County	0.88	SR 237 Washington Blvd	George Mason Dr	3200	G	99%	0%	0%	0%	0%	0%	C	0.0972	F	0.6104	3500	G	2008
+700092	  00	06811	     	00-6811	Carlin Springs Rd	000	Arlington County	000	Arlington County	0.41	George Mason Dr	SR 120, N Glebe Rd	13000	G	98%	1%	1%	0%	0%	0%	F	0.0894	F	0.0000	14000	G	2008
+700093	  00	06812	     	00-6812	Courthouse Rd	000	Arlington County	000	Arlington County	0.44	US 50 Arlingdon Blvd	Clarendon Blvd	11000	G	97%	2%	1%	0%	0%	0%	F	0.0841	F	0.5304	12000	G	2008
+787588	  00	06812	     	00-6812	Clarendon Blvd	000	Arlington County	000	Arlington County	0.37	Courthouse Rd	Oak St	13000	G	97%	2%	1%	0%	0%	0%	F	0.1068	F	1.0000	15000	G	2008
+700094	  00	06813	     	00-6813	Monroe St	000	Arlington County	000	Arlington County	0.58	Walter Reed Dr	SR 244 Columbia Pike	3500	G	97%	2%	1%	0%	0%	0%	F	0.1016	F	0.6396	3800	G	2008
+700095	  00	06817	     	00-6817	McKinley Rd	000	Arlington County	000	Arlington County	0.10	SR 237 Washington Blvd	Longfellow St	2700	G	99%	0%	0%	0%	0%	0%	F	0.0888	F	0.5644	2900	G	2008
+787586	  00	06817	     	00-6817	18th St	000	Arlington County	000	Arlington County	0.14	Longfellow St	Patrick Henry Dr	1100	G	99%	0%	0%	0%	0%	0%	F	0.0988	F	0.5911	1100	G	2008
+700096	  00	06852	     	00-6852	Marshall Dr	000	Arlington County	000	Arlington County	0.30	SR 110 Jefferson Davis Hwy	Meade St	4600	G	98%	1%	1%	0%	0%	0%	F	0.0743	F	0.7061	5000	G	2008
+787587	  00	06852	     	00-6852	Meade St	000	Arlington County	000	Arlington County	0.24	Marshall Dr	Ramp to US 50	5600	G	98%	1%	1%	0%	0%	0%	F	0.0813	F	0.5358	6100	G	2008
+602084	 100	00001	     	100-1	Cameron St	100	City of Alexandria	100	City of Alexandria	1.00	Commonwealth Ave	Fairfax St	6000	G	99%	0%	1%	0%	0%	0%	C	0.1050	F	1.0000	6500	G	2008
+602115	 100	00002	     	100-2	Daingerfield Rd	100	City of Alexandria	100	City of Alexandria	0.19	SR 236 Duke St	SR 7 King St	6600	G	96%	1%	2%	0%	0%	0%	C	0.0850	F	0.6369	7100	G	2008
+602120	 100	00003	     	100-3	Filmore Ave	100	City of Alexandria	100	City of Alexandria	0.36	Seminary Rd	N Beauregard St	4000	G	92%	5%	2%	0%	0%	0%	C	0.1048	F	0.5567	4300	G	2008
+602081	 100	00004	     	100-4	Franklin St	100	City of Alexandria	100	City of Alexandria	0.40	US 1 Patrick St	Fairfax St	4000	G	95%	1%	2%	1%	1%	0%	C	0.0932	F	0.8446	4300	G	2008
+602082	 100	00005	     	100-5	Gibbon St	100	City of Alexandria	100	City of Alexandria	0.40	US 1 Patrick St	Fairfax St	1600	G	99%	0%	1%	0%	0%	0%	C	0.1043	F	0.8214	1800	G	2008
+602111	 100	00006	     	100-6	Holland Lane	100	City of Alexandria	100	City of Alexandria	0.32	Eisenhower Ave	SR 236 Duke St	9800	G	97%	0%	1%	1%	0%	0%	C	0.0985	F	0.5664	11000	G	2008
+781603	 100	00007	     	100-7	King St	100	City of Alexandria	100	City of Alexandria	0.24	SR 400 Washington St	100-21 Fairfax Street	5900	G	91%	3%	5%	0%	0%	0%	F	0.0828	F	0.5589	6400	G	2008
+602100	 100	00008	     	100-8	Lincolnia Rd	100	City of Alexandria	100	City of Alexandria	0.11	Breckenridge Pl	Beauregard St	5400	G	93%	3%	3%	0%	0%	0%	C	0.0785	F	0.5839	5800	G	2008
+602112	 100	00009	     	100-9	Mill Rd	100	City of Alexandria	100	City of Alexandria	0.88	W Eisenhower Ave	E Eisenhower Ave	7100	G	98%	0%	0%	1%	0%	0%	C	0.1097	F	0.8832	7700	G	2008
+602110	 100	00010	     	100-10	Montgomery St	100	City of Alexandria	100	City of Alexandria	0.48	Fairfax St	US 1 Par, Henry St	3600	G	93%	1%	4%	1%	1%	0%	C	0.1053	F	1.0000	3900	G	2008
+602085	 100	00011	     	100-11	Pendleton St	100	City of Alexandria	100	City of Alexandria	0.66	West St	Fairfax St	3900	G	93%	4%	3%	0%	0%	0%	C	0.0987	F	0.5393	4200	G	2008
+602113	 100	00012	     	100-12	Pershing Ave	100	City of Alexandria	100	City of Alexandria	0.16	SR 241 Telegraph Rd	Stovall St	12000	G	97%	1%	1%	1%	1%	0%	C	0.1158	F	0.9370	13000	G	2008
+602088	 100	00013	     	100-13	Prince St	100	City of Alexandria	100	City of Alexandria	0.50	Reinekers Lane	US 1 Patrick St	6900	G	98%	1%	1%	0%	0%	0%	F	0.1093	F	0.5433	7500	G	2008
+602090	 100	00013	     	100-13	Prince St	100	City of Alexandria	100	City of Alexandria	0.18	US 1 Patrick St	SR 400 Washington St	5800	G	98%	1%	1%	0%	0%	0%	C	0.0948	F	0.5455	6300	G	2008
+602083	 100	00013	     	100-13	Prince St	100	City of Alexandria	100	City of Alexandria	0.24	SR 400 Washington St	Fairfax St	3100	G	98%	1%	1%	0%	0%	0%	F	0.1228	F	0.8785	3300	G	2008
+602116	 100	00014	     	100-14	Slaters Lane	100	City of Alexandria	100	City of Alexandria	0.38	US 1 Jefferson Davis Hwy	George Washington Memorial Pkwy	12000	G	98%	0%	1%	0%	0%	0%	C	0.0988	F	0.7311	13000	G	2008
+602118	 100	00015	     	100-15	Stevenson Ave	100	City of Alexandria	100	City of Alexandria	0.16	Walker St	S Van Dorn St	13000	G	96%	1%	2%	0%	0%	0%	C	0.0871	F	0.5670	14000	G	2008
+781604	 100	00016	     	100-16	Stoval St	100	City of Alexandria	100	City of Alexandria	0.13	100-6588; Eisenhower Ave	100-9 Mill Rd	13000	G	91%	3%	5%	0%	0%	0%	F	0.0906	F	0.8250	14000	G	2008
+602119	 100	00017	     	100-17	Walker St	100	City of Alexandria	100	City of Alexandria	0.10	Stevenson Rd	SR 236 Duke St	24000	G	99%	0%	1%	0%	0%	0%	C	0.0744	F	0.5581	26000	G	2008
+602089	 100	00018	     	100-18	West St	100	City of Alexandria	100	City of Alexandria	0.63	Duke St	Wythe St	6600	G	97%	1%	2%	0%	0%	0%	C	0.1054	F	0.6415	7100	G	2008
+602087	 100	00019	     	100-19	1st St	100	City of Alexandria	100	City of Alexandria	0.06	SR 400; Washington St	Saint Asaph St	7100	G	98%	1%	1%	0%	0%	0%	F	0.1170	F	0.7363	7600	G	2008
+602108	 100	00019	     	100-19	1st St	100	City of Alexandria	100	City of Alexandria	0.05	Saint Asaph St	Pitt St	4900	G	98%	1%	1%	0%	0%	0%	C	0.1107	F	0.7026	5300	G	2008
+602086	 100	00020	     	100-20	Wythe St	100	City of Alexandria	100	City of Alexandria	0.66	West St	Fairfax St	5900	G	97%	1%	1%	0%	0%	0%	C	0.0940	F	0.6575	6400	G	2008
+602117	 100	00021	     	100-21	Fairfax St	100	City of Alexandria	100	City of Alexandria	1.12	Franklin St	Montgomery St	6200	G	95%	1%	4%	0%	0%	0%	C	0.1037	F	0.6481	6600	G	2008
+781605	 100	00022	     	100-22	Church St	100	City of Alexandria	100	City of Alexandria	0.09	I-95 Ramp	SR 400 Washington St	2400	G	91%	3%	5%	0%	0%	0%	F	0.2200	F	0.9711	2600	G	2008
+602504	 100	06500	     	100-6500	Duke St	100	City of Alexandria	100	City of Alexandria	0.23	SR 400 Washington St	Fairfax St	5100	G	98%	0%	1%	0%	0%	0%	C	0.0788	F	0.5280	5500	G	2008
+602048	 100	06572	     	100-6572	Edsall Rd	100	City of Alexandria	100	City of Alexandria	0.49	WCL Alexandria	Van Dorn St	18000	G	96%	1%	1%	2%	0%	0%	C	0.0812	F	0.5278	19000	G	2008
+602080	 100	06572	     	100-6572	Edsall Rd	100	City of Alexandria	100	City of Alexandria	0.24	Van Dorn St	S Pickett St	12000	G	96%	1%	1%	2%	0%	0%	F	0.0933	F	0.5827	13000	G	2008
+602068	 100	06573	     	100-6573	Van Dorn St	100	City of Alexandria	100	City of Alexandria	1.08	Seminary Rd	SR 7 King St	6600	G	98%	1%	1%	0%	0%	0%	C	0.1247	F	0.8573	7000	G	2008
+602047	 100	06575	     	100-6575	S Pickett St	100	City of Alexandria	100	City of Alexandria	0.36	Van Dorn St	Edsall Rd	13000	G	97%	1%	2%	1%	0%	0%	F	0.0752	F	0.5128	14000	G	2008
+602051	 100	06575	     	100-6575	S Pickett St	100	City of Alexandria	100	City of Alexandria	0.57	Edsall Rd	SR 236 Duke St	18000	G	97%	1%	2%	1%	0%	0%	C	0.0802	F	0.5214	19000	G	2008
+781606	 100	06579	     	100-6579	Clermont Ave	100	City of Alexandria	100	City of Alexandria	0.13	I 95 Ramps	100-6588 Eisenhower Ave	18000	G	95%	1%	1%	1%	2%	0%	C	0.1044	F	0.8445	19000	G	2008
+602075	 100	06583	     	100-6583	W Taylor Run Pkwy	100	City of Alexandria	100	City of Alexandria	0.52	Duke St	Janneys Lane	4600	G	99%	0%	0%	0%	0%	0%	C	0.0829	F	0.5398	5000	G	2008
+602505	 100	06584	     	100-6584	Pitt St	100	City of Alexandria	100	City of Alexandria	0.07	Montgomery St	1st Street	5000	G	98%	0%	1%	0%	1%	0%	C	0.1110	F	0.7303	5400	G	2008
+602024	 100	06585	     	100-6585	Commonwealth Ave	100	City of Alexandria	100	City of Alexandria	0.94	King St	Monroe Ave	7400	G	98%	0%	1%	0%	0%	0%	F	0.0911	F	0.5391	8000	G	2008
+602023	 100	06585	     	100-6585	Commonwealth Ave	100	City of Alexandria	100	City of Alexandria	0.79	Monroe Ave	Mt Vernon Ave	7100	G	98%	0%	1%	0%	0%	0%	C	0.0945	F	0.5576	7700	G	2008
+602058	 100	06585	     	100-6585	Commonwealth Ave	100	City of Alexandria	100	City of Alexandria	0.41	Mt Vernon Ave	Reed St	4600	G	98%	0%	1%	0%	0%	0%	F	0.0885	F	0.5879	4900	G	2008
+602060	 100	06586	     	100-6586	Diagonal Rd	100	City of Alexandria	100	City of Alexandria	0.30	SR 236 Duke St	SR 7 King St	8200	G	91%	3%	5%	0%	0%	0%	C	0.0962	F	0.9124	8800	G	2008
+602034	 100	06587	     	100-6587	Powhatan St	100	City of Alexandria	100	City of Alexandria	0.45	Washington St	US 1 Jefferson Davis Hwy	2500	G	95%	4%	1%	0%	0%	0%	C	0.1097	F	0.5939	2700	G	2008
+602093	 100	06588	     	100-6588	Eisenhower Ave	100	City of Alexandria	100	City of Alexandria	3.18	SR 401 Van Dorn St	SR 241 Telegraph Rd	0	?							X
+602092	 100	06588	     	100-6588	Eisenhower Ave	100	City of Alexandria	100	City of Alexandria	0.94	SR 241 Telegraph Rd	Holland Lane	15000	G	96%	1%	1%	1%	1%	0%	C	0.0937	F	0.6960	16000	G	2008
+602021	 100	06591	     	100-6591	Mt Vernon Ave	100	City of Alexandria	100	City of Alexandria	1.21	Braddock Rd	Commonwealth Ave	9400	G	95%	3%	2%	0%	0%	0%	C	0.0806	F	0.5313	10000	G	2008
+602020	 100	06591	     	100-6591	Mt Vernon Ave	100	City of Alexandria	100	City of Alexandria	1.00	Commonwealth Ave	NCL Alexandria	15000	G	95%	3%	2%	0%	0%	0%	F				17000	G	2008
+602026	 100	06592	     	100-6592	Braddock Rd	100	City of Alexandria	100	City of Alexandria	1.72	Beauregard St	SR 7 King St	14000	G	98%	1%	1%	0%	0%	0%	C	0.0993	F	0.6573	15000	G	2008
+602025	 100	06592	     	100-6592	Braddock Rd	100	City of Alexandria	100	City of Alexandria	1.39	SR 7 King St	Rusell Rd	13000	G	98%	1%	1%	0%	0%	0%	C	0.1048	F	0.5175	14000	G	2008
+602055	 100	06592	     	100-6592	Braddock Rd	100	City of Alexandria	100	City of Alexandria	0.77	Russell Rd	West St	8300	G	98%	1%	1%	0%	0%	0%	F	0.1023	F	0.5363	9000	G	2008
+602056	 100	06593	     	100-6593	Callahan Dr	100	City of Alexandria	100	City of Alexandria	0.22	SR 236 Duke St	SR 7 King St	17000	G	98%	0%	1%	0%	0%	0%	C	0.0842	F	0.6060	18000	G	2008
+602070	 100	06593	     	100-6593	Russell Rd	100	City of Alexandria	100	City of Alexandria	0.89	SR 7 King St	Monroe Ave	9800	G	98%	0%	1%	0%	0%	0%	F	0.0891	F	0.5097	11000	G	2008
+602071	 100	06593	     	100-6593	Russell Rd	100	City of Alexandria	100	City of Alexandria	0.31	Monroe Ave	Windsor Ave	7100	G	98%	0%	1%	0%	0%	0%	C	0.1004	F	0.6305	7700	G	2008
+602500	 100	06593	     	100-6593	Russell Rd	100	City of Alexandria	100	City of Alexandria	1.06	Windsor Ave	West Glebe Rd	7600	G	98%	0%	1%	0%	0%	0%	F	0.1049	F	0.6369	8100	G	2008
+602072	 100	06593	     	100-6593	Russell Rd	100	City of Alexandria	100	City of Alexandria	0.16	West Glebe Rd	Mt Vernon Ave	6200	G	98%	0%	1%	0%	0%	0%	F	0.1067	F	0.7025	6700	G	2008
+602078	 100	06594	     	100-6594	Gunston Rd	100	City of Alexandria	100	City of Alexandria	0.26	Quaker Lane	Valley Dr	2800	G	97%	3%	1%	0%	0%	0%	C	0.1153	F	0.7770	3000	G	2008
+602016	 100	06595	     	100-6595	Quaker Lane	100	City of Alexandria	100	City of Alexandria	0.62	Duke St	Seminary Rd	26000	G	98%	1%	1%	0%	0%	0%	C	0.0919	F	0.6387	28000	G	2008
+602076	 100	06595	     	100-6595	Valley Dr	100	City of Alexandria	100	City of Alexandria	1.33	West Glebe Rd	Braddock Rd	960	G	98%	1%	1%	0%	0%	0%	C	0.1123	F	0.5392	1000	G	2008
+602049	 100	06596	     	100-6596	Monroe Ave	100	City of Alexandria	100	City of Alexandria	0.79	Russell Rd	US 1 Jefferson Davis Hwy	11000	G	99%	0%	1%	0%	0%	0%	C	0.0888	F	0.5991	12000	G	2008
+602094	 100	06597	     	100-6597	Monticello Blvd	100	City of Alexandria	100	City of Alexandria	0.21	Russell Rd	Old Dominion Blvd	2800	G	97%	1%	2%	0%	0%	0%	F	0.0945	F	0.5306	3000	G	2008
+602095	 100	06597	     	100-6597	Old Dominion Blvd	100	City of Alexandria	100	City of Alexandria	0.71	Monticello Blvd	West Glebe Rd	950	G	97%	1%	2%	0%	0%	0%	C	0.0889	F	0.5926	1000	G	2008
+602096	 100	06597	     	100-6597	Tennessee Ave	100	City of Alexandria	100	City of Alexandria	0.17	Old Dominion Blvd	Halcyon Dr	860	G	97%	1%	2%	0%	0%	0%	F	0.1012	F	0.5697	930	G	2008
+602105	 100	06597	     	100-6597	Tennessee Ave	100	City of Alexandria	100	City of Alexandria	0.25	Halcyon Dr	Valley Dr	1900	G	97%	1%	2%	0%	0%	0%	F	0.1108	F	0.6799	2000	G	2008
+602065	 100	06597	     	100-6597	Martha Custis Dr	100	City of Alexandria	100	City of Alexandria	0.52	Valley Dr	Gunston Rd	5200	G	97%	1%	2%	0%	0%	0%	F	0.0928	F	0.5191	5600	G	2008
+602057	 100	06599	     	100-6599	Cameron Mills Rd	100	City of Alexandria	100	City of Alexandria	0.39	Braddock Rd	Summit Ave	2100	G	95%	1%	4%	0%	0%	0%	C	0.0984	F	0.5236	2200	G	2008
+602059	 100	06600	     	100-6600	Crest St	100	City of Alexandria	100	City of Alexandria	0.27	Braddock Rd	Valley Dr	1500	G	98%	0%	1%	0%	0%	0%	C	0.0979	F	0.5113	1600	G	2008
+602097	 100	06600	     	100-6600	Summit Ave	100	City of Alexandria	100	City of Alexandria	0.27	Valley Dr	Cameron Mills Rd	1800	G	98%	0%	1%	0%	0%	0%	F	0.0941	F	0.5245	2000	G	2008
+602501	 100	06600	     	100-6600	Monticello Blvd	100	City of Alexandria	100	City of Alexandria	0.23	Cameron Mills Rd	Old Dominion Blvd	2800	G	98%	0%	1%	0%	0%	0%	F	0.1292	F	0.6162	3000	G	2008
+602098	 100	06601	     	100-6601	Scroggins Rd	100	City of Alexandria	100	City of Alexandria	0.36	SR7 King St	Braddock Rd	1400	G	99%	0%	1%	0%	0%	0%	C	0.0931	F	0.5120	1500	G	2008
+602019	 100	06602	     	100-6602	W Glebe Rd	100	City of Alexandria	100	City of Alexandria	0.94	NCL Alexandria	Mount Vernon Ave	18000	G	98%	0%	1%	0%	0%	0%	F	0.0792	F	0.5199	19000	G	2008
+602063	 100	06602	     	100-6602	E Glebe Rd	100	City of Alexandria	100	City of Alexandria	0.62	Mount Vernon Ave	US 1 Jefferson Davis Hwy	11000	G	98%	0%	1%	0%	0%	0%	C	0.0745	F	0.5532	12000	G	2008
+602069	 100	06604	     	100-6604	Reed Ave	100	City of Alexandria	100	City of Alexandria	0.54	Mt Vernon Ave	US 1 Jefferson Davis Hwy	3900	G	97%	0%	2%	0%	0%	0%	C	0.0763	F	0.5387	4200	G	2008
+602052	 100	06622	     	100-6622	Beauregard St	100	City of Alexandria	100	City of Alexandria	2.34	WCL Alexandria	Braddock Rd	21000	G	99%	1%	1%	0%	0%	0%	C	0.0870	F	0.5963	22000	G	2008
+602027	 100	06622	     	100-6622	Beauregard St	100	City of Alexandria	100	City of Alexandria	0.28	Braddock Rd	SR 7 King St	18000	G	98%	1%	0%	0%	0%	0%	C	0.0876	F	0.5461	19000	G	2008
+602099	 100	06622	     	100-6622	Walter Reed Dr	100	City of Alexandria	100	City of Alexandria	0.07	SR 7 King St	NCL Alexandria	15000	G	99%	0%	0%	0%	0%	0%	C	0.0944	F	0.6180	17000	G	2008
+602073	 100	06698	     	100-6698	Taney Dr	100	City of Alexandria	100	City of Alexandria	1.04	SR 401 Van Dorn St	Jordan St	3100	G	96%	3%	1%	0%	0%	0%	C	0.1528	F	0.7536	3300	G	2008
+602067	 100	06701	     	100-6701	Pegram St	100	City of Alexandria	100	City of Alexandria	0.78	Taney Ave	Pickett St	2300	G	99%	0%	1%	0%	0%	0%	C	0.1071	F	0.7686	2500	G	2008
+602101	 100	06701	     	100-6701	Pickett St	100	City of Alexandria	100	City of Alexandria	0.15	Pegram St	Seminary Rd	3000	G	98%	0%	1%	0%	0%	0%	C	0.1029	F	0.5177	3200	G	2008
+602102	 100	06702	     	100-6702	Sanger Ave	100	City of Alexandria	100	City of Alexandria	0.37	Beauregard St	SR 401 Van Dorn St	14000	G	99%	0%	0%	0%	0%	0%	C	0.0909	F	0.6020	15000	G	2008
+602015	 100	06703	     	100-6703	Jordan St	100	City of Alexandria	100	City of Alexandria	0.94	SR 236 Duke St	SR 420 Seminary Rd	7600	G	99%	0%	0%	0%	0%	0%	C	0.0957	F	0.6711	8200	G	2008
+602046	 100	06706	     	100-6706	Seminary Rd	100	City of Alexandria	100	City of Alexandria	0.60	Fairfax County Line; 29-716	Beauregard St	44000	G	98%	1%	1%	0%	0%	0%	C	0.0806	F	0.5737	47000	G	2008
+602103	 100	06706	     	100-6706	Seminary Rd	100	City of Alexandria	100	City of Alexandria	0.22	Beauregard St	I-395 Shirley Hwy; SR 420	54000	G	98%	1%	1%	0%	0%	0%	F	0.0812	F	0.6165	59000	G	2008
+602066	 100	06707	     	100-6707	Howard St	100	City of Alexandria	100	City of Alexandria	0.92	Jordan St	Braddock Rd	5600	G	98%	1%	0%	0%	0%	0%	C	0.1071	F	0.7604	6000	G	2008
+602109	 100	06711	     	100-6711	Hampton Dr N	100	City of Alexandria	100	City of Alexandria	0.43	Braddock Rd	SR 7 King St	5300	G	97%	0%	2%	0%	0%	0%	C	0.0981	F	0.7505	5700	G	2008
+558037	  00	00000	     	00-0	16th St	000	Arlington County	000	Arlington County	0.00	SR 120 North Glebe Rd	Monroe Street	1400	G							X	0.0961	F	0.0000	1400	G	2008
+558025	  00	00000	     	00-0	20th St	000	Arlington County	000	Arlington County	0.00	S Kent St	Joyce Street	730	G							X	0.1093	F	0.0000	730	G	2008
+558045	  00	00000	     	00-0	24th St	000	Arlington County	000	Arlington County	0.00	Grant Street	Fern Street	330	G							X	0.1375	F	0.0000	330	G	2008
+558024	  00	00000	     	00-0	27th St	000	Arlington County	000	Arlington County	0.00	Ohio Street	John Marshall Dr	530	G							X	0.1474	F	0.0000	530	G	2008
+558032	  00	00000	     	00-0	31st St	000	Arlington County	000	Arlington County	0.00	Eads Street	Fern Street	370	G							X	0.0917	F	0.0000	370	G	2008
+558029	  00	00000	     	00-0	9th St	000	Arlington County	000	Arlington County	0.00	Cleveland Street	Danville Street	590	G							X	0.1101	F	0.0000	590	G	2008
+558049	  00	00000	     	00-0	Arlington Ridge Rd	000	Arlington County	000	Arlington County	0.00	Wilson Blvd	Kent St	3000	G	98%	0%	1%	0%	0%	0%	C	0.1263	F	0.0000	3000	G	2008
+558028	  00	00000	     	00-0	Culpeper St	000	Arlington County	000	Arlington County	0.00	Chesterfield Rd	23 rd St	270	G							X	0.1392	F	0.0000	270	G	2008
+558034	  00	00000	     	00-0	Dittmar Rd	000	Arlington County	000	Arlington County	0.00	Albemarle Street	35th Street	1000	G							X	0.0910	F	0.5401	1000	G	2008
+558026	  00	00000	     	00-0	Fairfax Dr	000	Arlington County	000	Arlington County	0.00	Cleveland St	Barton St	820	G							X	0.1065	F	0.5449	820	G	2008
+558040	  00	00000	     	00-0	Fort Scott Dr	000	Arlington County	000	Arlington County	0.00	Ives St	26th Rd	770	G							X	0.0940	F	0.0000	770	G	2008
+558046	  00	00000	     	00-0	Garfield St	000	Arlington County	000	Arlington County	0.00	US 50 Arlington Blvd	2nd Street N	180	G							X	0.1041	F	0.0000	180	G	2008
+558030	  00	00000	     	00-0	Greenbriar St	000	Arlington County	000	Arlington County	0.00	7th Rd	8th Rd	1700	G							X	0.0847	F	0.0000	1700	G	2008
+558044	  00	00000	     	00-0	Harrison St	000	Arlington County	000	Arlington County	0.00	US 29 Lee Hwy	26th Street	10000	G							X	0.0884	F	0.0000	10000	G	2008
+558039	  00	00000	     	00-0	Henderson Rd	000	Arlington County	000	Arlington County	0.00	SR 120, N Glebe Rd	Thomas Street	9100	G							X	0.0891	F	0.6147	9100	G	2008
+500001	  00	00000	     	00-0	Ivy St	000	Arlington County	000	Arlington County	0.00	6th Rd	10th St	350	G							X	0.1055	F	0.7733	380	G	2008
+558023	  00	00000	     	00-0	Jefferson St	000	Arlington County	000	Arlington County	0.00	Wiilson Blvd	9th St	400	G							X	0.1059	F	0.0000	400	G	2008
+558022	  00	00000	     	00-0	Kensington St	000	Arlington County	000	Arlington County	0.00	22nd St	23th St	590	G							X	0.1098	F	0.0000	590	G	2008
+558027	  00	00000	     	00-0	Key Blvd	000	Arlington County	000	Arlington County	0.00	Hartford Street	Hancock Street	590	G							X	0.1475	F	0.6215	590	G	2008
+558042	  00	00000	     	00-0	Lebanon St	000	Arlington County	000	Arlington County	0.00	Wilson Blvd	9th Street	280	G							X	0.1199	F	0.0000	280	G	2008
+558048	  00	00000	     	00-0	Pollard St	000	Arlington County	000	Arlington County	0.00	16th Street	18th Street	390	G							X	0.1248	F	0.0000	390	G	2008
+558033	  00	00000	     	00-0	Quincy St	000	Arlington County	000	Arlington County	0.00	16th Street	18th Street	1100	G							X	0.1083	F	0.0000	1100	G	2008
+558050	  00	00000	     	00-0	Randolph St	000	Arlington County	000	Arlington County	0.00	SR 237 Washington Blvd	11th Street	1600	G							X	0.1115	F	0.0000	1600	G	2008
+558038	  00	00000	     	00-0	South Irving St	000	Arlington County	000	Arlington County	0.00	2nd St S	US 50 Arlington Blvd	1800	G							X	0.1180	F	0.0000	1800	G	2008
+090117	  00	00000	     	00-0	SR 120 Ramp	000	Arlington County	000	Arlington County	0.00	US 50	SR 120	3200	F	99%	0%	0%	0%	0%	0%	C	0.0820	F	1.0000	3200	F	2008
+090119	  00	00000	     	00-0	SR 120 Ramp	000	Arlington County	000	Arlington County	0.00	US 50	SR 120	4800	F	98%	1%	1%	0%	0%	0%	C	0.0903	F	1.0000	4800	F	2008
+558035	  00	00000	     	00-0	Stafford St	000	Arlington County	000	Arlington County	0.00	15th Street	17th Street	1300	G							X	0.1140	F	0.0000	1300	G	2008
+558031	  00	00000	     	00-0	Taylor St	000	Arlington County	000	Arlington County	0.00	SR 309 Lee Hwy	19th St	600	G							X	0.0998	F	0.0000	600	G	2008
+558047	  00	00000	     	00-0	Thomas St	000	Arlington County	000	Arlington County	0.00	Four Mile Run Drive	Melkin Street	770	G							X	0.0900	F	0.0000	770	G	2008
+558041	  00	00000	     	00-0	Troy St	000	Arlington County	000	Arlington County	0.00	SR 120, S Glebe Rd	27th Street	150	G							X	0.1078	F	0.0000	150	G	2008
+090230	  00	00000	     	00-0	US 50 Ramp	000	Arlington County	000	Arlington County	0.00	SR 120	US 50 East	1100	F	99%	0%	1%	0%	0%	0%	C	0.1074	F	1.0000	1100	F	2008
+090231	  00	00000	     	00-0	US 50 Ramp	000	Arlington County	000	Arlington County	0.00	SR 120	US 50 West	5200	F	98%	0%	1%	0%	0%	0%	C	0.0818	F	0.0000	5200	F	2008
+090232	  00	00000	     	00-0	US 50 Ramp	000	Arlington County	000	Arlington County	0.00	SR 120	US 50 East	2000	F	99%	1%	1%	0%	0%	0%	C	0.0869	F	1.0000	2000	F	2008
+502008	 100	00000	     	100-0	Braddock Rd	100	City of Alexandria	100	City of Alexandria	0.00	Kenwood Ave	Crest St	16000	G							X	0.0971	F	0.0000	17000	G	2008
+502508	 100	00000	     	100-0	Canterbury Lane	100	City of Alexandria	100	City of Alexandria	0.00	Chancel Pl	Trinity Dr	210	G							X	0.1064	F	0.0000	220	G	2008
+502518	 100	00000	     	100-0	Clifford Ave	100	City of Alexandria	100	City of Alexandria	0.00	Turner Rd	Montross Ave	540	G							X	0.0967	F	0.0000	580	G	2008
+502005	 100	00000	     	100-0	Curtis Ave	100	City of Alexandria	100	City of Alexandria	0.00	Russell Rd	Rosecrest Ave	350	G							X	0.1216	F	0.0000	370	G	2008
+502515	 100	00000	     	100-0	Glendale Ave	100	City of Alexandria	100	City of Alexandria	0.00	Newton St	Wayne St	270	G							X	0.1133	F	0.0000	290	G	2008
+502516	 100	00000	     	100-0	Green St	100	City of Alexandria	100	City of Alexandria	0.00	Washington St	Asaph St	3500	G							X	0.1310	F	0.0000	3700	G	2008
+502004	 100	00000	     	100-0	Hickory St	100	City of Alexandria	100	City of Alexandria	0.00	Kennedy St	Dead End	310	G							X	0.1231	F	0.0000	330	G	2008
+502001	 100	00000	     	100-0	Kentucky Ave	100	City of Alexandria	100	City of Alexandria	0.00	Old Dominion Blvd	Russell Rd	420	G							X	0.1093	F	0.6353	450	G	2008
+502512	 100	00000	     	100-0	Key Dr	100	City of Alexandria	100	City of Alexandria	0.00	Francis Hammond Pkwy	Roan Lane	160	G							X	0.1429	F	0.0000	180	G	2008
+502003	 100	00000	     	100-0	Mansion Dr	100	City of Alexandria	100	City of Alexandria	0.00	Virginia Ave	Russell Rd	330	G							X	0.0990	F	0.0000	350	G	2008
+502007	 100	00000	     	100-0	Mount Vernon Ave	100	City of Alexandria	100	City of Alexandria	0.00	Monroe Ave	Nelson Ave	7900	G							X	0.0982	F	0.0000	8500	G	2008
+502513	 100	00000	     	100-0	N Owen St	100	City of Alexandria	100	City of Alexandria	0.00	Taney Ave	Polk Ave	140	G							X	0.1477	F	0.0000	150	G	2008
+502011	 100	00000	     	100-0	Old Dominion Blvd	100	City of Alexandria	100	City of Alexandria	0.00	Kentucky Ave	Halcyan Dr	1200	G							X	0.0982	F	0.0000	1300	G	2008
+502511	 100	00000	     	100-0	Rayburn Ave	100	City of Alexandria	100	City of Alexandria	0.00	Reading Ave	N Beauregard St	1400	G							X	0.0893	F	0.0000	1500	G	2008
+502002	 100	00000	     	100-0	Ridge Rd	100	City of Alexandria	100	City of Alexandria	0.00	Summit Ave	Fordham Rd	280	G							X	0.0925	F	0.0000	300	G	2008
+502519	 100	00000	     	100-0	Rose Crest Ave	100	City of Alexandria	100	City of Alexandria	0.00	Russel Rd	Custis Ave	370	G							X	0.1208	F	0.0000	400	G	2008
+502509	 100	00000	     	100-0	S French St	100	City of Alexandria	100	City of Alexandria	0.00	Usher Ave	SR 236 Duke St	700	G							X	0.1173	F	0.0000	750	G	2008
+502006	 100	00000	     	100-0	S Pickett St	100	City of Alexandria	100	City of Alexandria	0.00	SR 401 Van Dorn St	Dead End	6500	G							X	0.0802	F	0.0000	6900	G	2008
+502517	 100	00000	     	100-0	Stewart Ave	100	City of Alexandria	100	City of Alexandria	0.00	Mt Vernon Ave	Dewitt Ave	530	G							X	0.1022	F	0.0000	570	G	2008
+502514	 100	00000	     	100-0	Ulane Ave	100	City of Alexandria	100	City of Alexandria	0.00	N Gladden St	N Grayson St	480	G							X	0.1321	F	0.0000	510	G	2008
+502009	 100	00000	     	100-0	West St	100	City of Alexandria	100	City of Alexandria	0.00	Pendleton St	Oronoco St	6100	G							X	0.1069	F	0.6472	6500	G	2008
+502510	 100	00000	     	100-0	Yoakum Pkwy	100	City of Alexandria	100	City of Alexandria	0.00	Edsall Rd	Stevenson Rd	6900	G							X	0.0920	F	0.0000	7500	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

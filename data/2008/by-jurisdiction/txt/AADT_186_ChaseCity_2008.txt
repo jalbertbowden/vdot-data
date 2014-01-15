@@ -1,0 +1,43 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Chase City																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+614006	  SR	00047	     	VA 47	E Second St	186	Town of Chase City	058	Mecklenburg County	0.48	ECL Chase City	Drew St	4400	G	91%	1%	1%	1%	6%	0%	C	0.0898	F	0.5262	4700	G	2008
+614017	  SR	00047	     	VA 47	E Second St	186	Town of Chase City	058	Mecklenburg County	0.21	Drew St	186-5 Marshall St	6800	G	94%	1%	1%	1%	4%	0%	C	0.0920	F	0.5338	7300	G	2008
+781325	  SR	00047	     	VA 47	E Second St	186	Town of Chase City	058	Mecklenburg County	0.05	186-5 Marshall St	SR 49, SR 92	6800	N	94%	1%	1%	1%	4%	0%	N	0.0920	N	0.5338	7300	N	2008
+614018	  SR	00047	     	VA 49, VA 47	N Main St	186	Town of Chase City	058	Mecklenburg County	0.24	SR 49, SR 92	E FIFTH ST	7300	G	94%	1%	1%	1%	3%	0%	C	0.0909	F	0.5041	7900	G	2008	
+614005	  SR	00047	     	VA 49, VA 47	N Main St	186	Town of Chase City	058	Mecklenburg County	1.02	E FIFTH ST	SR 49, WCL Chase City	7700	G	94%	1%	1%	1%	3%	0%	C	0.0928	F	0.5013	8400	G	2008	
+614001	  SR	00049	     	VA 49	W Second St	186	Town of Chase City	058	Mecklenburg County	0.23	WCL Chase City	SR 92	1700	G	93%	0%	2%	0%	4%	0%	C	0.0983	F	0.5372	1900	G	2008
+614003	  SR	00049	     	VA 49, VA 92	W Second St	186	Town of Chase City	058	Mecklenburg County	0.56	SR 92	Endly St	5500	G	94%	1%	1%	1%	4%	0%	C	0.0920	F	0.5393	6000	G	2008
+614016	  SR	00049	     	VA 49, VA 92	E Second St	186	Town of Chase City	058	Mecklenburg County	0.19	Endly St	N Main St	6000	G	95%	0%	1%	1%	3%	0%	C	0.0890	F	0.5192	6400	G	2008
+614018	  SR	00049	     	VA 49, VA 47	N Main St	186	Town of Chase City	058	Mecklenburg County	0.24	E Second St	E Fifth St	7300	G	94%	1%	1%	1%	3%	0%	C	0.0909	F	0.5041	7900	G	2008
+614005	  SR	00049	     	VA 49, VA 47	N Main St	186	Town of Chase City	058	Mecklenburg County	1.02	E Fifth St	SR 47	7700	G	94%	1%	1%	1%	3%	0%	C	0.0928	F	0.5013	8400	G	2008
+614008	  SR	00092	     	VA 92	S Main St	186	Town of Chase City	058	Mecklenburg County	0.44	SCL Chase City	"""B"" ST"	3100	G	94%	1%	1%	1%	2%	0%	C	0.1010	F	0.5072	3400	G	2008
+614013	  SR	00092	     	VA 92	S Main St	186	Town of Chase City	058	Mecklenburg County	0.23	"""B"" ST"	Sycamore St	1700	G	94%	1%	1%	1%	2%	0%	C	0.1119	F	1.0000	1800	G	2008
+614015	  SR	00092	     	VA 92	N Main St	186	Town of Chase City	058	Mecklenburg County	0.21	Sycamore St	E Second St	4300	G	96%	1%	1%	1%	2%	0%	C	0.0973	F	0.5708	4700	G	2008
+614016	  SR	00092	     	VA 49, VA 92	E Second St	186	Town of Chase City	058	Mecklenburg County	0.19	S RT 49	Endly St	6000	G	95%	0%	1%	1%	3%	0%	C	0.0890	F	0.5192	6400	G	2008	
+614003	  SR	00092	     	VA 49, VA 92	W Second St	186	Town of Chase City	058	Mecklenburg County	0.56	Endly St	N SR 49	5500	G	94%	1%	1%	1%	4%	0%	C	0.0920	F	0.5393	6000	G	2008	
+040213	  SR	00092	     	VA 92	 	186	Town of Chase City	058	Mecklenburg County	0.22	N SR 49	WCL Chase City	3400	G	94%	0%	1%	1%	4%	0%	C	0.0965	F	0.5239	3700	G	2008
+614024	 186	00001	     	186-1	N.Boyd St	186	Town of Chase City	186	Town of Chase City	0.23	E Second St	E Fifth St	960	G	98%	1%	1%	0%	1%	0%	C	0.1055	F	0.5321	1000	G	2008
+614010	 186	00002	     	186-2	Endly St	186	Town of Chase City	186	Town of Chase City	0.13	Sycamore St	W Second St	850	G	95%	1%	1%	0%	2%	0%	C	0.0902	F	0.5301	920	G	2008
+614026	 186	00002	     	186-2	Endly St	186	Town of Chase City	186	Town of Chase City	0.23	Second St	5th St	780	G	96%	2%	1%	1%	1%	0%	C	0.0859	F	0.5467	840	G	2008
+614023	 186	00003	     	186-3	Fourth St	186	Town of Chase City	186	Town of Chase City	0.06	N Boyd St	4Th St Main St	220	G	95%	2%	2%	0%	1%	0%	F	0.1483	F	0.5455	240	G	2008
+614020	 186	00003	     	186-3	Fourth St	186	Town of Chase City	186	Town of Chase City	0.07	Main St	Marshall St	160	G	95%	2%	2%	0%	1%	0%	C	0.1450	F	0.6897	180	G	2008
+614004	 186	00004	     	186-4	W Fifth St	186	Town of Chase City	186	Town of Chase City	0.61	WCL Chase City	Old Southern R.R. Track	1000	G	98%	1%	1%	0%	0%	0%	C	0.0933	F	0.5794	1100	G	2008
+614022	 186	00004	     	186-4	E Fifth St	186	Town of Chase City	186	Town of Chase City	0.19	Old Southern R.R Track	N Main St	1700	G	98%	0%	1%	0%	1%	0%	C	0.0992	F	0.5337	1900	G	2008
+614021	 186	00004	     	186-4	E Fifth St	186	Town of Chase City	186	Town of Chase City	0.07	N Main St	Marshall St	1100	G	98%	0%	1%	0%	1%	0%	F	0.1212	F	0.5161	1200	G	2008
+614014	 186	00005	     	186-5	Marshall St	186	Town of Chase City	186	Town of Chase City	0.21	Sycamore St	Second St	1500	G	98%	1%	0%	0%	1%	0%	C	0.1021	F	0.5389	1700	G	2008
+614019	 186	00005	     	186-5	Marshall St	186	Town of Chase City	186	Town of Chase City	0.23	Second St	5Th St	1300	G	98%	1%	1%	0%	0%	0%	C	0.0960	F	0.5145	1400	G	2008
+614025	 186	00006	     	186-6	E.Third St	186	Town of Chase City	186	Town of Chase City	0.20	Endly St	N.Main St	230	G	97%	2%	0%	0%	1%	0%	C	0.1155	F	0.5862	250	G	2008
+614009	 186	00519	     	186-519	W Sycamore St	186	Town of Chase City	186	Town of Chase City	0.61	WCL Chase City	Madison St	430	G	96%	2%	2%	0%	0%	0%	C	0.1286	F	0.5690	470	G	2008
+614011	 186	00519	     	186-519	Sycamore St	186	Town of Chase City	186	Town of Chase City	0.36	Madison St	Main St	1600	G	97%	1%	1%	0%	1%	0%	C	0.1027	F	0.5198	1700	G	2008
+614012	 186	00519	     	186-519	Sycamore St	186	Town of Chase City	186	Town of Chase City	0.08	Main St	Marshall St	1200	G	98%	1%	1%	0%	1%	0%	C	0.1036	F	0.5313	1300	G	2008
+614007	 186	00519	     	186-519	Sycamore St	186	Town of Chase City	186	Town of Chase City	0.44	Marshall St	ECL Chase City	510	G	96%	2%	2%	0%	0%	0%	F	0.1039	F	0.6140	550	G	2008
+514002	 186	00000	     	186-0	A St	186	Town of Chase City	186	Town of Chase City	0.00	Marshall St	Fairground Dr	80	G							X	0.1215	F	0.0000	90	G	2008
+514004	 186	00000	     	186-0	Endly St	186	Town of Chase City	186	Town of Chase City	0.00	5th St	Anderson St	360	G	98%	1%	0%	0%	0%	0%	C	0.1041	F	0.0000	360	G	2008
+514003	 186	00000	     	186-0	Roak St	186	Town of Chase City	186	Town of Chase City	0.00	Ogburn St	Roberts St	60	G							X	0.1594	F	0.6364	70	G	2008
+514001	 186	00000	     	186-0	Virginia Ave	186	Town of Chase City	186	Town of Chase City	0.00	Sunset Lane	Mason St	230	G							X	0.1087	F	0.0000	250	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

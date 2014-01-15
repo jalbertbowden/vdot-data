@@ -1,0 +1,47 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Rocky Mount																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+667001	  SR	00040	     	VA 40	Franklin St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.80	WCL Rocky Mount	Floyd Ave	8900	F	97%	0%	1%	1%	1%	0%	C	0.0909	F	0.0000	9300	F	2008
+667002	  SR	00040	     	VA 40	Franklin St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.36	Floyd Ave	Diamond Ave	8600	F	97%	0%	1%	1%	1%	0%	F	0.0862	F	0.0000	9000	F	2008
+667003	  SR	00040	     	VA 40	Franklin St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.18	Diamond Ave	North Main Street	11000	F	96%	1%	2%	0%	1%	0%	F	0.0965	F	0.0000	11000	F	2008
+667011	  SR	00040	     	Bus US 220, VA 40	 	157	Town of Rocky Mount	157	Town of Rocky Mount	0.03	North Main St	South Main St	14000	G	98%	0%	0%	0%	1%	0%	F				14000	G	2008	
+667012	  SR	00040	     	VA 40	Pell Ave	157	Town of Rocky Mount	157	Town of Rocky Mount	0.75	South Main Street	Tanyard Rd	7600	F	96%	1%	2%	0%	1%	0%	C	0.0931	F	0.0000	8000	F	2008
+667013	  SR	00040	     	VA 40	Pell Ave	157	Town of Rocky Mount	157	Town of Rocky Mount	0.30	Tanyard Rd	Old ECL Rocky Mount	18000	F	96%	1%	2%	0%	1%	0%	F				19000	F	2008
+020155	  SR	00040	     	VA 40	Franklin St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.17	Old ECL Rocky Mount	US 220	20000	G	96%	1%	2%	0%	1%	0%	F				20000	G	2008
+020123	  SR	00040	     	VA 40	Franklin St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.85	US 220	SR 122 Baldknob	19000	F	92%	1%	1%	2%	4%	0%	F				20000	F	2008
+020448	  SR	00040	     	VA 40	Franklin St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.17	SR 122 Baldknob	ECL Rocky Mount	9100	N	92%	1%	1%	2%	4%	0%	N	0.0832	N	0.0000	9500	N	2008
+020449	  SR	00122	     	VA 122	 	157	Town of Rocky Mount	157	Town of Rocky Mount	0.31	SR 40 Baldknob	NCL Rocky Mount	5200	N	95%	1%	1%	1%	2%	0%	N	0.0847	N	0.5365	5400	N	2008
+020450	  US	00220	     	US 220	 	157	Town of Rocky Mount	033	Franklin County	0.56	SCL Rocky Mount	SR 40	17000	A	86%	1%	1%	1%	10%	1%	C	0.0975	A	0.0000	17000	A	2008
+020286	  US	00220	     	US 220	 	157	Town of Rocky Mount	033	Franklin County	1.35	SR 40	BUS US 220 N of Rocky Mount	20000	F	86%	1%	1%	1%	10%	1%	F	0.0775	F	0.0000	21000	F	2008
+020160	  US	00220	     	US 220	 	157	Town of Rocky Mount	033	Franklin County	0.30	BUS US 220 N of Rocky Mount	NCL Rocky Mount	24000	F	86%	1%	1%	1%	10%	1%	F	0.0758	F	0.0000	24000	F	2008
+667004	C3US	00220	     	Bus US 220	 	157	Town of Rocky Mount	157	Town of Rocky Mount	0.10	SCL Rocky Mount	Scuffling Hill Rd	6800	G	97%	0%	1%	1%	1%	0%	C	0.0875	F	0.5574	7000	G	2008
+667005	C3US	00220	     	Bus US 220	South Main St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.81	Scuffling Hill Rd	Floyd Ave	6300	F	98%	0%	0%	0%	1%	0%	C	0.0871	F	0.5450	6600	F	2008
+667006	C3US	00220	     	Bus US 220	South Main St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.24	Floyd Ave	Tanyard Road	7900	F	98%	0%	0%	0%	1%	0%	F	0.0853	F	0.0000	8300	F	2008
+667007	C3US	00220	     	Bus US 220	South Main St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.08	Tanyard Road	Claiborne Ave	5200	F	98%	0%	0%	0%	1%	0%	F				5500	F	2008
+667008	C3US	00220	     	Bus US 220	North Main St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.15	Claiborne Ave	Pell Ave	4300	F	98%	0%	0%	0%	1%	0%	F	0.0839	F	0.0000	4500	F	2008
+667011	C3US	00220	     	Bus US 220, VA 40	 	157	Town of Rocky Mount	157	Town of Rocky Mount	0.03	Pell Ave	Franklin St	14000	G	98%	0%	0%	0%	1%	0%	F				14000	G	2008
+667009	C3US	00220	     	Bus US 220	North Main St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.54	Franklin St	North Int Circle St	10000	F	97%	1%	1%	1%	1%	0%	C				11000	F	2008
+667010	C3US	00220	     	Bus US 220	North Main St	157	Town of Rocky Mount	157	Town of Rocky Mount	1.05	North Int Circle Dr	NCL Rocky Mount	9600	F	97%	1%	1%	1%	1%	0%	F				10000	F	2008
+739236	  33	09122	     	33-9122	Middle School Rd	157	Town of Rocky Mount	033	Franklin County	0.51	Bus US 220	Franklin Middle School	1900	R							X						05/16/2008
+739238	  33	09152	     	33-9152	Franklin Training School	157	Town of Rocky Mount	033	Franklin County	0.04	Dead End	Dead End	530	R							X						06/23/2008
+667022	 157	00001	     	157-1	State St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.80	South Main St	Weaver St	2400	F	96%	0%	1%	0%	2%	0%	C	0.1110	F	0.8067	2600	F	2008
+667023	 157	00001	     	157-1	State St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.54	Weaver St	North Main St	2800	F	96%	0%	1%	0%	2%	0%	F	0.0996	F	0.7536	2900	F	2008
+667015	 157	00002	     	157-2	Donald Ave	157	Town of Rocky Mount	157	Town of Rocky Mount	0.45	Court St	Tanyard Rd	2100	F	99%	0%	0%	0%	0%	0%	C	0.0887	F	0.5939	2200	F	2008
+667016	 157	00003	     	157-3	Court St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.26	Orchard Ave	Donald Ave	2000	F	99%	0%	0%	0%	0%	0%	C	0.0938	F	0.6275	2100	F	2008
+667025	 157	00004	     	157-4	Orchard Ave	157	Town of Rocky Mount	157	Town of Rocky Mount	0.21	Main St	Cliff St	1000	F	95%	0%	1%	3%	0%	0%	C	0.1060	F	0.5000	1100	F	2008
+667024	 157	00004	     	157-4	Orchard Ave	157	Town of Rocky Mount	157	Town of Rocky Mount	0.59	Cliff St	Court St	1300	F	99%	0%	1%	0%	0%	0%	C	0.0983	F	0.5401	1400	F	2008
+667018	 157	00005	     	157-5	Diamond Ave	157	Town of Rocky Mount	157	Town of Rocky Mount	0.32	WCL Rocky Mount; 33-820	W End St	1300	F	99%	0%	0%	0%	0%	0%	F	0.1044	F	0.5414	1400	F	2008
+667017	 157	00005	     	157-5	Diamond Ave	157	Town of Rocky Mount	157	Town of Rocky Mount	0.31	W End St	Franklin St	1800	F	99%	0%	0%	0%	0%	0%	C	0.1060	F	0.7075	1900	F	2008
+667021	 157	00390	     	157-390	Scuffling Hill Rd	157	Town of Rocky Mount	157	Town of Rocky Mount	0.87	WCL Rocky Mount	W. Knollwood Ave	2400	F	95%	1%	1%	1%	1%	0%	C	0.1077	F	0.5813	2500	F	2008
+667020	 157	00390	     	157-390	Scuffling Hill Rd	157	Town of Rocky Mount	157	Town of Rocky Mount	0.52	W. Knollwood Ave	Main St	3000	F	97%	0%	1%	1%	1%	0%	C	0.1053	F	0.5714	3100	F	2008
+667026	 157	00392	     	157-392	Grassy Hill Rd	157	Town of Rocky Mount	157	Town of Rocky Mount	0.35	WCL Rocky Mount	North Main St	3300	F	95%	0%	1%	1%	3%	0%	C	0.0986	F	0.0000	3500	F	2008
+667014	 157	02314	     	157-2314	Tanyard Rd	157	Town of Rocky Mount	157	Town of Rocky Mount	0.69	Main St	Pell Ave	7500	F	99%	0%	0%	0%	0%	0%	C	0.0897	F	0.0000	7800	F	2008
+667019	 157	02315	     	157-2315	Floyd Ave	157	Town of Rocky Mount	157	Town of Rocky Mount	0.22	Franklin St	Main St	3100	F	98%	0%	1%	1%	1%	0%	C	0.0929	F	0.6497	3300	F	2008
+792221	 157	00000	     	157-0	College St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.00	Cedar St	Spring St	1200	F							X	0.1044	F	0.7099	1200	F	2008
+792251	 157	00000	     	157-0	Cromwell St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.00	Oxford Circle	Glennwood Dr	160	F							X	0.1232	F	0.5714	160	F	2008
+792252	 157	00000	     	157-0	Pendleton St	157	Town of Rocky Mount	157	Town of Rocky Mount	0.00	Woodlawn Dr	Bland St	390	F							X	0.1311	F	0.5478	390	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

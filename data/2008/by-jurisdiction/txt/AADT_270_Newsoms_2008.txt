@@ -1,0 +1,25 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Newsoms																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+400800	  87	00671	     	87-671	General Thomas Hwy	270	Town of Newsoms	087	Southampton County	0.17	WCL Newsoms	87-673	3100	G	82%	1%	1%	1%	15%	0%	F	0.0895	F	0.5619	3200	G	2008
+400801	  87	00671	     	87-671	General Thomas Hwy	270	Town of Newsoms	087	Southampton County	0.60	87-673	ECL Newsoms	3000	G	85%	0%	1%	2%	13%	0%	F	0.0894	F	0.5008	3100	G	2008
+771720	  87	00672	     	87-672	Cypress Bridge Rd	270	Town of Newsoms	087	Southampton County	0.01	SCL Newsoms	87-673 W, S Main St	690	R							X						03/14/2006
+400813	  87	00673	     	87-673	 	270	Town of Newsoms	087	Southampton County	0.02	SCL Newsoms	87-672 W, Cypress Bridge Rd	780	G	95%	2%	2%	0%	1%	0%	F	0.1077	N	0.5455	790	G	2008
+400814	  87	00673	     	87-673	S Main St	270	Town of Newsoms	087	Southampton County	0.41	87-672 W, Cypress Bridge Rd	87-1401 Railroad St	690	G	95%	2%	2%	0%	1%	0%	C	0.1077	F	0.5455	700	G	2008
+400815	  87	00673	     	87-673	 	270	Town of Newsoms	087	Southampton County	0.38	87-1401 Railroad St	87-671 General Thomas Hwy	970	G	95%	2%	2%	0%	1%	0%	F	0.1006	F	0.5459	990	G	2008
+400816	  87	00673	     	87-673	S Main St	270	Town of Newsoms	087	Southampton County	0.09	87-671 General Thomas Hwy	NCL Newsoms	980	G	95%	2%	2%	0%	1%	0%	F	0.1909	F	0.6220	1000	G	2008
+771777	  87	00709	     	87-709	Thomaston Rd	270	Town of Newsoms	087	Southampton County	0.64	87-671 General Thomas Hwy	NCL Newsoms	150	R							X						03/21/2006
+771926	  87	01401	     	87-1401	Railroad St	270	Town of Newsoms	087	Southampton County	0.40	WCL Newsoms	87-673	100	R							X						03/28/2006
+771927	  87	01401	     	87-1401	Railroad St	270	Town of Newsoms	087	Southampton County	0.35	87-673	Dead End	90	R							X						03/28/2006
+771928	  87	01402	     	87-1402	East Depot St	270	Town of Newsoms	087	Southampton County	0.38	87-673	ECL Newsoms	130	R							X						03/28/2006
+771930	  87	01403	     	87-1403	West Brook St	270	Town of Newsoms	087	Southampton County	0.06	87-1405 Everett St	87-671 General Thomas Hwy	150	R							X						03/28/2006
+771931	  87	01403	     	87-1403	West Brook St	270	Town of Newsoms	087	Southampton County	0.13	87-671 General Thomas Hwy	87-709 Thomaston Rd	90	R							X						03/28/2006
+771933	  87	01404	     	87-1404	Ball Park Rd	270	Town of Newsoms	087	Southampton County	0.30	WCL Newsoms	87-673	160	R							X						03/28/2006
+771934	  87	01405	     	87-1405	Everett St	270	Town of Newsoms	087	Southampton County	0.13	Dead End	87-1403 West Brook St	200	R							X						03/28/2006
+771935	  87	01405	     	87-1405	Everett St	270	Town of Newsoms	087	Southampton County	0.08	87-1403 West Brook St	Dead End; Gap	50	R							X						03/28/2006
+771936	  87	01405	     	87-1405	Everett St	270	Town of Newsoms	087	Southampton County	0.10	Dead End; Gap	87-709 Thomaston Rd	110	R							X						03/28/2006
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,26 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Big Stone Gap																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+606212	C4US	00023	     	Bus US 23, Alt US 58	Gilley Ave	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.93	SCL Big Stone Gap	E 5th St	12000	G	97%	0%	1%	0%	2%	0%	C	0.0920	F	0.5073	12000	G	2008
+606218	C4US	00023	     	Bus US 23, Alt US 58	E 5th St	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.24	Gilley Ave	ALT US 58 Wood Ave	11000	G	97%	0%	1%	0%	2%	0%	F	0.0865	F	0.5086	11000	G	2008
+606215	C4US	00023	     	Bus US 23	E 5th St	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.28	ALT US 58 Wood Ave	Aviation Rd	9400	G	97%	0%	1%	0%	2%	0%	F	0.0855	F	0.5600	9700	G	2008
+606210	C4US	00023	     	Bus US 23	E 5th St	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.47	Aviation Rd	NCL Big Stone Gap	7200	G	93%	0%	1%	2%	3%	0%	C	0.0907	F	0.6015	7400	G	2008
+606211	A1US	00058	     	Alt US 58	Cumberland Ave; Wood Ave	101	Town of Big Stone Gap	101	Town of Big Stone Gap	1.15	WCL Big Stone Gap	W 1st Street	6200	G	95%	1%	1%	1%	2%	0%	C	0.0885	F	0.5761	6400	G	2008
+606222	A1US	00058	     	Alt US 58	Wood Ave	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.13	W 1st Street	E 1st Street	6100	G	95%	1%	1%	1%	2%	0%	F	0.0849	F	0.5391	6300	G	2008
+606216	A1US	00058	     	Alt US 58	Wood Ave	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.42	E 1st Street	Bus US 23, 5th St	5400	G	95%	1%	1%	1%	2%	0%	F	0.0785	F	0.5120	5500	G	2008
+606218	A1US	00058	     	Bus US 23, Alt US 58	E 5th St	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.24	US 23	Gilley Ave	11000	G	97%	0%	1%	0%	2%	0%	F	0.0865	F	0.5086	11000	G	2008	
+606212	A1US	00058	     	Bus US 23, Alt US 58	Gilley Ave	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.93	E 5th St	SCL Big Stone Gap	12000	G	97%	0%	1%	0%	2%	0%	C	0.0920	F	0.5073	12000	G	2008	
+606213	 101	00001	     	101-1	Spring St	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.63	Wood Ave	ECL Big Stone Gap	2000	G	98%	0%	1%	1%	0%	0%	C	0.0934	F	0.5602	2100	G	2008
+606220	 101	00002	     	101-2	Short St	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.06	ALT 58	2nd Ave	1800	G	96%	0%	1%	2%	1%	0%	F	0.0889	F	0.6079	1800	G	2008
+606221	 101	00003	     	101-3	W Second Ave	101	Town of Big Stone Gap	101	Town of Big Stone Gap	1.24	Short St	5th St	2200	G	97%	0%	1%	1%	1%	0%	C	0.0893	F	0.6158	2300	G	2008
+606217	 101	00239	     	101-239	Wood Ave	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.17	5th St	Spring St	7100	G	96%	0%	1%	2%	1%	0%	F	0.0910	F	0.5340	7300	G	2008
+606214	 101	00239	     	101-239	First Ave E	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.79	Spring St	Shawnee Ave	8300	G	96%	0%	1%	2%	1%	0%	C	0.0850	F	0.5089	8600	G	2008
+606500	 101	00239	     	101-239	19th St	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.54	Shawnee Ave	4th Ave	8600	G	96%	0%	1%	2%	1%	0%	F	0.0841	F	0.5165	8900	G	2008
+606219	 101	00239	     	101-239	4th Avenue	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.58	19th St	ECL Big Stone Gap	8200	G	96%	0%	1%	2%	1%	0%	C	0.0864	F	0.5164	8500	G	2008
+506007	 101	00000	     	101-0	Cherokee	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.00	2nd	3rd Str	110	G							X	0.1152	F	0.0000	120	G	2008
+506006	 101	00000	     	101-0	Clinton Ave	101	Town of Big Stone Gap	101	Town of Big Stone Gap	0.00	3rd	4th Str	1200	G							X	0.1038	F	0.0000	1300	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

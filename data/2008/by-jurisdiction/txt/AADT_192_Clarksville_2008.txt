@@ -1,0 +1,79 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Clarksville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+040563	  US	00015	     	US 15	College St	192	Town of Clarksville	058	Mecklenburg County	0.73	SCL Clarksville	US 58 Virginia Ave	3300	N	91%	1%	1%	1%	6%	0%	N	0.0851	N	0.5116	3500	N	2008
+040651	  US	00015	     	US 15, Bus US 58, VA 49	Virginia Ave	192	Town of Clarksville	058	Mecklenburg County	0.88	US 58; College St	NCL Clarksville	6200	F	99%	0%	0%	0%	0%	0%	C	0.0941	F	0.0000	6600	F	2008
+040546	  SR	00049	     	Bus US 58, VA 49	Virginia Ave	192	Town of Clarksville	058	Mecklenburg County	0.97	WCL Clarksville	US 15, US 58	4100	F	98%	0%	1%	0%	0%	0%	C	0.0913	F	0.0000	4100	F	2008	
+040651	  SR	00049	     	US 15, Bus US 58, VA 49	Virginia Ave	192	Town of Clarksville	058	Mecklenburg County	0.88	US 15 W, College St	NCL Clarksville	6200	F	99%	0%	0%	0%	0%	0%	C	0.0941	F	0.0000	6600	F	2008	
+040546	CEUS	00058	     	Bus US 58, VA 49	Virginia Ave	192	Town of Clarksville	058	Mecklenburg County	0.97	WCL Clarksville	US 15 W, College St	4100	F	98%	0%	1%	0%	0%	0%	C	0.0913	F	0.0000	4100	F	2008
+040651	CEUS	00058	     	US 15, Bus US 58, VA 49	Virginia Ave	192	Town of Clarksville	058	Mecklenburg County	0.88	US 15 W, College St	NCL Clarksville	6200	F	99%	0%	0%	0%	0%	0%	C	0.0941	F	0.0000	6600	F	2008	
+404977	  58	00722	     	58-722	 	192	Town of Clarksville	058	Mecklenburg County	0.13	WCL Clarksville	ECL Clarksville	560	N	98%	1%	1%	0%	0%	0%	N	0.1499	N	0.5691	610	N	2008
+404269	  58	00723	     	58-723	Shiney Rock Rd	192	Town of Clarksville	058	Mecklenburg County	0.53	SCL Clarksville	US 15 College St	460	G	94%	3%	1%	1%	1%	0%	F	0.1135	F	0.6071	500	G	2008
+404272	  58	00750	     	58-750	Buffalo Rd	192	Town of Clarksville	058	Mecklenburg County	0.76	WCL Clarksville	58-1125 Woodland Dr	720	G	99%	1%	0%	0%	0%	0%	F	0.1110	F	0.5116	780	G	2008
+404273	  58	00750	     	58-750	Buffalo Rd	192	Town of Clarksville	058	Mecklenburg County	0.64	58-1125 Woodland Dr	US 58 EAST	690	G	99%	1%	0%	0%	0%	0%	C	0.0996	F	0.5342	750	G	2008
+753290	  58	00750	     	58-750	8th St	192	Town of Clarksville	058	Mecklenburg County	0.09	US 58 EAST	58-1103	260	R							X						09/06/2007
+753291	  58	00750	     	58-750	8th St	192	Town of Clarksville	058	Mecklenburg County	0.09	58-1103	Caroline St	70	R							X						09/06/2007
+794633	  58	01040	     	58-1040	 	192	Town of Clarksville	058	Mecklenburg County	0.04	58-750 JB-58-192	CL Clarkesville	0	?							X
+404286	  58	01101	     	58-1101	Russell St	192	Town of Clarksville	058	Mecklenburg County	0.23	US 58	58-750 Buffalo Rd	240	G	98%	1%	1%	0%	0%	0%	C	0.1124	F	0.7143	260	G	2008
+753455	  58	01102	     	58-1102	5th St	192	Town of Clarksville	058	Mecklenburg County	0.35	58-1109 East St	US 58	70	R							X						09/06/2007
+753456	  58	01102	     	58-1102	5th St	192	Town of Clarksville	058	Mecklenburg County	0.17	US 58	58-1108 Rose Hill Ave	550	R							X						09/06/2007
+753457	  58	01103	     	58-1103	 	192	Town of Clarksville	058	Mecklenburg County	0.20	58-1124 9th St	58-1107 7th Street	130	R							X						10/01/2007
+753458	  58	01104	     	58-1104	Market St	192	Town of Clarksville	058	Mecklenburg County	0.10	58-1102 5th St	58-1105 4th St	50	R							X						09/06/2007
+404287	  58	01104	     	58-1104	Market St	192	Town of Clarksville	058	Mecklenburg County	0.26	58-1105 4th Street	US 58; 2nd St	310	G	98%	0%	2%	0%	0%	0%	C	0.1358	F	0.6591	340	G	2008
+753459	  58	01105	     	58-1105	4th St	192	Town of Clarksville	058	Mecklenburg County	0.19	Dead End	58-1109 East St	110	R							X						09/06/2007
+404288	  58	01105	     	58-1105	4th St	192	Town of Clarksville	058	Mecklenburg County	0.28	58-1109 East St	58-1104 Market St	370	G	97%	1%	1%	0%	1%	0%	C	0.0960	F	0.5263	400	G	2008
+404289	  58	01105	     	58-1105	4th St	192	Town of Clarksville	058	Mecklenburg County	0.08	58-1104 Market St	US 58	840	G	97%	1%	1%	0%	1%	0%	F	0.1077	F	0.5615	910	G	2008
+753460	  58	01105	     	58-1105	4th St	192	Town of Clarksville	058	Mecklenburg County	0.25	US 58	58-1108 Rose Hill Ave	1500	R							X						09/06/2007
+753461	  58	01105	     	58-1105	4th St	192	Town of Clarksville	058	Mecklenburg County	0.09	58-1108 Rose Hill Ave	58-1110 Dan Circle	150	R							X						09/06/2007
+753462	  58	01106	     	58-1106	3rd St	192	Town of Clarksville	058	Mecklenburg County	0.09	58-1109 East St	Commerce St; Gap	30	R							X						09/06/2007
+753463	  58	01106	     	58-1106	3rd St	192	Town of Clarksville	058	Mecklenburg County	0.18	US 58; Gap	58-1108 Rose Hill Ave	30	R							X						09/04/2007
+753464	  58	01107	     	58-1107	7th St	192	Town of Clarksville	058	Mecklenburg County	0.09	58-1123 Commerce St	58-1117 Carolina St	130	R							X						09/06/2007
+404290	  58	01107	     	58-1107	7th St	192	Town of Clarksville	058	Mecklenburg County	0.18	58-1117 Carolina St	US 58	240	G	99%	0%	1%	0%	0%	0%	C	0.1373	F	0.5128	260	G	2008
+404291	  58	01108	     	58-1108	Rose Hill Ave	192	Town of Clarksville	058	Mecklenburg County	0.19	58-750 Buffalo Rd	58-1122 6th St	400	G	99%	1%	0%	0%	0%	0%	C	0.1143	F	0.5625	430	G	2008
+753465	  58	01108	     	58-1108	Rose Hill Ave	192	Town of Clarksville	058	Mecklenburg County	0.12	58-1122 6th St	58-1105 S, 4th St	180	R							X						09/06/2007
+753466	  58	01108	     	58-1108	Rose Hill Ave	192	Town of Clarksville	058	Mecklenburg County	0.32	58-1105 S, 4th St	58-1105 N, 4th St	380	R							X						09/06/2007
+753467	  58	01109	     	58-1109	East St	192	Town of Clarksville	058	Mecklenburg County	0.17	58-1102 5th St	58-1106 3rd St	110	R							X						09/18/2007
+753468	  58	01110	     	58-1110	Dan Circle	192	Town of Clarksville	058	Mecklenburg County	0.19	58-1105 4th Street	58-1108 Rose Hill Ave	40	R							X						09/06/2007
+753469	  58	01111	     	58-1111	Forest Hill St	192	Town of Clarksville	058	Mecklenburg County	0.82	58-750 Buffalo Rd	58-1146 Oakview Dr	210	R							X						09/06/2007
+753470	  58	01112	     	58-1112	Carol Ave	192	Town of Clarksville	058	Mecklenburg County	0.08	US 15 College St	58-1113 Mecklenburg Blvd	70	R							X						09/04/2007
+753471	  58	01113	     	58-1113	Mecklenburg Blvd	192	Town of Clarksville	058	Mecklenburg County	0.08	58-1115 Chandler St	58-1116 Gap	60	R							X						09/18/2007
+753472	  58	01113	     	58-1113	Mecklenburg Blvd	192	Town of Clarksville	058	Mecklenburg County	0.13	58-1114 Gap	58-1112 Carol Ave	70	R							X						09/18/2007
+753473	  58	01114	     	58-1114	Sunnyside St	192	Town of Clarksville	058	Mecklenburg County	0.08	US 15 College St	58-1113 Mecklenburg Blvd	120	R							X						09/18/2007
+753474	  58	01115	     	58-1115	Chandler St	192	Town of Clarksville	058	Mecklenburg County	0.09	US 15 College St	58-1113 Mecklenburg Blvd	130	R							X						09/18/2007
+753475	  58	01116	     	58-1116	Adams St	192	Town of Clarksville	058	Mecklenburg County	0.09	US 15 College St	58-1113 Mecklenburg Blvd	90	R							X						09/06/2007
+753476	  58	01117	     	58-1117	Carolina St	192	Town of Clarksville	058	Mecklenburg County	0.14	58-1107 7th St	58-1102 5th St	180	R							X						09/18/2007
+753477	  58	01118	     	58-1118	Grace St	192	Town of Clarksville	058	Mecklenburg County	0.18	58-1111 Forest Hill St	58-1119 Ferry St	49	R							X						09/04/2007
+753478	  58	01119	     	58-1119	Ferry St	192	Town of Clarksville	058	Mecklenburg County	0.12	58-750 Buffalo Rd	58-1118 Grace St	140	R							X						09/06/2007
+753479	  58	01119	     	58-1119	Ferry St	192	Town of Clarksville	058	Mecklenburg County	0.23	58-1118 Grace St	58-1111 Forest Hill St	80	R							X						09/06/2007
+753480	  58	01120	     	58-1120	Fontaine Garrett Dr	192	Town of Clarksville	058	Mecklenburg County	0.04	58-750 Buffalo Rd	WCL Clarksville	350	R							X						09/18/2007
+753481	  58	01121	     	58-1121	Sizemore St	192	Town of Clarksville	058	Mecklenburg County	0.04	Dead End	58-1105 4th St	50	R							X						09/06/2007
+404292	  58	01122	     	58-1122	6th St	192	Town of Clarksville	058	Mecklenburg County	0.17	US 58	58-1108 Rose Hill Ave	150	G	97%	0%	2%	0%	0%	0%	C	0.1698	F	0.5926	170	G	2008
+753482	  58	01123	     	58-1123	Commerce St	192	Town of Clarksville	058	Mecklenburg County	0.10	58-1107 7th St	Dead End	110	R							X						09/06/2007
+753483	  58	01124	     	58-1124	9th St	192	Town of Clarksville	058	Mecklenburg County	0.09	58-1103	US 58; 9th St	360	R							X						09/06/2007
+404293	  58	01125	     	58-1125	Woodland Dr	192	Town of Clarksville	058	Mecklenburg County	0.31	US 58	58-750 Buffalo Rd	410	G	92%	0%	2%	4%	2%	0%	C	0.1286	F	0.6667	440	G	2008
+753484	  58	01126	     	58-1126	Nero St	192	Town of Clarksville	058	Mecklenburg County	0.04	58-750 Buffalo Rd	58-1141 Pine Valley Rd	40	R							X						09/06/2007
+753485	  58	01127	     	58-1127	Easley St	192	Town of Clarksville	058	Mecklenburg County	0.08	58-1128 Crescent Dr	US 58	120	R							X						09/06/2007
+753486	  58	01128	     	58-1128	Crescent Dr	192	Town of Clarksville	058	Mecklenburg County	0.03	Dead End	58-1130 W, Altavista Dr	30	R							X						09/06/2007
+753487	  58	01128	     	58-1128	Crescent Dr	192	Town of Clarksville	058	Mecklenburg County	0.20	58-1130 W, Altavista Dr	58-1130 E, Altavista Dr	40	R							X						09/06/2007
+753488	  58	01129	     	58-1129	Park Ave	192	Town of Clarksville	058	Mecklenburg County	0.07	Dead End	US 58	70	R							X						09/04/2007
+753489	  58	01130	     	58-1130	Altavista Dr	192	Town of Clarksville	058	Mecklenburg County	0.10	58-1128 E, Crescent Dr	58-1128 W, Crescent Dr	60	R							X						09/04/2007
+753490	  58	01131	     	58-1131	Mansion Dr	192	Town of Clarksville	058	Mecklenburg County	0.34	58-1142 Venable Lane	US 58	270	R							X						09/06/2007
+753491	  58	01131	     	58-1131	Mansion Dr	192	Town of Clarksville	058	Mecklenburg County	0.20	US 58	58-750 Buffalo Rd	170	R							X						09/06/2007
+753492	  58	01132	     	58-1132	Park Ave	192	Town of Clarksville	058	Mecklenburg County	0.17	US 58	58-750 Buffalo Rd	60	R							X						09/06/2007
+753497	  58	01140	     	58-1140	Cedar St	192	Town of Clarksville	058	Mecklenburg County	0.09	58-1108 Rose Hill Ave	58-1141 Pine Valley Ave	100	R							X						09/06/2007
+753498	  58	01141	     	58-1141	Pine Valley Ave	192	Town of Clarksville	058	Mecklenburg County	0.15	58-1126 Nero St	58-1140 Cedar St	90	R							X						09/06/2007
+753499	  58	01142	     	58-1142	Venable Lane	192	Town of Clarksville	058	Mecklenburg County	0.22	58-1131 Mansion Dr	Dead End	90	R							X						09/04/2007
+753500	  58	01143	     	58-1143	Marshall Dr	192	Town of Clarksville	058	Mecklenburg County	0.30	58-1142 Venable Lane	US 58	100	R							X						09/04/2007
+753501	  58	01144	     	58-1144	Willow Oak Dr	192	Town of Clarksville	058	Mecklenburg County	0.17	58-1142 Venable Lane	58-1145 Westview Lane	49	R							X						09/04/2007
+753502	  58	01145	     	58-1145	Westview Lane	192	Town of Clarksville	058	Mecklenburg County	0.05	58-1131 Mansion Dr	58-1148 Fairfield Dr	90	R							X						09/04/2007
+753503	  58	01145	     	58-1145	Westview Lane	192	Town of Clarksville	058	Mecklenburg County	0.12	58-1148 Fairfield Dr	58-1143 Marshall Dr	80	R							X						09/04/2007
+753504	  58	01146	     	58-1146	Oakview Dr	192	Town of Clarksville	058	Mecklenburg County	0.09	58-1111 Forest Hill St	58-1147 Inlet Court	100	R							X						09/04/2007
+753505	  58	01146	     	58-1146	Oakview Dr	192	Town of Clarksville	058	Mecklenburg County	0.10	58-1147 Inlet Court	Cul-de-Sac	70	R							X						09/04/2007
+753506	  58	01147	     	58-1147	Inlet Court	192	Town of Clarksville	058	Mecklenburg County	0.05	Cul-de-Sac	58-1146 Oakview Dr	10	R							X						09/04/2007
+753507	  58	01148	     	58-1148	Fairfield Dr	192	Town of Clarksville	058	Mecklenburg County	0.17	58-1142 Venable Lane	58-1145 Westview Lane	60	R							X						09/04/2007
+753508	  58	01149	     	58-1149	Marrow St	192	Town of Clarksville	058	Mecklenburg County	0.10	WCL Clarksville	58-1131 Mansion Dr	40	R							X						09/04/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

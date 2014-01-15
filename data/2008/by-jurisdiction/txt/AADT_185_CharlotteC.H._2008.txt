@@ -1,0 +1,33 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Charlotte C.H.																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030475	  SR	00040	     	VA 40	David Bruce Ave	185	Town of Charlotte C.H.	019	Charlotte County	0.98	WCL Charlotte C.H.	SR 47 Le Grande Ave	2200	N	76%	1%	2%	2%	20%	0%	N	0.1100	N	0.6076	2300	N	2008
+030337	  SR	00040	     	VA 40, VA 47	Thomas Jefferson Hwy	185	Town of Charlotte C.H.	019	Charlotte County	0.10	SR 47 Le Grande Ave	SR 47 Thomas Jefferson Hwy	4500	G	76%	1%	2%	2%	20%	0%	F	0.1048	F	0.5882	4600	G	2008
+030336	  SR	00040	     	VA 40	George Washington Hwy	185	Town of Charlotte C.H.	019	Charlotte County	0.94	SR 47 Thomas Jefferson Hwy	ECL Charlotte C.H.	2200	G	76%	1%	2%	2%	20%	0%	F	0.1018	F	0.6510	2300	G	2008
+030107	  SR	00047	     	VA 47	 	185	Town of Charlotte C.H.	019	Charlotte County	0.99	SCL Charlotte C.H.	S SR 40	2400	N	82%	1%	2%	1%	14%	0%	N	0.0944	N	0.5996	2400	N	2008
+030337	  SR	00047	     	VA 40, VA 47	Thomas Jefferson Hwy	185	Town of Charlotte C.H.	019	Charlotte County	0.10	S SR 40	N SR 40	4500	G	76%	1%	2%	2%	20%	0%	F	0.1048	F	0.5882	4600	G	2008	
+030176	  SR	00047	     	VA 47	Thomas Jefferson Hwy	185	Town of Charlotte C.H.	019	Charlotte County	0.98	N SR 40 G. W. Hwy	NCL Charlotte C.H.	1500	G	82%	1%	2%	1%	14%	0%	F	0.0871	F	0.7083	1500	G	2008
+785070	  19	00645	     	19-645	Evergreen Rd	185	Town of Charlotte C.H.	019	Charlotte County	0.25	WCL Charlotte CH	19-1106 Gold Leaf Dr	510	R							X						10/17/2000
+711100	  19	00645	     	19-645	Evergreen Rd	185	Town of Charlotte C.H.	019	Charlotte County	0.48	19-1106 Gold Leaf Dr	SR 40 David Bruce Ave	580	R							X						05/23/2006
+711119	  19	00650	     	19-650	Woodfork Rd	185	Town of Charlotte C.H.	019	Charlotte County	1.12	NCL Charlotte CH	SR 47 Thomas Jefferson Hwy	210	R							X						05/23/2006
+402392	  19	00709	     	19-709	Union Cemetery Rd	185	Town of Charlotte C.H.	019	Charlotte County	0.48	SR 47 Thomas Jefferson Hwy	NCL Charlotte CH	1100	G	96%	1%	1%	0%	1%	0%	C	0.1003	F	0.6316	1100	G	2008
+711350	  19	01101	     	19-1101	Watkins Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.34	Dead End	SR 47	120	R							X						05/23/2006
+711351	  19	01102	     	19-1102	Chestnut Ln	185	Town of Charlotte C.H.	019	Charlotte County	0.11	SR 47 Thomas Jefferson Hwy	Dead End	40	R							X						05/07/2003
+711352	  19	01103	     	19-1103	Patrick Henry Ave	185	Town of Charlotte C.H.	019	Charlotte County	0.56	SR 47 Thomas Jefferson Hwy	SR 40 George Washington Hwy	150	R							X						05/07/2003
+711353	  19	01104	     	19-1104	Morrison Grove Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.19	Dead End	19-709 Union Cemetery Rd	50	R							X						05/07/2003
+711354	  19	01105	     	19-1105	Wilfan Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.06	19-1103 Patrick Henry Ave	Dead End	90	R							X						04/20/2006
+711355	  19	01106	     	19-1106	Gold Leaf Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.50	Dead End	19-645 Evergreen Rd	190	R							X						05/23/2006
+711356	  19	01107	     	19-1107	Twin Oaks Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.09	SR 40 George Washington Hwy	19-1103 Patrick Henry Ave	70	R							X						05/07/2003
+711357	  19	01108	     	19-1108	Dixie Youth Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.19	Dead End	SR 40 George Washington Hwy	160	R							X						05/23/2006
+711358	  19	01109	     	19-1109	Carey Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.25	19-709 Union Cemetery Rd	Dead End	60	R							X						05/07/2003
+711359	  19	01110	     	19-1110	Moses Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.15	Dead End	SR 47 Thomas Jefferson Hwy	60	R							X						05/07/2003
+711360	  19	01111	     	19-1111	Statesman Dr	185	Town of Charlotte C.H.	019	Charlotte County	0.65	SR 40 David Bruce Ave	SR 47	760	R							X						05/07/2003
+711361	  19	01113	     	19-1113	 	185	Town of Charlotte C.H.	019	Charlotte County	0.25	Dead End	19-1111 Statesman Dr	0	R							X						05/23/2006
+782208	  19	01114	     	19-1114	Law Lane	185	Town of Charlotte C.H.	019	Charlotte County	0.08	19-1111 Statesman Dr	0.08 ME 19-1111	230	R							X						05/23/2006
+788271	  19	01114	     	19-1114	Law Lane	185	Town of Charlotte C.H.	019	Charlotte County	0.14	0.08 ME 19-1111	SR 47	360	R							X						05/23/2006
+711381	  19	09504	     	19-9504	 	185	Town of Charlotte C.H.	019	Charlotte County	0.03	SR 47 Thomas Jefferson Hwy	Central High School	170	R							X						05/23/2006
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

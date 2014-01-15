@@ -1,0 +1,26 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Clinchco																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+403940	  25	00664	     	25-664	 	339	Town of Clinchco	025	Dickenson County	0.31	ECL Clinchco	25-786 Perry St	320	N	97%	1%	1%	0%	0%	0%	N	0.1064	N	0.6667	330	N	2008
+401809	  25	00664	     	25-664	Mill St	339	Town of Clinchco	025	Dickenson County	1.67	25-786 Perry St	25-675 Palmer-Adams St	440	G	97%	1%	1%	0%	0%	0%	F	0.1145	F	0.6154	450	G	2008
+401810	  25	00664	     	25-664	Clinchco Main St	339	Town of Clinchco	025	Dickenson County	0.22	25-675 Palmer-Adams St	SR 83	1000	G	97%	1%	1%	0%	0%	0%	C	0.1060	F	0.5818	1000	G	2008
+720663	  25	00664	     	25-664	 	339	Town of Clinchco	025	Dickenson County	0.06	SR 83	25-781 Banner St	0	?							X
+720664	  25	00664	     	25-664	 	339	Town of Clinchco	025	Dickenson County	0.14	25-781 Banner St	Dead End	110	R							X						08/29/2003
+720667	  25	00666	     	25-666	 	339	Town of Clinchco	025	Dickenson County	0.24	SR 83	Dead End	40	R							X						08/29/2003
+720685	  25	00675	     	25-675	 	339	Town of Clinchco	025	Dickenson County	0.76	Dead End	25-664	250	R							X						08/29/2003
+720686	  25	00675	     	25-675	 	339	Town of Clinchco	025	Dickenson County	0.20	25-664	25-782 lytton Circle	70	R							X						08/29/2003
+720808	  25	00779	     	25-779	New Camp Rd	339	Town of Clinchco	025	Dickenson County	0.09	Dead End	SR 83	80	R							X						01/19/2007
+720809	  25	00780	     	25-780	Shifty Lane	339	Town of Clinchco	025	Dickenson County	0.12	25-783 Walnut St	SR 83	100	R							X						01/19/2007
+720810	  25	00781	     	25-781	Banner St	339	Town of Clinchco	025	Dickenson County	0.12	25-664	SR 83	90	R							X						01/19/2007
+720811	  25	00782	     	25-782	Lytton Circle	339	Town of Clinchco	025	Dickenson County	0.02	25-664	25-675	130	R							X						01/19/2007
+720812	  25	00782	     	25-782	Lytton Circle	339	Town of Clinchco	025	Dickenson County	0.05	25-675	Dead End	30	R							X						01/19/2007
+720813	  25	00783	     	25-783	Walnut St	339	Town of Clinchco	025	Dickenson County	0.05	Dead End	25-780 Shifty Lane	30	R							X						01/19/2007
+720814	  25	00783	     	25-783	Walnut St	339	Town of Clinchco	025	Dickenson County	0.03	25-780 Shifty Lane	Dead End	6	R							X						01/19/2007
+720817	  25	00786	     	25-786	Perry St	339	Town of Clinchco	025	Dickenson County	0.05	25-664	NCL Clinchco	30	R							X						01/19/2007
+794355	  25	00802	     	25-802	 	339	Town of Clinchco	025	Dickenson County	0.21	25-664	25-782 Lytton Circle	0	?							X
+720901	  25	09693	     	25-9693	Vocational Dr	339	Town of Clinchco	025	Dickenson County	0.18	Dickenson Voc Sch	SR 83	560	R							X						01/19/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

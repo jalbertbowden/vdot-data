@@ -1,0 +1,826 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Louisa Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+070300	  US	00015	     	US 15	James Madison Hwy	054	Louisa County	054	Louisa County	0.45	Fluvanna County Line; US 250 Three Notch Rd	I-64	12000	G	85%	1%	2%	1%	10%	0%	F	0.0912	F	0.7076	13000	G	2008
+070388	  US	00015	     	US 15	James Madison Hwy	054	Louisa County	054	Louisa County	2.52	I-64	54-617 S, E Green Springs Rd	5600	N	85%	1%	2%	1%	10%	0%	N	0.0865	N	0.5126	6100	N	2008
+070299	  US	00015	     	US 15	James Madison Hwy	054	Louisa County	054	Louisa County	4.43	54-617 S, E Green Springs Rd	SR 22 Louisa Rd	5600	G	85%	1%	2%	1%	10%	0%	C	0.0865	F	0.5126	6100	G	2008
+070298	  US	00015	     	US 15	James Madison Hwy	054	Louisa County	054	Louisa County	3.61	SR 22 Louisa Rd	US 33 South Spotswood Trail	5700	G	86%	1%	1%	1%	11%	0%	C	0.0846	F	0.5950	6200	G	2008
+070114	  US	00015	     	US 15, US 33	James Madison Hwy	054	Louisa County	054	Louisa County	0.45	US 33 South Spotswood Trail	SCL Gordonsville	8700	G	86%	1%	1%	1%	11%	0%	F	0.0857	F	0.5802	9400	G	2008
+070022	  SR	00022	     	VA 22	Louisa Rd	054	Louisa County	054	Louisa County	3.99	Albemarle County Line	US 15 Boswells Tavern	2000	G	97%	1%	1%	0%	0%	0%	C	0.1052	F	0.5108	2200	G	2008
+070054	  SR	00022	     	VA 22	Louisa Rd	054	Louisa County	054	Louisa County	6.23	US 15 Boswells Tavern	US 33 Trevilians	1500	G	97%	1%	1%	0%	0%	0%	F	0.0969	F	0.6111	1600	G	2008
+070307	  SR	00022	     	US 33, VA 22	Louisa Rd	054	Louisa County	054	Louisa County	3.84	US 33 TREVILIANS	WCL Louisa	5500	G	95%	1%	2%	1%	2%	0%	F	0.0885	F	0.5143	6000	G	2008	
+070313	  SR	00022	     	US 33, VA 22	West Main St	254	Town of Louisa	054	Louisa County	1.08	WCL Louisa	SR 208 LOUISA C H	6700	G	95%	1%	2%	1%	2%	0%	F	0.0833	F	0.5517	7200	G	2008	
+070306	  SR	00022	     	US 33, VA 22, VA 208	West Main St	254	Town of Louisa	054	Louisa County	0.40	SR 208 LOUISA C H	E US 33	16000	G	97%	1%	1%	0%	1%	0%	F	0.0813	F	0.5057	18000	G	2008	
+070301	  SR	00022	     	VA 22, VA 208	Louisa Rd	254	Town of Louisa	054	Louisa County	0.33	E US 33	ECL Louisa	11000	G	96%	1%	1%	0%	2%	0%	C	0.0923	F	0.5387	12000	G	2008
+070321	  SR	00022	     	VA 22, VA 208	Davis Hwy	054	Louisa County	054	Louisa County	4.73	ECL Louisa	WCL Mineral	11000	N	96%	1%	1%	0%	2%	0%	N	0.0923	N	0.5387	12000	N	2008
+070333	  SR	00022	     	VA 22, VA 208	Davis Hwy	261	Town of Mineral	054	Louisa County	0.15	WCL Mineral	US 522	11000	N	96%	1%	1%	0%	2%	0%	N	0.0923	N	0.5387	12000	N	2008
+070114	  US	00033	     	US 15, US 33	James Madison Hwy	054	Louisa County	054	Louisa County	0.45	SCL Gordonsville	US 15 South of Gordonsville	8700	G	86%	1%	1%	1%	11%	0%	F	0.0857	F	0.5802	9400	G	2008	
+070308	  US	00033	     	US 33	South Spotswood Trail	054	Louisa County	054	Louisa County	8.28	US 15 James Madison Hwy	SR 22 Trevilians	3600	G	95%	1%	2%	1%	2%	0%	C	0.1029	F	0.5934	3900	G	2008
+070307	  US	00033	     	US 33, VA 22	Louisa Rd	054	Louisa County	054	Louisa County	3.84	SR 22 Trevilians	WCL Louisa	5500	G	95%	1%	2%	1%	2%	0%	F	0.0885	F	0.5143	6000	G	2008
+070313	  US	00033	     	US 33, VA 22	West Main St	254	Town of Louisa	054	Louisa County	1.08	WCL Louisa	SR 208	6700	G	95%	1%	2%	1%	2%	0%	F	0.0833	F	0.5517	7200	G	2008
+070306	  US	00033	     	US 33, VA 22, VA 208	West Main St	254	Town of Louisa	054	Louisa County	0.40	SR 208	SR 22; SR 208 East of Louisa CH	16000	G	97%	1%	1%	0%	1%	0%	F	0.0813	F	0.5057	18000	G	2008
+070305	  US	00033	     	US 33	Jefferson Hwy	254	Town of Louisa	054	Louisa County	0.97	SR 22; SR 208 Main St	ECL Louisa	4700	G	97%	1%	1%	0%	1%	0%	C	0.0927	F	0.5497	5100	G	2008
+070310	  US	00033	     	US 33	Jefferson Hwy	054	Louisa County	054	Louisa County	5.59	ECL Louisa	US 522 Pendleton Rd	3000	G	96%	1%	1%	0%	2%	0%	C	0.0917	F	0.6610	3200	G	2008
+070304	  US	00033	     	US 33, US 522	Jefferson Hwy	054	Louisa County	054	Louisa County	0.66	US 522 Pendleton Rd	US 522 Cross County Rd	5800	G	97%	1%	1%	0%	1%	0%	F	0.0942	F	0.6252	6300	G	2008
+070303	  US	00033	     	US 33	Jefferson Hwy	054	Louisa County	054	Louisa County	9.29	US 522 Cross County Rd	54-655 Bethany Church Rd	3000	G	97%	1%	1%	0%	1%	0%	F	0.0958	F	0.5840	3300	G	2008
+070302	  US	00033	     	US 33	Jefferson Hwy	054	Louisa County	054	Louisa County	2.71	54-655 Bethany Church Rd	Hanover County Line	4200	G	97%	1%	1%	0%	1%	0%	F	0.0951	F	0.8437	4500	G	2008
+070163	  IS	00064	E    	I-64 EB	 	032	Fluvanna County	054	Louisa County	1.51	Albemarle County Line	Louisa County Line	16000	G	87%	1%	1%	1%	10%	0%	F	0.1033	F	1.0000	15000	G	2008		31000	G	87%	1%	1%	1%	10%	0%	F				29000	G
+970168	  IS	00064	E    	I-64 EB	 	054	Louisa County	054	Louisa County	4.06	Fluvanna County Line	US 15 James Madison Hwy	16000	G	87%	1%	1%	1%	10%	0%	F	0.1033	F	1.0000	15000	G	2008		31000	G	87%	1%	1%	1%	10%	0%	F				29000	G
+070309	  IS	00064	E    	I-64 EB	 	054	Louisa County	054	Louisa County	6.32	US 15 James Madison Hwy	SR 208 Courthouse Rd	14000	A	87%	1%	1%	1%	10%	0%	C	0.1282	A	1.0000	13000	A	2008		29000	A	87%	1%	1%	1%	10%	0%	C	0.1162	A	0.0000	27000	A
+070311	  IS	00064	E    	I-64 EB	 	054	Louisa County	054	Louisa County	4.66	SR 208 Courthouse Rd	Maintenance Boundary	11000	G	87%	1%	1%	1%	10%	0%	F	0.0838	F	1.0000	11000	G	2008		24000	G	87%	1%	1%	1%	10%	0%	F				22000	G
+940005	  IS	00064	E    	I-64 EB	 	054	Louisa County	037	Goochland County	1.49	Goochland County Line	US 522 Cross County Rd	13000	G	87%	1%	1%	1%	10%	0%	F	0.0748	F	1.0000	12000	G	2008		26000	G	87%	1%	1%	1%	10%	0%	F				24000	G
+040419	  IS	00064	E    	I-64 EB	 	054	Louisa County	037	Goochland County	3.07	US 522 Cross County Rd	Goochland County Line	17000	G	87%	1%	1%	1%	10%	0%	F	0.0922	F	1.0000	15000	G	2008		32000	G	87%	1%	1%	1%	10%	0%	F				29000	G
+870007	  IS	00064	W    	I-64 WB	 	032	Fluvanna County	054	Louisa County	1.44	Albemarle County Line	Louisa County Line	15000	G	87%	1%	1%	1%	10%	0%	F	0.0989	F	1.0000	14000	G	2008		31000	G	87%	1%	1%	1%	10%	0%	F				29000	G
+170007	  IS	00064	W    	I-64 WB	 	054	Louisa County	054	Louisa County	4.64	Fluvanna County Line	US 15 James Madison Hwy	15000	G	87%	1%	1%	1%	10%	0%	F	0.0989	F	1.0000	14000	G	2008		31000	G	87%	1%	1%	1%	10%	0%	F				29000	G
+170008	  IS	00064	W    	I-64 WB	 	054	Louisa County	054	Louisa County	6.32	US 15 James Madison Hwy	SR 208 Courthouse Rd	14000	A	87%	1%	1%	1%	10%	0%	C	0.1222	A	1.0000	13000	A	2008		29000	A	87%	1%	1%	1%	10%	0%	C	0.1162	A	0.0000	27000	A
+870009	  IS	00064	W    	I-64 WB	 	054	Louisa County	054	Louisa County	4.36	SR 208 Courthouse Rd	Maintenance Boundary	12000	G	87%	1%	1%	1%	10%	0%	F	0.0767	F	1.0000	11000	G	2008		24000	G	87%	1%	1%	1%	10%	0%	F				22000	G
+870011	  IS	00064	W    	I-64 WB	 	054	Louisa County	037	Goochland County	2.03	Goochland County Line	US 522 Cross County Rd	13000	G	87%	1%	1%	1%	10%	0%	F	0.0817	F	1.0000	12000	G	2008		26000	G	87%	1%	1%	1%	10%	0%	F				24000	G
+870012	  IS	00064	W    	I-64 WB	 	054	Louisa County	037	Goochland County	2.61	US 522 Cross County Rd	Goochland County Line	15000	G	87%	1%	1%	1%	10%	0%	F	0.0954	F	1.0000	14000	G	2008		32000	G	87%	1%	1%	1%	10%	0%	F				29000	G
+070314	  SR	00208	     	VA 208	Courthouse Rd	054	Louisa County	054	Louisa County	0.38	US 250 Ferncliff	I-64 North of Ferncliff	2900	G	93%	1%	1%	1%	4%	0%	F	0.0934	F	0.6315	3100	G	2008
+070108	  SR	00208	     	VA 208	Courthouse Rd	054	Louisa County	054	Louisa County	8.31	I-64 North of Ferncliff	54-630 Harris Creek Rd	4700	G	93%	1%	1%	1%	4%	0%	C	0.0932	F	0.5193	5100	G	2008
+070111	  SR	00208	     	VA 208	 	054	Louisa County	054	Louisa County	0.64	54-630 Harris Creek Rd	US 33 West Main St	4700	N	93%	1%	1%	1%	4%	0%	N	0.0932	N	0.5193	5100	N	2008
+070306	  SR	00208	     	US 33, VA 22, VA 208	West Main St	254	Town of Louisa	054	Louisa County	0.40	SR 22, US 33 Louisa C H	US 33 EAST OF LOUISA C H	16000	G	97%	1%	1%	0%	1%	0%	F	0.0813	F	0.5057	18000	G	2008	
+070301	  SR	00208	     	VA 22, VA 208	Louisa Rd	254	Town of Louisa	054	Louisa County	0.33	US 33 EAST OF LOUISA C H	CL Louisa	11000	G	96%	1%	1%	0%	2%	0%	C	0.0923	F	0.5387	12000	G	2008	
+070321	  SR	00208	     	VA 22, VA 208	Davis Hwy	054	Louisa County	054	Louisa County	4.73	CL Louisa	CL Mineral	11000	N	96%	1%	1%	0%	2%	0%	N	0.0923	N	0.5387	12000	N	2008	
+070333	  SR	00208	     	VA 22, VA 208	Davis Hwy	261	Town of Mineral	054	Louisa County	0.15	CL Mineral	US 522 & SR 22 MINERAL	11000	N	96%	1%	1%	0%	2%	0%	N	0.0923	N	0.5387	12000	N	2008	
+070028	  SR	00208	     	US 522, VA 208	Louisa Ave	261	Town of Mineral	054	Louisa County	0.39	US 522 & SR 22 MINERAL	CL Mineral	3700	G	93%	2%	1%	1%	2%	0%	F	0.0885	F	0.5837	4000	G	2008	
+070029	  SR	00208	     	US 522, VA 208	Zachary Taylor Hwy	054	Louisa County	054	Louisa County	5.04	CL Mineral	US 522 WARES CROSSROADS	3700	N	93%	2%	1%	1%	2%	0%	N	0.0885	N	0.5837	4000	N	2008	
+070024	  SR	00208	     	VA 208	New Bridge Rd	054	Louisa County	054	Louisa County	3.62	US 522 Zachary Taylor Hwy	Spotsylvania County Line	4700	G	93%	1%	1%	1%	4%	0%	F	0.0934	F	0.5501	5100	G	2008
+070113	 OSR	00208	     	Old VA 208	 	054	Louisa County	054	Louisa County	0.07	SR 208	SCL Louisa	0	?							X
+070109	 OSR	00208	     	Old VA 208	Courthouse Rd	254	Town of Louisa	054	Louisa County	0.40	SCL Louisa	SR 22, US 33 Louisa C H	4700	N	93%	1%	1%	1%	4%	0%	N	0.0932	N	0.5193	5100	N	2008
+070315	  SR	00231	     	VA 231	Gordon Ave	054	Louisa County	054	Louisa County	0.27	Albemarle County Line	Orange County Line	4600	G	95%	1%	2%	1%	2%	0%	C	0.1025	F	0.6086	4700	G	2008
+070094	  US	00250	     	US 250	Richmond Rd	032	Fluvanna County	054	Louisa County	6.00	Albemarle County Line	US 15 Zion Cross Roads	3600	G	90%	1%	2%	7%	1%	0%	C	0.0922	F	0.6158	3900	G	2008
+070320	  US	00250	     	US 250	Three Notch Rd	054	Louisa County	054	Louisa County	2.72	US 15 Zion Cross Roads	54-759 Rollins Lane	2400	G	93%	0%	2%	1%	3%	0%	F	0.0922	F	0.7459	2700	G	2008
+070319	  US	00250	     	US 250	Three Notch Rd	054	Louisa County	054	Louisa County	3.81	54-759 Rollins Lane	54-659; SR 208 Ferncliff	2400	G	93%	0%	2%	1%	3%	0%	C	0.0960	F	0.6569	2600	G	2008
+070318	  US	00250	     	US 250	Three Notch Rd	054	Louisa County	054	Louisa County	2.43	54-659; SR 208 Ferncliff	Fluvanna County Line	1000	G	93%	0%	2%	1%	3%	0%	F	0.1032	F	0.6087	1100	G	2008
+070317	  US	00250	     	US 250	Richmond Rd	032	Fluvanna County	054	Louisa County	0.71	Louisa County Line	Goochland County Line	960	G	93%	0%	2%	1%	3%	0%	F	0.1038	F	0.5545	1000	G	2008
+040520	  US	00250	     	US 250	Broad St Rd	032	Fluvanna County	054	Louisa County	0.13	Fluvanna County Line	Goochland County Line	1300	G	97%	1%	1%	0%	1%	0%	F	0.1023	F	0.5455	1400	G	2008
+040528	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	054	Louisa County	2.05	Fluvanna County Line	37-605 Shannon Hill Rd	1300	N	97%	1%	1%	0%	1%	0%	N	0.1023	N	0.5455	1400	N	2008
+070434	  US	00250	     	US 250	Broad Street Rd	037	Goochland County	054	Louisa County	0.29	37-605 Shannon Hill Rd	Richmond Maintenance Boundary	1400	G	97%	1%	1%	0%	1%	0%	F	0.0982	F	0.5510	1500	G	2008
+070316	  US	00250	     	US 250	Broad Street Rd	054	Louisa County	037	Goochland County	0.48	Goochland County Line	US 522 Cross County Rd; Sandy Hook Rd	2500	G	97%	1%	1%	0%	1%	0%	F	0.0936	F	0.6938	2600	G	2008
+070454	  US	00250	     	US 250	Broad Street Rd	054	Louisa County	037	Goochland County	1.63	US 522 Cross County Rd	Goochland County Line	1800	G	96%	1%	1%	1%	1%	0%	C	0.1019	F	0.6579	1800	G	2008
+070291	  US	00522	     	US 522	Cross County Rd	054	Louisa County	037	Goochland County	0.35	Goochland County Line	US 250 Broad Street Rd	4700	G	93%	1%	1%	1%	4%	0%	F	0.1072	F	0.6323	4800	G	2008
+070323	  US	00522	     	US 522	Cross County Rd	054	Louisa County	054	Louisa County	0.52	US 250 Broad Street Rd	I-64	5300	G	95%	0%	1%	1%	2%	0%	C	0.1072	F	0.7313	5700	G	2008
+070322	  US	00522	     	US 522	Cross County Rd	054	Louisa County	054	Louisa County	8.52	I-64	54-648 Gardners Rd	3400	G	92%	2%	1%	2%	3%	0%	F	0.1098	F	0.6533	3700	G	2008
+070032	  US	00522	     	US 522	Cross County Rd	054	Louisa County	054	Louisa County	6.32	54-648 Gardners Rd	US 33 Jefferson Hwy	2300	G	92%	2%	1%	2%	3%	0%	C	0.1021	F	0.5827	2500	G	2008
+070304	  US	00522	     	US 33, US 522	Jefferson Hwy	054	Louisa County	054	Louisa County	0.66	US 33 Jefferson Hwy	US 33 Jefferson Hwy	5800	G	97%	1%	1%	0%	1%	0%	F	0.0942	F	0.6252	6300	G	2008	
+070030	  US	00522	     	US 522	Pendelton Rd	054	Louisa County	054	Louisa County	3.19	US 33 Jefferson Hwy	SCL Mineral	5000	G	93%	2%	1%	1%	2%	0%	C	0.0987	F	0.6367	5400	G	2008
+070031	  US	00522	     	US 522	Mineral Ave	261	Town of Mineral	054	Louisa County	0.66	SCL Mineral	SR 22, SR 208	5000	N	93%	2%	1%	1%	2%	0%	N	0.0987	N	0.6367	5400	N	2008
+070028	  US	00522	     	US 522, VA 208	Louisa Ave	261	Town of Mineral	054	Louisa County	0.39	SR 22, SR 208	NCL Mineral	3700	G	93%	2%	1%	1%	2%	0%	F	0.0885	F	0.5837	4000	G	2008
+070029	  US	00522	     	US 522, VA 208	Zachary Taylor Hwy	054	Louisa County	054	Louisa County	5.04	NCL Mineral	SR 208 New Bridge Rd	3700	N	93%	2%	1%	1%	2%	0%	N	0.0885	N	0.5837	4000	N	2008
+070026	  US	00522	     	US 522	Zachary Taylor Hwy	054	Louisa County	054	Louisa County	3.72	SR 208 New Bridge Rd	Spotsylvania County Line	2800	G	93%	2%	1%	1%	2%	0%	F	0.0925	F	0.5381	3000	G	2008
+780345	  FR	00089	     	FR 89	Atkinson Rd	054	Louisa County	054	Louisa County	1.06	54-611 Dongola Rd	Dead End	0	?							X
+780422	  FR	00186	     	FR 186	Buck Branch Dr	054	Louisa County	054	Louisa County	2.05	Dead End	54-600 Campbell Rd	190	R							X						05/03/2007
+780423	  FR	00187	     	FR 187	Spring Creek Pkwy	054	Louisa County	054	Louisa County	0.05	Dead End	US 15 James Madison Hwy	120	R							X						04/30/2007
+780424	  FR	00188	     	FR 188	Midway Lane	054	Louisa County	054	Louisa County	0.24	54-613 Poindexter Rd	Dead End	40	R							X						04/23/2007
+780425	  FR	00189	     	FR 189	Ellis Burris Lane	054	Louisa County	054	Louisa County	0.32	Dead End	54-607 Rock Quarry Rd	70	R							X						04/23/2007
+780426	  FR	00190	     	FR 190	Evergreen Court	054	Louisa County	054	Louisa County	0.09	Dead End	54-626 Evergreen Rd	30	R							X						04/23/2007
+780427	  FR	00191	     	FR 191	Crew Rd	054	Louisa County	054	Louisa County	1.45	Dead End	SR 208 Courthouse Rd	350	R							X						04/16/2007
+780428	  FR	00192	     	FR 192	Hasher Lane	054	Louisa County	054	Louisa County	0.65	Dead End	54-688 Holland Creek Rd	30	R							X						04/16/2007
+738066	  32	00696	     	32-696	Deerfield Rd	054	Louisa County	032	Fluvanna County	0.45	Louisa County Line	54-626 Mallory Rd	140	R							X						07/17/2008
+751482	  54	00600	     	54-600	Campbell Rd	054	Louisa County	054	Louisa County	0.20	Albemarle County Line	54-799 Keswick Glen Dr	280	R							X						05/03/2007
+751483	  54	00600	     	54-600	Campbell Rd	054	Louisa County	054	Louisa County	1.38	54-799 Keswick Glen Dr	54-694 Loving Rd	250	R							X						05/03/2007
+751484	  54	00600	     	54-600	Campbell Rd	054	Louisa County	054	Louisa County	2.67	54-694 Loving Rd	54-627 Zion Rd	760	R							X						05/03/2007
+751485	  54	00601	     	54-601	Orchid Rd	054	Louisa County	054	Louisa County	1.13	Dead End	US 522 Cross County Rd	330	R							X						04/05/2007
+751486	  54	00601	     	54-601	Paynes Mill Rd	054	Louisa County	054	Louisa County	3.31	US 522 Cross County Rd	54-661 Crewsville Rd	680	R							X						04/09/2007
+785000	  54	00601	     	54-601	Paynes Mill Rd	054	Louisa County	054	Louisa County	1.90	54-661 Crewsville Rd	54-658 Jackson Rd	550	R							X						04/09/2007
+751487	  54	00601	     	54-601	Paynes Mill Rd	054	Louisa County	054	Louisa County	0.69	54-658 Jackson Rd	54-602 E, Copper Line Rd	1100	R							X						04/09/2007
+751488	  54	00601	     	54-601	Paynes Mill Rd	054	Louisa County	054	Louisa County	0.21	54-602 E, Copper Line Rd	US 33 N, Jefferson Hwy	990	R							X						04/09/2007
+751489	  54	00601	     	54-601	Wickham Rd	054	Louisa County	054	Louisa County	2.00	US 33 S, Jefferson Hwy	2.00 MN US 33	370	R							X						06/04/2007
+751490	  54	00601	     	54-601	Wickham Rd	054	Louisa County	054	Louisa County	1.90	2.00 MN US 33	54-655 S, Bethany Church Rd	130	R							X						06/04/2007
+751491	  54	00601	     	54-601	Diggstown Rd	054	Louisa County	054	Louisa County	4.10	54-655 S, Bethany Church Rd	54-618 W, Fredericks Hall Rd	360	R							X						06/04/2007
+404983	  54	00601	     	54-601	Bumpass Rd	054	Louisa County	054	Louisa County	1.10	54-618 E, Belsches Rd	54-701 S, Borden Rd	630	G	94%	2%	1%	1%	3%	0%	C	0.0829	F	0.6379	690	G	2008
+404984	  54	00601	     	54-601	Bumpass Rd	054	Louisa County	054	Louisa County	0.12	54-701 S, Borden Rd	54-701 MID, Kentucky Springs Rd	1400	G	94%	2%	1%	1%	3%	0%	F	0.0989	F	0.7416	1500	G	2008
+404985	  54	00601	     	54-601	Bumpass Rd	054	Louisa County	054	Louisa County	1.40	54-701 Mid, Kentucky Springs Rd	54-715; Greenes Corner Rd	720	G	94%	2%	1%	1%	3%	0%	F	0.1018	F	0.6258	780	G	2008
+404986	  54	00601	     	54-601	Greenes Corner Rd	054	Louisa County	054	Louisa County	2.30	54-715 Bumpass Rd	54-701 N, Eastham Rd	280	G	94%	2%	1%	1%	3%	0%	F	0.1181	F	0.5063	310	G	2008
+404987	  54	00601	     	54-601	Greenes Corner Rd	054	Louisa County	054	Louisa County	0.80	54-701 N, Eastham Rd	Spotsylvania County Line; 88-601 Arritt Rd	800	G	94%	2%	1%	1%	3%	0%	F	0.0975	F	0.7486	860	G	2008
+751492	  54	00602	     	54-602	Copper Line Rd	054	Louisa County	054	Louisa County	2.30	54-661 Crewsville Rd	54-601 E, Paynes Mill Rd	760	R							X						04/09/2007
+751493	  54	00602	     	54-602	Mt Hope Church Rd	054	Louisa County	054	Louisa County	0.20	54-601 W, Paynes Mill Rd	US 33 Jefferson Hwy	650	R							X						04/09/2007
+751494	  54	00603	     	54-603	Bowlers Mill Rd	054	Louisa County	054	Louisa County	1.00	Dead End	US 15 James Madison Hwy	140	R							X						05/09/2007
+751495	  54	00604	     	54-604	Roundabout Rd	054	Louisa County	054	Louisa County	0.80	Goochland County Line	54-708 Nannie Burton Rd	410	R							X						04/11/2007
+751496	  54	00604	     	54-604	Roundabout Rd	054	Louisa County	054	Louisa County	1.83	54-708 Nannie Burton Rd	54-640 S, W Old Mountain Rd	310	R							X						04/11/2007
+751497	  54	00604	     	54-604	Roundabout Rd	054	Louisa County	054	Louisa County	0.10	54-640 S, W Old Mountain Rd	54-640 N, W Old Mountain Rd	420	R							X						04/11/2007
+751498	  54	00604	     	54-604	Roundabout Rd	054	Louisa County	054	Louisa County	4.53	54-640 N, W Old Mountain Rd	54-646 Yanceyville Rd	320	R							X						04/11/2007
+404988	  54	00605	     	54-605	Shannon Hill Rd	054	Louisa County	054	Louisa County	1.83	Goochland County Line	54-774 Smithfield Rd	1300	G	96%	0%	1%	1%	2%	0%	F	0.1121	F	0.5676	1400	G	2008
+404989	  54	00605	     	54-605	Shannon Hill Rd	054	Louisa County	054	Louisa County	1.44	54-774 Smithfield Rd	54-640 S, E Old Mountain Rd	1300	G	96%	0%	1%	1%	2%	0%	F	0.1119	F	0.5309	1400	G	2008
+404990	  54	00605	     	54-605	Shannon Hill Rd	054	Louisa County	054	Louisa County	0.24	54-640 S, E Old Mountain Rd	54-640 N, W Old Mountain Rd	1500	G	96%	0%	1%	1%	2%	0%	F	0.1100	F	0.5135	1700	G	2008
+404991	  54	00605	     	54-605	Shannon Hill Rd	054	Louisa County	054	Louisa County	2.53	54-640 N, W Old Mountain Rd	54-644 Mt Airy Rd	1500	G	96%	0%	1%	1%	2%	0%	C	0.1030	F	0.5732	1600	G	2008
+404992	  54	00605	     	54-605	Shannon Hill Rd	054	Louisa County	054	Louisa County	1.18	54-644 Mt Airy Rd	54-677 Goodwin Store Rd	1200	G	95%	1%	1%	1%	2%	0%	C	0.1199	F	0.5409	1300	G	2008
+404993	  54	00605	     	54-605	Shannon Hill Rd	054	Louisa County	054	Louisa County	1.64	54-677 Goodwin Store Rd	US 33 Jefferson Hwy	1300	G	95%	1%	1%	1%	2%	0%	F	0.0921	F	0.6340	1400	G	2008
+404994	  54	00605	     	54-605	Willis Proffitt Rd	054	Louisa County	054	Louisa County	1.45	US 33 Jefferson Hwy	US 522 Pendelton Rd	1400	G	95%	1%	1%	1%	2%	0%	F	0.0970	F	0.6074	1500	G	2008
+751499	  54	00606	     	54-606	Waltons Store Rd	054	Louisa County	054	Louisa County	1.80	Goochland County Line	54-698 Rolling Path Rd	360	R							X						04/05/2007
+751500	  54	00606	     	54-606	Waltons Store Rd	054	Louisa County	054	Louisa County	1.00	54-698 Rolling Path Rd	54-640 E Old Mountain Rd	380	R							X						04/05/2007
+404995	  54	00607	     	54-607	Bybee Rd	054	Louisa County	054	Louisa County	0.90	US 250 W, Three Notch Rd	Fluvanna County Line	1600	G	98%	0%	0%	1%	1%	0%	C	0.1133	F	0.8534	1700	G	2008
+751501	  54	00607	     	54-607	Bybee Rd	054	Louisa County	054	Louisa County	0.40	Fluvanna County Line	US 250 E, Three Notch Rd	380	R							X						04/23/2007
+751502	  54	00607	     	54-607	Rock Quarry Rd	054	Louisa County	054	Louisa County	0.41	US 250 E, Three Notch Rd	FR-189 Ellis Burris Lane	640	R							X						04/23/2007
+751503	  54	00607	     	54-607	Rock Quarry Rd	054	Louisa County	054	Louisa County	0.49	FR-189 Ellis Burris Lane	54-764 Will Johnson Rd	600	R							X						04/23/2007
+751504	  54	00607	     	54-607	Rock Quarry Rd	054	Louisa County	054	Louisa County	1.90	54-764 Will Johnson Rd	54-613 Poindexter Rd	220	R							X						04/23/2007
+751505	  54	00608	     	54-608	Signboard Rd	054	Louisa County	054	Louisa County	2.00	54-701 Belle Meade Rd	54-654 Bagby Rd	270	R							X						04/09/2007
+751506	  54	00608	     	54-608	Signboard Rd	054	Louisa County	054	Louisa County	0.20	54-654 Bagby Rd	Hanover County Line	400	R							X						04/09/2007
+404996	  54	00609	     	54-609	Buckner Rd	054	Louisa County	054	Louisa County	1.50	US 33 Jefferson Hwy	54-648 Jouett School Rd	420	G	94%	1%	1%	0%	2%	0%	F	0.1105	F	0.5882	450	G	2008
+404997	  54	00609	     	54-609	Buckner Rd	054	Louisa County	054	Louisa County	2.10	54-648 Jouett School Rd	54-612 Halls Store Rd	520	G	94%	1%	1%	0%	2%	0%	F	0.1043	F	0.5333	560	G	2008
+404998	  54	00609	     	54-609	Buckner Rd	054	Louisa County	054	Louisa County	2.80	54-612 Halls Store Rd	54-618 Fredericks Hall Rd	630	G	94%	1%	1%	0%	2%	0%	C	0.1083	F	0.5068	680	G	2008
+404999	  54	00610	     	54-610	Holly Grove Dr	054	Louisa County	054	Louisa County	1.64	54-663 Owens Creek Rd	54-635 W; Factory Mill Rd	930	G	96%	1%	2%	0%	1%	0%	C	0.1008	F	0.6634	1000	G	2008
+405000	  54	00610	     	54-610	Holly Grove Dr	054	Louisa County	054	Louisa County	1.73	54-635 W: Factory Mill Rd	54-661 Crewsville Rd	530	G	96%	1%	2%	0%	1%	0%	F	0.1279	F	0.6133	580	G	2008
+751507	  54	00610	     	54-610	Holly Grove Dr	054	Louisa County	054	Louisa County	1.30	54-661 Crewsville Rd	Hanover County Line; 42-610 Taylors Creek Road	980	R							X						04/05/2007
+751508	  54	00611	     	54-611	Oakland Church Rd	054	Louisa County	054	Louisa County	0.65	US 250 Broad Street Rd	Goochland County Line	230	R							X						04/02/2007
+751509	  54	00611	     	54-611	Dongola Rd	054	Louisa County	054	Louisa County	1.68	Goochland County Line	54-663 Owens Creek Rd	540	R							X						04/02/2007
+751510	  54	00611	     	54-611	Octagon Church Rd	054	Louisa County	054	Louisa County	1.29	54-663 Owens Creek Rd	1.29 ME 54-663 Owens Creek Rd	90	R							X						04/02/2007
+751511	  54	00611	     	54-611	Octagon Church Rd	054	Louisa County	054	Louisa County	1.11	1.29 ME 54-663 Owens Creek Rd	54-635 Factory Mill Rd	60	R							X						09/02/2007
+751512	  54	00611	     	54-611	Octagon Church Rd	054	Louisa County	054	Louisa County	0.90	54-635 Factory Mill Rd	Hanover County Line	130	R							X						04/02/2007
+751513	  54	00612	     	54-612	Halls Store Rd	054	Louisa County	054	Louisa County	2.70	US 33 Jefferson Hwy	54-609 Buckner Rd	390	R							X						06/04/2007
+405001	  54	00613	     	54-613	Poindexter Rd	054	Louisa County	054	Louisa County	0.51	US 250 Three Notch Rd	FR-188 Midway Lane	930	G	95%	2%	2%	1%	0%	0%	F	0.0887	F	0.6307	1000	G	2008
+405002	  54	00613	     	54-613	Poindexter Rd	054	Louisa County	054	Louisa County	2.76	FR-188 Midway Lane	54-607 Rock Quarry Rd	700	G	95%	2%	2%	1%	0%	0%	F	0.0908	F	0.6541	760	G	2008
+405003	  54	00613	     	54-613	Poindexter Rd	054	Louisa County	054	Louisa County	3.66	54-607 Rock Quarry Rd	54-695 Hamilton Rd	720	G	95%	2%	2%	1%	0%	0%	C	0.0943	F	0.5867	780	G	2008
+405004	  54	00613	     	54-613	Poindexter Rd	054	Louisa County	054	Louisa County	1.31	54-695 Hamilton Rd	54-633 Lasley Lane	660	G	95%	2%	2%	1%	0%	0%	F	0.1294	F	0.5635	710	G	2008
+405005	  54	00613	     	54-613	Poindexter Rd	054	Louisa County	054	Louisa County	1.25	54-633 Lasley Lane	54-649 Byrd Mill Rd	660	G	96%	1%	1%	1%	0%	0%	F	0.1001	F	0.5503	720	G	2008
+405006	  54	00613	     	54-613	Poindexter Rd	054	Louisa County	054	Louisa County	0.47	54-649 Byrd Mill Rd	US 33 W, Louisa Rd	1600	G	96%	1%	1%	1%	0%	0%	C	0.0984	F	0.6364	1800	G	2008
+405007	  54	00613	     	54-613	Oakland Rd	054	Louisa County	054	Louisa County	2.08	US 33 E, Louisa Rd	54-736 Thurston Rd	1200	G	96%	1%	1%	1%	0%	0%	F	0.0963	F	0.7114	1300	G	2008
+405008	  54	00613	     	54-613	Oakland Rd	054	Louisa County	054	Louisa County	1.07	54-736 Thurston Rd	54-692 Hickory Creek Rd	1000	G	96%	1%	1%	1%	0%	0%	F	0.0912	F	0.7273	1100	G	2008
+405009	  54	00613	     	54-613	Oakland Rd	054	Louisa County	054	Louisa County	2.73	54-692 Hickory Creek Rd	54-669 W, Ellisville Dr	650	G	96%	1%	1%	1%	0%	0%	F	0.1063	F	0.5068	700	G	2008
+405010	  54	00613	     	54-613	Goldmine Rd	054	Louisa County	054	Louisa County	4.50	54-669 W, Ellisville Dr	54-687 Daniel Rd	680	G	96%	1%	1%	1%	0%	0%	F	0.1056	F	0.5696	730	G	2008
+405011	  54	00613	     	54-613	Mansfield Rd	054	Louisa County	054	Louisa County	2.54	54-687 Daniel Rd	US 522 Zachary Taylor Hwy	1100	G	96%	1%	1%	1%	0%	0%	F	0.1134	F	0.6388	1200	G	2008
+751514	  54	00614	     	54-614	Elk Creek Rd	054	Louisa County	054	Louisa County	1.24	54-618 Fredericks Halls Rd	54-1100 Seclusion Shores Dr	540	R							X						10/25/2001
+751515	  54	00614	     	54-614	Elk Creek Rd	054	Louisa County	054	Louisa County	2.71	54-1100 Seclusion Shores Dr	54-652 E; 54-769	420	R							X						10/25/2001
+751516	  54	00614	     	54-614	Carrs Bridge Rd	054	Louisa County	054	Louisa County	0.88	54-652 W, Kentucky Springs Rd	54-690 Burruss Mill Rd	530	R							X						10/29/2001
+751517	  54	00614	     	54-614	Carrs Bridge Lane	054	Louisa County	054	Louisa County	0.46	54-690 Burruss Mill Rd	Dead End	120	R							X						10/29/2001
+751518	  54	00615	     	54-615	Zion Rd	032	Fluvanna County	054	Louisa County	0.43	US 250 Richmond Rd	Louisa County Line	1400	R							X						04/30/2007
+785157	  54	00615	     	54-615	Zion Rd	054	Louisa County	054	Louisa County	1.17	Fluvanna County Line	54-627 Zion Rd	850	R							X						09/20/2001
+785001	  54	00615	     	54-615	Columbia Rd	054	Louisa County	054	Louisa County	3.62	54-627 Zion Rd	54-694 Loving Rd	520	R							X						04/30/2007
+751519	  54	00615	     	54-615	Columbia Rd	054	Louisa County	054	Louisa County	0.65	54-694 Loving Rd	54-640, W Jack Jouett Rd	700	R							X						04/30/2007
+405012	  54	00615	     	54-615	Columbia Rd	054	Louisa County	054	Louisa County	1.57	54-640, W Jack Jouett Rd	SR 22 Louisa Rd	830	G	97%	2%	1%	0%	0%	0%	C	0.1098	F	0.5566	900	G	2008
+751520	  54	00615	     	54-615	Mahanes Rd	054	Louisa County	054	Louisa County	1.10	SR 22 Louisa Rd	54-675 Lindsay Rd	320	R							X						05/03/2007
+751521	  54	00615	     	54-615	Mahanes Rd	054	Louisa County	054	Louisa County	0.10	54-675 Lindsay Rd	Albemarle County Line	260	R							X						05/03/2007
+751522	  54	00616	     	54-616	Whitlock Rd	054	Louisa County	054	Louisa County	0.40	54-615 Columbia Rd	SR 22 Louisa Rd	380	R							X						04/30/2007
+751523	  54	00617	     	54-617	W Green Springs Rd	054	Louisa County	054	Louisa County	2.50	54-615 Columbia Rd	US 15 N, James Madison Hwy	90	R							X						04/30/2007
+751524	  54	00617	     	54-617	E Green Springs Rd	054	Louisa County	054	Louisa County	2.30	US 15 S, James Madison Hwy	54-640, E Jack Jouett Rd	40	R							X						04/30/2007
+405013	  54	00618	     	54-618	Belsches Rd	054	Louisa County	054	Louisa County	1.77	Hanover County Line	54-701 W, Borden Rd	990	G	97%	1%	1%	0%	1%	0%	F	0.1283	F	0.6333	1100	G	2008
+405014	  54	00618	     	54-618	Belsches Rd	054	Louisa County	054	Louisa County	1.11	54-701 W, Borden Rd	54-601 E, Bumpass Rd	760	G	97%	1%	1%	0%	1%	0%	F	0.1020	F	0.5614	820	G	2008
+405015	  54	00618	     	54-618	Fredericks Hall Rd	054	Louisa County	054	Louisa County	1.11	54-601 E, Bumpass Rd	54-650 Pottiesville Rd	1600	G	97%	1%	1%	0%	1%	0%	F	0.0955	F	0.5859	1700	G	2008
+405016	  54	00618	     	54-618	Fredericks Hall Rd	054	Louisa County	054	Louisa County	0.73	54-650 Pottiesville Rd	54-609 Buckner Rd	1600	G	91%	2%	1%	0%	5%	0%	C	0.1233	F	0.6031	1700	G	2008
+405017	  54	00618	     	54-618	Fredericks Hall Rd	054	Louisa County	054	Louisa County	2.74	54-609 Buckner Rd	54-656 Cedar Hill Rd	1000	G	97%	1%	1%	0%	1%	0%	F	0.0970	F	0.5023	1100	G	2008
+405018	  54	00618	     	54-618	Fredericks Halls Rd	054	Louisa County	054	Louisa County	3.53	54-656 Cedar Hill Rd	54-700 E, Johnson Rd	1400	G	97%	1%	1%	0%	1%	0%	F	0.0886	F	0.5863	1500	G	2008
+405019	  54	00618	     	54-618	Fredericks Hall Rd	054	Louisa County	054	Louisa County	1.64	54-700 E, Johnson Rd	ECL Mineral	2800	G	97%	1%	1%	0%	1%	0%	C	0.1102	F	0.6239	3100	G	2008
+405020	  54	00618	     	54-618	E First St	261	Town of Mineral	054	Louisa County	0.54	ECL Mineral	US 522 Louisa Ave	3000	G	97%	1%	1%	0%	1%	0%	F	0.1069	F	0.6219	3200	G	2008
+751525	  54	00619	     	54-619	New Line Rd	054	Louisa County	054	Louisa County	2.00	Goochland County Line	US 522 Cross County Rd	330	R							X						04/05/2007
+751526	  54	00620	     	54-620	Vawter Corner Rd	054	Louisa County	054	Louisa County	0.86	54-639 Mallorys Ford Rd; Doctors Rd	54-692 Hickory Creek Rd	680	R							X						05/09/2007
+751527	  54	00620	     	54-620	Vawter Cornter Rd	054	Louisa County	054	Louisa County	2.30	54-692 Hickory Creek Rd	54-669 Ellisville Dr	370	R							X						05/25/2004
+751528	  54	00621	     	54-621	Peach Grove Rd	054	Louisa County	054	Louisa County	0.50	54-613 Goldmine Rd	54-760 Jones Rd	390	R							X						10/01/2001
+751529	  54	00621	     	54-621	Peach Grove Rd	054	Louisa County	054	Louisa County	0.85	54-760 Jones Rd	54-786 Scott Lane	340	R							X						10/01/2001
+751530	  54	00621	     	54-621	Peach Grove Rd	054	Louisa County	054	Louisa County	0.25	54-786 Scott Lane	54-785 North Anna Dr	180	R							X						10/01/2001
+751531	  54	00621	     	54-621	Peach Grove Rd	054	Louisa County	054	Louisa County	0.25	54-785 North Anna Dr	54-787 Alma Rd	130	R							X						10/01/2001
+751533	  54	00621	     	54-621	Peach Grove Rd	054	Louisa County	054	Louisa County	0.22	54-787 Alma Rd	54-793 Miltons Lane	80	R							X						05/25/2004
+751534	  54	00621	     	54-621	Peach Grove Rd	054	Louisa County	054	Louisa County	0.33	54-793 Miltons Lane	Dead End	70	R							X						05/25/2004
+751535	  54	00622	     	54-622	Moody Town Rd	054	Louisa County	054	Louisa County	4.75	54-652 Kentucky Springs Rd	54-701 Eastham Rd	20	R							X						06/17/2004
+405021	  54	00623	     	54-623	Chopping Rd	054	Louisa County	054	Louisa County	1.30	SR 22, SR 208	54-624 Mt Pleasant Church Rd	2500	G	97%	0%	1%	1%	2%	0%	C	0.0852	F	0.5063	2700	G	2008
+405022	  54	00623	     	54-623	Chopping Rd	054	Louisa County	054	Louisa County	3.34	54-624 Mt Pleasant Church Rd	US 522, SR 208	2100	G	97%	0%	1%	1%	2%	0%	F	0.0829	F	0.5439	2300	G	2008
+751536	  54	00624	     	54-624	Mt Pleasant Church Rd	054	Louisa County	054	Louisa County	2.00	54-623 Chopping Rd	2.00 MN 54-623 Chopping Rd	220	R							X						10/01/2001
+751537	  54	00624	     	54-624	Mt Pleasant Church Rd	054	Louisa County	054	Louisa County	1.20	2.00 MN 54-623 Chopping Rd	3.20 MN 54-623 Chopping Rd	150	R							X						06/08/2004
+751538	  54	00624	     	54-624	Mt Pleasant Church Rd	054	Louisa County	054	Louisa County	0.10	3.20 MN 54-623 Chopping Rd	54-625 Chalklevel Rd	60	R							X						10/01/2001
+751539	  54	00625	     	54-625	Chalklevel Rd	054	Louisa County	054	Louisa County	5.20	SR 22 Davis Hwy	54-613 Goldmine Rd	610	R							X						10/01/2001
+751540	  54	00626	     	54-626	Mallory Rd	054	Louisa County	054	Louisa County	1.20	Fluvanna County Line	US 250 Three Notch Rd	570	R							X						04/23/2007
+751541	  54	00626	     	54-626	Evergreen Rd	054	Louisa County	054	Louisa County	0.67	US 250 Three Notch Rd	FR-190 Evergreen Court	520	R							X						04/23/2007
+751542	  54	00626	     	54-626	Evergreen Rd	054	Louisa County	054	Louisa County	0.33	FR-190 Evergreen Court	54-763 Henson Rd	470	R							X						04/23/2007
+751543	  54	00626	     	54-626	Evergreen Rd	054	Louisa County	054	Louisa County	0.45	54-763 Henson Rd	54-762 Christmas Rd	380	R							X						04/23/2007
+751544	  54	00626	     	54-626	Evergreen Rd	054	Louisa County	054	Louisa County	1.55	54-762 Christmas Rd	54-640, E Jack Jouett Rd	270	R							X						04/26/2007
+751545	  54	00627	     	54-627	Zion Rd	054	Louisa County	054	Louisa County	1.73	54-615 Columbia Rd; Zion Rd	Fluvanna County Line	1100	R							X						04/30/2007
+751546	  54	00628	     	54-628	Fredericksburg Ave	254	Town of Louisa	054	Louisa County	0.23	US 33; 54-1004	54-1014 School St	1300	R							X						04/22/2004
+751547	  54	00628	     	54-628	Fredericksburg Ave	254	Town of Louisa	054	Louisa County	0.13	54-1014 School St	ECL Louisa	920	R							X						04/22/2004
+751548	  54	00628	     	54-628	Bibb Store Rd	054	Louisa County	054	Louisa County	6.02	ECL Louisa	54-613 E, Goldmine Rd	380	R							X						05/25/2004
+751549	  54	00628	     	54-628	Winston Rd	054	Louisa County	054	Louisa County	1.00	54-613 W, Goldmine Rd	Dead End	90	R							X						06/08/2004
+751550	  54	00629	     	54-629	Cartersville Rd	054	Louisa County	054	Louisa County	2.70	Goochland County Line	US 522 Cross County Rd	570	R							X						04/05/2007
+751552	  54	00630	     	54-630	Harris Creek Rd	054	Louisa County	054	Louisa County	1.00	Dead End	54-753 Sam Boyo Rd	270	R							X						04/15/2004
+751554	  54	00630	     	54-630	Harris Creek Rd	054	Louisa County	054	Louisa County	0.70	54-753 Sam Boyo Rd	SR 208 Courthouse Rd	140	R							X						04/15/2004
+751555	  54	00631	     	54-631	Windyknight Rd	054	Louisa County	054	Louisa County	1.90	US 33 Jefferson Hwy	Hanover County Line	620	R							X						04/09/2007
+751556	  54	00632	     	54-632	Waldrop Church Rd	054	Louisa County	054	Louisa County	1.94	54-649 Byrd Mill Rd	54-745 Tisdale Rd	520	R							X						04/26/2007
+751557	  54	00632	     	54-632	Waldrop Church Rd	054	Louisa County	054	Louisa County	2.46	54-745 Tisdale Rd	US 33 Louisa Rd	810	R							X						04/26/2007
+751558	  54	00633	     	54-633	Lasley Lane	054	Louisa County	054	Louisa County	1.30	54-649 Byrd Mill Rd	54-613 Poindexter Rd	140	R							X						04/26/2007
+751559	  54	00634	     	54-634	Three Chopt Rd	054	Louisa County	054	Louisa County	2.30	US 250 W, Broad Street Rd	US 250 E, Broad Street Rd	430	R							X						04/02/2007
+405023	  54	00635	     	54-635	Factory Mill Dr	054	Louisa County	054	Louisa County	2.20	Goochland County Line	54-611 Octagon Church Rd	1000	G	97%	1%	1%	1%	0%	0%	C	0.1306	F	0.7823	1100	G	2008
+405024	  54	00635	     	54-635	Factory Mill Dr	054	Louisa County	054	Louisa County	3.50	54-611 Octagon Church Rd	54-610 E, Holly Grove Dr	1000	G	97%	1%	1%	1%	0%	0%	F	0.1332	F	0.8503	1100	G	2008
+405025	  54	00635	     	54-635	West Chapel Rd	054	Louisa County	054	Louisa County	3.90	54-610 W, Holly Grove Dr	54-706 Turners Mill Rd	960	G	97%	1%	1%	1%	0%	0%	F	0.1229	F	0.5769	1000	G	2008
+405026	  54	00635	     	54-635	Willow Brook Rd	054	Louisa County	054	Louisa County	2.60	54-706 Turners Mill Rd	US 33 Jefferson Hwy	1000	G	97%	1%	1%	1%	0%	0%	F				1000	G	2008
+751560	  54	00636	     	54-636	Valentine Mills Rd	054	Louisa County	054	Louisa County	2.00	54-695 Hamilton Rd	SR 22 Louisa Rd	40	R							X						04/30/2007
+751561	  54	00636	     	54-636	Valentine Mills Rd	054	Louisa County	054	Louisa County	2.30	SR 22 Louisa Rd	US 33 E, South Spotswood Trail	400	R							X						05/09/2007
+751562	  54	00636	     	54-636	Dumkum Store Rd	054	Louisa County	054	Louisa County	0.37	US 33 W, South Spotswood Trail	54-726 Lightwood Rd	190	R							X						05/09/2007
+751563	  54	00636	     	54-636	Dumkum Store Rd	054	Louisa County	054	Louisa County	0.23	54-726 Lightwood Rd	Dead End	20	R							X						05/09/2007
+751564	  54	00637	     	54-637	Brickhouse Rd	054	Louisa County	054	Louisa County	0.90	54-613 Poindexter Rd	54-702 Dell Perkins Rd	200	R							X						04/26/2007
+751565	  54	00637	     	54-637	Brickhouse Rd	054	Louisa County	054	Louisa County	1.60	54-702 Dell Perkins Rd	54-649 Byrd Mill Rd	280	R							X						04/26/2007
+751566	  54	00638	     	54-638	Nolting Rd	054	Louisa County	054	Louisa County	1.07	54-640, E Jack Jouett Rd	1.07 MN 54-640 Jack Jouett Rd	50	R							X						04/30/2007
+751567	  54	00638	     	54-638	Nolting Rd	054	Louisa County	054	Louisa County	1.40	1.07 MN 54-640 Jack Jouett Rd	SR 22 Louisa Rd	70	R							X						04/30/2007
+751568	  54	00639	     	54-639	Doctors Rd	054	Louisa County	054	Louisa County	3.50	US 33, South Spotswood Trail	54-620 Vawter Corner Rd	890	R							X						05/09/2007
+751569	  54	00639	     	54-639	Mallorys Ford Rd	054	Louisa County	054	Louisa County	2.00	54-620 Vawter Corner Rd	Orange County Line	480	R							X						05/09/2007
+751570	  54	00640	     	54-640	W Jack Jouett Rd	054	Louisa County	054	Louisa County	3.50	54-615 Columbia Rd	US 15 James Madison Hwy	50	R							X						04/30/2007
+751571	  54	00640	     	54-640	E Jack Jouett Rd	054	Louisa County	054	Louisa County	3.80	US 15 James Madison Hwy	54-613 Poindexter Rd	70	R							X						04/30/2007
+751572	  54	00640	     	54-640	E Jack Jouett Rd	054	Louisa County	054	Louisa County	3.30	54-613 Poindexter Rd	54-724 Harlow Town Rd	260	R							X						04/26/2007
+751573	  54	00640	     	54-640	E Jack Jouett Rd	054	Louisa County	054	Louisa County	1.40	54-724 Harlow Town Rd	54-649 Byrd Mill Rd	650	R							X						04/26/2007
+751574	  54	00640	     	54-640	E Jack Jouett Rd	054	Louisa County	054	Louisa County	0.20	54-649 Byrd Mill Rd	SR 208 S, Courthouse Rd	1200	R							X						04/26/2007
+751575	  54	00640	     	54-640	W Old Mountain Rd	054	Louisa County	054	Louisa County	3.70	SR 208 N, Courthouse Rd	54-604 N, Roundabout Rd	1900	R							X						04/16/2007
+751576	  54	00640	     	54-640	W Old Mountain Rd	054	Louisa County	054	Louisa County	3.40	54-604 S, Roundabout Rd	54-605 N, Shannon Hill Rd	280	R							X						04/11/2007
+751577	  54	00640	     	54-640	E Old Mountain Rd	054	Louisa County	054	Louisa County	1.20	54-605 S, Shannon Hill Rd	54-754 Bakers Branch Rd	390	R							X						04/11/2007
+751578	  54	00640	     	54-640	E Old Mountain Rd	054	Louisa County	054	Louisa County	1.50	54-754 Bakers Branch Rd	54-606 Waltons Store Rd	320	R							X						04/11/2007
+751579	  54	00640	     	54-640	E Old Mountain Rd	054	Louisa County	054	Louisa County	4.30	54-606 Waltons Store Rd	54-629 Cartersville Rd	160	R							X						04/05/2007
+751580	  54	00641	     	54-641	Captain Meade Rd	054	Louisa County	054	Louisa County	0.95	54-640, W Old Mountain Rd	Dead End	130	R							X						04/16/2007
+751581	  54	00642	     	54-642	Bickley Rd	054	Louisa County	054	Louisa County	2.15	54-632 Waldrop Church Rd	54-732 Old Bickly Town Rd	100	R							X						04/16/2007
+751582	  54	00642	     	54-642	Old Bickley Town Rd	054	Louisa County	054	Louisa County	0.25	54-732 Old Bickly Town Rd	SR 208 Courthouse Rd	150	R							X						04/16/2007
+751583	  54	00643	     	54-643	Cuckoo Rd	054	Louisa County	054	Louisa County	1.90	54-605 Shannon Hill Rd	US 522 Cross County Rd	240	R							X						06/11/2004
+751584	  54	00644	     	54-644	Mt Airy Rd	054	Louisa County	054	Louisa County	5.10	54-605 Shannon Hill Rd	US 33 Jefferson Hwy	410	R							X						04/16/2007
+751585	  54	00645	     	54-645	Poplar Ave	054	Louisa County	054	Louisa County	0.80	Dead End	0.80 ME Dead End	40	R							X						05/29/2007
+751586	  54	00645	     	54-645	Poplar Ave	054	Louisa County	054	Louisa County	0.30	0.80 ME Dead End	SR 22 Davis Hwy	140	R							X						05/29/2007
+751587	  54	00646	     	54-646	Yanceyville Rd	054	Louisa County	054	Louisa County	1.00	54-605 Shannon Hill Rd	54-697 Vigor Rd	420	R							X						04/11/2007
+751588	  54	00646	     	54-646	Yanceyville Rd	054	Louisa County	054	Louisa County	3.90	54-697 Vigor Rd	54-604 Roundabout Rd	380	R							X						04/16/2007
+751589	  54	00646	     	54-646	Yanceyville Rd	054	Louisa County	054	Louisa County	1.90	54-604 Roundabout Rd	SR 208 Courthouse Rd	1000	R							X						04/16/2007
+751590	  54	00647	     	54-647	Harts Mill Rd	054	Louisa County	054	Louisa County	2.61	54-640 E Old Mountain Rd	US 522 Cross County Rd	30	R							X						04/05/2007
+751591	  54	00648	     	54-648	Gardners Rd	054	Louisa County	054	Louisa County	2.70	US 522 Cross County Rd	54-658 S, Old Apple Grove Rd	570	R							X						06/18/2004
+751592	  54	00648	     	54-648	Gardners Rd	054	Louisa County	054	Louisa County	0.30	54-658 S, Old Apple Grove Rd	54-658 N, Jackson Rd	700	R							X						06/18/2004
+751593	  54	00648	     	54-648	Gardners Rd	054	Louisa County	054	Louisa County	1.50	54-658 N, Jackson Rd	US 33 Jefferson Hwy	540	R							X						08/18/2004
+751594	  54	00648	     	54-648	Jouett School Rd	054	Louisa County	054	Louisa County	1.30	US 33 Jefferson Hwy	54-609 Buckner Rd	240	R							X						06/18/2004
+751595	  54	00649	     	54-649	Byrd Mill Rd	054	Louisa County	054	Louisa County	2.35	54-640, E Jack Jouett Rd	54-632 Waldrop Church Rd	690	R							X						04/26/2007
+751596	  54	00649	     	54-649	Byrd Mill Rd	054	Louisa County	054	Louisa County	2.07	54-632 Waldrop Church Rd	54-637 Brickhouse Rd	340	R							X						04/26/2007
+751597	  54	00649	     	54-649	Byrd Mill Rd	054	Louisa County	054	Louisa County	1.14	54-637 Brickhouse Rd	54-633; 54-745	670	R							X						04/26/2007
+751598	  54	00649	     	54-649	Byrd Mill Rd	054	Louisa County	054	Louisa County	1.02	54-633; 54-745	54-613 Poindexter Rd	890	R							X						04/26/2007
+751599	  54	00650	     	54-650	Pottiesville Rd	054	Louisa County	054	Louisa County	0.60	54-618 Fredericks Hall Rd	54-680 Haden Lane	740	R							X						06/24/2004
+751600	  54	00650	     	54-650	Pottiesville Rd	054	Louisa County	054	Louisa County	1.30	54-680 Haden Lane	54-652 Kentucky Springs Rd	590	R							X						06/24/2004
+751601	  54	00651	     	54-651	Cales Dr	054	Louisa County	054	Louisa County	1.20	54-669 Ellisville Dr	Orange County Line	170	R							X						05/25/2004
+405027	  54	00652	     	54-652	Kentucky Springs Rd	054	Louisa County	054	Louisa County	2.67	54-701 Eastham Rd; Borden Rd	54-622 Moody Town Rd	1100	G	96%	0%	1%	1%	2%	0%	F	0.1329	F	0.8448	1200	G	2008
+405028	  54	00652	     	54-652	Kentucky Springs Rd	054	Louisa County	054	Louisa County	0.58	54-622 Moody Town Rd	54-723 Bohannon Rd	1800	G	96%	0%	1%	1%	2%	0%	F	0.1087	F	0.7968	1900	G	2008
+405029	  54	00652	     	54-652	Kentucky Springs Rd	054	Louisa County	054	Louisa County	2.99	54-723 Bohannon Rd	54-1205 Ordinary Rd	1900	G	96%	0%	1%	1%	2%	0%	F	0.1083	F	0.7854	2100	G	2008
+405030	  54	00652	     	54-652	Kentucky Springs Rd	054	Louisa County	054	Louisa County	1.57	54-1205 Ordinary Rd	54-700 Johnson Rd	2300	G	96%	0%	1%	1%	2%	0%	F	0.1075	F	0.7845	2500	G	2008
+405031	  54	00652	     	54-652	Kentucky Springs Rd	054	Louisa County	054	Louisa County	2.17	54-700 Johnson Rd	54-790 Mitchell Point Rd	2800	G	96%	0%	1%	1%	2%	0%	C	0.1321	F	0.6900	3100	G	2008
+405032	  54	00652	     	54-652	Kentucky Springs Rd	054	Louisa County	054	Louisa County	1.05	54-790 Mitchell Point Rd	SR 208 New Bridge Rd	3400	G	96%	0%	1%	1%	2%	0%	F	0.1217	F	0.6952	3600	G	2008
+751602	  54	00653	     	54-653	Grace Johnson Rd	054	Louisa County	054	Louisa County	1.00	Fluvanna County Line	54-659 Kents Store Rd	430	R							X						05/28/2004
+751603	  54	00654	     	54-654	Bagby Rd	054	Louisa County	054	Louisa County	1.45	54-608 Signboard Rd	1.45 MN 54-608 Signboard Rd	260	R							X						06/24/2004
+751604	  54	00654	     	54-654	Bagby Rd	054	Louisa County	054	Louisa County	0.55	1.45 MN 54-608 Signboard Rd	54-673 Lewis Hill Lane	140	R							X						06/24/2004
+751605	  54	00654	     	54-654	Bagby Rd	054	Louisa County	054	Louisa County	0.70	54-673 Lewis Hill Lane	54-618 Belsches Rd	220	R							X						06/22/2004
+751606	  54	00655	     	54-655	Bethany Church Rd	054	Louisa County	054	Louisa County	2.50	US 33 Jefferson Hwy	54-701 Belle Meade Rd	1400	R							X						04/09/2007
+751607	  54	00655	     	54-655	Bethany Church Rd	054	Louisa County	054	Louisa County	1.80	54-701 Belle Meade Rd	54-601 S, Diggstown Rd	520	R							X						06/04/2007
+751608	  54	00655	     	54-655	Bethany Church Rd	054	Louisa County	054	Louisa County	1.90	54-601 N, Diggstown Rd; Wickham Rd	54-609 Buckner Rd	250	R							X						06/04/2007
+751609	  54	00656	     	54-656	Cedar Hill Rd	054	Louisa County	054	Louisa County	5.40	US 33 Jefferson Hwy	54-618 Fredericks Halls Rd; Fredericks Hall Rd	340	R							X						05/31/2007
+751610	  54	00657	     	54-657	Apple Grove Rd	054	Louisa County	054	Louisa County	2.40	US 522 Cross County Rd	US 33 Jefferson Hwy	250	R							X						04/09/2007
+751611	  54	00658	     	54-658	Jackson Rd	054	Louisa County	054	Louisa County	1.50	54-601 Paynes Mill Rd	54-648 N, Gardners Rd	530	R							X						04/09/2007
+751612	  54	00658	     	54-658	Old Apple Grove Rd	054	Louisa County	054	Louisa County	2.90	54-648 S, Gardners Rd	54-657 Apple Grove Rd	110	R							X						04/09/2007
+405033	  54	00659	     	54-659	Kents Store Rd	054	Louisa County	054	Louisa County	0.72	Fluvanna County Line	US 250 Three Notch Rd	1400	G	97%	1%	1%	1%	0%	0%	C	0.1146	F	0.6304	1500	G	2008
+751613	  54	00660	     	54-660	Red Hill Rd	054	Louisa County	054	Louisa County	4.00	54-675 Lindsay Rd	54-704 Porter Town Rd	320	R							X						05/03/2007
+751614	  54	00660	     	54-660	Red Hill Rd	054	Louisa County	054	Louisa County	0.21	54-704 Porter Town Rd	54-860 Klockner Rd	420	R							X						05/03/2007
+751615	  54	00661	     	54-661	Crewsville Rd	054	Louisa County	054	Louisa County	2.50	54-610 Holly Grove Dr	54-635 West Chapel Rd	430	R							X						04/05/2007
+751616	  54	00661	     	54-661	Crewsville Rd	054	Louisa County	054	Louisa County	1.50	54-635 West Chapel Rd	54-602 Copper Line Rd	800	R							X						04/05/2007
+751617	  54	00661	     	54-661	Crewsville Rd	054	Louisa County	054	Louisa County	2.10	54-602 Copper Line Rd	54-601 Paynes Mill Rd	160	R							X						04/09/2007
+751618	  54	00662	     	54-662	Thomasson Rd	054	Louisa County	054	Louisa County	0.12	Dead End	SR 208 Courthouse Rd	190	R							X						05/19/2004
+751619	  54	00663	     	54-663	Owens Creek Rd	054	Louisa County	054	Louisa County	1.60	54-611 Dongola Rd	54-610 Holly Grove Dr	410	R							X						06/14/2004
+405034	  54	00663	     	54-663	Owens Creek Rd	054	Louisa County	054	Louisa County	1.70	54-610 Holly Grove Dr	US 522 Cross County Rd	860	G	95%	1%	2%	0%	2%	0%	C	0.1122	F	0.5897	930	G	2008
+751620	  54	00664	     	54-664	Gammon Town Rd	054	Louisa County	054	Louisa County	2.15	54-610 Holly Grove Dr	54-1075 Phillips Lane	430	R							X						04/05/2007
+751621	  54	00664	     	54-664	Gammon Town Rd	054	Louisa County	054	Louisa County	0.35	54-1075 Phillips Lane	Dead End	420	R							X						06/15/2004
+751622	  54	00665	     	54-665	Kennon Rd	054	Louisa County	054	Louisa County	0.89	US 33 Jefferson Hwy	0.89 MN US 33	100	R							X						05/21/2007
+751623	  54	00665	     	54-665	Kennon Rd	054	Louisa County	054	Louisa County	0.21	0.89 MN US 33	54-725 Thacker Rd	160	R							X						05/21/2007
+751624	  54	00665	     	54-665	Kennon Rd	054	Louisa County	054	Louisa County	0.64	54-725 Thacker Rd	0.64 MN 54-725 Thacker Rd	330	R							X						05/21/2007
+751625	  54	00665	     	54-665	Kennon Rd	054	Louisa County	054	Louisa County	0.61	0.64 MN 54-725 Thacker Rd	54-1109 St Frances Ave	490	R							X						05/31/2007
+751626	  54	00665	     	54-665	Kennon Rd	054	Louisa County	054	Louisa County	0.30	54-1109 St Frances Ave	US 522 Pendelton Rd	600	R							X						05/31/2007
+751627	  54	00666	     	54-666	West St	254	Town of Louisa	054	Louisa County	0.49	US 33 West Main St	54-669 Ellisville Dr	570	R							X						05/21/2007
+751628	  54	00667	     	54-667	Old Tolersville Rd	054	Louisa County	054	Louisa County	0.60	US 522 Zachary Taylor Hwy	54-618 Fredericks Hall Rd	210	R							X						05/31/2007
+751629	  54	00668	     	54-668	Ferncliff Rd	054	Louisa County	054	Louisa County	0.25	SR 208 Courthouse Rd	Dead End	20	R							X						04/16/2007
+405035	  54	00669	     	54-669	Ellisville Dr	254	Town of Louisa	054	Louisa County	0.21	US 33 West Main St	54-1006 Loving St	2100	G	98%	1%	1%	0%	0%	0%	C	0.0868	F	0.5721	2300	G	2008
+405036	  54	00669	     	54-669	Ellisville Dr	254	Town of Louisa	054	Louisa County	0.41	54-1006 Loving St	NCL Louisa	1500	G	98%	1%	1%	0%	0%	0%	F	0.0904	F	0.6424	1600	G	2008
+405037	  54	00669	     	54-669	Ellisville Dr	054	Louisa County	054	Louisa County	1.05	NCL Louisa	54-731 Bannister Town Rd	1300	G	98%	1%	1%	0%	0%	0%	F	0.0959	F	0.6084	1400	G	2008
+405038	  54	00669	     	54-669	Ellisville Dr	054	Louisa County	054	Louisa County	1.49	54-731 Bannister Town Rd	54-742 Pinchtown Rd	1200	G	98%	1%	1%	0%	0%	0%	F	0.0969	F	0.5349	1300	G	2008
+405039	  54	00669	     	54-669	Ellisville Dr	054	Louisa County	054	Louisa County	1.74	54-742 Pinchtown Rd	54-613 S, Oakland Rd	1100	G	98%	1%	1%	0%	0%	0%	F	0.0907	F	0.5385	1200	G	2008
+405040	  54	00669	     	54-669	Ellisville Dr	054	Louisa County	054	Louisa County	0.30	54-613 S, Oakland Rd	54-613 N, Goldmine Rd	1500	G	98%	1%	1%	0%	0%	0%	F	0.0921	F	0.5400	1600	G	2008
+405041	  54	00669	     	54-669	Ellisville Dr	054	Louisa County	054	Louisa County	2.60	54-613 N, Goldmine Rd	54-620 Vawter Cornter Rd	810	G	98%	1%	1%	0%	0%	0%	F	0.1066	F	0.6383	880	G	2008
+405446	  54	00669	     	54-669	Ellisville Dr	054	Louisa County	054	Louisa County	0.80	54-620 Vawter Cornter Rd	Orange County Line	740	G	98%	1%	1%	0%	0%	0%	F	0.0981	F	0.6049	800	G	2008
+751630	  54	00670	     	54-670	Oak Grove Dr	054	Louisa County	054	Louisa County	0.86	SR 208 New Bridge Rd	Dead End	300	R							X						06/28/2004
+751631	  54	00671	     	54-671	Church Lane	054	Louisa County	054	Louisa County	0.13	54-634 Three Chopt Rd	Dead End	40	R							X						06/15/2004
+751632	  54	00672	     	54-672	Waldrop Rd	054	Louisa County	054	Louisa County	0.45	SR 22 Louisa Rd	Dead End	140	R							X						05/14/2004
+751633	  54	00673	     	54-673	Lewis Hill Lane	054	Louisa County	054	Louisa County	0.40	54-654 Bagby Rd	Dead End	70	R							X						04/09/2007
+751634	  54	00674	     	54-674	Sugarplum Rd	054	Louisa County	054	Louisa County	1.10	Dead End	54-649 Byrd Mill Rd	120	R							X						04/26/2007
+751635	  54	00675	     	54-675	Lindsay Rd	054	Louisa County	054	Louisa County	0.90	54-615 Mahanes Rd	54-660 Red Hill Rd	400	R							X						05/14/2004
+751636	  54	00675	     	54-675	Lindsay Rd	054	Louisa County	054	Louisa County	0.20	54-660 Red Hill Rd	SR 22 Louisa Rd	530	R							X						05/14/2004
+751637	  54	00676	     	54-676	Diamond Rd	054	Louisa County	054	Louisa County	0.20	Fluvanna County Line	54-627 Zion Rd	410	R							X						05/21/2004
+751638	  54	00677	     	54-677	Goodwin Store Rd	054	Louisa County	054	Louisa County	0.87	Dead End	0.87 MS Dead End	100	R							X						04/11/2007
+751639	  54	00677	     	54-677	Goodwin Store Rd	054	Louisa County	054	Louisa County	0.03	0.87 MS Dead End	54-605 Shannon Hill Rd	150	R							X						04/11/2007
+751640	  54	00678	     	54-678	Hanback Rd	054	Louisa County	054	Louisa County	1.00	54-691 Old Louisa Rd	1.00 MN 54-691 Old Louisa Rd	700	R							X						05/09/2007
+751641	  54	00678	     	54-678	Hanback Rd	054	Louisa County	054	Louisa County	1.50	1.00 MN 54-691 Old Louisa Rd	Dead End	360	R							X						05/09/2007
+751642	  54	00679	     	54-679	Firehouse Rd	054	Louisa County	054	Louisa County	1.25	54-692 Hickory Creek Rd	Dead End	30	R							X						05/25/2004
+751643	  54	00680	     	54-680	Haden Lane	054	Louisa County	054	Louisa County	0.50	Dead End	54-650 Pottiesville Rd	140	R							X						06/24/2004
+751644	  54	00681	     	54-681	Woodley Lane	054	Louisa County	054	Louisa County	0.30	Dead End	54-618 Fredericks Halls Rd	90	R							X						05/31/2007
+751645	  54	00682	     	54-682	Danne Rd	054	Louisa County	054	Louisa County	0.10	US 33 Louisa Rd	Dead End	30	R							X						05/09/2007
+751646	  54	00683	     	54-683	Parrish Rd	054	Louisa County	054	Louisa County	2.20	Goochland County Line	54-640, W Old Mountain Rd	30	R							X						04/11/2007
+751647	  54	00684	     	54-684	Tavern Rd	054	Louisa County	054	Louisa County	0.07	54-618 Fredericks Halls Rd	Dead End	50	R							X						05/31/2007
+751648	  54	00685	     	54-685	Centerville Rd	054	Louisa County	054	Louisa County	0.78	54-652 Kentucky Springs Rd	54-1025 Douglas Rd	370	R							X						10/01/2001
+751649	  54	00685	     	54-685	Centerville Rd	054	Louisa County	054	Louisa County	0.72	54-1025 Douglas Rd	Dead End	250	R							X						10/01/2001
+751650	  54	00686	     	54-686	Paddock Wood Rd	054	Louisa County	054	Louisa County	2.00	Albemarle County Line	54-615 Columbia Rd	180	R							X						04/30/2007
+751651	  54	00687	     	54-687	Daniel Rd	054	Louisa County	054	Louisa County	1.80	54-613 Goldmine Rd	US 522 Zachary Taylor Hwy	350	R							X						10/01/2001
+751652	  54	00688	     	54-688	Holland Creek Rd	054	Louisa County	054	Louisa County	0.84	US 250 Three Notch Rd	FR-192 Hasher Lane	90	R							X						04/16/2007
+751653	  54	00688	     	54-688	Holland Creek Rd	054	Louisa County	054	Louisa County	1.30	FR-192 Hasher Lane	54-721 Watkins Lane	70	R							X						04/16/2007
+751654	  54	00688	     	54-688	Holland Creek Rd	054	Louisa County	054	Louisa County	0.80	54-721 Watkins Lane	SR 208 Courthouse Rd	90	R							X						04/16/2007
+751655	  54	00689	     	54-689	Moorefield Rd	054	Louisa County	054	Louisa County	1.95	54-713 Moorevield Rd; Duval Rd	54-772 Breezy Point Rd	310	R							X						06/28/2004
+751656	  54	00689	     	54-689	Moorefield Rd	054	Louisa County	054	Louisa County	0.95	54-772 Breezy Point Rd	54-656 Cedar Hill Rd	320	R							X						06/30/2004
+751657	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.14	54-614 Carrs Bridge Lane	54-1230 Rhett Butler Dr	390	R							X						10/29/2001
+751658	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.11	54-1230 Rhett Butler Dr	54-771 Moss Lane	360	R							X						10/29/2001
+751659	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.11	54-771 Moss Lane	54-1231 Tara Circle	340	R							X						10/29/2001
+751660	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.13	54-1231 Tara Circle	54-1232 Tara Woods Dr	310	R							X						10/29/2001
+751661	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.68	54-1232 Tara Woods Dr	54-1201 Bear Castle Dr	240	R							X						10/29/2001
+751662	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.25	54-1201 Bear Castle Dr	54-1203 Becky Court	110	R							X						10/29/2001
+751663	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.16	54-1203 Becky Court	54-1250 Amy Lane	50	R							X						10/29/2001
+751664	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.24	54-1250 Amy Lane	54-1252 Edward Lane	50	R							X						10/29/2001
+751665	  54	00690	     	54-690	Burruss Mill Rd	054	Louisa County	054	Louisa County	0.05	54-1252 Edward Lane	Cul-de-Sac	20	R							X						10/29/2001
+751666	  54	00691	     	54-691	Old Louisa Rd	054	Louisa County	054	Louisa County	0.50	US 33, South Spotswood Trail	54-678 Hanback Rd	790	R							X						05/09/2007
+751667	  54	00691	     	54-691	Old Louisa Rd	054	Louisa County	054	Louisa County	0.60	54-678 Hanback Rd	Orange County Line; SCL Gordonsville	1200	R							X						05/09/2007
+751668	  54	00692	     	54-692	Hickory Creek Rd	054	Louisa County	054	Louisa County	0.10	54-613 Oakland Rd	54-679 Firehouse Rd	1300	R							X						05/09/2007
+751669	  54	00692	     	54-692	Hickory Creek Rd	054	Louisa County	054	Louisa County	2.50	54-679 Firehouse Rd	54-620 Vawter Corner Rd	410	R							X						05/09/2007
+751671	  54	00693	     	54-693	Kents Mill Rd	054	Louisa County	054	Louisa County	0.22	US 33 Louisa Rd	54-773 Jacoby Rd	880	R							X						05/25/2004
+751670	  54	00693	     	54-693	Kents Mill Rd	054	Louisa County	054	Louisa County	3.58	54-773 Jacoby Rd	54-613 Oakland Rd	420	R							X						05/25/2004
+751672	  54	00694	     	54-694	Loving Rd	054	Louisa County	054	Louisa County	2.50	54-600 Campbell Rd	54-615 Columbia Rd	330	R							X						05/21/2004
+751673	  54	00695	     	54-695	Hamilton Rd	054	Louisa County	054	Louisa County	2.30	54-640, E Jack Jouett Rd	54-636 Valentine Mills Rd	60	R							X						04/30/2007
+751674	  54	00695	     	54-695	Hamilton Rd	054	Louisa County	054	Louisa County	0.10	54-636 Valentine Mills Rd	54-613 Poindexter Rd	110	R							X						04/30/2007
+751675	  54	00696	     	54-696	Mallory Rd	054	Louisa County	054	Louisa County	1.30	54-626 Mallory Rd	US 250 Three Notch Rd	480	R							X						05/19/2004
+751676	  54	00697	     	54-697	Vigor Rd	054	Louisa County	054	Louisa County	1.83	54-640, W Old Mountain Rd	1.83 ME 54-640 Old Mountain Rd	47	R							X						04/11/2007
+751677	  54	00697	     	54-697	Vigor Rd	054	Louisa County	054	Louisa County	0.37	1.83 ME 54-640 Old Mountain Rd	54-646 Yanceyville Rd	110	R							X						04/11/2007
+751678	  54	00698	     	54-698	Rolling Path Rd	054	Louisa County	054	Louisa County	2.20	54-606 Waltons Store Rd	54-640, E Old Mountain Rd	60	R							X						05/04/2007
+751679	  54	00699	     	54-699	Indian Creek Rd	054	Louisa County	054	Louisa County	5.20	54-640, E Old Mountain Rd	US 522 Cross County Rd	100	R							X						05/04/2007
+405043	  54	00700	     	54-700	Mica Rd	054	Louisa County	054	Louisa County	1.81	US 522 Pendelton Rd	54-618 W, Fredericks Hall Rd	830	G	97%	0%	1%	1%	1%	0%	F	0.1225	F	0.7534	900	G	2008
+405044	  54	00700	     	54-700	Johnson Rd	054	Louisa County	054	Louisa County	4.60	54-618 E, Fredericks Hall Rd; Fredericks Halls Rd	54-652 Kentucky Springs Rd	1300	G	97%	0%	1%	1%	1%	0%	C	0.1505	F	0.7600	1400	G	2008
+751680	  54	00700	     	54-700	Haley Dr	054	Louisa County	054	Louisa County	0.96	54-652 Kentucky Springs Rd	Dead End	2800	R							X						10/01/2001
+751681	  54	00701	     	54-701	Belle Meade Rd	054	Louisa County	054	Louisa County	4.40	54-655 Bethany Church Rd	54-618 E, Belsches Rd	460	R							X						06/04/2007
+405045	  54	00701	     	54-701	Borden Rd	054	Louisa County	054	Louisa County	1.40	54-618 W, Belsches Rd	54-601 S, Bumpass Rd	800	G	97%	1%	1%	0%	1%	0%	C	0.1366	F	0.6864	870	G	2008
+405046	  54	00701	     	54-701	Borden Rd	054	Louisa County	054	Louisa County	0.20	54-601 MID	54-652 Kentucky Springs Rd	1300	G	97%	1%	1%	0%	1%	0%	F	0.1171	F	0.6717	1400	G	2008
+751682	  54	00701	     	54-701	Eastham Rd	054	Louisa County	054	Louisa County	2.48	54-652 Kentucky Springs Rd	54-622 Moody Town Rd	670	R							X						06/04/2007
+751683	  54	00701	     	54-701	Eastham Rd	054	Louisa County	054	Louisa County	0.82	54-622 Moody Town Rd	54-601 N, Greenes Corner Rd	800	R							X						06/04/2007
+751684	  54	00702	     	54-702	Dell Perkins Rd	054	Louisa County	054	Louisa County	0.50	Dead End	54-637 Brickhouse Rd	70	R							X						04/26/2007
+751685	  54	00703	     	54-703	Spring Rd	054	Louisa County	054	Louisa County	1.40	54-618 Fredericks Hall Rd	Dead End	260	R							X						06/28/2004
+751686	  54	00704	     	54-704	Porter Town Rd	054	Louisa County	054	Louisa County	0.40	Dead End	54-660 Red Hill Rd	48	R							X						05/03/2007
+751687	  54	00706	     	54-706	Turners Mill Rd	054	Louisa County	054	Louisa County	0.30	54-635 Willow Brook Rd; West Chapel Rd	Dead End	20	R							X						04/05/2007
+751688	  54	00707	     	54-707	Charles Lane	054	Louisa County	054	Louisa County	0.20	SR 208 Courthouse Rd	Dead End	130	R							X						04/16/2007
+751689	  54	00708	     	54-708	Nannie Burton Rd	054	Louisa County	054	Louisa County	1.10	54-604 Roundabout Rd	Dead End	350	R							X						05/28/2004
+751690	  54	00709	     	54-709	Blueberry Lane	054	Louisa County	054	Louisa County	0.50	Dead End	SR 208 Courthouse Rd	120	R							X						04/16/2007
+751691	  54	00710	     	54-710	Johnson Mill Rd	054	Louisa County	054	Louisa County	1.40	Dead End	54-635 Willow Brook Rd	200	R							X						06/14/2004
+751692	  54	00711	     	54-711	Patrick Henry Place	054	Louisa County	054	Louisa County	1.00	54-604 Roundabout Rd	Dead End	60	R							X						04/11/2007
+751693	  54	00712	     	54-712	Buckners Lane	054	Louisa County	054	Louisa County	0.80	Dead End	54-700 Johnson Rd	80	R							X						06/28/2004
+751694	  54	00713	     	54-713	Duval Rd	054	Louisa County	054	Louisa County	0.15	Dead End	54-689 Moorefield Rd	40	R							X						05/21/2007
+751695	  54	00713	     	54-713	Moorevield Rd	054	Louisa County	054	Louisa County	0.10	54-689 Moorefield Rd	54-700 Mica Rd	710	R							X						05/31/2007
+751696	  54	00714	     	54-714	Horseshoe Farm Rd	054	Louisa County	054	Louisa County	0.01	54-604 Roundabout Rd	0.01 MN 54-604 Roundabout Rd	40	R							X						06/08/2004
+751697	  54	00714	     	54-714	Horseshoe Farm Rd	054	Louisa County	054	Louisa County	2.36	0.01 MN 54-604 Roundabout Rd	SR 208 Courthouse Rd	30	R							X						06/08/2004
+405047	  54	00715	     	54-715	Bumpass Rd	054	Louisa County	054	Louisa County	1.10	54-601 Greenes Corner Rd	Hanover County Line; 42-715 Beaver Dam Rd	640	G	90%	3%	2%	2%	4%	0%	C	0.0959	F	0.5758	690	G	2008
+751698	  54	00716	     	54-716	Garland Town Rd	054	Louisa County	054	Louisa County	1.30	54-612 Halls Store Rd	Dead End	110	R							X						06/04/2007
+751699	  54	00717	     	54-717	Central Branch Rd	054	Louisa County	054	Louisa County	0.70	Dead End	54-613 Poindexter Rd	20	R							X						04/30/2007
+751700	  54	00718	     	54-718	Proffits Rd	054	Louisa County	054	Louisa County	1.60	Goochland County Line	54-606 Waltons Store Rd	170	R							X						04/05/2007
+751701	  54	00719	     	54-719	Days Bridge Rd	054	Louisa County	054	Louisa County	1.39	US 522 Zachary Taylor Hwy	Spotsylvania County Line	1700	R							X						06/29/2004
+751702	  54	00720	     	54-720	Hensley Rd	054	Louisa County	054	Louisa County	2.04	US 522 Zachary Taylor Hwy	54-1160 Ashley Dr	390	R							X						06/28/2004
+791795	  54	00720	     	54-720	Hensley Rd	054	Louisa County	054	Louisa County	1.01	54-1160 Ashley Dr	Cul-de-Sac	0	?							X
+751703	  54	00721	     	54-721	Watkins Lane	054	Louisa County	054	Louisa County	0.30	Dead End	54-688 Holland Creek Rd	40	R							X						04/16/2007
+751704	  54	00722	     	54-722	Garretts Mill Rd	054	Louisa County	054	Louisa County	0.50	54-618 Fredericks Hall Rd	Dead End	120	R							X						06/23/2004
+751705	  54	00723	     	54-723	Bohannon Rd	054	Louisa County	054	Louisa County	0.28	54-652 Kentucky Springs Rd	54-1055 Cuckoos Nest Dr	550	R							X						06/24/2004
+751706	  54	00723	     	54-723	Bohannon Rd	054	Louisa County	054	Louisa County	0.49	54-1055 Cuckoos Nest Dr	Dead End	30	R							X						06/24/2004
+751707	  54	00724	     	54-724	Harlow Town Rd	054	Louisa County	054	Louisa County	1.00	54-640, E Jack Jouett Rd	Dead End	6	R							X						05/19/2004
+751708	  54	00725	     	54-725	Thacker Rd	054	Louisa County	054	Louisa County	0.50	54-665 Kennon Rd	Dead End	180	R							X						05/21/2007
+751709	  54	00726	     	54-726	Lightwood Rd	054	Louisa County	054	Louisa County	1.00	54-636 Dumkum Store Rd	Dead End	200	R							X						05/14/2004
+751710	  54	00727	     	54-727	Mickie Town Rd	054	Louisa County	054	Louisa County	1.50	Dead End	54-635 Factory Mill Dr	420	R							X						06/14/2004
+751711	  54	00728	     	54-728	Busbees Point Rd	054	Louisa County	054	Louisa County	0.85	54-652 Kentucky Springs Rd	Dead End	60	R							X						06/17/2004
+751712	  54	00729	     	54-729	South Main St	054	Louisa County	054	Louisa County	0.12	Dead End	SCL Gordonsville; 68-1015	60	R							X						05/14/2004
+751713	  54	00730	     	54-730	Range Rd	054	Louisa County	054	Louisa County	0.40	US 33, SR 22 Louisa Rd	Dead End	50	R							X						05/25/2004
+751714	  54	00731	     	54-731	Bannister Town Rd	054	Louisa County	054	Louisa County	0.60	54-669 Ellisville Dr	Dead End	180	R							X						05/25/2004
+751715	  54	00732	     	54-732	Old Bickly Town Rd	054	Louisa County	054	Louisa County	0.20	54-642 Old Bickley Town Rd; Bickley Rd	Dead End	40	R							X						04/16/2007
+751716	  54	00733	     	54-733	Kents Mill Rd	054	Louisa County	054	Louisa County	0.45	Dead End	54-623 Chopping Rd	110	R							X						06/30/2004
+751717	  54	00734	     	54-734	Robertson Town Rd	054	Louisa County	054	Louisa County	1.39	Cul-de-Sac	54-635 West Chapel Rd	130	R							X						06/15/2004
+751718	  54	00735	     	54-735	Colemans Lane	054	Louisa County	054	Louisa County	0.46	54-618 Fredericks Hall Rd	Dead End	60	R							X						06/04/2007
+751719	  54	00736	     	54-736	Thurston Rd	054	Louisa County	054	Louisa County	0.30	Dead End	54-613 Oakland Rd	140	R							X						05/09/2007
+751720	  54	00737	     	54-737	Pleasant View Dr	054	Louisa County	054	Louisa County	0.25	SR 208 Courthouse Rd	Dead End	40	R							X						04/16/2007
+751721	  54	00738	     	54-738	Smith Family Rd	054	Louisa County	054	Louisa County	0.65	Dead End	54-605 Shannon Hill Rd	140	R							X						06/11/2004
+751722	  54	00739	     	54-739	Plum Tree Rd	054	Louisa County	054	Louisa County	0.15	54-652 Kentucky Springs Rd	54-1200 W, Plum Tree Circle	110	R							X						06/17/2004
+751723	  54	00739	     	54-739	Plum Tree Rd	054	Louisa County	054	Louisa County	0.33	54-1200 W, Plum Tree Circle	54-1200 E, Plum Tree Circle	20	R							X						06/17/2004
+751724	  54	00739	     	54-739	Plum Tree Rd	054	Louisa County	054	Louisa County	0.20	54-1200 E, Plum Tree Circle	Dead End	49	R							X						10/25/2001
+751725	  54	00740	     	54-740	Desper Rd	054	Louisa County	054	Louisa County	0.25	Dead End	54-632 Waldrop Church Rd	30	R							X						04/26/2007
+751726	  54	00741	     	54-741	Walnut Shade Rd	054	Louisa County	054	Louisa County	1.30	Dead End	US 33 Louisa Rd	190	R							X						04/26/2007
+751727	  54	00742	     	54-742	Pinchtown Rd	054	Louisa County	054	Louisa County	0.45	Dead End	54-669 Ellisville Dr	140	R							X						05/09/2007
+751728	  54	00743	     	54-743	Ambler Rd	054	Louisa County	054	Louisa County	1.00	54-605 Shannon Hill Rd	Dead End	120	R							X						04/11/2007
+751729	  54	00744	     	54-744	Amick Rd	054	Louisa County	054	Louisa County	1.02	Dead End	US 33 Louisa Rd	240	R							X						04/26/2007
+751730	  54	00745	     	54-745	Tisdale Rd	054	Louisa County	054	Louisa County	1.45	54-649; 54-633	1.45 ME 54-649	290	R							X						04/26/2007
+751731	  54	00745	     	54-745	Tisdale Rd	054	Louisa County	054	Louisa County	0.70	1.45 ME 54-639	54-632 Waldrop Church Rd	260	R							X						04/26/2007
+751732	  54	00746	     	54-746	Old Farm Hollow	054	Louisa County	054	Louisa County	0.50	54-623 Chopping Rd	Dead End	180	R							X						05/29/2007
+751733	  54	00747	     	54-747	Two County Lane	054	Louisa County	054	Louisa County	0.10	Fluvanna County Line	Dead End	60	R							X						04/11/2007
+751734	  54	00748	     	54-748	Jones Farm Rd	054	Louisa County	054	Louisa County	0.45	US 33 Jefferson Hwy	Dead End	200	R							X						06/22/2004
+751735	  54	00749	     	54-749	Forest Hill Rd	054	Louisa County	054	Louisa County	1.35	Dead End	US 33 South Spotswood Trail	1500	R							X						05/14/2004
+751736	  54	00750	     	54-750	Lands End Rd	054	Louisa County	054	Louisa County	0.72	FR-191 Crew Rd	Dead End	280	R							X						04/16/2007
+751737	  54	00751	     	54-751	Hancock Mill Rd	054	Louisa County	054	Louisa County	0.52	US 522 Zachary Taylor Hwy	Dead End	260	R							X						06/28/2004
+751738	  54	00752	     	54-752	River Bend Dr	054	Louisa County	054	Louisa County	1.00	Dead End	54-610 Holly Grove Dr	480	R							X						06/15/2004
+751739	  54	00753	     	54-753	Sam Boyo Rd	054	Louisa County	054	Louisa County	0.45	54-630 Harris Creek Rd	SR 208 Courthouse Rd	200	R							X						04/15/2004
+751740	  54	00754	     	54-754	Bakers Branch Rd	054	Louisa County	054	Louisa County	0.25	54-640, E Old Mountain Rd	Dead End	80	R							X						04/11/2007
+751741	  54	00755	     	54-755	New Anna Rd	054	Louisa County	054	Louisa County	0.75	Dead End	US 522 Cross County Rd	49	R							X						04/05/2007
+751742	  54	00756	     	54-756	Yancy Dr	054	Louisa County	054	Louisa County	0.30	Dead End	54-601 Paynes Mill Rd	70	R							X						04/09/2007
+751743	  54	00757	     	54-757	Wagner Farm Rd	054	Louisa County	054	Louisa County	0.38	Dead End	US 33 Louisa Rd	110	R							X						05/19/2004
+751744	  54	00758	     	54-758	White Walnut Rd	054	Louisa County	054	Louisa County	0.85	Dead End	54-605 Shannon Hill Rd	70	R							X						04/11/2007
+751745	  54	00759	     	54-759	Rollins Lane	054	Louisa County	054	Louisa County	0.34	US 250 Three Notch Rd	Dead End	170	R							X						04/23/2007
+751746	  54	00760	     	54-760	Jones Rd	054	Louisa County	054	Louisa County	0.35	54-621 Peach Grove Rd	Dead End	100	R							X						05/25/2004
+751747	  54	00761	     	54-761	Hollyhurst Lane	254	Town of Louisa	054	Louisa County	0.24	US 33 Jefferson Hwy	Dead End	260	R							X						04/16/2004
+751748	  54	00762	     	54-762	Christmas Rd	054	Louisa County	054	Louisa County	0.35	Dead End	54-626 Evergreen Rd	80	R							X						05/19/2004
+751749	  54	00763	     	54-763	Henson Rd	054	Louisa County	054	Louisa County	0.20	Dead End	54-626 Evergreen Rd	60	R							X						04/23/2007
+751750	  54	00764	     	54-764	Will Johnson Rd	054	Louisa County	054	Louisa County	0.50	Dead End	54-607 Rock Quarry Rd	150	R							X						04/23/2007
+751751	  54	00765	     	54-765	Alex Dr	054	Louisa County	054	Louisa County	0.15	Dead End	SR 208 Courthouse Rd	240	R							X						04/15/2004
+751752	  54	00766	     	54-766	Green Pastures Dr	054	Louisa County	054	Louisa County	0.57	Begin Loop	End Loop	50	R							X						06/14/2004
+751753	  54	00766	     	54-766	Green Pastures Dr	054	Louisa County	054	Louisa County	0.11	End Loop	54-635 Factory Mill Dr	70	R							X						06/14/2004
+751754	  54	00767	     	54-767	School Bus Rd	054	Louisa County	054	Louisa County	1.75	SR 22 Davis Hwy	US 33 Jefferson Hwy	1200	R							X						06/08/2004
+751755	  54	00768	     	54-768	McGhee Loop	054	Louisa County	054	Louisa County	0.14	FR-191 Crew Rd	SR 208 Courthouse Rd	40	R							X						05/19/2004
+751756	  54	00769	     	54-769	Poindexter Lane	054	Louisa County	054	Louisa County	0.05	54-614; 54-652	Dead End	760	R							X						06/17/2004
+751757	  54	00770	     	54-770	Johnny Hall Rd	054	Louisa County	054	Louisa County	0.31	US 522 Zachary Taylor Hwy	Dead End	20	R							X						06/28/2004
+751758	  54	00771	     	54-771	Moss Lane	054	Louisa County	054	Louisa County	0.20	Dead End	54-690 Burruss Mill Rd	10	R							X						04/09/2004
+751759	  54	00772	     	54-772	Breezy Point Rd	054	Louisa County	054	Louisa County	0.75	Dead End	54-689 Moorefield Rd	80	R							X						06/28/2004
+751760	  54	00773	     	54-773	Jacoby Rd	054	Louisa County	054	Louisa County	0.33	54-693 Kents Mill Rd	Dead End	110	R							X						05/25/2004
+751761	  54	00774	     	54-774	Smithfield Rd	054	Louisa County	054	Louisa County	0.10	Dead End	0.10 MN Dead End	60	R							X						04/11/2007
+751762	  54	00774	     	54-774	Smithfield Rd	054	Louisa County	054	Louisa County	0.20	0.10 MN Dead End	54-605 Shannon Hill Rd	100	R							X						04/11/2007
+751763	  54	00775	     	54-775	Rising Sun Lane	054	Louisa County	054	Louisa County	0.70	Dead End	54-618 Fredericks Halls Rd	10	R							X						06/25/2004
+751764	  54	00776	     	54-776	Trice Rd	054	Louisa County	054	Louisa County	0.50	Dead End	54-601 Paynes Mill Rd	120	R							X						04/09/2007
+751765	  54	00777	     	54-777	Lucy Duke Lane	054	Louisa County	054	Louisa County	0.50	54-655 Bethany Church Rd	Dead End	20	R							X						04/09/2007
+751766	  54	00778	     	54-778	Bus Garage Dr	054	Louisa County	054	Louisa County	0.27	Dead End	SR 22 Davis Hwy	1600	R							X						06/08/2004
+751767	  54	00779	     	54-779	Ebenezer Rd	054	Louisa County	054	Louisa County	0.45	Dead End	US 522 Pendelton Rd	70	R							X						05/21/2007
+751768	  54	00780	     	54-780	Industrial Dr	054	Louisa County	054	Louisa County	0.59	Dead End	54-781 Rescue Lane	1900	R							X						05/21/2007
+751769	  54	00780	     	54-780	Industrial Dr	054	Louisa County	054	Louisa County	0.11	54-781 Rescue Lane	SR 22 Davis Hwy	2600	R							X						05/21/2007
+751770	  54	00781	     	54-781	Rescue Lane	054	Louisa County	054	Louisa County	0.11	Cul-de-Sac	54-780 Industrial Dr	230	R							X						06/08/2004
+751771	  54	00782	     	54-782	Woodland Dr	054	Louisa County	054	Louisa County	0.35	Dead End	54-607 Rock Quarry Rd	150	R							X						04/23/2007
+751772	  54	00783	     	54-783	Houchens Rd	054	Louisa County	054	Louisa County	0.20	54-656 Cedar Hill Rd	Dead End	100	R							X						05/31/2007
+751773	  54	00784	     	54-784	Bailey Dr	054	Louisa County	054	Louisa County	0.53	54-687 Daniel Rd	Cul-de-Sac	110	R							X						06/30/2004
+751774	  54	00785	     	54-785	North Anna Dr	054	Louisa County	054	Louisa County	0.55	54-621 Peach Grove Rd	Cul-de-Sac	90	R							X						05/25/2004
+751775	  54	00786	     	54-786	Scott Lane	054	Louisa County	054	Louisa County	0.27	54-621 Peach Grove Rd	Cul-de-Sac	10	R							X						05/25/2004
+751776	  54	00787	     	54-787	Alma Rd	054	Louisa County	054	Louisa County	0.14	54-621 Peach Grove Rd	54-788 Plateau Rd	40	R							X						05/25/2004
+751777	  54	00788	     	54-788	Plateau Rd	054	Louisa County	054	Louisa County	0.19	54-787 Alma Rd	Cul-de-Sac	40	R							X						05/25/2004
+751778	  54	00789	     	54-789	C C C Rd	054	Louisa County	054	Louisa County	0.17	US 33 Jefferson Hwy	Dead End	120	R							X						05/21/2007
+751779	  54	00790	     	54-790	Shorewood Dr	054	Louisa County	054	Louisa County	0.41	54-1071 S, Laurelwood Dr	54-652 Kentucky Springs Rd	200	R							X						10/18/2001
+751780	  54	00790	     	54-790	Mitchell Point Rd	054	Louisa County	054	Louisa County	0.92	54-652 Kentucky Springs Rd	54-1041 Edgewood Dr	420	R							X						04/06/2004
+751781	  54	00790	     	54-790	Mitchell Point Rd	054	Louisa County	054	Louisa County	0.59	54-1041 Edgewood Dr	54-1049 Walnut Hill Dr	80	R							X						04/06/2004
+751783	  54	00790	     	54-790	Mitchell Point Rd	054	Louisa County	054	Louisa County	0.06	54-1049 Walnut Hill Dr	Cul-de-Sac	20	R							X						10/18/2001
+751784	  54	00791	     	54-791	Grooms Lane	054	Louisa County	054	Louisa County	0.45	US 250 Three Notch Rd	Dead End	140	R							X						04/23/2007
+751785	  54	00792	     	54-792	Carter Rd	054	Louisa County	054	Louisa County	0.50	Dead End	54-613 Poindexter Rd	210	R							X						04/23/2007
+751786	  54	00793	     	54-793	Miltons Lane	054	Louisa County	054	Louisa County	0.22	54-621 Peach Grove Rd	Cul-de-Sac	30	R							X						10/01/2001
+751787	  54	00794	     	54-794	Ponderosa Rd	054	Louisa County	054	Louisa County	0.30	Dead End	54-639 Doctors Rd	120	R							X						05/09/2007
+751788	  54	00795	     	54-795	Zion Park Rd	032	Fluvanna County	054	Louisa County	0.04	Dead End	Fluvanna County Line	600	R							X						04/23/2007
+751789	  54	00795	     	54-795	Zion Park Rd	054	Louisa County	054	Louisa County	0.25	Fluvanna County Line	US 250 Three Notch Rd	2000	R							X						04/23/2007
+751790	  54	00796	     	54-796	Crossroads Ctr	054	Louisa County	054	Louisa County	0.24	54-795 Zion Park Rd	Dead End	1100	R							X						04/23/2007
+796103	  54	00797	     	54-797	 	054	Louisa County	054	Louisa County	0.38	54-807	SR 22 Davis Hwy	0	?							X
+751791	  54	00799	     	54-799	Beaverdam Rd	054	Louisa County	054	Louisa County	1.00	Albemarle County Line	54-600 Campbell Rd	540	R							X						05/03/2007
+751792	  54	00800	     	54-800	Holly Springs Dr	054	Louisa County	054	Louisa County	0.50	Dead End	SR 208 Courthouse Rd	310	R							X						05/28/2004
+786500	  54	00804	     	54-804	Rock Springs Rd	054	Louisa County	054	Louisa County	1.30	Dead End	42-664 Hopeful Church Rd	180	R							X						04/09/2007
+751793	  54	00805	     	54-805	Horseshoe Bend	054	Louisa County	054	Louisa County	0.55	54-664 Gammon Town Rd	Cul-de-Sac	350	R							X						06/14/2004
+796104	  54	00807	     	54-807	 	054	Louisa County	054	Louisa County	0.32	Dead End	54-797	0	?							X
+791796	  54	00810	     	54-810	Laurel Ridge Dr	054	Louisa County	054	Louisa County	1.11	Dead End; Gap	54-601 Orchid Rd	190	R							X						04/09/2007
+793275	  54	00820	     	54-820	 	054	Louisa County	054	Louisa County	0.38	Dead End	54-625 Chalklevel Rd	0	?							X
+751794	  54	00850	     	54-850	Anna Coves Blvd	054	Louisa County	054	Louisa County	1.00	SR 208 New Bridge Rd	54-851 Rogers Ct	310	R							X						06/28/2004
+751795	  54	00850	     	54-850	Anna Coves Blvd	054	Louisa County	054	Louisa County	0.28	54-851 Rogers Ct	Cul-de-Sac	80	R							X						06/28/2004
+751796	  54	00851	     	54-851	Rogers Ct	054	Louisa County	054	Louisa County	0.30	54-850 Anna Coves Blvd	Cul-de-Sac	80	R							X						06/28/2004
+782542	  54	00852	     	54-852	Anna Coves Ct	054	Louisa County	054	Louisa County	0.27	54-850 Anna Coves Blvd	Cul-de-Sac	90	R							X						10/01/2001
+751797	  54	00860	     	54-860	Klockner Lane	054	Louisa County	054	Louisa County	0.77	Albemarle County Line	54-660 Red Hill Rd	1100	R							X						05/03/2007
+751798	  54	00860	     	54-860	Klockner Lane	054	Louisa County	054	Louisa County	1.23	54-660 Red Hill Rd	US 15 James Madison Hwy	1900	R							X						05/09/2007
+751799	  54	00861	     	54-861	Holiday Rd	054	Louisa County	054	Louisa County	0.21	54-860	Orange County Line	190	R							X						05/14/2004
+784255	  54	00862	     	54-862	Penta Dr	054	Louisa County	054	Louisa County	0.39	Cul-de-Sac	54-861 Holiday Rd	160	R							X						05/09/2007
+785393	  54	00995	     	54-995	Spring Woods Rd	054	Louisa County	054	Louisa County	0.30	US 33 Jefferson Hwy	Cul-de-Sac	80	R							X						04/09/2007
+751800	  54	01000	     	54-1000	Zion Ct	054	Louisa County	054	Louisa County	0.12	Cul-de-Sac	54-615 Zion Rd	70	R							X						04/30/2007
+751801	  54	01001	     	54-1001	Church Ave	254	Town of Louisa	054	Louisa County	0.19	US 33 West Main St	54-1010 Patrick Henry Dr	870	R							X						04/22/2004
+751802	  54	01001	     	54-1001	Church Ave	254	Town of Louisa	054	Louisa County	0.05	54-1010 Patrick Henry Dr	54-1014 School St	220	R							X						04/22/2004
+751803	  54	01001	     	54-1001	Church Ave	254	Town of Louisa	054	Louisa County	0.08	54-1014 School St	Dead End	10	R							X						05/21/2007
+751804	  54	01002	     	54-1002	South St	254	Town of Louisa	054	Louisa County	0.04	Dead End	54-1004 McDonald St	46	R							X						04/15/2004
+751805	  54	01002	     	54-1002	South St	254	Town of Louisa	054	Louisa County	0.18	54-1004 McDonald St	54-1003 Meadow Ave	420	R							X						04/15/2004
+751806	  54	01002	     	54-1002	South St	254	Town of Louisa	054	Louisa County	0.08	54-1003 Meadow Ave	54-1015 Commack St	340	R							X						04/20/2004
+751807	  54	01002	     	54-1002	Cammack St	254	Town of Louisa	054	Louisa County	0.11	54-1015 Commack St	US 33 West Main St	560	R							X						04/20/2004
+751808	  54	01003	     	54-1003	Meadow Ave	254	Town of Louisa	054	Louisa County	0.19	54-1002 South St	US 33 West Main St	230	R							X						04/15/2004
+751809	  54	01004	     	54-1004	McDonald St	254	Town of Louisa	054	Louisa County	0.17	54-1002 South St	SR 208	580	R							X						05/21/2007
+751810	  54	01004	     	54-1004	McDonald St; Ashely St	254	Town of Louisa	054	Louisa County	0.20	SR 208	54-1009 Woolfolk Ave	370	R							X						05/21/2007
+751811	  54	01004	     	54-1004	Rosewood Ave	254	Town of Louisa	054	Louisa County	0.05	54-1009 Woolfolk Ave	US 33; 54-628	770	R							X						04/15/2004
+751813	  54	01005	     	54-1005	Loch Lane Dr	254	Town of Louisa	054	Louisa County	0.27	Dead End	US 33 West Main St	770	R							X						04/16/2004
+751814	  54	01006	     	54-1006	Loving St	254	Town of Louisa	054	Louisa County	0.15	Dead End	54-669 Ellisville Dr	200	R							X						04/21/2004
+751815	  54	01007	     	54-1007	Lyde St	254	Town of Louisa	054	Louisa County	0.15	54-1024 Lyde Ave	54-1011 Carter St	950	R							X						05/21/2007
+751816	  54	01007	     	54-1007	Lyde Ave	254	Town of Louisa	054	Louisa County	0.18	54-1011 Carter St	US 33 West Main St	1000	R							X						04/16/2004
+751817	  54	01008	     	54-1008	Cutler Ave	254	Town of Louisa	054	Louisa County	0.06	54-1012 Pinehurst Dr	54-1010 Patrick Henry Dr	80	R							X						04/21/2004
+751818	  54	01008	     	54-1008	Cutler Ave	254	Town of Louisa	054	Louisa County	0.09	54-1010 Patrick Henry Dr	54-1013 Sims Ave	290	R							X						04/21/2004
+751820	  54	01008	     	54-1008	Cutler Ave	254	Town of Louisa	054	Louisa County	0.14	54-1013 Sims Ave	US 33 West Main St	380	R							X						04/21/2004
+751821	  54	01009	     	54-1009	Woolfolk Ave	254	Town of Louisa	054	Louisa County	0.11	54-1004 McDonald St; Ashley St	SR 208	1400	R							X						05/21/2007
+751822	  54	01010	     	54-1010	Patrick Henry Dr	254	Town of Louisa	054	Louisa County	0.11	54-1001 Church Ave	54-1008 Cutler Ave	170	R							X						04/21/2004
+751823	  54	01010	     	54-1010	Patrick Henry Dr	254	Town of Louisa	054	Louisa County	0.17	54-1008 Cutler Ave	Dead End	220	R							X						04/21/2004
+751824	  54	01011	     	54-1011	Carter St	254	Town of Louisa	054	Louisa County	0.06	Dead End	54-1007 Lyde Ave	47	R							X						04/16/2004
+751825	  54	01012	     	54-1012	Pinehurst Dr	254	Town of Louisa	054	Louisa County	0.12	54-1008 Cutler Ave	Dead End	80	R							X						04/21/2004
+751826	  54	01013	     	54-1013	Sims Ave	254	Town of Louisa	054	Louisa County	0.07	54-1008 Cutler Ave	54-1016 Locust St	180	R							X						04/21/2004
+751827	  54	01013	     	54-1013	Sims Ave	254	Town of Louisa	054	Louisa County	0.05	54-1016 Locust St	Dead End	30	R							X						04/21/2004
+751828	  54	01014	     	54-1014	School St	254	Town of Louisa	054	Louisa County	0.14	54-628 Fredericksburg Ave	54-1001 Church Ave	210	R							X						04/22/2004
+751829	  54	01015	     	54-1015	Cammack St	254	Town of Louisa	054	Louisa County	0.04	Dead End	54-1002 South St	250	R							X						04/20/2004
+751830	  54	01016	     	54-1016	Locust St	254	Town of Louisa	054	Louisa County	0.07	Dead End	54-1013 Sims Ave	110	R							X						04/21/2004
+751831	  54	01017	     	54-1017	Virginia Way	054	Louisa County	054	Louisa County	0.09	US 522 Zachary Taylor Hwy	54-1018 S, Mountain View	60	R							X						07/02/2004
+751832	  54	01017	     	54-1017	Virginia Way	054	Louisa County	054	Louisa County	0.20	54-1018 S, Mountain View	54-1018 N, Mountain View	50	R							X						07/02/2004
+751833	  54	01018	     	54-1018	Mountain  View	054	Louisa County	054	Louisa County	0.42	54-1017 S, Virginia Way	54-1017 N, Virginia Way	40	R							X						07/02/2004
+751834	  54	01018	     	54-1018	Mountain View	054	Louisa County	054	Louisa County	0.10	54-1017 N, Virginia Way	54-1019 Tomahawk Circle	46	R							X						07/02/2004
+751835	  54	01019	     	54-1019	Tomahawk Circle	054	Louisa County	054	Louisa County	0.06	54-1018 Mountain View	Cul-de-Sac	30	R							X						07/02/2004
+751836	  54	01020	     	54-1020	Club Rd	254	Town of Louisa	054	Louisa County	0.35	54-1022 Fairway Dr	54-1021 Barnstormer Circle	450	R							X						05/21/2007
+751837	  54	01020	     	54-1020	Club Rd	254	Town of Louisa	054	Louisa County	0.30	54-1021 Barnstormer Circle	US 33 Jefferson Hwy	1000	R							X						04/16/2004
+751838	  54	01021	     	54-1021	Barnstormer Circle	254	Town of Louisa	054	Louisa County	0.13	54-1020 Club Rd	Cul-de-Sac	60	R							X						05/21/2007
+751839	  54	01022	     	54-1022	Fairway Dr	254	Town of Louisa	054	Louisa County	0.29	Dead End	54-1023 Woodger Circle	100	R							X						05/21/2007
+751840	  54	01022	     	54-1022	Fairway Dr	254	Town of Louisa	054	Louisa County	0.14	54-1023 Woodger Circle	54-1020 Club Rd	330	R							X						05/21/2007
+751841	  54	01023	     	54-1023	Woodger Circle	254	Town of Louisa	054	Louisa County	0.36	54-1022 Fairway Dr	Cul-de-Sac	170	R							X						05/21/2007
+751842	  54	01024	     	54-1024	Lyde Ave	254	Town of Louisa	054	Louisa County	0.10	54-1007 Lyde Ave	Dead End	1100	R							X						04/16/2004
+751843	  54	01025	     	54-1025	Douglas Rd	054	Louisa County	054	Louisa County	0.55	54-685 Centerville Rd	54-1026 Eleanor Lane	100	R							X						10/18/2001
+792414	  54	01025	     	54-1025	Douglas Rd	054	Louisa County	054	Louisa County	0.07	54-1026 Eleanor Lane	Cul-de-Sac	0	?							X
+751844	  54	01026	     	54-1026	Eleanor Lane	054	Louisa County	054	Louisa County	0.16	54-1025 Douglas Rd	54-1027 David Rd	140	R							X						10/18/2001
+751845	  54	01027	     	54-1027	David Rd	054	Louisa County	054	Louisa County	0.18	Cul-de-Sac	54-1026 Eleanor Lane	50	R							X						04/06/2004
+751846	  54	01027	     	54-1027	David Rd	054	Louisa County	054	Louisa County	0.15	54-1026 Eleanor Lane	Cul-de-Sac	80	R							X						10/18/2001
+783232	  54	01028	     	54-1028	Admiral Dr	054	Louisa County	054	Louisa County	0.19	54-701 Eastham Rd	54-1029 June Bug Lane	70	R							X						06/04/2007
+783233	  54	01029	     	54-1029	June Bug Lane	054	Louisa County	054	Louisa County	0.03	Dead End	54-1028 Admiral Dr	8	R							X						06/04/2007
+787596	  54	01029	     	54-1029	June Bug Lane	054	Louisa County	054	Louisa County	0.12	54-1028 Admiral Dr	Dead End	60	R							X						06/04/2007
+751847	  54	01030	     	54-1030	Pleasant Landing Rd	054	Louisa County	054	Louisa County	0.26	54-701 Eastham Rd	Cul-de-Sac	160	R							X						06/04/2007
+785394	  54	01031	     	54-1031	River Crest Rd	054	Louisa County	054	Louisa County	0.27	54-1032 Medow Ridge Rd	54-600; 54-1031 MID	150	R							X						05/03/2007
+785395	  54	01032	     	54-1032	Medow Ridge Rd	054	Louisa County	054	Louisa County	0.35	Dead End	Dead End	130	R							X						05/03/2007
+785396	  54	01033	     	54-1033	Brook Mere Lane	054	Louisa County	054	Louisa County	0.17	54-1034 Saint Ivy Ave	54-600 Campbell Rd	30	R							X						04/30/2007
+785397	  54	01034	     	54-1034	Saint Ivy Ave	054	Louisa County	054	Louisa County	0.47	Dead End	54-600 Campbell Rd	180	R							X						04/30/2007
+751848	  54	01035	     	54-1035	Pine Point Pl	054	Louisa County	054	Louisa County	0.17	Cul-de-Sac	54-652 Kentucky Springs Rd	30	R							X						10/18/2001
+786501	  54	01036	     	54-1036	Crestmont Rd	054	Louisa County	054	Louisa County	0.09	Cul-de-Sac	54-600 Campbell Rd	20	R							X						05/21/2004
+784256	  54	01037	     	54-1037	Lakeshore Run	054	Louisa County	054	Louisa County	0.40	54-685 Centerville Rd	Cul-de-Sac	30	R							X						10/18/2001
+784257	  54	01038	     	54-1038	Tobys Run	054	Louisa County	054	Louisa County	0.09	Cul-de-Sac	54-1037 Lakeshore Run	30	R							X						10/18/2001
+784258	  54	01039	     	54-1039	Wades Run	054	Louisa County	054	Louisa County	0.08	54-1037 Lakeshore Run	Cul-de-Sac	20	R							X						10/18/2001
+751849	  54	01040	     	54-1040	Mark Wayne Lane	054	Louisa County	054	Louisa County	0.19	Cul-de-Sac	54-790 Mitchell Point Rd	70	R							X						10/18/2001
+751850	  54	01041	     	54-1041	Edgewood Dr	054	Louisa County	054	Louisa County	0.13	Cul-de-Sac	54-1044 Katie Dr	70	R							X						10/18/2001
+751851	  54	01041	     	54-1041	Edgewood Dr	054	Louisa County	054	Louisa County	0.09	54-1044 Katie Dr	54-1042 Kelly Circle	90	R							X						10/18/2001
+751852	  54	01041	     	54-1041	Edgewood Dr	054	Louisa County	054	Louisa County	0.07	54-1042 Kelly Circle	54-1043 Madeline Lane	90	R							X						10/18/2001
+751853	  54	01041	     	54-1041	Edgewood Dr	054	Louisa County	054	Louisa County	0.13	54-1043 Madeline Lane	54-790 Mitchell Point Rd	150	R							X						10/18/2001
+751854	  54	01042	     	54-1042	Kelly Circle	054	Louisa County	054	Louisa County	0.05	54-1041 Edgewood Dr	Cul-de-Sac	40	R							X						10/18/2001
+751855	  54	01043	     	54-1043	Madeline Lane	054	Louisa County	054	Louisa County	0.16	Cul-de-Sac	54-1041 Edgewood Dr	70	R							X						10/18/2001
+751856	  54	01043	     	54-1043	Madeline Lane	054	Louisa County	054	Louisa County	0.15	54-1041 Edgewood Dr	Dead End; O.15 ME 1041	40	R							X						10/18/2001
+751857	  54	01044	     	54-1044	Katie Dr	054	Louisa County	054	Louisa County	0.10	Dead End	54-1041 Edgewood Dr	40	R							X						10/18/2001
+791797	  54	01045	     	54-1045	Bernie Circle	054	Louisa County	054	Louisa County	0.40	54-790 Mitchell Point Rd	54-790 Mitchell Point Rd; 54-1040	0	?							X
+794061	  54	01046	     	54-1046	Pine Ridge Dr	254	Town of Louisa	054	Louisa County	0.35	Dead End	US 33 Jefferson Hwy	0	?							X
+783234	  54	01047	     	54-1047	Poplar Hill Dr	054	Louisa County	054	Louisa County	0.32	54-1048 Ivy Cliff Dr	54-635 Factory Mill Dr	90	R							X						04/02/2007
+783235	  54	01048	     	54-1048	Ivy Cliff Dr	054	Louisa County	054	Louisa County	0.18	Cul-de-Sac	54-1047 Poplar Hill Dr	80	R							X						04/02/2007
+790970	  54	01048	     	54-1048	Ivy Cliff Dr	054	Louisa County	054	Louisa County	0.22	54-1047 Poplar Hill Dr	Dead End	10	R							X						04/02/2007
+751858	  54	01049	     	54-1049	Walnut Hill Dr	054	Louisa County	054	Louisa County	0.10	Cul-de-Sac	54-790 Mitchell Point Rd	10	R							X						10/18/2001
+751859	  54	01050	     	54-1050	Tall Pines Dr	054	Louisa County	054	Louisa County	1.25	54-685 Centerville Rd	54-1051 N, Hemlock Forest	170	R							X						10/18/2001
+751860	  54	01051	     	54-1051	Hemlock Forest	054	Louisa County	054	Louisa County	0.20	54-1050 S, Tall Pines Dr	Cul-de-Sac	50	R							X						10/18/2001
+751861	  54	01052	     	54-1052	Deerfield Meadows	054	Louisa County	054	Louisa County	0.10	54-1050 Tall Pines Dr	Cul-de-Sac	10	R							X						04/06/2004
+751862	  54	01053	     	54-1053	Forest Lane	054	Louisa County	054	Louisa County	0.11	54-1050 Tall Pines Dr	Cul-de-Sac	30	R							X						04/06/2004
+790971	  54	01055	     	54-1055	Cuckoo Dr	054	Louisa County	054	Louisa County	0.18	54-1059 Elnor Rd	54-1057 Robbie Rd	0	?							X
+751863	  54	01055	     	54-1055	Cuckoos Nest Dr	054	Louisa County	054	Louisa County	0.37	54-1057 Robbie Rd	54-723 Bohannon Rd	90	R							X						10/25/2001
+751864	  54	01056	     	54-1056	Wilson St	054	Louisa County	054	Louisa County	0.48	54-1055 Cuckoos Nest Dr	Dead End	50	R							X						10/25/2001
+788780	  54	01057	     	54-1057	Robbie Rd	054	Louisa County	054	Louisa County	0.38	54-1055 Cuckoos Nest Dr; Cuckoo Dr	Dead End	0	?							X
+790505	  54	01058	     	54-1058	Dale Rd	054	Louisa County	054	Louisa County	0.17	54-1059 Elnor Rd	54-1057	0	?							X
+795283	  54	01059	     	54-1059	Elnor Rd	054	Louisa County	054	Louisa County	0.74	Dead End	54-1055 Cuckoo Dr	0	?							X
+790506	  54	01059	     	54-1059	Elnor Rd	054	Louisa County	054	Louisa County	0.20	54-1055 Cuckoo Dr	Dead End	0	?							X
+751865	  54	01060	     	54-1060	Overton Dr	054	Louisa County	054	Louisa County	1.55	54-614 Elk Creek Rd	End Loop	230	R							X						10/25/2001
+790507	  54	01061	     	54-1061	Lois Lane	054	Louisa County	054	Louisa County	0.33	Cul-de-Sac	54-1060 Begin Loop	0	?							X
+793277	  54	01062	     	54-1062	 	054	Louisa County	054	Louisa County	0.25	Dead End	54-614 Elk Creek Rd	0	?							X
+784259	  54	01064	     	54-1064	Randolph St	054	Louisa County	054	Louisa County	0.37	Cul-de-Sac	54-652 Kentucky Springs Rd	60	R							X						10/25/2001
+795284	  54	01065	     	54-1065	Landover Rd	054	Louisa County	054	Louisa County	0.19	Dead End	54-1066 Magnolia Circle	0	?							X
+751866	  54	01065	     	54-1065	Landover Rd	054	Louisa County	054	Louisa County	0.63	54-1066 Magnolia Circle	54-600 Campbell Rd	610	R							X						05/03/2007
+751867	  54	01066	     	54-1066	Magnolia Circle	054	Louisa County	054	Louisa County	0.24	Cul-de-Sac	54-1065 Landover Rd	80	R							X						05/03/2007
+794628	  54	01067	     	54-1067	 	054	Louisa County	054	Louisa County	0.20	Dead End	54-1059 Elnor Rd	0	?							X
+790508	  54	01069	     	54-1069	Page Circle	054	Louisa County	054	Louisa County	0.09	Dead End	54-614 Elk Creek Rd	0	?							X
+751868	  54	01070	     	54-1070	Pinewood Dr	054	Louisa County	054	Louisa County	0.17	Cul-de-Sac	54-790 Shorewood Dr	30	R							X						10/18/2001
+751869	  54	01071	     	54-1071	Laurelwood Dr	054	Louisa County	054	Louisa County	0.59	Cul-de-Sac	54-790 N, Shorewood Dr	60	R							X						10/18/2001
+751870	  54	01072	     	54-1072	Oakwood Dr	054	Louisa County	054	Louisa County	0.26	54-1071 Laurelwood Dr	Cul-de-Sac	49	R							X						10/18/2001
+790509	  54	01075	     	54-1075	Phillips Lane	054	Louisa County	054	Louisa County	0.35	Dead End	54-664 Gammon Town Rd	80	R							X						04/05/2007
+790510	  54	01076	     	54-1076	Phillips Court	054	Louisa County	054	Louisa County	0.09	54-664	Dead End	40	R							X						04/05/2007
+790511	  54	01077	     	54-1077	Cats Paw Court	054	Louisa County	054	Louisa County	0.30	Dead End	54-670 Oak Grove Rd	0	?							X
+790512	  54	01078	     	54-1078	Campbell Lane	054	Louisa County	054	Louisa County	0.24	Dead End	54-670 Oak Grove Rd	0	?							X
+790513	  54	01079	     	54-1079	Sachi Mews	054	Louisa County	054	Louisa County	0.08	Dead End	54-1078 Campbell Lane	0	?							X
+786502	  54	01080	     	54-1080	Keswick Glen Dr	054	Louisa County	054	Louisa County	0.40	Cul-de-Sac	54-600 Campbell Rd	180	R							X						05/21/2004
+786503	  54	01081	     	54-1081	Deer View Rd	054	Louisa County	054	Louisa County	0.16	54-1083 Genmore Lane	54-1080 Keswick Glen Dr	10	R							X						05/21/2004
+786504	  54	01082	     	54-1082	Happy Valley Rd	054	Louisa County	054	Louisa County	0.19	54-1083 Genmore Lane	54-1080 Keswick Glen Dr	30	R							X						05/21/2004
+786505	  54	01083	     	54-1083	Genmore Lane	054	Louisa County	054	Louisa County	0.13	54-1082 Happy Valley Rd	54-1081 Deer View Rd	9	R							X						05/21/2004
+791798	  54	01084	     	54-1084	Pelham Dr	054	Louisa County	054	Louisa County	0.57	54-799 Beaverdam Rd	54-1085 Distan Ct	120	R							X						05/03/2007
+794062	  54	01084	     	54-1084	 	054	Louisa County	054	Louisa County	0.43	54-1085 Distan Ct	Fluvanna County Line; 32-1084	0	?							X
+791799	  54	01085	     	54-1085	Distan Ct	054	Louisa County	054	Louisa County	0.13	Dead End	54-1084 Pelham Dr	80	R							X						05/03/2007
+793278	  54	01086	     	54-1086	 	054	Louisa County	054	Louisa County	0.09	54-1084	Dead End	0	?							X
+791800	  54	01088	     	54-1088	Willow Ridge Rd	054	Louisa County	054	Louisa County	0.44	54-1065 Landover Rd	Dead End	310	R							X						05/03/2007
+786506	  54	01089	     	54-1089	Black Friar Lane	054	Louisa County	054	Louisa County	0.01	Goochland County Line	Cul-de-Sac	50	R							X						04/02/2007
+791801	  54	01090	     	54-1090	Randolph Circle	054	Louisa County	054	Louisa County	0.19	54-1088 Willow Ridge Rd	Cul-de-Sac	60	R							X						05/03/2007
+786507	  54	01091	     	54-1091	Althorp Dr	054	Louisa County	054	Louisa County	0.26	54-1092 Tranbycroft Way	54-634 Three Chopt Rd	10	R							X						04/02/2007
+786508	  54	01092	     	54-1092	Tranbycroft Way	054	Louisa County	054	Louisa County	0.09	Goochland County Line	37-1092 Gap Gooch-Louisa County Line	20	R							X						04/02/2007
+791802	  54	01093	     	54-1093	Marymont Circle	054	Louisa County	054	Louisa County	0.13	54-1088 Willow Ridge Rd	Cul-de-Sac	90	R							X						05/03/2007
+793279	  54	01094	     	54-1094	 	054	Louisa County	054	Louisa County	0.12	54-600 Campbell Rd	54-1095	0	?							X
+793280	  54	01095	     	54-1095	 	054	Louisa County	054	Louisa County	0.29	Dead End	Dead End	0	?							X
+794943	  54	01096	     	54-1096	 	054	Louisa County	054	Louisa County	0.14	54-1065 Landover Rd	Cul-de-Sac	0	?							X
+794944	  54	01097	     	54-1097	 	054	Louisa County	054	Louisa County	0.21	54-1065 Landover Rd	Cul-de-Sac	0	?							X
+794945	  54	01098	     	54-1098	 	054	Louisa County	054	Louisa County	0.08	54-1066 Magnolia Circle	Cul-de-Sac	0	?							X
+791803	  54	01099	     	54-1099	Oak Ridge Rd	054	Louisa County	054	Louisa County	0.20	Dead End	54-601 Orchid Rd	60	R							X						04/05/2007
+751871	  54	01100	     	54-1100	Seclusion Shores Dr	054	Louisa County	054	Louisa County	0.60	54-614 Elk Creek Rd	Cul-de-Sac	70	R							X						10/25/2001
+751872	  54	01101	     	54-1101	E Lee St	261	Town of Mineral	054	Louisa County	0.07	US 522	54-1102, St Cecilia Ave	90	R							X						07/07/2004
+751873	  54	01101	     	54-1101	E Lee St	261	Town of Mineral	054	Louisa County	0.07	54-1102, St Cecilia Ave	54-1103 Richmond Ave	60	R							X						07/07/2004
+751874	  54	01101	     	54-1101	E Lee St	261	Town of Mineral	054	Louisa County	0.07	54-1103 Richmond Ave	54-1104 Albemarle Ave	9	R							X						07/07/2004
+751875	  54	01101	     	54-1101	E Lee St	261	Town of Mineral	054	Louisa County	0.07	54-1104 Albemarle Ave	Dead End	10	R							X						07/07/2004
+751876	  54	01102	     	54-1102	St Cecilia Ave	261	Town of Mineral	054	Louisa County	0.08	54-618 First St	54-1101 Lee St	60	R							X						07/07/2004
+751877	  54	01102	     	54-1102	St Cecilia Ave	261	Town of Mineral	054	Louisa County	0.13	54-1101 Lee St	US 522 Louisa Ave	40	R							X						07/07/2004
+751878	  54	01103	     	54-1103	Richmond Ave	261	Town of Mineral	054	Louisa County	0.08	54-1101 Lee St	54-618 First St	60	R							X						07/07/2004
+751879	  54	01103	     	54-1103	Richmond Ave	261	Town of Mineral	054	Louisa County	0.08	54-618 First St	54-1114 Second St	70	R							X						07/07/2004
+751880	  54	01103	     	54-1103	Richmond Ave	261	Town of Mineral	054	Louisa County	0.27	54-1114 Second St	54-1110 Fifth St	50	R							X						07/07/2004
+751881	  54	01104	     	54-1104	Albemarle Ave	261	Town of Mineral	054	Louisa County	0.01	54-1114 Second St	0.01 MN 54-1114 Second St	40	R							X						05/31/2007
+751882	  54	01104	     	54-1104	Albemarle Ave	261	Town of Mineral	054	Louisa County	0.07	0.01 MN 54-1114 Second St	54-618 First St	40	R							X						05/31/2007
+751883	  54	01104	     	54-1104	Albemarle Ave	261	Town of Mineral	054	Louisa County	0.08	54-618 First St	54-1101 Lee St	9	R							X						07/07/2004
+751884	  54	01105	     	54-1105	Virginia Ave	261	Town of Mineral	054	Louisa County	0.08	54-1108 Eighth St	54-1115 Seventh St	60	R							X						05/05/2004
+751885	  54	01105	     	54-1105	Virginia Ave	261	Town of Mineral	054	Louisa County	0.17	54-1115 Seventh St	54-1110 Fifth St	40	R							X						05/05/2004
+751886	  54	01105	     	54-1105	Virginia Ave	261	Town of Mineral	054	Louisa County	0.07	54-1110 Fifth St	54-1116 Fourth St, Gap	60	R							X						05/05/2004
+751887	  54	01105	     	54-1105	Virginia Ave	261	Town of Mineral	054	Louisa County	0.04	54-1106 Gap	Dead End	10	R							X						04/27/2004
+751888	  54	01106	     	54-1106	W Third St	261	Town of Mineral	054	Louisa County	0.06	54-1109 St Frances Ave	54-1105 Virginia Ave	80	R							X						04/27/2004
+751889	  54	01106	     	54-1106	W Third St	261	Town of Mineral	054	Louisa County	0.07	54-1105 Virginia Ave	54-1117 Piedmont Ave	100	R							X						04/27/2004
+751890	  54	01106	     	54-1106	W Third St	261	Town of Mineral	054	Louisa County	0.07	54-1117 Piedmont Ave	54-1121 St Marys Ave	120	R							X						04/27/2004
+751891	  54	01106	     	54-1106	W Third St	261	Town of Mineral	054	Louisa County	0.06	54-1121 St Marys Ave	US 522	180	R							X						04/27/2004
+751892	  54	01106	     	54-1106	E Third St	261	Town of Mineral	054	Louisa County	0.03	US 522	Dead End	80	R							X						04/27/2004
+751893	  54	01107	     	54-1107	Louisa Ave	261	Town of Mineral	054	Louisa County	0.08	Dead End	54-1120 Sixth St	40	R							X						05/04/2004
+751894	  54	01107	     	54-1107	Louisa Ave	261	Town of Mineral	054	Louisa County	0.09	54-1120 Sixth St	54-1110 Fifth St	130	R							X						05/31/2007
+751895	  54	01107	     	54-1107	Louisa Ave	261	Town of Mineral	054	Louisa County	0.27	54-1110 Fifth St	54-1114 W, Second St	340	R							X						04/30/2004
+751896	  54	01107	     	54-1107	Louisa Ave	261	Town of Mineral	054	Louisa County	0.08	54-1114 E, Second St	54-618 First St	240	R							X						07/07/2004
+788781	  54	01108	     	54-1108	W Eighth St	261	Town of Mineral	054	Louisa County	0.07	54-1127 Chestnut Ave	54-1126; Gap	10	R							X						05/29/2007
+751897	  54	01108	     	54-1108	W Eighth St	261	Town of Mineral	054	Louisa County	0.07	54-1109 St Frances Ave	54-1105 Virginia Ave	180	R							X						05/04/2004
+751898	  54	01108	     	54-1108	W Eighth St	261	Town of Mineral	054	Louisa County	0.06	54-1105 Virginia Ave	54-1117 Piedmont Ave	250	R							X						05/04/2004
+751899	  54	01108	     	54-1108	W Eighth St	261	Town of Mineral	054	Louisa County	0.12	54-1117 Piedmont Ave	US 522 Mineral Ave	300	R							X						05/04/2004
+751900	  54	01108	     	54-1108	E Eighth St	261	Town of Mineral	054	Louisa County	0.05	US 522 Mineral Ave	Dead End	20	R							X						05/31/2007
+751901	  54	01109	     	54-1109	St Frances Ave	261	Town of Mineral	054	Louisa County	0.13	54-665 Kennon Rd	54-1123 Ninth St	60	R							X						04/30/2004
+751902	  54	01109	     	54-1109	St Frances Ave	261	Town of Mineral	054	Louisa County	0.08	54-1123 Ninth St	54-1108 Third St	190	R							X						04/30/2004
+751903	  54	01109	     	54-1109	St Frances Ave	261	Town of Mineral	054	Louisa County	0.08	54-1108 Eighth St	54-1115 Seventh St	70	R							X						04/30/2004
+751904	  54	01109	     	54-1109	St Frances Ave	261	Town of Mineral	054	Louisa County	0.27	54-1115 Seventh St	54-1116 Fourth St	100	R							X						04/30/2004
+751905	  54	01109	     	54-1109	St Frances Ave	261	Town of Mineral	054	Louisa County	0.08	54-1116 Fourth St	54-1106 Third St	80	R							X						04/30/2004
+751906	  54	01110	     	54-1110	W Fifth St	261	Town of Mineral	054	Louisa County	0.07	54-1105 Virginia Ave	54-1117 Piedmont Ave	40	R							X						05/05/2004
+751907	  54	01110	     	54-1110	W Fifth St	261	Town of Mineral	054	Louisa County	0.06	54-1117 Piedmont Ave	54-1118 St Marys Ave	110	R							X						04/30/2004
+751908	  54	01110	     	54-1110	W Fifth St	261	Town of Mineral	054	Louisa County	0.05	54-1118 St Marys Ave	US 522 Mineral Ave	130	R							X						04/30/2004
+751909	  54	01110	     	54-1110	E Fifth St	261	Town of Mineral	054	Louisa County	0.07	US 522 Mineral Ave	54-1107 Louisa Ave	670	R							X						04/30/2004
+751910	  54	01110	     	54-1110	E Fifth St	261	Town of Mineral	054	Louisa County	0.12	54-1107 Louisa Ave	54-1103 Richmond Ave	90	R							X						05/31/2007
+751911	  54	01110	     	54-1110	E Fifth St	261	Town of Mineral	054	Louisa County	0.09	54-1103 Richmond Ave	Dead End	20	R							X						07/07/2004
+751913	  54	01111	     	54-1111	W Second St	261	Town of Mineral	054	Louisa County	0.13	Dead End	54-1117 Piedmont Ave	30	R							X						04/27/2004
+751914	  54	01111	     	54-1111	W Second St	261	Town of Mineral	054	Louisa County	0.01	54-1117 Piedmont Ave	54-1121 St Marys Ave	110	R							X						04/27/2004
+751915	  54	01111	     	54-1111	W Second St	261	Town of Mineral	054	Louisa County	0.05	54-1121 St Marys Ave	US 522 Mineral Ave	430	R							X						04/27/2004
+751916	  54	01111	     	54-1111	E Second St	261	Town of Mineral	054	Louisa County	0.02	US 522 Mineral Ave	54-1125 Railroad Ave	390	R							X						04/27/2004
+751917	  54	01112	     	54-1112	W First St	261	Town of Mineral	054	Louisa County	0.04	Dead End	US 522; SR 22	150	R							X						04/27/2004
+751918	  54	01113	     	54-1113	Sixth St	261	Town of Mineral	054	Louisa County	0.06	Dead End	54-1118, St Marys Ave	50	R							X						05/29/2007
+751919	  54	01113	     	54-1113	Sixth St	261	Town of Mineral	054	Louisa County	0.05	54-1118, St Marys Ave	US 522 Mineral Ave	70	R							X						04/30/2004
+751920	  54	01114	     	54-1114	E Second St	261	Town of Mineral	054	Louisa County	0.02	54-1119	54-1107 W, Louisa Ave	150	R							X						07/07/2004
+751921	  54	01114	     	54-1114	E Second St	261	Town of Mineral	054	Louisa County	0.03	54-1107 W, Louisa Ave	54-1107 E, Louisa Ave	320	R							X						07/07/2004
+751922	  54	01114	     	54-1114	E Second St	261	Town of Mineral	054	Louisa County	0.11	54-1107 E, Louisa Ave	54-1103 Richmond Ave	30	R							X						07/07/2004
+751923	  54	01114	     	54-1114	E Second St	261	Town of Mineral	054	Louisa County	0.02	54-1103 Richmond Ave	0.02 ME 54-1103 Richmond Ave	45	R							X						05/31/2007
+751924	  54	01114	     	54-1114	E Second St	261	Town of Mineral	054	Louisa County	0.05	0.02 ME 54-1103 Richmond Ave	54-1104 Albemarle Ave	40	R							X						05/31/2007
+751925	  54	01115	     	54-1115	W Seventh St	261	Town of Mineral	054	Louisa County	0.21	54-1127 Chestnut Ave	54-1109, St Frances Ave	150	R							X						05/29/2007
+751926	  54	01115	     	54-1115	W Seventh St	261	Town of Mineral	054	Louisa County	0.07	54-1109, St Frances Ave	54-1105 Virginia Ave	90	R							X						05/05/2004
+751927	  54	01115	     	54-1115	W Seventh St	261	Town of Mineral	054	Louisa County	0.06	54-1105 Virginia Ave	54-1117 Piedmont Ave	120	R							X						05/05/2004
+751929	  54	01115	     	54-1115	W Seventh St	261	Town of Mineral	054	Louisa County	0.12	54-1117 Piedmont Ave	US 522 Mineral Ave	200	R							X						05/05/2004
+751930	  54	01116	     	54-1116	W Fourth St	261	Town of Mineral	054	Louisa County	0.06	54-1109, St Frances Ave	54-1105 Virginia Ave	100	R							X						05/29/2007
+751931	  54	01116	     	54-1116	W Fourth St	261	Town of Mineral	054	Louisa County	0.07	54-1105 Virginia Ave	54-1117 Piedmont Ave	120	R							X						05/29/2007
+751932	  54	01116	     	54-1116	W Fourth St	261	Town of Mineral	054	Louisa County	0.06	54-1117 Piedmont Ave	54-1118, St Marys Ave	190	R							X						05/29/2007
+751933	  54	01116	     	54-1116	W Fourth St	261	Town of Mineral	054	Louisa County	0.05	54-1118, St Marys Ave	US 522 Mineral Ave	210	R							X						05/29/2007
+751934	  54	01116	     	54-1116	E Fourth St	261	Town of Mineral	054	Louisa County	0.03	US 522 Mineral Ave	Dead End	230	R							X						05/29/2007
+751935	  54	01117	     	54-1117	Piedmont Ave	261	Town of Mineral	054	Louisa County	0.08	54-1108 Eighth St	54-1115 Seventh St	90	R							X						05/29/2007
+751936	  54	01117	     	54-1117	Piedmont Ave	261	Town of Mineral	054	Louisa County	0.20	54-1115 Seventh St	54-1110 Fifth St	90	R							X						05/05/2004
+751937	  54	01117	     	54-1117	Piedmont Ave	261	Town of Mineral	054	Louisa County	0.07	54-1110 Fifth St	54-1116; Gap	50	R							X						05/05/2004
+751938	  54	01117	     	54-1117	Piedmont Ave	261	Town of Mineral	054	Louisa County	0.08	54-1106; Gap	54-1111, W Second St	40	R							X						05/29/2007
+751939	  54	01118	     	54-1118	St Marys Ave	261	Town of Mineral	054	Louisa County	0.09	54-1113 Sixth St	54-1110 Fifth St	20	R							X						04/30/2004
+751940	  54	01118	     	54-1118	St Marys Ave	261	Town of Mineral	054	Louisa County	0.07	54-1110 Fifth St	54-1116 Fourth St	20	R							X						05/29/2007
+751941	  54	01119	     	54-1119	Firemans Ave	261	Town of Mineral	054	Louisa County	0.08	US 522 Louisa Ave	54-1114 Second St	150	R							X						04/27/2004
+751942	  54	01120	     	54-1120	E Sixth St	261	Town of Mineral	054	Louisa County	0.04	54-1107 Louisa Ave	Dead End	40	R							X						05/31/2007
+751943	  54	01121	     	54-1121	St Marys Ave	261	Town of Mineral	054	Louisa County	0.08	54-1106 Third St	54-1111, W Second St	40	R							X						05/29/2007
+751944	  54	01121	     	54-1121	St Marys Ave	261	Town of Mineral	054	Louisa County	0.04	54-1111, W Second St	Dead End	1	R							X						05/29/2007
+751945	  54	01123	     	54-1123	Ninth St	261	Town of Mineral	054	Louisa County	0.07	54-1127 Chestnut Ave	54-1126	90	R							X						05/31/2007
+751946	  54	01123	     	54-1123	Ninth St	261	Town of Mineral	054	Louisa County	0.07	54-1126	54-1124 Park Ave	110	R							X						05/31/2007
+751947	  54	01123	     	54-1123	Ninth St	261	Town of Mineral	054	Louisa County	0.07	54-1124 Park Ave	54-1109, St Francis Ave	230	R							X						04/30/2004
+751948	  54	01124	     	54-1124	Park Ave	261	Town of Mineral	054	Louisa County	0.12	SCL Mineral	54-1123 Ninth St	60	R							X						04/27/2004
+751949	  54	01124	     	54-1124	Park Ave	261	Town of Mineral	054	Louisa County	0.04	54-1123 Ninth St	Dead End	70	R							X						04/30/2004
+751950	  54	01125	     	54-1125	Railroad Ave	261	Town of Mineral	054	Louisa County	0.08	54-1111 Second St	US 522 Louisa Ave	240	R							X						04/27/2004
+751951	  54	01126	     	54-1126	 	261	Town of Mineral	054	Louisa County	0.03	54-1123 Ninth St	54-1108 Eighth St	7	R							X						05/31/2007
+788782	  54	01126	     	54-1126	 	261	Town of Mineral	054	Louisa County	0.08	54-1108 Eight St	54-1115 Seventh St	20	R							X						05/29/2007
+751952	  54	01127	     	54-1127	Chestnut Ave	261	Town of Mineral	054	Louisa County	0.15	54-1123 Ninth St	54-1115 Seventh St	50	R							X						05/29/2007
+792413	  54	01128	     	54-1128	Shoreview Ct	054	Louisa County	054	Louisa County	0.05	US 522 Zachary Taylor Hwy	54-1129 Stonewall Ct	0	?							X
+792412	  54	01129	     	54-1129	Stonewall Ct	054	Louisa County	054	Louisa County	0.30	Cul-de-Sac	54-1128 Shoreview Ct	0	?							X
+796105	  54	01130	     	54-1130	 	054	Louisa County	054	Louisa County	0.12	54-1131	US 522 Zachary Taylor Hwy	0	?							X
+796106	  54	01131	     	54-1131	 	054	Louisa County	054	Louisa County	0.04	Cul-de-Sac	54-1130	0	?							X
+796107	  54	01131	     	54-1131	 	054	Louisa County	054	Louisa County	0.14	54-1130	Cul-de-Sac	0	?							X
+784260	  54	01134	     	54-1134	Old Farm Hollow	054	Louisa County	054	Louisa County	0.17	54-1100 Seclusion Shores Dr	Cul-de-Sac	40	R							X						10/25/2001
+751953	  54	01135	     	54-1135	Elk Court	054	Louisa County	054	Louisa County	0.11	54-1100 Seclusion Shores Dr	Cul-de-Sac	30	R							X						1998
+796108	  54	01136	     	54-1136	 	054	Louisa County	054	Louisa County	0.10	54-658 Jackson Rd	Cul-de-Sac	0	?							X
+794946	  54	01137	     	54-1137	 	054	Louisa County	054	Louisa County	0.11	54-661 Crewsville Rd	Dead End	0	?							X
+793900	  54	01138	     	54-1138	 	054	Louisa County	054	Louisa County	0.55	Dead End	54-605 Shannon Hill Rd	0	?							X
+793901	  54	01139	     	54-1139	 	054	Louisa County	054	Louisa County	0.21	54-1138	Dead End	0	?							X
+751954	  54	01140	     	54-1140	Deerwood Dr	054	Louisa County	054	Louisa County	0.13	Cul-de-Sac	54-1141 Buck Dr	40	R							X						04/02/2007
+751955	  54	01140	     	54-1140	 	054	Louisa County	054	Louisa County	0.17	54-1141 Buck Dr	54-634 Three Chopt Rd	160	R							X						04/02/2007
+751956	  54	01141	     	54-1141	Buck Dr	054	Louisa County	054	Louisa County	0.14	Cul-de-Sac	54-1140 Deerwood Dr	70	R							X						04/02/2007
+794947	  54	01146	     	54-1146	 	054	Louisa County	054	Louisa County	0.25	54-628 Bibb Store Rd	Cul-de-Sac	0	?							X
+794948	  54	01148	     	54-1148	 	054	Louisa County	054	Louisa County	0.16	Cul-de-Sac	54-734 Robertson Town Rd	0	?							X
+794949	  54	01149	     	54-1149	 	054	Louisa County	054	Louisa County	0.10	Cul-de-Sac	54-620 Vawter Cornter Rd	0	?							X
+790514	  54	01150	     	54-1150	Paddock Lane	054	Louisa County	054	Louisa County	0.61	54-687 Daniel Rd	Dead End	0	?							X
+790515	  54	01151	     	54-1151	Palomino Dr	054	Louisa County	054	Louisa County	0.68	54-687 Daniel Rd	Dead End	0	?							X
+790516	  54	01152	     	54-1152	Belmont Lane	054	Louisa County	054	Louisa County	0.48	Dead End	54-1150 Paddock Lane	0	?							X
+790517	  54	01153	     	54-1153	Derby Lane	054	Louisa County	054	Louisa County	0.28	Dead End	54-1150 Paddock Lane	0	?							X
+793281	  54	01154	     	54-1154	 	054	Louisa County	054	Louisa County	0.51	Cul-de-Sac	54-1151 Palomino Dr	0	?							X
+793282	  54	01155	     	54-1155	 	054	Louisa County	054	Louisa County	0.09	Cul-de-Sac	54-1151 Palomino Dr	0	?							X
+794950	  54	01156	     	54-1156	 	054	Louisa County	054	Louisa County	0.10	54-1153 Derby Lane	Cul-de-Sac	0	?							X
+794951	  54	01157	     	54-1157	 	054	Louisa County	054	Louisa County	0.10	Cul-de-Sac	54-1153 Derby Lane	0	?							X
+791804	  54	01160	     	54-1160	Ashley Dr	054	Louisa County	054	Louisa County	0.37	Dead End	54-720 Hensley Rd; 54-1161	0	?							X
+791805	  54	01161	     	54-1161	Dickenson Dr	054	Louisa County	054	Louisa County	0.53	54-720 Hensley Rd; 54-1160	54-720 Hensley Rd	0	?							X
+791806	  54	01162	     	54-1162	Fisher Dr	054	Louisa County	054	Louisa County	0.65	54-720 Hensley Rd	Cul-de-Sac	0	?							X
+791807	  54	01163	     	54-1163	Trevor Run	054	Louisa County	054	Louisa County	0.24	Cul-de-Sac	54-720 Hensley Rd	0	?							X
+791808	  54	01164	     	54-1164	Erin Lane	054	Louisa County	054	Louisa County	0.33	54-1160 Ashley Dr	Cul-de-Sac	0	?							X
+791809	  54	01165	     	54-1165	Mastin Dr	054	Louisa County	054	Louisa County	0.20	54-1161 Dickenson Dr	Cul-de-Sac	0	?							X
+791810	  54	01166	     	54-1166	Christopher Court	054	Louisa County	054	Louisa County	0.07	54-720 Hensley Rd	Cul-de-Sac	0	?							X
+790518	  54	01170	     	54-1170	Whitney Lane	054	Louisa County	054	Louisa County	0.32	Dead End	54-601 Wickham Rd	80	R							X						06/04/2007
+790519	  54	01171	     	54-1171	Kelly Lane	054	Louisa County	054	Louisa County	0.23	Dead End	54-1170 Whitney Lane	45	R							X						06/04/2007
+796109	  54	01172	     	54-1172	 	054	Louisa County	054	Louisa County	0.18	Cul-de-Sac	54-701 Belle Meade Rd	0	?							X
+796110	  54	01173	     	54-1173	 	054	Louisa County	054	Louisa County	0.24	Cul-de-Sac	54-1172	0	?							X
+796222	  54	01174	     	54-1174	 	054	Louisa County	054	Louisa County	0.47	54-648 Gardners Rd	Cul-de-Sac	0	?							X
+794952	  54	01175	     	54-1175	 	054	Louisa County	054	Louisa County	0.08	54-1176	54-627 Zion Rd	0	?							X
+794953	  54	01176	     	54-1176	 	054	Louisa County	054	Louisa County	0.88	54-1177	54-1179	0	?							X
+796471	  54	01176	     	54-1176	 	054	Louisa County	054	Louisa County	0.38	54-1179	54-1180	0	?							X
+794954	  54	01177	     	54-1177	 	054	Louisa County	054	Louisa County	0.58	Cul-de-Sac	54-1176	0	?							X
+794955	  54	01178	     	54-1178	 	054	Louisa County	054	Louisa County	0.09	54-1177	54-1179	0	?							X
+794956	  54	01179	     	54-1179	 	054	Louisa County	054	Louisa County	0.34	Cul-de-Sac	54-1176	0	?							X
+796111	  54	01180	     	54-1180	 	054	Louisa County	054	Louisa County	0.22	Dead End	54-1176	0	?							X
+796112	  54	01180	     	54-1180	 	054	Louisa County	054	Louisa County	0.06	54-1176	Dead End	0	?							X
+793902	  54	01190	     	54-1190	 	054	Louisa County	054	Louisa County	1.49	SR 208 New Bridge Rd	54-1191	0	?							X
+793908	  54	01191	     	54-1191	 	054	Louisa County	054	Louisa County	0.60	54-1194	Dead End	0	?							X
+793909	  54	01192	     	54-1192	 	054	Louisa County	054	Louisa County	0.08	54-1193	54-1191	0	?							X
+793910	  54	01193	     	54-1193	 	054	Louisa County	054	Louisa County	0.12	Dead End	54-1192	0	?							X
+793911	  54	01193	     	54-1193	 	054	Louisa County	054	Louisa County	0.07	54-1192	Dead End	0	?							X
+793912	  54	01194	     	54-1194	 	054	Louisa County	054	Louisa County	0.23	54-1191	Dead End	0	?							X
+751957	  54	01200	     	54-1200	Plum Tree Circle	054	Louisa County	054	Louisa County	0.22	54-739 W, Plum Tree Rd	54-739 E, Plum Tree Rd	50	R							X						10/25/2001
+751958	  54	01201	     	54-1201	Bear Castle Dr	054	Louisa County	054	Louisa County	0.44	54-690 Burruss Mill Rd	54-1202 Lake Court	210	R							X						04/09/2004
+751959	  54	01201	     	54-1201	Bear Castle Dr	054	Louisa County	054	Louisa County	0.22	54-1202 Lake Court	Dead End	30	R							X						04/09/2004
+751960	  54	01202	     	54-1202	Lake Court	054	Louisa County	054	Louisa County	0.15	Dead End	54-1201 Bear Castle Dr	10	R							X						04/09/2004
+751961	  54	01203	     	54-1203	Becky Court	054	Louisa County	054	Louisa County	0.25	Cul-de-Sac	54-690 Burruss Mill Rd	60	R							X						04/09/2004
+751962	  54	01205	     	54-1205	Ordinary Rd	054	Louisa County	054	Louisa County	0.20	54-652 Kentucky Springs Rd	54-1206 Lakeview Dr	130	R							X						04/09/2004
+751963	  54	01205	     	54-1205	Ordinary Rd	054	Louisa County	054	Louisa County	0.05	54-1206 Lakeview Dr	Cul-de-Sac	10	R							X						04/09/2004
+751964	  54	01206	     	54-1206	Lakeview Dr	054	Louisa County	054	Louisa County	0.38	54-1207 W, Historic Dr	54-1209 Carr Circle	70	R							X						04/06/2004
+751965	  54	01206	     	54-1206	Lakeview Dr	054	Louisa County	054	Louisa County	0.32	54-1209 Carr Circle	54-1207 E, Historic Lane	140	R							X						04/07/2004
+751966	  54	01206	     	54-1206	Lakeview Dr	054	Louisa County	054	Louisa County	0.09	54-1207 E, Historic Lane	54-1210 Aspen Hill Rd	160	R							X						04/07/2004
+751967	  54	01206	     	54-1206	Lakeview Dr	054	Louisa County	054	Louisa County	0.06	54-1210 Aspen Hill Rd	54-1208 Dabney Ct	180	R							X						04/07/2004
+751968	  54	01206	     	54-1206	Lakeview Dr	054	Louisa County	054	Louisa County	0.05	54-1208 Dabney Ct	54-1205 Ordinary Rd	170	R							X						04/07/2004
+751969	  54	01207	     	54-1207	Historic Dr	054	Louisa County	054	Louisa County	0.19	54-614 Carrs Bridge Rd	54-1206 S, Lakeview Dr	100	R							X						04/07/2004
+751970	  54	01207	     	54-1207	Historic Dr	054	Louisa County	054	Louisa County	0.18	54-1206 S, Lakeview Dr	54-1206 N, Lakeview Dr	70	R							X						04/07/2004
+751971	  54	01207	     	54-1207	Historic Dr	054	Louisa County	054	Louisa County	0.08	54-1206 N, Lakeview Dr	Cul-de-Sac	7	R							X						04/06/2004
+751972	  54	01208	     	54-1208	Dabney Ct	054	Louisa County	054	Louisa County	0.08	54-1206 Lakeview Dr	Cul-de-Sac	20	R							X						04/07/2004
+751973	  54	01209	     	54-1209	Carr Circle	054	Louisa County	054	Louisa County	0.07	54-1206 Lakeview Dr	Cul-de-Sac	30	R							X						04/06/2004
+751974	  54	01210	     	54-1210	Aspen Hill Rd	054	Louisa County	054	Louisa County	0.40	Cul-de-Sac	54-1206 Lakeview Dr	90	R							X						04/07/2004
+785398	  54	01211	     	54-1211	Louisa Farms Lane	054	Louisa County	054	Louisa County	0.77	54-601 Diggstown Rd	Cul-de-Sac	210	R							X						06/04/2007
+751975	  54	01212	     	54-1212	Thelma Rd	054	Louisa County	054	Louisa County	0.08	Cul-de-Sac	54-1213 Hollyoak Lane	30	R							X						04/09/2004
+751976	  54	01212	     	54-1212	Thelma Lane	054	Louisa County	054	Louisa County	0.14	54-1213 Hollyoak Lane	54-652 Kentucky Springs Rd	50	R							X						04/09/2004
+751977	  54	01213	     	54-1213	Hollyoak Lane	054	Louisa County	054	Louisa County	0.08	54-1212 Thelma Lane; Thelma Rd	Cul-de-Sac	30	R							X						04/09/2004
+791811	  54	01215	     	54-1215	Anna Highview Dr	054	Louisa County	054	Louisa County	0.35	54-652 Kentucky Springs Rd	Dead End	0	?							X
+790972	  54	01218	     	54-1218	Bear Court	054	Louisa County	054	Louisa County	0.27	54-690 Burruss Mill Rd	Dead End	0	?							X
+790973	  54	01219	     	54-1219	Pooh Court	054	Louisa County	054	Louisa County	0.04	Dead End	54-1218 Bear Court	0	?							X
+751978	  54	01220	     	54-1220	Barbara Rd	054	Louisa County	054	Louisa County	0.22	54-614 Carrs Bridge Rd	54-1221 Connie Lane	60	R							X						10/29/2001
+783116	  54	01221	     	54-1221	Connie Lane	054	Louisa County	054	Louisa County	0.14	Dead End	Cul-de-Sac	30	R							X						10/29/2001
+751980	  54	01230	     	54-1230	Rhett Butler Dr	054	Louisa County	054	Louisa County	0.15	54-690 Burruss Mill Rd	Cul-de-Sac	47	R							X						10/29/2001
+751981	  54	01231	     	54-1231	Tara Circle	054	Louisa County	054	Louisa County	0.06	54-690 Burruss Mill Rd	Cul-de-Sac	40	R							X						10/29/2001
+751982	  54	01232	     	54-1232	Tara Woods Dr	054	Louisa County	054	Louisa County	0.10	54-690 Burruss Mill Rd	54-1233 Scarlet OHara Ct	90	R							X						10/29/2001
+751983	  54	01233	     	54-1233	Scarlet OHara Ct	054	Louisa County	054	Louisa County	0.13	Dead End	54-1232 Tara Woods Dr	50	R							X						10/29/2001
+751984	  54	01233	     	54-1233	Scarlet OHara Ct	054	Louisa County	054	Louisa County	0.18	54-1232 Tara Woods Dr	Dead End	60	R							X						10/29/2001
+751985	  54	01240	     	54-1240	Young	054	Louisa County	054	Louisa County	0.07	Cul-de-Sac	54-784 Bailey Dr	20	R							X						10/01/2001
+751986	  54	01240	     	54-1240	Troy Rd	054	Louisa County	054	Louisa County	0.26	54-784 Bailey Dr	Cul-de-Sac	70	R							X						10/01/2001
+792411	  54	01241	     	54-1241	Pettit Pl	054	Louisa County	054	Louisa County	0.28	Cul-de-Sac	54-687 Daniel Rd	0	?							X
+796114	  54	01248	     	54-1248	 	054	Louisa County	054	Louisa County	0.35	42-664 Hopeful Church Rd	Cul-de-Sac	0	?							X
+796115	  54	01249	     	54-1249	 	054	Louisa County	054	Louisa County	0.15	Cul-de-Sac	54-1248	0	?							X
+751987	  54	01250	     	54-1250	Amy Lane	054	Louisa County	054	Louisa County	0.06	Cul-de-Sac	54-690 Burruss Mill Rd	30	R							X						10/29/2001
+792410	  54	01251	     	54-1251	Andrew Ct	054	Louisa County	054	Louisa County	0.06	Dead End	54-690 Burruss Mill Rd	0	?							X
+751988	  54	01252	     	54-1252	Edward Lane	054	Louisa County	054	Louisa County	0.10	54-690 Burruss Mill Rd	Cul-de-Sac	20	R							X						10/29/2001
+792409	  54	01253	     	54-1253	Susan Court	054	Louisa County	054	Louisa County	0.06	54-690 Burruss Mill Rd	Dead End	0	?							X
+791812	  54	01254	     	54-1254	Stephen Circle	054	Louisa County	054	Louisa County	0.14	Cul-de-Sac	54-690 Burruss Mill Rd	0	?							X
+751989	  54	01260	     	54-1260	Kubota Circle	054	Louisa County	054	Louisa County	0.11	Cul-de-Sac	54-622 Moody Town Rd	40	R							X						10/25/2001
+793283	  54	01268	     	54-1268	 	054	Louisa County	054	Louisa County	0.17	54-622 Moody Town Rd	Cul-de-Sac	0	?							X
+793284	  54	01269	     	54-1269	 	054	Louisa County	054	Louisa County	0.22	54-1268	Cul-de-Sac	0	?							X
+751990	  54	01271	     	54-1271	Point Dr	054	Louisa County	054	Louisa County	0.31	54-1276 Jerdone Island Dr	54-622 Moody Town Rd	70	R							X						10/25/2001
+751991	  54	01276	     	54-1276	Jerdone Island Dr	054	Louisa County	054	Louisa County	0.11	54-1277 Moody Creek Rd	54-1271 Point Dr	30	R							X						10/25/2001
+751992	  54	01277	     	54-1277	Moody Creek Rd	054	Louisa County	054	Louisa County	0.12	Cul-de-Sac	54-1276 Jerdone Island Dr	50	R							X						10/25/2001
+751993	  54	01278	     	54-1278	Sir Walter Dr	054	Louisa County	054	Louisa County	0.26	54-622 Moody Town Rd	Cul-de-Sac	50	R							X						10/25/2001
+751994	  54	01279	     	54-1279	Emma Jane Lane	054	Louisa County	054	Louisa County	0.21	Cul-de-Sac	54-1278 Sir Walter Dr	40	R							X						10/25/2001
+751995	  54	01280	     	54-1280	Lakewood Landing Dr	054	Louisa County	054	Louisa County	0.08	54-652 Kentucky Springs Rd	54-1281 Sunrise Court	90	R							X						10/22/2001
+751996	  54	01280	     	54-1280	Lakewood Landing Dr	054	Louisa County	054	Louisa County	0.20	54-1281 Sunrise Court	Cul-de-Sac	60	R							X						10/22/2001
+751997	  54	01281	     	54-1281	Sunrise Court	054	Louisa County	054	Louisa County	0.17	Cul-de-Sac	54-1280 Lakewood Landing Dr	70	R							X						10/22/2001
+791813	  54	01282	     	54-1282	Loch Erie Way	054	Louisa County	054	Louisa County	0.20	54-622 Moody Town Rd	Cul-de-Sac	0	?							X
+791814	  54	01283	     	54-1283	Micmac Dr	054	Louisa County	054	Louisa County	0.14	54-622 Moody Town Rd	Cul-de-Sac	0	?							X
+751998	  54	01287	     	54-1287	Covenant Way	054	Louisa County	054	Louisa County	0.19	Dead End	54-622 Moody Town Rd	45	R							X						1998
+790520	  54	01288	     	54-1288	Covenant Court	054	Louisa County	054	Louisa County	0.05	Dead End	54-1287 Covenant Way	0	?							X
+751999	  54	01290	     	54-1290	Cooke Lane	054	Louisa County	054	Louisa County	0.45	54-652 Kentucky Springs Rd	Cul-de-Sac	70	R							X						06/04/2007
+794957	  54	01300	     	54-1300	 	054	Louisa County	054	Louisa County	0.11	54-1301; 54-1304	54-652 Kentucky Springs Rd	0	?							X
+794958	  54	01301	     	54-1301	 	054	Louisa County	054	Louisa County	0.32	54-1300	Dead End	0	?							X
+794959	  54	01302	     	54-1302	 	054	Louisa County	054	Louisa County	0.52	54-1301	Dead End	0	?							X
+794960	  54	01303	     	54-1303	 	054	Louisa County	054	Louisa County	0.14	Dead End	54-1302	0	?							X
+794961	  54	01304	     	54-1304	 	054	Louisa County	054	Louisa County	2.08	Dead End	54-1300	0	?							X
+794962	  54	01305	     	54-1305	 	054	Louisa County	054	Louisa County	1.09	54-1318	54-1304	0	?							X
+794963	  54	01306	     	54-1306	 	054	Louisa County	054	Louisa County	0.75	54-1304	End Loop	0	?							X
+794964	  54	01307	     	54-1307	 	054	Louisa County	054	Louisa County	0.39	Dead End	54-1306	0	?							X
+794965	  54	01308	     	54-1308	 	054	Louisa County	054	Louisa County	0.18	54-1307	Dead End	0	?							X
+794966	  54	01309	     	54-1309	 	054	Louisa County	054	Louisa County	0.08	Dead End	54-1307	0	?							X
+794967	  54	01310	     	54-1310	 	054	Louisa County	054	Louisa County	0.06	Dead End	54-1305	0	?							X
+794968	  54	01311	     	54-1311	 	054	Louisa County	054	Louisa County	0.68	54-1304	54-1305	0	?							X
+794969	  54	01312	     	54-1312	 	054	Louisa County	054	Louisa County	0.13	Dead End	54-1311	0	?							X
+794970	  54	01313	     	54-1313	 	054	Louisa County	054	Louisa County	0.42	End Loop	54-1305	0	?							X
+794971	  54	01314	     	54-1314	 	054	Louisa County	054	Louisa County	0.07	Cul-de-Sac	54-1305	0	?							X
+794972	  54	01315	     	54-1315	 	054	Louisa County	054	Louisa County	0.17	54-1318	54-1316	0	?							X
+794973	  54	01316	     	54-1316	 	054	Louisa County	054	Louisa County	0.05	Dead End	54-1315	0	?							X
+794974	  54	01316	     	54-1316	 	054	Louisa County	054	Louisa County	0.14	54-1315	Dead End	0	?							X
+794975	  54	01317	     	54-1317	 	054	Louisa County	054	Louisa County	0.34	Dead End	54-1318	0	?							X
+794976	  54	01318	     	54-1318	 	054	Louisa County	054	Louisa County	1.52	Dead End	54-1304	0	?							X
+794977	  54	01319	     	54-1319	 	054	Louisa County	054	Louisa County	0.10	54-1318	Cul-de-Sac	0	?							X
+794978	  54	01320	     	54-1320	 	054	Louisa County	054	Louisa County	0.10	54-1318	Dead End	0	?							X
+794979	  54	01321	     	54-1321	 	054	Louisa County	054	Louisa County	0.07	54-1304	Dead End	0	?							X
+794980	  54	01322	     	54-1322	 	054	Louisa County	054	Louisa County	0.31	54-1323	54-1304	0	?							X
+794981	  54	01323	     	54-1323	 	054	Louisa County	054	Louisa County	0.12	54-1322	Dead End	0	?							X
+794982	  54	01324	     	54-1324	 	054	Louisa County	054	Louisa County	0.13	54-652 Kentucky Springs Rd	54-1325	0	?							X
+794983	  54	01325	     	54-1325	 	054	Louisa County	054	Louisa County	0.13	Dead End	54-1324	0	?							X
+794984	  54	01325	     	54-1325	 	054	Louisa County	054	Louisa County	0.28	54-1324	Dead End	0	?							X
+794985	  54	01326	     	54-1326	 	054	Louisa County	054	Louisa County	0.24	54-1325	Dead End	0	?							X
+793913	  54	01330	     	54-1330	 	054	Louisa County	054	Louisa County	0.48	SR 208 Courthouse Rd	Cul-de-Sac	0	?							X
+793914	  54	01331	     	54-1331	 	054	Louisa County	054	Louisa County	0.17	Cul-de-Sac	54-1330	0	?							X
+752000	  54	09237	     	54-9237	Thomas Jefferson Elem Sch	054	Louisa County	054	Louisa County	0.17	US 33 Jefferson Hwy	T Jefferson Elem Sch	780	R							X						04/16/2007
+752001	  54	09238	     	54-9238	Louisa County High Sch	054	Louisa County	054	Louisa County	0.34	SR 22 Davis Hwy	Louisa High School	1600	R							X						05/29/2007
+785734	  54	09238	     	54-9238	Louisa County High Sch	054	Louisa County	054	Louisa County	0.10	Louisa High School	Louisa High School	90	R							X						04/09/2004
+752002	  54	09240	     	54-9240	Jouett Elem Sch	054	Louisa County	054	Louisa County	0.16	Jouett Elem School	54-648 Jouett School Rd	690	R							X						06/04/2007
+752003	  54	09242	     	54-9242	Trevilians Elem Sch	054	Louisa County	054	Louisa County	0.15	US 33 South Spotswood Trail	Trevilians Elem Sch	240	R							X						05/09/2007
+785824	  54	09245	     	54-9245	Louisa County Middle School	054	Louisa County	054	Louisa County	0.32	54-778 Bus Garage Dr	54-778; 54-9238	130	R							X						05/29/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

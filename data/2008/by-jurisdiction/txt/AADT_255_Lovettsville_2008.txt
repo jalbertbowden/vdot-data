@@ -1,0 +1,38 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Lovettsville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+090006	  SR	00287	     	VA 287	Berlin Tpke	255	Town of Lovettsville	053	Loudoun County	1.42	SCL Lovettsville	NCL Lovettsville	5900	N	95%	2%	2%	1%	1%	0%	N	0.0895	N	0.0000	6300	N	2008
+301529	  53	00672	     	53-672	Lovettsville Rd	255	Town of Lovettsville	053	Loudoun County	0.08	53-673 Broad Way East	ECL Lovettsville	1900	F	95%	2%	2%	0%	0%	0%	C	0.1034	F	0.5161	2000	F	2008
+303772	  53	00673	     	53-673	Irish Corner Rd/Broad Way W	255	Town of Lovettsville	053	Loudoun County	0.30	WCL Lovettsville	SR 287 Berlin Tpke	1200	N	94%	3%	2%	1%	0%	0%	N	0.1003	N	0.6985	1300	N	2008
+301534	  53	00673	     	53-673	Broad Way East	255	Town of Lovettsville	053	Loudoun County	0.22	SR 287 Berlin Tpke	53-796 Loudoun St	2900	F	96%	2%	1%	1%	1%	0%	C	0.1112	F	0.6848	3100	F	2008
+301535	  53	00673	     	53-673	Broad Way East	255	Town of Lovettsville	053	Loudoun County	0.07	53-796 Loudoun St	53-1503 Locust St	2800	F	96%	2%	1%	1%	1%	0%	F	0.1121	F	0.7698	2900	F	2008
+301536	  53	00673	     	53-673	Broad Way East	255	Town of Lovettsville	053	Loudoun County	0.25	53-1503 Locust St	53-672 SCL Lovettsville	3300	F	96%	2%	1%	1%	1%	0%	F	0.1088	F	0.7091	3500	F	2008
+749978	  53	00675	     	53-675	Fry Farm Rd	255	Town of Lovettsville	053	Loudoun County	0.10	WCL Lovettsville	53-1648 Milhoven Dr	440	R							X						1999
+749979	  53	00675	     	53-675	Church St S	255	Town of Lovettsville	053	Loudoun County	0.18	53-1648 Milhoven Dr	53-1644 Fox Meadow Dr	430	R							X						1999
+749980	  53	00675	     	53-675	Church St S	255	Town of Lovettsville	053	Loudoun County	0.10	53-1644 Fox Meadow Dr	SR 287 Berlin Tpke	580	R							X						1999
+750220	  53	00796	     	53-796	Loudoun St S	255	Town of Lovettsville	053	Loudoun County	0.66	SR 287 Berlin Tpke	53-673 Broadway East	1500	R							X						1999
+750316	  53	00855	     	53-855	Quarter Branch Rd	255	Town of Lovettsville	053	Loudoun County	0.17	SR 287 Berlin Tpke	NCL Lovettsville	340	R							X						1999
+796443	  53	01380	     	53-1380	 	255	Town of Lovettsville	053	Loudoun County	0.22	SR 287 Berlin Tpke	53-1382 Dead End	0	?							X
+796444	  53	01381	     	53-1381	 	255	Town of Lovettsville	053	Loudoun County	0.23	53-1383	Dead End	0	?							X
+796445	  53	01382	     	53-1382	 	255	Town of Lovettsville	053	Loudoun County	0.17	53-1383	53-1380 Dead End	0	?							X
+796446	  53	01383	     	53-1383	 	255	Town of Lovettsville	053	Loudoun County	0.09	53-1381	53-1382	0	?							X
+750783	  53	01501	     	53-1501	Church St	255	Town of Lovettsville	053	Loudoun County	0.07	SR 287 Berlin Tpke	53-673 Broad Way	460	R							X						1999
+750784	  53	01502	     	53-1502	Pennsylvania Ave	255	Town of Lovettsville	053	Loudoun County	0.22	53-1503 Locust St	53-1501 Church St	210	R							X						1999
+750785	  53	01503	     	53-1503	Locust St	255	Town of Lovettsville	053	Loudoun County	0.18	53-796 Loudoun St	53-673 Broad Way	1200	R							X						1999
+750786	  53	01504	     	53-1504	Redbud Lane	255	Town of Lovettsville	053	Loudoun County	0.13	53-1505 Redbud Lane	SR 287 Berlin Tpke	150	R							X						1999
+750787	  53	01505	     	53-1505	Redbud Lane	255	Town of Lovettsville	053	Loudoun County	0.09	Dead End	53-1504 Redbud Lane	50	R							X						03/02/2002
+750938	  53	01590	     	53-1590	Park Pl	255	Town of Lovettsville	053	Loudoun County	0.15	53-673 Broad Way East	Cul-de-Sac	360	R							X						1999
+751031	  53	01644	     	53-1644	Fox Meadow Dr	255	Town of Lovettsville	053	Loudoun County	0.13	53-675 Church St S	Dead End	140	R							X						08/26/2002
+751032	  53	01645	     	53-1645	N Light St	255	Town of Lovettsville	053	Loudoun County	0.09	53-673 Broad Way East	Cul-de-Sac	170	R							X						1999
+751034	  53	01647	     	53-1647	Woodbriar Dr	255	Town of Lovettsville	053	Loudoun County	0.04	Cul-de-Sac	53-1644 Fox Meadow Dr	60	R							X						1999
+751035	  53	01647	     	53-1647	Woodbriar Dr	255	Town of Lovettsville	053	Loudoun County	0.05	53-1644 Fox Meadow Dr	53-1656 Oakfield Dr	90	R							X						08/26/2002
+751036	  53	01648	     	53-1648	Milhoven Dr	255	Town of Lovettsville	053	Loudoun County	0.06	53-675 Church St S; Fry Farm Rd	53-1649 Mills Ct	280	R							X						1999
+751037	  53	01649	     	53-1649	Mills Ct	255	Town of Lovettsville	053	Loudoun County	0.04	Cul-de-Sac	53-1648 Milhoven Dr	130	R							X						1999
+751038	  53	01649	     	53-1649	Mills Ct	255	Town of Lovettsville	053	Loudoun County	0.05	53-1648 Milhoven Dr	Cul-de-Sac	110	R							X						1999
+751041	  53	01656	     	53-1656	Oakfield Dr	255	Town of Lovettsville	053	Loudoun County	0.07	53-1647 Woodbriar Dr	Dead End	40	R							X						08/22/2002
+751461	  53	09236	     	53-9236	 	255	Town of Lovettsville	053	Loudoun County	0.10	53-796 Loudoun St S	53-796 Loudoun St S	230	R							X						1999
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

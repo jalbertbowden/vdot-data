@@ -1,0 +1,49 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Dungannon																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+010307	  SR	00065	     	VA 65, VA 72	 	213	Town of Dungannon	084	Scott County	0.32	WCL Dungannon	84-1009	1100	N	97%	1%	1%	1%	1%	0%	N	0.0969	N	0.5210	1200	N	2008
+010540	  SR	00065	     	VA 65, VA 72	Veterans Mem Hwy	213	Town of Dungannon	084	Scott County	0.28	84-1009	E SR 72	1800	G	97%	1%	1%	1%	1%	0%	F	0.1019	F	0.5177	1900	G	2008
+010302	  SR	00065	     	VA 65	Sinking Creek Hwy	213	Town of Dungannon	084	Scott County	0.21	E SR 72 Vetrans Mem Hay	ECL Dungannon	1400	G	94%	1%	2%	1%	2%	0%	F	0.0936	F	0.5051	1500	G	2008
+010307	  SR	00072	     	VA 65, VA 72	 	213	Town of Dungannon	084	Scott County	0.32	SCL Dungannon	84-1009	1100	N	97%	1%	1%	1%	1%	0%	N	0.0969	N	0.5210	1200	N	2008	
+010540	  SR	00072	     	VA 65, VA 72	Veterans Mem Hwy	213	Town of Dungannon	084	Scott County	0.28	84-1009	SR 65 DUNGANNON	1800	G	97%	1%	1%	1%	1%	0%	F	0.1019	F	0.5177	1900	G	2008	
+010308	  SR	00072	     	VA 72	Hanging Rock Pkwy	213	Town of Dungannon	084	Scott County	0.29	SR 65 Dungannon	NCL Dungannon	1100	G	97%	0%	1%	0%	1%	0%	C	0.0936	F	0.5133	1200	G	2008
+770239	  84	01001	     	84-1001	Monroe St	213	Town of Dungannon	084	Scott County	0.14	Dead End	SR 65	140	R							X						10/11/2007
+770240	  84	01001	     	84-1001	Monroe St	213	Town of Dungannon	084	Scott County	0.14	SR 65	84-1012 Nancy Robinson St	250	R							X						10/11/2007
+770241	  84	01001	     	84-1001	Monroe St	213	Town of Dungannon	084	Scott County	0.01	84-1012 Nancy Robinson St	0.01 MN 84-1012	100	R							X						10/11/2007
+770242	  84	01001	     	84-1001	Monroe St	213	Town of Dungannon	084	Scott County	0.05	0.01 MN 84-1012	84-1002 Sixth Ave	100	R							X						10/11/2007
+770243	  84	01002	     	84-1002	Sixth Ave	213	Town of Dungannon	084	Scott County	0.07	84-1001 Monroe St	84-1008 Phoenix St	110	R							X						10/11/2007
+770244	  84	01002	     	84-1002	Sixth Ave	213	Town of Dungannon	084	Scott County	0.09	84-1008 Phoenix St	84-1009 Jefferson St	160	R							X						10/11/2007
+770245	  84	01002	     	84-1002	Sixth Ave	213	Town of Dungannon	084	Scott County	0.15	84-1009 Jefferson St	SR 72	260	R							X						10/11/2007
+770246	  84	01003	     	84-1003	Sandy Shore St	213	Town of Dungannon	084	Scott County	0.12	Dead End	84-1019 Wilder St	40	R							X						10/11/2007
+770247	  84	01004	     	84-1004	 	213	Town of Dungannon	084	Scott County	0.05	SR 72	84-9721	170	R							X						10/11/2007
+770248	  84	01005	     	84-1005	Dublin St	213	Town of Dungannon	084	Scott County	0.10	84-1018 Dublin St	84-1006 Wilder St	200	R							X						10/22/2007
+770249	  84	01006	     	84-1006	Wilder St	213	Town of Dungannon	084	Scott County	0.10	84-1005 Dublin St	SR 65	320	R							X						10/11/2007
+770250	  84	01007	     	84-1007	Fourth Ave	213	Town of Dungannon	084	Scott County	0.10	84-1015 Sarsfield St	84-1001 Monroe St	40	R							X						10/11/2007
+770251	  84	01007	     	84-1007	Sarsfield St	213	Town of Dungannon	084	Scott County	0.31	84-1001 Monroe St	SR 65	260	R							X						10/11/2007
+770252	  84	01007	     	84-1007	Westport Ave	213	Town of Dungannon	084	Scott County	0.02	SR 65	0.02 MS SR 65	20	R							X						10/11/2007
+770253	  84	01007	     	84-1007	Westport Ave	213	Town of Dungannon	084	Scott County	0.09	0.02 MS SR 65	Dead End	50	R							X						10/11/2007
+770254	  84	01008	     	84-1008	Phoenix St	213	Town of Dungannon	084	Scott County	0.13	84-1007 Sarsfield St	84-1002 Sixth Ave	100	R							X						10/11/2007
+770255	  84	01008	     	84-1008	Phoenix St	213	Town of Dungannon	084	Scott County	0.09	84-1002 Sixth Ave	Dead End	70	R							X						10/11/2007
+770256	  84	01009	     	84-1009	Jefferson St	213	Town of Dungannon	084	Scott County	0.18	84-1002 Sixth Ave	SR 65	130	R							X						10/11/2007
+770257	  84	01009	     	84-1009	Jefferson St	213	Town of Dungannon	084	Scott County	0.03	SR 65	Dead End	360	R							X						10/11/2007
+770258	  84	01010	     	84-1010	Seventh Ave	213	Town of Dungannon	084	Scott County	0.12	SR 72; 84-1014	84-1002 Sixth Ave	40	R							X						10/11/2007
+770259	  84	01010	     	84-1010	Washington St	213	Town of Dungannon	084	Scott County	0.12	84-1002 Sixth Ave	84-1007 Sarsfield St	30	R							X						10/11/2007
+770260	  84	01010	     	84-1010	Washington St	213	Town of Dungannon	084	Scott County	0.06	84-1007 Sarsfield St	SR 65	110	R							X						10/11/2007
+770261	  84	01011	     	84-1011	Madison St	213	Town of Dungannon	084	Scott County	0.09	Dead End	SR 65	70	R							X						10/11/2007
+770262	  84	01011	     	84-1011	Madison St	213	Town of Dungannon	084	Scott County	0.05	SR 65	84-1007 Sarsfield St	46	R							X						10/11/2007
+770263	  84	01012	     	84-1012	Nancy Robinson St	213	Town of Dungannon	084	Scott County	0.15	WCL Dungannon	84-1001 Monroe St	170	R							X						10/11/2007
+770264	  84	01013	     	84-1013	Tyrone St	213	Town of Dungannon	084	Scott County	0.08	Dead End	84-1002 Sixth Ave	20	R							X						10/11/2007
+770265	  84	01014	     	84-1014	Emmit St	213	Town of Dungannon	084	Scott County	0.04	Dead End	SR 72	7	R							X						10/11/2007
+770266	  84	01015	     	84-1015	Sarsfield St	213	Town of Dungannon	084	Scott County	0.13	84-1016 Second Ave	84-1007 Fourth Ave	30	R							X						10/11/2007
+770267	  84	01016	     	84-1016	Second Ave	213	Town of Dungannon	084	Scott County	0.16	84-1015 Sarsfield St	84-1011 Madison St	49	R							X						10/11/2007
+770268	  84	01017	     	84-1017	Ohio St	213	Town of Dungannon	084	Scott County	0.06	SR 65	Dead End	210	R							X						10/11/2007
+770269	  84	01018	     	84-1018	Waterford St	213	Town of Dungannon	084	Scott County	0.10	Dead End	84-1019 Wilder St	70	R							X						10/22/2007
+770270	  84	01018	     	84-1018	Dublin St	213	Town of Dungannon	084	Scott County	0.18	84-1019 Wilder St	84-1005 Dublin St	200	R							X						10/22/2007
+770271	  84	01019	     	84-1019	 	213	Town of Dungannon	084	Scott County	0.03	Dead End	84-1003 Sandy Shore St	0	R							X						05/22/2000
+770272	  84	01019	     	84-1019	Wilder St	213	Town of Dungannon	084	Scott County	0.06	84-1003 Sandy Shore St	84-1018 Dublin St; Waterford St	100	R							X						10/22/2007
+770379	  84	09721	     	84-9721	 	213	Town of Dungannon	084	Scott County	0.13	SR 72	Dungannon Elem Sch	770	R							X						10/31/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

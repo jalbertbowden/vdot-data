@@ -1,0 +1,837 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Lee Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+010253	  US	00023	     	US 23	 	052	Lee County	052	Lee County	4.08	Scott County Line	Wise County Line	8800	G	92%	0%	1%	1%	6%	0%	F	0.0803	F	0.5036	9100	G	2008
+010261	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	1.76	Tennessee State Line	52-912 West	6400	G	94%	1%	1%	1%	4%	0%	F	0.0866	F	0.6269	6700	G	2008
+010260	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	4.33	52-912 West	52-691	5500	G	94%	1%	1%	1%	4%	0%	F	0.0841	F	0.6041	5800	G	2008
+010009	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	3.13	52-691	52-690	3900	A	94%	1%	1%	1%	4%	0%	C	0.1017	A	0.5089	3900	A	2008
+010259	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	3.09	52-690	52-684	4400	G	94%	1%	1%	1%	4%	0%	F	0.0829	F	0.5320	4600	G	2008
+020010	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	6.84	52-684	52-667	3700	G	94%	1%	1%	1%	4%	0%	F	0.0881	F	0.5291	3900	G	2008
+010258	  US	00058	     	US 58	Daniel Boone Heritage Hwy	052	Lee County	052	Lee County	8.94	52-667	52-758 Cony Hollow	3400	G	94%	1%	1%	1%	4%	0%	F	0.0875	F	0.5917	3600	G	2008
+110069	  US	00058	     	US 58	 	052	Lee County	052	Lee County	4.32	52-758 Cony Hollow	WCL Jonesville	4800	G	94%	1%	1%	1%	4%	0%	F	0.0960	F	0.5804	5000	G	2008
+110072	  US	00058	     	US 58	 	245	Town of Jonesville	052	Lee County	0.95	WCL Jonesville	ALT US 58	4800	N	94%	1%	1%	1%	4%	0%	N	0.0960	N	0.5804	5000	N	2008
+010257	  US	00058	     	US 58	Jones St	245	Town of Jonesville	052	Lee County	0.74	ALT US 58	ECL Jonesville	5400	G	92%	1%	1%	1%	6%	0%	F	0.0989	F	0.7254	5700	G	2008
+010384	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	0.87	ECL Jonesville	52-641 East of Jonesville	5400	N	92%	1%	1%	1%	6%	0%	N	0.0989	N	0.7254	5700	N	2008
+010084	  US	00058	     	US 58	Daniel Boone Trail	052	Lee County	052	Lee County	7.54	52-641 East of Jonesville	US 421 Dot	2800	G	92%	1%	1%	1%	6%	0%	F	0.1070	F	0.5298	2900	G	2008
+010256	  US	00058	     	US 58, US 421	 	052	Lee County	052	Lee County	6.00	US 421 Dot	Scott County Line	4700	G	92%	1%	1%	1%	6%	0%	C	0.0894	F	0.5304	4900	G	2008
+010266	A1US	00058	     	Alt US 58	Main St	245	Town of Jonesville	052	Lee County	0.59	US 58 Jones St	NCL Jonesville	6300	G	96%	1%	1%	1%	1%	0%	C	0.0997	F	0.5571	6700	G	2008
+010480	A1US	00058	     	Alt US 58	 	052	Lee County	052	Lee County	3.51	NCL Jonesville	52-645	7500	G	96%	1%	1%	1%	1%	0%	F	0.0997	N	0.5571	7500	G	2008
+010556	A1US	00058	     	Alt US 58	 	052	Lee County	052	Lee County	2.58	52-645	WCL Pennington Gap	11000	G	96%	0%	1%	1%	2%	0%	F	0.0936	F	0.6576	12000	G	2008
+010576	A1US	00058	     	Alt US 58	Morgan Ave	281	Town of Pennington Gap	052	Lee County	1.79	WCL Pennington Gap	US 421 W, Old Zion Rd	11000	N	96%	0%	1%	1%	2%	0%	N	0.0936	N	0.6576	12000	N	2008
+010265	A1US	00058	     	Alt US 58, US 421	 	281	Town of Pennington Gap	052	Lee County	0.40	US 421 W, Old Zion Rd	US 421 E, Woodway Rd	14000	G	96%	0%	1%	1%	2%	0%	F	0.0896	F	0.5135	14000	G	2008
+010264	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	281	Town of Pennington Gap	052	Lee County	0.23	US 421 E, Woodway Rd	ECL Pennington Gap	6100	G	96%	0%	1%	1%	2%	0%	C	0.0847	F	0.5223	6400	G	2008
+010484	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	052	Lee County	052	Lee County	4.60	ECL Pennington Gap	Chapman Rd	6100	N	96%	0%	1%	1%	2%	0%	N	0.0847	N	0.5223	6400	N	2008
+010263	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	052	Lee County	052	Lee County	2.69	Chapman Road	52-642	4200	G	95%	1%	1%	1%	2%	0%	F	0.0874	F	0.5326	4400	G	2008
+010262	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	052	Lee County	052	Lee County	6.21	52-642	Wise County Line	300	G	95%	1%	1%	1%	2%	0%	F	0.1019	F	0.5135	310	G	2008
+787351	CBUS	00058	     	Bus US 58	 	052	Lee County	052	Lee County	7.00	US 58; 52-687	US 58 Daniel Boone Trail	1700	G	92%	1%	1%	1%	6%	0%	F				1800	G	2008
+010267	  SR	00070	     	VA 70	 	052	Lee County	052	Lee County	3.35	Tennessee State Line	52-604	250	G	95%	1%	1%	0%	1%	0%	F	0.1317	F	0.5570	260	G	2008
+010088	  SR	00070	     	VA 70	Trail of the Lonesome Pine	052	Lee County	052	Lee County	3.69	52-604	52-612 Glasses Store	300	G	95%	1%	1%	0%	1%	0%	C	0.1159	F	0.6750	310	G	2008
+010086	  SR	00070	     	VA 70	 	052	Lee County	052	Lee County	4.80	52-612 Glasses Store	SCL Jonesville	770	G	95%	1%	1%	0%	1%	0%	F	0.1064	F	0.6022	810	G	2008
+010087	  SR	00070	     	VA 70	 	245	Town of Jonesville	052	Lee County	0.04	SCL Jonesville	US 58	770	N	95%	1%	1%	0%	1%	0%	N	0.1064	N	0.6022	810	N	2008
+010268	  SR	00352	     	VA 352	 	052	Lee County	052	Lee County	2.13	US 421	SCL Saint Charles	2100	G	93%	0%	1%	3%	3%	0%	C	0.0901	F	0.5472	2200	G	2008
+010324	  SR	00352	     	VA 352	 	293	Town of St. Charles	052	Lee County	0.27	SCL Saint Charles	52-634	2100	N	93%	0%	1%	3%	3%	0%	N	0.0901	N	0.5472	2200	N	2008
+010271	  US	00421	     	US 421	 	052	Lee County	052	Lee County	4.55	Kentucky State Line	SR 352	1700	G	93%	0%	1%	2%	3%	0%	F	0.0945	F	0.5615	1800	G	2008
+010156	  US	00421	     	US 421	 	052	Lee County	052	Lee County	2.18	SR 352	NCL Pennington Gap	4600	G	93%	0%	1%	2%	3%	0%	C	0.0946	F	0.5098	4800	G	2008
+010158	  US	00421	     	US 421	 	281	Town of Pennington Gap	052	Lee County	0.77	NCL Pennington Gap	ALT US 58 W	4600	N	93%	0%	1%	2%	3%	0%	N	0.0946	N	0.5098	4800	N	2008
+010265	  US	00421	     	Alt US 58, US 421	 	281	Town of Pennington Gap	052	Lee County	0.40	ALT US 58 W	ALT US 58 E	14000	G	96%	0%	1%	1%	2%	0%	F	0.0896	F	0.5135	14000	G	2008	
+010270	  US	00421	     	US 421	 	281	Town of Pennington Gap	052	Lee County	0.18	ALT US 58 E	SCL Pennington Gap	5100	G	93%	0%	1%	3%	3%	0%	F	0.0881	F	0.5019	5300	G	2008
+010474	  US	00421	     	US 421	 	052	Lee County	052	Lee County	2.64	SCL Pennington Gap	52-642	5100	N	93%	0%	1%	3%	3%	0%	N	0.0881	N	0.5019	5300	N	2008
+010269	  US	00421	     	US 421	 	052	Lee County	052	Lee County	2.39	52-642	US 58 Daniel Boone Trail	3500	G	93%	0%	1%	3%	3%	0%	C	0.0986	F	0.5259	3700	G	2008
+010256	  US	00421	     	US 58, US 421	 	052	Lee County	052	Lee County	6.00	US 58	Scott County Line	4700	G	92%	1%	1%	1%	6%	0%	C	0.0894	F	0.5304	4900	G	2008	
+749126	  52	00600	     	52-600	 	052	Lee County	052	Lee County	1.68	52-604	52-784	250	R							X						1998
+749127	  52	00600	     	52-600	 	052	Lee County	052	Lee County	4.29	52-784	Scott County Line	150	R							X						1998
+749128	  52	00601	     	52-601	 	052	Lee County	052	Lee County	0.52	Tennessee State Line	52-600 West	100	R							X						04/19/2001
+749129	  52	00601	     	52-601	 	052	Lee County	052	Lee County	2.34	52-600 East	Scott County Line	60	R							X						1998
+749130	  52	00602	     	52-602	 	052	Lee County	052	Lee County	3.85	52-600	52-768	40	R							X						04/19/2001
+749131	  52	00602	     	52-602	 	052	Lee County	052	Lee County	0.40	52-768	Scott County Line	60	R							X						04/19/2001
+749132	  52	00603	     	52-603	 	052	Lee County	052	Lee County	1.14	SR 70	52-608	60	R							X						04/19/2001
+749133	  52	00603	     	52-603	 	052	Lee County	052	Lee County	0.34	52-608	52-604 West	40	R							X						04/19/2001
+400758	  52	00603	     	52-603	 	052	Lee County	052	Lee County	4.24	52-604 East	Scott County Line	70	G	90%	3%	1%	7%	0%	0%	C	0.1707	F	0.5714	80	G	2008
+749134	  52	00604	     	52-604	 	052	Lee County	052	Lee County	3.61	Tennessee State Line	3.61 ME OF STATE LINE	80	R							X						04/19/2001
+749135	  52	00604	     	52-604	 	052	Lee County	052	Lee County	2.01	3.61 ME OF STATE LINE	SR 70 NORTH	110	R							X						04/19/2001
+400759	  52	00604	     	52-604	 	052	Lee County	052	Lee County	0.60	SR 70 South	52-600	350	G	95%	1%	2%	1%	0%	0%	C	0.1145	F	0.6000	370	G	2008
+400760	  52	00604	     	52-604	 	052	Lee County	052	Lee County	1.18	52-600	52-603 East	240	G	95%	1%	2%	1%	0%	0%	F	0.1243	F	0.5000	250	G	2008
+749136	  52	00604	     	52-604	 	052	Lee County	052	Lee County	1.00	52-603 EAST	52-608	160	R							X						1998
+749137	  52	00604	     	52-604	 	052	Lee County	052	Lee County	4.55	52-608	Scott County Line	200	R							X						1998
+749138	  52	00605	     	52-605	 	052	Lee County	052	Lee County	1.40	Dead End	Wise County Line	180	R							X						1998
+400761	  52	00606	     	52-606	 	052	Lee County	052	Lee County	2.16	US 421	52-742	1100	G	95%	1%	2%	1%	1%	0%	C	0.0957	F	0.6182	1200	G	2008
+400762	  52	00606	     	52-606	 	052	Lee County	052	Lee County	2.19	52-742	52-628	780	G	95%	1%	2%	1%	1%	0%	F				810	G	2008
+400763	  52	00606	     	52-606	 	052	Lee County	052	Lee County	2.71	52-628	52-766	590	G	95%	1%	2%	1%	1%	0%	F	0.1292	F	0.7576	620	G	2008
+400764	  52	00606	     	52-606	 	052	Lee County	052	Lee County	3.29	52-766	52-625	350	G	95%	1%	2%	1%	1%	0%	F	0.1180	F	0.6047	370	G	2008
+400765	  52	00606	     	52-606	 	052	Lee County	052	Lee County	3.47	52-625	52-624 MID	390	G	95%	1%	2%	1%	1%	0%	F	0.0989	F	0.6829	400	G	2008
+400766	  52	00606	     	52-606	 	052	Lee County	052	Lee County	0.95	52-624 MID	52-624 EAST	760	G	95%	1%	2%	1%	1%	0%	F	0.1087	F	0.6271	800	G	2008
+400767	  52	00606	     	52-606	 	052	Lee County	052	Lee County	2.30	52-624 East	Wise County Line; SR 68	1100	G	95%	1%	2%	1%	1%	0%	F	0.0915	F	0.5814	1100	G	2008
+749139	  52	00607	     	52-607	 	052	Lee County	052	Lee County	1.39	52-600	Dead End	60	R							X						04/19/2001
+749140	  52	00608	     	52-608	 	052	Lee County	052	Lee County	1.30	52-603	52-604	40	R							X						04/19/2001
+749141	  52	00609	     	52-609	 	052	Lee County	052	Lee County	0.80	Tennessee State Line	52-610	50	R							X						04/19/2001
+749142	  52	00610	     	52-610	 	052	Lee County	052	Lee County	1.50	Tennessee State Line	52-609	110	R							X						04/19/2001
+749143	  52	00610	     	52-610	 	052	Lee County	052	Lee County	1.40	52-609	SR 70	100	R							X						1998
+749144	  52	00611	     	52-611	 	052	Lee County	052	Lee County	0.50	52-612 SOUTH	0.50 MN 52-612	30	R							X						03/01/2001
+749145	  52	00611	     	52-611	 	052	Lee County	052	Lee County	0.70	0.50 MN 52-612	1.20 MN 52-612	0	R							X						03/01/2001
+749146	  52	00611	     	52-611	 	052	Lee County	052	Lee County	0.50	1.20 MN 52-612	52-738	4	R							X						03/01/2001
+749147	  52	00611	     	52-611	 	052	Lee County	052	Lee County	0.40	52-738	52-612 NORTH	160	R							X						03/01/2001
+749148	  52	00611	     	52-611	 	052	Lee County	052	Lee County	0.43	52-612 NORTH	0.43 MW 52-612	150	R							X						03/01/2001
+749149	  52	00611	     	52-611	 	052	Lee County	052	Lee County	1.07	0.43 MW 52-612	52-619	130	R							X						1998
+749150	  52	00611	     	52-611	 	052	Lee County	052	Lee County	2.95	52-619	2.95 ME 52-619	180	R							X						03/01/2001
+749151	  52	00611	     	52-611	 	052	Lee County	052	Lee County	0.55	2.95 ME 52-619	52-817	270	R							X						1998
+749152	  52	00611	     	52-611	 	052	Lee County	052	Lee County	0.50	52-817	US 23	510	R							X						1998
+749153	  52	00612	     	52-612	 	052	Lee County	052	Lee County	0.89	52-758; Tennessee State Line	0.89 MN 52-758	60	R							X						03/15/2001
+749154	  52	00612	     	52-612	 	052	Lee County	052	Lee County	0.57	0.89 MN 52-758	52-613	50	R							X						03/15/2001
+749155	  52	00612	     	52-612	 	052	Lee County	052	Lee County	1.47	52-613	52-665	50	R							X						1998
+749156	  52	00612	     	52-612	 	052	Lee County	052	Lee County	1.36	52-665	52-615	90	R							X						1998
+749157	  52	00612	     	52-612	 	052	Lee County	052	Lee County	1.00	52-615	1.00 ME 52-615	80	R							X						1998
+749158	  52	00612	     	52-612	 	052	Lee County	052	Lee County	1.45	1.00 ME 52-615	52-654	60	R							X						1998
+749159	  52	00612	     	52-612	 	052	Lee County	052	Lee County	2.73	52-654	SR 70 WEST	130	R							X						1998
+749160	  52	00612	     	52-612	 	052	Lee County	052	Lee County	1.80	SR 70 EAST	52-617	100	R							X						1998
+400768	  52	00612	     	52-612	 	052	Lee County	052	Lee County	5.66	52-617	52-823	190	G	97%	0%	2%	1%	1%	0%	F	0.1034	F	0.6744	200	G	2008
+400769	  52	00612	     	52-612	 	052	Lee County	052	Lee County	2.05	52-823	52-826	410	G	97%	0%	2%	1%	1%	0%	F	0.0945	F	0.5056	430	G	2008
+400770	  52	00612	     	52-612	 	052	Lee County	052	Lee County	0.41	52-826	52-865	480	G	97%	0%	2%	1%	1%	0%	F	0.0960	F	0.5340	510	G	2008
+400771	  52	00612	     	52-612	 	052	Lee County	052	Lee County	1.29	52-865	52-859	660	G	97%	0%	2%	1%	1%	0%	F	0.0918	F	0.5606	690	G	2008
+400772	  52	00612	     	52-612	 	052	Lee County	052	Lee County	0.36	52-859	US 58 West	820	G	97%	0%	2%	1%	1%	0%	C	0.0947	F	0.5833	870	G	2008
+749161	  52	00612	     	52-612	 	052	Lee County	052	Lee County	1.30	US 58 EAST	52-611 SOUTH	340	R							X						1998
+749162	  52	00612	     	52-612	 	052	Lee County	052	Lee County	4.82	52-611 SOUTH	52-611 NORTH	250	R							X						1998
+749163	  52	00613	     	52-613	 	052	Lee County	052	Lee County	0.70	52-758	52-832	80	R							X						03/15/2001
+749164	  52	00613	     	52-613	 	052	Lee County	052	Lee County	0.34	52-832	52-612	60	R							X						03/15/2001
+749165	  52	00614	     	52-614	 	052	Lee County	052	Lee County	2.56	52-654	SR 70	120	R							X						1998
+749166	  52	00615	     	52-615	 	052	Lee County	052	Lee County	3.06	52-654	52-612	120	R							X						1998
+749167	  52	00616	     	52-616	 	052	Lee County	052	Lee County	3.74	52-665	52-654 WEST	160	R							X						1998
+749168	  52	00616	     	52-616	 	052	Lee County	052	Lee County	0.50	52-654 EAST	0.50 ME 52-654	20	R							X						03/15/2001
+749169	  52	00616	     	52-616	 	052	Lee County	052	Lee County	0.50	0.50 ME 52-654	1.00 ME 52-654	10	R							X						03/15/2001
+749170	  52	00616	     	52-616	 	052	Lee County	052	Lee County	3.00	1.00 ME 52-654	52-612	0	R							X						03/15/2001
+400773	  52	00617	     	52-617	 	052	Lee County	052	Lee County	1.90	SR 70	52-612	260	G	98%	1%	1%	0%	0%	0%	C	0.1216	F	0.5161	270	G	2008
+749171	  52	00618	     	52-618	 	052	Lee County	052	Lee County	0.60	52-612	0.60 MN 52-612	40	R							X						04/10/2001
+749172	  52	00618	     	52-618	 	052	Lee County	052	Lee County	0.60	0.60 MN 52-612	Dead End	30	R							X						1994
+749173	  52	00619	     	52-619	 	052	Lee County	052	Lee County	0.25	52-629	52-737	120	R							X						1998
+400774	  52	00619	     	52-619	 	052	Lee County	052	Lee County	0.42	52-737	52-787	360	G	98%	0%	1%	0%	0%	0%	C	0.1164	F	0.6364	380	G	2008
+400775	  52	00619	     	52-619	 	052	Lee County	052	Lee County	1.41	52-787	52-642 South	270	G	98%	0%	1%	0%	0%	0%	F	0.1173	F	0.6522	290	G	2008
+749174	  52	00619	     	52-619	 	052	Lee County	052	Lee County	0.20	52-642 NORTH	JEFFERSON FOR BNDY	110	R							X						03/13/2001
+749175	  52	00619	     	52-619	 	052	Lee County	052	Lee County	3.30	JEFFERSON FOR BNDY	52-722	30	R							X						03/01/2001
+749176	  52	00619	     	52-619	 	052	Lee County	052	Lee County	0.20	52-722	52-611	100	R							X						03/01/2001
+749177	  52	00620	     	52-620	 	052	Lee County	052	Lee County	2.50	Alt US 58	52-622	80	R							X						03/13/2001
+749178	  52	00621	     	52-621	 	052	Lee County	052	Lee County	5.40	52-946	52-657	190	R							X						1998
+749179	  52	00621	     	52-621	 	052	Lee County	052	Lee County	7.19	52-657	52-645	500	R							X						1998
+400776	  52	00621	     	52-621	 	052	Lee County	052	Lee County	4.50	52-645	US 421 South	270	G	98%	0%	1%	0%	1%	0%	C	0.1316	F	0.5250	290	G	2008
+400777	  52	00621	     	52-621	 	052	Lee County	052	Lee County	0.07	US 421 North	52-788	540	G	98%	0%	1%	0%	1%	0%	F	0.1045	F	0.5194	570	G	2008
+400778	  52	00621	     	52-621	 	052	Lee County	052	Lee County	2.16	52-788	52-632	280	G	99%	0%	0%	1%	0%	0%	C	0.1175	F	0.5405	290	G	2008
+400779	  52	00621	     	52-621	 	052	Lee County	052	Lee County	2.90	52-632	52-726	260	G	99%	0%	0%	1%	0%	0%	F	0.1163	F	0.6866	270	G	2008
+400780	  52	00621	     	52-621	 	052	Lee County	052	Lee County	1.50	52-726	52-845	160	G	99%	0%	0%	1%	0%	0%	F	0.1160	F	0.5714	170	G	2008
+400781	  52	00621	     	52-621	 	052	Lee County	052	Lee County	3.86	52-845	52-622 West	130	G	99%	0%	0%	1%	0%	0%	F	0.1197	F	0.5676	140	G	2008
+400782	  52	00621	     	52-621	 	052	Lee County	052	Lee County	0.12	52-622 West	52-803	370	G	99%	0%	0%	1%	0%	0%	F	0.1043	F	0.5111	380	G	2008
+400783	  52	00621	     	52-621	 	052	Lee County	052	Lee County	0.47	52-803	52-622 East	450	G	99%	0%	0%	1%	0%	0%	F	0.1079	F	0.5000	480	G	2008
+749180	  52	00621	     	52-621	 	052	Lee County	052	Lee County	2.14	52-622 EAST	52-825	270	R							X						1998
+749181	  52	00621	     	52-621	 	052	Lee County	052	Lee County	0.16	52-825	Alt US 58	360	R							X						1998
+400784	  52	00622	     	52-622	 	052	Lee County	052	Lee County	1.30	Alt US 58	52-621 East	250	G	87%	0%	9%	0%	4%	0%	C	0.0976	F	0.5862	260	G	2008
+749182	  52	00622	     	52-622	 	052	Lee County	052	Lee County	2.40	52-621 WEST	Dead End	140	R							X						03/13/2001
+749183	  52	00623	     	52-623	 	052	Lee County	052	Lee County	0.93	52-624	52-877	100	R							X						03/29/2001
+749184	  52	00623	     	52-623	 	052	Lee County	052	Lee County	0.66	52-877	52-606	270	R							X						1998
+749185	  52	00624	     	52-624	 	052	Lee County	052	Lee County	1.60	52-606 WEST	52-623	170	R							X						1998
+749186	  52	00624	     	52-624	 	052	Lee County	052	Lee County	0.50	52-623	52-606 EAST	180	R							X						1998
+400785	  52	00624	     	52-624	 	052	Lee County	052	Lee County	1.31	52-606 North	Kentucky State Line	480	G	96%	1%	2%	1%	0%	0%	C	0.1019	F	0.5833	500	G	2008
+749187	  52	00625	     	52-625	 	052	Lee County	052	Lee County	0.40	Dead End	52-862	60	R							X						03/29/2001
+749188	  52	00625	     	52-625	 	052	Lee County	052	Lee County	0.60	52-862	52-606	120	R							X						1998
+749189	  52	00626	     	52-626	 	052	Lee County	052	Lee County	1.70	Dead End	52-919	60	R							X						03/29/2001
+749190	  52	00627	     	52-627	 	052	Lee County	052	Lee County	0.36	52-606	Dead End	60	R							X						1998
+792654	  52	00628	     	52-628	 	052	Lee County	052	Lee County	1.20	Dead End	52-776	0	?							X
+749193	  52	00628	     	52-628	 	052	Lee County	052	Lee County	1.35	52-776	52-606	180	R							X						1998
+749194	  52	00629	     	52-629	 	052	Lee County	052	Lee County	0.50	US 58 ALT WEST	0.50 ME US 58 ALT	120	R							X						1998
+749195	  52	00629	     	52-629	 	052	Lee County	052	Lee County	1.00	0.50 ME US 58 ALT	1.50 ME US 58 ALT	110	R							X						1998
+749196	  52	00629	     	52-629	 	052	Lee County	052	Lee County	0.35	1.50 ME US 58 ALT	52-750	200	R							X						1998
+749197	  52	00629	     	52-629	 	052	Lee County	052	Lee County	0.15	52-750	US 58 ALT EAST	810	R							X						1998
+749198	  52	00629	     	52-629	 	052	Lee County	052	Lee County	0.02	US 58 ALT EAST	52-619	180	R							X						1998
+749199	  52	00629	     	52-629	 	052	Lee County	052	Lee County	0.67	52-619	US 58 ALT MID	190	R							X						1998
+749200	  52	00630	     	52-630	 	052	Lee County	052	Lee County	1.33	US 421	52-631	460	R							X						1998
+749201	  52	00630	     	52-630	 	052	Lee County	052	Lee County	0.87	52-631	0.87 MN 52-631	290	R							X						1998
+749202	  52	00630	     	52-630	 	052	Lee County	052	Lee County	1.55	0.87 ME 52-631	52-861	180	R							X						04/04/2001
+749203	  52	00630	     	52-630	 	052	Lee County	052	Lee County	1.19	52-861	Alt US 58	210	R							X						04/04/2001
+749204	  52	00631	     	52-631	 	052	Lee County	052	Lee County	1.00	Dead End	52-630	50	R							X						04/04/2001
+749205	  52	00632	     	52-632	 	052	Lee County	052	Lee County	0.89	Alt US 58	52-621	340	R							X						1998
+749206	  52	00633	     	52-633	 	052	Lee County	052	Lee County	0.30	US 421	SCL PENNINGTON GAP	30	R							X						04/02/2001
+749207	  52	00633	     	52-633	 	281	Town of Pennington Gap	052	Lee County	0.45	SCL PENNINGTON GAP	NCL PENNINGTON GAP	8	R							X						04/02/2001
+749208	  52	00633	     	52-633	 	052	Lee County	052	Lee County	0.85	NCL PENNINGTON GAP	52-621	50	R							X						04/02/2001
+400786	  52	00634	     	52-634	 	293	Town of St. Charles	052	Lee County	0.15	SR 352; 52-636	WCL Saint Charles	690	G	80%	1%	2%	4%	13%	0%	C	0.1096	F	0.5663	730	G	2008
+403946	  52	00634	     	52-634	 	052	Lee County	052	Lee County	1.49	WCL Saint Charles	Dead End	690	N	80%	1%	2%	4%	13%	0%	N	0.1096	N	0.5663	730	N	2008
+400787	  52	00635	     	52-635	 	052	Lee County	052	Lee County	1.20	52-636	1.20 MN 52-636	330	G	97%	1%	2%	0%	0%	0%	C	0.1237	F	0.6957	350	G	2008
+400788	  52	00635	     	52-635	 	052	Lee County	052	Lee County	0.06	1.20 MN 52-636	Dead End	210	G							X	0.1237	N	0.6957	220	G	2008
+400789	  52	00636	     	52-636	 	293	Town of St. Charles	052	Lee County	0.17	SR 352	NCL SAINT CHARLES	1300	G	98%	0%	1%	1%	0%	0%	C	0.1001	F	0.5541	1400	G	2008
+400790	  52	00636	     	52-636	 	052	Lee County	052	Lee County	2.43	NCL Saint Charles	Dead End	530	G	98%	0%	1%	1%	0%	0%	F	0.1088	F	0.5203	560	G	2008
+749209	  52	00637	     	52-637	 	052	Lee County	052	Lee County	0.63	Dead End	52-634	170	R							X						1998
+749210	  52	00638	     	52-638	 	052	Lee County	052	Lee County	0.80	US 58	52-882	690	R							X						1998
+749211	  52	00638	     	52-638	 	052	Lee County	052	Lee County	1.20	52-882	52-642	1300	R							X						1998
+749212	  52	00639	     	52-639	 	052	Lee County	052	Lee County	0.50	52-640	52-723	100	R							X						04/04/2000
+400791	  52	00640	     	52-640	 	052	Lee County	052	Lee County	1.20	US 58	52-646	350	G	98%	0%	1%	0%	0%	0%	C	0.0968	F	0.5000	370	G	2008
+400792	  52	00640	     	52-640	 	052	Lee County	052	Lee County	1.45	52-646	52-643 East	300	G	98%	0%	1%	0%	0%	0%	F	0.1111	F	0.5526	310	G	2008
+400793	  52	00640	     	52-640	 	052	Lee County	052	Lee County	2.23	52-643 East	52-641 South	190	G	98%	0%	1%	0%	0%	0%	F	0.1131	F	0.5556	200	G	2008
+400794	  52	00640	     	52-640	 	052	Lee County	052	Lee County	0.70	52-641 South	52-641 North	230	G	98%	0%	1%	0%	0%	0%	F	0.1186	F	0.5000	240	G	2008
+400795	  52	00640	     	52-640	Skaggs Hill Rd	052	Lee County	052	Lee County	0.65	52-641 North	52-1106 Ford St	600	G	98%	0%	1%	0%	0%	0%	F	0.1073	F	0.5368	630	G	2008
+400796	  52	00640	     	52-640	Skaggs Hill Rd	281	Town of Pennington Gap	052	Lee County	0.11	52-1106 Ford St	52-1123	630	G	98%	0%	1%	0%	0%	0%	F	0.1053	F	0.6187	660	G	2008
+400797	  52	00640	     	52-640	Skaggs Hill Rd	281	Town of Pennington Gap	052	Lee County	0.25	52-1123	52-1117 Hospital Dr	690	G	98%	0%	1%	0%	0%	0%	F	0.1016	F	0.6846	730	G	2008
+400798	  52	00640	     	52-640	Skaggs Hill Rd	281	Town of Pennington Gap	052	Lee County	0.20	52-1117 Hospital Dr	Alt US 58	1200	G	98%	0%	1%	0%	0%	0%	F	0.0863	F	0.5683	1300	G	2008
+749213	  52	00641	     	52-641	 	052	Lee County	052	Lee County	0.93	52-783	0.93 MN 52-783	160	R							X						04/10/2001
+749214	  52	00641	     	52-641	 	052	Lee County	052	Lee County	0.57	0.93 MN 52-783	US 58 EAST	370	R							X						1998
+749215	  52	00641	     	52-641	 	052	Lee County	052	Lee County	1.39	US 58 WEST	52-780	230	R							X						1998
+749216	  52	00641	     	52-641	 	052	Lee County	052	Lee County	1.49	52-780	52-644 WEST	70	R							X						04/12/2001
+749217	  52	00641	     	52-641	 	052	Lee County	052	Lee County	0.60	52-644 EAST	0.60 MN 52-644	90	R							X						04/12/2001
+749218	  52	00641	     	52-641	 	052	Lee County	052	Lee County	0.50	0.60 MN 52-644	52-643 WEST	130	R							X						1998
+749219	  52	00641	     	52-641	 	052	Lee County	052	Lee County	0.98	52-643 EAST	52-640 SOUTH	170	R							X						1998
+749220	  52	00641	     	52-641	 	052	Lee County	052	Lee County	1.80	52-640 N, Skaggs Hill Rd	US 421 NORTH	250	R							X						1998
+749221	  52	00641	     	52-641	 	052	Lee County	052	Lee County	0.10	US 421 SOUTH	Dead End	47	R							X						1998
+749222	  52	00642	     	52-642	 	052	Lee County	052	Lee County	0.30	Dead End	52-772	80	R							X						1998
+749223	  52	00642	     	52-642	 	052	Lee County	052	Lee County	0.62	52-772	52-638	160	R							X						1998
+400799	  52	00642	     	52-642	 	052	Lee County	052	Lee County	0.92	52-638	US 421	1100	G	99%	1%	0%	0%	0%	0%	F	0.1172	F	0.6716	1200	G	2008
+405441	  52	00642	     	52-642	 	052	Lee County	052	Lee County	0.08	US 421	52-785	2000	G	99%	1%	0%	0%	0%	0%	F	0.1358	F	0.8152	2100	G	2008
+403086	  52	00642	     	52-642	 	052	Lee County	052	Lee County	3.48	52-785	52-743	930	G	99%	1%	0%	0%	0%	0%	C	0.0986	F	0.5851	970	G	2008
+403087	  52	00642	     	52-642	 	052	Lee County	052	Lee County	3.48	52-743	Alt US 58	510	G	99%	1%	0%	0%	0%	0%	F	0.1016	F	0.5138	540	G	2008
+749224	  52	00643	     	52-643	 	052	Lee County	052	Lee County	1.43	US 58	52-640 WEST	260	R							X						1998
+749225	  52	00643	     	52-643	 	052	Lee County	052	Lee County	2.10	52-640 EAST	52-641 EAST	360	R							X						1998
+749226	  52	00643	     	52-643	 	052	Lee County	052	Lee County	0.10	52-641 EAST	52-641 WEST	460	R							X						1998
+749227	  52	00643	     	52-643	 	052	Lee County	052	Lee County	0.90	52-641 WEST	US 58 ALT NORTH	600	R							X						1998
+749228	  52	00643	     	52-643	 	052	Lee County	052	Lee County	0.50	US 58 ALT NORTH	US 58 ALT SOUTH	360	R							X						1998
+749229	  52	00644	     	52-644	 	052	Lee County	052	Lee County	0.30	Dead End	US 58 ALT NORTH	150	R							X						1998
+749230	  52	00644	     	52-644	 	052	Lee County	052	Lee County	0.55	US 58 ALT SOUTH	52-647	690	R							X						1998
+749231	  52	00644	     	52-644	 	052	Lee County	052	Lee County	1.20	52-647	52-641 EAST	170	R							X						1998
+749232	  52	00644	     	52-644	 	052	Lee County	052	Lee County	1.50	52-641 EAST	52-640	100	R							X						04/12/2001
+749233	  52	00645	     	52-645	 	052	Lee County	052	Lee County	0.11	52-644	US 58 ALT EAST	50	R							X						1998
+403088	  52	00645	     	52-645	 	052	Lee County	052	Lee County	0.79	US 58 ALT West	52-621	710	G	96%	1%	1%	1%	1%	0%	C	0.0941	F	0.5857	750	G	2008
+749234	  52	00646	     	52-646	 	052	Lee County	052	Lee County	0.53	52-647	52-998	170	R							X						1998
+749235	  52	00646	     	52-646	 	052	Lee County	052	Lee County	0.26	52-998	52-641 SOUTH	110	R							X						04/12/2001
+749236	  52	00646	     	52-646	 	052	Lee County	052	Lee County	1.20	52-641 NORTH	52-640	80	R							X						04/12/2001
+749237	  52	00647	     	52-647	 	052	Lee County	052	Lee County	0.19	52-662	US 58 WEST	330	R							X						1998
+749238	  52	00647	     	52-647	 	052	Lee County	052	Lee County	0.13	US 58 EAST	52-745	210	R							X						1998
+749239	  52	00647	     	52-647	 	052	Lee County	052	Lee County	1.23	52-745	1.23 MN 52-745	70	R							X						03/15/2001
+749240	  52	00647	     	52-647	 	052	Lee County	052	Lee County	0.47	1.23 MN 52-745	52-651	90	R							X						1998
+749241	  52	00647	     	52-647	 	052	Lee County	052	Lee County	1.42	52-651	US 58 ALT NORTH	390	R							X						1998
+749242	  52	00647	     	52-647	 	052	Lee County	052	Lee County	1.53	US 58 ALT SOUTH	52-646	430	R							X						1998
+749243	  52	00647	     	52-647	 	052	Lee County	052	Lee County	0.90	52-646	52-644	190	R							X						1998
+749244	  52	00648	     	52-648	 	052	Lee County	052	Lee County	0.28	52-614	52-830	170	R							X						1998
+403089	  52	00648	     	52-648	Town Branch Rd	052	Lee County	052	Lee County	1.02	52-830	SCL Jonesville	530	G	99%	0%	0%	0%	0%	0%	C	0.1002	F	0.5357	550	G	2008
+403090	  52	00648	     	52-648	 	245	Town of Jonesville	052	Lee County	0.20	SCL Jonesville	US 58; 52-1200	560	G	99%	0%	0%	0%	0%	0%	F	0.1002	N	0.5357	580	G	2008
+749245	  52	00648	     	52-648	 	245	Town of Jonesville	052	Lee County	0.55	US 58; 52-1200	NCL Jonesville	1400	R							X						1998
+785139	  52	00648	     	52-648	 	052	Lee County	052	Lee County	0.18	NCL Jonesville	Alt US 58	1400	N							X				0	N	1998
+749246	  52	00649	     	52-649	Hill St	245	Town of Jonesville	052	Lee County	0.32	Dead End	US 58 SOUTH	650	R							X						1998
+749247	  52	00649	     	52-649	Park St	245	Town of Jonesville	052	Lee County	0.08	US 58 N;  ALT US 58	52-1201 Institute St	2300	R							X						1998
+749248	  52	00649	     	52-649	Park St	245	Town of Jonesville	052	Lee County	0.22	52-1201 Institute St	52-1225 Church St	1400	R							X						1998
+749249	  52	00649	     	52-649	Park St	245	Town of Jonesville	052	Lee County	0.05	52-1225	NCL JONESVILLE	170	R							X						1998
+749250	  52	00649	     	52-649	 	052	Lee County	052	Lee County	0.40	NCL JONESVILLE	Dead End	90	R							X						05/14/2001
+403091	  52	00650	     	52-650	Harlan Rd	245	Town of Jonesville	052	Lee County	0.40	US 58	NCL Jonesville	320	G	99%	1%	0%	0%	0%	0%	C	0.1209	F	0.6341	330	G	2008
+403947	  52	00650	     	52-650	 	052	Lee County	052	Lee County	1.65	NCL Jonesville	52-647	320	N	99%	1%	0%	0%	0%	0%	N	0.1209	N	0.6341	330	N	2008
+749251	  52	00651	     	52-651	 	052	Lee County	052	Lee County	0.70	52-647	Dead End	100	R							X						04/12/2001
+749252	  52	00652	     	52-652	 	052	Lee County	052	Lee County	2.76	US 58	52-659	430	R							X						1998
+749253	  52	00653	     	52-653	 	052	Lee County	052	Lee County	0.50	Dead End	52-655	60	R							X						03/15/2001
+749254	  52	00653	     	52-653	 	052	Lee County	052	Lee County	2.10	52-655	US 58	320	R							X						1998
+749255	  52	00654	     	52-654	 	052	Lee County	052	Lee County	2.00	52-612	52-615	50	R							X						03/15/2001
+403092	  52	00654	     	52-654	 	052	Lee County	052	Lee County	3.00	52-615	52-662	380	G	95%	1%	2%	2%	0%	0%	C	0.0924	F	0.6154	400	G	2008
+749256	  52	00655	     	52-655	 	052	Lee County	052	Lee County	0.55	Dead End	52-653	90	R							X						03/15/2001
+749257	  52	00656	     	52-656	 	052	Lee County	052	Lee County	1.68	52-662	US 58	180	R							X						1998
+749258	  52	00656	     	52-656	 	052	Lee County	052	Lee County	0.45	US 58	0.45 MN US 58	80	R							X						04/12/2001
+749259	  52	00656	     	52-656	 	052	Lee County	052	Lee County	3.26	0.45 MN US 58	3.69 MN US 58	30	R							X						04/12/2001
+749260	  52	00656	     	52-656	 	052	Lee County	052	Lee County	0.46	3.71 MN US 58	52-659 WEST	80	R							X						04/12/2001
+749261	  52	00656	     	52-656	 	052	Lee County	052	Lee County	0.50	52-659 EAST	52-621	290	R							X						1998
+749262	  52	00657	     	52-657	 	052	Lee County	052	Lee County	1.00	52-661	1.00 MN 52-661	90	R							X						1994
+749263	  52	00657	     	52-657	 	052	Lee County	052	Lee County	1.23	1.00 MN 52-661	2.23 MN 52-661	30	R							X						04/25/2001
+749264	  52	00657	     	52-657	 	052	Lee County	052	Lee County	0.43	2.23 MN 52-661	US 58	80	R							X						1998
+749265	  52	00657	     	52-657	 	052	Lee County	052	Lee County	0.40	US 58	52-880 WEST	110	R							X						1998
+403093	  52	00657	     	52-657	 	052	Lee County	052	Lee County	0.56	52-880 East	52-820	180	G	97%	0%	2%	1%	0%	0%	C	0.1480	F	0.5172	190	G	2008
+403094	  52	00657	     	52-657	 	052	Lee County	052	Lee County	1.71	52-820	52-659 West	45	G	97%	0%	2%	1%	0%	0%	F	0.2160	F	0.6296	47	G	2008
+749266	  52	00657	     	52-657	 	052	Lee County	052	Lee County	0.55	52-659 NORTH	52-621	190	R							X						1998
+749267	  52	00658	     	52-658	 	052	Lee County	052	Lee County	0.90	52-664	52-660 SOUTH	20	R							X						04/25/2001
+749268	  52	00658	     	52-658	 	052	Lee County	052	Lee County	1.00	52-660 NORTH	52-663	60	R							X						04/25/2001
+749269	  52	00658	     	52-658	 	052	Lee County	052	Lee County	1.70	52-663	US 58	200	R							X						1998
+403095	  52	00659	     	52-659	 	052	Lee County	052	Lee County	4.99	52-899	52-652	480	G	99%	0%	1%	0%	0%	0%	F	0.0995	F	0.5727	510	G	2008
+403096	  52	00659	     	52-659	 	052	Lee County	052	Lee County	3.45	52-652	US 58 ALT; 52-716	550	G	99%	0%	1%	0%	0%	0%	C	0.0943	F	0.6038	580	G	2008
+749270	  52	00660	     	52-660	 	052	Lee County	052	Lee County	0.10	52-661	0.10 MN 52-661	150	R							X						1998
+749271	  52	00660	     	52-660	 	052	Lee County	052	Lee County	0.50	0.10 MN 52-661	52-663	130	R							X						04/25/2001
+749272	  52	00660	     	52-660	 	052	Lee County	052	Lee County	0.10	52-663	52-676	110	R							X						04/25/2001
+749273	  52	00660	     	52-660	 	052	Lee County	052	Lee County	2.00	52-676	52-658 SOUTH	60	R							X						04/25/2001
+749274	  52	00660	     	52-660	 	052	Lee County	052	Lee County	1.01	52-658 SOUTH	US 58	100	R							X						04/25/2001
+749275	  52	00661	     	52-661	 	052	Lee County	052	Lee County	0.80	Tennessee State Line	52-679	160	R							X						1998
+749276	  52	00661	     	52-661	 	052	Lee County	052	Lee County	1.97	52-679	52-667	240	R							X						1998
+403097	  52	00661	     	52-661	 	052	Lee County	052	Lee County	3.02	52-667	52-660	380	G	98%	1%	1%	0%	0%	0%	C	0.1117	F	0.6744	400	G	2008
+403098	  52	00661	     	52-661	 	052	Lee County	052	Lee County	0.71	52-660	52-662	490	G	98%	1%	1%	0%	0%	0%	F	0.1060	F	0.6606	520	G	2008
+749277	  52	00661	     	52-661	 	052	Lee County	052	Lee County	0.55	52-662	52-657	790	R							X						1998
+749278	  52	00661	     	52-661	 	052	Lee County	052	Lee County	2.10	52-657	52-758	940	R							X						1998
+403099	  52	00662	     	52-662	 	052	Lee County	052	Lee County	0.80	52-661	52-666	120	G	94%	0%	1%	2%	2%	0%	F	0.1801	F	0.5517	130	G	2008
+403100	  52	00662	     	52-662	 	052	Lee County	052	Lee County	1.19	52-666	52-758	170	G	94%	0%	1%	2%	2%	0%	F	0.1584	F	0.5000	170	G	2008
+403101	  52	00662	     	52-662	 	052	Lee County	052	Lee County	1.50	52-758 Mulberry Gap Rd	52-656 Country Club Rd	280	G	94%	0%	1%	2%	2%	0%	F	0.1136	F	0.5493	300	G	2008
+403102	  52	00662	     	52-662	 	052	Lee County	052	Lee County	2.90	52-656 Country Club Rd	52-654	400	G	94%	0%	1%	2%	2%	0%	F	0.1131	F	0.6400	420	G	2008
+403103	  52	00662	     	52-662	 	052	Lee County	052	Lee County	1.00	52-654	US 58	860	G	94%	0%	1%	2%	2%	0%	C	0.1135	F	0.5421	900	G	2008
+749279	  52	00663	     	52-663	 	052	Lee County	052	Lee County	1.50	52-660	1.50 MN 52-660	50	R							X						04/25/2001
+749280	  52	00663	     	52-663	 	052	Lee County	052	Lee County	1.00	1.50 MN 52-660	52-658	90	R							X						1998
+749281	  52	00664	     	52-664	 	052	Lee County	052	Lee County	2.30	52-855	52-676 SOUTH	50	R							X						04/25/2001
+749282	  52	00664	     	52-664	 	052	Lee County	052	Lee County	0.20	52-676 SOUTH	52-676 NORTH	70	R							X						04/25/2001
+749283	  52	00664	     	52-664	 	052	Lee County	052	Lee County	0.30	52-676 NORTH	52-658	50	R							X						04/25/2001
+749284	  52	00664	     	52-664	 	052	Lee County	052	Lee County	2.20	52-658	52-814	130	R							X						04/17/2001
+749285	  52	00664	     	52-664	 	052	Lee County	052	Lee County	0.13	52-814	52-946	30	R							X						1998
+749287	  52	00665	     	52-665	 	052	Lee County	052	Lee County	2.00	Dead End	52-758 WEST	60	R							X						03/15/2001
+749288	  52	00665	     	52-665	 	052	Lee County	052	Lee County	1.00	52-758 WEST	52-616	150	R							X						1998
+749289	  52	00665	     	52-665	 	052	Lee County	052	Lee County	0.55	52-616	0.55 ME 52-616	150	R							X						1998
+749290	  52	00665	     	52-665	 	052	Lee County	052	Lee County	1.65	0.55 ME 52-616	52-612	80	R							X						03/15/2001
+749291	  52	00666	     	52-666	 	052	Lee County	052	Lee County	0.20	52-665	0.20 MN 52-665	0	R							X						03/15/2001
+749292	  52	00666	     	52-666	 	052	Lee County	052	Lee County	0.40	0.20 MN 52-665	52-662	0	R							X						03/15/2001
+403104	  52	00667	     	52-667	 	052	Lee County	052	Lee County	1.20	52-661	52-855	230	G	98%	1%	1%	1%	0%	0%	F	0.1143	F	0.6780	240	G	2008
+403105	  52	00667	     	52-667	 	052	Lee County	052	Lee County	2.30	52-855	52-680	330	G	98%	1%	1%	1%	0%	0%	F	0.1177	F	0.7470	340	G	2008
+403106	  52	00667	     	52-667	 	052	Lee County	052	Lee County	2.00	52-680	US 58	700	G	98%	1%	1%	1%	0%	0%	C	0.0997	F	0.7468	730	G	2008
+749293	  52	00668	     	52-668	 	052	Lee County	052	Lee County	2.60	52-667	52-676	60	R							X						04/30/2001
+749294	  52	00669	     	52-669	 	052	Lee County	052	Lee County	0.70	52-661	52-695	110	R							X						04/30/2001
+749295	  52	00669	     	52-669	 	052	Lee County	052	Lee County	0.80	52-695	52-677	80	R							X						04/30/2001
+749296	  52	00669	     	52-669	 	052	Lee County	052	Lee County	2.00	52-677	52-680	120	R							X						04/30/2001
+749297	  52	00670	     	52-670	 	052	Lee County	052	Lee County	1.15	52-676	US 58	430	R							X						1998
+749298	  52	00671	     	52-671	 	052	Lee County	052	Lee County	0.55	US 58	0.55 ME US 58	220	R							X						1998
+749299	  52	00671	     	52-671	 	052	Lee County	052	Lee County	1.15	0.55 ME US 58	52-672 SOUTH	60	R							X						04/17/2001
+749300	  52	00671	     	52-671	 	052	Lee County	052	Lee County	1.60	52-672 NORTH	52-676 EAST	310	R							X						1998
+749301	  52	00671	     	52-671	 	052	Lee County	052	Lee County	0.70	52-676 SOUTH	52-680 NORTH	180	R							X						05/02/2001
+749302	  52	00671	     	52-671	 	052	Lee County	052	Lee County	0.88	52-680 SOUTH	52-667	110	R							X						1998
+749303	  52	00672	     	52-672	 	052	Lee County	052	Lee County	0.50	52-683	0.50 ME 52-683	130	R							X						1998
+749304	  52	00672	     	52-672	 	052	Lee County	052	Lee County	0.40	0.50 ME 52-683	52-857	150	R							X						05/02/2001
+749305	  52	00672	     	52-672	 	052	Lee County	052	Lee County	0.70	52-857	52-675	70	R							X						05/02/2001
+749306	  52	00672	     	52-672	 	052	Lee County	052	Lee County	0.80	52-675	52-682 WEST	60	R							X						05/02/2001
+749307	  52	00672	     	52-672	 	052	Lee County	052	Lee County	1.60	52-682 EAST	52-671 SOUTH	220	R							X						1998
+749308	  52	00672	     	52-672	 	052	Lee County	052	Lee County	2.00	52-671 SOUTH	US 58	490	R							X						1998
+749309	  52	00673	     	52-673	 	052	Lee County	052	Lee County	0.54	Dead End	52-775	750	R							X						1998
+749310	  52	00673	     	52-673	 	052	Lee County	052	Lee County	1.21	52-775	Dead End	310	R							X						04/17/2001
+749311	  52	00674	     	52-674	 	052	Lee County	052	Lee County	1.00	US 58	52-757	200	R							X						05/07/2001
+749312	  52	00674	     	52-674	 	052	Lee County	052	Lee County	1.10	52-757	52-682	50	R							X						05/07/2001
+749313	  52	00675	     	52-675	 	052	Lee County	052	Lee County	0.60	52-672	52-674	9	R							X						05/02/2001
+749314	  52	00676	     	52-676	 	052	Lee County	052	Lee County	0.89	52-683	0.89 ME 52-683	10	R							X						05/02/2001
+749315	  52	00676	     	52-676	 	052	Lee County	052	Lee County	0.71	0.89 ME 52-683	52-682 NORTH	0	R							X						05/02/2001
+749316	  52	00676	     	52-676	 	052	Lee County	052	Lee County	2.50	52-682 SOUTH	52-671 EAST	130	R							X						04/17/2001
+749317	  52	00676	     	52-676	 	052	Lee County	052	Lee County	1.10	52-671 WEST	52-667 WEST	90	R							X						04/17/2001
+749318	  52	00676	     	52-676	 	052	Lee County	052	Lee County	1.00	52-667 EAST	52-853	180	R							X						1998
+749319	  52	00676	     	52-676	 	052	Lee County	052	Lee County	0.40	52-853	52-668	120	R							X						04/30/2001
+749320	  52	00676	     	52-676	 	052	Lee County	052	Lee County	0.42	52-668	52-670	150	R							X						04/30/2001
+749321	  52	00676	     	52-676	 	052	Lee County	052	Lee County	2.00	52-670	52-664 NORTH	140	R							X						04/25/2001
+749322	  52	00676	     	52-676	 	052	Lee County	052	Lee County	2.00	52-664 SOUTH	52-660	60	R							X						04/25/2001
+749323	  52	00677	     	52-677	 	052	Lee County	052	Lee County	2.00	52-669	52-852	46	R							X						04/30/2001
+749324	  52	00677	     	52-677	 	052	Lee County	052	Lee County	1.30	52-852	52-667	60	R							X						04/30/2001
+749325	  52	00678	     	52-678	 	052	Lee County	052	Lee County	0.20	52-661	Dead End;  Gap Terminus	30	R							X						04/30/2001
+749326	  52	00678	     	52-678	 	052	Lee County	052	Lee County	0.18	Dead End;  Gap Terminus	52-679	0	R							X						04/30/2001
+749327	  52	00679	     	52-679	 	052	Lee County	052	Lee County	0.60	52-661	Tennessee State Line	60	R							X						04/30/2001
+749328	  52	00679	     	52-679	 	052	Lee County	052	Lee County	1.00	Tennessee State Line	52-678	5	R							X						04/30/2001
+749329	  52	00679	     	52-679	 	052	Lee County	052	Lee County	1.40	52-678	52-833	40	R							X						04/30/2001
+749330	  52	00679	     	52-679	 	052	Lee County	052	Lee County	1.80	52-833	52-854	110	R							X						1998
+749331	  52	00679	     	52-679	 	052	Lee County	052	Lee County	2.11	52-854	52-758	160	R							X						1998
+403107	  52	00680	     	52-680	 	052	Lee County	052	Lee County	1.10	52-682	1.10 MN 52-682	49	G	94%	3%	3%	0%	1%	0%	F	0.1600	F	0.6000	50	G	2008
+403108	  52	00680	     	52-680	 	052	Lee County	052	Lee County	0.50	1.10 MN 52-682	52-669	60	G	94%	3%	3%	0%	1%	0%	F	0.1194	F	0.7500	60	G	2008
+403109	  52	00680	     	52-680	 	052	Lee County	052	Lee County	1.10	52-669	52-852	180	G	94%	3%	3%	0%	1%	0%	F	0.1321	F	0.5882	180	G	2008
+403110	  52	00680	     	52-680	 	052	Lee County	052	Lee County	0.80	52-852	52-667	200	G	94%	3%	3%	0%	1%	0%	C	0.1256	F	0.6071	210	G	2008
+749332	  52	00681	     	52-681	 	052	Lee County	052	Lee County	1.00	Tennessee State Line	52-695	20	R							X						05/02/2001
+749333	  52	00682	     	52-682	 	052	Lee County	052	Lee County	1.30	Tennessee State Line	52-695	30	R							X						05/02/2001
+749334	  52	00682	     	52-682	 	052	Lee County	052	Lee County	0.80	52-695	52-680	60	R							X						05/02/2001
+405432	  52	00682	     	52-682	 	052	Lee County	052	Lee County	0.20	52-680	52-851	70	G	99%	0%	1%	0%	0%	0%	C	0.1310	F	0.6364	70	G	2008
+403111	  52	00682	     	52-682	 	052	Lee County	052	Lee County	4.20	52-851	US 58	170	G	99%	0%	1%	0%	0%	0%	F	0.1141	F	0.7143	170	G	2008
+749335	  52	00683	     	52-683	 	052	Lee County	052	Lee County	1.70	52-851	52-676	70	R							X						05/02/2001
+749336	  52	00683	     	52-683	 	052	Lee County	052	Lee County	2.00	52-676	52-744	290	R							X						1998
+749337	  52	00684	     	52-684	 	052	Lee County	052	Lee County	1.15	US 58 West	US 58 West Mid	290	R							X						1998
+749338	  52	00684	     	52-684	 	052	Lee County	052	Lee County	2.24	US 58 Mid	US 58 East Mid	290	R							X						1998
+749339	  52	00684	     	52-684	 	052	Lee County	052	Lee County	1.60	US 58 East	52-806	350	R							X						1998
+749340	  52	00684	     	52-684	 	052	Lee County	052	Lee County	1.97	52-806	Tennessee State Line	160	R							X						1998
+749341	  52	00685	     	52-685	 	052	Lee County	052	Lee County	0.35	Dead End	52-687 NORTH	30	R							X						05/07/2001
+749342	  52	00685	     	52-685	 	052	Lee County	052	Lee County	1.55	52-687 SOUTH	52-684	240	R							X						1998
+749343	  52	00686	     	52-686	 	052	Lee County	052	Lee County	0.50	52-687	0.50 MN 52-687	80	R							X						1998
+749344	  52	00686	     	52-686	 	052	Lee County	052	Lee County	0.55	0.50 MN 52-687	52-685	120	R							X						05/07/2001
+749345	  52	00687	     	52-687	 	052	Lee County	052	Lee County	0.82	Tennessee State Line	52-686	230	R							X						1998
+749346	  52	00687	     	52-687	 	052	Lee County	052	Lee County	1.08	52-686	52-685 SOUTH	300	R							X						1998
+749347	  52	00687	     	52-687	 	052	Lee County	052	Lee County	0.52	52-685 SOUTH	BUS US 58	530	R							X						1998
+749348	  52	00688	     	52-688	 	052	Lee County	052	Lee County	1.30	52-690	Dead End	150	R							X						05/07/2001
+749349	  52	00689	     	52-689	 	052	Lee County	052	Lee County	0.50	52-690	Dead End	60	R							X						05/07/2001
+749350	  52	00690	     	52-690	 	052	Lee County	052	Lee County	0.55	Tennessee State Line	52-847	90	R							X						05/09/2001
+749351	  52	00690	     	52-690	 	052	Lee County	052	Lee County	1.15	52-847	52-735	190	R							X						05/09/2001
+749352	  52	00690	     	52-690	 	052	Lee County	052	Lee County	0.98	52-735	52-684	260	R							X						1998
+749353	  52	00690	     	52-690	 	052	Lee County	052	Lee County	0.20	52-684	US 58	70	R							X						05/07/2001
+749354	  52	00690	     	52-690	 	052	Lee County	052	Lee County	0.30	US 58	52-827	480	R							X						1998
+749355	  52	00690	     	52-690	 	052	Lee County	052	Lee County	3.71	52-827	US 58 West	280	R							X						1998
+403113	  52	00691	     	52-691	 	052	Lee County	052	Lee County	1.91	Tennessee State Line	US 58	380	G	98%	0%	0%	2%	0%	0%	C	0.1021	F	0.5814	400	G	2008
+749356	  52	00691	     	52-691	 	052	Lee County	052	Lee County	0.10	US 58	Dead End	140	R							X						1998
+749357	  52	00692	     	52-692	 	052	Lee County	052	Lee County	0.88	Tennessee State Line	52-1301	30	R							X						05/09/2001
+749358	  52	00692	     	52-692	 	052	Lee County	052	Lee County	0.40	52-1301	US 58 EAST	200	R							X						1998
+749359	  52	00692	     	52-692	 	052	Lee County	052	Lee County	0.50	US 58 EAST	US 58 WEST	100	R							X						1998
+749360	  52	00693	     	52-693	 	052	Lee County	052	Lee County	0.57	Tennessee State Line	0.57 MN Tennessee State Line	90	R							X						05/09/2001
+749361	  52	00693	     	52-693	 	052	Lee County	052	Lee County	0.44	0.57 MN Tennessee State Line	US 58	160	R							X						1998
+749362	  52	00694	     	52-694	 	052	Lee County	052	Lee County	0.10	Tennessee State Line	US 58	1700	R							X						1998
+749363	  52	00695	     	52-695	 	052	Lee County	052	Lee County	0.80	52-682	52-669	70	R							X						05/02/2001
+749364	  52	00696	     	52-696	 	052	Lee County	052	Lee County	0.02	Tennessee State Line	52-600	180	R							X						1998
+749365	  52	00697	     	52-697	 	052	Lee County	052	Lee County	0.22	US 58	52-672	390	R							X						1998
+749366	  52	00698	     	52-698	 	052	Lee County	052	Lee County	0.73	Dead End	US 58	70	R							X						05/07/2001
+749367	  52	00698	     	52-698	 	052	Lee County	052	Lee County	0.30	US 58	52-684	170	R							X						1998
+749368	  52	00699	     	52-699	 	052	Lee County	052	Lee County	1.64	Dead End	1.64 MN Dead End	170	R							X						1998
+749369	  52	00699	     	52-699	 	052	Lee County	052	Lee County	0.46	1.64 MN Dead End	US 58	440	R							X						1998
+749370	  52	00700	     	52-700	 	052	Lee County	052	Lee County	0.12	Alt US 58	Alt US 58	60	R							X						1998
+749371	  52	00701	     	52-701	 	052	Lee County	052	Lee County	0.20	Alt US 58	Alt US 58	20	R							X						1998
+749372	  52	00702	     	52-702	 	052	Lee County	052	Lee County	0.95	US 58 SOUTH	US 58 NORTH	170	R							X						1998
+749373	  52	00703	     	52-703	 	052	Lee County	052	Lee County	0.02	US 58	Dead End	0	R							X						04/04/2001
+749374	  52	00704	     	52-704	 	052	Lee County	052	Lee County	0.02	Dead End	US 58 EAST	0	R							X						1998
+749375	  52	00704	     	52-704	 	052	Lee County	052	Lee County	0.30	US 58 WEST	Dead End	8	R							X						1998
+749376	  52	00705	     	52-705	 	052	Lee County	052	Lee County	0.20	US 421	Dead End	7	R							X						04/04/2001
+749377	  52	00706	     	52-706	 	281	Town of Pennington Gap	052	Lee County	0.67	US 58 ALT; 52-1111	US 421	3000	R							X						1998
+787455	  52	00706	     	52-706	 	281	Town of Pennington Gap	052	Lee County	0.08	US 421	Dead End	0	?							X
+749378	  52	00707	     	52-707	 	052	Lee County	052	Lee County	0.86	Dead End	52-684	110	R							X						05/07/2001
+749379	  52	00708	     	52-708	 	052	Lee County	052	Lee County	0.80	52-622	52-805	50	R							X						03/13/2001
+749380	  52	00708	     	52-708	 	052	Lee County	052	Lee County	0.10	52-805	0.10 MS 52-805	70	R							X						03/13/2001
+749381	  52	00708	     	52-708	 	052	Lee County	052	Lee County	0.40	0.10 MS 52-805	Alt US 58	380	R							X						1998
+749382	  52	00709	     	52-709	 	052	Lee County	052	Lee County	0.40	US 58 ALT SOUTH	US 58 ALT NORTH	40	R							X						1998
+749383	  52	00710	     	52-710	 	052	Lee County	052	Lee County	0.37	Dead End	0.37 MN Dead End	60	R							X						05/09/2001
+749384	  52	00710	     	52-710	 	052	Lee County	052	Lee County	0.79	0.37 MN Dead End	US 58	220	R							X						05/09/2001
+749385	  52	00711	     	52-711	 	052	Lee County	052	Lee County	0.16	US 421 WEST	US 421 EAST	90	R							X						1998
+749386	  52	00712	     	52-712	 	052	Lee County	052	Lee County	2.12	52-765	US 421	90	R							X						04/02/2001
+749387	  52	00713	     	52-713	 	052	Lee County	052	Lee County	0.40	US 421	US 421	20	R							X						04/02/2001
+749388	  52	00714	     	52-714	 	052	Lee County	052	Lee County	0.40	Dead End	US 421	20	R							X						04/02/2001
+749389	  52	00715	     	52-715	 	052	Lee County	052	Lee County	0.28	Dead End	Alt US 58	30	R							X						1998
+749390	  52	00716	     	52-716	 	052	Lee County	052	Lee County	0.33	US 58 ALT WEST	US 58 ALT E; 52-659	70	R							X						1998
+749391	  52	00717	     	52-717	 	052	Lee County	052	Lee County	0.11	Dead End	52-634	100	R							X						1998
+749392	  52	00718	     	52-718	 	052	Lee County	052	Lee County	0.10	Dead End	Alt US 58	0	R							X						1998
+749393	  52	00719	     	52-719	 	052	Lee County	052	Lee County	0.02	52-647	Dead End	30	R							X						1998
+749191	  52	00720	     	52-720	 	293	Town of St. Charles	052	Lee County	0.12	SR 352	SCL Saint Charles	350	R							X						1998
+785138	  52	00720	     	52-720	 	052	Lee County	052	Lee County	1.05	SCL Saint Charles	52-949	350	N							X				0	N	1998
+793610	  52	00720	     	52-720	 	052	Lee County	052	Lee County	1.87	52-949	52-606	0	?							X
+749396	  52	00721	     	52-721	 	052	Lee County	052	Lee County	0.10	Dead End	WCL Pennington Gap	2500	R							X						1998
+785140	  52	00721	     	52-721	 	281	Town of Pennington Gap	052	Lee County	0.11	WCL Pennington Gap	Alt US 58	2500	N							X				0	N	1998
+749397	  52	00722	     	52-722	 	052	Lee County	052	Lee County	2.22	Dead End	52-619	80	R							X						03/01/2001
+749398	  52	00723	     	52-723	 	052	Lee County	052	Lee County	0.68	Dead End	52-639	70	R							X						04/04/2001
+749399	  52	00723	     	52-723	 	052	Lee County	052	Lee County	0.60	52-639	52-641	210	R							X						04/04/2001
+749400	  52	00724	     	52-724	 	052	Lee County	052	Lee County	0.19	US 58	52-810 SOUTH	1100	R							X						1998
+749401	  52	00724	     	52-724	 	052	Lee County	052	Lee County	0.12	52-810 SOUTH	52-810 NORTH	1100	R							X						1998
+749402	  52	00724	     	52-724	 	052	Lee County	052	Lee County	0.43	52-810 NORTH	52-860	980	R							X						1998
+749403	  52	00724	     	52-724	 	052	Lee County	052	Lee County	0.24	52-860	Dead End	70	R							X						1998
+749404	  52	00725	     	52-725	 	052	Lee County	052	Lee County	0.60	SR 352	SR 352	70	R							X						04/02/2001
+749405	  52	00726	     	52-726	 	052	Lee County	052	Lee County	0.24	52-629	US 58 ALT WEST	180	R							X						1998
+749406	  52	00726	     	52-726	 	052	Lee County	052	Lee County	0.03	US 58 ALT EAST	52-9226 NORTH	970	R							X						1998
+749407	  52	00726	     	52-726	 	052	Lee County	052	Lee County	0.70	52-9226 NORTH	52-870	910	R							X						1998
+749408	  52	00726	     	52-726	 	052	Lee County	052	Lee County	1.08	52-870	52-621	100	R							X						03/08/2001
+749409	  52	00727	     	52-727	 	052	Lee County	052	Lee County	0.50	Alt US 58	Alt US 58	70	R							X						1998
+749410	  52	00728	     	52-728	 	052	Lee County	052	Lee County	0.80	Alt US 58	Alt US 58	70	R							X						1998
+749411	  52	00729	     	52-729	 	052	Lee County	052	Lee County	0.50	52-691	US 58	120	R							X						1998
+749412	  52	00730	     	52-730	 	052	Lee County	052	Lee County	1.25	Dead End	52-662	30	R							X						04/17/2001
+749413	  52	00731	     	52-731	 	052	Lee County	052	Lee County	0.29	Dead End	52-682	20	R							X						04/25/2001
+749414	  52	00732	     	52-732	 	052	Lee County	052	Lee County	0.41	52-926	52-927	50	R							X						1998
+749415	  52	00733	     	52-733	 	052	Lee County	052	Lee County	0.26	Dead End	Alt US 58	50	R							X						03/13/2001
+749416	  52	00734	     	52-734	 	052	Lee County	052	Lee County	0.45	Dead End	US 58	60	R							X						05/07/2001
+749417	  52	00735	     	52-735	 	052	Lee County	052	Lee County	0.10	Dead End	0.10 MN Dead End	50	R							X						05/09/2001
+749418	  52	00735	     	52-735	 	052	Lee County	052	Lee County	0.30	0.10 MN Dead End	52-690	60	R							X						05/09/2001
+749419	  52	00736	     	52-736	 	052	Lee County	052	Lee County	0.80	Dead End	52-687	40	R							X						05/07/2001
+403114	  52	00737	     	52-737	 	052	Lee County	052	Lee County	0.03	52-619	Alt US 58	49	G	99%	1%	1%	0%	0%	0%	C	0.1667	F	0.6000	50	G	2008
+749420	  52	00738	     	52-738	 	052	Lee County	052	Lee County	0.04	US 58	52-837	560	R							X						1998
+749421	  52	00738	     	52-738	 	052	Lee County	052	Lee County	3.07	52-837	52-611	560	R							X						1998
+749422	  52	00739	     	52-739	 	052	Lee County	052	Lee County	1.08	52-783	1.08 ME 52-783	0	R							X						04/10/2001
+749423	  52	00739	     	52-739	 	052	Lee County	052	Lee County	1.22	1.08 ME 52-783	52-617	30	R							X						04/10/2001
+749424	  52	00740	     	52-740	 	052	Lee County	052	Lee County	0.09	US 421	US 421	80	R							X						1998
+749425	  52	00741	     	52-741	 	052	Lee County	052	Lee County	1.20	Dead End	US 421	100	R							X						04/12/2001
+749426	  52	00742	     	52-742	 	052	Lee County	052	Lee County	0.05	52-606	0.05 MN 52-606	70	R							X						1998
+749427	  52	00742	     	52-742	 	052	Lee County	052	Lee County	1.45	0.05 MN 52-606	Dead End	60	R							X						03/29/2001
+749428	  52	00743	     	52-743	 	052	Lee County	052	Lee County	1.50	52-642	52-629	110	R							X						03/10/2001
+403115	  52	00744	     	52-744	 	052	Lee County	052	Lee County	1.75	Tennessee State Line	52-858	330	G	99%	0%	1%	0%	0%	0%	F	0.1004	F	0.5362	340	G	2008
+403116	  52	00744	     	52-744	 	052	Lee County	052	Lee County	0.75	52-858	52-683	360	G	99%	0%	1%	0%	0%	0%	F	0.0991	F	0.5405	370	G	2008
+403117	  52	00744	     	52-744	 	052	Lee County	052	Lee County	1.20	52-683	US 58 Bus	560	G	99%	0%	1%	0%	0%	0%	C	0.0949	F	0.5556	590	G	2008
+749429	  52	00745	     	52-745	 	052	Lee County	052	Lee County	0.34	US 58	52-647	90	R							X						1998
+749430	  52	00746	     	52-746	 	052	Lee County	052	Lee County	0.50	Dead End	US 421	9	R							X						04/12/2001
+749431	  52	00747	     	52-747	 	052	Lee County	052	Lee County	0.10	Dead End	0.10 MN Dead End	10	R							X						03/17/2001
+749432	  52	00747	     	52-747	 	052	Lee County	052	Lee County	0.15	0.10 MN Dead End	US 58	130	R							X						03/17/2001
+749433	  52	00748	     	52-748	 	052	Lee County	052	Lee County	0.69	Dead End	JEFFERSON FOR BNDY	10	R							X						03/27/2001
+749434	  52	00748	     	52-748	 	052	Lee County	052	Lee County	0.24	Jefferson Forest Bndy	52-606	60	R							X						03/27/2001
+749435	  52	00749	     	52-749	 	052	Lee County	052	Lee County	0.03	Dead End	US 58	290	R							X						1994
+749436	  52	00749	     	52-749	 	052	Lee County	052	Lee County	0.15	US 58	52-799	780	R							X						04/17/2001
+749437	  52	00749	     	52-749	 	052	Lee County	052	Lee County	0.02	US 58	52-908	100	R							X						04/17/2001
+749438	  52	00750	     	52-750	 	052	Lee County	052	Lee County	0.03	Dead End	52-885	100	R							X						1998
+749439	  52	00750	     	52-750	 	052	Lee County	052	Lee County	0.13	52-885	52-629	690	R							X						03/13/2001
+749440	  52	00751	     	52-751	 	052	Lee County	052	Lee County	0.45	Dead End	52-606	80	R							X						03/29/2001
+749441	  52	00752	     	52-752	 	052	Lee County	052	Lee County	0.90	Alt US 58	Dead End	390	R							X						03/13/2001
+749442	  52	00753	     	52-753	 	052	Lee County	052	Lee County	1.53	Alt US 58	Alt US 58	130	R							X						03/13/2001
+749443	  52	00754	     	52-754	 	052	Lee County	052	Lee County	0.55	Dead End	52-765	120	R							X						04/02/2001
+749444	  52	00755	     	52-755	 	052	Lee County	052	Lee County	0.70	52-612	Dead End	40	R							X						04/10/2001
+749446	  52	00757	     	52-757	 	052	Lee County	052	Lee County	0.50	Dead End	52-674	20	R							X						05/07/2001
+749447	  52	00758	     	52-758	 	052	Lee County	052	Lee County	1.60	Tennessee State Line	52-613	250	R							X						03/15/2001
+749448	  52	00758	     	52-758	 	052	Lee County	052	Lee County	1.40	52-613	52-679	270	R							X						03/15/2001
+403118	  52	00758	     	52-758	 	052	Lee County	052	Lee County	0.90	52-679	52-665	340	G	92%	2%	3%	2%	1%	0%	F	0.1231	F	0.5158	360	G	2008
+403119	  52	00758	     	52-758	 	052	Lee County	052	Lee County	1.45	52-665	52-662	510	G	92%	2%	3%	2%	1%	0%	F	0.0970	F	0.6034	530	G	2008
+403120	  52	00758	     	52-758	 	052	Lee County	052	Lee County	1.79	52-662	52-661	460	G	92%	2%	3%	2%	1%	0%	F	0.1181	F	0.5913	490	G	2008
+403121	  52	00758	     	52-758	 	052	Lee County	052	Lee County	0.13	52-661	US 58	1400	G	92%	2%	3%	2%	1%	0%	C	0.1591	F	0.5411	1400	G	2008
+749449	  52	00759	     	52-759	 	052	Lee County	052	Lee County	1.00	52-676	Dead End	30	R							X						04/25/2001
+749450	  52	00760	     	52-760	 	052	Lee County	052	Lee County	0.17	Dead End	Alt US 58	20	R							X						04/12/2001
+749451	  52	00760	     	52-760	 	052	Lee County	052	Lee County	0.31	Alt US 58	Dead End	100	R							X						04/12/2001
+749452	  52	00761	     	52-761	 	052	Lee County	052	Lee County	1.90	52-612 WEST	52-612 EAST	60	R							X						04/10/2001
+749453	  52	00762	     	52-762	 	052	Lee County	052	Lee County	0.50	Dead End	52-612	0	R							X						03/01/2001
+749454	  52	00763	     	52-763	 	052	Lee County	052	Lee County	0.80	52-709	Dead End	30	R							X						03/13/2001
+749455	  52	00764	     	52-764	 	281	Town of Pennington Gap	052	Lee County	0.66	US 421	52-1104 Anderson St	720	R							X						05/16/2001
+749456	  52	00764	     	52-764	 	281	Town of Pennington Gap	052	Lee County	0.20	52-1104 Anderson St	52-1114 Foesrt Ave	600	R							X						05/16/2001
+749457	  52	00764	     	52-764	 	281	Town of Pennington Gap	052	Lee County	0.26	52-1114 Forest Ave	52-706	510	R							X						05/16/2001
+749458	  52	00765	     	52-765	 	052	Lee County	052	Lee County	0.74	US 421	52-712	210	R							X						04/02/2001
+749459	  52	00765	     	52-765	 	052	Lee County	052	Lee County	2.40	52-712	52-754	100	R							X						04/02/2001
+749460	  52	00765	     	52-765	 	052	Lee County	052	Lee County	1.80	52-754	SR 352	430	R							X						04/02/2001
+749461	  52	00766	     	52-766	 	052	Lee County	052	Lee County	3.78	52-628	52-606	80	R							X						03/29/2001
+749462	  52	00767	     	52-767	 	052	Lee County	052	Lee County	0.60	Alt US 58	52-621	590	R							X						1994
+749463	  52	00768	     	52-768	 	052	Lee County	052	Lee County	0.30	52-602	Dead End	20	R							X						04/19/2001
+749464	  52	00769	     	52-769	 	052	Lee County	052	Lee County	0.60	Dead End	52-682	47	R							X						05/02/2001
+749465	  52	00770	     	52-770	 	052	Lee County	052	Lee County	0.70	52-687	Dead End	40	R							X						05/07/2001
+749466	  52	00771	     	52-771	 	052	Lee County	052	Lee County	1.50	52-653	52-652	80	R							X						03/15/2001
+749467	  52	00772	     	52-772	 	052	Lee County	052	Lee County	0.80	Dead End	52-642	80	R							X						04/12/2001
+749468	  52	00773	     	52-773	 	052	Lee County	052	Lee County	0.40	Alt US 58	Dead End	40	R							X						03/13/2001
+749469	  52	00774	     	52-774	 	052	Lee County	052	Lee County	0.70	52-617	Dead End	30	R							X						04/10/2001
+749470	  52	00775	     	52-775	 	052	Lee County	052	Lee County	1.60	Dead End	52-673	130	R							X						04/17/2001
+749471	  52	00776	     	52-776	 	052	Lee County	052	Lee County	0.30	52-628	52-878	30	R							X						04/02/2001
+749472	  52	00776	     	52-776	 	052	Lee County	052	Lee County	0.70	52-878	Dead End	20	R							X						04/02/2001
+749473	  52	00777	     	52-777	 	052	Lee County	052	Lee County	0.08	52-643	Dead End	30	R							X						04/12/2001
+749474	  52	00778	     	52-778	 	052	Lee County	052	Lee County	0.28	Alt US 58	Dead End	200	R							X						03/13/2001
+749475	  52	00779	     	52-779	 	052	Lee County	052	Lee County	1.30	52-684	Dead End	60	R							X						05/07/2001
+749476	  52	00780	     	52-780	 	052	Lee County	052	Lee County	1.40	52-641	52-640	100	R							X						04/12/2001
+749477	  52	00781	     	52-781	 	052	Lee County	052	Lee County	1.60	US 58	52-783	240	R							X						04/10/2001
+749478	  52	00782	     	52-782	 	052	Lee County	052	Lee County	0.50	52-612	0.50 MN 52-612	30	R							X						04/10/2001
+749479	  52	00782	     	52-782	 	052	Lee County	052	Lee County	0.10	0.50 MN 52-612	Dead End	30	R							X						04/10/2001
+749480	  52	00783	     	52-783	 	052	Lee County	052	Lee County	0.38	SR 70	52-739	160	R							X						04/10/2001
+749481	  52	00783	     	52-783	 	052	Lee County	052	Lee County	1.58	52-739	52-641	110	R							X						04/10/2001
+749482	  52	00783	     	52-783	 	052	Lee County	052	Lee County	1.00	52-641	52-781	60	R							X						04/10/2001
+749483	  52	00783	     	52-783	 	052	Lee County	052	Lee County	0.15	52-781	0.15 MN 52-781	70	R							X						04/10/2001
+749484	  52	00783	     	52-783	 	052	Lee County	052	Lee County	1.14	0.15 MN 52-781	US 58	130	R							X						04/10/2001
+749485	  52	00784	     	52-784	 	052	Lee County	052	Lee County	0.80	Dead End	52-600	20	R							X						04/19/2001
+749486	  52	00785	     	52-785	 	052	Lee County	052	Lee County	0.25	US 421 WEST	52-642	430	R							X						04/04/2001
+749487	  52	00785	     	52-785	 	052	Lee County	052	Lee County	0.05	52-642	52-807	740	R							X						04/04/2001
+749488	  52	00785	     	52-785	 	052	Lee County	052	Lee County	1.15	52-807	US 421 EAST	250	R							X						04/21/2001
+749489	  52	00786	     	52-786	 	052	Lee County	052	Lee County	0.21	Dead End	52-606	30	R							X						03/29/2001
+749490	  52	00787	     	52-787	 	052	Lee County	052	Lee County	0.40	Dead End	52-619	90	R							X						03/13/2001
+749491	  52	00788	     	52-788	 	052	Lee County	052	Lee County	0.13	52-621	Dead End	210	R							X						1994
+749492	  52	00789	     	52-789	 	052	Lee County	052	Lee County	0.60	Dead End	52-621	70	R							X						04/17/2001
+749493	  52	00790	     	52-790	 	052	Lee County	052	Lee County	0.40	52-658	52-831	30	R							X						04/25/2001
+749494	  52	00790	     	52-790	 	052	Lee County	052	Lee County	1.35	52-831	52-946	90	R							X						04/25/2001
+749495	  52	00791	     	52-791	 	052	Lee County	052	Lee County	0.57	US 58	US 58	90	R							X						04/10/2001
+749496	  52	00792	     	52-792	 	052	Lee County	052	Lee County	0.50	US 58 WEST	US 58 EAST	60	R							X						04/10/2001
+749497	  52	00793	     	52-793	 	052	Lee County	052	Lee County	0.10	Dead End	52-792	9	R							X						04/10/2001
+749498	  52	00794	     	52-794	 	052	Lee County	052	Lee County	0.30	52-766	Dead End	30	R							X						04/02/2001
+749499	  52	00795	     	52-795	 	052	Lee County	052	Lee County	0.02	Dead End	SR 352	70	R							X						1994
+749500	  52	00796	     	52-796	 	052	Lee County	052	Lee County	0.10	52-621	Dead End	45	R							X						03/08/2001
+749501	  52	00797	     	52-797	 	052	Lee County	052	Lee County	2.00	52-673	Kentucky State Line	20	R							X						04/17/2001
+749502	  52	00798	     	52-798	 	052	Lee County	052	Lee County	0.30	Dead End	52-642	30	R							X						1994
+749503	  52	00799	     	52-799	 	052	Lee County	052	Lee County	0.10	Dead End	52-749	110	R							X						04/17/2001
+749504	  52	00799	     	52-799	 	052	Lee County	052	Lee County	0.40	52-749	52-673	330	R							X						04/17/2001
+749505	  52	00800	     	52-800	 	052	Lee County	052	Lee County	0.30	52-629; 52-838	52-726	150	R							X						03/13/2001
+749506	  52	00801	     	52-801	 	052	Lee County	052	Lee County	0.01	SR 352	Dead End	30	R							X						04/02/2001
+749507	  52	00802	     	52-802	 	052	Lee County	052	Lee County	0.10	US 58	Dead End	180	R							X						04/17/2001
+749508	  52	00803	     	52-803	 	052	Lee County	052	Lee County	0.02	52-621	0.02 MN 52-621	130	R							X						03/13/2001
+749509	  52	00803	     	52-803	 	052	Lee County	052	Lee County	0.48	0.02 MN 52-621	Dead End	40	R							X						03/13/2001
+749510	  52	00804	     	52-804	 	052	Lee County	052	Lee County	0.20	52-765	Dead End	0	R							X						04/02/2001
+749511	  52	00805	     	52-805	 	052	Lee County	052	Lee County	0.40	52-708	Dead End	30	R							X						03/13/2001
+749512	  52	00806	     	52-806	 	052	Lee County	052	Lee County	0.20	52-684	Dead End	50	R							X						05/07/2001
+749513	  52	00807	     	52-807	 	052	Lee County	052	Lee County	0.10	52-785	Dead End	160	R							X						1994
+749514	  52	00809	     	52-809	 	052	Lee County	052	Lee County	0.40	Dead End	Alt US 58	40	R							X						03/13/2001
+749515	  52	00810	     	52-810	 	052	Lee County	052	Lee County	0.18	52-724	52-724	90	R							X						1994
+749516	  52	00811	     	52-811	 	052	Lee County	052	Lee County	0.49	Dead End	US 58	110	R							X						05/09/2001
+749517	  52	00812	     	52-812	 	052	Lee County	052	Lee County	0.30	Dead End	52-765	60	R							X						04/02/2001
+749518	  52	00813	     	52-813	 	052	Lee County	052	Lee County	0.33	52-670	Dead End	20	R							X						04/17/2001
+749519	  52	00814	     	52-814	 	052	Lee County	052	Lee County	0.02	52-664	US 58	130	R							X						04/17/2001
+781952	  52	00814	     	52-814	 	052	Lee County	052	Lee County	0.08	US 58	Dead End	0	R							X						04/17/2001
+749520	  52	00815	     	52-815	 	052	Lee County	052	Lee County	0.14	Dead End	US 58	4	R							X						1994
+749521	  52	00816	     	52-816	 	052	Lee County	052	Lee County	0.20	Dead End	52-702	60	R							X						03/01/2001
+749522	  52	00817	     	52-817	 	052	Lee County	052	Lee County	0.40	Dead End	52-611	120	R							X						03/01/2001
+749523	  52	00818	     	52-818	 	052	Lee County	052	Lee County	0.20	52-621	Dead End	20	R							X						04/12/2001
+749524	  52	00819	     	52-819	 	052	Lee County	052	Lee County	0.40	52-671	Dead End	40	R							X						04/17/2001
+749525	  52	00820	     	52-820	 	052	Lee County	052	Lee County	0.60	52-657	Dead End	90	R							X						04/12/2001
+749526	  52	00821	     	52-821	 	052	Lee County	052	Lee County	0.20	Dead End	SR 70	6	R							X						04/10/2001
+749527	  52	00822	     	52-822	 	052	Lee County	052	Lee County	0.10	52-619	Dead End	20	R							X						03/13/2001
+749528	  52	00823	     	52-823	 	052	Lee County	052	Lee County	0.60	52-612	Dead End	46	R							X						04/10/2001
+749529	  52	00824	     	52-824	 	052	Lee County	052	Lee County	0.15	US 23	52-863	270	R							X						03/01/2001
+749530	  52	00824	     	52-824	 	052	Lee County	052	Lee County	0.44	52-863	Dead End	90	R							X						03/01/2001
+749531	  52	00825	     	52-825	 	052	Lee County	052	Lee County	0.08	Dead End	52-621	20	R							X						03/13/2001
+749532	  52	00826	     	52-826	 	052	Lee County	052	Lee County	0.90	52-612	Dead End	120	R							X						04/10/2001
+749533	  52	00827	     	52-827	 	052	Lee County	052	Lee County	0.20	52-690	Dead End	80	R							X						05/07/2001
+749534	  52	00828	     	52-828	 	052	Lee County	052	Lee County	0.18	52-726	Dead End	140	R							X						1994
+749535	  52	00829	     	52-829	 	052	Lee County	052	Lee County	0.30	Alt US 58	0.30 MN US 58 ALT	110	R							X						04/02/2001
+749536	  52	00829	     	52-829	 	052	Lee County	052	Lee County	0.10	0.30 MN US 58 ALT	Dead End	90	R							X						04/02/2001
+749537	  52	00830	     	52-830	 	052	Lee County	052	Lee County	0.50	52-614	52-648	420	R							X						1994
+749538	  52	00831	     	52-831	 	052	Lee County	052	Lee County	0.30	52-790	Dead End	20	R							X						04/25/2001
+749539	  52	00832	     	52-832	 	052	Lee County	052	Lee County	0.30	52-613	Dead End	20	R							X						05/15/2001
+749540	  52	00833	     	52-833	 	052	Lee County	052	Lee County	1.73	52-679	52-661	160	R							X						04/30/2001
+749541	  52	00834	     	52-834	 	052	Lee County	052	Lee County	0.71	Dead End	52-661	30	R							X						04/30/2001
+749542	  52	00835	     	52-835	 	052	Lee County	052	Lee County	0.30	52-833	Dead End	10	R							X						04/30/2001
+749543	  52	00836	     	52-836	 	052	Lee County	052	Lee County	0.44	US 58	US 58	70	R							X						03/15/2001
+749544	  52	00837	     	52-837	 	052	Lee County	052	Lee County	0.07	US 58	52-738	170	R							X						03/01/2001
+749545	  52	00838	     	52-838	 	052	Lee County	052	Lee County	0.10	52-629; 52-800	Dead End	520	R							X						03/13/2001
+749546	  52	00839	     	52-839	 	052	Lee County	052	Lee County	0.50	52-612	Dead End	50	R							X						04/10/2001
+749547	  52	00840	     	52-840	 	052	Lee County	052	Lee County	0.67	52-612	Dead End	20	R							X						04/10/2001
+749548	  52	00841	     	52-841	 	052	Lee County	052	Lee County	0.10	US 58	Dead End	150	R							X						04/17/2001
+749549	  52	00842	     	52-842	 	052	Lee County	052	Lee County	0.10	US 58	Dead End	70	R							X						04/10/2001
+749550	  52	00843	     	52-843	 	052	Lee County	052	Lee County	0.20	Dead End	52-620	20	R							X						03/13/2001
+749551	  52	00844	     	52-844	 	052	Lee County	052	Lee County	0.30	Dead End	52-904	60	R							X						1994
+749552	  52	00845	     	52-845	 	052	Lee County	052	Lee County	0.32	52-621	Dead End	30	R							X						1998
+749553	  52	00846	     	52-846	 	052	Lee County	052	Lee County	0.30	Dead End	SR 70	9	R							X						04/19/2001
+749554	  52	00847	     	52-847	 	052	Lee County	052	Lee County	0.75	Dead End	52-690	46	R							X						05/09/2001
+749555	  52	00848	     	52-848	 	052	Lee County	052	Lee County	0.10	52-604	Dead End	0	R							X						04/19/2001
+749556	  52	00849	     	52-849	 	052	Lee County	052	Lee County	0.20	52-612	Dead End	10	R							X						03/01/2001
+749557	  52	00850	     	52-850	 	052	Lee County	052	Lee County	2.10	52-664	52-661	80	R							X						04/30/2001
+749558	  52	00851	     	52-851	 	052	Lee County	052	Lee County	0.10	Tennessee State Line	52-683	20	R							X						05/02/2001
+749559	  52	00851	     	52-851	 	052	Lee County	052	Lee County	2.30	52-683	52-682	50	R							X						05/02/2001
+749560	  52	00852	     	52-852	 	052	Lee County	052	Lee County	1.70	52-680	52-677	130	R							X						05/02/2001
+749561	  52	00853	     	52-853	 	052	Lee County	052	Lee County	1.80	52-667	52-676	46	R							X						04/30/2001
+749562	  52	00854	     	52-854	 	052	Lee County	052	Lee County	1.29	52-661	Dead End; Gap Terminus	50	R							X						04/30/2001
+749563	  52	00854	     	52-854	 	052	Lee County	052	Lee County	0.55	Dead End; Gap Terminus	52-679	50	R							X						1994
+749564	  52	00855	     	52-855	 	052	Lee County	052	Lee County	1.60	52-667	52-661	160	R							X						04/30/2001
+749565	  52	00856	     	52-856	 	052	Lee County	052	Lee County	0.55	Dead End	52-758	46	R							X						03/15/2001
+749566	  52	00857	     	52-857	 	052	Lee County	052	Lee County	0.50	Dead End	52-672	30	R							X						05/02/2001
+749567	  52	00858	     	52-858	 	052	Lee County	052	Lee County	0.30	Dead End	52-744	20	R							X						06/07/2001
+749568	  52	00859	     	52-859	 	052	Lee County	052	Lee County	0.13	Dead End	52-612	20	R							X						03/01/2001
+749569	  52	00860	     	52-860	 	052	Lee County	052	Lee County	0.05	52-724	Dead End	140	R							X						1994
+749570	  52	00861	     	52-861	 	052	Lee County	052	Lee County	0.22	Dead End	52-630	70	R							X						04/04/2001
+749571	  52	00862	     	52-862	 	052	Lee County	052	Lee County	0.50	Dead End	52-625	40	R							X						03/29/2001
+749572	  52	00863	     	52-863	 	052	Lee County	052	Lee County	0.30	52-824	Dead End	130	R							X						03/01/2001
+788215	  52	00864	     	52-864	 	245	Town of Jonesville	052	Lee County	0.07	SR 70	SCL Jonesville	0	?							X
+788214	  52	00864	     	52-864	 	052	Lee County	052	Lee County	0.10	SCL Jonesville	SR 70 Old	0	?							X
+749573	  52	00864	     	52-864	 	052	Lee County	052	Lee County	0.25	SR 70	Dead End	650	R							X						05/14/2001
+749574	  52	00865	     	52-865	 	052	Lee County	052	Lee County	0.30	Dead End	52-612	20	R							X						04/10/2001
+749575	  52	00866	     	52-866	 	052	Lee County	052	Lee County	0.15	52-621	Dead End	20	R							X						04/12/2001
+749576	  52	00867	     	52-867	 	052	Lee County	052	Lee County	0.17	US 23	Wise County Line	120	R							X						03/01/2001
+749577	  52	00868	     	52-868	 	052	Lee County	052	Lee County	0.25	US 23 SOUTH	Dead End ; Gap Terminus	60	R							X						03/01/2001
+749578	  52	00868	     	52-868	 	052	Lee County	052	Lee County	0.16	Dead End ; Gap Terminus	US 23 NORTH	10	R							X						03/01/2001
+749579	  52	00869	     	52-869	 	052	Lee County	052	Lee County	0.11	52-600	Dead End	30	R							X						04/19/2001
+749580	  52	00870	     	52-870	 	052	Lee County	052	Lee County	0.16	Dead End	52-726	310	R							X						03/08/2001
+749581	  52	00871	     	52-871	 	052	Lee County	052	Lee County	0.15	Dead End	52-619	180	R							X						03/13/2001
+749583	  52	00873	     	52-873	 	052	Lee County	052	Lee County	0.14	52-606	Dead End	46	R							X						03/29/2001
+749584	  52	00874	     	52-874	 	052	Lee County	052	Lee County	0.30	52-679	Dead End	60	R							X						03/15/2001
+749585	  52	00875	     	52-875	 	052	Lee County	052	Lee County	0.10	52-611	Dead End	20	R							X						03/01/2001
+749586	  52	00876	     	52-876	 	052	Lee County	052	Lee County	0.91	52-623	Dead End	60	R							X						03/29/2001
+749587	  52	00877	     	52-877	 	052	Lee County	052	Lee County	0.09	52-876	52-623	20	R							X						03/29/2001
+749588	  52	00878	     	52-878	 	052	Lee County	052	Lee County	0.50	Dead End	52-776	8	R							X						04/02/2001
+788216	  52	00879	     	52-879	 	052	Lee County	052	Lee County	0.10	US 58	BUS US 58	0	?							X
+749589	  52	00879	     	52-879	 	052	Lee County	052	Lee County	0.20	BUS US 58	Dead End	60	R							X						05/07/2001
+749590	  52	00880	     	52-880	 	052	Lee County	052	Lee County	1.24	US 58 WEST	52-657 EAST	190	R							X						04/17/2001
+403122	  52	00880	     	52-880	 	052	Lee County	052	Lee County	1.28	52-657 East	US 58 E, Daniel Boone Heritage Hwy	280	G	96%	0%	3%	1%	0%	0%	C	0.0978	F	0.5484	290	G	2008
+749591	  52	00881	     	52-881	 	052	Lee County	052	Lee County	0.12	Dead End	52-716	4	R							X						1994
+749592	  52	00882	     	52-882	 	052	Lee County	052	Lee County	0.20	52-638	Dead End	110	R							X						04/10/2001
+749593	  52	00883	     	52-883	 	052	Lee County	052	Lee County	0.18	52-647	Dead End	60	R							X						04/12/2001
+782523	  52	00884	     	52-884	 	052	Lee County	052	Lee County	0.15	Dead End	US 421	0	?							X
+749594	  52	00885	     	52-885	 	052	Lee County	052	Lee County	0.05	52-750	Dead End	30	R							X						1998
+749595	  52	00886	     	52-886	 	293	Town of St. Charles	052	Lee County	0.11	52-888	52-636	0	?							X
+749596	  52	00887	     	52-887	 	293	Town of St. Charles	052	Lee County	0.06	52-886	Dead End	0	?							X
+749597	  52	00888	     	52-888	 	293	Town of St. Charles	052	Lee County	0.06	52-886	Dead End	0	?							X
+749598	  52	00890	     	52-890	 	052	Lee County	052	Lee County	0.30	Dead End	US 421	90	R							X						04/04/2001
+749599	  52	00891	     	52-891	 	052	Lee County	052	Lee County	0.18	52-785	Dead End	110	R							X						04/04/2001
+749600	  52	00892	     	52-892	 	052	Lee County	052	Lee County	0.28	US 58	WCL JONESVILLE	700	R							X						1994
+749601	  52	00893	     	52-893	 	052	Lee County	052	Lee County	0.25	Dead End	52-892	0	?							X
+749602	  52	00894	     	52-894	 	052	Lee County	052	Lee County	0.24	Dead End	52-892	0	?							X
+784145	  52	00894	     	52-894	 	052	Lee County	052	Lee County	0.14	52-892	WCL JONESVILLE	0	?							X
+749603	  52	00895	     	52-895	 	052	Lee County	052	Lee County	0.09	52-830	Dead End	60	R							X						1994
+782524	  52	00896	     	52-896	 	052	Lee County	052	Lee County	0.42	Dead End	52-663	30	R							X						04/25/2001
+784146	  52	00897	     	52-897	 	052	Lee County	052	Lee County	0.35	52-684	Dead End	0	?							X
+749604	  52	00898	     	52-898	 	052	Lee County	052	Lee County	0.08	Dead End	52-879	50	R							X						1998
+403123	  52	00899	     	52-899	 	052	Lee County	052	Lee County	0.75	US 58 W, Daniel Boone Heritage Hwy	52-659	150	G	91%	0%	5%	1%	3%	0%	C	0.1375	F	0.7273	160	G	2008
+749605	  52	00899	     	52-899	 	052	Lee County	052	Lee County	0.51	52-659	US 58 E, Daniel Boone Heritage Hwy	130	R							X						04/17/2001
+749606	  52	00900	     	52-900	 	052	Lee County	052	Lee County	0.17	Dead End	US 23	160	R							X						1998
+749607	  52	00901	     	52-901	 	052	Lee County	052	Lee County	0.40	52-900	Dead End	130	R							X						1998
+787881	  52	00903	     	52-903	 	052	Lee County	052	Lee County	0.05	52-00724(B)/	Dead End	0	?							X
+784147	  52	00904	     	52-904	 	052	Lee County	052	Lee County	0.79	52-606 West	52-606 East	40	G	90%	0%	10%	0%	0%	0%	C	0.2105	F	0.6250	40	G	2008
+749608	  52	00905	     	52-905	 	052	Lee County	052	Lee County	0.10	52-802	Dead End	0	?							X
+787882	  52	00906	     	52-906	 	052	Lee County	052	Lee County	0.23	CBUS-00058(B)/	Dead End	0	?							X
+787883	  52	00907	     	52-907	 	052	Lee County	052	Lee County	0.03	CBUS-00058(B)/	US-00058(B)/	0	?							X
+787884	  52	00908	     	52-908	 	052	Lee County	052	Lee County	0.55	US-00058(B)/	Dead End	0	?							X
+787885	  52	00909	     	52-909	 	052	Lee County	052	Lee County	0.08	CBUS-00058(B)/	52-00908(B)/	0	?							X
+749609	  52	00910	     	52-910	 	052	Lee County	052	Lee County	0.40	Dead End	52-708	130	R							X						1998
+787886	  52	00911	     	52-911	 	052	Lee County	052	Lee County	0.07	CBUS-00058(B)/	US-00058(B)/ENT TO BUSINESS(U)/	0	?							X
+785379	  52	00912	     	52-912	 	052	Lee County	052	Lee County	0.32	US 58 WEST	US 58 EAST	0	?							X
+784148	  52	00913	     	52-913	 	052	Lee County	052	Lee County	0.06	52-748	Dead End	0	?							X
+793140	  52	00914	     	52-914	 	052	Lee County	052	Lee County	0.17	52-802	52-841	0	?							X
+749610	  52	00915	     	52-915	 	052	Lee County	052	Lee County	1.13	US 58 WEST	52-704	90	R							X						1998
+749611	  52	00915	     	52-915	 	052	Lee County	052	Lee County	0.23	52-704	52-703	70	R							X						1998
+749612	  52	00915	     	52-915	 	052	Lee County	052	Lee County	0.56	52-703	US 58 EAST	80	R							X						1998
+792441	  52	00919	     	52-919	 	052	Lee County	052	Lee County	1.12	52-606 WEST	52-606 EAST	0	?							X
+749613	  52	00920	     	52-920	 	052	Lee County	052	Lee County	0.11	Dead End	US 58; 52-9222 EAST	0	?							X
+786458	  52	00923	     	52-923	 	052	Lee County	052	Lee County	0.57	US-00058(B)/	Cul-de-Sac	0	?							X
+749614	  52	00925	     	52-925	 	052	Lee County	052	Lee County	0.24	52-643	Dead End	0	?							X
+786459	  52	00926	     	52-926	 	052	Lee County	052	Lee County	0.61	US-00058(B)/	Cul-de-Sac	0	?							X
+786460	  52	00927	     	52-927	 	052	Lee County	052	Lee County	0.05	52-00926(B)/	US-00058(B)/	0	?							X
+788677	  52	00928	     	52-928	 	052	Lee County	052	Lee County	0.08	Dead End	52-00750(R)/	0	?							X
+749615	  52	00930	     	52-930	 	052	Lee County	052	Lee County	0.25	Dead End	US 58	130	R							X						1999
+749616	  52	00931	     	52-931	 	052	Lee County	052	Lee County	0.30	Dead End	52-930	100	R							X						1994
+784149	  52	00932	     	52-932	 	052	Lee County	052	Lee County	0.23	Dead End	52-931	0	?							X
+786461	  52	00933	     	52-933	 	052	Lee County	052	Lee County	0.12	Dead End	52-00931(B)/	0	?							X
+749617	  52	00934	     	52-934	 	052	Lee County	052	Lee County	0.28	52-720	Dead End	70	R							X						1998
+787887	  52	00935	     	52-935	 	052	Lee County	052	Lee County	0.10	52-00630(B)/	Dead End	0	?							X
+788678	  52	00937	     	52-937	 	052	Lee County	052	Lee County	0.12	Dead End	52-00643(B)/	0	?							X
+786462	  52	00938	     	52-938	 	052	Lee County	052	Lee County	0.22	52-941	52-860	0	?							X
+794619	  52	00939	     	52-939	 	052	Lee County	052	Lee County	0.10	Dead End	52-623	0	?							X
+749618	  52	00940	     	52-940	 	052	Lee County	052	Lee County	0.24	52-783	Dead End	70	R							X						1994
+790961	  52	00941	     	52-941	 	052	Lee County	052	Lee County	0.04	52-724	52-938	0	?							X
+790962	  52	00942	     	52-942	 	052	Lee County	052	Lee County	0.04	52-724 NORTH	52-938	0	?							X
+786463	  52	00944	     	52-944	 	052	Lee County	052	Lee County	0.25	CBUS-00058(B)/	Dead End	0	?							X
+749619	  52	00945	     	52-945	 	052	Lee County	052	Lee County	0.03	Dead End	US 58	0	?							X
+792440	  52	00946	     	52-946	 	052	Lee County	052	Lee County	2.77	US 58 WEST	US 58 EAST	0	?							X
+793141	  52	00947	     	52-947	 	052	Lee County	052	Lee County	0.07	52-839	Dead End	0	?							X
+796011	  52	00948	     	52-948	 	052	Lee County	052	Lee County	0.34	US 58 Daniel Boone Trail	Dead End	0	?							X
+793142	  52	00949	     	52-949	 	052	Lee County	052	Lee County	0.62	52-720	Dead End	0	?							X
+749620	  52	00950	     	52-950	 	052	Lee County	052	Lee County	0.29	Dead End	US 58	130	R							X						05/09/2001
+749621	  52	00951	     	52-951	 	052	Lee County	052	Lee County	0.20	Dead End	US 58	140	R							X						05/09/2001
+785380	  52	00952	     	52-952	 	052	Lee County	052	Lee County	0.18	Dead End	US 58	0	?							X
+749622	  52	00953	     	52-953	 	052	Lee County	052	Lee County	0.12	Dead End	52-684	0	?							X
+749623	  52	00955	     	52-955	 	052	Lee County	052	Lee County	0.16	Dead End	US 58	250	R							X						05/07/2001
+795719	  52	00956	     	52-956	 	052	Lee County	052	Lee County	0.16	Dead End	52-643	0	?							X
+749624	  52	00960	     	52-960	 	052	Lee County	052	Lee County	0.20	52-662	Dead End	0	?							X
+790471	  52	00975	     	52-975	 	052	Lee County	052	Lee County	0.66	52-611	JB-84 COUNTY LINE	0	?							X
+792439	  52	00998	     	52-998	 	052	Lee County	052	Lee County	0.13	52-646	52-646	0	?							X
+749625	  52	00999	     	52-999	 	052	Lee County	052	Lee County	0.28	52-621 WEST	52-621 EAST	10	R							X						03/13/2001
+749626	  52	01001	     	52-1001	 	052	Lee County	052	Lee County	0.07	52-606	52-1002	550	R							X						03/29/2001
+749627	  52	01002	     	52-1002	 	052	Lee County	052	Lee County	0.25	Dead End	52-606 WEST	140	R							X						03/29/2001
+749628	  52	01002	     	52-1002	 	052	Lee County	052	Lee County	0.16	52-606 WEST	52-1001	120	R							X						03/29/2001
+749629	  52	01002	     	52-1002	 	052	Lee County	052	Lee County	0.17	52-1001	52-606 EAST	640	R							X						03/29/2001
+749630	  52	01003	     	52-1003	 	052	Lee County	052	Lee County	0.15	52-1002	52-606	150	R							X						03/29/2001
+749631	  52	01004	     	52-1004	 	052	Lee County	052	Lee County	0.10	52-1002	52-606	80	R							X						03/29/2001
+749632	  52	01005	     	52-1005	 	052	Lee County	052	Lee County	0.20	Dead End	0.20 MN Dead End	60	R							X						03/29/2001
+749633	  52	01005	     	52-1005	 	052	Lee County	052	Lee County	0.06	0.20 MN Dead End	52-606	60	R							X						03/29/2001
+749634	  52	01006	     	52-1006	 	052	Lee County	052	Lee County	0.08	Dead End	52-606	60	R							X						03/29/2001
+749635	  52	01007	     	52-1007	 	052	Lee County	052	Lee County	0.10	Dead End	52-606	46	R							X						03/29/2001
+749636	  52	01010	     	52-1010	 	052	Lee County	052	Lee County	0.18	Cul-de-Sac	US 58	160	R							X						05/09/2001
+785381	  52	01011	     	52-1011	 	052	Lee County	052	Lee County	0.18	Cul-de-Sac	52-1010	80	R							X						05/09/2001
+788679	  52	01014	     	52-1014	 	052	Lee County	052	Lee County	0.23	Dead End	US-00058(B)/	0	?							X
+749637	  52	01015	     	52-1015	 	052	Lee County	052	Lee County	0.28	US 58	Cul-de-Sac	170	R							X						04/10/2001
+749638	  52	01020	     	52-1020	 	052	Lee County	052	Lee County	0.43	52-638	Cul-de-Sac	120	R							X						1998
+749639	  52	01021	     	52-1021	 	052	Lee County	052	Lee County	0.04	52-1020	Cul-de-Sac	10	R							X						1998
+749640	  52	01022	     	52-1022	 	052	Lee County	052	Lee County	0.05	Cul-de-Sac	52-1020	20	R							X						1998
+749641	  52	01023	     	52-1023	 	052	Lee County	052	Lee County	0.35	US 58	Dead End	200	R							X						04/10/2001
+784150	  52	01025	     	52-1025	 	052	Lee County	052	Lee County	0.25	52-638	Dead End	110	R							X						04/10/2001
+794620	  52	01026	     	52-1026	 	052	Lee County	052	Lee County	0.24	52-638	END OF LOOP	0	?							X
+749642	  52	01030	     	52-1030	 	052	Lee County	052	Lee County	0.18	US 58	52-1031	160	R							X						04/10/2001
+749643	  52	01030	     	52-1030	 	052	Lee County	052	Lee County	0.10	52-1031	Dead End	60	R							X						04/10/2001
+749644	  52	01031	     	52-1031	 	052	Lee County	052	Lee County	0.05	Dead End	52-1030	60	R							X						04/10/2001
+791738	  52	01033	     	52-1033	 	052	Lee County	052	Lee County	0.23	Dead End	52-654	0	?							X
+788680	  52	01034	     	52-1034	 	052	Lee County	052	Lee County	0.06	52-00654(B)/	Cul-de-Sac	0	?							X
+749645	  52	01035	     	52-1035	 	052	Lee County	052	Lee County	0.57	52-830	52-830	0	?							X
+749647	  52	01040	     	52-1040	 	052	Lee County	052	Lee County	0.89	52-752	Alt US 58	340	R							X						03/13/2001
+787888	  52	01041	     	52-1041	 	052	Lee County	052	Lee County	0.10	Dead End	52-01040(B)/	0	?							X
+749648	  52	01050	     	52-1050	 	052	Lee County	052	Lee County	0.86	52-1057	Alt US 58	420	R							X						03/13/2001
+749649	  52	01051	     	52-1051	 	052	Lee County	052	Lee County	0.15	Dead End	52-1050	0	?							X
+749650	  52	01052	     	52-1052	 	052	Lee County	052	Lee County	0.27	52-1050	52-1051	0	?							X
+749651	  52	01053	     	52-1053	 	052	Lee County	052	Lee County	0.07	52-1058	52-1052	0	?							X
+749652	  52	01054	     	52-1054	 	052	Lee County	052	Lee County	0.09	52-1058	52-1052	0	?							X
+749653	  52	01055	     	52-1055	 	052	Lee County	052	Lee County	0.11	52-1058	52-1052	0	?							X
+749654	  52	01056	     	52-1056	 	052	Lee County	052	Lee County	0.09	52-1058	52-1050	0	?							X
+749655	  52	01057	     	52-1057	 	052	Lee County	052	Lee County	0.08	Dead End	52-1050	0	?							X
+749656	  52	01058	     	52-1058	 	052	Lee County	052	Lee County	0.15	52-1056	52-1053	0	?							X
+749657	  52	01100	     	52-1100	Smithfield Dr	281	Town of Pennington Gap	052	Lee County	0.06	52-1116	Dead End	40	R							X						05/16/2001
+749658	  52	01101	     	52-1101	Cecil St	281	Town of Pennington Gap	052	Lee County	0.20	Alt US 58	52-1133 Bailey Rd	750	R							X						05/16/2001
+749659	  52	01101	     	52-1101	Cecil St	281	Town of Pennington Gap	052	Lee County	0.10	52-1133 Bailey Rd	NCL Pennington Gap	100	R							X						05/16/2001
+785141	  52	01101	     	52-1101	 	052	Lee County	052	Lee County	0.06	NCL Pennington Gap	Dead End	100	N							X				0	N	05/16/2001
+749660	  52	01102	     	52-1102	 	281	Town of Pennington Gap	052	Lee County	0.14	Alt US 58	Dead End	350	R							X						05/16/2001
+749661	  52	01103	     	52-1103	 	281	Town of Pennington Gap	052	Lee County	0.27	Dead End	52-1101 Cecil St	90	R							X						05/16/2001
+749662	  52	01103	     	52-1103	 	281	Town of Pennington Gap	052	Lee County	0.50	52-1101 Cecil St	52-1102	330	R							X						05/16/2001
+749663	  52	01103	     	52-1103	 	281	Town of Pennington Gap	052	Lee County	0.18	52-1102	Dead End	110	R							X						05/16/2001
+749664	  52	01104	     	52-1104	 	281	Town of Pennington Gap	052	Lee County	0.06	52-764	Alt US 58	500	R							X						05/16/2001
+785901	  52	01104	     	52-1104	Anderson St	281	Town of Pennington Gap	052	Lee County	0.12	Alt US 58	52-1114 Forest Ave	500	N							X				0	N	05/16/2001
+749665	  52	01104	     	52-1104	 	281	Town of Pennington Gap	052	Lee County	0.06	52-1114 Forest Ave	52-1134 EAST	170	R							X						05/16/2001
+749666	  52	01104	     	52-1104	 	281	Town of Pennington Gap	052	Lee County	0.11	52-1134 WEST	52-1136	70	R							X						05/16/2001
+749667	  52	01105	     	52-1105	Johnson St	281	Town of Pennington Gap	052	Lee County	0.28	52-764	52-1113 Robinette St	160	R							X						05/16/2001
+749668	  52	01106	     	52-1106	 	281	Town of Pennington Gap	052	Lee County	0.28	52-640 SCL PENN GAP	Dead End	80	R							X						04/04/2001
+749669	  52	01107	     	52-1107	 	052	Lee County	052	Lee County	0.10	Dead End	US 421	20	R							X						04/02/2001
+749670	  52	01108	     	52-1108	 	281	Town of Pennington Gap	052	Lee County	0.25	52-1104 Anderson St	US 421	160	R							X						05/16/2001
+749671	  52	01108	     	52-1108	 	281	Town of Pennington Gap	052	Lee County	0.17	US 421	Dead End	130	R							X						05/16/2001
+749672	  52	01109	     	52-1109	Oakwood Ave	281	Town of Pennington Gap	052	Lee County	0.33	Dead End	US 421	210	R							X						05/16/2001
+749673	  52	01109	     	52-1109	Oakwood Ave	281	Town of Pennington Gap	052	Lee County	0.26	US 421	52-1137	230	R							X						05/16/2001
+749674	  52	01110	     	52-1110	 	281	Town of Pennington Gap	052	Lee County	0.06	52-1103	Dead End	10	R							X						05/16/2001
+749675	  52	01111	     	52-1111	Joslyn Ave	281	Town of Pennington Gap	052	Lee County	0.69	52-706	Alt US 58	1500	R							X						05/16/2001
+749676	  52	01112	     	52-1112	 	281	Town of Pennington Gap	052	Lee County	0.05	52-1111 Joslyn Ave	Alt US 58	1000	R							X						05/16/2001
+749677	  52	01112	     	52-1112	 	281	Town of Pennington Gap	052	Lee County	0.04	Alt US 58	Dead End	50	R							X						05/16/2001
+749678	  52	01113	     	52-1113	Robinette St	281	Town of Pennington Gap	052	Lee County	0.18	Dead End	US 421	100	R							X						05/16/2001
+749679	  52	01114	     	52-1114	 	281	Town of Pennington Gap	052	Lee County	0.12	52-764	52-1104 Gap Terminus	90	R							X						05/16/2001
+749680	  52	01114	     	52-1114	 	281	Town of Pennington Gap	052	Lee County	0.25	US 421 Gap Terminus	Dead End	140	R							X						05/16/2001
+749681	  52	01115	     	52-1115	 	281	Town of Pennington Gap	052	Lee County	0.08	52-1116 Herndon St	52-1101 Cecil St	220	R							X						05/16/2001
+749682	  52	01116	     	52-1116	Herndon St	281	Town of Pennington Gap	052	Lee County	0.22	Alt US 58	Dead End	530	R							X						05/16/2001
+749683	  52	01117	     	52-1117	Hospital Dr	281	Town of Pennington Gap	052	Lee County	0.12	Dead End	52-640	160	R							X						04/04/2001
+749684	  52	01118	     	52-1118	 	281	Town of Pennington Gap	052	Lee County	0.06	52-1117 Hospital Dr	52-1119 Willow Rd	60	R							X						04/04/2001
+749685	  52	01119	     	52-1119	Willow Rd	281	Town of Pennington Gap	052	Lee County	0.07	Dead End	52-1118	40	R							X						04/04/2001
+749686	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.06	Dead End	52-1103	40	R							X						05/16/2001
+749687	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.07	52-1103	Alt US 58	100	R							X						05/16/2001
+749688	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.05	Alt US 58	52-1111 Joslyn Ave	270	R							X						05/16/2001
+749689	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.06	52-1111 Joslyn Ave	Dead End	200	R							X						05/16/2001
+749690	  52	01121	     	52-1121	 	281	Town of Pennington Gap	052	Lee County	0.25	Dead End	52-1116 Herndon St	290	R							X						05/16/2001
+749691	  52	01122	     	52-1122	 	052	Lee County	052	Lee County	0.53	Dead End	52-640	30	R							X						04/04/2001
+749692	  52	01123	     	52-1123	St	281	Town of Pennington Gap	052	Lee County	0.10	52-640 Skaggs Hill Rd	52-1140	60	R							X						04/04/2001
+749693	  52	01124	     	52-1124	Lee St	281	Town of Pennington Gap	052	Lee County	0.08	52-764	Alt US 58	150	R							X						05/16/2001
+749694	  52	01125	     	52-1125	Doris Ave	281	Town of Pennington Gap	052	Lee County	0.26	52-1104 Anderson St	US 421;  US 58 ALT	880	R							X						05/16/2001
+749695	  52	01126	     	52-1126	Duff St	281	Town of Pennington Gap	052	Lee County	0.17	Alt US 58	Dead End	460	R							X						05/16/2001
+749696	  52	01127	     	52-1127	Burke St	281	Town of Pennington Gap	052	Lee County	0.04	52-1111 Joslyn Ave	Alt US 58	160	R							X						05/16/2001
+749697	  52	01128	     	52-1128	 	281	Town of Pennington Gap	052	Lee County	0.06	Alt US 58	52-1103	460	R							X						05/16/2001
+749698	  52	01129	     	52-1129	 	281	Town of Pennington Gap	052	Lee County	0.16	52-640 Skaggs Hill Rd	Dead End	360	R							X						1998
+749699	  52	01130	     	52-1130	 	281	Town of Pennington Gap	052	Lee County	0.04	52-706	52-1141	240	R							X						05/16/2001
+749700	  52	01131	     	52-1131	Walnut St	281	Town of Pennington Gap	052	Lee County	0.04	52-1108	52-1109 Oakwood Ave	80	R							X						05/16/2001
+749701	  52	01132	     	52-1132	Allen St	281	Town of Pennington Gap	052	Lee County	0.05	52-1109 Oakwood Ave	52-1114	120	R							X						05/16/2001
+749702	  52	01133	     	52-1133	Bailey St	281	Town of Pennington Gap	052	Lee County	0.25	52-1101 Cecil St	Dead End	150	R							X						05/16/2001
+749703	  52	01134	     	52-1134	 	281	Town of Pennington Gap	052	Lee County	0.09	52-1138	52-1135	90	R							X						05/16/2001
+749704	  52	01135	     	52-1135	 	281	Town of Pennington Gap	052	Lee County	0.11	52-1136	52-1134	50	R							X						05/16/2001
+749705	  52	01136	     	52-1136	 	281	Town of Pennington Gap	052	Lee County	0.05	52-1104 Anderson St	52-1135	70	R							X						05/16/2001
+749706	  52	01137	     	52-1137	 	281	Town of Pennington Gap	052	Lee County	0.48	US 58	Dead End	760	R							X						05/16/2001
+749707	  52	01138	     	52-1138	 	281	Town of Pennington Gap	052	Lee County	0.08	52-1134	Dead End	40	R							X						05/16/2001
+749708	  52	01139	     	52-1139	 	281	Town of Pennington Gap	052	Lee County	0.16	Dead End	52-1103	60	R							X						05/16/2001
+749709	  52	01140	     	52-1140	 	281	Town of Pennington Gap	052	Lee County	0.05	Dead End	52-1123	46	R							X						04/04/2001
+749710	  52	01141	     	52-1141	 	281	Town of Pennington Gap	052	Lee County	0.16	US 58	52-1130	510	R							X						1998
+749711	  52	01141	     	52-1141	 	281	Town of Pennington Gap	052	Lee County	0.17	52-1130	Dead End	320	R							X						1998
+749712	  52	01142	     	52-1142	 	281	Town of Pennington Gap	052	Lee County	0.01	52-706	Dead End	200	R							X						1998
+749713	  52	01143	     	52-1143	 	281	Town of Pennington Gap	052	Lee County	0.05	Alt US 58	52-1103	0	?							X
+749714	  52	01144	     	52-1144	 	281	Town of Pennington Gap	052	Lee County	0.14	52-640	Dead End	0	?							X
+749715	  52	01145	     	52-1145	 	281	Town of Pennington Gap	052	Lee County	0.04	52-721	Dead End	180	R							X						1998
+787889	  52	01148	     	52-1148	 	281	Town of Pennington Gap	052	Lee County	0.38	52-00706(U)/	52-00621(B)/	0	?							X
+784151	  52	01149	     	52-1149	 	281	Town of Pennington Gap	052	Lee County	0.05	52-1111 Joslyn Ave	ALT US 58 WEST	0	?							X
+749716	  52	01200	     	52-1200	 	245	Town of Jonesville	052	Lee County	0.68	US 58; 52-648	Dead End	170	R							X						05/14/2001
+749717	  52	01201	     	52-1201	Institute St	245	Town of Jonesville	052	Lee County	0.35	52-650	52-649 Park St	670	R							X						05/14/2001
+749718	  52	01201	     	52-1201	Institute St	245	Town of Jonesville	052	Lee County	0.07	52-649 Park St	52-1205 Church St	150	R							X						05/14/2001
+749719	  52	01201	     	52-1201	Institute St	245	Town of Jonesville	052	Lee County	0.10	52-1205 Church St	Dead End	500	R							X						05/14/2001
+749720	  52	01202	     	52-1202	Ely St	245	Town of Jonesville	052	Lee County	0.07	US 58	52-1201 Institute St	270	R							X						05/14/2001
+749721	  52	01203	     	52-1203	Russell St	245	Town of Jonesville	052	Lee County	0.35	Dead End	US 58	210	R							X						05/14/2001
+749722	  52	01204	     	52-1204	 	245	Town of Jonesville	052	Lee County	0.12	US 58	52-648	180	R							X						05/14/2001
+749723	  52	01205	     	52-1205	Church St	245	Town of Jonesville	052	Lee County	0.03	US 58	Alt US 58	650	R							X						05/14/2001
+749724	  52	01205	     	52-1205	Church St	245	Town of Jonesville	052	Lee County	0.08	Alt US 58	52-1201 Institute St	1800	R							X						05/14/2001
+749725	  52	01205	     	52-1205	Church St	245	Town of Jonesville	052	Lee County	0.15	52-1201 Institute St	Dead End	420	R							X						05/14/2001
+749726	  52	01206	     	52-1206	Palace Pl	245	Town of Jonesville	052	Lee County	0.03	US 58	Alt US 58	2300	R							X						05/14/2001
+749727	  52	01206	     	52-1206	Palace Pl	245	Town of Jonesville	052	Lee County	0.08	Alt US 58	52-1201 Institute St	540	R							X						05/14/2001
+749728	  52	01207	     	52-1207	 	245	Town of Jonesville	052	Lee County	0.22	52-1210 Fourth St	52-1208	150	R							X						05/14/2001
+749729	  52	01207	     	52-1207	 	245	Town of Jonesville	052	Lee County	0.05	52-1208	52-650	230	R							X						05/14/2001
+749730	  52	01208	     	52-1208	 	245	Town of Jonesville	052	Lee County	0.10	US 58	Dead End	70	R							X						05/14/2001
+749731	  52	01209	     	52-1209	 	245	Town of Jonesville	052	Lee County	0.10	US 58	Dead End	50	R							X						05/14/2001
+749732	  52	01210	     	52-1210	Fourth St	245	Town of Jonesville	052	Lee County	0.12	US 58; 52-1211	Dead End	180	R							X						05/14/2001
+749733	  52	01211	     	52-1211	Johnson St	245	Town of Jonesville	052	Lee County	0.08	Dead End	US 58; 52-1210	70	R							X						05/14/2001
+749734	  52	01212	     	52-1212	Holmes St	245	Town of Jonesville	052	Lee County	0.28	52-1217 Central St	US 58	270	R							X						1994
+749735	  52	01213	     	52-1213	Martin St	245	Town of Jonesville	052	Lee County	0.18	52-1221 Crest Dr	52-1216 Second Ave	210	R							X						05/14/2001
+749736	  52	01213	     	52-1213	Martin St	245	Town of Jonesville	052	Lee County	0.12	52-1216 Second Ave	US 58	320	R							X						05/14/2001
+749737	  52	01214	     	52-1214	Joslyn St	245	Town of Jonesville	052	Lee County	0.26	52-1220 Fitts Lane	US 58	170	R							X						05/14/2001
+749738	  52	01215	     	52-1215	 	245	Town of Jonesville	052	Lee County	0.15	Dead End	52-1214 Joslyn St	40	R							X						1994
+749739	  52	01216	     	52-1216	Second Ave	245	Town of Jonesville	052	Lee County	0.06	52-1213 Martin St	52-1214 Joslyn St	20	R							X						1994
+749740	  52	01217	     	52-1217	Central St	245	Town of Jonesville	052	Lee County	0.17	Dead End	52-1212 Holmes St	100	R							X						1994
+749741	  52	01218	     	52-1218	 	245	Town of Jonesville	052	Lee County	0.17	Dead End	52-1212 Holmes St	90	R							X						1994
+749742	  52	01218	     	52-1218	 	245	Town of Jonesville	052	Lee County	0.11	52-1212 Holmes St	52-1213 Martin St	130	R							X						1994
+749743	  52	01219	     	52-1219	Gibson St	245	Town of Jonesville	052	Lee County	0.11	52-1221 Crest Dr	52-1218	90	R							X						05/14/2001
+749744	  52	01220	     	52-1220	Fitts Lane	245	Town of Jonesville	052	Lee County	0.06	52-1213 Martin St	52-1214 Joslyn St	60	R							X						1994
+749745	  52	01221	     	52-1221	Crest Dr	245	Town of Jonesville	052	Lee County	0.12	52-1219 Gibson St	Dead End	70	R							X						05/14/2001
+749746	  52	01222	     	52-1222	 	052	Lee County	052	Lee County	0.30	52-648 NCL JONESVILLE	Dead End	40	R							X						05/14/2001
+749747	  52	01223	     	52-1223	 	245	Town of Jonesville	052	Lee County	0.18	Dead End	52-1224	0	?							X
+749748	  52	01223	     	52-1223	 	245	Town of Jonesville	052	Lee County	0.13	52-1224	US 58	2000	R							X						1994
+749749	  52	01224	     	52-1224	 	245	Town of Jonesville	052	Lee County	0.08	Dead End	52-1223	260	R							X						1994
+749750	  52	01225	     	52-1225	 	245	Town of Jonesville	052	Lee County	0.51	52-649	Cul-de-Sac	230	R							X						05/14/2001
+749751	  52	01226	     	52-1226	 	245	Town of Jonesville	052	Lee County	0.12	52-1238	NCL JONESVILLE	40	R							X						1998
+749752	  52	01226	     	52-1226	 	052	Lee County	052	Lee County	0.14	NCL JONESVILLE	52-650	60	R							X						05/14/2001
+749753	  52	01227	     	52-1227	 	245	Town of Jonesville	052	Lee County	0.05	Dead End	52-1238	70	R							X						1998
+749754	  52	01228	     	52-1228	 	245	Town of Jonesville	052	Lee County	0.06	52-1218	52-1229	190	R							X						1994
+749755	  52	01229	     	52-1229	 	245	Town of Jonesville	052	Lee County	0.13	Dead End	52-1228	0	?							X
+749756	  52	01230	     	52-1230	 	052	Lee County	052	Lee County	0.50	US 58	Cul-de-Sac	80	R							X						05/14/2001
+749757	  52	01231	     	52-1231	 	052	Lee County	052	Lee County	0.05	52-1233	52-1232	20	R							X						05/14/2001
+749758	  52	01231	     	52-1231	 	052	Lee County	052	Lee County	0.05	52-1232	US 58	70	R							X						05/14/2001
+749759	  52	01232	     	52-1232	 	052	Lee County	052	Lee County	0.15	Dead End	52-1231	46	R							X						05/14/2001
+749760	  52	01233	     	52-1233	 	052	Lee County	052	Lee County	0.05	Dead End	52-1231	20	R							X						05/14/2001
+749761	  52	01237	     	52-1237	 	245	Town of Jonesville	052	Lee County	0.03	Dead End	52-1226	8	R							X						1998
+785382	  52	01238	     	52-1238	 	245	Town of Jonesville	052	Lee County	0.07	Dead End	52-1227	10	R							X						05/14/2001
+749762	  52	01238	     	52-1238	 	245	Town of Jonesville	052	Lee County	0.05	52-1227	52-1226	50	R							X						1998
+749763	  52	01240	     	52-1240	 	245	Town of Jonesville	052	Lee County	0.08	Dead End	52-1223	0	?							X
+749764	  52	01301	     	52-1301	 	052	Lee County	052	Lee County	0.20	52-692	52-1303	160	R							X						05/09/2001
+749765	  52	01301	     	52-1301	 	052	Lee County	052	Lee County	0.08	52-1303	52-1302	110	R							X						05/09/2001
+749766	  52	01302	     	52-1302	 	052	Lee County	052	Lee County	0.21	52-1303	52-1301	100	R							X						05/09/2001
+749767	  52	01303	     	52-1303	 	052	Lee County	052	Lee County	0.15	52-1302	52-1301	90	R							X						05/09/2001
+749768	  52	01310	     	52-1310	 	052	Lee County	052	Lee County	0.05	52-1311	US 58	140	R							X						04/17/2001
+749769	  52	01311	     	52-1311	 	052	Lee County	052	Lee County	0.05	Dead End	52-1310	50	R							X						04/17/2001
+749770	  52	01311	     	52-1311	 	052	Lee County	052	Lee County	0.06	52-1310	Dead End	70	R							X						04/17/2001
+749771	  52	09222	     	52-9222	 	052	Lee County	052	Lee County	0.15	US 58	THOMAS WALKER HS	290	R							X						1994
+749772	  52	09223	     	52-9223	 	052	Lee County	052	Lee County	0.01	SR 352	ST. CHARLES SCHOOL	80	R							X						1994
+749773	  52	09225	     	52-9225	 	052	Lee County	052	Lee County	0.16	US 58	EWING ELEM SCHOOL	170	R							X						1994
+749774	  52	09226	     	52-9226	 	052	Lee County	052	Lee County	0.08	52-726	DRYDEN ELM SCHOOL	340	R							X						1994
+749775	  52	09227	     	52-9227	 	052	Lee County	052	Lee County	0.10	US 421	52-642	0	?							X
+749776	  52	09231	     	52-9231	 	052	Lee County	052	Lee County	0.05	ELK KNOB ELEM SCH	US 421	140	R							X						1994
+749777	  52	09492	     	52-9492	 	052	Lee County	052	Lee County	0.10	52-799	ROSE HILL ELEM SCH	150	R							X						1994
+749778	  52	09554	     	52-9554	 	052	Lee County	052	Lee County	0.14	52-645 BEN HUR	US 58 ALT VOC SCHOOL	440	R							X						1994
+749779	  52	09659	     	52-9659	 	281	Town of Pennington Gap	052	Lee County	0.16	Alt US 58	PENNINGTON GAP SCHO	1400	R							X						1994
+749780	  52	09710	     	52-9710	 	245	Town of Jonesville	052	Lee County	0.18	US 58	JONESVILLE MID SCH	350	R							X						1994
+749781	  52	09711	     	52-9711	 	052	Lee County	052	Lee County	0.22	52-661	FLATWOOD ELEM SCH	180	R							X						1994
+784152	  52	09907	     	52-9907	 	052	Lee County	052	Lee County	0.03	52-9909 WEST	52-9909 EAST	0	?							X
+749782	  52	09909	     	52-9909	 	052	Lee County	052	Lee County	0.11	US 58	ELY DALE ELEM SCH	290	R							X						1994
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

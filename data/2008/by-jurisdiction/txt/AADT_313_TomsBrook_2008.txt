@@ -1,0 +1,12 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Toms Brook																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080543	  US	00011	     	US 11	Main St	313	Town of Toms Brook	085	Shenandoah County	0.73	SCL Toms Brook	NCL Toms Brook	6800	N	98%	0%	1%	1%	1%	0%	N	0.0941	N	0.0000	7200	N	2008
+302763	  85	00653	     	85-653	Creek Rd	313	Town of Toms Brook	085	Shenandoah County	0.15	US 11 N, Main St	ECL Toms Brook	300	F	99%	1%	0%	0%	0%	0%	F	0.1069	F	0.5135	320	F	2008
+771101	  85	01500	     	85-1500	Jessica Place	313	Town of Toms Brook	085	Shenandoah County	0.05	ECL Toms Brook	US 11 Main St	180	R							X						1999
+771102	  85	01501	     	85-1501	Hillcrest Rd	313	Town of Toms Brook	085	Shenandoah County	0.06	Dead End	US 11; 85-653	80	R							X						06/04/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

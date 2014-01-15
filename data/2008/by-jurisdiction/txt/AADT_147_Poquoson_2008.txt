@@ -1,0 +1,37 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Poquoson																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+659408	  SR	00171	     	VA 171	Victory Blvd	147	City of Poquoson	147	City of Poquoson	0.79	York County Line	SR 172 Wythe Creek Rd	13000	G	98%	0%	1%	1%	0%	0%	C	0.0887	F	0.5826	14000	G	2008
+659406	  SR	00171	     	VA 171	Little Florida Rd	147	City of Poquoson	147	City of Poquoson	1.00	SR 172 Wythe Creek Rd	Far Street	12000	G	98%	0%	1%	1%	0%	0%	F	0.0955	F	0.6276	13000	G	2008
+659415	  SR	00171	     	VA 171	Little Florida  Rd	147	City of Poquoson	147	City of Poquoson	0.44	Far Street	Poquoson Ave	8100	G	98%	0%	1%	1%	0%	0%	F	0.0903	F	0.6423	8800	G	2008
+659405	  SR	00171	     	VA 171	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	0.50	Poquoson Ave	Bunting Rd	7400	G	97%	1%	1%	1%	0%	0%	C	0.0956	F	0.6122	8100	G	2008
+659409	  SR	00171	     	VA 171	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	0.91	Bunting Rd	147-7050 Ridge Rd	3900	G	97%	1%	1%	1%	0%	0%	F	0.0894	F	0.6237	4200	G	2008
+659420	  SR	00171	     	VA 171	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	1.00	147-7050 Ridge Rd	Messick Rd	2800	G	97%	1%	1%	1%	0%	0%	F	0.0921	F	0.6057	3100	G	2008
+659404	  SR	00171	     	VA 171	Messick Rd	147	City of Poquoson	147	City of Poquoson	1.27	Poquoson Ave	Messick Pt	1300	G	97%	1%	1%	1%	0%	0%	F	0.0946	F	0.6022	1400	G	2008
+659402	  SR	00172	     	VA 172	Wythe Creek Rd	147	City of Poquoson	147	City of Poquoson	0.02	NCL Hampton	Alphus St	13000	G	98%	0%	1%	1%	0%	0%	C	0.0957	F	0.6985	14000	G	2008
+659411	  SR	00172	     	VA 172	Wythe Creek Rd	147	City of Poquoson	147	City of Poquoson	1.06	Alphus St	SR 171 Little Fla Rd	15000	G	98%	0%	1%	1%	0%	0%	F	0.0953	F	0.6360	16000	G	2008
+659412	  SR	00172	     	VA 172	Wythe Creek Rd	147	City of Poquoson	147	City of Poquoson	0.24	SR 171 Little Fla Rd	Hudgins Rd	13000	G	98%	0%	1%	1%	0%	0%	F	0.0958	F	0.5879	14000	G	2008
+659407	  SR	00172	     	VA 172	Wythe Creek Rd	147	City of Poquoson	147	City of Poquoson	0.62	Hudgins Rd	Poquoson Ave	8000	G	98%	0%	1%	1%	0%	0%	F	0.0947	F	0.5814	8700	G	2008
+659401	 147	07043	     	147-7043	Yorktown Rd	147	City of Poquoson	147	City of Poquoson	0.18	Poquoson Ave, Wythe Creek Rd	Yorktown Rd	8100	G	97%	1%	1%	1%	0%	0%	C	0.1004	F	0.5814	8800	G	2008
+659417	 147	07043	     	147-7043	Hunts Neck Rd	147	City of Poquoson	147	City of Poquoson	0.14	Yorktown Rd	Browns Neck Rd	6700	G	97%	1%	1%	1%	0%	0%	F	0.0944	F	0.5717	7300	G	2008
+659419	 147	07043	     	147-7043	Hunts Neck Rd	147	City of Poquoson	147	City of Poquoson	0.39	Browns Neck Rd	Pasture Rd	3800	G	97%	1%	1%	1%	0%	0%	F	0.0947	F	0.5857	4100	G	2008
+659418	 147	07043	     	147-7043	Hunts Neck Rd	147	City of Poquoson	147	City of Poquoson	0.74	Pasture Rd	Edwards Rd	2400	G	98%	1%	1%	1%	0%	0%	C	0.0941	F	0.5681	2600	G	2008
+659403	 147	07046	     	147-7046	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	0.66	Wythe Creek Rd	Rens Rd	3400	G	96%	2%	2%	0%	0%	0%	C	0.1156	F	0.5812	3700	G	2008
+659416	 147	07046	     	147-7046	Poquoson Ave	147	City of Poquoson	147	City of Poquoson	0.89	Rens Rd	Little Fla Rd	3300	G	96%	2%	2%	0%	0%	0%	F	0.1153	F	0.5073	3500	G	2008
+659413	 147	07050	     	147-7050	Ridge Rd	147	City of Poquoson	147	City of Poquoson	1.08	Poquoson Ave	Messick Rd	740	G	97%	2%	1%	0%	0%	0%	C	0.1200	F	0.5200	800	G	2008
+659421	 147	07052	     	147-7052	Cary Chapel Rd	147	City of Poquoson	147	City of Poquoson	0.16	Wythe Creek Rd	York County Line	3900	G							X	0.1194	F	0.8048	4200	G	2008
+781838	 147	07052	     	147-7052	E Yorktown Rd	147	City of Poquoson	147	City of Poquoson	1.19	99-782 JB-99-147 Gap Terminus WCL POQUOS	Hunts Neck Rd	3800	G	96%	1%	1%	3%	0%	0%	C	0.0934	F	0.5934	4100	G	2008
+559109	 147	00000	     	147-0	Browns Neck Rd	147	City of Poquoson	147	City of Poquoson	0.00	Hunts Neck Rd	Norman Dr	2000	G							X				2000	G	2008
+559003	 147	00000	     	147-0	Forest Rd	147	City of Poquoson	147	City of Poquoson	0.00	Poquoson Ave	Holloway Rd	690	G							X	0.0982	F	0.5329	750	G	2008
+559004	 147	00000	     	147-0	Hudgins Rd	147	City of Poquoson	147	City of Poquoson	0.00	Poquoson Ave	Old Pond Rd	2600	G							X	0.1073	F	0.6358	2900	G	2008
+559005	 147	00000	     	147-0	Odd St	147	City of Poquoson	147	City of Poquoson	0.00	Poquoson Ave	Terrace Dr S	1900	G							X	0.1295	F	0.5493	2000	G	2008
+559007	 147	00000	     	147-0	Poquoson Rd	147	City of Poquoson	147	City of Poquoson	0.00	Messick Rd	Back Landing	640	G							X	0.1210	F	0.5349	690	G	2008
+559008	 147	00000	     	147-0	Poquoson Rd	147	City of Poquoson	147	City of Poquoson	0.00	W Cemetery Lane	Amorys Wharf	320	G							X	0.1499	F	0.5794	350	G	2008
+559002	 147	00000	     	147-0	Rens Rd	147	City of Poquoson	147	City of Poquoson	0.00	Poquoson Ave	Whitehouse Dr	1800	G							X	0.0964	F	0.5873	2000	G	2008
+559001	 147	00000	     	147-0	River Rd	147	City of Poquoson	147	City of Poquoson	0.00	E Yorktown Rd	Rivergate Dr	750	G							X	0.1162	F	0.5765	820	G	2008
+559110	 147	00000	     	147-0	Valmore	147	City of Poquoson	147	City of Poquoson	0.00	Jefferson Ct	Hunts Neck Rd	700	G							X				700	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,78 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Fairfax																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+627020	  US	00029	     	US 29	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.16	WCL Fairfax	Jermantown Rd	40000	F	99%	0%	0%	0%	0%	0%	F				42000	F	2008
+627021	  US	00029	     	US 29	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.44	Jermantown Rd	US 50; SR 236 Main St	37000	F	99%	0%	0%	0%	0%	0%	F				39000	F	2008
+627022	  US	00029	     	US 29, US 50	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.96	US 50; SR 236 Main St	SR 123 Chain Bridge Rd	38000	F	99%	0%	0%	0%	0%	0%	F	0.0755	F	0.0000	40000	F	2008
+627023	  US	00029	     	US 29, US 50	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.21	SR 123 Chain Bridge Rd	University Dr	36000	F	99%	0%	0%	0%	0%	0%	F	0.0757	F	0.0000	38000	F	2008
+627024	  US	00029	     	US 29, US 50	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.59	University Dr	Plantation Parkway	42000	F	99%	0%	0%	0%	0%	0%	F				44000	F	2008
+627025	  US	00029	     	US 29, US 50	Lee  Hwy	151	City of Fairfax	151	City of Fairfax	0.68	Plantation Parkway	Draper Drive	41000	F	99%	0%	0%	0%	0%	0%	F				43000	F	2008
+627026	  US	00029	     	US 29, US 50	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.28	Draper Drive	US 50	40000	F	99%	0%	0%	0%	0%	0%	F				42000	F	2008
+627050	  US	00029	     	US 29	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.08	US 50	US 50 Fairfax Circle	40000	N	99%	0%	0%	0%	0%	0%	N				42000	N	2008
+627049	  US	00029	     	US 29, VA 237	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.13	US 50 Fairfax Circle	ECL Fairfax	29000	N	98%	1%	1%	0%	0%	0%	N				32000	N	2008
+627027	  US	00050	     	US 50	Lee Jackson Hwy	151	City of Fairfax	151	City of Fairfax	0.57	WCL Fairfax	US 29 S, Lee Highway	36000	F	98%	0%	1%	1%	1%	0%	F	0.0760	F	0.0000	39000	F	2008
+627022	  US	00050	     	US 29, US 50	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.96	US 29 S, Lee Highway	SR 123 Chain Bridge Rd	38000	F	99%	0%	0%	0%	0%	0%	F	0.0755	F	0.0000	40000	F	2008	
+627023	  US	00050	     	US 29, US 50	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.21	SR 123 Chain Bridge Rd	University Dr	36000	F	99%	0%	0%	0%	0%	0%	F	0.0757	F	0.0000	38000	F	2008	
+627024	  US	00050	     	US 29, US 50	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.59	University Dr	Plantation Parkway	42000	F	99%	0%	0%	0%	0%	0%	F				44000	F	2008	
+627025	  US	00050	     	US 29, US 50	Lee  Hwy	151	City of Fairfax	151	City of Fairfax	0.68	Plantation Parkway	Draper Drive	41000	F	99%	0%	0%	0%	0%	0%	F				43000	F	2008	
+627026	  US	00050	     	US 29, US 50	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.28	Draper Drive	US 29 N, Lee Highway	40000	F	99%	0%	0%	0%	0%	0%	F				42000	F	2008	
+627001	  US	00050	     	US 50, VA 237	Arlington Blvd	151	City of Fairfax	151	City of Fairfax	0.28	US 29 N, Lee Highway	SR 237 Pickett Rd	31000	F	98%	0%	1%	1%	1%	0%	F	0.0800	F	0.0000	34000	F	2008
+627002	  US	00050	     	US 50	Arlington Blvd	151	City of Fairfax	151	City of Fairfax	0.03	SR 237 Pickett Rd	ECL Fairfax	60000	G	98%	0%	1%	1%	1%	0%	F				66000	G	2008
+627005	  SR	00123	     	VA 123	Chain Bridge Rd	151	City of Fairfax	151	City of Fairfax	0.47	SCL Fairfax	Judicial Dr	28000	F	98%	0%	0%	1%	1%	0%	F	0.0775	F	0.0000	30000	F	2008
+627006	  SR	00123	     	VA 123	Chain Bridge Rd	151	City of Fairfax	151	City of Fairfax	0.26	Judicial Dr	SR 236 Main St	22000	F	98%	0%	0%	1%	1%	0%	F				23000	F	2008
+627007	  SR	00123	     	VA 123	Chain Bridge Rd	151	City of Fairfax	151	City of Fairfax	0.19	SR 236 Main St	Whitehead St	20000	F	98%	0%	0%	1%	1%	0%	F				22000	F	2008
+627008	  SR	00123	     	VA 123	Chain Bridge Rd	151	City of Fairfax	151	City of Fairfax	0.10	Whitehead St	Kenmore Dr	21000	F	98%	0%	0%	1%	1%	0%	F	0.0729	F	0.0000	22000	F	2008
+627009	  SR	00123	     	VA 123	Chain Bridge Rd	151	City of Fairfax	151	City of Fairfax	0.58	Kenmore Dr	US 29;  US 50 Lee Hwy	24000	F	98%	0%	0%	1%	1%	0%	F	0.0726	F	0.0000	26000	F	2008
+627010	  SR	00123	     	VA 123	Chain Bridge Rd	151	City of Fairfax	151	City of Fairfax	0.35	US 29;  US 50 Lee Hwy	I- 66 NCL Fairfax	39000	F	98%	1%	1%	0%	1%	0%	C				42000	F	2008
+627029	  SR	00236	     	VA 236	Main St	151	City of Fairfax	151	City of Fairfax	0.94	US 29 Lee Highway; US 50 Lee Jackson Hwy	West St	40000	F	99%	1%	1%	0%	0%	0%	F	0.0766	F	0.0000	44000	F	2008
+627030	  SR	00236	     	VA 236	Main St	151	City of Fairfax	151	City of Fairfax	0.21	West St	North St E	12000	F	99%	1%	1%	0%	0%	0%	F	0.0753	F	0.0000	13000	F	2008		34000	F	99%	0%	0%	0%	0%	0%	F				36000	F
+627031	  SR	00236	     	VA 236	Main St	151	City of Fairfax	151	City of Fairfax	1.31	Old Lee Hwy	Whitacre Rd	37000	F	99%	1%	1%	0%	0%	0%	C	0.0819	F	0.0000	40000	F	2008
+090344	  SR	00236	     	VA 236	Little River Tpke	151	City of Fairfax	151	City of Fairfax	0.57	Whitacre Rd	ECL Fairfax	40000	F	97%	1%	1%	0%	1%	0%	F				44000	F	2008
+190159	 1SR	00236	P    	VA 236 Par	North St	151	City of Fairfax	151	City of Fairfax	0.30	SR 236 W, Main St	SR 236 E, Main St	21000	F	99%	0%	0%	0%	0%	0%	C				23000	F	2008		34000	F	99%	0%	0%	0%	0%	0%	F				36000	F
+627038	  SR	00237	     	VA 237	Pickett Rd	151	City of Fairfax	151	City of Fairfax	0.49	SR 236 Main St	Colonial Ave	26000	F	96%	0%	1%	0%	2%	0%	F	0.0818	F	0.0000	28000	F	2008
+090364	  SR	00237	     	VA 237	Pickett Rd	151	City of Fairfax	151	City of Fairfax	1.17	Colonial Ave	US 50 Arlington Blvd	25000	F	96%	0%	1%	0%	2%	0%	C	0.0840	F	0.0000	28000	F	2008
+627001	  SR	00237	     	US 50, VA 237	Arlington Blvd	151	City of Fairfax	151	City of Fairfax	0.28	US 50 Arlington Blvd	US 29 Lee Highway	31000	F	98%	0%	1%	1%	1%	0%	F	0.0800	F	0.0000	34000	F	2008	
+627049	  SR	00237	     	US 29, VA 237	Lee Highway	151	City of Fairfax	151	City of Fairfax	0.13	US 29 Lee Highway	ECL Fairfax	29000	N	98%	1%	1%	0%	0%	0%	N				32000	N	2008	
+785263	  FR	00254	     	FR 254	Phoenix Dr	151	City of Fairfax	029	Fairfax County	0.09	Fairfax County Line	Fairfax County Line	0	?							X
+736407	  29	09128	     	29-9128	Rebel Run	151	City of Fairfax	029	Fairfax County	0.18	Fairfax High School	US 29 Lee  Hwy	1700	R							X						1991
+736415	  29	09136	     	29-9136	 	151	City of Fairfax	029	Fairfax County	0.08	Fairfax Elementary School	Fairfax Elementary School	290	R							X						1991
+736431	  29	09598	     	29-9598	 	151	City of Fairfax	029	Fairfax County	0.06	Eleven Oak Elem School	Eleven Oak Elem School	190	R							X						1991
+627017	 151	00001	     	151-1	Judicial Dr	151	City of Fairfax	151	City of Fairfax	0.22	SR 236 Main St	Page Ave	13000	F	99%	1%	1%	0%	0%	0%	F				14000	F	2008
+627016	 151	00001	     	151-1	Judicial Dr	151	City of Fairfax	151	City of Fairfax	0.43	Page Ave	SR 123 Chain Bridge Rd	11000	F	99%	1%	1%	0%	0%	0%	C	0.0847	F	0.0000	11000	F	2008
+627018	 151	00002	     	151-2	Kenmore Dr	151	City of Fairfax	151	City of Fairfax	0.19	University Dr	SR 123	4400	F	98%	1%	0%	1%	0%	0%	C	0.1195	F	0.6877	4800	F	2008
+627019	 151	00003	     	151-3	Layton Hall Dr	151	City of Fairfax	151	City of Fairfax	0.29	Old Lee Hwy	University Dr	4900	F	99%	1%	0%	0%	0%	0%	C	0.1034	F	0.0000	5300	F	2008
+627003	 151	06623	     	151-6623	Burke Station Rd	151	City of Fairfax	151	City of Fairfax	0.17	SCL Fairfax	Barbara Ann Lane	6400	F	99%	0%	1%	0%	0%	0%	C	0.0864	F	0.0000	6900	F	2008
+627004	 151	06623	     	151-6623	Burke Station Rd	151	City of Fairfax	151	City of Fairfax	0.31	Barbara Ann Lane	SR 236 Main St	6400	F	99%	0%	1%	0%	0%	0%	F	0.0855	F	0.0000	7000	F	2008
+627040	 151	06625	     	151-6625	Roberts Rd	151	City of Fairfax	151	City of Fairfax	0.27	SCL Fairfax	Sager Ave	8100	F	99%	0%	0%	0%	0%	0%	C	0.0993	F	0.0000	8800	F	2008
+627041	 151	06625	     	151-6625	Roberts Rd	151	City of Fairfax	151	City of Fairfax	0.25	Sager Ave	SR 236 Main St	3600	F	99%	0%	0%	0%	0%	0%	F	0.0930	F	0.0000	3900	F	2008
+627042	 151	06627	     	151-6627	University Dr	151	City of Fairfax	151	City of Fairfax	0.39	SCL Fairfax	Armstrong St	11000	F	97%	2%	1%	0%	0%	0%	C	0.0934	F	0.0000	12000	F	2008
+627043	 151	06627	     	151-6627	University Dr	151	City of Fairfax	151	City of Fairfax	0.21	Armstrong St	South St	13000	F	97%	2%	1%	0%	0%	0%	F				14000	F	2008
+627051	 151	06627	     	151-6627	University Dr	151	City of Fairfax	151	City of Fairfax	0.11	South St	SR 236 Main St	14000	N	97%	2%	1%	0%	0%	0%	N				15000	N	2008
+627045	 151	06627	     	151-6627	University Dr	151	City of Fairfax	151	City of Fairfax	0.22	SR 236 Main St	Whitehead St	14000	F	97%	2%	1%	0%	0%	0%	F				15000	F	2008
+627046	 151	06627	     	151-6627	University Dr	151	City of Fairfax	151	City of Fairfax	0.13	Whitehead St	Layton Hall Dr	10000	F	97%	2%	1%	0%	0%	0%	F				11000	F	2008
+627047	 151	06627	     	151-6627	University Dr	151	City of Fairfax	151	City of Fairfax	0.70	Layton Hall Rd	US 29 & 50; Lee Hwy	6900	F	97%	2%	1%	0%	0%	0%	F	0.1095	F	0.0000	7500	F	2008
+627032	 151	06628	     	151-6628	Old Lee Hwy	151	City of Fairfax	151	City of Fairfax	0.41	SR 236 Main St	Layton Hall Rd	13000	F	98%	1%	1%	0%	0%	0%	F	0.0936	F	0.0000	14000	F	2008
+627033	 151	06628	     	151-6628	Old Lee Hwy	151	City of Fairfax	151	City of Fairfax	0.49	Layton Hall Dr	Heritage Lane	15000	F	98%	1%	1%	0%	0%	0%	F	0.1024	F	0.0000	16000	F	2008
+627034	 151	06628	     	151-6628	Old Lee Hwy	151	City of Fairfax	151	City of Fairfax	0.19	Heritage Lane	Brookwood Rd	14000	F	98%	1%	1%	0%	0%	0%	F				15000	F	2008
+627035	 151	06628	     	151-6628	Old Lee Hwy	151	City of Fairfax	151	City of Fairfax	0.25	Brookwood Rd	Cornell Rd	14000	F	98%	1%	1%	0%	0%	0%	C	0.0946	F	0.0000	15000	F	2008
+627036	 151	06628	     	151-6628	Old Lee Hwy	151	City of Fairfax	151	City of Fairfax	0.15	Cornell Rd	Rebel Run	15000	F	98%	1%	1%	0%	0%	0%	F	0.0917	F	0.0000	16000	F	2008
+627037	 151	06628	     	151-6628	Old Lee Hwy	151	City of Fairfax	151	City of Fairfax	0.55	Rebel Run	US 50 Lee Hwy	14000	F	98%	1%	1%	0%	0%	0%	F	0.0858	F	0.0000	15000	F	2008
+627011	 151	06634	     	151-6634	Jermantown Rd	151	City of Fairfax	151	City of Fairfax	0.30	US 29 Lee Highway	US 50 Lee Jackson Hwy	11000	F	98%	1%	1%	0%	0%	0%	C	0.0880	F	0.0000	12000	F	2008
+627013	 151	06634	     	151-6634	Jermantown Rd	151	City of Fairfax	151	City of Fairfax	0.50	US 50 Lee Jackson Hwy	Gainsborough Ct	13000	F	98%	1%	1%	0%	0%	0%	C	0.0887	F	0.0000	15000	F	2008
+627014	 151	06634	     	151-6634	Jermantown Rd	151	City of Fairfax	151	City of Fairfax	0.40	Gainsborough Ct	NCL Fairfax	12000	F	98%	1%	1%	0%	0%	0%	F	0.0901	F	0.0000	13000	F	2008
+527010	 151	00000	     	151-0	Addison Rd	151	City of Fairfax	151	City of Fairfax	0.00	Collier Road	Sager Avenue	290	F							X	0.0968	F	0.0000	290	F	2008
+527009	 151	00000	     	151-0	Confederate Lane	151	City of Fairfax	151	City of Fairfax	0.00	Atlanta Street	Reb Street	260	F							X	0.1238	F	0.6716	260	F	2008
+527008	 151	00000	     	151-0	Cornwall Rd	151	City of Fairfax	151	City of Fairfax	0.00	Old Post Road	Park Hill Place	580	F							X	0.1012	F	0.0000	580	F	2008
+527001	 151	00000	     	151-0	Democracy Ln	151	City of Fairfax	151	City of Fairfax	0.00	Whitehead St	Layton Hall Dr	840	G							X				840	G	2008
+527002	 151	00000	     	151-0	Draper Dr	151	City of Fairfax	151	City of Fairfax	0.00	US 29, US 50	Kingsbridge Dr	4100	G							X				4100	G	2008
+527003	 151	00000	     	151-0	Orchard St	151	City of Fairfax	151	City of Fairfax	0.00	Jermantown Rd	McLean Ave	2900	G							X				2900	G	2008
+527004	 151	00000	     	151-0	Pickett Rd	151	City of Fairfax	151	City of Fairfax	0.00	US 50	NCL Fairfax	19000	G							X				19000	G	2008
+527005	 151	00000	     	151-0	Sager Ave	151	City of Fairfax	151	City of Fairfax	0.00	Chain Bridge Rd	Dwight Ave	2700	G							X				2700	G	2008
+527006	 151	00000	     	151-0	School St	151	City of Fairfax	151	City of Fairfax	0.00	Chain Bridge Rd	Trowbridge St	1500	F							X	0.1130	F	0.7473	1500	F	2008
+527007	 151	00000	     	151-0	Whitacre Rd	151	City of Fairfax	151	City of Fairfax	0.00	SR 236	Baccarat Dr	4400	G							X				4400	G	2008
+527011	 151	00000	     	151-0	Wilson St	151	City of Fairfax	151	City of Fairfax	0.00	Howerton Avenue	Norman Avenue	70	F							X	0.1250	F	0.0000	70	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

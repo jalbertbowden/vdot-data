@@ -1,0 +1,68 @@
+Virginia Department of Transportation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Traffic Engineering Division,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Annual Average Daily Traffic Volume Estimates By Section of Route,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Town of Richlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Parallel Facilities Combined,,,,,,,,,,,,,
+Link ID,Route Prefix,Route Number,Route Suffix,Route Label,Route Alias,Physical Jurisdiction,,Maintenance Jurisdiction,,Link Length,Start Label,End Label,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality,Data Date,Comment,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality
+010514,  SR,00067,     ,VA 67, ,148,Town of Richlands,148,Town of Richlands,0.20,WCL Richland,Bus US 460 Front St,5800,N,94%,0%,1%,3%,2%,0%,N,0.0922,N,0.5337,6100,N,2008,,,,,,,,,,,,,,,
+010371,  SR,00067,     ,"US 460, VA 67", ,148,Town of Richlands,092,Tazewell County,1.38,US 460 Raven,CL Richlands,16000,G,96%,0%,1%,2%,2%,0%,F,,,,17000,G,2008,,,,,,,,,,,,,,,
+664002,  SR,00067,     ,"Bus US 460, VA 67",Front St,148,Town of Richlands,148,Town of Richlands,0.27,US 460; BUS US 460,"BUS US 460 P, 2nd St",14000,F,97%,0%,1%,1%,1%,0%,C,0.0785,F,0.0000,15000,F,2008,,,,,,,,,,,,,,,
+664004,  SR,00067,     ,"Bus US 460, VA 67",Front St,148,Town of Richlands,148,Town of Richlands,0.58,"BUS US 460 P, 2nd St",SR 67 P Railroad Ave,6200,F,97%,0%,1%,1%,1%,0%,F,0.0892,F,1.0000,6500,F,2008,,13000,F,98%,0%,1%,0%,1%,0%,F,0.0874,F,0.0000,14000,F
+664005,  SR,00067,     ,"Bus US 460, VA 67",Front St,148,Town of Richlands,148,Town of Richlands,0.04,SR 67 P Railroad Ave,BUS US 460 Front St,5900,F,99%,0%,1%,0%,0%,0%,F,0.0920,F,1.0000,6200,F,2008,,10000,N,96%,0%,1%,1%,2%,0%,N,,,,10000,N
+664010,  SR,00067,     ,VA 67,Norfolk St,148,Town of Richlands,148,Town of Richlands,0.04,Bus US 460 Front St,2nd St,1100,F,98%,1%,1%,0%,0%,0%,C,0.1033,F,0.6390,1100,F,2008,,1900,G,96%,0%,1%,1%,2%,0%,F,,,,2000,G
+664015,  SR,00067,     ,"VA 67, Bus US 460 Par, VA 67",2nd St,148,Town of Richlands,148,Town of Richlands,0.05,Norfolk St,"SR 67 Par, Bus US 460 Par Railroad St",4000,N,92%,0%,1%,3%,4%,0%,N,0.0874,N,0.6466,4200,N,2008,,10000,N,96%,0%,1%,1%,2%,0%,N,,,,10000,N
+664011,  SR,00067,     ,VA 67,Railroad St,148,Town of Richlands,148,Town of Richlands,0.41,"SR 67 Par, Bus US 460 Par; 2nd St",US 460,4000,F,92%,0%,1%,3%,4%,0%,F,0.0874,F,0.6466,4200,F,2008,,,,,,,,,,,,,,,
+664012,  SR,00067,     ,VA 67,Railroad St,148,Town of Richlands,148,Town of Richlands,0.92,US 460,NCL Richlands,2700,F,93%,0%,1%,3%,3%,0%,C,0.0941,F,0.0000,2800,F,2008,,,,,,,,,,,,,,,
+664009, 1SR,00067,P    ,VA 67 Par,Railroad St,148,Town of Richlands,148,Town of Richlands,0.05,Bus US 460 Front St,SR 67 Second St,860,G,93%,0%,1%,3%,3%,0%,F,,,,890,G,2008,,1900,G,96%,0%,1%,1%,2%,0%,F,,,,2000,G
+010521,  US,00460,     ,US 460, ,148,Town of Richlands,092,Tazewell County,0.23,WCL Richlands,SR 67,9400,N,94%,1%,1%,2%,3%,0%,N,0.0860,N,0.0000,10000,N,2008,,,,,,,,,,,,,,,
+010371,  US,00460,     ,"US 460, VA 67", ,148,Town of Richlands,092,Tazewell County,1.38,SR 67,Bus US 460,16000,G,96%,0%,1%,2%,2%,0%,F,,,,17000,G,2008,,,,,,,,,,,,,,,
+010370,  US,00460,     ,US 460, ,148,Town of Richlands,092,Tazewell County,1.32,Bus US 460,SR 67,17000,F,96%,0%,1%,2%,2%,0%,F,0.0793,F,0.0000,18000,F,2008,,,,,,,,,,,,,,,
+010172,  US,00460,     ,US 460, ,148,Town of Richlands,092,Tazewell County,0.38,SR 67,ECL Richlands,15000,A,96%,0%,1%,2%,2%,0%,C,0.0992,A,0.0000,16000,A,2008,,,,,,,,,,,,,,,
+664002,C9US,00460,     ,"Bus US 460, VA 67",Front St,148,Town of Richlands,148,Town of Richlands,0.27,US 460,"Bus US 460 P, 2nd St",14000,F,97%,0%,1%,1%,1%,0%,C,0.0785,F,0.0000,15000,F,2008,,,,,,,,,,,,,,,
+664004,C9US,00460,     ,"Bus US 460, VA 67",Front St,148,Town of Richlands,148,Town of Richlands,0.58,"BUS US 460 P, 2nd St",SR 67 P Railroad Ave,6200,F,97%,0%,1%,1%,1%,0%,F,0.0892,F,1.0000,6500,F,2008,,13000,F,98%,0%,1%,0%,1%,0%,F,0.0874,F,0.0000,14000,F
+664005,C9US,00460,     ,"Bus US 460, VA 67",Front St,148,Town of Richlands,148,Town of Richlands,0.04,SR 67 P Railroad Ave,SR 67 Norfolk St,5900,F,99%,0%,1%,0%,0%,0%,F,0.0920,F,1.0000,6200,F,2008,,10000,N,96%,0%,1%,1%,2%,0%,N,,,,10000,N
+664016,C9US,00460,     ,Bus US 460,Front St,148,Town of Richlands,148,Town of Richlands,0.18,SR 67 Norfolk St,Bus US 460 P 2nd St,3900,F,99%,0%,1%,0%,0%,0%,F,0.0878,F,1.0000,4100,F,2008,,7200,F,99%,0%,1%,0%,0%,0%,F,0.0849,F,0.0000,7600,F
+664006,C9US,00460,     ,Bus US 460,Front St,148,Town of Richlands,148,Town of Richlands,0.92,Bus US 460 P 2nd St,WCL Cedar Bluff,6800,F,99%,0%,1%,0%,0%,0%,C,0.0864,F,0.0000,7200,F,2008,,,,,,,,,,,,,,,
+664013,C9US,00460,P    ,"Bus US 460 Par, VA 67",2nd St,148,Town of Richlands,148,Town of Richlands,0.57,Bus US 460 Front St,SR 67 Railroad Ave,7000,F,99%,0%,1%,0%,0%,0%,C,0.0880,F,0.0000,7300,F,2008,,13000,F,98%,0%,1%,0%,1%,0%,F,0.0874,F,0.0000,14000,F
+664015,C9US,00460,P    ,"VA 67, Bus US 460 Par, VA 67",2nd St,148,Town of Richlands,148,Town of Richlands,0.05,SR 67 Railroad Ave,SR 67 Norfolk St,4000,N,92%,0%,1%,3%,4%,0%,N,0.0874,N,0.6466,4200,N,2008,,10000,N,96%,0%,1%,1%,2%,0%,N,,,,10000,N
+664014,C9US,00460,P    ,Bus US 460 Par,2nd St,148,Town of Richlands,148,Town of Richlands,0.25,SR 67 Norfolk St,Bus US 460 Front St,3300,F,99%,0%,1%,0%,0%,0%,C,0.1012,F,0.0000,3500,F,2008,,7200,F,99%,0%,1%,0%,0%,0%,F,0.0849,F,0.0000,7600,F
+775711, 148,00001,     ,148-1,Hunter Ridge Rd,148,Town of Richlands,148,Town of Richlands,0.51,Dead End,WCL Richlands Kents Ridge Rd,180,F,,,,,,,X,0.1410,F,0.6226,180,F,2008,,,,,,,,,,,,,,,
+794219, 148,00002,     ,148-2,Daw Rd,148,Town of Richlands,148,Town of Richlands,0.73,WCL Richlands,148-4700 Kents Ridge Rd,420,F,,,,,,,X,0.1048,F,0.5109,420,F,2008,,,,,,,,,,,,,,,
+775889, 148,00003,     ,148-3,Laramie Rd,148,Town of Richlands,148,Town of Richlands,0.22,SR 67,Dead End,720,F,,,,,,,X,0.1382,F,0.5784,720,F,2008,,,,,,,,,,,,,,,
+775925, 148,00004,     ,148-4,Birmingham Rd,148,Town of Richlands,148,Town of Richlands,1.20,148-4700 Kents Ridge Rd,148-6 Purcell Rd,170,F,,,,,,,X,0.1500,F,0.5833,170,F,2008,,,,,,,,,,,,,,,
+775928, 148,00005,     ,148-5,Rec. Park Rd,148,Town of Richlands,148,Town of Richlands,0.72,Dead End,SCL Richlands,460,F,,,,,,,X,0.1481,F,0.5816,460,F,2008,,,,,,,,,,,,,,,
+776000, 148,00006,     ,148-6,Purcell Rd,148,Town of Richlands,148,Town of Richlands,0.25,Dead End,148-4 Birmingham Rd,70,F,,,,,,,X,0.2025,F,0.6250,70,F,2008,,,,,,,,,,,,,,,
+776001, 148,00006,     ,148-6,Purcell Rd,148,Town of Richlands,148,Town of Richlands,0.65,148-4 Birmingham Rd,SCL Richlands,560,F,,,,,,,X,0.1041,F,0.5179,560,F,2008,,,,,,,,,,,,,,,
+776159, 148,00007,     ,148-7,Burnett St,148,Town of Richlands,148,Town of Richlands,0.40,Dead End,WCL Richlands,1100,F,,,,,,,X,0.0884,F,0.5025,1100,F,2008,,,,,,,,,,,,,,,
+776163, 148,00008,     ,148-8,Sandy Lane,148,Town of Richlands,148,Town of Richlands,0.19,Cul-de-Sac,148-13 Cresswood Dr,110,F,,,,,,,X,0.1416,F,0.5484,110,F,2008,,,,,,,,,,,,,,,
+776164, 148,00008,     ,148-8,Cresswood Dr,148,Town of Richlands,148,Town of Richlands,0.07,148-13 Cresswood Dr,148-12 Valley Dr,270,F,,,,,,,X,0.1073,F,0.6780,270,F,2008,,,,,,,,,,,,,,,
+776165, 148,00008,     ,148-8,Cresswood Dr,148,Town of Richlands,148,Town of Richlands,0.21,148-12 Valley Dr,148-11 Plantation Dr,440,F,,,,,,,X,0.1014,F,0.7419,440,F,2008,,,,,,,,,,,,,,,
+776166, 148,00008,     ,148-8,Cresswood Dr,148,Town of Richlands,148,Town of Richlands,0.16,148-11 Plantation Dr,148-9 Fairmont Dr,640,F,,,,,,,X,0.1070,F,0.6571,640,F,2008,,,,,,,,,,,,,,,
+776167, 148,00008,     ,148-8,Cresswood Dr,148,Town of Richlands,148,Town of Richlands,0.16,148-9 Fairmont Dr,148-15 Terry Dr,930,F,,,,,,,X,0.1048,F,0.6700,930,F,2008,,,,,,,,,,,,,,,
+776168, 148,00008,     ,148-8,Cresswood Dr,148,Town of Richlands,148,Town of Richlands,0.27,148-15 Terry Dr,148-4700 Kents Ridge Rd,1700,F,,,,,,,X,0.1006,F,0.5831,1700,F,2008,,,,,,,,,,,,,,,
+776169, 148,00009,     ,148-9,Fairmont Dr,148,Town of Richlands,148,Town of Richlands,0.07,148-10 Linwood Dr,148-8 Cresswood Dr,300,F,,,,,,,X,0.1199,F,0.7143,300,F,2008,,,,,,,,,,,,,,,
+776170, 148,00010,     ,148-10,Linwood Dr,148,Town of Richlands,148,Town of Richlands,0.20,148-9 Fairmont Dr,148-11 Plantation Dr,190,F,,,,,,,X,0.1295,F,0.6296,190,F,2008,,,,,,,,,,,,,,,
+776171, 148,00010,     ,148-10,Linwood Dr,148,Town of Richlands,148,Town of Richlands,0.08,148-11 Plantation Dr,Cul-de-Sac,40,F,,,,,,,X,0.1961,F,0.5500,40,F,2008,,,,,,,,,,,,,,,
+776172, 148,00011,     ,148-11,Plantation Dr,148,Town of Richlands,148,Town of Richlands,0.07,148-15 Terry Dr,148-13 Cresswood Dr,250,F,,,,,,,X,0.1243,F,0.0000,250,F,2008,,,,,,,,,,,,,,,
+776173, 148,00011,     ,148-11,Plantation Dr,148,Town of Richlands,148,Town of Richlands,0.27,148-13 Cresswood Dr,148-8 Cresswood Dr,70,F,,,,,,,X,0.1446,F,0.0000,70,F,2008,,,,,,,,,,,,,,,
+776174, 148,00011,     ,148-11,Plantation Dr,148,Town of Richlands,148,Town of Richlands,0.06,148-8 Cresswood Dr,148-10 Linwood Dr,40,F,,,,,,,X,0.1383,F,0.5385,40,F,2008,,,,,,,,,,,,,,,
+776175, 148,00012,     ,148-12,Valley Dr,148,Town of Richlands,148,Town of Richlands,0.16,148-14 Cresswood Dr,148-8 Cresswood Dr,90,F,,,,,,,X,0.1518,F,0.7931,90,F,2008,,,,,,,,,,,,,,,
+776176, 148,00013,     ,148-13,Cresswood Dr,148,Town of Richlands,148,Town of Richlands,0.15,148-11 Plantation Dr,148-14 Valley Dr,440,F,,,,,,,X,0.1200,F,0.0000,440,F,2008,,,,,,,,,,,,,,,
+776177, 148,00013,     ,148-13,Cresswood Dr,148,Town of Richlands,148,Town of Richlands,0.10,148-14 Valley Dr,148-15 Hawthorn Ln,80,F,,,,,,,X,0.1788,F,0.5938,80,F,2008,,,,,,,,,,,,,,,
+776178, 148,00013,     ,148-13,Cresswood Dr,148,Town of Richlands,148,Town of Richlands,0.13,148-15 Hawthorn Ln,148-8 Cresswood Dr; Sandy Lane,140,F,,,,,,,X,0.1476,F,0.7000,140,F,2008,,,,,,,,,,,,,,,
+776179, 148,00014,     ,148-14,Valley Dr,148,Town of Richlands,148,Town of Richlands,0.06,148-13 Cresswood Dr,148-12 Valley Dr,90,F,,,,,,,X,0.1518,F,0.7931,90,F,2008,,,,,,,,,,,,,,,
+776180, 148,00015,     ,148-15,Terry Dr,148,Town of Richlands,148,Town of Richlands,0.27,148-13 Cresswood Dr,148-11 Plantation Dr,100,F,,,,,,,X,0.1429,F,0.0000,100,F,2008,,,,,,,,,,,,,,,
+776181, 148,00015,     ,148-15,Terry Dr,148,Town of Richlands,148,Town of Richlands,0.38,148-11 Plantation Dr,148-16 Gary Dr,450,F,,,,,,,X,0.1053,F,0.0000,450,F,2008,,,,,,,,,,,,,,,
+776182, 148,00015,     ,148-15,Terry Dr,148,Town of Richlands,148,Town of Richlands,0.07,148-16 Gary Dr,148-8 Cresswood Dr,670,F,,,,,,,X,0.1063,F,0.0000,670,F,2008,,,,,,,,,,,,,,,
+776183, 148,00016,     ,148-16,Gary Dr,148,Town of Richlands,148,Town of Richlands,0.37,148-15 Terry Dr,Dead End,110,F,,,,,,,X,0.1417,F,0.5556,110,F,2008,,,,,,,,,,,,,,,
+788161, 148,00017,     ,148-17,Oxford St,148,Town of Richlands,148,Town of Richlands,0.34,Dead End,148-7 Burnett St,350,F,,,,,,,X,0.1162,F,0.5116,350,F,2008,,,,,,,,,,,,,,,
+664017, 148,04700,     ,148-4700,Kents Ridge Rd,148,Town of Richlands,148,Town of Richlands,0.46,92-609; SCL Richlands,148-2 Daw Rd,2900,F,99%,0%,0%,0%,0%,0%,F,0.0999,F,0.5663,3100,F,2008,,,,,,,,,,,,,,,
+405654, 148,04700,     ,148-4700,Kents Ridge Rd,148,Town of Richlands,148,Town of Richlands,0.34,148-2 Daw Rd,148-8 Cresswood Dr,3200,F,99%,0%,0%,0%,0%,0%,F,0.0980,F,0.0000,3400,F,2008,,,,,,,,,,,,,,,
+405655, 148,04700,     ,148-4700,Kents Ridge Rd,148,Town of Richlands,148,Town of Richlands,0.62,148-8 Cresswood Dr,Burnett St,4000,F,99%,0%,0%,0%,0%,0%,C,0.0992,F,0.0000,4200,F,2008,,,,,,,,,,,,,,,
+664007, 148,04700,     ,148-4700,Kent Ridge Rd,148,Town of Richlands,148,Town of Richlands,0.29,Burnett St,Veteran St,5400,F,98%,0%,1%,0%,0%,0%,C,0.0998,F,0.6190,5700,F,2008,,,,,,,,,,,,,,,
+664008, 148,04700,     ,148-4700,Kent Ridge Rd,148,Town of Richlands,148,Town of Richlands,0.47,Veteran Dr,Bus US 460 Front St,5600,F,99%,0%,0%,0%,0%,0%,F,0.0917,F,0.5730,5800,F,2008,,,,,,,,,,,,,,,
+564001, 148,00000,     ,148-0,S Front St,148,Town of Richlands,148,Town of Richlands,0.00,Kent Ridge Rd,Clinch Rd,350,F,,,,,,,X,0.1388,F,0.5728,380,F,2008,,,,,,,,,,,,,,,
+010196, 148,00000,     ,148-0,US 460,148,Town of Richlands,092,Tazewell County,0.00,SR 67,ECL Richlands,0,?,,,,,,,X,,,,,,,,,,,,,,,,,,,,,
+564002, 148,00000,     ,148-0,Veteran Dr,148,Town of Richlands,148,Town of Richlands,0.00,Kent Ridge Rd,2nd St,2200,F,,,,,,,X,0.0963,F,0.7543,2300,F,2008,,,,,,,,,,,,,,,
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

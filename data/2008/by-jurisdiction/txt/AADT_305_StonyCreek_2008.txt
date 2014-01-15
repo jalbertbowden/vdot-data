@@ -1,0 +1,45 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Stony Creek																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050440	C1SR	00040	     	Bus VA 40	Lee Ave	305	Town of Stony Creek	091	Sussex County	0.74	WCL Stony Creek	US 301 Blue Star Hwy	250	N	96%	1%	1%	1%	1%	0%	N	0.1188	N	0.7419	260	N	2008
+050456	C1SR	00040	     	US 301, Bus VA 40	 	305	Town of Stony Creek	091	Sussex County	0.22	US 301 Stony Creek	SCL Stony Creek	2300	N	93%	0%	2%	4%	2%	0%	N	0.0825	N	0.0000	2400	N	2008	
+050385	  IS	00095	N    	I-95 NB	 	305	Town of Stony Creek	091	Sussex County	0.09	SCL Stony Creek	NCL Stony Creek	17000	F	83%	1%	1%	0%	14%	0%	F				15000	F	2008		34000	F	84%	1%	1%	1%	14%	0%	F				29000	F
+050456	  US	00301	     	US 301, Bus VA 40	 	305	Town of Stony Creek	091	Sussex County	0.22	SCL Stony Creek	BUS SR 40	2300	N	93%	0%	2%	4%	2%	0%	N	0.0825	N	0.0000	2400	N	2008
+303788	  91	00657	     	91-657	Main St	305	Town of Stony Creek	091	Sussex County	0.21	SCL Stony Creek	Bus SR 40 WEST	170	N	97%	1%	0%	2%	0%	0%	N	0.0990	N	0.5789	190	N	2008
+300366	  91	00657	     	91-657	Main St	305	Town of Stony Creek	091	Sussex County	0.17	Bus SR 40 EAST	91-658 Flatfoot Rd; Halifax Rd	1100	F	98%	0%	0%	0%	1%	0%	F	0.1205	F	0.5415	1200	F	2008
+300367	  91	00657	     	91-657	Main St	305	Town of Stony Creek	091	Sussex County	0.24	91-658 Flatfoot Rd; Halifax Rd	91-670 Cedar Rd	410	F	98%	0%	0%	0%	1%	0%	C	0.1165	F	0.5094	440	F	2008
+300368	  91	00657	     	91-657	Main St	305	Town of Stony Creek	091	Sussex County	0.40	91-670 Cedar Rd	NCL Stony Creek	340	F	98%	0%	0%	0%	1%	0%	F	0.1241	F	0.5200	370	F	2008
+785234	  91	00658	     	91-658	Flatfoot Rd; Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.07	WCL Stony Creek	Bus SR 40	670	R							X						02/06/2002
+775426	  91	00658	     	91-658	Flatfoot Rd	305	Town of Stony Creek	091	Sussex County	0.08	Bus SR 40	91-703 Park Ave	210	R							X						04/09/2008
+775427	  91	00658	     	91-658	Flatfoot Rd	305	Town of Stony Creek	091	Sussex County	0.15	91-703 Park Ave	91-702 Owen Ave	140	R							X						04/09/2008
+775428	  91	00658	     	91-658	Flatfoot Rd	305	Town of Stony Creek	091	Sussex County	0.15	91-702 Owen Ave	91-657 Main St	400	R							X						04/09/2008
+775429	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.05	91-657 Main St	91-1203 Hartley St	650	R							X						04/09/2008
+775430	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.06	91-1203 Hartley St	91-668 Church St	520	R							X						04/09/2008
+775431	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.11	91-668 Church St	91-1201 May St	480	R							X						04/09/2008
+775432	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.18	91-1201 May St	91-1204 Confederate Ave	610	R							X						04/09/2008
+775433	  91	00658	     	91-658	Halifax Rd	305	Town of Stony Creek	091	Sussex County	0.03	91-1204 Confederate Ave	ECL Stony Creek	490	R							X						04/09/2008
+775447	  91	00668	     	91-668	Church St	305	Town of Stony Creek	091	Sussex County	0.07	SR 40 Bus	91-669 S, Hardy St	180	R							X						04/09/2008
+775448	  91	00668	     	91-668	Church St	305	Town of Stony Creek	091	Sussex County	0.01	91-669 S, Hardy St	91-669 N, Hardy St	60	R							X						04/09/2008
+775449	  91	00668	     	91-668	Church St	305	Town of Stony Creek	091	Sussex County	0.08	91-669 N, Hardy St	91-658 Halifax Rd	90	R							X						04/09/2008
+775450	  91	00669	     	91-669	Maplewood Ave	305	Town of Stony Creek	091	Sussex County	0.30	Dead End	Bus SR 40	60	R							X						04/01/2008
+775451	  91	00669	     	91-669	Maplewood Ave	305	Town of Stony Creek	091	Sussex County	0.11	Bus SR 40	91-1201 May St	150	R							X						04/01/2008
+775452	  91	00669	     	91-669	Maplewood Ave	305	Town of Stony Creek	091	Sussex County	0.10	91-1201 May St	91-668 S, Church St	100	R							X						04/01/2008
+775453	  91	00669	     	91-669	Maplewood Ave	305	Town of Stony Creek	091	Sussex County	0.06	91-668 N, Church St	91-1203 Hartley St	50	R							X						04/01/2008
+775454	  91	00670	     	91-670	Cedar Rd	305	Town of Stony Creek	091	Sussex County	0.40	91-657 Main St	ECL Stony Creek	200	R							X						04/01/2008
+775491	  91	00702	     	91-702	Owen St	305	Town of Stony Creek	091	Sussex County	0.07	Bus SR 40	91-703 Park Ave	270	R							X						04/09/2008
+775492	  91	00702	     	91-702	Owen St	305	Town of Stony Creek	091	Sussex County	0.10	91-703 Park Ave	91-658 Flatfoot Rd	220	R							X						04/09/2008
+775493	  91	00703	     	91-703	Park Ave	305	Town of Stony Creek	091	Sussex County	0.08	91-658 Flatfoot Rd	91-702 Owen St	90	R							X						04/07/2008
+775494	  91	00703	     	91-703	Park Ave	305	Town of Stony Creek	091	Sussex County	0.04	91-702 Owen St	Dead End	48	R							X						04/07/2008
+775633	  91	01201	     	91-1201	May St	305	Town of Stony Creek	091	Sussex County	0.05	91-669 Maplewood Ave	91-658 Halifax Rd	40	R							X						02/26/2008
+775635	  91	01203	     	91-1203	Hartley St	305	Town of Stony Creek	091	Sussex County	0.08	Bus SR 40	91-669 Maplewood Ave	140	R							X						02/26/2008
+775636	  91	01203	     	91-1203	Hartley St	305	Town of Stony Creek	091	Sussex County	0.10	91-669 Maplewood Ave	91-658 Halifax Rd	130	R							X						02/26/2008
+775637	  91	01204	     	91-1204	Confederate Ave	305	Town of Stony Creek	091	Sussex County	0.07	Bus SR 40	91-1205 Peebles St	80	R							X						02/26/2008
+775638	  91	01204	     	91-1204	Confederate Ave	305	Town of Stony Creek	091	Sussex County	0.04	91-1205 Peebles St	91-658 Halifax Rd	70	R							X						02/26/2008
+775639	  91	01205	     	91-1205	Peebles St	305	Town of Stony Creek	091	Sussex County	0.15	Bus SR 40	91-1204 Confederate Ave	46	R							X						02/26/2008
+775643	  91	01212	     	91-1212	 	305	Town of Stony Creek	091	Sussex County	0.12	91-657 Main St	Dead End	2	R							X						02/05/2002
+775657	  91	09875	     	91-9875	 	305	Town of Stony Creek	091	Sussex County	0.05	91-1204 Confederate Ave	Dead End	140	R							X						04/16/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

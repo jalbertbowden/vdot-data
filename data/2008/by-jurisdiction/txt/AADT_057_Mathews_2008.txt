@@ -1,0 +1,272 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Mathews Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+160069	  SR	00003	     	VA 3	Twiggs Ferry Rd	057	Mathews County	057	Mathews County	1.37	Middlesex County Line	SR 198 East	6400	G	96%	1%	1%	1%	1%	0%	F	0.0956	F	0.5621	6900	G	2008
+160070	  SR	00003	     	VA 3, VA 198	 	057	Mathews County	057	Mathews County	1.55	SR 198 East	SR 198 W, Dutton Rd	7500	G	96%	1%	1%	1%	1%	0%	F	0.0981	F	0.5161	8100	G	2008
+160071	  SR	00003	     	VA 3	Windsor Rd	057	Mathews County	057	Mathews County	2.07	SR 198 W, Dutton Rd	SR 14 John Clayton Memorial Hwy	6000	G	96%	1%	1%	1%	1%	0%	C	0.0941	F	0.6109	6500	G	2008
+160072	  SR	00003	     	VA 3, VA 14	John Clayton Mem Hwy	057	Mathews County	057	Mathews County	0.11	SR 14; Windor Rd, Fort Nonsense	Gloucester County Line	11000	G	96%	1%	1%	1%	1%	0%	F	0.0951	F	0.5881	12000	G	2008
+160072	  SR	00014	     	VA 3, VA 14	John Clayton Mem Hwy	057	Mathews County	057	Mathews County	0.11	Gloucester County Line	SR 3 Fort Nonsense	11000	G	96%	1%	1%	1%	1%	0%	F	0.0951	F	0.5881	12000	G	2008	
+060256	  SR	00014	     	VA 14	John Clayton Mem Hwy	057	Mathews County	057	Mathews County	2.75	SR 3 Windsor Rd	57-617 North River Rd	6200	G	97%	1%	1%	1%	1%	0%	F	0.0899	F	0.6201	6700	G	2008
+060255	  SR	00014	     	VA 14	John Clayton Mem Hwy	057	Mathews County	057	Mathews County	1.38	57-617 North River Rd	57-660 Philpotts Ave	4900	G	97%	1%	1%	1%	1%	0%	C	0.0909	F	0.6016	5300	G	2008
+060254	  SR	00014	     	VA 14	John Clayton Mem Hwy	057	Mathews County	057	Mathews County	3.15	57-660 Philpotts Ave	SR 198 WEST	5800	G	97%	1%	1%	1%	1%	0%	F	0.0913	F	0.5746	6300	G	2008
+060253	  SR	00014	     	VA 14, VA 198	 	057	Mathews County	057	Mathews County	1.69	SR 198 WEST	SR 198 E, Buckley Hall Rd	6800	G	97%	1%	1%	1%	1%	0%	C	0.0920	F	0.5218	7300	G	2008
+060252	  SR	00014	     	VA 14	Main St	057	Mathews County	057	Mathews County	0.62	SR 198 E, Buckley Hall Rd	57-611 Tabernacle Rd	5300	G	97%	1%	1%	1%	1%	0%	C	0.0877	F	0.5769	5700	G	2008
+060251	  SR	00014	     	VA 14	John Clayton Mem Hwy	057	Mathews County	057	Mathews County	4.65	57-611 Tabernacle Rd	57-604 Antioch Rd	3300	G	97%	1%	1%	1%	1%	0%	F	0.0892	F	0.5696	3600	G	2008
+060250	  SR	00014	     	VA 14	John Clayton Mem Hwy	057	Mathews County	057	Mathews County	1.88	57-604 Antioch Rd	57-602 Sand Bank Rd	1300	G	96%	1%	2%	1%	1%	0%	C	0.0873	F	0.6466	1400	G	2008
+060036	  SR	00014	     	VA 14	John Clayton Mem Hwy	057	Mathews County	057	Mathews County	1.74	57-602 Sand Bank Rd	Bayside Wharf	410	G	96%	1%	2%	1%	1%	0%	F	0.1133	F	0.5229	440	G	2008
+060259	  SR	00198	     	VA 198	Dutton Rd	057	Mathews County	057	Mathews County	0.44	Gloucester County Line	SR 3 W, Winsdor Rd	2300	G	94%	1%	2%	2%	2%	0%	F	0.1045	F	0.5120	2500	G	2008
+160070	  SR	00198	     	VA 3, VA 198	 	057	Mathews County	057	Mathews County	1.55	SR 3 W, Windsor Rd	SR 3 E	7500	G	96%	1%	1%	1%	1%	0%	F	0.0981	F	0.5161	8100	G	2008	
+060258	  SR	00198	     	VA 198	 	057	Mathews County	057	Mathews County	6.24	SR 3 E	SR 223 Cricket Hill Rd	4300	G	96%	1%	1%	1%	1%	0%	C	0.0935	F	0.5692	4600	G	2008
+060257	  SR	00198	     	VA 198	 	057	Mathews County	057	Mathews County	0.93	SR 223 Cricket Hill Rd	SR 14 N, John Clayton Mem Hwy	6200	G	96%	1%	1%	1%	1%	0%	F	0.0918	F	0.5564	6700	G	2008
+060253	  SR	00198	     	VA 14, VA 198	 	057	Mathews County	057	Mathews County	1.69	SR 14 North Intersection	SR 14 South Intersection	6800	G	97%	1%	1%	1%	1%	0%	C	0.0920	F	0.5218	7300	G	2008	
+060038	  SR	00198	     	VA 198	Buckley Hall Rd	057	Mathews County	057	Mathews County	1.01	SR 14 Main St	57-642 Buckley Hall Rd	1500	G	96%	1%	1%	1%	1%	0%	F	0.1054	F	0.6006	1700	G	2008
+060260	  SR	00223	     	VA 223	Cricket Hill Rd	057	Mathews County	057	Mathews County	2.07	SR 198 Hudgins	57-633 Old Ferry Rd; Gwynn Island	2200	G	97%	1%	1%	0%	1%	0%	C	0.0918	F	0.6339	2400	G	2008
+752777	  57	00600	     	57-600	Point Rd	057	Mathews County	057	Mathews County	1.10	Dead End	SR 14 S, John Clayton Mem Hwy	60	R							X						05/04/2004
+404557	  57	00600	     	57-600	 	057	Mathews County	057	Mathews County	1.62	SR 14 Mid, John Clayton Mem Hwy	SR 14 N, John Clayton Mem Hwy	460	G	96%	1%	2%	0%	1%	0%	C	0.1091	F	0.5254	500	G	2008
+752778	  57	00601	     	57-601	 	057	Mathews County	057	Mathews County	0.54	Dead End	57-602 EAST	120	R							X						05/04/2004
+752779	  57	00601	     	57-601	 	057	Mathews County	057	Mathews County	1.07	57-602 WEST	Dead End	100	R							X						05/04/2004
+752780	  57	00602	     	57-602	 	057	Mathews County	057	Mathews County	0.42	SR 14 John Clayton Mem Hwy	57-691	410	R							X						08/28/2007
+752781	  57	00602	     	57-602	 	057	Mathews County	057	Mathews County	0.30	57-691	57-601 EAST	300	R							X						08/28/2007
+752782	  57	00602	     	57-602	 	057	Mathews County	057	Mathews County	0.30	57-601 EAST	Dead End	80	R							X						08/28/2007
+752783	  57	00603	     	57-603	 	057	Mathews County	057	Mathews County	0.66	Dead End	57-673	30	R							X						08/28/2007
+752784	  57	00603	     	57-603	 	057	Mathews County	057	Mathews County	0.75	57-673	SR 14 John Clayton Mem Hwy	140	R							X						08/28/2007
+752785	  57	00604	     	57-604	 	057	Mathews County	057	Mathews County	1.08	Dead End	SR 14 John Clayton Mem Hwy	220	R							X						05/04/2004
+752786	  57	00605	     	57-605	 	057	Mathews County	057	Mathews County	0.80	Dead End	SR 14 S, John Clayton Mem Hwy	140	R							X						08/28/2007
+752787	  57	00605	     	57-605	 	057	Mathews County	057	Mathews County	1.10	SR 14 N, John Clayton Mem Hwy	57-710	160	R							X						08/28/2007
+752788	  57	00605	     	57-605	 	057	Mathews County	057	Mathews County	0.10	57-710	57-607	140	R							X						08/28/2007
+752789	  57	00606	     	57-606	 	057	Mathews County	057	Mathews County	0.50	Dead End	57-646	170	R							X						05/04/2004
+752790	  57	00606	     	57-606	 	057	Mathews County	057	Mathews County	0.40	57-646	SR 14 John Clayton Mem Hwy	400	R							X						05/04/2004
+752791	  57	00607	     	57-607	 	057	Mathews County	057	Mathews County	1.90	Dead End	57-608	240	R							X						08/28/2007
+404558	  57	00608	     	57-608	 	057	Mathews County	057	Mathews County	1.50	SR 14 John Clayton Mem Hwy	57-609 Bethel Beach Rd	650	G	97%	0%	2%	0%	0%	0%	C	0.0855	F	0.5075	710	G	2008
+404559	  57	00608	     	57-608	 	057	Mathews County	057	Mathews County	1.30	57-609 Bethel Beach Rd	57-649 Peary Rd	380	G	97%	0%	2%	0%	0%	0%	F	0.0931	F	0.7209	410	G	2008
+752792	  57	00608	     	57-608	 	057	Mathews County	057	Mathews County	1.30	57-649 Peary Rd	Dead End	110	R							X						05/04/2004
+404560	  57	00609	     	57-609	Bethel Beach Rd	057	Mathews County	057	Mathews County	1.00	57-608	57-611 Tabernacle Rd	220	G	97%	1%	1%	1%	0%	0%	C	0.1070	F	0.5172	240	G	2008
+752793	  57	00609	     	57-609	Bethel Beach Rd	057	Mathews County	057	Mathews County	0.12	57-611 Tabernacle Rd	57-705 Kings Landing Rd	200	R							X						05/04/2004
+752794	  57	00609	     	57-609	Bethel Beach Rd	057	Mathews County	057	Mathews County	0.58	57-705 Kings Landing Rd	57-610	100	R							X						05/04/2004
+752795	  57	00609	     	57-609	Bethel Beach Rd	057	Mathews County	057	Mathews County	1.10	57-610	1.10 ME 57-610	140	R							X						05/04/2004
+752796	  57	00609	     	57-609	Bethel Beach Rd	057	Mathews County	057	Mathews County	0.08	1.10 ME 57-610	57-720 Bashi Shores Dr	130	R							X						05/04/2004
+752797	  57	00609	     	57-609	Bethel Beach Rd	057	Mathews County	057	Mathews County	0.22	57-720 Bashi Shores Dr	Dead End	60	R							X						08/20/2007
+752798	  57	00610	     	57-610	Marsh Hawk Rd	057	Mathews County	057	Mathews County	0.90	57-614 Ridgefield Rd	57-611 N, Tabernacle Rd	47	R							X						08/20/2007
+752799	  57	00610	     	57-610	 	057	Mathews County	057	Mathews County	0.75	57-611 S, Tabernacle Rd	0.75 ME 57-611 S, Tabernacle Rd	30	R							X						08/20/2007
+752800	  57	00610	     	57-610	 	057	Mathews County	057	Mathews County	1.05	0.75 ME 57-611 S, Tabernacle Rd	57-609 Bethel Beach Rd	40	R							X						05/04/2004
+404561	  57	00611	     	57-611	Church St	057	Mathews County	057	Mathews County	2.35	SR 14 N, John Clayton Mem Hwy	57-1003	2500	G	98%	1%	1%	0%	0%	0%	C	0.1119	F	0.5549	2600	G	2008
+404562	  57	00611	     	57-611	Church St	057	Mathews County	057	Mathews County	0.08	57-1003	SR 14 MID	2900	G	98%	1%	1%	0%	0%	0%	F	0.1145	F	0.5608	3200	G	2008
+404563	  57	00611	     	57-611	Tabernacle Rd	057	Mathews County	057	Mathews County	2.26	SR 14 S, John Clayton Mem Hwy; Main St	57-613 W, Beaver Dam Rd	980	G	98%	1%	1%	0%	0%	0%	F	0.0947	F	0.5314	1100	G	2008
+404564	  57	00611	     	57-611	Tabernacle Rd	057	Mathews County	057	Mathews County	2.16	57-613 W, Beaver Dam Rd	57-609 Bethel Beach Rd	510	G	98%	1%	1%	0%	0%	0%	F	0.1097	F	0.5691	550	G	2008
+752801	  57	00611	     	57-611	 	057	Mathews County	057	Mathews County	0.30	57-609 Bethel Beach Rd	Dead End	47	R							X						08/20/2007
+752802	  57	00612	     	57-612	Garden Creek Rd	057	Mathews County	057	Mathews County	0.50	57-613 Beaverdam Rd	57-611 Tabernacle Rd	100	R							X						08/20/2007
+404565	  57	00613	     	57-613	Beaver Dam Rd	057	Mathews County	057	Mathews County	2.80	SR 14 John Clayton Mem Hwy	57-611 W, Tabernacle Rd	100	G							X	0.1327	F	0.6667	110	G	2008
+752803	  57	00613	     	57-613	Knights Woods Rd	057	Mathews County	057	Mathews County	1.70	57-611 E, Tabernacle Rd	57-643 Haven Beach Rd	90	R							X						08/20/2007
+752804	  57	00614	     	57-614	Williams Wharf Rd	057	Mathews County	057	Mathews County	1.00	Dead End	SR 14 N, John Clayton Mem Hwy	110	R							X						08/20/2007
+752805	  57	00614	     	57-614	Williams Wharf Rd	057	Mathews County	057	Mathews County	0.90	SR 14 S, John Clayton Mem Hwy	57-644 Bandy Ridge Rd; 57-730 Old Ruff Rd	170	R							X						08/20/2007
+752806	  57	00614	     	57-614	Williams Wharf Rd	057	Mathews County	057	Mathews County	0.30	57-644 Bandy Ridge Rd; 57-730 Old Ruff Rd	57-613 Beaver Dam Rd	80	R							X						08/20/2007
+752807	  57	00614	     	57-614	Ridgefield Rd	057	Mathews County	057	Mathews County	1.20	57-613 Beaver Dam Rd	57-610	90	R							X						08/20/2007
+752808	  57	00614	     	57-614	 	057	Mathews County	057	Mathews County	1.20	57-610	57-609 Bethel Beach Rd	90	R							X						08/20/2007
+752809	  57	00615	     	57-615	 	057	Mathews County	057	Mathews County	0.60	Dead End	SR 14 John Clayton Mem Hwy	80	R							X						08/20/2007
+752810	  57	00616	     	57-616	Hookemfair Rd	057	Mathews County	057	Mathews County	0.54	SR 198	Dead End	160	R							X						08/28/2007
+752811	  57	00617	     	57-617	 	057	Mathews County	057	Mathews County	0.80	Dead End	57-660 SOUTH	170	R							X						08/28/2007
+404566	  57	00617	     	57-617	 	057	Mathews County	057	Mathews County	3.37	57-660 NORTH	57-618	290	G	98%	0%	0%	1%	1%	0%	F	0.1000	F	0.5797	310	G	2008
+404567	  57	00617	     	57-617	 	057	Mathews County	057	Mathews County	0.94	57-618	57-654 Gum Spring Rd	1200	G	98%	1%	1%	0%	0%	0%	C	0.0915	F	0.5521	1300	G	2008
+404568	  57	00617	     	57-617	 	057	Mathews County	057	Mathews County	1.06	57-654 Gum Spring Rd	SR 14 John Clayton Mem Hwy	1400	G	98%	0%	0%	1%	1%	0%	C	0.0905	F	0.5510	1500	G	2008
+404569	  57	00618	     	57-618	 	057	Mathews County	057	Mathews County	0.50	57-617	57-660	1600	G	96%	1%	1%	1%	1%	0%	C	0.1055	F	0.5102	1800	G	2008
+752812	  57	00619	     	57-619	 	057	Mathews County	057	Mathews County	0.65	Dead End	57-617 WEST	40	R							X						08/20/2007
+752813	  57	00619	     	57-619	 	057	Mathews County	057	Mathews County	0.81	57-617 EAST	57-660	110	R							X						05/10/2004
+752814	  57	00619	     	57-619	 	057	Mathews County	057	Mathews County	0.50	57-660	Dead End	190	R							X						05/10/2004
+752815	  57	00620	     	57-620	 	057	Mathews County	057	Mathews County	2.10	Dead End	SR 14 John Clayton Mem Hwy	520	R							X						05/10/2004
+752816	  57	00621	     	57-621	Glebe Rd	057	Mathews County	057	Mathews County	0.28	Dead End	0.28 MN Dead End	50	R							X						08/20/2007
+752817	  57	00621	     	57-621	Glebe Rd	057	Mathews County	057	Mathews County	0.12	0.28 MN Dead End	57-684 Gayle Lane	110	R							X						08/20/2007
+404570	  57	00621	     	57-621	Glebe Rd	057	Mathews County	057	Mathews County	0.95	57-684 Gayle Lane	57-622 Evans Rd	250	G	94%	4%	0%	1%	1%	0%	F	0.1231	F	0.5312	270	G	2008
+404571	  57	00621	     	57-621	Glebe Rd	057	Mathews County	057	Mathews County	0.40	57-622 Evans Rd	57-611 Church St	870	G	94%	4%	0%	1%	1%	0%	F	0.0825	F	0.7289	940	G	2008
+404572	  57	00621	     	57-621	Glebe Rd	057	Mathews County	057	Mathews County	0.80	57-611 Church St	SR 14	1100	G	94%	4%	0%	1%	1%	0%	C	0.2056	F	0.5779	1200	G	2008
+752818	  57	00622	     	57-622	Evans Rd	057	Mathews County	057	Mathews County	0.50	Dead End	57-623 W, Thurston Rd	90	R							X						08/20/2007
+752819	  57	00622	     	57-622	Evans Rd	057	Mathews County	057	Mathews County	0.04	57-623 W, Thurston Rd	57-623 Mid, Bendall Lane	140	R							X						08/20/2007
+404573	  57	00622	     	57-622	Long Rd	057	Mathews County	057	Mathews County	1.00	57-623 Mid, Bendall Lane	57-621 Glebe Rd	570	G	96%	1%	1%	1%	1%	0%	C	0.0966	F	0.5500	610	G	2008
+752820	  57	00623	     	57-623	Thurston Rd	057	Mathews County	057	Mathews County	0.46	Dead End	0.46 MN Dead End	80	R							X						08/20/2007
+752821	  57	00623	     	57-623	Thurston Rd	057	Mathews County	057	Mathews County	0.10	Dead End	57-622 W, Evans Rd	70	R							X						08/20/2007
+752822	  57	00623	     	57-623	Bendall Lane	057	Mathews County	057	Mathews County	0.40	57-622 Mid, Evans Rd	57-670 Magnolia Rd	80	R							X						08/20/2007
+752823	  57	00623	     	57-623	Magnolia Rd	057	Mathews County	057	Mathews County	0.30	57-670 Bendall Lane	57-622 E, Evans Rd	170	R							X						05/10/2004
+752824	  57	00624	     	57-624	 	057	Mathews County	057	Mathews County	0.15	57-625	57-671	120	R							X						08/29/2007
+752825	  57	00624	     	57-624	 	057	Mathews County	057	Mathews County	0.05	57-671	Dead End	30	R							X						08/29/2007
+752826	  57	00625	     	57-625	 	057	Mathews County	057	Mathews County	0.60	57-660	57-624	270	R							X						05/10/2004
+752827	  57	00625	     	57-625	 	057	Mathews County	057	Mathews County	0.20	57-624	Dead End	130	R							X						05/10/2004
+404574	  57	00626	     	57-626	 	057	Mathews County	057	Mathews County	3.40	SR 14 John Clayton Mem Hwy	SR 198 SOUTH	480	G	98%	0%	1%	0%	1%	0%	F	0.0982	F	0.5826	520	G	2008
+404575	  57	00626	     	57-626	 	057	Mathews County	057	Mathews County	1.80	SR 198 NORTH	57-666	990	G	98%	0%	1%	0%	1%	0%	C	0.0947	F	0.6095	1100	G	2008
+752828	  57	00626	     	57-626	 	057	Mathews County	057	Mathews County	0.16	57-666	57-652	300	R							X						05/17/2004
+752829	  57	00626	     	57-626	 	057	Mathews County	057	Mathews County	0.14	57-652	57-662	230	R							X						05/17/2004
+752830	  57	00626	     	57-626	 	057	Mathews County	057	Mathews County	0.30	57-662	Dead End	50	R							X						05/17/2004
+752831	  57	00627	     	57-627	Smithers Rd	057	Mathews County	057	Mathews County	0.30	SR 198	Dead End	50	R							X						05/13/2004
+404576	  57	00628	     	57-628	 	057	Mathews County	057	Mathews County	0.70	SR 198	57-725	430	G	96%	1%	1%	1%	0%	0%	C	0.1057	F	0.5000	460	G	2008
+752832	  57	00628	     	57-628	 	057	Mathews County	057	Mathews County	0.80	57-725	57-724	320	R							X						08/29/2007
+752833	  57	00628	     	57-628	 	057	Mathews County	057	Mathews County	0.17	57-724	Dead End	150	R							X						08/29/2007
+752834	  57	00629	     	57-629	 	057	Mathews County	057	Mathews County	1.28	SR 198	57-722	320	R							X						08/29/2007
+752835	  57	00629	     	57-629	 	057	Mathews County	057	Mathews County	0.44	57-722	Dead End	120	R							X						08/29/2007
+752836	  57	00630	     	57-630	 	057	Mathews County	057	Mathews County	1.50	SR 198	Dead End	180	R							X						05/17/2004
+752837	  57	00631	     	57-631	 	057	Mathews County	057	Mathews County	1.20	SR 198	Dead End	330	R							X						05/17/2004
+752838	  57	00632	     	57-632	 	057	Mathews County	057	Mathews County	0.50	57-626	Dead End	150	R							X						08/29/2007
+752839	  57	00633	     	57-633	 	057	Mathews County	057	Mathews County	0.20	Dead End	SR 223 Cricket Hill Rd	330	R							X						05/13/2004
+404577	  57	00633	     	57-633	 	057	Mathews County	057	Mathews County	2.66	SR 223 Cricket Hill Rd	Dead End	1200	G	97%	1%	1%	0%	0%	0%	C	0.0883	F	0.7007	1300	G	2008
+752840	  57	00634	     	57-634	 	057	Mathews County	057	Mathews County	0.50	Dead End	57-633	320	R							X						08/29/2007
+752841	  57	00635	     	57-635	 	057	Mathews County	057	Mathews County	0.60	57-609 Bethel Beach Rd	Dead End	70	R							X						05/04/2004
+752842	  57	00636	     	57-636	 	057	Mathews County	057	Mathews County	0.35	Dead End	57-672	60	R							X						08/29/2007
+404578	  57	00636	     	57-636	S Bay Haven Rd	057	Mathews County	057	Mathews County	0.63	57-672	57-633	110	G	98%	0%	1%	0%	0%	0%	C	0.1364	F	0.5556	120	G	2008
+752843	  57	00636	     	57-636	 	057	Mathews County	057	Mathews County	0.50	57-633	Dead End	190	R							X						08/29/2007
+752844	  57	00637	     	57-637	 	057	Mathews County	057	Mathews County	0.60	Dead End	57-680	90	R							X						05/13/2004
+404579	  57	00637	     	57-637	 	057	Mathews County	057	Mathews County	0.50	57-680	57-633	270	G	98%	2%	0%	0%	0%	0%	C	0.1006	F	0.6250	300	G	2008
+752845	  57	00638	     	57-638	 	057	Mathews County	057	Mathews County	1.00	Dead End	57-633	120	R							X						05/13/2004
+752846	  57	00639	     	57-639	Hills Bay Dr	057	Mathews County	057	Mathews County	0.85	Dead End	SR 223 W, Cricket Hill Rd	120	R							X						08/29/2007
+404580	  57	00639	     	57-639	Crab Neck Rd	057	Mathews County	057	Mathews County	1.03	SR 223 E, Cricket Hill Rd	57-648 Big Gum Rd	400	G	97%	1%	1%	1%	0%	0%	C	0.1079	F	0.6458	430	G	2008
+752847	  57	00639	     	57-639	Crab Neck Rd	057	Mathews County	057	Mathews County	0.10	57-648 Big Gum Rd	57-676 Traders Rd	130	R							X						05/13/2004
+752848	  57	00639	     	57-639	 	057	Mathews County	057	Mathews County	0.20	57-676 Traders Rd	Dead End	90	R							X						08/29/2007
+752849	  57	00640	     	57-640	Point Breeze Rd	057	Mathews County	057	Mathews County	0.14	SR 223 Cricket Hill Rd	57-716 Tobacco Rd	200	R							X						08/29/2007
+752850	  57	00640	     	57-640	Point Breeze Rd	057	Mathews County	057	Mathews County	1.41	57-716 Tobacco Rd	Dead End	250	R							X						08/29/2007
+404581	  57	00641	     	57-641	 	057	Mathews County	057	Mathews County	1.64	SR 14	Dead End	510	G	98%	1%	1%	0%	0%	0%	C	0.1144	F	0.5246	550	G	2008
+404582	  57	00642	     	57-642	Buckley Hall Rd	057	Mathews County	057	Mathews County	0.70	SR 198 Buckley Hall Rd	57-643 Haven Beach Rd	1300	G	97%	1%	1%	1%	0%	0%	C	0.1076	F	0.6026	1400	G	2008
+404583	  57	00642	     	57-642	Fitchetts Wharf Rd	057	Mathews County	057	Mathews County	0.96	57-643 Haven Beach Rd	57-708 Lunar Lane	450	G	97%	1%	1%	1%	0%	0%	F	0.1193	F	0.5887	490	G	2008
+404584	  57	00642	     	57-642	Fitchetts Wharf Rd	057	Mathews County	057	Mathews County	0.14	57-708 Lunar Lane	Dead End	30	G	97%	1%	1%	1%	0%	0%	F	0.3099	F	0.5455	30	G	2008
+404585	  57	00643	     	57-643	Haven Beach Rd	057	Mathews County	057	Mathews County	0.80	57-642 Buckley Hall Rd	57-644 Lillys Neck Rd	820	G	98%	1%	0%	1%	0%	0%	C	0.1068	F	0.6100	890	G	2008
+406684	  57	00643	     	57-643	Lillys Neck Rd	057	Mathews County	057	Mathews County	0.20	57-644; Haven Beach Rd	57-644; Haven Beach Rd	840	G	96%	1%	1%	2%	1%	0%	C	0.0985	F	0.5263	900	G	2008
+404586	  57	00643	     	57-643	Haven Beach Rd	057	Mathews County	057	Mathews County	0.80	57-644 Lillys Neck Rd	57-645 Garden Creek Rd	490	G	98%	1%	0%	1%	0%	0%	F	0.1149	F	0.6000	530	G	2008
+752851	  57	00643	     	57-643	Haven Beach Rd	057	Mathews County	057	Mathews County	0.03	57-645 Garden Creek Rd	57-682 Whites Creek Lane	170	R							X						05/04/2004
+752852	  57	00643	     	57-643	Haven Beach Rd	057	Mathews County	057	Mathews County	0.50	57-682 Whites Creek Lane	57-704 Old House Woods Rd	70	R							X						05/04/2004
+752853	  57	00643	     	57-643	Haven Beach Rd	057	Mathews County	057	Mathews County	0.67	57-704 Old House Woods Rd	Dead End	8	R							X						05/04/2004
+752855	  57	00644	     	57-644	Bandy Ridge Rd	057	Mathews County	057	Mathews County	1.00	57-614 Williams Wharf Rd	1.00 MN 57-614	20	R							X						08/26/2007
+752856	  57	00644	     	57-644	Bandy Ridge Rd	057	Mathews County	057	Mathews County	0.30	1.00 MN 57-614	57-611 W, Tabernacle Rd	30	R							X						08/26/2007
+752857	  57	00644	     	57-644	Lillys Neck Rd	057	Mathews County	057	Mathews County	1.20	57-611 E, Tabernacle Rd	57-643 S, Haven Beach Rd	120	R							X						08/26/2007
+752858	  57	00644	     	57-644	Lillys Neck Rd	057	Mathews County	057	Mathews County	1.00	57-643 N, Haven Beach Rd	Dead End	240	R							X						08/26/2007
+752859	  57	00645	     	57-645	Garden Creek Rd	057	Mathews County	057	Mathews County	0.50	57-643 Haven Beach Rd	57-717 Butts Lane	400	R							X						05/04/2004
+752860	  57	00645	     	57-645	Garden Creek Rd	057	Mathews County	057	Mathews County	0.69	57-717 Butts Lane	Betty Lane	80	R							X						05/04/2004
+752861	  57	00645	     	57-645	 	057	Mathews County	057	Mathews County	0.43	Betty Lane	Dead End	30	R							X						05/04/2004
+752862	  57	00646	     	57-646	 	057	Mathews County	057	Mathews County	0.14	Dead End	57-726	40	R							X						08/26/2007
+752863	  57	00646	     	57-646	 	057	Mathews County	057	Mathews County	0.20	57-726	57-721	80	R							X						08/26/2007
+752864	  57	00646	     	57-646	 	057	Mathews County	057	Mathews County	0.50	57-721	57-606	150	R							X						08/26/2007
+752865	  57	00647	     	57-647	 	057	Mathews County	057	Mathews County	0.70	57-641	Dead End	600	R							X						05/13/2004
+752866	  57	00648	     	57-648	Big Gum Rd	057	Mathews County	057	Mathews County	0.30	57-639 Crab Neck Rd	57-640 Point Breeze Rd	130	R							X						08/26/2007
+752867	  57	00649	     	57-649	Peary Rd	057	Mathews County	057	Mathews County	0.67	Dead End	57-608	170	R							X						08/26/2007
+752868	  57	00650	     	57-650	 	057	Mathews County	057	Mathews County	0.50	57-660	57-727	190	R							X						05/10/2004
+752869	  57	00650	     	57-650	 	057	Mathews County	057	Mathews County	0.30	57-727	Dead End	80	R							X						05/10/2004
+752870	  57	00651	     	57-651	Myrtle Grove Lane	057	Mathews County	057	Mathews County	0.80	57-660	Dead End	45	R							X						08/26/2007
+752871	  57	00652	     	57-652	 	057	Mathews County	057	Mathews County	0.40	Dead End	57-626	90	R							X						08/26/2007
+752872	  57	00653	     	57-653	Holly Point Rd	057	Mathews County	057	Mathews County	1.00	SR 198 Buckley Hall Rd	Dead End	120	R							X						08/28/2007
+752873	  57	00654	     	57-654	Gum Spring Rd	057	Mathews County	057	Mathews County	0.40	57-617	Dead End	40	R							X						08/20/2007
+752874	  57	00655	     	57-655	 	057	Mathews County	057	Mathews County	0.85	Dead End	57-600	140	R							X						08/20/2007
+752875	  57	00656	     	57-656	 	057	Mathews County	057	Mathews County	0.30	Dead End	57-633	170	R							X						05/13/2004
+752876	  57	00657	     	57-657	 	057	Mathews County	057	Mathews County	1.10	SR 14 John Clayton Mem Hwy	Dead End	130	R							X						05/10/2004
+752877	  57	00658	     	57-658	Kingston Lane	057	Mathews County	057	Mathews County	1.21	Dead End	SR 14 John Clayton Mem Hwy	140	R							X						08/20/2007
+752878	  57	00659	     	57-659	Osprey Rd	057	Mathews County	057	Mathews County	0.50	57-660	Dead End	140	R							X						08/20/2007
+752879	  57	00660	     	57-660	 	057	Mathews County	057	Mathews County	0.32	57-660 Begin Loop	57-660 End Loop	90	R							X						05/10/2004
+752880	  57	00660	     	57-660	 	057	Mathews County	057	Mathews County	0.53	57-660 End Loop	57-617 SOUTH	260	R							X						05/10/2004
+404587	  57	00660	     	57-660	 	057	Mathews County	057	Mathews County	0.30	57-617 SOUTH	57-617 NORTH	370	G	96%	1%	0%	0%	1%	0%	F	0.0979	F	0.5833	400	G	2008
+404588	  57	00660	     	57-660	 	057	Mathews County	057	Mathews County	0.36	57-617 NORTH	57-703	440	G	96%	1%	0%	0%	1%	0%	F	0.1028	F	0.5093	480	G	2008
+404589	  57	00660	     	57-660	 	057	Mathews County	057	Mathews County	2.65	57-703	57-618	1000	G	96%	1%	0%	0%	1%	0%	F	0.1074	F	0.5075	1100	G	2008
+404590	  57	00660	     	57-660	 	057	Mathews County	057	Mathews County	2.43	57-618	SR 14 John Clayton Mem Hwy	1000	G	96%	1%	0%	0%	1%	0%	C	0.1046	F	0.5250	1100	G	2008
+752881	  57	00661	     	57-661	 	057	Mathews County	057	Mathews County	0.42	57-633	Dead End	130	R							X						05/13/2004
+752882	  57	00662	     	57-662	 	057	Mathews County	057	Mathews County	0.40	Dead End	57-626	90	R							X						08/20/2007
+752883	  57	00663	     	57-663	 	057	Mathews County	057	Mathews County	0.20	Dead End	57-633	100	R							X						05/13/2004
+752884	  57	00664	     	57-664	 	057	Mathews County	057	Mathews County	0.90	57-633	Dead End	390	R							X						08/20/2007
+752885	  57	00665	     	57-665	Blue Water Dr	057	Mathews County	057	Mathews County	0.04	Dead End	57-1006	10	R							X						08/20/2007
+752886	  57	00665	     	57-665	Fleetwood Circle	057	Mathews County	057	Mathews County	0.56	57-1006	57-642 Fitchetts Wharf Rd	110	R							X						08/20/2007
+752887	  57	00666	     	57-666	 	057	Mathews County	057	Mathews County	0.38	Dead End	57-732	120	R							X						08/20/2007
+752888	  57	00666	     	57-666	 	057	Mathews County	057	Mathews County	0.14	57-732	57-626	330	R							X						08/20/2007
+752889	  57	00667	     	57-667	 	057	Mathews County	057	Mathews County	0.50	57-660	Dead End	100	R							X						05/10/2004
+752890	  57	00668	     	57-668	 	057	Mathews County	057	Mathews County	0.13	Dead End	SR 198	130	R							X						08/20/2007
+752891	  57	00669	     	57-669	 	057	Mathews County	057	Mathews County	0.51	SR 223 Cricket Hill Rd	Dead End	230	R							X						05/13/2004
+752892	  57	00670	     	57-670	Bendall Lane	057	Mathews County	057	Mathews County	0.42	57-623 Magnolia Rd; Bendall Lane	Dead End	70	R							X						08/20/2007
+752893	  57	00671	     	57-671	 	057	Mathews County	057	Mathews County	0.30	57-624	Dead End	70	R							X						08/20/2007
+752894	  57	00672	     	57-672	 	057	Mathews County	057	Mathews County	0.07	Dead End	57-636, S Bay Haven Rd	60	R							X						05/13/2004
+752895	  57	00673	     	57-673	 	057	Mathews County	057	Mathews County	0.60	Dead End	57-603	60	R							X						08/20/2007
+752896	  57	00674	     	57-674	 	057	Mathews County	057	Mathews County	0.35	Dead End	57-626	100	R							X						05/17/2004
+752897	  57	00675	     	57-675	 	057	Mathews County	057	Mathews County	0.30	57-660	0.30 ME 57-660	150	R							X						05/10/2004
+752898	  57	00675	     	57-675	 	057	Mathews County	057	Mathews County	0.10	0.30 ME 57-660	Dead End	90	R							X						05/10/2004
+752899	  57	00676	     	57-676	 	057	Mathews County	057	Mathews County	0.35	Dead End	57-639 Crab Neck Rd	60	R							X						08/20/2007
+752900	  57	00677	     	57-677	Canoe Yard Trail	057	Mathews County	057	Mathews County	0.66	57-611 Tabernacle Rd	57-609 Bethel Beach Rd	90	R							X						08/20/2007
+752901	  57	00678	     	57-678	Baby Lane	057	Mathews County	057	Mathews County	0.39	Dead End	57-622 Evans Rd	80	R							X						08/20/2007
+752902	  57	00679	     	57-679	 	057	Mathews County	057	Mathews County	0.54	57-660	Dead End	60	R							X						08/20/2007
+752903	  57	00680	     	57-680	 	057	Mathews County	057	Mathews County	0.49	Dead End	57-637	220	R							X						05/13/2004
+752904	  57	00681	     	57-681	 	057	Mathews County	057	Mathews County	0.53	57-626	Dead End	150	R							X						08/20/2007
+752905	  57	00682	     	57-682	 	057	Mathews County	057	Mathews County	0.87	57-643 Haven Beach Rd	Dead End	90	R							X						05/04/2004
+752906	  57	00683	     	57-683	 	057	Mathews County	057	Mathews County	0.37	Dead End	SR 14 John Clayton Mem Hwy	10	R							X						08/20/2007
+752907	  57	00684	     	57-684	Gayle Lane	057	Mathews County	057	Mathews County	0.25	57-621 Glebe Rd	0.25 ME 57-621	80	R							X						08/20/2007
+752908	  57	00684	     	57-684	 	057	Mathews County	057	Mathews County	0.30	0.25 ME 57-621	Dead End	70	R							X						08/20/2007
+752909	  57	00685	     	57-685	 	057	Mathews County	057	Mathews County	0.07	Dead End	57-660	70	R							X						05/10/2004
+752910	  57	00686	     	57-686	 	057	Mathews County	057	Mathews County	0.33	Dead End	57-605	60	R							X						08/20/2007
+752911	  57	00687	     	57-687	 	057	Mathews County	057	Mathews County	0.24	Dead End	57-660	40	R							X						05/10/2004
+752912	  57	00687	     	57-687	 	057	Mathews County	057	Mathews County	0.40	57-660	0.40 ME 57-660	100	R							X						05/10/2004
+752913	  57	00688	     	57-688	Dixon Rd	057	Mathews County	057	Mathews County	0.34	Dead End	57-639 Crab Neck Rd	220	R							X						08/28/2007
+752914	  57	00689	     	57-689	 	057	Mathews County	057	Mathews County	0.36	Dead End	57-600	150	R							X						05/04/2004
+752915	  57	00690	     	57-690	Field Point Rd	057	Mathews County	057	Mathews County	0.37	57-642 Fitchetts Wharf Rd	Dead End	100	R							X						08/28/2007
+752916	  57	00691	     	57-691	 	057	Mathews County	057	Mathews County	0.25	57-602	Dead End	60	R							X						08/28/2007
+752917	  57	00692	     	57-692	 	057	Mathews County	057	Mathews County	0.52	57-601	Dead End	20	R							X						08/28/2007
+752918	  57	00693	     	57-693	Buzzard Point Rd	057	Mathews County	057	Mathews County	0.62	Dead End	57-645 Garden Creek Rd	80	R							X						08/28/2007
+752919	  57	00694	     	57-694	Waverly Lane	057	Mathews County	057	Mathews County	0.40	SR 198	Dead End	110	R							X						05/13/2004
+752920	  57	00695	     	57-695	 	057	Mathews County	057	Mathews County	0.10	Dead End	57-633	70	R							X						05/13/2004
+752921	  57	00696	     	57-696	 	057	Mathews County	057	Mathews County	0.42	Dead End	57-639 Crab Neck Rd	130	R							X						08/28/2007
+752922	  57	00697	     	57-697	 	057	Mathews County	057	Mathews County	0.45	SR 14 John Clayton Mem Hwy	Dead End	90	R							X						05/04/2004
+752923	  57	00698	     	57-698	Captains Grenes Rd	057	Mathews County	057	Mathews County	0.20	57-649	Dead End	70	R							X						08/28/2007
+752924	  57	00699	     	57-699	 	057	Mathews County	057	Mathews County	0.37	57-691	Dead End	20	R							X						08/28/2007
+752925	  57	00700	     	57-700	 	057	Mathews County	057	Mathews County	0.48	SR 198	Dead End	170	R							X						05/13/2004
+752926	  57	00701	     	57-701	 	057	Mathews County	057	Mathews County	0.35	SR 3 Windsor Rd	Dead End	60	R							X						05/17/2004
+752927	  57	00702	     	57-702	Piney Point Rd	057	Mathews County	057	Mathews County	0.38	Dead End	57-609 Bethel Beach Rd	47	R							X						08/28/2007
+752928	  57	00703	     	57-703	 	057	Mathews County	057	Mathews County	0.61	57-660	Dead End	60	R							X						05/10/2004
+752929	  57	00704	     	57-704	 	057	Mathews County	057	Mathews County	0.36	57-643 Haven Beach Rd	Dead End	60	R							X						08/20/2007
+752930	  57	00705	     	57-705	Kings Landing Rd	057	Mathews County	057	Mathews County	0.40	Dead End	57-609 Bethel Beach Rd	50	R							X						08/20/2007
+752931	  57	00706	     	57-706	Ballast Point Rd	057	Mathews County	057	Mathews County	0.32	SR 223 Cricket Hill Rd	Dead End	110	R							X						05/13/2004
+752932	  57	00707	     	57-707	Hurst Neck Rd	057	Mathews County	057	Mathews County	0.18	Dead End	57-609 Bethel Beach Rd	100	R							X						08/20/2007
+752933	  57	00708	     	57-708	Billups Creek Lane	057	Mathews County	057	Mathews County	0.27	57-642 Fitchetts Wharf Rd	Dead End	45	R							X						08/20/2007
+752934	  57	00709	     	57-709	 	057	Mathews County	057	Mathews County	0.54	57-650	Dead End	40	R							X						05/10/2004
+752935	  57	00710	     	57-710	 	057	Mathews County	057	Mathews County	0.28	Dead End	57-605	90	R							X						05/04/2004
+752936	  57	00711	     	57-711	 	057	Mathews County	057	Mathews County	0.24	Dead End	57-646	10	R							X						08/20/2007
+752937	  57	00712	     	57-712	 	057	Mathews County	057	Mathews County	0.02	57-600	SR 14 John Clayton Mem Hwy	30	R							X						08/20/2007
+752938	  57	00713	     	57-713	 	057	Mathews County	057	Mathews County	0.16	SR 14	57-641	720	R							X						08/20/2007
+752939	  57	00714	     	57-714	 	057	Mathews County	057	Mathews County	0.20	SR 14 S, John Clayton Mem Hwy	SR 14 N, John Clayton Mem Hwy	30	R							X						08/20/2007
+752940	  57	00715	     	57-715	 	057	Mathews County	057	Mathews County	0.32	SR 14 S, John Clayton Mem Hwy	SR 14 N, John Clayton Mem Hwy	90	R							X						08/20/2007
+752941	  57	00716	     	57-716	Tobacco Rd	057	Mathews County	057	Mathews County	0.17	57-640 Point Breeze Rd	SR 223 Cricket Hill Rd	100	R							X						05/13/2004
+752942	  57	00717	     	57-717	 	057	Mathews County	057	Mathews County	0.14	Dead End	57-645 Garden Creek Rd	80	R							X						08/20/2007
+752943	  57	00718	     	57-718	 	057	Mathews County	057	Mathews County	0.38	Dead End	57-639 Crab Neck Rd	150	R							X						05/13/2004
+752944	  57	00719	     	57-719	 	057	Mathews County	057	Mathews County	0.16	Dead End	SR 198	70	R							X						08/20/2007
+752945	  57	00720	     	57-720	Bashl Shore Dr	057	Mathews County	057	Mathews County	0.23	57-609 Bethel Beach Rd	Dead End	10	R							X						08/20/2007
+752946	  57	00721	     	57-721	 	057	Mathews County	057	Mathews County	0.43	Dead End	57-646	80	R							X						08/20/2007
+752947	  57	00722	     	57-722	 	057	Mathews County	057	Mathews County	0.20	57-629	57-723	90	R							X						05/13/2004
+752948	  57	00723	     	57-723	 	057	Mathews County	057	Mathews County	0.02	Dead End	57-722	10	R							X						05/13/2004
+752949	  57	00723	     	57-723	 	057	Mathews County	057	Mathews County	0.08	57-722	Dead End	60	R							X						05/13/2004
+752950	  57	00724	     	57-724	 	057	Mathews County	057	Mathews County	0.12	57-628	Dead End	200	R							X						05/13/2004
+752951	  57	00725	     	57-725	 	057	Mathews County	057	Mathews County	0.13	57-628	Dead End	80	R							X						08/20/2007
+752952	  57	00726	     	57-726	 	057	Mathews County	057	Mathews County	0.22	Dead End	57-646	60	R							X						08/20/2007
+752953	  57	00727	     	57-727	 	057	Mathews County	057	Mathews County	0.35	Dead End	57-650	120	R							X						08/20/2007
+752954	  57	00728	     	57-728	 	057	Mathews County	057	Mathews County	0.22	SR 14 John Clayton Mem Hwy	Dead End	40	R							X						08/20/2007
+752955	  57	00729	     	57-729	 	057	Mathews County	057	Mathews County	0.43	Dead End	SR 14 John Clayton Mem Hwy	210	R							X						05/04/2004
+752956	  57	00730	     	57-730	 	057	Mathews County	057	Mathews County	0.12	57-614 Williams Wharf Rd	Dead End	40	R							X						08/20/2007
+752957	  57	00731	     	57-731	 	057	Mathews County	057	Mathews County	0.48	SR 14 John Clayton Mem Hwy	Dead End	70	R							X						05/04/2004
+752958	  57	00732	     	57-732	 	057	Mathews County	057	Mathews County	0.07	Cul-de-Sac	57-733	50	R							X						05/17/2004
+752959	  57	00732	     	57-732	 	057	Mathews County	057	Mathews County	0.91	57-733	57-666	310	R							X						05/17/2004
+752960	  57	00733	     	57-733	 	057	Mathews County	057	Mathews County	0.05	Cul-de-Sac	57-732	30	R							X						05/17/2004
+752961	  57	00734	     	57-734	 	057	Mathews County	057	Mathews County	0.05	Dead End	SR 3 Windsor Rd	60	R							X						05/10/2004
+752962	  57	00735	     	57-735	 	057	Mathews County	057	Mathews County	0.17	SR 3 Windsor Rd	Cul-de-Sac	160	R							X						05/10/2004
+752963	  57	00736	     	57-736	 	057	Mathews County	057	Mathews County	0.20	SR 198	Dead End	90	R							X						05/13/2004
+752964	  57	00737	     	57-737	Morse Point Rd	057	Mathews County	057	Mathews County	0.70	Cul-de-Sac	57-608	100	R							X						08/20/2007
+752965	  57	00738	     	57-738	Blue Heron Lane	057	Mathews County	057	Mathews County	0.25	SR 198	Cul-de-Sac	90	R							X						08/20/2007
+752966	  57	00739	     	57-739	 	057	Mathews County	057	Mathews County	0.15	SR 198	Dead End	90	R							X						08/20/2007
+784262	  57	00740	     	57-740	 	057	Mathews County	057	Mathews County	0.56	Dead End	57-633	80	R							X						08/20/2007
+796117	  57	00742	     	57-742	 	057	Mathews County	057	Mathews County	0.12	Cul-de-Sac	57-666	0	?							X
+786510	  57	00745	     	57-745	 	057	Mathews County	057	Mathews County	0.93	Cul-de-Sac	SR 14 John Clayton Mem Hwy	140	R							X						05/10/2004
+786511	  57	00746	     	57-746	 	057	Mathews County	057	Mathews County	0.42	57-745	Dead End	40	R							X						05/10/2004
+752967	  57	01001	     	57-1001	 	057	Mathews County	057	Mathews County	0.05	57-1003	57-1002	890	R							X						08/20/2007
+752968	  57	01001	     	57-1001	 	057	Mathews County	057	Mathews County	0.03	57-1002	SR 14 Main St	1100	R							X						08/20/2007
+752969	  57	01002	     	57-1002	 	057	Mathews County	057	Mathews County	0.05	57-1001	57-611 Church St	670	R							X						08/20/2007
+752970	  57	01003	     	57-1003	 	057	Mathews County	057	Mathews County	0.05	57-1001	57-611 Church St	440	R							X						05/13/2004
+752971	  57	01004	     	57-1004	 	057	Mathews County	057	Mathews County	0.16	Dead End	SR 14	140	R							X						05/13/2004
+752972	  57	01006	     	57-1006	 	057	Mathews County	057	Mathews County	0.07	57-665 Fleetwood Circle; Blue Water Dr	Begin Loop	60	R							X						05/13/2004
+752973	  57	01006	     	57-1006	 	057	Mathews County	057	Mathews County	0.07	Begin Loop	57-1007	20	R							X						05/13/2004
+752974	  57	01006	     	57-1006	 	057	Mathews County	057	Mathews County	0.10	57-1007	End Loop	30	R							X						05/13/2004
+752975	  57	01007	     	57-1007	 	057	Mathews County	057	Mathews County	0.06	57-1006	Cul-de-Sac	20	R							X						05/13/2004
+790521	  57	01010	     	57-1010	Martin St	057	Mathews County	057	Mathews County	0.42	Cul-de-Sac	SR 3 Windsor Rd	0	?							X
+790522	  57	01011	     	57-1011	Corr St	057	Mathews County	057	Mathews County	0.12	Cul-de-Sac	57-1010 Martin St	450	R							X						08/20/2007
+752976	  57	01015	     	57-1015	 	057	Mathews County	057	Mathews County	0.19	SR 198 Buckley Hall Rd	Cul-de-Sac	9	R							X						08/20/2007
+752977	  57	01016	     	57-1016	Catlett Rd	057	Mathews County	057	Mathews County	0.07	Cul-de-Sac	57-1015	10	R							X						08/20/2007
+752978	  57	01101	     	57-1101	 	057	Mathews County	057	Mathews County	0.12	Dead End	SR 198	40	R							X						05/17/2004
+752980	  57	09249	     	57-9249	 	057	Mathews County	057	Mathews County	0.08	SR 14	Mathews County HS	310	R							X						05/13/2004
+752981	  57	09250	     	57-9250	 	057	Mathews County	057	Mathews County	0.10	57-611 Thomas	Hunter Int Sch	20	R							X						08/20/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

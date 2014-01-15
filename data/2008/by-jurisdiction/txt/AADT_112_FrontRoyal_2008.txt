@@ -1,0 +1,54 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Front Royal																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+632031	  SR	00055	     	VA 55	Strasburg Rd	112	Town of Front Royal	112	Town of Front Royal	0.90	WCL Front Royal	US 340, US 522 Shenandoah Ave	8400	F	98%	1%	1%	0%	0%	0%	C	0.0854	F	0.0000	9100	F	2008
+632025	  SR	00055	     	US 522, US 340, VA 55	Shenandoah Ave	112	Town of Front Royal	112	Town of Front Royal	0.34	CL Front Royal	14 ST	27000	F	96%	1%	1%	1%	1%	0%	F				28000	F	2008	
+632001	  SR	00055	     	US 522, US 340, VA 55	14th St	112	Town of Front Royal	112	Town of Front Royal	0.24	Shenandoah Ave	North Royal Ave	22000	F	96%	1%	1%	1%	1%	0%	F				23000	F	2008	
+632022	  SR	00055	     	US 522, US 340, VA 55	North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.35	14TH ST	US 522 & US 340	24000	F	96%	1%	1%	1%	1%	0%	C				25000	F	2008	
+632021	  SR	00055	     	US 340, VA 55	North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.25	US 522 & US 340	6th St	12000	F	97%	1%	1%	1%	1%	0%	F	0.0901	F	0.0000	14000	F	2008	
+632020	  SR	00055	     	US 340, VA 55	North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.57	6th St	E Main St	17000	F	97%	1%	1%	1%	1%	0%	C	0.0859	F	0.0000	18000	F	2008	
+632024	  SR	00055	     	US 340, VA 55	South Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.40	E Main St	US 340	14000	F	96%	1%	1%	1%	1%	0%	C	0.0873	F	0.0000	15000	F	2008	
+632028	  SR	00055	     	VA 55	South  St	112	Town of Front Royal	112	Town of Front Royal	0.54	US 340, S Royal Ave	US 522, S Commerce Ave	14000	F	98%	1%	1%	0%	0%	0%	C				15000	F	2008
+632016	  SR	00055	     	VA 55	John Marshall Hwy	112	Town of Front Royal	112	Town of Front Royal	1.72	US 522, S Commerce Ave	ECL Front Royal	14000	F	98%	1%	1%	0%	1%	0%	C	0.0870	F	0.0000	16000	F	2008
+632023	  US	00340	     	US 340	South Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.31	SCL Front Royal	SR 55 South St	15000	F	95%	1%	1%	1%	2%	0%	F	0.0902	F	0.0000	16000	F	2008
+632024	  US	00340	     	US 340, VA 55	South Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.40	SR 55 South St	E Main St	14000	F	96%	1%	1%	1%	1%	0%	C	0.0873	F	0.0000	15000	F	2008
+632020	  US	00340	     	US 340, VA 55	North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.57	E Main St	6th St	17000	F	97%	1%	1%	1%	1%	0%	C	0.0859	F	0.0000	18000	F	2008
+632021	  US	00340	     	US 340, VA 55	North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.25	6th St	US 522, 8th St	12000	F	97%	1%	1%	1%	1%	0%	F	0.0901	F	0.0000	14000	F	2008
+632022	  US	00340	     	US 522, US 340, VA 55	North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.35	US 522, 8th St	14th St	24000	F	96%	1%	1%	1%	1%	0%	C				25000	F	2008	
+632001	  US	00340	     	US 522, US 340, VA 55	14th St	112	Town of Front Royal	112	Town of Front Royal	0.24	North Royal Ave	Shenandoah Ave	22000	F	96%	1%	1%	1%	1%	0%	F				23000	F	2008	
+632025	  US	00340	     	US 522, US 340, VA 55	Shenandoah Ave	112	Town of Front Royal	112	Town of Front Royal	0.34	14th St	CL Front Royal	27000	F	96%	1%	1%	1%	1%	0%	F				28000	F	2008	
+632005	  US	00522	     	US 522	Chester Gap Rd	112	Town of Front Royal	112	Town of Front Royal	0.60	SCL Front Royal	Criser Rd	7700	F	97%	0%	1%	1%	1%	0%	C	0.0931	F	0.0000	8100	F	2008
+632006	  US	00522	     	US 522	Chester Gap Rd	112	Town of Front Royal	112	Town of Front Royal	0.35	Criser Rd	SR 55 South St	11000	F	97%	0%	1%	1%	1%	0%	F				12000	F	2008
+632007	  US	00522	     	US 522	Commerce Ave	112	Town of Front Royal	112	Town of Front Royal	0.47	SR 55 South St	Main St	22000	F	98%	1%	1%	0%	1%	0%	C	0.0914	F	0.0000	23000	F	2008
+632008	  US	00522	     	US 522	Commerce Ave	112	Town of Front Royal	112	Town of Front Royal	0.74	Main St	Happy Creek Rd	15000	F	97%	1%	1%	0%	1%	0%	C	0.0822	F	0.0000	16000	F	2008
+632009	  US	00522	     	US 522	Commerce Ave	112	Town of Front Royal	112	Town of Front Royal	0.35	Happy Creek Rd	US 340 North Royal Ave	14000	F	97%	1%	1%	0%	1%	0%	F	0.0902	F	0.0000	14000	F	2008
+632022	  US	00522	     	US 522, US 340, VA 55	North Royal Ave	112	Town of Front Royal	112	Town of Front Royal	0.35	Commerce Ave	14th St	24000	F	96%	1%	1%	1%	1%	0%	C				25000	F	2008
+632001	  US	00522	     	US 522, US 340, VA 55	14th St	112	Town of Front Royal	112	Town of Front Royal	0.24	North Royal Ave	Shenandoah Ave	22000	F	96%	1%	1%	1%	1%	0%	F				23000	F	2008
+632025	  US	00522	     	US 522, US 340, VA 55	Shenandoah Ave	112	Town of Front Royal	112	Town of Front Royal	0.34	14th St	NCL Front Royal	27000	F	96%	1%	1%	1%	1%	0%	F				28000	F	2008
+632010	 112	00002	     	112-2	Criser Rd	112	Town of Front Royal	112	Town of Front Royal	0.51	Luray Ave	South Royal Ave	3100	F	98%	1%	0%	0%	0%	0%	C	0.0932	F	0.0000	3400	F	2008
+632011	 112	00002	     	112-2	Criser Rd	112	Town of Front Royal	112	Town of Front Royal	0.71	South Royal Ave	Chester Gap Rd	4700	F	98%	1%	0%	0%	0%	0%	F	0.1027	F	0.0000	5100	F	2008
+632018	 112	04001	     	112-4001	Luray Ave	112	Town of Front Royal	112	Town of Front Royal	0.45	WCL Front Royal	Stonewall Dr	1700	F	98%	1%	0%	0%	0%	0%	F	0.1587	F	0.5575	1800	F	2008
+632019	 112	04001	     	112-4001	Luray Ave	112	Town of Front Royal	112	Town of Front Royal	0.21	Stonewall Dr	W Main St	1900	F	98%	1%	0%	0%	0%	0%	C	0.1307	F	0.6007	2100	F	2008
+632029	 112	04002	     	112-4002	Stonewall Dr	112	Town of Front Royal	112	Town of Front Royal	0.25	Luray Ave	US 340 South Royal Ave	440	F	98%	1%	1%	1%	0%	0%	F	0.1009	F	0.6667	480	F	2008
+632030	 112	04002	     	112-4002	Stonewall Dr	112	Town of Front Royal	112	Town of Front Royal	0.42	US 522 Commerce Ave	Charles St	2500	F	98%	1%	1%	1%	0%	0%	C	0.1243	F	0.5501	2800	F	2008
+632032	 112	04004	     	112-4004	West Main St	112	Town of Front Royal	112	Town of Front Royal	0.64	Kerfoot Ave	Luray Ave	1700	F	97%	0%	1%	0%	1%	0%	F	0.1069	F	0.5378	1900	F	2008
+632033	 112	04004	     	112-4004	West Main St	112	Town of Front Royal	112	Town of Front Royal	0.07	Luray Ave	North Royal Ave	2100	F	97%	0%	1%	0%	1%	0%	F	0.0949	F	0.0000	2300	F	2008
+632012	 112	04004	     	112-4004	East Main St	112	Town of Front Royal	112	Town of Front Royal	0.25	North Royal Ave	Blue Ridge Ave	3100	F	97%	0%	1%	0%	1%	0%	C	0.0902	F	0.6478	3400	F	2008
+632013	 112	04004	     	112-4004	East Main St	112	Town of Front Royal	112	Town of Front Royal	0.13	Blue Ridge Ave	Commerce Ave	3000	F	97%	0%	1%	0%	1%	0%	F	0.0841	F	0.0000	3300	F	2008
+632014	 112	04005	     	112-4005	Happy Creek Rd	112	Town of Front Royal	112	Town of Front Royal	0.85	Commerce Ave	6Th St	2900	F	98%	1%	1%	0%	0%	0%	C	0.1030	F	0.0000	3200	F	2008
+632017	 112	04006	     	112-4006	Kendrick Lane	112	Town of Front Royal	112	Town of Front Royal	0.19	Shenandoah Ave	6Th St	8100	F	98%	1%	1%	0%	0%	0%	C	0.0929	F	0.0000	8800	F	2008
+632002	 112	04006	     	112-4006	6th St	112	Town of Front Royal	112	Town of Front Royal	0.11	Kendrick Lane	US 340 North Royal Ave	8200	F	98%	0%	1%	0%	1%	0%	F	0.0865	F	0.0000	8900	F	2008
+632003	 112	04006	     	112-4006	6th St	112	Town of Front Royal	112	Town of Front Royal	0.14	US 340 North Royal Ave	Commerce Ave	4900	F	98%	0%	1%	0%	1%	0%	F	0.0893	F	0.0000	5300	F	2008
+632004	 112	04006	     	112-4006	6th St	112	Town of Front Royal	112	Town of Front Royal	0.62	Commerce Ave	Happy Creek Rd	6900	F	98%	0%	1%	0%	1%	0%	C	0.0894	F	0.0000	7500	F	2008
+632015	 112	04006	     	112-4006	Happy Creek Rd	112	Town of Front Royal	112	Town of Front Royal	2.19	6Th St	ECL Front Royal	7900	F	98%	0%	1%	0%	1%	0%	F	0.0951	F	0.0000	8600	F	2008
+632027	 112	04010	     	112-4010	Shenandoah Ave	112	Town of Front Royal	112	Town of Front Royal	0.50	Kendrick Lane	14Th St	6400	F	98%	0%	1%	0%	1%	0%	C	0.0955	F	0.0000	7000	F	2008
+532003	 112	00000	     	112-0	11th St	112	Town of Front Royal	112	Town of Front Royal	0.00	Virginia Ave	North Royal Ave	720	F							X	0.0951	F	0.0000	720	F	2008
+532007	 112	00000	     	112-0	13th St	112	Town of Front Royal	112	Town of Front Royal	0.00	Jefferson Avenue	Monroe Avenue	310	F							X	0.1256	F	0.5926	310	F	2008
+532006	 112	00000	     	112-0	Jamestown Rd	112	Town of Front Royal	112	Town of Front Royal	0.00	Accomac Road	Charles Street	1300	F							X	0.1074	F	0.0000	1300	F	2008
+532005	 112	00000	     	112-0	Kendrick Lane	112	Town of Front Royal	112	Town of Front Royal	0.00	Massanutten Avenue	Shenandoah Avenue	3500	F							X	0.1162	F	0.5293	3500	F	2008
+532004	 112	00000	     	112-0	Washington Avenue	112	Town of Front Royal	112	Town of Front Royal	0.00	Happy Creek Road	6th Street	320	F							X	0.1087	F	0.5000	320	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

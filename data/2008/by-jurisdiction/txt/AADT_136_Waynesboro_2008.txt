@@ -1,0 +1,91 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Waynesboro																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080245	  IS	00064	E    	I-64 EB	 	136	City of Waynesboro	007	Augusta County	0.23	WCL Waynesboro	US 340 Stuarts Draft Hwy	17000	G	88%	1%	1%	1%	10%	0%	F				17000	G	2008		35000	G	88%	1%	1%	1%	10%	0%	F				34000	G
+080244	  IS	00064	E    	I-64 EB	 	136	City of Waynesboro	007	Augusta County	1.95	US 340 Stuarts Draft Hwy	Delphine Ave, To 07-624	18000	A	88%	1%	1%	1%	10%	0%	C	0.1058	A	1.0000	17000	A	2008		36000	A	88%	1%	1%	1%	10%	0%	C	0.1071	A	0.0000	35000	A
+080294	  IS	00064	E    	I-64 EB	 	136	City of Waynesboro	007	Augusta County	0.70	Delphine Ave, To 07-624	ECL Waynesboro	16000	G	88%	1%	1%	1%	10%	0%	F				15000	G	2008		31000	G	88%	1%	1%	1%	10%	0%	F				30000	G
+180058	  IS	00064	W    	I-64 WB	 	136	City of Waynesboro	007	Augusta County	0.43	WCL Waynesboro	US 340 Stuarts Draft Hwy	18000	G	88%	1%	1%	1%	9%	0%	F				17000	G	2008		35000	G	88%	1%	1%	1%	10%	0%	F				34000	G
+880060	  IS	00064	W    	I-64 WB	 	136	City of Waynesboro	007	Augusta County	2.15	US 340 Stuarts Draft Hwy	Delphine Ave, To 07-624	18000	A	88%	1%	1%	1%	9%	0%	C	0.1152	A	1.0000	18000	A	2008		36000	A	88%	1%	1%	1%	10%	0%	C	0.1071	A	0.0000	35000	A
+180060	  IS	00064	W    	I-64 WB	 	136	City of Waynesboro	007	Augusta County	0.30	Delphine Ave, To 07-624	ECL Waynesboro	16000	G	88%	1%	1%	1%	9%	0%	F				15000	G	2008		31000	G	88%	1%	1%	1%	10%	0%	F				30000	G
+679346	  US	00250	     	US 250	Main St	136	City of Waynesboro	136	City of Waynesboro	0.84	WCL Waynesboro	Carman Ave	20000	G	99%	0%	0%	0%	0%	0%	F	0.0875	F	0.5015	22000	G	2008
+679341	  US	00250	     	US 250	Main St	136	City of Waynesboro	136	City of Waynesboro	0.30	Carman Ave	Hopeman Pkwy	19000	G	99%	0%	0%	0%	0%	0%	F	0.0861	F	0.5173	21000	G	2008
+679313	  US	00250	     	US 250	Main St	136	City of Waynesboro	136	City of Waynesboro	0.67	Hopeman Pkwy	US 340 Rosser Ave	13000	G	99%	0%	0%	0%	0%	0%	F	0.0945	F	0.5134	14000	G	2008
+679312	  US	00250	     	US 250	Broad St	136	City of Waynesboro	136	City of Waynesboro	0.25	US 340 Rosser Ave	Poplar Ave	12000	G	99%	0%	0%	0%	0%	0%	F	0.0839	F	0.5358	13000	G	2008
+679325	  US	00250	     	US 250	Broad St	136	City of Waynesboro	136	City of Waynesboro	0.50	Poplar Ave	Wayne Ave	12000	G	99%	0%	0%	0%	0%	0%	F	0.0839	F	0.5607	13000	G	2008
+679329	  US	00250	     	US 250	Broad St	136	City of Waynesboro	136	City of Waynesboro	0.12	Wayne Ave	Arch Ave	11000	G	99%	0%	0%	0%	0%	0%	F	0.0833	F	0.5606	11000	G	2008
+679331	  US	00250	     	US 250	Broad St	136	City of Waynesboro	136	City of Waynesboro	0.44	Arch Ave	US 340 Main St	11000	G	98%	0%	1%	0%	1%	0%	C	0.0807	F	0.5296	12000	G	2008
+679334	  US	00250	     	US 250, US 340	Main St	136	City of Waynesboro	136	City of Waynesboro	0.19	US 340 Broad St	US 340 Delphine Ave	12000	G	98%	0%	1%	0%	1%	0%	F	0.0917	F	0.5298	13000	G	2008
+679339	  US	00250	     	US 250	Main St	136	City of Waynesboro	136	City of Waynesboro	1.00	Delphine Ave	Hunter St	7300	G	96%	0%	1%	0%	2%	0%	F	0.0920	F	0.5928	7900	G	2008
+679343	  US	00250	     	US 250	Main St	136	City of Waynesboro	136	City of Waynesboro	0.44	Hunter St	ECL Waynesboro	7200	G	96%	0%	1%	0%	2%	0%	C	0.0934	F	0.6017	7800	G	2008
+679353	  SR	00254	     	VA 254	Ivy St	136	City of Waynesboro	136	City of Waynesboro	1.19	WCL Waynesboro	Hopeman Pkwy	5400	G	97%	0%	1%	1%	1%	0%	C	0.1001	F	0.5843	5800	G	2008
+679309	  SR	00254	     	VA 254	Ivy St	136	City of Waynesboro	136	City of Waynesboro	0.52	Hopeman Pkwy	King Ave	5800	G	97%	0%	1%	1%	1%	0%	F	0.0949	F	0.6404	6300	G	2008
+679310	  SR	00254	     	VA 254	Poplar Ave	136	City of Waynesboro	136	City of Waynesboro	0.30	King Ave	Broad St	11000	G	98%	1%	1%	0%	0%	0%	C	0.0887	F	0.5390	12000	G	2008
+679340	  SR	00254	     	VA 254	Poplar Ave	136	City of Waynesboro	136	City of Waynesboro	0.07	Broad St	Main St	3400	G	98%	1%	1%	0%	0%	0%	F	0.1126	F	0.5936	3700	G	2008
+679352	  US	00340	     	US 340	Rosser Ave	136	City of Waynesboro	136	City of Waynesboro	0.34	WCL Waynesboro	I-64	18000	G	96%	1%	1%	1%	2%	0%	F	0.0810	F	0.5856	20000	G	2008
+679354	  US	00340	     	US 340	Rosser Ave	136	City of Waynesboro	136	City of Waynesboro	0.56	I-64	Lew Dewitt Blvd	26000	G	97%	0%	1%	0%	1%	0%	C	0.0859	F	0.5254	29000	G	2008
+679347	  US	00340	     	US 340	Rosser Ave	136	City of Waynesboro	136	City of Waynesboro	0.71	Lew Dewitt Blvd	Northgate Ave	16000	G	99%	0%	1%	0%	0%	0%	C	0.0861	F	0.5148	18000	G	2008
+679317	  US	00340	     	US 340	Rosser Ave	136	City of Waynesboro	136	City of Waynesboro	0.61	Northgate Ave	Forrest Dr	13000	G	99%	0%	1%	0%	0%	0%	F	0.0864	F	0.5035	14000	G	2008
+679314	  US	00340	     	US 340	Rosser Ave	136	City of Waynesboro	136	City of Waynesboro	0.56	Forrest Dr	US 250 Main St	13000	G	99%	0%	1%	0%	0%	0%	F	0.0864	F	0.5101	14000	G	2008
+679855	  US	00340	     	US 340	Main St	136	City of Waynesboro	136	City of Waynesboro	0.38	Rosser Ave	New Hope Rd	7800	G	99%	0%	1%	0%	0%	0%	F	0.0906	F	0.5169	8400	G	2008
+679324	  US	00340	     	US 340	Main St	136	City of Waynesboro	136	City of Waynesboro	0.35	New Hope Rd	Wayne Ave	6900	G	99%	0%	1%	0%	0%	0%	F	0.0941	F	0.5469	7500	G	2008
+679328	  US	00340	     	US 340	Main St	136	City of Waynesboro	136	City of Waynesboro	0.14	Wayne Ave	Arch Ave	3600	G	99%	0%	1%	0%	0%	0%	F	0.0944	F	0.5453	3900	G	2008
+679332	  US	00340	     	US 340	Main St	136	City of Waynesboro	136	City of Waynesboro	0.39	Arch Ave	US 250 Broad St	6000	G	99%	0%	1%	0%	0%	0%	F	0.0914	F	0.5718	6500	G	2008
+679334	  US	00340	     	US 250, US 340	Main St	136	City of Waynesboro	136	City of Waynesboro	0.19	US 250 Broad St	Main St	12000	G	98%	0%	1%	0%	1%	0%	F	0.0917	F	0.5298	13000	G	2008	
+679854	  US	00340	     	US 340	Delphine Ave	136	City of Waynesboro	136	City of Waynesboro	0.25	Main St	7th St	11000	G	95%	1%	1%	1%	2%	0%	F	0.0909	F	0.5925	12000	G	2008
+679335	  US	00340	     	US 340	Delphine Ave	136	City of Waynesboro	136	City of Waynesboro	0.60	7th St	Second St	11000	G	95%	1%	1%	1%	2%	0%	F	0.0891	F	0.5782	12000	G	2008
+679305	  US	00340	     	US 340	Delphine Ave	136	City of Waynesboro	136	City of Waynesboro	0.81	Second St	Hopeman Pkwy	9300	G	95%	1%	1%	1%	2%	0%	F	0.0919	F	0.5989	10000	G	2008
+679342	  US	00340	     	US 340	Delphine Ave	136	City of Waynesboro	136	City of Waynesboro	0.25	Hopeman Pkwy	NCL Waynesboro	9500	G	95%	1%	1%	1%	2%	0%	C	0.0933	F	0.6317	10000	G	2008
+780447	  FR	00209	     	FR 209	Shenandoah Village Dr	136	City of Waynesboro	007	Augusta County	0.27	US 340 Rosser Ave	Dead End	0	?							X
+780448	  FR	00210	     	FR 210	Windgrove Rd	136	City of Waynesboro	007	Augusta County	0.04	US 340 Rosser Ave	Dead End	0	?							X
+780449	  FR	00211	     	FR 211	Chinquapin Dr	136	City of Waynesboro	007	Augusta County	0.40	SCL Waynesboro	07-1040 Chinquapin Dr; ECL Waynesboro	580	R							X						04/17/2007
+679861	 136	00001	     	136-1	Kirby St	136	City of Waynesboro	136	City of Waynesboro	0.12	Shenandoah Ave	A Street	320	G	94%	3%	2%	0%	0%	0%	C	0.1093	F	0.5926	350	G	2008
+679860	 136	00002	     	136-2	A St	136	City of Waynesboro	136	City of Waynesboro	0.22	Kirby Ave	ECL Waynesboro	1400	G	98%	1%	1%	0%	0%	0%	C	0.1114	F	0.6353	1500	G	2008
+679316	 136	05100	     	136-5100	Thirteenth St	136	City of Waynesboro	136	City of Waynesboro	0.63	Rosser Ave	Pine Ave	4300	G	98%	0%	1%	0%	0%	0%	F	0.1017	F	0.5969	4600	G	2008
+679323	 136	05100	     	136-5100	Thirteenth St	136	City of Waynesboro	136	City of Waynesboro	0.43	Pine Ave	Arch Ave	2700	G	98%	0%	1%	0%	0%	0%	C	0.0979	F	0.5442	2900	G	2008
+679851	 136	05101	     	136-5101	Davis Rd	136	City of Waynesboro	136	City of Waynesboro	0.09	Northgate Ave	Vedette St	960	G	99%	0%	1%	0%	0%	0%	F	0.1046	F	0.5265	1000	G	2008
+679356	 136	05101	     	136-5101	Vedette Ave	136	City of Waynesboro	136	City of Waynesboro	0.68	Davis Rd	Main St	890	G	99%	0%	1%	0%	0%	0%	C	0.0975	F	0.5204	960	G	2008
+679357	 136	05103	     	136-5103	Northgate Ave	136	City of Waynesboro	136	City of Waynesboro	0.33	Davis Rd	Meadowbrook Rd	2300	G	99%	0%	1%	0%	0%	0%	C	0.0936	F	0.5900	2500	G	2008
+679318	 136	05103	     	136-5103	Meadowbrook Rd	136	City of Waynesboro	136	City of Waynesboro	0.76	Northgate Ave	Lyndhurst Rd	3100	G	99%	0%	0%	0%	0%	0%	C	0.1025	F	0.5676	3300	G	2008
+679301	 136	05104	     	136-5104	Hopeman Pkwy	136	City of Waynesboro	136	City of Waynesboro	0.89	Main St	Ivy St	9900	G	96%	1%	1%	1%	2%	0%	F	0.0911	F	0.5241	11000	G	2008
+679302	 136	05104	     	136-5104	Hopeman Pkwy	136	City of Waynesboro	136	City of Waynesboro	0.96	Ivy St	King Ave	9100	G	96%	1%	1%	1%	2%	0%	F	0.0985	F	0.5392	9900	G	2008
+679303	 136	05104	     	136-5104	Hopeman Pkwy	136	City of Waynesboro	136	City of Waynesboro	0.58	King Ave	Genicom Dr	7300	G	96%	1%	1%	1%	2%	0%	F	0.1016	F	0.5782	7900	G	2008
+679304	 136	05104	     	136-5104	Hopeman Pkwy	136	City of Waynesboro	136	City of Waynesboro	0.29	Genicom Dr	Delphine Ave	6700	G	96%	1%	1%	1%	2%	0%	C	0.0979	F	0.6031	7200	G	2008
+679349	 136	05105	     	136-5105	Lyndhurst Rd	136	City of Waynesboro	136	City of Waynesboro	1.61	SWCL Waynesboro	Meadowbrook Rd	3000	G	99%	0%	1%	0%	0%	0%	C	0.0983	F	0.5785	3200	G	2008
+679319	 136	05105	     	136-5105	Lyndhurst Rd	136	City of Waynesboro	136	City of Waynesboro	0.65	Meadowbrook Rd	Woodrow Ave	5200	G	99%	0%	1%	0%	0%	0%	F	0.1011	F	0.5713	5700	G	2008
+679322	 136	05105	     	136-5105	Wayne Ave	136	City of Waynesboro	136	City of Waynesboro	0.37	Woodrow Ave	13th St	5600	G	99%	0%	1%	0%	0%	0%	F	0.1053	F	0.5624	6100	G	2008
+679326	 136	05105	     	136-5105	Wayne Ave	136	City of Waynesboro	136	City of Waynesboro	0.47	13th St	US 250 Broad St	4500	G	99%	0%	1%	0%	0%	0%	F	0.1040	F	0.5071	4900	G	2008
+679330	 136	05105	     	136-5105	Florence Ave	136	City of Waynesboro	136	City of Waynesboro	0.83	Ohio St	Bridge Ave	1600	G	99%	0%	1%	0%	0%	0%	F	0.0958	F	0.6178	1700	G	2008
+781820	 136	05106	     	136-5106	New Hope Rd	136	City of Waynesboro	136	City of Waynesboro	0.59	Dead End	Dead End	570	G	99%	0%	1%	0%	0%	0%	F	0.1278	F	0.5309	620	G	2008
+679359	 136	05106	     	136-5106	Whitebridge Rd	136	City of Waynesboro	136	City of Waynesboro	0.98	Guilford Lane	NCL Waynesboro	920	G	99%	0%	1%	0%	0%	0%	C	0.1103	F	0.5268	1000	G	2008
+679308	 136	05107	     	136-5107	King Ave	136	City of Waynesboro	136	City of Waynesboro	0.62	Ivy St	Bridge St	3400	G	98%	0%	1%	0%	0%	0%	F	0.0972	F	0.5888	3700	G	2008
+679306	 136	05107	     	136-5107	King Ave	136	City of Waynesboro	136	City of Waynesboro	0.57	Bridge St	Hopeman Pkwy	3200	G	98%	0%	1%	0%	0%	0%	C	0.1147	F	0.5079	3400	G	2008
+679315	 136	05108	     	136-5108	Poplar Ave	136	City of Waynesboro	136	City of Waynesboro	0.29	13th St	Main St	2500	G	98%	0%	1%	0%	0%	0%	F	0.1224	F	0.5429	2700	G	2008
+679321	 136	05109	     	136-5109	Windsor Rd	136	City of Waynesboro	136	City of Waynesboro	0.43	Delphine Ave	Lyndhurst Rd	3600	G	99%	0%	1%	0%	0%	0%	C	0.1069	F	0.5824	3900	G	2008
+679337	 136	05110	     	136-5110	4th St	136	City of Waynesboro	136	City of Waynesboro	0.31	Charlotte Ave	Delphine Ave	430	G	99%	0%	1%	0%	0%	0%	F	0.1112	F	0.5347	470	G	2008
+679360	 136	05110	     	136-5110	4th St	136	City of Waynesboro	136	City of Waynesboro	0.46	Delphine Ave	Jackson Ave	2200	G	99%	0%	1%	0%	0%	0%	C	0.0897	F	0.5580	2400	G	2008
+679327	 136	05111	     	136-5111	Arch Ave	136	City of Waynesboro	136	City of Waynesboro	0.85	Wayne Ave	Broad St	3000	G	97%	1%	1%	1%	1%	0%	C	0.0888	F	0.5000	3200	G	2008
+679307	 136	05112	     	136-5112	Bridge Ave	136	City of Waynesboro	136	City of Waynesboro	1.02	Hopeman Pkwy	Bath St	1800	G	99%	0%	1%	0%	0%	0%	C	0.0982	F	0.5397	1900	G	2008
+679338	 136	05112	     	136-5112	Second St	136	City of Waynesboro	136	City of Waynesboro	0.24	Bath St	Delphine Ave	4600	G	99%	0%	1%	0%	0%	0%	F	0.0859	F	0.5909	5000	G	2008
+679336	 136	05113	     	136-5113	Charlotte Ave	136	City of Waynesboro	136	City of Waynesboro	0.72	Main St	3rd St	3300	G	96%	1%	1%	0%	2%	0%	C	0.0885	F	0.5629	3600	G	2008
+679852	 136	05113	     	136-5113	3rd St	136	City of Waynesboro	136	City of Waynesboro	0.18	Charlotte Ave	Bath Ave	1300	G	96%	1%	1%	0%	2%	0%	F	0.0894	F	0.6822	1400	G	2008
+679358	 136	05114	     	136-5114	Shenandoah Ave	136	City of Waynesboro	136	City of Waynesboro	0.58	Delphine Ave	Kirby Ave	830	G	97%	1%	1%	0%	0%	0%	C	0.1048	F	0.6374	900	G	2008
+679351	 136	05118	     	136-5118	Delphine Ave	136	City of Waynesboro	136	City of Waynesboro	1.22	SCL Waynesboro	I-64	4500	G	88%	1%	1%	1%	8%	0%	C	0.0963	F	0.5667	4900	G	2008
+679862	 136	05118	     	136-5118	Delphine Ave	136	City of Waynesboro	136	City of Waynesboro	2.25	I-64	Main St US 250	7800	G	92%	1%	2%	1%	5%	0%	C	0.0840	F	0.5108	8500	G	2008
+679350	 136	05119	     	136-5119	Oak Lane	136	City of Waynesboro	136	City of Waynesboro	1.39	Delphine Ave	Lyndhurst Ave	280	G	99%	1%	1%	0%	0%	0%	C	0.1361	F	0.6279	300	G	2008
+679344	 136	05120	     	136-5120	Sherwood Rd	136	City of Waynesboro	136	City of Waynesboro	0.18	Hopeman Pkwy	NCL Waynesboro	1100	G	98%	0%	0%	1%	0%	0%	C	0.1010	F	0.6032	1200	G	2008
+679850	 136	05121	     	136-5121	Guilford Lane	136	City of Waynesboro	136	City of Waynesboro	0.07	White Bridge Rd	Hampton Dr	1100	G	98%	0%	1%	0%	0%	0%	F	0.1005	F	0.5749	1200	G	2008
+679355	 136	05121	     	136-5121	Guilford Lane	136	City of Waynesboro	136	City of Waynesboro	0.08	Hampton Dr	Ivy St	1600	G	98%	0%	1%	0%	0%	0%	C	0.0959	F	0.5060	1700	G	2008
+679853	 136	05122	     	136-5122	Lew Dewitt Blvd	136	City of Waynesboro	136	City of Waynesboro	1.45	Rosser Ave	Main St	12000	G	98%	0%	1%	0%	1%	0%	C	0.0876	F	0.5077	13000	G	2008
+579002	 136	00000	     	136-0	Bath Ave	136	City of Waynesboro	136	City of Waynesboro	0.00	2nd St	3rd St	1400	G							X	0.0853	F	0.0000	1500	G	2008
+576006	 136	00000	     	136-0	Bath Avenue	136	City of Waynesboro	136	City of Waynesboro	0.00	3rd Street	4th Street	250	G							X	0.0938	F	0.6596	250	G	2008
+579004	 136	00000	     	136-0	Chatham Rd	136	City of Waynesboro	136	City of Waynesboro	0.00	Greenbrier Rd	Sunset Lane	190	G							X	0.1221	F	0.0000	210	G	2008
+579007	 136	00000	     	136-0	Cherry Ave	136	City of Waynesboro	136	City of Waynesboro	0.00	13th St	14th St	190	G							X	0.1009	F	0.0000	210	G	2008
+579006	 136	00000	     	136-0	Chestnut Ave	136	City of Waynesboro	136	City of Waynesboro	0.00	12th St	13th St	330	G							X	0.1444	F	0.0000	360	G	2008
+576000	 136	00000	     	136-0	Edward Avenue	136	City of Waynesboro	136	City of Waynesboro	0.00	SR 254	Hickory Street	300	G							X	0.1304	F	0.5823	300	G	2008
+579001	 136	00000	     	136-0	Florence Ave	136	City of Waynesboro	136	City of Waynesboro	0.00	Hemlock St	Bridge Ave	1400	G							X	0.0985	F	0.0000	1500	G	2008
+579005	 136	00000	     	136-0	Monticello St	136	City of Waynesboro	136	City of Waynesboro	0.00	Bader St	Dead End	90	G							X	0.2019	F	0.0000	100	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

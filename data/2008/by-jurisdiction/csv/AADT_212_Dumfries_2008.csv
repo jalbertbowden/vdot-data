@@ -1,0 +1,15 @@
+Virginia Department of Transportation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Traffic Engineering Division,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Annual Average Daily Traffic Volume Estimates By Section of Route,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Town of Dumfries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Parallel Facilities Combined,,,,,,,,,,,,,
+Link ID,Route Prefix,Route Number,Route Suffix,Route Label,Route Alias,Physical Jurisdiction,,Maintenance Jurisdiction,,Link Length,Start Label,End Label,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality,Data Date,Comment,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality
+624802,  US,00001,     ,US 1,Fraley Blvd,212,Town of Dumfries,076,Prince William County,1.35,SCL Dumfries,US 1 Par near Possum Point Rd,14000,G,96%,1%,1%,1%,1%,0%,F,0.0839,F,1.0000,15000,G,2008,,31000,G,96%,1%,1%,1%,1%,0%,F,,,,33000,G
+624801,  US,00001,     ,US 1,Jefferson Davis Hwy,212,Town of Dumfries,076,Prince William County,0.38,US 1 Par Near Possum Point Rd,NCL Dumfries,34000,G,96%,1%,1%,1%,1%,0%,C,0.0849,F,0.5905,37000,G,2008,,,,,,,,,,,,,,,
+624804, 2US,00001,P    ,US 1 Par,Main St,212,Town of Dumfries,076,Prince William County,1.45,SCL Dumfries,US 1 Fraley Blvd North Intersection,17000,G,97%,1%,1%,1%,1%,0%,C,0.0993,F,0.9402,18000,G,2008,,31000,G,96%,1%,1%,1%,1%,0%,F,,,,33000,G
+624803, 212,01083,     ,212-1083,Possum Point Rd,212,Town of Dumfries,212,Town of Dumfries,1.51,US 1,ECL Dumfries,800,G,86%,0%,1%,1%,11%,0%,F,0.0818,F,0.6369,860,G,2008,,,,,,,,,,,,,,,
+624805, 212,01085,     ,212-1085,Graham Park Rd,212,Town of Dumfries,212,Town of Dumfries,0.40,Curtis Dr,ECL Dumfries,7500,G,86%,0%,1%,1%,11%,0%,F,0.0812,F,0.6033,8100,G,2008,,,,,,,,,,,,,,,
+624806, 212,01086,     ,212-1086,Old Triangle Rd,212,Town of Dumfries,212,Town of Dumfries,0.29,RT 1107 Graham Park Rd,SCL Dumfries,4100,G,86%,0%,1%,1%,11%,0%,F,0.1206,F,0.5956,4400,G,2008,,,,,,,,,,,,,,,
+792253, 212,00000,     ,212-0,Leonard St,212,Town of Dumfries,212,Town of Dumfries,0.00,Possum Point Rd,Rose Hill Circle,50,G,,,,,,,X,0.1351,F,0.7333,50,G,2008,,,,,,,,,,,,,,,
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

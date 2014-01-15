@@ -1,0 +1,32 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Drakes Branch																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030102	  SR	00047	     	VA 47	 	209	Town of Drakes Branch	019	Charlotte County	2.09	SCL Drakes Branch	SR 59	1800	N	82%	1%	2%	1%	14%	0%	N	0.0881	N	0.5040	1800	N	2008
+030099	  SR	00047	     	VA 47	 	209	Town of Drakes Branch	019	Charlotte County	0.25	SR 59	NCL Drakes Branch	2400	G	82%	1%	2%	1%	14%	0%	F	0.0944	F	0.5996	2400	G	2008
+030104	  SR	00059	     	VA 59	 	209	Town of Drakes Branch	019	Charlotte County	0.55	SR 47 North of Drakes Branch	NCL Drakes Branch	1600	G	91%	1%	1%	1%	6%	0%	C	0.0930	F	0.5163	1600	G	2008
+402374	  19	00619	     	19-619	Proctor St	209	Town of Drakes Branch	019	Charlotte County	0.41	19-637 E, Saxkey Rd	19-1204 Isabella St	320	G	98%	1%	1%	0%	0%	0%	F	0.1231	F	0.5556	330	G	2008
+402375	  19	00619	     	19-619	Proctor St	209	Town of Drakes Branch	019	Charlotte County	0.56	19-1204 Isabella St	SR 47 Drakes Main St	290	G	98%	1%	1%	0%	0%	0%	C	0.1393	F	0.5897	300	G	2008
+402377	  19	00623	     	19-623	West Point Stevens Rd	209	Town of Drakes Branch	019	Charlotte County	1.07	SR 47 Drakes Main St	ECL Drakes Branch	520	G	96%	1%	1%	0%	2%	0%	C	0.1228	F	0.5286	530	G	2008
+403935	  19	00637	     	19-637	Saxkey Rd	209	Town of Drakes Branch	019	Charlotte County	0.13	WCL Drakes Branch	19-619 E, Proctor St	700	N	92%	1%	1%	4%	3%	0%	N	0.1278	N	0.6111	720	N	2008
+711077	  19	00637	     	19-637	Saxkey Rd	209	Town of Drakes Branch	019	Charlotte County	0.36	19-619 E, Proctor St	19-1207 Green St	820	R							X						06/09/2003
+711078	  19	00637	     	19-637	Saxkey Rd	209	Town of Drakes Branch	019	Charlotte County	0.38	19-1207 Green St	SR 47; SR 59	910	R							X						06/09/2003
+711362	  19	01201	     	19-1201	School St	209	Town of Drakes Branch	019	Charlotte County	0.12	Dead End	19-619 Proctor St	110	R							X						05/16/2006
+711363	  19	01202	     	19-1202	White St	209	Town of Drakes Branch	019	Charlotte County	0.20	SR 47	Dead End	160	R							X						05/16/2006
+711364	  19	01203	     	19-1203	Harold St	209	Town of Drakes Branch	019	Charlotte County	0.03	19-619 Proctor St	SR 47	450	R							X						05/16/2006
+711365	  19	01204	     	19-1204	Isabella St	209	Town of Drakes Branch	019	Charlotte County	0.24	19-619 Proctor St	SR 47	230	R							X						05/16/2006
+711366	  19	01205	     	19-1205	Marshall St	209	Town of Drakes Branch	019	Charlotte County	0.25	SR 47	0.25 ME SR 47	240	R							X						04/20/2006
+711367	  19	01205	     	19-1205	Marshall St	209	Town of Drakes Branch	019	Charlotte County	0.25	0.25 ME SR 47	Dead End	260	R							X						04/20/2006
+711368	  19	01206	     	19-1206	New York Ave	209	Town of Drakes Branch	019	Charlotte County	0.25	SR 47	Dead End	160	R							X						05/16/2006
+711369	  19	01207	     	19-1207	Green St	209	Town of Drakes Branch	019	Charlotte County	0.21	19-619 Proctor St	19-637 Saxkey Rd	130	R							X						05/16/2006
+711370	  19	01208	     	19-1208	Pine St	209	Town of Drakes Branch	019	Charlotte County	0.06	Dead End	19-619 Proctor St	20	R							X						05/16/2006
+711371	  19	01209	     	19-1209	Bedford St	209	Town of Drakes Branch	019	Charlotte County	0.16	Cul-de-Sac	19-623 West Point Stevens Rd	100	R							X						05/16/2006
+711372	  19	01210	     	19-1210	Dunlop St	209	Town of Drakes Branch	019	Charlotte County	0.15	Dead End	19-1212 Foster St	2	R							X						05/16/2006
+711373	  19	01210	     	19-1210	Dunlop St	209	Town of Drakes Branch	019	Charlotte County	0.01	19-1212 Foster St	SR 47	340	R							X						05/16/2006
+711374	  19	01211	     	19-1211	Fawthorp St	209	Town of Drakes Branch	019	Charlotte County	0.06	Dead End	19-623 West Point Stevens Rd	30	R							X						05/16/2006
+711375	  19	01212	     	19-1212	Foster St	209	Town of Drakes Branch	019	Charlotte County	0.12	19-1210 Dunlop St	Dead End	190	R							X						05/16/2006
+711376	  19	01213	     	19-1213	Payne St	209	Town of Drakes Branch	019	Charlotte County	0.06	Dead End	SR 47	130	R							X						05/16/2006
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,485 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Buckingham Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030129	  US	00015	     	US 15	 	014	Buckingham County	014	Buckingham County	9.30	Prince Edward County Line	14-600 Plank Rd	4200	G	91%	1%	1%	1%	6%	0%	C	0.0877	F	0.5858	4300	G	2008
+030306	  US	00015	     	US 15	James Madison Hwy	014	Buckingham County	014	Buckingham County	5.46	14-600 Plank Rd	US 60 Sprouses Corner	4100	G	91%	1%	1%	1%	6%	0%	F	0.0869	F	0.5727	4200	G	2008
+030236	  US	00015	     	US 15	James Madison Hwy	014	Buckingham County	014	Buckingham County	1.45	US 60 Sprouses Corner	SR 20; 14-1003 Main St	8500	G	88%	0%	1%	3%	8%	0%	F	0.0825	F	0.5356	8700	G	2008
+030305	  US	00015	     	US 15	James Madison Hwy	014	Buckingham County	014	Buckingham County	0.39	SR 20; 14-1003 Main St	WCL Dillwyn; 14-1010 Goldmine St	7600	G	88%	0%	1%	3%	8%	0%	F	0.0856	F	0.5103	7800	G	2008
+030317	  US	00015	     	US 15	Oak St	208	Town of Dillwyn	014	Buckingham County	0.58	WCL Dillwyn; 14-1010 Goldmine St	14-1003 E, Main St	7600	N	88%	0%	1%	3%	8%	0%	N	0.0856	N	0.5103	7800	N	2008
+030444	  US	00015	     	US 15	Main St	208	Town of Dillwyn	014	Buckingham County	0.52	14-1003 E, Main St	ECL Dillwyn; 14-650	7600	N	88%	0%	1%	3%	8%	0%	N	0.0856	N	0.5103	7800	N	2008
+030433	  US	00015	     	US 15	James Madison Hwy	014	Buckingham County	014	Buckingham County	6.39	ECL Dillwyn; 14-650 Bell Rd	14-622 Trents Mill Rd	4400	G	88%	0%	1%	3%	8%	0%	F	0.0849	F	0.5070	4500	G	2008
+030155	  US	00015	     	US 15	James Madison Hwy	014	Buckingham County	014	Buckingham County	5.44	14-622 Trents Mill Rd	14-715 Circle Drive Rd	3800	G	88%	0%	1%	3%	8%	0%	C	0.0916	F	0.5198	3900	G	2008
+030304	  US	00015	     	US 15	James Madison Hwy	014	Buckingham County	014	Buckingham County	3.03	14-715 Circle Drive Rd	Fluvanna County Line	4400	G	88%	0%	1%	3%	8%	0%	F	0.0835	F	0.5724	4500	G	2008
+030308	  SR	00020	     	VA 20	Constitution Route	014	Buckingham County	014	Buckingham County	2.56	US 15 James Madison Hwy	14-631 Buffalo Rd	3500	G	94%	0%	2%	1%	4%	0%	F	0.0860	F	0.5085	3500	G	2008
+030307	  SR	00020	     	VA 20	Constitution Route	014	Buckingham County	014	Buckingham County	7.99	14-631 Buffalo Rd	14-655 Glenmore Rd	2400	G	94%	0%	2%	1%	4%	0%	C	0.0953	F	0.5812	2500	G	2008
+030058	  SR	00020	     	VA 20	Constitution Route	014	Buckingham County	014	Buckingham County	8.50	14-655 Glenmore Rd	Albemarle County Line	3900	G	94%	0%	2%	1%	4%	0%	F	0.0932	F	0.7030	4000	G	2008
+030060	  SR	00024	     	VA 24	 	014	Buckingham County	014	Buckingham County	8.71	Appomattox County Line	US 60 Mt Rush	1400	G	90%	0%	1%	1%	8%	0%	F	0.0915	F	0.5757	1400	G	2008
+030309	  SR	00056	     	VA 56	James River Hwy	014	Buckingham County	014	Buckingham County	2.65	Nelson County Line	14-604 Meadow Creek Rd	270	G	94%	0%	2%	0%	4%	0%	C	0.1036	F	0.5172	280	G	2008
+030021	  SR	00056	     	VA 56	James River Hwy	014	Buckingham County	014	Buckingham County	7.82	14-604 Meadow Creek Rd	US 60 Dentons Corner	1500	G	94%	0%	2%	0%	4%	0%	F	0.0838	F	0.6000	1500	G	2008
+030064	  US	00060	     	US 60	James Anderson Hwy	014	Buckingham County	014	Buckingham County	9.37	Appomattox County Line	SR 24 Mount Rush	770	G	81%	1%	2%	4%	13%	0%	F	0.0974	F	0.5990	780	G	2008
+030311	  US	00060	     	US 60	James Anderson Hwy	014	Buckingham County	014	Buckingham County	2.02	SR 24 Mount Rush	SR 56 Dentons Corner	2500	G	81%	1%	2%	4%	13%	0%	C	0.0914	F	0.5238	2600	G	2008
+030310	  US	00060	     	US 60	James Anderson Hwy	014	Buckingham County	014	Buckingham County	1.75	SR 56 Dentons Corner	14-633 Buckingham CH	3500	G	81%	1%	2%	4%	13%	0%	F	0.0899	F	0.6194	3500	G	2008
+030238	  US	00060	     	US 60	James Anderson Hwy	014	Buckingham County	014	Buckingham County	4.03	14-633 Oak Hill Rd	US 15 Sprouses Corner	4300	G	81%	1%	2%	4%	13%	0%	F	0.0891	F	0.5413	4400	G	2008
+030062	  US	00060	     	US 60	James Anderson Hwy	014	Buckingham County	014	Buckingham County	8.38	US 15 Sprouses Corner	Cumberland County Line	2200	G	88%	1%	2%	1%	8%	0%	C	0.0945	F	0.5833	2200	G	2008
+780789	  FR	00859	     	FR 859	Sprouses Garage Rd	014	Buckingham County	014	Buckingham County	0.06	Dead End	US 15 James Madison Hwy	230	R							X						03/14/2006
+708349	  14	00600	     	14-600	Plank Rd	014	Buckingham County	014	Buckingham County	1.95	Cumberland County Line; 14-633	14-654 Back Mountain Rd	620	R							X						03/10/2003
+402226	  14	00600	     	14-600	Plank Rd	014	Buckingham County	014	Buckingham County	2.55	14-654 Back Mountain Rd	14-712 Ridgeway Rd	430	G	84%	1%	2%	8%	5%	0%	F	0.1033	F	0.5686	440	G	2008
+402227	  14	00600	     	14-600	Plank Rd	014	Buckingham County	014	Buckingham County	2.17	14-712 Ridgeway Rd	US 15 N, James Madison Hwy	400	G	84%	1%	2%	8%	5%	0%	C	0.0998	F	0.5854	410	G	2008
+708350	  14	00600	     	14-600	Loop Rd	014	Buckingham County	014	Buckingham County	0.50	US 15 N, James Madison Hwy	US 15 S, James Madison Hwy	40	R							X						03/25/2003
+402228	  14	00601	     	14-601	Pattie Rd	014	Buckingham County	014	Buckingham County	4.42	14-602 Howardsville Rd	14-655 Jerusalem Church Rd	210	G	84%	2%	3%	10%	1%	0%	F	0.1212	F	0.6154	210	G	2008
+402229	  14	00601	     	14-601	Manteo Rd	014	Buckingham County	014	Buckingham County	0.95	14-655 Jerusalem Church Rd	14-737 Warminister Church Rd	420	G	84%	2%	3%	10%	1%	0%	F	0.1034	F	0.7204	430	G	2008
+402230	  14	00601	     	14-601	Manteo Rd	014	Buckingham County	014	Buckingham County	2.15	14-737 Warminister Church Rd	2.15 MN 14-737	300	G	84%	2%	3%	10%	1%	0%	C	0.1007	F	0.7931	300	G	2008
+708351	  14	00601	     	14-601	Pattie Rd	014	Buckingham County	014	Buckingham County	1.29	2.15 MN 14-737	14-604 Woodland Church Rd	220	G	84%	2%	3%	10%	1%	0%	F				220	G	2008
+402231	  14	00602	     	14-602	Howardsville Tpke	014	Buckingham County	014	Buckingham County	2.77	SR 56 James River Hwy	14-601 Pattie Rd	690	G	95%	2%	1%	1%	2%	0%	C	0.1049	F	0.5493	700	G	2008
+402232	  14	00602	     	14-602	Howardsville Tpke	014	Buckingham County	014	Buckingham County	5.62	14-601 Pattie Rd	14-655 Glenmore Rd	500	G	95%	2%	1%	1%	2%	0%	F	0.1064	F	0.6604	510	G	2008
+402233	  14	00602	     	14-602	Howardsville Tpke	014	Buckingham County	014	Buckingham County	2.35	14-655 Glenmore Rd	14-627 Axtell Rd	420	G	95%	2%	1%	1%	2%	0%	F	0.1079	F	0.5604	430	G	2008
+708352	  14	00602	     	14-602	Howardsville Tpke	014	Buckingham County	014	Buckingham County	3.87	14-627 Axtell Rd	Nelson County Line	320	R							X						04/01/2003
+708353	  14	00603	     	14-603	Crag Rd	014	Buckingham County	014	Buckingham County	0.65	Dead End	14-636 Francisco Rd	8	R							X						03/07/2006
+708354	  14	00604	     	14-604	Meadow Creek Rd	014	Buckingham County	014	Buckingham County	3.55	US 60 James Anderson Hwy	14-606 Spears Mountain Rd	400	R							X						04/01/2003
+402234	  14	00604	     	14-604	Meadow Creek Rd	014	Buckingham County	014	Buckingham County	2.51	14-606 Spears Mountain Rd	SR 56 S, James River Hwy	290	G	81%	2%	3%	3%	11%	0%	C	0.1414	F	0.5122	300	G	2008
+708355	  14	00604	     	14-604	Woodland Church Rd	014	Buckingham County	014	Buckingham County	4.77	SR 56 N, James River Hwy	14-601 Pattie Rd	200	R							X						04/01/2003
+708356	  14	00604	     	14-604	Woodland Church Rd	014	Buckingham County	014	Buckingham County	0.74	14-601 Pattie Rd	14-693 Wyland Rd	150	R							X						04/01/2003
+708357	  14	00605	     	14-605	Cuningham Rd	014	Buckingham County	014	Buckingham County	6.35	Appomattox County Line	14-606 Park Rd; Spears Mtn Rd	140	R							X						03/07/2006
+708358	  14	00605	     	14-605	Cunningham Rd	014	Buckingham County	014	Buckingham County	2.10	14-606 Park Rd; Spears Mtn Rd	Dead End	30	R							X						03/07/2006
+708359	  14	00606	     	14-606	Spears Mtn Rd	014	Buckingham County	014	Buckingham County	6.60	14-604 Meadow Creek Rd	14-605 Cunningham Rd	70	R							X						03/07/2006
+708360	  14	00606	     	14-606	Park Rd	014	Buckingham County	014	Buckingham County	1.60	14-605 Cunningham Rd	Dead End	110	R							X						03/07/2006
+708361	  14	00607	     	14-607	Old Thirteen Rd	014	Buckingham County	014	Buckingham County	3.90	US 60 W, James Anderson Hwy	14-604 Meadow Creek Rd	50	R							X						03/07/2006
+708362	  14	00607	     	14-607	Greenway Rd	014	Buckingham County	014	Buckingham County	2.70	14-604 Meadow Creek Rd	14-662 Midland Rd	120	R							X						03/07/2006
+708363	  14	00607	     	14-607	Greenway Rd	014	Buckingham County	014	Buckingham County	2.65	14-662 Midland Rd	US 60 E, James Anderson Hwy	220	R							X						03/07/2006
+708364	  14	00608	     	14-608	Paradise Rd	014	Buckingham County	014	Buckingham County	4.18	Prince Edward County Line	14-636 W, Francisco Rd	180	R							X						03/07/2006
+708365	  14	00608	     	14-608	Elcan Rd	014	Buckingham County	014	Buckingham County	1.77	14-636 E, Francisco Rd	14-635 Buckingham Springs Rd	40	R							X						03/07/2006
+708366	  14	00609	     	14-609	Crumptown Rd	014	Buckingham County	014	Buckingham County	0.70	Prince Edward County Line	14-725 Paradise Rd	140	R							X						03/05/2003
+708367	  14	00609	     	14-609	Crumptown Rd	014	Buckingham County	014	Buckingham County	3.80	14-725 Paradise Rd	14-636 W, Francisco Rd	150	R							X						03/05/2003
+708368	  14	00609	     	14-609	New Stone Rd	014	Buckingham County	014	Buckingham County	6.72	14-636 E, Francisco Rd	US 15 James Madison Hwy	210	R							X						03/25/2003
+708369	  14	00610	     	14-610	Slate Hill Rd	014	Buckingham County	014	Buckingham County	1.30	14-729 Sunnyside Rd	14-676 Ridge Rd	70	R							X						04/15/2003
+708370	  14	00610	     	14-610	Slate Hill Rd	014	Buckingham County	014	Buckingham County	2.09	14-676 Ridge Rd	US 15 James Madison Hwy	310	R							X						04/15/2003
+402235	  14	00610	     	14-610	Gold Hill Rd	014	Buckingham County	014	Buckingham County	3.70	US 15 James Madison Hwy	14-718 Chapel Rd	550	G	96%	0%	1%	0%	3%	0%	C	0.0980	F	0.5690	560	G	2008
+402236	  14	00610	     	14-610	Cartersville Rd	014	Buckingham County	014	Buckingham County	2.65	14-718 Chapel Rd	14-670 CG Woodson Rd	520	G	96%	0%	1%	0%	3%	0%	F	0.0934	F	0.5398	530	G	2008
+402237	  14	00610	     	14-610	Cartersville Rd	014	Buckingham County	014	Buckingham County	2.60	14-670 CG Woodson Rd	Cumberland County Line; 24-609	580	G	96%	0%	1%	0%	3%	0%	F	0.0919	F	0.5299	590	G	2008
+708371	  14	00611	     	14-611	Diana Mill Rd	014	Buckingham County	014	Buckingham County	3.45	14-671 Penlan Rd; Spreading Oak Rd	14-652 Bridgeport Rd	150	R							X						04/15/2003
+708372	  14	00612	     	14-612	Chestnut Grove Rd	014	Buckingham County	014	Buckingham County	2.39	Appomattox County Line	14-636 W, Francisco Rd	180	R							X						03/07/2006
+708373	  14	00612	     	14-612	Gilliam Mill Rd	014	Buckingham County	014	Buckingham County	2.40	14-636 E, Francisco Rd	14-640 Andersonville Rd	40	R							X						03/07/2006
+708374	  14	00613	     	14-613	Petersville Church Rd	014	Buckingham County	014	Buckingham County	1.90	14-622 Trents Mill Rd	14-696 Tatum Rd	110	R							X						04/04/2006
+708375	  14	00613	     	14-613	Petersville Church Rd	014	Buckingham County	014	Buckingham County	1.20	14-696 Tatum Rd	14-717 Randolph Creek Rd	100	R							X						04/04/2006
+708376	  14	00613	     	14-613	Petersville Church Rd	014	Buckingham County	014	Buckingham County	0.30	14-717 Randolph Creek Rd	14-694 Henderson Rd	110	R							X						04/04/2006
+708377	  14	00613	     	14-613	Petersville Church Rd	014	Buckingham County	014	Buckingham County	1.90	14-694 Henderson Rd	Cumberland County Line	100	R							X						04/04/2006
+708378	  14	00614	     	14-614	Forbes Rd	014	Buckingham County	014	Buckingham County	1.60	Appomattox County Line	14-636 Francisco Rd	40	R							X						03/07/2006
+708379	  14	00615	     	14-615	Hawksview Rd	014	Buckingham County	014	Buckingham County	0.94	Appomattox County Line	0.94 ME of CL	130	R							X						03/30/2006
+708380	  14	00615	     	14-615	Hawksview Rd	014	Buckingham County	014	Buckingham County	2.06	0.94 ME of CL	US 60 James Anderson Hwy	50	R							X						03/30/2006
+708381	  14	00616	     	14-616	Roberts Rd	014	Buckingham County	014	Buckingham County	0.50	Dead End	14-659 Ranson Rd	20	R							X						04/11/2006
+708382	  14	00617	     	14-617	Banton Shop Rd	014	Buckingham County	014	Buckingham County	3.20	14-649 Slate River Mill Rd	SR 20 Constitution Route	30	R							X						04/11/2006
+708383	  14	00617	     	14-617	Copper Mine Rd	014	Buckingham County	014	Buckingham County	0.85	SR 20 Constitution Route	0.85 ME SR 20	200	R							X						04/23/2003
+708384	  14	00617	     	14-617	Copper Mine Rd	014	Buckingham County	014	Buckingham County	0.72	0.85 ME SR 20	14-682 Hollibrock Rd	220	R							X						04/18/2006
+708385	  14	00617	     	14-617	Copper Mine Rd	014	Buckingham County	014	Buckingham County	2.54	14-682 Hollibrock Rd	2.54 ME 14-682	120	R							X						04/18/2006
+708386	  14	00617	     	14-617	Copper Mine Rd	014	Buckingham County	014	Buckingham County	0.06	2.54 ME 14-682	14-676 Ridge Rd	200	R							X						04/18/2006
+708387	  14	00617	     	14-617	Staunton Town Rd	014	Buckingham County	014	Buckingham County	2.00	14-676 Ridge Rd	US 15 S, James Madison Hwy	310	R							X						04/11/2006
+708388	  14	00617	     	14-617	Gravel Hill Rd	014	Buckingham County	014	Buckingham County	1.90	US 15 N, James Madison Hwy	14-668 Old Tower Hill	390	R							X						03/28/2006
+708389	  14	00617	     	14-617	Gravel Hill Rd	014	Buckingham County	014	Buckingham County	2.05	14-668 Old Tower Hill	14-666 Physic Spring Rd	240	R							X						03/28/2006
+708390	  14	00617	     	14-617	Gravel Hill Rd	014	Buckingham County	014	Buckingham County	2.40	14-666 Physic Spring Rd	Cumberland County Line	330	R							X						04/04/2006
+708391	  14	00618	     	14-618	Williams Rd	014	Buckingham County	014	Buckingham County	0.60	14-602 Howardsville Rd	Dead End	30	R							X						03/15/2006
+708392	  14	00619	     	14-619	Apple Blossom Rd	014	Buckingham County	014	Buckingham County	1.30	Dead End	14-636 Francisco Rd	70	R							X						03/07/2006
+708393	  14	00620	     	14-620	Mill Rd	014	Buckingham County	014	Buckingham County	0.99	Dead End	US 15	60	R							X						03/14/2006
+708394	  14	00621	     	14-621	Evans Mill Rd	014	Buckingham County	014	Buckingham County	2.02	US 15; 14-775 Allen Rosen Rd	2.02 ME US 15	400	R							X						03/14/2006
+708395	  14	00621	     	14-621	Evans Mill Rd	014	Buckingham County	014	Buckingham County	1.01	2.02 ME US 15	14-600 Plank Rd	300	R							X						03/14/2006
+708396	  14	00622	     	14-622	Trents Mill Rd	014	Buckingham County	014	Buckingham County	2.32	Cumberland County Line	14-613 Petersville Church Rd	340	R							X						03/04/2006
+402238	  14	00622	     	14-622	Trents Mill Rd	014	Buckingham County	014	Buckingham County	3.90	14-613 Petersville Church Rd	US 15 N, James Madison Hwy	590	G	93%	0%	2%	1%	4%	0%	C	0.0909	F	0.6111	600	G	2008
+402239	  14	00622	     	14-622	Johnson Station Rd	014	Buckingham County	014	Buckingham County	1.81	US 15 S, James Madison Hwy	14-676 N, Ridge Rd	290	G	93%	0%	2%	1%	4%	0%	F	0.1199	F	0.5750	300	G	2008
+708397	  14	00622	     	14-622	Melita Rd	014	Buckingham County	014	Buckingham County	1.35	14-676 S, Ridge Rd	14-729 Sunnyside Rd	80	R							X						04/18/2006
+708398	  14	00622	     	14-622	Melita Rd	014	Buckingham County	014	Buckingham County	4.13	14-729 Sunnyside Rd	14-651 Muddy Creek Rd	100	R							X						04/17/2006
+708399	  14	00622	     	14-622	Sharon Chuch Rd	014	Buckingham County	014	Buckingham County	0.50	14-651 Muddy Creek Rd	14-671 Spreading Oak Rd	130	R							X						04/17/2006
+708400	  14	00622	     	14-622	Sharon Church Rd	014	Buckingham County	014	Buckingham County	2.10	14-671 Spreading Oak Rd	SR 20 Constitution Route	380	R							X						04/17/2006
+708401	  14	00623	     	14-623	Chellowe Rd	014	Buckingham County	014	Buckingham County	1.15	14-600 Plank Rd	14-792 Bailey Rd	260	R							X						03/10/2003
+708402	  14	00623	     	14-623	Chellowe Rd	014	Buckingham County	014	Buckingham County	1.60	14-792 Bailey Rd	1.60 MN 14-792	420	R							X						03/10/2003
+402240	  14	00623	     	14-623	Indian Gap Rd	014	Buckingham County	014	Buckingham County	0.60	1.60 MN 14-792	14-632 Ira Rd	430	G	97%	1%	0%	1%	2%	0%	C	0.1079	F	0.6122	440	G	2008
+708403	  14	00624	     	14-624	Cata Rd	014	Buckingham County	014	Buckingham County	0.70	14-626 Clay Bank Rd	Dead End	80	R							X						03/28/2006
+708404	  14	00625	     	14-625	Hatton Ferry Rd	014	Buckingham County	014	Buckingham County	0.70	14-695 White Rock Rd	Albemarle County Line, James River, Hatton Ferry	20	R							X						04/04/2006
+708405	  14	00626	     	14-626	Locust Grove Rd	014	Buckingham County	014	Buckingham County	0.40	Dead End	US 60 James Madison Hwy	20	R							X						03/28/2006
+708406	  14	00626	     	14-626	Clay Bank Rd	014	Buckingham County	014	Buckingham County	0.57	US 60 James Madison Hwy	14-624 Cata Rd	220	R							X						03/28/2006
+708407	  14	00626	     	14-626	Clay Bank Rd	014	Buckingham County	014	Buckingham County	1.00	14-624 Cata Rd	1.00 MN 14-624	150	R							X						03/28/2006
+708408	  14	00626	     	14-626	Clay Bank Rd	014	Buckingham County	014	Buckingham County	1.70	1.00 MN 14-624	14-650 Belle Rd	110	R							X						03/28/2006
+708409	  14	00627	     	14-627	Axtell Rd	014	Buckingham County	014	Buckingham County	4.10	14-602 Howardsville Rd	14-678 Rock Island Rd	250	R							X						04/04/2006
+708410	  14	00627	     	14-627	Warren Ferry Rd	014	Buckingham County	014	Buckingham County	0.10	14-678 Rock Island Rd	0.10 MN 14-678	70	R							X						04/04/2006
+708411	  14	00627	     	14-627	Warren Ferry Rd	014	Buckingham County	014	Buckingham County	1.30	0.10 MN 14-678	Albemarle County Line	30	R							X						04/04/2006
+708412	  14	00628	     	14-628	Payne Creek Rd	014	Buckingham County	014	Buckingham County	1.60	14-632 Ca Ira Rd	US 60 James Madison Hwy	170	R							X						03/28/2006
+708413	  14	00628	     	14-628	High Rock Rd	014	Buckingham County	014	Buckingham County	3.91	US 60 James Madison Hwy	14-650 Belle Rd	260	R							X						03/28/2006
+402241	  14	00629	     	14-629	Rosney Rd	014	Buckingham County	014	Buckingham County	3.26	US 60 James Madison Hwy	SCL Dillwyn	350	G	97%	1%	1%	0%	0%	0%	F	0.1170	F	0.5730	360	G	2008
+402242	  14	00629	     	14-629	Rosney Rd	208	Town of Dillwyn	014	Buckingham County	0.41	SCL Dillwyn	US 15 Main St	400	G	97%	1%	1%	0%	0%	0%	C	0.1108	F	0.5435	410	G	2008
+708414	  14	00630	     	14-630	Red Rd	014	Buckingham County	014	Buckingham County	2.20	US 15 James Madison Hwy	US 60 James Madison Hwy	40	R							X						03/14/2006
+708415	  14	00631	     	14-631	Buffalo Rd	014	Buckingham County	014	Buckingham County	6.09	US 15 James Madison Hwy	SR 20 Constitution Route	380	R							X						04/29/2003
+708416	  14	00631	     	14-631	Troublesome Creek Rd	014	Buckingham County	014	Buckingham County	1.18	SR 20 Constitution Route	14-665 Fanny White Rd	780	R							X						03/04/2003
+708417	  14	00631	     	14-631	Troublesome Creek Rd	014	Buckingham County	014	Buckingham County	2.85	14-665 Fanny White Rd	US 60 James Anderson Hwy	340	G	97%	1%	1%	1%	0%	0%	C				340	G	2008
+708418	  14	00631	     	14-631	Mohawk Rd	014	Buckingham County	014	Buckingham County	0.80	US 60 James Anderson Hwy	14-633 Oak Hill Rd	140	R							X						03/04/2003
+708419	  14	00632	     	14-632	Ca Ira Rd	014	Buckingham County	014	Buckingham County	0.75	Cumberland County Line	14-654 Back Mountain Rd	160	R							X						03/10/2003
+708420	  14	00632	     	14-632	Ca Ira Rd	014	Buckingham County	014	Buckingham County	2.75	14-654 Back Mountain Rd	14-623 Indian Gap Rd	490	R							X						03/10/2003
+402243	  14	00632	     	14-632	Ca Ira Rd	014	Buckingham County	014	Buckingham County	0.10	14-623 Indian Gap Rd	US 60 James Anderson Hwy	820	G	95%	1%	1%	1%	3%	0%	C	0.1006	F	0.6279	840	G	2008
+708421	  14	00632	     	14-632	Scotts Bottom Rd	014	Buckingham County	014	Buckingham County	3.10	US 60 James Madison Hwy	14-650 Belle Rd	1000	R							X						03/10/2003
+708422	  14	00633	     	14-633	School Rd	014	Buckingham County	014	Buckingham County	3.85	Cumberland County Line; 14-600	14-635 Buckingham Springs Rd	240	R							X						03/14/2006
+708423	  14	00633	     	14-633	Bishop Creek Rd	014	Buckingham County	014	Buckingham County	2.65	14-635 Buckingham Springs Rd	14-609 New Stone Rd	120	R							X						03/14/2006
+708424	  14	00633	     	14-633	Rock Mill Rd	014	Buckingham County	014	Buckingham County	1.39	14-609 New Stone Rd	1.39 MW 14-609	180	R							X						03/14/2006
+708425	  14	00633	     	14-633	Rock Mill Rd	014	Buckingham County	014	Buckingham County	0.61	1.39 MW 14-609	14-707 Arcanum Rd	180	R							X						03/14/2006
+708426	  14	00633	     	14-633	Rock Mill Rd	014	Buckingham County	014	Buckingham County	1.05	14-707 Arcanum Rd	14-774 Broken Bridge Rd	210	R							X						03/30/2006
+708427	  14	00633	     	14-633	Rock Mill Rd	014	Buckingham County	014	Buckingham County	1.60	14-774 Broken Bridge Rd	14-640 S, Andersonville Rd	210	R							X						03/30/2006
+708428	  14	00633	     	14-633	Oak Hill Rd	014	Buckingham County	014	Buckingham County	0.03	14-640 N, Andersonville Rd	14-639 Jerico Rd	250	R							X						03/14/2006
+708429	  14	00633	     	14-633	Oak Hill Rd	014	Buckingham County	014	Buckingham County	1.50	14-639 Jerico Rd	1.50 MN 14-639	60	R							X						03/14/2006
+708430	  14	00633	     	14-633	Oak Hill Rd	014	Buckingham County	014	Buckingham County	0.80	1.50 MN 14-639	14-665 Fanny White Rd	230	R							X						03/30/2006
+708431	  14	00633	     	14-633	Oak Hill Rd	014	Buckingham County	014	Buckingham County	2.20	14-665 Fanny White Rd	US 60 E, James Anderson Hwy	340	R							X						03/30/2006
+708432	  14	00633	     	14-633	Courthouse Rd	014	Buckingham County	014	Buckingham County	0.10	US 60 MID	US 60 W, James Anderson Hwy	180	R							X						03/30/2006
+708433	  14	00634	     	14-634	Salem Rd	014	Buckingham County	014	Buckingham County	0.62	Cumberland County Line	14-654 Back Mountain Rd	400	R							X						03/28/2006
+708434	  14	00635	     	14-635	Buckingham Springs Rd	014	Buckingham County	014	Buckingham County	1.15	14-609 New Stone Rd	14-730 Oak Grove Rd	30	R							X						03/07/2006
+708435	  14	00635	     	14-635	Buckingham Springs Rd	014	Buckingham County	014	Buckingham County	1.25	14-730 Oak Grove Rd	14-608 Elcan Rd	40	R							X						03/07/2006
+708436	  14	00635	     	14-635	Buckingham Springs Rd	014	Buckingham County	014	Buckingham County	1.90	14-608 Elcan Rd	14-633 Bishop Creek Rd; School Rd	150	R							X						03/14/2006
+708437	  14	00636	     	14-636	Tower Hill Rd	014	Buckingham County	014	Buckingham County	4.10	US 60 James Anderson Hwy	14-697 Austins Rd	60	R							X						03/14/2006
+708438	  14	00636	     	14-636	Tower Hill Rd	014	Buckingham County	014	Buckingham County	2.80	14-697 Austins Rd	SR 24 WEST	40	R							X						03/14/2006
+402244	  14	00636	     	14-636	Francisco Rd	014	Buckingham County	014	Buckingham County	3.40	SR 24 East	14-640 E, Andersonville Rd	220	G	97%	0%	1%	0%	2%	0%	F	0.1063	F	0.5306	220	G	2008
+402245	  14	00636	     	14-636	Francisco Rd	014	Buckingham County	014	Buckingham County	2.00	14-640 E, Andersonville Rd	14-612 W, Chestnut Grove Rd	210	G	97%	0%	1%	0%	2%	0%	F	0.1309	F	0.6226	210	G	2008
+402246	  14	00636	     	14-636	Francisco Rd	014	Buckingham County	014	Buckingham County	2.55	14-612 W, Chestnut Grove Rd	14-638 E, Sanders Creek Rd	260	G	97%	0%	1%	0%	2%	0%	F	0.1178	F	0.6780	270	G	2008
+402247	  14	00636	     	14-636	Francisco Rd	014	Buckingham County	014	Buckingham County	1.00	14-638 E, Sanders Creek Rd	14-609 W, Crumptown Rd	520	G	97%	0%	1%	0%	2%	0%	F	0.1119	F	0.5789	540	G	2008
+402248	  14	00636	     	14-636	Francisco Rd	014	Buckingham County	014	Buckingham County	2.20	14-609 W, Crumptown Rd	14-619 Apple Blossom Rd	670	G	97%	0%	1%	0%	2%	0%	F	0.1089	F	0.5556	680	G	2008
+402249	  14	00636	     	14-636	Francisco Rd	014	Buckingham County	014	Buckingham County	2.60	14-619 Apple Blossom Rd	US 15 James Madison Hwy	1000	G	97%	0%	1%	0%	2%	0%	C	0.0940	F	0.8111	1000	G	2008
+708439	  14	00636	     	14-636	Stage Coach Rd	014	Buckingham County	014	Buckingham County	3.10	US 15 James Madison Hwy	Cumberland County Line	270	R							X						03/05/2003
+708440	  14	00637	     	14-637	Maple Bridge Rd	014	Buckingham County	014	Buckingham County	3.70	14-638 Sanders Creek Rd	14-609 New Stone Rd	60	R							X						03/07/2006
+708441	  14	00637	     	14-637	Fair Oaks Rd	014	Buckingham County	014	Buckingham County	0.20	14-609 New Stone Rd	Dead End	9	R							X						03/07/2006
+708442	  14	00638	     	14-638	Planterstown Rd	014	Buckingham County	014	Buckingham County	1.50	Dead End	14-636 W, Francisco Rd	40	R							X						03/07/2006
+708443	  14	00638	     	14-638	Sanders Creek Rd	014	Buckingham County	014	Buckingham County	4.20	14-636 E, Francisco Rd	14-640 S, Andersonville Rd	290	R							X						03/07/2006
+708444	  14	00638	     	14-638	Dixie Hill Rd	014	Buckingham County	014	Buckingham County	3.80	14-640 N, Andersonville Rd	14-644 Bridge Rd	180	R							X						03/14/2006
+402250	  14	00638	     	14-638	Dixie Hill Rd	014	Buckingham County	014	Buckingham County	1.30	14-644 Bridge Rd	14-790 Plantation Rd	330	G	96%	2%	0%	1%	1%	0%	F	0.1213	F	0.6522	330	G	2008
+402251	  14	00638	     	14-638	Dixie Hill Rd	014	Buckingham County	014	Buckingham County	1.46	14-790 Plantation Rd	US 60 James Anderson Hwy	410	G	96%	2%	0%	1%	1%	0%	C	0.0935	F	0.5128	420	G	2008
+708445	  14	00639	     	14-639	Jerico Rd	014	Buckingham County	014	Buckingham County	1.04	14-633 S, Oak Hill Rd	1.04 MN 14-633	60	R							X						03/14/2006
+708446	  14	00639	     	14-639	Jerico Rd	014	Buckingham County	014	Buckingham County	1.96	1.04 MN 14-633	14-633 N, Oak Hill Rd	20	R							X						03/14/2006
+708447	  14	00640	     	14-640	Wool Ridge Rd	014	Buckingham County	014	Buckingham County	0.95	Appomattox County Line	14-636 W, Francisco Rd	60	R							X						03/07/2006
+402252	  14	00640	     	14-640	Andersonville Rd	014	Buckingham County	014	Buckingham County	4.33	14-636 E, Francisco Rd	14-642 Perkins Mill Rd	140	G	95%	1%	2%	1%	1%	0%	F	0.1056	F	0.5333	150	G	2008
+402253	  14	00640	     	14-640	Andersonville Rd	014	Buckingham County	014	Buckingham County	1.05	14-642 Perkins Mill Rd	14-638 N, Dixie Hill Rd	560	G	95%	1%	2%	1%	1%	0%	F	0.1112	F	0.5040	570	G	2008
+402254	  14	00640	     	14-640	Andersonville Rd	014	Buckingham County	014	Buckingham County	3.20	14-638 N, Dixie Hill Rd	14-633 S, Rock Mill Rd	640	G	95%	1%	2%	1%	1%	0%	F	0.1090	F	0.7391	660	G	2008
+402255	  14	00640	     	14-640	Andersonville Rd	014	Buckingham County	014	Buckingham County	0.10	14-633 S, Rock Mill Rd	14-633 N, Oak Hill Rd	910	G	95%	1%	2%	1%	1%	0%	F	0.1102	F	0.7833	930	G	2008
+402256	  14	00640	     	14-640	Andersonville Rd	014	Buckingham County	014	Buckingham County	2.30	14-633 N, Oak Hill Rd	US 15 James Madison Hwy	830	G	95%	1%	2%	1%	1%	0%	C	0.1004	F	0.6000	850	G	2008
+708448	  14	00641	     	14-641	Garret Mill Rd	014	Buckingham County	014	Buckingham County	1.40	14-642 Perkins Mill Rd	14-638 Dixie Hill Rd	20	R							X						03/14/2006
+708449	  14	00642	     	14-642	Perkins Mill Rd	014	Buckingham County	014	Buckingham County	2.50	14-640 Andersonville Rd	14-641 Garret Mill Rd	170	R							X						03/14/2006
+708450	  14	00642	     	14-642	Perkins Mill Rd	014	Buckingham County	014	Buckingham County	1.47	14-641 Garret Mill Rd	SR 24	100	R							X						03/14/2006
+708451	  14	00643	     	14-643	Glover Rd	014	Buckingham County	014	Buckingham County	0.50	Dead End	14-640 Andersonville Rd	40	R							X						03/07/2006
+708452	  14	00644	     	14-644	Bridge Rd	014	Buckingham County	014	Buckingham County	3.00	SR 24	14-638 Dixie Hill Rd	40	R							X						03/30/2006
+708453	  14	00645	     	14-645	Foxfire Rd	014	Buckingham County	014	Buckingham County	0.45	Dead End	14-698 Mt View Rd	30	R							X						03/15/2006
+708454	  14	00646	     	14-646	Union Church Rd	014	Buckingham County	014	Buckingham County	2.52	SR 24	14-691 Miller Camp Rd	170	R							X						03/03/2003
+708455	  14	00646	     	14-646	Union Church Rd	014	Buckingham County	014	Buckingham County	1.59	14-691 Miller Camp Rd	US 60 James Anderson Hwy	250	R							X						03/03/2003
+708456	  14	00646	     	14-646	Bear Hook Rd	014	Buckingham County	014	Buckingham County	0.80	US 60 James Anderson Hwy	14-607 Greenway Rd	90	R							X						03/03/2003
+708457	  14	00647	     	14-647	Willow Lake Rd	014	Buckingham County	014	Buckingham County	0.65	Dead End	SR 56 James River Hwy	80	R							X						03/15/2006
+708458	  14	00648	     	14-648	Katrine Rd	014	Buckingham County	014	Buckingham County	2.65	US 60 James Anderson Hwy	14-649 Slate River Mill Rd	150	R							X						03/04/2003
+708459	  14	00649	     	14-649	Mulberry Grove Rd	014	Buckingham County	014	Buckingham County	0.80	SR 56 James River Hwy	0.80 ME SR 56	30	R							X						03/07/2006
+708460	  14	00649	     	14-649	Mulberry Grove Rd	014	Buckingham County	014	Buckingham County	1.15	0.80 ME SR 56	14-757 Ripley Creek Rd	70	R							X						03/07/2006
+708461	  14	00649	     	14-649	Mulberry Grove Rd	014	Buckingham County	014	Buckingham County	0.35	14-757 Ripley Creek Rd	14-602 N, Howardsville Rd	100	R							X						04/11/2006
+708462	  14	00649	     	14-649	Slate River Mill Rd	014	Buckingham County	014	Buckingham County	1.50	14-602 S, Howardsville Rd	14-648 Katrine Rd	140	R							X						04/11/2006
+708463	  14	00649	     	14-649	Slate River Mill Rd	014	Buckingham County	014	Buckingham County	1.80	14-648 Katrine Rd	14-658 Saint Andrews Rd	190	R							X						04/11/2006
+402257	  14	00649	     	14-649	Slate River Mill Rd	014	Buckingham County	014	Buckingham County	1.52	14-658 Saint Andrews Rd	14-795 Old Mill Rd	480	G	97%	1%	1%	1%	1%	0%	F	0.1073	F	0.6381	490	G	2008
+402258	  14	00649	     	14-649	Slate River Mill Rd	014	Buckingham County	014	Buckingham County	0.80	14-795 Old Mill Rd	14-617 Banton Shop Rd	520	G	97%	1%	1%	1%	1%	0%	F	0.1080	F	0.7739	530	G	2008
+402259	  14	00649	     	14-649	Slate River Mill Rd	014	Buckingham County	014	Buckingham County	0.60	14-617 Banton Shop Rd	SR 20 Constitution Route	600	G	97%	1%	1%	1%	1%	0%	C	0.1016	F	0.5484	610	G	2008
+402260	  14	00650	     	14-650	Belle Rd	014	Buckingham County	014	Buckingham County	1.90	US 15 James Madison Hwy	14-632 Scotts Bottom Rd	2000	G	94%	1%	2%	1%	2%	0%	C	0.0980	F	0.5821	2000	G	2008
+402261	  14	00650	     	14-650	Belle Rd	014	Buckingham County	014	Buckingham County	1.51	14-632 Scotts Bottom Rd	14-668 Old Tower Hill; Hunting Shack Rd	860	G	96%	1%	1%	0%	1%	0%	C	0.1045	F	0.5222	880	G	2008
+402262	  14	00650	     	14-650	Belle Rd	014	Buckingham County	014	Buckingham County	1.16	14-668 Old Tower Hill; Hunting Shack R	14-628 High Rock Rd	550	G	96%	1%	1%	0%	1%	0%	F	0.0964	F	0.6500	560	G	2008
+402263	  14	00650	     	14-650	Belle Rd	014	Buckingham County	014	Buckingham County	2.53	14-628 High Rock Rd	14-626 Clay Bank Rd	300	G	96%	1%	1%	0%	1%	0%	F	0.1053	F	0.6389	310	G	2008
+402264	  14	00650	     	14-650	Belle Rd	014	Buckingham County	014	Buckingham County	1.10	14-626 Clay Bank Rd	Cumberland County Line	260	G	96%	1%	1%	0%	1%	0%	F	0.0963	F	0.5667	270	G	2008
+708464	  14	00651	     	14-651	Muddy Creek Rd	014	Buckingham County	014	Buckingham County	1.44	SR 20 Constitution Route	14-763 River Ridge Rd	140	R							X						04/17/2006
+708465	  14	00651	     	14-651	Muddy Creek Rd	014	Buckingham County	014	Buckingham County	0.75	14-763 River Ridge Rd	14-701 Betties Branch Rd	100	R							X						04/17/2006
+708466	  14	00651	     	14-651	Muddy Creek Rd	014	Buckingham County	014	Buckingham County	0.80	14-701 Betties Branch Rd	14-622 Sharon Chuch Rd; Melita Rd	90	R							X						04/17/2006
+402265	  14	00652	     	14-652	Bridgeport Rd	014	Buckingham County	014	Buckingham County	4.20	US 15 James Madison Hwy	14-676 Ridge Rd	540	G	92%	1%	1%	1%	4%	0%	C	0.1245	F	0.6087	550	G	2008
+402266	  14	00652	     	14-652	Bridgeport Rd	014	Buckingham County	014	Buckingham County	2.30	14-676 Ridge Rd	14-684 Cobbs Rd	560	G	92%	1%	1%	1%	4%	0%	F	0.1077	F	0.5530	570	G	2008
+402267	  14	00652	     	14-652	Bridgeport Rd	014	Buckingham County	014	Buckingham County	1.00	14-684 Cobbs Rd	14-611 Diana Mill Rd	540	G	92%	1%	1%	1%	4%	0%	F	0.1040	F	0.5285	550	G	2008
+402268	  14	00652	     	14-652	Bridgeport Rd	014	Buckingham County	014	Buckingham County	4.80	14-611 Diana Mill Rd	SR 20 Constitution Route	600	G	92%	1%	1%	1%	4%	0%	F	0.1102	F	0.6309	620	G	2008
+708467	  14	00653	     	14-653	Logan Rd	014	Buckingham County	014	Buckingham County	0.05	14-602 Howardsville Rd	0.05 ME 14-602	50	R							X						04/01/2003
+708468	  14	00653	     	14-653	Logan Rd	014	Buckingham County	014	Buckingham County	2.05	0.05 ME 14-602	14-698 Mt View Rd	20	R							X						04/01/2003
+708469	  14	00653	     	14-653	Logan Rd	014	Buckingham County	014	Buckingham County	0.94	14-698 Mt View Rd	0.94 ME 14-698	110	R							X						03/15/2006
+708470	  14	00653	     	14-653	Logan Rd	014	Buckingham County	014	Buckingham County	0.06	0.94 ME 14-698	14-627 Axtell Rd	120	R							X						04/04/2006
+708471	  14	00654	     	14-654	Back Mountain Rd	014	Buckingham County	014	Buckingham County	2.40	14-600 Plank Rd	14-634 Salem Rd	350	R							X						03/10/2003
+708472	  14	00654	     	14-654	Back Mountain Rd	014	Buckingham County	014	Buckingham County	0.34	14-634 Salem Rd	14-632 Ca Ira Rd	680	R							X						03/10/2003
+402269	  14	00655	     	14-655	Jerusalem Church Rd	014	Buckingham County	014	Buckingham County	3.10	14-601 Pattie Rd	14-602 Howardsville Rd	440	G	95%	0%	2%	1%	2%	0%	F	0.1076	F	0.6842	450	G	2008
+402270	  14	00655	     	14-655	Glenmore Rd	014	Buckingham County	014	Buckingham County	3.50	14-602 Howardsville Rd	14-656 Well Water Rd	1200	G	95%	0%	2%	1%	2%	0%	F	0.1017	F	0.7222	1200	G	2008
+402271	  14	00655	     	14-655	Glenmore Rd	014	Buckingham County	014	Buckingham County	1.40	14-656 Well Water Rd	SR 20 Constitution Route	1200	G	95%	0%	2%	1%	2%	0%	C	0.1071	F	0.7422	1300	G	2008
+708473	  14	00656	     	14-656	Well Water Rd	014	Buckingham County	014	Buckingham County	2.80	SR 20 Constitution Route	14-655 Glenmore Rd	250	R							X						04/15/2003
+708474	  14	00657	     	14-657	Spencer Rd	014	Buckingham County	014	Buckingham County	0.07	14-658 Saint Andrews Rd	0.07 MN 14-658	120	R							X						04/11/2006
+708475	  14	00657	     	14-657	Spencer Rd	014	Buckingham County	014	Buckingham County	2.82	0.07 MN 14-658	14-659 Ranson Rd	70	R							X						04/15/2003
+708476	  14	00658	     	14-658	Saint Andrews Rd	014	Buckingham County	014	Buckingham County	3.21	14-649 Slate River Mill Rd	14-659 N, Ranson Rd	300	R							X						04/11/2006
+708477	  14	00658	     	14-658	Saint Andrews Rd	014	Buckingham County	014	Buckingham County	1.70	14-659 N, Ranson Rd	14-602 S, Howardsville Rd	190	R							X						04/11/2006
+708478	  14	00658	     	14-658	Pattetson Rd	014	Buckingham County	014	Buckingham County	1.30	14-602 N, Howardsville Rd	14-655 Jerusalem Church Rd	60	R							X						04/04/2006
+708479	  14	00659	     	14-659	Watoga Rd	014	Buckingham County	014	Buckingham County	0.50	14-602 Howardsville Rd	0.50 ME 14-602	90	R							X						04/11/2006
+708480	  14	00659	     	14-659	Watoga Rd	014	Buckingham County	014	Buckingham County	0.70	0.50 ME 14-602	1.20 ME 14-602	70	R							X						04/11/2006
+708481	  14	00659	     	14-659	Watoga Rd	014	Buckingham County	014	Buckingham County	0.76	1.20 ME 14-602	14-658 S, Saint Andrews Rd	100	R							X						04/11/2006
+708482	  14	00659	     	14-659	Ranson Rd	014	Buckingham County	014	Buckingham County	1.11	14-658 N, Saint Andrews Rd	14-616 Roberts Rd	100	R							X						04/11/2006
+708483	  14	00659	     	14-659	Ranson Rd	014	Buckingham County	014	Buckingham County	0.30	14-616 Roberts Rd	0.30 ME 14-616	100	R							X						04/11/2006
+708484	  14	00659	     	14-659	Ranson Rd	014	Buckingham County	014	Buckingham County	0.36	0.30 ME 14-616	14-735 Rosser Rd	110	R							X						04/11/2006
+708485	  14	00659	     	14-659	Ranson Rd	014	Buckingham County	014	Buckingham County	0.60	14-735 Rosser Rd	14-657 Spencer Rd	130	R							X						04/11/2006
+708486	  14	00659	     	14-659	Ranson Rd	014	Buckingham County	014	Buckingham County	2.00	14-657 Spencer Rd	SR 20 Constitution Route	330	R							X						04/11/2006
+708487	  14	00660	     	14-660	Shelton Store Rd	014	Buckingham County	014	Buckingham County	3.98	SR 56 James River Hwy	14-601 Pattie Rd	200	R							X						04/01/2003
+708488	  14	00661	     	14-661	Forest Clay Rd	014	Buckingham County	014	Buckingham County	1.54	14-607 Greenway Rd	1.54 MN 14-607	46	R							X						03/07/2006
+708489	  14	00661	     	14-661	Woods Rd	014	Buckingham County	014	Buckingham County	0.36	1.54 MN 14-607	14-663 Woods Rd	48	R							X						03/07/2006
+708490	  14	00661	     	14-661	Texas School Rd	014	Buckingham County	014	Buckingham County	2.30	14-663 Woods Rd	14-662 Midland Rd	70	R							X						03/07/2006
+708491	  14	00662	     	14-662	Midland Rd	014	Buckingham County	014	Buckingham County	0.81	14-607 Greenway Rd	0.81 MN 14-607	90	R							X						03/07/2006
+708492	  14	00662	     	14-662	Midland Rd	014	Buckingham County	014	Buckingham County	3.40	0.81 MN 14-607	14-661 Texas School Rd	50	R							X						03/07/2006
+708493	  14	00662	     	14-662	Midland Rd	014	Buckingham County	014	Buckingham County	0.60	14-661 Texas School Rd	SR 56 James River Hwy	130	R							X						03/07/2006
+708494	  14	00663	     	14-663	Woods Rd	014	Buckingham County	014	Buckingham County	1.30	14-661 Texas School Rd; Forest Clay Rd	SR 56 James River Hwy	80	R							X						03/07/2006
+708495	  14	00663	     	14-663	Union Hill Rd	014	Buckingham County	014	Buckingham County	1.54	SR 56 James River Hwy	1.54 MN SR 56	90	R							X						03/07/2006
+708496	  14	00663	     	14-663	Union Hill Rd	014	Buckingham County	014	Buckingham County	0.91	1.54 MN SR 56	14-660 Shelton Store Rd	80	R							X						03/07/2006
+708497	  14	00664	     	14-664	Sycamore Creek Rd	014	Buckingham County	014	Buckingham County	2.90	14-660 Shelton Store Rd	14-737 Warminister Church Rd	6	R							X						03/15/2006
+708498	  14	00664	     	14-664	Sycamore Creek Rd	014	Buckingham County	014	Buckingham County	1.30	14-737 Warminister Church Rd	14-604 Woodland Church Rd	49	R							X						03/15/2006
+708499	  14	00665	     	14-665	Twin Creek Rd	014	Buckingham County	014	Buckingham County	1.38	14-633 Oak Hill Rd	US 60 James Anderson Hwy	350	R							X						03/04/2003
+782108	  14	00665	     	14-665	Fanny White Rd	014	Buckingham County	014	Buckingham County	0.12	US 60 James Anderson Hwy	14-690 High School Rd	870	R							X						04/04/2006
+782109	  14	00665	     	14-665	Fanny White Rd	014	Buckingham County	014	Buckingham County	0.20	14-690 High School Rd	14-799 One Horse Rd	500	R							X						03/04/2003
+708500	  14	00665	     	14-665	Fanny White Rd	014	Buckingham County	014	Buckingham County	0.25	14-799 One Horse Rd	0.25 MN 14-799	450	R							X						03/30/2006
+708501	  14	00665	     	14-665	Fanny White Rd	014	Buckingham County	014	Buckingham County	1.90	0.25 MN 14-799	14-631 Troublesome Creek Rd	410	R							X						03/30/2006
+708502	  14	00666	     	14-666	Physic Spring Rd	014	Buckingham County	014	Buckingham County	0.05	14-617 Gravel Hill Rd	14-755 Childress Rd	210	R							X						04/04/2006
+708503	  14	00666	     	14-666	Physic Spring Rd	014	Buckingham County	014	Buckingham County	1.65	14-755 Childress Rd	14-622 Trents Mill Rd	80	R							X						04/04/2006
+708504	  14	00667	     	14-667	Belle Branch Rd	014	Buckingham County	014	Buckingham County	3.48	14-650 Belle Rd	14-617 Gravel Hill Rd	160	R							X						03/10/2003
+708505	  14	00668	     	14-668	Hunting Shack Rd	014	Buckingham County	014	Buckingham County	0.60	Dead End	14-650 Belle Rd	50	R							X						03/28/2006
+708506	  14	00668	     	14-668	Old Tower Hill	014	Buckingham County	014	Buckingham County	3.51	14-650 Belle Rd	14-617 Gravel Hill Rd	140	R							X						03/28/2006
+708507	  14	00669	     	14-669	Rocky Mountain Rd	014	Buckingham County	014	Buckingham County	0.60	Dead End	US 15 James Madison Hwy	60	R							X						04/04/2006
+708508	  14	00669	     	14-669	Thomas Rd	014	Buckingham County	014	Buckingham County	1.00	US 15 James Madison Hwy	14-732 Allens Lake Rd	150	R							X						03/28/2006
+708509	  14	00669	     	14-669	Thomas Rd	014	Buckingham County	014	Buckingham County	0.12	14-732 Allens Lake Rd	0.12 ME 14-732	90	R							X						03/28/2006
+708510	  14	00669	     	14-669	Thomas Rd	014	Buckingham County	014	Buckingham County	1.08	0.12 ME 14-732	14-668 Old Tower Hill	90	R							X						03/28/2006
+402272	  14	00670	     	14-670	CG Woodson Rd	014	Buckingham County	014	Buckingham County	4.68	14-610 Cartersville Rd	US 15 James Madison Hwy	630	G	97%	0%	1%	1%	1%	0%	C	0.1020	F	0.5758	640	G	2008
+708511	  14	00671	     	14-671	Spreading Oak Rd	014	Buckingham County	014	Buckingham County	1.10	14-622 Sharon Church Rd	14-721 Sharps Creek Rd	180	R							X						04/17/2006
+708512	  14	00671	     	14-671	Spreading Oak Rd	014	Buckingham County	014	Buckingham County	2.05	14-721 Sharps Creek Rd	14-611 Diana Mill Rd	170	R							X						04/17/2006
+708513	  14	00671	     	14-671	Penlan Rd	014	Buckingham County	014	Buckingham County	1.67	14-611 Diana Mill Rd	14-677 Bransford Rd; Brooks Hall Rd	300	R							X						04/18/2006
+708514	  14	00671	     	14-671	Penlan Rd	014	Buckingham County	014	Buckingham County	3.35	14-677 Bransford Rd; Brooks Hall Rd	US 15 James Madison Hwy	500	R							X						04/18/2006
+708515	  14	00672	     	14-672	Morgans Hill Rd	014	Buckingham County	014	Buckingham County	2.06	14-670 CG Woodson Rd	US 15 James Madison Hwy	900	R							X						03/04/2003
+708516	  14	00672	     	14-672	Oliver Shop Rd	014	Buckingham County	014	Buckingham County	0.04	US 15 James Madison Hwy	14-796 N, Old Fifteen Rd	350	R							X						03/04/2003
+708517	  14	00672	     	14-672	Oliver Shop Rd	014	Buckingham County	014	Buckingham County	1.40	14-796 S, Old Fifteen Rd	14-675 Arvon Rd	90	R							X						03/04/2003
+708518	  14	00673	     	14-673	Virginia Mill Rd	014	Buckingham County	014	Buckingham County	0.30	Dead End	14-676 Ridge Rd	120	R							X						04/11/2006
+708519	  14	00673	     	14-673	Virginia Mill Rd	014	Buckingham County	014	Buckingham County	0.30	14-676 Ridge Rd	14-685 Rock Culvert Rd	310	R							X						04/11/2006
+708520	  14	00673	     	14-673	Virginia Mill Rd	014	Buckingham County	014	Buckingham County	0.40	14-685 Rock Culvert Rd	14-675 Arvon Rd	60	R							X						04/11/2006
+708521	  14	00673	     	14-673	Virginia Mill Rd	014	Buckingham County	014	Buckingham County	0.20	14-675 Arvon Rd	Dead End	30	R							X						04/11/2006
+708522	  14	00674	     	14-674	Whitaker Farm Rd	014	Buckingham County	014	Buckingham County	0.37	14-683 Mohele Rd	Dead End	3	R							X						03/07/2006
+402273	  14	00675	     	14-675	Arvon Rd	014	Buckingham County	014	Buckingham County	0.45	14-715 Circle Drive Rd	14-672 Oliver Shop Rd	830	G	94%	1%	1%	3%	1%	0%	C	0.1054	F	0.6304	850	G	2008
+402274	  14	00675	     	14-675	Arvon Rd	014	Buckingham County	014	Buckingham County	0.70	14-672 Oliver Shop Rd	14-685 Rock Culvert Rd	550	G	94%	1%	1%	3%	1%	0%	F	0.1203	F	0.6181	560	G	2008
+708523	  14	00675	     	14-675	Arvon Rd	014	Buckingham County	014	Buckingham County	0.47	14-685 Rock Culvert Rd	0.47 MN 14-685	90	R							X						04/15/2003
+708524	  14	00675	     	14-675	Arvon Rd	014	Buckingham County	014	Buckingham County	0.51	0.47 MN 14-685	14-673 Virginia Mill Rd	50	R							X						04/15/2003
+708525	  14	00676	     	14-676	Ridge Rd	014	Buckingham County	014	Buckingham County	2.00	14-617 Staunton Town Rd; Copper Mine Rd	14-622 S, Melita Rd	60	R							X						04/18/2006
+708526	  14	00676	     	14-676	Ridge Rd	014	Buckingham County	014	Buckingham County	1.20	14-622 S, Melita Rd	14-610 Slate Hill Rd	160	R							X						04/18/2006
+708527	  14	00676	     	14-676	Ridge Rd	014	Buckingham County	014	Buckingham County	0.70	14-610 Slate Hill Rd	14-726 Dogwood Rd	80	R							X						04/18/2006
+708529	  14	00676	     	14-676	Ridge Rd	014	Buckingham County	014	Buckingham County	1.80	14-726 Dogwood Rd	14-671 Penlan Rd	100	R							X						04/18/2006
+708530	  14	00676	     	14-676	Ridge Rd	014	Buckingham County	014	Buckingham County	1.20	14-671 Penlan Rd	14-733 Redwoods Rd	170	R							X						04/18/2006
+708531	  14	00676	     	14-676	Ridge Rd	014	Buckingham County	014	Buckingham County	1.00	14-733 Redwoods Rd	14-673 Virginia Mill Rd	170	R							X						04/18/2006
+708532	  14	00676	     	14-676	Ridge Rd	014	Buckingham County	014	Buckingham County	2.30	14-673 Virginia Mill Rd	14-652 Bridgeport Rd	150	R							X						04/18/2006
+708533	  14	00677	     	14-677	Brooks Hall Rd	014	Buckingham County	014	Buckingham County	1.80	14-676 Ridge Rd	14-671 Penlan Rd	130	R							X						04/18/2006
+708534	  14	00677	     	14-677	Bransford Rd	014	Buckingham County	014	Buckingham County	1.35	14-671 Penlan Rd	Dead End	60	R							X						04/18/2006
+402275	  14	00678	     	14-678	Rock Island Rd	014	Buckingham County	014	Buckingham County	1.35	SR 20 Constitution Route	14-695 White Rock Rd	480	G	96%	1%	1%	1%	0%	0%	C	0.1244	F	0.6852	490	G	2008
+708535	  14	00678	     	14-678	Rock Island Rd	014	Buckingham County	014	Buckingham County	2.49	14-695 White Rock Rd	14-723 Hundley Branch Rd	480	R							X						04/01/2003
+708536	  14	00678	     	14-678	Rock Island Rd	014	Buckingham County	014	Buckingham County	0.30	14-723 Hundley Branch Rd	14-627 Warren Ferry Rd; Axtell Rd	290	R							X						04/01/2003
+708537	  14	00679	     	14-679	Paynes Pond Rd	014	Buckingham County	014	Buckingham County	1.10	14-652 Bridgeport Rd	14-784 Paynes Rd	100	R							X						04/17/2006
+708538	  14	00679	     	14-679	Paynes Pond Rd	014	Buckingham County	014	Buckingham County	2.84	14-784 Paynes Rd	2.84 MN 14-784	100	R							X						04/17/2006
+708539	  14	00679	     	14-679	Paynes Pond Rd	014	Buckingham County	014	Buckingham County	0.16	2.84 MN 14-784	SR 20 Constitution Route	140	R							X						04/17/2006
+708540	  14	00680	     	14-680	Pitts Mountain Rd	014	Buckingham County	014	Buckingham County	0.30	US 15 James Madison Hwy	Dead End	170	R							X						03/25/2003
+708541	  14	00681	     	14-681	Concord Mountain Rd	014	Buckingham County	014	Buckingham County	0.50	14-636 Francisco Rd	Dead End	30	R							X						03/07/2006
+708542	  14	00682	     	14-682	Hollibrock Rd	014	Buckingham County	014	Buckingham County	0.65	14-631 Buffalo Rd	14-764 Lee Town Rd	210	R							X						04/18/2006
+708543	  14	00682	     	14-682	Hollibrock Rd	014	Buckingham County	014	Buckingham County	0.45	14-764 Lee Town Rd	14-617 Copper Mine Rd	190	R							X						04/18/2006
+708544	  14	00683	     	14-683	Saw Mill Rd	014	Buckingham County	014	Buckingham County	2.40	14-608 Paradise Rd	US 15 NORTH	270	R							X						03/07/2006
+708545	  14	00683	     	14-683	Mohele Rd	014	Buckingham County	014	Buckingham County	1.50	US 15 SOUTH	14-674 Whitaker Farm Rd	110	R							X						03/07/2006
+708546	  14	00683	     	14-683	Mohele Rd	014	Buckingham County	014	Buckingham County	1.10	14-674 Whitaker Farm Rd	Dead End	4	R							X						03/07/2006
+708547	  14	00684	     	14-684	Cobbs Rd	014	Buckingham County	014	Buckingham County	1.00	Dead End	14-652 Bridgeport Rd	60	R							X						04/17/2006
+402276	  14	00685	     	14-685	Rock Culvert Rd	014	Buckingham County	014	Buckingham County	0.65	14-675 Arvon Rd	14-673 Virginia Mill Rd	350	G	96%	1%	0%	2%	1%	0%	C	0.1182	F	0.5610	350	G	2008
+708548	  14	00686	     	14-686	Glenn Rd	014	Buckingham County	014	Buckingham County	1.00	Dead End	US 15 James Madison Hwy	60	R							X						03/14/2006
+708549	  14	00687	     	14-687	Boat Landing Rd	014	Buckingham County	014	Buckingham County	0.30	14-670 CG Woodson Rd	Dead End	90	R							X						03/04/2003
+402277	  14	00688	     	14-688	New Canton Rd	014	Buckingham County	014	Buckingham County	0.10	US 15 James Madison Hwy	14-670 CG Woodson Rd	370	G	97%	0%	1%	0%	1%	0%	C	0.0976	F	0.6667	380	G	2008
+708550	  14	00689	     	14-689	Crescent Rd	014	Buckingham County	014	Buckingham County	0.45	US 15 SOUTH	US 15 NORTH	50	R							X						03/07/2006
+708551	  14	00689	     	14-689	Shepards Rd	014	Buckingham County	014	Buckingham County	0.60	US 15 NORTH	Dead End	170	R							X						03/07/2006
+708552	  14	00690	     	14-690	Lee Wayside Rd	014	Buckingham County	014	Buckingham County	0.47	US 60 W, James Anderson Hwy	US 60 MID	40	R							X						03/04/2003
+708553	  14	00690	     	14-690	High School Rd	014	Buckingham County	014	Buckingham County	0.40	US 60 MID	14-665 Fanny White Rd	460	R							X						03/04/2003
+708554	  14	00690	     	14-690	High School Rd	014	Buckingham County	014	Buckingham County	1.05	14-665 Fanny White Rd	US 60 E, James Anderson Hwy	980	R							X						03/04/2003
+708555	  14	00691	     	14-691	Miller Camp Rd	014	Buckingham County	014	Buckingham County	0.55	14-646 Union Church Rd	14-753 Goodlow HC Rd	140	R							X						03/03/2003
+708556	  14	00691	     	14-691	Miller Camp Rd	014	Buckingham County	014	Buckingham County	1.75	14-753 Goodlow HC Rd	SR 24	160	R							X						03/03/2003
+708557	  14	00692	     	14-692	Baptist Union Rd	014	Buckingham County	014	Buckingham County	0.05	US 15 James Madison Hwy	0.05 MN US 15	90	R							X						04/29/2003
+708558	  14	00692	     	14-692	Baptist Union Rd	014	Buckingham County	014	Buckingham County	0.20	0.05 MN US 15	Dead End	60	R							X						04/11/2006
+708559	  14	00693	     	14-693	Wyland Rd	014	Buckingham County	014	Buckingham County	0.80	Dead End	14-604 Woodland Church Rd	70	R							X						03/15/2006
+708560	  14	00694	     	14-694	Henderson Rd	014	Buckingham County	014	Buckingham County	0.90	Cumberland County Line	14-613 Petersville Church Rd	60	R							X						04/04/2006
+708561	  14	00695	     	14-695	White Rock Rd	014	Buckingham County	014	Buckingham County	3.52	14-678 Rock Island Rd	SR 20 Constitution Route	580	R							X						04/04/2006
+708562	  14	00695	     	14-695	B-A-H Rd	014	Buckingham County	014	Buckingham County	0.45	SR 20 Constitution Route	Dead End	90	R							X						04/04/2006
+708563	  14	00696	     	14-696	Tatum Rd	014	Buckingham County	014	Buckingham County	1.63	14-613 Petersville Church Rd	Cumberland County Line	40	R							X						04/04/2006
+708564	  14	00697	     	14-697	Austins Rd	014	Buckingham County	014	Buckingham County	1.80	14-636 Tower Hill Rd	14-815 Community Rd	10	R							X						03/14/2006
+708565	  14	00697	     	14-697	Austins Rd	014	Buckingham County	014	Buckingham County	1.20	14-815 Community Rd	14-646 Union Church Rd	100	R							X						03/14/2006
+708566	  14	00698	     	14-698	Mt View Rd	014	Buckingham County	014	Buckingham County	0.05	14-627 Axtell Rd	0.05 MN 14-627	30	R							X						03/15/2006
+708567	  14	00698	     	14-698	Mt View Rd	014	Buckingham County	014	Buckingham County	1.45	0.05 MN 14-627	14-777 Fallsburg Rd	20	R							X						04/04/2006
+708568	  14	00698	     	14-698	Mt View Rd	014	Buckingham County	014	Buckingham County	0.85	14-777 Fallsburg Rd	14-645 Foxfire Rd	80	R							X						03/15/2006
+708569	  14	00698	     	14-698	Mt View Rd	014	Buckingham County	014	Buckingham County	0.80	14-645 Foxfire Rd	14-653 Logan Rd	100	R							X						03/15/2006
+708570	  14	00699	     	14-699	Darbytown Rd	014	Buckingham County	014	Buckingham County	0.65	SR 20 S, Constitution Route	SR 20 N, Constitution Route	110	R							X						04/18/2006
+708571	  14	00699	     	14-699	Winfrey Inez Rd	014	Buckingham County	014	Buckingham County	0.49	SR 20 N, Constitution Route	14-631 Troublesome Creek Rd	46	R							X						04/18/2006
+708572	  14	00700	     	14-700	Wood Yard Rd	014	Buckingham County	014	Buckingham County	0.45	SR 20 Constitution Route	14-631 Buffalo Rd	100	R							X						04/18/2006
+708573	  14	00701	     	14-701	Betties Branch Rd	014	Buckingham County	014	Buckingham County	2.30	14-651 Muddy Creek Rd	14-622 Sharon Church Rd	60	R							X						04/18/2006
+708574	  14	00702	     	14-702	Ivy Rd	014	Buckingham County	014	Buckingham County	2.00	Dead End	14-655 Glenmore Rd	90	R							X						04/11/2006
+402278	  14	00703	     	14-703	Jones Town Rd	014	Buckingham County	014	Buckingham County	0.75	14-796 Old Fifteen Rd	Dead End	140	G	91%	7%	1%	1%	0%	0%	C	0.1242	F	0.6000	150	G	2008
+708575	  14	00704	     	14-704	Gough Town Rd	014	Buckingham County	014	Buckingham County	0.20	14-655 Glenmore Rd	0.20 MN 14-655	710	R							X						04/29/2003
+708576	  14	00704	     	14-704	Gough Town Rd	014	Buckingham County	014	Buckingham County	1.20	0.20 MN 14-655	SR 20 Constitution Route	870	R							X						04/04/2006
+708577	  14	00705	     	14-705	The Barn Rd	014	Buckingham County	014	Buckingham County	0.50	14-659 Ranson Rd	SR 20 Constitution Route	290	R							X						04/11/2006
+708578	  14	00705	     	14-705	Maxeys Rd	014	Buckingham County	014	Buckingham County	0.65	SR 20 Constitution Route	Dead End	60	R							X						04/17/2006
+708579	  14	00706	     	14-706	Gold Hill Rd	014	Buckingham County	014	Buckingham County	0.30	US 15 James Madison Hwy	14-610 Cartersville Rd	410	R							X						03/11/2003
+708580	  14	00707	     	14-707	Arcanum Rd	014	Buckingham County	014	Buckingham County	0.50	Dead End	14-633 Rock Mill Rd	10	R							X						03/30/2006
+708581	  14	00708	     	14-708	Fitzpatrick Rd	014	Buckingham County	014	Buckingham County	0.28	14-602 Howardsville Rd	Dead End	40	R							X						04/04/2006
+708582	  14	00709	     	14-709	Holland Rd	014	Buckingham County	014	Buckingham County	0.45	US 15	14-758 Fork Rd	170	R							X						03/07/2006
+708583	  14	00709	     	14-709	Holland Rd	014	Buckingham County	014	Buckingham County	0.98	14-758 Fork Rd	Dead End	50	R							X						03/07/2006
+708584	  14	00710	     	14-710	Boxwood Dr	014	Buckingham County	014	Buckingham County	0.25	Dead End	14-675 Arvon Rd	70	R							X						03/25/2003
+708585	  14	00711	     	14-711	Seven-Eleven Rd	014	Buckingham County	014	Buckingham County	2.21	14-632 Scotts Bottom Rd	14-628 High Rock Rd	440	R							X						03/10/2003
+708586	  14	00712	     	14-712	Ridgeway Rd	014	Buckingham County	014	Buckingham County	0.55	14-600 Plank Rd	14-792 Bailey Rd	240	R							X						03/10/2003
+708587	  14	00713	     	14-713	Happy Hollow Rd	014	Buckingham County	014	Buckingham County	0.05	14-695 White Rock Rd	0.05 MN 14-695	70	R							X						04/04/2006
+708588	  14	00713	     	14-713	Happy Hollow Rd	014	Buckingham County	014	Buckingham County	1.37	0.05 MN 14-695	Dead End	40	R							X						04/01/2003
+708589	  14	00714	     	14-714	Pembleton Rd	014	Buckingham County	014	Buckingham County	0.60	Dead End	US 15 James Madison Hwy	110	R							X						03/14/2006
+402279	  14	00715	     	14-715	Circle Drive Rd	014	Buckingham County	014	Buckingham County	0.68	US 15; 14-727 Sleepy Hollow Rd	US 15 N, James Madison Hwy	770	G	96%	0%	1%	2%	1%	0%	C	0.1212	F	0.6739	790	G	2008
+708590	  14	00716	     	14-716	Wootton Rd	014	Buckingham County	014	Buckingham County	0.40	Dead End	14-660 Shelton Store Rd	610	R							X						03/07/2006
+708591	  14	00717	     	14-717	Randolph Creek Rd	014	Buckingham County	014	Buckingham County	1.50	14-613 Petersville Church Rd	1.50 MN 14-613	100	R							X						04/04/2006
+708592	  14	00717	     	14-717	Randolph Creek Rd	014	Buckingham County	014	Buckingham County	1.10	1.50 MN 14-613	14-610 S, Cartersville Rd	230	R							X						04/04/2006
+708593	  14	00717	     	14-717	Shade Tree Rd	014	Buckingham County	014	Buckingham County	1.00	14-610 N, Cartersville Rd	Dead End	50	R							X						04/04/2006
+402280	  14	00718	     	14-718	Chapel Rd	014	Buckingham County	014	Buckingham County	3.20	14-610 Cartersville Rd	US 15 James Madison Hwy	300	G	96%	0%	1%	0%	2%	0%	C	0.1361	F	0.6250	300	G	2008
+708594	  14	00719	     	14-719	Hardware Rd	014	Buckingham County	014	Buckingham County	0.60	14-652 Bridgeport Rd	Dead End	80	R							X						04/17/2006
+708595	  14	00720	     	14-720	Georgia Creek Rd	014	Buckingham County	014	Buckingham County	1.00	Dead End	1.00 MN Dead End	100	R							X						04/04/2006
+708596	  14	00720	     	14-720	Georgia Creek Rd	014	Buckingham County	014	Buckingham County	0.10	1.00 MN Dead End	SR 20 Constitution Route	140	R							X						04/04/2006
+708597	  14	00721	     	14-721	Sharps Creek Rd	014	Buckingham County	014	Buckingham County	3.10	14-671 Spreading Oak Rd	14-652 Bridgeport Rd	20	R							X						04/17/2006
+708598	  14	00722	     	14-722	Self Rd	014	Buckingham County	014	Buckingham County	0.05	SR 20 Constitution Route	0.05 MN SR 20	60	R							X						04/17/2006
+708599	  14	00722	     	14-722	Self Rd	014	Buckingham County	014	Buckingham County	1.65	0.05 MN SR 20	14-622 Sharon Church Rd	60	R							X						04/17/2006
+708600	  14	00723	     	14-723	Hundley Branch Rd	014	Buckingham County	014	Buckingham County	4.90	14-655 Glenmore Rd	14-678 Rock Island Rd	150	R							X						04/29/2003
+708601	  14	00725	     	14-725	Paradise Rd	014	Buckingham County	014	Buckingham County	1.58	14-609 Crumptown Rd	1.58 ME 14-609	130	R							X						03/07/2006
+708602	  14	00725	     	14-725	Paradise Rd	014	Buckingham County	014	Buckingham County	0.60	1.58 ME 14-609	14-608 N, Paradise Rd	180	R							X						03/07/2006
+708603	  14	00725	     	14-725	Morrow School Rd	014	Buckingham County	014	Buckingham County	0.40	14-608 S, Paradise Rd	Dead End	20	R							X						03/07/2006
+708604	  14	00726	     	14-726	Dogwood Rd	014	Buckingham County	014	Buckingham County	0.70	14-676 Ridge Rd	Dead End	20	R							X						04/18/2006
+708605	  14	00727	     	14-727	Sleepy Hollow Rd	014	Buckingham County	014	Buckingham County	1.00	US 15; 14-715	Dead End	400	R							X						03/25/2003
+708606	  14	00728	     	14-728	Nubbin Hill Rd	014	Buckingham County	014	Buckingham County	0.75	14-610 Cartersville Rd	Dead End	47	R							X						04/04/2006
+708607	  14	00729	     	14-729	Sunnyside Rd	014	Buckingham County	014	Buckingham County	0.60	14-622 Melita Rd	14-610 Slate Hill Rd	60	R							X						04/18/2006
+708608	  14	00729	     	14-729	Sunnyside Rd	014	Buckingham County	014	Buckingham County	0.50	14-610 Slate Hill Rd	Dead End	30	R							X						04/18/2006
+708609	  14	00730	     	14-730	Oak Grove Rd	014	Buckingham County	014	Buckingham County	0.30	Dead End	14-635 Buckingham Springs Rd	10	R							X						03/07/2006
+708610	  14	00731	     	14-731	Alpha Rd	014	Buckingham County	014	Buckingham County	0.01	US 15 James Madison Hwy	0.01 ME US 15	180	R							X						04/04/2006
+708611	  14	00731	     	14-731	Alpha Rd	014	Buckingham County	014	Buckingham County	0.21	0.01 ME US 15	14-786 Old Jones Rd	170	R							X						04/04/2006
+708612	  14	00731	     	14-731	Alpha Rd	014	Buckingham County	014	Buckingham County	0.31	14-786 Old Jones Rd	Dead End	20	R							X						04/04/2006
+708613	  14	00732	     	14-732	Allens Lake Rd	014	Buckingham County	014	Buckingham County	1.00	14-669 Thomas Rd	Dead End	100	R							X						04/29/2003
+708614	  14	00733	     	14-733	Redwoods Rd	014	Buckingham County	014	Buckingham County	0.65	Dead End	14-676 Ridge Rd	40	R							X						04/18/2006
+708615	  14	00734	     	14-734	Town & Country Rd	024	Cumberland County	014	Buckingham County	0.50	24-610 Duncan Store Rd	Cumberland County Line	60	R							X						04/04/2006
+708616	  14	00734	     	14-734	Town & Country Rd	014	Buckingham County	014	Buckingham County	1.30	Cumberland County Line	Dead End	50	R							X						04/04/2006
+708617	  14	00735	     	14-735	Rosser Rd	014	Buckingham County	014	Buckingham County	1.00	Dead End	14-659 Ranson Rd	40	R							X						04/11/2006
+708618	  14	00736	     	14-736	Whispering Rd	014	Buckingham County	014	Buckingham County	1.30	Dead End	US 60 James Madison Hwy	60	R							X						03/28/2006
+708619	  14	00737	     	14-737	Warminister Church Rd	014	Buckingham County	014	Buckingham County	2.18	SR 56 James River Hwy	14-664 Sycamore Creek Rd	90	R							X						03/15/2006
+708620	  14	00737	     	14-737	Warminister Church Rd	014	Buckingham County	014	Buckingham County	2.70	14-664 Sycamore Creek Rd	14-601 Pattie Rd	60	R							X						03/15/2006
+708621	  14	00738	     	14-738	Pond Rd	014	Buckingham County	014	Buckingham County	2.00	Dead End	14-601 Pattie Rd	70	R							X						03/15/2006
+708622	  14	00739	     	14-739	Blackwell Rd	014	Buckingham County	014	Buckingham County	0.60	Dead End	14-678 Rock Island Rd	90	R							X						04/04/2006
+708623	  14	00740	     	14-740	Firehouse Rd	014	Buckingham County	014	Buckingham County	1.04	14-655 Jerusalem Church Rd	1.04 MW 14-655	320	R							X						03/15/2006
+708624	  14	00740	     	14-740	Firehouse Rd	014	Buckingham County	014	Buckingham County	2.94	1.04 MW 14-655	Dead End	30	R							X						03/15/2006
+708625	  14	00741	     	14-741	Creasy Rd	014	Buckingham County	014	Buckingham County	1.00	SR 56 James River Hwy	14-604 Woodland Church Rd	40	R							X						03/15/2006
+708626	  14	00742	     	14-742	Alcoma Rd	014	Buckingham County	014	Buckingham County	1.50	US 60 W, James Madison Hwy	US 60 EAST; SR 56	60	R							X						03/04/2003
+708627	  14	00743	     	14-743	Little Creek Rd	014	Buckingham County	014	Buckingham County	3.10	14-622 Trents Mill Rd	14-610 Cartersville Rd	260	R							X						03/11/2003
+708628	  14	00744	     	14-744	Old Darbytown Rd	014	Buckingham County	014	Buckingham County	0.30	14-699 Darbytown Rd	Dead End	90	R							X						03/04/2003
+708629	  14	00745	     	14-745	Ranch Rd	014	Buckingham County	014	Buckingham County	0.60	14-610 Cartersville Rd	Dead End	60	R							X						04/04/2006
+708630	  14	00746	     	14-746	Toga Rd	014	Buckingham County	014	Buckingham County	0.90	Dead End	SR 24	30	R							X						03/14/2006
+708631	  14	00747	     	14-747	Hancock Hill Rd	014	Buckingham County	014	Buckingham County	0.76	SR 20 Constitution Route	SR 20 Constitution Route	30	R							X						04/30/2003
+708632	  14	00748	     	14-748	Fender Rd	014	Buckingham County	014	Buckingham County	0.60	US 15	14-761 Frog Pond Rd	100	R							X						03/07/2006
+708633	  14	00748	     	14-748	Fender Rd	014	Buckingham County	014	Buckingham County	0.15	14-761 Frog Pond Rd	Dead End	60	R							X						03/07/2006
+708634	  14	00749	     	14-749	Whorley Town Rd	014	Buckingham County	014	Buckingham County	0.83	14-648 Katrine Rd	Dead End	120	R							X						03/04/2003
+708635	  14	00750	     	14-750	Wingo Rd	014	Buckingham County	014	Buckingham County	0.45	US 15 SW	US 15 NE	190	R							X						04/30/2003
+708636	  14	00751	     	14-751	Airport Rd	014	Buckingham County	014	Buckingham County	0.40	Dead End	14-602 Howardsville Rd	2	R							X						04/04/2006
+708637	  14	00752	     	14-752	Aspen Grove Rd	014	Buckingham County	014	Buckingham County	0.35	Dead End	14-608 Paradise Rd	30	R							X						03/07/2006
+708638	  14	00753	     	14-753	Goodlow HC Rd	014	Buckingham County	014	Buckingham County	0.55	Dead End	14-691 Miller Camp Rd	10	R							X						03/14/2006
+708639	  14	00754	     	14-754	Cattail Creek Rd	014	Buckingham County	014	Buckingham County	1.30	Dead End	14-600 Plank Rd	80	R							X						03/14/2006
+708640	  14	00755	     	14-755	Childress Rd	014	Buckingham County	014	Buckingham County	0.95	14-666 Physic Spring Rd	Dead End	120	R							X						03/11/2003
+708641	  14	00756	     	14-756	Wise Ridge Rd	014	Buckingham County	014	Buckingham County	0.65	Dead End	US 15	70	R							X						03/14/2006
+708642	  14	00757	     	14-757	Ripley Creek Rd	014	Buckingham County	014	Buckingham County	0.35	14-649 Mulberry Grove Rd	Dead End	20	R							X						03/07/2006
+708643	  14	00758	     	14-758	Fork Rd	014	Buckingham County	014	Buckingham County	0.25	Dead End	14-709 Holland Rd	50	R							X						03/07/2006
+708644	  14	00759	     	14-759	Liberty Rd	014	Buckingham County	014	Buckingham County	0.40	Dead End	14-670 CG Woodson Rd	150	R							X						03/04/2003
+708645	  14	00760	     	14-760	Cole Comfort Rd	014	Buckingham County	014	Buckingham County	1.00	Dead End	14-668 Old Tower Hill	70	R							X						03/28/2006
+708646	  14	00761	     	14-761	Frog Pond Rd	014	Buckingham County	014	Buckingham County	0.20	Dead End	14-748 Fender Rd	40	R							X						03/05/2003
+708647	  14	00762	     	14-762	Hummingbird Rd	014	Buckingham County	014	Buckingham County	0.10	SR 20 Constitution Route	0.10 ME SR 20	200	R							X						04/04/2006
+708648	  14	00762	     	14-762	Hummingbird Rd	014	Buckingham County	014	Buckingham County	0.65	0.10 ME SR 20	Dead End	130	R							X						04/30/2003
+708649	  14	00763	     	14-763	River Ridge Rd	014	Buckingham County	014	Buckingham County	1.20	14-651 Muddy Creek Rd	Dead End	110	R							X						04/17/2006
+708650	  14	00764	     	14-764	Lee Town Rd	014	Buckingham County	014	Buckingham County	0.30	Dead End	14-682 Hollibrock Rd	50	R							X						04/18/2006
+708651	  14	00765	     	14-765	Brittany Rd	014	Buckingham County	014	Buckingham County	0.50	Dead End	SR 24	40	R							X						03/14/2006
+708652	  14	00766	     	14-766	Old Fort Rd	014	Buckingham County	014	Buckingham County	0.27	Dead End	0.27 MN Dead End	60	R							X						04/04/2006
+708653	  14	00766	     	14-766	Old Fort Rd	014	Buckingham County	014	Buckingham County	0.14	0.27 MN Dead End	US 60 James Anderson Hwy	100	R							X						04/04/2006
+708654	  14	00767	     	14-767	Solitude Rd	014	Buckingham County	014	Buckingham County	0.45	Dead End	US 60 James Anderson Hwy	20	R							X						03/30/2006
+708655	  14	00768	     	14-768	Hunters Rd	014	Buckingham County	014	Buckingham County	1.30	14-640 Andersonville Rd	Dead End	60	R							X						03/14/2006
+708656	  14	00769	     	14-769	High View Rd	014	Buckingham County	014	Buckingham County	0.80	US 15	Dead End	50	R							X						03/14/2006
+708657	  14	00770	     	14-770	Mineral Rd	014	Buckingham County	014	Buckingham County	0.27	Dead End	14-670 CG Woodson Rd	50	R							X						04/11/2006
+708658	  14	00771	     	14-771	Mountain Top Rd	014	Buckingham County	014	Buckingham County	0.35	14-610 Cartersville Rd	Dead End	70	R							X						04/04/2006
+708659	  14	00772	     	14-772	Coleman Rd	014	Buckingham County	014	Buckingham County	0.40	Dead End	SR 24	50	R							X						03/14/2006
+708660	  14	00773	     	14-773	Shumaker Rd	014	Buckingham County	014	Buckingham County	0.25	Dead End	US 60 James Anderson Hwy	130	R							X						03/30/2006
+708661	  14	00774	     	14-774	Broken Bridge Rd	014	Buckingham County	014	Buckingham County	0.70	14-633 Rock Mill Rd	Dead End	10	R							X						03/30/2006
+708662	  14	00775	     	14-775	Allen Rosen Rd	014	Buckingham County	014	Buckingham County	1.00	Dead End	US 15; 14-621 Evans Mill Rd	40	R							X						03/14/2006
+708663	  14	00776	     	14-776	Pump Rd	014	Buckingham County	014	Buckingham County	0.35	14-718 Chapel Rd	Dead End	30	R							X						04/04/2006
+708664	  14	00777	     	14-777	Fallsburg Rd	014	Buckingham County	014	Buckingham County	0.20	14-698 Mt View Rd	Dead End	10	R							X						03/15/2006
+708665	  14	00778	     	14-778	Boulevard Rd	014	Buckingham County	014	Buckingham County	1.20	14-650 Belle Rd	Dead End	70	R							X						03/28/2006
+708666	  14	00779	     	14-779	Country Rd	014	Buckingham County	014	Buckingham County	0.23	14-633 Bishop Creek Rd	Dead End	20	R							X						03/30/2006
+708667	  14	00780	     	14-780	Hill Top Rd	014	Buckingham County	014	Buckingham County	0.20	Dead End	14-638 Dixie Hill Rd	49	R							X						03/30/2006
+708668	  14	00781	     	14-781	Hughes Rd	014	Buckingham County	014	Buckingham County	0.35	US 15	Dead End	40	R							X						03/07/2006
+708669	  14	00782	     	14-782	Sugar Bottom Rd	014	Buckingham County	014	Buckingham County	0.55	Dead End	14-610 Cartersville Rd	20	R							X						04/04/2006
+708670	  14	00783	     	14-783	Snowden Rd	014	Buckingham County	014	Buckingham County	0.20	SR 20 Constitution Route	Dead End	70	R							X						04/30/2003
+708671	  14	00784	     	14-784	Paynes  Rd	014	Buckingham County	014	Buckingham County	0.70	14-679 Paynes Pond Rd	Dead End	70	R							X						04/17/2006
+708672	  14	00785	     	14-785	Brill Rd	014	Buckingham County	014	Buckingham County	0.30	14-723 Hundley Branch Rd	Dead End	120	R							X						04/04/2006
+708673	  14	00786	     	14-786	Old Jones Rd	014	Buckingham County	014	Buckingham County	0.15	14-731 Alpha Rd	0.15 MN 14-731	80	R							X						04/23/2003
+708674	  14	00786	     	14-786	Old Jones Rd	014	Buckingham County	014	Buckingham County	0.06	0.15 MN 14-731	Dead End	80	R							X						04/04/2006
+708675	  14	00787	     	14-787	Orchard Rd	014	Buckingham County	014	Buckingham County	0.90	14-617 Staunton Town Rd	Dead End	80	R							X						04/04/2006
+708676	  14	00788	     	14-788	Gieseke Rd	014	Buckingham County	014	Buckingham County	0.30	US 15 James Madison Hwy	Dead End	220	R							X						03/14/2006
+708677	  14	00789	     	14-789	Proffitt Rd	014	Buckingham County	014	Buckingham County	0.25	Dead End	14-636 Francisco Rd	30	R							X						03/07/2006
+708678	  14	00790	     	14-790	Plantation Rd	014	Buckingham County	014	Buckingham County	0.40	Dead End	14-638 Dixie Hill Rd	30	R							X						03/30/2006
+708679	  14	00791	     	14-791	Morris Rd	014	Buckingham County	014	Buckingham County	0.77	Dead End	14-612 Chestnut Grove Rd	40	R							X						03/07/2006
+708680	  14	00792	     	14-792	Bailey Rd	014	Buckingham County	014	Buckingham County	0.82	14-712 Ridgeway Rd	14-623 Indian Gap Rd	200	R							X						03/10/2003
+708681	  14	00793	     	14-793	Queen Rd	014	Buckingham County	014	Buckingham County	0.30	14-602 Howardsville Rd	Dead End	80	R							X						03/15/2006
+708682	  14	00794	     	14-794	Eldridge Rd	014	Buckingham County	014	Buckingham County	0.15	Dead End	14-622 Johnson Station Rd	70	R							X						04/11/2006
+708683	  14	00795	     	14-795	Old Mill Rd	014	Buckingham County	014	Buckingham County	0.36	Dead End	14-649 Slate River Mill Rd	30	R							X						03/04/2003
+708684	  14	00796	     	14-796	Old Fifteen Rd	014	Buckingham County	014	Buckingham County	0.22	US 15 S, James Madison Hwy	14-703 Jones Town Rd	140	R							X						03/04/2003
+402281	  14	00796	     	14-796	Old Fifteen Rd	014	Buckingham County	014	Buckingham County	0.10	14-703 Jones Town Rd	US 15 N, James Madison Hwy	90	G	91%	2%	4%	3%	1%	0%	C	0.1932	F	0.6471	90	G	2008
+708685	  14	00797	     	14-797	Cotton Alley Rd	014	Buckingham County	014	Buckingham County	0.20	Dead End	14-631 Buffalo Rd	230	R							X						04/29/2003
+708686	  14	00798	     	14-798	Sprouses Corner Rd	014	Buckingham County	014	Buckingham County	0.08	US 60 WEST	US 60 EAST; US15	120	R							X						04/30/2003
+708687	  14	00799	     	14-799	One Horse Rd	014	Buckingham County	014	Buckingham County	0.25	14-665 Fanny White Rd	Dead End	90	R							X						03/30/2006
+708688	  14	00800	     	14-800	Glover Hill Rd	014	Buckingham County	014	Buckingham County	0.35	14-638 Dixie Hill Rd	Dead End	30	R							X						03/30/2006
+708689	  14	00801	     	14-801	Hope Rd	014	Buckingham County	014	Buckingham County	0.09	US 15	Dead End	20	R							X						03/07/2006
+782194	  14	00804	     	14-804	Shady Rd	014	Buckingham County	014	Buckingham County	0.33	Cul-de-Sac	14-669 Rocky Mountain Rd	20	R							X						04/04/2006
+708690	  14	00805	     	14-805	Rock Rd	014	Buckingham County	014	Buckingham County	0.20	Dead End	US 15 James Madison Hwy	48	R							X						04/11/2006
+792730	  14	00809	     	14-809	Jefferson Rd	014	Buckingham County	014	Buckingham County	0.05	14-629 Rosney Rd	Dead End	0	?							X
+708691	  14	00810	     	14-810	Fire Trail Rd	014	Buckingham County	014	Buckingham County	0.27	US 15 James Madison Hwy	Dead End	90	R							X						04/11/2006
+786011	  14	00811	     	14-811	Equestrian Trail Rd	014	Buckingham County	014	Buckingham County	1.35	Cul-de-Sac	US 15 James Madison Hwy	150	R							X						04/11/2006
+708692	  14	00813	     	14-813	Marshall Rd	014	Buckingham County	014	Buckingham County	0.26	Dead End	US 15 James Madison Hwy	30	R							X						03/14/2006
+708693	  14	00815	     	14-815	Community Rd	014	Buckingham County	014	Buckingham County	1.60	14-697 Austins Rd	SR 24	150	R							X						03/14/2006
+792731	  14	00817	     	14-817	Johnsons Dr	014	Buckingham County	014	Buckingham County	0.09	Dead End	14-617 Staunton Town Rd	0	?							X
+783550	  14	00819	     	14-819	Selma Rd	014	Buckingham County	014	Buckingham County	2.10	Cul-de-Sac	14-602 Howardsville Rd	60	R							X						03/15/2006
+708694	  14	00820	     	14-820	Avon Rd	014	Buckingham County	014	Buckingham County	0.33	Dead End	14-640 Andersonville Rd	60	R							X						03/14/2006
+792732	  14	00821	     	14-821	Noble Lane	014	Buckingham County	014	Buckingham County	0.94	Dead End	14-652 Bridgeport Rd	0	?							X
+795977	  14	00823	     	14-823	 	014	Buckingham County	014	Buckingham County	0.15	14-646	Dead End	0	?							X
+708695	  14	00840	     	14-840	Stonewall Rd	014	Buckingham County	014	Buckingham County	0.37	Dead End	US 15 James Madison Hwy	120	R							X						03/25/2003
+783551	  14	00841	     	14-841	Settlers Way Rd	014	Buckingham County	014	Buckingham County	0.23	Dead End	14-840 Stonewall Rd	30	R							X						03/25/2003
+708696	  14	01001	     	14-1001	Hancock St	014	Buckingham County	014	Buckingham County	0.80	Dead End	SCL Dillwyn	80	R							X						04/04/2006
+708697	  14	01001	     	14-1001	Hancock St	208	Town of Dillwyn	014	Buckingham County	0.07	SCL Dillwyn	0.07 MN of SCL	190	R							X						04/04/2006
+708698	  14	01001	     	14-1001	Hancock St	208	Town of Dillwyn	014	Buckingham County	0.14	0.07 MN of SCL	14-1002 Camden St	280	R							X						04/04/2006
+402282	  14	01001	     	14-1001	Hancock St	208	Town of Dillwyn	014	Buckingham County	0.10	14-1002 Camden St	14-1008 Warehouse St	130	G	96%	1%	2%	1%	0%	0%	F	0.1288	F	0.7059	130	G	2008
+402283	  14	01001	     	14-1001	Hancock St	208	Town of Dillwyn	014	Buckingham County	0.26	14-1008 Warehouse St	14-1005 Culberth St	200	G	96%	1%	2%	1%	0%	0%	C	0.1475	F	0.5926	210	G	2008
+402284	  14	01001	     	14-1001	Hancock St	208	Town of Dillwyn	014	Buckingham County	0.08	14-1005 Culberth St	US 15 Main St	320	G	96%	1%	2%	1%	0%	0%	F	0.1180	F	0.6750	330	G	2008
+708699	  14	01002	     	14-1002	Camden St	208	Town of Dillwyn	014	Buckingham County	0.17	14-1001 Hancock St	14-1003 Main St	330	R							X						04/29/2003
+402285	  14	01003	     	14-1003	Main St	014	Buckingham County	014	Buckingham County	0.40	SR 20; US 15 WEST	WCL Dillwyn	800	G	92%	1%	2%	2%	3%	0%	C	0.1080	F	0.5185	810	G	2008
+402286	  14	01003	     	14-1003	Main St	208	Town of Dillwyn	014	Buckingham County	0.24	WCL Dillwyn	14-1002 Camden St	690	G	92%	1%	2%	2%	3%	0%	F	0.1060	F	0.5274	710	G	2008
+402287	  14	01003	     	14-1003	Main St	208	Town of Dillwyn	014	Buckingham County	0.09	14-1002 Camden St	14-1008 Warehouse St	510	G	92%	1%	2%	2%	3%	0%	F	0.1044	F	0.5189	520	G	2008
+402288	  14	01003	     	14-1003	Main St	208	Town of Dillwyn	014	Buckingham County	0.30	14-1008 Warehouse St	US 15 E, Main St; Oak St	410	G	92%	1%	2%	2%	3%	0%	F	0.1144	F	0.5417	410	G	2008
+708700	  14	01004	     	14-1004	Carie St	208	Town of Dillwyn	014	Buckingham County	0.07	14-1001 Hancock St	14-1007 Conner St	260	R							X						04/29/2003
+708701	  14	01005	     	14-1005	Culberth St	208	Town of Dillwyn	014	Buckingham County	0.07	Dead End	14-1007 Conner St	40	R							X						04/29/2003
+708702	  14	01005	     	14-1005	Culberth St	208	Town of Dillwyn	014	Buckingham County	0.07	14-1007 Conner St	14-1001 Hancock St	80	R							X						04/29/2003
+708703	  14	01006	     	14-1006	White St	208	Town of Dillwyn	014	Buckingham County	0.07	Dead End	14-1007 Conner St	60	R							X						04/29/2003
+708704	  14	01006	     	14-1006	White St	208	Town of Dillwyn	014	Buckingham County	0.07	14-1007 Conner St	14-1001 Hancock St	80	R							X						04/29/2003
+708705	  14	01006	     	14-1006	White St	208	Town of Dillwyn	014	Buckingham County	0.10	14-1001 Hancock St	14-1003 Main St	110	R							X						04/29/2003
+708706	  14	01007	     	14-1007	Conner St	208	Town of Dillwyn	014	Buckingham County	0.06	14-1006 White St	14-1005 Culberth St	90	R							X						04/29/2003
+708707	  14	01007	     	14-1007	Conner St	208	Town of Dillwyn	014	Buckingham County	0.07	14-1005 Culberth St	14-1004 Carie St	170	R							X						04/29/2003
+708708	  14	01007	     	14-1007	Conner St	208	Town of Dillwyn	014	Buckingham County	0.05	14-1004 Carie St	US 15	470	R							X						04/29/2003
+708709	  14	01008	     	14-1008	Warehouse St	208	Town of Dillwyn	014	Buckingham County	0.13	14-1001 Hancock St	14-1003 Main St	200	R							X						04/29/2003
+708710	  14	01009	     	14-1009	LeSueur St	208	Town of Dillwyn	014	Buckingham County	0.38	SCL Dillwyn	14-1003 Main St	160	R							X						04/29/2003
+708711	  14	01010	     	14-1010	Goldmine St	014	Buckingham County	014	Buckingham County	0.05	US 15 W, NCL Dillwyn	14-1017 Correctional Center Rd	810	R							X						04/30/2003
+708712	  14	01010	     	14-1010	Goldmine St	014	Buckingham County	014	Buckingham County	0.05	14-1017 Correctional Center Rd	14-1014 Tree Lane; NCL Dillwyn	490	R							X						04/30/2003
+708713	  14	01010	     	14-1010	Goldmine St	208	Town of Dillwyn	014	Buckingham County	0.19	14-1014, NCL Dillwyn	US 15 E, Oak St	380	R							X						04/30/2003
+708714	  14	01011	     	14-1011	Mitchell St	208	Town of Dillwyn	014	Buckingham County	0.07	Dead End	14-1012 Carter St	47	R							X						04/29/2003
+708715	  14	01011	     	14-1011	Mitchell St	208	Town of Dillwyn	014	Buckingham County	0.05	14-1012 Carter St	US 15 Main St	120	R							X						04/29/2003
+708716	  14	01012	     	14-1012	Carter St	208	Town of Dillwyn	014	Buckingham County	0.04	Dead End	14-1011 Mitchell St	50	R							X						04/04/2006
+708717	  14	01012	     	14-1012	Carter St	208	Town of Dillwyn	014	Buckingham County	0.06	14-1011 Mitchell St	14-629 Rosney Rd	120	R							X						04/04/2006
+708718	  14	01013	     	14-1013	Hardiman Rd	208	Town of Dillwyn	014	Buckingham County	0.10	Dead End	14-629 Rosney Rd	8	R							X						04/04/2006
+708719	  14	01014	     	14-1014	Tree Lane	014	Buckingham County	014	Buckingham County	0.10	14-1010 Goldmine St; NCL Dillwyn	Dead End	50	R							X						04/04/2006
+708720	  14	01015	     	14-1015	Brickyard Dr	208	Town of Dillwyn	014	Buckingham County	0.07	Dead End	0.07 MN Dead End	3	R							X						09/12/2000
+708721	  14	01015	     	14-1015	Brickyard Dr	208	Town of Dillwyn	014	Buckingham County	0.05	0.07 MN Dead End	14-1018 Brickyard Dr	10	R							X						09/12/2000
+708722	  14	01015	     	14-1015	Brickyard Dr	208	Town of Dillwyn	014	Buckingham County	0.10	14-1018 Brickyard Dr	US 15 Oak St	1400	R							X						04/04/2006
+708723	  14	01016	     	14-1016	Whetstone Lane	208	Town of Dillwyn	014	Buckingham County	0.06	Dead End	14-1002 Camden St	10	R							X						04/04/2006
+708724	  14	01017	     	14-1017	Correctional Center  Rd	014	Buckingham County	014	Buckingham County	1.20	14-1010 Goldmine St	Dead End	930	R							X						04/30/2003
+708725	  14	01018	     	14-1018	Brickyard Dr	208	Town of Dillwyn	014	Buckingham County	0.08	Dead End	14-1015 Brickyard Dr	610	R							X						04/30/2003
+708726	  14	09062	     	14-9062	Buckingham Primary Sch Rd	014	Buckingham County	014	Buckingham County	0.12	Buckingham Primary Sch	14-690 High School Rd	300	R							X						03/04/2003
+708727	  14	09063	     	14-9063	Knights Rd	014	Buckingham County	014	Buckingham County	0.18	Buckingham County HS	14-690 High School Rd	190	R							X						03/04/2003
+708728	  14	09064	     	14-9064	Administration Lane	014	Buckingham County	014	Buckingham County	0.05	Buckingham Art Center	US 60 James Anderson Hwy	100	R							X						05/07/2003
+708730	  14	09066	     	14-9066	Gold Hill Elem Sch Rd	014	Buckingham County	014	Buckingham County	0.12	Gold Hill Elem Sch	US 15 James Madison Hwy	270	R							X						04/30/2003
+708731	  14	09575	     	14-9575	Dillwyn Primary Rd	014	Buckingham County	014	Buckingham County	0.10	Dillwyn Primary Sch	US 15 James Madison Hwy	310	R							X						04/30/2003
+708732	  14	09576	     	14-9576	Frank Harris Rd	014	Buckingham County	014	Buckingham County	0.15	Buckingham Jr HS	SR 20 Constitution Route	290	R							X						04/30/2003
+708733	  14	09576	     	14-9576	Frank Harris Rd	014	Buckingham County	014	Buckingham County	0.09	Dillwyn Elem Sch	SR 20 Constitution Route	270	R							X						04/30/2003
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,45 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Luray																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+646103	  US	00211	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.36	WCL Luray	Bus US 211	13000	G	93%	1%	1%	1%	3%	0%	F	0.0874	F	0.5496	14000	G	2008
+646100	  US	00211	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.69	Bus US 211	ECL Luray	6400	G	92%	1%	1%	2%	4%	0%	C	0.0866	F	0.5677	6600	G	2008
+646117	  US	00211	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.56	WCL Luray	US 340	6400	N	92%	1%	1%	2%	4%	0%	N	0.0866	N	0.5677	6600	N	2008
+646101	  US	00211	     	US 211	Lee Highway	159	Town of Luray	069	Page County	0.38	US 340	ECL Luray	4200	N	93%	1%	1%	1%	4%	0%	N	0.0911	N	0.5506	4300	N	2008
+080409	  US	00211	     	US 211	Lee Highway	159	Town of Luray	069	Page County	0.28	WCL Luray; 69-656 Whispering Hill Rd	ECL Luray	2700	N	93%	1%	1%	1%	3%	0%	N	0.0965	N	0.6085	2700	N	2008
+646080	C3US	00211	     	Bus US 211	West  Main St	159	Town of Luray	159	Town of Luray	0.15	US 211 Lee Highway	Leaksville Rd	7700	G	98%	0%	1%	0%	0%	0%	F	0.0873	F	0.5134	7900	G	2008
+646082	C3US	00211	     	Bus US 211	West Main St	159	Town of Luray	159	Town of Luray	0.85	Leaksville Rd	Lee St	7400	G	98%	0%	1%	0%	0%	0%	C	0.0872	F	0.5016	7600	G	2008
+646088	C3US	00211	     	Bus US 211	West Main St	159	Town of Luray	159	Town of Luray	0.33	Lee St	US 340	9200	G	98%	0%	1%	0%	0%	0%	F	0.0911	F	0.5045	9400	G	2008
+646091	C3US	00211	     	Bus US 211	East Main St	159	Town of Luray	159	Town of Luray	0.98	US 340	Reservoir Ave	12000	G	98%	0%	1%	0%	1%	0%	F	0.0874	F	0.5157	12000	G	2008
+646092	C3US	00211	     	Bus US 211	East Main St	159	Town of Luray	159	Town of Luray	0.14	Reservoir Ave	Collins Rd	9700	G	98%	0%	1%	0%	1%	0%	C	0.0833	F	0.5500	9900	G	2008
+646102	C3US	00211	     	Bus US 211	East Main St	159	Town of Luray	159	Town of Luray	0.72	Collins Rd	ECL Luray	6500	G	97%	0%	1%	0%	1%	0%	F	0.0912	F	0.5182	6700	G	2008
+646103	  US	00340	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.36	WCL Luray	BUS US 211	13000	G	93%	1%	1%	1%	3%	0%	F	0.0874	F	0.5496	14000	G	2008	
+646100	  US	00340	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.69	BUS US 211	CL Luray	6400	G	92%	1%	1%	2%	4%	0%	C	0.0866	F	0.5677	6600	G	2008	
+646117	  US	00340	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.56	CL Luray	S RT 211	6400	N	92%	1%	1%	2%	4%	0%	N	0.0866	N	0.5677	6600	N	2008	
+646104	  US	00340	     	US 340	N Broad St	159	Town of Luray	159	Town of Luray	0.30	US 211	NCL Luray	6600	G	95%	1%	1%	1%	2%	0%	C	0.1001	F	0.6046	6800	G	2008
+646105	C1US	00340	     	Bus US 340	Virginia Ave	159	Town of Luray	159	Town of Luray	0.09	SCL Luray	Linden Ave	6900	G	96%	0%	2%	1%	1%	0%	F	0.0923	F	0.6380	7100	G	2008
+646087	C1US	00340	     	Bus US 340	Virginia Ave	159	Town of Luray	159	Town of Luray	0.52	Linden Ave	Bus US 211	5500	G	96%	0%	2%	1%	1%	0%	C	0.0833	F	0.5901	5700	G	2008
+646089	C1US	00340	     	Bus US 340	Broad St	159	Town of Luray	159	Town of Luray	0.54	Bus US 211	US 211	5300	G	96%	0%	1%	1%	2%	0%	C	0.0939	F	0.5595	5400	G	2008
+785271	  FR	00737	     	FR 737	Cave Hill Rd	159	Town of Luray	069	Page County	0.13	WCL Luray	Cavehill Rd	30	R							X						11/28/2006
+646305	 159	00001	     	159-1	Collins Rd	159	Town of Luray	159	Town of Luray	0.69	159-6; Norfolk Southern RR Tracks	NCL Luray; 69-731	2300	G	98%	0%	1%	0%	0%	0%	F	0.0900	F	0.6218	2400	G	2008
+646083	 159	00002	     	159-2	Lee St	159	Town of Luray	159	Town of Luray	0.18	Bus US 211 Main St	Mechanic St	1100	G	98%	0%	1%	0%	0%	0%	C	0.0892	F	0.5049	1200	G	2008
+646301	 159	00003	     	159-3	Hawksbill  St	159	Town of Luray	159	Town of Luray	0.49	US 211 Main St	US 211 Bypass	1300	G	98%	0%	1%	0%	0%	0%	F	0.1132	F	0.5540	1300	G	2008
+646300	 159	00004	     	159-4	Linden Ave	159	Town of Luray	159	Town of Luray	0.19	Bus US 340	159-5; Big Spring St	1300	G	98%	0%	1%	0%	0%	0%	F	0.1673	F	0.5558	1400	G	2008
+781849	 159	00005	     	159-5	Linden Ave	159	Town of Luray	159	Town of Luray	0.04	159-4; Big Spring St	Hawksbill Heights Dr	1200	G	98%	0%	1%	0%	0%	0%	F	0.1526	F	0.6266	1300	G	2008
+646303	 159	00006	     	159-6	Collins Rd	159	Town of Luray	159	Town of Luray	0.26	BUS US 211; Main St	159-1; Norfolk Southern RR Tracks	2500	G	98%	0%	1%	0%	0%	0%	F	0.0830	F	0.5569	2500	G	2008
+646084	 159	01954	     	159-1954	Mechanic St	159	Town of Luray	159	Town of Luray	0.42	WCL Luray	Lee St	2100	G	98%	1%	1%	0%	0%	0%	F	0.0971	F	0.5558	2100	G	2008
+646086	 159	01954	     	159-1954	Mechanic St	159	Town of Luray	159	Town of Luray	0.38	Lee St	Bus US 340	3100	G	98%	1%	1%	0%	0%	0%	C	0.0996	F	0.5798	3200	G	2008
+646108	 159	01982	     	159-1982	Court St	159	Town of Luray	159	Town of Luray	0.99	SCL Luray	West Main St	1800	G	98%	0%	1%	0%	0%	0%	C	0.0923	F	0.6303	1800	G	2008
+646304	 159	01986	     	159-1986	Antioch Rd	159	Town of Luray	159	Town of Luray	0.09	SCL Luray	Fairview Rd	1600	G	98%	0%	1%	0%	0%	0%	F	0.1049	F	0.7953	1600	G	2008
+646081	 159	01987	     	159-1987	Leaksville Rd	159	Town of Luray	159	Town of Luray	0.09	SCL Luray	BUS US 211, W Main St	2200	G	98%	0%	1%	0%	0%	0%	F	0.0899	F	0.5844	2300	G	2008
+646107	 159	01989	     	159-1989	Fairview Rd	159	Town of Luray	159	Town of Luray	0.48	ECL Luray	Antioch Rd	1100	G	97%	1%	1%	0%	1%	0%	C	0.1011	F	0.5470	1200	G	2008
+646302	 159	01989	     	159-1989	Fairview Rd	159	Town of Luray	159	Town of Luray	0.88	Antioch Rd	Reservoir Ave	3200	G	97%	1%	1%	0%	1%	0%	F	0.1012	F	0.7165	3300	G	2008
+646093	 159	01989	     	159-1989	Reservoir Ave	159	Town of Luray	159	Town of Luray	0.44	Fairview Rd	Main St US 211 Bus	3700	G	98%	0%	1%	0%	0%	0%	C	0.1012	F	0.6522	3800	G	2008
+646106	 159	01991	     	159-1991	Wallace Rd	159	Town of Luray	159	Town of Luray	0.52	Bus US 211	NCL Luray	1900	G	94%	0%	1%	0%	4%	0%	C	0.0947	F	0.5314	2000	G	2008
+646306	 159	00000	     	159-0	Marye Lane	159	Town of Luray	159	Town of Luray	0.00	Lee Hwy BUS 211	Park Ave	240	G							X	0.1370	F	0.5522	240	G	2008
+546300	 159	00000	     	159-0	Seventh Ave	159	Town of Luray	159	Town of Luray	0.00	Third Street	Fourth Street	250	G							X	0.1176	F	0.0000	270	G	2008
+546301	 159	00000	     	159-0	Terrace Lane	159	Town of Luray	159	Town of Luray	0.00	Dedford Ave	Wilson St	70	G							X	0.1250	F	0.5556	80	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,741 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Southampton Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050339	  SR	00035	     	VA 35	Meherrin Rd	087	Southampton County	087	Southampton County	1.40	North Carolina State Line	SCL Boykins	1700	G	83%	0%	1%	1%	14%	0%	F	0.0825	F	0.5241	1800	G	2008
+050348	  SR	00035	     	VA 35	Meherrin Rd	174	Town of Boykins	087	Southampton County	1.24	SCL Boykins	SR 186 Pittman Rd	1700	N	83%	0%	1%	1%	14%	0%	N	0.0825	N	0.5241	1800	N	2008
+050415	  SR	00035	     	VA 35	Meherrin Rd	174	Town of Boykins	087	Southampton County	0.49	SR 186 Pittman Rd	NCL Boykins	5100	G	83%	0%	1%	1%	14%	0%	C	0.0862	F	0.5911	5200	G	2008
+050338	  SR	00035	     	VA 35	Meherrin Rd	087	Southampton County	087	Southampton County	4.93	NCL Boykins	87-693 Garris Mill Rd	1700	G	77%	1%	1%	1%	20%	0%	C	0.1011	F	0.5955	1800	G	2008
+050057	  SR	00035	     	VA 35	Meherrin Rd	087	Southampton County	087	Southampton County	5.15	87-693 Garris Mill Rd	US 58 Southhampton Pkwy; Bus US 58	1800	G	77%	1%	1%	1%	20%	0%	F	0.0965	F	0.6371	1800	G	2008
+050350	  SR	00035	     	Bus US 58, VA 35	Meherrin Rd	087	Southampton County	087	Southampton County	2.03	US 58 West of Courtland	CL Courtland	3700	G	92%	1%	1%	1%	6%	0%	F	0.1192	F	0.5156	3800	G	2008	
+050443	  SR	00035	     	Bus US 58, VA 35	Meherrin Rd	201	Town of Courtland	087	Southampton County	0.14	CL Courtland	BUS US 58	3700	N	92%	1%	1%	1%	6%	0%	N	0.1192	N	0.5156	3800	N	2008	
+050337	  SR	00035	     	VA 35	Main St	201	Town of Courtland	087	Southampton County	0.59	Bus US 58; Meherrin Rd	NCL Courtland	5000	G	73%	1%	1%	1%	24%	0%	F	0.0841	F	0.5240	5100	G	2008
+050340	  SR	00035	     	VA 35	Main St	087	Southampton County	087	Southampton County	0.10	NCL Courtland	87-616 Ivor Rd	5000	N	73%	1%	1%	1%	24%	0%	N	0.0841	N	0.5240	5100	N	2008
+050474	  SR	00035	     	VA 35	Main St	087	Southampton County	087	Southampton County	2.75	87-616 Ivor Rd	87-628 Wakefield Rd	2300	N	73%	1%	1%	1%	24%	0%	N	0.0892	N	0.5314	2400	N	2008
+050336	  SR	00035	     	VA 35	Plank Rd	087	Southampton County	087	Southampton County	3.43	87-628 Wakefield Rd	87-653 Cary's Bridge Rd	2300	G	73%	1%	1%	1%	24%	0%	C	0.0892	F	0.5314	2400	G	2008
+050335	  SR	00035	     	VA 35	Plank Rd	087	Southampton County	087	Southampton County	3.94	87-653 Cary's Bridge Rd	Sussex County Line	2000	G	73%	1%	1%	1%	24%	0%	F	0.0823	F	0.5383	2100	G	2008
+050346	  US	00058	     	US 58	Southampton Pkwy	087	Southampton County	087	Southampton County	5.44	Greensville County Line	87-615 W, Adams Grove Rd; Hicksford Rd	16000	G	84%	1%	1%	1%	13%	0%	F	0.0712	F	0.5076	15000	G	2008
+050345	  US	00058	     	US 58	Southampton Pkwy	087	Southampton County	087	Southampton County	4.72	87-615 W, Adams Grove Rd; Hicksford Rd	87-659 Drewry Rd; Pinopolis	15000	G	84%	1%	1%	1%	13%	0%	F	0.0733	F	0.5118	14000	G	2008
+050344	  US	00058	     	US 58	Southampton Pkwy	087	Southampton County	087	Southampton County	5.55	87-659 Drewry Rd; Pinopolis	WCL Capron	16000	G	84%	1%	1%	1%	13%	0%	F	0.0709	F	0.5089	15000	G	2008
+050427	  US	00058	     	US 58	Southampton Pkwy	183	Town of Capron	087	Southampton County	0.14	WCL Capron	87-653 Capron	16000	N	84%	1%	1%	1%	13%	0%	N	0.0709	N	0.5089	15000	N	2008
+050343	  US	00058	     	US 58	Southampton Pkwy	183	Town of Capron	087	Southampton County	0.15	87-653 Capron	ECL Capron	17000	G	84%	1%	1%	1%	13%	0%	F	0.0709	F	0.5015	16000	G	2008
+050428	  US	00058	     	US 58	Southampton Pkwy	087	Southampton County	087	Southampton County	5.56	ECL Capron	SR 35 & 58 Bus W of Courtland	17000	N	84%	1%	1%	1%	13%	0%	N	0.0709	N	0.5015	16000	N	2008
+050534	  US	00058	     	US 58	Southampton Pkwy	087	Southampton County	087	Southampton County	3.46	SR 35 & 58 Bus W of Courtland	Bus US 58 East Of Courtland	18000	G	84%	1%	1%	1%	13%	0%	F	0.0716	F	0.5169	17000	G	2008
+050078	  US	00058	     	US 58	 	087	Southampton County	087	Southampton County	2.34	Bus US 58 East Of Courtland	Bus US 58 West of Franklin	20000	A	84%	1%	1%	1%	13%	0%	C	0.1068	A	0.0000	19000	A	2008
+050533	  US	00058	     	US 58	 	087	Southampton County	087	Southampton County	0.16	Bus US 58 West of Franklin	US 58 Bus West of Franklin	18000	G	84%	1%	1%	1%	13%	0%	F	0.1068	N	0.0000	17000	G	2008
+050342	  US	00058	     	US 58	Southampton Pkwy	087	Southampton County	087	Southampton County	3.74	US 58 Bus West of Franklin	US 258 South of Franklin	21000	G	84%	1%	1%	1%	13%	0%	F	0.0712	F	0.5231	20000	G	2008
+050341	  US	00058	     	US 58, US 258	 	087	Southampton County	087	Southampton County	3.02	US 258 South of Franklin	WCL Suffolk	21000	G	84%	1%	1%	1%	13%	0%	F	0.0696	F	0.5171	20000	G	2008
+150326	C4US	00058	     	Bus US 58	Clay St	087	Southampton County	087	Southampton County	2.32	US 58	WCL Franklin	2800	A	98%	1%	0%	0%	0%	0%	C	0.1239	A	0.0000	3200	A	2008
+630103	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	1.18	WCL Franklin	Hunterdale Rd	3000	G	98%	1%	0%	0%	0%	0%	F	0.1025	F	0.5142	3400	G	2008
+630101	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	0.58	Hunterdale Rd	Homestead Rd	4200	G	98%	1%	0%	0%	0%	0%	F	0.1000	F	0.5624	4800	G	2008
+630098	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	0.35	Homestead Rd	Lee St	3600	G	98%	1%	0%	0%	0%	0%	F	0.0961	F	0.6245	4100	G	2008
+630096	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	0.16	Lee St	Gardner St	2600	G	98%	1%	0%	0%	0%	0%	F	0.0981	F	0.8049	2900	G	2008		5100	G	97%	1%	1%	0%	0%	0%	F	0.0926	F	0.6423	5600	G
+630086	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	0.17	Gardner St	High St	2500	G	98%	1%	0%	0%	0%	0%	F				2800	G	2008		4200	G	97%	1%	1%	0%	0%	0%	F				4700	G
+630084	C4US	00058	     	Bus US 58	4th Avenue	145	City of Franklin	145	City of Franklin	0.26	High St	Mechanic St	2100	G	98%	1%	0%	0%	0%	0%	F	0.0867	F	0.5831	2400	G	2008
+630078	C4US	00058	     	Bus US 58	Mechanic St	145	City of Franklin	145	City of Franklin	0.10	Fourth Ave	Second Ave	3600	G	98%	1%	0%	0%	0%	0%	F	0.0948	F	0.6968	4100	G	2008
+630077	C4US	00058	     	Bus US 58, Bus US 258	 	145	City of Franklin	145	City of Franklin	0.19	US 258	ECL Franklin	10000	G	98%	1%	0%	0%	0%	0%	F	0.0879	F	0.5989	12000	G	2008
+050347	C4US	00058	     	Bus US 58, Bus US 258	 	087	Southampton County	087	Southampton County	0.03	ECL Franklin	Isle of Wight County Line	10000	G	98%	1%	0%	0%	0%	0%	F	0.0879	F	0.5989	12000	G	2008
+630097	C4US	00058	P    	Bus US 58 Par	Lee Street	145	City of Franklin	145	City of Franklin	0.16	Bus 58 Clay St	High St	1700	G	97%	1%	1%	0%	1%	0%	F	0.1160	F	0.7125	1900	G	2008		4200	G	97%	1%	1%	0%	0%	0%	F				4700	G
+630085	C4US	00058	P    	Bus US 58 Par	High St	145	City of Franklin	145	City of Franklin	0.27	Lee Street	Bus 58 Fourth Ave	2500	G	97%	1%	1%	0%	1%	0%	C	0.0968	F	0.6795	2700	G	2008		5100	G	97%	1%	1%	0%	0%	0%	F	0.0926	F	0.6423	5600	G
+050350	C6US	00058	     	Bus US 58, VA 35	Meherrin Rd	087	Southampton County	087	Southampton County	2.03	US 58 Southampton Pkwy	WCL Courtland	3700	G	92%	1%	1%	1%	6%	0%	F	0.1192	F	0.5156	3800	G	2008
+050443	C6US	00058	     	Bus US 58, VA 35	Meherrin Rd	201	Town of Courtland	087	Southampton County	0.14	WCL Courtland	SR 35 Main St	3700	N	92%	1%	1%	1%	6%	0%	N	0.1192	N	0.5156	3800	N	2008
+050349	C6US	00058	     	Bus US 58	Main St	201	Town of Courtland	087	Southampton County	1.10	SR 35; Meherrin Rd	ECL Courtland	6900	G	92%	1%	1%	1%	6%	0%	C	0.0968	F	0.5817	7000	G	2008
+050444	C6US	00058	     	Bus US 58	Jeruselem Rd	087	Southampton County	087	Southampton County	1.18	ECL Courtland	US 58 Southampton Pkwy	6900	N	92%	1%	1%	1%	6%	0%	N	0.0968	N	0.5817	7000	N	2008
+050027	  SR	00186	     	VA 186	Hugs Rd	087	Southampton County	087	Southampton County	2.98	North Carolina State Line	WCL Branchville	1500	G	62%	1%	1%	2%	34%	0%	C	0.0896	F	0.6148	1500	G	2008
+050028	  SR	00186	     	VA 186	 	175	Town of Branchville	087	Southampton County	0.62	WCL Branchville	ECL Branchville	1500	N	62%	1%	1%	2%	34%	0%	N	0.0896	N	0.6148	1500	N	2008
+150219	  SR	00186	     	VA 186	Pittman Rd	087	Southampton County	087	Southampton County	2.35	ECL Branchville	WCL Boykins	1900	G	62%	1%	1%	2%	34%	0%	F	0.0837	F	0.5826	1900	G	2008
+050351	  SR	00186	     	VA 186	Pittman Rd	174	Town of Boykins	087	Southampton County	0.26	WCL Boykins	SR 35 Meherrin Rd	2300	G	62%	1%	1%	2%	34%	0%	F	0.0854	F	0.5877	2400	G	2008
+050029	  SR	00189	     	VA 189	South Quay Rd	087	Southampton County	087	Southampton County	2.20	US 258 Smiths Ferry Rd	87-714 Pretlow Rd	2400	G	86%	0%	1%	1%	12%	0%	F	0.0883	F	0.6888	2400	G	2008
+050080	  SR	00189	     	VA 189	South Quay Rd	087	Southampton County	087	Southampton County	0.22	87-714 Pretlow Rd	SCL Suffolk	2900	G	86%	0%	1%	1%	12%	0%	F	0.0799	F	0.6161	3000	G	2008
+050352	  US	00258	     	US 258	Smith Ferry Rd	087	Southampton County	087	Southampton County	5.28	North Carolina State Line	SR 189 South Quay Rd	6900	G	93%	1%	1%	0%	5%	0%	F	0.0849	F	0.6324	7000	G	2008
+050059	  US	00258	     	US 258	Smith Ferry Rd	087	Southampton County	087	Southampton County	3.43	SR 189 South Quay Rd	87-684 Dogwood Bend Rd	4000	G	93%	1%	1%	0%	5%	0%	C	0.0944	F	0.6006	4000	G	2008
+050353	  US	00258	     	US 258	Smith Ferry Rd	087	Southampton County	087	Southampton County	0.29	87-684 Dogwood Bend Rd	US 58 Southhampton Parkway; Bus US 258 South St	4600	G	93%	1%	1%	0%	5%	0%	F	0.0907	F	0.6067	4700	G	2008
+050341	  US	00258	     	US 58, US 258	 	087	Southampton County	087	Southampton County	3.02	US 58 Southhampton Parkway; Bus US 258 South St	WCL Suffolk	21000	G	84%	1%	1%	1%	13%	0%	F	0.0696	F	0.5171	20000	G	2008	
+630108	C2US	00258	     	Bus US 258	South St	087	Southampton County	087	Southampton County	0.12	US 258 Smith Ferry Road	SCL Franklin	5100	G	98%	0%	1%	0%	0%	0%	F	0.0947	F	0.5203	5400	G	2008
+630099	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.28	SCL Franklin	College Drive	5500	G	98%	0%	1%	0%	0%	0%	C	0.0896	F	0.5244	6000	G	2008
+630307	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.25	College Drive	Bank Street	11000	G	98%	0%	1%	0%	0%	0%	F	0.0903	F	0.5068	11000	G	2008
+630308	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.35	Bank Street	Roosevelt Street	9400	G	98%	0%	1%	0%	0%	0%	F	0.0912	F	0.5320	10000	G	2008
+630309	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.15	Roosevelt Street	Oak Street	9300	G	98%	0%	1%	0%	0%	0%	F	0.0915	F	0.5407	9900	G	2008
+630310	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.16	Oak Street	Pretlow Street	8300	G	98%	0%	1%	0%	0%	0%	F	0.0898	F	0.5351	8900	G	2008
+630093	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.21	Pretlow Street	High Street	7100	G	98%	0%	1%	0%	0%	0%	F	0.0898	F	0.5658	7600	G	2008
+630311	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.16	High Street	Main Street	4400	G	98%	0%	1%	0%	1%	0%	F	0.0863	F	0.5605	4700	G	2008
+630083	C2US	00258	     	Bus US 258	Main St	145	City of Franklin	145	City of Franklin	0.29	South Street	Second Avenue	4000	G	98%	0%	1%	0%	1%	0%	C	0.0847	F	0.5394	4300	G	2008
+630080	C2US	00258	     	Bus US 258	Second Avenue	145	City of Franklin	145	City of Franklin	0.12	Main Street	Bus US 58 Mechanic Street	6900	G	98%	0%	1%	0%	1%	0%	F	0.0863	F	0.6079	7400	G	2008
+630077	C2US	00258	     	Bus US 58, Bus US 258	 	145	City of Franklin	145	City of Franklin	0.19	US 258	ECL Franklin	10000	G	98%	1%	0%	0%	0%	0%	F	0.0879	F	0.5989	12000	G	2008	
+050347	C2US	00258	     	Bus US 58, Bus US 258	 	087	Southampton County	087	Southampton County	0.03	ECL Franklin	Isle of Wight County Line	10000	G	98%	1%	0%	0%	0%	0%	F	0.0879	F	0.5989	12000	G	2008	
+050354	  SR	00308	     	VA 308	Southhampton Correctional Center	087	Southampton County	087	Southampton County	3.65	US 58 Southampton Pkwy	87-612 Rivers Mill Rd	500	G	93%	1%	1%	1%	4%	0%	C	0.1151	F	0.5273	510	G	2008
+050356	  US	00460	     	US 460	General Mahone Blvd	087	Southampton County	087	Southampton County	3.72	Sussex County Line	WCL Ivor	9500	B	80%	1%	1%	2%	16%	0%	F	0.1232	A	0.5489	8900	B	2008
+050438	  US	00460	     	US 460	General Mahone Blvd	243	Town of Ivor	087	Southampton County	0.65	WCL Ivor	87-616 Main St	9500	N	80%	1%	1%	2%	16%	0%	N	0.1232	N	0.5489	8900	N	2008
+050355	  US	00460	     	US 460	General Mahone Blvd	243	Town of Ivor	087	Southampton County	0.64	87-616 Main St	ECL Ivor	12000	G	82%	1%	1%	1%	15%	0%	F	0.0729	F	0.5196	11000	G	2008
+050439	  US	00460	     	US 460	General Mahone Blvd	087	Southampton County	087	Southampton County	3.59	ECL Ivor	Isle of Wight County Line	12000	N	82%	1%	1%	1%	15%	0%	N	0.0729	N	0.5196	11000	N	2008
+780791	  FR	00861	     	FR 861	 	087	Southampton County	087	Southampton County	0.18	Dead End	Dead End	20	R							X						04/13/2006
+780792	  FR	00863	     	FR 863	 	087	Southampton County	087	Southampton County	0.25	Dead End	US 258	1	R							X						04/13/2006
+780862	  FR	00943	     	FR 943	 	087	Southampton County	087	Southampton County	0.42	Dead End	Bus US 58	0	?							X
+780863	  FR	00944	     	FR 944	Hancock Dr	087	Southampton County	087	Southampton County	0.55	87-775 Sunlight Dr	Dead End	10	R							X						04/04/2006
+771563	  87	00600	     	87-600	Booth Rd	087	Southampton County	087	Southampton County	3.90	Sussex County Line	87-616 W, Ivor Rd	140	R							X						04/06/2006
+771564	  87	00600	     	87-600	Doles Rd	087	Southampton County	087	Southampton County	5.82	87-616 E, Ivor Rd	87-635 OBerry Church Rd	110	R							X						04/06/2006
+771565	  87	00601	     	87-601	Kellos Mill Rd	087	Southampton County	087	Southampton County	3.60	87-605 Millfield Rd	Sussex County Line	160	R							X						04/06/2006
+771566	  87	00602	     	87-602	No Head Lane	087	Southampton County	087	Southampton County	0.50	87-629 Line Pine Rd	Dead End	130	R							X						04/18/2006
+400130	  87	00603	     	87-603	Unity Rd	087	Southampton County	087	Southampton County	2.50	87-616 Ivor Rd	87-641 W, Cottage Hill Rd	240	G	96%	2%	1%	0%	1%	0%	F	0.1255	F	0.5645	240	G	2008
+400131	  87	00603	     	87-603	Unity Rd	087	Southampton County	087	Southampton County	2.17	87-641 W, Cottage Hill Rd	87-631 E, Corinth Rd	470	G	96%	2%	1%	0%	1%	0%	C	0.1136	F	0.5490	480	G	2008
+400132	  87	00603	     	87-603	Unity Rd	087	Southampton County	087	Southampton County	3.70	87-631 E, Corinth Rd	87-635 W, OBerry Church Rd	520	G	96%	2%	1%	0%	1%	0%	F	0.1090	F	0.6752	530	G	2008
+400133	  87	00603	     	87-603	Backwater Rd	087	Southampton County	087	Southampton County	1.30	87-635 EAST	Isle of Wight County Line	900	G	96%	2%	1%	0%	1%	0%	F	0.1149	F	0.7500	920	G	2008
+771567	  87	00604	     	87-604	Mount Hope Rd	087	Southampton County	087	Southampton County	0.01	87-618 Crumpler Rd	Surry County Line	90	R							X						04/12/2006
+771568	  87	00605	     	87-605	Mill Field Rd	087	Southampton County	087	Southampton County	1.57	Sussex County Line	87-628 S, Courtland Rd	190	R							X						04/12/2006
+400134	  87	00605	     	87-605	Millfield Rd	087	Southampton County	087	Southampton County	1.59	87-628 N, Courtland Rd	87-633 Skyline Rd	110	G	96%	0%	2%	0%	1%	0%	F	0.1366	F	0.5714	110	G	2008
+400135	  87	00605	     	87-605	Millfield Rd	087	Southampton County	087	Southampton County	3.20	87-633 Skyline Rd	87-616 Ivor Rd	130	G	96%	0%	2%	0%	1%	0%	C	0.1259	F	0.5882	130	G	2008
+400136	  87	00605	     	87-605	Millfield Rd	087	Southampton County	087	Southampton County	2.33	87-616 Ivor Rd	87-614 Seacock Chapel Rd	130	G	96%	0%	2%	0%	1%	0%	F	0.1575	F	0.6279	130	G	2008
+771569	  87	00606	     	87-606	Cabin Point Rd	087	Southampton County	087	Southampton County	4.80	SR 35 Plank Rd	87-607 S, Horse Pen Rd	100	R							X						04/12/2006
+771570	  87	00606	     	87-606	Cabin Point Rd	087	Southampton County	087	Southampton County	2.70	87-607 S, Horse Pen Rd	Sussex County Line	20	R							X						04/12/2006
+771571	  87	00607	     	87-607	Farmers Bridge Rd	087	Southampton County	087	Southampton County	0.50	Sussex County Line	SR 35 N, Plank Rd	110	R							X						04/12/2006
+771572	  87	00607	     	87-607	Urquhard Quarter	087	Southampton County	087	Southampton County	2.20	SR 35 S, Plank Rd	87-606 N, Cabin Point Rd	90	R							X						04/12/2006
+771573	  87	00607	     	87-607	Horse Pen Rd	087	Southampton County	087	Southampton County	2.10	87-606 S, Cabin Point Rd	87-628 N, Wakefield Rd	40	R							X						04/12/2006
+771574	  87	00607	     	87-607	 	087	Southampton County	087	Southampton County	1.20	87-628 S, Wakefield Rd	87-633 St Luke Rd	240	R							X						04/12/2006
+771575	  87	00608	     	87-608	Everett Rd	087	Southampton County	087	Southampton County	1.40	87-655 Brandy Pond Rd	87-609 W, Pope Station Rd	10	R							X						04/12/2006
+771576	  87	00608	     	87-608	Mill Neck Rd	087	Southampton County	087	Southampton County	2.90	87-609 E, Pope Station Rd	Sussex County Line	40	R							X						04/12/2006
+400137	  87	00609	     	87-609	Pope Station Rd	087	Southampton County	087	Southampton County	3.10	87-735 Courthouse Rd; Three Creeks Rd	87-608 E, Mill Neck Rd	90	G	90%	1%	5%	3%	2%	0%	F	0.1263	F	0.5000	90	G	2008
+400138	  87	00609	     	87-609	Pope Station Rd	087	Southampton County	087	Southampton County	3.13	87-608 E, Mill Neck Rd	87-653 Carys Bridge Rd	80	G	90%	1%	5%	3%	2%	0%	C	0.1625	F	0.7692	90	G	2008
+771577	  87	00609	     	87-609	Pope Station Rd	087	Southampton County	087	Southampton County	4.50	87-653 Carys Bridge Rd	US 58 Southampton Pkwy	140	R							X						04/12/2006
+771578	  87	00609	     	87-609	Pope Station Rd	087	Southampton County	087	Southampton County	1.59	US 58 Southampton Pkwy	87-658 Cedar View	620	R							X						04/12/2006
+771579	  87	00609	     	87-609	Pope Station Rd	087	Southampton County	087	Southampton County	2.00	87-658 Cedar View	87-693 Garris Mill Rd	300	R							X						04/12/2006
+771580	  87	00610	     	87-610	Mason Rd	087	Southampton County	087	Southampton County	1.20	87-612 Rivers Mill Rd; Fortsville Rd	Sussex County Line	550	R							X						03/14/2006
+771581	  87	00611	     	87-611	Rochelle St	201	Town of Courtland	087	Southampton County	0.18	Bus US 58	87-1509 Linden St	360	R							X						03/14/2006
+771582	  87	00611	     	87-611	Rochelle St	201	Town of Courtland	087	Southampton County	0.02	87-1509 Linden St	87-1522 Linden St	330	R							X						04/04/2006
+771583	  87	00611	     	87-611	Rochelle St	201	Town of Courtland	087	Southampton County	0.13	87-1522 Linden St	87-1506 Robertson St	710	R							X						04/04/2006
+771584	  87	00611	     	87-611	Rochelle St	201	Town of Courtland	087	Southampton County	0.10	87-1506 Robertson St	ECL Courtland	690	R							X						04/04/2006
+771585	  87	00611	     	87-611	Flaggy Run Rd	087	Southampton County	087	Southampton County	2.07	ECL Courtland	87-649 Country Club Rd	270	R							X						04/04/2006
+771586	  87	00611	     	87-611	Flaggy Run Rd	087	Southampton County	087	Southampton County	3.90	87-649 Country Club Rd	87-641 N, Sedley Rd	200	R							X						04/04/2006
+771587	  87	00611	     	87-611	Black Creek Rd	087	Southampton County	087	Southampton County	0.90	87-641 S, Sedley Rd	87-635 W, OBerry Church Rd	1100	R							X						04/04/2006
+771588	  87	00611	     	87-611	Joyners Bridge Rd	087	Southampton County	087	Southampton County	1.50	87-635 E, Black Creek Rd	Isle of Wight County Line	960	R							X						04/04/2006
+771589	  87	00612	     	87-612	Fortsville Rd	087	Southampton County	087	Southampton County	1.10	Sussex County Line	87-615 Adams Grove Rd	80	R							X						04/04/2006
+771590	  87	00612	     	87-612	Fortsville Rd	087	Southampton County	087	Southampton County	3.40	87-615 Adams Grove Rd	87-610 Mason Rd	30	R							X						04/04/2006
+771591	  87	00612	     	87-612	Rivers Mill Rd	087	Southampton County	087	Southampton County	8.60	87-610 Mason Rd	87-655 Brandy Pond Rd; Rock Spring Rd	120	R							X						04/04/2006
+771592	  87	00614	     	87-614	Seacock Chapel Rd	087	Southampton County	087	Southampton County	2.20	87-616 Ivor Rd	87-631 Mission Church Rd	310	R							X						04/06/2006
+771593	  87	00614	     	87-614	Seacock Chapel Rd	087	Southampton County	087	Southampton County	1.40	87-631 Mission Church Rd	87-605 Millfield Rd	110	R							X						04/06/2006
+400139	  87	00614	     	87-614	Seacock Chapel Rd	087	Southampton County	087	Southampton County	3.70	87-605 Millfield Rd	87-635 OBerry Church Rd	450	G	98%	1%	1%	0%	0%	0%	C	0.1263	F	0.5968	460	G	2008
+400140	  87	00614	     	87-614	Seacock Chapel Rd	087	Southampton County	087	Southampton County	1.65	87-635 OBerry Church Rd	Isle of Wight County Line	840	G	98%	1%	1%	0%	0%	0%	F	0.1147	F	0.6567	860	G	2008
+771594	  87	00615	     	87-615	Hicksford Rd	087	Southampton County	087	Southampton County	3.85	US 58 W, Southampton Pkwy	US 58 E, Southampton Pkwy	120	R							X						03/16/2006
+771595	  87	00615	     	87-615	Adams Grove Rd	087	Southampton County	087	Southampton County	2.77	US 58 E, Southampton Pkwy	87-612 Fortsville Rd	150	R							X						03/09/2006
+400141	  87	00616	     	87-616	Ivor Rd	087	Southampton County	087	Southampton County	3.04	SR 35 Main St	87-728 Guy Place Rd	1600	G	91%	2%	2%	1%	4%	0%	F	0.1088	F	0.5890	1600	G	2008
+400142	  87	00616	     	87-616	Ivor Rd	087	Southampton County	087	Southampton County	2.77	87-728 Guy Place Rd	87-633 St Luke Rd	1400	G	91%	2%	2%	1%	4%	0%	F	0.1140	F	0.5710	1500	G	2008
+400143	  87	00616	     	87-616	Ivor Rd	087	Southampton County	087	Southampton County	3.33	87-633 St Luke Rd	87-641 Johnsons Mill Rd	1300	G	91%	2%	2%	1%	4%	0%	C	0.1185	F	0.5658	1300	G	2008
+400144	  87	00616	     	87-616	Ivor Rd	087	Southampton County	087	Southampton County	0.97	87-641 Johnsons Mill Rd	87-614 Seacock Chapel Rd	1500	G	89%	1%	2%	2%	5%	0%	F	0.1286	F	0.5461	1600	G	2008
+400145	  87	00616	     	87-616	Ivor Rd	087	Southampton County	087	Southampton County	2.07	87-614 Seacock Chapel Rd	87-605 Millfield Rd	1500	G	89%	1%	2%	2%	5%	0%	F	0.1059	F	0.5449	1500	G	2008
+400146	  87	00616	     	87-616	Ivor Rd	087	Southampton County	087	Southampton County	2.84	87-605 Millfield Rd	87-600 W, Booth Rd	1400	G	89%	1%	2%	2%	5%	0%	C	0.1040	F	0.5809	1400	G	2008
+400147	  87	00616	     	87-616	Ivor Rd	087	Southampton County	087	Southampton County	1.54	87-600 W, Booth Rd	SCL Ivor	1400	G	89%	1%	2%	2%	5%	0%	F	0.1020	F	0.5272	1400	G	2008
+400148	  87	00616	     	87-616	Main St	243	Town of Ivor	087	Southampton County	0.12	SCL Ivor	87-622 Rawls Dr	1800	G	89%	1%	2%	2%	5%	0%	F	0.0947	F	0.5816	1800	G	2008
+400149	  87	00616	     	87-616	Main St	243	Town of Ivor	087	Southampton County	0.18	87-622 Rawls Dr	87-1201 Bell Ave	1900	G	89%	1%	2%	2%	5%	0%	F	0.0996	F	0.5623	1900	G	2008
+400150	  87	00616	     	87-616	Main St	243	Town of Ivor	087	Southampton County	0.13	87-1201 Bell Ave	87-1202 Gale Ave	2000	G	89%	1%	2%	2%	5%	0%	F	0.0967	F	0.6026	2100	G	2008
+400151	  87	00616	     	87-616	Main St	243	Town of Ivor	087	Southampton County	0.24	87-1202 Gale Ave	US 460 E, General Mahone Blvd	2400	G	89%	1%	2%	2%	5%	0%	F	0.1018	F	0.5855	2400	G	2008
+400152	  87	00616	     	87-616	 	243	Town of Ivor	087	Southampton County	0.20	US 460 W, General Mahone Blvd	NCL Ivor	640	G	94%	1%	1%	0%	4%	0%	F	0.1139	F	0.5466	650	G	2008
+400153	  87	00616	     	87-616	Proctors Bridge Rd	087	Southampton County	087	Southampton County	0.76	NCL Ivor	87-737 Atlantic Ave	600	G	94%	1%	1%	0%	4%	0%	C	0.1164	F	0.5072	610	G	2008
+400154	  87	00616	     	87-616	Proctors Bridge Rd	087	Southampton County	087	Southampton County	1.19	87-737 Atlantic Ave	87-617 Worrique Rd	450	G	94%	1%	1%	0%	4%	0%	F	0.1328	F	0.6723	460	G	2008
+400155	  87	00616	     	87-616	Proctors Bridge Rd	087	Southampton County	087	Southampton County	3.25	87-617 Worrique Rd	87-621 Proctors Bride Rd	250	G	94%	1%	1%	0%	4%	0%	F	0.1374	F	0.5147	250	G	2008
+771596	  87	00617	     	87-617	Worrique Rd	087	Southampton County	087	Southampton County	2.30	87-618 Crumpler Rd	87-616 Proctors Bridge Rd	330	R							X						03/09/2006
+771597	  87	00617	     	87-617	Worrique Rd	087	Southampton County	087	Southampton County	3.70	87-616 Proctors Bridge Rd	87-620 Broadwater Rd	220	R							X						03/09/2006
+771598	  87	00618	     	87-618	Sadler Rd	087	Southampton County	087	Southampton County	1.70	87-616 Ivor Rd	87-600 Booth Rd	220	R							X						04/06/2006
+771599	  87	00618	     	87-618	Sadler Rd	087	Southampton County	087	Southampton County	2.30	87-600 Booth Rd	US 460 W, General Mahone Blvd	440	R							X						04/04/2006
+771600	  87	00618	     	87-618	Crumpler Rd	087	Southampton County	087	Southampton County	2.50	US 460 E, General Mahone Blvd	87-617 Worrique Rd	280	R							X						04/04/2006
+771601	  87	00618	     	87-618	Crumpler Rd	087	Southampton County	087	Southampton County	0.46	87-617 Worrique Rd	87-624 Tin Top Rd	270	R							X						04/04/2006
+771602	  87	00618	     	87-618	Crumpler Rd	087	Southampton County	087	Southampton County	2.54	87-624 Tin Top Rd	87-621 Proctors Bride Rd	210	R							X						04/04/2006
+771603	  87	00619	     	87-619	Burdette Rd	087	Southampton County	087	Southampton County	2.31	87-635 Black Creek Rd	Isle of Wight County Line	210	R							X						04/04/2006
+400156	  87	00620	     	87-620	Broadwater Rd	243	Town of Ivor	087	Southampton County	0.23	US 460 General Mohone Blvd	87-736 Browns Ave	1700	G	92%	0%	1%	1%	6%	0%	F	0.0999	F	0.5042	1700	G	2008
+400157	  87	00620	     	87-620	Broadwater Rd	087	Southampton County	087	Southampton County	1.94	87-736 Browns Ave	87-635 Tucker Swamp Rd	1500	G	92%	0%	1%	1%	6%	0%	C	0.1067	F	0.6273	1600	G	2008
+400158	  87	00620	     	87-620	Broadwater Rd	087	Southampton County	087	Southampton County	1.26	87-635 Tucker Swamp Rd	87-617 Worrique Rd	1600	G	92%	0%	1%	1%	6%	0%	F	0.1080	F	0.6166	1700	G	2008
+400159	  87	00620	     	87-620	Broadwater Rd	087	Southampton County	087	Southampton County	1.06	87-617 Worrique Rd	Isle of Wight County Line	1600	G	92%	0%	1%	1%	6%	0%	F	0.1076	F	0.7395	1600	G	2008
+400160	  87	00621	     	87-621	Proctors Bridge Rd	087	Southampton County	087	Southampton County	0.48	Isle of Wight County Line	87-616 Proctors Bridge Rd	290	G	90%	0%	1%	1%	8%	0%	C	0.1314	F	0.7222	300	G	2008
+771604	  87	00621	     	87-621	Old Blackwater Rd	087	Southampton County	087	Southampton County	0.62	87-616 Proctors Bridge Rd	87-618 Crumpler Rd	260	R							X						04/12/2006
+771605	  87	00621	     	87-621	Old Blackwater Rd	087	Southampton County	087	Southampton County	0.35	87-618 Crumpler Rd	Surry County Line	140	R							X						04/12/2006
+771606	  87	00622	     	87-622	New Rd	087	Southampton County	087	Southampton County	1.49	87-618 Sadler Rd	1.49 ME 87-618 Sadler Rd	90	R							X						04/12/2006
+771607	  87	00622	     	87-622	New Rd	087	Southampton County	087	Southampton County	0.18	1.49 ME 87-618 Sadler Rd	WCL Ivor	80	R							X						04/12/2006
+771608	  87	00622	     	87-622	Rawls Dr	243	Town of Ivor	087	Southampton County	0.42	WCL Ivor	87-1201 Bell Ave	110	R							X						04/12/2006
+771609	  87	00622	     	87-622	Rawls Dr	243	Town of Ivor	087	Southampton County	0.25	87-1201 Bell Ave	87-1204 Church St	80	R							X						04/12/2006
+771610	  87	00622	     	87-622	Rawls Dr	243	Town of Ivor	087	Southampton County	0.10	87-1204 Church St	87-616 Main St	130	R							X						04/12/2006
+771611	  87	00622	     	87-622	Rawls Dr	243	Town of Ivor	087	Southampton County	0.42	87-616 Main St	SCL Ivor	340	R							X						04/12/2006
+771612	  87	00622	     	87-622	New Rd	087	Southampton County	087	Southampton County	3.10	SCL Ivor	87-635 N, OBerry Church Rd	530	R							X						04/12/2006
+771613	  87	00622	     	87-622	New Rd	087	Southampton County	087	Southampton County	0.30	87-635 S, OBerry Church Rd	87-614 Seacock Chapel Rd	110	R							X						04/12/2006
+771614	  87	00623	     	87-623	Clayton Rd	087	Southampton County	087	Southampton County	2.70	87-626 Appleton Rd	87-600 S, Doles Rd	40	R							X						04/18/2006
+771615	  87	00623	     	87-623	Britt Rd	087	Southampton County	087	Southampton County	1.40	87-600 N, Doles Rd	87-635 OBerry Church Rd	50	R							X						04/18/2006
+771616	  87	00624	     	87-624	Tin Top Rd	087	Southampton County	087	Southampton County	0.11	Surry County Line	87-618 Crumpler Rd	200	R							X						04/12/2006
+771617	  87	00625	     	87-625	Quarter Rd	087	Southampton County	087	Southampton County	1.50	87-626 Appleton Rd	87-631 Mission Church Rd	40	R							X						04/06/2006
+771618	  87	00626	     	87-626	Berlin Dory Rd	087	Southampton County	087	Southampton County	4.40	87-628	87-616 S, Ivor Rd	90	R							X						04/18/2006
+771619	  87	00626	     	87-626	Appleton Rd	087	Southampton County	087	Southampton County	5.00	87-616 N, Ivor Rd	87-603 W, Unity Rd	260	R							X						04/18/2006
+771620	  87	00626	     	87-626	Womble Mill Rd	087	Southampton County	087	Southampton County	1.40	87-603 E, Unity Rd	87-630 Camp Farm Rd	40	R							X						04/18/2006
+771621	  87	00626	     	87-626	Womble Mill Rd	087	Southampton County	087	Southampton County	1.50	87-630 Camp Farm Rd	87-645 Vicksville Rd	49	R							X						04/18/2006
+771622	  87	00626	     	87-626	Black Creek Rd	087	Southampton County	087	Southampton County	0.30	87-645 Vicksville Rd	87-635 Black Creek Rd	190	R							X						04/18/2006
+771623	  87	00627	     	87-627	One Mile Rd	087	Southampton County	087	Southampton County	0.90	87-635 Black Creek Rd	87-603 Unity Rd	270	R							X						04/18/2006
+400161	  87	00628	     	87-628	Wakefield Rd	087	Southampton County	087	Southampton County	1.38	SR 35 Plank Rd; Main St	87-728 Guy Place Rd	360	G	90%	0%	1%	0%	8%	0%	F	0.1231	F	0.5714	370	G	2008
+400162	  87	00628	     	87-628	Wakefield Rd	087	Southampton County	087	Southampton County	3.84	87-728 Guy Place Rd	87-607 SOUTH	220	G	90%	0%	1%	0%	8%	0%	C	0.1336	F	0.5172	220	G	2008
+400163	  87	00628	     	87-628	Wakefield Rd	087	Southampton County	087	Southampton County	2.70	87-607 SOUTH	87-626 Berlin Dory Rd	230	G	90%	1%	0%	2%	7%	0%	F	0.1277	F	0.5077	240	G	2008
+400164	  87	00628	     	87-628	Wakefield Rd	087	Southampton County	087	Southampton County	1.70	87-626 Berlin Dory Rd	87-605 S, Barretts Church Rd	300	G	90%	1%	0%	2%	7%	0%	C	0.1463	F	0.6279	310	G	2008
+400165	  87	00628	     	87-628	Courtland Rd	087	Southampton County	087	Southampton County	1.93	87-605 S, Barrets Church Rd	Sussex County Line	340	G	90%	1%	0%	2%	7%	0%	F	0.1248	F	0.5652	340	G	2008
+771624	  87	00629	     	87-629	Line Pine Rd	087	Southampton County	087	Southampton County	1.90	87-619 Burdette Rd	87-635 Black Creek Rd	130	R							X						03/14/2006
+771625	  87	00630	     	87-630	Camp Farm Rd	087	Southampton County	087	Southampton County	1.30	87-631 Corinth Rd	87-626 Womble Mill Rd	40	R							X						03/14/2006
+771626	  87	00631	     	87-631	Corinth Rd	087	Southampton County	087	Southampton County	2.00	87-645 Vicksville Rd	87-603 E, Unity Rd	140	R							X						03/14/2006
+771627	  87	00631	     	87-631	Mission Church Rd	087	Southampton County	087	Southampton County	3.40	87-603 W, Unity Rd	87-614 Seacock Chapel Rd	360	R							X						03/14/2006
+771628	  87	00632	     	87-632	Sedly Rd	087	Southampton County	087	Southampton County	0.80	87-643	87-641 Johnsons Mill Rd	450	R							X						04/19/2006
+771629	  87	00633	     	87-633	St Luke Rd	087	Southampton County	087	Southampton County	2.00	87-616 Ivor Rd	87-607	230	R							X						04/06/2006
+771630	  87	00633	     	87-633	St Luke Rd	087	Southampton County	087	Southampton County	2.50	87-607	87-626 W, Berlin Dory Rd	100	R							X						04/06/2006
+771631	  87	00633	     	87-633	Skyline Rd	087	Southampton County	087	Southampton County	2.20	87-626 E, Berlin Dory Rd	87-605 Millfield Rd	90	R							X						04/06/2006
+771632	  87	00634	     	87-634	Indian Branch Lane	087	Southampton County	087	Southampton County	1.40	87-606 Cabin Point Rd	87-628 Wakefield Rd	40	R							X						04/06/2006
+400166	  87	00635	     	87-635	Oberry Church Rd, Black Creek Rd	087	Southampton County	087	Southampton County	1.70	87-641 Sedley Rd	87-706 Woods Trail	980	G	98%	0%	1%	0%	1%	0%	F	0.1123	F	0.5694	1000	G	2008
+400167	  87	00635	     	87-635	Black Creek Rd	087	Southampton County	087	Southampton County	3.00	87-706 Woods Trail	87-626 Vicksville Rd	1200	G	98%	0%	1%	0%	1%	0%	C	0.1159	F	0.5827	1300	G	2008
+400168	  87	00635	     	87-635	 	087	Southampton County	087	Southampton County	3.70	87-626 Vicksville Rd	87-603 E, Backwater Rd	720	G	98%	0%	1%	0%	1%	0%	F	0.1327	F	0.5053	730	G	2008
+400169	  87	00635	     	87-635	 	087	Southampton County	087	Southampton County	0.60	87-603 E, Backwater Rd	87-603 W, Unity Rd	830	G	98%	0%	1%	0%	1%	0%	F	0.1129	F	0.7211	850	G	2008
+771633	  87	00635	     	87-635	OBerry Church Rd	087	Southampton County	087	Southampton County	4.20	87-603 W, Unity Rd	87-614 Seacock Chapel Rd	240	R							X						04/12/2006
+771634	  87	00635	     	87-635	OBerry Church Rd	087	Southampton County	087	Southampton County	1.70	87-614 Seacock Chapel Rd	US 460 General Mahone Blvd	380	R							X						04/12/2006
+771635	  87	00635	     	87-635	Tucker Swamp Rd	087	Southampton County	087	Southampton County	1.70	US 460 General Mahone Blvd	87-620 Broadwater Rd	320	R							X						04/12/2006
+771636	  87	00636	     	87-636	 	087	Southampton County	087	Southampton County	0.08	87-641 Johnsons Mill Rd	Dead End	20	R							X						04/12/2006
+771637	  87	00637	     	87-637	Harris Rd	087	Southampton County	087	Southampton County	1.60	87-635 Back Creek Rd	87-640 S, Beaton Rd	110	R							X						04/18/2006
+771638	  87	00637	     	87-637	Harris RD	087	Southampton County	087	Southampton County	1.70	87-640 N, Berea Church Rd	87-645 Vicksville Rd	130	R							X						04/18/2006
+771639	  87	00638	     	87-638	Drake Rd	087	Southampton County	087	Southampton County	1.50	87-611 Flaggy Run Rd	87-640 S, Brea Church Rd	190	R							X						04/18/2006
+771640	  87	00638	     	87-638	Drake Rd	087	Southampton County	087	Southampton County	3.78	87-640 N, Brea Church Rd	87-603 Unity Rd	180	R							X						04/18/2006
+771641	  87	00639	     	87-639	Warrens Quarter Rd	087	Southampton County	087	Southampton County	0.20	Surry County Line	Dead End	90	R							X						04/18/2006
+771642	  87	00640	     	87-640	Pond Branch Rd	087	Southampton County	087	Southampton County	1.35	87-641 Sedley Rd	87-638 S, Drake Rd	80	R							X						03/31/2006
+771643	  87	00640	     	87-640	Beaton Rd	087	Southampton County	087	Southampton County	0.65	87-638 N, Drake Rd	87-637 S, Harris Rd	80	R							X						03/31/2006
+771644	  87	00640	     	87-640	Berea Church Rd	087	Southampton County	087	Southampton County	1.20	87-637 N, Harris Rd	87-635 Black Creek Rd	60	R							X						03/31/2006
+400170	  87	00641	     	87-641	Sedley Rd	087	Southampton County	087	Southampton County	1.52	NCL Franklin	87-635 Oberry Church Rd	3500	G	98%	1%	1%	1%	0%	0%	F	0.1023	F	0.5690	3600	G	2008
+400171	  87	00641	     	87-641	Sedley Rd	087	Southampton County	087	Southampton County	2.73	87-635 Oberry Church Rd	87-646 N, Governor Darden Rd	1900	G	98%	1%	1%	1%	0%	0%	C	0.1029	F	0.5692	2000	G	2008
+400172	  87	00641	     	87-641	Sedley Rd	087	Southampton County	087	Southampton County	1.24	87-646 N, Governor Darden Rd	87-632 Sycamore Ave	1900	G	98%	1%	1%	1%	0%	0%	F	0.0958	F	0.6230	1900	G	2008
+400173	  87	00641	     	87-641	Sedley Rd	087	Southampton County	087	Southampton County	0.60	87-632 Sycamore Ave	87-1006 Peachtree Ave	1300	G	98%	1%	1%	1%	0%	0%	F	0.1063	F	0.5226	1300	G	2008
+400174	  87	00641	     	87-641	Sedley Rd	087	Southampton County	087	Southampton County	0.90	87-1006 Peachtree Ave	87-645 Vicksville Rd	960	G	97%	1%	1%	1%	0%	0%	C	0.1133	F	0.5600	980	G	2008
+400176	  87	00641	     	87-641	Johnsons Mill Rd	087	Southampton County	087	Southampton County	1.33	87-645 Vicksville Rd	87-603 E, Unity Rd	620	G	97%	1%	1%	1%	0%	0%	F	0.1116	F	0.5315	640	G	2008
+400177	  87	00641	     	87-641	Cottage Hill Rd	087	Southampton County	087	Southampton County	2.26	87-603 W, Unity Rd	87-616 Ivor Rd	270	G	97%	1%	1%	1%	0%	0%	F	0.1359	F	0.5429	280	G	2008
+771645	  87	00642	     	87-642	Joh;nsons Mill Rd	087	Southampton County	087	Southampton County	0.10	87-641; 87-1009	87-1001 Maple Ave	250	R							X						04/18/2006
+771646	  87	00642	     	87-642	Maple Ave	087	Southampton County	087	Southampton County	0.38	87-1001 Maple Ave	87-646 N, Rosemont Rd	120	R							X						04/18/2006
+771647	  87	00642	     	87-642	Cobb Rd	087	Southampton County	087	Southampton County	0.80	87-646 S, Rosemont Rd	87-638 Drake Rd	160	R							X						04/06/2006
+771648	  87	00643	     	87-643	Bethel Rd	087	Southampton County	087	Southampton County	3.70	87-641 Sedley Rd	87-646 E, Governor Darden Rd	240	R							X						04/18/2006
+771649	  87	00643	     	87-643	 	087	Southampton County	087	Southampton County	1.18	87-646 W, Governor Darden Rd	87-1015 Lakeside Ave	430	R							X						04/18/2006
+771650	  87	00643	     	87-643	 	087	Southampton County	087	Southampton County	0.22	87-1015 Lakeside Ave	87-632 Sycamore Ave	200	R							X						04/18/2006
+771651	  87	00643	     	87-643	 	087	Southampton County	087	Southampton County	1.50	87-632 Sycamore Ave	87-645 Vicksville Rd	650	R							X						04/18/2006
+771652	  87	00644	     	87-644	Scottswood Dr	087	Southampton County	087	Southampton County	1.45	87-649 Country Club Rd	87-643 Bethel Rd	160	R							X						04/04/2006
+771653	  87	00645	     	87-645	 	087	Southampton County	087	Southampton County	2.20	87-628 Wakefield Rd	87-616 S, Ivor Rd	170	R							X						04/06/2006
+771654	  87	00645	     	87-645	Vicksville Rd	087	Southampton County	087	Southampton County	4.20	87-616 N, Ivor Rd	87-638 Drake Rd	170	R							X						04/06/2006
+771655	  87	00645	     	87-645	Vicksville Rd	087	Southampton County	087	Southampton County	2.30	87-638 Drake Rd	87-626 Vicksville Rd	420	R							X						04/18/2006
+400178	  87	00646	     	87-646	Bride St	201	Town of Courtland	087	Southampton County	0.48	BUS US 58	ECL Courtland	990	G	90%	2%	1%	0%	6%	0%	F	0.1379	F	0.5704	1000	G	2008
+400179	  87	00646	     	87-646	Governor Darden Rd	087	Southampton County	087	Southampton County	5.12	ECL Courtland	87-641 N, Sedley Rd	570	G	90%	2%	1%	0%	6%	0%	C	0.1525	F	0.7500	580	G	2008
+771656	  87	00646	     	87-646	Rosemont Rd	087	Southampton County	087	Southampton County	2.17	87-641 S, Sedley Rd	87-1006 Peachtree Ave	70	R							X						04/18/2006
+771657	  87	00646	     	87-646	Rosemont Rd	087	Southampton County	087	Southampton County	0.75	87-1006 Peachtree Ave	87-645 Vicksville Rd	140	R							X						04/18/2006
+771658	  87	00647	     	87-647	River Rd	087	Southampton County	087	Southampton County	5.44	SR 35 S, Main St	SR 35 N, Plank Rd	140	R							X						03/23/2006
+771659	  87	00647	     	87-647	River Rd	087	Southampton County	087	Southampton County	0.12	SR 35 N, Plank Rd	87-719 Barn Tavern Rd	10	R							X						03/23/2006
+771660	  87	00648	     	87-648	Old Hickory Rd	087	Southampton County	087	Southampton County	1.40	Dead End	SR 35 Plank Rd	140	R							X						03/23/2006
+771661	  87	00649	     	87-649	Country Club Rd	087	Southampton County	087	Southampton County	1.87	87-611 Flaggy Run Rd	87-768 Shirley Court	980	R							X						04/04/2006
+400180	  87	00649	     	87-649	Country Club Rd	087	Southampton County	087	Southampton County	0.73	87-768 Shirley Court	87-1706 Homestead Lane	1100	G	98%	1%	1%	0%	0%	0%	C	0.1213	F	0.6148	1100	G	2008
+400181	  87	00649	     	87-649	Country Club Rd	087	Southampton County	087	Southampton County	0.09	87-1706 Homestead Lane	87-644 Scottswood Dr	1400	G	98%	1%	1%	0%	0%	0%	F	0.0954	F	0.5036	1400	G	2008
+400182	  87	00649	     	87-649	Country Club Rd	087	Southampton County	087	Southampton County	0.33	87-644 Scottswood Dr	87-1704 Jay St	1900	G	98%	1%	1%	0%	0%	0%	F	0.1153	F	0.5835	2000	G	2008
+400183	  87	00649	     	87-649	Country Club Rd	087	Southampton County	087	Southampton County	0.79	87-1704 Jay St	87-641 Sedley Rd	2100	G	98%	1%	1%	0%	0%	0%	F	0.1158	F	0.5764	2100	G	2008
+771662	  87	00650	     	87-650	Shady Brook Trail	087	Southampton County	087	Southampton County	2.84	Dead End	US 58 EAST	880	R							X						03/09/2006
+771663	  87	00650	     	87-650	Shady Brook Trail	087	Southampton County	087	Southampton County	2.70	US 58 WEST	87-611 Flaggy Run Rd	810	R							X						03/09/2006
+771664	  87	00651	     	87-651	Indian Town Rd	087	Southampton County	087	Southampton County	1.30	87-653 Carys Bridge Rd	87-609 Pope Station Rd	110	R							X						03/14/2006
+771665	  87	00651	     	87-651	Indian Town Rd	087	Southampton County	087	Southampton County	2.52	87-609 Pope Station Rd	87-757 Medicine Springs Rd	120	R							X						03/14/2006
+771666	  87	00651	     	87-651	Indian Town Rd	087	Southampton County	087	Southampton County	3.75	87-757 Medicine Springs Rd	Bus US 58, SR 35	140	R							X						03/14/2006
+771667	  87	00652	     	87-652	Barham Hill Rd	087	Southampton County	087	Southampton County	3.20	87-661 Old Church Rd	US 58 Southampton Pkwy	120	R							X						03/31/2006
+771668	  87	00652	     	87-652	Old Belfield Rd	087	Southampton County	087	Southampton County	6.20	US 58 Southampton Pkwy	SR 308 Southampton Correctional Ctr	240	R							X						03/31/2006
+771669	  87	00652	     	87-652	Old Belfield Rd	087	Southampton County	087	Southampton County	4.10	SR 308 Southampton Correctional Ctr	87-653 N, Carys Bridge Rd	150	R							X						03/31/2006
+771670	  87	00652	     	87-652	Old Belfield Rd	087	Southampton County	087	Southampton County	1.60	87-653 S, Carys Bridge Rd	87-609 Pope Station Rd	150	R							X						03/31/2006
+771671	  87	00652	     	87-652	Old Belfield Rd & Buckhorn Qtr Rd	087	Southampton County	087	Southampton County	5.20	87-609 Pope Station Rd	87-651 Indian Town Rd	280	R							X						03/31/2006
+400184	  87	00653	     	87-653	Littlte Texas Rd	087	Southampton County	087	Southampton County	2.70	87-730 Whitehead Rd; Little Texas Rd	87-661 Old Church Rd	140	G	86%	6%	2%	0%	6%	0%	F	0.1488	F	0.7442	140	G	2008
+400185	  87	00653	     	87-653	Little Texas Rd	087	Southampton County	087	Southampton County	3.03	87-661 Old Church Rd	87-659 N, Pinopolis	120	G	86%	6%	2%	0%	6%	0%	C	0.1360	F	0.5882	130	G	2008
+400186	  87	00653	     	87-653	Pinopolis Rd	087	Southampton County	087	Southampton County	3.30	87-659 N, Pinopolis	87-668 Clarksburg Rd	200	G	86%	6%	2%	0%	6%	0%	F	0.1324	F	0.6724	200	G	2008
+400187	  87	00653	     	87-653	Pinopolis Rd	087	Southampton County	087	Southampton County	1.10	87-668 Clarksburg Rd	87-658 S, Cedar View	490	G	93%	1%	1%	1%	3%	0%	F	0.1131	F	0.6316	500	G	2008
+400188	  87	00653	     	87-653	Pinopolis Rd	087	Southampton County	087	Southampton County	2.18	87-658 S, Cedar View	SCL Capron	470	G	93%	1%	1%	1%	3%	0%	C	0.1208	F	0.6667	480	G	2008
+400189	  87	00653	     	87-653	Main St	183	Town of Capron	087	Southampton County	0.15	SCL Capron	US 58 Southampton Pkwy	550	G	93%	1%	1%	1%	3%	0%	F	0.1343	F	0.6000	560	G	2008
+400190	  87	00653	     	87-653	Main St	183	Town of Capron	087	Southampton County	0.39	US 58 Southampton Pkwy	87-748 Railroad Ave	1100	G	93%	1%	1%	1%	3%	0%	F	0.1096	F	0.5496	1100	G	2008
+400191	  87	00653	     	87-653	Main St	183	Town of Capron	087	Southampton County	0.28	87-748 Railroad Ave	NCL Capron	850	G	93%	1%	1%	1%	3%	0%	F	0.1258	F	0.6238	860	G	2008
+400192	  87	00653	     	87-653	Carys Bridge Rd	087	Southampton County	087	Southampton County	2.41	NCL Capron	87-651 Shady Brook Tr	240	G	95%	0%	4%	0%	1%	0%	C	0.1573	F	0.7692	250	G	2008
+400193	  87	00653	     	87-653	Carys Bridge Rd	087	Southampton County	087	Southampton County	2.00	87-651 Shady Brook Tr	87-609 Pope Station Rd	170	G	95%	0%	4%	0%	1%	0%	F	0.1691	F	0.6207	170	G	2008
+400194	  87	00653	     	87-653	Carys Bridge Rd	087	Southampton County	087	Southampton County	3.70	87-609 Pope Station Rd	SR 35	190	G	93%	0%	4%	0%	4%	0%	C	0.1231	F	0.5417	200	G	2008
+771672	  87	00654	     	87-654	Rawling Rd	087	Southampton County	087	Southampton County	0.81	87-609 Popes Station Rd	0.81 MN 87-609	220	R							X						03/28/2006
+771673	  87	00654	     	87-654	Rawling Rd	087	Southampton County	087	Southampton County	0.09	0.81 MN 87-609	US 58 Southampton Pkwy	150	R							X						03/28/2006
+771674	  87	00654	     	87-654	Elm Ave	087	Southampton County	087	Southampton County	0.09	US 58 Southampton Pkwy	0.09 MN US 58	40	R							X						03/28/2006
+771675	  87	00654	     	87-654	Elm Ave	087	Southampton County	087	Southampton County	0.77	0.09 MN US 58	ECL Capron	30	R							X						03/28/2006
+771676	  87	00654	     	87-654	Elm Ave	183	Town of Capron	087	Southampton County	0.29	ECL Capron	87-653 Main St, NORTH	150	R							X						03/28/2006
+771677	  87	00654	     	87-654	Pine Level Rd	183	Town of Capron	087	Southampton County	0.23	87-653 Main St, SOUTH	87-748 Railroad Ave	290	R							X						03/28/2006
+771678	  87	00654	     	87-654	Pine Level Rd	183	Town of Capron	087	Southampton County	0.03	87-748 Railroad Ave	WCL Capron	490	R							X						03/28/2006
+771679	  87	00654	     	87-654	Pine Level Rd	087	Southampton County	087	Southampton County	0.70	WCL Capron	87-655 Rock Spring Rd	500	R							X						03/28/2006
+771680	  87	00654	     	87-654	Pine Level Rd	087	Southampton County	087	Southampton County	0.60	87-655 Rock Spring Rd	87-652 Old Belfield Rd	30	R							X						03/28/2006
+771681	  87	00655	     	87-655	Rock Spring Rd	087	Southampton County	087	Southampton County	1.18	87-653 Carys Bridge Rd	87-652 E, Old Belfield Rd	250	R							X						03/14/2006
+771682	  87	00655	     	87-655	Brandy Pond Rd	087	Southampton County	087	Southampton County	2.00	87-652 W, Old Belfield Rd	87-612 Rivers Mill Rd	190	R							X						03/14/2006
+771683	  87	00655	     	87-655	Brandy Pond Rd	087	Southampton County	087	Southampton County	2.00	87-612 Rivers Mill Rd	87-608 Everett Rd	40	R							X						03/14/2006
+771684	  87	00655	     	87-655	Brandy Pond Rd	087	Southampton County	087	Southampton County	0.80	87-608 Everett Rd	87-609 Popes Station Rd	140	R							X						03/14/2006
+771685	  87	00656	     	87-656	Bryants Church Rd	087	Southampton County	087	Southampton County	2.00	87-658 Barrow Rd	US 58 E, Southampton Pkwy	170	R							X						03/14/2006
+771686	  87	00656	     	87-656	Buckhorn Qtr Rd	087	Southampton County	087	Southampton County	0.60	US 58 W, Southampton Pkwy	87-652 Indian Woods Trail	220	R							X						03/14/2006
+771687	  87	00657	     	87-657	Angelico Rd	087	Southampton County	087	Southampton County	2.60	87-693 Garris Mill Rd	87-658 E, Cedar View	47	R							X						03/14/2006
+771688	  87	00657	     	87-657	Angelico Rd	087	Southampton County	087	Southampton County	0.90	87-658 W, Cedar View	87-653 N, Pinopolis Rd	250	R							X						03/14/2006
+771689	  87	00657	     	87-657	Angelico Rd	087	Southampton County	087	Southampton County	3.60	87-653; 87-658	87-652 Old Belfield Rd	120	R							X						03/14/2006
+771690	  87	00658	     	87-658	Cedar View	087	Southampton County	087	Southampton County	2.60	87-659 Pinopolis	87-691 Royal Oak Rd	220	R							X						03/14/2006
+771691	  87	00658	     	87-658	Cedar View Rd	087	Southampton County	087	Southampton County	2.04	87-691 Royal Oak Rd	2.04 ME 87-691 Royal Oak Rd	30	R							X						03/14/2006
+771692	  87	00658	     	87-658	Cedar View Rd	087	Southampton County	087	Southampton County	1.16	2.04 ME 87-691 Royal Oak Rd	87-653 N, Pinopolis Rd	620	R							X						03/14/2006
+771693	  87	00658	     	87-658	Cedar View	087	Southampton County	087	Southampton County	3.40	87-653 S, Pinopolis Rd	87-609 Pope Station Rd	240	R							X						03/14/2006
+771694	  87	00658	     	87-658	Cedar View	087	Southampton County	087	Southampton County	3.40	87-609 Pope Station Rd	SR 35 S, Meherrin Rd	260	R							X						03/14/2006
+771695	  87	00658	     	87-658	Cedar View	087	Southampton County	087	Southampton County	4.94	SR 35 N, Meherrin Rd	87-673 Grays Shop Rd	490	R							X						03/14/2006
+771696	  87	00659	     	87-659	Vicks Mill Rd	087	Southampton County	087	Southampton County	3.10	87-666	87-665 NORTH	290	R							X						03/15/2006
+771697	  87	00659	     	87-659	Vicks Mill Rd/Pinopolis	087	Southampton County	087	Southampton County	3.70	87-665 NORTH	87-653 S, Little Texas Rd	680	R							X						03/15/2006
+771698	  87	00659	     	87-659	Pinopolis	087	Southampton County	087	Southampton County	4.20	87-653 N, Pinopolis Rd; Little Texas Rd	US 58 Southampton Pkwy	360	R							X						03/15/2006
+771699	  87	00659	     	87-659	Drewry Rd	087	Southampton County	087	Southampton County	2.37	US 58 Southampton Pkwy	87-612 Rivers Mill Rd	490	R							X						03/15/2006
+771700	  87	00660	     	87-660	Fox Branch Rd	087	Southampton County	087	Southampton County	2.60	87-659 Pinopolis	87-658 Cedar View	90	R							X						03/14/2006
+771701	  87	00661	     	87-661	Fox Branch Rd	087	Southampton County	087	Southampton County	1.40	87-615 Hicksford Rd	87-722 Tennessee Rd	60	R							X						03/14/2006
+771702	  87	00661	     	87-661	Old Church Rd	087	Southampton County	087	Southampton County	1.90	87-722 Tennessee Rd	87-652 Barham Hill Rd	290	R							X						03/14/2006
+771703	  87	00661	     	87-661	Old Church Rd	087	Southampton County	087	Southampton County	2.19	87-652 Barham Hill Rd	87-653 Little Texas Rd; Littlte Texas Rd	100	R							X						03/14/2006
+771704	  87	00662	     	87-662	Ivy Tact Rd	087	Southampton County	087	Southampton County	7.00	87-653 Little Texas Rd	87-615 Hicksford Rd	270	R							X						03/14/2006
+771705	  87	00663	     	87-663	The Hall Rd	087	Southampton County	087	Southampton County	7.16	SR 186 Hugs Rd	87-653 Little Texas Rd	100	R							X						03/14/2006
+771706	  87	00664	     	87-664	Waller Rd	087	Southampton County	087	Southampton County	2.90	87-663 The Hall Rd	87-659 Vicks Mill Rd	30	R							X						04/05/2006
+771707	  87	00665	     	87-665	Vicks Mill Rd	087	Southampton County	087	Southampton County	2.50	87-663 The Hall Rd	87-659 S, Vicks Mill Rd	110	R							X						04/05/2006
+771708	  87	00665	     	87-665	 	087	Southampton County	087	Southampton County	2.40	87-659 N, Vicks Mill Rd Pinopolis; Vicks Mill Rd	87-668 S, Clarksburg Rd	610	R							X						04/05/2006
+771709	  87	00665	     	87-665	 	087	Southampton County	087	Southampton County	3.55	87-668 N, Clarksburg Rd	87-671 General Thomas Hwy	630	R							X						04/05/2006
+771710	  87	00665	     	87-665	 	087	Southampton County	087	Southampton County	2.80	87-671 General Thomas Hwy	87-673 Statesville Rd	210	R							X						04/05/2006
+771711	  87	00666	     	87-666	 	087	Southampton County	087	Southampton County	0.64	87-730 Whitehead Rd	87-659 Vicks Mill Rd	910	R							X						03/16/2006
+771712	  87	00666	     	87-666	 	087	Southampton County	087	Southampton County	3.10	87-659 Vicks Mill Rd	87-668 Clarksburg Rd	600	R							X						03/16/2006
+400195	  87	00666	     	87-666	Old Branchville Rd	087	Southampton County	087	Southampton County	0.55	87-668 Clarksburg Rd	SR 35	570	G	88%	2%	2%	1%	6%	0%	C	0.1135	F	0.6032	580	G	2008
+771713	  87	00667	     	87-667	Skyes Farm Rd	087	Southampton County	087	Southampton County	1.50	87-665	87-666 WEST	270	R							X						04/05/2006
+771714	  87	00667	     	87-667	Powells/ Hill Rd	087	Southampton County	087	Southampton County	1.19	87-666 EAST	SR 35 S, Meherrin Rd	530	R							X						04/05/2006
+771715	  87	00667	     	87-667	 	087	Southampton County	087	Southampton County	1.08	SR 35 NORTH	87-743 Fuller Mills Rd	310	R							X						04/05/2006
+400196	  87	00668	     	87-668	Clarksburg Rd	087	Southampton County	087	Southampton County	3.55	87-666 Old Branchville Rd	87-702	230	G	96%	1%	2%	0%	0%	0%	C	0.1286	F	0.5500	230	G	2008
+400197	  87	00668	     	87-668	Clarksburg Rd	087	Southampton County	087	Southampton County	1.46	87-702	87-653 Pinopolis Rd	380	G	96%	1%	2%	0%	0%	0%	F	0.1182	F	0.6207	390	G	2008
+771716	  87	00669	     	87-669	 	087	Southampton County	087	Southampton County	1.50	87-668 Clarksburg Rd	87-658 Cedar View	180	R							X						04/05/2006
+771717	  87	00670	     	87-670	Deloatch Ave	174	Town of Boykins	087	Southampton County	0.30	SR 35 Meherrin Rd	ECL Boykins	570	R							X						03/14/2006
+785223	  87	00670	     	87-670	Number 8 School House Rd	087	Southampton County	087	Southampton County	0.20	ECL Boykins	87-1326 Brookside Dr	280	R							X						03/14/2006
+771718	  87	00670	     	87-670	 	087	Southampton County	087	Southampton County	1.01	87-1326 Brookside Dr	87-743 Fuller Mills Rd	280	R							X						03/14/2006
+400198	  87	00671	     	87-671	General Thomas Hwy	087	Southampton County	087	Southampton County	2.02	SR 35	87-665	2500	G	82%	1%	1%	1%	15%	0%	F	0.0881	F	0.6181	2600	G	2008
+400199	  87	00671	     	87-671	General Thomas Hwy	087	Southampton County	087	Southampton County	2.49	87-665	WCL Newsoms	2900	G	82%	1%	1%	1%	15%	0%	C	0.0887	F	0.5613	3000	G	2008
+400800	  87	00671	     	87-671	General Thomas Hwy	270	Town of Newsoms	087	Southampton County	0.17	WCL Newsoms	87-673	3100	G	82%	1%	1%	1%	15%	0%	F	0.0895	F	0.5619	3200	G	2008
+400801	  87	00671	     	87-671	General Thomas Hwy	270	Town of Newsoms	087	Southampton County	0.60	87-673	ECL Newsoms	3000	G	85%	0%	1%	2%	13%	0%	F	0.0894	F	0.5008	3100	G	2008
+400802	  87	00671	     	87-671	General Thomas Hwy	087	Southampton County	087	Southampton County	2.12	ECL Newsoms	87-674 Cypress Bridge Rd	3100	G	85%	0%	1%	2%	13%	0%	C	0.0882	F	0.6269	3200	G	2008
+400803	  87	00671	     	87-671	General Thomas Hwy	087	Southampton County	087	Southampton County	1.71	87-674 Cypress Bridge Rd	87-680 WEST Sunbeam Rd	3500	G	85%	0%	1%	2%	13%	0%	F	0.0894	F	0.5481	3600	G	2008
+400804	  87	00671	     	87-671	General Thomas Hwy	087	Southampton County	087	Southampton County	2.99	87-680 West Sunbeam Rd	87-650 Shady Brook Trail	4100	G	87%	1%	1%	2%	9%	0%	C	0.0908	F	0.6411	4100	G	2008
+400805	  87	00671	     	87-671	General Thomas Hwy	087	Southampton County	087	Southampton County	0.85	87-650 Shady Brook Trail	87-687 Delaware Rd	4400	G	87%	1%	1%	2%	9%	0%	F	0.0795	F	0.6068	4500	G	2008
+400806	  87	00671	     	87-671	 	087	Southampton County	087	Southampton County	0.77	87-687 Deleware Rd	87-688 Dogwood Bend Rd	4700	G	89%	0%	1%	2%	8%	0%	F	0.0846	F	0.6232	4800	G	2008
+400807	  87	00671	     	87-671	General Thomas Hwy	087	Southampton County	087	Southampton County	0.86	87-688 Dogwood Bend Rd	US 58 EB Ramps	5600	G	89%	0%	1%	2%	8%	0%	C	0.0856	F	0.6051	5700	G	2008
+771719	  87	00672	     	87-672	Cypress Bridge Rd	087	Southampton County	087	Southampton County	1.87	87-665	SCL Newsoms	40	R							X						03/14/2006
+771720	  87	00672	     	87-672	Cypress Bridge Rd	270	Town of Newsoms	087	Southampton County	0.01	SCL Newsoms	87-673 W, S Main St	690	R							X						03/14/2006
+771721	  87	00672	     	87-672	Mount Horeb Rd	087	Southampton County	087	Southampton County	2.17	87-673 E, Statesville Rd	87-674 N, Sands Rd	350	R							X						03/14/2006
+771722	  87	00672	     	87-672	 	087	Southampton County	087	Southampton County	2.80	87-674 N, Sands Rd	87-680	190	R							X						03/14/2006
+771723	  87	00672	     	87-672	 	087	Southampton County	087	Southampton County	2.50	87-680	87-684 Monroe Rd	240	R							X						03/21/2006
+400809	  87	00673	     	87-673	 	087	Southampton County	087	Southampton County	0.20	North Carolina State Line	87-684 Monroe Rd	190	G	93%	3%	3%	0%	1%	0%	F				190	G	2008
+400810	  87	00673	     	87-673	Statesville Rd	087	Southampton County	087	Southampton County	3.75	87-684	87-677 N, Barns Church Rd	140	G	93%	3%	3%	0%	1%	0%	C	0.1319	F	0.5789	140	G	2008
+400811	  87	00673	     	87-673	Statesville Rd	087	Southampton County	087	Southampton County	2.69	87-677 N, Barns Church Rd	87-672 E, Mount Horeb Rd	260	G	93%	3%	3%	0%	1%	0%	F	0.1330	F	0.5775	260	G	2008
+400812	  87	00673	     	87-673	 	087	Southampton County	087	Southampton County	0.20	87-672 E, Mount Horeb Rd	SCL Newsoms	550	G	93%	3%	3%	0%	1%	0%	F	0.1178	F	0.5366	560	G	2008
+400813	  87	00673	     	87-673	 	270	Town of Newsoms	087	Southampton County	0.02	SCL Newsoms	87-672 W, Cypress Bridge Rd	780	G	95%	2%	2%	0%	1%	0%	F	0.1077	N	0.5455	790	G	2008
+400814	  87	00673	     	87-673	S Main St	270	Town of Newsoms	087	Southampton County	0.41	87-672 W, Cypress Bridge Rd	87-1401 Railroad St	690	G	95%	2%	2%	0%	1%	0%	C	0.1077	F	0.5455	700	G	2008
+400815	  87	00673	     	87-673	 	270	Town of Newsoms	087	Southampton County	0.38	87-1401 Railroad St	87-671 General Thomas Hwy	970	G	95%	2%	2%	0%	1%	0%	F	0.1006	F	0.5459	990	G	2008
+400816	  87	00673	     	87-673	S Main St	270	Town of Newsoms	087	Southampton County	0.09	87-671 General Thomas Hwy	NCL Newsoms	980	G	95%	2%	2%	0%	1%	0%	F	0.1909	F	0.6220	1000	G	2008
+400817	  87	00673	     	87-673	 	087	Southampton County	087	Southampton County	0.20	NCL Newsoms	87-658 Cedar View	730	G	95%	2%	2%	0%	1%	0%	F	0.1178	F	0.5143	750	G	2008
+400818	  87	00673	     	87-673	Grays Shop Rd	087	Southampton County	087	Southampton County	2.38	87-658 Cedar View	SR 35	170	G	96%	1%	2%	0%	1%	0%	C	0.1563	F	0.5600	170	G	2008
+771724	  87	00674	     	87-674	Cypress Bridge Rd	087	Southampton County	087	Southampton County	3.40	87-743 Fuller Mills Rd	87-673 S, Statesville Rd	190	R							X						04/05/2006
+771725	  87	00674	     	87-674	Cypress Bridge Rd	087	Southampton County	087	Southampton County	2.00	87-673 N, Statesville Rd	87-672 S, Mount Horeb Rd	410	R							X						03/03/2006
+771726	  87	00674	     	87-674	Sands Rd	087	Southampton County	087	Southampton County	2.85	87-672 N, Mount Horeb Rd	87-731 Ridley Rd	200	R							X						03/03/2006
+771727	  87	00674	     	87-674	Rochelle Swamp Rd	087	Southampton County	087	Southampton County	1.15	87-731 Ridley Rd	87-680	30	R							X						03/03/2006
+771728	  87	00675	     	87-675	Greenhead Rd	087	Southampton County	087	Southampton County	2.10	87-658 Cedar View	87-731 Ridley Rd	160	R							X						03/14/2006
+771729	  87	00676	     	87-676	Southampton Pkwy	087	Southampton County	087	Southampton County	0.44	Dead End	87-714 Preston St	140	R							X						03/14/2006
+771730	  87	00677	     	87-677	Barns Church Rd	087	Southampton County	087	Southampton County	2.40	87-673 S, Statesville Rd	87-673 N, Statesville Rd	180	R							X						03/14/2006
+771731	  87	00678	     	87-678	 	087	Southampton County	087	Southampton County	2.30	87-684 Monroe Rd	87-677 Barns Church Rd	520	R							X						03/14/2006
+771732	  87	00679	     	87-679	Mills Path	087	Southampton County	087	Southampton County	1.70	87-684 Monroe Rd	87-680 W, Sun Beam Rd	60	R							X						03/28/2006
+771733	  87	00679	     	87-679	 	087	Southampton County	087	Southampton County	0.20	87-680 W, Sun Beam Rd	87-680 EAST	60	R							X						03/28/2006
+771734	  87	00679	     	87-679	 	087	Southampton County	087	Southampton County	0.70	87-680 EAST	87-685 Whitley Branch Rd	80	R							X						03/28/2006
+771735	  87	00680	     	87-680	Sun Beam Rd	087	Southampton County	087	Southampton County	0.60	North Carolina State Line	87-679 W, Mills Path	60	R							X						03/28/2006
+771736	  87	00680	     	87-680	 	087	Southampton County	087	Southampton County	2.70	87-679 EAST	87-684 Monroe Rd	80	R							X						03/28/2006
+771737	  87	00680	     	87-680	 	087	Southampton County	087	Southampton County	4.35	87-684 Monroe Rd	87-671 W, General Thomas Hwy	220	R							X						03/28/2006
+771738	  87	00680	     	87-680	 	087	Southampton County	087	Southampton County	2.15	87-671 E, General Thomas Hwy	87-674 Rochelle Swamp Rd	130	R							X						03/02/2006
+771739	  87	00681	     	87-681	Beale Rd	087	Southampton County	087	Southampton County	1.40	87-680	87-734 Handsom Rd	80	R							X						03/02/2006
+771740	  87	00682	     	87-682	Woodland Rd	087	Southampton County	087	Southampton County	2.30	87-683 Mary Hunt Rd	87-680	280	R							X						04/05/2006
+771741	  87	00683	     	87-683	Mary Hunt Rd	087	Southampton County	087	Southampton County	4.40	87-674 Cypress Bridge Rd	87-684 Monroe Rd	270	R							X						04/05/2006
+400819	  87	00684	     	87-684	Monroe Rd	087	Southampton County	087	Southampton County	2.95	87-673	87-683 Mary Hunt Rd	180	G	97%	1%	2%	0%	0%	0%	C	0.1333	F	0.6538	180	G	2008
+400820	  87	00684	     	87-684	Monroe Rd	087	Southampton County	087	Southampton County	3.03	87-683 Mary Hunt Rd	87-720 Nottoway Lane	420	G	97%	1%	2%	0%	0%	0%	F	0.1031	F	0.5581	420	G	2008
+400821	  87	00684	     	87-684	Monroe Rd	087	Southampton County	087	Southampton County	2.37	87-720 Nottoway Lane	87-687 South	660	G	97%	1%	2%	0%	0%	0%	F	0.1087	F	0.5143	670	G	2008
+400822	  87	00684	     	87-684	Sycamore Church Rd	087	Southampton County	087	Southampton County	1.60	87-687 South	87-688 S, New Market Rd	580	G	97%	1%	1%	1%	0%	0%	C	0.1107	F	0.6324	590	G	2008
+400823	  87	00684	     	87-684	Dogwood Bend Rd	087	Southampton County	087	Southampton County	1.33	87-688 S, New Market Rd	87-771 Howells Corner Rd	570	G	97%	1%	1%	1%	0%	0%	F	0.0920	F	0.5431	590	G	2008
+400824	  87	00684	     	87-684	Monroe Rd	087	Southampton County	087	Southampton County	0.02	87-771 Howells Corner Rd	US 258 Smith Ferry Rd	940	G	97%	1%	1%	1%	0%	0%	F				950	G	2008
+771742	  87	00685	     	87-685	Whitley Branch Rd	087	Southampton County	087	Southampton County	1.60	North Carolina State Line	87-686 Raiver Dale Dr	210	R							X						03/03/2006
+771743	  87	00686	     	87-686	Raiver Dale Dr	087	Southampton County	087	Southampton County	2.47	87-680	87-685 Whitley Branch Rd	120	R							X						03/03/2006
+771744	  87	00686	     	87-686	 	087	Southampton County	087	Southampton County	2.10	87-685 Whitley Branch Rd	US 258 Smith Ferry Rd	320	R							X						03/03/2006
+771745	  87	00686	     	87-686	 	087	Southampton County	087	Southampton County	1.40	US 258 Smith Ferry Rd	North Carolina State Line	80	R							X						03/03/2006
+771746	  87	00687	     	87-687	Forks of the River Rd	087	Southampton County	087	Southampton County	0.80	Dead End	US 258 Smiths Ferry Rd	180	R							X						03/23/2006
+771747	  87	00687	     	87-687	Delaware Rd	087	Southampton County	087	Southampton County	3.10	US 258 Smiths Ferry Rd	87-689 Schoolhouse Rd	90	R							X						03/23/2006
+771748	  87	00687	     	87-687	Delaware Rd	087	Southampton County	087	Southampton County	0.40	87-689 Schoolhouse Rd	0.40 MN 87-689 Schoolhouse Rd	240	R							X						03/23/2006
+771749	  87	00687	     	87-687	Delaware Rd	087	Southampton County	087	Southampton County	0.10	0.40 MN 87-689 Schoolhouse Rd	87-1110 Cherokee Dr	340	R							X						03/23/2006
+771750	  87	00687	     	87-687	Delaware Rd	087	Southampton County	087	Southampton County	1.43	87-1110 Cherokee Dr	87-684 S, Sycamore Church Rd; Monroe Rd	500	R							X						03/23/2006
+400825	  87	00687	     	87-687	Delaware Rd	087	Southampton County	087	Southampton County	1.76	87-684 N, Sycamore Church Rd	87-671 General Thomas Hwy	1300	G	97%	1%	1%	1%	1%	0%	C	0.1005	F	0.6260	1300	G	2008
+771751	  87	00687	     	87-687	Delaware Rd	087	Southampton County	087	Southampton County	2.34	87-671 General Thomas Hwy	Bus US 58 Camp Pkwy	1300	R							X						03/28/2006
+400826	  87	00687	     	87-687	Delaware Rd	087	Southampton County	087	Southampton County	1.33	Bus US 58 Camp Pkwy	87-641 Sedley Rd	850	G	95%	1%	1%	2%	1%	0%	C	0.1085	F	0.5000	870	G	2008
+771752	  87	00688	     	87-688	Rose Valley Rd	087	Southampton County	087	Southampton County	2.24	US 58	87-687 Delaware Rd	320	R							X						03/28/2006
+771753	  87	00688	     	87-688	Dogwood Bend Rd	087	Southampton County	087	Southampton County	1.90	87-687 Delaware Rd	87-684 N, Dogwood Bend Rd	510	R							X						03/28/2006
+771754	  87	00688	     	87-688	New Market Rd	087	Southampton County	087	Southampton County	0.90	87-684 S, Dogwood Bend Rd; Sycamore Church Rd	US 258 Smith Ferry Rd	200	R							X						03/28/2006
+771755	  87	00689	     	87-689	School House Rd	087	Southampton County	087	Southampton County	2.30	87-687 Fork of the River	US 258 Smith Ferry Rd	280	R							X						03/28/2006
+771756	  87	00690	     	87-690	Bethany School Rd	087	Southampton County	087	Southampton County	1.10	SR 189 South Quay Rd	US 258 Smith Ferry Rd	180	R							X						03/31/2006
+771757	  87	00691	     	87-691	Royal Oak Rd	087	Southampton County	087	Southampton County	0.50	87-658 Cedar View Rd	US 58 Southampton Pkwy	60	R							X						03/15/2006
+771758	  87	00692	     	87-692	White House Rd	087	Southampton County	087	Southampton County	0.90	87-775 Sunlight Dr	Bus US 58	80	R							X						03/15/2006
+771759	  87	00693	     	87-693	Garris Mill Rd	087	Southampton County	087	Southampton County	3.53	87-665	SR 35 Meherrin Rd	30	R							X						03/15/2006
+771760	  87	00694	     	87-694	Old Lamb Rd	087	Southampton County	087	Southampton County	1.05	Dead End	US 58 Southampton Pkwy	20	R							X						03/15/2006
+771761	  87	00694	     	87-694	Old Lamb Rd	087	Southampton County	087	Southampton County	0.21	US 58 Southampton Pkwy	87-653 Pinopolis Rd	780	R							X						03/15/2006
+771762	  87	00695	     	87-695	Old Belford Rd	087	Southampton County	087	Southampton County	0.10	US 58 Southampton Pkwy	87-652 Old Belfield Rd	290	R							X						03/09/2006
+771763	  87	00696	     	87-696	Dickens Lane	087	Southampton County	087	Southampton County	1.20	SR 35 Meherrin Rd	87-658 Cedar View	60	R							X						03/09/2006
+771764	  87	00697	     	87-697	Hornet Swamp Rd	087	Southampton County	087	Southampton County	1.30	87-612 Rivers Mill Rd	Sussex County Line	120	R							X						03/09/2006
+771765	  87	00698	     	87-698	Duke Rd	087	Southampton County	087	Southampton County	1.80	87-683 Mary Hunt Rd	87-672	30	R							X						04/05/2006
+771766	  87	00699	     	87-699	 	087	Southampton County	087	Southampton County	0.60	Dead End	87-609 Pope Station Rd	20	R							X						04/05/2006
+771767	  87	00700	     	87-700	Hicks Ford Rd	087	Southampton County	087	Southampton County	0.10	87-615 Hicksford Rd	Dead End	70	R							X						03/14/2006
+771768	  87	00701	     	87-701	Godwin St	087	Southampton County	087	Southampton County	1.50	North Carolina State Line	SCL Branchville	20	R							X						04/14/2006
+785224	  87	00701	     	87-701	Godwin St	175	Town of Branchville	087	Southampton County	0.30	SCL Branchville	SR 186	60	R							X						04/14/2006
+771769	  87	00701	     	87-701	Godwin St	175	Town of Branchville	087	Southampton County	0.15	SR 186	87-730	220	R							X						04/14/2006
+771770	  87	00702	     	87-702	Cabin Point Lane	087	Southampton County	087	Southampton County	3.95	87-659 Vicks Mill Rd	87-712 Porter House	130	R							X						03/15/2006
+771771	  87	00702	     	87-702	 	087	Southampton County	087	Southampton County	0.95	87-712 Porter House	87-668 Clarksburg Rd	390	R							X						03/15/2006
+771772	  87	00703	     	87-703	Sunny Side Rd	087	Southampton County	087	Southampton County	2.00	SR 35 Meherrin Rd	87-673 Grays Shop Rd	20	R							X						03/15/2006
+771773	  87	00704	     	87-704	Turner Rd	087	Southampton County	087	Southampton County	1.67	US 58 Southampton Pkwy	87-652 Barham Hill Rd	70	R							X						03/16/2006
+771774	  87	00705	     	87-705	Dixie Farm Rd	087	Southampton County	087	Southampton County	0.40	87-635 OBerry Church Rd	87-611 Black Creek Rd	140	R							X						03/16/2006
+300314	  87	00706	     	87-706	Woods Trail	087	Southampton County	087	Southampton County	1.92	NCL Franklin	87-635 Erase this	1200	G	99%	0%	0%	0%	0%	0%	C	0.1181	F	0.6319	1200	G	2008
+771775	  87	00707	     	87-707	Carolina Rd	087	Southampton County	087	Southampton County	0.30	North Carolina State Line	87-673 Statesville Rd	160	R							X						03/16/2006
+771776	  87	00708	     	87-708	Myrick Lane	087	Southampton County	087	Southampton County	2.30	87-674 Cypress Bridge Rd	87-673 Statesville Rd	160	R							X						03/16/2006
+771777	  87	00709	     	87-709	Thomaston Rd	270	Town of Newsoms	087	Southampton County	0.64	87-671 General Thomas Hwy	NCL Newsoms	150	R							X						03/21/2006
+785225	  87	00709	     	87-709	Thomaston Rd	087	Southampton County	087	Southampton County	2.36	NCL Newsoms	87-674 Sands Rd	140	R							X						03/21/2006
+771778	  87	00710	     	87-710	Round Hill Rd	087	Southampton County	087	Southampton County	2.50	87-633 St Luke Rd	87-616 Ivor Rd	50	R							X						04/06/2006
+771779	  87	00711	     	87-711	Green Plain Rd	087	Southampton County	087	Southampton County	1.50	US 58 Southampton Pkwy	Greensville County Line	100	R							X						03/09/2006
+771780	  87	00712	     	87-712	Porter House	087	Southampton County	087	Southampton County	2.07	87-665	87-702 Cabin Point Lane	520	R							X						03/09/2006
+771781	  87	00713	     	87-713	Farmer Grove	087	Southampton County	087	Southampton County	0.40	87-647 River Rd	SR 35 Plank Rd	80	R							X						03/23/2006
+400827	  87	00714	     	87-714	Preston St	087	Southampton County	087	Southampton County	1.53	SR 189 South Quay Rd	SCL Franklin	1400	G	98%	0%	1%	0%	1%	0%	C	0.0995	F	0.5407	1400	G	2008
+771782	  87	00715	     	87-715	Peete Church	087	Southampton County	087	Southampton County	1.70	Sussex County Line	87-612 Rivers Mill Rd	50	R							X						03/09/2006
+771783	  87	00716	     	87-716	Odom Chapel Rd	087	Southampton County	087	Southampton County	3.67	87-743 Fuller Mills Rd	87-665	110	R							X						03/14/2006
+771784	  87	00717	     	87-717	Freemans	087	Southampton County	087	Southampton County	1.60	87-618 Sadler Rd	Dead End	10	R							X						04/06/2006
+771785	  87	00718	     	87-718	Arringdale Rd	087	Southampton County	087	Southampton County	0.07	US 58 Southampton Pkwy	0.07 MN US 58	30	R							X						04/06/2006
+771786	  87	00718	     	87-718	Arringdale Rd	087	Southampton County	087	Southampton County	0.93	0.07 MN US 58	87-652 Old Belfield Rd	30	R							X						04/06/2006
+771787	  87	00719	     	87-719	Barn Tavern Rd	087	Southampton County	087	Southampton County	0.47	87-653 Carys Bridge Rd	SR 35 Plank Rd	110	R							X						03/23/2006
+771788	  87	00719	     	87-719	Barn Tavern Rd	087	Southampton County	087	Southampton County	0.14	SR 35 Plank Rd	87-647 River Rd	40	R							X						03/23/2006
+771789	  87	00719	     	87-719	Barn Tavern Rd	087	Southampton County	087	Southampton County	0.25	87-647 River Rd	Dead End	30	R							X						03/23/2006
+771790	  87	00720	     	87-720	Nottoway Lane	087	Southampton County	087	Southampton County	0.70	87-684 Monroe Rd	Dead End	60	R							X						03/21/2006
+771791	  87	00721	     	87-721	Three Bees Rd	087	Southampton County	087	Southampton County	0.90	87-671 General Thomas Hwy	Dead End	140	R							X						03/14/2006
+771792	  87	00722	     	87-722	Tennessee Rd	087	Southampton County	087	Southampton County	1.20	87-661 Old Church Rd; Fox Branch Rd	US 58 Southampton Pkwy	200	R							X						03/14/2006
+771793	  87	00723	     	87-723	Tann Rd	087	Southampton County	087	Southampton County	1.80	87-663 The Hall Rd	Dead End	60	R							X						03/14/2006
+771794	  87	00724	     	87-724	Peter Edwards Rd	087	Southampton County	087	Southampton County	1.20	87-653 Pinopolis Rd	87-668 Clarksburg Rd	30	R							X						03/14/2006
+771795	  87	00725	     	87-725	Doctors Rd	087	Southampton County	087	Southampton County	0.37	Dead End	87-684 Monroe Rd	30	R							X						03/14/2006
+793418	  87	00726	     	87-726	 	087	Southampton County	087	Southampton County	0.11	87-644 Scottswood Dr	Dead End	0	?							X
+771796	  87	00727	     	87-727	Old Bryant Lane	087	Southampton County	087	Southampton County	0.50	SR 35 Main St	Dead End	10	R							X						04/12/2006
+771797	  87	00728	     	87-728	Guy Place Rd	087	Southampton County	087	Southampton County	1.60	87-628 Wakefield Rd	87-616 Ivor Rd	150	R							X						04/16/2006
+771798	  87	00729	     	87-729	Quail Path	087	Southampton County	087	Southampton County	0.80	87-672	Dead End	9	R							X						04/05/2006
+400828	  87	00730	     	87-730	Little Texas Rd	087	Southampton County	087	Southampton County	2.60	Greensville County Line	87-653 Littlte Texas Rd	140	G	88%	1%	3%	1%	8%	0%	F	0.1451	F	0.6087	140	G	2008
+400829	  87	00730	     	87-730	Whitehead Rd	087	Southampton County	087	Southampton County	3.67	87-653 Little Texas Rd	87-663 The Hall Rd	200	G	88%	1%	3%	1%	8%	0%	F	0.1043	F	0.5833	200	G	2008
+400830	  87	00730	     	87-730	Whitehead Rd	087	Southampton County	087	Southampton County	2.29	87-663 The Hall Rd	87-666	290	G	88%	1%	3%	1%	8%	0%	C	0.1007	F	0.6000	290	G	2008
+400831	  87	00730	     	87-730	 	087	Southampton County	087	Southampton County	0.05	87-666	NCL Branchville	560	G	88%	1%	3%	1%	8%	0%	F	0.1214	F	0.5600	570	G	2008
+400832	  87	00730	     	87-730	 	175	Town of Branchville	087	Southampton County	0.37	NCL Branchville	SR 186	570	G	88%	1%	3%	1%	8%	0%	F	0.1135	F	0.5686	580	G	2008
+771799	  87	00731	     	87-731	Ridley Rd	087	Southampton County	087	Southampton County	2.60	87-674 Rochelle Swamp Rd; Sands Rd	87-675 Greenhead Rd	110	R							X						03/30/2006
+771800	  87	00731	     	87-731	Ridley Rd	087	Southampton County	087	Southampton County	1.54	87-675 Greenhead Rd	SR 35	100	R							X						03/30/2006
+771801	  87	00732	     	87-732	Clubhouse Rd	087	Southampton County	087	Southampton County	0.20	Dead End	0.20 MN Dead End	20	R							X						04/04/2006
+771802	  87	00732	     	87-732	Clubhouse Rd	087	Southampton County	087	Southampton County	0.20	0.20 MN Dead End	87-609 Pope Station Rd	60	R							X						03/30/2006
+771803	  87	00733	     	87-733	Orchard Lane	087	Southampton County	087	Southampton County	0.90	Dead End	87-653 Pinopolis Rd	48	R							X						03/30/2006
+771804	  87	00734	     	87-734	Handsom Rd	087	Southampton County	087	Southampton County	2.17	87-672	87-671 General Thomas Hwy	90	R							X						04/09/2006
+400833	  87	00735	     	87-735	Three Creeks Rd	087	Southampton County	087	Southampton County	1.80	SR 308; 87-612	87-609 Pope Station Rd	390	G	92%	1%	2%	1%	3%	0%	C	0.1455	F	0.6429	390	G	2008
+300315	  87	00735	     	87-735	Courthouse Rd	087	Southampton County	087	Southampton County	0.74	87-609 Pope Station Rd	Sussex County Line	370	G	92%	1%	2%	1%	3%	0%	F	0.1327	F	0.5905	380	G	2008
+771805	  87	00736	     	87-736	Browns Ave	087	Southampton County	087	Southampton County	0.33	87-616 Proctors Bridge Rd	87-620 Broadwater Rd	40	R							X						03/08/2006
+771806	  87	00737	     	87-737	Atlantic Ave	087	Southampton County	087	Southampton County	0.25	Dead End	87-616 Proctors Bridge Rd	30	R							X						03/08/2006
+771807	  87	00738	     	87-738	Bowers Rd	087	Southampton County	087	Southampton County	0.65	87-635 Black Creek Rd	Dead End	50	R							X						03/08/2006
+771808	  87	00739	     	87-739	Willow Circle	087	Southampton County	087	Southampton County	0.10	87-650 Shady Brook Tr	Dead End	60	R							X						04/04/2006
+771809	  87	00740	     	87-740	Sebrell Ave	087	Southampton County	087	Southampton County	0.15	Dead End	87-647 River Rd	40	R							X						04/04/2006
+771810	  87	00741	     	87-741	Grant St	087	Southampton County	087	Southampton County	0.13	Dead End	Bus US 58	160	R							X						03/16/2006
+771811	  87	00742	     	87-742	Old Bridge Rd	087	Southampton County	087	Southampton County	0.92	Dead End	0.92 MN of Dead End	20	R							X						03/16/2006
+771812	  87	00742	     	87-742	Old Bridge Rd	087	Southampton County	087	Southampton County	0.80	0.92 MN of Dead End	US 58 Southampton Pkwy	210	R							X						03/16/2006
+771813	  87	00742	     	87-742	Old Bridge Rd	087	Southampton County	087	Southampton County	0.28	US 58 Southampton Pkwy	Bus US 58	570	R							X						03/16/2006
+771814	  87	00743	     	87-743	Fuller Mills Rd	087	Southampton County	087	Southampton County	4.50	North Carolina State Line	87-667	220	R							X						03/28/2006
+771815	  87	00743	     	87-743	Fuller Mills Rd	087	Southampton County	087	Southampton County	1.00	87-667	87-671 General Thomas Hwy	310	R							X						03/28/2006
+771816	  87	00744	     	87-744	Lincoln Dr	087	Southampton County	087	Southampton County	0.13	Bus US 58	Dead End	40	R							X						03/30/2006
+771817	  87	00745	     	87-745	Gene	087	Southampton County	087	Southampton County	0.07	87-650 Shady Brook Trail	Dead End	40	R							X						03/14/2006
+771818	  87	00746	     	87-746	Washington Dr	087	Southampton County	087	Southampton County	0.10	Bus US 58	Cul-de-Sac	100	R							X						03/30/2006
+771819	  87	00747	     	87-747	Lee St	087	Southampton County	087	Southampton County	0.20	Dead End	US 58	80	R							X						03/30/2006
+771820	  87	00748	     	87-748	Railroad Ave	183	Town of Capron	087	Southampton County	0.21	87-654 Pine Level Rd	87-653 Main St	270	R							X						03/30/2006
+771821	  87	00749	     	87-749	Melon Field Rd	087	Southampton County	087	Southampton County	2.25	87-709 Thomaston Rd	87-731 Ridley Rd	200	R							X						03/28/2006
+771822	  87	00750	     	87-750	 	087	Southampton County	087	Southampton County	1.90	87-653 Little Texas Rd	87-663 The Hall Rd	20	R							X						03/30/2006
+771823	  87	00751	     	87-751	Drew Ave	087	Southampton County	087	Southampton County	0.10	US 460 General Mahone Blvd	Dead End	10	R							X						03/08/2006
+771824	  87	00752	     	87-752	Hobos Rd	087	Southampton County	087	Southampton County	0.60	Dead End	87-653 Carys Bridge Rd	10	R							X						03/30/2006
+771825	  87	00753	     	87-753	Old Nottoway Rd	087	Southampton County	087	Southampton County	0.43	87-686	0.43 ME 87-686	180	R							X						04/04/2006
+771826	  87	00753	     	87-753	Old Nottoway Rd	087	Southampton County	087	Southampton County	0.29	0.43 ME 87-686	Dead End	180	R							X						04/04/2006
+771827	  87	00756	     	87-756	Terra Lane	087	Southampton County	087	Southampton County	0.45	Dead End	87-618 Sadler Rd	2	R							X						03/08/2006
+771828	  87	00757	     	87-757	Medicine Springs Rd	087	Southampton County	087	Southampton County	2.00	US 58 Southampton Pkwy	87-651 Indian Town Rd	170	R							X						03/30/2006
+771829	  87	00758	     	87-758	Old Cart Rd	087	Southampton County	087	Southampton County	0.67	Dead End	87-651 Indian Town Rd	30	R							X						03/30/2006
+771830	  87	00759	     	87-759	Shiloh Rd	087	Southampton County	087	Southampton County	0.32	SR 35 Meherrin Rd	87-666 Old Branchville Rd	130	R							X						03/28/2006
+771831	  87	00761	     	87-761	Meadow St	183	Town of Capron	087	Southampton County	0.35	US 58 Southampton Pkwy	87-654 Church St	280	R							X						03/30/2006
+771832	  87	00762	     	87-762	Barham Ave	183	Town of Capron	087	Southampton County	0.07	87-653 Main St	87-761 Meadow St	200	R							X						03/30/2006
+771833	  87	00763	     	87-763	Blue Pond Rd	087	Southampton County	087	Southampton County	0.35	87-659 Drewry Rd	Dead End	30	R							X						03/30/2006
+771834	  87	00767	     	87-767	Frances St	087	Southampton County	087	Southampton County	0.05	87-649 Country Club Rd	Dead End	20	R							X						03/14/2006
+771835	  87	00768	     	87-768	Shirley Lane	087	Southampton County	087	Southampton County	0.05	87-649 Country Club Rd	Dead End	46	R							X						03/14/2006
+771836	  87	00770	     	87-770	Howell Courner Rd	087	Southampton County	087	Southampton County	0.20	87-684 Dogwood Bend Rd	US 258 Smith Ferry Rd	40	R							X						04/04/2006
+400834	  87	00771	     	87-771	Howell's Corner Rd	087	Southampton County	087	Southampton County	0.09	87-684 Monroe Rd; Dogwood Bend Rd	US 258 Smith Ferry Rd	20	G	97%	1%	1%	1%	0%	0%	F	0.2857	F	0.6667	20	G	2008
+771837	  87	00772	     	87-772	Hunt Club Rd	087	Southampton County	087	Southampton County	0.17	Dead End	87-650 Shady Brook Trail	80	R							X						04/04/2006
+771838	  87	00775	     	87-775	Sunlight Dr	087	Southampton County	087	Southampton County	0.42	US 58 Southampton Pkwy	Bus US 58	70	R							X						04/04/2006
+771839	  87	01001	     	87-1001	Maple Ave	087	Southampton County	087	Southampton County	0.10	87-1003 Fourth St	87-1002 Second St	110	R							X						03/09/2006
+771840	  87	01001	     	87-1001	Maple Ave	087	Southampton County	087	Southampton County	0.15	87-1002 Second St	87-642 Cobb Rd; Maple Ave	140	R							X						03/09/2006
+771841	  87	01002	     	87-1002	Second St	087	Southampton County	087	Southampton County	0.09	87-1001 Maple Ave	87-641 Johnsons Mill Rd	40	R							X						03/09/2006
+771842	  87	01003	     	87-1003	Fourth St	087	Southampton County	087	Southampton County	0.15	87-1010 Oak Lane	87-1001 Maple Ave	170	R							X						03/09/2006
+771843	  87	01003	     	87-1003	Fourth St	087	Southampton County	087	Southampton County	0.10	87-1001 Maple Ave	87-641 Johnsons Mill Rd	110	R							X						03/09/2006
+771844	  87	01004	     	87-1004	Magnolia Ave	087	Southampton County	087	Southampton County	0.07	87-1008 First St	87-641 Johnsons Mill Rd	90	R							X						03/09/2006
+771845	  87	01005	     	87-1005	 	087	Southampton County	087	Southampton County	0.08	Dead End	87-1006 Peachtree Ave	20	R							X						03/09/2006
+771846	  87	01006	     	87-1006	Peachtree Ave	087	Southampton County	087	Southampton County	0.06	87-1005	87-1008 First St	30	R							X						03/09/2006
+771847	  87	01006	     	87-1006	Peachtree Ave	087	Southampton County	087	Southampton County	0.07	87-1008 First St	87-641 Johnsons Mill Rd	190	R							X						03/09/2006
+771848	  87	01006	     	87-1006	Peachtree Ave	087	Southampton County	087	Southampton County	0.40	87-641 Johnsons Mill Rd	87-646 Rose Mount Rd	190	R							X						03/09/2006
+771849	  87	01007	     	87-1007	Pine Ave	087	Southampton County	087	Southampton County	0.07	87-1008 First St	87-641 Johnsons Mill Rd	30	R							X						03/09/2006
+771850	  87	01008	     	87-1008	First St	087	Southampton County	087	Southampton County	0.07	Dead End	87-1006 Peachtree Ave	20	R							X						03/09/2006
+771851	  87	01008	     	87-1008	First St	087	Southampton County	087	Southampton County	0.07	87-1006 Peachtree Ave	87-1007 Pine Ave	90	R							X						03/09/2006
+771852	  87	01008	     	87-1008	First St	087	Southampton County	087	Southampton County	0.07	87-1007 Pine Ave	87-1004 Magnolia Ave	30	R							X						03/09/2006
+771853	  87	01009	     	87-1009	Sycamore Ave	087	Southampton County	087	Southampton County	0.20	87-641; 87-642	Dead End	190	R							X						03/09/2006
+771854	  87	01010	     	87-1010	Oak Lane	087	Southampton County	087	Southampton County	0.20	87-641 Johnsons Mill Rd	87-1003 Fourth St	120	R							X						03/09/2006
+771855	  87	01010	     	87-1010	Oak Lane	087	Southampton County	087	Southampton County	0.05	87-1003 Fourth St	Dead End	160	R							X						03/09/2006
+771856	  87	01015	     	87-1015	Lakeside Ave	087	Southampton County	087	Southampton County	0.06	Dead End	87-1016 Millston Circle	40	R							X						03/09/2006
+771857	  87	01015	     	87-1015	Lakeside Ave	087	Southampton County	087	Southampton County	0.84	87-1016 Millston Circle	87-643	210	R							X						03/09/2006
+771858	  87	01016	     	87-1016	Millston Circle	087	Southampton County	087	Southampton County	0.06	Cul-de-Sac	87-1015 Lakeside Ave	20	R							X						03/09/2006
+771859	  87	01017	     	87-1017	Darden Point Rd	087	Southampton County	087	Southampton County	0.35	Cul-de-Sac	87-1015 Lakeside Ave	60	R							X						03/09/2006
+792037	  87	01021	     	87-1021	 	087	Southampton County	087	Southampton County	0.35	87-650 Shady Brook Tr	87-1022	0	?							X
+792038	  87	01022	     	87-1022	 	087	Southampton County	087	Southampton County	0.25	87-650 Shady Brook Trail	87-1021	0	?							X
+771860	  87	01101	     	87-1101	Hemlock St	087	Southampton County	087	Southampton County	0.16	87-714 Preston St	Dead End	190	R							X						04/04/2006
+771861	  87	01102	     	87-1102	Palm St	087	Southampton County	087	Southampton County	0.28	87-1103 Blackwater Rd	Dead End	110	R							X						04/04/2006
+771862	  87	01103	     	87-1103	Blackwater Rd	087	Southampton County	087	Southampton County	0.04	87-714 Preston St	87-1102 Palm St	100	R							X						04/04/2006
+771863	  87	01103	     	87-1103	Blackwater Rd	087	Southampton County	087	Southampton County	0.17	87-1102 Palm St	Dead End	2	R							X						04/04/2006
+771864	  87	01104	     	87-1104	Artis Circle	087	Southampton County	087	Southampton County	0.26	Dead End	87-714 Preston St	100	R							X						04/04/2006
+771865	  87	01110	     	87-1110	Cherokee Dr	087	Southampton County	087	Southampton County	0.21	Dead End	87-687 Fork of the River	210	R							X						04/04/2006
+771866	  87	01111	     	87-1111	Yuma St	087	Southampton County	087	Southampton County	0.06	87-687 Delaware Rd	87-1112 Apache Circle	240	R							X						04/04/2006
+771867	  87	01112	     	87-1112	Apache Circle	087	Southampton County	087	Southampton County	0.09	Dead End	87-1111 Yuma St	200	R							X						04/04/2006
+771868	  87	01112	     	87-1112	Apache Circle	087	Southampton County	087	Southampton County	0.08	87-1111 Yuma St	Dead End	46	R							X						04/04/2006
+771869	  87	01201	     	87-1201	Bell Ave	243	Town of Ivor	087	Southampton County	0.11	87-622 Rawls Dr	87-1203 Babb Dr	150	R							X						03/08/2006
+771870	  87	01201	     	87-1201	Bell Ave	243	Town of Ivor	087	Southampton County	0.11	87-1203 Babb Dr	87-1204 Church St	180	R							X						03/08/2006
+771871	  87	01201	     	87-1201	Bell Ave	243	Town of Ivor	087	Southampton County	0.09	87-1204 Church St	87-616 Main St	180	R							X						03/08/2006
+771872	  87	01202	     	87-1202	Gale Ave	243	Town of Ivor	087	Southampton County	0.11	87-1203 Babb Dr	87-1204 Church St	40	R							X						03/08/2006
+771873	  87	01202	     	87-1202	Gale Ave	243	Town of Ivor	087	Southampton County	0.09	87-1204 Church St	87-616 Main St	200	R							X						03/08/2006
+771874	  87	01203	     	87-1203	Babb Dr	243	Town of Ivor	087	Southampton County	0.16	87-1201 Bell Ave	87-1202 Gale Ave	130	R							X						03/08/2006
+771875	  87	01203	     	87-1203	Babb Dr	243	Town of Ivor	087	Southampton County	0.10	87-1202 Gale Ave	Dead End	80	R							X						03/08/2006
+771876	  87	01204	     	87-1204	Church St	243	Town of Ivor	087	Southampton County	0.13	87-622 Rawls Dr	87-1201 Bell Ave	60	R							X						03/08/2006
+771877	  87	01204	     	87-1204	Church St	243	Town of Ivor	087	Southampton County	0.15	87-1201 Bell Ave	87-1202 Gale Ave	80	R							X						03/08/2006
+771878	  87	01205	     	87-1205	 	243	Town of Ivor	087	Southampton County	0.03	Dead End	87-620 Broadwater Rd	20	R							X						03/08/2006
+771879	  87	01206	     	87-1206	Railroad Rd	243	Town of Ivor	087	Southampton County	0.08	Dead End	87-616 Main St	50	R							X						03/08/2006
+771880	  87	01301	     	87-1301	Bryant Ave	174	Town of Boykins	087	Southampton County	0.12	SR 35 Meherrin Rd	87-1307 Elizabeth St	110	R							X						03/23/2006
+771881	  87	01301	     	87-1301	Bryant Ave	174	Town of Boykins	087	Southampton County	0.08	87-1307 Elizabeth St	87-1310 Wilson St	100	R							X						03/23/2006
+771882	  87	01301	     	87-1301	Bryant Dr	174	Town of Boykins	087	Southampton County	0.07	87-1310 Wilson St	87-1311 Marshall St	40	R							X						03/23/2006
+771883	  87	01302	     	87-1302	N Railroad Ave	174	Town of Boykins	087	Southampton County	0.05	Dead End	87-1303 Graham St	30	R							X						03/23/2006
+771884	  87	01302	     	87-1302	N Railroad Ave	174	Town of Boykins	087	Southampton County	0.06	87-1303 Graham St	SR 35 Meherrin Rd	140	R							X						03/23/2006
+771885	  87	01303	     	87-1303	Graham St	174	Town of Boykins	087	Southampton County	0.13	87-1302 N, Railroad Ave	87-1312 Bass St	220	R							X						03/23/2006
+771886	  87	01304	     	87-1304	S Railroad Ave	174	Town of Boykins	087	Southampton County	0.23	87-1305 Broad St	87-1307 Elizabeth St	240	R							X						03/23/2006
+771887	  87	01305	     	87-1305	Johnson St	174	Town of Boykins	087	Southampton County	0.36	SR 35 Meherrin Rd	SR 186 E, Pittman Rd	180	R							X						03/23/2006
+771888	  87	01305	     	87-1305	Broad St	174	Town of Boykins	087	Southampton County	0.12	SR 186 W, Pittman Rd	87-1304 S, Railroad Ave	190	R							X						03/23/2006
+771889	  87	01306	     	87-1306	Virginia Ave	174	Town of Boykins	087	Southampton County	0.12	SR 35 Meherrin Rd	87-1307 Elizabeth St	220	R							X						03/23/2006
+771890	  87	01306	     	87-1306	Virginia Ave	174	Town of Boykins	087	Southampton County	0.09	87-1307 Elizabeth St	87-1310 Wilson St	170	R							X						03/23/2006
+771891	  87	01306	     	87-1306	Virginia Ave	174	Town of Boykins	087	Southampton County	0.06	87-1310 Wilson St	87-1311 Marshall St	140	R							X						03/23/2006
+771892	  87	01306	     	87-1306	Virginia Ave	174	Town of Boykins	087	Southampton County	0.08	87-1311 Marshall St	Dead End	50	R							X						03/23/2006
+771893	  87	01307	     	87-1307	Elizabeth St	174	Town of Boykins	087	Southampton County	0.06	87-1301 Bryant Ave	87-1306 Virginia Ave	40	R							X						03/23/2006
+771894	  87	01307	     	87-1307	Elizabeth St	174	Town of Boykins	087	Southampton County	0.07	87-1306 Virginia Ave	87-1309 Commerce St	100	R							X						03/23/2006
+771895	  87	01307	     	87-1307	Elizabeth St	174	Town of Boykins	087	Southampton County	0.02	87-1309 Commerce St	87-1304 S, Railroad Ave	150	R							X						03/23/2006
+771896	  87	01308	     	87-1308	Virginia Ave	174	Town of Boykins	087	Southampton County	0.11	87-1305 Broad St	SR 35 Meherrin Rd	200	R							X						03/23/2006
+771897	  87	01309	     	87-1309	Commerce St	174	Town of Boykins	087	Southampton County	0.08	87-1307 Elizabeth St	87-1310 Wilson St	100	R							X						03/23/2006
+771898	  87	01309	     	87-1309	Commece St	174	Town of Boykins	087	Southampton County	0.07	87-1310 Wilson St	87-1311 Marshall St	46	R							X						03/23/2006
+771899	  87	01309	     	87-1309	Commerce St	174	Town of Boykins	087	Southampton County	0.03	87-1311 Marshall St	Dead End	10	R							X						03/23/2006
+771900	  87	01310	     	87-1310	Wilson St	174	Town of Boykins	087	Southampton County	0.06	87-1301 Bryant Dr; Bryant Ave	87-1306 Virginia Ave	50	R							X						03/23/2006
+771901	  87	01310	     	87-1310	Wilson St	174	Town of Boykins	087	Southampton County	0.07	87-1306 Virginia Ave	87-1309 Commerce St; Commerce St	70	R							X						03/23/2006
+771902	  87	01310	     	87-1310	Wilson St	174	Town of Boykins	087	Southampton County	0.03	87-1309 Commerce St; Commerce St	Dead End	40	R							X						03/23/2006
+771903	  87	01311	     	87-1311	Marshall St	174	Town of Boykins	087	Southampton County	0.05	87-1301 Bryant Dr	87-1306 Virginia Ave	50	R							X						03/23/2006
+771904	  87	01311	     	87-1311	Marshall St	174	Town of Boykins	087	Southampton County	0.07	87-1306 Virginia Ave	87-1309 Commerce St; Commece St	100	R							X						03/23/2006
+771905	  87	01312	     	87-1312	Bass St	087	Southampton County	087	Southampton County	0.10	Dead End	WCL Boykins	140	R							X						03/23/2006
+785226	  87	01312	     	87-1312	Bass St	174	Town of Boykins	087	Southampton County	0.09	WCL Boykins	SR 35 N, Meherrin Rd	290	R							X						03/22/2006
+771906	  87	01312	     	87-1312	Bass St	174	Town of Boykins	087	Southampton County	0.06	SR 35 S, Meherrin Rd	87-1313 Virginia St	100	R							X						03/22/2006
+771907	  87	01313	     	87-1313	Virginia St	174	Town of Boykins	087	Southampton County	0.09	Dead End	87-1312 Bass St	210	R							X						03/22/2006
+771908	  87	01314	     	87-1314	Truman St	174	Town of Boykins	087	Southampton County	0.14	87-1317 White St	87-1305 Johnson St	46	R							X						03/22/2006
+771909	  87	01314	     	87-1314	Truman St	174	Town of Boykins	087	Southampton County	0.10	87-1305 Johnson St	Dead End	110	R							X						03/22/2006
+771910	  87	01315	     	87-1315	JW Pope St	174	Town of Boykins	087	Southampton County	0.10	Dead End	87-1305 Johnson St	40	R							X						03/22/2006
+771911	  87	01315	     	87-1315	JW Pope St	174	Town of Boykins	087	Southampton County	0.05	87-1305 Johnson St	Dead End	30	R							X						03/22/2006
+771912	  87	01316	     	87-1316	Owens St	174	Town of Boykins	087	Southampton County	0.06	Dead End	87-1305 Johnson St	110	R							X						03/22/2006
+785477	  87	01317	     	87-1317	White St	174	Town of Boykins	087	Southampton County	0.05	87-1315 JW Pope St	87-1314 Truman St	30	R							X						03/22/2006
+771913	  87	01317	     	87-1317	White St	174	Town of Boykins	087	Southampton County	0.09	87-1314 Truman St	SR 186 Pittman Rd	190	R							X						03/22/2006
+771914	  87	01318	     	87-1318	Blount St	087	Southampton County	087	Southampton County	0.05	87-1325 Graham St	NCL Boykins	120	R							X						03/22/2006
+785227	  87	01318	     	87-1318	Bount St	174	Town of Boykins	087	Southampton County	0.02	NCL Boykins	SR 35 Meherrin Rd	400	R							X						03/22/2006
+771915	  87	01319	     	87-1319	Spring Garden St	087	Southampton County	087	Southampton County	0.02	Dead End	WCL Boykins	220	R							X						03/22/2006
+771916	  87	01319	     	87-1319	Spring Garden St	174	Town of Boykins	087	Southampton County	0.09	WCL Boykins	87-1303 Graham St	460	R							X						03/22/2006
+771917	  87	01320	     	87-1320	Edwards St	174	Town of Boykins	087	Southampton County	0.04	SR 35 Meherrin Rd	Dead End	80	R							X						02/22/2006
+771918	  87	01321	     	87-1321	Pine West Rd	174	Town of Boykins	087	Southampton County	0.15	SR 35 Meherrin Rd	87-1322 Oak Rd	120	R							X						02/22/2006
+771919	  87	01321	     	87-1321	Pine West Rd	174	Town of Boykins	087	Southampton County	0.18	87-1322 Oak Rd	SR 35 Meherrin Rd	46	R							X						02/22/2006
+771920	  87	01322	     	87-1322	Oak Rd	174	Town of Boykins	087	Southampton County	0.02	87-1321 Pine West Rd	Dead End	40	R							X						02/22/2006
+771921	  87	01323	     	87-1323	Green St	087	Southampton County	087	Southampton County	0.11	SR 186 Pittman Rd	Dead End	100	R							X						02/22/2006
+771922	  87	01324	     	87-1324	Woodland Park Dr	174	Town of Boykins	087	Southampton County	0.20	Dead End	SR 35 Meherrin Rd	30	R							X						02/22/2006
+771923	  87	01325	     	87-1325	Graham St	174	Town of Boykins	087	Southampton County	0.01	87-1312 Bass St	NCL Boykins	210	R							X						02/22/2006
+785228	  87	01325	     	87-1325	Graham St	087	Southampton County	087	Southampton County	0.13	NCL Boykins	87-1318 Blount St	100	R							X						02/22/2006
+771924	  87	01326	     	87-1326	Brookside Dr	087	Southampton County	087	Southampton County	0.06	Dead End	87-670 Number 8 School House Rd	160	R							X						02/22/2006
+784580	  87	01327	     	87-1327	Queen St	087	Southampton County	087	Southampton County	0.09	Dead End	SR 186 Pittman Rd	100	R							X						02/22/2006
+794002	  87	01328	     	87-1328	 	174	Town of Boykins	087	Southampton County	0.11	SR 186 Pittman Rd	Dead End	0	?							X
+771925	  87	01401	     	87-1401	Railroad St	087	Southampton County	087	Southampton County	0.35	Dead End	WCL Newsoms	30	R							X						03/28/2006
+771926	  87	01401	     	87-1401	Railroad St	270	Town of Newsoms	087	Southampton County	0.40	WCL Newsoms	87-673	100	R							X						03/28/2006
+771927	  87	01401	     	87-1401	Railroad St	270	Town of Newsoms	087	Southampton County	0.35	87-673	Dead End	90	R							X						03/28/2006
+771928	  87	01402	     	87-1402	East Depot St	270	Town of Newsoms	087	Southampton County	0.38	87-673	ECL Newsoms	130	R							X						03/28/2006
+771929	  87	01402	     	87-1402	East Depot St	087	Southampton County	087	Southampton County	0.27	ECL Newsoms	Dead End	30	R							X						03/28/2006
+771930	  87	01403	     	87-1403	West Brook St	270	Town of Newsoms	087	Southampton County	0.06	87-1405 Everett St	87-671 General Thomas Hwy	150	R							X						03/28/2006
+771931	  87	01403	     	87-1403	West Brook St	270	Town of Newsoms	087	Southampton County	0.13	87-671 General Thomas Hwy	87-709 Thomaston Rd	90	R							X						03/28/2006
+771932	  87	01404	     	87-1404	Ball Park Rd	087	Southampton County	087	Southampton County	0.14	87-671 General Thomas Hwy	WCL Newsoms	130	R							X						03/28/2006
+771933	  87	01404	     	87-1404	Ball Park Rd	270	Town of Newsoms	087	Southampton County	0.30	WCL Newsoms	87-673	160	R							X						03/28/2006
+771934	  87	01405	     	87-1405	Everett St	270	Town of Newsoms	087	Southampton County	0.13	Dead End	87-1403 West Brook St	200	R							X						03/28/2006
+771935	  87	01405	     	87-1405	Everett St	270	Town of Newsoms	087	Southampton County	0.08	87-1403 West Brook St	Dead End; Gap	50	R							X						03/28/2006
+771936	  87	01405	     	87-1405	Everett St	270	Town of Newsoms	087	Southampton County	0.10	Dead End; Gap	87-709 Thomaston Rd	110	R							X						03/28/2006
+771937	  87	01501	     	87-1501	Bruce St	201	Town of Courtland	087	Southampton County	0.09	SR 35 Main St	87-1503 High St	300	R							X						03/21/2006
+771938	  87	01501	     	87-1501	 	201	Town of Courtland	087	Southampton County	0.09	87-1503 High St	87-1504 Bateman St	70	R							X						03/21/2006
+771939	  87	01502	     	87-1502	Florence St	201	Town of Courtland	087	Southampton County	0.09	SR 35 Main St	87-1503 High St	110	R							X						03/21/2006
+771940	  87	01502	     	87-1502	Florence St	201	Town of Courtland	087	Southampton County	0.09	87-1503 High St	87-1504 Bateman St	130	R							X						03/21/2006
+771941	  87	01502	     	87-1502	Florence St	201	Town of Courtland	087	Southampton County	0.09	87-1504 Bateman St	87-1505 Aurora St	90	R							X						03/21/2006
+771942	  87	01503	     	87-1503	High St	201	Town of Courtland	087	Southampton County	0.20	87-646 Bride St	87-1508 Gyndon St	120	R							X						03/21/2006
+771943	  87	01503	     	87-1503	High St	201	Town of Courtland	087	Southampton County	0.05	87-1508 Gyndon St	87-1514 Menolea Lane	100	R							X						03/21/2006
+771944	  87	01503	     	87-1503	High St	201	Town of Courtland	087	Southampton County	0.05	87-1514 Menolea Lane	87-1502 Florence St	30	R							X						03/21/2006
+771945	  87	01503	     	87-1503	High St	201	Town of Courtland	087	Southampton County	0.10	87-1502 Florence St	87-1501 Bruce St	46	R							X						03/21/2006
+771946	  87	01503	     	87-1503	High St	201	Town of Courtland	087	Southampton County	0.20	87-1501 Bruce St	87-1529 Woodlake Park Circle	210	R							X						03/21/2006
+771947	  87	01504	     	87-1504	Bateman St	201	Town of Courtland	087	Southampton County	0.10	87-1508 Gyndon St	87-1502 Florence St	30	R							X						03/21/2006
+771948	  87	01504	     	87-1504	Bateman St	201	Town of Courtland	087	Southampton County	0.10	87-1502 Florence St	87-1501	100	R							X						03/21/2006
+771949	  87	01505	     	87-1505	Aurora St	201	Town of Courtland	087	Southampton County	0.14	87-646 Bride St	87-1508 Gyndon St	160	R							X						03/21/2006
+771950	  87	01505	     	87-1505	Aurora St	201	Town of Courtland	087	Southampton County	0.10	87-1508 Gyndon St	87-1502 Florence St	100	R							X						03/21/2006
+771951	  87	01506	     	87-1506	Robertson St	201	Town of Courtland	087	Southampton County	0.12	87-1507 Anderson Dr	87-611 Rochelle St	46	R							X						03/21/2006
+771952	  87	01507	     	87-1507	Anderson Dr	201	Town of Courtland	087	Southampton County	0.08	87-1522 Linden St	87-1506 Robertson St	80	R							X						03/21/2006
+771953	  87	01507	     	87-1507	Anderson Dr	201	Town of Courtland	087	Southampton County	0.03	87-1506 Robertson St	Dead End	10	R							X						03/21/2006
+771954	  87	01508	     	87-1508	Gyndon St	201	Town of Courtland	087	Southampton County	0.08	SR 35 Main St	87-1503 High St	110	R							X						03/21/2006
+771955	  87	01508	     	87-1508	Gyndon St	201	Town of Courtland	087	Southampton County	0.09	87-1503 High St	87-1504 Bateman St	90	R							X						03/21/2006
+771956	  87	01508	     	87-1508	Gyndon St	201	Town of Courtland	087	Southampton County	0.09	87-1504 Bateman St	87-1505 Aurora St	47	R							X						03/21/2006
+771957	  87	01509	     	87-1509	Linden St	201	Town of Courtland	087	Southampton County	0.09	87-611 Rochelle St	87-1510 Court St	280	R							X						03/21/2006
+771958	  87	01509	     	87-1509	Linden St	201	Town of Courtland	087	Southampton County	0.10	87-1510 Court St	87-1515 Colonial St	210	R							X						03/21/2006
+771959	  87	01509	     	87-1509	Linden St	201	Town of Courtland	087	Southampton County	0.10	87-1515 Colonial St	87-646 Bride St	200	R							X						03/21/2006
+771960	  87	01510	     	87-1510	Court St	201	Town of Courtland	087	Southampton County	0.20	Bus US 58	87-1509 Linden St	160	R							X						03/21/2006
+771961	  87	01511	     	87-1511	Alley St	201	Town of Courtland	087	Southampton County	0.11	87-646 Bride St	Bus US 58	360	R							X						03/21/2006
+771962	  87	01512	     	87-1512	Pine St	201	Town of Courtland	087	Southampton County	0.06	Dead End	SR 35 Main St	60	R							X						03/21/2006
+771963	  87	01513	     	87-1513	 	201	Town of Courtland	087	Southampton County	0.08	Dead End	Bus US 58	140	R							X						03/16/2006
+771964	  87	01514	     	87-1514	Menolea Lane	201	Town of Courtland	087	Southampton County	0.08	SR 35 Main St	87-1503 High St	30	R							X						03/16/2006
+771965	  87	01515	     	87-1515	Colonial St	201	Town of Courtland	087	Southampton County	0.07	Dead End	87-1509 Linden St	140	R							X						03/16/2006
+771966	  87	01516	     	87-1516	Captain John Rd	201	Town of Courtland	087	Southampton County	0.08	87-1526 Hanging Tree Rd	87-1517 Cross Keys	110	R							X						03/16/2006
+771967	  87	01516	     	87-1516	Captain John Rd	201	Town of Courtland	087	Southampton County	0.24	87-1517 Cross Keys	Bus US 58	220	R							X						03/16/2006
+771968	  87	01517	     	87-1517	Cross Keys	201	Town of Courtland	087	Southampton County	0.10	87-1518 Shands Dr	87-1516 Captain John Rd	30	R							X						03/16/2006
+771969	  87	01517	     	87-1517	Cross Keys	201	Town of Courtland	087	Southampton County	0.05	87-1516 Captain John Rd	Dead End	30	R							X						03/16/2006
+771970	  87	01518	     	87-1518	Shands Dr	201	Town of Courtland	087	Southampton County	0.14	Dead End	87-1521 Old Plank Rd	90	R							X						03/16/2006
+771971	  87	01518	     	87-1518	Shands Dr	201	Town of Courtland	087	Southampton County	0.22	87-1521 Old Plank Rd	87-1517 Cross Keys	250	R							X						03/16/2006
+771972	  87	01518	     	87-1518	Shands Dr	201	Town of Courtland	087	Southampton County	0.21	87-1517 Cross Keys	87-1520 Willis Rd	330	R							X						03/16/2006
+771973	  87	01518	     	87-1518	Shands Dr	201	Town of Courtland	087	Southampton County	0.17	87-1520 Willis Rd	87-1519 East Circle	200	R							X						03/16/2006
+771974	  87	01518	     	87-1518	Shands Dr	201	Town of Courtland	087	Southampton County	0.09	87-1519 East Circle	Bus US 58	540	R							X						03/16/2006
+771975	  87	01519	     	87-1519	East Circle	201	Town of Courtland	087	Southampton County	0.05	87-1518 Shands Dr	Dead End	40	R							X						03/21/2006
+771976	  87	01520	     	87-1520	Willis Rd	201	Town of Courtland	087	Southampton County	0.14	87-1518 Shands Dr	Dead End	46	R							X						03/21/2006
+771977	  87	01521	     	87-1521	Old Plank Rd	201	Town of Courtland	087	Southampton County	0.54	87-1526 Hanging Tree Rd	Bus US 58	1300	R							X						03/16/2006
+771978	  87	01522	     	87-1522	Linden St	201	Town of Courtland	087	Southampton County	0.40	Bus US 58	87-611 Rochelle St	850	R							X						03/21/2006
+771979	  87	01523	     	87-1523	Mortland St	201	Town of Courtland	087	Southampton County	0.15	87-1522 Linden St	Dead End	100	R							X						03/21/2006
+771980	  87	01524	     	87-1524	E Nottoway Rd	087	Southampton County	087	Southampton County	0.24	Bus US 58	Dead End	190	R							X						03/16/2006
+771981	  87	01525	     	87-1525	Pine Haven	087	Southampton County	087	Southampton County	0.17	ECL Courtland	Bus US 58	90	R							X						03/16/2006
+771982	  87	01526	     	87-1526	Hanging Tree Rd	087	Southampton County	087	Southampton County	0.11	Cul-de-Sac	87-1533 Thomas Circle	130	R							X						03/16/2006
+771983	  87	01526	     	87-1526	Hanging Tree Rd	087	Southampton County	087	Southampton County	0.19	87-1533 Thomas Circle	SCL Courtland	140	R							X						03/16/2006
+785229	  87	01526	     	87-1526	Hanging Tree Rd	201	Town of Courtland	087	Southampton County	0.22	SCL Courtland	87-1521; Gap Terminus	240	R							X						12/19/2000
+771984	  87	01526	     	87-1526	Hanging Tree Rd	201	Town of Courtland	087	Southampton County	0.53	Dead End; Gap	Dead End	160	R							X						03/16/2006
+771985	  87	01528	     	87-1528	 	201	Town of Courtland	087	Southampton County	0.08	87-1530	87-1522 Linden St	60	R							X						03/21/2006
+771986	  87	01529	     	87-1529	Woodlake Park Circle	087	Southampton County	087	Southampton County	0.15	87-1503 High St	Cul-de-Sac	100	R							X						03/21/2006
+771987	  87	01530	     	87-1530	 	087	Southampton County	087	Southampton County	0.10	Bus US 58	Dead End	120	R							X						03/21/2006
+771988	  87	01531	     	87-1531	Oak Trail	201	Town of Courtland	087	Southampton County	0.18	Dead End	SR 35 Main St	460	R							X						03/21/2006
+771989	  87	01532	     	87-1532	W Nottingway Dr	087	Southampton County	087	Southampton County	0.14	Bus US 58	Dead End	60	R							X						03/21/2006
+771990	  87	01533	     	87-1533	Thomas Circle	087	Southampton County	087	Southampton County	0.12	87-1526 Hanging Tree Rd	Cul-de-Sac	50	R							X						03/16/2006
+771991	  87	01534	     	87-1534	Tyler Circle	087	Southampton County	087	Southampton County	0.03	87-1533 Thomas Circle	Cul-de-Sac	100	R							X						03/16/2006
+771992	  87	01535	     	87-1535	Heritage Lane	201	Town of Courtland	087	Southampton County	0.10	87-1522 Linden St	Dead End	120	R							X						03/21/2006
+771993	  87	01536	     	87-1536	Wyanoke Lane	087	Southampton County	087	Southampton County	0.19	87-1526 Hanging Tree Rd	Cul-de-Sac	160	R							X						03/16/2006
+771994	  87	01601	     	87-1601	Grizzard St	175	Town of Branchville	087	Southampton County	0.38	Dead End	87-730	130	R							X						03/16/2006
+771995	  87	01602	     	87-1602	Hall St	175	Town of Branchville	087	Southampton County	0.18	87-730	SR 186	30	R							X						04/04/2006
+771996	  87	01701	     	87-1701	Dale Circle	087	Southampton County	087	Southampton County	0.18	87-649 Country Club Rd	87-1702 Scott St	80	R							X						03/15/2006
+771997	  87	01701	     	87-1701	Dale Circle	087	Southampton County	087	Southampton County	0.08	87-1702 Scott St	87-687 Delaware Rd	90	R							X						03/15/2006
+771998	  87	01702	     	87-1702	Scott St	087	Southampton County	087	Southampton County	0.11	87-1701 Dale Circle	87-649 Country Club Rd	40	R							X						03/15/2006
+771999	  87	01703	     	87-1703	Verna St	087	Southampton County	087	Southampton County	0.26	87-687 Delaware Rd	87-1712 Trail Rd	200	R							X						03/15/2006
+772000	  87	01703	     	87-1703	Verna St	087	Southampton County	087	Southampton County	0.06	87-1712 Trail Rd	Dead End	60	R							X						03/15/2006
+772001	  87	01704	     	87-1704	Jay St	087	Southampton County	087	Southampton County	0.05	Dead End	87-1709 Cardinal Ave	130	R							X						03/15/2006
+772002	  87	01704	     	87-1704	Jay St	087	Southampton County	087	Southampton County	0.15	87-1709 Cardinal Ave	87-649 Country Club Rd	190	R							X						03/15/2006
+772003	  87	01705	     	87-1705	Arber St	087	Southampton County	087	Southampton County	0.09	87-1706 Homestead Lane	87-1707 Calvin Dr	90	R							X						03/15/2006
+772004	  87	01705	     	87-1705	Arber St	087	Southampton County	087	Southampton County	0.07	87-1707 Calvin Dr	87-644 Scottswood Dr	100	R							X						03/15/2006
+772005	  87	01706	     	87-1706	Homestead Lane	087	Southampton County	087	Southampton County	0.07	87-649 Country Club Rd	87-1707 Calvin Dr	270	R							X						03/15/2006
+772006	  87	01706	     	87-1706	Homestead Lane	087	Southampton County	087	Southampton County	0.09	87-1707 Calvin Dr	87-1705 Arber St	280	R							X						03/15/2006
+772007	  87	01706	     	87-1706	Homestead Lane	087	Southampton County	087	Southampton County	0.09	87-1705 Arber St	87-1714 Ed St	220	R							X						03/14/2006
+772008	  87	01706	     	87-1706	Homestead Lane	087	Southampton County	087	Southampton County	0.12	87-1714 Ed St	87-1707 Cynthia Dr	220	R							X						03/14/2006
+772009	  87	01706	     	87-1706	Homestead Lane	087	Southampton County	087	Southampton County	0.10	87-1707 Cynthia Dr	87-1731 Martin Dr	170	R							X						03/14/2006
+772010	  87	01706	     	87-1706	Homestead Lane	087	Southampton County	087	Southampton County	0.18	87-1731 Martin Dr	87-1730 Scojo Dr	130	R							X						03/14/2006
+772011	  87	01707	     	87-1707	Calvin Dr	087	Southampton County	087	Southampton County	0.14	87-1706 Homestead Lane	87-1705 Arber St	200	R							X						03/14/2006
+772012	  87	01707	     	87-1707	Calvin Dr	087	Southampton County	087	Southampton County	0.07	87-1705 Arber St	87-1714 Ed St	100	R							X						03/14/2006
+772013	  87	01707	     	87-1707	Cynthia Dr	087	Southampton County	087	Southampton County	0.22	87-1714 Ed St	87-1706 Homestead Lane	120	R							X						03/14/2006
+772014	  87	01708	     	87-1708	Dove St	087	Southampton County	087	Southampton County	0.10	87-1709 Cardinal Ave	87-649 Country Club Rd	180	R							X						03/14/2006
+772015	  87	01709	     	87-1709	Cardinal Ave	087	Southampton County	087	Southampton County	0.10	Dead End	87-1708 Dove St	46	R							X						03/14/2006
+772016	  87	01709	     	87-1709	Cardinal Ave	087	Southampton County	087	Southampton County	0.07	87-1708 Dove St	87-1728 Wren Rd	40	R							X						03/14/2006
+772017	  87	01709	     	87-1709	Cardinal Ave	087	Southampton County	087	Southampton County	0.10	87-1728 Wren Rd	87-1704 Jay St	110	R							X						03/14/2006
+772018	  87	01710	     	87-1710	Edgehill Dr	087	Southampton County	087	Southampton County	0.20	87-706 Woods Trail	87-1711 Deer Lane	220	R							X						03/14/2006
+772019	  87	01710	     	87-1710	Edgehill Dr	087	Southampton County	087	Southampton County	0.20	87-1711 Deer Lane	87-1729 Hickory Lane	200	R							X						03/14/2006
+772020	  87	01710	     	87-1710	Edgehill Dr	087	Southampton County	087	Southampton County	0.34	87-1729 Hickory Lane	87-1711 Deer Lane	80	R							X						03/14/2006
+772021	  87	01710	     	87-1710	Edgehill Dr	087	Southampton County	087	Southampton County	0.08	87-1711 Deer Lane	87-706 Woods Trail	140	R							X						03/14/2006
+772022	  87	01711	     	87-1711	Deer Lane	087	Southampton County	087	Southampton County	0.23	87-1710 Edgehill Dr	87-1710 Edgehill Dr	120	R							X						03/14/2006
+772023	  87	01712	     	87-1712	Trail Rd	087	Southampton County	087	Southampton County	0.09	87-1713 Holly Cove St	87-1703 Verna St	150	R							X						03/14/2006
+772024	  87	01713	     	87-1713	Holly Cove St	087	Southampton County	087	Southampton County	0.05	Dead End	87-1712 Trail Rd	90	R							X						03/15/2006
+772025	  87	01713	     	87-1713	Holly Cove St	087	Southampton County	087	Southampton County	0.29	87-1712 Trail Rd	87-687 Deleware Rd	190	R							X						03/15/2006
+772026	  87	01714	     	87-1714	Ed St	087	Southampton County	087	Southampton County	0.11	87-1706 Homestead Lane	87-1707 Cynthia Dr; Calvin Dr	20	R							X						03/15/2006
+772027	  87	01715	     	87-1715	Rebecca St	087	Southampton County	087	Southampton County	0.18	NCL Franklin	87-1717 Vaughn Lane	180	R							X						03/15/2006
+772028	  87	01715	     	87-1715	Rebecca St	087	Southampton County	087	Southampton County	0.09	87-1717 Vaughn Lane	Dead End	180	R							X						03/15/2006
+772029	  87	01717	     	87-1717	Vaughn Lane	087	Southampton County	087	Southampton County	0.08	87-641 Johnsons Mill Rd	87-1715 Rebecca St	350	R							X						03/15/2006
+772030	  87	01717	     	87-1717	Vaughn Lane	087	Southampton County	087	Southampton County	0.08	87-1715 Rebecca St	87-1733 Kimberly Dr	210	R							X						03/15/2006
+772031	  87	01717	     	87-1717	Vaughn Lane	087	Southampton County	087	Southampton County	0.30	87-1733 Kimberly Dr	Cul-de-Sac	120	R							X						03/15/2006
+772032	  87	01728	     	87-1728	Wren Rd	087	Southampton County	087	Southampton County	0.05	87-1709 Cardinal Ave	Cul-de-Sac	30	R							X						03/14/2006
+772033	  87	01729	     	87-1729	Hickory Lane	087	Southampton County	087	Southampton County	0.04	Dead End	87-1710 Edgehill Dr	49	R							X						03/14/2006
+772034	  87	01730	     	87-1730	Scojo Dr	087	Southampton County	087	Southampton County	0.06	87-1731 Martin Dr	87-1732 Nancys Pl	190	R							X						03/15/2006
+772035	  87	01730	     	87-1730	Scojo Dr	087	Southampton County	087	Southampton County	0.12	87-1732 Nancys Pl	87-1706 Homestead Lane	170	R							X						03/15/2006
+772036	  87	01730	     	87-1730	Scojo Dr	087	Southampton County	087	Southampton County	0.11	87-1706 Homestead Lane	Dead End	100	R							X						03/15/2006
+772037	  87	01731	     	87-1731	Martin Dr	087	Southampton County	087	Southampton County	0.09	87-1706 Homestead Lane	87-1730 Scojo Dr	130	R							X						03/15/2006
+772038	  87	01731	     	87-1731	Martin Dr	087	Southampton County	087	Southampton County	0.09	87-1730 Scojo Dr	87-1740 Suzannes Place	210	R							X						03/15/2006
+772039	  87	01731	     	87-1731	Martin Dr	087	Southampton County	087	Southampton County	0.09	87-1740 Suzannes Place	87-1739 Jons Place	250	R							X						03/15/2006
+772040	  87	01731	     	87-1731	Martin Dr	087	Southampton County	087	Southampton County	0.08	87-1739 Jons Place	87-644 Scottswood Dr	290	R							X						03/15/2006
+772041	  87	01732	     	87-1732	Nancys Pl	087	Southampton County	087	Southampton County	0.06	87-1730 Scojo Dr	Cul-de-Sac	46	R							X						03/15/2006
+772042	  87	01733	     	87-1733	Kimberly Dr	087	Southampton County	087	Southampton County	0.08	87-1717 Vaughn Lane	Dead End	100	R							X						03/15/2006
+772043	  87	01735	     	87-1735	Southtrail Circle	087	Southampton County	087	Southampton County	0.06	Cul-de-Sac	87-1717 Vaughn Lane	60	R							X						03/15/2006
+772044	  87	01739	     	87-1739	Jons Place	087	Southampton County	087	Southampton County	0.08	Cul-de-Sac	87-1731 Martin Dr	130	R							X						03/15/2006
+772045	  87	01740	     	87-1740	Stacys Place	087	Southampton County	087	Southampton County	0.06	Cul-de-Sac	87-1731 Martin Dr	150	R							X						03/15/2006
+772046	  87	01740	     	87-1740	Suzannes Place	087	Southampton County	087	Southampton County	0.07	87-1731 Martin Dr	Cul-de-Sac	190	R							X						03/15/2006
+786810	  87	01741	     	87-1741	Jennifers Place	087	Southampton County	087	Southampton County	0.06	87-1731; 87-1739	Cul-de-Sac	90	R							X						03/15/2006
+785478	  87	09390	     	87-9390	Bidley Rd	087	Southampton County	087	Southampton County	0.45	SR 35 Meherrin Rd	US 58 Southampton Pkwy	210	R							X						04/04/2006
+772048	  87	09573	     	87-9573	 	087	Southampton County	087	Southampton County	0.10	Capron Elementary Sch	US 58 Southampton Pkwy	70	R							X						03/30/2006
+796524	  87	09579	     	87-9579	 	087	Southampton County	087	Southampton County	0.47	Bus US 58	87-9579	0	?							X
+772050	  87	09901	     	87-9901	Hunterdale Ave	087	Southampton County	087	Southampton County	0.16	Hunterdale Elementary Sch	87-641 Johnsons Mill Rd	240	R							X						04/04/2006
+772051	  87	09953	     	87-9953	 	243	Town of Ivor	087	Southampton County	0.08	Ivor Elementary School	87-616 Proctors Bridge Rd	380	R							X						12/13/2000
+772052	  87	09954	     	87-9954	Aurora St	201	Town of Courtland	087	Southampton County	0.11	87-1505 Aurora St	Courtland Elem School	60	R							X						04/04/2006
+772053	  87	09955	     	87-9955	 	087	Southampton County	087	Southampton County	0.12	SR 186 Pittman Rd	Boykins Elem School	220	R							X						12/13/2000
+630115	 145	00001	     	145-1	North Dr	145	City of Franklin	145	City of Franklin	0.08	Hunterdale Rd	Crescent Dr	940	G	96%	2%	1%	1%	0%	0%	C	0.1226	F	0.5664	1000	G	2008
+630116	 145	03901	     	145-3901	Oak St	145	City of Franklin	145	City of Franklin	0.51	Morton St	South St	1100	G	96%	2%	1%	1%	0%	0%	F	0.2053	F	0.5515	1100	G	2008
+630312	 145	03902	     	145-3902	Maplewood St	145	City of Franklin	145	City of Franklin	0.47	Thomas St	Washington St	1000	G	96%	2%	1%	1%	0%	0%	F	0.1290	F	0.5703	1100	G	2008
+630304	 145	03903	     	145-3903	Pretlow St	145	City of Franklin	145	City of Franklin	1.12	SCL Franklin	Morton St	2100	G	97%	1%	1%	0%	1%	0%	F	0.0970	F	0.5780	2300	G	2008
+630306	 145	03903	     	145-3903	Pretlow St	145	City of Franklin	145	City of Franklin	0.22	Morton St	Laurel St	3500	G	97%	1%	1%	0%	1%	0%	C	0.0904	F	0.5194	3800	G	2008
+630092	 145	03903	     	145-3903	Pretlow St	145	City of Franklin	145	City of Franklin	0.32	Laurel St	South St	3400	G	97%	1%	1%	0%	1%	0%	F	0.0878	F	0.5264	3600	G	2008
+630319	 145	03904	     	145-3904	Armory Dr	145	City of Franklin	145	City of Franklin	0.70	WCL Franklin	Bailey Dr	14000	G	99%	0%	0%	0%	0%	0%	F	0.0881	F	0.5404	15000	G	2008
+630105	 145	03904	     	145-3904	Armory Dr	145	City of Franklin	145	City of Franklin	0.44	Bailey DR	College Dr	16000	G	99%	0%	0%	0%	0%	0%	F	0.0931	F	0.5120	17000	G	2008
+630104	 145	03904	     	145-3904	Armory Dr	145	City of Franklin	145	City of Franklin	0.56	College Dr	Gardner St	8600	G	99%	0%	0%	0%	0%	0%	C	0.0972	F	0.5094	9200	G	2008
+630320	 145	03904	     	145-3904	Armory Dr	145	City of Franklin	145	City of Franklin	0.09	Gardner St	Second Ave	8800	G	99%	0%	0%	0%	0%	0%	F	0.0949	F	0.5034	9500	G	2008
+630091	 145	03904	     	145-3904	Second Ave	145	City of Franklin	145	City of Franklin	0.23	Armory Dr	High St	8600	G	99%	0%	1%	0%	0%	0%	F	0.0945	F	0.5065	9200	G	2008
+630081	 145	03904	     	145-3904	Second Ave	145	City of Franklin	145	City of Franklin	0.15	High St	US 258 Main St	6800	G	99%	0%	1%	0%	0%	0%	C	0.0963	F	0.5353	7300	G	2008
+630324	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.15	Magnolia St	Birch St	280	G	96%	3%	1%	0%	0%	0%	F	0.1205	F	0.5938	300	G	2008
+630111	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.06	Birch St	South St	410	G	96%	3%	1%	0%	0%	0%	C	0.1172	F	0.5556	440	G	2008
+630090	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.30	South St	2nd St	3700	G	96%	3%	1%	0%	0%	0%	F	0.0942	F	0.5339	4000	G	2008
+630325	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.10	2nd Ave	US 58 4th Ave	3800	G	96%	3%	1%	0%	0%	0%	F	0.0967	F	0.5165	4100	G	2008
+630200	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.20	US 58 P; Lee St	Beaman St	4200	G	98%	1%	1%	0%	0%	0%	C	0.0951	F	0.6211	4600	G	2008
+630327	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.19	Beaman St	Homestead Rd	4300	G	98%	1%	1%	0%	0%	0%	F	0.0950	F	0.6095	4600	G	2008
+630112	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.39	Homestead Dr	Fairview Rd	3500	G	98%	1%	1%	0%	0%	0%	C	0.0984	F	0.5697	3700	G	2008
+630328	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	1.37	Fairview Dr	NCL Franklin	2200	G	98%	1%	1%	0%	0%	0%	F	0.1038	F	0.5845	2300	G	2008
+630107	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.19	South St	Maplewood Ave	7600	G	98%	1%	1%	0%	0%	0%	C	0.0915	F	0.5108	8100	G	2008
+630316	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.28	Maplewood Ave	Armory Dr	8600	G	98%	1%	1%	0%	0%	0%	F	0.0971	F	0.5146	9300	G	2008
+630317	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.14	Armory Dr	SR 379 Stewart Dr	8600	G	98%	1%	1%	0%	0%	0%	F	0.0923	F	0.5077	9300	G	2008
+630318	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.62	SR 379 Stewart Dr	Sycamore Rd	11000	G	98%	1%	1%	0%	0%	0%	F	0.0970	F	0.5447	12000	G	2008
+630102	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.12	Sycamore Rd	Clay St	11000	G	98%	1%	1%	0%	0%	0%	F	0.0956	F	0.5443	11000	G	2008
+630100	 145	03907	     	145-3907	Hunterdale Rd	145	City of Franklin	145	City of Franklin	0.19	Bus US 58 Clay St	Fairview Dr	10000	G	98%	1%	1%	0%	0%	0%	F	0.0963	F	0.5621	11000	G	2008
+630314	 145	03907	     	145-3907	Hunterdale Rd	145	City of Franklin	145	City of Franklin	0.60	Fairview Dr	North Dr	5600	G	98%	1%	1%	0%	0%	0%	C	0.0927	F	0.6218	6000	G	2008
+630315	 145	03907	     	145-3907	Hunterdale Rd	145	City of Franklin	145	City of Franklin	0.71	North Dr	NCL Franklin	4700	G	98%	1%	1%	0%	0%	0%	F	0.0985	F	0.5529	5000	G	2008
+630301	 145	03909	     	145-3909	Roosevelt St	145	City of Franklin	145	City of Franklin	0.19	South St	Maplewood Ave	550	G	98%	1%	1%	0%	0%	0%	F	0.1147	F	0.5984	590	G	2008
+630113	 145	03910	     	145-3910	Homestead Rd	145	City of Franklin	145	City of Franklin	0.42	Clay St	High St	540	G	98%	1%	1%	0%	0%	0%	C	0.1232	F	0.7049	580	G	2008
+530016	 145	03911	     	145-3911	Gardner St	145	City of Franklin	145	City of Franklin	0.22	Armory Dr	Charles St	880	G	98%	1%	1%	0%	0%	0%	F	0.1145	F	0.5907	950	G	2008
+781836	 145	03911	     	145-3911	Gardner St	145	City of Franklin	145	City of Franklin	0.07	Charles Street	US 58 Bus; Clay St	960	G	98%	1%	1%	0%	0%	0%	F	0.1128	F	0.5482	1000	G	2008
+630313	 145	03912	     	145-3912	Fairview Dr	145	City of Franklin	145	City of Franklin	0.25	Hunterdale Rd	Crescent Dr	5500	G	98%	1%	1%	0%	0%	0%	F	0.0994	F	0.5677	5900	G	2008
+630109	 145	03912	     	145-3912	Fairview Dr	145	City of Franklin	145	City of Franklin	0.66	Crescent Dr	High St	4700	G	98%	1%	1%	0%	0%	0%	C	0.1007	F	0.6989	5100	G	2008
+630302	 145	03913	     	145-3913	Southampton Rd	145	City of Franklin	145	City of Franklin	0.21	Clay St	Cypress Ave	340	G	98%	1%	1%	0%	0%	0%	F	0.1143	F	0.5696	360	G	2008
+630106	 145	03914	     	145-3914	Banks St	145	City of Franklin	145	City of Franklin	0.38	Morton St	South St	3600	G	99%	1%	0%	0%	0%	0%	C	0.0886	F	0.5586	3900	G	2008
+630303	 145	03915	     	145-3915	Morton St	145	City of Franklin	145	City of Franklin	0.30	Banks St	Oak St	1600	G	96%	2%	1%	0%	0%	0%	F	0.1067	F	0.5894	1700	G	2008
+630114	 145	03915	     	145-3915	Morton St	145	City of Franklin	145	City of Franklin	0.23	Oak Street	Pretlow St	1500	G	96%	2%	1%	0%	0%	0%	C	0.0922	F	0.5248	1600	G	2008
+530011	 145	03916	     	145-3916	Crescent Dr	145	City of Franklin	145	City of Franklin	0.66	Fairview Dr	North Dr	810	G	97%	2%	1%	0%	0%	0%	C	0.1305	F	0.5631	870	G	2008
+530007	 145	00000	     	145-0	Beamen St	145	City of Franklin	145	City of Franklin	0.00	High Street	Fontaine Street	120	G							X	0.1116	F	0.0000	130	G	2008
+530003	 145	00000	     	145-0	Bruce St	145	City of Franklin	145	City of Franklin	0.00	South St	Cool Spring St	1100	G							X	0.1039	F	0.0000	1200	G	2008
+530004	 145	00000	     	145-0	Delk St	145	City of Franklin	145	City of Franklin	0.00	South St	Mariner St.	1000	G							X	0.1267	F	0.5560	1100	G	2008
+530006	 145	00000	     	145-0	Fontaine St	145	City of Franklin	145	City of Franklin	0.00	Beamen St	Norfleet St	140	G							X	0.1203	F	0.0000	150	G	2008
+530010	 145	00000	     	145-0	Forest Pine Rd	145	City of Franklin	145	City of Franklin	0.00	Homestead Rd	Crescent Dr	1200	G							X	0.1114	F	0.0000	1200	G	2008
+530002	 145	00000	     	145-0	Laurel St	145	City of Franklin	145	City of Franklin	0.00	Bolling St	Ashton Ave	500	G							X	0.1023	F	0.0000	540	G	2008
+530013	 145	00000	     	145-0	Magnolia Ave	145	City of Franklin	145	City of Franklin	0.00	Hunterdale Rd	Dead End	80	G							X	0.1302	F	0.0000	90	G	2008
+530008	 145	00000	     	145-0	Meadow Lane	145	City of Franklin	145	City of Franklin	0.00	Clay St	Sycamore Rd	160	G							X	0.1104	F	0.5429	170	G	2008
+530012	 145	00000	     	145-0	Old Sedley Rd	145	City of Franklin	145	City of Franklin	0.00	Hunterdale Rd	Myrtle Dr	910	G							X	0.0988	F	0.5756	980	G	2008
+530009	 145	00000	     	145-0	Park Circle	145	City of Franklin	145	City of Franklin	0.00	Dead End	Clay St	140	G							X	0.1642	F	0.0000	150	G	2008
+530005	 145	00000	     	145-0	Redwood Ave	145	City of Franklin	145	City of Franklin	0.00	Roosevelt Street	Wilson Street	80	G							X	0.1364	F	0.5714	80	G	2008
+530014	 145	00000	     	145-0	Robin Hood Rd	145	City of Franklin	145	City of Franklin	0.00	Cypress Ave	Pine Ave	190	G							X	0.1301	F	0.7083	210	G	2008
+530015	 145	00000	     	145-0	Robin Hood Rd	145	City of Franklin	145	City of Franklin	0.00	Pine Ave	WCL Franklin	30	G							X	0.2941	F	0.0000	30	G	2008
+530001	 145	00000	     	145-0	Walnut St	145	City of Franklin	145	City of Franklin	0.00	Elm St	South St	840	G							X	0.1147	F	0.5885	900	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

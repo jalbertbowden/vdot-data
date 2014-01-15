@@ -1,0 +1,41 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Purcellville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+090282	  SR	00007	     	VA 7	Harry Flood Byrd Hwy	286	Town of Purcellville	053	Loudoun County	0.94	WCL Purcellville	ECL Purcellville	25000	F	97%	1%	1%	0%	1%	0%	F	0.0941	F	0.0000	28000	F	2008
+190146	C3SR	00007	     	Bus VA 7	Main St	286	Town of Purcellville	053	Loudoun County	2.06	WCL Purcellville	SR 287 Berlin Tpke	9200	N	96%	2%	1%	1%	0%	0%	N	0.0943	N	0.0000	9900	N	2008
+190158	C3SR	00007	     	Bus VA 7	Colonial Highway	286	Town of Purcellville	053	Loudoun County	0.07	SR 287 Berlin Tpke	ECL Purcellville	8600	N	96%	2%	1%	1%	0%	0%	N	0.1273	N	0.0000	9200	N	2008
+090008	  SR	00287	     	VA 287	Berlin Tpke	286	Town of Purcellville	053	Loudoun County	0.55	BUS SR 7	NCL Purcellville	4700	N	94%	2%	2%	0%	1%	0%	N	0.0975	N	0.0000	5100	N	2008
+793637	  53	00611	     	53-611	Telegraph Springs Rd	286	Town of Purcellville	053	Loudoun County	0.46	SCL Purcellville	53-1610, A St	1900	N							X				0	N	04/25/2005
+749805	  53	00611	     	53-611	20th St	286	Town of Purcellville	053	Loudoun County	0.34	53-1610, A St	53-1608, E St	1100	R							X						1999
+749806	  53	00611	     	53-611	20th St	286	Town of Purcellville	053	Loudoun County	0.34	53-1608, E St	BUS SR 7 W, Main St	1500	R							X						1992
+301466	  53	00611	     	53-611	Hatcher Ave	286	Town of Purcellville	053	Loudoun County	0.58	BUS SR 7 E, Main St	NCL Purcellville	4000	F	97%	1%	1%	1%	0%	0%	C	0.0938	F	0.5297	4300	F	2008
+303773	  53	00690	     	53-690	Silcott Springs Rd/32nd St	286	Town of Purcellville	053	Loudoun County	0.53	SCL Purcellville	Bus SR 7 W, Main St	3200	N	95%	1%	2%	1%	1%	0%	N	0.0873	N	0.6362	3400	N	2008
+750013	  53	00690	     	53-690	23rd St; Hillsboro Rd	286	Town of Purcellville	053	Loudoun County	0.10	Bus SR 7 E, W Main St	53-1604, 21st St	1800	R							X						1999
+301539	  53	00690	     	53-690	Hillsboro Rd	286	Town of Purcellville	053	Loudoun County	0.58	53-1604; 21st St	NCL Purcellville	3700	F	97%	1%	1%	1%	0%	0%	F	0.0970	F	0.0000	3900	F	2008
+785149	  53	00722	     	53-722	Maple Ave S	286	Town of Purcellville	053	Loudoun County	0.35	SCL Purcellville	Bus SR 7; W Main St	2200	N							X				0	N	1999
+750098	  53	00722	     	53-722	Maple Ave N	286	Town of Purcellville	053	Loudoun County	0.55	Bus SR 7; W Main St	NCL Purcellville	4900	R							X						01/12/2005
+750963	  53	01601	     	53-1601	33rd St N	286	Town of Purcellville	053	Loudoun County	0.17	SR 7 Main St W	53-1603 Country Club Dr W	610	R							X						1999
+750964	  53	01602	     	53-1602	Holly Lane	286	Town of Purcellville	053	Loudoun County	0.07	53-1601 N 33rd St	Dead End	70	R							X						1999
+750965	  53	01603	     	53-1603	W Country Club Dr	286	Town of Purcellville	053	Loudoun County	0.10	Dead End	53-1601 N 33rd St	300	R							X						1999
+750966	  53	01603	     	53-1603	W. Country Club Dr	286	Town of Purcellville	053	Loudoun County	0.27	53-1601 N 33rd St	0.27 ME 53-1601	300	R							X						1999
+301622	  53	01604	     	53-1604	21st Street	286	Town of Purcellville	053	Loudoun County	0.13	53-690 Hillsboro Rd; 23rd St	SR 7 Harry F Byrd Hwy	2300	F	97%	1%	1%	0%	0%	0%	C	0.1016	F	0.0000	2400	F	2008
+750967	  53	01605	     	53-1605	Orchard Dr	286	Town of Purcellville	053	Loudoun County	0.41	53-1606 Nursery Ave S	Bus SR 7 , Main St W	530	R							X						1999
+750968	  53	01606	     	53-1606	Nursery Ave S	286	Town of Purcellville	053	Loudoun County	0.64	53-690 Silicott Springs Rd	Bus SR 7, Main St E	2100	R							X						1999
+750969	  53	01607	     	53-1607	East G St	286	Town of Purcellville	053	Loudoun County	0.62	53-611 20th St	53-722 Maple Ave S	400	R							X						1999
+750970	  53	01608	     	53-1608	East E St	286	Town of Purcellville	053	Loudoun County	0.27	53-611 20th St	53-1607 East G St	590	R							X						1999
+795926	  53	01608	     	53-1608	South 12th St	286	Town of Purcellville	053	Loudoun County	0.27	53-1607 East G St	Bus SR 7 Main St	0	?							X
+750971	  53	01609	     	53-1609	9th St S	286	Town of Purcellville	053	Loudoun County	0.03	53-722 Maple Ave S	ECL Purcellville	350	R							X						03/02/2002
+750973	  53	01609	     	53-1609	9th St S	286	Town of Purcellville	053	Loudoun County	0.26	SCL Purcellville	SR 7 Main St E	750	R							X						1999
+751033	  53	01646	     	53-1646	N 16th St	286	Town of Purcellville	053	Loudoun County	0.07	Bus SR 7, Main St E	Cul-de-Sac	130	R							X						1999
+751045	  53	01665	     	53-1665	Loudoun Valley Dr	286	Town of Purcellville	053	Loudoun County	0.23	53-611 Hatcher Ave	Dead End	230	R							X						1999
+751046	  53	01666	     	53-1666	East D St	286	Town of Purcellville	053	Loudoun County	0.25	53-611 20th St	Cul-de-Sac	280	R							X						1999
+751465	  53	09285	     	53-9285	15th St	286	Town of Purcellville	053	Loudoun County	0.15	53-1610 East A St	Dead End	440	R							X						1999
+751479	  53	09943	     	53-9943	 	286	Town of Purcellville	053	Loudoun County	0.19	Dead End	53-1605; 53-1606	290	R							X						1999
+792255	 286	00000	     	286-0	K St	286	Town of Purcellville	286	Town of Purcellville	0.00	26th St	Nursery Ave	250	F							X	0.1148	F	0.0000	250	F	2008
+792254	 286	00000	     	286-0	Remington Dr	286	Town of Purcellville	286	Town of Purcellville	0.00	Wexford Place	Eastgate Dr	340	F							X	0.1325	F	0.5111	340	F	2008
+792256	 286	00000	     	286-0	Wintergreen Dr	286	Town of Purcellville	286	Town of Purcellville	0.00	Orchard Brook Lane	Locust Grove Dr	360	F							X	0.1044	F	0.5500	360	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,27 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Nassawadox																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050423	  US	00013	     	US 13	Lankford Hwy	267	Town of Nassawadox	065	Northampton County	0.85	SCL Nassawadox	65-678	14000	N	93%	1%	1%	1%	5%	0%	N	0.0834	N	0.5126	13000	N	2008
+050322	  US	00013	     	US 13	Lankford Hwy	267	Town of Nassawadox	065	Northampton County	0.13	65-678 Pine Ave	NCL Nassawadox	16000	G	93%	1%	1%	1%	5%	0%	F	0.0815	F	0.5103	15000	G	2008
+756333	  65	00600	     	65-600	Seaside Rd	267	Town of Nassawadox	065	Northampton County	0.29	65-609 Franktown Rd	65-606	700	R							X						03/02/2004
+404335	  65	00600	     	65-600	Seaside Dr	267	Town of Nassawadox	065	Northampton County	0.20	65-606	65-608 Brownsville Rd	750	G	97%	1%	1%	0%	1%	0%	C	0.1260	F	0.5612	820	G	2008
+404343	  65	00606	     	65-606	Rogers Dr	267	Town of Nassawadox	065	Northampton County	0.20	65-600 Seaside Rd	US 13 Lankford Hwy	960	G	97%	1%	1%	0%	0%	0%	F	0.0967	F	0.5972	1000	G	2008
+404344	  65	00606	     	65-606	Rogers Dr	267	Town of Nassawadox	065	Northampton County	0.58	US 13 Lankford Hwy	WCL Nassawadox	1400	G	97%	1%	1%	0%	0%	0%	C	0.0898	F	0.7305	1500	G	2008
+756351	  65	00609	     	65-609	Franktown Rd	267	Town of Nassawadox	065	Northampton County	0.15	WCL Nassawadox	65-681 Hospital Ave	910	R							X						02/24/2004
+404346	  65	00609	     	65-609	Franktown Rd	267	Town of Nassawadox	065	Northampton County	0.17	65-681 Hospital Ave	65-619 Giddens Rd	1400	G	97%	1%	1%	0%	1%	0%	F	0.1077	F	0.5663	1500	G	2008
+404347	  65	00609	     	65-609	Franktown Rd	267	Town of Nassawadox	065	Northampton County	0.16	65-619 Giddens Rd	US 13 Lankford Hwy	1300	G	97%	1%	1%	0%	1%	0%	C	0.1009	F	0.5816	1400	G	2008
+756352	  65	00609	     	65-609	Franktown Rd	267	Town of Nassawadox	065	Northampton County	0.17	US 13 Lankford Hwy	65-600 Seaside Rd	200	R							X						03/02/2004
+785168	  65	00619	     	65-619	Giddens Rd	267	Town of Nassawadox	065	Northampton County	0.04	SCL Nassawadox	65-609 Franktown Rd	890	R							X						04/25/2001
+756461	  65	00678	     	65-678	Pine Ave	267	Town of Nassawadox	065	Northampton County	0.35	65-606	US 13 Lankford Hwy	350	R							X						03/08/2004
+404379	  65	00681	     	65-681	Hospital Ave	267	Town of Nassawadox	065	Northampton County	0.50	65-609 Franktown Rd	65-606	3100	G	99%	0%	1%	0%	0%	0%	C	0.0902	F	0.5395	3400	G	2008
+756484	  65	00701	     	65-701	Shell St	267	Town of Nassawadox	065	Northampton County	0.15	Dead End	65-600 Seaside Rd	50	R							X						03/02/2004
+756489	  65	00706	     	65-706	Church Ct	267	Town of Nassawadox	065	Northampton County	0.23	65-609 Franktown Rd	Dead End	180	R							X						02/24/2004
+756496	  65	00712	     	65-712	Mill St	267	Town of Nassawadox	065	Northampton County	0.17	US 13 Lankford Hwy	65-600 Seaside Rd	410	R							X						02/25/2004
+785412	  65	00714	     	65-714	Woodstock Dr	267	Town of Nassawadox	065	Northampton County	0.24	Dead End	65-600 Seaside Dr	110	R							X						03/12/2004
+756508	  65	00725	     	65-725	 	267	Town of Nassawadox	065	Northampton County	0.06	65-609 Franktown Rd	Cul-de-Sac	80	R							X						02/24/2004
+793300	  65	01070	     	65-1070	Rescue Lane	267	Town of Nassawadox	065	Northampton County	0.23	65-678 Pine Ave	Dead End	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

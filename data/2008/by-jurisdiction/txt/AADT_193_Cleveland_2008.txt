@@ -1,0 +1,35 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Cleveland																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+010297	  SR	00082	     	VA 82	 	193	Town of Cleveland	083	Russell County	0.55	SCL Cleveland	83-600 Cleveland	1800	N	97%	1%	1%	1%	1%	0%	N	0.0847	N	0.5063	1900	N	2008
+405565	  83	00600	     	83-600	Cleveland; Ivy Ridge Rd	193	Town of Cleveland	083	Russell County	0.13	SR 82	WCL Cleveland	1400	F	96%	0%	1%	1%	2%	0%	C	0.0882	F	0.6889	1400	F	2008
+769224	  83	00661	     	83-661	Artrip Rd	193	Town of Cleveland	083	Russell County	0.06	SR 82; 83-600	NCL Cleveland	290	R							X						02/17/2006
+769298	  83	00696	     	83-696	River View Dr	193	Town of Cleveland	083	Russell County	0.23	SR 82 SOUTH	83-1203 3rd St	70	R							X						02/17/2006
+769299	  83	00696	     	83-696	River View Dr	193	Town of Cleveland	083	Russell County	0.06	83-1203 3rd St	83-1205 Fire House Lane	70	R							X						02/17/2006
+769300	  83	00696	     	83-696	River View Rd	193	Town of Cleveland	083	Russell County	0.03	83-1205 Fire House Lane	SR 82 NORTH	110	R							X						02/17/2006
+769588	  83	01201	     	83-1201	Train Track Ave	193	Town of Cleveland	083	Russell County	0.10	SR 82	Dead End	60	R							X						02/10/2006
+769589	  83	01202	     	83-1202	2nd St	193	Town of Cleveland	083	Russell County	0.05	83-1206 2 St	SR 82; 83-696	240	R							X						1986
+769590	  83	01203	     	83-1203	3rd St	193	Town of Cleveland	083	Russell County	0.03	83-1206 3 St; 2 St	Dead End; Gap	30	R							X						02/17/2006
+769591	  83	01203	     	83-1203	3rd St	193	Town of Cleveland	083	Russell County	0.03	SR 82 Gap	83-1205; Gap	30	R							X						02/17/2006
+769592	  83	01203	     	83-1203	3rd St	193	Town of Cleveland	083	Russell County	0.02	83-696 Gap	Dead End	20	R							X						02/17/2006
+769593	  83	01204	     	83-1204	4th St	193	Town of Cleveland	083	Russell County	0.05	83-1206 4th St	SR 82	40	R							X						02/17/2006
+769594	  83	01204	     	83-1204	4th St	193	Town of Cleveland	083	Russell County	0.03	SR 82	83-1205 Fire House Lane	140	R							X						02/17/2006
+769595	  83	01205	     	83-1205	Fire House Lane	193	Town of Cleveland	083	Russell County	0.03	83-696 River View Rd; River View Dr	83-1203 3rd St	50	R							X						02/17/2006
+769596	  83	01205	     	83-1205	Fire House Lane	193	Town of Cleveland	083	Russell County	0.06	83-1203 3rd St	83-1204 4th St	60	R							X						02/24/2006
+769597	  83	01206	     	83-1206	2 St	193	Town of Cleveland	083	Russell County	0.04	83-1202 2nd St	83-1203 3rd St	100	R							X						02/10/2006
+769598	  83	01206	     	83-1206	3 St	193	Town of Cleveland	083	Russell County	0.03	83-1203 3rd St	83-1207 Hall St	60	R							X						02/10/2006
+769599	  83	01206	     	83-1206	4th St	193	Town of Cleveland	083	Russell County	0.02	83-1207 Hall St	83-1204 4th St	80	R							X						02/10/2006
+769600	  83	01207	     	83-1207	Hall St	193	Town of Cleveland	083	Russell County	0.21	Dead End	83-1208 S, Hall St; Trank Hollow Rd	2	R							X						02/24/2006
+769601	  83	01207	     	83-1207	Hall St	193	Town of Cleveland	083	Russell County	0.02	83-1208 S, Hall St; Trank Hollow Rd	83-1208 N, Hall St	49	R							X						02/24/2006
+769602	  83	01207	     	83-1207	Hall St	193	Town of Cleveland	083	Russell County	0.03	83-1208 N, Hall St	83-1206 4th St; 3 St	60	R							X						02/24/2006
+769603	  83	01208	     	83-1208	Trank Hollow Rd	193	Town of Cleveland	083	Russell County	0.04	Dead End	83-1207 S, Hall St	20	R							X						02/24/2006
+769604	  83	01208	     	83-1208	Hall St	193	Town of Cleveland	083	Russell County	0.15	83-1207 S, Hall St	83-1207 N, Hall St	6	R							X						02/24/2006
+769605	  83	01209	     	83-1209	Town Circle Dr	193	Town of Cleveland	083	Russell County	0.02	Dead End	83-600 Cleveland	30	R							X						02/10/2006
+769606	  83	01209	     	83-1209	Hippy Hollow Rd	193	Town of Cleveland	083	Russell County	0.09	83-600 Cleveland	NCL Cleveland	80	R							X						02/10/2006
+769607	  83	01210	     	83-1210	Minor St	193	Town of Cleveland	083	Russell County	0.05	Dead End	83-600 Cleveland	20	R							X						02/10/2006
+769609	  83	01212	     	83-1212	Campbell Ave	193	Town of Cleveland	083	Russell County	0.03	SR 82	Dead End	20	R							X						02/10/2006
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,242 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+King & Queen Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+060064	  SR	00014	     	VA 14	The Trail	049	King & Queen County	049	King & Queen County	6.14	US 360; St Stephens Church	49-629 Walkerton Rd	430	G	83%	1%	2%	2%	12%	0%	F	0.1205	F	0.5214	440	G	2008
+060066	  SR	00014	     	VA 14	The Trail	049	King & Queen County	049	King & Queen County	1.81	49-629 Walkerton Rd	49-620 W, Duck Pond Rd	570	G	83%	1%	2%	2%	12%	0%	F	0.1004	F	0.5515	590	G	2008
+060068	  SR	00014	     	VA 14	The Trail	049	King & Queen County	049	King & Queen County	9.74	49-620 W, Duck Pond Rd	49-617 Carletons Corner Rd	350	G	83%	1%	2%	2%	12%	0%	C	0.0927	F	0.6667	360	G	2008
+060230	  SR	00014	     	VA 14	The Trail	049	King & Queen County	049	King & Queen County	5.63	49-617 Carletons Corner Rd	49-614 Clifton Lane	870	G	83%	1%	2%	2%	12%	0%	F	0.1045	F	0.5487	890	G	2008
+060229	  SR	00014	     	VA 14	The Trail	049	King & Queen County	049	King & Queen County	6.81	49-614 Clifton Lane	SR 33 Shacklefords	2200	G	83%	1%	2%	2%	12%	0%	F	0.0832	F	0.5275	2200	G	2008
+060228	  SR	00014	     	VA 14, VA 33	Lewis Puller Mem. Hwy	049	King & Queen County	049	King & Queen County	1.66	SR 33 Shacklefords	SR 33 Shacklefords Fork	11000	G	90%	1%	2%	2%	6%	0%	C	0.0925	F	0.5914	12000	G	2008
+060070	  SR	00014	     	VA 14	Buena Vista Rd	049	King & Queen County	049	King & Queen County	4.95	SR 33 Lewis Puller Mem Hwy	Gloucester County Line	4100	G	90%	1%	2%	3%	5%	0%	C	0.0916	F	0.6371	4200	G	2008
+060124	  SR	00033	     	VA 33	Lewis Puller Mem Hwy	049	King & Queen County	049	King & Queen County	3.30	King William County Line	49-678 Riverview Ave	14000	G	91%	1%	1%	2%	5%	0%	C	0.0848	F	0.6139	15000	G	2008
+060122	  SR	00033	     	VA 33	Lewis Puller Mem Hwy	049	King & Queen County	049	King & Queen County	0.14	49-678 Riverview Ave	SR 14 Buena Vista Rd, Shacklefords Fork	13000	G	91%	1%	1%	2%	5%	0%	F	0.0893	F	0.6081	14000	G	2008
+060228	  SR	00033	     	VA 14, VA 33	Lewis Puller Mem. Hwy	049	King & Queen County	049	King & Queen County	1.66	SR 14 Shackelfords	SR 14 Shackelfords Fork	11000	G	90%	1%	2%	2%	6%	0%	C	0.0925	F	0.5914	12000	G	2008	
+060231	  SR	00033	     	VA 33	Lewis Puller Mem Hwy	049	King & Queen County	049	King & Queen County	2.61	SR 14 Buena Vista Rd, Shacklefords Fork	Gloucester County Line	7500	G	91%	1%	1%	2%	5%	0%	F	0.0843	F	0.5736	7700	G	2008
+060086	  US	00360	     	US 360	Richmond Hwy	049	King & Queen County	049	King & Queen County	2.91	King William County Line	SR 14 The Trail	11000	G	93%	1%	1%	1%	4%	0%	F	0.0852	F	0.6573	11000	G	2008
+060232	  US	00360	     	US 360	Richmond Hwy	049	King & Queen County	049	King & Queen County	6.29	SR 14 The Trail	Essex County Line	9200	G	88%	1%	2%	2%	6%	0%	C	0.0866	F	0.6197	9400	G	2008
+793645	  FR	00600	     	FR 600	 	049	King & Queen County	049	King & Queen County	0.19	Dead End	SR 33 Lewis Puller Mem Hwy	0	?							X
+748237	  49	00600	     	49-600	Pine Tree Rd	049	King & Queen County	049	King & Queen County	1.48	49-616 Mt Zion Rd	49-617 Exol Rd	40	R							X						06/22/2006
+748238	  49	00601	     	49-601	Cherry Row Lane	049	King & Queen County	049	King & Queen County	1.39	Dead End	1.39 MN Dead End	40	R							X						06/26/2006
+748239	  49	00601	     	49-601	Cherry Row Lane	049	King & Queen County	049	King & Queen County	0.91	1.39 MN Dead End	49-605 S, Plain View Lane	140	R							X						06/26/2006
+401966	  49	00601	     	49-601	Stratton Major Rd	049	King & Queen County	049	King & Queen County	3.40	49-605 N, York River Rd	SR 14 W, Buena Vista Rd	190	G	97%	1%	2%	0%	1%	0%	C	0.1238	F	0.5385	200	G	2008
+748240	  49	00601	     	49-601	Liberty St	049	King & Queen County	049	King & Queen County	1.25	SR 14 E, Buena Vista Rd	SR 33 Lewis Puller Mem Hwy	270	R							X						06/26/2003
+748241	  49	00601	     	49-601	Liberty St	049	King & Queen County	049	King & Queen County	0.08	SR 33 Lewis Puller Mem Hwy	T Intersection	40	R							X						06/26/2003
+748242	  49	00601	     	49-601	Liberty St	049	King & Queen County	049	King & Queen County	0.05	T Intersection	Southwest Dead End	20	R							X						06/26/2003
+791138	  49	00601	     	49-601	Liberty St	049	King & Queen County	049	King & Queen County	0.03	Northeast Dead End	T Intersection	10	R							X						06/26/2006
+748243	  49	00602	     	49-602	Melrose Landing Rd	049	King & Queen County	049	King & Queen County	1.20	Dead End	SR 14 The Trail	40	R							X						06/11/2003
+748244	  49	00602	     	49-602	Truhart Rd	049	King & Queen County	049	King & Queen County	1.00	SR 14 The Trail	1.00 MN SR 14	40	R							X						06/22/2006
+748245	  49	00602	     	49-602	Truhart Rd	049	King & Queen County	049	King & Queen County	3.60	1.00 MN SR 14	49-614 Devils 3 Jump Rd	20	R							X						06/22/2006
+401967	  49	00602	     	49-602	Mt Olive Rd	049	King & Queen County	049	King & Queen County	1.90	49-614 Devils 3 Jump Rd	49-610 Timber Branch Rd	90	G	94%	2%	2%	2%	0%	0%	C	0.1047	F	0.5556	90	G	2008
+406766	  49	00602	     	49-602	True Hart Rd	049	King & Queen County	049	King & Queen County	0.20	49-610 Timber Branch Rd	49-610 Piedmont Rd	90	N	94%	2%	2%	2%	0%	0%	N	0.1047	N	0.5556	90	N	2008
+406724	  49	00602	     	49-602	Wares Church Rd	049	King & Queen County	049	King & Queen County	1.57	49-610 Piedmont Rd	Middlesex County Line	90	N	94%	2%	2%	2%	0%	0%	N	0.1047	N	0.5556	90	N	2008
+401968	  49	00603	     	49-603	Lombardy Rd	049	King & Queen County	049	King & Queen County	4.39	SR 14 The Trail	49-610 Coldwater Rd; Elsom Mascot Rd	250	G	92%	0%	4%	3%	1%	0%	F	0.1228	F	0.7246	250	G	2008
+401969	  49	00603	     	49-603	Dragon Bridge Rd	049	King & Queen County	049	King & Queen County	0.86	49-610 Coldwater Rd; Elsom Mascot Rd	Middlesex County Line	400	G	92%	0%	4%	3%	1%	0%	C	0.1253	F	0.6154	410	G	2008
+748246	  49	00604	     	49-604	 	049	King & Queen County	049	King & Queen County	0.70	49-614 Poplar Grove Rd; Rock Spring Rd	Essex County Line	220	R							X						06/11/2003
+748247	  49	00605	     	49-605	Chain Ferry Rd	049	King & Queen County	049	King & Queen County	0.03	Dead End	49-674 Shepards Warehouse Rd	20	R							X						06/28/2006
+748248	  49	00605	     	49-605	Chain Ferry Rd	049	King & Queen County	049	King & Queen County	1.31	49-674 Shepards Warehouse Rd	SR 33 Lewis Puller Mem Hwy	140	R							X						06/28/2006
+401970	  49	00605	     	49-605	York River Rd	049	King & Queen County	049	King & Queen County	3.46	SR 33 Lewis Puller Mem Hwy	49-606 Taylorsville Rd	960	G	95%	0%	1%	3%	1%	0%	C	0.1027	F	0.6346	990	G	2008
+401971	  49	00605	     	49-605	York River Rd	049	King & Queen County	049	King & Queen County	1.39	49-606 Taylorsville Rd	49-601 N, Cherry Row Lane	540	G	95%	0%	1%	3%	1%	0%	F	0.1109	F	0.6797	550	G	2008
+406692	  49	00605	     	49-605	Plain View Lane	049	King & Queen County	049	King & Queen County	0.61	49-601 N, Cherry Row Lane	49-601 S, Cherry Row Lane	540	N	95%	0%	1%	3%	1%	0%	N	0.1109	N	0.6797	550	N	2008
+401972	  49	00605	     	49-605	Plain View Lane	049	King & Queen County	049	King & Queen County	2.68	49-601 S, Cherry Row Lane	SR 14 Buena Vista Rd	320	R							X						06/26/2006
+748249	  49	00606	     	49-606	Taylorsville Rd	049	King & Queen County	049	King & Queen County	2.40	49-605 York River Rd	49-601 Stratton Major Rd	150	R							X						06/26/2006
+748250	  49	00607	     	49-607	Crouches Rd	049	King & Queen County	049	King & Queen County	1.10	49-631 Poor House Lane	49-617 E, Providence Rd	30	R							X						06/19/2006
+748251	  49	00607	     	49-607	Princess Rd	049	King & Queen County	049	King & Queen County	1.40	49-617 W, Providence Rd	Essex County Line	30	R							X						06/09/2003
+401973	  49	00608	     	49-608	Clancie Rd	049	King & Queen County	049	King & Queen County	0.17	49-678 Riverview Ave	49-700 Airville Rd	940	G	95%	0%	1%	1%	3%	0%	C	0.0995	F	0.6875	960	G	2008
+401974	  49	00608	     	49-608	Clancie Rd	049	King & Queen County	049	King & Queen County	2.73	49-700 Airville Rd	49-609 W, New Hope Rd	540	G	95%	0%	1%	1%	3%	0%	F	0.1041	F	0.7807	560	G	2008
+748252	  49	00608	     	49-608	Royal Oak School Rd	049	King & Queen County	049	King & Queen County	1.89	49-609 E, New Hope Rd	1.89 MN 49-609 New Hope Rd	140	R							X						06/26/2006
+748253	  49	00608	     	49-608	Royal Oak School Rd	049	King & Queen County	049	King & Queen County	0.29	1.89 MN 49-609 New Hope Rd	Cul-de-Sac	30	R							X						06/26/2006
+748254	  49	00609	     	49-609	Mt Olive Bottom Rd	049	King & Queen County	049	King & Queen County	0.60	Dead End	49-614 N, Devils 3 Jump Rd	30	R							X						06/22/2006
+748255	  49	00609	     	49-609	Iris Rd	049	King & Queen County	049	King & Queen County	0.64	49-614 S, Devils 3 Jump Rd	0.64 ME 49-614 Devils 3 Jump Rd	90	R							X						06/26/2003
+748256	  49	00609	     	49-609	Iris Rd	049	King & Queen County	049	King & Queen County	2.31	0.64 ME 49-614 Devils 3 Jump Rd	49-613 Dabney Rd	20	R							X						06/22/2006
+748257	  49	00609	     	49-609	Iris Rd	049	King & Queen County	049	King & Queen County	0.30	49-613 Dabney Rd	49-611 Tastine Rd	20	R							X						06/22/2006
+748258	  49	00609	     	49-609	Iris Rd	049	King & Queen County	049	King & Queen County	1.80	49-611 Tastine Rd	49-603 Lombardy Rd; Gap	4	R							X						06/22/2006
+748259	  49	00609	     	49-609	New Hope Rd	049	King & Queen County	049	King & Queen County	5.80	49-610 Elsom Mascot Rd; Gap	SR 33 Lewis Puller Mem Hwy	180	R							X						06/26/2003
+401975	  49	00610	     	49-610	Elsom Mascot Rd	049	King & Queen County	049	King & Queen County	3.65	SR 14 The Trail	49-609 New Hope Rd	470	G	96%	0%	2%	1%	1%	0%	C	0.0987	F	0.7660	480	G	2008
+401976	  49	00610	     	49-610	Elsom Mascot Rd	049	King & Queen County	049	King & Queen County	1.89	49-609 New Hope Rd	49-603 Dragon Bridge Rd; Lombardy Rd	450	G	96%	0%	2%	1%	1%	0%	F	0.0937	F	0.7471	460	G	2008
+748260	  49	00610	     	49-610	Coldwater Rd	049	King & Queen County	049	King & Queen County	1.19	49-603 Dragon Bridge Rd; Lombardy Rd	49-656 Barn Gate Rd	160	R							X						06/26/2006
+748261	  49	00610	     	49-610	Coldwater Rd	049	King & Queen County	049	King & Queen County	2.14	49-656 Barn Gate Rd	49-613 Dabney Rd	100	R							X						06/26/2006
+748262	  49	00610	     	49-610	Piedmont Rd	049	King & Queen County	049	King & Queen County	2.30	49-613 Dabney Rd	49-602 S, True Hart Rd	60	R							X						06/26/2006
+748263	  49	00610	     	49-610	Timber Branch Rd	049	King & Queen County	049	King & Queen County	1.40	49-602 N, True Hart Rd; Mt Olive Rd	49-614 S, Devils 3 Jump Rd	80	R							X						06/26/2006
+401977	  49	00610	     	49-610	Dragonville Rd	049	King & Queen County	049	King & Queen County	0.70	49-614 S, Devils 3 Jump Rd	49-614 N, Rock Spring Rd	250	G	82%	3%	1%	4%	10%	0%	C	0.1301	F	0.6875	250	G	2008
+748264	  49	00610	     	49-610	Hickory Hill Rd	049	King & Queen County	049	King & Queen County	0.20	49-614 N, Rock Spring Rd	49-616 E, Liberty Hall Rd	150	R							X						06/26/2006
+748265	  49	00610	     	49-610	Hickory Hill Rd	049	King & Queen County	049	King & Queen County	0.85	49-616 E, Liberty Hall Rd	0.85 MN 49-616 Liberty Hall Rd	20	R							X						06/19/2006
+748266	  49	00610	     	49-610	Liberty Hall Rd	049	King & Queen County	049	King & Queen County	0.75	0.85 MN 49-616 Liberty Hall Rd	49-615 Union Hope Church Rd	6	R							X						06/19/2006
+748267	  49	00610	     	49-610	Spring Garden Rd	049	King & Queen County	049	King & Queen County	1.70	49-615 Union Hope Church Rd	49-616 W, Liberty Hall Rd; Mt Zion Rd	10	R							X						06/19/2006
+748268	  49	00611	     	49-611	Tastine Rd	049	King & Queen County	049	King & Queen County	2.00	49-609 Iris Rd	2.00 MS 49-609 Iris Rd	30	R							X						06/22/2006
+748269	  49	00611	     	49-611	Tastine Rd	049	King & Queen County	049	King & Queen County	1.00	2.00 MS 49-609 Iris Rd	SR 14 E, The Trail	80	R							X						06/22/2006
+748270	  49	00611	     	49-611	Water Ln	049	King & Queen County	049	King & Queen County	1.60	SR 14 W, The Trail	Dead End	140	R							X						06/26/2003
+748271	  49	00612	     	49-612	Lily Pond Rd	049	King & Queen County	049	King & Queen County	0.30	SR 14 The Trail	49-630 Deshazo Rd	110	R							X						06/19/2006
+748272	  49	00612	     	49-612	Lily Pond Rd	049	King & Queen County	049	King & Queen County	2.77	49-630 Deshazo Rd	49-617 S, Providence Rd	40	R							X						06/19/2006
+748273	  49	00612	     	49-612	Lily Pond Rd	049	King & Queen County	049	King & Queen County	1.53	49-617 S, Providence Rd	Essex County Line	130	R							X						06/11/2003
+748274	  49	00613	     	49-613	Allens Mill Pond Rd	049	King & Queen County	049	King & Queen County	1.10	Dead End	49-614 N, Devils 3 Jump Rd	8	R							X						06/22/2006
+748275	  49	00613	     	49-613	Dabney Rd	049	King & Queen County	049	King & Queen County	4.10	49-614 S, Devils 3 Jump Rd	49-610 Peidmont Rd; Coldwater Rd	50	R							X						06/26/2003
+748276	  49	00614	     	49-614	Clifton Lane	049	King & Queen County	049	King & Queen County	1.90	Dead End	SR 14 The Trail	40	R							X						06/22/2006
+401978	  49	00614	     	49-614	Devils 3 Jump Rd	049	King & Queen County	049	King & Queen County	0.90	SR 14 The Trail	49-613 S, Dabney Rd	890	G	55%	2%	2%	6%	36%	0%	C	0.0906	F	0.5375	910	G	2008
+401979	  49	00614	     	49-614	Devils 3 Jump Rd	049	King & Queen County	049	King & Queen County	1.00	49-613 S, Dabney Rd	49-613 N, Allens Mill Pond Rd	770	G	55%	2%	2%	6%	36%	0%	F	0.0995	F	0.5311	780	G	2008
+401980	  49	00614	     	49-614	Devils 3 Jump Rd	049	King & Queen County	049	King & Queen County	0.80	49-613 N, Allens Mill Pond Rd	49-609 S, Iris Rd	810	G	55%	2%	2%	6%	36%	0%	F	0.1013	F	0.5644	830	G	2008
+401981	  49	00614	     	49-614	Devils 3 Jump Rd	049	King & Queen County	049	King & Queen County	1.30	49-609 S, Iris Rd	49-602 Truhart Rd; Wares Church Rd	260	G	55%	2%	2%	6%	36%	0%	F	0.1252	F	0.7708	260	G	2008
+401982	  49	00614	     	49-614	Devils 3 Jump Rd	049	King & Queen County	049	King & Queen County	1.00	49-602 Truhart Rd; Wares Church Rd	49-610 E, Dragonville Rd	170	F	73%	2%	1%	6%	18%	0%	C	0.1351	F	0.6800	190	F	2008
+748277	  49	00614	     	49-614	Rock Spring Rd	049	King & Queen County	049	King & Queen County	4.65	49-610 W, Liberty Hall Rd; Dragonville Rd	49-615 Union Hope Church Rd	240	R							X						06/19/2006
+748278	  49	00614	     	49-614	Rock Spring Rd	049	King & Queen County	049	King & Queen County	0.70	49-615 Union Hope Church Rd	49-604	190	F	70%	1%	3%	6%	21%	0%	C	0.0990	F	0.5000	190	F	2008
+748279	  49	00614	     	49-614	Poplar Grove Rd	049	King & Queen County	049	King & Queen County	3.30	49-604	49-617 Exol Rd; White House Lane	40	R							X						06/19/2006
+748280	  49	00615	     	49-615	Union Hope Church Rd	049	King & Queen County	049	King & Queen County	1.40	49-610 Liberty Hall Rd	49-614 Rock Spring Rd	30	R							X						06/19/2006
+748281	  49	00616	     	49-616	Mt Zion Rd	049	King & Queen County	049	King & Queen County	3.20	SR 14 The Trail	49-610 E, Spring Garden Rd	120	R							X						06/11/2003
+791137	  49	00616	     	49-616	Liberty Hall Rd	049	King & Queen County	049	King & Queen County	3.70	49-610 E, Spring Garden Rd	49-610 W, Hickory Hill Rd	120	R							X						06/26/2006
+748282	  49	00617	     	49-617	Providence Rd	049	King & Queen County	049	King & Queen County	2.20	49-631 Poor House Lane	49-607 E, Princess Rd	90	R							X						06/09/2003
+748283	  49	00617	     	49-617	Providence Rd	049	King & Queen County	049	King & Queen County	2.00	49-607 E, Princess Rd	49-612 S, Lily Pond Rd	70	R							X						06/09/2003
+748284	  49	00617	     	49-617	White House Lane	049	King & Queen County	049	King & Queen County	1.80	49-612 N, Lily Pond Rd	49-614 Popular Grove Rd	60	R							X						06/11/2003
+748285	  49	00617	     	49-617	Exol Rd	049	King & Queen County	049	King & Queen County	2.60	49-614 Popular Grove Rd	49-616 Mt Zion Rd	70	R							X						06/22/2006
+748286	  49	00617	     	49-617	Carletons Corner Rd	049	King & Queen County	049	King & Queen County	4.90	49-616 Mt Zion Rd	SR 14 The Trail	100	R							X						06/11/2003
+748287	  49	00618	     	49-618	Shilo Rd	049	King & Queen County	049	King & Queen County	1.00	SR 14 The Trail	Dead End	47	R							X						06/19/2006
+401983	  49	00619	     	49-619	Owens Mill Rd	049	King & Queen County	049	King & Queen County	2.80	49-721 Newtown Rd	49-673 Martin Town Rd	430	G	98%	0%	1%	0%	1%	0%	F	0.1045	F	0.6977	440	G	2008
+401984	  49	00619	     	49-619	Owens Mill Rd	049	King & Queen County	049	King & Queen County	1.80	49-673 Martin Town Rd	49-660 Sorghum Rd	320	G	98%	0%	1%	0%	1%	0%	C	0.0955	F	0.5333	330	G	2008
+401985	  49	00619	     	49-619	Owens Mill Rd	049	King & Queen County	049	King & Queen County	3.00	49-660 Sorghum Rd	Essex County Line	260	G	98%	0%	1%	0%	1%	0%	F	0.1009	F	0.6786	270	G	2008
+748288	  49	00620	     	49-620	Duck Pond Rd	049	King & Queen County	049	King & Queen County	2.20	49-633 Stones Rd	SR 14 W, The Trail	40	R							X						06/19/2006
+401986	  49	00620	     	49-620	Powcan Rd	049	King & Queen County	049	King & Queen County	2.89	SR 14 E, The Trail	49-631 E, Poor House Lane	170	G	97%	0%	1%	1%	1%	0%	F	0.0994	F	0.7714	170	G	2008
+401987	  49	00620	     	49-620	Powcan Rd	049	King & Queen County	049	King & Queen County	1.00	49-631 E, Poor House Lane	Essex County Line	480	G	97%	0%	1%	1%	1%	0%	C	0.1216	F	0.7627	490	G	2008
+401988	  49	00621	     	49-621	Bruinton Rd	049	King & Queen County	049	King & Queen County	3.80	SR 14 The Trail	US 360; Essex County Line	530	G	92%	0%	1%	0%	5%	0%	C	0.1105	F	0.6333	550	G	2008
+401989	  49	00622	     	49-622	Minor Rd	049	King & Queen County	049	King & Queen County	0.49	US 360 Richmond Hwy.	Essex County Line	430	G	98%	0%	1%	0%	1%	0%	C	0.1241	F	0.8077	440	G	2008
+401990	  49	00623	     	49-623	Indian Neck Rd	049	King & Queen County	049	King & Queen County	1.05	49-721 Newtown Rd	49-635 S, Bradley Farm Rd	210	G	98%	0%	0%	0%	1%	0%	C	0.1116	F	0.6400	210	G	2008
+748289	  49	00623	     	49-623	Indian Neck Rd	049	King & Queen County	049	King & Queen County	4.60	49-635 N, Bradley Farm Rd	49-619 Owens Mill Rd	290	R							X						06/13/2006
+748290	  49	00623	     	49-623	Indian Neck Rd	049	King & Queen County	049	King & Queen County	1.80	49-619 Owens Mill Rd	Essex County Line	20	R							X						06/13/2006
+748291	  49	00624	     	49-624	Root Swamp Rd	049	King & Queen County	049	King & Queen County	1.13	49-635 Bradley Farm Rd	49-689 Frog Pond Rd	140	R							X						06/02/2003
+748292	  49	00624	     	49-624	Root Swamp Rd	049	King & Queen County	049	King & Queen County	1.97	49-689 Frog Pond Rd	Caroline County Line	80	R							X						06/02/2003
+401991	  49	00625	     	49-625	Poplar Hill Rd	049	King & Queen County	049	King & Queen County	1.60	49-628 Spring Cottage Rd; Poplar Hill Rd	49-651 Dewsville Rd	190	G	95%	0%	2%	2%	1%	0%	F	0.1197	F	0.7292	190	G	2008
+401992	  49	00625	     	49-625	Poplar Hill Rd	049	King & Queen County	049	King & Queen County	1.00	49-651 Dewsville Rd	49-721 Newtown Rd	300	G	95%	0%	2%	2%	1%	0%	F	0.1214	F	0.6974	300	G	2008
+401993	  49	00625	     	49-625	Byrds Mill Rd	049	King & Queen County	049	King & Queen County	1.50	49-721 Newtown Rd	49-649 Kays Lane	150	G	95%	0%	2%	2%	1%	0%	C	0.1342	F	0.7000	150	G	2008
+748293	  49	00625	     	49-625	Byrds Mill Rd	049	King & Queen County	049	King & Queen County	1.10	49-649 Kays Lane	49-641 Salvia Rd	120	R							X						06/15/2006
+748294	  49	00625	     	49-625	Byrds Mill Rd	049	King & Queen County	049	King & Queen County	2.00	49-641 Salvia Rd	Caroline County Line	48	R							X						06/15/2006
+748295	  49	00626	     	49-626	Roseville Rd	049	King & Queen County	049	King & Queen County	0.46	49-623 Indians Neck Rd	0.46 MN 49-623 Indians Neck Rd	6	R							X						06/13/2006
+748296	  49	00626	     	49-626	Roseville Rd	049	King & Queen County	049	King & Queen County	0.04	0.46 MN 49-623 Indians Neck Rd	Dead End	6	R							X						06/13/2006
+748297	  49	00627	     	49-627	Roundabout Route Rd	049	King & Queen County	049	King & Queen County	2.04	Caroline County Line	49-721 Newtown Rd	90	R							X						06/15/2006
+791139	  49	00628	     	49-628	Green Chambers Rd	049	King & Queen County	049	King & Queen County	0.50	US 360 Richmond Hwy.	49-642; Pattie Swamp Rd	40	R							X						06/05/2006
+748298	  49	00628	     	49-628	Pattie Swamp Rd	049	King & Queen County	049	King & Queen County	1.00	49-642 Green Chambers Rd	49-721 S, Newtown Rd	60	R							X						06/05/2006
+748299	  49	00628	     	49-628	Todds Bridge Rd	049	King & Queen County	049	King & Queen County	1.20	49-721 N, Newtown Rd	1.20 MW 49-721 Newtown Rd	200	R							X						06/05/2006
+748300	  49	00628	     	49-628	Todds Bridge Rd	049	King & Queen County	049	King & Queen County	1.40	1.20 MW 49-721 Newtown Rd	2.60 MW 49-721 GAP	10	R							X						06/05/2006
+748301	  49	00628	     	49-628	Spring Cottage Rd	049	King & Queen County	049	King & Queen County	1.80	Dead End; Gap	49-639 Eastern View Rd	10	R							X						06/05/2006
+748302	  49	00628	     	49-628	Spring Cottage Rd	049	King & Queen County	049	King & Queen County	1.80	49-639 Eastern View Rd	49-625 Byrds Mill Rd	80	R							X						06/02/2003
+401994	  49	00628	     	49-628	Spring Cottage Rd	049	King & Queen County	049	King & Queen County	1.90	49-625 Byrds Mill Rd	King William County Line	250	G	92%	0%	1%	1%	6%	0%	C	0.1285	F	0.6216	260	G	2008
+401995	  49	00629	     	49-629	Walkerton Rd	049	King & Queen County	049	King & Queen County	3.11	King William County Line; 50-629	SR 14 The Trail	850	G	88%	0%	1%	1%	10%	0%	C	0.1036	F	0.6979	860	G	2008
+748303	  49	00630	     	49-630	Deshazo Rd	049	King & Queen County	049	King & Queen County	2.50	49-631 Poor House Lane	49-612 Lily Pond Rd	90	R							X						06/19/2006
+748304	  49	00631	     	49-631	 	049	King & Queen County	049	King & Queen County	1.45	Dead End	SR 14 E, The Trail	130	R							X						06/11/2003
+401996	  49	00631	     	49-631	Bunker Hill Rd	049	King & Queen County	049	King & Queen County	2.60	SR 14 W, The Trail	49-632 Hockley Neck Rd	640	G	99%	1%	1%	0%	0%	0%	C	0.1065	F	0.5429	650	G	2008
+401997	  49	00631	     	49-631	Stevensville Rd	049	King & Queen County	049	King & Queen County	1.45	49-632 Hockley Neck Rd	SR 14 SOUTH; 49-633 Stones Rd	320	G	99%	1%	1%	0%	0%	0%	F	0.0972	F	0.5821	330	G	2008
+401998	  49	00631	     	49-631	Poor House Lane	049	King & Queen County	049	King & Queen County	1.58	SR 14 N, The Trail	49-630 Deshazo Rd	220	G	99%	1%	1%	0%	0%	0%	F	0.1124	F	0.6000	220	G	2008
+401999	  49	00631	     	49-631	Poor House Lane	049	King & Queen County	049	King & Queen County	2.54	49-630 Deshazo Rd	49-620 E Powcan Rd	270	G	99%	1%	1%	0%	0%	0%	F	0.1004	F	0.5714	270	G	2008
+748305	  49	00631	     	49-631	Norwood Rd	049	King & Queen County	049	King & Queen County	3.03	49-620 W, Powcan Rd	SR 14 E, The Trail	80	R							X						06/09/2003
+748306	  49	00631	     	49-631	Fleets Mill Rd	049	King & Queen County	049	King & Queen County	0.98	SR 14 W, The Trail	49-672 Holmestown Rd	120	R							X						06/09/2003
+748307	  49	00631	     	49-631	Fleets Mill Rd	049	King & Queen County	049	King & Queen County	1.44	49-672 Holmestown Rd	1.44 MW 49-672 Holmestown Rd	180	R							X						06/22/2006
+748308	  49	00631	     	49-631	Fleets Mill Rd	049	King & Queen County	049	King & Queen County	0.06	1.44 MW 49-672 Holmestown Rd	US 360 E, Richmond Hwy.	180	R							X						06/02/2003
+402000	  49	00631	     	49-631	Smithfield Rd	049	King & Queen County	049	King & Queen County	2.20	US 360 W, Richmond Hwy.	49-650 Smithfield School Rd	360	G	98%	0%	2%	0%	1%	0%	C	0.1135	F	0.6190	370	G	2008
+748309	  49	00631	     	49-631	Smithfield Rd	049	King & Queen County	049	King & Queen County	2.15	49-650 Smithfield School Rd	49-619 Owens Manor Rd	90	R							X						06/02/2003
+402001	  49	00632	     	49-632	Hockley Neck Rd	049	King & Queen County	049	King & Queen County	1.79	49-633 Stones Rd	49-631 Poor House Ln; Bunker Hill Rd	420	G	99%	0%	1%	0%	0%	0%	C	0.1101	F	0.5000	430	G	2008
+748310	  49	00633	     	49-633	Bendley Lane	049	King & Queen County	049	King & Queen County	0.27	Dead End	49-675, N Blank Rd	6	R							X						06/15/2006
+748311	  49	00633	     	49-633	Bendley Lane	049	King & Queen County	049	King & Queen County	0.65	49-675, N Blank Rd	49-634 S, Cantebury Rd	50	R							X						06/15/2006
+748312	  49	00633	     	49-633	Rose Mount Rd	049	King & Queen County	049	King & Queen County	1.41	49-634 N, Cantebury Rd	49-636 W, Minter Lane	260	R							X						06/15/2006
+748313	  49	00633	     	49-633	Rose Mount Rd	049	King & Queen County	049	King & Queen County	0.30	49-636 W, Minter Lane	49-636 E, Pea Ridge Rd	220	R							X						06/15/2006
+748314	  49	00633	     	49-633	Rose Mount Rd	049	King & Queen County	049	King & Queen County	0.69	49-636 E, Pea Ridge Rd	0.69 ME 49-636 Pea Ridge Rd	150	R							X						06/15/2006
+748315	  49	00633	     	49-633	Rose Mount Rd	049	King & Queen County	049	King & Queen County	1.31	0.69 ME 49-636 Pea Ridge Rd	49-629 N, Walkerton Rd	150	R							X						06/15/2006
+748316	  49	00633	     	49-633	Stones Rd	049	King & Queen County	049	King & Queen County	1.70	49-629 S, Walkerton Rd	49-634 Mt Elba Rd	140	R							X						06/15/2006
+402002	  49	00633	     	49-633	Mantau Rd	049	King & Queen County	049	King & Queen County	2.60	49-634 Mt Elba Rd	49-632 Hockley Neck Rd	540	G	98%	0%	1%	0%	0%	0%	C	0.1011	F	0.5714	550	G	2008
+748317	  49	00633	     	49-633	Stones Rd	049	King & Queen County	049	King & Queen County	2.60	49-632 Hockley Neck Rd	SR 14 The Trail; 49-631 Poor House Lane	80	R							X						06/19/2006
+402003	  49	00634	     	49-634	Mt Elba Rd	049	King & Queen County	049	King & Queen County	1.35	49-633 Stones Rd	49-629 E, Walkerton Rd	510	G	94%	0%	1%	1%	5%	0%	F	0.0919	F	0.5741	520	G	2008
+402004	  49	00634	     	49-634	Cantebury Rd	049	King & Queen County	049	King & Queen County	1.72	49-629 W, Walkerton Rd	49-636 Miner Lane	440	G	94%	0%	1%	1%	5%	0%	F	0.1016	F	0.6238	450	G	2008
+402005	  49	00634	     	49-634	Cantebury Rd	049	King & Queen County	049	King & Queen County	1.78	49-636 Miner Lane	49-633 S, Bendley Lane	380	G	94%	0%	1%	1%	5%	0%	F	0.0874	F	0.5422	390	G	2008
+402006	  49	00634	     	49-634	Cantebury Rd	049	King & Queen County	049	King & Queen County	0.47	49-633 S, Bendley Lane	49-633 N, Rose Mount Rd	420	G	94%	0%	1%	1%	5%	0%	F	0.0837	F	0.5517	430	G	2008
+402007	  49	00634	     	49-634	Cantebury Rd	049	King & Queen County	049	King & Queen County	2.07	49-633 N, Rose Mount Rd	SR 14 The Trail	680	G	94%	0%	1%	1%	5%	0%	C	0.0853	F	0.5156	690	G	2008
+402008	  49	00635	     	49-635	Bradley Farm Rd	049	King & Queen County	049	King & Queen County	1.19	49-721 Newtown Rd	49-623 S, Indians Neck Rd	360	G	95%	0%	2%	1%	2%	0%	C	0.1003	F	0.7179	370	G	2008
+402009	  49	00635	     	49-635	Bradley Farm Rd	049	King & Queen County	049	King & Queen County	4.43	49-623 S, Indians Neck Rd	Essex County Line	260	G	95%	0%	2%	1%	2%	0%	F	0.1027	F	0.7018	270	G	2008
+748318	  49	00636	     	49-636	Minter Lane	049	King & Queen County	049	King & Queen County	2.00	49-634 Cantebury Rd	49-633 W, Rose Mount Rd	160	R							X						06/15/2006
+748319	  49	00636	     	49-636	Pea Ridge Rd	049	King & Queen County	049	King & Queen County	2.00	49-633 E, Rose Mount Rd	SR 14 The Trail	170	R							X						06/09/2003
+748320	  49	00637	     	49-637	Chatham Hill Rd	049	King & Queen County	049	King & Queen County	1.40	Dead End	49-634 Cantebury Rd	190	R							X						06/15/2006
+748321	  49	00638	     	49-638	Aspen Hill Rd	049	King & Queen County	049	King & Queen County	0.20	49-620 S, Powcan Rd	49-620 N, Powcan Rd	20	R							X						06/26/2006
+748322	  49	00639	     	49-639	Eastern View Rd	049	King & Queen County	049	King & Queen County	0.45	49-628 Spring Cottage Rd	49-684 The Forge Rd	100	R							X						06/02/2003
+748323	  49	00639	     	49-639	Eastern View Rd	049	King & Queen County	049	King & Queen County	1.15	49-684 The Forge Rd	49-721 Newtown Rd	390	R							X						06/02/2003
+748324	  49	00640	     	49-640	Lyneville Rd	049	King & Queen County	049	King & Queen County	1.00	49-721 Newtown Rd	1.00 MN 49-721 Newtown Rd	230	R							X						06/13/2006
+748325	  49	00640	     	49-640	Lyneville Rd	049	King & Queen County	049	King & Queen County	1.30	1.00 MN 49-721 Newtown Rd	49-623 Indians Neck Rd	120	R							X						06/13/2006
+748326	  49	00641	     	49-641	Salvia Rd	049	King & Queen County	049	King & Queen County	2.00	49-652 Vessels Rd	49-625 Byrds Mill Rd	90	R							X						06/02/2003
+748327	  49	00642	     	49-642	Green Chambers Rd	049	King & Queen County	049	King & Queen County	0.30	US 360 Richmond Hwy.	49-628 Pattie Swamp Rd	70	R							X						06/05/2006
+748328	  49	00643	     	49-643	Airport Rd	049	King & Queen County	049	King & Queen County	0.83	Dead End	SR 33 Lewis Puller Mem Hwy	280	R							X						06/28/2006
+748329	  49	00644	     	49-644	Jonestown Rd	049	King & Queen County	049	King & Queen County	1.40	49-601 Stratton Major Rd	SR 14 Buena Vista Rd	160	R							X						06/26/2006
+748330	  49	00645	     	49-645	Page Lane	049	King & Queen County	049	King & Queen County	0.60	Dead End	49-605 Plain View Lane	60	R							X						06/26/2006
+748331	  49	00646	     	49-646	Curtis St	049	King & Queen County	049	King & Queen County	0.20	SR 14 The Trail	49-678 Riverview Ave	160	R							X						06/26/2006
+748332	  49	00647	     	49-647	Milby Town Rd	049	King & Queen County	049	King & Queen County	0.80	Dead End	0.80 ME Dead End	70	R							X						06/26/2003
+748333	  49	00647	     	49-647	Milby Town Rd	049	King & Queen County	049	King & Queen County	1.00	0.80 ME Dead End	49-609 New Hope Rd	160	R							X						06/26/2003
+748334	  49	00648	     	49-648	Kingston Rd	049	King & Queen County	049	King & Queen County	1.40	Dead End	49-605 Plain View Lane	110	R							X						06/26/2006
+748335	  49	00649	     	49-649	Kays Lane	049	King & Queen County	049	King & Queen County	0.70	49-625 Byrds Mill Rd	Dead End	8	R							X						06/15/2006
+748336	  49	00650	     	49-650	Smithfield School Rd	049	King & Queen County	049	King & Queen County	1.60	49-631 Smithfield Rd	Essex County Line	240	R							X						06/13/2006
+748337	  49	00651	     	49-651	Dewsville Rd	049	King & Queen County	049	King & Queen County	1.00	Dead End	49-625 Byrds Mill Rd	40	R							X						06/05/2006
+748338	  49	00652	     	49-652	Vessels Rd	049	King & Queen County	049	King & Queen County	1.40	49-721 W, Newtown Rd	49-641 Salvia Rd	70	R							X						06/15/2006
+748339	  49	00652	     	49-652	Vessels Rd	049	King & Queen County	049	King & Queen County	0.60	49-641 Salvia Rd	49-721 E, Newtown Rd	190	R							X						06/02/2003
+748340	  49	00653	     	49-653	Coates Lane	049	King & Queen County	049	King & Queen County	0.70	49-609 New Hope Rd	Dead End	4	R							X						06/26/2006
+748341	  49	00654	     	49-654	Davis Beech Rd	049	King & Queen County	049	King & Queen County	1.20	Dead End	SR 14 The Trail	120	R							X						06/22/2006
+748342	  49	00655	     	49-655	Courthouse Landing Rd	049	King & Queen County	049	King & Queen County	1.00	Dead End	49-681 Allens Circle	50	R							X						06/22/2006
+748343	  49	00656	     	49-656	Barn Gate Rd	049	King & Queen County	049	King & Queen County	0.40	Dead End	49-610 Coldwater Rd	8	R							X						06/26/2006
+748344	  49	00657	     	49-657	Limehouse Rd	049	King & Queen County	049	King & Queen County	1.28	Dead End	SR 14 The Trail	110	R							X						06/22/2006
+748345	  49	00658	     	49-658	Travellers Rd	049	King & Queen County	049	King & Queen County	3.14	49-605 York River Rd	49-601 Stratton Major Rd	47	R							X						06/26/2006
+748346	  49	00659	     	49-659	Mantapike Landing Rd	049	King & Queen County	049	King & Queen County	0.60	Dead End	49-631 Bunker Hill Rd	110	R							X						06/19/2006
+748347	  49	00659	     	49-659	Mantapike Landing Rd	049	King & Queen County	049	King & Queen County	1.80	49-631 Bunker Hill Rd	SR 14 The Trail	4	R							X						06/19/2006
+748348	  49	00660	     	49-660	Sorghum Rd	049	King & Queen County	049	King & Queen County	2.10	49-721 Newtown Rd	49-619 Owens Mill Rd	250	R							X						06/15/2006
+748349	  49	00661	     	49-661	Brookshire Rd	049	King & Queen County	049	King & Queen County	0.37	Dead End	49-687 Simpson Creek Rd	30	R							X						06/17/2003
+748350	  49	00661	     	49-661	Brookshire Rd	049	King & Queen County	049	King & Queen County	0.31	49-687 Simpson Creek Rd	SR 33 Lewis Puller Mem Hwy	210	R							X						06/17/2003
+748351	  49	00662	     	49-662	Greenbriar Rd	049	King & Queen County	049	King & Queen County	0.46	Dead End	49-634 Cantebury Rd	50	R							X						06/15/2006
+748352	  49	00663	     	49-663	Scuffletown Rd	049	King & Queen County	049	King & Queen County	0.31	Dead End	49-629 Walkerton Rd	40	R							X						06/15/2006
+748353	  49	00664	     	49-664	Peach Grove Rd	049	King & Queen County	049	King & Queen County	0.95	49-721 Newtown Rd	Dead End	130	R							X						06/15/2006
+748354	  49	00665	     	49-665	Hell Bottom Rd	049	King & Queen County	049	King & Queen County	1.04	Dead End	49-721 Newtown Rd	200	R							X						06/05/2006
+748355	  49	00666	     	49-666	Tuckers Rd	049	King & Queen County	049	King & Queen County	0.76	Dead End	49-667 Wrights Dock Rd	230	R							X						06/26/2006
+748356	  49	00666	     	49-666	Tuckers Rd	049	King & Queen County	049	King & Queen County	0.60	49-667 Wrights Dock Rd	49-605 Plain View Lane	420	R							X						06/17/2003
+748357	  49	00667	     	49-667	Wrights Dock Rd	049	King & Queen County	049	King & Queen County	1.20	Dead End	49-666 Tuckers Rd	50	R							X						06/26/2006
+748358	  49	00668	     	49-668	Morris Lane	049	King & Queen County	049	King & Queen County	0.25	49-605 York River Rd	Dead End	160	R							X						06/28/2006
+748359	  49	00669	     	49-669	Buzzards Roost Rd	049	King & Queen County	049	King & Queen County	1.20	Dead End	28-620; Essex County Line	40	R							X						06/19/2006
+748360	  49	00670	     	49-670	Virginia Ave	049	King & Queen County	049	King & Queen County	0.15	Dead End	SR 33 Lewis Puller Mem Hwy	80	R							X						06/28/2006
+748361	  49	00671	     	49-671	Old Millwood Rd	049	King & Queen County	049	King & Queen County	0.87	Dead End	49-641 Salvia Rd	48	R							X						06/15/2006
+748362	  49	00672	     	49-672	Holmestown Rd	049	King & Queen County	049	King & Queen County	0.84	49-631 Fleets Mill Rd	Dead End	70	R							X						06/22/2006
+748363	  49	00673	     	49-673	Martin Town Rd	049	King & Queen County	049	King & Queen County	0.79	49-619 Owens Mill Rd	Dead End	140	R							X						06/13/2006
+748364	  49	00674	     	49-674	Shepards Warehouse Rd	049	King & Queen County	049	King & Queen County	0.29	Dead End	49-605 Chain Ferry Rd	47	R							X						06/28/2006
+748365	  49	00675	     	49-675	North Bank Rd	049	King & Queen County	049	King & Queen County	0.32	Dead End	49-633 Bendley Lane	20	R							X						06/15/2006
+748366	  49	00676	     	49-676	Goulders Creek Rd	049	King & Queen County	049	King & Queen County	0.26	Dead End	SR 33 Lewis Puller Mem Hwy	80	R							X						06/28/2006
+748367	  49	00677	     	49-677	 	049	King & Queen County	049	King & Queen County	0.26	Dead End O.26 MN	SR 14 The Trail	20	R							X						06/02/2003
+748368	  49	00677	     	49-677	 	049	King & Queen County	049	King & Queen County	0.19	SR 14 The Trail	Dead End O.19 MS	30	R							X						06/02/2003
+748369	  49	00678	     	49-678	Centerville Rd	049	King & Queen County	049	King & Queen County	0.17	SR 33 Lewis Puller Mem Hwy	SR 14 W, The Trail	250	R							X						06/26/2006
+402010	  49	00678	     	49-678	Centreville Rd	049	King & Queen County	049	King & Queen County	0.91	SR 14 W, The Trail	49-608 Clancie Rd	860	G	96%	1%	1%	1%	2%	0%	C	0.1000	F	0.6782	880	G	2008
+406725	  49	00678	     	49-678	Riverview Ave	049	King & Queen County	049	King & Queen County	0.33	49-608 Clancie Rd	SR 14, SR 33 Lewis Puller Mem. Hwy	860	N	96%	1%	1%	1%	2%	0%	N	0.1000	N	0.6782	880	N	2008
+748370	  49	00679	     	49-679	Beaulah Rd	049	King & Queen County	049	King & Queen County	1.18	SR 33 W, Lewis Puller Mem Hwy	SR 33 E, Lewis Puller Mem Hwy	50	R							X						06/26/2006
+748371	  49	00680	     	49-680	Hockley Lane	049	King & Queen County	049	King & Queen County	0.49	Cul-de-Sac	49-605 York River Rd	80	R							X						06/26/2006
+748372	  49	00681	     	49-681	Allens Circle	049	King & Queen County	049	King & Queen County	0.28	SR 14 The Trail	SR 14 The Trail	280	R							X						06/11/2003
+748373	  49	00682	     	49-682	 	049	King & Queen County	049	King & Queen County	0.15	US 360 Richmond Hwy.	Dead End	30	R							X						06/13/2006
+748374	  49	00683	     	49-683	Gregory Lane	049	King & Queen County	049	King & Queen County	0.07	Dead End	SR 33 Lewis Puller Mem Hwy	60	R							X						06/28/2006
+748375	  49	00684	     	49-684	The Forge Rd	049	King & Queen County	049	King & Queen County	1.37	Dead End	49-639 Eastern View Rd	100	R							X						06/05/2006
+748376	  49	00685	     	49-685	Fish Hatchery Rd	049	King & Queen County	049	King & Queen County	0.64	SR 14 The Trail	0.64 MN SR 14 The Trail	60	R							X						06/19/2006
+748377	  49	00685	     	49-685	Fish Hatchery Rd	049	King & Queen County	049	King & Queen County	0.16	0.64 MN SR 14 The Trail	Dead End	10	R							X						06/19/2006
+748378	  49	00686	     	49-686	Ashby Rd	049	King & Queen County	049	King & Queen County	0.06	Dead End	SR 33 Lewis Puller Mem Hwy	60	R							X						06/28/2006
+748379	  49	00687	     	49-687	Simpson Creek Rd	049	King & Queen County	049	King & Queen County	0.26	Dead End	49-661 Brookshire Rd	100	R							X						06/28/2006
+748380	  49	00688	     	49-688	Howard Lane	049	King & Queen County	049	King & Queen County	0.15	49-691	Dead End	30	R							X						06/28/2006
+748381	  49	00689	     	49-689	Frog Pond Rd	049	King & Queen County	049	King & Queen County	0.26	49-624 Root Swamp Rd	Dead End	20	R							X						06/13/2006
+748382	  49	00690	     	49-690	Dudley Ferry Rd	049	King & Queen County	049	King & Queen County	0.26	Dead End	49-661 Brookshire Rd	70	R							X						06/28/2006
+748383	  49	00691	     	49-691	 	049	King & Queen County	049	King & Queen County	0.22	49-605 York River Rd	SR 33 Lewis Puller Mem Hwy	30	R							X						06/17/2003
+748384	  49	00692	     	49-692	Dahlgren Rd	049	King & Queen County	049	King & Queen County	0.06	Dead End	49-632 Hockley Neck Rd	100	R							X						06/19/2006
+748385	  49	00693	     	49-693	Level Green Rd	049	King & Queen County	049	King & Queen County	0.40	Dead End	49-721 Newtown Rd	80	R							X						06/05/2006
+793126	  49	00694	     	49-694	 	049	King & Queen County	049	King & Queen County	0.24	49-609 New Hope Rd	Dead End	0	?							X
+748386	  49	00700	     	49-700	Coxs Lane	049	King & Queen County	049	King & Queen County	0.14	49-608 Clancie Rd	49-701 Airville Rd	90	R							X						06/26/2003
+748387	  49	00701	     	49-701	Airville Rd	049	King & Queen County	049	King & Queen County	0.17	49-608 Clancie Rd	49-700 Coxs Lane	40	R							X						06/26/2006
+402011	  49	00721	     	49-721	Newtown Rd	049	King & Queen County	049	King & Queen County	1.60	US 360; SR 14 The Trail	49-619 Owens Mill Rd	2400	G	95%	0%	1%	1%	4%	0%	C	0.0813	F	0.6238	2500	G	2008
+402012	  49	00721	     	49-721	Newtown Rd	049	King & Queen County	049	King & Queen County	3.94	49-619 Owens Mill Rd	49-639 Eastern View Rd	1600	G	95%	0%	1%	1%	4%	0%	F	0.0820	F	0.5954	1700	G	2008
+402013	  49	00721	     	49-721	Newtown Rd	049	King & Queen County	049	King & Queen County	2.66	49-639 Eastern View Rd	49-635 Bradley Farm Rd	1400	G	95%	0%	1%	1%	4%	0%	F	0.0830	F	0.6892	1400	G	2008
+402014	  49	00721	     	49-721	Newtown Rd	049	King & Queen County	049	King & Queen County	1.12	49-635 Bradley Farm Rd	49-623 Indian Neck Rd	800	G	95%	0%	1%	1%	4%	0%	F	0.1008	F	0.5196	820	G	2008
+402015	  49	00721	     	49-721	Newtown Rd	049	King & Queen County	049	King & Queen County	1.79	49-623 Indian Neck Rd	49-627 Roundabout Route Rd	650	G	95%	0%	1%	1%	4%	0%	F	0.1103	F	0.5153	670	G	2008
+402016	  49	00721	     	49-721	Newtown Rd	049	King & Queen County	049	King & Queen County	2.84	49-627 Roundabout Route Rd	Caroline County Line	520	G	95%	0%	1%	1%	4%	0%	F	0.1022	F	0.5175	530	G	2008
+748388	  49	00725	     	49-725	Riverview Rd	049	King & Queen County	049	King & Queen County	0.34	Cul-de-Sac	49-659 Mantapike Landing Rd	80	R							X						06/11/2003
+748389	  49	01000	     	49-1000	River View Dr	049	King & Queen County	049	King & Queen County	0.40	49-1001 Rivers Bluff Lane	49-631 Bunker Hill Rd	100	R							X						06/11/2003
+748390	  49	01001	     	49-1001	Rivers Bluff Lane	049	King & Queen County	049	King & Queen County	0.35	Cul-de-Sac	49-1000 River View Dr	40	R							X						06/11/2003
+748391	  49	01001	     	49-1001	Rivers Bluff Lane	049	King & Queen County	049	King & Queen County	0.15	49-1000 River View Dr	Cul-de-Sac	45	R							X						06/11/2003
+748392	  49	01202	     	49-1202	White Marsh Lane	049	King & Queen County	049	King & Queen County	0.20	49-629 Walkerton Rd	Dead End	40	R							X						06/15/2006
+748393	  49	01203	     	49-1203	 	049	King & Queen County	049	King & Queen County	0.30	49-629 Walkerton Rd	Dead End	130	R							X						06/09/2003
+748394	  49	09211	     	49-9211	Pleasant Hills High School	049	King & Queen County	049	King & Queen County	0.09	Pleasant Hills High Sch	SR 14 The Trail	30	R							X						06/28/2006
+748396	  49	09493	     	49-9493	King & Queen High School	049	King & Queen County	049	King & Queen County	0.05	K & Q Cen High School	0.05 ME SR 14	20	R							X						06/28/2006
+748397	  49	09493	     	49-9493	King & Queen High School	049	King & Queen County	049	King & Queen County	0.16	0.05 ME SR 14	SR 14 The Trail	40	R							X						06/28/2006
+748398	  49	09958	     	49-9958	Lawson Elem Sch	049	King & Queen County	049	King & Queen County	0.08	Lawson Elem Sch	49-721 Newtown Rd	80	R							X						06/05/2006
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

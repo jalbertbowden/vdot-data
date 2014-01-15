@@ -1,0 +1,477 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Page Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+787379	  SR	00048	     	VA 48	Skyline Dr	069	Page County	US 	Federal	7.77	Rockingham County Line	Madison County Line	800	O							X						2008
+787382	  SR	00048	     	VA 48	Skyline Dr	069	Page County	US 	Federal	0.06	Rappahannock County Line	US 211	800	O							X						2008
+787496	  SR	00048	     	VA 48	Skyline Dr	069	Page County	US 	Federal	3.01	US 211	Rappahannock County Line	650	O							X						2008
+787384	  SR	00048	     	VA 48	Skyline Dr	069	Page County	US 	Federal	2.09	Rappahannock County Line	Rappahannock County Line	650	O							X						2008
+080395	  US	00211	     	US 211	Lee Highway	069	Page County	069	Page County	2.92	Shenandoah County Line	US 340	6000	G	91%	1%	1%	2%	6%	0%	F	0.0895	F	0.5960	6200	G	2008
+646113	  US	00211	     	US 211, US 340	Lee Highway	069	Page County	069	Page County	5.46	US 340	WCL Luray	7800	G	93%	1%	1%	1%	3%	0%	C	0.0878	F	0.5871	8000	G	2008
+646103	  US	00211	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.36	WCL Luray	Bus US 211	13000	G	93%	1%	1%	1%	3%	0%	F	0.0874	F	0.5496	14000	G	2008
+646100	  US	00211	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.69	Bus US 211	ECL Luray	6400	G	92%	1%	1%	2%	4%	0%	C	0.0866	F	0.5677	6600	G	2008
+646109	  US	00211	     	US 211, US 340	Lee Highway	069	Page County	069	Page County	0.53	ECL Luray	WCL Luray	6400	N	92%	1%	1%	2%	4%	0%	N	0.0866	N	0.5677	6600	N	2008
+646117	  US	00211	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.56	WCL Luray	US 340	6400	N	92%	1%	1%	2%	4%	0%	N	0.0866	N	0.5677	6600	N	2008
+646101	  US	00211	     	US 211	Lee Highway	159	Town of Luray	069	Page County	0.38	US 340	ECL Luray	4200	N	93%	1%	1%	1%	4%	0%	N	0.0911	N	0.5506	4300	N	2008
+080393	  US	00211	     	US 211	Lee Highway	069	Page County	069	Page County	1.35	ECL Luray	WCL Luray; 69-656 Whispering Hill Rd	4200	G	93%	1%	1%	1%	4%	0%	C	0.0911	F	0.5506	4300	G	2008
+080409	  US	00211	     	US 211	Lee Highway	159	Town of Luray	069	Page County	0.28	WCL Luray; 69-656 Whispering Hill Rd	ECL Luray	2700	N	93%	1%	1%	1%	3%	0%	N	0.0965	N	0.6085	2700	N	2008
+080555	  US	00211	     	US 211	Lee Highway	069	Page County	069	Page County	0.46	ECL Luray	Bus US 211 East of Luray	2700	G	93%	1%	1%	1%	3%	0%	C	0.0965	F	0.6085	2700	G	2008
+646111	  US	00211	     	US 211	Lee Highway	069	Page County	069	Page County	6.40	Bus US 211 East of Luray	Rappahannock County Line; Skyline Drive	2700	G	93%	1%	2%	1%	3%	0%	C	0.1004	F	0.6982	2800	G	2008
+646080	C3US	00211	     	Bus US 211	West  Main St	159	Town of Luray	159	Town of Luray	0.15	US 211 Lee Highway	Leaksville Rd	7700	G	98%	0%	1%	0%	0%	0%	F	0.0873	F	0.5134	7900	G	2008
+646082	C3US	00211	     	Bus US 211	West Main St	159	Town of Luray	159	Town of Luray	0.85	Leaksville Rd	Lee St	7400	G	98%	0%	1%	0%	0%	0%	C	0.0872	F	0.5016	7600	G	2008
+646088	C3US	00211	     	Bus US 211	West Main St	159	Town of Luray	159	Town of Luray	0.33	Lee St	US 340	9200	G	98%	0%	1%	0%	0%	0%	F	0.0911	F	0.5045	9400	G	2008
+646091	C3US	00211	     	Bus US 211	East Main St	159	Town of Luray	159	Town of Luray	0.98	US 340	Reservoir Ave	12000	G	98%	0%	1%	0%	1%	0%	F	0.0874	F	0.5157	12000	G	2008
+646092	C3US	00211	     	Bus US 211	East Main St	159	Town of Luray	159	Town of Luray	0.14	Reservoir Ave	Collins Rd	9700	G	98%	0%	1%	0%	1%	0%	C	0.0833	F	0.5500	9900	G	2008
+646102	C3US	00211	     	Bus US 211	East Main St	159	Town of Luray	159	Town of Luray	0.72	Collins Rd	ECL Luray	6500	G	97%	0%	1%	0%	1%	0%	F	0.0912	F	0.5182	6700	G	2008
+080396	C3US	00211	     	Bus US 211	East Main St	069	Page County	069	Page County	0.93	ECL Luray	US 211 East of Luray	2200	G	97%	0%	1%	0%	1%	0%	C	0.0970	F	0.5794	2300	G	2008
+080402	  US	00340	     	US 340	Third St	069	Page County	069	Page County	1.02	Rockingham County Line	SCL Shenandoah	6700	G	96%	1%	1%	1%	1%	0%	F	0.0891	F	0.5503	6900	G	2008
+080457	  US	00340	     	US 340	 	299	Town of Shenandoah	069	Page County	1.22	SCL Shenandoah	69-706 Junior Ave	6700	N	96%	1%	1%	1%	1%	0%	N	0.0891	N	0.5503	6900	N	2008
+080401	  US	00340	     	US 340	Fifth St	299	Town of Shenandoah	069	Page County	0.65	69-706 Junior Ave	NCL Shenandoah	7000	G	94%	1%	2%	1%	2%	0%	F	0.0885	F	0.5885	7200	G	2008
+080549	  US	00340	     	US 340	 	069	Page County	069	Page County	2.57	NCL Shenandoah	69-650 River Road	7000	N	94%	1%	2%	1%	2%	0%	N	0.0885	N	0.5885	7200	N	2008
+080400	  US	00340	     	US 340	 	069	Page County	069	Page County	4.32	69-650 River Road	Bus US 340	6500	G	94%	1%	2%	1%	2%	0%	C	0.1024	F	0.6784	6700	G	2008
+646115	  US	00340	     	US 340	 	069	Page County	069	Page County	3.16	Bus US 340	US 211 Lee Highway	5100	G	94%	1%	2%	1%	2%	0%	F	0.0948	F	0.5591	5300	G	2008
+646113	  US	00340	     	US 211, US 340	Lee Highway	069	Page County	069	Page County	5.46	US 211	WCL Luray	7800	G	93%	1%	1%	1%	3%	0%	C	0.0878	F	0.5871	8000	G	2008	
+646103	  US	00340	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.36	WCL Luray	BUS US 211	13000	G	93%	1%	1%	1%	3%	0%	F	0.0874	F	0.5496	14000	G	2008	
+646100	  US	00340	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.69	BUS US 211	CL Luray	6400	G	92%	1%	1%	2%	4%	0%	C	0.0866	F	0.5677	6600	G	2008	
+646109	  US	00340	     	US 211, US 340	Lee Highway	069	Page County	069	Page County	0.53	CL Luray	CL Luray	6400	N	92%	1%	1%	2%	4%	0%	N	0.0866	N	0.5677	6600	N	2008	
+646117	  US	00340	     	US 211, US 340	Lee Highway	159	Town of Luray	069	Page County	0.56	CL Luray	S RT 211	6400	N	92%	1%	1%	2%	4%	0%	N	0.0866	N	0.5677	6600	N	2008	
+646104	  US	00340	     	US 340	N Broad St	159	Town of Luray	159	Town of Luray	0.30	US 211	NCL Luray	6600	G	95%	1%	1%	1%	2%	0%	C	0.1001	F	0.6046	6800	G	2008
+646110	  US	00340	     	US 340	 	069	Page County	069	Page County	0.21	NCL Luray	69-731 Collins Rd	6200	G	95%	1%	1%	1%	2%	0%	F	0.0897	F	0.6037	6400	G	2008
+080068	  US	00340	     	US 340	 	069	Page County	069	Page County	1.03	69-731 Collins Rd	69-648 Sandy Hook Road	6700	G	95%	1%	1%	1%	2%	0%	F	0.0893	F	0.6246	6900	G	2008
+080066	  US	00340	     	US 340	 	069	Page County	069	Page County	5.93	69-648 Sandy Hook Road	69-662	5300	G	95%	1%	1%	1%	2%	0%	F	0.0876	F	0.6843	5400	G	2008
+080397	  US	00340	     	US 340	 	069	Page County	069	Page County	3.96	69-662	Warren County Line	4800	G	96%	1%	1%	1%	2%	0%	C	0.0961	F	0.7390	4900	G	2008
+646119	C1US	00340	     	Bus US 340	 	069	Page County	069	Page County	0.20	US 340	69-615	4700	N	94%	1%	2%	1%	2%	0%	N	0.0908	N	0.5000	4900	N	2008
+646114	C1US	00340	     	Bus US 340	Stonewall Jackson Memorial Highway	069	Page County	069	Page County	3.80	69-615	SCL Stanley	4700	G	94%	1%	2%	1%	2%	0%	C	0.0908	F	0.5000	4900	G	2008
+646116	C1US	00340	     	Bus US 340	 	303	Town of Stanley	069	Page County	2.08	SCL Stanley	NCL Stanley	4700	N	94%	1%	2%	1%	2%	0%	N	0.0908	N	0.5000	4900	N	2008
+646118	C1US	00340	     	Bus US 340	 	069	Page County	069	Page County	1.99	NCL Stanley	69-632 Stanley	4700	N	94%	1%	2%	1%	2%	0%	N	0.0908	N	0.5000	4900	N	2008
+646112	C1US	00340	     	Bus US 340	Stonewall Jackson Memorial Highway	069	Page County	069	Page County	3.73	69-632 Stanley	SCL Luray	6000	G	97%	0%	1%	0%	1%	0%	C	0.0914	F	0.6040	6100	G	2008
+646105	C1US	00340	     	Bus US 340	Virginia Ave	159	Town of Luray	159	Town of Luray	0.09	SCL Luray	Linden Ave	6900	G	96%	0%	2%	1%	1%	0%	F	0.0923	F	0.6380	7100	G	2008
+646087	C1US	00340	     	Bus US 340	Virginia Ave	159	Town of Luray	159	Town of Luray	0.52	Linden Ave	Bus US 211	5500	G	96%	0%	2%	1%	1%	0%	C	0.0833	F	0.5901	5700	G	2008
+646089	C1US	00340	     	Bus US 340	Broad St	159	Town of Luray	159	Town of Luray	0.54	Bus US 211	US 211	5300	G	96%	0%	1%	1%	2%	0%	C	0.0939	F	0.5595	5400	G	2008
+780679	  FR	00735	     	FR 735	Stonewall Lane	069	Page County	069	Page County	0.06	US 211 Lee Highway	Dead End	10	R							X						11/28/2006
+780680	  FR	00737	     	FR 737	Cave Hill Rd	069	Page County	069	Page County	0.07	Dead End	WCL Luray	10	R							X						11/28/2006
+785271	  FR	00737	     	FR 737	Cave Hill Rd	159	Town of Luray	069	Page County	0.13	WCL Luray	Cavehill Rd	30	R							X						11/28/2006
+780681	  FR	00738	     	FR 738	St Johns Rd	069	Page County	069	Page County	0.10	69-615	Dead End	0	?							X
+401820	  69	00602	     	69-602	Maryland Ave	299	Town of Shenandoah	069	Page County	0.37	Rockingham County Line	US 340	4900	G	98%	0%	1%	1%	0%	0%	C	0.0904	F	0.6264	5000	G	2008
+401821	  69	00602	     	69-602	Maryland Ave	299	Town of Shenandoah	069	Page County	0.42	US 340	ECL Shenandoah	3000	G	98%	0%	1%	1%	0%	0%	F	0.0952	F	0.6580	3100	G	2008
+403948	  69	00602	     	69-602	 	069	Page County	069	Page County	0.34	ECL Shenandoah	69-711 Comer Lane	3000	N	98%	0%	1%	1%	0%	0%	N	0.0952	N	0.6580	3100	N	2008
+401822	  69	00602	     	69-602	Corner Town Rd	069	Page County	069	Page County	1.30	69-711 Comer Lane	69-603 S, Fleeburg Rd	1400	G	98%	0%	1%	1%	0%	0%	F	0.1016	F	0.6222	1400	G	2008
+757901	  69	00602	     	69-602	 	069	Page County	069	Page County	0.76	69-603 S, Fleeburg Rd	69-603 NORTH	940	R							X						09/05/2006
+757902	  69	00602	     	69-602	 	069	Page County	069	Page County	1.51	69-603 NORTH	69-650 River Rd	340	R							X						05/08/2006
+401823	  69	00603	     	69-603	Fleeburg Rd	069	Page County	069	Page County	1.50	82-609 Rockingham County	69-681 Fleeburg Loop	840	G	98%	1%	0%	0%	1%	0%	C	0.1139	F	0.5789	870	G	2008
+401824	  69	00603	     	69-603	Fleeburg Rd	069	Page County	069	Page County	1.40	69-681 Fleeburg Loop	69-602 S, Corner Town Rd	660	G	98%	1%	0%	0%	1%	0%	F	0.1351	F	0.5330	680	G	2008
+757903	  69	00603	     	69-603	 	069	Page County	069	Page County	1.71	69-602 NORTH	69-650 River Rd	470	R							X						09/05/2006
+757904	  69	00604	     	69-604	Loop Rd	069	Page County	069	Page County	2.90	Rockingham County Line East	Rockingham County Line West	360	R							X						09/05/2006
+757905	  69	00605	     	69-605	Beahm Lane	069	Page County	069	Page County	2.15	69-611	69-662 Rileyville Rd	180	R							X						09/05/2006
+757906	  69	00606	     	69-606	South Creek Rd	069	Page County	069	Page County	1.65	69-759 Jollett Rd	Rockingham County Line	130	R							X						09/05/2006
+757907	  69	00607	     	69-607	Weaver Rd	069	Page County	069	Page County	0.56	69-759 Jollett Rd	0.56 MN 69-759 Jollett Rd	160	R							X						04/28/2003
+757908	  69	00607	     	69-607	Weaver Rd	069	Page County	069	Page County	2.04	0.56 MN 69-759 Jollet Rd	Shenandoah Natl Pk Bndy	160	R							X						09/05/2006
+757909	  69	00608	     	69-608	Grindstone Mt Rd	069	Page County	069	Page County	0.97	69-603 Fleeburg Rd	Dead End	340	R							X						09/05/2006
+757910	  69	00609	     	69-609	 	069	Page County	069	Page County	0.80	Dead End	69-602	300	R							X						05/19/2003
+757911	  69	00610	     	69-610	Rinaca Lane	069	Page County	069	Page County	0.23	US 340	Dead End	80	R							X						05/08/2003
+757912	  69	00611	     	69-611	 	069	Page County	069	Page County	0.90	Shenandoah Natl Pk Bndy	69-628 Blakemore Hill Road	340	R							X						09/07/2006
+401825	  69	00611	     	69-611	Kite Hollow Rd	069	Page County	069	Page County	1.20	69-628 Blakemore Hill Road	69-689 S, Ida Rd; Kite Hollow Rd	560	G	97%	1%	1%	0%	0%	0%	C	0.1103	F	0.5873	570	G	2008
+757913	  69	00611	     	69-611	 	069	Page County	069	Page County	5.80	69-689 SOUTH MID	69-689 NORTH MID	430	R							X						09/12/2006
+757914	  69	00611	     	69-611	 	069	Page County	069	Page County	1.87	69-689 N, Ida Rd	1.87 MN 69-689 Ida Rd	110	R							X						09/21/2006
+757915	  69	00611	     	69-611	 	069	Page County	069	Page County	0.13	1.87 MN 69-689 Ida Rd	69-669 S, Valley Burg Rd	140	R							X						09/21/2006
+757916	  69	00611	     	69-611	 	069	Page County	069	Page County	0.10	69-669 S, Valley Burg Rd	69-669 N, Fairview Rd	940	R							X						05/19/2003
+757917	  69	00611	     	69-611	 	069	Page County	069	Page County	0.40	69-669 N, Fairview Rd	69-667 E, Dry Run Rd	470	R							X						05/19/2003
+757918	  69	00611	     	69-611	Clearview Rd	069	Page County	069	Page County	1.84	69-667 W, Dry Run Rd	US 211 E, Lee Highway	340	R							X						09/21/2006
+757919	  69	00611	     	69-611	Kimball Rd	069	Page County	069	Page County	0.80	US 211 W, Lee Highway	69-658 EAST	320	R							X						05/27/2003
+757920	  69	00611	     	69-611	 	069	Page County	069	Page County	1.80	69-658 WEST	69-656	120	R							X						05/27/2003
+757921	  69	00611	     	69-611	 	069	Page County	069	Page County	0.60	69-656	69-654	140	R							X						09/25/2006
+757922	  69	00611	     	69-611	 	069	Page County	069	Page County	0.99	69-654	0.99 MN 69-654	150	R							X						05/25/2000
+757923	  69	00611	     	69-611	 	069	Page County	069	Page County	1.11	0.99 MN 69-654	69-661 Sunnyview Drive	150	R							X						05/25/2000
+757924	  69	00611	     	69-611	 	069	Page County	069	Page County	2.23	69-661 Sunnyview Drive	69-662 Rileyville Rd	140	R							X						09/25/2006
+757925	  69	00612	     	69-612	 	069	Page County	069	Page County	1.30	69-658	69-666 W, Batman Hill Road	360	R							X						06/05/2003
+757926	  69	00612	     	69-612	 	069	Page County	069	Page County	1.45	69-666 W, Batman Hill Road	69-666 E, Batman Hill Road	110	R							X						05/27/2003
+757927	  69	00613	     	69-613	Strole Farm Rd	069	Page County	069	Page County	3.30	US 340 SOUTH	US 340 NORTH	280	R							X						05/08/2003
+757928	  69	00614	     	69-614	Shuler Ln	069	Page County	069	Page County	0.05	US 340	0.05 MN US 340	80	R							X						09/25/2006
+757929	  69	00614	     	69-614	Shuler Ln	069	Page County	069	Page County	1.82	0.05 MN US 340	69-615	80	R							X						05/08/2003
+757930	  69	00615	     	69-615	 	069	Page County	069	Page County	1.44	US 340 EAST	US 340 WEST; Gap	140	R							X						05/08/2003
+757931	  69	00615	     	69-615	 	069	Page County	069	Page County	0.34	US 340 BUS; Gap WEST	US 340	1600	R							X						09/05/2006
+785340	  69	00615	     	69-615	 	069	Page County	069	Page County	0.88	US 340	US 340; 69-614 Gap NORTH	190	R							X						09/05/2006
+757932	  69	00615	     	69-615	 	069	Page County	069	Page County	2.39	US 211 WEST Gap	US 211 E, Lee Highway	190	R							X						09/12/2006
+757933	  69	00615	     	69-615	 	069	Page County	069	Page County	4.16	US 211 E, Lee Highway	69-654	420	R							X						09/12/2006
+757934	  69	00615	     	69-615	 	069	Page County	069	Page County	1.48	69-654	69-675 S, Fort Valley Rd; Egypt Bend Rd	630	R							X						06/02/2003
+757935	  69	00615	     	69-615	 	069	Page County	069	Page County	1.50	69-675 N, Fort Valley Rd	Dead End	150	R							X						09/12/2006
+401826	  69	00616	     	69-616	Leaksville Rd	069	Page County	069	Page County	3.41	Bus US 340	69-646 NORTH	1200	G	97%	1%	1%	0%	0%	0%	C	0.0917	F	0.5804	1300	G	2008
+401827	  69	00616	     	69-616	Leaksville Rd	069	Page County	069	Page County	3.26	69-646 NORTH	SCL Luray	940	G	97%	1%	1%	0%	0%	0%	F	0.0960	F	0.5580	970	G	2008
+757936	  69	00617	     	69-617	Dam Acres Rd	069	Page County	069	Page County	1.20	Dead End	69-650 Grove Hill River Rd	160	R							X						09/05/2006
+757937	  69	00618	     	69-618	Dovel Hollow Rd	069	Page County	069	Page County	3.70	Dead End	69-638	840	R							X						09/05/2006
+757938	  69	00619	     	69-619	Lucas Hollow Rd	069	Page County	069	Page County	3.49	Dead End	69-621 Keystone Rd	860	R							X						05/08/2003
+757939	  69	00620	     	69-620	Cubbage Hollow Rd	069	Page County	069	Page County	1.80	Dead End	69-621	90	R							X						09/07/2006
+757940	  69	00621	     	69-621	 	069	Page County	069	Page County	1.80	Dead End	69-620 Cubbage Hollow Road	90	R							X						09/07/2006
+757941	  69	00621	     	69-621	 	069	Page County	069	Page County	1.78	69-620 Cubbage Hollow Road	69-619 Lucas Hollow Road	350	R							X						09/07/2006
+401828	  69	00621	     	69-621	Keystone Rd	069	Page County	069	Page County	0.50	69-619 Lucas Hollow Road	69-638 Honeyville Rd	1200	G	98%	0%	1%	1%	0%	0%	C	0.0873	F	0.5047	1200	G	2008
+757942	  69	00622	     	69-622	 	069	Page County	069	Page County	1.07	69-624 Pine Grove Rd	69-623 Judy Lane	720	G							X				720	G	2008
+401829	  69	00622	     	69-622	Park Rd	069	Page County	069	Page County	0.46	69-623 Judy Lane	SCL Stanley	1700	G	97%	0%	1%	1%	1%	0%	C	0.0923	F	0.5897	1700	G	2008
+403949	  69	00622	     	69-622	Pond Ave	303	Town of Stanley	069	Page County	0.64	SCL Stanley	US 340 BUS EAST	1700	N	97%	0%	1%	1%	1%	0%	N	0.0923	N	0.5897	1700	N	2008
+401830	  69	00622	     	69-622	Pond Ave	303	Town of Stanley	069	Page County	0.12	US 340 BUS WEST	NCL Stanley	790	G	97%	0%	1%	1%	1%	0%	F	0.1124	F	0.5193	820	G	2008
+403950	  69	00622	     	69-622	 	069	Page County	069	Page County	0.58	NCL Stanley	69-635	790	N	97%	0%	1%	1%	1%	0%	N	0.1124	N	0.5193	820	N	2008
+401831	  69	00623	     	69-623	Judy Lane	069	Page County	069	Page County	0.60	69-622 Park Rd	US 340	1700	G	97%	0%	1%	1%	1%	0%	C	0.0881	F	0.6387	1700	G	2008
+757943	  69	00624	     	69-624	 	069	Page County	069	Page County	2.05	Dead End	69-682 Tanners Ridge Road	680	R							X						09/07/2006
+401832	  69	00624	     	69-624	Pine Grove Rd	069	Page County	069	Page County	0.79	69-682 Tanners Ridge Road	69-622	930	G	98%	0%	1%	0%	0%	0%	F	0.0968	F	0.5833	960	G	2008
+401833	  69	00624	     	69-624	Pine Grove Rd	069	Page County	069	Page County	1.61	69-622	69-689 S, Kite Hollow Rd	720	G	98%	0%	1%	0%	0%	0%	C	0.1058	F	0.5844	740	G	2008
+757944	  69	00624	     	69-624	 	069	Page County	069	Page County	0.56	69-689 N, Kite Hollow Rd	Bus US 340	1500	R							X						09/07/2006
+757945	  69	00624	     	69-624	 	069	Page County	069	Page County	0.94	Bus US 340	69-632	300	R							X						05/12/2003
+757946	  69	00626	     	69-626	Alshire Hollow Rd	069	Page County	069	Page County	1.70	Dead End	69-627 Jordon Hollow Rd	210	R							X						09/07/2006
+757947	  69	00626	     	69-626	Hawksbill Park Rd	069	Page County	069	Page County	1.20	69-627 Jordon Hollow Rd	69-689 Marksville Rd	400	R							X						05/16/2003
+757948	  69	00627	     	69-627	Jordon Hollow Rd	069	Page County	069	Page County	0.50	Dead End	0.50 MN Dead End	60	R							X						09/07/2006
+757949	  69	00627	     	69-627	Jordon Hollow Rd	069	Page County	069	Page County	0.50	0.50 MN Dead End	69-626 Hawksbill Park Rd; Alshire Hollow Rd	100	R							X						09/07/2006
+757950	  69	00628	     	69-628	Blakemore Hill Rd	069	Page County	069	Page County	2.20	69-611 Kite Hollow Rd	69-689 Ida Rd	130	R							X						05/19/2003
+757951	  69	00629	     	69-629	 	069	Page County	069	Page County	0.76	Dead End	0.76 MN Dead End	30	R							X						09/21/2006
+757952	  69	00629	     	69-629	 	069	Page County	069	Page County	0.11	0.76 MN Dead End	69-689 N, Ida Rd	100	R							X						09/21/2006
+757953	  69	00629	     	69-629	 	069	Page County	069	Page County	2.39	69-689 S, Ida Rd	69-611	420	R							X						09/21/2006
+757954	  69	00629	     	69-629	 	069	Page County	069	Page County	1.00	69-611	69-630 E, Creekview Loop	630	R							X						05/15/2003
+757955	  69	00629	     	69-629	 	069	Page County	069	Page County	0.95	69-630 E, Creekview Loop	US 340 BUS SOUTH	840	R							X						05/15/2003
+757956	  69	00629	     	69-629	 	069	Page County	069	Page County	0.10	US 340 BUS NORTH	0.10 MW Bus US 340	240	R							X						05/15/2003
+757957	  69	00629	     	69-629	 	069	Page County	069	Page County	0.72	0.10 MW Bus US 340	69-638 E, Mill Creek Rd	240	R							X						05/15/2003
+757958	  69	00629	     	69-629	 	069	Page County	069	Page County	0.90	69-638 W, Mill Creek Rd	69-616 Leaksville Rd	45	R							X						09/21/2006
+757959	  69	00630	     	69-630	Creekview Loop	069	Page County	069	Page County	0.05	69-629 WEST	0.05 ME 69-629	20	R							X						05/15/2003
+757960	  69	00630	     	69-630	Creekview Loop	069	Page County	069	Page County	0.51	0.05ME 69-629	69-629 EAST	10	R							X						09/21/2006
+757961	  69	00631	     	69-631	 	069	Page County	069	Page County	0.50	69-611	Bus US 340	710	R							X						09/07/2006
+757962	  69	00631	     	69-631	 	069	Page County	069	Page County	0.50	Bus US 340	69-632 SOUTH	370	R							X						09/21/2006
+757963	  69	00631	     	69-631	 	069	Page County	069	Page County	0.90	69-632 SOUTH	69-633 Mill Creek Crossroads	330	R							X						05/12/2003
+757964	  69	00632	     	69-632	 	069	Page County	069	Page County	0.12	69-638 Aylor Grubbs Ave	69-624	550	R							X						05/12/2003
+757965	  69	00632	     	69-632	 	069	Page County	069	Page County	1.43	69-624	69-631 SOUTH	300	R							X						09/21/2006
+757966	  69	00632	     	69-632	 	069	Page County	069	Page County	0.40	69-631 NORTH	Bus US 340	340	R							X						05/12/2003
+757967	  69	00633	     	69-633	Mill Creek Crossroads	069	Page County	069	Page County	1.55	69-616 Leaksville Rd	69-638 Mill Creek Rd	400	R							X						09/21/2006
+757968	  69	00633	     	69-633	Mill Creek Crossroads	069	Page County	069	Page County	1.80	69-638 Mill Creek Rd	Bus US 340	250	R							X						09/21/2006
+757969	  69	00634	     	69-634	 	069	Page County	069	Page County	1.20	69-635	69-616 Leaksville Rd	230	R							X						09/12/2006
+757970	  69	00634	     	69-634	 	069	Page County	069	Page County	0.90	69-616 Leaksville Rd	Dead End	130	R							X						09/12/2006
+757971	  69	00635	     	69-635	 	069	Page County	069	Page County	2.20	69-636	69-760 Forrest Drive	380	R							X						09/12/2006
+401834	  69	00635	     	69-635	Forest Rd	069	Page County	069	Page County	0.50	69-760 Forrest Drive	69-638 Aylor Grubbs Ave	750	G	98%	1%	1%	0%	0%	0%	C	0.1206	F	0.5581	780	G	2008
+757972	  69	00636	     	69-636	 	069	Page County	069	Page County	1.29	US 340 BUS EAST	1.29 MW Bus US 340	140	R							X						05/19/2003
+757973	  69	00636	     	69-636	 	069	Page County	069	Page County	0.58	1.29 MW Bus US 340	1.87 MW Bus US 340	80	R							X						09/09/2006
+757974	  69	00636	     	69-636	 	069	Page County	069	Page County	0.13	1.87 MW Bus US 340	69-635	100	R							X						05/08/2003
+757975	  69	00636	     	69-636	 	069	Page County	069	Page County	0.30	69-635	69-616 N, Leaksville Rd	330	R							X						05/08/2003
+757976	  69	00636	     	69-636	 	069	Page County	069	Page County	0.34	69-616 S, Leaksville Rd	US 340 BUS WEST	70	R							X						09/05/2006
+757977	  69	00637	     	69-637	Piney Hill Rd	069	Page County	069	Page County	1.70	69-634	69-688 Frank Ballard Road	260	R							X						05/08/2003
+757978	  69	00637	     	69-637	Piney Hill Rd	069	Page County	069	Page County	0.81	69-688 Frank Ballard Road	69-633 Mill Creek Crossroads	220	R							X						05/12/2003
+757979	  69	00638	     	69-638	 	069	Page County	069	Page County	2.44	69-650 River Road; Grove Hill River Rd	69-621 Keystone Rd	1000	R							X						09/07/2006
+401835	  69	00638	     	69-638	Honeyville Rd	069	Page County	069	Page County	0.62	69-621 Keystone Rd	SCL Stanley	2700	G	97%	1%	2%	0%	0%	0%	F	0.0908	F	0.5517	2800	G	2008
+401836	  69	00638	     	69-638	Honeyville Rd	303	Town of Stanley	069	Page County	0.16	SCL Stanley	69-622 WEST Park Rd	2900	G	97%	1%	2%	0%	0%	0%	F	0.0880	F	0.5572	3000	G	2008
+401837	  69	00638	     	69-638	Honeyville Ave	303	Town of Stanley	069	Page County	0.40	69-622 EAST Park Rd	US 340 BUS EAST	2100	G	97%	1%	2%	0%	0%	0%	C	0.0881	F	0.5602	2200	G	2008
+401838	  69	00638	     	69-638	Aylor Grubbs Ave	303	Town of Stanley	069	Page County	1.11	US 340 BUS WEST	NCL Stanley	1100	G	97%	1%	2%	0%	0%	0%	F	0.1164	F	0.6420	1100	G	2008
+401839	  69	00638	     	69-638	Aylor Grubbs Ave	069	Page County	069	Page County	0.67	NCL Stanley	69-688 Frank Ballard Road	820	G	97%	1%	2%	0%	0%	0%	F	0.1113	F	0.6724	840	G	2008
+401840	  69	00638	     	69-638	Mill Creek Rd	069	Page County	069	Page County	1.55	69-688 Frank Ballard Road	69-633 Mill Creek Crossroads	730	G	97%	1%	2%	0%	0%	0%	F	0.1146	F	0.5513	750	G	2008
+401841	  69	00638	     	69-638	Mill Creek Rd	069	Page County	069	Page County	3.10	69-633 Mill Creek Crossroads	69-639 N, Lakewood Dr	910	G	97%	1%	2%	0%	0%	0%	F	0.0973	F	0.6865	930	G	2008
+401842	  69	00638	     	69-638	Mill Creek Rd	069	Page County	069	Page County	0.23	69-639 N, Lakewood Dr	SCL Luray	850	G	97%	1%	2%	0%	0%	0%	F	0.0968	F	0.7485	880	G	2008
+757980	  69	00639	     	69-639	Lakewood Rd	069	Page County	069	Page County	0.20	Bus US 340	69-638 S, Mill Creek Rd	1000	R							X						05/27/2003
+401843	  69	00639	     	69-639	Lakewood Dr	069	Page County	069	Page County	0.70	69-638 N, Mill Creek Rd	69-616 Leaksville Rd	1400	G	98%	1%	1%	0%	0%	0%	C	0.1048	F	0.5352	1500	G	2008
+757981	  69	00640	     	69-640	Mt Zion Rd	069	Page County	069	Page County	1.44	69-629	69-642 Stonyman Rd	260	R							X						09/21/2006
+757982	  69	00641	     	69-641	E Branch Rd	069	Page County	069	Page County	0.80	69-640	69-689 Ida Rd	170	R							X						09/21/2006
+401844	  69	00642	     	69-642	Stonyman Rd	069	Page County	069	Page County	1.60	69-689 Antioch Rd; Ida Rd	Bus US 340	870	G	93%	1%	2%	2%	3%	0%	C	0.1029	F	0.5568	890	G	2008
+757983	  69	00643	     	69-643	Luray Avenue	069	Page County	069	Page County	0.05	Dead End	ECL Luray	40	R							X						05/22/2000
+757984	  69	00644	     	69-644	Big Oak Rd	069	Page County	069	Page County	0.55	Dead End	69-616 Leaksville Rd	49	R							X						09/21/2006
+757985	  69	00644	     	69-644	Big Oak Rd	069	Page County	069	Page County	1.85	69-616 Leaksville Rd	US 211 Lee Highway	350	R							X						09/21/2006
+757989	  69	00645	     	69-645	Backwash Rd	069	Page County	069	Page County	1.00	Dead End	69-647 Homestead Drive	40	R							X						09/21/2006
+757990	  69	00646	     	69-646	 	069	Page County	069	Page County	2.10	69-616 S, Leaksville Rd	US 211 W, Lee Highway	120	R							X						09/12/2006
+757991	  69	00646	     	69-646	 	069	Page County	069	Page County	0.05	US 211 W, Lee Highway	0.05 MN US 211 Lee Highway	90	R							X						06/02/2003
+757992	  69	00646	     	69-646	 	069	Page County	069	Page County	1.80	0.05 MN US 211 Lee Highway	69-766 Hamburg Rd	30	R							X						09/12/2006
+757993	  69	00646	     	69-646	 	069	Page County	069	Page County	0.10	69-766 Hamburg Rd	US 211 E, Lee Highway	60	R							X						06/02/2003
+757994	  69	00646	     	69-646	 	069	Page County	069	Page County	1.65	US 211 E, Lee Highway	69-616 N, Leaksville Rd	290	R							X						09/12/2006
+757995	  69	00647	     	69-647	Homestead Dr	069	Page County	069	Page County	0.58	WCL Luray	69-652 NORTH	580	R							X						09/25/2006
+757996	  69	00647	     	69-647	Homestead Dr	069	Page County	069	Page County	0.15	69-652 SOUTH	0.15 MN 69-652	400	R							X						06/02/2003
+757997	  69	00647	     	69-647	Homestead Dr	069	Page County	069	Page County	0.56	0.15 MN 69-652	69-645 Backwash Road	40	R							X						09/25/2006
+757998	  69	00647	     	69-647	Homestead Dr	069	Page County	069	Page County	0.80	69-645 Backwash Road	69-766 Hamburg Rd	10	R							X						09/25/2006
+757999	  69	00648	     	69-648	Sandy Hook Rd	069	Page County	069	Page County	0.80	US 340	69-658	270	R							X						09/28/2006
+758000	  69	00648	     	69-648	Sandy Hook Rd	069	Page County	069	Page County	0.46	69-658	69-654	200	R							X						09/28/2006
+758001	  69	00649	     	69-649	Eighth Avenue Ext	069	Page County	069	Page County	0.10	Dead End	ECL Luray	130	R							X						06/01/2000
+401845	  69	00650	     	69-650	River Rd	069	Page County	069	Page County	1.53	US 340	69-602	610	G	97%	0%	1%	1%	1%	0%	F	0.1122	F	0.5652	620	G	2008
+758002	  69	00650	     	69-650	 	069	Page County	069	Page County	3.00	69-602	69-617 Dam Acres Road	580	R							X						05/19/2003
+401846	  69	00650	     	69-650	Grove Hill River Rd	069	Page County	069	Page County	1.45	69-617 Dam Acres Road	69-638	680	G	97%	0%	1%	1%	1%	0%	F	0.1076	F	0.5379	700	G	2008
+401847	  69	00650	     	69-650	River Rd	069	Page County	069	Page County	0.74	69-638	US 340 BUS; 69-636	1800	G	97%	0%	1%	1%	1%	0%	C	0.0936	F	0.5600	1900	G	2008
+758003	  69	00651	     	69-651	Hideaway Lane	069	Page County	069	Page County	0.45	US 340	69-685 Newport Road	110	R							X						09/05/2006
+758005	  69	00652	     	69-652	 	069	Page County	069	Page County	0.82	US 211 Lee Highway	69-647 E, Homestead Drive	990	R							X						09/25/2006
+758006	  69	00652	     	69-652	 	069	Page County	069	Page County	1.42	69-647 E, Homestead Drive	69-675 Bixlers Ferry Rd	700	R							X						06/02/2003
+758007	  69	00652	     	69-652	 	069	Page County	069	Page County	1.51	69-675 Bixlers Ferry Rd	NCL Luray	150	R							X						06/02/2003
+758008	  69	00653	     	69-653	Sedwick Rd	069	Page County	069	Page County	0.09	69-675 Bixlers Ferry Rd	0.09 MN 69-675 Bixlers Ferry Rd	120	R							X						09/12/2006
+758009	  69	00653	     	69-653	Sedwick Rd	069	Page County	069	Page County	1.00	0.09 MN 69-675 Bixlers Ferry Rd	69-654	80	R							X						09/12/2006
+758010	  69	00654	     	69-654	 	069	Page County	069	Page County	0.79	69-615	0.79 ME 69-615 Gap	460	R							X						06/02/2003
+758011	  69	00654	     	69-654	 	069	Page County	069	Page County	0.70	0.70 MW 69-675 Gap	69-675 S, Bixlers Ferry Rd	100	R							X						09/25/2006
+758012	  69	00654	     	69-654	 	069	Page County	069	Page County	2.88	69-675 N, Bixlers Ferry Rd	69-648 Sandy Hook Road	230	R							X						06/02/2003
+758013	  69	00654	     	69-654	 	069	Page County	069	Page County	1.30	69-648 Sandy Hook Road	69-660	70	R							X						09/18/2006
+758014	  69	00654	     	69-654	 	069	Page County	069	Page County	1.30	69-660	US 340	60	R							X						09/18/2006
+758015	  69	00654	     	69-654	 	069	Page County	069	Page County	1.40	US 340	69-611	260	R							X						06/05/2003
+758016	  69	00655	     	69-655	Atkins Dr	069	Page County	069	Page County	0.08	ECL Luray	Dead End	60	R							X						05/27/2003
+758017	  69	00656	     	69-656	Wispering Hill Lane	069	Page County	069	Page County	0.13	US 211 Lee Highway	69-709 Old Farms Rd	1300	R							X						09/25/2006
+758018	  69	00656	     	69-656	 	069	Page County	069	Page County	1.40	69-709 Old Farms Rd	69-658 EAST	540	R							X						05/29/2003
+758019	  69	00656	     	69-656	 	069	Page County	069	Page County	1.50	69-658 WEST	69-611	120	R							X						09/25/2006
+758020	  69	00657	     	69-657	Lyn-mar Rd	069	Page County	069	Page County	0.90	69-656	69-658	250	R							X						09/25/2006
+758022	  69	00658	     	69-658	 	069	Page County	069	Page County	0.80	69-648 Sandy Hook Road	US 340	90	R							X						09/25/2006
+758023	  69	00658	     	69-658	 	069	Page County	069	Page County	1.10	US 340	69-656 WEST	240	R							X						09/28/2006
+758024	  69	00658	     	69-658	 	069	Page County	069	Page County	0.50	69-656 WEST	69-656 EAST	350	R							X						09/28/2006
+758025	  69	00658	     	69-658	 	069	Page County	069	Page County	0.58	69-656 EAST	69-657 Lyn-mar Road	200	R							X						09/28/2006
+758026	  69	00658	     	69-658	 	069	Page County	069	Page County	0.02	69-657 Lyn-mar Road	69-611 WEST	450	R							X						09/25/2006
+758027	  69	00658	     	69-658	 	069	Page County	069	Page County	0.60	69-611 WEST	69-611 E, Kimball Rd	260	R							X						09/25/2006
+758028	  69	00658	     	69-658	 	069	Page County	069	Page County	1.20	69-611 E, Kimball Rd	69-674 Red Church Road	300	R							X						09/25/2006
+758029	  69	00658	     	69-658	 	069	Page County	069	Page County	0.40	69-674 Red Church Road	69-612	490	R							X						05/27/2003
+758030	  69	00658	     	69-658	 	069	Page County	069	Page County	1.70	69-612	Shenandoah Natl Pk Bndy	180	R							X						05/27/2003
+758031	  69	00659	     	69-659	Piney Woods Rd	069	Page County	069	Page County	1.30	69-635 Forest Rd	69-637 Piney Hill Road	290	R							X						05/19/2003
+758032	  69	00660	     	69-660	 	069	Page County	069	Page County	0.34	69-656	0.34 ME 69-656	180	R							X						09/28/2006
+758033	  69	00660	     	69-660	 	069	Page County	069	Page County	0.26	0.34 ME 69-656	US 340	210	R							X						09/18/2006
+758034	  69	00660	     	69-660	 	069	Page County	069	Page County	0.90	US 340	69-654	320	R							X						05/29/2003
+758035	  69	00660	     	69-660	 	069	Page County	069	Page County	0.50	69-654	Dead End	160	R							X						09/18/2006
+758036	  69	00661	     	69-661	Sunnyview Dr	069	Page County	069	Page County	1.60	Dead End	US 340 NORTH	140	R							X						09/18/2006
+758037	  69	00661	     	69-661	Sunnyview Dr	069	Page County	069	Page County	1.70	US 340 SOUTH	69-611	360	R							X						06/05/2003
+401848	  69	00662	     	69-662	Rileyville Rd	069	Page County	069	Page County	1.44	US 340	69-605 Beahm Lane	210	G	97%	2%	0%	0%	0%	0%	C	0.1159	F	0.5000	220	G	2008
+758038	  69	00662	     	69-662	 	069	Page County	069	Page County	1.79	69-605 Beahm Lane	69-705 Deer Haven Road	70	R							X						09/28/2006
+758039	  69	00662	     	69-662	 	069	Page County	069	Page County	2.14	69-705 Deer Haven Road	US 340 NORTH	110	R							X						09/28/2006
+758040	  69	00663	     	69-663	Island Ford Rd	069	Page County	069	Page County	1.40	US 340	Dead End	100	R							X						09/28/2006
+758041	  69	00664	     	69-664	 	069	Page County	069	Page County	1.00	Dead End	1.00 ME Dead End	100	R							X						09/28/2006
+758042	  69	00664	     	69-664	 	069	Page County	069	Page County	0.05	1.00 ME Dead End	US 340 SOUTH	130	R							X						09/25/2006
+758043	  69	00664	     	69-664	 	069	Page County	069	Page County	0.25	US 340 NORTH	Dead End	80	R							X						09/28/2006
+758044	  69	00665	     	69-665	Overall Rd	069	Page County	069	Page County	0.20	US 340	Dead End	100	R							X						09/25/2006
+758045	  69	00666	     	69-666	Batman Hill Rd	069	Page County	069	Page County	0.60	69-612 SOUTH	0.60 MN 69-612	90	R							X						09/25/2006
+758046	  69	00666	     	69-666	Batman Hill Rd	069	Page County	069	Page County	0.55	0.60 MN 69-612	Dead End; Gap	20	R							X						09/25/2006
+758047	  69	00666	     	69-666	Batman Hill Rd	069	Page County	069	Page County	0.21	Dead End; Gap	69-612 NORTH	49	R							X						09/25/2006
+401849	  69	00667	     	69-667	Dry Run Rd	069	Page County	069	Page County	2.80	69-669 Lake Arrowhead Rd	69-611 N, Clearview Rd	450	G	98%	1%	1%	0%	0%	0%	F	0.1038	F	0.5794	470	G	2008
+401850	  69	00667	     	69-667	Dry Run Rd	069	Page County	069	Page County	1.30	69-611 N, Clearview Rd	Bus US 211	920	G	98%	1%	1%	0%	0%	0%	C	0.1085	F	0.7128	940	G	2008
+758048	  69	00668	     	69-668	Valley Burg Rd	069	Page County	069	Page County	2.56	69-689 Ida Rd	69-669 Lake Arrowhead Rd	320	R							X						05/27/2003
+401851	  69	00669	     	69-669	Fairview Rd	069	Page County	069	Page County	0.81	ECL Luray	69-611 N, Brookstone Rd	1300	G							X	0.1011	N	0.5470	1300	G	2008
+401852	  69	00669	     	69-669	Valley Burg Rd	069	Page County	069	Page County	1.29	69-611 S, Brookstone Rd	69-668; Lake Arrowhead Rd	680	G							X	0.1054	F	0.5108	700	G	2008
+758049	  69	00669	     	69-669	Lake Arrowhead Rd	069	Page County	069	Page County	0.20	69-668 Valley Burg Rd	69-696 Printz Mill Road	310	R							X						1995
+758050	  69	00669	     	69-669	Lake Arrowhead Rd	069	Page County	069	Page County	1.50	69-696 Printz Mill Rd	69-667 Dry Run Rd	220	R							X						05/27/2003
+758051	  69	00669	     	69-669	Lake Arrowhead Rd	069	Page County	069	Page County	1.00	69-667 Dry Run Rd	1.00 ME 69-667 Dry Run Rd	180	R							X						05/27/2003
+758052	  69	00669	     	69-669	Jewell Hollow Rd	069	Page County	069	Page County	1.00	1.00 ME 69-667 Dry Run Rd	Shenandoah Natl Pk Bndy	70	R							X						05/27/2003
+758053	  69	00670	     	69-670	Somers Rd	069	Page County	069	Page County	1.10	69-689 Ida Rd	69-671 Rosedale Lane	40	R							X						09/21/2006
+758054	  69	00670	     	69-670	Somers Rd	069	Page County	069	Page County	0.52	69-671 Rosedale Lane	69-668 Lake Arrowhead Road	40	R							X						09/21/2006
+758056	  69	00671	     	69-671	Rosedale Lane	069	Page County	069	Page County	0.64	69-668 Lake Arrowhead Road	69-670 Somers Road	20	R							X						09/21/2006
+758058	  69	00672	     	69-672	 	069	Page County	069	Page County	0.60	Shenandoah Natl Pk Bndy	69-668 N, Lake Arrowhead Road	80	R							X						09/21/2006
+758059	  69	00672	     	69-672	 	069	Page County	069	Page County	0.93	69-668 S, Lake Arrowhead Road	69-689 N, Ida Rd	40	R							X						09/21/2006
+758061	  69	00673	     	69-673	Fleeburg Loop	069	Page County	069	Page County	0.80	69-603 Fleeburg Rd	69-681 Fleeburg Loop	230	R							X						04/28/2003
+758062	  69	00673	     	69-673	Fleeburg Loop	069	Page County	069	Page County	0.30	69-681 Fleeburg Loop	Dead End	70	R							X						04/28/2003
+758063	  69	00674	     	69-674	Red Church Rd	069	Page County	069	Page County	0.30	US 211 Lee Highway	69-658	520	R							X						05/27/2003
+401853	  69	00675	     	69-675	Bixlers Ferry Rd	069	Page County	069	Page County	2.67	NCL Luray	69-684	1700	G	98%	0%	1%	0%	0%	0%	C	0.1027	F	0.5896	1800	G	2008
+401854	  69	00675	     	69-675	Egypt Bend Rd	069	Page County	069	Page County	0.46	69-684	69-615 SOUTH	1100	G	98%	0%	1%	0%	0%	0%	F	0.1072	F	0.6132	1200	G	2008
+401855	  69	00675	     	69-675	Fort Valley Rd	069	Page County	069	Page County	0.34	69-615 SOUTH	69-615 NORTH	500	G	98%	0%	1%	0%	0%	0%	F	0.1157	F	0.5946	510	G	2008
+401856	  69	00675	     	69-675	 	069	Page County	069	Page County	1.13	69-615 NORTH	GW Natl For Bndy	380	G	98%	0%	1%	0%	0%	0%	F	0.0990	F	0.5122	390	G	2008
+401857	  69	00675	     	69-675	 	069	Page County	069	Page County	2.65	GW Natl For Bndy	Shenandoah County Line	280	G	98%	0%	1%	0%	0%	0%	F	0.1409	F	0.5068	290	G	2008
+758064	  69	00676	     	69-676	Creekside Dr	069	Page County	069	Page County	0.50	69-677 Eden Road	69-667 Dry Run Rd	470	R							X						05/27/2003
+758065	  69	00677	     	69-677	Eden Rd	069	Page County	069	Page County	0.40	69-676 Creekside Drive	69-667 Dry Run Rd	280	R							X						05/27/2003
+758066	  69	00678	     	69-678	Al Good Dr	303	Town of Stanley	069	Page County	0.04	Bus US 340	69-734 SOUTH	1300	R							X						05/01/2000
+758067	  69	00678	     	69-678	Al Good Dr	303	Town of Stanley	069	Page County	0.19	69-734 SOUTH	69-734 NORTH	350	R							X						05/30/2000
+758068	  69	00678	     	69-678	Al Good Dr	303	Town of Stanley	069	Page County	0.14	69-734 NORTH	Dead End	170	R							X						05/30/2000
+758069	  69	00679	     	69-679	Hill Top Circle	303	Town of Stanley	069	Page County	0.33	69-689 Marksville Rd	69-689 Marksville Rd	250	R							X						06/01/2000
+758070	  69	00680	     	69-680	 	069	Page County	069	Page County	0.30	Dead End	0.30 MN Dead End	250	R							X						09/21/2006
+758071	  69	00680	     	69-680	 	069	Page County	069	Page County	0.50	0.30 MN Dead End	69-611	250	R							X						09/21/2006
+758072	  69	00681	     	69-681	Fleeburg Loop	069	Page County	069	Page County	0.60	69-673 Fleeburg Loop	69-603 Fleeburg Rd	180	R							X						04/28/2003
+758073	  69	00682	     	69-682	Tanners Ridge Rd	069	Page County	069	Page County	0.81	Shen Natl Pk Bndy	0.81 MW Of Pk Bndy	250	R							X						05/12/2003
+758074	  69	00682	     	69-682	Tanners Ridge Rd	069	Page County	069	Page County	2.88	0.81 MW Of Pk Bndy	69-624 Pine Grove Rd	270	R							X						05/12/2003
+401858	  69	00683	     	69-683	1st St	299	Town of Shenandoah	069	Page County	0.38	69-602 Maryland Ave	69-1013 Second St	1100	G	98%	0%	1%	0%	0%	0%	C	0.0846	F	0.6154	1100	G	2008
+758075	  69	00683	     	69-683	 	299	Town of Shenandoah	069	Page County	0.35	69-1013 Second St	69-706; 69-780	370	R							X						05/19/2003
+758076	  69	00683	     	69-683	 	299	Town of Shenandoah	069	Page County	0.73	69-706; 69-780	NCL Shenandoah	270	R							X						09/05/2006
+758077	  69	00683	     	69-683	 	069	Page County	069	Page County	0.70	NCL Shenandoah	US 340	250	R							X						09/05/2006
+758080	  69	00684	     	69-684	 	069	Page County	069	Page County	2.29	69-675 Egypt Bend Rd; Bixlers Ferry Rd	2.29 MN 69-675 Egypt Bend Rd; Bixlers Ferry Rd	590	R							X						09/18/2006
+758081	  69	00684	     	69-684	 	069	Page County	069	Page County	1.11	2.29 MN 69-675 Egypt Bend Rd; Bixlers Ferry Rd	GW Natl For Bndy	480	R							X						06/02/2003
+758082	  69	00684	     	69-684	 	069	Page County	069	Page County	0.50	GW Natl For Bndy	0.50 MN of For Bndy	560	R							X						09/18/2006
+758083	  69	00684	     	69-684	 	069	Page County	069	Page County	1.65	0.50 MN of For Bndy	2.15 MN of For Bndy	470	R							X						06/02/2003
+758084	  69	00684	     	69-684	 	069	Page County	069	Page County	3.05	2.15 MN of For Bndy	69-717 Page Valley Road	270	R							X						09/18/2006
+758085	  69	00684	     	69-684	 	069	Page County	069	Page County	0.50	69-717 Page Valley Road	Dead End; Gap	20	R							X						09/18/2006
+758086	  69	00684	     	69-684	 	069	Page County	069	Page County	0.20	Dead End; Gap	0.20 MS of Gap	200	R							X						1996
+758087	  69	00684	     	69-684	 	069	Page County	069	Page County	0.87	0.20 MS Of Gap	US 340	440	R							X						09/18/2006
+758088	  69	00685	     	69-685	Newport Rd	069	Page County	069	Page County	2.91	US 340 SOUTH	69-651 Hideaway Lane	310	R							X						05/08/2003
+758089	  69	00685	     	69-685	Newport Rd	069	Page County	069	Page County	0.60	69-651 Hideaway Lane	US 340 NORTH	280	R							X						05/08/2003
+758090	  69	00686	     	69-686	Smeltzers Rd	069	Page County	069	Page County	0.25	US 340	69-662	30	R							X						09/28/2006
+758091	  69	00687	     	69-687	Fox Hollow Rd	069	Page County	069	Page County	0.45	69-611	Dead End	120	R							X						09/07/2006
+758093	  69	00688	     	69-688	Frank Ballard Rd	069	Page County	069	Page County	1.10	69-638 Mill Creek Rd; Aylor Grubbs Ave	69-637 Piney Hill Road	120	R							X						09/07/2006
+401859	  69	00689	     	69-689	Chapel Rd	303	Town of Stanley	069	Page County	0.48	Bus US 340 East Main St	ECL Stanley	2900	G	97%	1%	1%	0%	1%	0%	C	0.0905	F	0.5390	3000	G	2008
+403951	  69	00689	     	69-689	Marksville Rd	069	Page County	069	Page County	0.33	ECL Stanley	69-624 N, Hawksbill Dr	2900	N	97%	1%	1%	0%	1%	0%	N	0.0905	N	0.5390	3000	N	2008
+401860	  69	00689	     	69-689	Marksville Rd	069	Page County	069	Page County	0.99	69-624 N, Hawksbill Dr	69-611 S, Kite Hollow Rd	2600	G	97%	1%	1%	0%	1%	0%	F	0.0898	F	0.5083	2700	G	2008
+401861	  69	00689	     	69-689	Ida Rd	069	Page County	069	Page County	4.17	69-611 S, Kite Hollow Rd	69-668 Valley Burg Rd	930	G	97%	1%	1%	0%	1%	0%	F	0.1074	F	0.5545	960	G	2008
+401862	  69	00689	     	69-689	Ida Rd	069	Page County	069	Page County	1.31	69-668 Valley Burg Rd	69-670 Somers Rd	900	G	97%	1%	1%	0%	1%	0%	F	0.1039	F	0.5635	930	G	2008
+406755	  69	00689	     	69-689	Stoneyman Rd	069	Page County	069	Page County	1.36	69-670 Somers Rd	69-642; Antioch Rd	900	N	97%	1%	1%	0%	1%	0%	N	0.1039	N	0.5635	930	N	2008
+401863	  69	00689	     	69-689	Antioch Rd	069	Page County	069	Page County	1.20	69-642 Stonyman Rd	SCL Luray	1300	G	97%	1%	1%	0%	1%	0%	F	0.0971	F	0.5726	1300	G	2008
+758094	  69	00690	     	69-690	 	069	Page County	069	Page County	0.10	Dead End	69-689 Ida Rd	60	R							X						09/12/2006
+758095	  69	00690	     	69-690	 	069	Page County	069	Page County	0.50	69-689 Ida Rd	69-629	80	R							X						09/12/2006
+758096	  69	00691	     	69-691	 	069	Page County	069	Page County	0.06	69-763	69-602	580	R							X						05/19/2003
+758097	  69	00691	     	69-691	 	069	Page County	069	Page County	0.20	69-602	69-711 Comer Lane	530	R							X						05/12/2003
+758098	  69	00691	     	69-691	 	069	Page County	069	Page County	0.11	69-711 Comer Lane	Dead End	270	R							X						05/12/2003
+758099	  69	00692	     	69-692	 	069	Page County	069	Page County	0.09	Dead End	69-721 Osceola Avenue	130	R							X						04/27/2000
+758100	  69	00692	     	69-692	 	069	Page County	069	Page County	0.17	69-721 Osceola Avenue	69-763	320	R							X						04/27/2000
+758101	  69	00692	     	69-692	 	069	Page County	069	Page County	0.08	69-763	69-602	820	R							X						05/12/2003
+758102	  69	00692	     	69-692	 	069	Page County	069	Page County	0.07	69-602	ECL Shenandoah	250	R							X						04/27/2000
+758103	  69	00693	     	69-693	Trenton Avenue	069	Page County	069	Page County	0.15	Dead End	US 340 Third St	150	R							X						05/19/2003
+758104	  69	00693	     	69-693	Trenton Avenue	069	Page County	069	Page County	0.26	US 340 Third St	Dead End	120	R							X						05/12/2003
+758105	  69	00694	     	69-694	Hawksbill Pines Rd	069	Page County	069	Page County	0.40	Dead End	69-626 Hawksbill Park Rd	100	R							X						09/07/2006
+758106	  69	00695	     	69-695	Grace Chruch Ln	069	Page County	069	Page County	0.50	69-689 Ida Rd	69-689 Ida Rd	60	R							X						09/07/2006
+758107	  69	00696	     	69-696	Printz Mill Rd	069	Page County	069	Page County	1.10	Dead End	69-669 Valley Burg Rd	240	R							X						09/21/2006
+758108	  69	00697	     	69-697	Chrisman Dr	069	Page County	069	Page County	0.55	69-662	Dead End	9	R							X						09/21/2006
+758109	  69	00698	     	69-698	River Lodge Rd	069	Page County	069	Page County	0.70	69-654	Dead End	120	R							X						09/18/2006
+758110	  69	00699	     	69-699	Johnny's Rd	069	Page County	069	Page County	0.30	US 340	Dead End	20	R							X						09/28/2006
+758111	  69	00700	     	69-700	Runyon Rd	069	Page County	069	Page County	0.20	US 340	0.20 MN US 340	60	R							X						09/28/2006
+758112	  69	00700	     	69-700	Runyon Rd	069	Page County	069	Page County	0.17	0.20 MN US 340	Dead End	20	R							X						05/29/2003
+758113	  69	00701	     	69-701	Peach Orchard Rd	069	Page County	069	Page County	0.70	Dead End	69-611	240	R							X						09/21/2006
+758114	  69	00702	     	69-702	Eighth St	069	Page County	069	Page County	0.04	Dead End	SCL Shenandoah	70	R							X						04/27/2000
+758115	  69	00702	     	69-702	Eighth St	299	Town of Shenandoah	069	Page County	0.27	SCL Shenandoah	69-602 Maryland Ave	170	R							X						04/27/2000
+758116	  69	00702	     	69-702	Eighth St	299	Town of Shenandoah	069	Page County	0.15	69-602 Maryland Ave	69-1006	250	R							X						04/27/2000
+758117	  69	00703	     	69-703	Deford Ave	303	Town of Stanley	069	Page County	0.15	US 340	Dead End	160	R							X						05/30/2000
+758118	  69	00704	     	69-704	Quincy Ave	299	Town of Shenandoah	069	Page County	0.28	Dead End	US 340	280	R							X						05/12/2003
+758119	  69	00704	     	69-704	Quincy Ave	299	Town of Shenandoah	069	Page County	0.12	US 340	ECL Shenandoah	700	R							X						05/12/2003
+785178	  69	00704	     	69-704	Quincy Avenue	069	Page County	069	Page County	0.03	ECL Shenandoah	Dead End	700	N							X				0	N	05/12/2003
+758120	  69	00705	     	69-705	Deer Haven Rd	069	Page County	069	Page County	0.70	69-662	Dead End	60	R							X						09/21/2006
+401864	  69	00706	     	69-706	Junior Ave	299	Town of Shenandoah	069	Page County	0.25	69-683	US 340 Fifth Street	230	G	98%	1%	0%	0%	0%	0%	C	0.1176	F	0.5000	240	G	2008
+758122	  69	00708	     	69-708	Shenandoah Ave	299	Town of Shenandoah	069	Page County	0.21	1st Street	US 340	300	R							X						05/12/2003
+401865	  69	00708	     	69-708	Shenandoah Ave	299	Town of Shenandoah	069	Page County	0.36	US 340	69-719; ECL Shenandoah	520	G	99%	0%	0%	0%	0%	0%	C	0.1128	F	0.5902	540	G	2008
+758123	  69	00709	     	69-709	Old Farms Rd	069	Page County	069	Page County	1.05	Dead End	69-656 Wispering Hill Lane	620	R							X						09/25/2006
+758124	  69	00710	     	69-710	McDaniel Lane	069	Page County	069	Page County	0.48	US 340	Dead End	130	R							X						09/05/2006
+758125	  69	00711	     	69-711	Comer Lane	069	Page County	069	Page County	0.15	ECL Shenandoah	69-691	540	R							X						05/12/2003
+758126	  69	00711	     	69-711	Comer Lane	069	Page County	069	Page County	0.30	69-691	69-602 Corner Town Rd	180	R							X						05/12/2003
+758127	  69	00712	     	69-712	Senior Avenue	299	Town of Shenandoah	069	Page County	0.31	N 1st Street	US 340 Fifth Street	300	R							X						05/12/2003
+758128	  69	00713	     	69-713	Vista View Rd	069	Page County	069	Page County	0.20	Dead End	US 340	110	R							X						09/07/2006
+758129	  69	00714	     	69-714	Edgewood Dr	069	Page County	069	Page County	0.15	Dead End	69-611	80	R							X						09/07/2006
+758131	  69	00716	     	69-716	Hilliard Dr	303	Town of Stanley	069	Page County	0.14	US 340	NCL Stanley	140	R							X						05/30/2000
+758132	  69	00717	     	69-717	Page Valley Rd	069	Page County	069	Page County	1.75	69-684	1.75 MN 69-684	60	R							X						09/18/2006
+758133	  69	00717	     	69-717	Page Valley Rd	069	Page County	069	Page County	3.75	1.75 MN 69-684	Warren County Line	60	R							X						09/18/2006
+758134	  69	00718	     	69-718	Hinton Rd	069	Page County	069	Page County	0.05	69-731 Collins Rd	0.05 MN 69-731	150	R							X						09/25/2006
+758135	  69	00718	     	69-718	Hinton Rd	069	Page County	069	Page County	0.82	0.05 MN 69-731	US 340	60	R							X						06/05/2003
+758136	  69	00719	     	69-719	Ninth St	069	Page County	069	Page County	0.08	Dead End	69-721 Osceola Avenue	130	R							X						04/27/2000
+758137	  69	00719	     	69-719	Ninth St	069	Page County	069	Page County	0.12	69-721 Osceola Avenue	69-708; ECL Shenandoah	260	R							X						04/27/2000
+758138	  69	00719	     	69-719	Ninth St	299	Town of Shenandoah	069	Page County	0.10	69-708; ECL Shenandoah	69-602 Maryland Ave	240	R							X						04/27/2000
+758139	  69	00719	     	69-719	Ninth St	299	Town of Shenandoah	069	Page County	0.10	69-602 Maryland Ave	69-1016	160	R							X						04/27/2000
+758140	  69	00720	     	69-720	Seventh St	299	Town of Shenandoah	069	Page County	0.34	Dead End	69-602 Maryland Ave	290	R							X						04/27/2000
+758141	  69	00720	     	69-720	Seventh St	299	Town of Shenandoah	069	Page County	0.18	69-602 Maryland Ave	69-1006	240	R							X						04/27/2000
+302719	  69	00721	     	69-721	Osceola Ave	299	Town of Shenandoah	069	Page County	0.09	69-720 Seventh St	ECL Shenandoah	170	R							X						04/27/2000
+758142	  69	00721	     	69-721	Osceola Avenue	069	Page County	069	Page County	0.05	ECL Shenandoah	69-719 Ninth St	170	R							X						04/27/2000
+758143	  69	00721	     	69-721	Osceola Avenue	069	Page County	069	Page County	0.08	69-719 Ninth St	69-692	160	R							X						04/27/2000
+758144	  69	00722	     	69-722	Taylor Dr	069	Page County	069	Page County	0.10	Dead End	69-611 Kite Hollow Rd	60	R							X						09/28/2006
+758145	  69	00723	     	69-723	Eldon Yates Dr	069	Page County	069	Page County	0.80	Dead End	69-638 Honeyville Rd	530	R							X						09/07/2006
+758146	  69	00724	     	69-724	Ridge Rd	069	Page County	069	Page County	0.08	Dead End	SCL Stanley	120	R							X						06/01/2000
+785179	  69	00724	     	69-724	Ridge Rd	303	Town of Stanley	069	Page County	0.15	SCL Stanley	69-679 Hill Top Circle	120	N							X				0	N	06/01/2000
+758147	  69	00725	     	69-725	N First St	299	Town of Shenandoah	069	Page County	0.18	69-1020	69-712	130	R							X						04/27/2000
+758148	  69	00725	     	69-725	N First St	299	Town of Shenandoah	069	Page County	0.10	69-712	69-729 Williams Ave	110	R							X						05/12/2003
+758149	  69	00726	     	69-726	Landing Lane	069	Page County	069	Page County	0.35	US 340	Dead End	130	R							X						09/05/2006
+758150	  69	00727	     	69-727	Campbell Hill Rd	069	Page County	069	Page County	0.33	Dead End	69-619 Lucas Hollow Road	80	R							X						05/08/2003
+758151	  69	00728	     	69-728	North Fourth St	299	Town of Shenandoah	069	Page County	0.12	69-1020	69-706 Junior Ave	47	R							X						05/12/2003
+758152	  69	00728	     	69-728	North Fourth St	299	Town of Shenandoah	069	Page County	0.20	69-706 Junior Ave	69-729 Williams Ave	60	R							X						05/12/2003
+758153	  69	00729	     	69-729	Williams Ave	299	Town of Shenandoah	069	Page County	0.23	69-780	US 340 Fifth Street	150	R							X						05/12/2003
+758154	  69	00729	     	69-729	Williams Ave	299	Town of Shenandoah	069	Page County	0.12	US 340 Fifth Street	Dead End	530	R							X						05/12/2003
+758155	  69	00730	     	69-730	Pettit Dr	303	Town of Stanley	069	Page County	0.19	Begin Loop	End Loop	90	R							X						06/01/2000
+758156	  69	00730	     	69-730	Pettit Dr	303	Town of Stanley	069	Page County	0.06	End Loop	Bus US 340	110	R							X						05/30/2000
+401866	  69	00731	     	69-731	Collins Rd	069	Page County	069	Page County	0.31	NCL Luray	US 340	2300	G	96%	1%	1%	0%	2%	0%	C	0.0882	F	0.6471	2300	G	2008
+758157	  69	00732	     	69-732	Kites Corner Rd	069	Page County	069	Page County	0.89	US 340	Dead End	90	R							X						09/05/2006
+758158	  69	00733	     	69-733	Gray St	303	Town of Stanley	069	Page County	0.11	Dead End	69-638 Aylor Grubbs Ave	80	R							X						06/01/2000
+758159	  69	00734	     	69-734	Sunset Dr	303	Town of Stanley	069	Page County	0.30	69-678 Al Good Drive	69-678 Al Good Drive	190	R							X						09/12/2006
+758160	  69	00735	     	69-735	Sixth St	069	Page County	069	Page County	0.12	Dead End	SCL Luray	260	R							X						05/27/2003
+758161	  69	00736	     	69-736	Pleasant View Lane	069	Page County	069	Page County	0.35	69-629	Dead End	110	R							X						09/21/2006
+758162	  69	00737	     	69-737	 	069	Page County	069	Page County	0.17	69-624	Dead End	90	R							X						09/07/2006
+758163	  69	00738	     	69-738	 	069	Page County	069	Page County	0.28	69-669	Dead End	220	R							X						09/21/2006
+758164	  69	00739	     	69-739	Veterans Lane	069	Page County	069	Page County	0.16	US 211; Bus US 340	Dead End	40	R							X						05/27/2003
+758165	  69	00740	     	69-740	Circle View Rd	069	Page County	069	Page County	0.70	Begin Loop	End Loop	250	R							X						06/01/2000
+758166	  69	00740	     	69-740	Circle View Rd	069	Page County	069	Page County	0.01	End Loop	69-709 Old Farms Rd	490	R							X						06/01/2000
+758167	  69	00741	     	69-741	 	069	Page County	069	Page County	0.09	69-631	Dead End	250	R							X						05/12/2003
+758168	  69	00742	     	69-742	Stella Lane	069	Page County	069	Page County	0.19	69-638 Mill Creek Rd	Dead End	60	R							X						05/19/2003
+758169	  69	00743	     	69-743	Brock Dr	303	Town of Stanley	069	Page County	0.03	SCL Stanley	69-724 Ridge Rd	47	R							X						06/01/2000
+758170	  69	00744	     	69-744	Round Head Dr	303	Town of Stanley	069	Page County	0.15	69-622 Park Rd	Dead End	140	R							X						06/01/2000
+758171	  69	00745	     	69-745	Ramona Avenue	069	Page County	069	Page County	0.20	69-692; 69-1006	69-691	290	R							X						05/19/2003
+758172	  69	00746	     	69-746	Wintergreen Dr	069	Page County	069	Page County	0.30	Dead End	69-669 Lake Arrowhead Rd	130	R							X						05/27/2003
+758173	  69	00747	     	69-747	Wilderness Trail	069	Page County	069	Page County	0.16	Dead End	69-611 Clearview Rd	120	R							X						09/25/2006
+758174	  69	00748	     	69-748	Bosley Dr	303	Town of Stanley	069	Page County	0.43	Bus US 340	Cul-de-Sac	760	R							X						09/12/2006
+758175	  69	00749	     	69-749	Painter Dr	303	Town of Stanley	069	Page County	0.14	Dead End	69-734 Round Head Dr	530	R							X						05/30/2000
+758176	  69	00750	     	69-750	Kemble Spring Lane	069	Page County	069	Page County	0.52	69-604 Loop Road	Dead End	120	R							X						09/25/2006
+401867	  69	00759	     	69-759	Jollett Rd	069	Page County	069	Page County	2.60	69-606; 82-759	69-607 Weaver Road	600	G	95%	1%	2%	1%	2%	0%	C	0.1104	F	0.6119	620	G	2008
+758177	  69	00759	     	69-759	Jollett Rd	069	Page County	069	Page County	1.89	69-607 Weaver Road	1.89 ME 69-607 Weaver Road	350	R							X						09/05/2006
+758178	  69	00759	     	69-759	Jollett Rd	069	Page County	069	Page County	1.76	1.89 ME 69-607 Weaver Road	Dead End	60	R							X						04/28/2003
+401868	  69	00760	     	69-760	Forrest Dr	303	Town of Stanley	069	Page County	0.13	69-622 Pond Ave	NCL Stanley	980	G	97%	1%	2%	0%	0%	0%	C	0.1096	F	0.5556	1000	G	2008
+403952	  69	00760	     	69-760	Forrest Dr	069	Page County	069	Page County	0.47	NCL Stanley	69-635 Forest Rd	980	N	97%	1%	2%	0%	0%	0%	N	0.1096	N	0.5556	1000	N	2008
+758179	  69	00761	     	69-761	Edgewood Dr	069	Page County	069	Page County	0.40	69-611 Clearview Rd	Dead End	70	R							X						09/21/2006
+758180	  69	00762	     	69-762	Fort Long Rd	069	Page County	069	Page County	0.40	Dead End	69-615	120	R							X						09/21/2006
+758181	  69	00763	     	69-763	 	069	Page County	069	Page County	1.40	69-692	69-603 Fleeburg Rd	510	R							X						04/28/2003
+758182	  69	00764	     	69-764	Hill Side Rd	069	Page County	069	Page County	0.15	69-675 Bixlers Ferry Rd	Dead End	180	R							X						06/02/2003
+758183	  69	00765	     	69-765	Stagecoach Lane	069	Page County	069	Page County	0.12	69-675 Bixlers Ferry Rd	Dead End	70	R							X						09/21/2006
+758185	  69	00766	     	69-766	Hamburg Rd	069	Page County	069	Page County	1.15	US 211 W, Lee Highway	US 211 E, Lee Highway	60	R							X						09/21/2006
+758186	  69	00767	     	69-767	Church Ave	303	Town of Stanley	069	Page County	0.15	Bus US 340	NCL Stanley	540	R							X						06/01/2000
+785180	  69	00767	     	69-767	Church Avenue	069	Page County	069	Page County	0.35	NCL Stanley	Dead End	540	N							X				0	N	06/01/2000
+758187	  69	00768	     	69-768	Donovan Rd	069	Page County	069	Page County	0.17	69-723 Eldon Yates Drive	0.17 MN 69-723 Eldon Yates Drive	430	R							X						09/07/2006
+758188	  69	00768	     	69-768	Donovan Rd	069	Page County	069	Page County	0.20	0.17 MN 69-723 Eldon Yates Drive	69-622 Park Rd	990	R							X						09/07/2006
+793917	  69	00769	     	69-769	 	069	Page County	069	Page County	0.42	69-611	Dead End	0	?							X
+758189	  69	00770	     	69-770	Brown Lane	069	Page County	069	Page County	0.19	US 340	Dead End	110	R							X						09/25/2006
+758190	  69	00772	     	69-772	Mountain View Rd	069	Page County	069	Page County	0.48	Dead End	69-615	90	R							X						09/05/2006
+787938	  69	00773	     	69-773	Cedar Point Rd	069	Page County	069	Page County	0.33	69-662 Rileyville Rd	69-662 Rileyville Rd	0	?							X
+758191	  69	00775	     	69-775	Battle Creek Rd	069	Page County	069	Page County	0.14	Dead End	US 340	90	R							X						09/05/2006
+793315	  69	00777	     	69-777	 	069	Page County	069	Page County	0.53	69-613 Strole Farm Rd	Dead End	0	?							X
+758192	  69	00780	     	69-780	N First St	299	Town of Shenandoah	069	Page County	0.19	69-683; 69-706	69-729 Williams Ave	90	R							X						04/27/2000
+758193	  69	01001	     	69-1001	 	069	Page County	069	Page County	0.22	Dead End	69-1003 Stanley Avenue	40	R							X						1997
+758194	  69	01001	     	69-1001	 	069	Page County	069	Page County	0.05	69-1003 Stanley Avenue	69-1002 Verbena Road	220	R							X						1997
+758195	  69	01001	     	69-1001	 	069	Page County	069	Page County	0.04	69-1002 Verbena Road	US 340 Third St	460	R							X						1997
+758196	  69	01002	     	69-1002	Verbena Rd	069	Page County	069	Page County	0.15	69-1001	69-1003 Stanley Avenue	190	R							X						1997
+758197	  69	01002	     	69-1002	Verbena Rd	069	Page County	069	Page County	0.22	69-1003 Stanley Avenue	Dead End	100	R							X						1997
+758198	  69	01003	     	69-1003	Stanley Avenue	069	Page County	069	Page County	0.11	Dead End	69-1001	70	R							X						1997
+758199	  69	01003	     	69-1003	Stanley Avenue	069	Page County	069	Page County	0.18	69-1001	69-1002 Verbena Road	30	R							X						1997
+758200	  69	01004	     	69-1004	Virginia Ave	299	Town of Shenandoah	069	Page County	0.21	69-683 1st Street	US 340	1200	R							X						05/12/2003
+758201	  69	01004	     	69-1004	Virginia Ave	299	Town of Shenandoah	069	Page County	0.15	US 340	69-1008 Sixth St	650	R							X						05/12/2003
+758202	  69	01005	     	69-1005	A St	299	Town of Shenandoah	069	Page County	0.09	69-706 Junior Ave	69-712 Senior Ave	60	R							X						05/12/2003
+758203	  69	01006	     	69-1006	Denver Avenue	299	Town of Shenandoah	069	Page County	0.08	69-1015 Third St	US 340; Gap	270	R							X						05/12/2003
+758204	  69	01006	     	69-1006	Denver Avenue	299	Town of Shenandoah	069	Page County	0.42	69-1009; Gap	69-692; 69-745	540	R							X						05/19/2003
+758205	  69	01007	     	69-1007	Pulaski Ave	299	Town of Shenandoah	069	Page County	0.26	Dead End	US 340	280	R							X						05/12/2003
+758206	  69	01007	     	69-1007	Pulaski Ave	299	Town of Shenandoah	069	Page County	0.06	US 340	Dead End	200	R							X						05/12/2003
+758207	  69	01008	     	69-1008	Sixth St	299	Town of Shenandoah	069	Page County	0.20	Shenvadale Ave	69-602 Maryland Ave	120	R							X						04/27/2000
+758208	  69	01008	     	69-1008	Sixth St	299	Town of Shenandoah	069	Page County	0.20	69-602 Maryland Ave	69-1004 Virginia Ave	150	R							X						04/27/2000
+784338	  69	01009	     	69-1009	Fifth St	299	Town of Shenandoah	069	Page County	0.42	Dead End	69-1004 Virginia Ave	120	R							X						05/12/2003
+758209	  69	01009	     	69-1009	Fifth St	299	Town of Shenandoah	069	Page County	0.04	69-1004 Virginia Ave	69-1006	100	R							X						05/12/2003
+758210	  69	01010	     	69-1010	Marcus St	299	Town of Shenandoah	069	Page County	0.07	US 340; NCL Shenandoah	69-1011 Gregory St	160	R							X						1997
+758211	  69	01010	     	69-1010	Marcus St	299	Town of Shenandoah	069	Page County	0.02	69-1011 Gregory St	Dead End	60	R							X						1997
+758212	  69	01011	     	69-1011	Gregory St	299	Town of Shenandoah	069	Page County	0.14	69-1012 Edge Wood Dr	69-1010 Marcus St	100	R							X						1997
+758213	  69	01012	     	69-1012	Edge Wood Dr	299	Town of Shenandoah	069	Page County	0.10	US 340 Fifth Street	69-1011 Gregory St	180	R							X						1997
+758214	  69	01012	     	69-1012	Edge Wood Dr	299	Town of Shenandoah	069	Page County	0.23	69-1011 Gregory St	Dead End	100	R							X						1997
+758215	  69	01013	     	69-1013	Second St	299	Town of Shenandoah	069	Page County	0.08	69-708 Shenandoah Ave	69-602 Maryland Ave	80	R							X						05/12/2003
+758216	  69	01013	     	69-1013	Second St	299	Town of Shenandoah	069	Page County	0.34	69-602 Maryland Ave	69-683 1st Street	380	R							X						05/12/2003
+758219	  69	01015	     	69-1015	Third St	299	Town of Shenandoah	069	Page County	0.07	69-708 Shenandoah Ave	69-602 Maryland Ave	130	R							X						05/12/2003
+758220	  69	01015	     	69-1015	Third St	299	Town of Shenandoah	069	Page County	0.34	69-602 Maryland Ave	69-1006	340	R							X						05/12/2003
+758221	  69	01015	     	69-1015	Third St	299	Town of Shenandoah	069	Page County	0.10	69-1006	69-683	240	R							X						05/12/2003
+758222	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-683 1st Street	69-1013 Second St	440	R							X						04/27/2000
+758223	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.08	69-1013 Second St	69-1015 Third St	500	R							X						05/12/2003
+758224	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-1015 Third St	US 340	670	R							X						05/12/2003
+758225	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	US 340	69-1009	450	R							X						04/27/2000
+758226	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-1009	69-1008 Sixth St	310	R							X						04/27/2000
+758227	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.08	69-1008 Sixth St	69-720; 7th St	280	R							X						04/27/2000
+758228	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-720; 7th St	69-702 Eighth St	200	R							X						04/27/2000
+758229	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-702 Eighth St	69-719 Ninth St	110	R							X						04/27/2000
+758230	  69	01017	     	69-1017	Long Avenue	299	Town of Shenandoah	069	Page County	0.43	Dead End	69-00602(B)/	390	R							X						09/05/2006
+787939	  69	01019	     	69-1019	Warren Avenue	299	Town of Shenandoah	069	Page County	0.14	Dead End	69-1023	0	?							X
+758231	  69	01020	     	69-1020	Central Avenue	299	Town of Shenandoah	069	Page County	0.20	69-683	US 340	260	R							X						09/05/2006
+787940	  69	01022	     	69-1022	 	299	Town of Shenandoah	069	Page County	0.13	Dead End	69-1023	70	R							X						09/05/2006
+784339	  69	01023	     	69-1023	S Second St	299	Town of Shenandoah	069	Page County	0.21	Page County Line; 69-693	Liberty Ave	110	R							X						05/12/2003
+788220	  69	01023	     	69-1023	S Second St	299	Town of Shenandoah	069	Page County	0.12	Liberty Ave	69-1022; 69-1023	160	R							X						09/05/2006
+790979	  69	01024	     	69-1024	 	299	Town of Shenandoah	069	Page County	0.06	Dead End	69-683	50	R							X						09/05/2006
+790980	  69	01026	     	69-1026	 	299	Town of Shenandoah	069	Page County	0.19	Dead End	US 340	320	R							X						09/05/2006
+784340	  69	01027	     	69-1027	Grandios Avenue	299	Town of Shenandoah	069	Page County	0.04	69-692; 69-745; 69-1006	ECL Shenandoah	150	R							X						05/12/2003
+785181	  69	01027	     	69-1027	Grandios Avenue	069	Page County	069	Page County	0.17	ECL Shenandoah	Bank St	150	N							X				0	N	05/12/2003
+794645	  69	01030	     	69-1030	 	069	Page County	069	Page County	0.35	69-638	Cul-de-Sac	0	?							X
+796518	  69	01031	     	69-1031	 	069	Page County	069	Page County	0.08	69-1030	Cul-de-Sac	0	?							X
+796519	  69	01032	     	69-1032	 	069	Page County	069	Page County	0.07	69-1030	Cul-de-Sac	0	?							X
+758232	  69	01105	     	69-1105	Liberty Bell Lane	069	Page County	069	Page County	0.29	69-652	Dead End	90	R							X						09/25/2006
+758233	  69	01116	     	69-1116	Jesse Mae Ln	069	Page County	069	Page County	0.17	Bus US 211	69-1117 Martin St	120	R							X						06/01/2000
+758234	  69	01116	     	69-1116	Jesse Mae Ln	069	Page County	069	Page County	0.11	69-1117 Martin St	Dead End	40	R							X						06/01/2000
+758235	  69	01117	     	69-1117	Martin St	069	Page County	069	Page County	0.18	Cul-de-Sac	69-1116 Jesse Mae Ln	50	R							X						06/01/2000
+758236	  69	09303	     	69-9303	 	303	Town of Stanley	069	Page County	0.21	Stanley School	69-638 Aylor Grubbs Ave	450	R							X						05/30/2000
+758237	  69	09304	     	69-9304	 	069	Page County	069	Page County	0.04	Springfield School	US 340	290	R							X						09/28/2006
+758238	  69	09564	     	69-9564	 	069	Page County	069	Page County	0.10	Grove Hill School	US 340	190	R							X						09/28/2006
+758239	  69	09878	     	69-9878	 	069	Page County	069	Page County	0.42	Page Co High School	US 340	1400	R							X						05/08/2003
+767971	  82	00600	     	82-600	Batman Rd	069	Page County	082	Rockingham County	0.60	Dead End	Rockingham County Line	130	R							X						04/27/2006
+767972	  82	00601	     	82-601	Rinacas Corner Rd	069	Page County	082	Rockingham County	0.50	Page County Line	Dead End	330	R							X						09/16/2003
+785215	  85	00730	     	85-730	 	069	Page County	085	Shenandoah County	1.00	Shenandoah County Line	Page County Line East	80	R							X						05/09/2002
+646305	 159	00001	     	159-1	Collins Rd	159	Town of Luray	159	Town of Luray	0.69	159-6; Norfolk Southern RR Tracks	NCL Luray; 69-731	2300	G	98%	0%	1%	0%	0%	0%	F	0.0900	F	0.6218	2400	G	2008
+646083	 159	00002	     	159-2	Lee St	159	Town of Luray	159	Town of Luray	0.18	Bus US 211 Main St	Mechanic St	1100	G	98%	0%	1%	0%	0%	0%	C	0.0892	F	0.5049	1200	G	2008
+646301	 159	00003	     	159-3	Hawksbill  St	159	Town of Luray	159	Town of Luray	0.49	US 211 Main St	US 211 Bypass	1300	G	98%	0%	1%	0%	0%	0%	F	0.1132	F	0.5540	1300	G	2008
+646300	 159	00004	     	159-4	Linden Ave	159	Town of Luray	159	Town of Luray	0.19	Bus US 340	159-5; Big Spring St	1300	G	98%	0%	1%	0%	0%	0%	F	0.1673	F	0.5558	1400	G	2008
+781849	 159	00005	     	159-5	Linden Ave	159	Town of Luray	159	Town of Luray	0.04	159-4; Big Spring St	Hawksbill Heights Dr	1200	G	98%	0%	1%	0%	0%	0%	F	0.1526	F	0.6266	1300	G	2008
+646303	 159	00006	     	159-6	Collins Rd	159	Town of Luray	159	Town of Luray	0.26	BUS US 211; Main St	159-1; Norfolk Southern RR Tracks	2500	G	98%	0%	1%	0%	0%	0%	F	0.0830	F	0.5569	2500	G	2008
+646084	 159	01954	     	159-1954	Mechanic St	159	Town of Luray	159	Town of Luray	0.42	WCL Luray	Lee St	2100	G	98%	1%	1%	0%	0%	0%	F	0.0971	F	0.5558	2100	G	2008
+646086	 159	01954	     	159-1954	Mechanic St	159	Town of Luray	159	Town of Luray	0.38	Lee St	Bus US 340	3100	G	98%	1%	1%	0%	0%	0%	C	0.0996	F	0.5798	3200	G	2008
+646108	 159	01982	     	159-1982	Court St	159	Town of Luray	159	Town of Luray	0.99	SCL Luray	West Main St	1800	G	98%	0%	1%	0%	0%	0%	C	0.0923	F	0.6303	1800	G	2008
+646304	 159	01986	     	159-1986	Antioch Rd	159	Town of Luray	159	Town of Luray	0.09	SCL Luray	Fairview Rd	1600	G	98%	0%	1%	0%	0%	0%	F	0.1049	F	0.7953	1600	G	2008
+646081	 159	01987	     	159-1987	Leaksville Rd	159	Town of Luray	159	Town of Luray	0.09	SCL Luray	BUS US 211, W Main St	2200	G	98%	0%	1%	0%	0%	0%	F	0.0899	F	0.5844	2300	G	2008
+646107	 159	01989	     	159-1989	Fairview Rd	159	Town of Luray	159	Town of Luray	0.48	ECL Luray	Antioch Rd	1100	G	97%	1%	1%	0%	1%	0%	C	0.1011	F	0.5470	1200	G	2008
+646302	 159	01989	     	159-1989	Fairview Rd	159	Town of Luray	159	Town of Luray	0.88	Antioch Rd	Reservoir Ave	3200	G	97%	1%	1%	0%	1%	0%	F	0.1012	F	0.7165	3300	G	2008
+646093	 159	01989	     	159-1989	Reservoir Ave	159	Town of Luray	159	Town of Luray	0.44	Fairview Rd	Main St US 211 Bus	3700	G	98%	0%	1%	0%	0%	0%	C	0.1012	F	0.6522	3800	G	2008
+646106	 159	01991	     	159-1991	Wallace Rd	159	Town of Luray	159	Town of Luray	0.52	Bus US 211	NCL Luray	1900	G	94%	0%	1%	0%	4%	0%	C	0.0947	F	0.5314	2000	G	2008
+646306	 159	00000	     	159-0	Marye Lane	159	Town of Luray	159	Town of Luray	0.00	Lee Hwy BUS 211	Park Ave	240	G							X	0.1370	F	0.5522	240	G	2008
+546300	 159	00000	     	159-0	Seventh Ave	159	Town of Luray	159	Town of Luray	0.00	Third Street	Fourth Street	250	G							X	0.1176	F	0.0000	270	G	2008
+546301	 159	00000	     	159-0	Terrace Lane	159	Town of Luray	159	Town of Luray	0.00	Dedford Ave	Wilson St	70	G							X	0.1250	F	0.5556	80	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

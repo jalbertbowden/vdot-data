@@ -1,0 +1,36 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Haymarket																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+090302	  US	00015	     	US 15	James Madison Hwy	233	Town of Haymarket	076	Prince William County	0.10	WCL Haymarket	I-66	30000	N	93%	1%	2%	1%	3%	0%	N	0.0741	N	0.5657	32000	N	2008
+090028	  US	00015	     	US 15	James Madison Hwy	233	Town of Haymarket	076	Prince William County	0.21	I-66	NCL Haymarket	26000	G	94%	1%	1%	1%	2%	0%	F	0.0760	F	0.5254	28000	G	2008
+090320	  SR	00055	     	VA 55	Washington St	233	Town of Haymarket	076	Prince William County	0.43	WCL Haymarket	76-625 Old Carolina Rd	10000	G	95%	1%	2%	1%	1%	0%	F	0.0792	F	0.5169	11000	G	2008
+090304	  SR	00055	     	VA 55	Washington St	233	Town of Haymarket	076	Prince William County	0.41	76-625 Old Carolina Rd	ECL Haymarket	9000	G	95%	1%	2%	1%	1%	0%	C	0.0867	F	0.5720	9700	G	2008
+090046	  IS	00066	E    	I-66 EB	 	233	Town of Haymarket	076	Prince William County	0.84	WCL Haymarket	ECL Haymarket	25000	G	91%	1%	1%	0%	8%	0%	F				28000	G	2008		48000	G	91%	1%	1%	0%	7%	0%	F				54000	G
+190083	  IS	00066	W    	I-66 WB	 	233	Town of Haymarket	076	Prince William County	0.04	WCL Haymarket	US 15	17000	G	91%	1%	1%	0%	7%	0%	F	0.1094	F	1.0000	17000	G	2008		35000	G	91%	1%	1%	0%	7%	0%	F	0.0000	?	0.0000	35000	G
+190085	  IS	00066	W    	I-66 WB	 	233	Town of Haymarket	076	Prince William County	0.80	US 15	ECL Haymarket	23000	G	91%	1%	1%	0%	7%	0%	F				26000	G	2008		48000	G	91%	1%	1%	0%	7%	0%	F				54000	G
+780517	  FR	00293	     	FR 293	 	233	Town of Haymarket	076	Prince William County	0.03	Dead End	WCL Haymarket	0	?							X
+785191	  76	00625	     	76-625	Old Carolina Rd	233	Town of Haymarket	076	Prince William County	0.08	SCL Haymarket	76-1301 Fayette St	6500	N	97%	1%	2%	1%	0%	0%	N	0.0866	N	0.7971	6500	N	2008
+761105	  76	00625	     	76-625	Old Carolina Rd	233	Town of Haymarket	076	Prince William County	0.24	76-1301 Fayette St	SR 55 Washington St	710	R							X						1998
+761106	  76	00625	     	76-625	Old Carolina Rd	233	Town of Haymarket	076	Prince William County	0.35	SR 55 Washington St	NCL Haymarket	680	R							X						1998
+787963	  76	01103	     	76-1103	Greenhill Crossing Lane	233	Town of Haymarket	076	Prince William County	0.42	76-1106 Saint Paul Dr	SR 55 John Marshall Hwy	0	?							X
+787964	  76	01104	     	76-1104	Jockey Club Lane	233	Town of Haymarket	076	Prince William County	0.43	Cul-de-Sac	Cul-de-Sac	0	?							X
+787965	  76	01105	     	76-1105	Little John Ct	233	Town of Haymarket	076	Prince William County	0.07	Cul-de-Sac	76-1103 Greenhill Crossing Lane	0	?							X
+787966	  76	01106	     	76-1106	Saint Paul Dr	233	Town of Haymarket	076	Prince William County	0.27	Cul-de-Sac	SR 55 John Marshall Hwy	0	?							X
+761831	  76	01301	     	76-1301	Fayette St	233	Town of Haymarket	076	Prince William County	0.26	76-625 Old Carolina Rd	76-1302 Payne Lane	730	G	96%	1%	2%	0%	0%	0%	C	0.2517	F	0.9409	730	G	2008
+761832	  76	01301	     	76-1301	Fayette St	233	Town of Haymarket	076	Prince William County	0.05	76-1302 Payne Lane	SR 55 John Marshall Hwy	220	R							X						1998
+761833	  76	01301	     	76-1301	Fayette St	233	Town of Haymarket	076	Prince William County	0.13	SR 55 John Marshall Hwy	Dead End	120	R							X						1998
+761834	  76	01302	     	76-1302	Payne Lane	233	Town of Haymarket	076	Prince William County	0.07	76-1301 Fayette St	76-625 Old Carolina Rd	90	R							X						1998
+761835	  76	01303	     	76-1303	Jordan Lane	233	Town of Haymarket	076	Prince William County	0.28	76-625 Old Carolina Rd	Dead End	200	R							X						1998
+761837	  76	01304	     	76-1304	Madison St	233	Town of Haymarket	076	Prince William County	0.21	Dead End	SR 55 John Marshall Hwy	160	R							X						1998
+761838	  76	01304	     	76-1304	Hunting Path Way	233	Town of Haymarket	076	Prince William County	0.13	SR 55 John Marshall Hwy	Dead End	100	R							X						1998
+761839	  76	01305	     	76-1305	Bleight Dr	233	Town of Haymarket	076	Prince William County	0.20	SR 55 John Marshall Hwy	Dead End	50	R							X						02/14/2001
+761879	  76	01319	     	76-1319	Madison Ct	233	Town of Haymarket	076	Prince William County	0.06	76-1304 Hunting Path Rd	Cul-de-Sac	80	R							X						1998
+793967	  76	03311	     	76-3311	Dogwood Park Place	233	Town of Haymarket	076	Prince William County	0.10	76-1305 Bleight Dr	76-3314	0	?							X
+793968	  76	03312	     	76-3312	Walnut Park Dr	233	Town of Haymarket	076	Prince William County	0.07	76-3311 Dogwood Park Place	76-3314	0	?							X
+793969	  76	03313	     	76-3313	Cypress Park Lane	233	Town of Haymarket	076	Prince William County	0.04	76-3314	76-3312	0	?							X
+793970	  76	03314	     	76-3314	 	233	Town of Haymarket	076	Prince William County	0.15	Dead End	Dead End	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

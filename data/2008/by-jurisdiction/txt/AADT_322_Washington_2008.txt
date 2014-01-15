@@ -1,0 +1,28 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Washington																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+070372	  US	00211	     	US 211, US 522	Lee Highway	322	Town of Washington	078	Rappahannock County	0.02	WCL Washington	ECL Washington	5600	N	93%	1%	2%	1%	3%	0%	N	0.0962	N	0.5284	5700	N	2008
+070069	C2US	00211	     	Bus US 211, Bus US 522	Main St	322	Town of Washington	078	Rappahannock County	0.37	SCL Washington	78-628 Middle St	1200	N	98%	0%	1%	0%	0%	0%	N	0.1026	N	0.5385	1200	N	2008
+070073	C2US	00211	     	Bus US 211, Bus US 522	Warren St	322	Town of Washington	078	Rappahannock County	0.26	78-628 Main St	ECL Washington	1200	N	98%	0%	1%	0%	0%	0%	N	0.1026	N	0.5385	1200	N	2008
+070372	  US	00522	     	US 211, US 522	Lee Highway	322	Town of Washington	078	Rappahannock County	0.02	CL Washington	CL Washington	5600	N	93%	1%	2%	1%	3%	0%	N	0.0962	N	0.5284	5700	N	2008	
+070069	C1US	00522	     	Bus US 211, Bus US 522	Main St	322	Town of Washington	078	Rappahannock County	0.37	WCL Washington	78-628 Middle St; Warren St	1200	N	98%	0%	1%	0%	0%	0%	N	0.1026	N	0.5385	1200	N	2008	
+070073	C1US	00522	     	Bus US 211, Bus US 522	Warren St	322	Town of Washington	078	Rappahannock County	0.26	78-628 Middle St; Main St	ECL Washington	1200	N	98%	0%	1%	0%	0%	0%	N	0.1026	N	0.5385	1200	N	2008	
+765207	  78	00622	     	78-622	Calvert St	322	Town of Washington	078	Rappahannock County	0.04	78-1101 Gay St	78-628 Main St	110	R							X						04/04/2003
+765208	  78	00622	     	78-622	Calvert St	322	Town of Washington	078	Rappahannock County	0.21	78-628 Main St	NCL Washington	570	R							X						04/04/2003
+765225	  78	00626	     	78-626	Piedmont Ave	322	Town of Washington	078	Rappahannock County	0.30	WCL Washington	Bus US 211, Bus US 522 N, Main St	210	R							X						05/27/2003
+765226	  78	00626	     	78-626	Porter St	322	Town of Washington	078	Rappahannock County	0.04	Bus US 211, Bus US 522 S, Main St	78-1101 Gay St	450	R							X						04/04/2003
+765227	  78	00626	     	78-626	Mount Salem Ave	322	Town of Washington	078	Rappahannock County	0.26	78-1101 Gay St	ECL Washington	640	R							X						04/04/2003
+765237	  78	00628	     	78-628	Main St	322	Town of Washington	078	Rappahannock County	0.01	Dead End	Bus US 211	390	R							X						03/28/2006
+401937	  78	00628	     	78-628	Main St	322	Town of Washington	078	Rappahannock County	0.10	Bus US 211	78-622 Calvert St	1300	G	97%	1%	1%	0%	0%	0%	C	0.0968	F	0.5656	1300	G	2008
+401938	  78	00628	     	78-628	Main St	322	Town of Washington	078	Rappahannock County	0.20	78-622 Calvert St	NCL Washington	700	G	97%	1%	1%	0%	0%	0%	F	0.1064	F	0.6181	710	G	2008
+765321	  78	01101	     	78-1101	Gay St	322	Town of Washington	078	Rappahannock County	0.05	Dead End	78-626 Porter St; Mount Salem Ave; Porter St	110	R							X						04/04/2003
+765322	  78	01101	     	78-1101	Gay St	322	Town of Washington	078	Rappahannock County	0.20	78-626 Porter St; Mount Salem Ave; Porter St	Bus US 211	640	R							X						04/04/2003
+765323	  78	01101	     	78-1101	Gay St	322	Town of Washington	078	Rappahannock County	0.09	Bus US 211	78-622 Calvert St	140	R							X						04/04/2003
+765324	  78	01101	     	78-1101	Gay St	322	Town of Washington	078	Rappahannock County	0.12	78-622 Calvert St	78-628 Main St	46	R							X						04/04/2003
+765325	  78	01102	     	78-1102	Jett St	322	Town of Washington	078	Rappahannock County	0.04	78-1101 Gay St	Bus US 211	280	R							X						04/04/2003
+765326	  78	01103	     	78-1103	Porter St	322	Town of Washington	078	Rappahannock County	0.05	Dead End	Bus US 211	40	R							X						04/04/2003
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,64 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of South Boston																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+670015	  SR	00034	     	VA 34	Hodges St	130	Town of South Boston	130	Town of South Boston	0.54	North Main St	US 360 John Randolph Blvd	2000	F	98%	1%	1%	0%	0%	0%	C	0.1017	F	0.5348	2200	F	2008
+030350	  US	00058	     	US 58, US 360	Bill Tuck Hwy	130	Town of South Boston	130	Town of South Boston	0.18	US 501 Huell Matthews Hwy	ECL South Boston	13000	F	84%	1%	1%	1%	13%	1%	F	0.0767	F	0.0000	13000	F	2008
+670036	  SR	00129	     	VA 129	North Main St	130	Town of South Boston	130	Town of South Boston	0.09	US 501 P; Wilborn Ave; Main St	US 501 Broad St	3200	F	99%	1%	0%	0%	0%	0%	F	0.0956	F	0.7927	3500	F	2008
+670037	  SR	00129	     	VA 129	North Main St	130	Town of South Boston	130	Town of South Boston	0.38	US 501 Broad St	SR 34 Hodges St	5000	F	99%	1%	0%	0%	0%	0%	C	0.0959	F	0.0000	5400	F	2008
+670038	  SR	00129	     	VA 129	North Main St	130	Town of South Boston	130	Town of South Boston	0.16	SR 34 Hodges St	Edmunds St	6000	F	99%	1%	0%	0%	0%	0%	F	0.0944	F	0.5190	6500	F	2008
+670039	  SR	00129	     	VA 129	North Main St	130	Town of South Boston	130	Town of South Boston	0.19	Edmunds St	College St	6200	F	99%	1%	0%	0%	0%	0%	F	0.0950	F	0.5739	6700	F	2008
+670040	  SR	00129	     	VA 129	North Main St	130	Town of South Boston	130	Town of South Boston	0.63	College St	Hamilton Blvd	5900	F	99%	1%	0%	0%	0%	0%	F	0.0986	F	0.5670	6400	F	2008
+670041	  SR	00129	     	VA 129	North Main St	130	Town of South Boston	130	Town of South Boston	0.88	Hamilton Blvd	NCL South Boston	9600	F	99%	1%	0%	0%	0%	0%	C	0.0989	F	0.0000	10000	F	2008
+670033	  SR	00304	     	VA 304	Seymour Dr	130	Town of South Boston	130	Town of South Boston	0.08	US 501 P; Main St	US 501 Broad St	2500	F	97%	0%	1%	1%	0%	0%	F	0.1016	F	0.0000	2700	F	2008
+670034	  SR	00304	     	VA 304	Seymour Dr	130	Town of South Boston	130	Town of South Boston	0.38	US 501 Broad St	Marshall St	3000	F	97%	0%	1%	1%	0%	0%	C	0.0923	F	0.0000	3200	F	2008
+670035	  SR	00304	     	VA 304	Seymour Dr	130	Town of South Boston	130	Town of South Boston	0.25	Marshall St	US 360 John Randolph Blvd	2600	F	97%	0%	1%	1%	0%	0%	F	0.0916	F	0.5735	2800	F	2008
+030350	  US	00360	     	US 58, US 360	Bill Tuck Hwy	130	Town of South Boston	130	Town of South Boston	0.18	US 501 Riverdale	CL South Boston	13000	F	84%	1%	1%	1%	13%	1%	F	0.0767	F	0.0000	13000	F	2008	
+670001	  US	00360	     	US 360	John Randolph Blvd	130	Town of South Boston	041	Halifax County	0.16	SCL South Boston	SR 304 Seymour Dr	9700	F	84%	1%	1%	1%	13%	1%	F	0.0834	F	0.0000	9500	F	2008
+670002	  US	00360	     	US 360	John Randolph Blvd	130	Town of South Boston	130	Town of South Boston	0.52	SR 304 Seymour Dr	SR 34 Hodges St	9200	F	84%	1%	1%	1%	13%	1%	F	0.0846	F	0.0000	9000	F	2008
+670003	  US	00360	     	US 360	John Randolph Blvd	130	Town of South Boston	130	Town of South Boston	0.44	SR 34 Hodges St	Hamilton Blvd	10000	F	84%	1%	1%	1%	13%	1%	F	0.0846	F	0.0000	10000	F	2008
+670004	  US	00360	     	US 360	John Randolph Blvd	130	Town of South Boston	041	Halifax County	0.09	Hamilton Blvd	ECL South Boston	7500	F	84%	1%	1%	1%	13%	1%	F	0.0809	F	0.0000	7300	F	2008
+030368	  US	00501	     	US 501	Main St	130	Town of South Boston	130	Town of South Boston	0.53	US 58, US 360; SCL South Boston	US 501 P; Broad St	17000	F	97%	0%	1%	0%	1%	0%	C	0.0894	F	0.0000	18000	F	2008
+670024	  US	00501	     	US 501	Broad St	130	Town of South Boston	130	Town of South Boston	0.09	US 501 P Main St	SR 304 Seymour Dr	8300	F	97%	0%	1%	0%	1%	0%	F	0.0981	F	0.0000	9000	F	2008		15000	F	97%	1%	1%	0%	1%	0%	F	0.0901	F	0.0000	17000	F
+670025	  US	00501	     	US 501	Broad St	130	Town of South Boston	130	Town of South Boston	0.22	SR 304 Seymour Dr	SR 129 North Main St	8100	F	97%	0%	1%	0%	1%	0%	C	0.0920	F	1.0000	8800	F	2008		15000	F	97%	1%	1%	0%	1%	0%	C	0.0936	F	0.0000	17000	F
+670026	  US	00501	     	US 501	Broad St	130	Town of South Boston	130	Town of South Boston	0.26	SR 129 North Main St	Third St	6100	F	97%	0%	1%	0%	1%	0%	F	0.0885	F	0.0000	6600	F	2008		13000	F	97%	1%	1%	0%	1%	0%	F	0.0848	F	0.0000	14000	F
+670030	  US	00501	     	US 501	Broad Street	130	Town of South Boston	130	Town of South Boston	0.18	Third St	Edmunds St	5800	F	97%	0%	1%	0%	2%	0%	C	0.1013	F	1.0000	6300	F	2008
+670031	  US	00501	     	US 501	Broad Street	130	Town of South Boston	130	Town of South Boston	0.41	Edmunds St	US 501 P Wilborn Ave	5900	F	97%	0%	1%	0%	2%	0%	F	0.0964	F	1.0000	6400	F	2008		14000	F	97%	1%	1%	0%	1%	0%	F	0.0900	F	0.0000	16000	F
+670032	  US	00501	     	US 501	Wilborn Ave	130	Town of South Boston	130	Town of South Boston	0.51	US 501 P; Broad St	Hamilton Blvd	14000	F	97%	0%	1%	0%	2%	0%	F	0.0869	F	0.0000	16000	F	2008
+670043	  US	00501	     	US 501	Halifax Rd	130	Town of South Boston	130	Town of South Boston	0.69	Hamilton Blvd	Old NCL South Boston	16000	F	97%	0%	1%	0%	2%	0%	F	0.0896	F	0.0000	17000	F	2008
+030367	  US	00501	     	US 501	Halifax Rd	130	Town of South Boston	130	Town of South Boston	0.79	Old NCL South Boston	SR 129 N, Old Halifax Rd	17000	F	97%	0%	1%	0%	2%	0%	F	0.0912	F	0.0000	18000	F	2008
+030271	  US	00501	     	US 501	Halifax Rd	130	Town of South Boston	130	Town of South Boston	0.38	SR 129 N, Old Halifax Rd	NCL South Boston	27000	G	97%	0%	1%	0%	2%	0%	F				27000	G	2008
+670027	 1US	00501	P    	US 501 Par	Main St	130	Town of South Boston	130	Town of South Boston	0.07	US 501 Broad St	SR 304 Seymour Dr	7000	F	97%	1%	1%	0%	1%	0%	F	0.0837	F	0.0000	7600	F	2008		15000	F	97%	1%	1%	0%	1%	0%	F	0.0901	F	0.0000	17000	F
+670028	 1US	00501	P    	US 501 Par	Main St	130	Town of South Boston	130	Town of South Boston	0.18	SR 304 Seymour Dr	SR 129 North Main St	7400	F	97%	1%	1%	0%	1%	0%	C	0.0880	F	0.0000	8000	F	2008		15000	F	97%	1%	1%	0%	1%	0%	C	0.0936	F	0.0000	17000	F
+670022	 1US	00501	P    	US 501 Par	Wilborne Ave	130	Town of South Boston	130	Town of South Boston	0.26	SR 129 North Main St	Third St	7000	F	97%	1%	1%	0%	1%	0%	F	0.0878	F	0.0000	7600	F	2008		13000	F	97%	1%	1%	0%	1%	0%	F	0.0848	F	0.0000	14000	F
+784994	 1US	00501	P    	US 501 Par	Wilborne Ave	130	Town of South Boston	130	Town of South Boston	0.57	Third St	US 501 Broad Street	8500	F	97%	1%	1%	0%	1%	0%	F	0.0843	F	0.0000	9300	F	2008
+670016	 130	00001	     	130-1	Railroad Ave	130	Town of South Boston	130	Town of South Boston	0.36	Edmunds St	Summit Dr	430	F	92%	0%	1%	7%	0%	0%	C	0.0989	F	0.6731	470	F	2008
+784988	 130	00001	     	130-1	Railroad Avenue	130	Town of South Boston	130	Town of South Boston	0.18	Summit Dr	Seymour Dr	550	F	92%	0%	1%	7%	0%	0%	F	0.0984	F	0.6294	600	F	2008
+670017	 130	00002	     	130-2	Riley Ave	130	Town of South Boston	130	Town of South Boston	0.16	Seymour Dr	Vaughan St	840	F	98%	1%	1%	0%	0%	0%	C	0.1017	F	0.5263	910	F	2008
+670019	 130	00003	     	130-3	Seymour Dr	130	Town of South Boston	130	Town of South Boston	0.11	Railroad Ave	Thomas St	640	F	92%	1%	2%	5%	0%	0%	C	0.0988	F	0.5455	690	F	2008
+670020	 130	00004	     	130-4	Vaughan St	130	Town of South Boston	130	Town of South Boston	0.35	Riley Ave	Pine Ave	970	F	98%	1%	1%	0%	0%	0%	C	0.1169	F	0.5164	1100	F	2008
+670021	 130	00005	     	130-5	Webster St	130	Town of South Boston	130	Town of South Boston	0.61	Wilborn Ave	North Main St	830	F	99%	0%	0%	0%	0%	0%	C	0.1005	F	0.6000	900	F	2008
+784989	 130	00006	     	130-6	Third St	130	Town of South Boston	130	Town of South Boston	0.14	US 501; Broad St	1US 501-P Wilborn Ave	390	F	97%	0%	2%	0%	0%	0%	C	0.1067	F	0.5116	420	F	2008
+670005	 130	04700	     	130-4700	Berry Hill Rd	130	Town of South Boston	130	Town of South Boston	1.13	WCL South Boston	Wilmoth Ave	1700	F	99%	0%	1%	0%	0%	0%	C	0.1001	F	0.5104	1900	F	2008
+670006	 130	04700	     	130-4700	Berry Hill Rd	130	Town of South Boston	130	Town of South Boston	0.20	Wilmoth Ave	Summit Dr	2400	F	99%	0%	1%	0%	0%	0%	F	0.0930	F	0.5304	2600	F	2008
+670007	 130	04700	     	130-4700	Edmunds St	130	Town of South Boston	130	Town of South Boston	0.06	Summit Dr	Railroad Ave	2500	F	99%	0%	1%	0%	0%	0%	F	0.0981	F	0.5632	2700	F	2008
+670008	 130	04700	     	130-4700	Edmunds St	130	Town of South Boston	130	Town of South Boston	0.45	Railroad Ave	US 501; Wilborn Ave	1600	F	97%	0%	1%	1%	0%	0%	C	0.0998	F	0.5439	1800	F	2008
+670009	 130	04700	     	130-4700	Edmunds St	130	Town of South Boston	130	Town of South Boston	0.54	US 501 Wilborn Ave	SR 29; North Main St	1300	F	98%	0%	1%	0%	0%	0%	C	0.0931	F	0.6015	1400	F	2008
+670044	 130	04701	     	130-4701	Marshall Ave	130	Town of South Boston	130	Town of South Boston	0.15	Seymour Dr	Fenton St	720	F	98%	1%	1%	0%	0%	0%	F	0.1144	F	0.5867	790	F	2008
+670045	 130	04701	     	130-4701	Marshall Ave	130	Town of South Boston	130	Town of South Boston	0.41	Fenton St	Hodges St	890	F	98%	1%	1%	0%	0%	0%	C	0.1087	F	0.5089	970	F	2008
+670012	 130	04702	     	130-4702	Hamilton Blvd	130	Town of South Boston	130	Town of South Boston	0.37	SCL South Boston	Wilborn Ave	3300	F	99%	0%	1%	0%	0%	0%	C	0.1073	F	0.0000	3600	F	2008
+670013	 130	04702	     	130-4702	Hamilton Blvd	130	Town of South Boston	130	Town of South Boston	0.70	Wilborn Ave	SR 129 North Main St	5500	F	95%	1%	1%	0%	3%	0%	C				6000	F	2008
+670014	 130	04702	     	130-4702	Hamilton Blvd	130	Town of South Boston	130	Town of South Boston	1.26	SR 129 North Main St	US 360 John Randolph Blvd	5900	F	94%	1%	1%	1%	3%	0%	C	0.1168	F	0.0000	6500	F	2008
+670010	 130	04704	     	130-4704	College St	130	Town of South Boston	130	Town of South Boston	0.80	North Main St	Cavalier Blvd	1200	F	99%	1%	0%	0%	0%	0%	C	0.0936	F	0.5079	1300	F	2008
+670042	 130	04710	     	130-4710	Jeffress St	130	Town of South Boston	130	Town of South Boston	0.20	North Main St	Fenton St	780	F	98%	1%	1%	0%	0%	0%	C	0.1106	F	0.5464	850	F	2008
+670011	 130	04710	     	130-4710	Fenton St	130	Town of South Boston	130	Town of South Boston	0.19	Jeffress St	Marshall Ave	580	F	99%	1%	0%	0%	0%	0%	C	0.0942	F	0.6190	630	F	2008
+670018	 130	04713	     	130-4713	Watkins Ave	130	Town of South Boston	130	Town of South Boston	0.61	Edmunds St	Seymour Dr	2200	F	97%	0%	2%	0%	1%	0%	C	0.0981	F	0.5403	2400	F	2008
+570009	 130	00000	     	130-0	Carrington St	130	Town of South Boston	130	Town of South Boston	0.00	Watkins Ave	Noblin Ave	0	?							X
+570007	 130	00000	     	130-0	College St	130	Town of South Boston	130	Town of South Boston	0.00	Llewellyn Avenue	Washington Avenue	500	F							X	0.0945	F	0.0000	500	F	2008
+570008	 130	00000	     	130-0	Greenway Dr	130	Town of South Boston	130	Town of South Boston	0.00	Wilborn Ave	Norwood Ave	360	G							X				360	G	2008
+570005	 130	00000	     	130-0	Ridge St	130	Town of South Boston	130	Town of South Boston	0.00	Spring Avenue	Alderson Avenue	220	F							X	0.1381	F	0.5806	220	F	2008
+570012	 130	00000	     	130-0	Robin Hood Rd	130	Town of South Boston	130	Town of South Boston	0.00	Halifax Rd	Nottingham Dr	430	G							X				430	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

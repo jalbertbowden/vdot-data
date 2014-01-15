@@ -1,0 +1,980 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Dinwiddie Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+140141	  US	00001	     	US 1	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	2.46	Brunswick County Line	SCL McKenney	1400	F	96%	1%	1%	1%	1%	0%	F				1500	F	2008
+140181	  US	00001	     	US 1	Boydton Plank Rd	257	Town of McKenney	026	Dinwiddie County	0.23	SCL McKenney	SR 40	1400	N	96%	1%	1%	1%	1%	0%	N				1500	N	2008
+140142	  US	00001	     	US 1	Boydton Plank Rd	257	Town of McKenney	026	Dinwiddie County	0.33	SR 40	NCL McKenney	2000	F	96%	1%	1%	1%	1%	0%	F	0.0929	F	0.0000	2100	F	2008
+140182	  US	00001	     	US 1	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	4.05	NCL McKenney	26-649 Snap Lodge Rd	2000	N	96%	1%	1%	1%	1%	0%	N	0.0929	N	0.0000	2100	N	2008
+140143	  US	00001	     	US 1	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	5.65	26-649 Snap Lodge Rd	26-627 Courthouse Rd	2200	F	96%	1%	1%	1%	1%	0%	F	0.0981	F	0.6888	2400	F	2008
+140144	  US	00001	     	US 1	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	2.48	26-627 Courthouse Rd	26-740 Turkey Egg Rd	3900	F	96%	1%	1%	1%	1%	0%	C	0.0994	F	0.0000	4200	F	2008
+140145	  US	00001	     	US 1	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	3.61	26-740 Turkey Egg Rd	S 26-613 Dabney Mill Rd	5400	F	96%	1%	1%	1%	1%	0%	F	0.1011	F	0.0000	5800	F	2008
+140146	  US	00001	     	US 1	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	3.09	S 26-613 Dabney Mill Rd	Bus US 460 Airport St	8000	F	96%	1%	1%	1%	1%	0%	F	0.0927	F	0.0000	8700	F	2008
+140147	  US	00001	     	US 1, Bus US 460	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	1.70	Bus US 460 Airport St	I-85 SW of Petersburg	12000	F	96%	1%	1%	1%	1%	0%	F	0.0903	F	0.0000	13000	F	2008
+140148	  US	00001	     	US 1, Bus US 460	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	1.22	I-85 SW of Petersburg	SR 226 Cox Rd	15000	F	97%	0%	1%	1%	1%	0%	C	0.0975	F	0.0000	15000	F	2008
+140123	  US	00001	     	US 1, Bus US 460	 	026	Dinwiddie County	026	Dinwiddie County	0.45	SR 226 Cox Rd	WCL Petersburg	13000	A	98%	0%	1%	1%	1%	0%	C	0.1054	A	0.5244	14000	A	2008
+658136	  US	00001	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.40	WCL Petersburg	Summit St	13000	F	98%	0%	1%	1%	1%	0%	F				14000	F	2008
+658137	  US	00001	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.18	Summit St	Elm St	13000	F	98%	0%	1%	1%	1%	0%	F				14000	F	2008
+658139	  US	00001	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.57	Elm St	US 1 Par; Wythe St	14000	F	96%	1%	1%	1%	1%	0%	F	0.0854	F	0.0000	16000	F	2008
+658143	  US	00001	     	US 1, Bus US 460	Wythe St	123	City of Petersburg	123	City of Petersburg	1.08	US 1 Par, Washington St; Battersea Lane	Perry St	7700	F	96%	1%	1%	1%	1%	0%	C	0.0820	F	1.0000	8300	F	2008		16000	F	96%	1%	1%	1%	1%	0%	F	0.0832	F	0.0000	18000	F
+658144	  US	00001	     	US 1, Bus US 460	Wythe St	123	City of Petersburg	123	City of Petersburg	0.15	Perry St	SR 36 Market St	9300	F	96%	1%	1%	1%	1%	0%	F				10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F				20000	F
+658145	  US	00001	     	US 1, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	SR 36 Market St	ALT US 301 Sycamore St	10000	F	96%	1%	1%	1%	1%	0%	F				11000	F	2008
+658051	  US	00001	     	US 1, Alt US 301, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	ALT US 301 Sycamore St	Bus US 460 Jefferson St	12000	F	96%	1%	1%	1%	1%	0%	F				13000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+658081	  US	00001	     	US 1, Alt US 301	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.09	Bus US 460 Wythe St	Bus US 460 Par, Washington St	3900	F	96%	1%	1%	1%	1%	0%	F	0.0818	F	0.6871	4300	F	2008
+658082	  US	00001	     	US 1, Alt US 301	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.26	Bus US 460 Par, Washington St	Henry St	800	F	96%	1%	1%	1%	1%	0%	F	0.0955	F	0.6742	870	F	2008
+140149	  US	00001	     	US 1, Alt US 301	3rd St	123	City of Petersburg	123	City of Petersburg	0.05	Henry St	US 301 Par, Bank St	330	F	96%	1%	1%	1%	1%	0%	F	0.1152	F	0.5732	360	F	2008
+658038	  US	00001	     	US 1, Alt US 301	3rd St	123	City of Petersburg	123	City of Petersburg	0.05	US 301 Par, Bank St	US 301 Bollingbrook St	400	F	96%	1%	1%	1%	1%	0%	F	0.1095	F	0.6337	440	F	2008
+658043	  US	00001	     	US 301, US 1, Alt US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.08	US 301; 3RD STREET	US 1 Par; US 301 Par; Bollingbrook St	4700	F	98%	0%	1%	0%	0%	0%	F	0.1221	F	0.8499	5100	F	2008	
+658604	  US	00001	     	US 1, US 301	2nd St	123	City of Petersburg	123	City of Petersburg	0.35	US 1 Par; US 301 Par; Bollingbrook St	SCL Colonial Heights	13000	F	99%	0%	0%	0%	0%	0%	F	0.1114	F	0.6936	13000	F	2008
+658142	 3US	00001	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.31	US 1 Wythe St Battersea Lane	123-9025 West St	8600	F	97%	1%	1%	1%	1%	0%	F	0.0889	F	0.0000	9300	F	2008		16000	F	96%	1%	1%	1%	1%	0%	F	0.0832	F	0.0000	18000	F
+781889	 3US	00001	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.40	123-9025 West St	123-9029 South St	9200	F	97%	1%	1%	1%	1%	0%	F	0.0890	F	0.0000	10000	F	2008		17000	F	97%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	18000	F
+658141	 3US	00001	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.27	123-9029 South St	Guarantee St	9500	F	97%	1%	1%	1%	1%	0%	C	0.0867	F	0.0000	10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F				20000	F
+658140	 3US	00001	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.24	Guarantee St	BUS US 460 Par; SR 36 Market St	9600	F	97%	1%	1%	1%	1%	0%	F	0.0882	F	0.0000	10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	20000	F
+658095	 3US	00001	P    	US 1 Par, VA 36	Market St	123	City of Petersburg	123	City of Petersburg	0.38	SR 36; Bus US 460 Par Washington St	SR 36 Grove Ave	3300	F	97%	1%	1%	0%	0%	0%	C	0.0893	F	0.0000	3600	F	2008
+658100	 3US	00001	P    	US 1 Par, VA 36 Par	Old St	123	City of Petersburg	123	City of Petersburg	0.13	SR 36; Market St	Sycamore St	3500	F	97%	1%	1%	0%	0%	0%	F	0.0943	F	0.0000	3800	F	2008
+658045	 3US	00001	P    	US 1 Par, VA 36 Par	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.04	Old St	Bollingbrook St	3400	F	97%	1%	1%	0%	0%	0%	F	0.0935	F	0.0000	3700	F	2008
+658057	 3US	00001	P    	US 1 Par, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.10	Sycamore St	US 1, US 301 2nd St	3500	F	97%	1%	1%	0%	0%	0%	F	0.0880	F	0.7724	3800	F	2008
+658060	  SR	00036	     	VA 36	Fleet St	123	City of Petersburg	123	City of Petersburg	0.12	WCL Petersburg	Grove Ave	7900	F	99%	0%	0%	0%	0%	0%	C	0.0883	F	0.0000	8500	F	2008
+658061	  SR	00036	     	VA 36	Grove Ave	123	City of Petersburg	123	City of Petersburg	0.54	Fleet St	US 1 Par, Market St	3000	F	97%	0%	1%	1%	0%	0%	C	0.1008	F	0.6089	3300	F	2008
+658095	  SR	00036	     	US 1 Par, VA 36	Market St	123	City of Petersburg	123	City of Petersburg	0.38	US 1	US 1 Par; BUS US 460 Par, Washington St	3300	F	97%	1%	1%	0%	0%	0%	C	0.0893	F	0.0000	3600	F	2008	
+140099	  SR	00036	     	VA 36	Market St	123	City of Petersburg	123	City of Petersburg	0.11	US 1 Par; Bus US 460 Par, Washington St	US 1, Bus US 460 Wythe St	5700	F	99%	0%	1%	0%	0%	0%	F	0.0899	F	0.7686	6100	F	2008
+658145	  SR	00036	     	US 1, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	US 1, BUS US 460 Wythe St	ALT US 301 Sycamore St	10000	F	96%	1%	1%	1%	1%	0%	F				11000	F	2008	
+658051	  SR	00036	     	US 1, Alt US 301, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	ALT US 301 Sycamore St	Bus US 460	12000	F	96%	1%	1%	1%	1%	0%	F				13000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+658049	  SR	00036	     	Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	Bus US 460	I-85, I-95	16000	F	97%	1%	1%	1%	1%	0%	C	0.0872	F	1.0000	17000	F	2008		31000	F	95%	1%	1%	1%	2%	0%	F	0.0792	F	0.0000	34000	F
+140095	  SR	00036	     	Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.30	I-85, I-95	South Crater Rd	11000	F	97%	1%	1%	1%	1%	0%	F	0.0792	F	1.0000	12000	F	2008		24000	F	95%	1%	1%	1%	2%	0%	F				26000	F
+658048	  SR	00036	     	VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.43	US 301, Bus US 460 Crater Rd	SR 36 Par, Washington St; Amelia St	9800	F	97%	0%	0%	1%	1%	0%	F				10000	F	2008		21000	F	97%	0%	0%	1%	1%	0%	F				22000	F
+140103	  SR	00036	     	VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.87	SR 36 Par; Wythe St; Amelia St	Puddledock Rd	20000	F	97%	0%	0%	1%	1%	0%	F	0.0809	F	0.0000	22000	F	2008
+140127	  SR	00036	     	VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.58	Puddledock Rd	Prince George County Line	16000	F	97%	0%	0%	1%	1%	0%	F	0.0785	F	0.0000	17000	F	2008
+658100	 1SR	00036	P    	US 1 Par, VA 36 Par	Old St	123	City of Petersburg	123	City of Petersburg	0.13	SR 36; Market St	Sycamore St	3500	F	97%	1%	1%	0%	0%	0%	F	0.0943	F	0.0000	3800	F	2008	
+658045	 1SR	00036	P    	US 1 Par, VA 36 Par	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.04	Old St	Bollingbrook St	3400	F	97%	1%	1%	0%	0%	0%	F	0.0935	F	0.0000	3700	F	2008	
+658057	 1SR	00036	P    	US 1 Par, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.10	Sycamore St	US 1, US 301 2nd St	3500	F	97%	1%	1%	0%	0%	0%	F	0.0880	F	0.7724	3800	F	2008	
+658043	 1SR	00036	P    	US 301, US 1, Alt US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.08	US 1 Par, 2nd St	US 1, ALT US 301 3rd St	4700	F	98%	0%	1%	0%	0%	0%	F	0.1221	F	0.8499	5100	F	2008	
+658044	 1SR	00036	P    	US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.15	3rd St	5th St	4400	F	98%	0%	1%	0%	0%	0%	F	0.1077	F	0.7855	4800	F	2008		6200	F	98%	0%	1%	0%	1%	0%	F				6700	F
+658042	 1SR	00036	P    	US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.23	5th St	Crater Rd	4200	F	98%	0%	1%	0%	0%	0%	C	0.1160	F	0.0000	4600	F	2008		6400	F	98%	0%	1%	0%	1%	0%	C	0.1083	F	0.0000	6900	F
+658094	 1SR	00036	P    	US 301, VA 36 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.14	Bollingbrook St	US 301 Par, Bank St	3700	F	98%	0%	1%	0%	0%	0%	F	0.1154	F	0.8387	4000	F	2008		7700	G	97%	1%	1%	1%	1%	0%	F				8400	G
+658093	 1SR	00036	P    	US 301, VA 36 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.18	US 301 Par, Bank St	US 301, BUS US 460 Crater Rd	3900	F	97%	1%	1%	0%	0%	0%	F				4200	F	2008	
+140106	 1SR	00036	P    	VA 36 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.18	US 301, Bus US 460 Crater Rd	Burch St	10000	F	97%	0%	0%	1%	1%	0%	F	0.0900	F	0.0000	11000	F	2008		20000	F	97%	0%	0%	1%	1%	0%	F	0.0000	?	0.0000	22000	F
+140107	 1SR	00036	P    	VA 36 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.25	Burch St	SR 36 Wythe St; Amelia St	11000	F	97%	0%	0%	1%	1%	0%	F	0.0906	F	0.0000	12000	F	2008		21000	F	97%	0%	0%	1%	1%	0%	F				22000	F
+040395	  SR	00040	     	VA 40	Darvills Rd	026	Dinwiddie County	026	Dinwiddie County	4.90	Nottoway County Line	26-644 Brills Rd	1000	F	88%	1%	1%	1%	9%	0%	F	0.1024	F	0.6403	1000	F	2008
+040394	  SR	00040	     	VA 40	Old Cryors Rd	026	Dinwiddie County	026	Dinwiddie County	6.15	26-644 Brills Rd	26-610 Old White Oak Rd	990	A	88%	1%	1%	1%	9%	0%	C	0.1125	A	0.5495	980	A	2008
+040188	  SR	00040	     	VA 40	McKenney Hwy	026	Dinwiddie County	026	Dinwiddie County	2.46	26-610 Old White Oak Rd	WCL McKenney	1600	F	88%	1%	1%	1%	9%	0%	F	0.0887	F	0.5521	1500	F	2008
+040189	  SR	00040	     	VA 40	Doyle Blvd	257	Town of McKenney	026	Dinwiddie County	0.34	WCL McKenney	26-1002 Railroad St	1600	N	88%	1%	1%	1%	9%	0%	N	0.0887	N	0.5521	1500	N	2008
+040435	  SR	00040	     	VA 40	Doyle Blvd	257	Town of McKenney	026	Dinwiddie County	0.57	26-1002 Railroad St	US 1 Boydton Plank Rd	2500	F	88%	1%	1%	1%	9%	0%	F	0.0965	F	0.5433	2500	F	2008
+040393	  SR	00040	     	VA 40	Doyle Blvd	257	Town of McKenney	026	Dinwiddie County	0.43	US 1 Boydton Plank Rd	ECL McKenney	2800	F							X	0.0996	F	0.5226	3000	F	2008
+040398	  SR	00040	     	VA 40	McKenney Hwy	026	Dinwiddie County	026	Dinwiddie County	0.14	ECL McKenney	I-85	2800	N							X	0.0996	N	0.5226	3000	N	2008
+040186	  SR	00040	     	VA 40	McKenney Hwy	026	Dinwiddie County	026	Dinwiddie County	0.56	I-85	26-692 Spony Church Rd	2000	F	88%	1%	1%	1%	9%	0%	F	0.0926	F	0.6134	2000	F	2008
+040185	  SR	00040	     	VA 40	McKenney Hwy	026	Dinwiddie County	026	Dinwiddie County	5.15	26-692 Spony Church Rd	26-609 Old Stage Rd	1000	A	88%	1%	1%	1%	9%	0%	C	0.1173	A	0.5678	1000	A	2008
+040392	  SR	00040	     	VA 40	McKenney Hwy	026	Dinwiddie County	026	Dinwiddie County	2.04	26-609 Cherry Hill Rd	26-619 Courthouse Rd	1100	F	88%	1%	1%	1%	9%	0%	F	0.0828	F	0.5021	1100	F	2008
+040183	  SR	00040	     	VA 40	McKenney Hwy	026	Dinwiddie County	026	Dinwiddie County	5.19	26-619 Courthouse Rd	Sussex County Line	1100	F	88%	1%	1%	1%	9%	0%	F	0.1010	F	0.6577	1100	F	2008
+940396	  IS	00085	N    	I-85 NB	 	026	Dinwiddie County	026	Dinwiddie County	2.38	Brunswick County Line	SR 40	11000	F	77%	1%	1%	1%	19%	2%	F				9400	F	2008		22000	F	77%	1%	1%	1%	19%	2%	F				19000	F
+040003	  IS	00085	N    	I-85 NB	 	026	Dinwiddie County	026	Dinwiddie County	5.95	SR 40	26-650	11000	F	82%	1%	1%	1%	15%	1%	F				9600	F	2008		21000	F	82%	1%	1%	1%	15%	1%	F				20000	F
+040397	  IS	00085	N    	I-85 NB	 	026	Dinwiddie County	026	Dinwiddie County	4.88	26-650	26-703	11000	F	82%	1%	1%	1%	15%	1%	F				10000	F	2008		23000	F	82%	1%	1%	1%	15%	1%	F				21000	F
+040038	  IS	00085	N    	I-85 NB	 	026	Dinwiddie County	026	Dinwiddie County	8.81	26-703	US 460	13000	A	82%	1%	1%	1%	15%	1%	C	0.1247	A	1.0000	12000	A	2008		26000	A	82%	1%	1%	1%	15%	1%	C	0.1146	A	0.0000	23000	A
+040793	  IS	00085	N    	I-85 NB, US 460	 	026	Dinwiddie County	026	Dinwiddie County	1.48	US 460	US 1	20000	F	82%	1%	1%	1%	15%	1%	F				18000	F	2008		40000	F	82%	1%	1%	1%	15%	1%	F				36000	F
+040399	  IS	00085	N    	I-85 NB, US 460	 	026	Dinwiddie County	026	Dinwiddie County	1.18	US 1	SCL Petersburg	26000	G	82%	1%	1%	1%	15%	1%	F				24000	G	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+040413	  IS	00085	N    	I-85 NB, US 460	 	123	City of Petersburg	026	Dinwiddie County	1.01	SCL Petersburg	Squirrel Level Road	26000	G	82%	1%	1%	1%	15%	1%	F				24000	G	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+040040	  IS	00085	N    	I-85 NB, US 460	 	123	City of Petersburg	026	Dinwiddie County	2.57	Squirrel Level Road	I-95	31000	F	82%	1%	1%	1%	15%	1%	F				29000	F	2008		61000	F	82%	1%	1%	1%	15%	1%	F				56000	F
+795371	  IS	00085	N068B	I-85 NB Exit 068B	Ramp	123	City of Petersburg	026	Dinwiddie County	0.22	I-95 N Exit 50D & I-85 N Exit 69	Wythe St & Washington St	0	?							X
+140040	  IS	00085	S    	I-85 SB	 	026	Dinwiddie County	026	Dinwiddie County	2.78	Brunswick County Line	SR 40	11000	F	76%	1%	1%	0%	20%	2%	F				9600	F	2008		22000	F	77%	1%	1%	1%	19%	2%	F				19000	F
+140039	  IS	00085	S    	I-85 SB	 	026	Dinwiddie County	026	Dinwiddie County	5.95	SR 40	26-650	11000	F	81%	1%	1%	1%	15%	1%	F				9900	F	2008		21000	F	82%	1%	1%	1%	15%	1%	F				20000	F
+140038	  IS	00085	S    	I-85 SB	 	026	Dinwiddie County	026	Dinwiddie County	4.95	26-650	26-703	11000	F	81%	1%	1%	1%	15%	1%	F				10000	F	2008		23000	F	82%	1%	1%	1%	15%	1%	F				21000	F
+140037	  IS	00085	S    	I-85 SB	 	026	Dinwiddie County	026	Dinwiddie County	8.36	26-703	US 460	13000	A	81%	1%	1%	1%	15%	1%	C	0.1169	A	1.0000	12000	A	2008		26000	A	82%	1%	1%	1%	15%	1%	C	0.1146	A	0.0000	23000	A
+140036	  IS	00085	S    	I-85 SB, US 460	 	026	Dinwiddie County	026	Dinwiddie County	1.83	US 460	US 1	20000	F	81%	1%	1%	1%	15%	1%	F				18000	F	2008		40000	F	82%	1%	1%	1%	15%	1%	F				36000	F
+140035	  IS	00085	S    	I-85 SB, US 460	 	026	Dinwiddie County	026	Dinwiddie County	0.81	US 1	SCL Petersburg	26000	F	81%	1%	1%	1%	15%	1%	F				23000	F	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+140178	  IS	00085	S    	I-85 SB, US 460	 	123	City of Petersburg	026	Dinwiddie County	1.25	SCL Petersburg	Squirrel Level Road	26000	F	81%	1%	1%	1%	15%	1%	F				23000	F	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+140034	  IS	00085	S    	I-85 SB, US 460	 	123	City of Petersburg	026	Dinwiddie County	2.72	Squirrel Level Road	I-95	30000	F	81%	1%	1%	1%	15%	1%	F				27000	F	2008		61000	F	82%	1%	1%	1%	15%	1%	F				56000	F
+040613	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	1.15	Rives Rd	Wagner Rd	15000	G	83%	1%	1%	0%	14%	0%	F				13000	G	2008		30000	G	84%	1%	1%	1%	14%	0%	F				26000	G
+040614	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	2.79	Wagner Rd	US 460 West St	20000	G	83%	1%	1%	0%	14%	0%	F				17000	G	2008		39000	G	84%	1%	1%	1%	14%	0%	F				33000	G
+040400	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	0.50	US 460 West St	I-85	20000	N	83%	1%	1%	0%	14%	0%	N				17000	N	2008		39000	N	84%	1%	1%	1%	14%	0%	N				33000	N
+140314	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	026	Dinwiddie County	0.44	I-85	US 301, Bus US 460 Washington St	42000	G	90%	1%	1%	1%	8%	0%	F				42000	G	2008		80000	G	90%	1%	1%	1%	8%	0%	F				80000	G
+140321	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	026	Dinwiddie County	0.64	US 301, Bus US 460 Washington St	SCL Colonial Heights	53000	G	90%	1%	1%	1%	8%	0%	F				53000	G	2008		100000	G	90%	1%	1%	1%	8%	0%	F				100000	G
+789275	  IS	00095	N047A	I-95 NB Exit 047A	Ramp	123	City of Petersburg	074	Prince George County	0.17	I-95 North	123-9008 Rives Rd	0	?							X
+789276	  IS	00095	N048A	I-95 NB Exit 048A	Ramp	123	City of Petersburg	074	Prince George County	0.35	I-95 North	123-9010 Wagner Rd	0	?							X
+795369	  IS	00095	N050X	I-95 NB Exit 050X	Ramp	123	City of Petersburg	074	Prince George County	0.14	Ramp From US 301	Ramp to Wythe & Washington Streets	0	?							X
+140029	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	0.34	SCL Petersburg	Rives Rd	13000	G	84%	1%	1%	1%	14%	0%	F				11000	G	2008		24000	G	84%	1%	1%	1%	14%	0%	F	0.0000	?	0.0000	20000	G
+140028	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	1.22	Rives Rd	Wagner Rd	15000	G	84%	1%	1%	1%	14%	0%	F				13000	G	2008		30000	G	84%	1%	1%	1%	14%	0%	F				26000	G
+140027	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	2.29	Wagner Rd	US 460 County Rd; US 301 Crater Rd	19000	G	84%	1%	1%	1%	14%	0%	F				16000	G	2008		39000	G	84%	1%	1%	1%	14%	0%	F				33000	G
+140026	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	0.53	US 460 County Rd; US 301 Crater Rd	I-85	19000	N	84%	1%	1%	1%	14%	0%	N				16000	N	2008		39000	N	84%	1%	1%	1%	14%	0%	N				33000	N
+140312	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	026	Dinwiddie County	0.66	I-85	US 301, Bus US 460 Washington St	39000	G	89%	1%	1%	1%	8%	0%	F				38000	G	2008		80000	G	90%	1%	1%	1%	8%	0%	F				80000	G
+140024	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	026	Dinwiddie County	0.48	US 301, Bus US 460 Washington St	SCL Colonial Heights	47000	G	89%	1%	1%	1%	8%	0%	F				47000	G	2008		100000	G	90%	1%	1%	1%	8%	0%	F				100000	G
+789371	  IS	00095	S048B	I-95 SB Exit 048B	Ramp	123	City of Petersburg	074	Prince George County	0.31	I-95 South	123-9010 Wagner Rd	0	?							X
+789771	  IS	00095	S050X	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301	US 460 Ramp	12000	F							X				12000	F	2008
+658021	  SR	00106	     	VA 106	Courthouse Rd	123	City of Petersburg	123	City of Petersburg	0.10	US 460 County Rd	ECL Petersburg	7500	F	95%	1%	1%	1%	2%	0%	F	0.0889	F	0.0000	8200	F	2008
+658076	  SR	00109	     	VA 109	Hickory Hill Rd	123	City of Petersburg	123	City of Petersburg	0.88	US 460 County Rd	ECL Petersburg	6600	F	98%	0%	0%	1%	0%	0%	C	0.1244	F	0.0000	7200	F	2008
+140210	  SR	00109	     	VA 109	Hickory Hill Rd	123	City of Petersburg	123	City of Petersburg	0.03	ECL Petersburg	Dead End; Fort Lee Military Reservation, Mahone Av	6600	N	98%	0%	0%	1%	0%	0%	N	0.1244	N	0.0000	7200	N	2008
+040401	  SR	00142	     	VA 142	Simpson Rd	026	Dinwiddie County	026	Dinwiddie County	1.27	US 1 Boydton Plank Rd	WCL Petersburg	3100	F	96%	0%	0%	1%	2%	0%	C	0.1018	F	0.6740	3300	F	2008
+658005	  SR	00142	     	VA 142	Boydton Plank Rd	123	City of Petersburg	123	City of Petersburg	0.16	WCL Petersburg	Dupuy Rd	3400	F	98%	0%	0%	0%	1%	0%	F	0.0957	F	0.0000	3700	F	2008
+658006	  SR	00142	     	VA 142	Boydton Plank Rd	123	City of Petersburg	123	City of Petersburg	1.24	Dupuy Rd	Rt 604 Halifax Rd	3100	F	98%	0%	0%	0%	1%	0%	C	0.0833	F	0.0000	3400	F	2008
+658063	  SR	00142	     	VA 142	Halifax Rd	123	City of Petersburg	123	City of Petersburg	0.06	Rt 604 Halifax Rd	CSX RR	5800	F	98%	0%	0%	0%	1%	0%	F	0.0788	F	0.5238	6400	F	2008
+040402	  SR	00226	     	VA 226	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	3.38	US 460 Cox Rd	US 1 West of Petersburg	9900	F	97%	0%	1%	1%	1%	0%	C	0.0991	F	0.0000	11000	F	2008
+658105	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.21	SCL Petersburg	Rives Rd	8700	F	99%	0%	0%	0%	0%	0%	F	0.0956	F	0.0000	9400	F	2008
+658106	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.90	Rives Rd	Wagner Rd	9800	F	99%	0%	0%	0%	0%	0%	C	0.0913	F	0.0000	11000	F	2008
+658107	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.43	Wagner Rd	Flank Rd	21000	F	99%	0%	0%	0%	0%	0%	F				23000	F	2008
+658108	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.87	Flank Rd	ALT US 301 Sycamore St	23000	F	99%	0%	0%	0%	0%	0%	F	0.0835	F	0.0000	25000	F	2008
+658109	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.26	ALT US 301 Sycamore St	South Blvd	16000	F	98%	0%	1%	0%	0%	0%	C	0.0882	F	0.0000	17000	F	2008
+658110	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.73	South Blvd	I-95, Bus US 460	22000	F	98%	0%	1%	0%	0%	0%	F	0.0843	F	0.0000	24000	F	2008
+658154	  US	00301	     	US 301, Bus US 460	Crater Rd	123	City of Petersburg	026	Dinwiddie County	0.09	I-95, Bus US 460	I-95; Bus US 460 Par, Winfield Rd	11000	N	97%	1%	1%	0%	0%	0%	N	0.0867	N	0.0000	12000	N	2008
+658111	  US	00301	     	US 301, Bus US 460, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.98	Maintenance Jurisdiction Change	SR 36, Bus US 460 Wythe St	11000	F	97%	1%	1%	0%	0%	0%	C	0.0867	F	0.0000	12000	F	2008
+658112	  US	00301	     	US 301, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.10	SR 36, Bus US 460 Wythe St	SR 36 Par, Bus US 460 Par, Washington St	7900	F	97%	1%	1%	0%	0%	0%	F	0.0873	F	0.0000	8600	F	2008
+658093	  US	00301	     	US 301, VA 36 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.18	SR 36 Par, Bus US 460 Par, Washington St	US 301 Par, Bank St	3900	F	97%	1%	1%	0%	0%	0%	F				4200	F	2008
+658094	  US	00301	     	US 301, VA 36 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.14	US 301 Par, Bank St	Bollingbrook St	3700	F	98%	0%	1%	0%	0%	0%	F	0.1154	F	0.8387	4000	F	2008		7700	G	97%	1%	1%	1%	1%	0%	F				8400	G
+658042	  US	00301	     	US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.23	Crater Rd	5th St	4200	F	98%	0%	1%	0%	0%	0%	C	0.1160	F	0.0000	4600	F	2008		6400	F	98%	0%	1%	0%	1%	0%	C	0.1083	F	0.0000	6900	F
+658044	  US	00301	     	US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.15	5th St	3rd St	4400	F	98%	0%	1%	0%	0%	0%	F	0.1077	F	0.7855	4800	F	2008		6200	F	98%	0%	1%	0%	1%	0%	F				6700	F
+658043	  US	00301	     	US 301, US 1, Alt US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.08	US 1, ALT US 301 3rd St	US 1 Par, 2nd St	4700	F	98%	0%	1%	0%	0%	0%	F	0.1221	F	0.8499	5100	F	2008
+658604	  US	00301	     	US 1, US 301	2nd St	123	City of Petersburg	123	City of Petersburg	0.35	N RT 1	SCL Colonial Heights	13000	F	99%	0%	0%	0%	0%	0%	F	0.1114	F	0.6936	13000	F	2008	
+658037	 1US	00301	P    	US 301 Par	Bank St	123	City of Petersburg	123	City of Petersburg	0.24	US 301 Crater St	5th St	2100	F	96%	1%	1%	1%	1%	0%	C	0.1019	F	0.0000	2300	F	2008		6400	F	98%	0%	1%	0%	1%	0%	C	0.1083	F	0.0000	6900	F
+658036	 1US	00301	P    	US 301 Par	Bank St	123	City of Petersburg	123	City of Petersburg	0.15	5th St	3rd St	1700	F	96%	1%	1%	1%	1%	0%	F	0.1045	F	0.0000	1900	F	2008		6200	F	98%	0%	1%	0%	1%	0%	F				6700	F
+658035	 1US	00301	P    	US 301 Par, US 1, Alt US 301	Bank St	123	City of Petersburg	123	City of Petersburg	0.09	3rd St	ALT US 301 Par, 2nd St	1700	F	96%	1%	1%	1%	1%	0%	F	0.1003	F	0.0000	1800	F	2008		6300	F	98%	0%	1%	0%	1%	0%	F	0.0000	?	0.0000	6900	F
+658122	A1US	00301	     	Alt US 301	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.30	US 301 Crater Rd	South Blvd	7600	F	99%	0%	0%	0%	0%	0%	F				8300	F	2008
+658123	A1US	00301	     	Alt US 301	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.95	South Blvd	North Blvd	5000	F	99%	0%	0%	0%	0%	0%	C	0.0841	F	0.0000	5500	F	2008
+658124	A1US	00301	     	Alt US 301	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.42	North Blvd	Graham Rd	7400	F	99%	0%	0%	0%	0%	0%	F	0.0754	F	0.0000	8000	F	2008
+658125	A1US	00301	     	Alt US 301	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.56	Graham Rd	US 1 Wythe St	9600	F	99%	0%	0%	0%	0%	0%	F	0.0779	F	0.0000	10000	F	2008
+658051	A1US	00301	     	US 1, Alt US 301, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	US 1	Bus US 460 Jefferson St	12000	F	96%	1%	1%	1%	1%	0%	F				13000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+658081	A1US	00301	     	US 1, Alt US 301	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.09	Bus US 460 Wythe St	Bus US 460 Par, Washington St	3900	F	96%	1%	1%	1%	1%	0%	F	0.0818	F	0.6871	4300	F	2008	
+658082	A1US	00301	     	US 1, Alt US 301	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.26	Bus US 460 Par, Washington St	Henry St	800	F	96%	1%	1%	1%	1%	0%	F	0.0955	F	0.6742	870	F	2008	
+140149	A1US	00301	     	US 1, Alt US 301	3rd St	123	City of Petersburg	123	City of Petersburg	0.05	Henry St	US 301 Par, Bank St	330	F	96%	1%	1%	1%	1%	0%	F	0.1152	F	0.5732	360	F	2008	
+658038	A1US	00301	     	US 1, Alt US 301	3rd St	123	City of Petersburg	123	City of Petersburg	0.05	US 301 Par, Bank St	US 301 Bollingbrook St	400	F	96%	1%	1%	1%	1%	0%	F	0.1095	F	0.6337	440	F	2008	
+658043	A1US	00301	     	US 301, US 1, Alt US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.08	US 1, ALT US 301 3rd St	US 301	4700	F	98%	0%	1%	0%	0%	0%	F	0.1221	F	0.8499	5100	F	2008	
+658126	A1US	00301	P    	Alt US 301 Par	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.09	US 1 Wythe St	Bus US 460 Washington St	6800	F	99%	0%	0%	0%	0%	0%	F				7300	F	2008
+140157	A1US	00301	P    	Bus US 460 Par, Alt US 301, Alt US 301 Par, Bus US 460, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.09	Bus US 460 Par	Bus US 460 Washington St	15000	F	95%	1%	2%	1%	1%	0%	F	0.0794	F	0.0000	16000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+140225	A1US	00301	P    	Alt US 301 Par	Adams St	123	City of Petersburg	123	City of Petersburg	0.06	BUS US 460 Washington St	Franklin St	7600	F	99%	0%	0%	0%	0%	0%	F				8300	F	2008
+658091	A1US	00301	P    	Alt US 301 Par	Adams St	123	City of Petersburg	123	City of Petersburg	0.16	Franklin St	Henry St	7400	F	99%	0%	0%	0%	0%	0%	C	0.0875	F	0.6252	8000	F	2008
+040241	  US	00460	     	US 460	 	026	Dinwiddie County	026	Dinwiddie County	6.80	Nottoway County Line	26-625 Wells Rd	6000	F	87%	1%	1%	1%	11%	0%	F	0.0757	F	0.0000	6000	F	2008
+040411	  US	00460	     	US 460	 	026	Dinwiddie County	026	Dinwiddie County	2.99	26-625 Wells Rd	26-622 Baltimore Rd	6200	F	87%	1%	1%	1%	11%	0%	F	0.0798	F	0.0000	6200	F	2008
+040410	  US	00460	     	US 460	 	026	Dinwiddie County	026	Dinwiddie County	2.32	26-622 Baltimore Rd	26-611 Trinity Church Rd	6600	A	87%	1%	1%	1%	11%	0%	C	0.1012	A	0.0000	6600	A	2008
+040243	  US	00460	     	US 460	 	026	Dinwiddie County	026	Dinwiddie County	3.29	26-611 Trinity Church Rd	26-627 Courthouse Rd	7200	F	87%	1%	1%	1%	11%	0%	F	0.0759	F	0.0000	7300	F	2008
+040409	  US	00460	     	US 460	New Cox Rd	026	Dinwiddie County	026	Dinwiddie County	2.36	26-627 Courthouse Rd	26-628 Tranquility Lane	7600	F	87%	1%	1%	1%	11%	0%	F	0.0785	F	0.0000	7700	F	2008
+040408	  US	00460	     	US 460	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	2.12	26-628 Tranquility Lane	26-631 Claiborne Rd	9800	F	87%	1%	1%	1%	11%	0%	F	0.0815	F	0.0000	9900	F	2008
+040015	  US	00460	     	US 460	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	0.25	26-631 Claiborne Rd	26-743 Hart Rd	13000	F	87%	1%	1%	1%	11%	0%	F	0.0876	F	0.0000	13000	F	2008
+040407	  US	00460	     	US 460	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	2.00	26-743 Hart Rd	W 26-632 Olgers Rd	13000	F	87%	1%	1%	1%	11%	0%	F	0.0856	F	0.0000	13000	F	2008
+040406	  US	00460	     	US 460	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	0.61	W 26-632 Olgers Rd	E 26-632 Buttewood Rd	17000	F	87%	1%	1%	1%	11%	0%	F	0.0799	F	0.0000	17000	F	2008
+040778	  US	00460	     	US 460	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	0.18	E 26-632 Buttewood Rd	SR 226 Cox Rd	17000	F	87%	1%	1%	1%	11%	0%	F	0.0813	F	0.0000	17000	F	2008
+040405	  US	00460	     	US 460	Airport St	026	Dinwiddie County	026	Dinwiddie County	1.21	SR 226 Cox Rd	I-85; Bus US 460	16000	F	87%	1%	1%	1%	11%	0%	F	0.0764	F	0.0000	16000	F	2008
+040793	  US	00460	     	I-85 NB, US 460	 	026	Dinwiddie County	026	Dinwiddie County	1.48	I 85 N	US 1	20000	F	82%	1%	1%	1%	15%	1%	F				18000	F	2008		40000	F	82%	1%	1%	1%	15%	1%	F				36000	F
+040399	  US	00460	     	I-85 NB, US 460	 	026	Dinwiddie County	026	Dinwiddie County	1.18	US 1	SCL Petersburg	26000	G	82%	1%	1%	1%	15%	1%	F				24000	G	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+040413	  US	00460	     	I-85 NB, US 460	 	123	City of Petersburg	026	Dinwiddie County	1.01	SCL Petersburg	Squirrel Level Road	26000	G	82%	1%	1%	1%	15%	1%	F				24000	G	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+040040	  US	00460	     	I-85 NB, US 460	 	123	City of Petersburg	026	Dinwiddie County	2.57	Squirrel Level Road	I-85 S	31000	F	82%	1%	1%	1%	15%	1%	F				29000	F	2008		61000	F	82%	1%	1%	1%	15%	1%	F				56000	F
+789771	  US	00460	     	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301	US 460	12000	F							X				12000	F	2008	
+140234	  US	00460	     	US 460	County Dr	123	City of Petersburg	123	City of Petersburg	0.60	I-95	SR 109 Hickory Hill Rd	19000	F	92%	0%	1%	1%	6%	0%	C	0.0959	F	0.0000	20000	F	2008
+140104	  US	00460	     	US 460	County Dr	123	City of Petersburg	123	City of Petersburg	2.16	SR 109 Hickory Hill Rd	SR 106 Courthouse Rd	9500	A	88%	1%	1%	1%	9%	0%	C	0.0986	A	0.5348	10000	A	2008
+658022	  US	00460	     	US 460	County Dr	123	City of Petersburg	123	City of Petersburg	0.34	SR 106 Courthouse Rd	ECL Petersburg	13000	F	88%	1%	1%	1%	9%	0%	F	0.0867	F	0.0000	14000	F	2008
+040788	CEUS	00460	     	Bus US 460	Airport St	026	Dinwiddie County	026	Dinwiddie County	0.17	I-85; US 460	US 1 Boydton Plank Rd	7100	F	98%	0%	1%	1%	1%	0%	F	0.0856	F	0.0000	7700	F	2008
+140147	CEUS	00460	     	US 1, Bus US 460	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	1.70	US 1 Plank Rd	I-85 SW of Petersburg	12000	F	96%	1%	1%	1%	1%	0%	F	0.0903	F	0.0000	13000	F	2008	
+140148	CEUS	00460	     	US 1, Bus US 460	Boydton Plank Rd	026	Dinwiddie County	026	Dinwiddie County	1.22	I-85 SW of Petersburg	SR 226 Cox Rd	15000	F	97%	0%	1%	1%	1%	0%	C	0.0975	F	0.0000	15000	F	2008	
+140123	CEUS	00460	     	US 1, Bus US 460	 	026	Dinwiddie County	026	Dinwiddie County	0.45	SR 226 Cox Rd	WCL Petersburg	13000	A	98%	0%	1%	1%	1%	0%	C	0.1054	A	0.5244	14000	A	2008	
+658136	CEUS	00460	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.40	WCL Petersburg	Summit St	13000	F	98%	0%	1%	1%	1%	0%	F				14000	F	2008	
+658137	CEUS	00460	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.18	Summit St	Elm St	13000	F	98%	0%	1%	1%	1%	0%	F				14000	F	2008	
+658139	CEUS	00460	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.57	Elm St	US 1 Par; Wythe St	14000	F	96%	1%	1%	1%	1%	0%	F	0.0854	F	0.0000	16000	F	2008	
+658143	CEUS	00460	     	US 1, Bus US 460	Wythe St	123	City of Petersburg	123	City of Petersburg	1.08	US 1 Par, Washington St; Battersea Lane	Perry St	7700	F	96%	1%	1%	1%	1%	0%	C	0.0820	F	1.0000	8300	F	2008		16000	F	96%	1%	1%	1%	1%	0%	F	0.0832	F	0.0000	18000	F
+658144	CEUS	00460	     	US 1, Bus US 460	Wythe St	123	City of Petersburg	123	City of Petersburg	0.15	Perry St	SR 36 Market St	9300	F	96%	1%	1%	1%	1%	0%	F				10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F				20000	F
+658145	CEUS	00460	     	US 1, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	SR 36 Market St	ALT US 301 Sycamore St	10000	F	96%	1%	1%	1%	1%	0%	F				11000	F	2008	
+658051	CEUS	00460	     	US 1, Alt US 301, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	ALT US 301 Sycamore St	US 1 Jefferson St	12000	F	96%	1%	1%	1%	1%	0%	F				13000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+658049	CEUS	00460	     	Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	US 1 Jefferson St	I-85, I-95	16000	F	97%	1%	1%	1%	1%	0%	C	0.0872	F	1.0000	17000	F	2008		31000	F	95%	1%	1%	1%	2%	0%	F	0.0792	F	0.0000	34000	F
+140095	CEUS	00460	     	Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.30	I-85, I-95	SR 36; US 301 Crater Rd	11000	F	97%	1%	1%	1%	1%	0%	F	0.0792	F	1.0000	12000	F	2008		24000	F	95%	1%	1%	1%	2%	0%	F				26000	F
+658111	CEUS	00460	     	US 301, Bus US 460, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.98	SR 36; US 301 Wythe St	Maintenance Jurisdiction Change	11000	F	97%	1%	1%	0%	0%	0%	C	0.0867	F	0.0000	12000	F	2008	
+658154	CEUS	00460	     	US 301, Bus US 460	Crater Rd	123	City of Petersburg	026	Dinwiddie County	0.09	I-95; BUS US 460 Par, Winfield Rd	US 301 Crater Rd	11000	N	97%	1%	1%	0%	0%	0%	N	0.0867	N	0.0000	12000	N	2008	
+789771	CEUS	00460	     	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301North	Bus US 460	12000	F							X				12000	F	2008	
+658142	CEUS	00460	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.31	US 1 Wythe St Battersea Lane	123-9025 West St	8600	F	97%	1%	1%	1%	1%	0%	F	0.0889	F	0.0000	9300	F	2008		16000	F	96%	1%	1%	1%	1%	0%	F	0.0832	F	0.0000	18000	F
+781889	CEUS	00460	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.40	123-9025 West St	123-9029 South St	9200	F	97%	1%	1%	1%	1%	0%	F	0.0890	F	0.0000	10000	F	2008		17000	F	97%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	18000	F
+658141	CEUS	00460	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.27	123-9029 South St	Guarantee St	9500	F	97%	1%	1%	1%	1%	0%	C	0.0867	F	0.0000	10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F				20000	F
+658140	CEUS	00460	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.24	Guarantee St	North Market St	9600	F	97%	1%	1%	1%	1%	0%	F	0.0882	F	0.0000	10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	20000	F
+658138	CEUS	00460	P    	Bus US 460 Par, Bus US 460, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.19	US 1 Par; SR 36 Market St	ALT US 301 Par, Sycamore St	12000	G	95%	1%	2%	1%	1%	0%	C				14000	G	2008		22000	G	96%	1%	2%	1%	1%	0%	F	0.0000	?	0.0000	25000	G
+140157	CEUS	00460	P    	Bus US 460 Par, Alt US 301, Alt US 301 Par, Bus US 460, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.09	ALT US 301 Par, Sycamore St	ALT US 301 Par, Adams St	15000	F	95%	1%	2%	1%	1%	0%	F	0.0794	F	0.0000	16000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+140110	CEUS	00460	P    	Bus US 460 Par, Alt US 301, Bus US 460, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.10	ALT US 301 Par, Adams St	US 1 Jefferson St	14000	F	95%	1%	2%	1%	1%	0%	F	0.0806	F	0.0000	16000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F	0.0000	?	0.0000	29000	F
+140159	CEUS	00460	P    	Bus US 460 Par, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.24	US 1 Jefferson St	I-95	16000	F	93%	1%	1%	2%	3%	0%	F	0.0789	F	0.0000	17000	F	2008		31000	F	95%	1%	1%	1%	2%	0%	F	0.0792	F	0.0000	34000	F
+140111	CEUS	00460	P    	Bus US 460 Par, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.24	I-95	US 301 Crater Rd	13000	F	93%	1%	1%	2%	3%	0%	C	0.0884	F	0.0000	14000	F	2008		24000	F	95%	1%	1%	1%	2%	0%	F				26000	F
+658112	CEUS	00460	P    	US 301, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.10	US 301 Crater Rd	SR 36, BUS US 460 Wythe St	7900	F	97%	1%	1%	0%	0%	0%	F	0.0873	F	0.0000	8600	F	2008	
+658111	CEUS	00460	P    	US 301, Bus US 460, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.98	SR 36, BUS US 460 Wythe St	Maintenance Jurisdiction Change	11000	F	97%	1%	1%	0%	0%	0%	C	0.0867	F	0.0000	12000	F	2008	
+140125	CEUS	00460	P    	Bus US 460 Par, Bus US 460	Winfield Rd	123	City of Petersburg	123	City of Petersburg	0.43	US 301 Crater Rd	State Maintenance Boundary	1500	F	97%	1%	1%	0%	1%	0%	C	0.0963	F	0.9688	1600	F	2008		1500	F							X	0.0000	?	0.0000		
+140126	CEUS	00460	P    	Bus US 460 Par, Bus US 460	Winfield Rd	123	City of Petersburg	026	Dinwiddie County	0.09	State Maintenance Boundary	US 460 County Rd	1500	F	97%	1%	1%	0%	1%	0%	C	0.0963	F	0.9688	1600	F	2008		1500	F							X	0.0000	?	0.0000		
+780336	  FR	00080	     	FR 80	Buckskin Dr	026	Dinwiddie County	026	Dinwiddie County	0.21	SR 40 McKenney Hwy	Dead End	8	R							X						05/14/2008
+780337	  FR	00081	     	FR 81	Frontage Rd	026	Dinwiddie County	026	Dinwiddie County	1.24	Dead End	US 1 Boydton Plank Rd	330	R							X						05/19/2008
+780338	  FR	00082	     	FR 82	Plane Dr	026	Dinwiddie County	026	Dinwiddie County	0.20	US 1 Boydton Plank Rd	26-749	60	R							X						05/19/2008
+780339	  FR	00083	     	FR 83	Rock Rd	026	Dinwiddie County	026	Dinwiddie County	0.10	26-603 Sterling Rd	Dead End	80	R							X						05/15/2008
+780497	  FR	00273	     	FR 273	Mine Mountain Rd	026	Dinwiddie County	026	Dinwiddie County	0.14	Dead End	FR-290 Front Rd	60	R							X						05/21/2008
+780514	  FR	00290	     	FR 290	Front Rd	026	Dinwiddie County	026	Dinwiddie County	0.51	26-1334; 26-1335	Dead End	1300	R							X						05/21/2008
+790796	  FR	00329	     	FR 329	Lake Shore Dr	123	City of Petersburg	074	Prince George County	0.17	Dead End	74-1102 Lakeshore Dr	10	R							X						03/17/2008
+780542	  FR	00330	     	FR 330	N Normandy Dr	123	City of Petersburg	074	Prince George County	2.93	Dead End	FR-331 Service Rd	3700	R							X						03/17/2008
+780543	  FR	00331	     	FR 331	Service Rd	123	City of Petersburg	074	Prince George County	0.78	Dead End	Dead End	1400	R							X						03/17/2008
+780739	  FR	00804	     	FR 804	 	026	Dinwiddie County	026	Dinwiddie County	0.19	Dead End	US 460; 26-721	60	R							X						05/07/2008
+780740	  FR	00805	     	FR 805	 	026	Dinwiddie County	026	Dinwiddie County	0.10	26-627 Courthouse Rd	Dead End	7	R							X						04/30/2008
+780741	  FR	00806	     	FR 806	Walkers Rd	026	Dinwiddie County	026	Dinwiddie County	0.50	26-624 Coleman Lake Rd	Dead End	70	R							X						04/30/2008
+780785	  FR	00855	     	FR 855	Blessing Lane	026	Dinwiddie County	026	Dinwiddie County	0.26	Dead End	US 1 Boydton Plank Rd	50	R							X						05/05/2008
+406408	  26	00600	     	26-600	Ferndale Rd	026	Dinwiddie County	026	Dinwiddie County	0.88	SR 226 Cox Rd	26-601 River Rd	10000	F	98%	0%	1%	1%	0%	0%	C	0.0999	F	0.0000	11000	F	2008
+406409	  26	00600	     	26-600	Ferndale Rd	026	Dinwiddie County	026	Dinwiddie County	0.53	26-601 River Rd	Chesterfield County Line	7000	F	98%	0%	1%	1%	0%	0%	F	0.1085	F	0.0000	7600	F	2008
+406410	  26	00601	     	26-601	River Rd	026	Dinwiddie County	026	Dinwiddie County	0.52	26-708 Namozine Rd	26-743 Hart Rd	730	F	98%	0%	0%	1%	0%	0%	F	0.1119	F	0.6791	800	F	2008
+406411	  26	00601	     	26-601	River Rd	026	Dinwiddie County	026	Dinwiddie County	3.25	26-743 Hart Rd	26-718 Henshaw Dr	1500	F	98%	0%	0%	1%	0%	0%	F	0.1079	F	0.6512	1600	F	2008
+406412	  26	00601	     	26-601	River Rd	026	Dinwiddie County	026	Dinwiddie County	1.92	26-718 Henshaw Dr	26-600 River Rd	6500	F	98%	0%	0%	1%	0%	0%	C	0.0989	F	0.6671	7100	F	2008
+720910	  26	00602	     	26-602	Corinth Dr	026	Dinwiddie County	026	Dinwiddie County	0.20	US 460 W; 26-622	US 460 EAST	110	R							X						04/28/2008
+720911	  26	00603	     	26-603	Weakley Rd	026	Dinwiddie County	026	Dinwiddie County	0.50	26-672 Church Rd	SR 142 Simpson Rd; 26-1320; Gap	1100	R							X						05/19/2008
+406413	  26	00603	     	26-603	Sterling Rd	026	Dinwiddie County	026	Dinwiddie County	0.23	US 1;  US 460; Gap	26-1362 Oak Ct	1800	F	99%	1%	0%	0%	0%	0%	F	0.1001	F	0.6298	1900	F	2008
+406414	  26	00603	     	26-603	Sterling Rd	026	Dinwiddie County	026	Dinwiddie County	0.68	26-1362 Oak Ct	26-1319 Short St	1800	F	99%	1%	0%	0%	0%	0%	C	0.1031	F	0.5594	2000	F	2008
+406415	  26	00603	     	26-603	Sterling Rd	026	Dinwiddie County	026	Dinwiddie County	0.27	26-1319 Short St	SR 226 Cox Rd	1600	F	99%	1%	0%	0%	0%	0%	F	0.0992	F	0.6165	1700	F	2008
+406417	  26	00604	     	26-604	Halifax Rd	026	Dinwiddie County	026	Dinwiddie County	1.87	Prince George County Line	26-605 S, Ellington Rd	630	F	98%	0%	0%	0%	1%	0%	F	0.0999	F	0.6286	670	F	2008
+406418	  26	00604	     	26-604	Halifax Rd	026	Dinwiddie County	026	Dinwiddie County	2.96	26-605 S, Ellington Rd	26-607 Butler Branch Rd	1100	F	98%	0%	0%	0%	1%	0%	F	0.1023	F	0.7831	1100	F	2008
+406419	  26	00604	     	26-604	Halifax Rd	026	Dinwiddie County	026	Dinwiddie County	1.88	26-607 Butler Branch Rd	Urban Boundary	1600	F	98%	0%	0%	0%	1%	0%	F	0.0995	F	0.7459	1700	F	2008
+406420	  26	00604	     	26-604	Halifax Rd	026	Dinwiddie County	026	Dinwiddie County	0.49	Urban Boundary	26-677 Carson Rd	1700	F	98%	0%	0%	0%	1%	0%	F	0.1014	F	0.7394	1800	F	2008
+406421	  26	00604	     	26-604	Halifax Rd	026	Dinwiddie County	026	Dinwiddie County	0.63	26-677 Carson Rd	SCL Petersburg	2600	F	98%	0%	0%	0%	1%	0%	C	0.0936	F	0.5649	2800	F	2008
+720912	  26	00605	     	26-605	Hunnicut Rd	026	Dinwiddie County	026	Dinwiddie County	2.53	US 1 Boydton Plank Rd	26-660 E, Quaker Rd	600	R							X						05/15/2008
+720913	  26	00605	     	26-605	Old Vaughan Rd	026	Dinwiddie County	026	Dinwiddie County	3.20	26-660 E, Quaker Rd	26-670 W, Old Stage Rd	430	R							X						05/15/2008
+406422	  26	00605	     	26-605	Old Vaughan Rd	026	Dinwiddie County	026	Dinwiddie County	0.08	26-670 W, Old Stage Rd	26-670 E, Duncan Rd	790	F	95%	3%	0%	1%	1%	0%	C	0.1002	F	0.6067	850	F	2008
+720914	  26	00605	     	26-605	Old Stage Rd	026	Dinwiddie County	026	Dinwiddie County	0.50	26-670 E, Duncan Rd	26-669; Monks Neck Rd	610	R							X						05/15/2008
+720915	  26	00605	     	26-605	Monks Neck Rd	026	Dinwiddie County	026	Dinwiddie County	4.49	26-669 Old Stage Rd	26-604 N, Halifax Rd	370	R							X						05/15/2008
+720916	  26	00605	     	26-605	Ellington Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	26-604 S, Halifax Rd	Prince George County Line	350	R							X						05/15/2008
+720917	  26	00606	     	26-606	Reams Dr	026	Dinwiddie County	026	Dinwiddie County	2.00	26-669 Old Stage Rd	26-604 S, Halifax Rd	410	R							X						05/19/2008
+720918	  26	00606	     	26-606	Oak Grove Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	26-604 N, Halifax Rd	Prince George County Line	220	R							X						05/19/2008
+720919	  26	00607	     	26-607	Butler Branch Rd	026	Dinwiddie County	026	Dinwiddie County	1.50	26-604 Halifax Rd	Prince George County Line	370	R							X						05/19/2008
+720920	  26	00608	     	26-608	Zion Rd	026	Dinwiddie County	026	Dinwiddie County	0.46	US 460	26-622 Baltimore Rd	130	R							X						04/28/2008
+720921	  26	00609	     	26-609	Cherry Hill Rd	026	Dinwiddie County	026	Dinwiddie County	0.80	Brunswick County Line	26-687 Cutbank Rd	150	R							X						05/12/2008
+720922	  26	00609	     	26-609	Cherryhill Rd	026	Dinwiddie County	026	Dinwiddie County	3.40	26-687 Cutbank Rd	26-616 Ridge Rd	30	R							X						05/12/2008
+720923	  26	00609	     	26-609	Old Stage Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	26-616 Ridge Rd	SR 40 McKenney Hwy	120	R							X						05/12/2008
+720924	  26	00609	     	26-609	Cherry Hill Rd	026	Dinwiddie County	026	Dinwiddie County	2.30	SR 40 McKenney Hwy	26-619 S, Courthouse Rd	50	R							X						05/12/2008
+720925	  26	00609	     	26-609	Old Stage Rd	026	Dinwiddie County	026	Dinwiddie County	1.58	26-619 N, Courthouse Rd	26-664 Reese Rd	190	R							X						05/12/2008
+720926	  26	00609	     	26-609	Old Stage Rd	026	Dinwiddie County	026	Dinwiddie County	2.90	26-664 Reese Rd	26-626 Flatfoot Rd	160	R							X						06/08/2005
+406423	  26	00609	     	26-609	Old Stage Rd	026	Dinwiddie County	026	Dinwiddie County	2.20	26-626 Flatfoot Rd	26-670 Old Stage Rd; Shady Lane	330	F	93%	2%	0%	4%	1%	0%	C	0.0960	F	0.5294	360	F	2008
+406424	  26	00610	     	26-610	Baskerville Mill Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	Brunswick County Line	SR 40 McKenney Hwy; Old Cryors Rd	140	F	95%	3%	1%	0%	2%	0%	C	0.1346	F	0.8095	150	F	2008
+406425	  26	00610	     	26-610	Old White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	0.50	SR 40 McKenney Hwy; Old Cryors Rd	26-650 Lew Jones Rd	140	F	95%	3%	1%	0%	2%	0%	F	0.1069	F	0.7297	160	F	2008
+720927	  26	00610	     	26-610	Old White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	0.20	26-650 Lew Jones Rd	26-701 Quail Hollow Rd	220	R							X						04/28/2008
+720928	  26	00610	     	26-610	Old White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	2.40	26-701 Quail Hollow Rd	26-651 Whitmore Rd	170	R							X						04/28/2008
+720929	  26	00610	     	26-610	Old White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	26-651 Whitmore Rd	26-644 Brills Rd	210	R							X						04/28/2008
+720930	  26	00610	     	26-610	Old White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-644 Brills Rd	26-645 Scotts Rd	280	R							X						04/28/2008
+720931	  26	00610	     	26-610	Old White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	2.30	26-645 Scotts Rd	26-622 Baltimore Rd	20	R							X						04/28/2008
+720932	  26	00610	     	26-610	Old White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	0.90	26-622 Baltimore Rd	26-613 White Oak Rd	230	R							X						04/28/2008
+406426	  26	00611	     	26-611	Wilkinson Rd	026	Dinwiddie County	026	Dinwiddie County	3.44	26-627 Courthouse Rd	26-645 Wheelers Pond Rd	500	F	96%	3%	0%	0%	0%	0%	C	0.1184	F	0.6066	540	F	2008
+406427	  26	00611	     	26-611	Wilkinson Rd	026	Dinwiddie County	026	Dinwiddie County	1.82	26-645 Wheelers Pond Rd	26-613 White Oak Rd	340	F	96%	3%	0%	0%	0%	0%	F	0.0948	F	0.6027	370	F	2008
+406428	  26	00611	     	26-611	Trinity Church Rd	026	Dinwiddie County	026	Dinwiddie County	3.25	26-613 White Oak Rd	US 460	170	F	96%	3%	0%	0%	0%	0%	F	0.0993	F	0.5349	180	F	2008
+720933	  26	00611	     	26-611	Trinity Church Rd	026	Dinwiddie County	026	Dinwiddie County	0.15	US 460	26-751 S; 26-752	1000	R							X						05/05/2008
+720934	  26	00611	     	26-611	Trinity Church Rd	026	Dinwiddie County	026	Dinwiddie County	0.92	26-751 N; 26-716	26-731 Ruth Hill Rd	880	R							X						05/05/2008
+720935	  26	00611	     	26-611	Trinity Church Rd	026	Dinwiddie County	026	Dinwiddie County	0.79	26-731 Ruth Hill Rd	26-723 Pearson Hardy Rd	460	R							X						05/05/2008
+720936	  26	00611	     	26-611	Brown Rd	026	Dinwiddie County	026	Dinwiddie County	0.99	26-723 Pearson Hardy Rd	26-624 Coleman Lake Rd	350	R							X						05/05/2008
+720937	  26	00611	     	26-611	Brown Rd	026	Dinwiddie County	026	Dinwiddie County	3.08	26-624 Coleman Lake Rd	26-708 E, Namozine Rd	380	R							X						05/05/2008
+720938	  26	00611	     	26-611	Brown Rd	026	Dinwiddie County	026	Dinwiddie County	0.36	26-708 W, Namozine Rd	26-747 Wheelers Lane	230	R							X						05/05/2008
+720939	  26	00611	     	26-611	Exeter Mill Rd	026	Dinwiddie County	026	Dinwiddie County	1.45	26-747 Wheelers Lane	26-623 Sutherland Rd	130	R							X						05/05/2008
+406429	  26	00612	     	26-612	Harpers Bridge Rd	026	Dinwiddie County	026	Dinwiddie County	0.10	Brunswick County Line	26-638 Harpers Rd	250	F	96%	2%	1%	0%	1%	0%	F	0.1149	F	0.5672	270	F	2008
+406430	  26	00612	     	26-612	Old Beaver Pond Rd	026	Dinwiddie County	026	Dinwiddie County	0.77	26-638 Harpers Rd	SR 40 Old Cryors Rd	340	F	96%	2%	1%	0%	1%	0%	C	0.1140	F	0.6750	370	F	2008
+720940	  26	00613	     	26-613	Gills Bridge Rd	026	Dinwiddie County	026	Dinwiddie County	1.12	Brunswick County Line	26-638 Harpers Rd	190	R							X						05/05/2008
+720941	  26	00613	     	26-613	Gills Bridge Rd	026	Dinwiddie County	026	Dinwiddie County	1.92	26-638 Harpers Rd	26-651 Whitmore Rd	190	R							X						05/05/2008
+720942	  26	00613	     	26-613	Gills Bridge Rd	026	Dinwiddie County	026	Dinwiddie County	1.82	26-651 Whitmore Rd	SR 40 W, Darvills Rd	150	R							X						05/05/2008
+406431	  26	00613	     	26-613	White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	7.37	SR 40 E, Darvills Rd	26-622 Baltimore Rd	190	F	92%	3%	0%	1%	4%	0%	C	0.1262	F	0.6154	210	F	2008
+720943	  26	00613	     	26-613	White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	0.93	26-622 Baltimore Rd	26-646 Glebe Rd	370	F	92%	3%	0%	1%	4%	0%	F	0.1373	F	0.6857	400	F	2008
+720944	  26	00613	     	26-613	Whie Oak Rd	026	Dinwiddie County	026	Dinwiddie County	1.13	26-646 Glebe Rd	26-624 W, Coleman Lake Rd	270	R							X						05/07/2008
+720945	  26	00613	     	26-613	White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	1.93	26-624 W, Coleman Lake Rd	26-611 Wilkinson Rd	430	R							X						05/07/2008
+720946	  26	00613	     	26-613	White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	3.27	26-611 Wilkinson Rd	26-627; 26-645	430	R							X						05/07/2008
+720947	  26	00613	     	26-613	White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	1.38	26-627; 26-645	26-628 Tranquility Lane	350	R							X						05/07/2008
+720948	  26	00613	     	26-613	White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	1.26	26-628 Tranquility Lane	26-661 Boisseau Rd	570	R							X						05/07/2008
+406433	  26	00613	     	26-613	White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	1.77	26-661 Boisseau Rd	26-631 Claiborne Rd	1100	F	92%	3%	0%	1%	4%	0%	F	0.1223	F	0.6111	1200	F	2008
+406434	  26	00613	     	26-613	White Oak Rd	026	Dinwiddie County	026	Dinwiddie County	1.71	26-631 Claiborne Rd	US 1 N, Boydton Plank Rd	1300	F	94%	2%	0%	2%	2%	0%	F	0.0978	F	0.6312	1400	F	2008
+406435	  26	00613	     	26-613	Dabney Mill Rd	026	Dinwiddie County	026	Dinwiddie County	1.70	US 1 S, Boydton Plank Rd	26-758 Steers Rd	970	F	94%	2%	0%	2%	2%	0%	C	0.1162	F	0.5492	1000	F	2008
+406436	  26	00613	     	26-613	Dabney Mill Rd	026	Dinwiddie County	026	Dinwiddie County	1.22	26-758 Steers Rd	26-670 W, Duncan Rd	430	F	94%	2%	0%	2%	2%	0%	F	0.1112	F	0.7193	460	F	2008
+406437	  26	00613	     	26-613	Dabney Mill Rd	026	Dinwiddie County	026	Dinwiddie County	0.51	26-670 W, Duncan Rd	26-670 E, Duncan Rd	430	F	94%	2%	0%	2%	2%	0%	F	0.1088	F	0.5755	460	F	2008
+406438	  26	00613	     	26-613	Squirrel Level Rd	026	Dinwiddie County	026	Dinwiddie County	1.43	26-670 E, Duncan Rd	26-742 Plantation Rd	270	F	94%	2%	0%	2%	2%	0%	F	0.1421	F	0.5062	290	F	2008
+406439	  26	00613	     	26-613	Squirrel Level Rd	026	Dinwiddie County	026	Dinwiddie County	0.86	26-742 Plantation Rd	26-1120 Tanglewood Rd	370	F	94%	2%	0%	2%	2%	0%	F	0.1105	F	0.5814	390	F	2008
+406440	  26	00613	     	26-613	Squirrel Level Rd	026	Dinwiddie County	026	Dinwiddie County	1.39	26-1120 Tanglewood Rd	26-741 Fort Emery Rd	890	F	94%	2%	0%	2%	2%	0%	F	0.1047	F	0.6916	950	F	2008
+406441	  26	00613	     	26-613	Squirrel Level Rd	026	Dinwiddie County	026	Dinwiddie County	0.43	26-741 Fort Emery Rd	26-672 Church Rd	1100	F	94%	2%	0%	2%	2%	0%	F	0.1019	F	0.6412	1200	F	2008
+406442	  26	00613	     	26-613	Squirrel Level Rd	026	Dinwiddie County	026	Dinwiddie County	0.56	26-672 Church Rd	26-676 Flank Rd	800	F	94%	2%	0%	2%	2%	0%	F	0.1683	F	0.5516	870	F	2008
+406443	  26	00613	     	26-613	Squirrel Level Rd	026	Dinwiddie County	026	Dinwiddie County	1.03	26-676 Flank Rd	SCL Petersburg	820	F	94%	2%	0%	2%	2%	0%	F	0.1640	F	0.5440	890	F	2008
+720949	  26	00614	     	26-614	Sunnyside Dr	026	Dinwiddie County	026	Dinwiddie County	1.23	SR 40 W, McKenney Hwy	WCL McKenney	360	R							X						05/07/2008
+785084	  26	00614	     	26-614	Sunnyside Dr	257	Town of McKenney	026	Dinwiddie County	0.30	WCL McKenney	SR 40 E, Doyle Blvd	240	R							X						08/14/2002
+720950	  26	00615	     	26-615	Blue Tartan Rd	026	Dinwiddie County	026	Dinwiddie County	0.42	Dead End	0.42 MN Dead End	60	R							X						05/02/2005
+720951	  26	00615	     	26-615	Blue Tartan Rd	026	Dinwiddie County	026	Dinwiddie County	0.90	0.42 MN Dead End	FR-81 Frontage Rd	220	R							X						05/02/2005
+720952	  26	00616	     	26-616	Ridge Rd	026	Dinwiddie County	026	Dinwiddie County	2.20	Sussex County Line	26-617 Bolster Rd	70	R							X						05/12/2008
+720953	  26	00616	     	26-616	Ridge Rd	026	Dinwiddie County	026	Dinwiddie County	1.90	26-617 Bolster Rd	26-609 Cherryhill Rd	80	R							X						05/12/2008
+720954	  26	00617	     	26-617	Bolster Rd	026	Dinwiddie County	026	Dinwiddie County	1.50	26-616 Ridge Rd	26-619 W, Courthouse Rd	270	R							X						05/12/2008
+720955	  26	00617	     	26-617	Bolster Rd	026	Dinwiddie County	026	Dinwiddie County	1.70	26-619 E, Courthouse Rd	26-665 Walkers Mill Rd	260	R							X						05/12/2008
+720956	  26	00618	     	26-618	Halligan Park Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	Sussex County Line	26-666 Baugh Rd	320	R							X						05/19/2008
+720957	  26	00618	     	26-618	Halligan Park Rd	026	Dinwiddie County	026	Dinwiddie County	2.82	26-666 Baugh Rd	26-703 Carson Rd	410	R							X						05/19/2008
+406444	  26	00619	     	26-619	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	3.59	Sussex County Line	SR 40 McKenney Hwy	500	F	97%	1%	1%	0%	0%	0%	F	0.1086	F	0.5042	530	F	2008
+406445	  26	00619	     	26-619	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	7.05	SR 40 McKenney Hwy	26-650 Hawkins Church Rd	620	F	97%	1%	1%	0%	0%	0%	F	0.0953	F	0.5448	670	F	2008
+406446	  26	00619	     	26-619	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	0.86	26-650 Hawkins Church Rd	26-626 Flatfoot Rd	1300	F	97%	1%	1%	0%	0%	0%	F	0.1031	F	0.6339	1400	F	2008
+406447	  26	00619	     	26-619	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	1.06	26-626 Flatfoot Rd	26-679 Lundys Rd	1300	F	97%	1%	1%	0%	0%	0%	F	0.1055	F	0.6250	1400	F	2008
+406448	  26	00619	     	26-619	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	0.25	26-679 Lundys Rd	26-1414 Bishop Rd	1500	F	97%	1%	1%	0%	0%	0%	F	0.1050	F	0.6195	1600	F	2008
+406449	  26	00619	     	26-619	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	0.59	26-1414 Bishop Rd	US 1 Boydton Plank Rd	1700	F	97%	1%	1%	0%	0%	0%	C	0.1047	F	0.5940	1900	F	2008
+720958	  26	00620	     	26-620	Foster Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-639 Wilson Rd	26-642 W, Grubby Rd	40	R							X						04/28/2008
+720959	  26	00620	     	26-620	White Oak Church Rd	026	Dinwiddie County	026	Dinwiddie County	1.80	26-642 E, Grubby Rd	US 460 WEST	420	R							X						04/28/2008
+720960	  26	00620	     	26-620	White Oak Church Rd	026	Dinwiddie County	026	Dinwiddie County	1.90	US 460 EAST	Dead End	60	R							X						04/28/2008
+720961	  26	00621	     	26-621	Clay Street Rd	026	Dinwiddie County	026	Dinwiddie County	1.60	US 460	1.60 MN US 460	310	R							X						06/08/2005
+720962	  26	00621	     	26-621	Clay Street Rd	026	Dinwiddie County	026	Dinwiddie County	0.40	1.60 MN US 460	Dead End	220	R							X						06/08/2005
+720963	  26	00622	     	26-622	Baltimore Rd	026	Dinwiddie County	026	Dinwiddie County	1.60	26-650 Lew Jones Rd	26-647 Doyle Rd	40	R							X						04/28/2008
+720964	  26	00622	     	26-622	Baltimore Rd	026	Dinwiddie County	026	Dinwiddie County	3.70	26-647 Doyle Rd	26-610 Old White Oak Rd	60	R							X						04/28/2008
+720965	  26	00622	     	26-622	Baltimore Rd	026	Dinwiddie County	026	Dinwiddie County	0.80	26-610 Old White Oak Rd	26-613 W, White Oak Rd	110	R							X						04/28/2008
+406450	  26	00622	     	26-622	Baltimore Rd	026	Dinwiddie County	026	Dinwiddie County	3.50	26-613 E, White Oak Rd	US 460; 26-602	760	F	93%	1%	1%	1%	5%	0%	C	0.1172	F	0.6354	820	F	2008
+720966	  26	00622	     	26-622	Baltimore Rd	026	Dinwiddie County	026	Dinwiddie County	1.66	US 460; 26-602	26-694 Old Pine Rd	340	R							X						04/28/2008
+720967	  26	00622	     	26-622	Baltimore Rd	026	Dinwiddie County	026	Dinwiddie County	2.10	26-694 Old Pine Rd	Amelia County Line	1100	R							X						04/28/2008
+720968	  26	00623	     	26-623	 	026	Dinwiddie County	026	Dinwiddie County	2.00	Amelia County Line	26-611 Wilkinson Rd	590	R							X						05/05/2008
+720969	  26	00623	     	26-623	Sutherland Rd	026	Dinwiddie County	026	Dinwiddie County	3.28	26-611 Wilkinson Rd	26-750 Oxford Rd	970	R							X						05/05/2008
+720970	  26	00623	     	26-623	Sutherland Rd	026	Dinwiddie County	026	Dinwiddie County	0.62	26-750 Oxford Rd	26-708 Namozine Rd	1500	R							X						05/05/2008
+720971	  26	00623	     	26-623	Station Rd	026	Dinwiddie County	026	Dinwiddie County	0.42	26-708 Namozine Rd	26-760 Southerland Ave	200	R							X						05/05/2008
+720972	  26	00623	     	26-623	Station Rd	026	Dinwiddie County	026	Dinwiddie County	0.68	26-760 Southerland Ave	US 460 Cox Rd	300	R							X						05/05/2008
+720973	  26	00624	     	26-624	Coleman Lake Rd	026	Dinwiddie County	026	Dinwiddie County	2.60	26-645 Wheelers Pond Rd	26-613 W, White Oak Rd	150	R							X						04/30/2008
+720974	  26	00624	     	26-624	Coleman Lake Rd	026	Dinwiddie County	026	Dinwiddie County	3.80	26-613 E, White Oak Rd	US 460; FR-806	560	R							X						04/30/2008
+720975	  26	00624	     	26-624	Coleman Lake Rd	026	Dinwiddie County	026	Dinwiddie County	6.00	US 460; FR-806	26-611 Wilkinson Rd	470	R							X						04/30/2008
+720976	  26	00625	     	26-625	Wells Rd	026	Dinwiddie County	026	Dinwiddie County	3.52	US 460	Amelia County Line	290	R							X						04/28/2008
+406451	  26	00626	     	26-626	Flatfoot Rd	026	Dinwiddie County	026	Dinwiddie County	5.67	SR 40 McKenney Hwy	26-609 Old Stage Rd	320	F	95%	2%	1%	0%	3%	0%	F	0.1326	F	0.5208	340	F	2008
+406452	  26	00626	     	26-626	Flatfoot Rd	026	Dinwiddie County	026	Dinwiddie County	4.09	26-609 Old Stage Rd	26-1410 Allen Dr	450	F	95%	2%	1%	0%	3%	0%	F	0.1201	F	0.6387	480	F	2008
+406453	  26	00626	     	26-626	Flatfoot Rd	026	Dinwiddie County	026	Dinwiddie County	0.43	26-1410 Allen Dr	26-619 Courthouse Rd	1100	F	95%	2%	1%	0%	3%	0%	C	0.0995	F	0.5935	1200	F	2008
+406454	  26	00627	     	26-627	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	0.90	US 1 Boydton Plank Rd	26-611 Wilkinson Rd	2500	F	97%	1%	0%	1%	1%	0%	C	0.1289	F	0.5831	2700	F	2008
+406455	  26	00627	     	26-627	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	26-611 Wilkinson Rd	26-661 Boisseau Rd	2100	F	97%	1%	0%	1%	1%	0%	F	0.1497	F	0.7519	2200	F	2008
+720977	  26	00627	     	26-627	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	2.81	26-661 Boisseau Rd	26-613; 26-645	1900	R							X						05/21/2008
+720978	  26	00627	     	26-627	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	2.61	26-613; 26-645	US 460 New Cox Rd	2200	R							X						05/21/2008
+720979	  26	00627	     	26-627	Courthouse Rd	026	Dinwiddie County	026	Dinwiddie County	0.80	US 460 New Cox Rd	26-751 E, Cox Rd	1000	R							X						05/21/2008
+720980	  26	00627	     	26-627	Trinity Church Rd	026	Dinwiddie County	026	Dinwiddie County	2.20	26-751 W, Cox Rd	26-611 Wilkinson Rd	340	R							X						05/21/2008
+720981	  26	00628	     	26-628	Tranquility Lane	026	Dinwiddie County	026	Dinwiddie County	0.33	Dead End	26-613 White Oak Rd	70	R							X						05/21/2008
+720982	  26	00628	     	26-628	Tranquility Lane	026	Dinwiddie County	026	Dinwiddie County	3.10	26-613 White Oak Rd	26-689 Bobcat Rd	70	R							X						05/21/2008
+720983	  26	00628	     	26-628	Tranquility Lane	026	Dinwiddie County	026	Dinwiddie County	0.87	26-689 Bobcat Rd	26-756 Slates Rd	280	R							X						05/02/2005
+720984	  26	00628	     	26-628	Tranquility Lane	026	Dinwiddie County	026	Dinwiddie County	0.70	26-756 Slates Rd	US 460 New Cox Rd	590	R							X						05/21/2008
+720985	  26	00628	     	26-628	Tranquility Lane	026	Dinwiddie County	026	Dinwiddie County	0.09	US 460 New Cox Rd	26-751 Cox Rd	1100	R							X						05/21/2008
+720986	  26	00629	     	26-629	Anderson Mill Rd	026	Dinwiddie County	026	Dinwiddie County	0.93	26-627 Courthouse Rd	26-689 Bobcat Rd	340	R							X						04/30/2008
+720987	  26	00629	     	26-629	Anderson Mill Rd	026	Dinwiddie County	026	Dinwiddie County	0.25	26-689 Bobcat Rd	Dead End	10	R							X						04/30/2008
+720988	  26	00630	     	26-630	Winfield Rd	026	Dinwiddie County	026	Dinwiddie County	0.30	Sussex County Line	SR 40 McKenney Hwy	290	R							X						05/12/2008
+720989	  26	00631	     	26-631	Claiborne Rd	026	Dinwiddie County	026	Dinwiddie County	2.70	26-613 White Oak Rd	26-690 Harris Rd	920	R							X						05/07/2008
+720990	  26	00631	     	26-631	Claiborne Rd	026	Dinwiddie County	026	Dinwiddie County	0.80	26-690 Harris Rd	US 460; 26-708	2200	R							X						05/07/2008
+720991	  26	00632	     	26-632	Butterwood Rd	026	Dinwiddie County	026	Dinwiddie County	3.00	26-631 Claiborne Rd	US 460 E, Cox Rd	800	R							X						05/07/2008
+406456	  26	00632	     	26-632	Olgers Dr	026	Dinwiddie County	026	Dinwiddie County	1.20	US 460 W, Cox Rd	26-601 River Rd	1800	F	97%	1%	1%	0%	0%	0%	C	0.1178	F	0.6229	2000	F	2008
+720992	  26	00633	     	26-633	Addison St	026	Dinwiddie County	026	Dinwiddie County	0.50	SR 226 W, Cox Rd	SR 226 E, Cox Rd	120	R							X						05/21/2008
+720993	  26	00634	     	26-634	Pine Grove Pl	026	Dinwiddie County	026	Dinwiddie County	0.25	US 1 Boydton Plank Rd	Dead End	260	R							X						05/19/2008
+720994	  26	00635	     	26-635	Hilltop Dr	026	Dinwiddie County	026	Dinwiddie County	0.40	Dead End	SR 40 McKenney Hwy	330	R							X						05/07/2008
+720995	  26	00636	     	26-636	Rocky Branch Rd	026	Dinwiddie County	026	Dinwiddie County	0.27	Dead End	US 460 Cox Rd	110	R							X						05/23/2005
+720996	  26	00637	     	26-637	Madison Rd	026	Dinwiddie County	026	Dinwiddie County	0.49	26-645 Wheelers Pond Rd	Dead End	120	R							X						04/30/2008
+720997	  26	00638	     	26-638	Harpers Rd	026	Dinwiddie County	026	Dinwiddie County	2.00	26-613 Gills Bridge Rd	26-702 Lennie Rd	250	R							X						05/05/2008
+720998	  26	00638	     	26-638	Harpers Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-702 Lennie Rd	26-612 Harpers Bridge Rd	280	R							X						05/05/2008
+720999	  26	00639	     	26-639	Wilson Rd	026	Dinwiddie County	026	Dinwiddie County	0.90	Nottoway County Line	US 460 WEST	280	R							X						04/28/2008
+721000	  26	00639	     	26-639	Springston Rd/Wilson Rd	026	Dinwiddie County	026	Dinwiddie County	1.98	US 460 EAST	26-642 W, Grubby Rd	290	R							X						04/28/2008
+406457	  26	00639	     	26-639	Grubby Rd	026	Dinwiddie County	026	Dinwiddie County	0.20	26-642 W, Grubby Rd	26-642 E, Grubby Rd	210	F	94%	4%	0%	1%	1%	0%	C	0.1224	F	0.7586	230	F	2008
+721001	  26	00639	     	26-639	Wilson Rd	026	Dinwiddie County	026	Dinwiddie County	1.60	26-642 E, Grubby Rd	26-620 Foster Rd	210	R							X						04/28/2008
+721002	  26	00639	     	26-639	Wilson Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	26-620 Foster Rd	26-613 White Oak Rd	290	R							X						04/28/2008
+721003	  26	00640	     	26-640	Hobbs Mill Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	US 460	Nottoway County Line	160	R							X						04/28/2008
+721004	  26	00641	     	26-641	Airport Rd	026	Dinwiddie County	026	Dinwiddie County	0.55	US 1 Boydton Plank Rd	Dead End	270	R							X						05/22/2008
+406458	  26	00642	     	26-642	W Zilles Rd	026	Dinwiddie County	026	Dinwiddie County	1.82	US 460	26-643 Zilles Rd	340	F	89%	1%	0%	1%	8%	0%	C	0.1175	F	0.7209	360	F	2008
+406459	  26	00642	     	26-642	Grubby Rd	026	Dinwiddie County	026	Dinwiddie County	0.60	26-643 Zilles Rd	26-639 W, Grubby Rd	130	F	89%	1%	0%	1%	8%	0%	F	0.1523	F	0.7391	140	F	2008
+406460	  26	00642	     	26-642	Grubby Rd	026	Dinwiddie County	026	Dinwiddie County	2.00	26-639 E, Wilson Rd	26-620 E, White Oak Church Rd	140	F	89%	1%	0%	1%	8%	0%	F	0.1424	F	0.5217	150	F	2008
+406461	  26	00642	     	26-642	Grubby Rd	026	Dinwiddie County	026	Dinwiddie County	2.40	26-620 E, White Oak Church Rd	26-613 White Oak Rd	120	F	89%	1%	0%	1%	8%	0%	F	0.1234	F	0.5897	130	F	2008
+721005	  26	00642	     	26-642	Continental Rd	026	Dinwiddie County	026	Dinwiddie County	1.52	26-613 White Oak Rd	1.52 ME 26-613 White Oak Rd	80	R							X						04/28/2008
+721006	  26	00642	     	26-642	Continental Rd	026	Dinwiddie County	026	Dinwiddie County	0.83	1.52 ME 26-613 White Oak Rd	26-644 Brills Rd	70	R							X						05/12/2005
+721007	  26	00643	     	26-643	Zilles Rd	026	Dinwiddie County	026	Dinwiddie County	3.20	SR 40 Darvills Rd	26-642 Grubby Rd	350	R							X						05/27/2008
+406462	  26	00644	     	26-644	Depot Rd	257	Town of McKenney	026	Dinwiddie County	0.20	SR 40 Doyle Blvd	NCL McKenney	590	F	93%	2%	1%	0%	4%	0%	F	0.1249	F	0.6158	630	F	2008
+406463	  26	00644	     	26-644	Depot Rd	026	Dinwiddie County	026	Dinwiddie County	1.92	NCL McKenney	26-650 Lew Jones Rd	430	F	93%	2%	1%	0%	4%	0%	C	0.1226	F	0.5873	460	F	2008
+721008	  26	00644	     	26-644	Brills Rd	026	Dinwiddie County	026	Dinwiddie County	2.50	26-650 Lew Jones Rd	26-610 Old White Oak Rd	390	R							X						04/28/2008
+721009	  26	00644	     	26-644	Brills Rd	026	Dinwiddie County	026	Dinwiddie County	2.50	26-610 Old White Oak Rd	26-642 Continental Rd	110	R							X						04/28/2008
+721010	  26	00644	     	26-644	Brills Rd	026	Dinwiddie County	026	Dinwiddie County	2.50	26-642 Continental Rd	SR 40 Old Cryors Rd; Darvills Rd	120	R							X						04/28/2008
+721011	  26	00645	     	26-645	Scotts Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	26-610 Old White Oak Rd	26-622 Baltimore Rd	200	R							X						05/07/2008
+721012	  26	00645	     	26-645	Scotts Rd	026	Dinwiddie County	026	Dinwiddie County	1.80	26-622 Baltimore Rd	26-646 W, Glebe Rd	430	R							X						05/07/2008
+721013	  26	00645	     	26-645	Scotts Rd	026	Dinwiddie County	026	Dinwiddie County	1.60	26-646 E, Glebe Rd	26-738 Scotts Rd	430	R							X						05/07/2008
+721014	  26	00645	     	26-645	Wheelers Pond Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	26-738 Scotts Rd	26-637 Madison Rd	290	R							X						05/07/2008
+721015	  26	00645	     	26-645	Wheelers Pond Rd	026	Dinwiddie County	026	Dinwiddie County	0.73	26-637 Madison Rd	26-715 Patillo Rd	260	R							X						05/07/2008
+721016	  26	00645	     	26-645	Wheelers Pond Rd	026	Dinwiddie County	026	Dinwiddie County	1.07	26-715 Patillo Rd	26-611 Wilkinson Rd	410	R							X						05/07/2008
+721017	  26	00645	     	26-645	Wheelers Pond Rd	026	Dinwiddie County	026	Dinwiddie County	2.50	26-611 Wilkinson Rd	26-613; 26-627	520	R							X						05/07/2008
+406464	  26	00646	     	26-646	Glebe Rd	026	Dinwiddie County	026	Dinwiddie County	6.00	US 1 Boydton Plank Rd	26-613 Old White Oak Rd	290	F	94%	0%	0%	1%	4%	0%	C	0.1310	F	0.6053	310	F	2008
+721018	  26	00647	     	26-647	Doyle Rd	026	Dinwiddie County	026	Dinwiddie County	1.00	26-622 Baltimore Rd	26-648 Hudgins Rd	40	R							X						05/07/2008
+721019	  26	00647	     	26-647	Nash Rd	026	Dinwiddie County	026	Dinwiddie County	1.60	26-648 Hudgins Rd	26-646 S, Glebe Rd	200	R							X						05/07/2008
+721020	  26	00647	     	26-647	Nash Rd	026	Dinwiddie County	026	Dinwiddie County	2.24	26-646 N, Glebe Rd	26-738 Scotts Rd	350	R							X						05/07/2008
+721021	  26	00647	     	26-647	Nash Rd	026	Dinwiddie County	026	Dinwiddie County	1.92	26-738 Scotts Rd	26-656 Gatewood Rd	730	R							X						05/07/2008
+721022	  26	00647	     	26-647	Nash Rd	026	Dinwiddie County	026	Dinwiddie County	0.94	26-656 Gatewood Rd	US 1 Boydton Plank Rd	880	R							X						05/07/2008
+721023	  26	00648	     	26-648	Hudgins Rd	026	Dinwiddie County	026	Dinwiddie County	1.50	26-650 Lew Jones Rd	26-647 Nash Rd	150	R							X						05/07/2008
+721024	  26	00649	     	26-649	Snap Lodge Rd	026	Dinwiddie County	026	Dinwiddie County	0.50	US 1 Boydton Plank Rd	26-650 Lew Jones Rd	50	R							X						05/07/2008
+406465	  26	00650	     	26-650	Lew Jones Rd	026	Dinwiddie County	026	Dinwiddie County	1.60	26-610 Old White Oak Rd	26-651 W, Mason Church Rd	46	F	99%	1%	0%	0%	0%	0%	F	0.1458	F	0.5714	49	F	2008
+406466	  26	00650	     	26-650	Lew Jones Rd	026	Dinwiddie County	026	Dinwiddie County	1.10	26-651 W, Mason Church Rd	26-644 Depot Rd	240	F	99%	1%	0%	0%	0%	0%	F	0.1077	F	0.6667	250	F	2008
+406467	  26	00650	     	26-650	Lew Jones Rd	026	Dinwiddie County	026	Dinwiddie County	1.60	26-644 Depot Rd	26-622 Baltimore Rd	400	F	99%	1%	0%	0%	0%	0%	F	0.1050	F	0.7174	420	F	2008
+406468	  26	00650	     	26-650	Lew Jones Rd	026	Dinwiddie County	026	Dinwiddie County	0.80	26-622 Baltimore Rd	26-648 Hudgins Rd	400	F	99%	1%	0%	0%	0%	0%	F	0.1030	F	0.7826	430	F	2008
+406469	  26	00650	     	26-650	Lew Jones Rd	026	Dinwiddie County	026	Dinwiddie County	2.50	26-648 Hudgins Rd	US 1 S, Boydton Plank Rd	450	F	99%	1%	0%	0%	0%	0%	C	0.1163	F	0.8070	480	F	2008
+406470	  26	00650	     	26-650	Hamilton Arms Rd	026	Dinwiddie County	026	Dinwiddie County	0.15	US 1 N, Boydton Plank Rd	26-709 Shippings Rd	1100	F	96%	1%	1%	0%	2%	0%	C	0.0963	F	0.5897	1200	F	2008
+406471	  26	00650	     	26-650	Hamilton Arms Rd	026	Dinwiddie County	026	Dinwiddie County	0.68	26-709 Shippings Rd	I-85	1000	F	99%	1%	0%	0%	0%	0%	F	0.1017	F	0.7588	1100	F	2008
+406473	  26	00650	     	26-650	Hawkins Church Rd	026	Dinwiddie County	026	Dinwiddie County	1.43	I-85	26-656 W, Eppes Rd	310	F	96%	1%	1%	0%	2%	0%	C	0.1089	F	0.6053	330	F	2008
+406474	  26	00650	     	26-650	Hawkins Church Rd	026	Dinwiddie County	026	Dinwiddie County	2.20	26-656 W, Eppes Rd	26-619 Courthouse Rd	190	F	96%	1%	1%	0%	2%	0%	F	0.1197	F	0.5965	200	F	2008
+721027	  26	00651	     	26-651	Whitmore Rd	026	Dinwiddie County	026	Dinwiddie County	2.40	26-613 Gills Bridge Rd	SR 40 W, Old Cryors Rd	350	R							X						05/27/2008
+721028	  26	00651	     	26-651	Whitmore Rd	026	Dinwiddie County	026	Dinwiddie County	1.80	SR 40 W, Old Cryors Rd	26-610 Old White Oak Rd	260	R							X						05/12/2005
+721029	  26	00651	     	26-651	Mason Church Rd	026	Dinwiddie County	026	Dinwiddie County	2.25	26-610 Old White Oak Rd	26-650 W, Lew Jones Rd	250	R							X						05/05/2008
+721030	  26	00651	     	26-651	Mason Church Rd	026	Dinwiddie County	026	Dinwiddie County	1.58	26-650 E, Lew Jones Rd	SR 40 E, McKenney Hwy	170	R							X						05/05/2008
+721031	  26	00651	     	26-651	Mason Church Rd	026	Dinwiddie County	026	Dinwiddie County	1.27	SR 40 E, McKenney Hwy	Dead End	350	R							X						05/05/2008
+721032	  26	00652	     	26-652	Asbury Rd	026	Dinwiddie County	026	Dinwiddie County	1.56	26-644 Depot Rd	US 1 Boydton Plank Rd	340	R							X						05/14/2008
+721033	  26	00653	     	26-653	Richie Rd	026	Dinwiddie County	026	Dinwiddie County	0.16	26-703 Carson Rd	Dead End	250	R							X						05/15/2008
+721034	  26	00654	     	26-654	Rainey Rd	026	Dinwiddie County	026	Dinwiddie County	3.02	26-687 S, Cutbank Rd	26-687 N, Cutbank Rd	250	R							X						05/12/2008
+721035	  26	00654	     	26-654	Rainey Rd	026	Dinwiddie County	026	Dinwiddie County	0.20	26-687 N, Cutbank Rd	SR 40 McKenney Hwy	490	R							X						05/12/2008
+721036	  26	00655	     	26-655	Little Deer Rd	026	Dinwiddie County	026	Dinwiddie County	0.58	Dead End	US 1 Boydton Plank Rd	20	R							X						05/12/2008
+721037	  26	00656	     	26-656	Eppes Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-709 Shipping Rd	26-658 Branches Rd	80	R							X						05/07/2008
+721038	  26	00656	     	26-656	Eppes Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-658 Branches Rd	26-650 W, Hamilton Arms Rd	190	R							X						05/07/2008
+721039	  26	00656	     	26-656	Gatewood Rd	026	Dinwiddie County	026	Dinwiddie County	2.55	26-650 E, Hawkins Church Rd	US 1 S, Boydton Plank Rd	480	R							X						05/07/2008
+721040	  26	00656	     	26-656	Gatewood Rd	026	Dinwiddie County	026	Dinwiddie County	0.90	US 1 N, Boydton Plank Rd	26-647 Nash Rd	150	R							X						05/07/2008
+721041	  26	00657	     	26-657	Keelers Mill Rd	026	Dinwiddie County	026	Dinwiddie County	2.10	US 1 Boydton Plank Rd	26-647 Nash Rd	410	R							X						05/07/2008
+721042	  26	00658	     	26-658	Branches Rd	026	Dinwiddie County	026	Dinwiddie County	1.61	26-709 Shipping Rd	26-656 Eppes Rd	300	R							X						05/07/2008
+721043	  26	00658	     	26-658	Branches Rd	026	Dinwiddie County	026	Dinwiddie County	2.70	26-656 Eppes Rd	26-619 Courthouse Rd	70	R							X						05/07/2008
+721044	  26	00659	     	26-659	Jones Rd	026	Dinwiddie County	026	Dinwiddie County	0.90	26-665 Walkers Mill Rd	SR 40 McKenney Hwy	90	R							X						05/12/2008
+721045	  26	00659	     	26-659	Jones Rd	026	Dinwiddie County	026	Dinwiddie County	1.50	SR 40 McKenney Hwy	26-736 Barnes Rd	120	R							X						05/12/2008
+721046	  26	00659	     	26-659	Bain Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	26-736 Barnes Rd	26-619 Courthouse Rd	220	R							X						05/12/2008
+721047	  26	00660	     	26-660	Hardiways Mill Rd	026	Dinwiddie County	026	Dinwiddie County	1.89	26-619 Courthouse Rd	26-703 Carson Rd	1100	R							X						05/15/2008
+721048	  26	00660	     	26-660	Old Vaughan Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-703 Carson Rd	26-605 W, Hunnicut Rd	420	R							X						05/15/2008
+721049	  26	00660	     	26-660	Quaker Rd	026	Dinwiddie County	026	Dinwiddie County	2.40	26-605 E; Old Vaughan Rd; Hunnicut Rd	26-704 Blackwell Rd	410	R							X						05/15/2008
+721050	  26	00660	     	26-660	Quaker Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-704 Blackwell Rd	US 1 Boydton Plank Rd	590	R							X						05/15/2008
+406475	  26	00661	     	26-661	Boisseau Rd	026	Dinwiddie County	026	Dinwiddie County	2.40	26-627 Courthouse Rd	26-613 White Oak Rd	720	F	98%	1%	1%	0%	0%	0%	C	0.1572	F	0.7308	770	F	2008
+721051	  26	00662	     	26-662	Hardwood Creek Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-617 Bolster Rd	26-619 Courthouse Rd	60	R							X						05/12/2008
+721052	  26	00663	     	26-663	Bain Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-659 Jones Rd	26-665 Walkers Mill Rd	80	R							X						05/12/2008
+721053	  26	00664	     	26-664	Reese Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	Dead End	26-609 Old Stage Rd	60	R							X						05/12/2008
+721054	  26	00665	     	26-665	Walkers Mill Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	Sussex County Line	26-617 Bolster Rd	570	R							X						05/12/2008
+721055	  26	00665	     	26-665	Walkers Mill Rd	026	Dinwiddie County	026	Dinwiddie County	2.35	26-617 Bolster Rd	SR 40 McKenney Hwy	570	R							X						05/12/2008
+721056	  26	00665	     	26-665	Walkers Mill Rd	026	Dinwiddie County	026	Dinwiddie County	1.44	SR 40 McKenney Hwy	26-728 Wingfield Rd	220	R							X						05/12/2008
+721057	  26	00665	     	26-665	Walkers Mill Rd	026	Dinwiddie County	026	Dinwiddie County	2.76	26-728 Wingfield Rd	26-626 Flatfoot Rd	200	R							X						05/12/2008
+721058	  26	00665	     	26-665	Black Mill Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	26-626 Flatfoot Rd	26-681 Black Branch Rd	290	R							X						05/12/2008
+721059	  26	00665	     	26-665	Mortar Branch Rd	026	Dinwiddie County	026	Dinwiddie County	0.40	26-681 Black Branch Rd	Dead End	48	R							X						05/15/2008
+721060	  26	00666	     	26-666	Baugh Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-626 Flatfoot Rd	26-670 Shady Lane	100	R							X						05/19/2008
+721061	  26	00666	     	26-666	Baugh Rd	026	Dinwiddie County	026	Dinwiddie County	4.20	26-670 Shady Lane	26-618 Halligan Park Rd	240	R							X						05/19/2008
+721062	  26	00667	     	26-667	Malones Rd	026	Dinwiddie County	026	Dinwiddie County	3.20	26-666 Baugh Rd	26-703 Carson Rd	140	R							X						05/19/2008
+721063	  26	00668	     	26-668	Brick Rd	026	Dinwiddie County	026	Dinwiddie County	1.90	26-703 Carson Rd	26-604 Halifax Rd	220	R							X						05/19/2008
+721064	  26	00669	     	26-669	Old Stage Rd	026	Dinwiddie County	026	Dinwiddie County	3.30	26-605 Monks Neck Rd; Old Stage Rd	26-604 Halifax Rd	420	R							X						05/19/2008
+721065	  26	00670	     	26-670	Shady Lane	026	Dinwiddie County	026	Dinwiddie County	1.82	26-666 Baugh Rd	1.82 MN 26-666 Baugh Rd	150	R							X						05/04/2005
+721066	  26	00670	     	26-670	Shady Lane	026	Dinwiddie County	026	Dinwiddie County	0.04	1.82 MN 26-666 Baugh Rd	26-682 Ole Bole Rd	100	R							X						05/19/2008
+721067	  26	00670	     	26-670	Shady Lane	026	Dinwiddie County	026	Dinwiddie County	0.10	26-682 Ole Bole Rd	26-688 Sawmill Rd	150	R							X						05/19/2008
+721068	  26	00670	     	26-670	Shady Lane	026	Dinwiddie County	026	Dinwiddie County	0.77	26-688 Sawmill Rd	26-609 Old Stage Rd	170	R							X						05/19/2008
+406476	  26	00670	     	26-670	Old Stage Rd	026	Dinwiddie County	026	Dinwiddie County	1.45	26-609 Old Stage Rd	26-703 Carson Rd	390	F	95%	1%	2%	0%	2%	0%	F	0.0960	F	0.5000	420	F	2008
+406477	  26	00670	     	26-670	Old Stage Rd	026	Dinwiddie County	026	Dinwiddie County	2.51	26-703 Carson Rd	26-605 W, Old Vaughan Rd	280	F	95%	1%	2%	0%	2%	0%	F	0.1002	F	0.6406	300	F	2008
+406478	  26	00670	     	26-670	Duncan Rd	026	Dinwiddie County	026	Dinwiddie County	2.29	26-605 E, Old Stage Rd	26-613 S, Squirrel Level Rd; Dabney Mill Rd	640	F	95%	1%	2%	0%	2%	0%	F	0.0979	F	0.6711	680	F	2008
+406479	  26	00670	     	26-670	Duncan Rd	026	Dinwiddie County	026	Dinwiddie County	2.07	26-613 N, Dabney Mill Rd	26-673 Smith Grove Rd	510	F	95%	1%	2%	0%	2%	0%	F	0.0997	F	0.5172	550	F	2008
+406480	  26	00670	     	26-670	Duncan Rd	026	Dinwiddie County	026	Dinwiddie County	1.21	26-673 Smith Grove Rd	1.21 MN 26-673 Smith Grove Rd	780	F	95%	1%	2%	0%	2%	0%	F	0.1057	F	0.5904	830	F	2008
+406481	  26	00670	     	26-670	Duncan Rd	026	Dinwiddie County	026	Dinwiddie County	1.51	1.21 MN 26-673 Smith Grove Rd	US 1 Boydton Plank Rd	1100	F	95%	1%	2%	0%	2%	0%	C	0.1007	F	0.5840	1200	F	2008
+721069	  26	00671	     	26-671	Brownwall Rd	026	Dinwiddie County	026	Dinwiddie County	0.40	Dead End	US 1 Boydton Plank Rd	90	R							X						05/22/2008
+406482	  26	00672	     	26-672	Church Rd	026	Dinwiddie County	026	Dinwiddie County	1.49	26-613 Squirrel Level Rd	1.49 MN 26-613 Hofhelmer Way	670	F	98%	1%	0%	1%	0%	0%	F	0.1029	F	0.6364	720	F	2008
+406483	  26	00672	     	26-672	Church Rd	026	Dinwiddie County	026	Dinwiddie County	0.58	1.49 MN 26-613 Hofhelmer Way	26-603 Weakley Rd	670	F	98%	1%	0%	1%	0%	0%	C	0.1048	F	0.5714	730	F	2008
+406485	  26	00672	     	26-672	Weakley Rd	026	Dinwiddie County	026	Dinwiddie County	0.27	26-603 Weakley Rd	26-1371 Hazel Ave	520	F	98%	0%	0%	1%	1%	0%	F	0.1041	F	0.6585	560	F	2008
+406486	  26	00672	     	26-672	Weakley Rd	026	Dinwiddie County	026	Dinwiddie County	0.19	26-1371 Hazel Ave	SR 142 Simpson Rd	520	F	98%	0%	0%	1%	1%	0%	C	0.0955	F	0.6727	560	F	2008
+721070	  26	00673	     	26-673	Smith Grove Rd	026	Dinwiddie County	026	Dinwiddie County	1.77	26-670 Duncan Rd	26-613 Squirrel Level Rd	390	R							X						05/22/2008
+721071	  26	00674	     	26-674	Wheaton Rd	026	Dinwiddie County	026	Dinwiddie County	1.85	26-613 Squirrel Level Rd	26-670 Duncan Rd	130	R							X						06/13/2005
+406487	  26	00675	     	26-675	Vaughan Rd	026	Dinwiddie County	026	Dinwiddie County	3.74	26-670 Duncan Rd	26-741 Fort Emory Rd	650	F	97%	0%	1%	1%	1%	0%	F	0.0870	F	0.6767	700	F	2008
+406488	  26	00675	     	26-675	Vaughan Rd	026	Dinwiddie County	026	Dinwiddie County	0.90	26-741 Fort Emory Rd	26-676 Flank Rd	1200	F	97%	0%	1%	1%	1%	0%	C	0.0988	F	0.6165	1300	F	2008
+406489	  26	00675	     	26-675	Vaughan Rd	026	Dinwiddie County	026	Dinwiddie County	0.94	26-676 Flank Rd	SCL Petersburg	800	F	97%	0%	1%	1%	1%	0%	F	0.0862	F	0.6646	870	F	2008
+721073	  26	00676	     	26-676	Flank Rd	026	Dinwiddie County	026	Dinwiddie County	0.80	26-613 Squirrel Level Rd	26-675 Vaughan Rd	580	R							X						05/22/2008
+406490	  26	00677	     	26-677	Carson Dr	026	Dinwiddie County	026	Dinwiddie County	0.80	26-604 Halifax Rd	SR 345 Richard Bland College; 74-608	970	F	98%	0%	0%	1%	1%	0%	C	0.1152	F	0.6803	1100	F	2008
+721074	  26	00678	     	26-678	Spain Dr	026	Dinwiddie County	026	Dinwiddie County	1.00	26-605 Ellington Rd	26-606 Oak Grove Rd	30	R							X						05/19/2008
+721075	  26	00679	     	26-679	 	026	Dinwiddie County	026	Dinwiddie County	1.45	Dead End	26-660 Hardiways Mill Rd	210	R							X						05/15/2008
+721076	  26	00680	     	26-680	Troublefield Rd	026	Dinwiddie County	026	Dinwiddie County	2.01	26-681 Black Branch Rd	2.01 ME 26-618 Halligan Park Rd	290	R							X						05/19/2008
+721077	  26	00680	     	26-680	Troublefield Rd	026	Dinwiddie County	026	Dinwiddie County	1.19	2.01 ME 26-618 Halligan Park Rd	26-618 Halligan Park Rd	370	R							X						05/15/2008
+721078	  26	00681	     	26-681	Black Branch Rd	026	Dinwiddie County	026	Dinwiddie County	1.80	Sussex County Line	26-665 Mortar Branch Rd; Black Mill Rd	300	R							X						05/12/2008
+721079	  26	00682	     	26-682	Ole Bole Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	26-609 Old Stage Rd	26-670 Shady Lane	110	R							X						05/19/2008
+721080	  26	00683	     	26-683	Continental Rd	026	Dinwiddie County	026	Dinwiddie County	0.45	26-651 Whitmore Rd	26-707 Cantree Rd	120	R							X						04/28/2008
+721081	  26	00683	     	26-683	Continental Rd	026	Dinwiddie County	026	Dinwiddie County	0.60	26-707 Cantree Rd	0.60 MN 26-707	80	R							X						04/28/2008
+721082	  26	00683	     	26-683	Continental Rd	026	Dinwiddie County	026	Dinwiddie County	0.20	0.60 MN 26-707	Dead End	50	R							X						06/08/2005
+721083	  26	00684	     	26-684	Airpark Dr	026	Dinwiddie County	026	Dinwiddie County	0.56	Dead End	US 460 Airport St	2300	R							X						05/22/2008
+721084	  26	00685	     	26-685	Oakley Dr	026	Dinwiddie County	026	Dinwiddie County	0.16	Dead End	US 1 Boydton Plank Rd	90	R							X						05/05/2008
+721085	  26	00686	     	26-686	Smith Grove Lane	026	Dinwiddie County	026	Dinwiddie County	0.20	26-673 Smith Grove Rd	Dead End	40	R							X						05/22/2008
+721086	  26	00687	     	26-687	Cutbank Rd	026	Dinwiddie County	026	Dinwiddie County	0.10	26-609 Cherryhill Rd	26-654 S, Rainey Rd	100	R							X						06/06/2005
+721087	  26	00687	     	26-687	Cutbank Rd	026	Dinwiddie County	026	Dinwiddie County	1.54	26-654 S, Rainey Rd	1.54 MN 26-654 S	30	R							X						05/12/2008
+721088	  26	00687	     	26-687	Cutbank Rd	026	Dinwiddie County	026	Dinwiddie County	1.06	1.54 MN 26-654 S	26-696 Bourdon Creek Rd	80	R							X						05/12/2008
+721089	  26	00687	     	26-687	Cutbank Rd	026	Dinwiddie County	026	Dinwiddie County	1.62	26-696 Bourdon Creek Rd	SR 40 McKenney Hwy	300	R							X						05/12/2008
+721090	  26	00688	     	26-688	Sawmill Rd	026	Dinwiddie County	026	Dinwiddie County	0.85	26-670 Shady Lane	26-705 Fox Branch Rd	170	R							X						05/19/2008
+721091	  26	00688	     	26-688	Sawmill Rd	026	Dinwiddie County	026	Dinwiddie County	1.28	26-705 Fox Branch Rd	1.28 ME 26-705 Fox Branch Rd	30	R							X						05/19/2008
+721092	  26	00688	     	26-688	Sawmill Rd	026	Dinwiddie County	026	Dinwiddie County	0.27	1.28 ME 26-705 Fox Branch Rd	26-667 Malones Rd	70	R							X						05/19/2008
+721093	  26	00689	     	26-689	Bobcat Rd	026	Dinwiddie County	026	Dinwiddie County	0.60	26-629 Anderson Mill Rd	26-628 Tranquility Lane	180	R							X						05/21/2008
+721094	  26	00690	     	26-690	Harris Dr	026	Dinwiddie County	026	Dinwiddie County	0.94	26-631 Claiborne Rd	Dead End	280	R							X						05/07/2008
+721095	  26	00691	     	26-691	Cryors Rd	026	Dinwiddie County	026	Dinwiddie County	1.00	Dead End	SR 40 Old Cryors Rd	140	R							X						05/05/2008
+721096	  26	00692	     	26-692	Spony Church Rd	026	Dinwiddie County	026	Dinwiddie County	1.89	Dead End	SR 40 McKenney Hwy	60	R							X						05/12/2005
+721097	  26	00692	     	26-692	Spony Church Rd	026	Dinwiddie County	026	Dinwiddie County	3.20	SR 40 McKenney Hwy	26-709 Shipping Rd	160	R							X						05/12/2005
+721098	  26	00692	     	26-692	Spony Church Rd	026	Dinwiddie County	026	Dinwiddie County	0.60	26-709 Shipping Rd	Dead End	60	R							X						05/07/2008
+721099	  26	00693	     	26-693	Williamson Rd	026	Dinwiddie County	026	Dinwiddie County	2.87	26-703 Carson Rd	26-670 Old Stage Rd	210	R							X						05/27/2008
+721100	  26	00694	     	26-694	Old Pine Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	Dead End	26-622 Baltimore Rd	70	R							X						06/08/2005
+721101	  26	00696	     	26-696	Bourdon Creek Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	Dead End	26-687 Cutbank Rd	70	R							X						05/12/2008
+721102	  26	00697	     	26-697	Spicely Rd	026	Dinwiddie County	026	Dinwiddie County	0.40	26-613 White Oak Rd	Dead End	110	R							X						05/12/2005
+721103	  26	00698	     	26-698	Double Branch Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-665 Walkers Mill Rd	Sussex County Line	150	R							X						05/12/2008
+721104	  26	00699	     	26-699	Horsetail Rd	026	Dinwiddie County	026	Dinwiddie County	1.89	26-611 Wilkinson Rd	1.89 MN 26-611 Wilkinson Rd	60	R							X						05/27/2008
+721105	  26	00699	     	26-699	Horsetail Rd	026	Dinwiddie County	026	Dinwiddie County	1.41	1.89 MN 26-611 Wilkinson Rd	26-708 Namozine Rd	50	R							X						05/27/2008
+721106	  26	00700	     	26-700	Boze Rd	026	Dinwiddie County	026	Dinwiddie County	0.88	Dead End	26-613 White Oak Rd	60	R							X						04/28/2008
+721107	  26	00700	     	26-700	Hawkins Rd	026	Dinwiddie County	026	Dinwiddie County	2.54	26-613 White Oak Rd	26-622 Baltimore Rd	250	R							X						05/12/2005
+721108	  26	00701	     	26-701	Quail Hollow Rd	026	Dinwiddie County	026	Dinwiddie County	0.60	Dead End	26-610 Old White Oak Rd	20	R							X						04/28/2008
+721109	  26	00702	     	26-702	Lennie Rd	026	Dinwiddie County	026	Dinwiddie County	1.32	26-638 Harpers Rd	SR 40 Old Cryors Rd	80	R							X						05/05/2008
+406491	  26	00703	     	26-703	Carson Rd	026	Dinwiddie County	026	Dinwiddie County	0.13	US 1 Boydton Plank Rd	26-1403	3700	F	96%	1%	1%	1%	1%	0%	F	0.0948	F	0.0000	4000	F	2008
+406492	  26	00703	     	26-703	Carson Rd	026	Dinwiddie County	026	Dinwiddie County	1.17	26-1403	I-85	3500	F	96%	1%	1%	1%	1%	0%	C	0.0967	F	0.5040	3800	F	2008
+406493	  26	00703	     	26-703	Carson Rd	026	Dinwiddie County	026	Dinwiddie County	5.18	I-85	26-670 Old Stage Rd	880	F	93%	2%	1%	3%	1%	0%	C	0.0969	F	0.6813	940	F	2008
+406494	  26	00703	     	26-703	Carson Rd	026	Dinwiddie County	026	Dinwiddie County	5.97	26-670 Old Stage Rd	26-618 Halligan Park Rd	720	F	93%	2%	1%	3%	1%	0%	F	0.0891	F	0.6408	770	F	2008
+406495	  26	00703	     	26-703	Carson Rd	026	Dinwiddie County	026	Dinwiddie County	0.09	26-618 Halligan Park Rd	Prince George County Line; 74-604	1100	F	93%	2%	1%	3%	1%	0%	F	0.1063	F	0.7020	1100	F	2008
+721113	  26	00704	     	26-704	Blackwell Rd	026	Dinwiddie County	026	Dinwiddie County	0.24	Dead End	26-660 Quaker Rd	60	R							X						05/15/2008
+721114	  26	00705	     	26-705	Fox Branch Rd	026	Dinwiddie County	026	Dinwiddie County	1.42	26-688 Sawmill Rd	26-733 Little Zion Rd	180	R							X						05/19/2008
+721115	  26	00706	     	26-706	Old Cox Rd	026	Dinwiddie County	026	Dinwiddie County	0.55	SR 226 W, Cox Rd	26-725 Cherokee Rd	220	R							X						05/27/2008
+721116	  26	00706	     	26-706	Old Cox Rd	026	Dinwiddie County	026	Dinwiddie County	0.15	26-725 Cherokee Rd	SR 226 E, Cox Rd	190	R							X						05/27/2008
+721117	  26	00707	     	26-707	Cantree Rd	026	Dinwiddie County	026	Dinwiddie County	0.85	26-683 Continental Rd	26-651 Whitmore Rd	160	R							X						04/28/2008
+406496	  26	00708	     	26-708	Namozine Rd	026	Dinwiddie County	026	Dinwiddie County	0.30	Amelia County Line	26-746 Birdnest Rd	520	F	96%	0%	1%	1%	1%	0%	F	0.1171	F	0.7153	560	F	2008
+406497	  26	00708	     	26-708	Namozine Rd	026	Dinwiddie County	026	Dinwiddie County	5.93	26-746 Birdnest Rd	26-601 River Rd	950	F	96%	0%	1%	1%	1%	0%	C	0.1092	F	0.7768	1000	F	2008
+406498	  26	00708	     	26-708	Namozine Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	26-601 River Rd	US 460; 26-631	2300	F	96%	0%	1%	1%	1%	0%	F	0.0946	F	0.6851	2500	F	2008
+721118	  26	00709	     	26-709	Shipping Rd	026	Dinwiddie County	026	Dinwiddie County	2.70	26-609 Cherryhill Rd	SR 40 McKenney Hwy	60	R							X						05/05/2008
+721119	  26	00709	     	26-709	Shipping Rd	026	Dinwiddie County	026	Dinwiddie County	3.70	SR 40 McKenney Hwy	26-656 Eppes Rd	210	R							X						05/05/2008
+721120	  26	00709	     	26-709	Shipping Rd	026	Dinwiddie County	026	Dinwiddie County	1.70	26-656 Eppes Rd	26-658 Branches Rd	410	R							X						05/05/2008
+721121	  26	00709	     	26-709	Shipping Rd	026	Dinwiddie County	026	Dinwiddie County	0.63	26-658 Branches Rd	26-650 Hamilton Arms Rd	660	R							X						05/05/2008
+721122	  26	00710	     	26-710	Cemetery Rd	026	Dinwiddie County	026	Dinwiddie County	0.85	Dead End	SCL McKenney	30	R							X						05/07/2008
+785085	  26	00710	     	26-710	Cemetery Rd	257	Town of McKenney	026	Dinwiddie County	0.11	SCL McKenney	SR 40 Doyle Blvd	9	R							X						08/27/2002
+721123	  26	00711	     	26-711	Ridley Rd	026	Dinwiddie County	026	Dinwiddie County	1.30	Dead End	26-670 Old Stage Rd	40	R							X						05/04/2005
+721124	  26	00712	     	26-712	Greentree Rd	026	Dinwiddie County	026	Dinwiddie County	0.55	26-703 Carson Rd	Dead End	30	R							X						05/19/2008
+721125	  26	00713	     	26-713	Cutbank Church Rd	026	Dinwiddie County	026	Dinwiddie County	2.54	US 1 Boydton Plank Rd	26-687 Cutbank Rd	200	R							X						05/12/2008
+721126	  26	00714	     	26-714	Lewis Rd	026	Dinwiddie County	026	Dinwiddie County	0.46	US 1 Boydton Plank Rd	Dead End	330	R							X						05/19/2008
+721127	  26	00715	     	26-715	Patillo Rd	026	Dinwiddie County	026	Dinwiddie County	1.78	26-645 Wheelers Pond Rd	26-613 White Oak Rd	120	R							X						04/30/2008
+721128	  26	00716	     	26-716	Poole Siding Rd	026	Dinwiddie County	026	Dinwiddie County	0.36	26-611; 26-751	26-751 Cox Rd	110	R							X						04/30/2008
+721129	  26	00717	     	26-717	Anderson Dr	026	Dinwiddie County	026	Dinwiddie County	0.50	26-629 Anderson Mill Rd	Dead End	45	R							X						05/02/2005
+721130	  26	00718	     	26-718	Henshaw Rd	026	Dinwiddie County	026	Dinwiddie County	0.38	26-601 River Rd	Dead End	380	R							X						05/27/2008
+721131	  26	00719	     	26-719	Lee Dr	026	Dinwiddie County	026	Dinwiddie County	0.39	26-601 River Rd	Dead End	240	R							X						05/27/2008
+721132	  26	00720	     	26-720	Chestnut Dr	026	Dinwiddie County	026	Dinwiddie County	0.15	26-601 River Rd	Dead End	110	R							X						05/27/2008
+721133	  26	00721	     	26-721	Pine Hill Rd	026	Dinwiddie County	026	Dinwiddie County	0.60	US 460; FR-804	Dead End	130	R							X						05/07/2008
+721134	  26	00722	     	26-722	Abernathy Rd	026	Dinwiddie County	026	Dinwiddie County	0.81	26-619 Courthouse Rd	Dead End	20	R							X						05/12/2008
+721135	  26	00723	     	26-723	Pearson Hardy Rd	026	Dinwiddie County	026	Dinwiddie County	0.58	26-611 Wilkinson Rd	Dead End	120	R							X						06/08/2005
+721136	  26	00724	     	26-724	Springston Rd	026	Dinwiddie County	026	Dinwiddie County	0.58	26-639 Springston Rd Wilson Rd	US 460	240	R							X						04/28/2008
+721137	  26	00725	     	26-725	Cherokee Rd	026	Dinwiddie County	026	Dinwiddie County	0.17	Dead End	26-706 Old Cox Rd	140	R							X						05/02/2005
+721138	  26	00726	     	26-726	Mitchell Ave	026	Dinwiddie County	026	Dinwiddie County	0.23	US 1 Boydton Plank Rd	Dead End	170	R							X						05/05/2008
+721139	  26	00727	     	26-727	Bethune Rd	026	Dinwiddie County	026	Dinwiddie County	0.79	Dead End	26-675 Vaughan Rd	320	R							X						05/22/2008
+721140	  26	00728	     	26-728	Wingfield Rd	026	Dinwiddie County	026	Dinwiddie County	0.34	Dead End	26-665 Walkers Mill Rd	60	R							X						06/08/2005
+721141	  26	00729	     	26-729	Spriggs Rd	026	Dinwiddie County	026	Dinwiddie County	0.53	26-661 Boisseau Rd	Dead End	80	R							X						05/02/2005
+721142	  26	00730	     	26-730	Williams Rd	026	Dinwiddie County	026	Dinwiddie County	0.28	US 460 Cox Rd	Dead End	70	R							X						05/02/2005
+721143	  26	00731	     	26-731	Ruth Hill Rd	026	Dinwiddie County	026	Dinwiddie County	0.02	26-611 Wilkinson Rd	0.02 ME 26-611 Wilkinson Rd	190	R							X						04/30/2008
+721144	  26	00731	     	26-731	Ruth Hill Rd	026	Dinwiddie County	026	Dinwiddie County	0.40	0.02 ME 26-611 Wilkinson Rd	Dead End	210	R							X						04/30/2008
+721145	  26	00732	     	26-732	Davis Rd	026	Dinwiddie County	026	Dinwiddie County	0.60	Dead End	26-627 Courthouse Rd	360	R							X						04/30/2008
+721146	  26	00733	     	26-733	Little Zion Rd	026	Dinwiddie County	026	Dinwiddie County	1.20	26-670 Old Stage Rd	26-703 Carson Rd	220	R							X						05/19/2008
+721147	  26	00734	     	26-734	Rainey Rd	026	Dinwiddie County	026	Dinwiddie County	3.14	26-619 Courthouse Rd	26-626 Flatfoot Rd	190	R							X						05/07/2008
+721148	  26	00735	     	26-735	Goose Pond Rd	026	Dinwiddie County	026	Dinwiddie County	1.40	26-619 Courthouse Rd	Dead End	60	R							X						05/07/2008
+721149	  26	00736	     	26-736	Barnes Rd	026	Dinwiddie County	026	Dinwiddie County	0.50	26-659 Bain Rd; Jones Rd	Dead End	60	R							X						05/12/2008
+721150	  26	00737	     	26-737	Booth Rd	026	Dinwiddie County	026	Dinwiddie County	1.60	26-665 Walkers Mill Rd	26-626 Flatfoot Rd	20	R							X						05/12/2008
+721151	  26	00738	     	26-738	Scotts Rd	026	Dinwiddie County	026	Dinwiddie County	1.33	26-645 Wheelers Pond Rd; Scotts Rd	26-647 Nash Rd	520	R							X						05/07/2008
+721152	  26	00739	     	26-739	Midway Rd	026	Dinwiddie County	026	Dinwiddie County	1.70	26-751 Cox Rd	26-708 Namozine Rd	480	R							X						05/27/2008
+721153	  26	00740	     	26-740	Turkey Egg Rd	026	Dinwiddie County	026	Dinwiddie County	1.50	26-627 Courthouse Rd	US 1 Boydton Plank Rd	1900	R							X						05/15/2008
+721154	  26	00741	     	26-741	Fort Emory Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	26-613 Squirrel Level Rd	26-675 Vaughan Rd	510	R							X						05/22/2008
+721155	  26	00742	     	26-742	Plantation Rd	026	Dinwiddie County	026	Dinwiddie County	0.50	26-613 Squirrel Level Rd	26-675 Vaughan Rd	270	R							X						05/22/2008
+721156	  26	00743	     	26-743	Hart Rd	026	Dinwiddie County	026	Dinwiddie County	0.57	US 460 Cox Rd	26-601 River Rd	470	R							X						05/07/2008
+721157	  26	00744	     	26-744	McKissicks Rd	026	Dinwiddie County	026	Dinwiddie County	0.70	26-644 Brills Rd	Dead End	80	R							X						04/28/2008
+721158	  26	00745	     	26-745	Fisher Rd	026	Dinwiddie County	026	Dinwiddie County	0.20	Dead End	26-651 Mason Church Rd	50	R							X						05/05/2008
+721159	  26	00746	     	26-746	Birdnest Rd	026	Dinwiddie County	026	Dinwiddie County	0.95	26-708 Namozine Rd	Dead End	90	R							X						05/02/2005
+721160	  26	00747	     	26-747	Wheelers Lane	026	Dinwiddie County	026	Dinwiddie County	0.35	26-611 Wilkinson Rd	Dead End	10	R							X						05/05/2008
+721161	  26	00748	     	26-748	Unico Rd	026	Dinwiddie County	026	Dinwiddie County	0.49	Dead End	26-652 Asbury Rd	180	R							X						05/14/2008
+721162	  26	00749	     	26-749	 	026	Dinwiddie County	026	Dinwiddie County	0.04	FR-82 Plane Dr	Dead End	50	R							X						05/19/2008
+721163	  26	00750	     	26-750	Oxford Rd	026	Dinwiddie County	026	Dinwiddie County	1.51	26-623 Southerland Rd	Dead End	590	R							X						05/05/2008
+721164	  26	00751	     	26-751	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	0.78	US 460 WEST	26-611 W; 26-752	480	R							X						04/30/2008
+721165	  26	00751	     	26-751	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	0.26	26-611 W; 26-752	26-611 E; 26-716	1500	R							X						04/30/2008
+721166	  26	00751	     	26-751	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	3.25	26-611 E; 26-716	26-627 W, Trinity Church Rd	1600	R							X						04/30/2008
+721167	  26	00751	     	26-751	Cox Rd	026	Dinwiddie County	026	Dinwiddie County	2.67	26-627 W, Trinity Church Rd	US 460 E, Cox Rd	2100	R							X						04/30/2008
+721168	  26	00752	     	26-752	Siding Dr	026	Dinwiddie County	026	Dinwiddie County	0.40	26-611; 26-751	Dead End	150	R							X						04/30/2008
+721169	  26	00753	     	26-753	Siding Dr	026	Dinwiddie County	026	Dinwiddie County	0.40	26-611 Wilkinson Rd	Dead End	160	R							X						04/30/2008
+721170	  26	00754	     	26-754	Anderson Mill Rd	026	Dinwiddie County	026	Dinwiddie County	0.88	Dead End	26-751 Cox Rd	210	R							X						04/30/2008
+721171	  26	00755	     	26-755	Slates Rd	026	Dinwiddie County	026	Dinwiddie County	0.50	Dead End	26-751 Cox Rd	90	R							X						04/30/2008
+721172	  26	00756	     	26-756	Slates Rd	026	Dinwiddie County	026	Dinwiddie County	0.28	26-628 Tranquility Lane	Dead End	60	R							X						05/07/2008
+721173	  26	00757	     	26-757	Marmora Dr	026	Dinwiddie County	026	Dinwiddie County	0.62	26-708 Namozine Rd	Dead End	100	R							X						05/05/2008
+721174	  26	00758	     	26-758	Steers Rd	026	Dinwiddie County	026	Dinwiddie County	0.39	Dead End	26-613 Dabney Mill Rd	190	R							X						05/22/2008
+721175	  26	00759	     	26-759	Gunn Rd	026	Dinwiddie County	026	Dinwiddie County	0.57	Dead End	26-650 Lew Jones Rd	9	R							X						05/05/2008
+721176	  26	00760	     	26-760	Sutherland  Ave	026	Dinwiddie County	026	Dinwiddie County	0.37	26-623 Station Rd	Dead End	90	R							X						05/05/2008
+721177	  26	00764	     	26-764	Oxford Rd	026	Dinwiddie County	026	Dinwiddie County	0.33	26-750 Oxford Rd	Cul-de-Sac	200	R							X						05/05/2008
+721178	  26	00770	     	26-770	Olde Keswick Lane	026	Dinwiddie County	026	Dinwiddie County	0.08	Cul-de-Sac	Prince George County Line	50	R							X						05/27/2008
+785780	  26	00775	     	26-775	Hoffeimer Way	026	Dinwiddie County	026	Dinwiddie County	0.92	26-672 Church Rd	US 1 Boydton Plank Rd	1900	R							X						06/13/2005
+721179	  26	00776	     	26-776	Chesdin Lake Rd	026	Dinwiddie County	026	Dinwiddie County	0.57	26-601 River Rd	Dead End	300	R							X						05/22/2008
+721180	  26	01001	     	26-1001	Margarita Ragsdale St	026	Dinwiddie County	026	Dinwiddie County	0.02	Dead End	ECL McKenney	2	R							X						05/14/2008
+721181	  26	01001	     	26-1001	Bolling Rd	257	Town of McKenney	026	Dinwiddie County	0.02	ECL McKenney	26-1014 Denbigh St	4	R							X						05/14/2008
+721182	  26	01001	     	26-1001	Bolling Rd	257	Town of McKenney	026	Dinwiddie County	0.10	26-1014 Denbigh St	26-1013 Johnson St	130	R							X						05/14/2008
+721183	  26	01001	     	26-1001	Bolling Rd	257	Town of McKenney	026	Dinwiddie County	0.32	26-1013 Johnson St	US 1 Boydton Plank Rd	420	R							X						05/14/2008
+721184	  26	01001	     	26-1001	Bolling Rd	257	Town of McKenney	026	Dinwiddie County	0.13	US 1 Boydton Plank Rd	26-1007 Fifth St	870	R							X						05/14/2008
+721185	  26	01001	     	26-1001	Rives Ave	257	Town of McKenney	026	Dinwiddie County	0.16	26-1007 Fifth St	26-1006 Fourth St	720	R							X						05/14/2008
+721186	  26	01001	     	26-1001	Rives Ave	257	Town of McKenney	026	Dinwiddie County	0.07	26-1006 Fourth St	26-1005 Third St	710	R							X						05/14/2008
+721187	  26	01001	     	26-1001	Rives Ave	257	Town of McKenney	026	Dinwiddie County	0.07	26-1005 Third St	26-1004 Second St	710	R							X						05/14/2008
+721188	  26	01001	     	26-1001	Rives Ave	257	Town of McKenney	026	Dinwiddie County	0.07	26-1004 Second St	26-1003 First St	700	R							X						05/14/2008
+721189	  26	01001	     	26-1001	Rives Ave	257	Town of McKenney	026	Dinwiddie County	0.03	26-1003 First St	26-1002 Railroad Ave	170	R							X						05/14/2008
+721190	  26	01002	     	26-1002	Railroad Ave	257	Town of McKenney	026	Dinwiddie County	0.10	SR 40 Doyle Blvd	26-1001 Rives Ave	170	R							X						05/14/2008
+721191	  26	01003	     	26-1003	First St	257	Town of McKenney	026	Dinwiddie County	0.02	Dead End	26-1010 Jack Zehmer Rd	20	R							X						05/14/2008
+721192	  26	01003	     	26-1003	First St	257	Town of McKenney	026	Dinwiddie County	0.15	26-1010 Jack Zehmer Rd	26-1009 Westover Dr	70	R							X						05/14/2008
+721193	  26	01003	     	26-1003	First St	257	Town of McKenney	026	Dinwiddie County	0.03	26-1009 Westover Dr	SR 40 Doyle Blvd	280	R							X						05/14/2008
+721194	  26	01003	     	26-1003	First St	257	Town of McKenney	026	Dinwiddie County	0.10	SR 40 Doyle Blvd	26-1001 Rives Ave	670	R							X						05/14/2008
+721195	  26	01004	     	26-1004	Second St	257	Town of McKenney	026	Dinwiddie County	0.09	SR 40 Doyle Blvd	26-1001 Rives Ave	100	R							X						05/15/2008
+721196	  26	01005	     	26-1005	Third St	257	Town of McKenney	026	Dinwiddie County	0.14	26-1009 Westover Dr	SR 40 Doyle Blvd	90	R							X						05/15/2008
+721197	  26	01005	     	26-1005	Third St	257	Town of McKenney	026	Dinwiddie County	0.23	SR 40 Doyle Blvd	26-1008 Zehmer Ave	250	R							X						05/15/2008
+721198	  26	01006	     	26-1006	Fourth St	257	Town of McKenney	026	Dinwiddie County	0.08	SR 40 Doyle Blvd	26-1001 Rives Ave	40	R							X						05/15/2008
+721199	  26	01007	     	26-1007	Fifth St	257	Town of McKenney	026	Dinwiddie County	0.08	SR 40 Doyle Blvd	26-1001 Rives Ave	70	R							X						05/15/2008
+721200	  26	01007	     	26-1007	Fifth St	257	Town of McKenney	026	Dinwiddie County	0.11	26-1001 Rives Ave	26-1008 Zehmer Ave	130	R							X						05/15/2008
+721201	  26	01008	     	26-1008	Zehmer Ave	257	Town of McKenney	026	Dinwiddie County	0.07	Dead End	26-1007 Fifth St	40	R							X						05/15/2008
+721202	  26	01008	     	26-1008	Zehmer Ave	257	Town of McKenney	026	Dinwiddie County	0.19	26-1007 Fifth St	26-1005 Third St	60	R							X						05/15/2008
+721203	  26	01009	     	26-1009	Westover Rd	026	Dinwiddie County	026	Dinwiddie County	0.65	US 1 Boydton Plank Rd	SCL McKenney	240	R							X						05/14/2008
+721204	  26	01009	     	26-1009	Westover Dr	257	Town of McKenney	026	Dinwiddie County	0.27	SCL McKenney	26-1005 Third St	240	R							X						05/14/2008
+721205	  26	01009	     	26-1009	Westover Dr	257	Town of McKenney	026	Dinwiddie County	0.13	26-1005 Third St	26-1003 First St	220	R							X						05/14/2008
+721206	  26	01010	     	26-1010	Jack Zehmer Rd	257	Town of McKenney	026	Dinwiddie County	0.25	SCL McKenney	26-1012 Factory St	70	R							X						05/14/2008
+721207	  26	01010	     	26-1010	Jack Zehmer Rd	257	Town of McKenney	026	Dinwiddie County	0.04	26-1012 Factory St	26-1003 First St	40	R							X						05/14/2008
+721208	  26	01011	     	26-1011	Community St	257	Town of McKenney	026	Dinwiddie County	0.05	Dead End	26-614 Sunnyside Dr	90	R							X						05/14/2008
+721209	  26	01012	     	26-1012	Factory St	257	Town of McKenney	026	Dinwiddie County	0.10	26-1010 Jack Zehmer Rd	Dead End	50	R							X						05/14/2008
+721210	  26	01013	     	26-1013	Johnson St	257	Town of McKenney	026	Dinwiddie County	0.08	SR 40 Doyle Blvd	26-1001 Bolling Rd	300	R							X						05/14/2008
+721211	  26	01014	     	26-1014	Denbigh St	257	Town of McKenney	026	Dinwiddie County	0.08	26-1001 Bolling Rd	ECL McKenney	100	R							X						05/14/2008
+721212	  26	01014	     	26-1014	Denbigh St	026	Dinwiddie County	026	Dinwiddie County	0.31	ECL McKenney	Dead End	100	R							X						05/14/2008
+721213	  26	01015	     	26-1015	Bethel Rd	257	Town of McKenney	026	Dinwiddie County	0.10	Dead End	US 1 Boydton Plank Rd	50	R							X						05/12/2005
+721214	  26	01020	     	26-1020	Seaboard Dr	026	Dinwiddie County	026	Dinwiddie County	0.08	26-644 Depot Rd	26-1021 Southern Ave	130	R							X						06/08/2005
+721215	  26	01021	     	26-1021	Southern Ave	026	Dinwiddie County	026	Dinwiddie County	0.12	Dead End	26-1020 Seaboard Dr	45	R							X						06/08/2005
+721216	  26	01021	     	26-1021	Southern Ave	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1020 Seaboard Dr	Dead End	70	R							X						06/08/2005
+794356	  26	01039	     	26-1039	Shannon Rd	026	Dinwiddie County	026	Dinwiddie County	0.30	Dead End	26-611 Wilkerson Rd	90	R							X						05/22/2008
+790291	  26	01040	     	26-1040	Greenhead Dr	026	Dinwiddie County	026	Dinwiddie County	0.55	26-675 Vaughan Rd	26-1042 Woody Ct	350	R							X						05/22/2008
+790292	  26	01041	     	26-1041	Greenhead Ct	026	Dinwiddie County	026	Dinwiddie County	0.04	Dead End	26-1040 Greenhead Dr	20	R							X						05/22/2008
+790293	  26	01042	     	26-1042	Woody Ct	026	Dinwiddie County	026	Dinwiddie County	0.15	Dead End	Dead End	120	R							X						05/22/2008
+721217	  26	01101	     	26-1101	Acorn Dr	026	Dinwiddie County	026	Dinwiddie County	0.30	26-604 Halifax Rd	26-606 Oak Grove Rd	70	R							X						06/08/2005
+795620	  26	01102	     	26-1102	 	026	Dinwiddie County	026	Dinwiddie County	0.46	Cul-de-Sac	US 1 Boydton Plank Rd	0	?							X
+795621	  26	01103	     	26-1103	 	026	Dinwiddie County	026	Dinwiddie County	0.20	Cul-de-Sac	26-1102	0	?							X
+721218	  26	01110	     	26-1110	Dabney Dr	026	Dinwiddie County	026	Dinwiddie County	0.31	26-1111 Anne Rd	26-1113 Charlotte Rd	60	R							X						05/02/2005
+721219	  26	01110	     	26-1110	Dabney Dr	026	Dinwiddie County	026	Dinwiddie County	0.21	26-1113 Charlotte Rd	26-613 White Oak Rd	140	R							X						05/02/2005
+721220	  26	01111	     	26-1111	Anne Rd	026	Dinwiddie County	026	Dinwiddie County	0.16	26-1112 Gibson Dr	26-1110 Dabney Dr	60	R							X						05/02/2005
+721221	  26	01112	     	26-1112	Gibson Dr	026	Dinwiddie County	026	Dinwiddie County	0.31	26-1111 Anne Rd	26-1113 Charlotte Rd	70	R							X						05/02/2005
+721222	  26	01112	     	26-1112	Gibson Dr	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1113 Charlotte Rd	26-613 White Oak Rd	100	R							X						05/02/2005
+721223	  26	01113	     	26-1113	Charlotte Rd	026	Dinwiddie County	026	Dinwiddie County	0.16	26-1112 Gibson Dr	26-1110 Dabney Dr	40	R							X						05/02/2005
+721224	  26	01120	     	26-1120	Tanglewood Dr	026	Dinwiddie County	026	Dinwiddie County	0.25	26-1122 Northwood Dr	26-1121 Southwood Dr	470	R							X						06/08/2005
+721225	  26	01120	     	26-1120	Tanglewood Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1121 Southwood Dr	26-613 Squirrel Level Rd	570	R							X						06/08/2005
+721226	  26	01121	     	26-1121	Southwood Dr	026	Dinwiddie County	026	Dinwiddie County	0.14	Dead End	26-1120 Tanglewood Dr	110	R							X						06/08/2005
+721227	  26	01122	     	26-1122	Northwood Dr	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1123 Circlewood Dr	26-1120 Tanglewood Dr	310	R							X						06/08/2005
+721228	  26	01123	     	26-1123	Circlewood Dr	026	Dinwiddie County	026	Dinwiddie County	0.46	26-1122 Northwood Dr	Dead End	300	R							X						06/08/2005
+721229	  26	01201	     	26-1201	McKenney Ave	026	Dinwiddie County	026	Dinwiddie County	0.25	Dead End	US 1; 26-650	90	R							X						05/12/2005
+721230	  26	01210	     	26-1210	Waterford Dr	026	Dinwiddie County	026	Dinwiddie County	0.45	Cul-de-Sac	26-750 Oxford Rd	100	R							X						06/13/2005
+786170	  26	01240	     	26-1240	Wrenn Forest Dr	026	Dinwiddie County	026	Dinwiddie County	0.21	Cul-de-Sac	26-601 River Rd	560	R							X						06/13/2005
+786171	  26	01241	     	26-1241	Swan Circle	026	Dinwiddie County	026	Dinwiddie County	0.15	26-1243 Canvasback Ct	26-1240 Wrenn Forest Dr	80	R							X						06/13/2005
+786172	  26	01242	     	26-1242	Pintail Lane	026	Dinwiddie County	026	Dinwiddie County	0.11	26-1243 Canvasback Ct	26-1240 Wrenn Forest Dr	70	R							X						06/13/2005
+792456	  26	01242	     	26-1242	Pintail Lane	026	Dinwiddie County	026	Dinwiddie County	0.23	26-1240 Wrenn Forest Dr	26-1246 Pheasant Ct	270	R							X						05/27/2008
+786173	  26	01243	     	26-1243	Canvasback Ct	026	Dinwiddie County	026	Dinwiddie County	0.23	Cul-de-Sac	Cul-de-Sac	60	R							X						06/13/2005
+792375	  26	01244	     	26-1244	Pintail Lane	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1242 Pintail Lane	Cul-de-Sac	100	R							X						05/27/2008
+792376	  26	01245	     	26-1245	Teal Circle	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1242 Pintail Lane	Cul-de-Sac	70	R							X						05/27/2008
+792377	  26	01246	     	26-1246	Pheasant Ct	026	Dinwiddie County	026	Dinwiddie County	0.22	Cul-de-Sac	26-1242 Pintail Lane	220	R							X						05/27/2008
+792378	  26	01246	     	26-1246	Pheasant Ct	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1242 Pintail Lane	Cul-de-Sac	200	R							X						05/27/2008
+721231	  26	01301	     	26-1301	Lee Blvd	026	Dinwiddie County	026	Dinwiddie County	0.23	SR 226 Cox Rd	26-1332 Hill St	590	R							X						05/16/2005
+721232	  26	01301	     	26-1301	Lee Blvd	026	Dinwiddie County	026	Dinwiddie County	0.18	26-1332 Hill St	Dead End	200	R							X						05/16/2005
+721233	  26	01302	     	26-1302	Dinwiddie Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1306 Roanoke St	26-1348 Potomac St	120	R							X						05/18/2005
+721234	  26	01302	     	26-1302	Dinwiddie Ave	026	Dinwiddie County	026	Dinwiddie County	0.03	26-1348 Potomac St	26-1309 York St	190	R							X						05/18/2005
+721235	  26	01302	     	26-1302	Dinwiddie Ave	026	Dinwiddie County	026	Dinwiddie County	0.11	26-1309 York St	US 1 Boydton Plank Rd	260	R							X						05/18/2005
+721236	  26	01303	     	26-1303	Simmons Ave	026	Dinwiddie County	026	Dinwiddie County	0.37	Dead End	FR-290 Front Rd	220	R							X						05/18/2005
+721237	  26	01303	     	26-1303	Simmons Ave	026	Dinwiddie County	026	Dinwiddie County	0.03	FR-290 Front Rd	US 1 Boydton Plank Rd	2200	R							X						05/18/2005
+721238	  26	01304	     	26-1304	Nottoway Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1349 Warwick St	26-1306 Roanoke St	170	R							X						05/18/2005
+721239	  26	01304	     	26-1304	Nottoway Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1306 Roanoke St	26-1348 Potomac St	210	R							X						05/18/2005
+721240	  26	01304	     	26-1304	Nottoway Ave	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1348 Potomac St	US 1 Boydton Plank Rd	250	R							X						05/18/2005
+721241	  26	01305	     	26-1305	Surry Ave	026	Dinwiddie County	026	Dinwiddie County	0.14	Dead End	26-1350 Pagan St	230	R							X						05/18/2005
+721242	  26	01305	     	26-1305	Surry Ave	026	Dinwiddie County	026	Dinwiddie County	0.19	26-1350 Pagan St	26-1306 Roanoke St	340	R							X						05/18/2005
+721243	  26	01305	     	26-1305	Surry Ave	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1306 Roanoke St	26-1348 Potomac St	430	R							X						05/18/2005
+721244	  26	01305	     	26-1305	Surry Ave	026	Dinwiddie County	026	Dinwiddie County	0.11	26-1348 Potomac St	US 1 Boydton Plank Rd	530	R							X						05/18/2005
+721245	  26	01306	     	26-1306	Roanoke St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1305 Surry Ave	26-1308 Greensville Ave	110	R							X						05/18/2005
+721246	  26	01306	     	26-1306	Roanoke St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1308 Greensville Ave	26-1307 Brunswick Ave	140	R							X						05/18/2005
+721247	  26	01306	     	26-1306	Roanoke St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1307 Brunswick Ave	26-1304 Nottoway Ave	130	R							X						05/18/2005
+721248	  26	01306	     	26-1306	Roanoke St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1304 Nottoway Ave	26-1302 Dinwiddie Ave	100	R							X						05/18/2005
+721249	  26	01307	     	26-1307	Brunswick Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1349 Warwick St	26-1306 Roanoke St	210	R							X						05/18/2005
+721250	  26	01307	     	26-1307	Brunswick Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1306 Roanoke St	26-1348 Potomac St	280	R							X						05/18/2005
+721251	  26	01307	     	26-1307	Brunswick Ave	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1348 Potomac St	US 1 Boydton Plank Rd	330	R							X						05/18/2005
+721252	  26	01308	     	26-1308	Greensville Ave	026	Dinwiddie County	026	Dinwiddie County	0.13	Dead End	26-1350 Pagan St	60	R							X						05/18/2005
+721253	  26	01308	     	26-1308	Greensville Ave	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1350 Pagan St	26-1349 Warwick St	370	R							X						05/18/2005
+721254	  26	01308	     	26-1308	Greensville Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1349 Warwick St	26-1306 Roanoke St	500	R							X						05/18/2005
+721255	  26	01308	     	26-1308	Greensville Ave	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1306 Roanoke St	26-1348 Potomac St	550	R							X						05/18/2005
+721256	  26	01308	     	26-1308	Greensville Ave	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1348 Potomac St	US 1 Boydton Plank Rd	620	R							X						05/18/2005
+721257	  26	01309	     	26-1309	York St	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1302 Dinwiddie Ave	Dead End	47	R							X						05/18/2005
+721258	  26	01310	     	26-1310	Rockdale Rd	026	Dinwiddie County	026	Dinwiddie County	0.10	Dead End	SR 226 Cox Rd	90	R							X						05/16/2005
+721259	  26	01310	     	26-1310	Cedar Hart Rd	026	Dinwiddie County	026	Dinwiddie County	0.11	SR 226 Cox Rd	26-1311 Grant Ave	1800	R							X						05/16/2005
+721260	  26	01310	     	26-1310	Cedar Hart Rd	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1311 Grant Ave	26-600 Ferndale Rd	1700	R							X						05/16/2005
+721261	  26	01311	     	26-1311	Grant Ave	026	Dinwiddie County	026	Dinwiddie County	0.31	Dead End	26-1310 Rockdale Rd	310	R							X						05/16/2005
+721262	  26	01311	     	26-1311	Grant Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1310 Rockdale Rd	Dead End	80	R							X						05/16/2005
+721263	  26	01312	     	26-1312	Sunset Dr	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1313 Franklin St	SR 226 Cox Rd	1000	R							X						05/16/2005
+721264	  26	01313	     	26-1313	Franklin St	026	Dinwiddie County	026	Dinwiddie County	0.22	26-1312 Sunset Dr	US 1 Boydton Plank Rd	1000	R							X						05/16/2005
+721265	  26	01314	     	26-1314	Glendale Ave	026	Dinwiddie County	026	Dinwiddie County	0.03	Dead End	26-1317 Meadow Lane	20	R							X						05/23/2005
+721266	  26	01314	     	26-1314	Glendale Ave	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1317 Meadow Lane	26-1318 Callear Rd	140	R							X						05/23/2005
+721267	  26	01314	     	26-1314	Glendale Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1318 Callear Rd	26-1315 Del Keith Rd	170	R							X						05/23/2005
+721268	  26	01314	     	26-1314	Glendale Ave	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1315 Del Keith Rd	SR 226 Cox Rd	220	R							X						05/23/2005
+721269	  26	01315	     	26-1315	Del Keith Rd	026	Dinwiddie County	026	Dinwiddie County	0.06	26-603 Sterling Rd	26-1316 Meridan Ave	70	R							X						05/23/2005
+721270	  26	01315	     	26-1315	Del Keith Rd	026	Dinwiddie County	026	Dinwiddie County	0.11	26-1316 Meridan Ave	26-1314 Glendale Ave	80	R							X						05/23/2005
+721271	  26	01316	     	26-1316	Meridan Ave	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1317 Meadow Lane	26-1319 Short St	50	R							X						05/23/2005
+721272	  26	01316	     	26-1316	Meridan Ave	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1319 Short St	26-1318 Callear Rd	170	R							X						05/23/2005
+721273	  26	01316	     	26-1316	Meridan Ave	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1318 Callear Rd	26-1315 Del Keith Rd	80	R							X						05/23/2005
+721274	  26	01317	     	26-1317	Meadow Lane	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1316 Meridan Ave	26-1314 Glendale Ave	70	R							X						05/23/2005
+721275	  26	01318	     	26-1318	Callear Rd	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1316 Meridan Ave	26-1314 Glendale Ave	100	R							X						05/23/2005
+721276	  26	01319	     	26-1319	Short St	026	Dinwiddie County	026	Dinwiddie County	0.06	26-603 Sterling Rd	26-1316 Meridan Ave	180	R							X						05/23/2005
+721277	  26	01320	     	26-1320	Ritchie Ave	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1362 Oak Ct	26-1363 Cross St	200	R							X						05/23/2005
+721278	  26	01320	     	26-1320	Ritchie Ave	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1363 Cross St	US 1 Boydton Plank Rd; SR 142 Simplson Rd	190	R							X						05/23/2005
+721279	  26	01321	     	26-1321	Ashley Lane	026	Dinwiddie County	026	Dinwiddie County	0.18	Dead End	26-601 River Rd	190	R							X						05/16/2005
+721280	  26	01322	     	26-1322	Harwell Dr	026	Dinwiddie County	026	Dinwiddie County	0.14	Dead End	US 1 Boydton Plank Rd	290	R							X						05/23/2005
+721281	  26	01323	     	26-1323	West Dr	026	Dinwiddie County	026	Dinwiddie County	0.40	26-600 Ferndale Rd	Dead End	390	R							X						05/16/2005
+721282	  26	01324	     	26-1324	Ford Ave	026	Dinwiddie County	026	Dinwiddie County	0.15	26-1363 Cross St	US 1 Boyton Plank Rd	1200	R							X						05/23/2005
+785731	  26	01325	     	26-1325	Creek Ave	026	Dinwiddie County	026	Dinwiddie County	0.21	Cul-de-Sac	26-1326 Mt Pleasant St	220	R							X						05/23/2005
+721283	  26	01325	     	26-1325	Creek Ave	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1326 Mt Pleasant St	SR 226 Cox Rd	290	R							X						05/23/2005
+721284	  26	01326	     	26-1326	Mt Pleasant St	026	Dinwiddie County	026	Dinwiddie County	0.21	26-1325 Creek Ave	26-1327 Cedar Lane	60	R							X						05/23/2005
+721285	  26	01327	     	26-1327	Cedar Lane	026	Dinwiddie County	026	Dinwiddie County	0.05	26-1326 Mt Pleasant St	SR 226 Cox Rd	130	R							X						05/23/2005
+721286	  26	01328	     	26-1328	Pinecroft Rd	026	Dinwiddie County	026	Dinwiddie County	0.10	Dead End	26-1329 Brooksdale Rd	70	R							X						05/16/2005
+721287	  26	01328	     	26-1328	Pinecroft Rd	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1329 Brooksdale Rd	26-1330 Balsam Lane	200	R							X						05/16/2005
+721288	  26	01328	     	26-1328	Pinecroft Rd	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1330 Balsam Lane	26-600 Ferndale Rd	390	R							X						05/16/2005
+721289	  26	01329	     	26-1329	Brooksdale Rd	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1330 Balsam Lane	26-1328 Pinecroft Rd	180	R							X						05/16/2005
+721290	  26	01330	     	26-1330	Balsam Lane	026	Dinwiddie County	026	Dinwiddie County	0.17	26-1329 Brooksdale Rd	26-1328 Pinecroft Rd	190	R							X						05/16/2005
+785781	  26	01331	     	26-1331	Creek Circle	026	Dinwiddie County	026	Dinwiddie County	0.03	26-1325 Creek Ave	Cul-de-Sac	40	R							X						06/13/2005
+721291	  26	01332	     	26-1332	Hill St	026	Dinwiddie County	026	Dinwiddie County	0.05	26-1301 Lee Blvd	Dead End	190	R							X						05/16/2005
+721292	  26	01333	     	26-1333	Ferndale Circle	026	Dinwiddie County	026	Dinwiddie County	0.54	26-600 Ferndale Rd	26-600 Ferndale Rd	300	R							X						05/16/2005
+721293	  26	01334	     	26-1334	Floyd Ave	026	Dinwiddie County	026	Dinwiddie County	0.12	Dead End	26-1336 Forest Ave	40	R							X						05/23/2005
+721294	  26	01334	     	26-1334	Floyd Ave	026	Dinwiddie County	026	Dinwiddie County	0.22	26-1336 Forest Ave	FR-290; 26-1335	530	R							X						05/23/2005
+721295	  26	01335	     	26-1335	Church Rd	026	Dinwiddie County	026	Dinwiddie County	0.19	0.19 MS FR-290	FR-290; 26-1334	280	R							X						05/23/2005
+721296	  26	01335	     	26-1335	Church Rd	026	Dinwiddie County	026	Dinwiddie County	0.08	FR-290; 26-1334	Dead End	20	R							X						05/23/2005
+721297	  26	01336	     	26-1336	Forest Ave	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1334 Floyd Ave	26-1337 James Ave	410	R							X						05/23/2005
+721298	  26	01337	     	26-1337	James Ave	026	Dinwiddie County	026	Dinwiddie County	0.12	Dead End	26-1336 Forest Ave	80	R							X						05/23/2005
+721299	  26	01338	     	26-1338	Shadyside Dr	026	Dinwiddie County	026	Dinwiddie County	0.20	26-1335 Church Rd	Cul-de-Sac	160	R							X						05/23/2005
+785782	  26	01339	     	26-1339	Creek Lane	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1325 Creek Ave	Cul-de-Sac	50	R							X						05/23/2005
+721300	  26	01340	     	26-1340	Fairway Lane	026	Dinwiddie County	026	Dinwiddie County	0.15	SR 226 Cox Rd	26-1341 Driver Rd	50	R							X						05/15/2008
+721301	  26	01340	     	26-1340	Fairway Lane	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1341 Driver Rd	26-1342 Wedgewood Rd	270	R							X						05/18/2005
+721302	  26	01340	     	26-1340	Fairway Lane	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1342 Wedgewood Rd	Dead End	80	R							X						05/18/2005
+721303	  26	01341	     	26-1341	Driver Rd	026	Dinwiddie County	026	Dinwiddie County	0.17	26-1343 Greenway Rd	26-1340 Fairway Lane	150	R							X						05/18/2005
+721304	  26	01342	     	26-1342	Wedgewood Rd	026	Dinwiddie County	026	Dinwiddie County	0.20	26-1343 Greenway Rd	26-1340 Fairway Lane	110	R							X						05/18/2005
+721305	  26	01343	     	26-1343	Greenway Rd	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1341 Driver Rd	26-1342 Wedgewood Rd	100	R							X						05/18/2005
+721306	  26	01344	     	26-1344	Orchard Rd	026	Dinwiddie County	026	Dinwiddie County	0.09	SR 226 Cox Rd	26-1345 Steven Ave	320	R							X						05/16/2005
+721307	  26	01344	     	26-1344	Orchard Rd	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1345 Steven Ave	26-1346 Wayne Ave	270	R							X						05/16/2005
+721308	  26	01345	     	26-1345	Steven Ave	026	Dinwiddie County	026	Dinwiddie County	0.06	Dead End	26-1344 Orchard Rd	40	R							X						05/18/2005
+721309	  26	01345	     	26-1345	Steven Ave	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1344 Orchard Rd	Dead End	40	R							X						05/18/2005
+721310	  26	01346	     	26-1346	Wayne Ave	026	Dinwiddie County	026	Dinwiddie County	0.07	Dead End	26-1344 Orchard Rd	30	R							X						05/18/2005
+721311	  26	01346	     	26-1346	Wayne Ave	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1344 Orchard Rd	26-1347 Orchard Dr	210	R							X						05/18/2005
+721312	  26	01346	     	26-1346	Wayne Ave	026	Dinwiddie County	026	Dinwiddie County	0.01	26-1347 Orchard Dr	Dead End	47	R							X						05/18/2005
+721313	  26	01347	     	26-1347	Orchard Dr	026	Dinwiddie County	026	Dinwiddie County	0.17	Dead End	26-1346 Wayne Ave	130	R							X						05/18/2005
+721314	  26	01348	     	26-1348	Potomac St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1305 Surry Ave	26-1308 Greensville Ave	120	R							X						05/23/2005
+721315	  26	01348	     	26-1348	Potomac St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1308 Greensville Ave	26-1307 Brunswick Ave	150	R							X						05/23/2005
+721316	  26	01348	     	26-1348	Potomac St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1307 Brunswick Ave	26-1304 Nottoway Ave	130	R							X						05/23/2005
+721317	  26	01348	     	26-1348	Potomac St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1304 Nottoway Ave	26-1302 Dinwiddie Ave	120	R							X						05/23/2005
+721318	  26	01349	     	26-1349	Warwick St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1308 Greensville Ave	26-1307 Brunswick Ave	130	R							X						05/18/2005
+721319	  26	01349	     	26-1349	Warwick St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1307 Brunswick Ave	26-1304 Nottoway Ave	80	R							X						05/18/2005
+721320	  26	01350	     	26-1350	Pagan St	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1305 Surry Ave	26-1308 Greensville Ave	50	R							X						05/18/2005
+721321	  26	01352	     	26-1352	Elsie Dr	026	Dinwiddie County	026	Dinwiddie County	0.19	26-601 River Rd	26-1354 Mark Dr	260	R							X						05/16/2005
+721322	  26	01352	     	26-1352	Elsie Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1354 Mark Dr	Cul-de-Sac	120	R							X						05/16/2005
+721323	  26	01353	     	26-1353	Susie Dr	026	Dinwiddie County	026	Dinwiddie County	0.19	26-601 River Rd	26-1354 Mark Dr	280	R							X						05/16/2005
+721324	  26	01353	     	26-1353	Susie Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1354 Mark Dr	Cul-de-Sac	100	R							X						05/16/2005
+721325	  26	01354	     	26-1354	Mark Dr	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1352 Elsie Dr	26-1353 Susie Dr	60	R							X						05/16/2005
+721326	  26	01354	     	26-1354	Mark Dr	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1353 Susie Dr	26-1390 Jackie Dr	70	R							X						05/27/2008
+721327	  26	01354	     	26-1354	Mark Dr	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1390 Jackie Dr	Dead End	60	R							X						05/27/2008
+721328	  26	01355	     	26-1355	E Autumn Dr	026	Dinwiddie County	026	Dinwiddie County	0.18	26-601 E, River Rd	26-1356 Sparrow Ct	550	R							X						05/27/2008
+721329	  26	01355	     	26-1355	E Autumn Dr	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1356 Sparrow Ct	26-1367 Iris Circle	190	R							X						05/16/2005
+721330	  26	01355	     	26-1355	E Autumn Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1367 Iris Circle	26-1368 Woods Ct	140	R							X						05/16/2005
+721331	  26	01355	     	26-1355	W Autumn Dr	026	Dinwiddie County	026	Dinwiddie County	0.28	26-1368 Woods Ct	26-1369 Westbriar Lane	250	R							X						05/23/2005
+721332	  26	01355	     	26-1355	W Autumn Dr	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1369 Westbriar Lane	26-601 W, River Rd	380	R							X						05/23/2005
+721333	  26	01356	     	26-1356	Sparrow Ct	026	Dinwiddie County	026	Dinwiddie County	0.09	Dead End	26-1355, E Autumn Dr	50	R							X						05/27/2008
+721334	  26	01356	     	26-1356	Sparrow Ct	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1355, E Autumn Dr	Dead End	90	R							X						05/27/2008
+721335	  26	01357	     	26-1357	Bancroft Dr	026	Dinwiddie County	026	Dinwiddie County	0.26	26-1358 Mansfield Dr	26-1360 Ffieldshire Lane	150	R							X						05/27/2008
+721336	  26	01357	     	26-1357	Bancroft Dr	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1360 Fieldshire Lane	26-1359 Gaydell Dr	250	R							X						05/27/2008
+721337	  26	01357	     	26-1357	Bancroft Dr	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1359 Gaydell Dr	26-601 River Rd	670	R							X						05/27/2008
+721338	  26	01358	     	26-1358	Mansfield Dr	026	Dinwiddie County	026	Dinwiddie County	0.03	Dead End	26-1357 Bancroft Dr	20	R							X						05/27/2008
+721339	  26	01358	     	26-1358	Mansfield Dr	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1357 Bancroft Dr	26-1360 Gap	270	R							X						05/27/2008
+721340	  26	01358	     	26-1358	Mansfield Dr	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1359 Gap	26-601 River Rd	700	R							X						05/27/2008
+721341	  26	01359	     	26-1359	Gaydell Dr	026	Dinwiddie County	026	Dinwiddie County	0.04	Dead End	26-1364 Keithwood Dr	20	R							X						05/16/2005
+721342	  26	01359	     	26-1359	Gaydell Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1364 Keithwood Dr	26-1357 Bancroft Dr	450	R							X						05/16/2005
+721343	  26	01359	     	26-1359	Gaydell Dr	026	Dinwiddie County	026	Dinwiddie County	0.29	26-1357 Bancroft Dr	26-1358 Mansfield Dr	350	R							X						05/27/2008
+721344	  26	01359	     	26-1359	Gaydell Dr	026	Dinwiddie County	026	Dinwiddie County	0.22	26-1358 Mansfield Dr	26-1387 Beth Lane	280	R							X						05/27/2008
+721345	  26	01359	     	26-1359	Gaydell Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1387 Beth Lane	26-1385 McIlwaine Dr	440	R							X						05/27/2008
+721346	  26	01360	     	26-1360	Fieldshire Lane	026	Dinwiddie County	026	Dinwiddie County	0.23	26-1357 Bancroft Dr	26-1358 Mansfield Dr	180	R							X						05/27/2008
+783785	  26	01361	     	26-1361	Walking Landing Dr	026	Dinwiddie County	026	Dinwiddie County	0.14	26-1366 Walking Landing Ct	SR 226 Cox Rd	500	R							X						05/21/2008
+721347	  26	01362	     	26-1362	Oak Ct	026	Dinwiddie County	026	Dinwiddie County	0.12	26-603 Sterling Rd	26-1320 Ritchie Ave	230	R							X						05/23/2005
+721348	  26	01363	     	26-1363	Cross St	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1320 Ritchie Ave	26-1324 Ford Ave	70	R							X						05/23/2005
+721349	  26	01364	     	26-1364	Keithwood Dr	026	Dinwiddie County	026	Dinwiddie County	0.07	Dead End	26-1365 Timpan Lane	30	R							X						05/16/2005
+721350	  26	01364	     	26-1364	Keithwood Dr	026	Dinwiddie County	026	Dinwiddie County	0.21	26-1365 Timpan Lane	26-1359 Gaydell Dr	320	R							X						05/16/2005
+721351	  26	01365	     	26-1365	Timpan Lane	026	Dinwiddie County	026	Dinwiddie County	0.11	26-1364 Keithwood Dr	Cul-de-Sac	140	R							X						05/16/2005
+783786	  26	01366	     	26-1366	Walking Landing Ct	026	Dinwiddie County	026	Dinwiddie County	0.46	Dead End	Dead End	500	R							X						05/21/2008
+721352	  26	01367	     	26-1367	Iris Circle	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1355, E Autumn Dr	Cul-de-Sac	30	R							X						05/16/2005
+721353	  26	01368	     	26-1368	Woods Ct	026	Dinwiddie County	026	Dinwiddie County	0.05	Cul-de-Sac	26-1355,  W Autumn Dr	40	R							X						05/16/2005
+721354	  26	01369	     	26-1369	Westbriar Lane	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1355, W Autumn Dr	Cul-de-Sac	30	R							X						05/16/2005
+721355	  26	01370	     	26-1370	Bell St	026	Dinwiddie County	026	Dinwiddie County	0.16	26-1371 Hazel Ave	26-672 Weakley Rd	50	R							X						05/23/2005
+721356	  26	01371	     	26-1371	Hazel Ave	026	Dinwiddie County	026	Dinwiddie County	0.18	Cul-de-Sac	26-1370 Bell St	90	R							X						05/19/2008
+721357	  26	01371	     	26-1371	Hazel Ave	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1370 Bell St	26-672 Weakley Rd	120	R							X						05/19/2008
+783787	  26	01372	     	26-1372	A P Hill Dr	026	Dinwiddie County	026	Dinwiddie County	0.09	US 1 Boydton Plank Rd	26-1373 Sentry Hill Ct	520	R							X						05/19/2008
+783788	  26	01373	     	26-1373	Sentry Hill Ct	026	Dinwiddie County	026	Dinwiddie County	0.44	26-1372 Begin Loop	End Loop	400	R							X						05/19/2008
+721358	  26	01375	     	26-1375	Sequoia Ct	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1382 Sequoia Rd	Cul-de-Sac	120	R							X						05/23/2005
+721359	  26	01376	     	26-1376	Sierra Rd	026	Dinwiddie County	026	Dinwiddie County	0.07	Cul-de-Sac	26-1381 Chesdin Dr	60	R							X						05/23/2005
+721360	  26	01377	     	26-1377	Yosemite Rd	026	Dinwiddie County	026	Dinwiddie County	0.07	Cul-de-Sac	26-1381 Chesdin Dr	50	R							X						05/21/2008
+721361	  26	01378	     	26-1378	Woodstream Ct	026	Dinwiddie County	026	Dinwiddie County	0.11	Cul-de-Sac	26-1379 Woodstream Ct	120	R							X						05/21/2008
+721362	  26	01379	     	26-1379	Woodstream Ct	026	Dinwiddie County	026	Dinwiddie County	0.24	26-1380 Woodstream Dr	26-1393 Brickwood Meadow Dr	170	R							X						05/21/2008
+721363	  26	01380	     	26-1380	Woodstream Dr	026	Dinwiddie County	026	Dinwiddie County	0.31	Dead End	SR 226 Cox Rd	680	R							X						05/18/2005
+721364	  26	01380	     	26-1380	Woodstream Dr	026	Dinwiddie County	026	Dinwiddie County	0.53	SR 226 Cox Rd	Dead End	150	R							X						05/18/2005
+721365	  26	01381	     	26-1381	Chesdin Dr	026	Dinwiddie County	026	Dinwiddie County	0.43	Dead End	SR 226 Cox Rd	590	R							X						05/23/2005
+721366	  26	01382	     	26-1382	Sequoia Rd	026	Dinwiddie County	026	Dinwiddie County	0.27	Dead End	26-1381 Chesdin Dr	190	R							X						05/15/2008
+721367	  26	01383	     	26-1383	Olympic Lane	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1382 Sequoia Rd	Cul-de-Sac	90	R							X						05/15/2008
+721368	  26	01384	     	26-1384	Yellowstone Dr	026	Dinwiddie County	026	Dinwiddie County	0.15	26-1382 Sequoia Rd	SR 226; 26-1384	600	R							X						05/15/2008
+721369	  26	01385	     	26-1385	McIlwaine Dr	026	Dinwiddie County	026	Dinwiddie County	0.30	Dead End	26-1386 Raymond Rd	580	R							X						05/27/2008
+721370	  26	01385	     	26-1385	McIlwaine Dr	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1386 Raymond Rd	26-1359 Gaydell Dr	920	R							X						05/27/2008
+721371	  26	01385	     	26-1385	McIlwaine Dr	026	Dinwiddie County	026	Dinwiddie County	0.11	26-1359 Gaydell Dr	26-601 River Rd	1400	R							X						05/27/2008
+721372	  26	01386	     	26-1386	Raymond Rd	026	Dinwiddie County	026	Dinwiddie County	0.17	Cul-de-Sac	26-1399 Tower Ct	140	R							X						05/27/2008
+721373	  26	01387	     	26-1387	Beth Lane	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1386 Raymond Rd	26-1359 Gaydell Dr	120	R							X						05/27/2008
+721374	  26	01388	     	26-1388	Gloria Dr	026	Dinwiddie County	026	Dinwiddie County	0.03	Dead End	26-1389 Paul Dr	10	R							X						05/16/2005
+721375	  26	01388	     	26-1388	Gloria Dr	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1389 Paul Dr	26-1385 McIlwaine Dr	180	R							X						05/16/2005
+721376	  26	01389	     	26-1389	Paul Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1388 Gloria Dr	Cul-de-Sac	110	R							X						05/16/2005
+721377	  26	01390	     	26-1390	Jackie Dr	026	Dinwiddie County	026	Dinwiddie County	0.09	26-601 River Rd	26-1391 James Ct	450	R							X						05/27/2008
+721378	  26	01390	     	26-1390	Jackie Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1391 James Ct	26-1354 Mark Dr	390	R							X						05/27/2008
+721379	  26	01390	     	26-1390	Jackie Dr	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1354 Mark Dr	26-1392 Donnie Ct	160	R							X						05/27/2008
+721380	  26	01390	     	26-1390	Jackie Dr	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1392 Donnie Ct	Cul-de-Sac	70	R							X						05/27/2008
+721381	  26	01391	     	26-1391	James Ct	026	Dinwiddie County	026	Dinwiddie County	0.06	Cul-de-Sac	26-1390 Jackie Dr	70	R							X						05/27/2008
+721382	  26	01392	     	26-1392	Donnie Ct	026	Dinwiddie County	026	Dinwiddie County	0.06	Cul-de-Sac	26-1390 Jackie Dr	60	R							X						05/27/2008
+793793	  26	01393	     	26-1393	Brickwood Meadow Dr	026	Dinwiddie County	026	Dinwiddie County	0.19	SR 226 Cox Rd	26-1395 Brickwood Meadow Lane	400	R							X						05/21/2008
+793794	  26	01394	     	26-1394	Brickwood Meadow Terrace	026	Dinwiddie County	026	Dinwiddie County	0.05	Cul-de-Sac	26-1393 Brickwood Meadow Dr	40	R							X						05/21/2008
+793795	  26	01395	     	26-1395	Brickwood Meadow Lane	026	Dinwiddie County	026	Dinwiddie County	0.35	26-1380 Woodstream Dr	Cul-de-Sac	180	R							X						05/21/2008
+793796	  26	01396	     	26-1396	Brickwood Meadow Ct	026	Dinwiddie County	026	Dinwiddie County	0.15	Cul-de-Sac	26-1395 Brickwood Meadow Lane	130	R							X						05/21/2008
+786174	  26	01397	     	26-1397	Woodstream Place	026	Dinwiddie County	026	Dinwiddie County	0.05	Dead End	26-1380 Woodstream Dr	47	R							X						05/25/2005
+786175	  26	01398	     	26-1398	Woodstream Circle	026	Dinwiddie County	026	Dinwiddie County	0.06	Dead End	26-1380 Woodstream Dr	50	R							X						05/25/2005
+794357	  26	01399	     	26-1399	Tower Ct	026	Dinwiddie County	026	Dinwiddie County	0.09	Cul-de-Sac	26-1386 Raymond Rd	220	R							X						05/27/2008
+795244	  26	01399	     	26-1399	Tower Ct	026	Dinwiddie County	026	Dinwiddie County	0.19	26-1386 Raymond Rd	Cul-de-Sac	0	?							X
+721383	  26	01401	     	26-1401	Springcreek Rd	026	Dinwiddie County	026	Dinwiddie County	0.41	Dead End	US 1 Boydton Plank Rd	150	R							X						05/25/2005
+721384	  26	01402	     	26-1402	Main St	026	Dinwiddie County	026	Dinwiddie County	0.10	US 1 S, Boydton Plank Rd	26-619 Courthouse Rd	200	R							X						05/25/2005
+721385	  26	01402	     	26-1402	Sycamore Dr	026	Dinwiddie County	026	Dinwiddie County	0.15	26-619 Courthouse Rd	US 1 N, Boydton Plank Rd	260	R							X						05/25/2005
+721386	  26	01403	     	26-1403	 	026	Dinwiddie County	026	Dinwiddie County	0.11	26-703 Carson Rd	Dead End	20	R							X						06/13/2005
+721387	  26	01404	     	26-1404	Rowanty Lane	026	Dinwiddie County	026	Dinwiddie County	0.06	26-619 Courthouse Rd	Dead End	50	R							X						05/25/2005
+721388	  26	01405	     	26-1405	Lakewood Dr	026	Dinwiddie County	026	Dinwiddie County	0.20	26-627 Courthouse Rd	26-1406 Stonewall Dr	220	R							X						05/02/2005
+721389	  26	01405	     	26-1405	Lakewood Dr	026	Dinwiddie County	026	Dinwiddie County	0.16	26-1406 Stonewall Dr	Dead End	60	R							X						05/02/2005
+721390	  26	01406	     	26-1406	Stonewall Dr	026	Dinwiddie County	026	Dinwiddie County	0.43	26-1405 Lakewood Dr	Cul-de-Sac	150	R							X						05/02/2005
+721391	  26	01407	     	26-1407	Bonneville Lane	026	Dinwiddie County	026	Dinwiddie County	0.50	Dead End	26-627 Courthouse Rd	180	R							X						05/02/2005
+721392	  26	01410	     	26-1410	Allen Rd	026	Dinwiddie County	026	Dinwiddie County	0.08	26-626 Flatfoot Rd	26-1411 Dorthy Ct	540	R							X						05/25/2005
+721393	  26	01410	     	26-1410	Allen Rd	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1411 Dorthy Ct	26-1412 Frances Dr	480	R							X						05/25/2005
+721394	  26	01410	     	26-1410	Allen Rd	026	Dinwiddie County	026	Dinwiddie County	0.11	26-1412 Frances Dr	26-1413 S, Albert St	320	R							X						05/25/2005
+721395	  26	01410	     	26-1410	Allen Rd	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1413 S, Albert St	26-1413 N, Albert St	80	R							X						05/25/2005
+721396	  26	01410	     	26-1410	Allen Rd	026	Dinwiddie County	026	Dinwiddie County	0.05	26-1413 N, Albert St	Dead End	5	R							X						05/25/2005
+721397	  26	01411	     	26-1411	Dorthy Ct	026	Dinwiddie County	026	Dinwiddie County	0.12	Cul-de-Sac	26-1410 Allen Rd	60	R							X						05/25/2005
+721398	  26	01412	     	26-1412	Frances Dr	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1410 Allen Rd	Dead End	70	R							X						05/25/2005
+721399	  26	01413	     	26-1413	Albert St	026	Dinwiddie County	026	Dinwiddie County	0.28	26-1410 S, Allen Rd	26-1410 N, Allen Rd	110	R							X						05/25/2005
+721400	  26	01414	     	26-1414	Bishop St	026	Dinwiddie County	026	Dinwiddie County	0.16	Dead End	26-1415 Rainbow St	140	R							X						05/25/2005
+721401	  26	01414	     	26-1414	Bishop St	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1415 Rainbow St	26-619 Courthouse Rd	100	R							X						05/25/2005
+721402	  26	01415	     	26-1415	Rainbow St	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1414 Bishop St	Dead End	20	R							X						05/25/2005
+786176	  26	01420	     	26-1420	River Run Dr	026	Dinwiddie County	026	Dinwiddie County	0.15	26-601 River Rd	26-1423 Plantation Dr	950	R							X						06/13/2005
+786177	  26	01421	     	26-1421	Lake Dr	026	Dinwiddie County	026	Dinwiddie County	0.27	Cul-de-Sac	Cul-de-Sac	110	R							X						06/13/2005
+786178	  26	01422	     	26-1422	Plantation Pl	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1421 Lake Dr	Cul-de-Sac	40	R							X						06/13/2005
+786179	  26	01423	     	26-1423	Plantation Dr	026	Dinwiddie County	026	Dinwiddie County	0.22	Dead End	Dead End	80	R							X						06/13/2005
+786180	  26	01424	     	26-1424	Plantation Ct	026	Dinwiddie County	026	Dinwiddie County	0.05	Cul-de-Sac	26-1423 Plantation Dr	50	R							X						06/13/2005
+786181	  26	01425	     	26-1425	Mark Dr	026	Dinwiddie County	026	Dinwiddie County	0.05	26-1354 Mark Dr	26-1423 Plantation Dr	110	R							X						06/13/2005
+794358	  26	01430	     	26-1430	Sons Way	026	Dinwiddie County	026	Dinwiddie County	0.15	Cul-de-Sac	26-1382 Sequoia Rd	190	R							X						05/19/2008
+794359	  26	01431	     	26-1431	Bryans Circle	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1430 Sons Way	Cul-de-Sac	20	R							X						05/19/2008
+794360	  26	01432	     	26-1432	Kyles Ct	026	Dinwiddie County	026	Dinwiddie County	0.03	Cul-de-Sac	26-1430 Sons Way	30	R							X						05/19/2008
+721403	  26	01501	     	26-1501	Sutherland Dr	026	Dinwiddie County	026	Dinwiddie County	0.17	26-1504 Woodland Dr	26-1502 Woodland Rd	120	R							X						05/25/2005
+721404	  26	01501	     	26-1501	Sutherland Dr	026	Dinwiddie County	026	Dinwiddie County	0.29	26-1502 Woodland Rd	US 460 Cox Rd	290	R							X						05/25/2005
+721405	  26	01502	     	26-1502	Woodland Rd	026	Dinwiddie County	026	Dinwiddie County	0.08	26-1501 Sutherland Dr	26-1503 Belville Dr	80	R							X						05/25/2005
+721406	  26	01503	     	26-1503	Belville Dr	026	Dinwiddie County	026	Dinwiddie County	0.12	26-1502 Woodland Rd	Dead End	60	R							X						05/25/2005
+721407	  26	01504	     	26-1504	Woodland Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1505 Tara Dr	26-1501 Sutherland Dr	80	R							X						05/25/2005
+721408	  26	01504	     	26-1504	Woodland Dr	026	Dinwiddie County	026	Dinwiddie County	0.14	26-1501 Sutherland Dr	Dead End	30	R							X						05/25/2005
+721409	  26	01505	     	26-1505	Tara Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1504 Woodland Dr	Dead End	70	R							X						05/25/2005
+721410	  26	01509	     	26-1509	Leonard Dr	026	Dinwiddie County	026	Dinwiddie County	0.23	26-1510 Chesdin Blvd	Dead End	200	R							X						05/05/2008
+721411	  26	01510	     	26-1510	Chesdin Blvd	026	Dinwiddie County	026	Dinwiddie County	0.57	26-601 River Rd	26-1512 Ridgecrest Dr	850	R							X						05/25/2005
+721412	  26	01510	     	26-1510	Chesdin Blvd	026	Dinwiddie County	026	Dinwiddie County	0.46	26-1512 Ridgecrest Dr	26-1511 Chesdin Ct	290	R							X						05/25/2005
+721413	  26	01510	     	26-1510	Chesdin Blvd	026	Dinwiddie County	026	Dinwiddie County	0.06	26-1511 Chesdin Ct	Dead End	30	R							X						05/25/2005
+721414	  26	01511	     	26-1511	Chesdin Ct	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1510 Chesdin Blvd	Cul-de-Sac	40	R							X						05/25/2005
+721415	  26	01512	     	26-1512	Ridgecrest Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1510 Chesdin Blvd	26-1513 Shoreview Dr	46	R							X						05/25/2005
+721416	  26	01513	     	26-1513	Shoreview Dr	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1509 Leonard Dr	26-1512 Ridgecrest Dr	220	R							X						05/05/2008
+721417	  26	01513	     	26-1513	Shoreview Dr	026	Dinwiddie County	026	Dinwiddie County	0.15	26-1512 Ridgecrest Dr	26-1514 Waterview Ct	160	R							X						05/25/2005
+721418	  26	01513	     	26-1513	Shoreview Dr	026	Dinwiddie County	026	Dinwiddie County	0.13	26-1514 Waterview Ct	Cul-de-Sac	80	R							X						05/25/2005
+721419	  26	01514	     	26-1514	Waterview Ct	026	Dinwiddie County	026	Dinwiddie County	0.05	Cul-de-Sac	26-1513 Shoreview Dr	30	R							X						05/25/2005
+721420	  26	01515	     	26-1515	Edrie Dr	026	Dinwiddie County	026	Dinwiddie County	0.13	26-601 River Rd	26-1516 Eugene Dr	430	R							X						05/25/2005
+721421	  26	01515	     	26-1515	Edrie Dr	026	Dinwiddie County	026	Dinwiddie County	0.04	26-1516 Eugene Dr	Dead End	20	R							X						05/25/2005
+721422	  26	01516	     	26-1516	Eugene Dr	026	Dinwiddie County	026	Dinwiddie County	0.12	Dead End	26-1517 Independence Dr	90	R							X						05/25/2005
+721423	  26	01516	     	26-1516	Eugene Dr	026	Dinwiddie County	026	Dinwiddie County	0.22	26-1517 Independence Dr	26-1515 Edrie Dr	410	R							X						05/25/2005
+721424	  26	01517	     	26-1517	Independence Dr	026	Dinwiddie County	026	Dinwiddie County	0.07	26-1518 Hope Dr	26-1516 Eugene Dr	170	R							X						05/25/2005
+721425	  26	01518	     	26-1518	Hope Dr	026	Dinwiddie County	026	Dinwiddie County	0.07	Dead End	26-1517 Independence Dr	70	R							X						05/25/2005
+721426	  26	01518	     	26-1518	Hope Dr	026	Dinwiddie County	026	Dinwiddie County	0.10	26-1517 Independence Dr	Dead End	80	R							X						05/25/2005
+794361	  26	01519	     	26-1519	Seay Dr	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1510 Chesdin Blvd	Cul-de-Sac	30	R							X						05/27/2008
+721427	  26	01530	     	26-1530	Oak St	026	Dinwiddie County	026	Dinwiddie County	0.07	Dead End	26-1531 Elm St	40	R							X						04/30/2008
+721428	  26	01530	     	26-1530	Oak St	026	Dinwiddie County	026	Dinwiddie County	0.09	26-1531 Elm St	26-751 Cox Rd	80	R							X						04/30/2008
+721429	  26	01531	     	26-1531	Elm St	026	Dinwiddie County	026	Dinwiddie County	0.23	26-1530 Oak St	26-751 Cox Rd	60	R							X						04/30/2008
+721430	  26	09116	     	26-9116	 	026	Dinwiddie County	026	Dinwiddie County	0.14	26-751 Cox Rd	Cul-de-Sac	740	R							X						05/02/2005
+721431	  26	09117	     	26-9117	 	257	Town of McKenney	026	Dinwiddie County	0.04	McKenney Elem School	26-614 Sunnyside Dr	240	R							X						05/12/2005
+721432	  26	09118	     	26-9118	 	026	Dinwiddie County	026	Dinwiddie County	0.07	Dinwiddie Elem School	0.07 MN US 1	260	R							X						05/19/2008
+721433	  26	09118	     	26-9118	 	026	Dinwiddie County	026	Dinwiddie County	0.05	0.07 MN US 1	0.12 MN US 1	100	R							X						05/02/2005
+721434	  26	09118	     	26-9118	 	026	Dinwiddie County	026	Dinwiddie County	0.09	0.12 MN US 1	0.21 MN US 1	160	R							X						05/02/2005
+721435	  26	09118	     	26-9118	 	026	Dinwiddie County	026	Dinwiddie County	0.09	0.21 MN US 1	US 1 Boydton Plank Rd	200	R							X						05/02/2005
+721436	  26	09119	     	26-9119	 	257	Town of McKenney	026	Dinwiddie County	0.02	26-1001 Bolling Rd	0.02 MN 26-1001	30	R							X						1999
+721437	  26	09119	     	26-9119	 	257	Town of McKenney	026	Dinwiddie County	0.10	0.02 MN 26-1001	Cul-de-Sac	40	R							X						1999
+721438	  26	09535	     	26-9535	Eastview Dr	026	Dinwiddie County	026	Dinwiddie County	0.23	US 1 Boydton Plank Rd	0.23 MN US 1	890	R							X						05/19/2008
+721439	  26	09535	     	26-9535	Eastview Dr	026	Dinwiddie County	026	Dinwiddie County	0.20	0.23 MN US 1	0.43 MN US 1	800	R							X						05/19/2008
+721440	  26	09535	     	26-9535	Eastview Dr	026	Dinwiddie County	026	Dinwiddie County	0.13	0.43 MN US 1	US 1 Boydton Plank Rd	700	R							X						05/19/2008
+721441	  26	09920	     	26-9920	 	026	Dinwiddie County	026	Dinwiddie County	0.10	Cul-de-Sac	26-751 Cox Rd	40	R							X						05/19/2008
+721442	  26	09921	     	26-9921	 	026	Dinwiddie County	026	Dinwiddie County	0.11	US 460 Airport St	US 460 Airport St	590	R							X						05/02/2005
+721443	  26	09922	     	26-9922	 	026	Dinwiddie County	026	Dinwiddie County	0.11	US 1 Boydton Plank Rd	Eastside Elem Sch	150	R							X						05/02/2005
+721444	  26	09923	     	26-9923	 	026	Dinwiddie County	026	Dinwiddie County	0.05	Dinwiddie High School	0.05 MN 26-627 Courthouse Rd	620	R							X						05/19/2008
+721445	  26	09923	     	26-9923	 	026	Dinwiddie County	026	Dinwiddie County	0.13	0.05 MN 26-627 Courthouse Rd	0.18 MN 26-627 Courthouse Rd	720	R							X						05/02/2005
+721446	  26	09923	     	26-9923	 	026	Dinwiddie County	026	Dinwiddie County	0.15	0.18 MN 26-627 Courthouse Rd	0.33 MN 26-627 Courthouse Rd	700	R							X						05/02/2005
+721447	  26	09923	     	26-9923	 	026	Dinwiddie County	026	Dinwiddie County	0.11	0.33 MN 26-627 Courthouse Rd	26-627 Courthouse Rd	700	R							X						05/02/2005
+303782	  74	00608	     	74-608	Johnson Rd	026	Dinwiddie County	074	Prince George County	0.31	Prince George County Line	SR 345; 26-677	960	N	99%	0%	0%	1%	0%	0%	N	0.1134	N	0.5966	1000	N	2008
+301372	  74	00608	     	74-608	Johnson Rd	026	Dinwiddie County	074	Prince George County	1.00	SR 345; 26-677	SCL Petersburg	1300	F	99%	0%	0%	0%	0%	0%	C	0.1007	F	0.5584	1400	F	2008
+781720	 123	00003	     	123-3	Vaughn Rd	123	City of Petersburg	123	City of Petersburg	0.64	SCL Petersburg; 26-675	123-9013 Halifax Rd	1000	F							X	0.0873	F	0.6887	1100	F	2008
+658148	 123	00004	     	123-4	Wells Rd	123	City of Petersburg	123	City of Petersburg	0.41	Halifax Rd	Squirrel Level Rd	3900	F	87%	0%	1%	3%	8%	0%	C	0.0874	F	0.5585	4300	F	2008
+658065	 123	09002	     	123-9002	Halifax Rd	123	City of Petersburg	123	City of Petersburg	0.18	CSX RR	Patterson St	6400	F	99%	1%	1%	0%	0%	0%	F	0.0795	F	0.5262	7000	F	2008
+658066	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.58	Patterson St	Baylors Lane	5600	F	99%	1%	1%	0%	0%	0%	F	0.0837	F	0.0000	6100	F	2008
+658067	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.19	Baylors Lane	Virginia Ave	5900	F	99%	1%	1%	0%	0%	0%	F	0.0800	F	0.0000	6400	F	2008
+658068	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.37	Virginia Ave	Lee Ave	8300	F	99%	1%	1%	0%	0%	0%	F	0.0765	F	0.0000	9100	F	2008
+658069	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.29	Lee Ave	Liberty St	8000	F	99%	1%	1%	0%	0%	0%	F	0.0781	F	0.0000	8700	F	2008
+658071	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.28	Liberty St	US 1, US 460 W Wythe St	8500	F	99%	1%	1%	0%	0%	0%	C	0.0783	F	0.0000	9300	F	2008
+658128	 123	09002	     	123-9002	Union St	123	City of Petersburg	123	City of Petersburg	0.12	US 1, US 460 W Wythe St	US 1, US 460 W Washington St	4000	G	96%	1%	2%	0%	0%	0%	C				4300	G	2008
+658127	 123	09002	     	123-9002	Union St	123	City of Petersburg	123	City of Petersburg	0.17	US 1, US 460 W Washington St	W Tabb St	1400	F	93%	1%	4%	1%	1%	0%	C	0.1162	F	0.5228	1500	F	2008
+658024	 123	09004	     	123-9004	Defense Rd	123	City of Petersburg	123	City of Petersburg	0.47	Boydton Plank Rd	Squirrel Level Rd	2200	F	98%	0%	0%	1%	1%	0%	C	0.0963	F	0.6488	2400	F	2008
+658025	 123	09004	     	123-9004	Defense Dr	123	City of Petersburg	123	City of Petersburg	1.77	Squirrel Level Rd	Johnson Rd	3700	F	99%	1%	0%	0%	0%	0%	F	0.0761	F	0.6390	4000	F	2008
+658026	 123	09004	     	123-9004	South Boulevard	123	City of Petersburg	123	City of Petersburg	0.92	Johnson Rd	S. Sycamore St	8200	F	99%	1%	0%	0%	0%	0%	C	0.0911	F	0.0000	9000	F	2008
+658027	 123	09004	     	123-9004	South Boulevard	123	City of Petersburg	123	City of Petersburg	0.18	S. Sycamore St	Crater Rd	5600	F	99%	1%	0%	0%	0%	0%	F	0.0950	F	0.5008	6100	F	2008
+658028	 123	09004	     	123-9004	South Boulevard	123	City of Petersburg	123	City of Petersburg	0.72	Crater Rd	Anderson St	2100	F	99%	1%	0%	0%	0%	0%	F	0.0871	F	0.5711	2200	F	2008
+658055	 123	09006	     	123-9006	Flank Rd	123	City of Petersburg	123	City of Petersburg	0.96	Halifax Rd	Johnson Rd	1900	F	96%	0%	0%	3%	0%	0%	C	0.0994	F	0.6085	2100	F	2008
+658056	 123	09006	     	123-9006	Flank Rd	123	City of Petersburg	123	City of Petersburg	0.47	Johnson Rd	Birdsong Rd	3200	F	96%	0%	0%	3%	0%	0%	F	0.0857	F	0.5732	3400	F	2008
+659057	 123	09006	     	123-9006	Flank Rd	123	City of Petersburg	123	City of Petersburg	0.75	Birdsong Rd	Fort Hayes Dr	2600	F	96%	0%	0%	3%	0%	0%	F	0.0862	F	0.5031	2800	F	2008
+658058	 123	09006	     	123-9006	Flank Rd	123	City of Petersburg	123	City of Petersburg	0.91	Fort Hayes Dr	Flank Rd N	3100	F	98%	0%	1%	0%	1%	0%	C	0.0817	F	0.5814	3400	F	2008
+658059	 123	09006	     	123-9006	Flank Rd ( 1-Way )	123	City of Petersburg	123	City of Petersburg	0.13	Flank Rd N	US 301 S Crater Rd	2400	F	98%	1%	1%	0%	0%	0%	C	0.0820	F	1.0000	2600	F	2008
+658102	 123	09008	     	123-9008	Rives Rd	123	City of Petersburg	123	City of Petersburg	0.55	US 301 S Crater Rd	I- 95	6700	F	98%	0%	1%	0%	1%	0%	C	0.0900	F	0.0000	7300	F	2008
+658103	 123	09008	     	123-9008	Rives Rd	123	City of Petersburg	123	City of Petersburg	0.27	I- 95	ECL Petersburg	5400	F	98%	0%	0%	0%	1%	0%	C	0.0997	F	0.0000	5900	F	2008
+658029	 123	09009	     	123-9009	Dupuy Rd	123	City of Petersburg	123	City of Petersburg	1.24	SR 142 Boydton Plank Rd	Grigg St	440	F	98%	1%	1%	0%	0%	0%	F	0.1046	F	0.5306	470	F	2008
+658030	 123	09009	     	123-9009	Dupuy St	123	City of Petersburg	123	City of Petersburg	0.58	Grigg St	Youngs Rd	2000	F	98%	1%	1%	0%	0%	0%	F	0.0843	F	0.5061	2100	F	2008
+658031	 123	09009	     	123-9009	Farmer St	123	City of Petersburg	123	City of Petersburg	0.86	Youngs Rd	S. South St	3600	F	98%	1%	1%	0%	0%	0%	C	0.0845	F	0.0000	3900	F	2008
+658032	 123	09009	     	123-9009	Farmer St	123	City of Petersburg	123	City of Petersburg	0.47	S. South St	Halifax St	2800	F	98%	1%	1%	0%	0%	0%	F	0.1142	F	0.6561	3100	F	2008
+658146	 123	09010	     	123-9010	Wagner Rd	123	City of Petersburg	123	City of Petersburg	0.73	S Crater Rd	I-95	15000	F	98%	0%	0%	0%	1%	0%	C	0.0876	F	0.0000	17000	F	2008
+658147	 123	09010	     	123-9010	Wagner Rd	123	City of Petersburg	123	City of Petersburg	1.60	I -95	County Dr	11000	F	94%	0%	1%	1%	4%	0%	C	0.0902	F	0.0000	12000	F	2008
+658118	 123	09011	     	123-9011	Squirrel Level Rd	123	City of Petersburg	123	City of Petersburg	0.82	SCL Petersburg	Wells Rd	870	F	99%	0%	0%	0%	0%	0%	C	0.1353	F	0.5548	950	F	2008
+658119	 123	09011	     	123-9011	Squirrel Level Rd	123	City of Petersburg	123	City of Petersburg	0.25	Wells Rd	Ramp To I- 85	4900	F	90%	0%	1%	3%	7%	0%	C	0.0889	F	0.0000	5300	F	2008
+658120	 123	09011	     	123-9011	Squirrel Level	123	City of Petersburg	123	City of Petersburg	0.20	Ramp To I- 85	Boydton Plank Rd	7500	F	98%	1%	1%	0%	0%	0%	F	0.0799	F	0.0000	8200	F	2008
+658158	 123	09011	     	123-9011	Young Rd	123	City of Petersburg	123	City of Petersburg	0.55	Boydton Plank Rd	Valor Dr	4000	F	98%	1%	1%	0%	0%	0%	F	0.0815	F	0.5691	4400	F	2008
+658151	 123	09011	     	123-9011	Young Rd	123	City of Petersburg	123	City of Petersburg	0.59	Valor Dr	123-9009 Dupuy Rd	2600	F	98%	1%	1%	0%	0%	0%	C	0.0853	F	0.5341	2900	F	2008
+658014	 123	09012	     	123-9012	Lee Ave	123	City of Petersburg	123	City of Petersburg	0.56	West St	Halifax St	2800	F	97%	2%	1%	0%	0%	0%	C	0.0865	F	0.5573	3000	F	2008
+658015	 123	09012	     	123-9012	Porterville St	123	City of Petersburg	123	City of Petersburg	0.15	Halifax St	Harding St	1300	F	99%	1%	0%	0%	0%	0%	F	0.0803	F	0.5175	1400	F	2008
+658016	 123	09012	     	123-9012	New St	123	City of Petersburg	123	City of Petersburg	0.18	Harding St	Harrison St	1200	F	99%	1%	0%	0%	0%	0%	C	0.0864	F	0.6273	1300	F	2008
+658017	 123	09012	     	123-9012	Harrison St	123	City of Petersburg	123	City of Petersburg	0.03	New St	Corling St	940	F	99%	1%	0%	0%	0%	0%	F	0.0875	F	1.0000	1000	F	2008
+658018	 123	09012	     	123-9012	Corling St	123	City of Petersburg	123	City of Petersburg	0.09	Harrison St	S. Sycamore St	510	F	99%	1%	0%	0%	0%	0%	F	0.0795	F	1.0000	550	F	2008
+658019	 123	09012	     	123-9012	Graham Rd	123	City of Petersburg	123	City of Petersburg	0.83	S. Sycamore St	Ramp From I-95	6800	F	99%	0%	0%	0%	0%	0%	F	0.0827	F	0.5475	7400	F	2008
+658020	 123	09012	     	123-9012	Graham Rd	123	City of Petersburg	123	City of Petersburg	0.14	Ramp From I-95	Crater Rd	11000	F	99%	0%	0%	0%	0%	0%	C	0.0861	F	0.0000	12000	F	2008
+658062	 123	09013	     	123-9013	Halifax  Rd	123	City of Petersburg	123	City of Petersburg	1.79	SCL Petersburg	Wells Rd	3200	F	89%	0%	1%	4%	6%	0%	C	0.0872	F	0.5668	3500	F	2008
+656084	 123	09013	     	123-9013	Halifax Rd	123	City of Petersburg	123	City of Petersburg	0.98	Wells Rd	Boydton Plank Rd	510	F	98%	0%	1%	0%	1%	0%	C	0.1043	F	0.5167	550	F	2008
+658083	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	0.01	SCL Petersburg	Flank Rd	1500	F	99%	0%	0%	0%	0%	0%	F	0.1237	F	0.6297	1700	F	2008
+658084	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	0.54	Flank Rd	Birdsong Rd	1000	F	99%	0%	0%	0%	0%	0%	C	0.0947	F	0.6226	1100	F	2008
+658085	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	1.39	Birdsong Rd	South Blvd	5300	F	99%	0%	0%	0%	0%	0%	F	0.1072	F	0.6091	5800	F	2008
+658086	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	0.46	South Blvd	North Blvd	6200	F	99%	0%	0%	0%	0%	0%	F	0.0838	F	0.5951	6700	F	2008
+658087	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	0.37	North Blvd	St Luke St	4700	F	99%	0%	0%	0%	0%	0%	F	0.0858	F	0.5905	5200	F	2008
+658077	 123	09015	     	123-9015	High Pearl St	123	City of Petersburg	123	City of Petersburg	0.20	St Luke St	Virginia Ave	4900	F	99%	0%	0%	0%	0%	0%	F	0.0831	F	0.5162	5400	F	2008
+658078	 123	09015	     	123-9015	High Pearl St	123	City of Petersburg	123	City of Petersburg	0.08	Virginia Ave	ST Matthew St	3400	F	98%	1%	1%	0%	0%	0%	F	0.0874	F	0.5447	3700	F	2008
+658072	 123	09015	     	123-9015	Harding St	123	City of Petersburg	123	City of Petersburg	0.22	ST Matthews St	Porterville St	1700	F	98%	1%	1%	0%	0%	0%	C	0.0815	F	0.5688	1800	F	2008
+658073	 123	09015	     	123-9015	Harding St	123	City of Petersburg	123	City of Petersburg	0.27	PortersvilleSt	Halifax St	870	F	98%	1%	1%	0%	0%	0%	F	0.0872	F	0.0000	950	F	2008
+658004	 123	09017	     	123-9017	Birdsong Rd	123	City of Petersburg	123	City of Petersburg	0.62	SCL Petersburg	Johnson Rd	840	F	98%	1%	1%	0%	0%	0%	C	0.0983	F	0.8848	910	F	2008
+658096	 123	09021	     	123-9021	N Sycamore St	123	City of Petersburg	123	City of Petersburg	0.18	W Washington St	W Tabb St	3000	F	96%	1%	3%	0%	0%	0%	F	0.0994	F	0.0000	3200	F	2008
+658097	 123	09021	     	123-9021	N Sycamore St	123	City of Petersburg	123	City of Petersburg	0.15	W Tabb St	Bollingbrook St	2600	F	96%	1%	3%	0%	0%	0%	C	0.0929	F	0.0000	2800	F	2008
+658099	 123	09023	     	123-9023	North Blvd	123	City of Petersburg	123	City of Petersburg	0.57	Johnson Rd	S Sycamore St	2800	F	99%	0%	0%	0%	0%	0%	C	0.0881	F	0.6525	3000	F	2008
+658130	 123	09025	     	123-9025	Virginia Ave	123	City of Petersburg	123	City of Petersburg	0.22	Gates Lane	Harding Street	430	F	96%	3%	1%	1%	0%	0%	C	0.1077	F	1.0000	460	F	2008
+658129	 123	09025	     	123-9025	Virginia Ave	123	City of Petersburg	123	City of Petersburg	0.32	Harding Street	Halifax Street	2200	F	96%	3%	1%	1%	0%	0%	F	0.0904	F	0.6156	2400	F	2008
+658150	 123	09025	     	123-9025	Young Ave	123	City of Petersburg	123	City of Petersburg	0.20	Halifax Street	Arlington Street	2300	F	98%	1%	1%	0%	0%	0%	C	0.0871	F	0.5275	2500	F	2008
+658149	 123	09025	     	123-9025	Young Ave	123	City of Petersburg	123	City of Petersburg	0.11	Arlington Street	West Street Young Avenue	3200	F	98%	1%	1%	0%	0%	0%	F	0.0952	F	0.5304	3500	F	2008
+658114	 123	09025	     	123-9025	S West St	123	City of Petersburg	123	City of Petersburg	0.28	West Street Young Avenue	Augusta Avenue	3600	F	98%	1%	1%	0%	0%	0%	F	0.0884	F	0.5407	3900	F	2008
+658115	 123	09025	     	123-9025	S West St	123	City of Petersburg	123	City of Petersburg	0.23	Augusta Avenue	Farmer St	4700	F	98%	1%	1%	0%	0%	0%	F	0.0845	F	0.5113	5100	F	2008
+658116	 123	09025	     	123-9025	S West St	123	City of Petersburg	123	City of Petersburg	0.14	Farmer St	W Wythe St	3700	F	98%	1%	1%	0%	0%	0%	F	0.0854	F	0.5344	4000	F	2008
+658117	 123	09025	     	123-9025	S West St	123	City of Petersburg	123	City of Petersburg	0.07	W Wythe St	W Washington St	2800	F	98%	1%	1%	0%	0%	0%	F	0.0874	F	0.5310	3100	F	2008
+658113	 123	09027	     	123-9027	S West St	123	City of Petersburg	123	City of Petersburg	0.63	Halifax St	Young Ave	2000	F	98%	1%	1%	0%	0%	0%	C	0.0818	F	0.5579	2200	F	2008
+658010	 123	09029	     	123-9029	S. South St	123	City of Petersburg	123	City of Petersburg	0.36	Lee Ave	US 1 Wythe St	2500	F	99%	0%	0%	0%	0%	0%	C	0.0815	F	0.0000	2700	F	2008
+658011	 123	09029	     	123-9029	S. South St	123	City of Petersburg	123	City of Petersburg	0.09	US 1 Wythe St	Washington St	4100	F	99%	0%	0%	0%	0%	0%	F	0.0917	F	0.0000	4500	F	2008
+658012	 123	09029	     	123-9029	N. South St	123	City of Petersburg	123	City of Petersburg	0.20	Washington St	High St	6800	F	99%	0%	0%	0%	0%	0%	F	0.0805	F	0.0000	7400	F	2008
+658079	 123	09029	     	123-9029	High St	123	City of Petersburg	123	City of Petersburg	0.02	N South St	Canal St	1100	F	99%	0%	0%	0%	0%	0%	F	0.0835	F	0.5945	1200	F	2008
+658013	 123	09029	     	123-9029	Canal St	123	City of Petersburg	123	City of Petersburg	0.20	High St	Grove Ave	6600	F	99%	0%	0%	0%	0%	0%	C	0.0799	F	0.0000	7200	F	2008
+658007	 123	09031	     	123-9031	Byrne St	123	City of Petersburg	123	City of Petersburg	0.40	New St	Halifax St	650	F	96%	1%	3%	0%	0%	0%	C	0.0899	F	1.0000	700	F	2008
+658009	 123	09031	     	123-9031	S. Market St	123	City of Petersburg	123	City of Petersburg	0.12	Halifax Rd	Wythe St	4100	F	96%	1%	3%	0%	0%	0%	F	0.0894	F	0.0000	4500	F	2008
+658001	 123	09033	     	123-9033	Apollo St	123	City of Petersburg	123	City of Petersburg	0.14	Sycamore St	Jefferson St	1800	F	99%	0%	0%	0%	0%	0%	F	0.0966	F	0.5052	1900	F	2008
+658002	 123	09033	     	123-9033	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.58	Apollo St	E Wythe St	2800	F	99%	0%	0%	0%	0%	0%	C	0.0906	F	0.6331	3000	F	2008
+658003	 123	09033	     	123-9033	Henry St	123	City of Petersburg	123	City of Petersburg	0.04	3rd Street	N Adams St	660	F	99%	0%	0%	0%	0%	0%	F	0.0987	F	0.5357	720	F	2008
+658101	 123	09038	     	123-9038	Puddledock Rd	123	City of Petersburg	123	City of Petersburg	0.40	E Washington St	ECL Petersburg	6200	F	93%	0%	1%	4%	2%	0%	C	0.0943	F	0.0000	6800	F	2008
+658080	 123	09046	     	123-9046	High St	123	City of Petersburg	123	City of Petersburg	0.58	Canal St	N Market St	1200	F	99%	0%	1%	0%	0%	0%	C	0.0882	F	0.6897	1300	F	2008
+658133	 123	09046	     	123-9046	W Bank St	123	City of Petersburg	123	City of Petersburg	0.14	N Manket St	N Sycamore St	2100	F	99%	0%	1%	0%	0%	0%	F	0.1082	F	1.0000	2300	F	2008
+658152	 123	09046	     	123-9046	E Bank St	123	City of Petersburg	123	City of Petersburg	0.11	N Sycamore St	2Nd St	2700	F	98%	0%	1%	0%	0%	0%	C	0.1075	F	1.0000	2900	F	2008
+658033	 123	09046	     	123-9046	Bank St	123	City of Petersburg	123	City of Petersburg	0.25	US 301 N Crater Rd	East St	2600	F	96%	1%	2%	1%	1%	0%	C	0.1014	F	0.0000	2800	F	2008
+658034	 123	09046	     	123-9046	Bank St	123	City of Petersburg	123	City of Petersburg	0.21	East St	SR 36 E Washington St	3200	F	96%	1%	2%	1%	1%	0%	F	0.0937	F	0.0000	3500	F	2008
+658134	 123	09048	     	123-9048	W Tabb St	123	City of Petersburg	123	City of Petersburg	0.09	N Market St	Union St	1600	F	98%	1%	1%	0%	0%	0%	F	0.1238	F	0.6738	1700	F	2008
+658135	 123	09048	     	123-9048	W Tabb St	123	City of Petersburg	123	City of Petersburg	0.06	Union St	N Sycamore St	1600	F	98%	1%	1%	0%	0%	0%	F	0.1078	F	0.6316	1700	F	2008
+658153	 123	09048	     	123-9048	E Tabb St	123	City of Petersburg	123	City of Petersburg	0.12	N Sycamore St	N Adams St	1000	F	98%	1%	1%	0%	0%	0%	C	0.1162	F	0.5862	1100	F	2008
+658041	 123	09053	     	123-9053	Baylors Ln	123	City of Petersburg	123	City of Petersburg	0.65	Defense Rd	Halifax St	1800	F	99%	1%	0%	0%	0%	0%	C	0.0967	F	0.5946	1900	F	2008
+658088	 123	09055	     	123-9055	Madison St	123	City of Petersburg	123	City of Petersburg	0.05	E Washington St	Franklin St	1700	F	95%	1%	2%	1%	2%	0%	F	0.0975	F	0.9253	1800	F	2008
+658089	 123	09055	     	123-9055	Madison St	123	City of Petersburg	123	City of Petersburg	0.18	Franklin St	E Bank St	1200	F	95%	1%	2%	1%	2%	0%	C	0.0846	F	0.7661	1300	F	2008
+658090	 123	09055	     	123-9055	Madison St	123	City of Petersburg	123	City of Petersburg	0.07	E Bank St	Bollingbrook St	880	F	95%	1%	2%	1%	2%	0%	F	0.0955	F	0.8113	960	F	2008
+658053	 123	09057	     	123-9057	Fifth St	123	City of Petersburg	123	City of Petersburg	0.05	E Bank St	Bollingbrook St	380	F							X	0.1258	F	0.8036	420	F	2008
+658054	 123	09057	     	123-9057	Fifth St	123	City of Petersburg	123	City of Petersburg	0.08	Bollingbrook St	River St	540	F	87%	2%	2%	3%	5%	0%	C	0.1041	F	0.7288	580	F	2008
+781723	 123	09059	     	123-9059	Flank Rd N	123	City of Petersburg	123	City of Petersburg	0.20	Flank Rd One-Way	US 301 S Crater Rd	3900	F	98%	1%	1%	0%	0%	0%	C	0.0900	F	0.0000	4300	F	2008
+658104	 123	09065	     	123-9065	S Adams St	123	City of Petersburg	123	City of Petersburg	0.10	E Wythe St	E Washington St	5200	F							X	0.0904	F	0.0000	5700	F	2008
+558008	 123	00000	     	123-0	Accomack St	123	City of Petersburg	123	City of Petersburg	0.00	6Th St	7Th St	290	F							X	0.0971	F	0.7015	310	F	2008
+558007	 123	00000	     	123-0	Cameron St	123	City of Petersburg	123	City of Petersburg	0.00	Old Church St	Center St	390	F							X	0.1838	F	0.5119	420	F	2008
+558009	 123	00000	     	123-0	Culpeper Ave	123	City of Petersburg	123	City of Petersburg	0.00	Prince George Ave	Brunswick St	410	F							X	0.1077	F	0.6952	450	F	2008
+558004	 123	00000	     	123-0	Custer St	123	City of Petersburg	123	City of Petersburg	0.00	Halifax Rd	Hawk St	400	F							X	0.1080	F	0.5800	440	F	2008
+558002	 123	00000	     	123-0	Darby Dr	123	City of Petersburg	123	City of Petersburg	0.00	Busby St	Halcun Dr	260	F							X	0.1265	F	0.5278	280	F	2008
+558015	 123	00000	     	123-0	Gordon Dr	123	City of Petersburg	123	City of Petersburg	0.00	Dering Rd	Hoke Dr	350	F							X	0.0927	F	0.0000	380	F	2008
+558011	 123	00000	     	123-0	Homestead Dr	123	City of Petersburg	123	City of Petersburg	0.00	Valley Dr	Midland Rd	700	F							X	0.1151	F	0.0000	760	F	2008
+558017	 123	00000	     	123-0	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.00	Filmore St	ST Andrews St	3200	F							X	0.0875	F	0.6236	3500	F	2008
+558019	 123	00000	     	123-0	Kirkham St	123	City of Petersburg	123	City of Petersburg	0.00	Bolling Street	Chestnut Street	450	F							X	0.0866	F	0.5319	490	F	2008
+558013	 123	00000	     	123-0	North Park Dr	123	City of Petersburg	123	City of Petersburg	0.00	Nivram St	Retang Rd	860	F							X	0.0982	F	0.0000	930	F	2008
+558016	 123	00000	     	123-0	Oakmont Dr	123	City of Petersburg	123	City of Petersburg	0.00	Homestead Dr	Midland Rd	110	F							X	0.1144	F	0.7407	120	F	2008
+558006	 123	00000	     	123-0	Old Church St	123	City of Petersburg	123	City of Petersburg	0.00	Bollingbrook St	Miller St	460	F							X	0.0876	F	0.5213	500	F	2008
+558003	 123	00000	     	123-0	Patterson Ave	123	City of Petersburg	123	City of Petersburg	0.00	Floyd St	Carver St	1000	F							X	0.1249	F	0.6345	1100	F	2008
+558001	 123	00000	     	123-0	Pleasants Ln	123	City of Petersburg	123	City of Petersburg	0.00	Valor Dr	Dupuy Rd	890	F							X	0.1425	F	0.6844	970	F	2008
+558010	 123	00000	     	123-0	Richmond Ave	123	City of Petersburg	123	City of Petersburg	0.00	Ash St	Nash St	850	F							X	0.0843	F	0.5472	930	F	2008
+558012	 123	00000	     	123-0	Rollingwood Rd	123	City of Petersburg	123	City of Petersburg	0.00	Valley St	Homestead Dr	110	F							X	0.1406	F	0.0000	120	F	2008
+558014	 123	00000	     	123-0	South Park Dr	123	City of Petersburg	123	City of Petersburg	0.00	Forest Hill Rd	West Park Dr	2000	F							X	0.0895	F	0.0000	2200	F	2008
+558018	 123	00000	     	123-0	St Matthew St	123	City of Petersburg	123	City of Petersburg	0.00	High Pearl St	Harding St	3100	F							X	0.0775	F	0.5645	3400	F	2008
+558005	 123	00000	     	123-0	Talley Ave	123	City of Petersburg	123	City of Petersburg	0.00	Custer St	Edmonds Ct	690	F							X	0.2647	F	0.5806	750	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,295 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Richmond Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+160051	  SR	00003	     	VA 3	Kings Hwy	079	Richmond County	079	Richmond County	0.15	Westmoreland County Line	SR 203 Oldhams Rd	4900	G	92%	1%	1%	1%	5%	0%	F	0.0906	F	0.5317	5400	G	2008
+160052	  SR	00003	     	VA 3	Historyland Hwy	079	Richmond County	079	Richmond County	1.46	SR 203 Oldhams Rd	79-653 Sanfords Lane	6300	G	92%	1%	1%	1%	5%	0%	C	0.0868	F	0.5537	6800	G	2008
+160085	  SR	00003	     	VA 3	Historyland Hwy	079	Richmond County	079	Richmond County	0.79	79-653 Sanfords Lane	NCL Warsaw	6300	N	92%	1%	1%	1%	5%	0%	N	0.0868	N	0.5537	6800	N	2008
+785872	  SR	00003	     	VA 3	Historyland Hwy	321	Town of Warsaw	079	Richmond County	0.20	NCL Warsaw	Bus SR 3 Main St	6300	N	92%	1%	1%	1%	5%	0%	N	0.0868	N	0.5537	6800	N	2008
+785873	  SR	00003	     	VA 3	Historyland Hwy	079	Richmond County	079	Richmond County	1.23	SR 3 Bus	US 360, SR 3 Bus Richmond Rd	2500	G	92%	1%	1%	1%	5%	0%	F	0.0868	N	0.5537	2600	G	2008
+160054	  SR	00003	     	VA 3	Historyland Hwy	321	Town of Warsaw	079	Richmond County	0.11	US 360, SR 3 Bus Richmond Rd	SCL Warsaw	7800	G	94%	1%	1%	1%	3%	0%	F	0.1048	F	0.5858	8500	G	2008
+160086	  SR	00003	     	VA 3	Historyland Hwy	079	Richmond County	079	Richmond County	6.20	SCL Warsaw	79-642 Sharps Rd	7800	N	94%	1%	1%	1%	3%	0%	N	0.1048	N	0.5858	8500	N	2008
+160055	  SR	00003	     	VA 3	Historyland Hwy	079	Richmond County	079	Richmond County	3.07	79-642 Sharps Rd	79-692, N Farnham Church Rd	3600	G	94%	1%	1%	1%	3%	0%	F	0.0902	F	0.5812	3900	G	2008
+160056	  SR	00003	     	VA 3	Historyland Hwy	079	Richmond County	079	Richmond County	2.37	79-692, N Farnham Church Rd	79-608 Farnham Creek Rd	4100	G	94%	1%	1%	1%	3%	0%	F	0.0859	F	0.5026	4500	G	2008
+160057	  SR	00003	     	VA 3	Historyland Hwy	079	Richmond County	079	Richmond County	2.70	79-608 Farnham Creek Rd	Lancaster County Line	3800	G	94%	1%	1%	1%	3%	0%	F	0.0837	F	0.5179	4100	G	2008
+785862	C2SR	00003	     	Bus VA 3	Main St	321	Town of Warsaw	079	Richmond County	0.77	SR 3 Historyland Hwy	US 360 Richmond Rd	12000	N	95%	0%	1%	1%	3%	0%	N	0.0925	N	0.5835	13000	N	2008
+060128	C2SR	00003	     	US 360, Bus VA 3	Richmond Rd	321	Town of Warsaw	079	Richmond County	0.78	US 360; Main St	SR 3 Historyland Hwy	12000	G	95%	0%	1%	1%	3%	0%	F	0.0925	F	0.5835	13000	G	2008	
+060286	  SR	00203	     	VA 203	Oldhams Rd	079	Richmond County	079	Richmond County	0.40	SR 3 Historyland Hwy	Westmoreland County Line	2300	G	79%	0%	2%	1%	18%	0%	F	0.0862	F	0.6024	2500	G	2008
+060289	  US	00360	     	US 360	Richmond Rd	079	Richmond County	079	Richmond County	3.98	Essex County Line	79-624 W; Newland Rd	13000	G	95%	0%	1%	1%	3%	0%	F				14000	G	2008
+060130	  US	00360	     	US 360	Richmond Rd	079	Richmond County	079	Richmond County	0.40	79-624 W, Newland Rd	WCL Warsaw	13000	A	95%	0%	1%	1%	3%	0%	C	0.0989	A	0.5997	14000	A	2008
+060131	  US	00360	     	US 360	Richmond Rd	321	Town of Warsaw	079	Richmond County	2.02	WCL Warsaw	W SR 3 Bus	13000	N	95%	0%	1%	1%	3%	0%	N	0.0989	N	0.5997	14000	N	2008
+060128	  US	00360	     	US 360, Bus VA 3	Richmond Rd	321	Town of Warsaw	079	Richmond County	0.78	W SR 3 Bus	E SR 3 Bus, SR 3	12000	G	95%	0%	1%	1%	3%	0%	F	0.0925	F	0.5835	13000	G	2008
+060288	  US	00360	     	US 360	Richmond Rd	321	Town of Warsaw	079	Richmond County	0.37	E SR 3 Bus, SR 3	ECL Warsaw	8000	G	95%	0%	1%	1%	3%	0%	F	0.0923	F	0.6008	8700	G	2008
+060290	  US	00360	     	US 360	Richmond Rd	079	Richmond County	079	Richmond County	4.59	ECL Warsaw	79-661 Totuskey Church Rd	8000	N	95%	0%	1%	1%	3%	0%	N	0.0923	N	0.6008	8700	N	2008
+060287	  US	00360	     	US 360	Richmond Rd	079	Richmond County	079	Richmond County	2.97	79-661 Totuskey Church Rd	Northumberland County Line	7900	G	95%	0%	1%	1%	3%	0%	F	0.0909	F	0.5798	8500	G	2008
+780749	  FR	00815	     	FR 815	Recycling Rd	079	Richmond County	079	Richmond County	0.09	Dead End	US 360; 79-686	440	R							X						05/02/2007
+404591	  79	00600	     	79-600	Ridge Rd	079	Richmond County	079	Richmond County	3.16	Lancaster County Line	79-601 Maon Rd	390	G	96%	0%	2%	2%	0%	0%	F	0.1106	F	0.7263	420	G	2008
+404592	  79	00600	     	79-600	Ridge Rd	079	Richmond County	079	Richmond County	2.23	79-601 Maon Rd	79-604 S, Preachers Rest Rd	420	G	96%	0%	2%	2%	0%	0%	F	0.1051	F	0.6354	450	G	2008
+404593	  79	00600	     	79-600	Ridge Rd	079	Richmond County	079	Richmond County	0.26	79-604 S, Preachers Rest Rd	Northumberland County Line	460	G	96%	0%	2%	2%	0%	0%	C	0.0986	F	0.5510	500	G	2008
+765329	  79	00601	     	79-601	Maon Rd	079	Richmond County	079	Richmond County	2.90	SR 3 History Land Hwy	79-600 Ridge Rd	270	R							X						04/25/2007
+765330	  79	00602	     	79-602	Box & Gourd Lane	079	Richmond County	079	Richmond County	1.64	Dead End	79-607 Canal Rd	160	R							X						04/30/2007
+765331	  79	00602	     	79-602	Box & Gourd Lane	079	Richmond County	079	Richmond County	0.03	79-607 Canal Rd	SR 3 E, History Land Hwy	260	R							X						04/30/2007
+765332	  79	00602	     	79-602	Cedar Grove Rd	079	Richmond County	079	Richmond County	0.11	SR 3 W, History Land Hwy	79-692, N Farnham Church Rd	180	R							X						04/30/2007
+765333	  79	00602	     	79-602	Cedar Grove Rd	079	Richmond County	079	Richmond County	1.10	79-692, N Farnham Church Rd	79-612 Oakland Rd	400	R							X						04/30/2007
+765334	  79	00602	     	79-602	Cedar Grove Rd	079	Richmond County	079	Richmond County	3.00	79-612 Oakland Rd	79-601 Maon Rd	140	R							X						04/25/2007
+765335	  79	00603	     	79-603	Quinton Oak Lane	079	Richmond County	079	Richmond County	3.00	79-601 Maon Rd	79-612 Oakland Rd	30	R							X						04/30/2007
+765336	  79	00604	     	79-604	Preachers Rest Rd	079	Richmond County	079	Richmond County	0.60	Dead End	79-600 Ridge Rd	6	R							X						04/30/2007
+765337	  79	00605	     	79-605	Edge Hill Rd	079	Richmond County	079	Richmond County	1.20	79-606 Simonson Rd	1.20 ME 79-606 Simonson Rd	20	R							X						04/25/2007
+765338	  79	00605	     	79-605	Edge Hill Rd	079	Richmond County	079	Richmond County	0.50	1.20 ME 79-606 Simonson Rd	Dead End	6	R							X						04/25/2007
+765339	  79	00606	     	79-606	Simonson Rd	079	Richmond County	079	Richmond County	1.33	Dead End	79-673 Lanier Rd	220	R							X						05/19/2004
+404594	  79	00606	     	79-606	Simonson Rd	079	Richmond County	079	Richmond County	1.75	79-673 Lanier Rd	79-608 Farnham Creek Rd	350	G	98%	0%	1%	0%	1%	0%	C	0.1172	F	0.6170	380	G	2008
+765340	  79	00607	     	79-607	 	079	Richmond County	079	Richmond County	0.90	Dead End	79-602 Gap	170	R							X						05/17/2004
+404595	  79	00607	     	79-607	Canal Rd	079	Richmond County	079	Richmond County	3.25	79-692 Gap	79-677 Morres Mill Rd	660	G	95%	1%	1%	1%	2%	0%	F	0.1001	F	0.5102	710	G	2008
+404596	  79	00607	     	79-607	Canal Rd	079	Richmond County	079	Richmond County	1.65	79-677 Morres Mill Rd	79-617 Normans Corner Rd	680	G	95%	1%	1%	1%	2%	0%	F	0.1048	F	0.5269	740	G	2008
+404597	  79	00607	     	79-607	Canal Rd	079	Richmond County	079	Richmond County	0.50	79-617 Normans Corner Rd	US 360 Richmond Rd	470	G	95%	1%	1%	1%	2%	0%	C	0.1338	F	0.5857	510	G	2008
+404598	  79	00608	     	79-608	Farnham Creek Rd	079	Richmond County	079	Richmond County	1.03	79-642 Sharps Rd	79-610	170	G	93%	1%	2%	1%	3%	0%	F	0.1299	F	0.5200	180	G	2008
+404599	  79	00608	     	79-608	Farnham Creek Rd	079	Richmond County	079	Richmond County	0.08	79-610	79-613 Calvary Church Rd	260	G	98%	0%	1%	0%	1%	0%	C	0.1107	F	0.5152	290	G	2008
+404600	  79	00608	     	79-608	Farnham Creek Rd	079	Richmond County	079	Richmond County	3.37	79-613 Calvary Church Rd	79-606 Simonson Rd	200	G	93%	1%	2%	1%	3%	0%	F	0.1471	F	0.6462	210	G	2008
+404601	  79	00608	     	79-608	Farnham Creek Rd	079	Richmond County	079	Richmond County	0.90	79-606 Simonson Rd	SR 3 History Land Hwy	810	G	93%	1%	2%	1%	3%	0%	C	0.1049	F	0.5402	880	G	2008
+765341	  79	00609	     	79-609	Mothershead Neck Rd	079	Richmond County	079	Richmond County	1.35	Dead End	79-610	60	R							X						04/25/2007
+765342	  79	00610	     	79-610	 	079	Richmond County	079	Richmond County	0.65	79-647 Hales Point Rd	79-657 Little Florida Rd	80	R							X						05/19/2004
+765343	  79	00610	     	79-610	 	079	Richmond County	079	Richmond County	0.30	79-657 Little Florida Rd	Dead End; Gap	50	R							X						05/19/2004
+765344	  79	00610	     	79-610	Ivondale Rd	079	Richmond County	079	Richmond County	0.45	Dead End; Gap	79-641 Husseys Creek Rd	8	R							X						04/25/2007
+765345	  79	00610	     	79-610	 	079	Richmond County	079	Richmond County	0.75	79-641 Husseys Creek Rd	79-608 Farnham Creek Rd	120	R							X						05/19/2004
+765346	  79	00611	     	79-611	Conley Pond Rd	079	Richmond County	079	Richmond County	1.50	79-613 Calvary Church Rd	SR 3 History Land Hwy	120	R							X						04/25/2007
+765347	  79	00612	     	79-612	Oakland Rd	079	Richmond County	079	Richmond County	1.30	79-602 Cedar Grove Rd	79-616 Luttrellville Lane	280	R							X						04/30/2007
+765348	  79	00612	     	79-612	Oakland Rd	079	Richmond County	079	Richmond County	3.30	79-616 Luttrellville Lane	66-600 Ridge Rd	250	R							X						04/30/2007
+765349	  79	00613	     	79-613	Calvary Church Rd	079	Richmond County	079	Richmond County	2.50	79-608 Farnham Creek Rd	79-611 Conley Pond Rd	210	R							X						04/25/2007
+765350	  79	00613	     	79-613	Calvary Church Rd	079	Richmond County	079	Richmond County	0.80	79-611 Conley Pond Rd	SR 3 History Land Hwy	230	R							X						04/25/2007
+765351	  79	00614	     	79-614	Suggets Point Rd	079	Richmond County	079	Richmond County	0.07	Dead End	79-669 Headley Lane	48	R							X						04/25/2007
+765352	  79	00614	     	79-614	Suggets Point Rd	079	Richmond County	079	Richmond County	2.20	79-669 Headley Lane	79-642 Sharps Rd	110	R							X						05/25/2007
+765353	  79	00614	     	79-614	Beaver Dam Rd	079	Richmond County	079	Richmond County	2.17	79-642 Sharps Rd	79-615	150	R							X						04/25/2007
+765354	  79	00614	     	79-614	Folly Neck Rd	079	Richmond County	079	Richmond County	1.84	79-615	79-643 The Hook Rd	380	R							X						04/25/2007
+302262	  79	00614	     	79-614	Folly Neck Rd	079	Richmond County	079	Richmond County	0.70	79-643 The Hook Rd	SR 3 Historyland Hwy	490	G	98%	1%	1%	0%	0%	0%	C	0.1052	F	0.7119	530	G	2008
+765355	  79	00614	     	79-614	Boswell Rd	079	Richmond County	079	Richmond County	0.23	SR 3 Historyland Hwy	79-626 Arnold Lane	60	R							X						05/02/2007
+765356	  79	00614	     	79-614	Boswell Rd	079	Richmond County	079	Richmond County	1.25	79-626 Arnold Lane	Dead End	50	R							X						05/02/2007
+765357	  79	00615	     	79-615	 	079	Richmond County	079	Richmond County	1.40	Dead End	79-614 Folly Neck Rd; Beaver Dam Rd	100	R							X						05/19/2004
+765358	  79	00616	     	79-616	Luttrellville Lane	079	Richmond County	079	Richmond County	3.90	79-612 Oakland Rd	Northumberland County Line	60	R							X						04/30/2007
+404602	  79	00617	     	79-617	Normans Corner Rd	079	Richmond County	079	Richmond County	0.80	79-607 Canal Rd	US 360 Richmond Rd	650	G	96%	0%	2%	0%	1%	0%	C	0.1065	F	0.5696	710	G	2008
+765359	  79	00618	     	79-618	Fallin Town Rd	079	Richmond County	079	Richmond County	1.00	79-661 Totuskey Church Rd	Northumberland County Line	440	R							X						04/30/2007
+404603	  79	00619	     	79-619	Mulberry Rd	079	Richmond County	079	Richmond County	3.10	SR 3 Historyland Hwy	79-627 Drinking Swamp Rd	360	G	97%	0%	1%	1%	1%	0%	C	0.1512	F	0.5323	390	G	2008
+404604	  79	00619	     	79-619	Mulberry Rd	079	Richmond County	079	Richmond County	1.42	79-627 Drinking Swamp Rd	US 360 Richmond Rd	360	G	97%	0%	1%	1%	1%	0%	F	0.1157	F	0.6237	390	G	2008
+404605	  79	00619	     	79-619	Rich Neck Rd	079	Richmond County	079	Richmond County	2.80	US 360 Richmond Rd	Westmoreland County Line	510	G	97%	0%	1%	1%	1%	0%	F	0.1042	F	0.5280	550	G	2008
+765360	  79	00620	     	79-620	Fallin Town Rd	079	Richmond County	079	Richmond County	0.15	Dead End	SR 3 Historyland Hwy	60	R							X						05/14/2007
+765361	  79	00620	     	79-620	Richmond Hill Rd	079	Richmond County	079	Richmond County	2.30	SR 3 Historyland Hwy	US 360 Richmond Rd	370	R							X						05/02/2007
+765362	  79	00620	     	79-620	Threeway Rd	079	Richmond County	079	Richmond County	2.79	US 360 Richmond Rd	Westmoreland County Line	660	R							X						05/02/2007
+765363	  79	00621	     	79-621	Chestnut Hill Rd	079	Richmond County	079	Richmond County	1.80	79-624	79-690 W, Menokin Rd	970	R							X						05/07/2007
+765364	  79	00621	     	79-621	Menokin Rd	079	Richmond County	079	Richmond County	2.88	79-690 E, Menokin Rd	79-637 Piney Grove Rd	500	R							X						05/07/2007
+765365	  79	00621	     	79-621	Piney Grove Rd	079	Richmond County	079	Richmond County	0.10	79-637 Piney Grove Rd	Westmoreland County Line	620	R							X						05/07/2007
+765366	  79	00622	     	79-622	Carters Wharf Rd	079	Richmond County	079	Richmond County	1.30	Dead End	79-625 Cliffs Rd	60	R							X						05/10/2007
+765367	  79	00622	     	79-622	 	079	Richmond County	079	Richmond County	0.70	79-625 Cliffs Rd	79-624 WEST	80	R							X						06/02/2004
+765368	  79	00622	     	79-622	 	079	Richmond County	079	Richmond County	2.10	79-624 EAST	79-638 W, China Hill Rd	150	R							X						06/07/2004
+765369	  79	00622	     	79-622	 	079	Richmond County	079	Richmond County	0.20	79-638 W, China Hill Rd	79-638 E, Oak Row Rd	300	R							X						06/07/2004
+404606	  79	00622	     	79-622	 	079	Richmond County	079	Richmond County	0.70	79-638 E, Oak Row Rd	Westmoreland County Line	530	G	98%	0%	2%	0%	1%	0%	C	0.1007	F	0.6557	570	G	2008
+765370	  79	00623	     	79-623	Finchs Hill Rd	079	Richmond County	079	Richmond County	1.28	79-624	Westmoreland County Line	280	R							X						05/10/2007
+765371	  79	00624	     	79-624	 	079	Richmond County	079	Richmond County	1.20	Dead End	SCL Warsaw	90	R							X						05/24/2004
+785199	  79	00624	     	79-624	 	321	Town of Warsaw	079	Richmond County	0.10	SCL Warsaw	US 360 E, Richmond Rd	90	N							X				0	N	05/24/2004
+404607	  79	00624	     	79-624	Newland Rd	079	Richmond County	079	Richmond County	0.20	US 360 W, Richmond Rd	79-634 Naylors Beach Rd	2300	G	98%	0%	1%	1%	1%	0%	F	0.0948	F	0.6115	2400	G	2008
+404608	  79	00624	     	79-624	 	079	Richmond County	079	Richmond County	0.80	79-634 Naylors Beach Rd	79-621 Chestnut Hill Rd	1900	G	98%	0%	1%	1%	1%	0%	C	0.1025	F	0.5802	2000	G	2008
+404609	  79	00624	     	79-624	 	079	Richmond County	079	Richmond County	1.10	79-621 Chestnut Hill Rd	79-676 Reisingers Rd	1300	G	98%	0%	1%	1%	1%	0%	F	0.1019	F	0.7937	1400	G	2008
+404610	  79	00624	     	79-624	 	079	Richmond County	079	Richmond County	3.27	79-676 Reisingers Rd	79-636 N, Havelock Rd	990	G	98%	0%	1%	1%	1%	0%	F	0.0972	F	0.6054	1100	G	2008
+404611	  79	00624	     	79-624	 	079	Richmond County	079	Richmond County	3.21	79-636 N, Havelock Rd	79-638 S, Jones Creek Rd	870	G	98%	0%	1%	1%	1%	0%	F	0.1035	F	0.6497	950	G	2008
+404612	  79	00624	     	79-624	 	079	Richmond County	079	Richmond County	0.90	79-638 S, Jones Creek Rd	79-638 N, Oak Row Rd	970	G	98%	0%	1%	1%	1%	0%	F	0.0935	F	0.6129	1000	G	2008
+404613	  79	00624	     	79-624	 	079	Richmond County	079	Richmond County	4.56	79-638 N, Oak Row Rd	Westmoreland County Line	610	G	98%	0%	1%	1%	1%	0%	F	0.0998	F	0.5448	670	G	2008
+765372	  79	00625	     	79-625	Cliffs Rd	079	Richmond County	079	Richmond County	0.65	79-622 Carters Wharf Rd	Dead End	20	R							X						05/10/2007
+765373	  79	00626	     	79-626	Arnold Lane	079	Richmond County	079	Richmond County	0.31	SR 3 Historyland Hwy	79-614 Boswell Rd	70	R							X						05/02/2007
+765374	  79	00627	     	79-627	Drinking Swamp Rd	079	Richmond County	079	Richmond County	2.14	79-619 Mulberry Rd	US 360 Richmond Rd	400	R							X						04/30/2007
+765375	  79	00627	     	79-627	Drinking Swamp Rd	079	Richmond County	079	Richmond County	0.06	US 360 Richmond Rd	79-661 Totuskey Church Rd	360	R							X						04/30/2007
+765376	  79	00628	     	79-628	Cole Hill Lane	079	Richmond County	079	Richmond County	0.70	Dead End	US 360 Richmond Rd	70	R							X						05/24/2004
+765377	  79	00629	     	79-629	Bells Dr	079	Richmond County	079	Richmond County	0.17	79-620 Threeway Rd	79-695 Church Lane	230	R							X						05/02/2007
+765378	  79	00629	     	79-629	Bells Dr	079	Richmond County	079	Richmond County	0.26	79-695 Church Lane	Dead End	160	R							X						05/02/2007
+765379	  79	00630	     	79-630	Wellfords Wharf Rd	079	Richmond County	079	Richmond County	1.25	Dead End	79-660 Cobham Park Lane	160	R							X						05/02/2007
+404614	  79	00630	     	79-630	Wellfords Wharf Rd	079	Richmond County	079	Richmond County	1.41	79-660 Cobham Park Lane	79-631 Fox Hunters Hill Rd	280	G	99%	0%	0%	0%	0%	0%	C	0.1205	F	0.7000	300	G	2008
+404615	  79	00630	     	79-630	Wellfords Wharf Rd	079	Richmond County	079	Richmond County	1.69	79-631 Fox Hunters Hill Rd	SR 3 Historyland Hwy	670	G	99%	0%	0%	0%	0%	0%	F	0.1185	F	0.6536	730	G	2008
+765380	  79	00631	     	79-631	Fox Hunters Hill Rd	079	Richmond County	079	Richmond County	1.30	Dead End	79-630 Wellfords Wharf Rd	250	R							X						05/19/2004
+765381	  79	00632	     	79-632	Islington Rd	079	Richmond County	079	Richmond County	1.79	Dead End	79-679 Silas Dr	130	R							X						05/24/2004
+765382	  79	00632	     	79-632	Islington Rd	079	Richmond County	079	Richmond County	0.07	79-679 Silas Dr	79-698 Gravel Pit Rd	210	R							X						05/24/2004
+765383	  79	00632	     	79-632	Islington Rd	079	Richmond County	079	Richmond County	0.78	79-698 Gravel Pit Rd	SR 3 Historyland Hwy	690	R							X						05/02/2007
+765384	  79	00633	     	79-633	Scates Rd	079	Richmond County	079	Richmond County	2.51	79-637 Piney Grove Rd	79-690 Menokin Rd	20	R							X						05/07/2007
+765385	  79	00634	     	79-634	Naylors Beach Rd	079	Richmond County	079	Richmond County	0.55	Dead End	79-636 Strangeway Rd	120	R							X						06/02/2004
+404616	  79	00634	     	79-634	Naylors Beach Rd	079	Richmond County	079	Richmond County	4.06	79-636 Strangeway Rd	79-624 Newland Rd	370	G	94%	0%	1%	1%	4%	0%	C	0.1119	F	0.5208	400	G	2008
+765386	  79	00635	     	79-635	Grove Mount Rd	079	Richmond County	079	Richmond County	1.41	79-624	79-636 Havelock Rd	160	R							X						05/10/2007
+765387	  79	00636	     	79-636	Strangeway Rd	079	Richmond County	079	Richmond County	1.70	79-634 Naylors Beach Rd	79-640 Sandys Lane	180	R							X						05/10/2007
+765388	  79	00636	     	79-636	Strangeway Rd	079	Richmond County	079	Richmond County	0.32	79-640 Sandys Lane	79-624 SOUTH	280	R							X						05/10/2007
+765389	  79	00636	     	79-636	Havelock Rd	079	Richmond County	079	Richmond County	2.00	79-624 NORTH	79-637 Piney Grove Rd; County Bridge Rd	60	R							X						05/10/2007
+765390	  79	00637	     	79-637	Kinderhook Pike	079	Richmond County	079	Richmond County	0.70	Dead End	79-624 WEST	130	R							X						05/10/2007
+765391	  79	00637	     	79-637	County Bridge Rd	079	Richmond County	079	Richmond County	1.50	79-624 EAST	79-636 Havelock Rd	310	R							X						05/10/2007
+765392	  79	00637	     	79-637	Piney Grove Rd	079	Richmond County	079	Richmond County	2.44	79-636 Havelock Rd	79-690 W, Menokin Rd	670	R							X						05/07/2007
+765393	  79	00637	     	79-637	Piney Grove Rd	079	Richmond County	079	Richmond County	1.50	79-690 E, Menokin Rd	79-621 Piney Grove Rd; Menokin Rd	210	R							X						05/07/2007
+765394	  79	00638	     	79-638	Jones Creek Rd	079	Richmond County	079	Richmond County	3.00	Dead End	79-624 SOUTH	270	R							X						05/10/2007
+404617	  79	00638	     	79-638	Oak Row Rd	079	Richmond County	079	Richmond County	1.40	79-624 MID	79-639 Mozingo Rd	280	G	98%	0%	1%	0%	1%	0%	C	0.1009	F	0.6970	300	G	2008
+404618	  79	00638	     	79-638	Oak Row Rd	079	Richmond County	079	Richmond County	1.30	79-639 Mozingo Rd	79-622 EAST	280	G	98%	0%	1%	0%	1%	0%	F	0.1168	F	0.6364	300	G	2008
+765395	  79	00638	     	79-638	China Hill Rd	079	Richmond County	079	Richmond County	2.10	79-622 WEST	79-624 NORTH	140	R							X						05/10/2007
+765396	  79	00639	     	79-639	Mozingo Rd	079	Richmond County	079	Richmond County	0.45	79-638 Oak Row Rd	Dead End	20	R							X						05/07/2007
+765397	  79	00640	     	79-640	Sandys Lane	079	Richmond County	079	Richmond County	2.50	79-636 Strangeway Rd	79-624	100	R							X						05/07/2007
+765398	  79	00641	     	79-641	Husseys Creek Rd	079	Richmond County	079	Richmond County	1.10	79-642 Sharps Rd	79-610 Ivondale Rd	100	R							X						04/25/2007
+765399	  79	00642	     	79-642	Sharps Rd	079	Richmond County	079	Richmond County	0.04	Dead End	79-665 Milden Lane	30	R							X						05/19/2004
+765400	  79	00642	     	79-642	Sharps Rd	079	Richmond County	079	Richmond County	0.01	79-665 Milden Lane	79-681 Front St	70	R							X						05/19/2004
+765401	  79	00642	     	79-642	Sharps Rd	079	Richmond County	079	Richmond County	1.10	79-681 Front St	79-641 Husseys Creek Rd	220	R							X						05/19/2004
+404619	  79	00642	     	79-642	Sharps Rd	079	Richmond County	079	Richmond County	1.10	79-641 Husseys Creek Rd	79-608 Farnham Creek Rd	270	G	97%	0%	1%	0%	2%	0%	F	0.1061	F	0.5467	300	G	2008
+404620	  79	00642	     	79-642	Sharps Rd	079	Richmond County	079	Richmond County	0.70	79-608 Farnham Creek Rd	79-614 Beaver Dam Rd; Suggets Point Rd	420	G	97%	0%	1%	0%	2%	0%	F	0.0986	F	0.5446	460	G	2008
+404621	  79	00642	     	79-642	Sharps Rd	079	Richmond County	079	Richmond County	2.28	79-614 Beaver Dam Rd; Suggets Point Rd	79-651 Forest Rd	500	G	97%	0%	1%	0%	2%	0%	C	0.0998	F	0.5085	540	G	2008
+404622	  79	00642	     	79-642	Sharps Rd	079	Richmond County	079	Richmond County	0.90	79-651 Forest Rd	SR 3 History Land Hwy	700	G	97%	0%	1%	0%	2%	0%	F	0.1165	F	0.6146	750	G	2008
+765402	  79	00643	     	79-643	The Hook Rd	079	Richmond County	079	Richmond County	1.16	79-614 Folly Neck Rd	Dead End	180	R							X						05/19/2004
+765403	  79	00644	     	79-644	Selfs Lane	079	Richmond County	079	Richmond County	0.46	Dead End	79-656 Bryants Town Rd	110	R							X						04/30/2007
+765404	  79	00645	     	79-645	Crookhorn Rd	079	Richmond County	079	Richmond County	0.70	Dead End	Westmoreland County Line	80	R							X						05/07/2007
+765405	  79	00646	     	79-646	Millpond Rd	079	Richmond County	079	Richmond County	0.55	US 360 Richmond Rd	0.55 MN US 360	160	R							X						05/07/2007
+765406	  79	00646	     	79-646	Millpond Rd	079	Richmond County	079	Richmond County	0.99	0.55 MN US 360	79-621 Chestnut Hill Rd	120	R							X						05/07/2007
+765407	  79	00647	     	79-647	Hales Point Rd	079	Richmond County	079	Richmond County	0.80	Dead End	79-648 Oakley Lane	120	R							X						05/19/2004
+765408	  79	00647	     	79-647	Hales Point Rd	079	Richmond County	079	Richmond County	0.90	79-648 Oakley Lane	79-610	190	R							X						05/19/2004
+765409	  79	00647	     	79-647	Hales Point Rd	079	Richmond County	079	Richmond County	2.40	79-610	79-608 Farnham Creek Rd	350	R							X						05/19/2004
+765410	  79	00648	     	79-648	Oakley Lane	079	Richmond County	079	Richmond County	0.70	79-647 Hales Point Rd	Dead End	60	R							X						05/19/2004
+765411	  79	00649	     	79-649	Meadowbrook Rd	321	Town of Warsaw	079	Richmond County	0.34	US 360 W, Richmond Rd	US 360 E, Richmond Rd	220	R							X						05/14/2007
+765412	  79	00650	     	79-650	Barnfield Rd	079	Richmond County	079	Richmond County	0.90	Dead End	79-619 Rich Neck Rd	810	R							X						04/30/2007
+765413	  79	00651	     	79-651	Forest Rd	079	Richmond County	079	Richmond County	0.20	79-614 Beaver Dam Rd	0.20 MN 79-614 Beaver Dam Rd	40	R							X						04/25/2007
+765414	  79	00651	     	79-651	Forest Rd	079	Richmond County	079	Richmond County	1.92	0.20 MN 79-614 Beaver Dam Rd	79-642 Sharps Rd	80	R							X						04/25/2007
+765415	  79	00652	     	79-652	Waterview Rd	079	Richmond County	079	Richmond County	0.53	Dead End	79-683 Bowens Lane	30	R							X						05/10/2007
+765416	  79	00652	     	79-652	Waterview Rd	079	Richmond County	079	Richmond County	1.07	79-683 Bowens Lane	79-636 Strangeway Rd	130	R							X						05/10/2007
+765417	  79	00653	     	79-653	Sanfords Lane	079	Richmond County	079	Richmond County	0.45	SR 3 History Land Hwy	79-667 Sunnyside Lane	90	R							X						05/02/2007
+765418	  79	00653	     	79-653	Sanfords Lane	079	Richmond County	079	Richmond County	0.45	79-667 Sunnyside Lane	Dead End	70	R							X						05/02/2007
+765419	  79	00654	     	79-654	Dunaway Lane	079	Richmond County	079	Richmond County	1.30	Dead End	79-600 Ridge Rd	10	R							X						04/25/2007
+765420	  79	00655	     	79-655	Riverdale Rd	079	Richmond County	079	Richmond County	1.25	Dead End	79-614 Suggets Point Rd	48	R							X						05/19/2004
+765421	  79	00656	     	79-656	Bryants Town Rd	079	Richmond County	079	Richmond County	0.63	Dead End	79-644 Selfs Lane	60	R							X						04/30/2007
+765422	  79	00656	     	79-656	Bryants Town Rd	079	Richmond County	079	Richmond County	0.57	79-644 Selfs Lane	79-617 Normans Corner Rd	240	R							X						04/30/2007
+765423	  79	00657	     	79-657	Little Florida Rd	079	Richmond County	079	Richmond County	0.90	Dead End	79-610	50	R							X						05/19/2004
+765424	  79	00658	     	79-658	Murphys Place	079	Richmond County	079	Richmond County	0.52	Dead End	79-619 Mulberry Rd	70	R							X						06/07/2004
+765425	  79	00659	     	79-659	Spring Hill Rd	079	Richmond County	079	Richmond County	0.50	Dead End	79-690 Menokin Rd	20	R							X						05/07/2007
+765426	  79	00660	     	79-660	Cobham Park Lane	079	Richmond County	079	Richmond County	0.35	Dead End	79-672	70	R							X						05/19/2004
+765427	  79	00660	     	79-660	Cobham Park Lane	079	Richmond County	079	Richmond County	0.15	79-672	79-630 Wellfords Wharf Rd	110	R							X						05/19/2004
+765428	  79	00661	     	79-661	Totuskey Church Rd	079	Richmond County	079	Richmond County	1.90	US 360 Richmond Rd	79-627 Drinking Swamp Rd	540	R							X						04/30/2007
+765429	  79	00661	     	79-661	Totuskey Church Rd	079	Richmond County	079	Richmond County	0.08	79-627 Drinking Swamp Rd	Dead End	10	R							X						04/30/2007
+765430	  79	00662	     	79-662	Withers Lane	079	Richmond County	079	Richmond County	0.70	79-661 Totuskey Church Rd	79-619 Rich Neck Rd	190	R							X						04/30/2007
+765431	  79	00663	     	79-663	Thompsontown Rd	079	Richmond County	079	Richmond County	1.00	79-620 Threeway Rd	Dead End	70	R							X						05/24/2004
+765432	  79	00664	     	79-664	Emmanuel Church Rd	079	Richmond County	079	Richmond County	0.45	79-637 Piney Grove Rd	Dead End	40	R							X						05/07/2007
+765433	  79	00665	     	79-665	Milden Lane	079	Richmond County	079	Richmond County	0.10	79-642 Sharps Rd	Dead End	40	R							X						05/19/2004
+765434	  79	00666	     	79-666	 	079	Richmond County	079	Richmond County	0.06	Dead End	SR 3 Historyland Hwy	0	?							X
+765435	  79	00667	     	79-667	Sunnyside Lane	079	Richmond County	079	Richmond County	0.64	Dead End	79-653 Sanfords Lane	8	R							X						05/02/2007
+765436	  79	00668	     	79-668	Village Lane	079	Richmond County	079	Richmond County	0.15	79-617 Normans Corner Rd	US 360 Richmond Rd	80	R							X						05/17/2004
+765437	  79	00669	     	79-669	Headley Lane	079	Richmond County	079	Richmond County	0.05	79-614 Suggets Point Rd	Dead End	30	R							X						05/19/2004
+765438	  79	00670	     	79-670	Scott Town Rd	079	Richmond County	079	Richmond County	0.65	US 360 Richmond Rd	79-699	200	R							X						05/24/2004
+765439	  79	00671	     	79-671	Thrift Rd	079	Richmond County	079	Richmond County	0.45	Dead End	79-619 Rich Neck Rd	30	R							X						04/30/2007
+765440	  79	00672	     	79-672	 	079	Richmond County	079	Richmond County	0.35	Dead End	79-660 Cobham Park Lane	60	R							X						05/19/2004
+765441	  79	00673	     	79-673	Lanier Rd	079	Richmond County	079	Richmond County	0.84	Dead End	79-606 Simonson Rd	100	R							X						05/19/2004
+765442	  79	00674	     	79-674	Kellys Lane	079	Richmond County	079	Richmond County	0.40	Dead End	79-621 Menokin Rd	130	R							X						05/07/2007
+765443	  79	00675	     	79-675	Elliots Dr	079	Richmond County	079	Richmond County	0.61	Dead End	79-636 Strangeway Rd	20	R							X						06/02/2004
+765444	  79	00676	     	79-676	Reisingers Rd	079	Richmond County	079	Richmond County	0.98	79-624	Dead End	160	R							X						06/02/2004
+765445	  79	00677	     	79-677	Morres Mill Rd	079	Richmond County	079	Richmond County	0.30	Dead End	79-607 Canal Rd	70	R							X						04/30/2007
+765446	  79	00678	     	79-678	Pea Ridge Lane	079	Richmond County	079	Richmond County	0.67	Dead End	0.67 MS Dead End	30	R							X						05/10/2007
+765447	  79	00678	     	79-678	Pea Ridge Lane	079	Richmond County	079	Richmond County	0.13	0.67 MS Dead End	79-624	50	R							X						05/10/2007
+765448	  79	00679	     	79-679	Silas Dr	079	Richmond County	079	Richmond County	0.35	79-632 Islington Rd	Dead End	70	R							X						05/24/2004
+765449	  79	00680	     	79-680	Smith Lane	079	Richmond County	079	Richmond County	0.40	Dead End	79-637 Piney Grove Rd	130	R							X						06/02/2004
+765450	  79	00681	     	79-681	Front St	079	Richmond County	079	Richmond County	0.40	Dead End	79-642 Sharps Rd	100	R							X						05/19/2004
+765451	  79	00682	     	79-682	Farnham Landing	079	Richmond County	079	Richmond County	0.09	Dead End	79-608 Farnham Creek Rd	6	R							X						05/19/2004
+765452	  79	00683	     	79-683	Bowens Lane	079	Richmond County	079	Richmond County	0.38	Dead End	79-652 Waterview Rd	60	R							X						06/02/2004
+765453	  79	00684	     	79-684	Blues Lane	079	Richmond County	079	Richmond County	0.55	79-619 Mulberry Rd	Dead End	45	R							X						05/02/2007
+765454	  79	00685	     	79-685	 	079	Richmond County	079	Richmond County	0.35	Dead End	79-637 County Bridge Rd	130	R							X						06/02/2004
+765455	  79	00686	     	79-686	Pocahontas Dr	079	Richmond County	079	Richmond County	0.08	79-697 Indianfield Rd	79-1101 Red Wing Lane	60	R							X						05/24/2004
+765456	  79	00686	     	79-686	Pocahontas Dr	079	Richmond County	079	Richmond County	0.07	79-1101 Red Wing Lane	US 360; FR-815	90	R							X						05/24/2004
+765457	  79	00687	     	79-687	Old Treasure Rd	079	Richmond County	079	Richmond County	0.12	Dead End	SR 3 History Land Hwy	200	R							X						05/17/2004
+765458	  79	00688	     	79-688	 	079	Richmond County	079	Richmond County	0.20	Dead End	79-630 Wellfords Wharf Rd	70	R							X						05/19/2004
+765459	  79	00689	     	79-689	Bunker Hill Rd	079	Richmond County	079	Richmond County	0.19	Cul-de-Sac	SR 3 History Land Hwy	50	R							X						05/17/2004
+404623	  79	00690	     	79-690	Menokin Rd	321	Town of Warsaw	079	Richmond County	0.20	SR 3 Bus	NCL Warsaw	860	G	98%	0%	1%	0%	1%	0%	F	0.1108	F	0.5403	930	G	2008
+404624	  79	00690	     	79-690	Menokin Rd	079	Richmond County	079	Richmond County	2.64	NCL Warsaw	79-621 N, Chestnut Hill Rd	620	G	98%	0%	1%	0%	1%	0%	C	0.1307	F	0.5158	670	G	2008
+765460	  79	00690	     	79-690	Menokin Rd	079	Richmond County	079	Richmond County	2.49	79-621 N, Chestnut Hill Rd	79-637 E, Piney Grove Rd	770	R							X						05/07/2007
+765461	  79	00690	     	79-690	Menokin Rd	079	Richmond County	079	Richmond County	1.50	79-637 E, Piney Grove Rd	79-633 Scates Rd	670	R							X						05/07/2007
+765462	  79	00690	     	79-690	Menokin Rd	079	Richmond County	079	Richmond County	0.50	79-633 Scates Rd	Westmoreland County Line	550	R							X						05/07/2007
+765463	  79	00691	     	79-691	Northernmost Rd	079	Richmond County	079	Richmond County	0.85	Westmoreland County Line	Dead End	20	R							X						05/10/2007
+765464	  79	00692	     	79-692	N Farnham Church Rd	079	Richmond County	079	Richmond County	0.40	SR 3 S, History Land Hwy	79-607 Canal Rd	500	R							X						04/30/2007
+404625	  79	00692	     	79-692	N Farnham Church Rd	079	Richmond County	079	Richmond County	0.22	79-607 Canal Rd	SR 3 N, History Land Hwy	600	G	97%	1%	1%	1%	1%	0%	C	0.1010	F	0.5942	650	G	2008
+765465	  79	00693	     	79-693	Carter Town Rd	079	Richmond County	079	Richmond County	0.30	Dead End	79-624	120	R							X						06/07/2004
+765466	  79	00694	     	79-694	Burnt House Rd	079	Richmond County	079	Richmond County	0.19	79-635 Grove Mount Rd	Dead End	30	R							X						05/10/2007
+765467	  79	00695	     	79-695	Church Lane	079	Richmond County	079	Richmond County	0.15	US 360 Richmond Rd	79-629 Bells Dr	150	R							X						05/02/2007
+765468	  79	00696	     	79-696	Heaggans Rd	079	Richmond County	079	Richmond County	0.19	Dead End	SR 3 History Land Hwy	30	R							X						04/25/2007
+765469	  79	00697	     	79-697	Indianfield Rd	079	Richmond County	079	Richmond County	0.66	US 360 Richmond Rd	79-686 Pocahontas Dr	210	R							X						09/26/2001
+765470	  79	00697	     	79-697	Indianfield Rd	079	Richmond County	079	Richmond County	0.76	79-686 Pocahontas Dr	79-620 Richmond Hill Rd	60	R							X						05/02/2007
+765471	  79	00698	     	79-698	Gravel Pit Rd	079	Richmond County	079	Richmond County	0.36	Dead End	79-632 Islington Rd	110	R							X						05/24/2004
+765472	  79	00699	     	79-699	 	079	Richmond County	079	Richmond County	0.13	Dead End	79-670 Scott Town Rd	100	R							X						05/24/2004
+765473	  79	00700	     	79-700	Selftown Rd	321	Town of Warsaw	079	Richmond County	0.13	US 360 Richmond Rd	NCL Warsaw	700	R							X						05/14/2007
+785200	  79	00700	     	79-700	Selftown Rd	079	Richmond County	079	Richmond County	0.20	NCL Warsaw	Dead End	170	R							X						09/11/2001
+765474	  79	00701	     	79-701	Hard Bargain Lane	079	Richmond County	079	Richmond County	0.70	79-610 Maon Rd	Cul-de-Sac	50	R							X						04/25/2007
+786727	  79	00702	     	79-702	Poplar Court	079	Richmond County	079	Richmond County	0.17	79-704 Rose Hill Dr	Cul-de-Sac	60	R							X						05/19/2004
+782659	  79	00703	     	79-703	Rose Hill Dr	079	Richmond County	079	Richmond County	0.15	Dead End	SR 3 Historyland Hwy	140	R							X						05/02/2007
+782660	  79	00704	     	79-704	Rose Hill Dr	079	Richmond County	079	Richmond County	0.38	Cul-de-Sac	79-703 Rose Hill Dr	45	R							X						05/02/2007
+765475	  79	00705	     	79-705	Woodyard Rd	079	Richmond County	079	Richmond County	0.04	79-620 Fallin Town Rd	Dead End	50	R							X						05/14/2007
+765476	  79	00707	     	79-707	Creek View Lane	079	Richmond County	079	Richmond County	0.22	SR 3 Historyland Hwy	Dead End	50	R							X						05/19/2004
+765477	  79	00708	     	79-708	Cedar Point Rd	079	Richmond County	079	Richmond County	0.38	79-614 Folly Neck Rd	Dead End	60	R							X						05/19/2004
+784506	  79	00709	     	79-709	 	079	Richmond County	079	Richmond County	0.19	79-630 Wellfords Wharf Rd	SR 3 Historyland Hwy	60	R							X						05/19/2004
+765478	  79	00710	     	79-710	Indian Banks Rd	079	Richmond County	079	Richmond County	0.42	Dead End	79-606 Simonson Rd	70	R							X						04/25/2007
+765479	  79	00720	     	79-720	Bamboo Lane	079	Richmond County	079	Richmond County	0.20	79-642 Sharps Rd	Cul-de-Sac	30	R							X						04/25/2007
+765480	  79	01000	     	79-1000	Harris Ave	321	Town of Warsaw	079	Richmond County	0.25	SR 3	Cul-de-Sac	70	R							X						05/14/2007
+404626	  79	01001	     	79-1001	Hamilton Blvd	321	Town of Warsaw	079	Richmond County	0.75	US 360 Richmond Rd	Bus SR 3	430	G	96%	0%	2%	1%	0%	0%	C	0.1314	F	0.5968	470	G	2008
+765481	  79	01002	     	79-1002	Belleville Lane	321	Town of Warsaw	079	Richmond County	0.23	SR 3	79-1001 Hamilton Blvd	310	R							X						05/02/2007
+765482	  79	01003	     	79-1003	St Johns St	321	Town of Warsaw	079	Richmond County	0.23	SR 3	US 360 Richmond Rd	1000	R							X						05/02/2007
+765483	  79	01004	     	79-1004	Court Circle	321	Town of Warsaw	079	Richmond County	0.17	US 360 Richmond Rd; Bus SR 3	79-1036 Campus Dr	320	R							X						05/14/2007
+765484	  79	01004	     	79-1004	Court Circle	321	Town of Warsaw	079	Richmond County	0.13	79-1036 Campus Dr	End Loop	310	R							X						09/11/2001
+765485	  79	01005	     	79-1005	Lakeside Dr	321	Town of Warsaw	079	Richmond County	0.18	79-1012 Sunset Lane	79-1006 Ridgeway Rd	30	R							X						06/06/2004
+765486	  79	01005	     	79-1005	Lakeside Dr	321	Town of Warsaw	079	Richmond County	0.17	79-1006 Rideway Rd	79-1020 Ivy Lane	100	R							X						06/07/2004
+765487	  79	01005	     	79-1005	Lakeside Dr	321	Town of Warsaw	079	Richmond County	0.08	79-1020 Ivy Lane	79-690 Menokin Rd	80	R							X						06/07/2004
+765488	  79	01006	     	79-1006	Ridgeway Rd	321	Town of Warsaw	079	Richmond County	0.08	79-1012 Sunset Lane	79-1005 Lakeside Dr	240	R							X						05/14/2007
+765489	  79	01006	     	79-1006	Ridgeway Rd	321	Town of Warsaw	079	Richmond County	0.10	79-1005 Lakeside Dr	SR 3	410	R							X						05/14/2007
+765490	  79	01007	     	79-1007	Sabine Hall Rd	321	Town of Warsaw	079	Richmond County	0.13	US 360 Richmond Rd	Dead End	820	R							X						05/14/2007
+765491	  79	01008	     	79-1008	Pine St	321	Town of Warsaw	079	Richmond County	0.19	US 360 Richmond Rd	79-1002 Belleville Lane	120	R							X						05/02/2007
+765492	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.09	79-1028 Level Blvd	79-1014 SOUTH	200	R							X						06/09/2004
+765493	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.02	79-1014 SOUTH	79-1014 NORTH	230	R							X						06/09/2004
+765494	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.06	79-1014 NORTH	79-1010 SOUTH	240	R							X						06/09/2004
+765495	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.03	79-1010 SOUTH	79-1010 NORTH	280	R							X						06/09/2004
+765496	  79	01009	     	79-1009	Washington Ave	321	Town of Warsaw	079	Richmond County	0.05	79-1010 NORTH	US 360 Richmond Rd	330	R							X						05/14/2007
+765497	  79	01010	     	79-1010	 	321	Town of Warsaw	079	Richmond County	0.06	WCL Warsaw	79-1011 Madison Ave	30	R							X						06/09/2004
+765498	  79	01010	     	79-1010	 	321	Town of Warsaw	079	Richmond County	0.09	79-1011 Madison Ave	79-1009 Washington Ave	150	R							X						06/09/2004
+765499	  79	01010	     	79-1010	 	321	Town of Warsaw	079	Richmond County	0.14	79-1009 S, Washington Ave	79-1018 Memorial Dr	30	R							X						06/07/2004
+765500	  79	01011	     	79-1011	Madison Ave	321	Town of Warsaw	079	Richmond County	0.09	79-1014	79-1010	70	R							X						06/09/2004
+765501	  79	01012	     	79-1012	Sunset Lane	321	Town of Warsaw	079	Richmond County	0.11	Dead End	79-1005 Lakeside Dr	170	R							X						06/07/2004
+765502	  79	01012	     	79-1012	Sunset Lane	321	Town of Warsaw	079	Richmond County	0.08	79-1005 Lakeside Dr	79-1006 Ridgeway Rd	160	R							X						06/07/2004
+765503	  79	01012	     	79-1012	Sunset Lane	321	Town of Warsaw	079	Richmond County	0.28	79-1006 Ridgeway Rd	Dead End	80	R							X						06/07/2004
+765504	  79	01013	     	79-1013	Jones Lane	321	Town of Warsaw	079	Richmond County	0.18	US 360 Richmond Rd	Dead End	410	R							X						05/14/2007
+765505	  79	01014	     	79-1014	 	321	Town of Warsaw	079	Richmond County	0.04	WCL Warsaw	79-1011 Madison Ave	20	R							X						06/09/2004
+765506	  79	01014	     	79-1014	 	321	Town of Warsaw	079	Richmond County	0.09	79-1011 Madison Ave	79-1009 Washington Ave	20	R							X						06/09/2004
+765507	  79	01014	     	79-1014	 	321	Town of Warsaw	079	Richmond County	0.15	79-1009 Washington Ave	79-1018 Memorial Dr	40	R							X						06/07/2004
+765508	  79	01015	     	79-1015	Wallace St	321	Town of Warsaw	079	Richmond County	0.23	Cul-de-Sac	0.23 MN Cul-de-Sac	120	R							X						05/14/2007
+765509	  79	01015	     	79-1015	Wallace St	321	Town of Warsaw	079	Richmond County	0.33	0.23 MN Cul-de-Sac	79-1036 Campus Dr	450	R							X						05/14/2007
+765510	  79	01015	     	79-1015	Wallace St	321	Town of Warsaw	079	Richmond County	0.09	79-1036 Campus Dr	US 360 Richmond Rd	800	R							X						05/14/2007
+765511	  79	01016	     	79-1016	Morgan Lane	321	Town of Warsaw	079	Richmond County	0.40	79-1017 West Morgan Lane	US 360 Richmond Rd	370	R							X						05/07/2004
+765512	  79	01017	     	79-1017	West Morgan Lane	321	Town of Warsaw	079	Richmond County	0.04	Dead End	79-1016 Morgan Lane	40	R							X						06/07/2004
+765513	  79	01017	     	79-1017	West Morgan Lane	321	Town of Warsaw	079	Richmond County	0.07	79-1016 Morgan Lane	79-1023 Quail Trail	150	R							X						06/07/2004
+765514	  79	01017	     	79-1017	West Morgan Lane	321	Town of Warsaw	079	Richmond County	0.10	79-1023 Quail Trail	Dead End	60	R							X						06/07/2004
+765515	  79	01018	     	79-1018	Memorial Dr	321	Town of Warsaw	079	Richmond County	0.05	SCL Warsaw	79-1014	50	R							X						06/07/2004
+765516	  79	01018	     	79-1018	Memorial Dr	321	Town of Warsaw	079	Richmond County	0.10	79-1014	79-1010	80	R							X						06/07/2004
+765517	  79	01018	     	79-1018	Memorial Dr	321	Town of Warsaw	079	Richmond County	0.08	79-1010	79-649 Meadowbrook Rd	110	R							X						06/07/2004
+765518	  79	01019	     	79-1019	Gordon Lane	321	Town of Warsaw	079	Richmond County	0.15	US 360 Richmond Rd	Dead End	40	R							X						06/07/2004
+765519	  79	01020	     	79-1020	Ivy Lane	321	Town of Warsaw	079	Richmond County	0.12	79-1005 Lakeside Dr	NCL Warsaw	30	R							X						06/07/2004
+765520	  79	01021	     	79-1021	Maple St	321	Town of Warsaw	079	Richmond County	0.15	79-1022 Walnut St	US 360 Richmond Rd	590	R							X						05/24/2004
+765521	  79	01022	     	79-1022	Walnut St	321	Town of Warsaw	079	Richmond County	0.18	SR 3	79-1021 Maple St	1200	R							X						05/24/2004
+765522	  79	01022	     	79-1022	Walnut St	321	Town of Warsaw	079	Richmond County	0.04	79-1021 Maple St	Dead End	1200	R							X						05/24/2004
+765523	  79	01023	     	79-1023	Quail Trail	321	Town of Warsaw	079	Richmond County	0.16	Dead End	79-1017 West Morgan Lane	70	R							X						06/07/2004
+765524	  79	01027	     	79-1027	Sturman Lane	321	Town of Warsaw	079	Richmond County	0.15	Dead End	79-649 Meadowbrook Rd	70	R							X						06/07/2004
+765525	  79	01028	     	79-1028	Level Blvd	321	Town of Warsaw	079	Richmond County	0.13	79-1029 Georgia Ave	79-1009 Washington Ave	160	R							X						06/09/2004
+765526	  79	01028	     	79-1028	Level Blvd	321	Town of Warsaw	079	Richmond County	0.02	79-1009 Washington Ave	Dead End	30	R							X						06/09/2004
+765527	  79	01029	     	79-1029	Georgia Ave	079	Richmond County	079	Richmond County	0.09	Dead End	79-1028 Level Blvd	40	R							X						06/09/2004
+765528	  79	01033	     	79-1033	Lee Ave	321	Town of Warsaw	079	Richmond County	0.17	US 360 Richmond Rd	79-1034 Jackson Court	150	R							X						06/07/2004
+765529	  79	01033	     	79-1033	Lee Ave	321	Town of Warsaw	079	Richmond County	0.09	79-1034 Jackon Court	Dead End	60	R							X						06/07/2004
+765530	  79	01034	     	79-1034	Jackson Court	321	Town of Warsaw	079	Richmond County	0.05	79-1033 Lee Ave	Cul-de-Sac	40	R							X						06/07/2004
+765531	  79	01035	     	79-1035	College Ave	321	Town of Warsaw	079	Richmond County	0.07	US 360 Richmond Rd	79-1037 Atkinson Dr	470	R							X						05/14/2007
+765532	  79	01035	     	79-1035	College Ave	321	Town of Warsaw	079	Richmond County	0.22	79-1037 Atkinson Dr	79-1038 Freedom Way	310	R							X						05/14/2007
+765534	  79	01035	     	79-1035	College Ave	321	Town of Warsaw	079	Richmond County	0.04	79-1038 Freedom Way	Dead End	20	R							X						05/14/2007
+765535	  79	01036	     	79-1036	Campus Dr	321	Town of Warsaw	079	Richmond County	0.04	79-1004 Court Circle	79-1015 Wallace St	260	R							X						06/07/2004
+765536	  79	01037	     	79-1037	Atkinson Dr	321	Town of Warsaw	079	Richmond County	0.18	79-1035 College Ave	0.18 MN 79-1035	140	R							X						06/07/2004
+765537	  79	01037	     	79-1037	Atkinson Dr	321	Town of Warsaw	079	Richmond County	0.02	0.18 MN 79-1035	Dead End	40	R							X						06/07/2004
+765538	  79	01038	     	79-1038	Freedom Way	321	Town of Warsaw	079	Richmond County	0.16	Cul-de-Sac	79-1035 College Ave	170	R							X						06/07/2004
+765539	  79	01038	     	79-1038	Freedom Way	321	Town of Warsaw	079	Richmond County	0.05	79-1035 College Ave	Cul-de-Sac	30	R							X						06/07/2004
+765540	  79	01040	     	79-1040	Lyell Dr	079	Richmond County	079	Richmond County	0.05	Cul-de-Sac	79-620 Threeway Rd	30	R							X						05/24/2004
+765541	  79	01041	     	79-1041	Hinson Rd	079	Richmond County	079	Richmond County	0.12	Cul-de-Sac	79-620 Threeway Rd	120	R							X						05/24/2004
+790679	  79	01044	     	79-1044	Estate Lane	079	Richmond County	079	Richmond County	0.18	Dead End	79-619 Mulberry Rd	50	R							X						05/02/2007
+791988	  79	01047	     	79-1047	Meadowview Lane	079	Richmond County	079	Richmond County	0.13	79-619 Mulberry Rd	Dead End	70	R							X						04/30/2007
+765542	  79	01060	     	79-1060	Schoolhouse Rd	079	Richmond County	079	Richmond County	0.14	79-607 Canal Rd	79-1061 North Bend Rd	90	R							X						05/17/2004
+765543	  79	01061	     	79-1061	North Bend Rd	079	Richmond County	079	Richmond County	0.06	Cul-de-Sac	79-1060 Schoolhouse Rd	10	R							X						05/17/2004
+765544	  79	01061	     	79-1061	North Bend Rd	079	Richmond County	079	Richmond County	0.11	79-1060 Schoolhouse Rd	Cul-de-Sac	40	R							X						05/17/2004
+765545	  79	01101	     	79-1101	Red Wing Lane	079	Richmond County	079	Richmond County	0.15	79-1102 Powhatan Trail	79-686 Pocahontas Dr	40	R							X						05/24/2004
+765546	  79	01102	     	79-1102	Powhatan Trail	079	Richmond County	079	Richmond County	0.07	79-1101 Red Wing Lane	79-697 Indianfield Rd	10	R							X						05/24/2004
+785441	  79	01110	     	79-1110	Settlers Landing Rd	079	Richmond County	079	Richmond County	0.20	79-620 Richmond Hill Rd	Dead End	140	R							X						05/24/2004
+785442	  79	01111	     	79-1111	Waterside Dr	079	Richmond County	079	Richmond County	0.29	Cul-de-Sac	79-1110 Settlers Landing Rd	80	R							X						05/24/2004
+765547	  79	09350	     	79-9350	 	079	Richmond County	079	Richmond County	0.12	SR 3 Historyland Hwy	SR 3 Historyland Hwy	260	R							X						05/02/2007
+765548	  79	09838	     	79-9838	Rappahannock High School	079	Richmond County	079	Richmond County	0.15	US 360 Richmond Rd	US 360 Richmond Rd	260	R							X						05/02/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

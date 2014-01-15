@@ -1,0 +1,21 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Madison																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+070201	C9US	00029	     	Bus US 29, VA 231	Main St	256	Town of Madison	056	Madison County	0.91	SCL Madison	SR 231, N Blue Ridge Tpke	3700	N	98%	0%	1%	1%	1%	0%	N	0.0985	N	0.0000	4000	N	2008
+070056	C9US	00029	     	Bus US 29	Main St	256	Town of Madison	056	Madison County	0.05	SR 231, N Blue Ridge Tpke	NCL Madison	3900	F	98%	0%	1%	1%	1%	0%	F	0.1062	F	0.0000	4200	F	2008
+070201	  SR	00231	     	Bus US 29, VA 231	Main St	256	Town of Madison	056	Madison County	0.91	SCL Madison	N Blue Ridge Turnpike	3700	N	98%	0%	1%	1%	1%	0%	N	0.0985	N	0.0000	4000	N	2008	
+070066	  SR	00231	     	VA 231	N Blue Ridge Tpke	256	Town of Madison	056	Madison County	0.04	Bus US 29 Main St	NCL Madison	3500	G	94%	0%	2%	2%	3%	0%	F	0.0937	N	0.6035	3500	G	2008
+303776	  56	00634	     	56-634	Washington St	256	Town of Madison	056	Madison County	0.10	ECL Madison	Bus US 29 Main St	3000	N	98%	0%	1%	1%	0%	0%	N	0.0950	N	0.5434	3200	N	2008
+752581	  56	00634	     	56-634	Schoolhouse Rd	256	Town of Madison	056	Madison County	0.09	Bus US 29 Main St	WCL Madison	260	R							X						12/28/2005
+752630	  56	00652	     	56-652	Ruth Rd	256	Town of Madison	056	Madison County	0.09	Bus US 29 Main St	WCL Madison	340	R							X						12/28/2005
+302529	  56	00657	     	56-657	Thrift Rd	256	Town of Madison	056	Madison County	0.09	WCL Madison	Bus US 29 Main St	410	F	99%	0%	1%	0%	0%	0%	C	0.1303	F	0.6250	440	F	2008
+752672	  56	00673	     	56-673	Mud Rd	256	Town of Madison	056	Madison County	0.14	56-652 Ruth Rd	NCL Madison	100	R							X						09/09/2002
+752762	  56	01001	     	56-1001	Church St	256	Town of Madison	056	Madison County	0.10	Bus US 29 Main St	ECL Madison	750	R							X						12/28/2005
+752764	  56	01002	     	56-1002	Catherine St	256	Town of Madison	056	Madison County	0.06	Dead End	Bus US 29 Main St	70	R							X						12/28/2005
+752765	  56	01002	     	56-1002	Catherine St	256	Town of Madison	056	Madison County	0.07	Bus US 29 Main St	56-1003 Smith St	160	R							X						12/28/2005
+752766	  56	01003	     	56-1003	Smith St	256	Town of Madison	056	Madison County	0.25	Bus US 29 Main St	56-1002 Catherine St	90	R							X						12/28/2005
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

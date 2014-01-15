@@ -1,0 +1,830 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Montgomery Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+120076	  SR	00008	     	VA 8	Riner Rd	060	Montgomery County	060	Montgomery County	5.99	Floyd County Line	60-658 N of Riner; Meadow Creek Rd	7400	G	97%	0%	1%	1%	2%	0%	F	0.0932	F	0.6658	7700	G	2008
+120077	  SR	00008	     	VA 8	Riner Rd	060	Montgomery County	060	Montgomery County	3.26	60-658 N of Riner; Meadow Creek Rd	SCL Christiansburg near I-81	10000	G	97%	0%	1%	1%	2%	0%	F	0.1052	F	0.7785	11000	G	2008
+120078	  SR	00008	     	VA 8	W Main St	154	Town of Christiansburg	060	Montgomery County	0.22	SCL Christiansburg Near I-81	Old SCL Christiansburg	15000	G	96%	1%	1%	1%	1%	0%	F	0.1030	F	0.5575	16000	G	2008
+618199	  SR	00008	     	VA 8	W Main St	154	Town of Christiansburg	154	Town of Christiansburg	0.77	Old SCL Christiansburg	US 11; Radford St	13000	G	96%	1%	1%	1%	1%	0%	C	0.0918	F	0.6070	14000	G	2008
+020392	  US	00011	     	US 11	 	060	Montgomery County	060	Montgomery County	0.15	Pulaski County Line	WCL Radford	24000	G	98%	0%	0%	1%	1%	0%	F	0.0859	F	0.5170	25000	G	2008
+663109	  US	00011	     	US 11	 	126	City of Radford	060	Montgomery County	0.21	WCL Radford	SR 232, First St	24000	G	98%	0%	0%	1%	1%	0%	F	0.0859	F	0.5170	25000	G	2008
+663111	  US	00011	     	US 11	Norwood St	126	City of Radford	126	City of Radford	0.26	SR 232, First St	Grove Ave	19000	G	98%	0%	1%	0%	0%	0%	F	0.0924	F	0.5464	21000	G	2008
+663114	  US	00011	     	US 11	Norwood St	126	City of Radford	126	City of Radford	0.77	Grove Ave	SR 177 Tyler Ave	13000	G	98%	0%	1%	0%	0%	0%	C	0.0865	F	0.5739	14000	G	2008
+663118	  US	00011	     	US 11	Norwood St	126	City of Radford	126	City of Radford	0.93	SR 177 Tyler Ave	Whitehall St	14000	G	98%	0%	1%	0%	0%	0%	F	0.0899	F	0.6197	16000	G	2008
+663117	  US	00011	     	US 11	Norwood St	126	City of Radford	126	City of Radford	1.46	Whitehall St	ECL Radford	4600	G	98%	0%	1%	0%	0%	0%	C	0.1077	F	0.6181	5000	G	2008
+020347	  US	00011	     	US 11	 	060	Montgomery County	060	Montgomery County	1.47	ECL Radford	60-663 Walton Dr	8800	G	98%	0%	1%	1%	0%	0%	F	0.0994	F	0.5316	9300	G	2008
+020346	  US	00011	     	US 11	Radford Rd	060	Montgomery County	060	Montgomery County	2.32	60-663 Walton Dr	60-662 Harmon Dr	8300	G	98%	0%	1%	1%	0%	0%	C	0.1001	F	0.5264	8700	G	2008
+020345	  US	00011	     	US 11	Radford St	060	Montgomery County	060	Montgomery County	0.65	60-662 Harmon Dr	WCL Christiansburg	8900	G	98%	0%	1%	1%	0%	0%	F	0.0952	F	0.5089	9400	G	2008
+618200	  US	00011	     	US 11	Radford St	154	Town of Christiansburg	154	Town of Christiansburg	1.40	WCL Christiansburg	SR 8 W Main St	11000	G	97%	0%	1%	1%	0%	0%	C	0.1022	F	0.5210	12000	G	2008
+618198	  US	00011	     	US 11	W Main St	154	Town of Christiansburg	154	Town of Christiansburg	0.30	SR 8, Radford St	Bus US 460 S Franklin St	5500	G	97%	0%	1%	1%	0%	0%	F	0.0888	F	0.5023	6000	G	2008
+618189	  US	00011	     	US 11, Bus US 460	E Main St	154	Town of Christiansburg	154	Town of Christiansburg	0.12	Bus US 460 S Franklin St	Roanoke St	8200	G	97%	0%	1%	1%	0%	0%	F	0.0838	F	0.6012	8900	G	2008
+618401	  US	00011	     	US 11, Bus US 460	Roanoke St	154	Town of Christiansburg	154	Town of Christiansburg	0.11	E Main St	Craig St	11000	G	97%	0%	1%	1%	0%	0%	F	0.0866	F	0.5166	12000	G	2008
+618111	  US	00011	     	US 11, Bus US 460	Roanoke St	154	Town of Christiansburg	154	Town of Christiansburg	0.98	Craig St	SR 111 Depot St	12000	G	97%	0%	1%	1%	0%	0%	F	0.0993	F	0.5606	13000	G	2008
+618192	  US	00011	     	US 11, Bus US 460	Roanoke St	154	Town of Christiansburg	154	Town of Christiansburg	0.86	SR 111 Depot St	US 460	16000	G	98%	0%	1%	0%	1%	0%	C	0.1028	F	0.6041	17000	G	2008
+020344	  US	00011	     	US 11	Roanoke St	154	Town of Christiansburg	060	Montgomery County	1.15	US 460	I-81	16000	G	96%	1%	1%	1%	1%	0%	C	0.0897	F	0.5111	18000	G	2008
+020424	  US	00011	     	US 11, US 460	Roanoke St	154	Town of Christiansburg	060	Montgomery County	0.09	I-81	Tower Rd, Hampton Rd	8700	N	96%	1%	1%	1%	1%	0%	N	0.0988	N	0.5410	9400	N	2008
+020423	  US	00011	     	US 11, US 460	Roanoke St	154	Town of Christiansburg	154	Town of Christiansburg	2.01	Tower Rd, Hampton Rd	ECL Christiansburg	8700	G	96%	1%	1%	1%	1%	0%	F	0.0988	F	0.5410	9400	G	2008
+020343	  US	00011	     	US 11, US 460	Roanoke St	060	Montgomery County	060	Montgomery County	5.11	ECL Christiansburg	60-753 Old Town Rd	7100	G	94%	0%	1%	3%	2%	0%	F	0.0944	F	0.5218	7400	G	2008
+020342	  US	00011	     	US 11, US 460	Roanoke Rd	060	Montgomery County	060	Montgomery County	3.21	60-753 Old Town Rd	60-631 Brake Rd	7600	G	94%	0%	1%	3%	2%	0%	F	0.0916	F	0.6493	8000	G	2008
+020341	  US	00011	     	US 11, US 460	Roanoke Rd	060	Montgomery County	060	Montgomery County	2.43	60-631 Brake Rd	Roanoke County Line	8100	G	94%	0%	1%	3%	2%	0%	C	0.0974	F	0.6882	8500	G	2008
+920383	  IS	00081	N    	I-81 NB	 	060	Montgomery County	060	Montgomery County	0.49	Pulaski County Line	SR 232 First St	19000	F	72%	1%	1%	1%	24%	2%	F				19000	F	2008		39000	N	73%	1%	1%	1%	23%	2%	N				39000	N
+020473	  IS	00081	N    	I-81 NB	 	060	Montgomery County	060	Montgomery County	3.81	SR 232 First St	SR 177 Tyler Rd	19000	G	72%	1%	1%	1%	24%	2%	F				21000	G	2008		38000	G	73%	1%	1%	1%	23%	2%	F				40000	G
+020350	  IS	00081	N    	I-81 NB	 	060	Montgomery County	060	Montgomery County	5.12	SR 177 Tyler Rd	SR 8 Riner Rd; Main St	20000	A	72%	1%	1%	1%	24%	2%	C	0.1048	A	1.0000	20000	A	2008		40000	A	73%	1%	1%	1%	23%	2%	C	0.0993	A	0.0000	40000	A
+781950	  IS	00081	N    	I-81 NB	 	060	Montgomery County	060	Montgomery County	0.08	SR 8 Riner Rd; Main St	SCL Christiansburg	23000	G	72%	1%	1%	1%	24%	2%	F				21000	G	2008		44000	G	73%	1%	1%	1%	23%	2%	F				42000	G
+781197	  IS	00081	N    	I-81 NB	 	154	Town of Christiansburg	060	Montgomery County	3.90	SCL Christiansburg	US 11, US 460	23000	G	72%	1%	1%	1%	24%	2%	F				21000	G	2008		44000	G	73%	1%	1%	1%	23%	2%	F				42000	G
+020182	  IS	00081	N    	I-81 NB	 	154	Town of Christiansburg	060	Montgomery County	0.77	US 11, US 460	NCL Christiansburg	23000	A	72%	1%	1%	1%	23%	2%	C	0.1072	A	1.0000	23000	A	2008		45000	A	74%	1%	1%	1%	22%	2%	C				45000	A
+020180	  IS	00081	N    	I-81 NB	 	060	Montgomery County	060	Montgomery County	9.22	NCL Christiansburg	60-603 Northfork Rd	23000	A	72%	1%	1%	1%	23%	2%	C	0.1072	A	1.0000	23000	A	2008		45000	A	74%	1%	1%	1%	22%	2%	C	0.1006	A	0.0000	45000	A
+020178	  IS	00081	N    	I-81 NB	 	060	Montgomery County	060	Montgomery County	2.22	60-603 Northfork Rd	Roanoke County Line	23000	N	72%	1%	1%	1%	23%	2%	N	0.0700	N	1.0000	23000	N	2008		45000	N	74%	1%	1%	1%	22%	2%	N				45000	N
+120017	  IS	00081	S    	I-81 SB	 	060	Montgomery County	060	Montgomery County	0.61	Pulaski County Line	SR 232 First St	20000	N	74%	1%	1%	1%	22%	2%	N				20000	N	2008		39000	N	73%	1%	1%	1%	23%	2%	N				39000	N
+120016	  IS	00081	S    	I-81 SB	 	060	Montgomery County	060	Montgomery County	4.01	SR 232 First St	SR 177 Tyler Rd	19000	G	74%	1%	1%	1%	22%	2%	F				19000	G	2008		38000	G	73%	1%	1%	1%	23%	2%	F				40000	G
+120015	  IS	00081	S    	I-81 SB	 	060	Montgomery County	060	Montgomery County	4.78	SR 177 Tyler Rd	SR 8 Riner Rd; Main St	20000	A	74%	1%	1%	1%	22%	2%	C	0.1055	A	1.0000	20000	A	2008		40000	A	73%	1%	1%	1%	23%	2%	C	0.0993	A	0.0000	40000	A
+120035	  IS	00081	S    	I-81 SB	 	060	Montgomery County	060	Montgomery County	0.03	SR 8 Riner Rd; Main St	SCL Christiansburg	21000	G	74%	1%	1%	1%	22%	2%	F				21000	G	2008		44000	G	73%	1%	1%	1%	23%	2%	F				42000	G
+120014	  IS	00081	S    	I-81 SB	 	154	Town of Christiansburg	060	Montgomery County	4.27	SCL Christiansburg	US 11, US 460	21000	G	74%	1%	1%	1%	22%	2%	F				21000	G	2008		44000	G	73%	1%	1%	1%	23%	2%	F				42000	G
+120034	  IS	00081	S    	I-81 SB	 	154	Town of Christiansburg	060	Montgomery County	0.34	US 11, US 460	NCL Christiansburg	22000	A	75%	1%	1%	1%	21%	2%	C	0.1096	A	1.0000	22000	A	2008		45000	A	74%	1%	1%	1%	22%	2%	C				45000	A
+120013	  IS	00081	S    	I-81 SB	 	060	Montgomery County	060	Montgomery County	9.39	NCL Christiansburg	60-603 Northfork Rd	22000	A	75%	1%	1%	1%	21%	2%	C	0.1096	A	1.0000	22000	A	2008		45000	A	74%	1%	1%	1%	22%	2%	C	0.1006	A	0.0000	45000	A
+120012	  IS	00081	S    	I-81 SB	 	060	Montgomery County	060	Montgomery County	2.06	60-603 Northfork Rd	Roanoke County Line	23000	A	75%	1%	1%	1%	21%	2%	C	0.1103	A	1.0000	22000	A	2008		45000	G	74%	1%	1%	1%	22%	2%	F	0.0758	F	0.5233	45000	G
+618202	  SR	00111	     	VA 111	Cambria St	154	Town of Christiansburg	154	Town of Christiansburg	0.79	US 460	Ellett Rd	7000	G	96%	1%	1%	2%	1%	0%	C	0.1049	F	0.6061	7600	G	2008
+618181	  SR	00111	     	VA 111	Cambria St	154	Town of Christiansburg	154	Town of Christiansburg	0.39	Ellett Rd	Depot St	6400	G	97%	1%	1%	1%	0%	0%	C	0.1138	F	0.5564	7000	G	2008
+618182	  SR	00111	     	VA 111	Depot St	154	Town of Christiansburg	154	Town of Christiansburg	0.97	Cambria St	Park St	4500	G	97%	1%	1%	1%	1%	0%	F	0.1035	F	0.5394	4800	G	2008
+618191	  SR	00111	     	VA 111	Depot St	154	Town of Christiansburg	154	Town of Christiansburg	0.11	Park St	US 11 Roanoke St	5000	G	97%	1%	1%	1%	1%	0%	C	0.1019	F	0.5863	5400	G	2008
+020354	  SR	00114	     	VA 114	Peppers Ferry Blvd	060	Montgomery County	060	Montgomery County	1.02	Pulaski County Line	60-812	15000	G							X				15000	G	2008
+020133	  SR	00114	     	VA 114	Peppers Ferry Blvd	060	Montgomery County	060	Montgomery County	3.62	60-812	E 60-659 Vicker Switch Rd	12000	G							X	0.1061	F	0.5637	12000	G	2008
+020353	  SR	00114	     	VA 114	Peppers Ferry Blvd	060	Montgomery County	060	Montgomery County	1.34	E 60-659 Vicker Switch Rd	WCL Christiansburg	13000	G							X	0.1171	F	0.6367	14000	G	2008
+618204	  SR	00114	     	VA 114	Peppers Ferry Rd	154	Town of Christiansburg	154	Town of Christiansburg	1.44	WCL Christiansburg	Bus US 460	13000	G	98%	0%	1%	1%	1%	0%	C	0.0963	F	0.5767	14000	G	2008
+789580	  SR	00114	     	VA 114	Peppers Ferry Rd	154	Town of Christiansburg	154	Town of Christiansburg	0.63	Bus US 460	US 460	13000	G	97%	0%	1%	1%	1%	0%	C	0.0963	F	0.5167	14000	G	2008
+020355	  SR	00177	     	VA 177	Tyler Rd	060	Montgomery County	060	Montgomery County	2.33	60-600 S, Tyler Rd	SCL Radford; Rock Rd	11000	G	98%	0%	1%	1%	1%	0%	C	0.0983	F	0.5745	11000	G	2008
+663139	  SR	00177	     	VA 177	Tyler Ave	126	City of Radford	126	City of Radford	0.86	SCL Radford; Rock Rd	Auburn Ave	8600	G	98%	0%	1%	1%	1%	0%	F	0.0907	F	0.6273	9400	G	2008
+663119	  SR	00177	     	VA 177	Tyler Ave	126	City of Radford	126	City of Radford	0.78	Auburn Ave	Adams St	12000	G	98%	0%	1%	1%	1%	0%	F	0.0993	F	0.6378	13000	G	2008
+663115	  SR	00177	     	VA 177	Tyler Ave	126	City of Radford	126	City of Radford	0.44	Adams St	US 11 Norwood St	9700	G	99%	0%	1%	0%	0%	0%	C	0.0850	F	0.5810	11000	G	2008
+020163	  SR	00232	     	VA 232	 	060	Montgomery County	060	Montgomery County	0.48	Ramp split at I-81 NB	SCL Radford	5600	G	96%	1%	1%	0%	2%	0%	F	0.0953	F	0.6339	5900	G	2008
+663103	  SR	00232	     	VA 232	First St	126	City of Radford	126	City of Radford	2.71	SCL Radford	Bolling Street	5700	G	96%	1%	1%	0%	2%	0%	C	0.0945	F	0.5771	6200	G	2008
+663101	  SR	00232	     	VA 232	First St	126	City of Radford	126	City of Radford	0.63	Bolling Street	Wadsworth St	8000	G	96%	1%	1%	0%	2%	0%	F	0.0937	F	0.5139	8700	G	2008
+663107	  SR	00232	     	VA 232	First St	126	City of Radford	126	City of Radford	0.31	Wadsworth St	Arlington Ave	11000	G	96%	1%	1%	0%	2%	0%	F	0.0937	F	0.5069	12000	G	2008
+663108	  SR	00232	     	VA 232	First St	126	City of Radford	126	City of Radford	0.20	Arlington Ave	US 11	13000	G	96%	1%	1%	0%	2%	0%	F	0.0887	F	0.5335	14000	G	2008
+607200	  SR	00412	     	VA 412	Prices Fork Rd	150	Town of Blacksburg	150	Town of Blacksburg	1.07	US 460	Toms Creek Rd	28000	G	98%	1%	1%	0%	0%	0%	C	0.0863	F	0.5799	30000	G	2008
+607205	  SR	00412	     	VA 412	Prices Fork Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.28	Toms Creek Rd	Main St	19000	G	98%	1%	1%	0%	0%	0%	F	0.0835	F	0.5221	20000	G	2008
+020359	  US	00460	     	US 460	 	060	Montgomery County	060	Montgomery County	3.46	Giles County Line	NCL Blacksburg	12000	G	90%	1%	1%	1%	8%	1%	F	0.0958	F	0.6986	13000	G	2008
+020451	  US	00460	     	US 460	 	150	Town of Blacksburg	060	Montgomery County	0.40	NCL Blacksburg	Bus US 460	12000	G	90%	1%	1%	1%	8%	1%	F	0.0958	F	0.6986	13000	G	2008
+781594	  US	00460	     	US 460	 	150	Town of Blacksburg	060	Montgomery County	3.30	Bus US 460	SR 412 Prices Fork Rd	13000	G	90%	1%	1%	1%	7%	1%	C	0.0919	F	0.6933	14000	G	2008
+781947	  US	00460	     	US 460	 	150	Town of Blacksburg	060	Montgomery County	2.97	SR 412 Prices Fork Rd	Bus US 460	32000	G	94%	0%	1%	1%	3%	0%	C	0.1016	F	0.5450	33000	G	2008
+791001	  US	00460	     	US 460	 	150	Town of Blacksburg	060	Montgomery County	0.72	BUS US 460	SCL Blacksburg	35000	G	94%	0%	1%	1%	3%	0%	F	0.0950	F	0.6350	37000	G	2008
+788294	  US	00460	     	US 460	 	060	Montgomery County	060	Montgomery County	1.76	SCL Blacksburg	SR 114	35000	G	94%	0%	1%	1%	3%	0%	F	0.0950	F	0.6350	37000	G	2008
+020189	  US	00460	     	US 460	 	060	Montgomery County	060	Montgomery County	0.95	SR 114	Bus US 460	35000	G	94%	0%	1%	1%	3%	0%	F	0.0979	F	0.6513	37000	G	2008
+020187	  US	00460	     	US 460	 	060	Montgomery County	060	Montgomery County	2.53	Bus US 460	US 11 Roanoke St	32000	G	93%	1%	1%	1%	4%	0%	C	0.0954	F	0.5374	34000	G	2008
+020424	  US	00460	     	US 11, US 460	Roanoke St	154	Town of Christiansburg	060	Montgomery County	0.09	I-81	Tower Rd, Hampton Rd	8700	N	96%	1%	1%	1%	1%	0%	N	0.0988	N	0.5410	9400	N	2008	
+020423	  US	00460	     	US 11, US 460	Roanoke St	154	Town of Christiansburg	154	Town of Christiansburg	2.01	Tower Rd, Hampton Rd	ECL Christiansburg	8700	G	96%	1%	1%	1%	1%	0%	F	0.0988	F	0.5410	9400	G	2008	
+020343	  US	00460	     	US 11, US 460	Roanoke St	060	Montgomery County	060	Montgomery County	5.11	ECL Christiansburg	60-753 Old Town Rd	7100	G	94%	0%	1%	3%	2%	0%	F	0.0944	F	0.5218	7400	G	2008	
+020342	  US	00460	     	US 11, US 460	Roanoke Rd	060	Montgomery County	060	Montgomery County	3.21	60-753 Old Town Rd	60-631 Brake Rd	7600	G	94%	0%	1%	3%	2%	0%	F	0.0916	F	0.6493	8000	G	2008	
+020341	  US	00460	     	US 11, US 460	Roanoke Rd	060	Montgomery County	060	Montgomery County	2.43	60-631	Roanoke County Line	8100	G	94%	0%	1%	3%	2%	0%	C	0.0974	F	0.6882	8500	G	2008	
+020455	C7US	00460	     	Bus US 460	 	060	Montgomery County	060	Montgomery County	1.05	US 460 SCL Blacksburg	NCL Christiansburg	18000	G	98%	0%	1%	1%	0%	0%	F	0.0932	F	0.5891	20000	G	2008
+618208	C7US	00460	     	Bus US 460	N Franklin St	154	Town of Christiansburg	060	Montgomery County	0.97	NCL Christiansburg	SR 114 Peppers Ferry Rd	18000	N	98%	0%	1%	1%	0%	0%	N	0.0932	N	0.5891	20000	N	2008
+618203	C7US	00460	     	Bus US 460	N Franklin St	154	Town of Christiansburg	060	Montgomery County	0.66	SR 114 Peppers Ferry Rd	US 460	23000	G	98%	0%	1%	1%	0%	0%	F				24000	G	2008
+020360	C7US	00460	     	Bus US 460	 	154	Town of Christiansburg	060	Montgomery County	0.18	US 460	WCL Christiansburg	19000	G							X	0.0901	N	0.5823	20000	G	2008
+618201	C7US	00460	     	Bus US 460	N Franklin St	154	Town of Christiansburg	060	Montgomery County	0.11	WCL Christiansburg	SR 111 Cambria St	36000	G	98%	0%	1%	1%	0%	0%	F	0.0901	F	0.5823	39000	G	2008
+618184	C7US	00460	     	Bus US 460	N Franklin St	154	Town of Christiansburg	154	Town of Christiansburg	1.38	SR 111 Cambria St	Depot St	26000	G	98%	0%	1%	1%	0%	0%	C	0.0876	F	0.5008	29000	G	2008
+618185	C7US	00460	     	Bus US 460	N Franklin St	154	Town of Christiansburg	154	Town of Christiansburg	0.28	Depot St	US 11 Main St	10000	G	98%	0%	1%	1%	0%	0%	F	0.0872	F	0.5051	11000	G	2008
+618189	C7US	00460	     	US 11, Bus US 460	E Main St	154	Town of Christiansburg	154	Town of Christiansburg	0.12	US 11 Main St	Roanoke St	8200	G	97%	0%	1%	1%	0%	0%	F	0.0838	F	0.6012	8900	G	2008	
+618401	C7US	00460	     	US 11, Bus US 460	Roanoke St	154	Town of Christiansburg	154	Town of Christiansburg	0.11	E Main St	Craig St	11000	G	97%	0%	1%	1%	0%	0%	F	0.0866	F	0.5166	12000	G	2008	
+618111	C7US	00460	     	US 11, Bus US 460	Roanoke St	154	Town of Christiansburg	154	Town of Christiansburg	0.98	Craig St	SR 111 Depot St	12000	G	97%	0%	1%	1%	0%	0%	F	0.0993	F	0.5606	13000	G	2008	
+618192	C7US	00460	     	US 11, Bus US 460	Roanoke St	154	Town of Christiansburg	154	Town of Christiansburg	0.86	SR 111 Depot St	US 460	16000	G	98%	0%	1%	0%	1%	0%	C	0.1028	F	0.6041	17000	G	2008	
+607202	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	1.01	US 460	Mount Tabor Rd	4800	G	98%	0%	1%	0%	0%	0%	F	0.1051	F	0.7070	5200	G	2008
+607201	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	0.87	Mount Tabor Rd	Patrick Henry Dr	8100	G	98%	0%	1%	0%	0%	0%	C	0.1018	F	0.6359	8800	G	2008
+607204	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	0.44	Patrick Henry Dr	Broce Dr	14000	G	98%	0%	1%	0%	0%	0%	F	0.0847	F	0.6125	16000	G	2008
+607195	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	0.26	Broce Dr	Progress St	14000	G	98%	0%	1%	0%	0%	0%	F	0.0834	F	0.5288	15000	G	2008
+607196	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	0.17	Progress St	Prices Fork Rd	18000	G	98%	0%	1%	0%	0%	0%	F	0.0826	F	0.5501	20000	G	2008
+607207	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	0.53	Prices Fork Rd	Roanoke St	19000	G	98%	0%	1%	0%	0%	0%	F	0.0792	F	0.5388	21000	G	2008
+607188	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	0.19	Roanoke St	Clay St	17000	G	98%	0%	1%	1%	0%	0%	F	0.0787	F	0.5007	18000	G	2008
+607206	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	0.53	Clay St	Upland Rd	18000	G	98%	0%	1%	1%	0%	0%	F	0.0905	F	0.5101	20000	G	2008
+607187	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	1.00	Upland Rd	Ellett Rd	21000	G	98%	0%	1%	0%	0%	0%	C	0.0903	F	0.5091	22000	G	2008
+607185	C8US	00460	     	Bus US 460	Main St	150	Town of Blacksburg	150	Town of Blacksburg	1.33	Ellett Rd	US 460, ECL Blacksburg	21000	G	98%	0%	1%	1%	0%	0%	C	0.0862	F	0.5328	23000	G	2008
+780314	  FR	00056	     	FR 56	Peterson	060	Montgomery County	060	Montgomery County	0.46	60-605	Dead End	150	R							X						01/16/2008
+780315	  FR	00057	     	FR 57	 	060	Montgomery County	060	Montgomery County	0.37	SR 232	Dead End	6	R							X						01/16/2008
+780316	  FR	00058	     	FR 58	Bains Chapel	060	Montgomery County	060	Montgomery County	0.57	60-665 WEST	60-665 EAST	320	R							X						01/16/2008
+780317	  FR	00059	     	FR 59	Seven Mile Tree Rd	060	Montgomery County	060	Montgomery County	1.37	60-666 Mud Pike Rd	Dead End	250	R							X						01/10/2008
+780318	  FR	00060	     	FR 60	Flanagan Dr	060	Montgomery County	060	Montgomery County	0.76	SCL Christiansburg	0.76 MW of SCL	320	R							X						12/05/2007
+785258	  FR	00060	     	FR 60	Flanagan Dr	154	Town of Christiansburg	060	Montgomery County	0.04	0.76 MW of SCL	SR 8 Riner Rd	280	R							X						01/30/2008
+780319	  FR	00062	     	FR 62	Falling Branch	154	Town of Christiansburg	060	Montgomery County	0.41	Dead End	60-640	80	R							X						01/08/2008
+780320	  FR	00063	     	FR 63	Brammer Lane	154	Town of Christiansburg	060	Montgomery County	0.24	Houchins Rd	Dead End	190	R							X						01/08/2008
+780566	  FR	00617	     	FR 617	Sumac Rd	060	Montgomery County	060	Montgomery County	0.19	Dead End	60-723 Ellett Rd	200	R							X						01/08/2008
+780567	  FR	00618	     	FR 618	Holiday Lane	150	Town of Blacksburg	060	Montgomery County	0.03	Dead End	SCL Blacksburg	10	R							X						01/23/2008
+785267	  FR	00618	     	FR 618	Holiday Lane	150	Town of Blacksburg	060	Montgomery County	0.09	SCL Blacksburg	Bus US 460	90	R							X						01/23/2008
+780786	  FR	00856	     	FR 856	 	154	Town of Christiansburg	060	Montgomery County	0.13	Dead End	Bus US 460 , Railroad St	0	?							X
+403730	  60	00600	     	60-600	Piney Woods Rd	060	Montgomery County	060	Montgomery County	0.15	60-787 Indian Valley Rd; Floyd County Line	0.15 MN of Floyd County Line	120	G	97%	0%	1%	1%	1%	0%	F	0.4549	F	0.5345	130	G	2008
+403731	  60	00600	     	60-600	Piney Woods Rd	060	Montgomery County	060	Montgomery County	2.26	0.15 MN of Floyd County Line	60-672 Big Branch Rd	170	G	97%	0%	1%	1%	1%	0%	F	0.1121	F	0.5897	180	G	2008
+403732	  60	00600	     	60-600	Piney Woods Rd	060	Montgomery County	060	Montgomery County	2.49	60-672 Big Branch Rd	60-669 Fairview Church Rd	350	G	97%	0%	1%	1%	1%	0%	F	0.1037	F	0.6053	370	G	2008
+403733	  60	00600	     	60-600	Piney Woods Rd	060	Montgomery County	060	Montgomery County	0.69	60-669 Fairview Church Rd	60-693 S, Childress Rd	630	G	97%	0%	1%	1%	1%	0%	F	0.1031	F	0.7405	660	G	2008
+403734	  60	00600	     	60-600	Tyler Rd	060	Montgomery County	060	Montgomery County	2.48	60-693 N, Childress Rd	60-627 Barn Rd	2000	G	97%	0%	1%	1%	1%	0%	C	0.1032	F	0.8480	2100	G	2008
+403735	  60	00600	     	60-600	Tyler Rd	060	Montgomery County	060	Montgomery County	0.20	60-627 Barn Rd	SR 177 SOUTH; 60-658	7300	G	97%	0%	1%	1%	1%	0%	F	0.0848	F	0.6200	7600	G	2008
+405443	  60	00600	     	60-600	North Mud Pike	060	Montgomery County	060	Montgomery County	0.60	SR 177 N, Tyler Rd	60-666; Fire Tower Rd	2300	G	97%	0%	1%	1%	1%	0%	F	0.0902	F	0.5497	2400	G	2008
+753841	  60	00600	     	60-600	Fire Tower Rd	060	Montgomery County	060	Montgomery County	2.40	60-666 Mud Pike Rd	US 11	1000	R							X						01/12/2005
+753842	  60	00601	     	60-601	Clarence Rd	060	Montgomery County	060	Montgomery County	1.10	60-602	60-616 WEST	30	R							X						12/28/2007
+753843	  60	00601	     	60-601	 	060	Montgomery County	060	Montgomery County	0.20	60-616 WEST	60-616 E, Rustic Ridge Rd	180	R							X						01/31/2005
+753844	  60	00601	     	60-601	Poff School	060	Montgomery County	060	Montgomery County	2.60	60-616 E, Rustic Ridge Rd	2.60 ME 60-616	70	R							X						12/28/2007
+753845	  60	00601	     	60-601	Poff School	060	Montgomery County	060	Montgomery County	0.10	2.60 ME 60-616	60-617 Brush Creek Rd	100	R							X						12/28/2007
+753846	  60	00602	     	60-602	 	060	Montgomery County	060	Montgomery County	1.50	60-617	SR 8 Riner Rd	480	R							X						02/07/2005
+403737	  60	00603	     	60-603	 	060	Montgomery County	060	Montgomery County	1.48	ECL Blacksburg	60-642 Jennelle Rd	1100	G	98%	1%	1%	0%	1%	0%	F	0.1254	F	0.7309	1200	G	2008
+403738	  60	00603	     	60-603	 	060	Montgomery County	060	Montgomery County	0.32	60-642 Jennelle Rd	60-723 S, Ellett Rd	2200	G	98%	1%	1%	0%	1%	0%	F	0.1112	F	0.6740	2300	G	2008
+403739	  60	00603	     	60-603	 	060	Montgomery County	060	Montgomery County	0.93	60-723 N, Lusters Gate Rd; Ellett Rd	60-641 Den Hill	1500	G	98%	1%	1%	0%	1%	0%	F	0.1090	F	0.5875	1500	G	2008
+403740	  60	00603	     	60-603	N Fork Rd	060	Montgomery County	060	Montgomery County	3.24	60-641 Den Hill	60-821 Friendship Rd	940	G	98%	1%	1%	0%	1%	0%	F	0.1166	F	0.6561	990	G	2008
+403741	  60	00603	     	60-603	N Fork Rd	060	Montgomery County	060	Montgomery County	4.04	60-821 Friendship Rd	60-629 Bradshaw Rd	880	G	98%	1%	1%	0%	1%	0%	C	0.1119	F	0.5408	920	G	2008
+403742	  60	00603	     	60-603	N Fork Rd	060	Montgomery County	060	Montgomery County	1.50	60-629 Bradshaw Rd	I-81	2500	G	98%	1%	1%	0%	0%	0%	C	0.1018	F	0.6115	2600	G	2008
+403744	  60	00603	     	60-603	N Fork Rd	060	Montgomery County	060	Montgomery County	0.15	I-81	60-635 Pedler	2700	G	98%	1%	1%	0%	0%	0%	F	0.1122	F	0.6097	2900	G	2008
+403745	  60	00603	     	60-603	N Fork Rd	060	Montgomery County	060	Montgomery County	2.16	60-635 Pedler	US 11 & 460 SOUTH	1500	G	98%	1%	1%	0%	0%	0%	F	0.1059	F	0.6316	1600	G	2008
+753847	  60	00603	     	60-603	 	060	Montgomery County	060	Montgomery County	1.62	US 11 & 460 NORTH	Dead End	460	R							X						12/13/2004
+753848	  60	00604	     	60-604	Plum Creek Rd	060	Montgomery County	060	Montgomery County	1.85	US 11 W, Radford Rd	US 11 E, Radford Rd	200	R							X						01/12/2004
+753849	  60	00605	     	60-605	 	060	Montgomery County	060	Montgomery County	0.90	Pulaski County Line	SCL Radford	2300	R							X						01/25/2005
+753850	  60	00606	     	60-606	Sidney Church Rd	060	Montgomery County	060	Montgomery County	2.00	60-673	60-669 Fairview Church Rd	100	R							X						12/28/2007
+753851	  60	00607	     	60-607	Miles Rd	060	Montgomery County	060	Montgomery County	0.05	60-637	0.05 MN 60-637	80	R							X						12/14/2007
+753852	  60	00607	     	60-607	 	060	Montgomery County	060	Montgomery County	0.95	0.05 MN 60-637	Dead End	48	R							X						12/08/2004
+753853	  60	00608	     	60-608	Jewel	060	Montgomery County	060	Montgomery County	0.09	60-637	Dead End	30	R							X						12/14/2007
+753854	  60	00609	     	60-609	Fishersview Rd	060	Montgomery County	060	Montgomery County	1.79	Floyd County Line	1.79 MN of CL	90	R							X						12/19/2007
+753855	  60	00609	     	60-609	Fishersview Rd	060	Montgomery County	060	Montgomery County	2.90	1.79 MN of CL	4.69 MN of CL	40	R							X						12/19/2007
+753856	  60	00609	     	60-609	Fishersview Rd	060	Montgomery County	060	Montgomery County	1.31	4.69 MN of CL	6.00 MN of CL	50	R							X						12/19/2007
+753857	  60	00609	     	60-609	Fishersview Rd	060	Montgomery County	060	Montgomery County	0.13	6.00 MN of CL	6.13 MN of CL	140	R							X						12/19/2007
+753858	  60	00609	     	60-609	Alleghany Spring Rd	060	Montgomery County	060	Montgomery County	0.08	6.13 MN of CL	60-637 S, Alleghany Springs Rd	280	R							X						12/14/2007
+753859	  60	00609	     	60-609	Willis Hollow Rd	060	Montgomery County	060	Montgomery County	2.10	60-637 N, Alleghany Springs Rd	Dead End; Gap	190	R							X						12/14/2007
+753860	  60	00609	     	60-609	Boone Rd	060	Montgomery County	060	Montgomery County	1.20	Dead End; Gap	60-634 Boners Run	20	R							X						12/21/2007
+753861	  60	00609	     	60-609	Boners Run Rd	060	Montgomery County	060	Montgomery County	2.21	60-634 Boners Run	US 11; US 460	110	R							X						12/21/2007
+753862	  60	00609	     	60-609	Doosing Lane	060	Montgomery County	060	Montgomery County	0.09	US 11; US 460	60-753 Old Town Rd	450	R							X						12/12/2007
+753863	  60	00610	     	60-610	 	060	Montgomery County	060	Montgomery County	3.20	60-612 High Rock Hill Rd	Floyd County Line	250	R							X						01/31/2005
+403746	  60	00612	     	60-612	High Rock Hill Rd	060	Montgomery County	060	Montgomery County	0.70	60-615 Old Pike Rd	60-729 Sunflower Rd	2200	G	98%	0%	1%	1%	0%	0%	C	0.0997	F	0.6923	2300	G	2008
+403747	  60	00612	     	60-612	High Rock Hill Rd	060	Montgomery County	060	Montgomery County	0.80	60-729 Sunflower Rd	60-610 Huffville Rd	2000	G	98%	0%	1%	1%	0%	0%	F	0.0994	F	0.6890	2100	G	2008
+403748	  60	00612	     	60-612	High Rock Hill Rd	060	Montgomery County	060	Montgomery County	1.40	60-610 Huffville Rd	Floyd County Line	1500	G	98%	0%	1%	1%	0%	0%	F	0.0978	F	0.7055	1500	G	2008
+753864	  60	00613	     	60-613	Mountain Pride	060	Montgomery County	060	Montgomery County	0.60	Dead End	60-620 Blue Spring Rd	40	R							X						01/16/2008
+753865	  60	00613	     	60-613	Blue Spring Rd	060	Montgomery County	060	Montgomery County	0.90	60-620 Blue Spring Rd	60-693 E, Graysontown Rd	200	R							X						01/16/2008
+403750	  60	00613	     	60-613	Graysontown Rd	060	Montgomery County	060	Montgomery County	0.94	60-693 W, Graysontown Rd	Pulaski County Line	510	G	97%	2%	1%	0%	0%	0%	C	0.1078	F	0.6207	530	G	2008
+753866	  60	00614	     	60-614	Tanbark	060	Montgomery County	060	Montgomery County	0.40	Floyd County Line	60-612 High Rock Hill Rd	30	R							X						01/16/2008
+403751	  60	00615	     	60-615	Old Pike Rd	060	Montgomery County	060	Montgomery County	2.40	Floyd County Line	60-612 High Rock Hill Rd	960	G	98%	1%	1%	0%	0%	0%	F	0.1027	F	0.6884	1000	G	2008
+403752	  60	00615	     	60-615	Pilot Rd	060	Montgomery County	060	Montgomery County	1.75	60-612 High Rock Hill Rd	60-669 Union Valley Rd	3500	G	98%	1%	1%	0%	0%	0%	C	0.1069	F	0.7237	3600	G	2008
+403753	  60	00615	     	60-615	Pilot Rd	060	Montgomery County	060	Montgomery County	2.22	60-669 Union Valley Rd	60-675 N; Smith Creek Rd	3100	G	98%	1%	1%	0%	0%	0%	F	0.1037	F	0.7683	3300	G	2008
+403754	  60	00615	     	60-615	Pilot Rd	060	Montgomery County	060	Montgomery County	2.25	60-675 N; Smith Creek Rd	SCL Christiansburg	3000	G	98%	1%	1%	0%	0%	0%	C	0.1112	F	0.7432	3200	G	2008
+753867	  60	00616	     	60-616	Old Rough Rd	060	Montgomery County	060	Montgomery County	2.80	60-673	SR 8 N, Riner Rd	47	R							X						12/28/2007
+753868	  60	00616	     	60-616	 	060	Montgomery County	060	Montgomery County	2.60	SR 8 S, Riner Rd	60-601 W, Clarence Rd	410	R							X						01/31/2005
+753869	  60	00616	     	60-616	Rustic Ridge Rd	060	Montgomery County	060	Montgomery County	2.50	60-601 E, Poff School	Floyd County Line; 60-617	90	R							X						12/28/2007
+753870	  60	00617	     	60-617	 	060	Montgomery County	060	Montgomery County	2.26	Floyd County Line	Floyd County Line; 60-616	210	R							X						02/07/2005
+753871	  60	00617	     	60-617	Laurel Ridge Mill	060	Montgomery County	060	Montgomery County	0.20	Floyd County Line; 60-616	Floyd County Line; 60-617	130	R							X						12/28/2007
+753872	  60	00617	     	60-617	Brush Creek Rd	060	Montgomery County	060	Montgomery County	2.56	Floyd County Line; 60-617	2.56 MN 31-617	130	R							X						12/28/2007
+753873	  60	00617	     	60-617	Brush Creek Rd	060	Montgomery County	060	Montgomery County	0.04	2.56 MN 31-617	60-601 Poff School	70	R							X						12/28/2007
+753874	  60	00617	     	60-617	 	060	Montgomery County	060	Montgomery County	0.05	60-601 Poff School	0.05 ME 60-601 Poff School	150	R							X						01/31/2005
+753875	  60	00617	     	60-617	 	060	Montgomery County	060	Montgomery County	0.85	0.05 ME 60-601 Poff School	60-615 Pilot Rd	180	R							X						01/31/2005
+753876	  60	00619	     	60-619	Stroubles Creek	060	Montgomery County	060	Montgomery County	1.80	60-705 Coal Hollow Rd	Dead End	80	R							X						12/07/2007
+753877	  60	00620	     	60-620	 	060	Montgomery County	060	Montgomery County	0.10	Pulaski County Line	60-710 Blue Spring Rd	100	R							X						01/18/2005
+753878	  60	00620	     	60-620	Blue Spring Rd	060	Montgomery County	060	Montgomery County	1.50	60-710 Blue Spring Rd	60-613 Blue Spring Rd; Mountain Pride	180	R							X						01/16/2008
+753879	  60	00621	     	60-621	 	060	Montgomery County	060	Montgomery County	3.93	US 460	3.93 MN US 460	190	R							X						01/05/2005
+753880	  60	00621	     	60-621	 	060	Montgomery County	060	Montgomery County	7.54	3.93 MN US 460	Craig County Line	100	R							X						01/05/2005
+753881	  60	00622	     	60-622	Reesdale Rd	060	Montgomery County	060	Montgomery County	2.74	60-603, N Fork Rd	60-713 Flatwoods Rd	490	R							X						12/14/2007
+753882	  60	00622	     	60-622	Flatwoods Rd	060	Montgomery County	060	Montgomery County	2.90	60-713 Flatwoods Rd	60-629 Bradshaw Rd	170	R							X						12/14/2007
+753883	  60	00622	     	60-622	Bradshaw Rd	060	Montgomery County	060	Montgomery County	2.05	60-629 Bradshaw Rd	Roanoke County Line	290	R							X						12/14/2007
+753884	  60	00623	     	60-623	 	060	Montgomery County	060	Montgomery County	0.98	Dead End	60-652 W, McCoy Rd	240	R							X						01/10/2005
+753885	  60	00623	     	60-623	 	060	Montgomery County	060	Montgomery County	0.17	60-652 W, McCoy Rd	60-652 E, McCoy Rd	20	R							X						01/10/2005
+753886	  60	00624	     	60-624	 	060	Montgomery County	060	Montgomery County	1.83	ECL Blacksburg	60-1109 Gedney Park Dr	1600	R							X						01/03/2005
+753887	  60	00624	     	60-624	 	060	Montgomery County	060	Montgomery County	8.45	60-1109 Gedney Park Dr	Roanoke County Line	600	R							X						01/05/2005
+753888	  60	00625	     	60-625	 	060	Montgomery County	060	Montgomery County	1.93	60-652 EAST	60-652 WEST	530	R							X						01/10/2005
+753889	  60	00625	     	60-625	 	060	Montgomery County	060	Montgomery County	1.65	60-652 WEST	Giles County Line	420	R							X						01/10/2005
+753890	  60	00626	     	60-626	Gardner	060	Montgomery County	060	Montgomery County	0.20	Dead End	60-740 W, Wells St	290	R							X						12/12/2007
+753891	  60	00626	     	60-626	Lafayette	060	Montgomery County	060	Montgomery County	1.05	60-740 W, Wells St	US 11; US 460	450	R							X						12/12/2007
+753892	  60	00627	     	60-627	Barn Rd	060	Montgomery County	060	Montgomery County	0.40	60-600 Tyler Rd	60-658 Meadow Creek Rd	100	R							X						01/10/2008
+753893	  60	00628	     	60-628	Dry Run  Rd	060	Montgomery County	060	Montgomery County	1.70	60-785 Catawba Rd	1.70 MN 60-785 Catawba Rd	20	R							X						01/04/2008
+753894	  60	00628	     	60-628	Dry Run Rd	060	Montgomery County	060	Montgomery County	1.20	1.70 MN 60-785 Catawba Rd	60-624	20	R							X						01/04/2008
+753895	  60	00629	     	60-629	Bradshaw Rd	060	Montgomery County	060	Montgomery County	1.95	60-603, N Fork Rd	60-622 Bradshaw Rd; Flatwoods Rd	690	R							X						12/14/2007
+753896	  60	00630	     	60-630	Gallion Ridge Rd	060	Montgomery County	060	Montgomery County	1.60	60-785 Catawba Rd	60-624	50	R							X						01/04/2008
+753897	  60	00631	     	60-631	 	060	Montgomery County	060	Montgomery County	2.23	Dead End	60-732	930	R							X						12/13/2004
+753898	  60	00631	     	60-631	 	060	Montgomery County	060	Montgomery County	0.13	60-732	US 11 Roanoke Rd	1000	R							X						12/13/2004
+753899	  60	00632	     	60-632	Ambrose Dr	060	Montgomery County	060	Montgomery County	0.50	Dead End	60-633	60	R							X						12/21/2007
+753900	  60	00633	     	60-633	 	060	Montgomery County	060	Montgomery County	1.20	Dead End	60-632 Ambrose Dr	100	R							X						12/13/2004
+753901	  60	00633	     	60-633	 	060	Montgomery County	060	Montgomery County	0.70	60-632 Ambrose Dr	US 11 Roanoke Rd	1000	R							X						12/13/2004
+753902	  60	00634	     	60-634	Boners Run	060	Montgomery County	060	Montgomery County	0.25	Dead End	60-609 Boners Run Rd; Boone Rd	90	R							X						12/12/2007
+753903	  60	00635	     	60-635	Pedler	060	Montgomery County	060	Montgomery County	0.85	Dead End	60-603, N Fork Rd	80	R							X						12/12/2007
+753904	  60	00636	     	60-636	Friendship Rd	060	Montgomery County	060	Montgomery County	1.19	US 11 & 460 SOUTH	60-820 Friendship Rd	260	R							X						12/19/2007
+753905	  60	00636	     	60-636	Harkrader St	060	Montgomery County	060	Montgomery County	1.89	60-820 Friendship Rd	60-821 Friendship Rd	80	R							X						12/05/2007
+753908	  60	00636	     	60-636	Friendship Rd	060	Montgomery County	060	Montgomery County	2.70	60-821 Friendship Rd	2.70 ME 60-821 Friendship Rd	120	R							X						01/30/2008
+753909	  60	00636	     	60-636	Seneca Hollow Rd	060	Montgomery County	060	Montgomery County	0.45	2.70 ME 60-821 Friendship Rd	US 11 & 460 NORTH	270	R							X						01/30/2008
+403755	  60	00637	     	60-637	Alleghany Spring Rd	060	Montgomery County	060	Montgomery County	0.12	60-753 Old Town Rd	US 11, US 460	310	G	95%	1%	1%	2%	1%	0%	F	0.1198	F	0.6860	330	G	2008
+403756	  60	00637	     	60-637	Alleghany Springs Rd	060	Montgomery County	060	Montgomery County	0.14	US 11, US 460	60-690 Kirk Hollow Rd	2400	G	95%	1%	1%	2%	1%	0%	F	0.0929	F	0.7012	2500	G	2008
+403757	  60	00637	     	60-637	Alleghany Springs Rd	060	Montgomery County	060	Montgomery County	1.82	60-690 Kirk Hollow Rd	60-816 Flick Dr	1700	G	95%	1%	1%	2%	1%	0%	C	0.0928	F	0.7167	1800	G	2008
+403758	  60	00637	     	60-637	Alleghany Springs Rd	060	Montgomery County	060	Montgomery County	2.00	60-816 Flick Dr	60-771 N; Strawberry Circle	1900	G	95%	1%	1%	2%	1%	0%	F	0.0977	F	0.6914	2000	G	2008
+403759	  60	00637	     	60-637	Alleghany Springs Rd	060	Montgomery County	060	Montgomery County	1.24	60-771 N; Strawberry Circle	60-609 S; Willis Hollow Rd	1200	G	95%	1%	1%	2%	1%	0%	F	0.1140	F	0.7315	1300	G	2008
+403760	  60	00637	     	60-637	Alleghany Springs Rd	060	Montgomery County	060	Montgomery County	0.74	60-609 S; Willis Hollow Rd	60-687 Hickman Hollow Rd	830	G	95%	1%	1%	2%	1%	0%	F	0.1014	F	0.7273	880	G	2008
+753910	  60	00637	     	60-637	 	060	Montgomery County	060	Montgomery County	1.89	60-687	60-653	610	R							X						12/08/2004
+753911	  60	00637	     	60-637	 	060	Montgomery County	060	Montgomery County	0.37	60-653	0.17 ME 60-607	70	R							X						12/08/2004
+753912	  60	00637	     	60-637	 	060	Montgomery County	060	Montgomery County	0.83	0.17 ME 60-607	Dead End; Gap	60	R							X						12/08/2004
+753913	  60	00637	     	60-637	 	060	Montgomery County	060	Montgomery County	0.90	Dead End; Gap	Roanoke County Line; 80-669	60	R							X						01/31/2005
+753914	  60	00638	     	60-638	Georges Run	060	Montgomery County	060	Montgomery County	3.50	60-639	60-637 Alleghany Springs Rd	330	R							X						12/14/2007
+753915	  60	00639	     	60-639	 	060	Montgomery County	060	Montgomery County	1.20	60-772 Harmony Rd	60-742 Archer Rd	630	R							X						12/08/2004
+753916	  60	00639	     	60-639	 	060	Montgomery County	060	Montgomery County	0.07	60-742 Archer Rd	0.07 MS 60-742 Archer Rd	100	R							X						12/08/2004
+753917	  60	00639	     	60-639	 	060	Montgomery County	060	Montgomery County	1.33	0.07 MS 60-742 Archer Rd	60-675 Split Rail Rd	90	R							X						12/08/2004
+753918	  60	00639	     	60-639	Mt Pleasant Rd	060	Montgomery County	060	Montgomery County	2.20	60-675 Split Rail Rd	60-637 Alleghany Springs Rd	140	R							X						12/14/2007
+753919	  60	00640	     	60-640	 	060	Montgomery County	060	Montgomery County	0.70	SCL Christiansburg	60-1415 McDaniel Dr	770	R							X						01/05/2005
+753920	  60	00640	     	60-640	Falling Branch Rd	060	Montgomery County	060	Montgomery County	1.40	60-1415 McDaniel Dr	1.40 MS 60-1415 McDaniel Dr	80	R							X						01/08/2008
+753921	  60	00640	     	60-640	Falling Branch Rd	060	Montgomery County	060	Montgomery County	1.01	1.40 MS 60-1415 McDaniel Dr	Dead End	130	R							X						01/08/2008
+753922	  60	00641	     	60-641	Pine Hollow Rd	060	Montgomery County	060	Montgomery County	0.21	Dead End	NCL Christiansburg; Gap	210	R							X						12/21/2007
+753923	  60	00641	     	60-641	 	060	Montgomery County	060	Montgomery County	1.34	ECL Christiansburg; Gap	US 460, US 11 NORTH	280	R							X						12/08/2004
+753924	  60	00641	     	60-641	Den Hill	060	Montgomery County	060	Montgomery County	4.17	US 460, US 11 SOUTH	60-603, N Fork Rd	880	R							X						01/10/2008
+403761	  60	00642	     	60-642	 	060	Montgomery County	060	Montgomery County	0.43	US 460 NORTH	US 460 S, Main St	190	G							X				200	G	2008
+405445	  60	00642	     	60-642	Jennelle Rd	060	Montgomery County	060	Montgomery County	0.99	US 460, S Main St	60-643 Yellow Sulphur Rd	1400	G	87%	0%	2%	9%	1%	0%	C	0.0896	F	0.5245	1500	G	2008
+403762	  60	00642	     	60-642	Jennelle Rd	060	Montgomery County	060	Montgomery County	1.50	60-643 Yellow Sulphur Rd	60-603 Ellett Rd	1600	G	87%	0%	2%	9%	1%	0%	F	0.0971	F	0.5081	1700	G	2008
+753925	  60	00643	     	60-643	Yellow Sulphur	060	Montgomery County	060	Montgomery County	0.95	NCL Christiansburg	0.95 MN of NCL	230	R							X						01/08/2008
+753926	  60	00643	     	60-643	Yellow Sulphur	060	Montgomery County	060	Montgomery County	2.79	0.95 MN of NCL	60-642 Jennelle Rd	240	R							X						01/08/2008
+753927	  60	00643	     	60-643	 	060	Montgomery County	060	Montgomery County	0.65	60-642 Jennelle Rd	SCL Blacksburg	1300	R							X						12/15/2004
+753928	  60	00644	     	60-644	 	060	Montgomery County	060	Montgomery County	0.10	60-723 Ellett Rd	60-776	440	R							X						12/15/2004
+753929	  60	00644	     	60-644	 	060	Montgomery County	060	Montgomery County	0.23	60-776	0.23 ME 60-776	330	R							X						12/15/2004
+753930	  60	00644	     	60-644	Ridgeway	060	Montgomery County	060	Montgomery County	0.32	0.23 ME 60-776	60-699 Loganberry Lane	240	R							X						01/08/2008
+753931	  60	00644	     	60-644	Pollard Rd	060	Montgomery County	060	Montgomery County	0.30	60-699 Loganberry Lane	60-1430 Pollard Rd	120	R							X						01/08/2008
+753932	  60	00645	     	60-645	Violet Lane	060	Montgomery County	060	Montgomery County	0.18	Dead End	60-666 Mud Pike Rd	50	R							X						01/10/2008
+753933	  60	00647	     	60-647	Ironto Rd	060	Montgomery County	060	Montgomery County	0.50	60-603, N Fork Rd	Dead End	190	R							X						12/14/2007
+753934	  60	00648	     	60-648	 	060	Montgomery County	060	Montgomery County	2.11	ECL Blacksburg	Dead End	1100	R							X						01/03/2005
+753935	  60	00649	     	60-649	 	060	Montgomery County	060	Montgomery County	0.32	US 460	60-810	1400	R							X						01/03/2005
+753936	  60	00649	     	60-649	Coal Bank Hollow	060	Montgomery County	060	Montgomery County	1.25	60-810	60-624	670	R							X						01/30/2008
+795355	  60	00652	     	60-652	 	060	Montgomery County	060	Montgomery County	1.98	60-625 WEST	60-625 EAST	1500	N							X				0	N	01/10/2005
+753937	  60	00652	     	60-652	 	060	Montgomery County	060	Montgomery County	1.87	60-625 EAST	60-655 Long Shop Rd, Mt Zion Rd	1500	R							X						01/10/2005
+403763	  60	00652	     	60-652	McCoy Rd	060	Montgomery County	060	Montgomery County	0.44	60-655 Long Shop Rd, Mt Zion Rd	60-735 W, Riverside Dr	2000	G	97%	1%	1%	1%	0%	0%	F	0.1086	F	0.6215	2100	G	2008
+403764	  60	00652	     	60-652	McCoy Rd	060	Montgomery County	060	Montgomery County	3.02	60-735 W, Riverside Dr	60-685 Prices Fork Rd	2200	G	97%	1%	1%	1%	0%	0%	C	0.1097	F	0.6296	2300	G	2008
+753938	  60	00653	     	60-653	 	060	Montgomery County	060	Montgomery County	0.26	Floyd County Line	60-637	340	R							X						12/08/2004
+753939	  60	00654	     	60-654	 	060	Montgomery County	060	Montgomery County	1.50	60-685 Prices Fork Rd	60-655 Long Shop Rd, Mt Zion Rd	520	R							X						01/10/2005
+403765	  60	00655	     	60-655	Mt Zion Rd	060	Montgomery County	060	Montgomery County	2.12	60-652 McCoy Rd	60-781 Lick Run Rd	230	G	97%	2%	0%	0%	0%	0%	F	0.1194	F	0.6429	240	G	2008
+403766	  60	00655	     	60-655	Mt Zion Rd	060	Montgomery County	060	Montgomery County	3.64	60-781 Lick Run Rd	WCL Blacksburg	490	G	97%	2%	0%	0%	0%	0%	C	0.1115	F	0.5088	510	G	2008
+753940	  60	00656	     	60-656	 	060	Montgomery County	060	Montgomery County	0.13	60-625	Cul-de-Sac	40	R							X						01/10/2005
+753941	  60	00657	     	60-657	 	060	Montgomery County	060	Montgomery County	0.74	Urban Boundary	60-808	3200	R							X						01/05/2005
+753942	  60	00657	     	60-657	 	060	Montgomery County	060	Montgomery County	3.60	60-808	60-685 W, Prices Fork Rd	1400	R							X						01/05/2005
+753943	  60	00657	     	60-657	 	060	Montgomery County	060	Montgomery County	1.10	60-685 E, Prices Fork Rd	Dead End	260	R							X						01/10/2005
+403767	  60	00658	     	60-658	Meadow Creek Rd	060	Montgomery County	060	Montgomery County	0.27	SR 177; 60-600 Tyler Rd	60-627 Barn Rd	3100	G	97%	1%	1%	1%	0%	0%	F	0.1019	F	0.6926	3200	G	2008
+403768	  60	00658	     	60-658	Meadow Creek Rd	060	Montgomery County	060	Montgomery County	0.85	60-627 Barn Rd	60-677 Currin Rd	3100	G	97%	1%	1%	1%	0%	0%	F	0.1039	F	0.7139	3300	G	2008
+403769	  60	00658	     	60-658	Meadow Creek Rd	060	Montgomery County	060	Montgomery County	2.04	60-677 Currin Rd	60-693 Childress Rd	3000	G	97%	1%	1%	1%	0%	0%	F	0.1071	F	0.6571	3100	G	2008
+403770	  60	00658	     	60-658	Meadow Creek Rd	060	Montgomery County	060	Montgomery County	0.41	60-693 Childress Rd	SR 8 Riner Rd	2900	G	97%	1%	1%	1%	0%	0%	C	0.1070	F	0.6387	3100	G	2008
+753944	  60	00659	     	60-659	Vickers Switch Rd	060	Montgomery County	060	Montgomery County	1.98	SR 114 W, Peppers Ferry Blvd	SR 114 E, Peppers Ferry Blvd	900	R							X						01/12/2005
+753945	  60	00660	     	60-660	Crab Mill Rd	060	Montgomery County	060	Montgomery County	1.70	60-719 Switchback Rd	60-661 Chrisman Mill Rd; WCL Christiansburg	170	R							X						01/30/2008
+753946	  60	00661	     	60-661	Silver Lake Rd	060	Montgomery County	060	Montgomery County	0.98	SWCL Christiansburg	60-662; Chrisman Mill Rd	300	R							X						01/18/2005
+753947	  60	00661	     	60-661	Chrisman Mill Rd	060	Montgomery County	060	Montgomery County	0.10	60-662 Silver Lake Rd	0.10 MN 60-662 Silver Lake Rd	180	R							X						01/30/2008
+753948	  60	00661	     	60-661	Chrisman Mill Rd	060	Montgomery County	060	Montgomery County	0.95	0.10 MN 60-662 Silver Lake Rd	WCL Christiansburg; Gap	170	G							X				170	G	2008
+753949	  60	00661	     	60-661	Chrisman Mill Rd	060	Montgomery County	060	Montgomery County	0.34	60-660 Crab Mill Rd; NCL Christiansburg; Gap	60-760; Dominion Dr	670	R							X						01/12/2005
+791115	  60	00661	     	60-661	Dominion Dr	060	Montgomery County	060	Montgomery County	0.26	60-760 Chrisman Mill Rd	SR 114 Peppers Ferry Blvd	450	R							X						01/30/2008
+753950	  60	00662	     	60-662	 	060	Montgomery County	060	Montgomery County	0.70	WCL Christiansburg	US 11 E, Radford St	240	R							X						01/12/2005
+753951	  60	00662	     	60-662	 	060	Montgomery County	060	Montgomery County	0.50	US 11 W, Radford St	60-661 Chrisman Mill Rd; Silver Lake Rd	110	R							X						01/18/2005
+403771	  60	00663	     	60-663	Walton Rd	060	Montgomery County	060	Montgomery County	0.88	US 11 Radford St	60-720 Spaulding Rd	1800	G	97%	0%	1%	1%	0%	0%	C	0.1033	F	0.5388	1900	G	2008
+403772	  60	00663	     	60-663	Walton Rd	060	Montgomery County	060	Montgomery County	3.64	60-720 Spaulding Rd	SR 114 Peppers Ferry Blvd	870	G	97%	0%	1%	1%	0%	0%	F	0.1149	F	0.5862	920	G	2008
+753953	  60	00664	     	60-664	Lovely Mount Dr	060	Montgomery County	060	Montgomery County	1.50	ECL Radford	60-787 W, Wintergreen Dr	270	R							X						01/30/2008
+753954	  60	00664	     	60-664	Lovely Mount Dr	060	Montgomery County	060	Montgomery County	1.15	60-787 W, Wintergreen Dr	SR 177 Tyler Rd	910	R							X						01/25/2005
+753955	  60	00665	     	60-665	Bains Chapel	060	Montgomery County	060	Montgomery County	0.95	Dead End	60-787 Dry Valley Rd	200	R							X						01/30/2008
+753956	  60	00665	     	60-665	 	060	Montgomery County	060	Montgomery County	0.44	60-787 Dry Valley Rd	FR-58 W, Bains Chapel	360	R							X						01/18/2005
+753957	  60	00665	     	60-665	 	060	Montgomery County	060	Montgomery County	0.41	FR-58 E, Bains Chapel	Dead End	280	R							X						01/18/2005
+403773	  60	00666	     	60-666	Mud Pike Rd	060	Montgomery County	060	Montgomery County	0.36	60-600 Fire Tower Rd	FR-59 Seven Mile Tree Rd	1200	G	97%	0%	2%	0%	1%	0%	F	0.1065	F	0.6515	1200	G	2008
+403774	  60	00666	     	60-666	Mud Pike Rd	060	Montgomery County	060	Montgomery County	1.48	FR-59 Seven Mile Tree Rd	60-724 Gate Rd	990	G	97%	0%	2%	0%	1%	0%	F	0.1098	F	0.6000	1000	G	2008
+403775	  60	00666	     	60-666	Mud Pike Rd	060	Montgomery County	060	Montgomery County	3.12	60-724 Gate Rd	WCL Christiansburg	1700	G	97%	0%	2%	0%	1%	0%	C	0.1088	F	0.6193	1800	G	2008
+753958	  60	00667	     	60-667	Stanley Rd	060	Montgomery County	060	Montgomery County	0.93	Dead End	0.93 ME Dead End	80	R							X						01/30/2008
+753959	  60	00667	     	60-667	Stanley Rd	060	Montgomery County	060	Montgomery County	0.06	0.93 ME Dead End	60-600 Tyler Rd	80	R							X						01/30/2008
+753960	  60	00668	     	60-668	Pack Rd	060	Montgomery County	060	Montgomery County	0.70	60-600 Piney Woods Rd	60-669 Fairview Church Rd	30	R							X						01/30/2008
+403776	  60	00669	     	60-669	Fairview Church Rd	060	Montgomery County	060	Montgomery County	3.60	60-693 Childress Rd	60-670 Dairy Rd	840	G	97%	1%	1%	0%	0%	0%	F	0.1120	F	0.6139	880	G	2008
+403777	  60	00669	     	60-669	Fairview Church Rd	060	Montgomery County	060	Montgomery County	1.10	60-670 Dairy Rd	SR 8 Riner Rd	710	G	97%	1%	1%	0%	0%	0%	F	0.1147	F	0.5543	740	G	2008
+403778	  60	00669	     	60-669	Union Valley Rd	060	Montgomery County	060	Montgomery County	0.04	SR 8 Riner Rd	60-671 Five Points Rd	1800	G	97%	1%	1%	0%	0%	0%	F	0.1032	F	0.6415	1900	G	2008
+403779	  60	00669	     	60-669	Union Valley Rd	060	Montgomery County	060	Montgomery County	4.20	60-671 Five Points Rd	60-615 Pilot Rd	910	G	97%	1%	1%	0%	0%	0%	C	0.1148	F	0.5676	960	G	2008
+753961	  60	00670	     	60-670	 	060	Montgomery County	060	Montgomery County	1.20	60-669 Fairview Church Rd	SR 8 Riner Rd	350	R							X						01/18/2005
+753962	  60	00671	     	60-671	 	060	Montgomery County	060	Montgomery County	0.46	SR 8 Riner Rd	60-669 Union Valley Rd	150	R							X						01/31/2005
+753963	  60	00671	     	60-671	 	060	Montgomery County	060	Montgomery County	0.10	60-669 Union Valley Rd	60-704	150	R							X						01/31/2005
+753964	  60	00671	     	60-671	Five Point Rd	060	Montgomery County	060	Montgomery County	1.20	60-704	Dead End	190	R							X						12/19/2007
+753965	  60	00672	     	60-672	Camp Carysbrook Rd	060	Montgomery County	060	Montgomery County	0.35	Dead End	60-692 Goldenrod Rd	30	R							X						01/30/2008
+753966	  60	00672	     	60-672	Camp Carysbrook Rd	060	Montgomery County	060	Montgomery County	0.70	60-692 Goldenrod Rd	60-673	80	R							X						01/30/2008
+753967	  60	00672	     	60-672	Camp Carysbrook Rd	060	Montgomery County	060	Montgomery County	2.20	60-673	60-600 Piney Woods Rd	290	R							X						01/30/2008
+753968	  60	00673	     	60-673	 	060	Montgomery County	060	Montgomery County	2.50	60-672 Camp Carysbrook Rd	SR 8 Riner Rd	330	R							X						01/25/2005
+753969	  60	00674	     	60-674	Elliot Creek Rd	060	Montgomery County	060	Montgomery County	2.35	Dead End	60-675 N, Smith Creek Rd	190	R							X						12/19/2007
+753970	  60	00674	     	60-674	Craigs Mountain Rd	060	Montgomery County	060	Montgomery County	2.40	60-675 N, Smith Creek Rd	2.40 MN 60-675	340	R							X						12/19/2007
+753971	  60	00674	     	60-674	Craigs Mountain Rd	060	Montgomery County	060	Montgomery County	0.80	2.40 MN 60-675	60-676 Rosemary Rd	420	R							X						01/08/2008
+753972	  60	00674	     	60-674	 	060	Montgomery County	060	Montgomery County	0.70	60-676 Rosemary Rd	60-615 Pilot Rd	600	R							X						02/07/2005
+753973	  60	00675	     	60-675	 	060	Montgomery County	060	Montgomery County	3.20	SR 8 Riner Rd	60-615 S, Pilot Rd	1000	R							X						01/31/2005
+753974	  60	00675	     	60-675	Smith Creek Rd	060	Montgomery County	060	Montgomery County	4.40	60-615 N, Pilot Rd	60-674 S, Elliot Creek Rd	150	R							X						12/19/2007
+753975	  60	00675	     	60-675	Smith Creek Rd	060	Montgomery County	060	Montgomery County	1.20	60-674 N, Craigs Mountain Rd; Elliot Creek Rd	Dead End; Gap	30	R							X						12/19/2007
+753976	  60	00675	     	60-675	Split Rail Rd	060	Montgomery County	060	Montgomery County	0.70	Dead End; Gap	60-639 Mt Pleasant Rd	90	R							X						12/21/2007
+753977	  60	00676	     	60-676	Rosemary Rd	060	Montgomery County	060	Montgomery County	0.90	Dead End	60-674 Craigs Mountain Rd	100	R							X						01/08/2008
+753978	  60	00677	     	60-677	Currin Lane	060	Montgomery County	060	Montgomery County	0.50	Dead End	60-658 Meadow Creek Rd	100	R							X						01/10/2008
+753979	  60	00678	     	60-678	Gov Barbour St	060	Montgomery County	060	Montgomery County	0.80	SR 8 Riner Rd	60-616	30	R							X						12/28/2007
+753980	  60	00679	     	60-679	 	060	Montgomery County	060	Montgomery County	1.80	60-669 Union Valley Rd	60-615 Pilot Rd	230	R							X						02/07/2005
+753981	  60	00681	     	60-681	 	060	Montgomery County	060	Montgomery County	1.60	ECL Blacksburg	60-1260 Woodland Hills Dr	980	R							X						12/15/2004
+753982	  60	00682	     	60-682	New Town Rd	060	Montgomery County	060	Montgomery County	0.45	60-753 Old Town Rd	Dead End	560	R							X						12/12/2007
+753983	  60	00683	     	60-683	Paris Mountain Rd	060	Montgomery County	060	Montgomery County	0.64	Dead End	0.64 ME Dead End	60	R							X						12/14/2007
+753984	  60	00683	     	60-683	Paris Mountain Rd	060	Montgomery County	060	Montgomery County	0.66	0.65 ME Dead End	60-622 Reesdale Rd	130	R							X						12/14/2007
+753985	  60	00684	     	60-684	Welcome Rd	060	Montgomery County	060	Montgomery County	0.60	Dead End	60-655 Long Shop Rd, Mt Zion Rd	140	R							X						01/16/2008
+403780	  60	00685	     	60-685	Prices Fork Rd	060	Montgomery County	060	Montgomery County	2.04	SR 114; 60-663 Peppers Ferry Rd; Walton Rd	60-705 Coal Hollow Rd	7700	G							X	0.1095	F	0.6358	8100	G	2008
+403781	  60	00685	     	60-685	Prices Fork Rd	060	Montgomery County	060	Montgomery County	1.20	60-705 Coal Hollow Rd	60-652 McCoy Rd	8000	G							X	0.1077	F	0.6471	8400	G	2008
+403782	  60	00685	     	60-685	Prices Fork Rd	060	Montgomery County	060	Montgomery County	0.10	60-652 McCoy Rd	60-736 Tucker Rd	9600	G							X	0.1048	F	0.6533	10000	G	2008
+403783	  60	00685	     	60-685	Prices Fork Rd	060	Montgomery County	060	Montgomery County	0.30	60-736 Tucker Rd	60-654 Brooksfield Rd	12000	G							X	0.1048	F	0.5676	13000	G	2008
+403785	  60	00685	     	60-685	Prices Fork Rd	060	Montgomery County	060	Montgomery County	1.38	60-654 Brookfield Rd	WCL Blacksburg	10000	G							X				10000	G	2008
+753986	  60	00686	     	60-686	Trooper Lane	060	Montgomery County	060	Montgomery County	0.35	60-622 E, Reesdale Rd	60-622 W, Reesdale Rd	90	R							X						12/14/2007
+753987	  60	00687	     	60-687	 	060	Montgomery County	060	Montgomery County	0.05	60-637 Alleghany Springs Rd	0.05 ME 60-637 Alleghany Springs Rd	60	R							X						12/08/2004
+753988	  60	00687	     	60-687	 	060	Montgomery County	060	Montgomery County	1.25	0.05 ME 60-637 Alleghany Springs Rd	Dead End	60	R							X						12/08/2004
+403786	  60	00688	     	60-688	Rock Rd	060	Montgomery County	060	Montgomery County	0.94	US 11 Radford St	ECL Radford	3400	G	97%	0%	1%	1%	0%	0%	C	0.0993	F	0.5167	3600	G	2008
+753989	  60	00689	     	60-689	 	060	Montgomery County	060	Montgomery County	0.11	Dead End	60-622 Reesdale Rd	50	R							X						01/03/2005
+753990	  60	00690	     	60-690	 	060	Montgomery County	060	Montgomery County	1.00	Dead End	60-637 Alleghany Springs Rd	330	R							X						12/08/2004
+753991	  60	00691	     	60-691	Campcarys Brook Rd	060	Montgomery County	060	Montgomery County	0.87	60-672 Camp Carysbrook Rd	Dead End	90	R							X						12/28/2007
+753992	  60	00692	     	60-692	Goldenrod Rd	060	Montgomery County	060	Montgomery County	0.80	60-672 Camp Carysbrook Rd	60-695 Chestnut Ridge Rd	40	R							X						01/16/2008
+403787	  60	00693	     	60-693	Graysontown Rd	060	Montgomery County	060	Montgomery County	0.19	60-613 W; 77-693 Lead Mine Rd	60-613 E, Blue Springs Rd	890	G	98%	1%	1%	0%	0%	0%	F	0.1230	F	0.7265	940	G	2008
+403788	  60	00693	     	60-693	Graysontown Rd	060	Montgomery County	060	Montgomery County	1.60	60-613 E, Blue Springs Rd	60-787 Dry Valley Rd	1000	G	98%	1%	1%	0%	0%	0%	F	0.1119	F	0.6559	1100	G	2008
+406686	  60	00693	     	60-693	Childress Rd	060	Montgomery County	060	Montgomery County	1.60	60-787 Dry Valley Rd	60-600 W, Piney Woods Rd	2200	G	98%	1%	1%	0%	0%	0%	F	0.1119	F	0.8683	2300	G	2008
+403789	  60	00693	     	60-693	Childress Rd	060	Montgomery County	060	Montgomery County	0.14	60-600 W, Piney Woods Rd	60-600 E, Tyler Rd	3200	G	98%	1%	1%	0%	0%	0%	F	0.1090	F	0.8113	3300	G	2008
+403790	  60	00693	     	60-693	Childress Rd	060	Montgomery County	060	Montgomery County	3.65	60-600 E, Tyler Rd	SR 8 Riner Rd	1300	G	98%	1%	1%	0%	0%	0%	C	0.0988	F	0.7727	1400	G	2008
+753993	  60	00694	     	60-694	Clay St	060	Montgomery County	060	Montgomery County	0.06	ECL Blacksburg	60-1235 Floyd St	960	R							X						01/03/2005
+753994	  60	00694	     	60-694	Clay St	060	Montgomery County	060	Montgomery County	0.66	60-1235 Floyd St	Dead End	740	R							X						01/03/2005
+753995	  60	00695	     	60-695	Chestnut Ridge Rd	060	Montgomery County	060	Montgomery County	3.00	Dead End	60-672 Camp Carysbrook Rd	190	R							X						01/16/2008
+753996	  60	00696	     	60-696	 	060	Montgomery County	060	Montgomery County	1.00	60-652 McCoy Rd	1.00 MN 60-652 McCoy Rd	210	R							X						01/10/2005
+753997	  60	00696	     	60-696	Wake Forest Rd	060	Montgomery County	060	Montgomery County	0.50	1.00 MN 60-652 McCoy Rd	Dead End	400	R							X						01/16/2008
+753998	  60	00697	     	60-697	 	060	Montgomery County	060	Montgomery County	0.20	60-603	Dead End	60	R							X						12/15/2004
+753999	  60	00699	     	60-699	Loganberry Lane	060	Montgomery County	060	Montgomery County	0.30	Dead End	60-644 Pollard Rd	40	R							X						01/08/2008
+786526	  60	00701	     	60-701	 	060	Montgomery County	060	Montgomery County	0.25	Dead End	60-657	250	R							X						01/05/2005
+754000	  60	00703	     	60-703	 	060	Montgomery County	060	Montgomery County	0.30	60-723 Lusters Gate Rd	60-723 Lusters Gate Rd	30	R							X						12/15/2004
+754001	  60	00704	     	60-704	 	060	Montgomery County	060	Montgomery County	0.10	SR 8 Riner Rd	60-671 Five Point Rd	190	R							X						01/31/2004
+754002	  60	00705	     	60-705	Coal Hollow Rd	060	Montgomery County	060	Montgomery County	1.59	SR 114 Peppers Ferry Blvd	60-619 Stroubles Creek	140	R							X						12/07/2007
+754003	  60	00705	     	60-705	 	060	Montgomery County	060	Montgomery County	0.10	60-619 Stroubles Creek	0.10 MN 60-619 Stroubles Creek	150	R							X						01/12/2005
+754004	  60	00705	     	60-705	 	060	Montgomery County	060	Montgomery County	0.26	0.10 MN 60-619 Stroubles Creek	60-685 Prices Fork Rd	150	R							X						01/12/2005
+754005	  60	00706	     	60-706	Poplar Hollow Rd	060	Montgomery County	060	Montgomery County	0.30	Dead End	0.30 MN Dead End	80	R							X						12/19/2007
+754006	  60	00706	     	60-706	Poplar Hollow Rd	060	Montgomery County	060	Montgomery County	1.00	0.30 MN Dead End	US 11; US 460	110	R							X						12/19/2007
+754007	  60	00707	     	60-707	Broad Shoals Rd	060	Montgomery County	060	Montgomery County	1.00	Dead End	SR 8 Riner Rd	130	R							X						12/28/2007
+754008	  60	00708	     	60-708	Norris Run	060	Montgomery County	060	Montgomery County	1.14	60-625	1.14 ME 60-625	40	R							X						01/22/2008
+754009	  60	00708	     	60-708	Norris Run	060	Montgomery County	060	Montgomery County	2.26	1.14 ME 60-625	60-781	90	R							X						01/23/2008
+754010	  60	00708	     	60-708	Norris Run	060	Montgomery County	060	Montgomery County	1.30	60-781	Dead End	30	R							X						01/23/2008
+754011	  60	00709	     	60-709	 	060	Montgomery County	060	Montgomery County	0.10	60-808	Dead End	60	R							X						01/05/2005
+754012	  60	00710	     	60-710	Blue Spring Rd	060	Montgomery County	060	Montgomery County	1.50	Dead End	60-620 Blue Spring Rd	110	R							X						01/16/2008
+754013	  60	00711	     	60-711	 	060	Montgomery County	060	Montgomery County	0.40	60-669 Union Valley Rd	Cul-de-Sac	80	R							X						01/31/2005
+754014	  60	00712	     	60-712	Taylor Hollow	060	Montgomery County	060	Montgomery County	2.10	60-723 Lusters Gate Rd	Dead End	110	R							X						12/21/2007
+754015	  60	00713	     	60-713	Flatwoods Rd	060	Montgomery County	060	Montgomery County	0.90	60-622 Flatwoods Rd; Reesdale Rd	60-603, N Fork Rd	610	R							X						12/14/2007
+754016	  60	00714	     	60-714	Acre of Rocks Rd	060	Montgomery County	060	Montgomery County	0.20	60-622 Flatwoods Rd	Dead End	30	R							X						12/14/2007
+754017	  60	00715	     	60-715	 	060	Montgomery County	060	Montgomery County	0.06	ECL Blacksburg	60-1111 Hoyt St	150	R							X						01/03/2005
+754018	  60	00715	     	60-715	 	060	Montgomery County	060	Montgomery County	0.16	60-1111 Hoyt St	Cul-de-Sac	70	R							X						01/03/2005
+754019	  60	00716	     	60-716	Little Camp Rd	060	Montgomery County	060	Montgomery County	1.63	Dead End	SR 8 Riner Rd	120	R							X						12/28/2007
+754020	  60	00716	     	60-716	Little Camp Rd	060	Montgomery County	060	Montgomery County	0.02	SR 8 Riner Rd	End Loop	70	R							X						12/28/2007
+754021	  60	00716	     	60-716	Little Camp Rd	060	Montgomery County	060	Montgomery County	0.40	End Loop	Dead End	60	R							X						12/28/2007
+754022	  60	00717	     	60-717	Old Sourwood	060	Montgomery County	060	Montgomery County	1.00	60-610	Dead End	180	R							X						12/19/2007
+754023	  60	00718	     	60-718	 	060	Montgomery County	060	Montgomery County	1.90	60-652 McCoy Rd	60-655 Long Shop Rd; Mt Zion Rd	860	R							X						01/10/2005
+754024	  60	00719	     	60-719	Switchback Rd	060	Montgomery County	060	Montgomery County	1.83	60-720 Spaulding Rd	60-659 Vickers Switch Rd	850	R							X						01/12/2005
+754025	  60	00720	     	60-720	Spaulding Rd	060	Montgomery County	060	Montgomery County	0.65	60-663 Walton Dr	60-719 Switchback Rd	960	R							X						01/12/2005
+754026	  60	00720	     	60-720	Spaulding Rd	060	Montgomery County	060	Montgomery County	2.29	60-719 Switchback Rd	2.29 ME 60-719 Switchback Rd	40	R							X						12/07/2007
+754027	  60	00720	     	60-720	Barringer Mountain Rd	060	Montgomery County	060	Montgomery County	0.26	2.29 ME 60-719 Switchback Rd	US 11 W, Radford Rd	250	R							X						12/07/2007
+754028	  60	00720	     	60-720	Barringer Mountain Rd	060	Montgomery County	060	Montgomery County	0.45	US 11 W, Radford Rd	US 11 E, Radford Rd	80	R							X						01/12/2005
+754029	  60	00721	     	60-721	Mash Run	060	Montgomery County	060	Montgomery County	0.38	Dead End	0.38 MS Dead End	200	R							X						01/16/2008
+754030	  60	00721	     	60-721	Mash Run	060	Montgomery County	060	Montgomery County	0.04	0.38 MS Dead End	60-655 Long Shop Rd, Mt Zion Rd	200	R							X						01/16/2008
+754031	  60	00722	     	60-722	Lavender Rd	060	Montgomery County	060	Montgomery County	0.90	Dead End	60-639 Mt Pleasant Rd	30	R							X						12/21/2007
+403791	  60	00723	     	60-723	Ellett Rd	060	Montgomery County	060	Montgomery County	0.19	NCL Christiansburg	60-644 Woodrow Rd	1700	G	96%	1%	2%	1%	0%	0%	F	0.1050	F	0.5570	1700	G	2008
+403792	  60	00723	     	60-723	Ellett Rd	060	Montgomery County	060	Montgomery County	3.49	60-644 Woodrow Rd	60-603 S; Ellett Rd	900	G	96%	1%	2%	1%	0%	0%	C	0.1283	F	0.5039	950	G	2008
+403793	  60	00723	     	60-723	Ellett Rd	060	Montgomery County	060	Montgomery County	0.10	60-603 S; Ellett Rd	60-603 N; Den Hill Rd	2900	G	96%	1%	2%	1%	0%	0%	F	0.1089	F	0.5168	3000	G	2008
+403794	  60	00723	     	60-723	Lusters Gate Rd	060	Montgomery County	060	Montgomery County	0.88	60-603 N; Den Hill Rd	60-712 Taylor Hollow	1700	G	96%	1%	2%	1%	0%	0%	F	0.1041	F	0.5398	1800	G	2008
+403795	  60	00723	     	60-723	Lusters Gate Rd	060	Montgomery County	060	Montgomery County	0.51	60-712 Taylor Hollow Rd	60-1250 Clubhouse Dr	1500	G	96%	1%	2%	1%	0%	0%	F	0.1032	F	0.5099	1600	G	2008
+403796	  60	00723	     	60-723	Lusters Gate Rd	060	Montgomery County	060	Montgomery County	1.52	60-1250 Clubhouse Dr	60-1260 N; Woodland Hills Dr	1500	G	96%	1%	2%	1%	0%	0%	F	0.1048	F	0.5162	1500	G	2008
+403798	  60	00723	     	60-723	Lusters Gate Rd	060	Montgomery County	060	Montgomery County	0.98	60-1260 N; Woodland Hills Dr	60-785 Harding Rd	1600	G	96%	1%	2%	1%	0%	0%	F	0.1104	F	0.5387	1600	G	2008
+754032	  60	00724	     	60-724	Gate Rd	060	Montgomery County	060	Montgomery County	1.60	60-666 Mud Pike	60-604 Plum Creek Rd	70	R							X						12/05/2007
+754033	  60	00725	     	60-725	Poverty Creek	060	Montgomery County	060	Montgomery County	0.92	60-655 Long Shop Rd, Mt Zion Rd	Dead End	90	R							X						01/16/2008
+754034	  60	00726	     	60-726	Goldrush Rd	060	Montgomery County	060	Montgomery County	1.90	60-615 Old Pike Rd	60-612 High Rock Hill Rd	20	R							X						12/19/2007
+754035	  60	00727	     	60-727	 	060	Montgomery County	060	Montgomery County	0.17	Dead End	60-603, N Fork Rd	60	R							X						01/03/2005
+754036	  60	00728	     	60-728	Basham Rd	060	Montgomery County	060	Montgomery County	0.70	Dead End	60-615 Old Pike Rd	110	R							X						12/19/2007
+754037	  60	00729	     	60-729	 	060	Montgomery County	060	Montgomery County	0.50	60-612 High Rock Hill Rd	0.50 MN 60-612 High Rock Hill Rd	220	R							X						01/31/2005
+754038	  60	00729	     	60-729	 	060	Montgomery County	060	Montgomery County	0.50	0.50 MN 60-612 High Rock Hill Rd	Dead End	220	R							X						01/31/2005
+754039	  60	00730	     	60-730	 	060	Montgomery County	060	Montgomery County	0.25	60-624	Dead End	100	R							X						01/03/2005
+754040	  60	00731	     	60-731	Mill Lane	060	Montgomery County	060	Montgomery County	0.08	NCL Christiansburg	NCL Christiansburg	130	R							X						01/08/2008
+754041	  60	00732	     	60-732	 	060	Montgomery County	060	Montgomery County	0.07	60-631	60-754	40	R							X						12/13/2004
+754042	  60	00733	     	60-733	 	060	Montgomery County	060	Montgomery County	0.60	Dead End	60-657	230	R							X						01/05/2005
+754043	  60	00734	     	60-734	 	060	Montgomery County	060	Montgomery County	0.20	60-785 Catawba Rd	Dead End	70	R							X						01/03/2005
+754044	  60	00735	     	60-735	 	060	Montgomery County	060	Montgomery County	0.38	60-652 McCoy Rd	60-652 McCoy Rd	50	R							X						01/10/2005
+754045	  60	00736	     	60-736	 	060	Montgomery County	060	Montgomery County	0.14	60-652 McCoy Rd	60-685 Prices Fork Rd	1300	R							X						01/10/2005
+754046	  60	00737	     	60-737	 	060	Montgomery County	060	Montgomery County	0.15	Dead End	0.15 MN Dead End	60	R							X						01/10/2005
+754047	  60	00737	     	60-737	 	060	Montgomery County	060	Montgomery County	0.23	0.15 MN Dead End	60-1279 Old Fort	280	R							X						01/10/2005
+754048	  60	00737	     	60-737	 	060	Montgomery County	060	Montgomery County	0.88	60-1279 Old Fort	60-685 Prices Fork Rd	2000	R							X						01/10/2005
+754049	  60	00738	     	60-738	 	060	Montgomery County	060	Montgomery County	0.23	60-763 Spring View Dr	60-739	590	R							X						01/12/2005
+754050	  60	00738	     	60-738	 	060	Montgomery County	060	Montgomery County	0.05	60-739	US 11	1100	R							X						01/12/2005
+754051	  60	00739	     	60-739	 	060	Montgomery County	060	Montgomery County	0.20	Dead End	60-738	320	R							X						01/12/2005
+754052	  60	00740	     	60-740	Wells St	060	Montgomery County	060	Montgomery County	0.27	60-626 Lafayette; Gardner	60-626 Lafayette	100	R							X						12/12/2007
+754053	  60	00741	     	60-741	Coles Rd	060	Montgomery County	060	Montgomery County	0.90	60-631	Dead End	210	R							X						12/12/2007
+754054	  60	00742	     	60-742	 	060	Montgomery County	060	Montgomery County	0.20	Dead End	0.20 ME Dead End	50	R							X						12/08/2004
+754055	  60	00742	     	60-742	 	060	Montgomery County	060	Montgomery County	0.40	0.20 ME Dead End	0.60 ME Dead End	50	R							X						12/08/2004
+754056	  60	00742	     	60-742	Archer Rd	060	Montgomery County	060	Montgomery County	0.02	0.60 ME Dead End	60-639	190	R							X						12/21/2007
+754057	  60	00743	     	60-743	Hastings Rd	060	Montgomery County	060	Montgomery County	0.20	Dead End	0.20 MN Dead End	30	R							X						12/21/2007
+754058	  60	00743	     	60-743	Hastings Rd	060	Montgomery County	060	Montgomery County	0.01	0.20 MN Dead End	60-639	70	R							X						12/21/2007
+754059	  60	00744	     	60-744	Whittaker Hollow	060	Montgomery County	060	Montgomery County	0.70	60-655 Long Shop Rd; Mt Zion Rd	Dead End	140	R							X						01/16/2008
+754060	  60	00745	     	60-745	Big Spring Dr	060	Montgomery County	060	Montgomery County	0.50	US 11 & 460 SOUTH	60-748	200	R							X						12/12/2007
+754061	  60	00745	     	60-745	Big Spring Dr	060	Montgomery County	060	Montgomery County	0.04	60-748	US 11 & 460 NORTH	1300	R							X						01/30/2008
+754062	  60	00746	     	60-746	 	060	Montgomery County	060	Montgomery County	0.11	Dead End	60-737	90	R							X						01/10/2005
+754063	  60	00747	     	60-747	Pepper Run Rd	060	Montgomery County	060	Montgomery County	0.25	Dead End	60-785 Catawba Rd	40	R							X						01/04/2008
+754064	  60	00748	     	60-748	 	060	Montgomery County	060	Montgomery County	0.05	60-745 Big Spring Dr	Dead End	410	R							X						12/12/2007
+754065	  60	00749	     	60-749	McPherson Rd	060	Montgomery County	060	Montgomery County	0.15	60-785 Catawba Rd	Cul-de-Sac	40	R							X						01/04/2008
+754066	  60	00750	     	60-750	 	060	Montgomery County	060	Montgomery County	0.25	SR 114 Peppers Ferry Blvd	Dead End	60	R							X						01/12/2005
+754067	  60	00751	     	60-751	 	060	Montgomery County	060	Montgomery County	0.07	60-738	60-739	120	R							X						01/12/2005
+754068	  60	00752	     	60-752	Buckskin Rd	060	Montgomery County	060	Montgomery County	0.25	Dead End	60-603	160	R							X						01/04/2008
+403799	  60	00753	     	60-753	Old Town Rd	060	Montgomery County	060	Montgomery County	0.81	US 11 S, US 460 W, Roanoke Rd	60-637 Alleghany Spring Rd	490	G	98%	1%	0%	1%	0%	0%	F	0.1243	F	0.5440	510	G	2008
+403800	  60	00753	     	60-753	Old Town Rd	060	Montgomery County	060	Montgomery County	0.75	60-637 Alleghany Spring Rd	US 11 N, US 460 E, Roanoke Rd	390	G	98%	1%	0%	1%	0%	0%	C	0.1278	F	0.5577	410	G	2008
+754069	  60	00754	     	60-754	 	060	Montgomery County	060	Montgomery County	0.50	US 11 Roanoke Rd	60-631	430	R							X						12/13/2004
+754070	  60	00755	     	60-755	Persimmon Rd	060	Montgomery County	060	Montgomery County	0.10	Dead End	60-637 Alleghany Springs Rd	80	R							X						12/14/2007
+754071	  60	00756	     	60-756	Historic Dr	060	Montgomery County	060	Montgomery County	0.15	60-626 Gardner	Dead End	240	R							X						12/12/2007
+754072	  60	00757	     	60-757	Yates Rd	060	Montgomery County	060	Montgomery County	0.58	60-637 Alleghany Springs Rd	Dead End	140	R							X						12/12/2007
+754073	  60	00758	     	60-758	Houchins Rd	060	Montgomery County	060	Montgomery County	0.25	NCL Christiansburg	Dead End	90	R							X						01/08/2008
+754074	  60	00760	     	60-760	 	060	Montgomery County	060	Montgomery County	0.31	60-661 Dominion Dr; Chrisman Mill Rd	SR 114 Peppers Ferry Blvd	230	R							X						01/12/2005
+754075	  60	00761	     	60-761	 	060	Montgomery County	060	Montgomery County	0.27	60-613 Graysontown Rd	Dead End	60	R							X						01/18/2005
+754077	  60	00762	     	60-762	Brookside Dr	060	Montgomery County	060	Montgomery County	0.09	60-600 Fire Tower Rd	60-763 Circle Brook	480	R							X						12/05/2007
+754078	  60	00762	     	60-762	Brookside Dr	060	Montgomery County	060	Montgomery County	0.17	60-763 Circle Brook	Cul-de-Sac	80	R							X						12/05/2007
+754079	  60	00763	     	60-763	Circle Brook	060	Montgomery County	060	Montgomery County	0.16	60-762 Brookside Dr	60-764 Circle Brook	170	R							X						12/05/2007
+754080	  60	00763	     	60-763	Spring View Dr	060	Montgomery County	060	Montgomery County	0.25	60-764 Circle Brook	60-738	210	R							X						12/05/2007
+754081	  60	00764	     	60-764	Circle Brook	060	Montgomery County	060	Montgomery County	0.04	Cul-de-Sac	60-763 Spring View Dr; Circle Brook	50	R							X						12/05/2007
+754082	  60	00765	     	60-765	 	060	Montgomery County	060	Montgomery County	0.39	Dead End	60-665	90	R							X						01/18/2005
+754083	  60	00766	     	60-766	 	060	Montgomery County	060	Montgomery County	0.27	Dead End	60-1217 Showalter Dr	900	R							X						01/05/2005
+754084	  60	00766	     	60-766	Warmhearth Dr	060	Montgomery County	060	Montgomery County	0.33	60-1217 Showalter Dr	WCL Blacksburg	1300	R							X						01/05/2005
+754085	  60	00767	     	60-767	Gearhart Rd	060	Montgomery County	060	Montgomery County	0.15	60-808	Dead End	120	R							X						01/05/2005
+754086	  60	00768	     	60-768	Quartz Lane	060	Montgomery County	060	Montgomery County	0.43	60-625	Dead End	110	R							X						01/23/2008
+754087	  60	00769	     	60-769	Great Valley	060	Montgomery County	060	Montgomery County	0.25	60-825 Great Valley	Dead End	20	R							X						01/23/2008
+754088	  60	00770	     	60-770	 	060	Montgomery County	060	Montgomery County	0.45	60-657	Dead End	70	R							X						01/05/2005
+754089	  60	00771	     	60-771	Strawberry Circle	060	Montgomery County	060	Montgomery County	0.20	60-637 Alleghany Springs Rd	60-637 Alleghany Springs Rd	20	R							X						12/14/2007
+754090	  60	00772	     	60-772	Harmony Rd	060	Montgomery County	060	Montgomery County	0.30	Dead End	60-639	90	R							X						12/21/2007
+754091	  60	00773	     	60-773	Cannery Rd	060	Montgomery County	060	Montgomery County	0.06	60-626 Lafayette	Dead End	350	R							X						12/12/2007
+403801	  60	00774	     	60-774	Price Station Rd	060	Montgomery County	060	Montgomery County	1.25	Dead End	60-652 McCoy Rd	270	G	99%	0%	1%	0%	0%	0%	C	0.2197	F	0.8448	290	G	2008
+754092	  60	00775	     	60-775	 	060	Montgomery County	060	Montgomery County	0.21	Dead End	US 460	720	R							X						01/05/2005
+754093	  60	00776	     	60-776	 	060	Montgomery County	060	Montgomery County	0.20	60-644	Dead End	120	R							X						12/15/2004
+754094	  60	00777	     	60-777	 	060	Montgomery County	060	Montgomery County	1.58	US 460; 60-778	NCL Blacksburg	150	R							X						01/05/2005
+754095	  60	00778	     	60-778	 	060	Montgomery County	060	Montgomery County	0.23	Dead End	US 460; 60-777	30	R							X						01/03/2005
+786527	  60	00779	     	60-779	 	060	Montgomery County	060	Montgomery County	0.40	Dead End	60-652	60	R							X						01/10/2005
+754096	  60	00780	     	60-780	Sowder Hollow Rd	060	Montgomery County	060	Montgomery County	0.10	Dead End	60-637 Alleghany Springs Rd	20	R							X						12/14/2007
+754097	  60	00781	     	60-781	 	060	Montgomery County	060	Montgomery County	2.04	60-655 Long Shop Rd, Mt Zion Rd	60-708 Norris Run	360	R							X						01/10/2005
+754098	  60	00782	     	60-782	Hurst	060	Montgomery County	060	Montgomery County	0.60	60-757 Yates Rd	Dead End	60	R							X						12/14/2007
+754099	  60	00783	     	60-783	Truman Ave	060	Montgomery County	060	Montgomery County	0.20	Dead End	US 11	250	R							X						01/16/2008
+754100	  60	00784	     	60-784	Fallam Rd	060	Montgomery County	060	Montgomery County	0.42	Dead End	60-625	80	R							X						01/16/2008
+403802	  60	00785	     	60-785	Harding Ave	060	Montgomery County	060	Montgomery County	1.01	ECL Blacksburg	60-815 Happy Hollow Rd	1900	G	98%	1%	1%	0%	0%	0%	C	0.0919	F	0.5968	2000	G	2008
+403803	  60	00785	     	60-785	Harding Ave	060	Montgomery County	060	Montgomery County	1.39	60-815 Happy Hollow Rd	60-723 Lusters Gate Rd	1700	G	98%	1%	1%	0%	0%	0%	F	0.0984	F	0.5215	1800	G	2008
+403804	  60	00785	     	60-785	Catawba Rd	060	Montgomery County	060	Montgomery County	4.07	60-723 Lusters Gate Rd	60-628 Dry Run Rd	550	G	98%	1%	1%	0%	0%	0%	F	0.1270	F	0.5313	570	G	2008
+403805	  60	00785	     	60-785	Catawba Rd	060	Montgomery County	060	Montgomery County	4.00	60-628 Dry Run Rd	Roanoke County Line	300	G	98%	1%	1%	0%	0%	0%	F	0.1494	F	0.5976	310	G	2008
+754101	  60	00786	     	60-786	 	060	Montgomery County	060	Montgomery County	0.64	Dead End	60-652 McCoy Rd	110	R							X						01/10/2005
+403806	  60	00787	     	60-787	Indian Valley Rd	060	Montgomery County	060	Montgomery County	4.89	60-600 Piney Woods Rd; Floyd County Line	60-693 Childress Rd; Graysontown Rd	980	G	97%	0%	2%	0%	0%	0%	C	0.1170	F	0.8596	1000	G	2008
+754102	  60	00787	     	60-787	Dry Valley Rd	060	Montgomery County	060	Montgomery County	4.81	60-693 Childress Rd; Graysontown Rd	60-664 E, Lovely Mount Dr	770	R							X						01/18/2005
+754103	  60	00787	     	60-787	Wintergreen Dr	060	Montgomery County	060	Montgomery County	1.70	60-664 W, Lovely Mount Dr	SCL Radford	220	R							X						01/25/2005
+754104	  60	00788	     	60-788	 	060	Montgomery County	060	Montgomery County	0.07	Cul-de-Sac	60-789	20	R							X						01/18/2005
+754105	  60	00788	     	60-788	 	060	Montgomery County	060	Montgomery County	0.08	60-789	60-693 Childress Rd	60	R							X						01/18/2005
+754106	  60	00789	     	60-789	 	060	Montgomery County	060	Montgomery County	0.15	60-788	Cul-de-Sac	20	R							X						01/18/2005
+754107	  60	00790	     	60-790	Forage	060	Montgomery County	060	Montgomery County	0.30	Floyd County Line	60-637	150	R							X						12/14/2007
+754108	  60	00792	     	60-792	 	060	Montgomery County	060	Montgomery County	0.20	Dead End	US 11	190	R							X						01/18/2005
+754109	  60	00793	     	60-793	Altoona School Rd	060	Montgomery County	060	Montgomery County	0.25	Dead End	60-610	46	R							X						12/14/2007
+754110	  60	00794	     	60-794	 	060	Montgomery County	060	Montgomery County	0.20	Dead End	US 11	90	R							X						01/18/2005
+754111	  60	00795	     	60-795	Crown Rd	060	Montgomery County	060	Montgomery County	0.07	Dead End; O.O7 MW US 11	US 11 Roanoke St	130	R							X						12/19/2007
+754112	  60	00795	     	60-795	Crown Rd	060	Montgomery County	060	Montgomery County	0.08	US 11 Roanoke St	Dead End; O.O8 ME US 11	7	R							X						12/19/2007
+754113	  60	00796	     	60-796	 	060	Montgomery County	060	Montgomery County	0.09	Dead End	60-723 Ellett Rd	40	R							X						12/15/2004
+754114	  60	00798	     	60-798	 	060	Montgomery County	060	Montgomery County	0.40	Dead End	US 11	210	R							X						01/18/2005
+754115	  60	00799	     	60-799	 	060	Montgomery County	060	Montgomery County	0.03	Dead End	60-800	20	R							X						01/12/2005
+754116	  60	00799	     	60-799	 	060	Montgomery County	060	Montgomery County	0.06	60-800	SR 114 Peppers Ferry Blvd	100	R							X						01/12/2005
+754117	  60	00800	     	60-800	 	060	Montgomery County	060	Montgomery County	0.20	60-799	SR 114 Peppers Ferry Blvd	130	R							X						01/12/2005
+754118	  60	00802	     	60-802	 	060	Montgomery County	060	Montgomery County	0.35	Cul-de-Sac	60-810	50	R							X						01/05/2005
+754119	  60	00803	     	60-803	 	060	Montgomery County	060	Montgomery County	0.07	Cul-de-Sac	60-810	30	R							X						01/05/2005
+754120	  60	00804	     	60-804	Mossy Spring Rd	060	Montgomery County	060	Montgomery County	0.20	60-785 Catawba Rd	Dead End	60	R							X						01/04/2008
+754121	  60	00805	     	60-805	 	060	Montgomery County	060	Montgomery County	0.83	Cul-de-Sac	60-810	110	R							X						01/05/2005
+754122	  60	00805	     	60-805	 	060	Montgomery County	060	Montgomery County	0.16	60-810	60-806	280	R							X						01/05/2005
+754123	  60	00806	     	60-806	 	060	Montgomery County	060	Montgomery County	1.20	60-624	60-805	260	R							X						01/05/2005
+754124	  60	00806	     	60-806	 	060	Montgomery County	060	Montgomery County	0.38	60-805	60-807	290	R							X						01/05/2005
+754125	  60	00806	     	60-806	 	060	Montgomery County	060	Montgomery County	0.40	60-807	60-818	240	R							X						01/05/2005
+754126	  60	00807	     	60-807	 	060	Montgomery County	060	Montgomery County	0.19	Cul-de-Sac	60-806	30	R							X						01/05/2005
+754127	  60	00808	     	60-808	 	060	Montgomery County	060	Montgomery County	0.85	60-657	WCL Blacksburg	1500	R							X						01/05/2005
+754128	  60	00809	     	60-809	 	060	Montgomery County	060	Montgomery County	0.20	NCL Blacksburg	Dead End	500	R							X						01/05/2005
+754129	  60	00810	     	60-810	 	060	Montgomery County	060	Montgomery County	0.70	60-649 Coal Bank Hollow	60-803	610	R							X						01/05/2005
+754130	  60	00810	     	60-810	 	060	Montgomery County	060	Montgomery County	0.76	60-803	60-805	510	R							X						01/05/2005
+754131	  60	00811	     	60-811	Mill Lane	060	Montgomery County	060	Montgomery County	0.36	ECL Christiansburg	Dead End	520	R							X						01/08/2008
+754132	  60	00812	     	60-812	 	060	Montgomery County	060	Montgomery County	0.20	SR 114 Peppers Ferry Blvd	Dead End	50	R							X						01/12/2005
+754133	  60	00813	     	60-813	Stones Keep	060	Montgomery County	060	Montgomery County	0.14	US 11; US 460	Roanoke County Line	370	R							X						12/12/2007
+754134	  60	00814	     	60-814	Lilly Rd	060	Montgomery County	060	Montgomery County	0.20	Dead End	60-625	30	R							X						01/23/2008
+754135	  60	00815	     	60-815	 	060	Montgomery County	060	Montgomery County	1.60	ECL Blacksburg	60-785 Harding Ave	370	R							X						01/03/2005
+754136	  60	00816	     	60-816	Flick Dr	060	Montgomery County	060	Montgomery County	0.30	Dead End	60-637 Alleghany Springs Rd	130	R							X						12/14/2007
+754137	  60	00817	     	60-817	 	060	Montgomery County	060	Montgomery County	0.35	60-637 Alleghany Springs Rd	Dead End	120	R							X						12/08/2004
+782544	  60	00818	     	60-818	 	060	Montgomery County	060	Montgomery County	1.11	60-649	60-1057	230	R							X						01/05/2005
+788787	  60	00818	     	60-818	S Jefferson Forest	060	Montgomery County	060	Montgomery County	0.45	60-1057	Cul-de-Sac	48	R							X						01/23/2008
+754138	  60	00818	     	60-818	 	060	Montgomery County	060	Montgomery County	0.70	Cul-de-Sac	60-830	70	R							X						01/05/2005
+754139	  60	00818	     	60-818	 	060	Montgomery County	060	Montgomery County	0.28	60-830	60-806	180	R							X						01/05/2005
+754140	  60	00819	     	60-819	Hwy 819	060	Montgomery County	060	Montgomery County	0.21	60-641 Den Hill	Dead End	10	R							X						12/19/2007
+754141	  60	00820	     	60-820	Friendship Rd	060	Montgomery County	060	Montgomery County	0.23	Dead End	60-636 Harkrader St; Friendship Rd	60	R							X						12/14/2007
+754142	  60	00821	     	60-821	Friendship Rd	060	Montgomery County	060	Montgomery County	1.75	60-636 Friendship Rd; Harkrader St	60-603, N Fork Rd	290	R							X						12/14/2007
+754144	  60	00822	     	60-822	Ryan Rd	060	Montgomery County	060	Montgomery County	0.97	60-753 Old Town Rd	Dead End	390	R							X						12/12/2007
+754145	  60	00823	     	60-823	Gingerbread Rd	060	Montgomery County	060	Montgomery County	0.30	US 11; US 460	Dead End	120	R							X						12/19/2007
+754146	  60	00824	     	60-824	 	060	Montgomery County	060	Montgomery County	2.11	Dead End	60-657	350	R							X						01/05/2005
+754147	  60	00825	     	60-825	Great Valley	060	Montgomery County	060	Montgomery County	0.02	Dead End	60-769 Great Valley	6	R							X						01/23/2008
+754148	  60	00825	     	60-825	Great Valley	060	Montgomery County	060	Montgomery County	0.20	60-769 Great Valley	60-625	30	R							X						01/08/2008
+754149	  60	00826	     	60-826	Pike Lane	060	Montgomery County	060	Montgomery County	0.15	Dead End	60-723 Ellett Rd	70	R							X						01/08/2008
+754150	  60	00827	     	60-827	Bobcat Lane	060	Montgomery County	060	Montgomery County	0.40	60-655 Long Shop Rd; Mt Zion Rd	Dead End	240	R							X						12/07/2007
+754151	  60	00828	     	60-828	 	060	Montgomery County	060	Montgomery County	0.55	60-1315 Wisteria Dr	60-663 Walton Rd	190	R							X						01/12/2005
+782545	  60	00829	     	60-829	Kings Arm Lane	060	Montgomery County	060	Montgomery County	0.06	60-818	Dead End	30	R							X						01/23/2008
+754152	  60	00830	     	60-830	 	060	Montgomery County	060	Montgomery County	0.82	Cul-de-Sac	60-818	100	R							X						01/05/2005
+782546	  60	00831	     	60-831	Half Penny Lane	060	Montgomery County	060	Montgomery County	0.07	60-818	Dead End	20	R							X						01/23/2008
+782547	  60	00832	     	60-832	Wren Court	060	Montgomery County	060	Montgomery County	0.08	60-818	Dead End	30	R							X						01/23/2008
+754153	  60	00833	     	60-833	 	060	Montgomery County	060	Montgomery County	0.40	US 11 Roanoke Rd	Dead End	960	R							X						12/13/2004
+786528	  60	00834	     	60-834	 	060	Montgomery County	060	Montgomery County	0.25	US 11; 60-626	Dead End	530	R							X						12/13/2004
+790974	  60	00837	     	60-837	 	060	Montgomery County	060	Montgomery County	0.10	Dead End	US 11 Roanoke Rd	90	R							X						12/12/2007
+754154	  60	00840	     	60-840	 	060	Montgomery County	060	Montgomery County	0.11	Dead End	SCL Blacksburg	30	R							X						1998
+791821	  60	00848	     	60-848	Blue Spruce	060	Montgomery County	060	Montgomery County	0.18	60-763 Spring View Dr	Cul-de-Sac	230	R							X						12/05/2007
+791822	  60	00849	     	60-849	Blue Spruce	060	Montgomery County	060	Montgomery County	0.05	60-848 Blue Spruce	Cul-de-Sac	200	R							X						12/05/2007
+754155	  60	01001	     	60-1001	Stewart Lane	060	Montgomery County	060	Montgomery County	0.04	US 11; US 460	60-1002 Stewart Lane	120	R							X						12/12/2007
+754156	  60	01001	     	60-1001	Stevenson Lane	060	Montgomery County	060	Montgomery County	0.02	60-1002 Stewart Lane	60-753 Old Town Rd	120	R							X						12/12/2007
+754157	  60	01002	     	60-1002	Stewart Lane	060	Montgomery County	060	Montgomery County	0.10	60-1001 Stevenson Lane; Stewart Lane	60-637 Alleghany Spring Rd	370	R							X						12/12/2007
+754158	  60	01003	     	60-1003	Rakes Dr	060	Montgomery County	060	Montgomery County	0.08	US 11; US 460	60-753 Old Town Rd	50	R							X						12/12/2007
+754159	  60	01004	     	60-1004	Lilac Dr	060	Montgomery County	060	Montgomery County	0.09	US 11; US 460	60-753 Old Town Rd	100	R							X						12/12/2007
+754160	  60	01005	     	60-1005	Corbin	060	Montgomery County	060	Montgomery County	0.10	US 11; US 460	60-753 Old Town Rd	440	R							X						12/12/2007
+754161	  60	01006	     	60-1006	Walnut Grove Rd	060	Montgomery County	060	Montgomery County	0.09	US 11; US 460	60-1007 Watterson Circle	130	R							X						12/12/2007
+754162	  60	01006	     	60-1006	Walnut Grove Rd	060	Montgomery County	060	Montgomery County	0.07	60-1007 Watterson Circle	60-1008 Carr Circle	70	R							X						12/12/2007
+754163	  60	01007	     	60-1007	Watterson Circle	060	Montgomery County	060	Montgomery County	0.07	60-1006 Walnut Grove Rd	Cul-de-Sac	120	R							X						12/12/2007
+754164	  60	01008	     	60-1008	Carr Circle	060	Montgomery County	060	Montgomery County	0.05	60-1006 Walnut Grove Rd	Cul-de-Sac	60	R							X						12/12/2007
+754165	  60	01009	     	60-1009	Shawnee Dr	060	Montgomery County	060	Montgomery County	0.12	60-753 Old Town Rd	Cul-de-Sac	90	R							X						12/12/2007
+754166	  60	01010	     	60-1010	Noahs Dr	060	Montgomery County	060	Montgomery County	0.10	60-753 Old Town Rd	Dead End	200	R							X						12/12/2007
+754167	  60	01015	     	60-1015	Marsh Rd	060	Montgomery County	060	Montgomery County	0.30	Dead End	60-648	150	R							X						01/04/2008
+754168	  60	01016	     	60-1016	Cameo Lane	060	Montgomery County	060	Montgomery County	0.23	Cul-de-Sac	60-648	210	R							X						01/04/2008
+754169	  60	01030	     	60-1030	Lonesome Dove	060	Montgomery County	060	Montgomery County	0.25	Cul-de-Sac	FR-60 Flanagan Dr	150	R							X						12/05/2007
+788788	  60	01032	     	60-1032	Ferguson Rd	060	Montgomery County	060	Montgomery County	0.10	Cul-de-Sac	Bus US 460	1500	R							X						01/08/2008
+784265	  60	01033	     	60-1033	Mill Wood Lane	060	Montgomery County	060	Montgomery County	0.51	60-1034 Mill Point Rd	Cul-de-Sac	60	R							X						01/04/2008
+782548	  60	01034	     	60-1034	Mill Point Rd	060	Montgomery County	060	Montgomery County	0.25	60-785 Harding Ave	Cul-de-Sac	40	R							X						01/04/2008
+754170	  60	01035	     	60-1035	Deer Run Rd	060	Montgomery County	060	Montgomery County	1.22	Cul-de-Sac	60-785 Catawba Rd	240	R							X						01/04/2008
+786529	  60	01036	     	60-1036	 	060	Montgomery County	060	Montgomery County	0.21	60-785 Harding Ave	Cul-de-Sac	100	R							X						01/03/2005
+754171	  60	01040	     	60-1040	Fort Vause Dr	060	Montgomery County	060	Montgomery County	0.30	60-637 Alleghany Springs Rd	Cul-de-Sac	200	R							X						12/12/2007
+787909	  60	01043	     	60-1043	 	060	Montgomery County	060	Montgomery County	0.14	60-833	Cul-de-Sac	30	R							X						12/13/2004
+754172	  60	01045	     	60-1045	Briggs Rd	060	Montgomery County	060	Montgomery County	0.13	60-1047 Jacob Rd	60-1046 Kirk Hollow Rd	170	R							X						12/14/2007
+754173	  60	01045	     	60-1045	Briggs Rd	060	Montgomery County	060	Montgomery County	0.08	60-1046 Kirk Hollow Rd	60-690	300	R							X						12/14/2007
+754174	  60	01046	     	60-1046	Kirk Hollow Rd	060	Montgomery County	060	Montgomery County	0.04	60-1045 Briggs Rd	Cul-de-Sac	40	R							X						12/14/2007
+754175	  60	01047	     	60-1047	Jacob Rd	060	Montgomery County	060	Montgomery County	0.25	60-1045 Briggs Rd	Cul-de-Sac	200	R							X						12/14/2007
+754176	  60	01050	     	60-1050	Blake Dr	060	Montgomery County	060	Montgomery County	0.32	ECL Christiansburg	Dead End	100	R							X						12/21/2007
+784266	  60	01052	     	60-1052	New Ridge Rd	060	Montgomery County	060	Montgomery County	1.10	60-603, N Fork Rd	Dead End	310	R							X						12/14/2007
+754177	  60	01053	     	60-1053	Helm Dr	060	Montgomery County	060	Montgomery County	0.34	Dead End	US 11 Roanoke Rd	300	R							X						12/12/2007
+754178	  60	01055	     	60-1055	Madison Lane	060	Montgomery County	060	Montgomery County	0.34	60-1056 Breckenridge Dr	60-806	60	R							X						01/23/2008
+754179	  60	01056	     	60-1056	Breckenridge Dr	060	Montgomery County	060	Montgomery County	0.60	60-810	60-1055 Madison Lane	50	R							X						01/23/2008
+790523	  60	01057	     	60-1057	 	060	Montgomery County	060	Montgomery County	0.20	60-818, S Jefferson Forest	60-1058 Benoit Trail	70	R							X						01/23/2008
+790524	  60	01058	     	60-1058	Benoit Trail	060	Montgomery County	060	Montgomery County	0.26	Cul-de-Sac	Cul-de-Sac	90	R							X						01/23/2008
+754180	  60	01060	     	60-1060	Millstone Ridge	060	Montgomery County	060	Montgomery County	0.56	Cul-de-Sac	60-718	90	R							X						01/16/2008
+754181	  60	01061	     	60-1061	Nikkel Lane	060	Montgomery County	060	Montgomery County	0.26	Cul-de-Sac	60-718	100	R							X						01/16/2008
+788789	  60	01062	     	60-1062	Autumn Lane	060	Montgomery County	060	Montgomery County	0.05	US 460	60-1063 Gordon	440	R							X						01/23/2008
+788790	  60	01063	     	60-1063	Gordon	060	Montgomery County	060	Montgomery County	0.61	60-1065 Crimson Dr	Cul-de-Sac	370	R							X						01/23/2008
+788791	  60	01064	     	60-1064	Englewood	060	Montgomery County	060	Montgomery County	0.05	60-1063 Gordon	Cul-de-Sac	40	R							X						01/23/2008
+788792	  60	01065	     	60-1065	Crimson Dr	060	Montgomery County	060	Montgomery County	0.15	US 460	60-1066 Belaire Dr	230	R							X						01/23/2008
+794063	  60	01066	     	60-1066	Belaire Dr	060	Montgomery County	060	Montgomery County	0.18	60-1067	60-1065 Crimson Dr	80	R							X						01/23/2008
+788793	  60	01066	     	60-1066	 	060	Montgomery County	060	Montgomery County	0.11	60-1065 Crimson Dr	Cul-de-Sac	100	R							X						12/12/2007
+793291	  60	01067	     	60-1067	 	060	Montgomery County	060	Montgomery County	0.84	60-1066	Cul-de-Sac	0	?							X
+793292	  60	01068	     	60-1068	 	060	Montgomery County	060	Montgomery County	0.35	60-1067	Cul-de-Sac	0	?							X
+793293	  60	01069	     	60-1069	 	060	Montgomery County	060	Montgomery County	0.08	60-1067	Cul-de-Sac	0	?							X
+754182	  60	01070	     	60-1070	Enterprise	060	Montgomery County	060	Montgomery County	0.12	60-603, N Fork Rd	Cul-de-Sac	100	R							X						12/12/2007
+788794	  60	01071	     	60-1071	Mountain Laurel	060	Montgomery County	060	Montgomery County	0.42	Cul-de-Sac	60-777	690	R							X						01/23/2008
+788795	  60	01072	     	60-1072	Brush Mountain	060	Montgomery County	060	Montgomery County	0.12	60-1071 Mountain Laurel	Cul-de-Sac	90	R							X						01/23/2008
+788796	  60	01073	     	60-1073	Brush Mountain	060	Montgomery County	060	Montgomery County	0.16	60-1071 Mountain Laurel	Cul-de-Sac	80	R							X						01/23/2008
+754183	  60	01080	     	60-1080	Blue Heron	060	Montgomery County	060	Montgomery County	0.47	Cul-de-Sac	60-669 Fairview Church Rd	170	R							X						01/16/2008
+754184	  60	01081	     	60-1081	Arbolito Trail	060	Montgomery County	060	Montgomery County	0.18	Cul-de-Sac	60-1080 Blue Heron	30	R							X						01/16/2008
+787910	  60	01085	     	60-1085	 	060	Montgomery County	060	Montgomery County	0.13	Cul-de-Sac	60-669 Fairview Church Rd	30	R							X						01/25/2005
+754185	  60	01090	     	60-1090	Elk Creek Dr	060	Montgomery County	060	Montgomery County	0.40	60-693 Childress Rd	Cul-de-Sac	110	R							X						01/16/2008
+787911	  60	01091	     	60-1091	 	060	Montgomery County	060	Montgomery County	0.43	Cul-de-Sac	60-669 Union Valley Rd	40	R							X						01/31/2005
+787912	  60	01092	     	60-1092	 	060	Montgomery County	060	Montgomery County	0.63	60-1091	Cul-de-Sac	10	R							X						01/31/2005
+754186	  60	01095	     	60-1095	Tuckahoe Dr	060	Montgomery County	060	Montgomery County	0.29	SR 8 Riner Rd	Cul-de-Sac	160	R							X						12/28/2007
+784267	  60	01097	     	60-1097	Turnberry Lane	060	Montgomery County	060	Montgomery County	0.73	SR 8 Riner Rd	Cul-de-Sac	430	R							X						12/28/2007
+754187	  60	01101	     	60-1101	Indian Meadow Dr	060	Montgomery County	060	Montgomery County	0.10	60-1103	60-1102 Shawnee Trail	290	R							X						01/04/2008
+754188	  60	01101	     	60-1101	Indian Meadow Dr	060	Montgomery County	060	Montgomery County	0.16	60-1102 Shawnee Trail	60-648	350	R							X						01/04/2008
+754189	  60	01102	     	60-1102	Shawnee Trail	060	Montgomery County	060	Montgomery County	0.40	60-1101 Indian Meadow Dr	Cul-de-Sac	90	R							X						01/04/2008
+754190	  60	01103	     	60-1103	Indian Meadow	060	Montgomery County	060	Montgomery County	0.12	Cul-de-Sac	60-1105 Cherokee Trail	30	R							X						01/04/2008
+754191	  60	01103	     	60-1103	 	060	Montgomery County	060	Montgomery County	1.41	60-1105 Cherokee Trail	60-1101 Indian Meadow Dr	170	R							X						01/04/2008
+754192	  60	01103	     	60-1103	 	060	Montgomery County	060	Montgomery County	0.26	60-1101 Indian Meadow Dr	60-1104 Big Sky Trail	110	R							X						01/04/2008
+754193	  60	01103	     	60-1103	 	060	Montgomery County	060	Montgomery County	0.29	60-1104 Big Sky Trail	Dead End	50	R							X						01/04/2008
+754194	  60	01104	     	60-1104	Big Sky Trail	060	Montgomery County	060	Montgomery County	0.19	Cul-de-Sac	60-1103	80	R							X						01/04/2008
+754195	  60	01105	     	60-1105	Cherokee Trail	060	Montgomery County	060	Montgomery County	0.07	60-1103 Indian Meadow	Cul-de-Sac	80	R							X						01/04/2008
+754196	  60	01106	     	60-1106	 	060	Montgomery County	060	Montgomery County	0.13	Cul-de-Sac	60-624	50	R							X						01/03/2005
+754197	  60	01107	     	60-1107	Horseshoe Lane	060	Montgomery County	060	Montgomery County	0.41	60-648	60-648	70	R							X						01/04/2008
+754198	  60	01108	     	60-1108	Spur St	060	Montgomery County	060	Montgomery County	0.04	Cul-de-Sac	60-1107 Horseshoe Lane	30	R							X						01/04/2008
+754199	  60	01109	     	60-1109	Gedney Park Dr	060	Montgomery County	060	Montgomery County	0.14	Cul-de-Sac	60-624	50	R							X						01/04/2008
+784268	  60	01110	     	60-1110	Horse Farm Rd	060	Montgomery County	060	Montgomery County	0.32	Dead End	60-648	70	R							X						01/04/2008
+754200	  60	01111	     	60-1111	Hoyt St	060	Montgomery County	060	Montgomery County	0.07	60-715	60-1113 Georgia St	150	R							X						01/04/2008
+754201	  60	01111	     	60-1111	Hoyt St	060	Montgomery County	060	Montgomery County	0.12	60-1113 Georgia St	60-1112 Neil St	110	R							X						01/04/2008
+754202	  60	01112	     	60-1112	Neil St	060	Montgomery County	060	Montgomery County	0.07	ECL Blacksburg	60-1111 Hoyt St	160	R							X						01/04/2008
+754203	  60	01113	     	60-1113	Georgia St	060	Montgomery County	060	Montgomery County	0.07	Cul-de-Sac	60-1114 Nelson St	50	R							X						01/04/2008
+754204	  60	01113	     	60-1113	Georgia St	060	Montgomery County	060	Montgomery County	0.08	60-1114 Nelson St	60-1111 Hoyt St	80	R							X						01/04/2008
+754205	  60	01114	     	60-1114	Nelson St	060	Montgomery County	060	Montgomery County	0.07	60-1113 Georgia St	Cul-de-Sac	70	R							X						01/04/2008
+791823	  60	01120	     	60-1120	 	060	Montgomery County	060	Montgomery County	0.41	60-649 Coal Bank Hollow	Cul-de-Sac	140	R							X						01/30/2008
+791824	  60	01121	     	60-1121	Treetop Ridge	060	Montgomery County	060	Montgomery County	0.64	60-1120	Cul-de-Sac	60	R							X						01/30/2008
+754206	  60	01140	     	60-1140	Brunswick	060	Montgomery County	060	Montgomery County	0.13	Cul-de-Sac	60-1141 Hamilton	200	R							X						12/07/2007
+754207	  60	01140	     	60-1140	Brunswick	060	Montgomery County	060	Montgomery County	0.12	60-1141 Hamilton	60-685 Prices Fork Rd	420	R							X						12/07/2007
+754208	  60	01141	     	60-1141	Hamilton	060	Montgomery County	060	Montgomery County	0.05	60-1140 Brunswick	Cul-de-Sac	80	R							X						12/07/2007
+754209	  60	01142	     	60-1142	 	060	Montgomery County	060	Montgomery County	0.11	60-1140 Brunswick	Cul-de-Sac	40	R							X						01/10/2005
+793294	  60	01145	     	60-1145	 	060	Montgomery County	060	Montgomery County	0.47	60-685 Prices Fork Rd	Cul-de-Sac	0	?							X
+754210	  60	01201	     	60-1201	Harkrader Rd	060	Montgomery County	060	Montgomery County	0.26	60-666 Mud Pike Rd	60-1202 Grandview Dr	650	R							X						12/05/2007
+754211	  60	01201	     	60-1201	Harkrader Rd	060	Montgomery County	060	Montgomery County	0.08	60-1202 Grandview Dr	60-1203 Westview Dr	780	R							X						12/05/2007
+754212	  60	01201	     	60-1201	Harkrader Rd	060	Montgomery County	060	Montgomery County	0.10	60-1203 Westview Dr	WCL Christiansburg	240	R							X						12/05/2007
+754213	  60	01202	     	60-1202	Grandview Dr	060	Montgomery County	060	Montgomery County	0.18	Cul-de-Sac	60-1201 Harkrader Rd	240	R							X						12/05/2007
+754214	  60	01203	     	60-1203	Westview Dr	060	Montgomery County	060	Montgomery County	0.16	Cul-de-Sac	60-1201 Harkrader Rd	240	R							X						12/05/2007
+754215	  60	01211	     	60-1211	Whispering Pine	060	Montgomery County	060	Montgomery County	0.34	60-760 SOUTH	60-760 NORTH	40	R							X						12/07/2007
+754216	  60	01212	     	60-1212	Spring House Rd	060	Montgomery County	060	Montgomery County	0.20	Cul-de-Sac	60-719 Switchback Rd	220	R							X						12/07/2007
+754217	  60	01213	     	60-1213	Nolen	060	Montgomery County	060	Montgomery County	0.17	SR 114 Peppers Ferry Blvd	Cul-de-Sac	190	R							X						12/07/2007
+754218	  60	01217	     	60-1217	Showalter Dr	060	Montgomery County	060	Montgomery County	0.10	Cul-de-Sac	60-766 Warmhearth Dr	870	R							X						01/10/2008
+754219	  60	01218	     	60-1218	Huckleberry Lane	060	Montgomery County	060	Montgomery County	0.25	60-808	SCL Blacksburg	30	R							X						01/10/2008
+784269	  60	01219	     	60-1219	Walton Rd	060	Montgomery County	060	Montgomery County	0.22	Cul-de-Sac	60-604 Plum Creek Rd	250	R							X						12/05/2007
+754220	  60	01223	     	60-1223	Round Meadow	060	Montgomery County	060	Montgomery County	0.41	60-661 Silver Lake Rd	60-1224 Putter Lane	210	R							X						12/05/2007
+754221	  60	01224	     	60-1224	Putter Lane	060	Montgomery County	060	Montgomery County	0.04	60-1223 Round Meadow	60-1225 Putter Lane	45	R							X						12/05/2007
+754222	  60	01225	     	60-1225	Putter Lane	060	Montgomery County	060	Montgomery County	0.05	Cul-de-Sac	60-1224 Putter Lane	70	R							X						12/05/2007
+754223	  60	01226	     	60-1226	Crestwood Dr	060	Montgomery County	060	Montgomery County	0.19	ECL Blacksburg	Dead End	120	R							X						01/10/2008
+786530	  60	01227	     	60-1227	 	060	Montgomery County	060	Montgomery County	0.14	60-1226 Crestwood Dr	60-1228	40	R							X						01/03/2005
+786531	  60	01228	     	60-1228	 	060	Montgomery County	060	Montgomery County	0.08	60-1227	Cul-de-Sac	10	R							X						01/03/2005
+793295	  60	01229	     	60-1229	 	060	Montgomery County	060	Montgomery County	0.36	60-1237	End Loop	0	?							X
+754224	  60	01234	     	60-1234	Pleasant View Circle	060	Montgomery County	060	Montgomery County	0.05	60-1238 Cherry Lane; Cedar Orchard Dr	Cul-de-Sac	60	R							X						01/10/2008
+754225	  60	01235	     	60-1235	Floyd St	060	Montgomery County	060	Montgomery County	0.40	Cul-de-Sac	60-1236 Emil	300	R							X						01/10/2008
+754226	  60	01235	     	60-1235	Floyd St	060	Montgomery County	060	Montgomery County	0.07	60-1236 Emil	60-694	430	R							X						01/10/2008
+754227	  60	01236	     	60-1236	Emil	060	Montgomery County	060	Montgomery County	0.05	60-1235 Floyd St	Cul-de-Sac	40	R							X						01/10/2008
+754228	  60	01237	     	60-1237	Cherry Lane	060	Montgomery County	060	Montgomery County	0.04	60-1238 Cedar Orchard Dr	60-694	610	R							X						01/10/2008
+788218	  60	01237	     	60-1237	 	060	Montgomery County	060	Montgomery County	0.20	60-694	60-1229	90	R							X						01/03/2005
+754229	  60	01238	     	60-1238	Cedar Orchard Dr	060	Montgomery County	060	Montgomery County	0.47	60-1239 Eheart St	60-1234 Pleasant View Circle	90	R							X						01/10/2008
+754230	  60	01238	     	60-1238	Cherry Lane	060	Montgomery County	060	Montgomery County	0.02	60-1234 Pleasant View Circle	Dead End	440	R							X						01/10/2008
+754231	  60	01239	     	60-1239	Eheart St	060	Montgomery County	060	Montgomery County	0.08	60-1235 Floyd St	60-1238 Cedar Orchard Dr	160	R							X						01/10/2008
+784270	  60	01239	     	60-1239	Eheart St	060	Montgomery County	060	Montgomery County	0.13	60-1238 Cedar Orchard Dr	Cul-de-Sac	90	R							X						01/10/2008
+754232	  60	01240	     	60-1240	Janna Rd	060	Montgomery County	060	Montgomery County	0.09	60-666 Mud Pike Rd	60-1241 Beulah Lane	240	R							X						12/05/2007
+754233	  60	01241	     	60-1241	Beulah Lane	060	Montgomery County	060	Montgomery County	0.14	60-1240 Janna Rd	Cul-de-Sac	230	R							X						12/05/2007
+784271	  60	01242	     	60-1242	Hitching Post Dr	060	Montgomery County	060	Montgomery County	0.45	60-666 Mud Pike Rd	Cul-de-Sac	160	R							X						12/05/2007
+788797	  60	01243	     	60-1243	Hitching Post Dr	060	Montgomery County	060	Montgomery County	0.46	Cul-de-Sac	60-1242 Hitching Post Dr	150	R							X						12/05/2007
+784272	  60	01243	     	60-1243	Lake Vista Dr	060	Montgomery County	060	Montgomery County	0.28	60-1242 Hitching Post Dr	60-666 Mud Pike Rd	130	R							X						12/05/2007
+784273	  60	01244	     	60-1244	Dunnington Court	060	Montgomery County	060	Montgomery County	0.10	60-1242 Hitching Post Dr	Cul-de-Sac	160	R							X						12/05/2007
+754234	  60	01245	     	60-1245	Viewland Dr	060	Montgomery County	060	Montgomery County	0.08	60-666 W, Mud Pike Rd	60-1247 Poff Court	200	R							X						12/05/2007
+754235	  60	01245	     	60-1245	Viewland Dr	060	Montgomery County	060	Montgomery County	0.14	60-1247 Poff Court	Pipefloyd St	160	R							X						12/05/2007
+754236	  60	01245	     	60-1245	Viewland Dr	060	Montgomery County	060	Montgomery County	0.29	Pipefloyd St	Dial St	150	R							X						12/05/2007
+754237	  60	01245	     	60-1245	Viewland Dr	060	Montgomery County	060	Montgomery County	0.03	Dial St	60-1246 Kinser Court	230	R							X						12/05/2007
+754238	  60	01245	     	60-1245	Viewland Dr	060	Montgomery County	060	Montgomery County	0.08	60-1246 Kinser Court	60-666 E, Mud Pike Rd	530	R							X						12/05/2007
+754239	  60	01246	     	60-1246	Kinser Court	060	Montgomery County	060	Montgomery County	0.13	Cul-de-Sac	60-1245 Viewland Dr	230	R							X						12/05/2007
+754240	  60	01247	     	60-1247	Poff Court	060	Montgomery County	060	Montgomery County	0.08	60-1245 Viewland Dr	Cul-de-Sac	30	R							X						12/05/2007
+784274	  60	01248	     	60-1248	Rich Circle	060	Montgomery County	060	Montgomery County	0.07	Cul-de-Sac	60-1239 Eheart St	40	R							X						01/10/2008
+788798	  60	01249	     	60-1249	Knollcrest	060	Montgomery County	060	Montgomery County	0.09	Cul-de-Sac	60-1243 Hitching Post Dr	80	R							X						12/05/2007
+754241	  60	01250	     	60-1250	Clubhouse Rd	060	Montgomery County	060	Montgomery County	0.04	60-723 Lusters Gate Rd	60-1253 W, St Andrews Circle	840	R							X						12/21/2007
+754242	  60	01250	     	60-1250	Clubhouse Rd	060	Montgomery County	060	Montgomery County	0.07	60-1253 W, St Andrews Circle	60-1253 E, St Andrews Circle	710	R							X						12/21/2007
+754243	  60	01250	     	60-1250	Clubhouse Rd	060	Montgomery County	060	Montgomery County	0.27	60-1253 E, St Andrews Circle	60-1251 Arrington	560	R							X						12/21/2007
+754244	  60	01251	     	60-1251	Arrington	060	Montgomery County	060	Montgomery County	0.55	60-1250 Clubhouse Rd	60-1259 Mountain Side Dr	330	R							X						12/21/2007
+754245	  60	01252	     	60-1252	Plank Dr	060	Montgomery County	060	Montgomery County	0.17	Cul-de-Sac	60-1251 Arrington	110	R							X						12/21/2007
+788799	  60	01252	     	60-1252	Plank Dr	060	Montgomery County	060	Montgomery County	1.15	60-1251 Arrington	60-723 Lusters Gate Rd	390	R							X						12/21/2007
+754246	  60	01253	     	60-1253	St Andrews Circle	060	Montgomery County	060	Montgomery County	0.65	60-1250 W, Clubhouse Rd	60-1250 E, Clubhouse Rd	50	R							X						12/21/2007
+782549	  60	01254	     	60-1254	Greenbrier Circle	060	Montgomery County	060	Montgomery County	0.44	60-723 Lusters Gate Rd	Cul-de-Sac	320	R							X						12/21/2007
+754247	  60	01255	     	60-1255	Deer Croft Dr	060	Montgomery County	060	Montgomery County	0.40	60-681	60-1258 Woodhaven	490	R							X						12/21/2007
+754248	  60	01255	     	60-1255	Deercroft Dr	060	Montgomery County	060	Montgomery County	0.25	60-1258 Woodhaven	60-1256 Falcon Ridge Rd	500	R							X						12/21/2007
+754249	  60	01255	     	60-1255	Deercroft Dr	060	Montgomery County	060	Montgomery County	0.84	60-1256 Falcon Ridge Rd	60-723 Lusters Gate Rd	290	R							X						12/21/2007
+754250	  60	01256	     	60-1256	Falcon Ridge Rd	060	Montgomery County	060	Montgomery County	0.19	Cul-de-Sac	60-1257 Quailwood Dr	90	R							X						12/21/2007
+754251	  60	01256	     	60-1256	Falcon Ridge Rd	060	Montgomery County	060	Montgomery County	0.48	60-1257 Quailwood Dr	60-1255 Deercroft Dr	240	R							X						12/21/2007
+754252	  60	01257	     	60-1257	Quailwood Dr	060	Montgomery County	060	Montgomery County	0.34	60-1256 Falcon Ridge Rd	Cul-de-Sac	110	R							X						12/21/2007
+754253	  60	01258	     	60-1258	Woodhaven	060	Montgomery County	060	Montgomery County	0.18	60-1255 Deercroft Dr; Deer Croft Dr	Cul-de-Sac	120	R							X						12/21/2007
+787460	  60	01259	     	60-1259	Mountain Side Dr	060	Montgomery County	060	Montgomery County	0.14	Dead End	60-1251 Arrington	110	R							X						12/15/2004
+783237	  60	01259	     	60-1259	 	060	Montgomery County	060	Montgomery County	0.35	60-1251 Arrington	Cul-de-Sac	220	R							X						12/21/2007
+754254	  60	01260	     	60-1260	Woodland Hills Dr	060	Montgomery County	060	Montgomery County	0.28	60-723 S, Lusters Gate Rd	60-1263 Sycamore Trail	320	R							X						12/21/2007
+754255	  60	01260	     	60-1260	Woodland Hills Dr	060	Montgomery County	060	Montgomery County	0.82	60-1263 Sycamore Trail	60-1262 Hickory Hills	180	R							X						12/21/2007
+754256	  60	01260	     	60-1260	Woodland Hills Dr	060	Montgomery County	060	Montgomery County	0.50	60-1262 Hickory Hills	60-1261 Cedar	60	R							X						12/21/2007
+754257	  60	01260	     	60-1260	Woodland Hills Dr	060	Montgomery County	060	Montgomery County	0.10	60-1261 Cedar	60-723 N, Lusters Gate Rd	120	R							X						12/21/2007
+754258	  60	01261	     	60-1261	Cedar	060	Montgomery County	060	Montgomery County	0.27	Cul-de-Sac	60-1260 Woodland Hills Dr	20	R							X						12/21/2007
+754259	  60	01262	     	60-1262	Hickory Hills	060	Montgomery County	060	Montgomery County	0.08	60-1260 Woodland Hills Dr	Cul-de-Sac	60	R							X						12/21/2007
+754260	  60	01263	     	60-1263	Sycamore Trail	060	Montgomery County	060	Montgomery County	0.30	60-1260 Woodland Hills Dr	Cul-de-Sac	30	R							X						12/21/2007
+754261	  60	01264	     	60-1264	Maple	060	Montgomery County	060	Montgomery County	0.25	60-1260 Woodland Hills Dr	Cul-de-Sac	30	R							X						12/21/2007
+786532	  60	01265	     	60-1265	 	060	Montgomery County	060	Montgomery County	0.19	60-681	Cul-de-Sac	30	R							X						12/15/2004
+788800	  60	01266	     	60-1266	Augusta National Rd	060	Montgomery County	060	Montgomery County	0.23	60-1252 Plank Dr	60-1252 Plank Dr	90	R							X						12/21/2007
+754262	  60	01275	     	60-1275	Sandy Circle	060	Montgomery County	060	Montgomery County	0.35	60-1276 W, Walls Branch	60-1276 E, Walls Branch	45	R							X						12/07/2007
+754263	  60	01275	     	60-1275	Sandy Circle	060	Montgomery County	060	Montgomery County	0.06	60-1276 E, Walls Branch	60-1279 N, Old Fort	150	R							X						12/07/2007
+754264	  60	01275	     	60-1275	Sandy Circle	060	Montgomery County	060	Montgomery County	0.09	60-1279 N, Old Fort	60-1279 S, Old Fort	160	R							X						12/07/2007
+754265	  60	01275	     	60-1275	Sandy Circle	060	Montgomery County	060	Montgomery County	0.06	60-1279 S, Old Fort	Cul-de-Sac	110	R							X						12/07/2007
+754266	  60	01276	     	60-1276	Walls Branch	060	Montgomery County	060	Montgomery County	0.06	60-737	60-1277 Calico	1200	R							X						12/07/2007
+754267	  60	01276	     	60-1276	Walls Branch	060	Montgomery County	060	Montgomery County	0.12	60-1277 Calico	60-1275 W, Sandy Circle	610	R							X						12/07/2007
+754268	  60	01276	     	60-1276	Walls Branch	060	Montgomery County	060	Montgomery County	0.04	60-1275 W, Sandy Circle	60-1275 E, Sandy Circle	350	R							X						12/07/2007
+754269	  60	01276	     	60-1276	Walls Branch	060	Montgomery County	060	Montgomery County	0.03	60-1275 E, Sandy Circle	Cul-de-Sac	60	R							X						12/07/2007
+754270	  60	01277	     	60-1277	Calico	060	Montgomery County	060	Montgomery County	0.10	60-1276 Walls Branch	60-1278 Weatherly	250	R							X						12/07/2007
+754271	  60	01277	     	60-1277	Calico	060	Montgomery County	060	Montgomery County	0.07	60-1278 Weatherly	Cul-de-Sac	60	R							X						12/07/2007
+754272	  60	01278	     	60-1278	Weatherly	060	Montgomery County	060	Montgomery County	0.06	60-1277 Calico	Cul-de-Sac	100	R							X						12/07/2007
+754273	  60	01279	     	60-1279	Old Fort	060	Montgomery County	060	Montgomery County	0.20	60-737	60-1280 Mocking Bird	420	R							X						12/07/2007
+754274	  60	01279	     	60-1279	Old Fort	060	Montgomery County	060	Montgomery County	0.06	60-1280 Mocking Bird	60-1275 S, Sandy Circle	210	R							X						12/07/2007
+754275	  60	01279	     	60-1279	Old Fort	060	Montgomery County	060	Montgomery County	0.35	60-1275 S, Sandy Circle	60-1275 N, Sandy Circle	120	R							X						12/07/2007
+754276	  60	01280	     	60-1280	Mocking Bird	060	Montgomery County	060	Montgomery County	0.19	Cul-de-Sac	Cul-de-Sac	180	R							X						12/07/2007
+784275	  60	01283	     	60-1283	Brockston St	060	Montgomery County	060	Montgomery County	0.04	60-1238 Cedar Orchard Dr	60-1284 Leisure Lane	130	R							X						01/10/2008
+784276	  60	01284	     	60-1284	Leisure Lane	060	Montgomery County	060	Montgomery County	0.25	Cul-de-Sac	60-1283 Brockston St	49	R							X						01/10/2008
+784277	  60	01285	     	60-1285	GiGi Dr	060	Montgomery County	060	Montgomery County	0.12	Cul-de-Sac	60-1284 Leisure Lane	60	R							X						01/10/2008
+754277	  60	01286	     	60-1286	Rolling Hills Dr	060	Montgomery County	060	Montgomery County	0.30	Cul-de-Sac	60-1287 Plateau	160	R							X						12/07/2007
+754278	  60	01286	     	60-1286	Rolling Hills Dr	060	Montgomery County	060	Montgomery County	0.14	60-1287 Plateau	SR 114 Peppers Ferry Blvd	930	R							X						12/07/2007
+754279	  60	01287	     	60-1287	Ridge St	060	Montgomery County	060	Montgomery County	0.21	Dead End	60-1288 Lupine	170	R							X						12/07/2007
+754280	  60	01287	     	60-1287	Plateau	060	Montgomery County	060	Montgomery County	0.08	60-1288 Lupine	60-1286 Rolling Hills Dr	240	R							X						12/07/2007
+754281	  60	01288	     	60-1288	Lupine	060	Montgomery County	060	Montgomery County	0.09	Cul-de-Sac	60-1287 Plateau; Ridge St	100	R							X						12/07/2007
+793915	  60	01289	     	60-1289	 	060	Montgomery County	060	Montgomery County	0.41	Cul-de-Sac	60-1242 Hitching Post Dr	0	?							X
+754282	  60	01292	     	60-1292	Easy St	060	Montgomery County	060	Montgomery County	0.28	60-1293 Height St	60-659 Vickers Switch Rd	290	R							X						12/07/2007
+754283	  60	01293	     	60-1293	Height St	060	Montgomery County	060	Montgomery County	0.10	Dead End	60-1292 Easy St	190	R							X						12/07/2007
+754284	  60	01294	     	60-1294	Lubna Ridge	060	Montgomery County	060	Montgomery County	0.25	Cul-de-Sac	60-1296; 60-1297	45	R							X						12/05/2007
+754285	  60	01295	     	60-1295	Life Dr	060	Montgomery County	060	Montgomery County	0.31	60-1296 Lubna Dr	SR 8 Riner Rd	1100	R							X						12/05/2007
+754286	  60	01296	     	60-1296	Lubna Dr	060	Montgomery County	060	Montgomery County	0.10	60-1297; 60-1294	60-1295 Life Dr	90	R							X						12/05/2007
+754287	  60	01296	     	60-1296	Lubna Dr	060	Montgomery County	060	Montgomery County	0.43	60-1295 Life Dr	Cul-de-Sac	430	R							X						12/05/2007
+754288	  60	01297	     	60-1297	Lubna Ridge	060	Montgomery County	060	Montgomery County	0.15	60-1296; 60-1294	Cul-de-Sac	60	R							X						12/05/2007
+754289	  60	01298	     	60-1298	Wetherburn Rd	060	Montgomery County	060	Montgomery County	0.55	Cul-de-Sac	SR 8 Riner Rd	190	R							X						01/10/2008
+754290	  60	01299	     	60-1299	Christiana Court	060	Montgomery County	060	Montgomery County	0.10	60-1298 Wetherburn Rd	Cul-de-Sac	80	R							X						01/10/2008
+754291	  60	01310	     	60-1310	Country Meadow	060	Montgomery County	060	Montgomery County	0.14	Cul-de-Sac	60-1311 Country Meadow	60	R							X						01/10/2008
+754292	  60	01310	     	60-1310	Country Meadow	060	Montgomery County	060	Montgomery County	0.05	60-1311 Country Meadow	60-658 Meadow Creek Rd	220	R							X						12/05/2007
+754293	  60	01311	     	60-1311	Country Meadow	060	Montgomery County	060	Montgomery County	1.15	60-1310 Country Meadow	Cul-de-Sac	190	R							X						01/09/2008
+754294	  60	01315	     	60-1315	Wisteria Dr	060	Montgomery County	060	Montgomery County	0.78	Cul-de-Sac	60-828	150	R							X						01/16/2008
+784278	  60	01316	     	60-1316	Oakwood Court	060	Montgomery County	060	Montgomery County	0.07	60-1317 Oakwood Court	60-1315 Wisteria Dr	30	R							X						01/16/2008
+784279	  60	01317	     	60-1317	Oakwood Court	060	Montgomery County	060	Montgomery County	0.21	60-1316 Oakwood Court	Dead End	30	R							X						01/16/2008
+788801	  60	01328	     	60-1328	Cassatt Lane	060	Montgomery County	060	Montgomery County	0.33	60-675	Cul-de-Sac	310	R							X						01/09/2008
+788802	  60	01329	     	60-1329	Degas Lane	060	Montgomery County	060	Montgomery County	0.18	60-675	Cul-de-Sac	170	R							X						01/09/2008
+754295	  60	01330	     	60-1330	Eaglebrook Lane	060	Montgomery County	060	Montgomery County	1.50	Cul-de-Sac	60-675	240	R							X						12/28/2007
+782550	  60	01331	     	60-1331	Red Hawk Run	060	Montgomery County	060	Montgomery County	0.99	60-675	Cul-de-Sac	210	R							X						12/28/2007
+782551	  60	01332	     	60-1332	Falcon Run	060	Montgomery County	060	Montgomery County	0.21	60-1331 Red Hawk Run	Cul-de-Sac	80	R							X						12/28/2007
+782552	  60	01333	     	60-1333	Wild Turkey Run	060	Montgomery County	060	Montgomery County	0.24	60-1331 Red Hawk Run	Dead End	190	R							X						12/28/2007
+754296	  60	01340	     	60-1340	Eagle Country Dr	060	Montgomery County	060	Montgomery County	0.23	60-669 Fairview Church Rd	Cul-de-Sac	150	R							X						12/28/2007
+782553	  60	01341	     	60-1341	 	060	Montgomery County	060	Montgomery County	0.14	Dead End	60-1340 Eagle Country Dr	150	R							X						12/28/2007
+794636	  60	01342	     	60-1342	 	060	Montgomery County	060	Montgomery County	0.42	60-669 Fairview Church Rd	SR 8 Riner Rd	0	?							X
+794637	  60	01343	     	60-1343	 	060	Montgomery County	060	Montgomery County	0.27	Cul-de-Sac	60-1342	0	?							X
+794638	  60	01344	     	60-1344	 	060	Montgomery County	060	Montgomery County	0.15	Cul-de-Sac	60-1343	0	?							X
+754297	  60	01410	     	60-1410	Boulder Lane	060	Montgomery County	060	Montgomery County	0.09	60-615 Old Pike Rd	60-1411 Sluice Lane	170	R							X						12/19/2007
+754298	  60	01410	     	60-1410	Boulder Lane	060	Montgomery County	060	Montgomery County	0.11	60-1411 Sluice Lane	Cul-de-Sac	50	R							X						12/19/2007
+754299	  60	01411	     	60-1411	Sluice Lane	060	Montgomery County	060	Montgomery County	0.15	Cul-de-Sac	60-1410 Boulder Lane	180	R							X						12/19/2007
+754300	  60	01415	     	60-1415	McDaniel Dr	060	Montgomery County	060	Montgomery County	0.19	60-640 Falling Branch Rd	NCL Christiansburg	470	R							X						01/08/2008
+787461	  60	01416	     	60-1416	Parkway Dr	060	Montgomery County	060	Montgomery County	0.65	Cul-de-Sac	60-1417 White Oak Lane	1200	G	100%	0%	0%	0%	0%	0%	C	0.1025	F	0.9120	1200	G	2008
+754301	  60	01416	     	60-1416	Parkway Dr	060	Montgomery County	060	Montgomery County	0.08	60-1417 White Oak Lane	60-640 Falling Branch Rd	1500	G	100%	0%	0%	0%	0%	0%	F	0.0940	F	0.5612	1500	G	2008
+754302	  60	01417	     	60-1417	White Oak Lane	060	Montgomery County	060	Montgomery County	0.25	60-1416 Parkway Dr	Cul-de-Sac	180	R							X						01/08/2008
+754303	  60	01418	     	60-1418	Hazelnut Rd	060	Montgomery County	060	Montgomery County	0.35	Dead End	60-640	230	R							X						01/08/2008
+754304	  60	01430	     	60-1430	Pollard Rd	060	Montgomery County	060	Montgomery County	0.27	60-644 Pollard Rd	Cul-de-Sac	100	R							X						01/08/2008
+754305	  60	01435	     	60-1435	Ridgeway	060	Montgomery County	060	Montgomery County	0.30	60-644	Dead End	270	R							X						01/08/2008
+794986	  60	01450	     	60-1450	 	060	Montgomery County	060	Montgomery County	0.26	Dead End	60-758 Houchins Rd	0	?							X
+794987	  60	01451	     	60-1451	 	060	Montgomery County	060	Montgomery County	0.17	60-1450	Cul-de-Sac	0	?							X
+794988	  60	01452	     	60-1452	 	060	Montgomery County	060	Montgomery County	0.11	Cul-de-Sac	60-1450	0	?							X
+794989	  60	01453	     	60-1453	 	060	Montgomery County	060	Montgomery County	0.08	Cul-de-Sac	60-1450	0	?							X
+790975	  60	09251	     	60-9251	Crozier	060	Montgomery County	060	Montgomery County	0.44	60-833 West Main Lot	Main Lot Side St	1100	R							X						12/12/2007
+794639	  60	09252	     	60-9252	 	060	Montgomery County	060	Montgomery County	0.70	CL Christiansburg	Parking Lot	0	?							X
+788803	  60	09260	     	60-9260	 	060	Montgomery County	060	Montgomery County	0.53	Cul-de-Sac	SR 8 Riner Rd	1300	R							X						12/28/2007
+754306	  60	09261	     	60-9261	Shawsville School	060	Montgomery County	060	Montgomery County	0.04	60-753 Old Town Rd	Shawsville School	240	R							X						12/28/2007
+754307	  60	09262	     	60-9262	Ironto Rd	060	Montgomery County	060	Montgomery County	0.20	Cul-de-Sac	60-647 Ironto Rd	70	R							X						12/12/2007
+754308	  60	09263	     	60-9263	 	060	Montgomery County	060	Montgomery County	0.40	Shawsville Elem Sch	US 11 Roanoke Rd	580	R							X						12/12/2007
+754309	  60	09264	     	60-9264	 	060	Montgomery County	060	Montgomery County	0.12	SR 8 Riner Rd	Auburn Rin HS	580	R							X						01/30/2008
+754310	  60	09264	     	60-9264	 	060	Montgomery County	060	Montgomery County	0.25	SR 8 Riner Rd	Auburn Rin HS	280	R							X						01/30/2008
+754311	  60	09265	     	60-9265	 	060	Montgomery County	060	Montgomery County	0.12	60-631	Elliston Sch	810	R							X						12/12/2007
+788804	  60	09267	     	60-9267	Schoolhouse Rd	060	Montgomery County	060	Montgomery County	0.47	Cul-de-Sac	60-669 Fairview Church Rd	230	R							X						12/28/2007
+754312	  60	09547	     	60-9547	Prices Fork	060	Montgomery County	060	Montgomery County	0.08	60-685 Prices Fork Rd	Prices Fork Elem Sch	350	R							X						01/08/2008
+754313	  60	09548	     	60-9548	belview Elementary	060	Montgomery County	060	Montgomery County	0.11	SR 114 Peppers Ferry Blvd	Belview Elem Sch	170	R							X						01/16/2008
+754314	  60	09658	     	60-9658	 	060	Montgomery County	060	Montgomery County	0.07	Bethel School	SR 177; 60-664	220	R							X						1991
+754315	  60	09815	     	60-9815	North Fork Rd	060	Montgomery County	060	Montgomery County	0.20	US 11 Roanoke Rd	0.20 MN US 11	460	R							X						12/12/2007
+754316	  60	09815	     	60-9815	North Fork Rd	060	Montgomery County	060	Montgomery County	0.04	0.20 MN US 11	Lafa Ellis Elem Sch	110	R							X						12/12/2007
+765626	  80	00637	     	80-637	Bottom Creek Lane	060	Montgomery County	080	Roanoke County	0.10	60-637; 80-669	Roanoke County Line	50	R							X						11/08/2006
+765683	  80	00669	     	80-669	Patterson Dr	060	Montgomery County	080	Roanoke County	0.50	60-637	Roanoke County Line	40	R							X						11/08/2006
+796393	 126	00001	     	126-1	Quarry Rd	126	City of Radford	126	City of Radford	0.15	SCL Radford	SR 232 1st St	0	?							X
+663125	 126	04650	     	126-4650	Forest Ave	126	City of Radford	126	City of Radford	1.23	First St	Rock Rd	720	G	98%	0%	1%	0%	0%	0%	C	0.0994	F	0.5256	780	G	2008
+663126	 126	04651	     	126-4651	Seventh St	126	City of Radford	126	City of Radford	0.47	Forest Ave	Pendleton St	260	G	98%	2%	1%	0%	0%	0%	C	0.1079	F	0.5333	280	G	2008
+663138	 126	04652	     	126-4652	Rock Rd	126	City of Radford	126	City of Radford	0.85	SR 232 First St	Forest Ave	1900	G	98%	0%	0%	0%	1%	0%	F	0.0982	F	0.5502	2000	G	2008
+663121	 126	04652	     	126-4652	Rock Rd	126	City of Radford	126	City of Radford	0.53	Forest Ave	Wadsworth St	2700	G	98%	0%	0%	0%	1%	0%	F	0.0986	F	0.6343	3000	G	2008
+663122	 126	04652	     	126-4652	Rock Rd	126	City of Radford	126	City of Radford	1.74	Wadsworth St	SR 177 Tyler Ave	6100	G	98%	0%	0%	0%	1%	0%	C	0.1120	F	0.5683	6600	G	2008
+663123	 126	04652	     	126-4652	Rock Rd	126	City of Radford	126	City of Radford	0.33	SR 177 Tyler Ave	Gypsy Camp Rd	2200	G	98%	0%	0%	0%	1%	0%	F	0.1077	F	0.5070	2300	G	2008
+663128	 126	04653	     	126-4653	Pendleton St	126	City of Radford	126	City of Radford	0.53	First St	Eighth St	780	G	98%	1%	0%	0%	0%	0%	C	0.1067	F	0.5795	850	G	2008
+663102	 126	04653	     	126-4653	Eighth St	126	City of Radford	126	City of Radford	0.67	Pendleton St	Wadsworth St	1500	G	99%	1%	0%	0%	0%	0%	C	0.1060	F	0.5689	1600	G	2008
+663105	 126	04653	     	126-4653	Eighth St	126	City of Radford	126	City of Radford	0.39	Wadsworth St	Walker St	1000	G	99%	1%	0%	0%	0%	0%	F	0.1098	F	0.5310	1100	G	2008
+663110	 126	04653	     	126-4653	Walker St	126	City of Radford	126	City of Radford	0.53	Eighth St	First St	4300	G	99%	1%	0%	0%	0%	0%	F	0.1115	F	0.5224	4700	G	2008
+663130	 126	04654	     	126-4654	Noblin St	126	City of Radford	126	City of Radford	0.25	Second Ave	Hammett Ave	3100	G	99%	0%	0%	0%	0%	0%	C	0.1093	F	0.5079	3400	G	2008
+663131	 126	04654	     	126-4654	Hammett Ave	126	City of Radford	126	City of Radford	0.16	Noblin St	SR 177 Tyler St	3000	G	99%	0%	0%	0%	0%	0%	C	0.1034	F	0.5312	3200	G	2008
+663124	 126	04655	     	126-4655	Preston St	126	City of Radford	126	City of Radford	0.52	Eighth St	First St	1300	G	99%	1%	1%	0%	0%	0%	C	0.1068	F	0.5294	1400	G	2008
+663113	 126	04656	     	126-4656	Grove Ave	126	City of Radford	126	City of Radford	0.76	US 11 Norwood St	Tyler Ave	2400	G	99%	0%	0%	0%	0%	0%	C	0.1138	F	0.5436	2600	G	2008
+663104	 126	04657	     	126-4657	Wadsworth St	126	City of Radford	126	City of Radford	0.90	Rock Rd	Eighth St	4200	G	98%	0%	1%	0%	1%	0%	C	0.0967	F	0.5137	4500	G	2008
+663106	 126	04657	     	126-4657	Wadsworth St	126	City of Radford	126	City of Radford	0.53	Eighth St	First St	5300	G	98%	0%	1%	0%	1%	0%	F	0.1015	F	0.5199	5800	G	2008
+663129	 126	04659	     	126-4659	Park Rd	126	City of Radford	126	City of Radford	1.09	Rock Rd	Second Ave	1900	G	99%	0%	0%	0%	0%	0%	C	0.1172	F	0.6109	2000	G	2008
+663132	 126	04659	     	126-4659	Park Rd	126	City of Radford	126	City of Radford	0.31	Second Ave	Scott St	1900	N	99%	0%	0%	0%	0%	0%	N	0.1172	N	0.6109	2000	N	2008
+663127	 126	04659	     	126-4659	Seventh St	126	City of Radford	126	City of Radford	0.08	Scott St	Walker St	1200	G	99%	0%	0%	0%	0%	0%	F	0.2257	F	0.5301	1300	G	2008
+663116	 126	04661	     	126-4661	Second Ave	126	City of Radford	126	City of Radford	0.98	Sundell Park	Grove Ave	5000	G							X				5400	G	2008
+796394	 126	04663	     	126-4663	Auburn Ave	126	City of Radford	126	City of Radford	0.06	Rock Rd	SR 177 Tyler Ave	0	?							X
+607219	 150	00002	     	150-2	University City Blvd	150	Town of Blacksburg	150	Town of Blacksburg	1.11	Prices Fork Rd	Toms Creek Rd	11000	G	98%	2%	1%	0%	0%	0%	C	0.0924	F	0.5135	12000	G	2008
+790878	 150	00003	     	150-3	Givens Lane	150	Town of Blacksburg	150	Town of Blacksburg	1.57	150-3159 Chickahominy Dr	Bus US 460 North Main St	1800	G	99%	0%	1%	0%	0%	0%	C	0.0995	F	0.0000	1900	G	2008
+796449	 150	00004	     	150-4	Progress St	150	Town of Blacksburg	150	Town of Blacksburg	0.64	Bus US 460, N Main St	150-3165 Patrick Henry Dr	0	?							X
+790879	 150	00004	     	150-4	Progress St	150	Town of Blacksburg	150	Town of Blacksburg	0.32	150-3165 Patrick Henry Dr	Northside Dr over Givens Lane to be corrected	810	G	99%	0%	1%	0%	0%	0%	C	0.1254	F	0.0000	870	G	2008
+796479	 150	00004	     	150-4	Progress St	150	Town of Blacksburg	150	Town of Blacksburg	0.20	Northside Dr	Givens Lane	0	?							X
+796414	 150	00005	     	150-5	Clay St	150	Town of Blacksburg	150	Town of Blacksburg	0.92	Bus US 460	ECL Blacksburg; 60-694	0	?							X
+607220	 150	03150	     	150-3150	Airport Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.23	Southgate Dr	Country Club Dr	5300	G	99%	0%	0%	0%	0%	0%	F	0.1102	F	0.5833	5700	G	2008
+607216	 150	03150	     	150-3150	Country Club Dr	150	Town of Blacksburg	150	Town of Blacksburg	0.40	Airport Rd	Main St	3500	G	99%	0%	0%	0%	0%	0%	C	0.1149	F	0.5299	3800	G	2008
+607186	 150	03151	     	150-3151	Ellett Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.71	SCL Blacksburg	S Main St	5800	G	97%	1%	1%	0%	0%	0%	C	0.0860	F	0.5847	6300	G	2008
+607214	 150	03152	     	150-3152	Prices Fork Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.75	WCL Blacksburg	Hethwood Blvd	13000	G	98%	1%	1%	0%	0%	0%	C	0.1067	F	0.5940	14000	G	2008
+607213	 150	03152	     	150-3152	Prices Fork Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.36	Hethwood Blvd	Heather Dr	17000	G	98%	1%	1%	0%	0%	0%	F	0.1072	F	0.5959	18000	G	2008
+607212	 150	03152	     	150-3152	Prices Fork Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.58	Heather Dr	US 460	25000	G	98%	1%	1%	0%	0%	0%	F	0.0996	F	0.5778	27000	G	2008
+607215	 150	03153	     	150-3153	Airport Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.37	Southgate Dr	Main Street	2300	G	99%	0%	1%	0%	0%	0%	C	0.1170	F	0.6232	2500	G	2008
+607502	 150	03154	     	150-3154	Glade Rd	150	Town of Blacksburg	150	Town of Blacksburg	1.55	WCL Blacksburg	Boxwood Dr	1200	G	99%	0%	1%	0%	0%	0%	C	0.1063	F	0.6846	1300	G	2008
+607211	 150	03154	     	150-3154	Glade Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.46	Boxwood Dr	Oriole Dr	1600	G	99%	0%	1%	0%	0%	0%	C	0.0971	F	0.6446	1800	G	2008
+607210	 150	03154	     	150-3154	Glade Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.33	Oriole Dr	University City Blvd	4800	G	99%	0%	1%	0%	0%	0%	F	0.1021	F	0.6841	5200	G	2008
+607190	 150	03156	     	150-3156	Roanoke St	150	Town of Blacksburg	150	Town of Blacksburg	0.49	Main St	Owen St	6000	G							X				6600	G	2008
+607500	 150	03156	     	150-3156	Owen St	150	Town of Blacksburg	150	Town of Blacksburg	0.11	Roanoke St	Harding Ave	4800	G	97%	0%	2%	0%	0%	0%	C	0.0915	F	0.5906	5200	G	2008
+607217	 150	03156	     	150-3156	Harding Ave	150	Town of Blacksburg	150	Town of Blacksburg	0.11	Owen St	Cork Dr	5400	G	97%	1%	2%	0%	0%	0%	C	0.0918	F	0.6189	5900	G	2008
+607501	 150	03156	     	150-3156	Harding Ave	150	Town of Blacksburg	150	Town of Blacksburg	0.66	Cork Dr	ECL Blacksburg	4500	G	97%	1%	2%	0%	0%	0%	F	0.0894	F	0.6190	4800	G	2008
+607203	 150	03159	     	150-3159	Tom's Creek Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.96	Prices Fork Rd	US 460 Bypass	11000	G	98%	1%	0%	0%	0%	0%	C	0.0957	F	0.5226	12000	G	2008
+607221	 150	03159	     	150-3159	 	150	Town of Blacksburg	150	Town of Blacksburg	0.12	US 460 Bypass	RAMP TO FROM US 460 TOM CREEK ROAD	0	?							X
+607209	 150	03164	     	150-3164	Mt Tabor Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.92	US 460	NCL Blacksburg	3300	G	98%	0%	1%	0%	0%	0%	C	0.0972	F	0.6439	3600	G	2008
+787606	 150	03165	     	150-3165	Patrick Henry Dr	150	Town of Blacksburg	150	Town of Blacksburg	0.79	Roanoke St	C8US 460	6000	G	98%	1%	1%	0%	0%	0%	C	0.0914	F	0.5579	6500	G	2008
+787607	 150	03165	     	150-3165	Patrick Henry Dr	150	Town of Blacksburg	150	Town of Blacksburg	0.83	C8US 460	Toms Creek Rd	11000	G	99%	0%	1%	0%	0%	0%	C	0.0814	F	0.5003	12000	G	2008
+781843	 154	00001	     	154-1	Falling Branch Rd	154	Town of Christiansburg	154	Town of Christiansburg	0.46	60-640 JB-154 SCL Christiansburg	US 11 Roanoke St	40	G	99%	0%	0%	0%	0%	0%	F				40	G	2008
+781844	 154	03500	     	154-3500	 	154	Town of Christiansburg	154	Town of Christiansburg	0.14	60-666 JB-154 WCL Christiansburg	SR 8 W Main Street	2700	G	99%	0%	0%	0%	0%	0%	F	0.1122	F	0.6042	2900	G	2008
+618400	 154	03501	     	154-3501	S Franklin St	154	Town of Christiansburg	154	Town of Christiansburg	1.21	ECL Christiansburg	Alleghany St	5700	G	98%	1%	1%	0%	0%	0%	C	0.1027	F	0.7024	6100	G	2008
+618195	 154	03501	     	154-3501	S Franklin St	154	Town of Christiansburg	154	Town of Christiansburg	0.57	Allleghany St	US 460 Main St	5900	G	98%	1%	1%	0%	0%	0%	F	0.0902	F	0.6149	6400	G	2008
+618206	 154	03502	     	154-3502	Phlegar St	154	Town of Christiansburg	154	Town of Christiansburg	0.08	US 11 Main St	First St	4300	G	99%	0%	1%	0%	0%	0%	F	0.0969	F	0.6298	4600	G	2008
+618196	 154	03502	     	154-3502	First St	154	Town of Christiansburg	154	Town of Christiansburg	0.40	Phlegar St	US 460 Roanoke St	5000	G	99%	0%	1%	0%	0%	0%	C	0.0961	F	0.5693	5400	G	2008
+783040	 154	03503	     	154-3503	Depot St	154	Town of Christiansburg	154	Town of Christiansburg	0.12	SR 8 App. Loc.	College St	8900	G	98%	1%	1%	0%	0%	0%	F	0.0912	F	0.6010	9600	G	2008
+781845	 154	03503	     	154-3503	Depot St	154	Town of Christiansburg	154	Town of Christiansburg	0.14	College St	US 11 Radford St	12000	G	97%	1%	1%	1%	0%	0%	F	0.0946	F	0.6391	13000	G	2008
+787608	 154	03503	     	154-3503	Depot St	154	Town of Christiansburg	154	Town of Christiansburg	0.41	US 11 Radford St	C7US 460	14000	G	97%	1%	1%	1%	0%	0%	C	0.0911	F	0.5425	15000	G	2008
+787609	 154	03503	     	154-3503	Depot St	154	Town of Christiansburg	154	Town of Christiansburg	0.91	C7US 460	SR 111 Depot St; Cambria St	2800	G	97%	1%	1%	1%	0%	0%	F	0.1040	F	0.5857	3100	G	2008
+618205	 154	03504	     	154-3504	Park St	154	Town of Christiansburg	154	Town of Christiansburg	0.87	E Main St	SR 111 Depot St	1900	G	99%	0%	0%	0%	0%	0%	C	0.1036	F	0.5090	2100	G	2008
+618188	 154	03505	     	154-3505	E Main St	154	Town of Christiansburg	154	Town of Christiansburg	0.17	Roanoke St	Park St	2000	G	99%	0%	0%	0%	0%	0%	F	0.1008	F	0.5310	2200	G	2008
+618190	 154	03505	     	154-3505	Main St	154	Town of Christiansburg	154	Town of Christiansburg	0.60	Park St	SR 111 Roanoke St	0	?							X
+618207	 154	03506	     	154-3506	Ellett Rd	154	Town of Christiansburg	154	Town of Christiansburg	0.39	SR 111 Cambria St	NCL Christiansburg	2500	G	98%	0%	1%	1%	0%	0%	C	0.1000	F	0.5709	2700	G	2008
+563001	 126	00000	     	126-0	Jefferson St	126	City of Radford	126	City of Radford	0.00	Norwood St	Tyler Ave	8500	G							X				9300	G	2008
+563006	 126	00000	     	126-0	Ninth St	126	City of Radford	126	City of Radford	0.00	Robertson St	Wadsworth St	130	G							X	0.1495	F	0.5714	140	G	2008
+563002	 126	00000	     	126-0	Scott St	126	City of Radford	126	City of Radford	0.00	Seventh St	Park Rd	3600	G							X				3900	G	2008
+563003	 126	00000	     	126-0	Sundell Dr	126	City of Radford	126	City of Radford	0.00	Wadsworth St	Park Rd	2100	G							X	0.1430	F	0.5653	2300	G	2008
+563004	 126	00000	     	126-0	Third Ave	126	City of Radford	126	City of Radford	0.00	Grove Ave	Norwood St	1300	G							X	0.1071	F	0.5212	1400	G	2008
+507009	 150	00000	     	150-0	Apperson Dr	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Mason Drive	Harding Avenue	190	G							X	0.1199	F	0.0000	190	G	2008
+607218	 150	00000	     	150-0	Country Club Dr	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Dead End	Airport Rd	650	G							X	0.1510	F	0.5099	650	G	2008
+507002	 150	00000	     	150-0	Draper Rd	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Country Club Dr	Airport Rd	430	G							X	0.1852	F	1.0000	460	G	2008
+781840	 150	00000	     	150-0	E Clay St	150	Town of Blacksburg	150	Town of Blacksburg	0.00	C8US 460	Dead End	3200	G	98%	1%	1%	0%	0%	0%	F	0.0838	F	0.5885	3500	G	2008
+507011	 150	00000	     	150-0	Edgewood Lane	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Preston Ave	S Draper Rd	290	G							X				290	G	2008
+507005	 150	00000	     	150-0	Hillcrest Dr	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Country Club Dr	Sunrise Dr	90	G							X	0.1683	F	0.0000	100	G	2008
+507007	 150	00000	     	150-0	Jackson St	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Church St	Penn St	4300	G							X				4700	G	2008
+507010	 150	00000	     	150-0	Lucas Dr	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Giles Road	Turner Street	300	G							X	0.1197	F	0.0000	300	G	2008
+507006	 150	00000	     	150-0	McBride Dr	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Kelsey Dr	Burrus Dr	660	G							X	0.1213	F	0.0000	710	G	2008
+507008	 150	00000	     	150-0	Progress St	150	Town of Blacksburg	150	Town of Blacksburg	0.00	Broce Dr	Watson Ave	3700	G							X	0.0888	F	0.5421	4100	G	2008
+518005	 154	00000	     	154-0	Alleghany St	154	Town of Christiansburg	154	Town of Christiansburg	0.00	Canaan Rd	Miller St	2200	G							X	0.1109	F	0.0000	2400	G	2008
+518002	 154	00000	     	154-0	Church St	154	Town of Christiansburg	154	Town of Christiansburg	0.00	Plum St	King St	470	G							X	0.1097	F	0.0000	510	G	2008
+518007	 154	00000	     	154-0	Clearview Dr	154	Town of Christiansburg	154	Town of Christiansburg	0.00	Ragan Drive	Wimmer Street	2300	G							X	0.1073	F	0.0000	2300	G	2008
+518004	 154	00000	     	154-0	Electric Way	154	Town of Christiansburg	154	Town of Christiansburg	0.00	Fisher St	Simmons Rd	430	G							X	0.1871	F	0.0000	470	G	2008
+518006	 154	00000	     	154-0	North Dr	154	Town of Christiansburg	154	Town of Christiansburg	0.00	Depot Street	E. Main Street	260	G							X	0.1183	F	0.0000	260	G	2008
+518008	 154	00000	     	154-0	Republic Rd	154	Town of Christiansburg	154	Town of Christiansburg	0.00	Lester Street	Park Street	650	G							X	0.1093	F	0.0000	650	G	2008
+518003	 154	00000	     	154-0	Ridge Rd	154	Town of Christiansburg	154	Town of Christiansburg	0.00	Overhill Rd	Dogwood Terrace	80	G							X	0.1215	F	0.0000	90	G	2008
+518009	 154	00000	     	154-0	Summitridge Rd	154	Town of Christiansburg	154	Town of Christiansburg	0.00	Briarwood Drive	S. Franklin Street	660	G							X	0.0951	F	0.0000	660	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,73 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Shenandoah																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080457	  US	00340	     	US 340	 	299	Town of Shenandoah	069	Page County	1.22	SCL Shenandoah	69-706 Junior Ave	6700	N	96%	1%	1%	1%	1%	0%	N	0.0891	N	0.5503	6900	N	2008
+080401	  US	00340	     	US 340	Fifth St	299	Town of Shenandoah	069	Page County	0.65	69-706 Junior Ave	NCL Shenandoah	7000	G	94%	1%	2%	1%	2%	0%	F	0.0885	F	0.5885	7200	G	2008
+401820	  69	00602	     	69-602	Maryland Ave	299	Town of Shenandoah	069	Page County	0.37	Rockingham County Line	US 340	4900	G	98%	0%	1%	1%	0%	0%	C	0.0904	F	0.6264	5000	G	2008
+401821	  69	00602	     	69-602	Maryland Ave	299	Town of Shenandoah	069	Page County	0.42	US 340	ECL Shenandoah	3000	G	98%	0%	1%	1%	0%	0%	F	0.0952	F	0.6580	3100	G	2008
+401858	  69	00683	     	69-683	1st St	299	Town of Shenandoah	069	Page County	0.38	69-602 Maryland Ave	69-1013 Second St	1100	G	98%	0%	1%	0%	0%	0%	C	0.0846	F	0.6154	1100	G	2008
+758075	  69	00683	     	69-683	 	299	Town of Shenandoah	069	Page County	0.35	69-1013 Second St	69-706; 69-780	370	R							X						05/19/2003
+758076	  69	00683	     	69-683	 	299	Town of Shenandoah	069	Page County	0.73	69-706; 69-780	NCL Shenandoah	270	R							X						09/05/2006
+758115	  69	00702	     	69-702	Eighth St	299	Town of Shenandoah	069	Page County	0.27	SCL Shenandoah	69-602 Maryland Ave	170	R							X						04/27/2000
+758116	  69	00702	     	69-702	Eighth St	299	Town of Shenandoah	069	Page County	0.15	69-602 Maryland Ave	69-1006	250	R							X						04/27/2000
+758118	  69	00704	     	69-704	Quincy Ave	299	Town of Shenandoah	069	Page County	0.28	Dead End	US 340	280	R							X						05/12/2003
+758119	  69	00704	     	69-704	Quincy Ave	299	Town of Shenandoah	069	Page County	0.12	US 340	ECL Shenandoah	700	R							X						05/12/2003
+401864	  69	00706	     	69-706	Junior Ave	299	Town of Shenandoah	069	Page County	0.25	69-683	US 340 Fifth Street	230	G	98%	1%	0%	0%	0%	0%	C	0.1176	F	0.5000	240	G	2008
+758122	  69	00708	     	69-708	Shenandoah Ave	299	Town of Shenandoah	069	Page County	0.21	1st Street	US 340	300	R							X						05/12/2003
+401865	  69	00708	     	69-708	Shenandoah Ave	299	Town of Shenandoah	069	Page County	0.36	US 340	69-719; ECL Shenandoah	520	G	99%	0%	0%	0%	0%	0%	C	0.1128	F	0.5902	540	G	2008
+758127	  69	00712	     	69-712	Senior Avenue	299	Town of Shenandoah	069	Page County	0.31	N 1st Street	US 340 Fifth Street	300	R							X						05/12/2003
+758138	  69	00719	     	69-719	Ninth St	299	Town of Shenandoah	069	Page County	0.10	69-708; ECL Shenandoah	69-602 Maryland Ave	240	R							X						04/27/2000
+758139	  69	00719	     	69-719	Ninth St	299	Town of Shenandoah	069	Page County	0.10	69-602 Maryland Ave	69-1016	160	R							X						04/27/2000
+758140	  69	00720	     	69-720	Seventh St	299	Town of Shenandoah	069	Page County	0.34	Dead End	69-602 Maryland Ave	290	R							X						04/27/2000
+758141	  69	00720	     	69-720	Seventh St	299	Town of Shenandoah	069	Page County	0.18	69-602 Maryland Ave	69-1006	240	R							X						04/27/2000
+302719	  69	00721	     	69-721	Osceola Ave	299	Town of Shenandoah	069	Page County	0.09	69-720 Seventh St	ECL Shenandoah	170	R							X						04/27/2000
+758147	  69	00725	     	69-725	N First St	299	Town of Shenandoah	069	Page County	0.18	69-1020	69-712	130	R							X						04/27/2000
+758148	  69	00725	     	69-725	N First St	299	Town of Shenandoah	069	Page County	0.10	69-712	69-729 Williams Ave	110	R							X						05/12/2003
+758151	  69	00728	     	69-728	North Fourth St	299	Town of Shenandoah	069	Page County	0.12	69-1020	69-706 Junior Ave	47	R							X						05/12/2003
+758152	  69	00728	     	69-728	North Fourth St	299	Town of Shenandoah	069	Page County	0.20	69-706 Junior Ave	69-729 Williams Ave	60	R							X						05/12/2003
+758153	  69	00729	     	69-729	Williams Ave	299	Town of Shenandoah	069	Page County	0.23	69-780	US 340 Fifth Street	150	R							X						05/12/2003
+758154	  69	00729	     	69-729	Williams Ave	299	Town of Shenandoah	069	Page County	0.12	US 340 Fifth Street	Dead End	530	R							X						05/12/2003
+758192	  69	00780	     	69-780	N First St	299	Town of Shenandoah	069	Page County	0.19	69-683; 69-706	69-729 Williams Ave	90	R							X						04/27/2000
+758200	  69	01004	     	69-1004	Virginia Ave	299	Town of Shenandoah	069	Page County	0.21	69-683 1st Street	US 340	1200	R							X						05/12/2003
+758201	  69	01004	     	69-1004	Virginia Ave	299	Town of Shenandoah	069	Page County	0.15	US 340	69-1008 Sixth St	650	R							X						05/12/2003
+758202	  69	01005	     	69-1005	A St	299	Town of Shenandoah	069	Page County	0.09	69-706 Junior Ave	69-712 Senior Ave	60	R							X						05/12/2003
+758203	  69	01006	     	69-1006	Denver Avenue	299	Town of Shenandoah	069	Page County	0.08	69-1015 Third St	US 340; Gap	270	R							X						05/12/2003
+758204	  69	01006	     	69-1006	Denver Avenue	299	Town of Shenandoah	069	Page County	0.42	69-1009; Gap	69-692; 69-745	540	R							X						05/19/2003
+758205	  69	01007	     	69-1007	Pulaski Ave	299	Town of Shenandoah	069	Page County	0.26	Dead End	US 340	280	R							X						05/12/2003
+758206	  69	01007	     	69-1007	Pulaski Ave	299	Town of Shenandoah	069	Page County	0.06	US 340	Dead End	200	R							X						05/12/2003
+758207	  69	01008	     	69-1008	Sixth St	299	Town of Shenandoah	069	Page County	0.20	Shenvadale Ave	69-602 Maryland Ave	120	R							X						04/27/2000
+758208	  69	01008	     	69-1008	Sixth St	299	Town of Shenandoah	069	Page County	0.20	69-602 Maryland Ave	69-1004 Virginia Ave	150	R							X						04/27/2000
+784338	  69	01009	     	69-1009	Fifth St	299	Town of Shenandoah	069	Page County	0.42	Dead End	69-1004 Virginia Ave	120	R							X						05/12/2003
+758209	  69	01009	     	69-1009	Fifth St	299	Town of Shenandoah	069	Page County	0.04	69-1004 Virginia Ave	69-1006	100	R							X						05/12/2003
+758210	  69	01010	     	69-1010	Marcus St	299	Town of Shenandoah	069	Page County	0.07	US 340; NCL Shenandoah	69-1011 Gregory St	160	R							X						1997
+758211	  69	01010	     	69-1010	Marcus St	299	Town of Shenandoah	069	Page County	0.02	69-1011 Gregory St	Dead End	60	R							X						1997
+758212	  69	01011	     	69-1011	Gregory St	299	Town of Shenandoah	069	Page County	0.14	69-1012 Edge Wood Dr	69-1010 Marcus St	100	R							X						1997
+758213	  69	01012	     	69-1012	Edge Wood Dr	299	Town of Shenandoah	069	Page County	0.10	US 340 Fifth Street	69-1011 Gregory St	180	R							X						1997
+758214	  69	01012	     	69-1012	Edge Wood Dr	299	Town of Shenandoah	069	Page County	0.23	69-1011 Gregory St	Dead End	100	R							X						1997
+758215	  69	01013	     	69-1013	Second St	299	Town of Shenandoah	069	Page County	0.08	69-708 Shenandoah Ave	69-602 Maryland Ave	80	R							X						05/12/2003
+758216	  69	01013	     	69-1013	Second St	299	Town of Shenandoah	069	Page County	0.34	69-602 Maryland Ave	69-683 1st Street	380	R							X						05/12/2003
+758219	  69	01015	     	69-1015	Third St	299	Town of Shenandoah	069	Page County	0.07	69-708 Shenandoah Ave	69-602 Maryland Ave	130	R							X						05/12/2003
+758220	  69	01015	     	69-1015	Third St	299	Town of Shenandoah	069	Page County	0.34	69-602 Maryland Ave	69-1006	340	R							X						05/12/2003
+758221	  69	01015	     	69-1015	Third St	299	Town of Shenandoah	069	Page County	0.10	69-1006	69-683	240	R							X						05/12/2003
+758222	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-683 1st Street	69-1013 Second St	440	R							X						04/27/2000
+758223	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.08	69-1013 Second St	69-1015 Third St	500	R							X						05/12/2003
+758224	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-1015 Third St	US 340	670	R							X						05/12/2003
+758225	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	US 340	69-1009	450	R							X						04/27/2000
+758226	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-1009	69-1008 Sixth St	310	R							X						04/27/2000
+758227	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.08	69-1008 Sixth St	69-720; 7th St	280	R							X						04/27/2000
+758228	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-720; 7th St	69-702 Eighth St	200	R							X						04/27/2000
+758229	  69	01016	     	69-1016	Pennsylvania Avenue	299	Town of Shenandoah	069	Page County	0.07	69-702 Eighth St	69-719 Ninth St	110	R							X						04/27/2000
+758230	  69	01017	     	69-1017	Long Avenue	299	Town of Shenandoah	069	Page County	0.43	Dead End	69-00602(B)/	390	R							X						09/05/2006
+787939	  69	01019	     	69-1019	Warren Avenue	299	Town of Shenandoah	069	Page County	0.14	Dead End	69-1023	0	?							X
+758231	  69	01020	     	69-1020	Central Avenue	299	Town of Shenandoah	069	Page County	0.20	69-683	US 340	260	R							X						09/05/2006
+787940	  69	01022	     	69-1022	 	299	Town of Shenandoah	069	Page County	0.13	Dead End	69-1023	70	R							X						09/05/2006
+784339	  69	01023	     	69-1023	S Second St	299	Town of Shenandoah	069	Page County	0.21	Page County Line; 69-693	Liberty Ave	110	R							X						05/12/2003
+788220	  69	01023	     	69-1023	S Second St	299	Town of Shenandoah	069	Page County	0.12	Liberty Ave	69-1022; 69-1023	160	R							X						09/05/2006
+790979	  69	01024	     	69-1024	 	299	Town of Shenandoah	069	Page County	0.06	Dead End	69-683	50	R							X						09/05/2006
+790980	  69	01026	     	69-1026	 	299	Town of Shenandoah	069	Page County	0.19	Dead End	US 340	320	R							X						09/05/2006
+784340	  69	01027	     	69-1027	Grandios Avenue	299	Town of Shenandoah	069	Page County	0.04	69-692; 69-745; 69-1006	ECL Shenandoah	150	R							X						05/12/2003
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

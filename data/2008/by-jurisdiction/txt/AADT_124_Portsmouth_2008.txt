@@ -1,0 +1,281 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Portsmouth																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+660607	  US	00017	     	US 17	George Washington Hwy	124	City of Portsmouth	124	City of Portsmouth	0.15	NCL Chesapeake	SR 239 Victory Blvd	28000	G	96%	0%	1%	1%	1%	0%	F	0.0936	F	0.5992	28000	G	2008
+660606	  US	00017	     	US 17	George Washington Hwy	124	City of Portsmouth	124	City of Portsmouth	0.42	SR 239 Victory Blvd	Davis St	22000	G	96%	0%	1%	1%	1%	0%	F	0.0892	F	0.6054	22000	G	2008
+660438	  US	00017	     	US 17	George Washington Hwy	124	City of Portsmouth	124	City of Portsmouth	0.52	Davis St	124-8540 Greenwood Dr	25000	G	96%	0%	1%	1%	1%	0%	F	0.0867	F	0.5985	25000	G	2008
+660439	  US	00017	     	US 17	George Washington Hwy	124	City of Portsmouth	124	City of Portsmouth	0.31	124-8540 Greenwood Dr	SR 141, Frederick Blvd	27000	G	96%	0%	1%	1%	1%	0%	F	0.0853	F	0.6344	27000	G	2008
+660433	  US	00017	     	US 17	Frederick Blvd	124	City of Portsmouth	124	City of Portsmouth	0.70	SR 141 George Washington Hwy	SR 337 Portsmouth Blvd	14000	G	96%	0%	1%	1%	1%	0%	F	0.0934	F	0.6196	14000	G	2008
+660604	  US	00017	     	US 17	Frederick Blvd	124	City of Portsmouth	124	City of Portsmouth	0.09	SR 337 Portsmouth Blvd	124-8547 Deep Creek Blvd	15000	G	96%	0%	1%	1%	1%	0%	F	0.1034	F	0.6825	15000	G	2008
+660434	  US	00017	     	US 17	Frederick Blvd	124	City of Portsmouth	124	City of Portsmouth	0.53	124-8547 Deep Creek Blvd	I-264	21000	G	96%	0%	1%	1%	1%	0%	F	0.0972	F	0.6589	21000	G	2008
+660435	  US	00017	     	US 17	Frederick Blvd	124	City of Portsmouth	124	City of Portsmouth	0.35	I-264	ALT SR 337 Turnpike Rd	35000	G	99%	0%	1%	0%	0%	0%	F	0.0778	F	0.5156	37000	G	2008
+660436	  US	00017	     	US 17	Frederick Blvd	124	City of Portsmouth	124	City of Portsmouth	0.51	ALT SR 337 Turnpike Rd	US 58 Airline Blvd	25000	G	99%	0%	1%	0%	0%	0%	F	0.0785	F	0.5027	25000	G	2008
+660449	  US	00017	     	US 17	Frederick Blvd	124	City of Portsmouth	124	City of Portsmouth	0.16	US 58 Airline Blvd	124-8758 High St	15000	G	99%	0%	1%	0%	0%	0%	F	0.0808	F	0.5856	16000	G	2008
+660601	  US	00017	     	US 17	High St	124	City of Portsmouth	124	City of Portsmouth	0.29	124-8758, Frederick Blvd	Rodman Ave	23000	G	99%	0%	1%	0%	0%	0%	F	0.0798	F	0.6375	24000	G	2008
+660455	  US	00017	     	US 17	High St	124	City of Portsmouth	124	City of Portsmouth	2.13	Rodman Ave	124-8525 Cedar Lane	28000	G	99%	0%	1%	0%	0%	0%	F	0.0848	F	0.6005	29000	G	2008
+660454	  US	00017	     	US 17	High St	124	City of Portsmouth	124	City of Portsmouth	0.93	124-8525 Cedar Lane	124-8528 Churchland Blvd	23000	G	99%	0%	1%	0%	0%	0%	F	0.0851	F	0.5508	24000	G	2008
+660602	  US	00017	     	US 17	High St	124	City of Portsmouth	124	City of Portsmouth	0.21	124-8528 Churchland Blvd	124-8532 Tyre Neck Rd	18000	G	99%	0%	1%	0%	0%	0%	F	0.0840	F	0.5621	19000	G	2008
+660453	  US	00017	     	US 17	Western Branch Blvd	124	City of Portsmouth	124	City of Portsmouth	0.22	124-8532 Tyre Neck Rd	ECL Chesapeake	21000	G	99%	0%	1%	0%	0%	0%	F	0.0826	F	0.5123	22000	G	2008
+660621	  US	00058	     	US 58, Alt US 460	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	0.29	ECL Chesapeake	Greenwood Dr	14000	G	95%	2%	1%	0%	1%	0%	F	0.0845	F	0.5909	15000	G	2008
+660620	  US	00058	     	US 58, Alt US 460	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	0.20	Greenwood Dr	Elmhurst Lane	16000	G	95%	2%	1%	0%	1%	0%	F	0.0818	F	0.5013	17000	G	2008
+660400	  US	00058	     	US 58, Alt US 460	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	1.30	Elmhurst Lane	SR 239 Victory Blvd	12000	G	95%	2%	1%	0%	1%	0%	F	0.0816	F	0.5236	13000	G	2008
+660401	  US	00058	     	US 58, Alt US 460	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	0.28	SR 239 Victory Blvd	SR 337 Portsmouth Blvd	14000	G	95%	2%	1%	0%	1%	0%	F	0.0793	F	0.5365	15000	G	2008
+660402	  US	00058	     	US 58	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	1.40	SR 337 Portsmouth Blvd	US 17 Frederick Blvd	16000	G	95%	2%	1%	0%	1%	0%	F	0.0790	F	0.5693	17000	G	2008
+660403	  US	00058	     	US 58	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	0.19	US 17 Frederick Blvd	High St	20000	G	95%	2%	1%	0%	1%	0%	F	0.0806	F	0.6281	22000	G	2008
+660459	  US	00058	     	US 58	London Blvd	124	City of Portsmouth	124	City of Portsmouth	0.72	High St	SR 141; London Blvd	21000	G	95%	2%	1%	0%	1%	0%	F	0.0790	F	0.6443	23000	G	2008
+660448	  US	00058	     	US 58	Martin Luther King Freeway	124	City of Portsmouth	064	Norfolk Maintenance Area	0.77	SR 141; London Blvd	SR 164 Western Frwy	27000	G	95%	2%	1%	0%	1%	0%	F				30000	G	2008
+660712	  US	00058	     	US 58	Martin Luther King Freeway	124	City of Portsmouth	064	Norfolk Maintenance Area	0.16	SR 164 Western Frwy	Elizabeth River Midtown Tunnel	35000	G							X	1.2055	B	0.5064	36000	G	2008
+660713	  US	00058	     	US 58	Elizabeth River Midtown Tunnel	124	City of Portsmouth	064	Norfolk Maintenance Area	1.00	Martin Luther King Freeway	ECL Portsmouth	35000	G							X	1.2055	B	0.5064	36000	G	2008
+660440	  SR	00141	     	VA 141	George Washington Hwy	124	City of Portsmouth	124	City of Portsmouth	0.36	US 17 Frederick Blvd	SR 337 Elm Ave	22000	G	98%	0%	1%	0%	0%	0%	F	0.0954	F	0.6996	23000	G	2008
+150174	  SR	00141	     	VA 141	George Washington Hwy	124	City of Portsmouth	124	City of Portsmouth	0.48	SR 337 Elm Ave	Portsmouth Blvd	19000	G	98%	0%	1%	0%	0%	0%	F	0.0961	F	0.7023	20000	G	2008
+660424	  SR	00141	     	VA 141	Effingham St	124	City of Portsmouth	124	City of Portsmouth	0.76	Portsmouth Blvd	I-264	29000	G	98%	0%	1%	0%	0%	0%	F	0.0906	F	0.6800	31000	G	2008
+660610	  SR	00141	     	VA 141	Effingham St	124	City of Portsmouth	124	City of Portsmouth	0.18	I-264	South St	38000	G	98%	0%	1%	0%	0%	0%	F	0.0716	F	0.6133	39000	G	2008
+660425	  SR	00141	     	VA 141	Effingham St	124	City of Portsmouth	124	City of Portsmouth	0.25	South St	High St	30000	G	98%	1%	0%	0%	1%	0%	F	0.0745	F	0.5927	32000	G	2008
+660609	  SR	00141	     	VA 141	Effingham St	124	City of Portsmouth	124	City of Portsmouth	0.06	High St	London Blvd	26000	G	98%	1%	0%	0%	1%	0%	F	0.0740	F	0.5571	28000	G	2008
+660441	  SR	00141	     	VA 141	London Blvd	124	City of Portsmouth	124	City of Portsmouth	0.33	Effingham St	Elm Ave	25000	G	98%	1%	0%	0%	1%	0%	F	0.0836	F	0.7448	27000	G	2008
+660461	  SR	00141	     	VA 141	London Blvd	124	City of Portsmouth	124	City of Portsmouth	0.83	Elm Ave	M L King Freeway	30000	G	98%	1%	0%	0%	1%	0%	C	0.0903	F	0.7464	32000	G	2008
+050617	  SR	00164	     	VA 164	Western Freeway	124	City of Portsmouth	064	Norfolk Maintenance Area	0.88	ECL Suffolk	Towne Point Rd	43000	A	96%	0%	0%	1%	3%	0%	C	0.1030	A	0.0000	48000	A	2008
+150139	  SR	00164	     	VA 164	Western Freeway	124	City of Portsmouth	064	Norfolk Maintenance Area	1.35	Towne Point Rd	Cedar Lane	49000	G	95%	0%	1%	1%	3%	0%	C	0.0861	F	0.6274	52000	G	2008
+150109	  SR	00164	     	VA 164	Western Freeway	124	City of Portsmouth	064	Norfolk Maintenance Area	1.73	Cedar Lane	West Norfolk Rd	45000	G	95%	1%	1%	1%	3%	0%	C	0.0810	F	0.6556	50000	G	2008
+150140	  SR	00164	     	VA 164	Western Freeway	124	City of Portsmouth	064	Norfolk Maintenance Area	1.81	West Norfolk Rd	US 58, SR 337 Martin Luther King Fwy	37000	G	96%	0%	0%	1%	3%	0%	F	0.0914	F	0.6410	48000	G	2008
+660622	  SR	00239	     	VA 239	Victory Blvd	124	City of Portsmouth	124	City of Portsmouth	0.22	SR 337 Portsmouth Blvd	US 58 Airline Blvd	7600	G	96%	1%	2%	1%	1%	0%	F	0.0860	F	0.5691	8100	G	2008
+660478	  SR	00239	     	VA 239	Victory Blvd	124	City of Portsmouth	124	City of Portsmouth	0.33	US 58 Airline Blvd	I-264	25000	G	96%	1%	2%	1%	1%	0%	F	0.0767	F	0.5498	27000	G	2008
+660479	  SR	00239	     	VA 239	Victory Blvd	124	City of Portsmouth	124	City of Portsmouth	0.59	I-264	Greenwood Dr	21000	G	96%	1%	2%	1%	1%	0%	C	0.0804	F	0.5126	22000	G	2008
+660480	  SR	00239	     	VA 239	Victory Blvd	124	City of Portsmouth	124	City of Portsmouth	1.08	Greenwood Dr	Deep Creek Blvd	16000	G	96%	1%	2%	1%	1%	0%	F	0.0816	F	0.5495	17000	G	2008
+660481	  SR	00239	     	VA 239	Victory Blvd	124	City of Portsmouth	124	City of Portsmouth	0.44	Deep Creek Blvd	US 17 George Washington Hwy	19000	G	95%	1%	1%	2%	1%	0%	F	0.0841	F	0.6034	20000	G	2008
+660482	  SR	00239	     	VA 239	Victory Blvd	124	City of Portsmouth	124	City of Portsmouth	0.42	US 17 George Washington Hwy	Frailey Pl	12000	G	95%	1%	1%	2%	1%	0%	C	0.1157	F	0.8288	13000	G	2008
+660496	  SR	00239	     	VA 239	Victory Blvd	124	City of Portsmouth	124	City of Portsmouth	0.83	Frailey Pl	Afton Pkwy	6000	G	95%	1%	1%	2%	1%	0%	F	0.1493	F	0.8868	6500	G	2008
+660483	  SR	00239	     	VA 239	Victory Blvd	124	City of Portsmouth	124	City of Portsmouth	0.55	Afton Pkwy	SR 337 Elm Ave	6800	G	95%	1%	1%	2%	1%	0%	F	0.1493	F	0.9045	7300	G	2008
+050145	  IS	00264	E    	I-264 EB	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.23	WCL Portsmouth	Greenwood Drive	25000	G	95%	0%	1%	1%	3%	0%	F	0.1049	F	1.0000	27000	G	2008		50000	G	95%	0%	1%	1%	3%	0%	F				54000	G
+050133	  IS	00264	E    	I-264 EB	 	124	City of Portsmouth	064	Norfolk Maintenance Area	1.29	Greenwood Drive	SR 239 Victory Blvd	21000	G	95%	0%	1%	1%	3%	0%	F	0.1114	F	1.0000	22000	G	2008		46000	G	95%	0%	1%	1%	3%	0%	F	0.0801	F	0.7205	50000	G
+150010	  IS	00264	E    	I-264 EB	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.94	SR 239 Victory Blvd	SR 337 Portsmouth Blvd	30000	A	95%	0%	1%	1%	3%	0%	C	0.1167	A	1.0000	32000	A	2008		59000	A	95%	0%	1%	1%	3%	0%	C	0.0889	A	0.0000	63000	A
+050131	  IS	00264	E    	I-264 EB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.72	SR 337 Portsmouth Blvd	US 17 Frederick Blvd	31000	G	95%	0%	1%	1%	3%	0%	F				33000	G	2008		63000	G	95%	0%	1%	1%	3%	0%	F				64000	G
+050608	  IS	00264	E    	I-264 EB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.99	US 17 Frederick Blvd	Deep Creek Blvd	38000	G	95%	0%	1%	1%	3%	0%	F				43000	G	2008		76000	G	95%	0%	1%	1%	3%	0%	F				78000	G
+050611	  IS	00264	E    	I-264 EB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.67	Deep Creek Blvd	SR 141 Effingham St	35000	G	95%	0%	1%	1%	3%	0%	F				43000	G	2008		70000	G	95%	0%	1%	1%	3%	0%	F				77000	G
+150322	  IS	00264	E    	I-264 EB, Alt US 460	Elizabeth River Downtown Tunnel	124	City of Portsmouth	064	Norfolk Maintenance Area	0.87	SR 141 Effingham St	WCL Norfolk	44000	A	95%	0%	1%	1%	3%	0%	F	0.0793	A	1.0000	47000	A	2008		92000	A	95%	0%	1%	1%	3%	0%	F	0.0753	A	0.0000	99000	A
+150312	  IS	00264	W    	I-264 WB	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.61	WCL Portsmouth	Greenwood Drive	25000	G	96%	0%	0%	1%	2%	0%	F	0.1053	F	1.0000	27000	G	2008		50000	G	95%	0%	1%	1%	3%	0%	F				54000	G
+150078	  IS	00264	W    	I-264 WB	 	124	City of Portsmouth	064	Norfolk Maintenance Area	1.34	Greenwood Drive	SR 239 Victory Blvd	26000	G	96%	0%	0%	1%	2%	0%	F	0.1054	F	1.0000	27000	G	2008		46000	G	95%	0%	1%	1%	3%	0%	F	0.0801	F	0.7205	50000	G
+150079	  IS	00264	W    	I-264 WB	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.75	SR 239 Victory Blvd	SR 337 Portsmouth Blvd	29000	A	96%	0%	0%	1%	2%	0%	C	0.1156	A	1.0000	31000	A	2008		59000	A	95%	0%	1%	1%	3%	0%	C	0.0889	A	0.0000	63000	A
+150080	  IS	00264	W    	I-264 WB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.84	SR 337 Portsmouth Blvd	US 17 Frederick Blvd	32000	G	96%	0%	0%	1%	2%	0%	F	0.1007	F	1.0000	31000	G	2008		63000	G	95%	0%	1%	1%	3%	0%	F				64000	G
+150081	  IS	00264	W    	I-264 WB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.55	US 17 Frederick Blvd	Deep Creek Blvd	38000	G	96%	0%	0%	1%	2%	0%	F	0.0991	F	1.0000	35000	G	2008		76000	G	95%	0%	1%	1%	3%	0%	F				78000	G
+150082	  IS	00264	W    	I-264 WB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	1.17	Deep Creek Blvd	SR 141 Effingham St	35000	G	96%	0%	0%	1%	2%	0%	F	0.0997	F	1.0000	34000	G	2008		70000	G	95%	0%	1%	1%	3%	0%	F				77000	G
+150083	  IS	00264	W    	I-264 WB, Alt US 460	Elizabeth River Downtown Tunnel	124	City of Portsmouth	064	Norfolk Maintenance Area	0.45	SR 141 Effingham St	WCL Norfolk	48000	A	96%	0%	0%	1%	2%	0%	F	0.0747	A	1.0000	51000	A	2008		92000	A	95%	0%	1%	1%	3%	0%	F	0.0753	A	0.0000	99000	A
+660464	  SR	00337	     	VA 337	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.34	ECL Chesapeake	Hodges Ferry Rd	32000	G	98%	1%	1%	0%	0%	0%	F	0.0875	F	0.5668	35000	G	2008
+660617	  SR	00337	     	VA 337	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.60	Hodges Ferry Rd	Elmhurst Lane	27000	G	98%	1%	1%	0%	0%	0%	F	0.0906	F	0.5779	29000	G	2008
+660465	  SR	00337	     	VA 337	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	1.17	Elmhurst Lane	SR 239 Victory Blvd	24000	G	98%	1%	1%	0%	0%	0%	C	0.0877	F	0.6091	26000	G	2008
+660616	  SR	00337	     	VA 337	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.23	SR 239 Victory Blvd	US 58, ALT US 460 Airline Blvd	18000	G	98%	1%	1%	0%	0%	0%	F	0.0867	F	0.6229	19000	G	2008
+660615	  SR	00337	     	VA 337, Alt US 460	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.10	US 58, ALT US 460 Airline Blvd	ALT SR 337 Turnpike Rd	17000	G	98%	1%	1%	0%	0%	0%	F	0.0782	F	0.5089	18000	G	2008
+660466	  SR	00337	     	VA 337, Alt US 460	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.15	ALT SR 337 Turnpike Rd	I-264 Ramp	15000	G	98%	1%	1%	0%	0%	0%	F	0.0819	F	0.6538	16000	G	2008
+660614	  SR	00337	     	VA 337, Alt US 460	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.22	I-264 Ramp	End ALT US 460 Overlap	15000	N	98%	1%	1%	0%	0%	0%	N	0.0819	N	0.6538	16000	N	2008
+660633	  SR	00337	     	VA 337	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.08	End ALT US 460 Overlap	I-264 Ramp	15000	N	98%	1%	1%	0%	0%	0%	N	0.0819	N	0.6538	16000	N	2008
+660467	  SR	00337	     	VA 337	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.98	I-264 Ramp	Deep Creek Blvd	12000	G	96%	1%	1%	0%	1%	0%	F	0.0896	F	0.5740	13000	G	2008
+660613	  SR	00337	     	VA 337	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.17	Deep Creek Blvd	ALT US 17 Frederick Blvd	7400	G	96%	1%	1%	0%	1%	0%	F	0.0933	F	0.6164	7900	G	2008
+660468	  SR	00337	     	VA 337	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.79	ALT US 17 Frederick Blvd	US 17 Elm Ave	10000	G	96%	1%	1%	0%	1%	0%	C	0.1164	F	0.7737	11000	G	2008
+660428	  SR	00337	     	VA 337	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.32	US 17 Portsmouth Blvd	US 17 George Washington Hwy; SR 141	7500	G	96%	1%	1%	0%	1%	0%	F	0.1030	F	0.5835	8000	G	2008
+660427	  SR	00337	     	VA 337	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.72	US 17 George Washington Hwy;  SR 141	SR 239 Victory Blvd	9300	G	96%	1%	1%	0%	1%	0%	F	0.1050	F	0.7104	10000	G	2008
+660611	  SR	00337	     	VA 337	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.23	SR 239 Victory Blvd	Burtons Point Rd	10000	G	96%	1%	1%	0%	1%	0%	F	0.1064	F	0.6237	11000	G	2008
+660612	  SR	00337	     	VA 337	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.32	Burtons Point Rd	WCL Chesapeake	7300	G	96%	1%	1%	0%	1%	0%	F	0.1229	F	0.5847	7800	G	2008
+660474	A1SR	00337	     	Alt VA 337	Turnpike Rd	124	City of Portsmouth	124	City of Portsmouth	1.05	SR 337 Portsmouth Blvd	US 17 Frederick Blvd	5800	G	83%	2%	2%	3%	11%	0%	F	0.0880	F	0.5591	6200	G	2008
+660618	A1SR	00337	     	Alt VA 337	Turnpike Rd	124	City of Portsmouth	124	City of Portsmouth	0.30	US 17 Frederick Blvd	Howard St	12000	G	83%	2%	2%	3%	11%	0%	F	0.0758	F	0.6186	13000	G	2008
+660475	A1SR	00337	     	Alt VA 337	Turnpike Rd	124	City of Portsmouth	124	City of Portsmouth	0.54	Howard St	Harbor Dr	9500	G	83%	2%	2%	3%	11%	0%	C	0.0785	F	0.5484	10000	G	2008
+660447	A1SR	00337	     	Alt VA 337	Harbor Dr	124	City of Portsmouth	124	City of Portsmouth	0.05	Cassell Ave	County St	4400	G	83%	2%	2%	3%	11%	0%	F	0.1009	F	0.5387	4700	G	2008
+150242	A1SR	00337	     	Alt VA 337	Harbor Dr	124	City of Portsmouth	124	City of Portsmouth	0.11	County St	High St	6100	G	83%	2%	2%	3%	11%	0%	F	0.0973	F	0.5022	6600	G	2008
+150246	A1SR	00337	     	Alt VA 337	Harbor Dr	124	City of Portsmouth	124	City of Portsmouth	0.24	High St	US 58	13000	G	83%	2%	2%	3%	11%	0%	F	0.0922	F	0.5705	14000	G	2008
+660621	A1US	00460	     	US 58, Alt US 460	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	0.29	ECL Chesapeake	Greenwood Dr	14000	G	95%	2%	1%	0%	1%	0%	F	0.0845	F	0.5909	15000	G	2008	
+660620	A1US	00460	     	US 58, Alt US 460	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	0.20	Greenwood Dr	Elmhurst Lane	16000	G	95%	2%	1%	0%	1%	0%	F	0.0818	F	0.5013	17000	G	2008	
+660400	A1US	00460	     	US 58, Alt US 460	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	1.30	Elmhurst Lane	VICTORY BLVD	12000	G	95%	2%	1%	0%	1%	0%	F	0.0816	F	0.5236	13000	G	2008	
+660401	A1US	00460	     	US 58, Alt US 460	Airline Blvd	124	City of Portsmouth	124	City of Portsmouth	0.28	Victory Blvd	US 58, SR 337	14000	G	95%	2%	1%	0%	1%	0%	F	0.0793	F	0.5365	15000	G	2008	
+660615	A1US	00460	     	VA 337, Alt US 460	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.10	US 58, SR 337	ALT SR 337 Turnpike Rd	17000	G	98%	1%	1%	0%	0%	0%	F	0.0782	F	0.5089	18000	G	2008	
+660466	A1US	00460	     	VA 337, Alt US 460	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.15	ALT SR 337 Turnpike Rd	I-264	15000	G	98%	1%	1%	0%	0%	0%	F	0.0819	F	0.6538	16000	G	2008	
+660614	A1US	00460	     	VA 337, Alt US 460	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.22	I-264	RT 337 & I-264	15000	N	98%	1%	1%	0%	0%	0%	N	0.0819	N	0.6538	16000	N	2008	
+050131	A1US	00460	     	I-264 EB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.72	RT 337 & I-264	US 17 Frederick Blvd	31000	G	95%	0%	1%	1%	3%	0%	F				33000	G	2008		63000	G	95%	0%	1%	1%	3%	0%	F				64000	G
+050608	A1US	00460	     	I-264 EB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.99	US 17 Frederick Blvd	Deep Creek Blvd	38000	G	95%	0%	1%	1%	3%	0%	F				43000	G	2008		76000	G	95%	0%	1%	1%	3%	0%	F				78000	G
+050611	A1US	00460	     	I-264 EB, Alt US 460	 	124	City of Portsmouth	064	Norfolk Maintenance Area	0.67	Deep Creek Blvd	SR 141 Effingham St	35000	G	95%	0%	1%	1%	3%	0%	F				43000	G	2008		70000	G	95%	0%	1%	1%	3%	0%	F				77000	G
+150322	A1US	00460	     	I-264 EB, Alt US 460	Elizabeth River Downtown Tunnel	124	City of Portsmouth	064	Norfolk Maintenance Area	0.87	SR 141 Effingham St	WCL Norfolk	44000	A	95%	0%	1%	1%	3%	0%	F	0.0793	A	1.0000	47000	A	2008		92000	A	95%	0%	1%	1%	3%	0%	F	0.0753	A	0.0000	99000	A
+780397	  FR	00154	     	FR 154	Liberty St	124	City of Portsmouth	064	Norfolk Maintenance Area	0.40	Dead End	Tazewell Street	20	G							X	0.2195	F	0.5556	20	G	2008
+660680	 124	00001	     	124-1	Bayview Blvd	124	City of Portsmouth	124	City of Portsmouth	0.21	Mt Vernon Ave	Chautauqua Ave	420	G	97%	1%	2%	0%	0%	0%	C	0.0959	F	0.5250	450	G	2008
+781725	 124	08516	     	124-8516	Cedar Lane	124	City of Portsmouth	124	City of Portsmouth	0.42	124-8525 River Shore Rd	Dead End	1000	G							X	0.2078	F	0.5562	1100	G	2008
+660494	 124	08520	     	124-8520	Towne Point Rd	124	City of Portsmouth	124	City of Portsmouth	0.71	ECL Suffolk	Twin Pines Rd	9500	G	98%	1%	1%	0%	0%	0%	F	0.0915	F	0.5477	10000	G	2008
+660473	 124	08520	     	124-8520	Towne Point Rd	124	City of Portsmouth	124	City of Portsmouth	0.13	Twin Pines Rd	SR 164 Western Fwy	28000	G	98%	1%	1%	0%	0%	0%	C	0.0873	F	0.5858	30000	G	2008
+660493	 124	08520	     	124-8520	Towne Point Rd	124	City of Portsmouth	124	City of Portsmouth	0.31	SR 164 Western Fwy	NCL Chesapeake	26000	G	98%	1%	1%	0%	0%	0%	F	0.0890	F	0.5041	28000	G	2008
+660469	 124	08522	     	124-8522	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.34	Elm Ave	Effingham St	6200	G	99%	0%	1%	0%	0%	0%	F	0.1319	F	0.8154	6600	G	2008
+660701	 124	08522	     	124-8522	Portsmouth Blvd	124	City of Portsmouth	124	City of Portsmouth	0.55	Effingham St	Portcenter Pkwy	5400	G	99%	0%	1%	0%	0%	0%	C	0.1202	F	0.7753	5900	G	2008
+660495	 124	08523	     	124-8523	Twin Pines Rd	124	City of Portsmouth	124	City of Portsmouth	0.90	Town Point Rd	Swannanoa Dr	11000	G	98%	1%	0%	0%	0%	0%	C	0.0929	F	0.5822	12000	G	2008
+660632	 124	08523	     	124-8523	Twin Pines Rd	124	City of Portsmouth	124	City of Portsmouth	0.63	Swannanoa Dr	Hedgerow Cir	4300	G	98%	1%	0%	0%	0%	0%	F	0.0963	F	0.5164	4600	G	2008
+560017	 124	08523	     	124-8523	Hedgerow Ln	124	City of Portsmouth	124	City of Portsmouth	0.28	Twin Pines Rd	River Shore Rd	2100	G	98%	1%	0%	0%	0%	0%	F	0.1313	F	0.5929	2200	G	2008
+660674	 124	08524	     	124-8524	Churchland Blvd	124	City of Portsmouth	124	City of Portsmouth	0.09	ECL Chesapeake	West Norfolk Rd	15000	G	99%	1%	0%	0%	0%	0%	F	0.0964	F	0.5505	16000	G	2008
+660687	 124	08524	     	124-8524	W Norfolk Rd	124	City of Portsmouth	124	City of Portsmouth	0.11	Churchland Blvd	Tyre Neck Rd	3700	G	99%	1%	0%	0%	0%	0%	F	0.1057	F	0.5434	4000	G	2008
+660486	 124	08524	     	124-8524	W Norfolk Rd	124	City of Portsmouth	124	City of Portsmouth	1.05	Tyre Neck Rd	Cedar Lane	6500	G	99%	1%	0%	0%	0%	0%	C	0.1132	F	0.5612	7000	G	2008
+660485	 124	08524	     	124-8524	W Norfolk Rd	124	City of Portsmouth	124	City of Portsmouth	1.47	Cedar Lane	SR 164 Western Fwy	5500	G	99%	1%	0%	0%	0%	0%	F	0.0966	F	0.6512	5900	G	2008
+660688	 124	08524	     	124-8524	W Norfolk Rd	124	City of Portsmouth	124	City of Portsmouth	0.46	SR 164 Western Fwy	Broadway St	320	G	99%	1%	0%	0%	0%	0%	F	0.1265	F	0.7805	340	G	2008
+660661	 124	08525	     	124-8525	Sterling Point Rd	124	City of Portsmouth	124	City of Portsmouth	0.38	Feudist Drive	High St	1900	G	97%	1%	1%	0%	0%	0%	F	0.1013	F	0.5097	2100	G	2008
+660407	 124	08525	     	124-8525	Cedar Lane	124	City of Portsmouth	124	City of Portsmouth	1.18	High St	West Norfolk Rd	12000	G	97%	1%	1%	0%	0%	0%	C	0.0961	F	0.5281	13000	G	2008
+660686	 124	08525	     	124-8525	Cedar Ln	124	City of Portsmouth	124	City of Portsmouth	0.35	W Norfolk Rd	SR 164 Western Freeway	19000	G	97%	1%	1%	0%	0%	0%	F	0.1010	F	0.5427	20000	G	2008
+660408	 124	08525	     	124-8525	Cedar Ln	124	City of Portsmouth	124	City of Portsmouth	0.35	SR 164 Western Freeway	River Shore Rd	11000	G	97%	1%	1%	0%	0%	0%	F	0.1226	F	0.5009	12000	G	2008
+660685	 124	08525	     	124-8525	River Shore Rd	124	City of Portsmouth	124	City of Portsmouth	0.11	Cedar Lane	Oakhurst Rd	8900	G	97%	1%	1%	0%	0%	0%	F	0.1002	F	0.5622	9500	G	2008
+660662	 124	08525	     	124-8525	River Shore Rd	124	City of Portsmouth	124	City of Portsmouth	0.85	Oakhurst Rd	Hedgerow Lane	3800	G	97%	1%	1%	0%	0%	0%	F	0.0914	F	0.5506	4100	G	2008
+660682	 124	08526	     	124-8526	Chautauqua Ave	124	City of Portsmouth	124	City of Portsmouth	0.58	Cul-d-Sac	Cleveland St	1700	G	88%	2%	9%	0%	0%	0%	F	0.0923	F	0.5217	1800	G	2008
+660409	 124	08526	     	124-8526	Chautauqua Ave	124	City of Portsmouth	124	City of Portsmouth	0.12	Cleveland St	Detroit St	2100	G	88%	2%	9%	0%	0%	0%	C	0.0824	F	0.5031	2200	G	2008
+660681	 124	08526	     	124-8526	Chautauqua Ave	124	City of Portsmouth	124	City of Portsmouth	0.14	Detroit St	Wesley St	1300	G	88%	2%	9%	0%	0%	0%	F	0.0812	F	0.5025	1400	G	2008
+560020	 124	08526	     	124-8526	Chaltauqua Ave	124	City of Portsmouth	124	City of Portsmouth	0.26	Wesley St	Bayview Blvd	1400	G	88%	2%	9%	0%	0%	0%	F	0.1201	F	0.6528	1500	G	2008
+660637	 124	08528	     	124-8528	Churchland Blvd	124	City of Portsmouth	124	City of Portsmouth	0.13	West Norfolk Rd	Tyre Neck Rd	10000	G	99%	0%	1%	0%	0%	0%	F	0.0979	F	0.5435	11000	G	2008
+660410	 124	08528	     	124-8528	Churchland Blvd	124	City of Portsmouth	124	City of Portsmouth	0.27	Tyre Neck Rd	High St US 17	11000	G	99%	0%	1%	0%	0%	0%	C	0.1032	F	0.5078	12000	G	2008
+660643	 124	08532	     	124-8532	Tyre Neck Rd	124	City of Portsmouth	124	City of Portsmouth	0.24	NCL Chesapeake	High St	12000	G	99%	0%	1%	0%	0%	0%	F	0.0964	F	0.6194	13000	G	2008
+660477	 124	08532	     	124-8532	Tyre Neck Rd	124	City of Portsmouth	124	City of Portsmouth	0.18	High St	Churchland Blvd	6300	G	99%	0%	1%	0%	0%	0%	C	0.0939	F	0.5465	6700	G	2008
+660642	 124	08532	     	124-8532	Tyre Neck Rd	124	City of Portsmouth	124	City of Portsmouth	0.09	Churchland Blvd	W Norfolk Rd	4200	G	99%	0%	1%	0%	0%	0%	F	0.0995	F	0.5325	4500	G	2008
+660635	 124	08534	     	124-8534	Hatton Pt Rd	124	City of Portsmouth	124	City of Portsmouth	0.56	Cedar Lane	Goff St	3200	G	99%	0%	1%	0%	0%	0%	F	0.0927	F	0.6108	3500	G	2008
+660665	 124	08536	     	124-8536	Western Branch Blvd	124	City of Portsmouth	124	City of Portsmouth	0.58	High St	High St	6200	G	97%	2%	1%	0%	0%	0%	F	0.0979	F	0.5024	6700	G	2008
+660664	 124	08536	     	124-8536	Hartford St	124	City of Portsmouth	124	City of Portsmouth	1.00	High St	Mt Vernon Ave	4400	G	97%	2%	1%	0%	0%	0%	C	0.1108	F	0.5285	4700	G	2008
+660677	 124	08537	     	124-8537	Elmhurst Ln	124	City of Portsmouth	124	City of Portsmouth	1.41	Victory Blvd	Garwood Ave	3700	G	97%	2%	1%	0%	0%	0%	F	0.0927	F	0.6080	4000	G	2008
+660678	 124	08537	     	124-8537	Elmhurst Ln	124	City of Portsmouth	124	City of Portsmouth	0.18	Garwood Ave	Airline Blvd	4600	G	97%	2%	1%	0%	0%	0%	F	0.0970	F	0.5710	5000	G	2008
+660457	 124	08537	     	124-8537	Elmhurst Ln	124	City of Portsmouth	124	City of Portsmouth	0.71	Airline Blvd	Cherokee Rd	7400	G	97%	2%	1%	0%	0%	0%	C	0.0948	F	0.6174	8000	G	2008
+660679	 124	08537	     	124-8537	Elmhurst Ln	124	City of Portsmouth	124	City of Portsmouth	0.31	Cherokee Rd	Portsmouth Blvd	7700	G	97%	2%	1%	0%	0%	0%	F	0.0989	F	0.5874	8300	G	2008
+660710	 124	08537	     	124-8537	Elmhurst Ln	124	City of Portsmouth	124	City of Portsmouth	0.89	Portsmouth Blvd	Shore Dr	5800	G	97%	2%	1%	0%	0%	0%	F	0.0948	F	0.5027	6200	G	2008
+660638	 124	08538	     	124-8538	Cherokee Rd	124	City of Portsmouth	124	City of Portsmouth	0.67	Hodges Ferry Rd	City Park Ave	4200	G	97%	2%	1%	0%	0%	0%	F	0.0950	F	0.5777	4500	G	2008
+660415	 124	08539	     	124-8539	County St	124	City of Portsmouth	124	City of Portsmouth	0.40	Constitution Ave	Peninsula Ave	5000	G	91%	1%	1%	2%	4%	0%	F	0.0857	F	0.6117	5300	G	2008
+660648	 124	08539	     	124-8539	County St	124	City of Portsmouth	124	City of Portsmouth	0.31	Peninsula Ave	Elm Ave	4600	G	91%	1%	1%	2%	4%	0%	C	0.0919	F	0.6533	4900	G	2008
+660416	 124	08539	     	124-8539	County St	124	City of Portsmouth	124	City of Portsmouth	0.33	Elm Ave	Effingham St	4100	G	98%	0%	1%	0%	0%	0%	F	0.0903	F	0.6032	4400	G	2008
+660417	 124	08539	     	124-8539	County St	124	City of Portsmouth	124	City of Portsmouth	0.34	Effingham St	Court St	3500	G	98%	0%	1%	0%	0%	0%	C	0.0965	F	0.8006	3800	G	2008
+660649	 124	08539	     	124-8539	County St	124	City of Portsmouth	124	City of Portsmouth	0.16	Court St	Crawford St	3000	G	98%	0%	1%	0%	0%	0%	F	0.1070	F	0.8204	3300	G	2008
+660655	 124	08540	     	124-8540	Hodges Ferry Rd	124	City of Portsmouth	124	City of Portsmouth	0.28	Portsmouth Blvd SR 337	Logan St	8300	G	99%	0%	1%	0%	0%	0%	F	0.0837	F	0.5180	8900	G	2008
+660654	 124	08540	     	124-8540	Hodges Ferry Rd	124	City of Portsmouth	124	City of Portsmouth	0.26	Logan St	Cherokee Rd	7200	G	99%	0%	1%	0%	0%	0%	F	0.0840	F	0.5312	7700	G	2008
+660456	 124	08540	     	124-8540	Hodges Ferry Rd	124	City of Portsmouth	124	City of Portsmouth	0.76	Cherokee Rd	Airline Blvd	7500	G	99%	0%	1%	0%	0%	0%	C	0.0812	F	0.5263	8100	G	2008
+660442	 124	08540	     	124-8540	Greenwood Dr	124	City of Portsmouth	124	City of Portsmouth	0.57	Airline Blvd	I-264	18000	G	99%	0%	1%	0%	0%	0%	F	0.0801	F	0.5190	20000	G	2008
+660443	 124	08540	     	124-8540	Greenwood Dr	124	City of Portsmouth	124	City of Portsmouth	0.80	I-264	Cavalier Blvd	17000	G	95%	1%	1%	4%	0%	0%	F	0.0920	F	0.5330	18000	G	2008
+660652	 124	08540	     	124-8540	Greenwood Dr	124	City of Portsmouth	124	City of Portsmouth	0.63	Cavalier Blvd	Victory Blvd	9600	G	95%	1%	1%	4%	0%	0%	F	0.0883	F	0.5538	10000	G	2008
+660444	 124	08540	     	124-8540	Greenwood Dr	124	City of Portsmouth	124	City of Portsmouth	1.05	Victory Blvd	Independence St	5600	G	95%	1%	1%	4%	0%	0%	C	0.1006	F	0.5534	6000	G	2008
+660653	 124	08540	     	124-8540	Greenwood Dr	124	City of Portsmouth	124	City of Portsmouth	0.36	Independence St	Deep Creek Blvd	4700	G	95%	1%	1%	4%	0%	0%	F	0.1003	F	0.5230	5100	G	2008
+660445	 124	08540	     	124-8540	Greenwood Dr	124	City of Portsmouth	124	City of Portsmouth	0.50	Deep Creek Blvd	George Washington Hwy	3700	G	95%	1%	1%	4%	0%	0%	F	0.1007	F	0.5862	4000	G	2008
+660641	 124	08542	     	124-8542	Snead Fairway	124	City of Portsmouth	124	City of Portsmouth	0.30	Chandler Harper Dr	Hodges Ferry Rd	760	G	98%	1%	1%	0%	0%	0%	C	0.0952	F	0.6351	820	G	2008
+660656	 124	08543	     	124-8543	City Park Ave	124	City of Portsmouth	124	City of Portsmouth	0.79	US 58 Airline Blvd	SR 337 Portsmouth Blvd	2200	G	99%	1%	0%	0%	0%	0%	F	0.1065	F	0.5901	2400	G	2008
+660657	 124	08543	     	124-8543	City Park Ave	124	City of Portsmouth	124	City of Portsmouth	0.58	SR 337 Portsmouth Blvd	Clifford St	4600	G	99%	1%	0%	0%	0%	0%	F	0.1013	F	0.5793	4900	G	2008
+660658	 124	08543	     	124-8543	Clifford St	124	City of Portsmouth	124	City of Portsmouth	0.53	City Park Ave	Powhatan Ave	8100	G	99%	1%	0%	0%	0%	0%	C	0.1018	F	0.5930	8700	G	2008
+660659	 124	08543	     	124-8543	Powhatan Ave	124	City of Portsmouth	124	City of Portsmouth	0.26	Clifford St	King St	6400	G	99%	1%	0%	0%	0%	0%	F	0.1039	F	0.6045	6800	G	2008
+660660	 124	08543	     	124-8543	King St	124	City of Portsmouth	124	City of Portsmouth	0.79	Powhatan Ave	Rodman Ave	7100	G	99%	1%	0%	0%	0%	0%	F	0.1010	F	0.6409	7600	G	2008
+660699	 124	08544	     	124-8544	Rodman Ave	124	City of Portsmouth	124	City of Portsmouth	0.58	SR 337 Portsmouth Blvd	Caroline Ave	8000	G	98%	1%	1%	0%	0%	0%	F	0.0908	F	0.5187	8600	G	2008
+660650	 124	08544	     	124-8544	Caroline Ave	124	City of Portsmouth	124	City of Portsmouth	0.19	Rodman Ave	US 58 Airline Blvd	400	G	98%	1%	1%	0%	0%	0%	F	0.1227	F	0.5644	430	G	2008
+660651	 124	08544	     	124-8544	Caroline Ave	124	City of Portsmouth	124	City of Portsmouth	1.05	US 58 Airline Blvd	Shenandoah St	2400	G	98%	1%	1%	0%	0%	0%	C	0.1027	F	0.7008	2600	G	2008
+660698	 124	08545	     	124-8545	Rodman Ave	124	City of Portsmouth	124	City of Portsmouth	0.61	US 58 Airline Blvd	High St	8100	G							X	0.0909	F	0.5113	8700	G	2008
+660636	 124	08546	     	124-8546	Elliott Ave	124	City of Portsmouth	124	City of Portsmouth	1.60	McLean St	Frederick Blvd US 17	3300	G							X	0.1030	F	0.6372	3500	G	2008
+660623	 124	08547	     	124-8547	Deep Creek Blvd	124	City of Portsmouth	124	City of Portsmouth	0.28	N CL Chesapeake	Victory Blvd	6300	G	97%	2%	1%	0%	0%	0%	F	0.0986	F	0.5987	6800	G	2008
+660421	 124	08547	     	124-8547	Deep Creek Blvd	124	City of Portsmouth	124	City of Portsmouth	0.84	Victory Blvd	Greenwood Dr	7300	G	97%	2%	1%	0%	0%	0%	F	0.0932	F	0.5410	7900	G	2008
+660624	 124	08547	     	124-8547	Deep Creek Blvd	124	City of Portsmouth	124	City of Portsmouth	0.27	Greenwood Dr	Wright Ave	9400	G	97%	2%	1%	0%	0%	0%	F	0.0872	F	0.5437	10000	G	2008
+660422	 124	08547	     	124-8547	Deep Creek Blvd	124	City of Portsmouth	124	City of Portsmouth	0.46	Wright Ave	Portsmouth Blvd	9400	G	97%	2%	1%	0%	0%	0%	C	0.0887	F	0.5600	10000	G	2008
+660625	 124	08547	     	124-8547	Deep Creek Blvd	124	City of Portsmouth	124	City of Portsmouth	0.16	Portsmouth Blvd	Frederick Blvd	10000	G	97%	2%	1%	0%	0%	0%	F	0.0780	F	0.5567	11000	G	2008
+660423	 124	08547	     	124-8547	Deep Creek Blvd	124	City of Portsmouth	124	City of Portsmouth	0.78	Frederick Blvd	Des Moines Ave	6600	G	97%	2%	1%	0%	0%	0%	F	0.0829	F	0.5939	7100	G	2008
+660684	 124	08548	     	124-8548	Wesley St	124	City of Portsmouth	124	City of Portsmouth	0.21	Mt Vernon Ave	Chautauqua Ave	550	G							X	0.1129	F	0.5440	590	G	2008
+660484	 124	08548	     	124-8548	Wesley St	124	City of Portsmouth	124	City of Portsmouth	0.22	Chautauqua Ave	Lee Ave	940	G	97%	2%	1%	0%	0%	0%	F	0.1287	F	0.6392	1000	G	2008
+660697	 124	08549	     	124-8549	Mt Vernon Ave	124	City of Portsmouth	124	City of Portsmouth	0.14	High St	London Blvd	3400	G	98%	1%	1%	0%	0%	0%	F	0.0847	F	0.5179	3600	G	2008
+660489	 124	08549	     	124-8549	Mt Vernon Ave	124	City of Portsmouth	124	City of Portsmouth	1.21	London Blvd	Bay View Blvd	3300	G	98%	1%	1%	0%	0%	0%	C	0.0828	F	0.5511	3500	G	2008
+660683	 124	08550	     	124-8550	Cleveland St	124	City of Portsmouth	124	City of Portsmouth	0.21	Mt Vernon Ave	Chautauqua Ave	2400	G	98%	1%	1%	0%	0%	0%	F	0.0842	F	0.6035	2500	G	2008
+660413	 124	08550	     	124-8550	Cleveland St	124	City of Portsmouth	124	City of Portsmouth	0.18	Chautauqua Ave	ML King Frwy	5400	G	98%	1%	1%	0%	0%	0%	C	0.0821	F	0.5484	5800	G	2008
+660462	 124	08552	     	124-8552	London St	124	City of Portsmouth	124	City of Portsmouth	0.49	Effingham St	Crawford St	8500	G	98%	1%	1%	0%	0%	0%	F	0.0956	F	0.5855	9100	G	2008
+660704	 124	08553	     	124-8553	Peninsula Ave	124	City of Portsmouth	124	City of Portsmouth	0.10	County St	High St	3100	N	98%	1%	1%	0%	0%	0%	N	0.0936	N	0.6107	3300	N	2008
+660703	 124	08553	     	124-8553	Peninsula Ave	124	City of Portsmouth	124	City of Portsmouth	0.16	High St	SR 141 London Blvd	3100	N	98%	1%	1%	0%	0%	0%	N	0.0936	N	0.6107	3300	N	2008
+660640	 124	08553	     	124-8553	Peninsula Ave	124	City of Portsmouth	124	City of Portsmouth	0.33	SR 141 London Blvd	Leckie St	3100	G	98%	1%	1%	0%	0%	0%	F	0.0936	F	0.6107	3300	G	2008
+660706	 124	08554	     	124-8554	Constitution Ave	124	City of Portsmouth	124	City of Portsmouth	0.10	County St	High St	3000	N	98%	0%	1%	0%	0%	0%	N	0.0864	N	0.5000	3200	N	2008
+660705	 124	08554	     	124-8554	Constitution Ave	124	City of Portsmouth	124	City of Portsmouth	0.19	High St	SR 141 London Blvd	3000	N	98%	0%	1%	0%	0%	0%	N	0.0864	N	0.5000	3200	N	2008
+660670	 124	08554	     	124-8554	Constitution Ave	124	City of Portsmouth	124	City of Portsmouth	0.37	SR 141 London Blvd	Leckie St	3000	G	98%	0%	1%	0%	0%	0%	F	0.0864	F	0.5000	3200	G	2008
+660707	 124	08554	     	124-8554	Leckie St	124	City of Portsmouth	124	City of Portsmouth	0.06	Constitution Ave	Dead End	3000	N	98%	0%	1%	0%	0%	0%	N	0.0864	N	0.5000	3200	N	2008
+660671	 124	08554	     	124-8554	Leckie St	124	City of Portsmouth	124	City of Portsmouth	0.74	Dead End	Fort Lane	1000	G	98%	0%	1%	0%	0%	0%	F	0.1098	F	0.6179	1100	G	2008
+660672	 124	08554	     	124-8554	Fort Lane	124	City of Portsmouth	124	City of Portsmouth	0.07	Leckie St	Crawford Pkwy	1400	G	98%	0%	1%	0%	0%	0%	F	0.1226	F	0.6722	1500	G	2008
+660669	 124	08554	     	124-8554	Crawford Pkwy	124	City of Portsmouth	124	City of Portsmouth	0.06	Fort Lane	Effingham St	2900	G	98%	0%	1%	0%	0%	0%	F	0.0939	F	0.6565	3100	G	2008
+660668	 124	08554	     	124-8554	Crawford Pkwy	124	City of Portsmouth	124	City of Portsmouth	0.28	Effingham St	Court St	4100	G	98%	0%	1%	0%	0%	0%	F	0.1311	F	0.5670	4400	G	2008
+660420	 124	08554	     	124-8554	Crawford Pkwy	124	City of Portsmouth	124	City of Portsmouth	0.35	Court St	London Blvd	2800	G	98%	0%	1%	0%	0%	0%	F	0.1000	F	0.5163	3000	G	2008
+660667	 124	08554	     	124-8554	Crawford St	124	City of Portsmouth	124	City of Portsmouth	0.10	London Blvd	High St	7600	G	98%	0%	1%	0%	0%	0%	F	0.0928	F	0.6033	8100	G	2008
+660666	 124	08554	     	124-8554	Crawford St	124	City of Portsmouth	124	City of Portsmouth	0.11	High St	County St	8000	G	98%	0%	1%	0%	0%	0%	F	0.0862	F	0.6297	8600	G	2008
+660419	 124	08554	     	124-8554	Crawford St	124	City of Portsmouth	124	City of Portsmouth	0.24	County St	Wythe St	9700	G	98%	0%	1%	0%	0%	0%	C	0.0837	F	0.5867	10000	G	2008
+660644	 124	08555	     	124-8555	Washington St	124	City of Portsmouth	124	City of Portsmouth	0.57	South St	Crawford Pkwy	1100	G	98%	0%	1%	0%	0%	0%	F	0.1092	F	0.5083	1200	G	2008
+660691	 124	08557	     	124-8557	Effingham St	124	City of Portsmouth	124	City of Portsmouth	0.09	London Blvd	North St	19000	G	99%	0%	0%	0%	0%	0%	F	0.0814	F	0.7697	20000	G	2008
+660426	 124	08557	     	124-8557	Effingham St	124	City of Portsmouth	124	City of Portsmouth	0.20	North St	Crawford Pkwy	18000	G	99%	0%	0%	0%	0%	0%	C	0.0867	F	0.7961	20000	G	2008
+660692	 124	08557	     	124-8557	Effingham St	124	City of Portsmouth	124	City of Portsmouth	0.09	Crawford Pkwy	Ent. OSN. Hospital	18000	G	99%	0%	0%	0%	0%	0%	F	0.0920	F	0.8440	19000	G	2008
+660429	 124	08558	     	124-8558	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.76	Portsmouth Blvd	I-264	8700	G	96%	1%	1%	1%	1%	0%	C	0.0934	F	0.5067	9300	G	2008
+660693	 124	08558	     	124-8558	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.03	I-264	South St	10000	G	96%	1%	1%	1%	1%	0%	F	0.0934	N	0.5067	11000	G	2008
+660694	 124	08558	     	124-8558	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.19	South St	County St	11000	G	96%	1%	1%	1%	1%	0%	F	0.0965	F	0.5591	11000	G	2008
+660430	 124	08558	     	124-8558	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.10	County St	High St	10000	G	96%	1%	1%	1%	1%	0%	F	0.0905	F	0.5447	11000	G	2008
+660695	 124	08558	     	124-8558	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.11	High St	London Blvd	7000	G	96%	1%	1%	1%	1%	0%	F	0.0901	F	0.5050	7500	G	2008
+660696	 124	08558	     	124-8558	Elm Ave	124	City of Portsmouth	124	City of Portsmouth	0.38	London Blvd	Leckie St	4000	G	96%	1%	1%	1%	1%	0%	F	0.0995	F	0.6516	4300	G	2008
+660626	 124	08559	     	124-8559	Des Moines Ave	124	City of Portsmouth	124	City of Portsmouth	0.60	Portsmouth Blvd	Deep Creek Blvd	2100	G	98%	1%	1%	0%	0%	0%	F	0.0939	F	0.5347	2300	G	2008
+660490	 124	08559	     	124-8559	Des Moines Ave	124	City of Portsmouth	124	City of Portsmouth	0.06	Deep Creek Blvd	I-264	8800	G	98%	1%	1%	0%	0%	0%	C	0.0815	F	0.5055	9500	G	2008
+660627	 124	08559	     	124-8559	Des Moines Ave	124	City of Portsmouth	124	City of Portsmouth	0.05	I-264	South St	8900	G	98%	1%	1%	0%	0%	0%	F	0.0815	N	0.5055	9700	G	2008
+660405	 124	08599	     	124-8599	Cavalier Blvd	124	City of Portsmouth	124	City of Portsmouth	0.82	NCL Chesapeake	Greenwood Dr	11000	G	98%	1%	1%	0%	0%	0%	C	0.0981	F	0.6427	12000	G	2008
+660663	 124	08599	     	124-8599	Cavalier Blvd	124	City of Portsmouth	124	City of Portsmouth	0.69	Greenwood Dr	Victory Blvd	2900	G	98%	1%	1%	0%	0%	0%	F	0.1228	F	0.8723	3100	G	2008
+660647	 124	08601	     	124-8601	Gust Lane	124	City of Portsmouth	124	City of Portsmouth	0.70	NCL Chesapeake	Victory Blvd	6800	G	98%	1%	1%	0%	0%	0%	F	0.0911	F	0.5049	7300	G	2008
+660600	 124	08606	     	124-8606	Afton Pkwy	124	City of Portsmouth	124	City of Portsmouth	0.28	George Washington Pkwy US 17	Prospect Pkwy Gap	3900	G	98%	1%	1%	0%	0%	0%	F	0.1053	F	0.6842	4200	G	2008
+560019	 124	08606	     	124-8606	Afton Pkwy	124	City of Portsmouth	124	City of Portsmouth	0.51	124-3; Gap Prospect Pkwy	Victory Blvd 239	2000	G	98%	1%	1%	0%	0%	0%	F	0.1381	F	0.7847	2200	G	2008
+660634	 124	08755	     	124-8755	Coast Guard Blvd	124	City of Portsmouth	124	City of Portsmouth	0.97	West Norfolk Rd	Main Gate	3100	G	90%	1%	1%	2%	5%	0%	F				3400	G	2008
+660491	 124	08756	     	124-8756	Garwood Ave	124	City of Portsmouth	124	City of Portsmouth	0.17	Greenwood Dr	Elmhurst Lane	4300	G	90%	1%	1%	2%	5%	0%	C	0.1090	F	0.5071	4600	G	2008
+781731	 124	08758	     	124-8758	High St	124	City of Portsmouth	124	City of Portsmouth	0.12	US 17 Frederick Blvd	US 58 Airline Blvd	18000	G	98%	1%	1%	0%	0%	0%	F	0.0844	F	0.6430	19000	G	2008
+660676	 124	08758	     	124-8758	High St	124	City of Portsmouth	124	City of Portsmouth	0.22	Airline Blvd	Mt Vernon Ave	14000	G	98%	1%	1%	0%	0%	0%	F	0.0805	F	0.5092	15000	G	2008
+660450	 124	08758	     	124-8758	High St	124	City of Portsmouth	124	City of Portsmouth	0.47	Mt Vernon Ave	ML King Frwy	15000	G	98%	1%	1%	0%	0%	0%	F	0.0911	F	0.6217	16000	G	2008
+660451	 124	08758	     	124-8758	High St	124	City of Portsmouth	124	City of Portsmouth	0.79	ML King Frwy	Elm Ave	17000	G	98%	1%	1%	0%	0%	0%	C	0.0886	F	0.6402	19000	G	2008
+660675	 124	08758	     	124-8758	High St	124	City of Portsmouth	124	City of Portsmouth	0.32	Elm Ave	Effingham St	11000	G	98%	1%	1%	0%	0%	0%	F	0.0832	F	0.6873	12000	G	2008
+660452	 124	08758	     	124-8758	High St	124	City of Portsmouth	124	City of Portsmouth	0.51	Effingham St	Crawford St	7100	G	98%	1%	1%	0%	0%	0%	F	0.0876	F	0.5337	7600	G	2008
+660639	 124	08759	     	124-8759	McLean St	124	City of Portsmouth	124	City of Portsmouth	0.92	Greenwood Dr	Airline Blvd	6300	G	98%	1%	1%	0%	0%	0%	F	0.1067	F	0.5369	6900	G	2008
+660629	 124	08760	     	124-8760	Lincoln St	124	City of Portsmouth	124	City of Portsmouth	0.83	Deep Creek Blvd	Effingham St	2900	G	99%	0%	1%	0%	0%	0%	F	0.0878	F	0.6000	3100	G	2008
+660628	 124	08760	     	124-8760	Lincoln St	124	City of Portsmouth	124	City of Portsmouth	0.66	Effingham St	First St	2900	G	99%	0%	1%	0%	0%	0%	F	0.1704	F	0.9572	3200	G	2008
+660488	 124	08761	     	124-8761	Port Centre Pkwy	124	City of Portsmouth	124	City of Portsmouth	0.67	Portsmouth Blvd	Crawford St Near I-264	10000	G	99%	0%	1%	0%	0%	0%	C	0.1272	F	0.9159	11000	G	2008
+660689	 124	08761	     	124-8761	Court St	124	City of Portsmouth	124	City of Portsmouth	0.21	Crawford St near I-264	County St	8500	G	97%	1%	2%	0%	0%	0%	F	0.0880	F	0.5622	9200	G	2008
+660418	 124	08761	     	124-8761	Court St	124	City of Portsmouth	124	City of Portsmouth	0.11	County St	High St	7400	G	97%	1%	2%	0%	0%	0%	C	0.0977	F	0.5757	8000	G	2008
+660645	 124	08761	     	124-8761	Court St	124	City of Portsmouth	124	City of Portsmouth	0.11	High St	London St	3900	G	97%	1%	2%	0%	0%	0%	F	0.1057	F	0.5141	4200	G	2008
+660646	 124	08761	     	124-8761	Court St	124	City of Portsmouth	124	City of Portsmouth	0.23	London St	Crawford Pkwy	1200	G	97%	1%	2%	0%	0%	0%	F	0.1303	F	0.7545	1300	G	2008
+781732	 124	08762	     	124-8762	South St	124	City of Portsmouth	124	City of Portsmouth	0.10	Columbus Avenue	Swanson Parkway	3600	G	97%	2%	0%	0%	0%	0%	F	0.0985	F	0.9017	3900	G	2008
+660631	 124	08762	     	124-8762	South St	124	City of Portsmouth	124	City of Portsmouth	0.09	Swanson Pkwy	Des Moines Ave	5500	G	97%	2%	0%	0%	0%	0%	F	0.0938	F	0.8391	5900	G	2008
+660471	 124	08762	     	124-8762	South St	124	City of Portsmouth	124	City of Portsmouth	0.38	Des Moines Ave	Elm Ave	8600	G	97%	2%	0%	0%	0%	0%	C	0.0829	F	0.5758	9300	G	2008
+660630	 124	08762	     	124-8762	South St	124	City of Portsmouth	124	City of Portsmouth	0.34	Elm Ave	Effingham St	2500	G	97%	2%	0%	0%	0%	0%	F	0.0775	F	0.5146	2700	G	2008
+560033	 124	00000	     	124-0	Amherst Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	Clover Hill Dr	Ferguson Dr	90	G							X	0.1852	F	0.5714	100	G	2008
+560811	 124	00000	     	124-0	Bain St	124	City of Portsmouth	124	City of Portsmouth	0.00	Williamsburg Ave	Peninsula Ave	160	G							X	0.1347	F	0.0000	170	G	2008
+560026	 124	00000	     	124-0	Baldwin Ave	124	City of Portsmouth	124	City of Portsmouth	0.00	Fulton Ave	Deep Creek Blvd	210	G							X	0.1053	F	0.0000	220	G	2008
+560003	 124	00000	     	124-0	Brookmere Lane	124	City of Portsmouth	124	City of Portsmouth	0.00	Heather Rd	Summerset Dr	150	G							X	0.1424	F	0.0000	160	G	2008
+560800	 124	00000	     	124-0	Brunswick Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Chumley Rd	Tatem Dr	820	G							X	0.1372	F	0.0000	880	G	2008
+560029	 124	00000	     	124-0	Cambridge Avenue	124	City of Portsmouth	124	City of Portsmouth	0.00	Glasgow St	North St	200	G							X	0.1223	F	0.5686	210	G	2008
+560813	 124	00000	     	124-0	Canterbury Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	Midfield Pkwy	Templar Dr	480	G							X	0.0864	F	0.5176	520	G	2008
+560034	 124	00000	     	124-0	Cardinal Lane	124	City of Portsmouth	124	City of Portsmouth	0.00	Manor Ave	Thornwood St	510	G							X	0.0946	F	0.0000	550	G	2008
+560814	 124	00000	     	124-0	Courtney Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Hatton Pt Rd	Dead End	170	G							X	0.1079	F	0.6757	180	G	2008
+560011	 124	00000	     	124-0	Cypress Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Bob White St	Cypress Cir	570	G							X	0.0931	F	0.0000	610	G	2008
+560009	 124	00000	     	124-0	Dale Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	Columbus Ave	Nashville Ave	2000	G							X	0.0920	F	0.0000	2100	G	2008
+560028	 124	00000	     	124-0	Darren Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	Horne Ave	Greenwood Dr	2700	G							X	0.0914	F	0.0000	2900	G	2008
+560036	 124	00000	     	124-0	Darren Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	Bardot Lane	Cavalier Blvd	890	G							X	0.1188	F	0.6744	890	G	2008
+560015	 124	00000	     	124-0	Dominion Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Shamrock Dr	Fairway Dr	130	G							X	0.1165	F	0.0000	140	G	2008
+560007	 124	00000	     	124-0	Duke St	124	City of Portsmouth	124	City of Portsmouth	0.00	Richmond Ave	Parker Ave	1400	G							X	0.1009	F	0.0000	1500	G	2008
+560005	 124	00000	     	124-0	Forrest Hills Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	Merrifield Blvd	Burrland Rd	180	G							X	0.1061	F	0.0000	190	G	2008
+560803	 124	00000	     	124-0	Frailey Pl	124	City of Portsmouth	124	City of Portsmouth	0.00	Gills Rd	Fiske St	800	G							X	0.1539	F	0.0000	860	G	2008
+560037	 124	00000	     	124-0	Gillis Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	George Washington Hwy	Aylwin Rd	620	G							X	0.1014	F	0.5469	620	G	2008
+560807	 124	00000	     	124-0	Glasgow St	124	City of Portsmouth	124	City of Portsmouth	0.00	Potomac Ave	Vermont Ave	1600	G							X	0.0856	F	0.0000	1700	G	2008
+560022	 124	00000	     	124-0	Greenland Blvd	124	City of Portsmouth	124	City of Portsmouth	0.00	Bolling Rd	Portsmouth Blvd	1900	G							X	0.0912	F	0.0000	2000	G	2008
+560027	 124	00000	     	124-0	Halifax Ave	124	City of Portsmouth	124	City of Portsmouth	0.00	Columbia St	County St	750	G							X	0.1051	F	0.0000	800	G	2008
+560002	 124	00000	     	124-0	Hawthorne Lane	124	City of Portsmouth	124	City of Portsmouth	0.00	Twin Pines Rd	Heather Rd	210	G							X	0.1100	F	0.0000	220	G	2008
+560035	 124	00000	     	124-0	Independence St	124	City of Portsmouth	124	City of Portsmouth	0.00	Kirby St	Appomattox Ave	290	G							X	0.1744	F	0.0000	310	G	2008
+560008	 124	00000	     	124-0	Jefferson St	124	City of Portsmouth	124	City of Portsmouth	0.00	Elm Ave	Pearl St	1700	G							X	0.0977	F	0.0000	1900	G	2008
+560016	 124	00000	     	124-0	Jefferson St	124	City of Portsmouth	124	City of Portsmouth	0.00	Green Street	7th Street	1000	G							X	0.1097	F	0.5746	1000	G	2008
+560006	 124	00000	     	124-0	King St	124	City of Portsmouth	124	City of Portsmouth	0.00	Yorktown Ave	Williamsburg Ave	190	G							X	0.1535	F	0.0000	200	G	2008
+560810	 124	00000	     	124-0	Lancaster Ave	124	City of Portsmouth	124	City of Portsmouth	0.00	Race St	Griffin St	90	G							X	0.1290	F	0.0000	100	G	2008
+560030	 124	00000	     	124-0	Magnolia St	124	City of Portsmouth	124	City of Portsmouth	0.00	Astor Ave	Killian Ave	430	G							X	0.0945	F	0.0000	460	G	2008
+560013	 124	00000	     	124-0	Mayflower Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Florence Rd	Hodges Ferry Rd	560	G							X	0.1408	F	0.0000	610	G	2008
+560021	 124	00000	     	124-0	McClean Sts	124	City of Portsmouth	124	City of Portsmouth	0.00	Lugar Ct	Vickers Ct	1200	G							X	0.1180	F	0.0000	1300	G	2008
+560808	 124	00000	     	124-0	Meander Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Broad St	Chautauqua Ave	470	G							X	0.1355	F	0.0000	510	G	2008
+560812	 124	00000	     	124-0	Morro Blvd	124	City of Portsmouth	124	City of Portsmouth	0.00	Wycliff Rd	Saxon Rd	380	G							X	0.1205	F	0.0000	410	G	2008
+560804	 124	00000	     	124-0	Nicholson St	124	City of Portsmouth	124	City of Portsmouth	0.00	Afton Pkwy	Harris Rd	710	G							X	0.0865	F	0.0000	770	G	2008
+560014	 124	00000	     	124-0	Nottingham Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Snead Fairway	Yorkshire Rd	220	G							X	0.1367	F	0.0000	240	G	2008
+560805	 124	00000	     	124-0	Oak St	124	City of Portsmouth	124	City of Portsmouth	0.00	Marshall Ave	Wilcox Ave	1200	G							X	0.0834	F	0.0000	1300	G	2008
+560031	 124	00000	     	124-0	Old Farm Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Kenny Lane	Redbarn Rd	300	G							X	0.1028	F	0.0000	320	G	2008
+560025	 124	00000	     	124-0	Progress Ave	124	City of Portsmouth	124	City of Portsmouth	0.00	Jackson St	Monroe St	40	G							X	0.1910	F	0.0000	45	G	2008
+560001	 124	00000	     	124-0	River Shore Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Hedgerow Lane	Rivermill Cir	2700	G							X	0.0947	F	0.5843	2900	G	2008
+560012	 124	00000	     	124-0	Robin Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Bob White St	Portsmouth Blvd	210	G							X	0.1265	F	0.0000	220	G	2008
+560802	 124	00000	     	124-0	Smithfield Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Beechdale Rd	Deep Creek Blvd	600	G							X	0.1118	F	0.0000	640	G	2008
+560010	 124	00000	     	124-0	Staunton Ave	124	City of Portsmouth	124	City of Portsmouth	0.00	Palmer St	Jefferson St .	180	G							X	0.1047	F	0.0000	190	G	2008
+560023	 124	00000	     	124-0	Stratford St	124	City of Portsmouth	124	City of Portsmouth	0.00	Eisenhower Circle	Truman Circle	2100	G							X	0.0961	F	0.0000	2300	G	2008
+560032	 124	00000	     	124-0	Sugar Creek Cir	124	City of Portsmouth	124	City of Portsmouth	0.00	Augustine Cir	Gateway Dr	290	G							X	0.1367	F	0.0000	320	G	2008
+560801	 124	00000	     	124-0	Tazewell St	124	City of Portsmouth	124	City of Portsmouth	0.00	Greenwood Dr	Freedom Ave	960	G							X	0.1351	F	0.0000	1000	G	2008
+560816	 124	00000	     	124-0	Verne Ave	124	City of Portsmouth	124	City of Portsmouth	0.00	Bridges Ave	Garner Ave	50	G							X	0.1961	F	0.7000	50	G	2008
+560004	 124	00000	     	124-0	Weyanoke Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	Merrifield Blvd	Burrland Rd	160	G							X	0.1069	F	0.0000	170	G	2008
+560815	 124	00000	     	124-0	Whaley Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	River Edge Dr	Edwin Rd	30	G							X	0.1818	F	0.0000	40	G	2008
+560809	 124	00000	     	124-0	Willett Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	West Rd	Sycamore Rd	4800	G							X	0.1000	F	0.0000	5200	G	2008
+560818	 124	00000	     	124-0	Winchester Dr	124	City of Portsmouth	124	City of Portsmouth	0.00	Caroline Ave	Augusta Ave	1100	G							X	0.0980	F	0.6351	1100	G	2008
+560817	 124	00000	     	124-0	Woodrow St	124	City of Portsmouth	124	City of Portsmouth	0.00	Mount Vernon Ave	Broad St	500	G							X	0.0769	F	0.5385	500	G	2008
+560024	 124	00000	     	124-0	Wright Rd	124	City of Portsmouth	124	City of Portsmouth	0.00	Capelle Rd	Norfolk Rd	320	G							X	0.1175	F	0.0000	340	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

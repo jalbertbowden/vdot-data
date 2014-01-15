@@ -1,0 +1,24 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Clinchport																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+010097	  SR	00065	     	VA 65	 	195	Town of Clinchport	084	Scott County	1.46	WCL Clinchport	ECL Clinchport	1400	N	96%	0%	2%	1%	1%	0%	N	0.1155	N	0.5710	1400	N	2008
+770015	  84	00761	     	84-761	Dewey Ave	195	Town of Clinchport	084	Scott County	0.06	84-837 Bridge St	SR 65	47	R							X						07/09/2007
+770030	  84	00770	     	84-770	Mustang St	195	Town of Clinchport	084	Scott County	0.10	84-794 Mustang St	Dead End; Gap	30	R							X						07/09/2007
+770031	  84	00770	     	84-770	Mustang St	195	Town of Clinchport	084	Scott County	0.66	Dead End; Gap	SR 65	60	R							X						07/09/2007
+770057	  84	00794	     	84-794	Mustang St	195	Town of Clinchport	084	Scott County	0.19	SR 65	84-770 Mustang St	50	R							X						07/09/2007
+770058	  84	00794	     	84-794	Mustang St	195	Town of Clinchport	084	Scott County	0.04	84-770 Mustang St	Dead End	60	R							X						07/09/2007
+770100	  84	00833	     	84-833	Flara Ave	195	Town of Clinchport	084	Scott County	0.02	SR 65	84-770 Mustang St	4	R							X						07/09/2007
+770101	  84	00834	     	84-834	Calvin Ave	195	Town of Clinchport	084	Scott County	0.02	SR 65	84-770 Mustang St	20	R							X						07/09/2007
+770102	  84	00834	     	84-834	Calvin Ave	195	Town of Clinchport	084	Scott County	0.03	84-770 Mustang St	Dead End	48	R							X						07/09/2007
+770105	  84	00837	     	84-837	Bridge St	195	Town of Clinchport	084	Scott County	0.05	SR 65 EAST	0.05 MW SR 65	140	R							X						07/09/2007
+770106	  84	00837	     	84-837	Bridge St	195	Town of Clinchport	084	Scott County	0.09	0.05 MW SR 65	84-761 Dewey Ave	80	R							X						07/09/2007
+770107	  84	00837	     	84-837	Bridge St	195	Town of Clinchport	084	Scott County	0.06	84-761 Dewey Ave	SR 65 WEST	120	R							X						07/09/2007
+770110	  84	00840	     	84-840	 	195	Town of Clinchport	084	Scott County	0.02	84-770 Mustang St	SR 65	6	R							X						05/04/2000
+770159	  84	00883	     	84-883	Dugout Lane	195	Town of Clinchport	084	Scott County	0.16	SR 65	Dead End	9	R							X						07/09/2007
+786788	  84	00957	     	84-957	Mullins Dr	195	Town of Clinchport	084	Scott County	0.04	84-770 Mustang St	Dead End	90	R							X						07/09/2007
+770383	  84	09765	     	84-9765	Minton Ave	195	Town of Clinchport	084	Scott County	0.04	SR 65	Clinchport Elem Sch	110	R							X						07/09/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

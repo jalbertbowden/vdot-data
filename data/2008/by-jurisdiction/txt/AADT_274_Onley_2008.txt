@@ -1,0 +1,70 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Onley																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050211	  US	00013	     	US 13	Lankford Hwy	274	Town of Onley	001	Accomack County	1.00	SCL Onley	SR 179	19000	F	93%	1%	1%	1%	5%	0%	F	0.0800	F	0.0000	18000	F	2008
+050565	  US	00013	     	US 13	Lankford Hwy	274	Town of Onley	001	Accomack County	0.17	SR 179	NCL Onley	21000	F	93%	1%	1%	1%	5%	0%	F	0.0806	F	0.0000	19000	F	2008
+050214	C1US	00013	     	Bus US 13	Coastal Blvd	274	Town of Onley	001	Accomack County	0.98	US 13 S of Onley	NCL Onley	3400	F	98%	0%	0%	1%	0%	0%	F	0.0978	F	0.5327	3600	F	2008
+050268	  SR	00179	     	VA 179	Main St	274	Town of Onley	001	Accomack County	0.64	WCL Onley	US 13 Bus	6800	N	98%	0%	1%	0%	0%	0%	N				7200	N	2008
+785031	  01	00609	     	01-609	Brickhouse Dr	274	Town of Onley	001	Accomack County	0.04	SCL Onley	01-638 Badger Lane	1500	N							X				0	N	09/07/2005
+300012	  01	00609	     	01-609	Brickhouse Dr	274	Town of Onley	001	Accomack County	0.12	01-638 Badger Lane	US 13 Lankford Hwy; Gap	3000	F	98%	0%	1%	1%	0%	0%	C	0.1130	F	0.0000	3200	F	2008
+700124	  01	00609	     	01-609	Pennsylvania Ave	274	Town of Onley	001	Accomack County	0.42	01-1605 Rogers St; Gap	ECL Onley	1200	G	89%	2%	9%	0%	1%	0%	C				1200	G	2008
+300022	  01	00638	     	01-638	Badger Lane	274	Town of Onley	001	Accomack County	0.29	WCL Onley	01-609 Brickhouse Dr	1300	F	98%	0%	1%	1%	0%	0%	F	0.1197	F	0.6113	1400	F	2008
+785042	  01	00731	     	01-731	Forest St	274	Town of Onley	001	Accomack County	0.29	SCL Onley	01-789 Main St	490	N							X				0	N	07/26/2005
+700454	  01	00731	     	01-731	Forest St	274	Town of Onley	001	Accomack County	0.08	01-789 Main St	01-1610 Caroline Ave	30	R							X						07/26/2005
+300081	  01	00789	     	01-789	E Main St	274	Town of Onley	001	Accomack County	0.29	SCL Onley	01-731 Forest St	1500	F	98%	0%	1%	1%	0%	0%	F	0.0941	F	0.6013	1600	F	2008
+300082	  01	00789	     	01-789	E Main St	274	Town of Onley	001	Accomack County	0.33	01-731 Forest St	Bus US 13 Coastal Ave	2200	F	98%	0%	1%	1%	0%	0%	F	0.0964	F	0.6242	2300	F	2008
+700746	  01	01601	     	01-1601	Maple St	274	Town of Onley	001	Accomack County	0.07	01-731 Forest St	01-1607 Colonial Ave	80	R							X						08/16/2005
+700747	  01	01601	     	01-1601	Maple St	274	Town of Onley	001	Accomack County	0.06	01-1607 Colonial Ave	01-1602 Church St	90	R							X						08/16/2005
+700748	  01	01601	     	01-1601	Maple St	274	Town of Onley	001	Accomack County	0.11	01-1602 Church St	01-1605 Rogers St	170	R							X						08/16/2005
+700749	  01	01602	     	01-1602	Church St	274	Town of Onley	001	Accomack County	0.06	01-1618 Burton St	01-1605 Rogers St	48	R							X						08/16/2005
+700750	  01	01602	     	01-1602	Church St	274	Town of Onley	001	Accomack County	0.07	01-1605 Rogers St	01-1601 Maple St	20	R							X						08/16/2005
+700751	  01	01602	     	01-1602	Church St	274	Town of Onley	001	Accomack County	0.07	01-1601 Maple St	01-789 Main St	90	R							X						08/16/2005
+700752	  01	01602	     	01-1602	Church St	274	Town of Onley	001	Accomack County	0.08	01-789 Main St	01-1610 Caroline Ave	100	R							X						08/16/2005
+700753	  01	01603	     	01-1603	Maryland Ave	274	Town of Onley	001	Accomack County	0.06	01-1604 Monroe St	Bus US 13	70	R							X						08/16/2005
+700754	  01	01603	     	01-1603	Maryland Ave	274	Town of Onley	001	Accomack County	0.10	Bus US 13	01-1606 Lee St	80	R							X						08/16/2005
+700755	  01	01603	     	01-1603	Maryland Ave	274	Town of Onley	001	Accomack County	0.09	01-1606 Lee St	Dead End	20	R							X						08/16/2005
+700756	  01	01604	     	01-1604	Monroe St	274	Town of Onley	001	Accomack County	0.09	01-1609 Virginia Ave	01-1603 Maryland Ave	80	R							X						08/16/2005
+700757	  01	01604	     	01-1604	Monroe St	274	Town of Onley	001	Accomack County	0.10	01-1603 Maryland Ave	01-789 Main St	90	R							X						08/16/2005
+700758	  01	01605	     	01-1605	Rogers St	274	Town of Onley	001	Accomack County	0.08	01-731 Forest St	01-1607 Colonial Ave	70	R							X						08/16/2005
+700759	  01	01605	     	01-1605	Rogers St	274	Town of Onley	001	Accomack County	0.06	01-1607 Colonial Ave	01-1602 Church St	120	R							X						08/16/2005
+700760	  01	01605	     	01-1605	Rogers St	274	Town of Onley	001	Accomack County	0.05	01-1602 Church St	01-1611	180	R							X						08/16/2005
+700761	  01	01605	     	01-1605	Rogers St	274	Town of Onley	001	Accomack County	0.06	01-1611	01-1601 Maple St	290	R							X						08/16/2005
+700762	  01	01605	     	01-1605	Rogers St	274	Town of Onley	001	Accomack County	0.08	01-1601 Maple St	01-609; 01-789	380	R							X						09/08/2005
+700763	  01	01606	     	01-1606	Lee St	274	Town of Onley	001	Accomack County	0.08	01-1609 Virginia Ave	01-1603 Maryland Ave	100	R							X						09/08/2005
+700764	  01	01606	     	01-1606	Lee St	274	Town of Onley	001	Accomack County	0.10	01-1603 Maryland Ave	SR 179 Main St	180	R							X						09/08/2005
+700765	  01	01607	     	01-1607	Colonial Ave	274	Town of Onley	001	Accomack County	0.03	SCL Onley	01-1619 Ames St	10	R							X						05/17/2008
+700766	  01	01607	     	01-1607	Colonial Ave	274	Town of Onley	001	Accomack County	0.06	01-1619 Ames St	01-1618 Burton St	20	R							X						09/08/2005
+700767	  01	01607	     	01-1607	Colonial Ave	274	Town of Onley	001	Accomack County	0.06	01-1618 Burton St	01-1605 Rogers St	90	R							X						09/08/2005
+700768	  01	01607	     	01-1607	Colonial Ave	274	Town of Onley	001	Accomack County	0.07	01-1605 Rogers St	01-1601 Maple St	50	R							X						09/08/2005
+700769	  01	01607	     	01-1607	Colonial Ave	274	Town of Onley	001	Accomack County	0.07	01-1601 Maple St	01-789 Main St	40	R							X						09/08/2005
+700770	  01	01608	     	01-1608	Richmond Ave	274	Town of Onley	001	Accomack County	0.12	Bus US 13	Dead End	45	R							X						09/08/2005
+700771	  01	01609	     	01-1609	Virginia Ave	274	Town of Onley	001	Accomack County	0.07	Dead End	01-1604 Monroe St	140	R							X						04/15/2008
+700772	  01	01609	     	01-1609	Virginia Ave	274	Town of Onley	001	Accomack County	0.01	01-1604 Monroe St	01-1613 Monroe  St	130	R							X						09/08/2005
+700773	  01	01609	     	01-1609	Virginia Ave	274	Town of Onley	001	Accomack County	0.05	01-1613 Monroe  St	Bus US 13	100	R							X						09/08/2005
+700774	  01	01609	     	01-1609	Virginia Ave	274	Town of Onley	001	Accomack County	0.10	Bus US 13	01-1606 Lee St	130	R							X						09/08/2005
+700775	  01	01609	     	01-1609	Virginia Ave	274	Town of Onley	001	Accomack County	0.07	01-1606 Lee St	Dead End	70	R							X						09/08/2005
+700776	  01	01610	     	01-1610	Caroline Ave	274	Town of Onley	001	Accomack County	0.11	01-731 Forest St	01-1602 Church St	40	R							X						09/08/2005
+700777	  01	01610	     	01-1610	Caroline Ave	274	Town of Onley	001	Accomack County	0.18	01-1602 Church St	01-609 Pennsylvania Ave	110	R							X						09/08/2005
+700778	  01	01611	     	01-1611	 	274	Town of Onley	001	Accomack County	0.14	Dead End	01-1605 Rogers St	40	R							X						09/08/2005
+700779	  01	01612	     	01-1612	Madison Ave	274	Town of Onley	001	Accomack County	0.06	01-1616 Onley Rd	01-1613 Monroe St	80	R							X						09/07/2005
+700780	  01	01612	     	01-1612	Madison Ave	274	Town of Onley	001	Accomack County	0.12	01-1613 Monroe  St	Dead End	270	R							X						04/15/2008
+700781	  01	01613	     	01-1613	Monroe  St	274	Town of Onley	001	Accomack County	0.09	01-1612 Madison Ave	01-1609 Virginia Ave	30	R							X						09/07/2005
+700782	  01	01614	     	01-1614	 	274	Town of Onley	001	Accomack County	0.05	01-1612 Madison Ave	01-1609 Virginia Ave	48	R							X						04/15/2008
+700783	  01	01615	     	01-1615	Washington St	274	Town of Onley	001	Accomack County	0.34	US 13 Lankford Hwy	Bus US 13	640	R							X						09/07/2005
+700785	  01	01616	     	01-1616	Onley Rd	274	Town of Onley	001	Accomack County	0.23	SCL Onley	01-1612 Madison Ave	610	R							X						09/07/2005
+700786	  01	01616	     	01-1616	Onley Rd	274	Town of Onley	001	Accomack County	0.03	01-1612 Madison Ave	Bus US 13	860	R							X						09/07/2005
+700787	  01	01617	     	01-1617	 	274	Town of Onley	001	Accomack County	0.10	US 13 Lankford Hwy	SR 179 Main St	1400	R							X						09/07/2005
+700788	  01	01618	     	01-1618	Burton St	274	Town of Onley	001	Accomack County	0.06	01-1602 Church St	01-1607 Colonial Ave	70	R							X						09/07/2005
+700789	  01	01618	     	01-1618	Burton St	274	Town of Onley	001	Accomack County	0.09	01-1607 Colonial Ave	01-731 Forest St	30	R							X						09/07/2005
+700790	  01	01619	     	01-1619	Ames St	274	Town of Onley	001	Accomack County	0.06	01-1611 Penn Ave	01-1607 Colonial Ave	70	R							X						05/17/2008
+700791	  01	01619	     	01-1619	Ames St	274	Town of Onley	001	Accomack County	0.09	01-1607 Colonial Ave	01-731 Forest St	120	R							X						09/07/2005
+700792	  01	01620	     	01-1620	 	274	Town of Onley	001	Accomack County	0.03	01-789, E Main St	Dead End	20	R							X						09/07/2005
+792660	  01	01621	     	01-1621	Lakewood Rd	274	Town of Onley	001	Accomack County	0.20	US 13 Lankford Hwy	01-1622 Greenwood Dr	0	?							X
+792661	  01	01622	     	01-1622	Greenwood Dr	274	Town of Onley	001	Accomack County	0.04	Dead End	01-1621 Lakewood Rd	0	?							X
+795501	  01	01623	     	01-1623	 	274	Town of Onley	001	Accomack County	0.16	01-1622 Greenwood Dr	01-1624	0	?							X
+795502	  01	01624	     	01-1624	 	274	Town of Onley	001	Accomack County	0.07	01-1623	Cul-de-Sac	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

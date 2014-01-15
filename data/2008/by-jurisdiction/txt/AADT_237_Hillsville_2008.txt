@@ -1,0 +1,90 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Hillsville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+020352	  US	00052	     	US 52	Main St	237	Town of Hillsville	017	Carroll County	1.92	SCL Hillsville	US 58 West Stuart Dr	5100	G	97%	0%	2%	1%	1%	0%	F	0.0806	F	0.5650	5400	G	2008
+020029	  US	00052	     	US 52	Main St	237	Town of Hillsville	017	Carroll County	2.23	US 58 West Stuart Dr	NCL Hillsville	5200	G	94%	1%	1%	3%	1%	0%	F	0.0918	F	0.5295	5500	G	2008
+020318	  US	00058	     	US 58, US 221	West Stuart Dr	237	Town of Hillsville	017	Carroll County	2.10	WCL Hillsville	US 221 Floyd Pike	15000	N	94%	0%	1%	1%	4%	0%	N	0.0800	N	0.5284	15000	N	2008
+020033	  US	00058	     	US 58	East Stuart Dr	237	Town of Hillsville	017	Carroll County	2.26	US 221 Floyd Pike	ECL Hillsville	4500	G	94%	0%	1%	1%	4%	0%	C	0.0830	F	0.6361	4700	G	2008
+020036	  SR	00100	     	VA 100	Sylvatus Highway	237	Town of Hillsville	017	Carroll County	0.90	US 221 Floyd Pike	NCL Hillsville	3400	N	94%	1%	1%	3%	1%	0%	N	0.0904	N	0.5029	3600	N	2008
+020318	  US	00221	     	US 58, US 221	West Stuart Dr	237	Town of Hillsville	017	Carroll County	2.10	CL Hillsville	US 58	15000	N	94%	0%	1%	1%	4%	0%	N	0.0800	N	0.5284	15000	N	2008	
+020256	  US	00221	     	US 221	Floyd Pike	237	Town of Hillsville	017	Carroll County	1.42	US 58 Stuart Dr	ECL Hillsville	7800	G	96%	1%	1%	1%	1%	0%	F	0.0997	F	0.5696	8200	G	2008
+710201	  17	00668	     	17-668	Virginia St	237	Town of Hillsville	017	Carroll County	0.83	US 52 Main St	US 58 East Stuart Dr	990	R							X						09/24/2007
+710202	  17	00668	     	17-668	Cavalier Dr	237	Town of Hillsville	017	Carroll County	0.35	US 58 East Stuart Dr	17-972 Lynnhaven Rd	530	R							X						09/17/2007
+710203	  17	00668	     	17-668	Cavalier Dr	237	Town of Hillsville	017	Carroll County	0.06	17-972 Lynnhaven Rd	NCL Hillsville	390	R							X						09/17/2007
+403972	  17	00670	     	17-670	 	237	Town of Hillsville	017	Carroll County	0.11	ECL Hillsville	US 58 Danville Pike	890	N	96%	1%	2%	1%	0%	0%	N	0.1118	N	0.7290	930	N	2008
+710312	  17	00703	     	17-703	 	237	Town of Hillsville	017	Carroll County	1.00	17-959 Willow Grove Rd	US 58 West Stuart Dr	80	R							X						09/27/2004
+710340	  17	00714	     	17-714	Old Galax Pike	237	Town of Hillsville	017	Carroll County	0.06	WCL Hillsville	17-1020 West Grayson St	950	R							X						09/24/2007
+710468	  17	00780	     	17-780	Howlette St	237	Town of Hillsville	017	Carroll County	2.30	US 52 Main St	US 58 West Stuart Dr	900	R							X						09/24/2007
+710548	  17	00835	     	17-835	John Edward Lane	237	Town of Hillsville	017	Carroll County	0.50	US 52 Main St	Dead End	110	R							X						09/29/2004
+710586	  17	00865	     	17-865	Akers Ave	237	Town of Hillsville	017	Carroll County	0.20	US 52 Main St	Dead End	110	R							X						09/19/2007
+403721	  17	00886	     	17-886	Island Creek Dr	237	Town of Hillsville	017	Carroll County	0.20	SR 52	17-1011	1500	G	98%	0%	1%	0%	0%	0%	C	0.1034	F	0.5746	1600	G	2008
+403722	  17	00886	     	17-886	Island Creek Dr	237	Town of Hillsville	017	Carroll County	0.36	17-1011	ECL Hillsville	1500	G	98%	0%	1%	0%	0%	0%	F	0.1031	F	0.5641	1600	G	2008
+785284	  17	00959	     	17-959	Willow Grove Rd	237	Town of Hillsville	017	Carroll County	0.53	WCL Hillsville	17-703 Gardner Mill Rd	6	R							X						11/07/2001
+710700	  17	00962	     	17-962	Water Plant Rd	237	Town of Hillsville	017	Carroll County	0.52	WCL Hillsville	US 52 Main St	260	R							X						09/19/2007
+710709	  17	00972	     	17-972	Lynnhaven Rd	237	Town of Hillsville	017	Carroll County	0.18	17-668 Cavalier Dr	Dead End	50	R							X						09/17/2007
+710737	  17	01000	     	17-1000	Nicholas St	237	Town of Hillsville	017	Carroll County	0.15	17-1017 Lyons Circle	17-668 Virginia St	60	R							X						09/19/2007
+710738	  17	01001	     	17-1001	Pine St	237	Town of Hillsville	017	Carroll County	0.15	17-1002, E Grayson St	17-1008 Court St	770	R							X						09/24/2007
+710739	  17	01001	     	17-1001	Pine St	237	Town of Hillsville	017	Carroll County	0.05	17-1008 Court St	17-1003 Carroll St	830	R							X						09/17/2007
+710740	  17	01001	     	17-1001	Pine St	237	Town of Hillsville	017	Carroll County	0.06	17-1003 Carroll St	17-1009 Edgewood Dr	1000	R							X						09/24/2007
+710741	  17	01002	     	17-1002	E Grayson Street	237	Town of Hillsville	017	Carroll County	0.04	US 52; 17-1020	17-1001 Pine St	1100	R							X						09/17/2007
+710742	  17	01002	     	17-1002	E Grayson Street	237	Town of Hillsville	017	Carroll County	0.56	17-1001 Pine St	US 221 Floyd Pike	1600	R							X						09/17/2007
+710743	  17	01003	     	17-1003	Carroll St	237	Town of Hillsville	017	Carroll County	0.07	US 52 Main St	17-1001 Pine St	1100	R							X						09/17/2007
+710744	  17	01004	     	17-1004	Center St	237	Town of Hillsville	017	Carroll County	0.15	Dead End	US 52 Main St	400	R							X						09/24/2007
+710745	  17	01005	     	17-1005	Ginger Lane	237	Town of Hillsville	017	Carroll County	0.02	Dead End	17-1016 Morningview Heights	30	R							X						09/17/2007
+710746	  17	01006	     	17-1006	Jones Rd	237	Town of Hillsville	017	Carroll County	0.31	17-1007 Archa St	17-668 Virginia St	460	R							X						09/19/2007
+710747	  17	01007	     	17-1007	Archa St	237	Town of Hillsville	017	Carroll County	0.29	US 52 Main St	17-1024 Dogwood Dr	240	R							X						09/19/2007
+710748	  17	01007	     	17-1007	Archa St	237	Town of Hillsville	017	Carroll County	0.06	17-1024 Dogwood Dr	17-1025 Chinquapin Trail	160	R							X						09/19/2007
+710749	  17	01007	     	17-1007	Archa St	237	Town of Hillsville	017	Carroll County	0.51	17-1025 Chinquapin Trail	17-1006 Jones Rd	140	R							X						09/19/2007
+710750	  17	01007	     	17-1007	Archa St	237	Town of Hillsville	017	Carroll County	0.15	17-1006 Jones Rd	Dead End	49	R							X						09/19/2007
+710751	  17	01008	     	17-1008	Court St	237	Town of Hillsville	017	Carroll County	0.07	US 52 Main St	17-1001 Pine St	850	R							X						09/17/2007
+710752	  17	01009	     	17-1009	Edgewood Dr	237	Town of Hillsville	017	Carroll County	0.07	US 52 Main St	17-1001 Pine St	670	R							X						09/17/2007
+710753	  17	01009	     	17-1009	Edgewood Dr	237	Town of Hillsville	017	Carroll County	0.30	17-1001 Pine St	17-1010 Evergreen St	420	R							X						09/17/2007
+710754	  17	01009	     	17-1009	Edgewood Dr	237	Town of Hillsville	017	Carroll County	0.20	17-1010 Evergreen St	17-1026 Lynn St	260	R							X						09/19/2007
+710755	  17	01009	     	17-1009	Edgewood Dr	237	Town of Hillsville	017	Carroll County	0.12	17-1026 Lynn St	Dead End	60	R							X						09/19/2007
+710756	  17	01010	     	17-1010	Evergreen St	237	Town of Hillsville	017	Carroll County	0.24	Dead End	17-1009 Edgewood Dr	250	R							X						09/17/2007
+710757	  17	01010	     	17-1010	Evergreen St	237	Town of Hillsville	017	Carroll County	0.09	17-1009 Edgewood Dr	Dead End	360	R							X						09/19/2007
+710758	  17	01011	     	17-1011	Valley View Lane	237	Town of Hillsville	017	Carroll County	0.30	17-886 Island Creek Dr	Dead End	60	R							X						09/17/2007
+710759	  17	01012	     	17-1012	Fulcher St	237	Town of Hillsville	017	Carroll County	0.14	17-1013 Fulcher St	US 58 East Stuart Dr	1200	R							X						09/24/2007
+710760	  17	01013	     	17-1013	Fulcher St	237	Town of Hillsville	017	Carroll County	0.18	17-1015 Wilkinson Dr	17-1012 Fulcher St	1200	R							X						09/24/2007
+710761	  17	01014	     	17-1014	Oak St	237	Town of Hillsville	017	Carroll County	0.33	US 58 West Stuart Dr	US 52 Main St	40	R							X						09/24/2007
+710762	  17	01015	     	17-1015	Wilkinson Dr	237	Town of Hillsville	017	Carroll County	0.12	US 52 Main St	17-1013 Fulcher St	1400	R							X						09/24/2007
+710763	  17	01015	     	17-1015	Wilkinson Dr	237	Town of Hillsville	017	Carroll County	0.08	17-1013 Fulcher St	17-668 Virginia St	580	R							X						09/24/2007
+710764	  17	01016	     	17-1016	Morningview Heights	237	Town of Hillsville	017	Carroll County	0.10	US 52 Main St	17-1005 Ginger Lane Town	150	R							X						09/17/2007
+710765	  17	01016	     	17-1016	Morningview Heights	237	Town of Hillsville	017	Carroll County	0.15	17-1005 Ginger Lane	Dead End	30	R							X						09/17/2007
+710766	  17	01017	     	17-1017	Lyons Circle	237	Town of Hillsville	017	Carroll County	0.21	Dead End	17-1000 Nicholas St	70	R							X						09/19/2007
+710767	  17	01017	     	17-1017	Lyons Circle	237	Town of Hillsville	017	Carroll County	0.07	17-1000 Nicholas St	US 52 Main St	120	R							X						09/24/2007
+710768	  17	01018	     	17-1018	Lyons Dr	237	Town of Hillsville	017	Carroll County	0.10	US 52 Main St	Dead End	80	R							X						09/24/2007
+710769	  17	01019	     	17-1019	Cox St	237	Town of Hillsville	017	Carroll County	0.20	17-1020 West Grayson St	US 58 West Stuart Dr	110	R							X						09/24/2007
+710770	  17	01020	     	17-1020	West Grayson St	237	Town of Hillsville	017	Carroll County	1.12	US 58 West Stuart Dr	US 52; 17-1001	460	R							X						09/24/2007
+710772	  17	01022	     	17-1022	Wade St	237	Town of Hillsville	017	Carroll County	0.04	US 52 Main St	17-1023 Bohon St	80	R							X						09/19/2007
+710773	  17	01023	     	17-1023	Bohon St	237	Town of Hillsville	017	Carroll County	0.16	17-1022 Wade St	17-1018 Lyons Dr	50	R							X						09/19/2007
+710774	  17	01024	     	17-1024	Dogwood Dr	237	Town of Hillsville	017	Carroll County	0.25	17-1007 Archa St	17-1025 Chinquapin Trail	60	R							X						09/19/2007
+710775	  17	01025	     	17-1025	Chinquapin Trail	237	Town of Hillsville	017	Carroll County	0.34	17-1007 Archa St	17-1024 Dogwood Dr	50	R							X						09/19/2007
+710776	  17	01025	     	17-1025	Chinquapin Trail	237	Town of Hillsville	017	Carroll County	0.41	17-1024 Dogwood Dr	17-668 Virginia St	130	R							X						09/19/2007
+710777	  17	01026	     	17-1026	Lynn St	237	Town of Hillsville	017	Carroll County	0.05	17-1009 Edgewood Dr	17-1027 Woodland Dr	110	R							X						09/19/2007
+710778	  17	01027	     	17-1027	Woodland Dr	237	Town of Hillsville	017	Carroll County	0.08	Dead End	17-1026 Lynn St	30	R							X						09/24/2007
+710779	  17	01028	     	17-1028	Raintree Rd	237	Town of Hillsville	017	Carroll County	0.15	17-972 Lynnhaven Rd	17-1029 S, Cumberland Dr	70	R							X						09/17/2007
+710780	  17	01028	     	17-1028	Raintree Rd	237	Town of Hillsville	017	Carroll County	0.42	17-1029 S, Cumberland Dr	17-1029 N, Cumberland Dr	30	R							X						09/17/2007
+710781	  17	01028	     	17-1028	Raintree Rd	237	Town of Hillsville	017	Carroll County	0.31	17-1029 N, Cumberland Dr	US 221 Floyd Pike	380	R							X						09/17/2007
+710782	  17	01029	     	17-1029	Cumberland Dr	237	Town of Hillsville	017	Carroll County	0.12	17-1028 S, Raintree Rd	17-1028 N, Raintree Rd	60	R							X						03/05/2008
+710784	  17	01031	     	17-1031	Highland Park Dr	237	Town of Hillsville	017	Carroll County	0.10	17-1032 Highland Park Dr	17-1033 Hidden Pines Lane	210	R							X						01/07/2008
+710785	  17	01031	     	17-1031	Highland Park Dr	237	Town of Hillsville	017	Carroll County	0.07	17-1033 Hidden Pines Lane	17-1034 Big Red Dr	120	R							X						01/07/2008
+710786	  17	01032	     	17-1032	Highland Park Dr	237	Town of Hillsville	017	Carroll County	0.06	17-1031 Highland Park Dr	US 52 Main St	210	R							X						01/07/2008
+710787	  17	01033	     	17-1033	Hidden Pines Lane	237	Town of Hillsville	017	Carroll County	0.18	17-1034 Big Red Dr	17-1031 Highland Park Dr	110	R							X						01/07/2008
+783142	  17	01034	     	17-1034	Big Red Dr	237	Town of Hillsville	017	Carroll County	0.08	US 52 Main St	17-1031 Highland Park Dr	120	R							X						01/07/2008
+782202	  17	01034	     	17-1034	Big Red Dr	237	Town of Hillsville	017	Carroll County	0.23	17-1031 Highland Park Dr	17-1033 Hidden Pines Lane	60	R							X						01/07/2008
+710788	  17	01034	     	17-1034	Big Red Dr	237	Town of Hillsville	017	Carroll County	0.22	17-1033 Hidden Pines Lane	17-780 Howlette St	130	R							X						01/07/2008
+710797	  17	01041	     	17-1041	Forest Dr	237	Town of Hillsville	017	Carroll County	0.07	Dead End	17-1042 Crestview Dr	49	R							X						09/19/2007
+710798	  17	01041	     	17-1041	Forest Dr	237	Town of Hillsville	017	Carroll County	0.18	17-1042 Crestview Dr	US 52 Main St	230	R							X						01/19/2008
+710799	  17	01042	     	17-1042	Crestview Dr	237	Town of Hillsville	017	Carroll County	0.12	17-1041 Forest Dr	17-1043 Shady Lane	120	R							X						09/19/2007
+710800	  17	01042	     	17-1042	Crestview Dr	237	Town of Hillsville	017	Carroll County	0.04	17-1043 Shady Lane	Dead End	30	R							X						09/19/2007
+710801	  17	01043	     	17-1043	Shady Lane	237	Town of Hillsville	017	Carroll County	0.09	Dead End	17-1042 Crestview Dr	40	R							X						09/19/2007
+710804	  17	01046	     	17-1046	Meridian Lane	237	Town of Hillsville	017	Carroll County	0.07	US 58 East Stuart Dr	NCL Hillsville	190	R							X						09/17/2007
+792748	  17	01118	     	17-1118	 	237	Town of Hillsville	017	Carroll County	0.18	17-1020 West Grayson Street	17-1119	0	?							X
+792749	  17	01119	     	17-1119	 	237	Town of Hillsville	017	Carroll County	0.06	Dead End	17-1118	0	?							X
+710878	  17	09748	     	17-9748	 	237	Town of Hillsville	017	Carroll County	0.05	17-1014 Oak St	17-1014 Oak St	70	R							X						09/24/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

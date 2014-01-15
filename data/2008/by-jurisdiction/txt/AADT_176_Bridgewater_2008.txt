@@ -1,0 +1,24 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Bridgewater																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+610102	  SR	00042	     	VA 42	S Main St	176	Town of Bridgewater	176	Town of Bridgewater	0.22	SCL Bridgewater	College Street	9000	G	96%	0%	1%	1%	2%	0%	C	0.0928	F	0.6852	9200	G	2008
+610110	  SR	00042	     	VA 42	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	0.15	College Street	Dinkel Ave	9800	G	96%	0%	1%	1%	2%	0%	F	0.0893	F	0.6194	10000	G	2008
+610111	  SR	00042	     	VA 42, VA 257	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	0.30	Dinkel Ave	Mt Crawford Ave	14000	G	96%	0%	1%	1%	2%	0%	F	0.0825	F	0.5750	14000	G	2008
+610103	  SR	00042	     	VA 42, VA 257	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	0.08	Mt Crawford Ave	North River Rd	16000	G	96%	0%	1%	1%	2%	0%	C	0.0847	F	0.5579	17000	G	2008
+610301	  SR	00042	     	VA 42, VA 257	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	1.00	North River Rd	Old NCL Bridgewater	16000	G	96%	0%	1%	1%	2%	0%	F	0.0833	F	0.5611	17000	G	2008
+781319	  SR	00042	     	VA 42, VA 257	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	0.30	Old NCL Bridgewater	NCL Bridgewater	16000	N	96%	0%	1%	1%	2%	0%	N	0.0833	N	0.5611	17000	N	2008
+781319	  SR	00257	     	VA 42, VA 257	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	0.30	CL Bridgewater	NCL BRIDGEWATER	16000	N	96%	0%	1%	1%	2%	0%	N	0.0833	N	0.5611	17000	N	2008	
+610301	  SR	00257	     	VA 42, VA 257	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	1.00	NCL BRIDGEWATER	NORTH RIVER RD	16000	G	96%	0%	1%	1%	2%	0%	F	0.0833	F	0.5611	17000	G	2008	
+610103	  SR	00257	     	VA 42, VA 257	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	0.08	NORTH RIVER RD	MT CRAWFORD AVE	16000	G	96%	0%	1%	1%	2%	0%	C	0.0847	F	0.5579	17000	G	2008	
+610111	  SR	00257	     	VA 42, VA 257	N Main St	176	Town of Bridgewater	176	Town of Bridgewater	0.30	MT CRAWFORD AVE	SR 42 MAIN ST	14000	G	96%	0%	1%	1%	2%	0%	F	0.0825	F	0.5750	14000	G	2008	
+610104	  SR	00257	     	VA 257	Dinkel Ave	176	Town of Bridgewater	176	Town of Bridgewater	1.76	SR 42 Main St	ECL Bridgewater	8200	G	93%	1%	1%	1%	4%	0%	C	0.0867	F	0.5407	8400	G	2008
+610300	 176	00001	     	176-1	Oakwood Dr	176	Town of Bridgewater	176	Town of Bridgewater	0.78	Main St	ECL Bridgewater	3700	G	97%	0%	1%	1%	1%	0%	C	0.0991	F	0.5798	3800	G	2008
+610109	 176	01903	     	176-1903	N River Rd	176	Town of Bridgewater	176	Town of Bridgewater	0.19	N Main St	Dry River Rd	2100	G	97%	1%	1%	1%	1%	0%	F	0.0946	F	0.5556	2100	G	2008
+610100	 176	01903	     	176-1903	Dry River Rd	176	Town of Bridgewater	176	Town of Bridgewater	0.43	N River Rd	NCL Bridgewater	3400	G	97%	1%	1%	1%	1%	0%	C	0.0903	F	0.5948	3500	G	2008
+510106	 176	00000	     	176-0	Collegeview Dr	176	Town of Bridgewater	176	Town of Bridgewater	0.00	Dinkle Ave	E College St.	1100	G							X	0.1082	F	0.0000	1200	G	2008
+510107	 176	00000	     	176-0	E College St	176	Town of Bridgewater	176	Town of Bridgewater	0.00	Main St	Collegeview Dr	1500	G							X	0.1119	F	0.0000	1600	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

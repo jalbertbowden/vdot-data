@@ -1,0 +1,796 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Prince George Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+040097	  SR	00010	     	VA 10	Randolph Rd	074	Prince George County	074	Prince George County	0.32	Chesterfield County Line	WCL Hopewell	18000	G	95%	0%	1%	1%	3%	0%	F	0.0829	N	0.5599	20000	G	2008
+639063	  SR	00010	     	VA 10	Randolph Rd	116	City of Hopewell	074	Prince George County	0.10	WCL Hopewell	Maintenance Boundary	19000	N	95%	0%	1%	1%	3%	0%	N	0.0887	N	0.0000	21000	N	2008
+639035	  SR	00010	     	VA 10	Randolph Rd	116	City of Hopewell	116	City of Hopewell	0.12	Maintenance Boundary	North 6th Ave	19000	F	95%	0%	1%	1%	3%	0%	F	0.0887	F	0.0000	21000	F	2008
+639036	  SR	00010	     	VA 10	Randolph Rd	116	City of Hopewell	116	City of Hopewell	0.40	North 6th Ave	Main St	12000	F	95%	0%	1%	1%	3%	0%	F	0.0841	F	0.0000	13000	F	2008
+639037	  SR	00010	     	VA 10	Randolph Rd	116	City of Hopewell	116	City of Hopewell	0.74	Main St	SR 156; Winston Churchill Dr	11000	F	95%	0%	1%	1%	3%	0%	F	0.0852	F	0.0000	12000	F	2008
+639038	  SR	00010	     	VA 10, VA 156	Randolph Rd	116	City of Hopewell	116	City of Hopewell	1.26	SR 156; Winston Churchill Dr	ECL Hopewell	9700	F	91%	1%	1%	1%	6%	0%	C	0.0837	F	0.0000	11000	F	2008
+040999	  SR	00010	     	VA 10, VA 156	James River Dr	074	Prince George County	074	Prince George County	1.17	ECL Hopewell	SR 156 W, Winston Churchhill Rd	9400	F	95%	0%	1%	1%	3%	0%	F	0.0892	F	0.0000	11000	F	2008
+040604	  SR	00010	     	VA 10, VA 106, VA 156	James River Dr	074	Prince George County	074	Prince George County	0.73	SR 156 W, Winston Churchhill Rd	SR 156 E, .	9600	F	93%	0%	1%	1%	5%	0%	C	0.0854	F	0.0000	10000	F	2008
+040603	  SR	00010	     	VA 10	James River Dr	074	Prince George County	074	Prince George County	2.24	SR 156 E, .	74-641 Moody Rd	4400	F	93%	0%	1%	1%	5%	0%	F	0.0875	F	0.6395	4700	F	2008
+040602	  SR	00010	     	VA 10	James River Dr	074	Prince George County	074	Prince George County	2.54	74-641 Moody Rd	74-609 Garysville	3200	F	93%	0%	1%	1%	5%	0%	F	0.0879	F	0.6244	3400	F	2008
+040776	  SR	00010	     	VA 10	James River Dr	074	Prince George County	074	Prince George County	5.93	74-609 Garysville	74-1201 Morning Star Rd	2700	F	90%	1%	1%	2%	6%	0%	C	0.1067	F	0.0000	2700	F	2008
+040775	  SR	00010	     	VA 10	James River Dr	074	Prince George County	074	Prince George County	2.00	74-1201 Morning Star Rd	Surry County Line	2400	F	94%	1%	1%	1%	4%	0%	F	0.0934	F	0.5486	2300	F	2008
+040607	  SR	00035	     	VA 35	Courtland Rd	074	Prince George County	074	Prince George County	4.05	Sussex County Line	I-95; SR 156 Prince George Dr	2500	F	80%	1%	1%	2%	17%	0%	C	0.0793	F	0.5695	2700	F	2008
+040700	  SR	00035	     	VA 35, US 301	Courtland Rd	074	Prince George County	074	Prince George County	0.72	I-95; SR 156 Prince George Dr	74-605 Spain Dr	860	F	80%	1%	1%	2%	17%	0%	F	0.0772	F	0.5767	920	F	2008
+040608	  SR	00036	     	VA 36	Oaklawn Blvd	074	Prince George County	074	Prince George County	0.76	ECL Petersburg	Hill Dr; Ft Lee Main Gate	15000	F	97%	0%	0%	1%	1%	0%	F	0.0813	F	0.0000	16000	F	2008
+040609	  SR	00036	     	VA 36	Oaklawn Blvd	074	Prince George County	074	Prince George County	1.25	Hill Dr; Ft Lee Main Gate	SR 144	17000	A	97%	0%	0%	1%	1%	0%	C	0.0922	A	0.0000	18000	A	2008
+639062	  SR	00036	     	VA 36	Oaklawn Blvd	074	Prince George County	074	Prince George County	0.20	SR 144	WCL Hopewell	28000	N	96%	0%	0%	1%	2%	0%	N	0.0808	N	0.0000	30000	N	2008
+639029	  SR	00036	     	VA 36	Oaklawn Blvd	116	City of Hopewell	116	City of Hopewell	0.52	WCL Hopewell	74-630 Jefferson Park Rd	28000	F	96%	0%	0%	1%	2%	0%	C	0.0808	F	0.0000	30000	F	2008
+639031	  SR	00036	     	VA 36	Oaklawn Blvd	116	City of Hopewell	116	City of Hopewell	0.65	74-630 Jefferson Park Rd	SR 36 Par	27000	F	97%	0%	0%	1%	1%	0%	F				29000	F	2008
+639032	  SR	00036	     	VA 36	Oaklawn Blvd	116	City of Hopewell	116	City of Hopewell	0.43	SR 36 Par	SR 36 Par, Woodlawn St; Kenwood Ave	9600	F	97%	0%	0%	1%	1%	0%	F				10000	F	2008		22000	F	97%	0%	0%	1%	1%	0%	F				24000	F
+639049	  SR	00036	     	VA 36	Winston Churchill Dr	116	City of Hopewell	116	City of Hopewell	0.60	SR 36 Par, Woodlawn St; Kenwood Ave	Miles Ave	19000	F	97%	0%	0%	1%	1%	0%	F				20000	F	2008
+639050	  SR	00036	     	VA 36	Winston Churchill Dr	116	City of Hopewell	116	City of Hopewell	0.39	Miles Ave	SR 156 High Ave	12000	F	97%	0%	0%	1%	1%	0%	F	0.0816	F	0.0000	13000	F	2008
+639051	  SR	00036	     	VA 36, VA 156	Winston Churchill Dr	116	City of Hopewell	116	City of Hopewell	0.25	SR 156 High Ave	SR 156; Arlington Rd	11000	F	97%	0%	0%	1%	1%	0%	F	0.0811	F	0.0000	12000	F	2008
+639003	  SR	00036	     	VA 36	Arlington Rd	116	City of Hopewell	116	City of Hopewell	0.12	SR 156 Winston Churchill Dr	15th Ave	2000	F	97%	0%	0%	1%	1%	0%	F	0.0944	F	0.5529	2100	F	2008
+639041	  SR	00036	     	VA 36	15th Avenue	116	City of Hopewell	116	City of Hopewell	0.77	Arlington Rd	City Point Rd	4900	F	99%	0%	0%	0%	0%	0%	C	0.0886	F	0.0000	5300	F	2008
+639023	  SR	00036	     	VA 36	15th Avenue	116	City of Hopewell	116	City of Hopewell	0.22	City Point Rd	Broadway St	2300	F	99%	0%	0%	0%	0%	0%	F	0.0869	F	0.5439	2600	F	2008
+639047	  SR	00036	     	VA 36	Broadway St	116	City of Hopewell	116	City of Hopewell	0.44	15th Ave	6th Ave	6900	F	99%	0%	0%	0%	0%	0%	F	0.0907	F	0.0000	7500	F	2008
+639026	  SR	00036	     	VA 36	6th Avenue	116	City of Hopewell	116	City of Hopewell	0.31	Broadway St	SR 10 Randolf Rd	8900	F	99%	0%	0%	0%	0%	0%	F				9600	F	2008
+639057	 2SR	00036	P    	VA 36 Par	Woodlawn St	116	City of Hopewell	116	City of Hopewell	0.61	SR 36 Oaklawn Blvd	Surry Ave	12000	F	97%	0%	0%	1%	1%	0%	C	0.0797	F	0.0000	13000	F	2008		22000	F	97%	0%	0%	1%	1%	0%	F				24000	F
+639058	 2SR	00036	P    	VA 36 Par	Woodlawn St	116	City of Hopewell	116	City of Hopewell	0.35	Surry Ave	SR 36 Oaklawn Blvd; Kenwood Ave	9500	F	97%	0%	0%	1%	2%	0%	C	0.0831	F	0.0000	10000	F	2008		19000	F	97%	0%	0%	1%	2%	0%	F	0.0000	?	0.0000	21000	F
+040610	  IS	00095	N    	I-95 NB	 	074	Prince George County	074	Prince George County	2.41	Sussex County Line	74-623 Carson	17000	A	82%	1%	1%	0%	15%	0%	C	0.1501	A	1.0000	14000	A	2008		30000	G	83%	1%	1%	0%	15%	0%	F				27000	G
+140001	  IS	00095	N    	I-95 NB	 	074	Prince George County	074	Prince George County	3.73	74-623 Carson	US 301, SR 35, SR 156	17000	F	82%	1%	1%	0%	15%	0%	F				15000	F	2008		35000	F	83%	1%	1%	1%	15%	0%	F				30000	F
+040056	  IS	00095	N    	I-95 NB	 	074	Prince George County	074	Prince George County	4.54	US 301, SR 35, SR 156	US 301	19000	A	83%	1%	1%	0%	14%	0%	C	0.1393	A	1.0000	17000	A	2008		39000	B	84%	1%	1%	1%	14%	0%	C	0.1209	A	0.0000	33000	B
+040612	  IS	00095	N    	I-95 NB	 	074	Prince George County	074	Prince George County	1.11	US 301	I-295 West	22000	F	83%	1%	1%	0%	14%	0%	F				19000	F	2008		43000	G	84%	1%	1%	1%	14%	0%	F				37000	G
+140241	  IS	00095	N    	I-95 NB	 	074	Prince George County	074	Prince George County	0.66	I-295 West	I-295 East	11000	N	83%	1%	1%	0%	14%	0%	N				9600	N	2008		24000	N	84%	1%	1%	1%	14%	0%	N				20000	N
+140002	  IS	00095	N    	I-95 NB	 	074	Prince George County	074	Prince George County	0.30	I-295 East	Rives Rd	11000	G	83%	1%	1%	0%	14%	0%	F				9600	G	2008		24000	G	84%	1%	1%	1%	14%	0%	F				20000	G
+040613	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	1.15	Rives Rd	Wagner Rd	15000	G	83%	1%	1%	0%	14%	0%	F				13000	G	2008		30000	G	84%	1%	1%	1%	14%	0%	F				26000	G
+040614	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	2.79	Wagner Rd	US 460 West St	20000	G	83%	1%	1%	0%	14%	0%	F				17000	G	2008		39000	G	84%	1%	1%	1%	14%	0%	F				33000	G
+040400	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	0.50	US 460 West St	I-85	20000	N	83%	1%	1%	0%	14%	0%	N				17000	N	2008		39000	N	84%	1%	1%	1%	14%	0%	N				33000	N
+789275	  IS	00095	N047A	I-95 NB Exit 047A	Ramp	123	City of Petersburg	074	Prince George County	0.17	I-95 North	123-9008 Rives Rd	0	?							X
+789276	  IS	00095	N048A	I-95 NB Exit 048A	Ramp	123	City of Petersburg	074	Prince George County	0.35	I-95 North	123-9010 Wagner Rd	0	?							X
+795369	  IS	00095	N050X	I-95 NB Exit 050X	Ramp	123	City of Petersburg	074	Prince George County	0.14	Ramp From US 301	Ramp to Wythe & Washington Streets	0	?							X
+140304	  IS	00095	S    	I-95 SB	 	074	Prince George County	074	Prince George County	2.91	Sussex County Line	74-623 Carson	13000	G	84%	1%	1%	1%	14%	0%	F				13000	G	2008		30000	G	83%	1%	1%	0%	15%	0%	F				27000	G
+140032	  IS	00095	S    	I-95 SB	 	074	Prince George County	074	Prince George County	3.42	74-623 Carson	US 301, SR 35, SR 156	18000	F	84%	1%	1%	1%	14%	0%	F				15000	F	2008		35000	F	83%	1%	1%	1%	15%	0%	F				30000	F
+140031	  IS	00095	S    	I-95 SB	 	074	Prince George County	074	Prince George County	5.45	US 301, SR 35, SR 156	US 301	19000	B	84%	1%	1%	1%	14%	0%	C	0.1352	A	1.0000	16000	B	2008		39000	B	84%	1%	1%	1%	14%	0%	C	0.1209	A	0.0000	33000	B
+140030	  IS	00095	S    	I-95 SB	 	074	Prince George County	074	Prince George County	0.16	US 301	I-295 East	22000	G	84%	1%	1%	1%	14%	0%	F				19000	G	2008		43000	G	84%	1%	1%	1%	14%	0%	F				37000	G
+140311	  IS	00095	S    	I-95 SB	 	074	Prince George County	074	Prince George County	0.42	I-295 East	I-295 West	13000	N	84%	1%	1%	1%	14%	0%	N				11000	N	2008		24000	N	84%	1%	1%	1%	14%	0%	N				20000	N
+140303	  IS	00095	S    	I-95 SB	 	074	Prince George County	074	Prince George County	0.42	I-295 West	SCL Petersburg	13000	G	84%	1%	1%	1%	14%	0%	F				11000	G	2008		24000	G	84%	1%	1%	1%	14%	0%	F				20000	G
+140029	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	0.34	SCL Petersburg	Rives Rd	13000	G	84%	1%	1%	1%	14%	0%	F				11000	G	2008		24000	G	84%	1%	1%	1%	14%	0%	F	0.0000	?	0.0000	20000	G
+140028	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	1.22	Rives Rd	Wagner Rd	15000	G	84%	1%	1%	1%	14%	0%	F				13000	G	2008		30000	G	84%	1%	1%	1%	14%	0%	F				26000	G
+140027	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	2.29	Wagner Rd	US 460 County Rd; US 301 Crater Rd	19000	G	84%	1%	1%	1%	14%	0%	F				16000	G	2008		39000	G	84%	1%	1%	1%	14%	0%	F				33000	G
+140026	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	0.53	US 460 County Rd; US 301 Crater Rd	I-85	19000	N	84%	1%	1%	1%	14%	0%	N				16000	N	2008		39000	N	84%	1%	1%	1%	14%	0%	N				33000	N
+789363	  IS	00095	S037A	I-95 SB Exit 037A	Ramp	074	Prince George County	074	Prince George County	0.20	I-95 South	US 301 Crater Rd	700	F							X				700	F	2008
+789367	  IS	00095	S045A	I-95 SB Exit 045A	Ramp	074	Prince George County	074	Prince George County	0.12	I-95 South	US 301 Crater Rd	2000	F							X				2000	F	2008
+789368	  IS	00095	S046A	I-95 SB Exit 046A	Ramp From I-95 S to I-295 N (W)	074	Prince George County	074	Prince George County	0.36	I-95 S	I-295 N	1500	F	78%	1%	1%	1%	19%	0%	F				1300	F	2008
+789371	  IS	00095	S048B	I-95 SB Exit 048B	Ramp	123	City of Petersburg	074	Prince George County	0.31	I-95 South	123-9010 Wagner Rd	0	?							X
+789771	  IS	00095	S050X	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301	US 460 Ramp	12000	F							X				12000	F	2008
+040615	  SR	00106	     	VA 106	Courthouse Rd	074	Prince George County	074	Prince George County	2.39	ECL Petersburg	74-634 Allin Rd	9000	F	95%	1%	1%	1%	2%	0%	F	0.0884	F	0.5492	9800	F	2008
+040616	  SR	00106	     	VA 106	Courthouse Rd	074	Prince George County	074	Prince George County	0.86	74-634 Allin Rd	74-616 Laurel Spring Rd	11000	F	95%	1%	1%	1%	2%	0%	C	0.0901	F	0.0000	12000	F	2008
+040618	  SR	00106	     	VA 106	Courthouse Rd	074	Prince George County	074	Prince George County	1.50	74-616 Laurel Spring Rd	BYP SR 156 Ruffin Rd	6300	F	95%	1%	1%	1%	2%	0%	F	0.0884	F	0.5750	6800	F	2008
+040623	  SR	00106	     	Byp VA 156, VA 106	 	074	Prince George County	074	Prince George County	1.09	BYP SR 156 Ruffin Rd	74-609	5600	F	89%	1%	1%	1%	9%	0%	F	0.0946	F	0.5575	6100	F	2008	
+040624	  SR	00106	     	Byp VA 156, VA 106	 	074	Prince George County	074	Prince George County	3.47	74-609	RT 156 BUS & RT 10	3400	F	89%	1%	1%	1%	9%	0%	C	0.0941	F	0.0000	3700	F	2008	
+040604	  SR	00106	     	VA 10, VA 106, VA 156	James River Dr	074	Prince George County	074	Prince George County	0.73	RT 156 BUS & RT 10	RT 10 & RT 156	9600	F	93%	0%	1%	1%	5%	0%	C	0.0854	F	0.0000	10000	F	2008	
+040258	  SR	00106	     	VA 156, VA 106	 	074	Prince George County	074	Prince George County	2.69	RT 10 & RT 156	Charles City County Line	4300	F	91%	1%	1%	2%	6%	0%	C	0.0977	F	0.0000	4600	F	2008	
+040713	  SR	00144	     	VA 144	Temple Ave	074	Prince George County	074	Prince George County	2.58	SR 36	Chesterfield County Line	32000	A	98%	0%	0%	1%	1%	0%	C	0.1008	A	0.0000	32000	A	2008
+040701	  SR	00156	     	VA 156, US 301	Prince George Dr	074	Prince George County	074	Prince George County	0.17	SR 35 Courtland Rd	US 301 Crater Rd	1800	F	92%	3%	2%	1%	3%	0%	F	0.0838	F	0.5677	1900	F	2008
+040622	  SR	00156	     	VA 156	Prince George Dr	074	Prince George County	074	Prince George County	4.09	US 301 Crater Rd	74-626 Tavern Rd	1700	F	92%	3%	2%	1%	3%	0%	C	0.1191	F	0.7851	1800	F	2008
+040621	  SR	00156	     	VA 156	Prince George Dr	074	Prince George County	074	Prince George County	3.07	74-626 Tavern Rd	US 460 West of Disputanta	2000	F	92%	3%	2%	1%	3%	0%	F	0.1182	F	0.7368	2200	F	2008
+040620	  SR	00156	     	VA 156	Prince George Dr	074	Prince George County	074	Prince George County	5.73	US 460 West of Disputanta	SR 106 Courthouse Rd; Bypass SR 156	4700	F	90%	4%	1%	1%	4%	0%	C	0.1214	F	0.0000	5000	F	2008
+040619	  SR	00156	     	VA 156	Prince George Dr	074	Prince George County	074	Prince George County	0.89	SR 106 Courthouse Rd; Bypass SR 156	74- 674 Mount Sinai Rd	7200	F	96%	1%	1%	1%	1%	0%	C	0.0973	F	0.0000	7800	F	2008
+040237	  SR	00156	     	VA 156	Prince George Dr	074	Prince George County	074	Prince George County	2.24	74-674 Mount Sinai Rd	SCL Hopewell	7200	F	98%	0%	1%	1%	1%	0%	C	0.0932	F	0.0000	7800	F	2008
+639059	  SR	00156	     	VA 156	Arlington Rd	116	City of Hopewell	116	City of Hopewell	0.56	SCL Hopewell	Berry Street	9800	F	96%	1%	1%	1%	1%	0%	F				11000	F	2008
+639015	  SR	00156	     	VA 156	High Ave	116	City of Hopewell	116	City of Hopewell	0.38	Berry Street	Winston Churchill Rd	5400	F	97%	1%	1%	1%	1%	0%	C				5900	F	2008
+639051	  SR	00156	     	VA 36, VA 156	Winston Churchill Dr	116	City of Hopewell	116	City of Hopewell	0.25	S RT 36	N RT 36	11000	F	97%	0%	0%	1%	1%	0%	F	0.0811	F	0.0000	12000	F	2008	
+639054	  SR	00156	     	VA 156	Winston Churchill Rd	116	City of Hopewell	116	City of Hopewell	0.55	Arlington Rd	South 6th Ave	17000	F	98%	0%	0%	1%	1%	0%	F	0.0802	F	0.0000	18000	F	2008
+639055	  SR	00156	     	VA 156	Winston Churchill Dr	116	City of Hopewell	116	City of Hopewell	0.80	South 6th Ave	SR 10; Randolph Rd	8400	F	98%	0%	0%	1%	1%	0%	F	0.0851	F	0.0000	8600	F	2008
+639038	  SR	00156	     	VA 10, VA 156	Randolph Rd	116	City of Hopewell	116	City of Hopewell	1.26	S RT 10	ECL Hopewell	9700	F	91%	1%	1%	1%	6%	0%	C	0.0837	F	0.0000	11000	F	2008	
+040999	  SR	00156	     	VA 10, VA 156	James River Dr	074	Prince George County	074	Prince George County	1.17	ECL Hopewell	W SR 156	9400	F	95%	0%	1%	1%	3%	0%	F	0.0892	F	0.0000	11000	F	2008	
+040604	  SR	00156	     	VA 10, VA 106, VA 156	James River Dr	074	Prince George County	074	Prince George County	0.73	W SR 156	N SR 10	9600	F	93%	0%	1%	1%	5%	0%	C	0.0854	F	0.0000	10000	F	2008	
+040258	  SR	00156	     	VA 156, VA 106	 	074	Prince George County	074	Prince George County	2.69	N SR 10	Charles City County Line	4300	F	91%	1%	1%	2%	6%	0%	C	0.0977	F	0.0000	4600	F	2008
+040623	B1SR	00156	     	Byp VA 156, VA 106	 	074	Prince George County	074	Prince George County	1.09	SR 106 & 156	74-609 Old Stage Rd	5600	F	89%	1%	1%	1%	9%	0%	F	0.0946	F	0.5575	6100	F	2008
+040624	B1SR	00156	     	Byp VA 156, VA 106	 	074	Prince George County	074	Prince George County	3.47	74-609 Old Stage Rd	SR 10-156 East of Hopewell	3400	F	89%	1%	1%	1%	9%	0%	C	0.0941	F	0.0000	3700	F	2008
+940762	  IS	00295	E    	I-295 EB	 	116	City of Hopewell	074	Prince George County	3.30	NCL Hopewell	SR 36 Oaklawn Blvd; SCL Hopewell	18000	G	79%	1%	1%	1%	18%	0%	F	0.0849	F	1.0000	16000	G	2008	East I-295 is signed as South I-295	34000	G	78%	1%	1%	1%	19%	0%	F				31000	G
+040764	  IS	00295	E    	I-295 EB	 	074	Prince George County	074	Prince George County	6.54	SR 36 Oaklawn Blvd; SCL Hopewell	US 460 County Dr	12000	F	79%	1%	1%	1%	18%	0%	F				10000	F	2008	East I-295 is signed as South I-295	23000	F	78%	1%	1%	1%	19%	0%	F				20000	F
+040765	  IS	00295	E    	I-295 EB	 	074	Prince George County	074	Prince George County	2.57	US 460 County Dr	Exit 1A to I-95 North	8500	A	79%	1%	1%	1%	18%	0%	C	0.1337	A	1.0000	7400	A	2008	East I-295 is signed as South I-295	17000	A	78%	1%	1%	1%	19%	0%	C	0.1269	A	0.0000	15000	A
+040769	  IS	00295	E    	I-295 EB	 	074	Prince George County	074	Prince George County	0.46	Exit 1A to I-95 North	I-95 South	8500	N	79%	1%	1%	1%	18%	0%	N	0.1337	N	1.0000	7400	N	2008		17000	N	78%	1%	1%	1%	19%	0%	N				15000	N
+789468	  IS	00295	E001A	I-295 EB Exit 001A	Ramp From I-295 S (E) to I-95 N	074	Prince George County	074	Prince George County	0.28	I-295 S	I-95 N	850	F	79%	1%	1%	1%	18%	0%	F				750	F	2008
+790816	  IS	00295	E003B	I-295 EB Exit 003B	Ramp	074	Prince George County	074	Prince George County	0.52	I-295 East	US 460 County Dr	0	?							X
+140305	  IS	00295	W    	I-295 WB	 	116	City of Hopewell	074	Prince George County	3.30	NCL Hopewell	SR 36 Oaklawn Blvd; SCL Hopewell	16000	G	78%	1%	1%	1%	19%	0%	F	0.0825	F	1.0000	15000	G	2008	West I-295 is signed as North I-295	34000	G	78%	1%	1%	1%	19%	0%	F				31000	G
+140059	  IS	00295	W    	I-295 WB	 	074	Prince George County	074	Prince George County	7.38	SR 36 Oaklawn Blvd; SCL Hopewell	US 460 County Dr	11000	F	78%	1%	1%	1%	19%	0%	F				9900	F	2008	West I-295 is signed as North I-295	23000	F	78%	1%	1%	1%	19%	0%	F				20000	F
+140058	  IS	00295	W    	I-295 WB	 	074	Prince George County	074	Prince George County	1.75	US 460 County Dr	Ramp from I-95 South Exit 46A	8700	A	78%	1%	1%	1%	19%	0%	C	0.1438	A	1.0000	7900	A	2008	West I-295 is signed as North I-295	17000	A	78%	1%	1%	1%	19%	0%	C	0.1269	A	0.0000	15000	A
+140238	  IS	00295	W    	I-295 WB	 	074	Prince George County	074	Prince George County	0.57	Ramp from I-95 South Exit 46A	I-95 North	8700	N	78%	1%	1%	1%	19%	0%	N	0.1438	N	1.0000	7900	N	2008		17000	N	78%	1%	1%	1%	19%	0%	N				15000	N
+040626	  US	00301	     	US 301	Crater Rd	074	Prince George County	074	Prince George County	2.69	Sussex County Line	74-604; 74-623 Rowanty Rd	890	F	86%	0%	2%	2%	10%	0%	C	0.0948	F	0.6489	950	F	2008
+040625	  US	00301	     	US 301	Crater Rd	074	Prince George County	074	Prince George County	3.86	74-604; 74-623 Rowanty Rd	SR 35 Courtland Rd	1300	F	86%	0%	2%	2%	10%	0%	F	0.0848	F	0.7301	1400	F	2008
+040700	  US	00301	     	VA 35, US 301	Courtland Rd	074	Prince George County	074	Prince George County	0.72	<< Invalid Overlap >>	<< Invalid Overlap >>	860	F	80%	1%	1%	2%	17%	0%	F	0.0772	F	0.5767	920	F	2008	
+040701	  US	00301	     	VA 156, US 301	Prince George Dr	074	Prince George County	074	Prince George County	0.17	SR 35 Courtland Rd	SR 156 Prince George Dr	1800	F	92%	3%	2%	1%	3%	0%	F	0.0838	F	0.5677	1900	F	2008	
+040177	  US	00301	     	US 301	Crater Rd	074	Prince George County	074	Prince George County	4.42	SR 156 Prince George Dr	I-95	1700	F	97%	0%	1%	1%	1%	0%	C	0.0961	F	0.7232	1800	F	2008
+040238	  US	00301	     	US 301	Crater Rd	074	Prince George County	074	Prince George County	2.07	I-95	SCL Petersburg	6200	F	99%	0%	0%	0%	0%	0%	C	0.0982	F	0.0000	6700	F	2008
+789771	  US	00460	     	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301	US 460	12000	F							X				12000	F	2008	
+040768	  US	00460	     	US 460	County Dr	074	Prince George County	074	Prince George County	0.40	Dinwiddie County Line	I-295	13000	F	88%	1%	1%	1%	9%	0%	F	0.0867	F	0.0000	14000	F	2008
+040794	  US	00460	     	US 460	County Dr	074	Prince George County	074	Prince George County	0.74	I-295	74-629	16000	N	82%	1%	1%	1%	15%	0%	N				15000	N	2008
+040792	  US	00460	     	US 460	County Dr	074	Prince George County	074	Prince George County	3.07	74-629 Rives Rd; W Quaker Rd	SR 156 Prince George Dr	16000	F	82%	1%	1%	1%	15%	0%	F				15000	F	2008
+040025	  US	00460	     	US 460	County Dr	074	Prince George County	074	Prince George County	6.20	SR 156 Prince George Dr	Sussex County Line	13000	F	82%	1%	1%	1%	15%	0%	F				12000	F	2008
+789771	CEUS	00460	     	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301North	Bus US 460	12000	F							X				12000	F	2008	
+780371	  FR	00121	     	FR 121	Park Dale Rd	074	Prince George County	074	Prince George County	1.12	Dead End	SR 35 Courtland Rd	680	R							X						03/05/2008
+780372	  FR	00122	     	FR 122	Sunny Brook Rd	074	Prince George County	074	Prince George County	2.86	SR 35; US 301 Crater Rd	74-607 Sunny Brook Rd; Butter Branch Rd	590	R							X						03/05/2008
+780373	  FR	00123	     	FR 123	Gatewood Rd	074	Prince George County	074	Prince George County	0.50	74-608 Garys Church Rd	Dead End	80	R							X						03/05/2008
+780374	  FR	00124	     	FR 124	Gravel Brook Rd	074	Prince George County	074	Prince George County	1.16	US 301 Ramp From I-95	74-608 Garys Church Rd	1400	R							X						03/05/2008
+780375	  FR	00125	     	FR 125	Indian Rd	074	Prince George County	074	Prince George County	1.65	US 301 Ramp From I-95	Dead End	360	R							X						03/05/2008
+780516	  FR	00292	     	FR 292	 	074	Prince George County	074	Prince George County	0.40	Dead End	Dead End	8	R							X						03/17/2008
+780518	  FR	00294	     	FR 294	Rowanty Ct	074	Prince George County	074	Prince George County	0.03	Dead End	74-670 Rowanty Ct	20	R							X						03/17/2008
+780519	  FR	00295	     	FR 295	Indian Rd	074	Prince George County	074	Prince George County	0.15	Dead End	74-671 Indian Rd	360	R							X						03/05/2008
+790796	  FR	00329	     	FR 329	Lake Shore Dr	123	City of Petersburg	074	Prince George County	0.17	Dead End	74-1102 Lakeshore Dr	10	R							X						03/17/2008
+780542	  FR	00330	     	FR 330	N Normandy Dr	123	City of Petersburg	074	Prince George County	2.93	Dead End	FR-331 Service Rd	3700	R							X						03/17/2008
+780543	  FR	00331	     	FR 331	Service Rd	123	City of Petersburg	074	Prince George County	0.78	Dead End	Dead End	1400	R							X						03/17/2008
+784850	  FR	00342	     	FR 342	 	074	Prince George County	074	Prince George County	0.66	Prop 74-730	Dead End	10	R							X						03/17/2008
+780904	  FR	00990	     	FR 990	 	074	Prince George County	074	Prince George County	0.17	US 460 County Dr	Dead End	0	?							X
+760557	  74	00600	     	74-600	Ellis Rd	074	Prince George County	074	Prince George County	1.77	74-611 Lebanon Rd	Surry County Line	160	R							X						03/31/2008
+760558	  74	00601	     	74-601	Alden Rd	074	Prince George County	074	Prince George County	0.80	US 460; 74-624	74-613 Webb Rd	120	R							X						03/31/2008
+760559	  74	00601	     	74-601	Alden Rd	074	Prince George County	074	Prince George County	3.06	74-613 Webb Rd	Surry County Line	170	R							X						03/31/2008
+760560	  74	00602	     	74-602	Point Rd	074	Prince George County	074	Prince George County	0.43	74-653 Willow Hill Rd; Upper Brandon Rd	Dead End	70	R							X						03/31/2008
+760561	  74	00603	     	74-603	Baxter Rd	074	Prince George County	074	Prince George County	1.29	ECL Petersburg	SR 106 Courthouse Rd	3200	R							X						07/05/2005
+301369	  74	00604	     	74-604	Halifax Rd	074	Prince George County	074	Prince George County	2.34	Dinwiddie County Line NORTH	26-703; Carson Rd; Din CL SOUTH	510	F	92%	0%	1%	1%	5%	0%	F	0.0916	F	0.5000	540	F	2008
+301370	  74	00604	     	74-604	Halifax Rd	074	Prince George County	074	Prince George County	0.16	26-703; Carson Rd; Din CL SOUTH	US 301; 74-623	1200	F	92%	0%	1%	1%	5%	0%	C	0.0996	F	0.6312	1300	F	2008
+760562	  74	00605	     	74-605	Spain Rd	074	Prince George County	074	Prince George County	1.40	Dinwiddie County Line	74-621 Shands Rd	510	R							X						03/05/2008
+760563	  74	00605	     	74-605	Spain Rd	074	Prince George County	074	Prince George County	0.20	74-621 Shands Rd	SR 35; 74-622	750	R							X						03/05/2008
+760564	  74	00605	     	74-605	Spain Rd	074	Prince George County	074	Prince George County	0.81	SR 35; 74-622	Service Rd, I-95	210	R							X						03/05/2008
+760565	  74	00606	     	74-606	 	074	Prince George County	074	Prince George County	0.50	Dinwiddie County Line	74-622 Providence Rd	280	R							X						03/05/2008
+760566	  74	00607	     	74-607	Butter Branch Rd	074	Prince George County	074	Prince George County	2.35	Dinwiddie County Line	FR-122 Sunny Brook Rd	360	R							X						03/05/2008
+760567	  74	00607	     	74-607	Sunny Brook Rd	074	Prince George County	074	Prince George County	0.35	FR-122 Sunny Brook Rd	74-608 Garys Church Rd	1700	R							X						03/05/2008
+760568	  74	00608	     	74-608	Garys Church Rd	074	Prince George County	074	Prince George County	2.55	US 301 Crater Rd	74-622 Fairwood Rd	1000	R							X						03/05/2008
+301371	  74	00608	     	74-608	Johnson Rd	074	Prince George County	074	Prince George County	0.81	74-622 Fairwood Rd	Dinwiddie County Line	960	F	99%	0%	0%	1%	0%	0%	C	0.1134	F	0.5966	1000	F	2008
+303782	  74	00608	     	74-608	Johnson Rd	026	Dinwiddie County	074	Prince George County	0.31	Prince George County Line	SR 345; 26-677	960	N	99%	0%	0%	1%	0%	0%	N	0.1134	N	0.5966	1000	N	2008
+301372	  74	00608	     	74-608	Johnson Rd	026	Dinwiddie County	074	Prince George County	1.00	SR 345; 26-677	SCL Petersburg	1300	F	99%	0%	0%	0%	0%	0%	C	0.1007	F	0.5584	1400	F	2008
+301373	  74	00609	     	74-609	Old Stage Rd	074	Prince George County	074	Prince George County	1.34	SR 106, Bypass SR 156	74-636 Lawyers Rd	2800	F	96%	1%	1%	1%	1%	0%	C	0.0943	F	0.6296	3000	F	2008
+301374	  74	00609	     	74-609	Old Stage Rd	074	Prince George County	074	Prince George County	2.57	74-636 Lawyers Rd	74-635 Heritage Rd	1500	F	96%	1%	1%	1%	1%	0%	F	0.0992	F	0.6379	1700	F	2008
+301375	  74	00609	     	74-609	Old Stage Rd	074	Prince George County	074	Prince George County	1.86	74-635 Heritage Rd	SR 10 James River Dr	890	F	96%	1%	1%	1%	1%	0%	F	0.0892	F	0.5829	950	F	2008
+760569	  74	00610	     	74-610	Chippokes Rd	074	Prince George County	074	Prince George County	2.00	SR 10 James River Dr	74-611 Brandon Rd	170	R							X						03/31/2008
+760570	  74	00611	     	74-611	Lebanon Dr	074	Prince George County	074	Prince George County	0.48	Dead End	74-625 Hines Rd	90	R							X						03/31/2008
+760571	  74	00611	     	74-611	Lebanon Rd	074	Prince George County	074	Prince George County	2.00	74-625 Hines Rd	74-612 Cedar Lane	230	R							X						03/31/2008
+760572	  74	00611	     	74-611	Lebanon Rd	074	Prince George County	074	Prince George County	1.70	74-612 Cedar Lane	74-658 Lone Oak Mill Rd	100	R							X						03/31/2008
+760573	  74	00611	     	74-611	Lebanon Rd	074	Prince George County	074	Prince George County	2.92	74-658 Lone Oak Mill Rd	74-1201 Morning Star Rd	170	R							X						03/31/2008
+301376	  74	00611	     	74-611	Brandon Rd	074	Prince George County	074	Prince George County	2.10	74-1201 Morning Star Rd	74-610 Chippokes Rd	260	F	95%	2%	1%	2%	0%	0%	C	0.1166	F	0.6061	280	F	2008
+760574	  74	00611	     	74-611	Lebanon Rd	074	Prince George County	074	Prince George County	3.27	74-610 Chippokes Rd	Dead End	60	R							X						03/31/2008
+760575	  74	00612	     	74-612	Cedar Lane	074	Prince George County	074	Prince George County	0.90	74-611 Lebanon Rd	74-616 Laurel Springs Rd; Pole Run Rd	200	R							X						03/31/2008
+760576	  74	00613	     	74-613	Webb Rd	074	Prince George County	074	Prince George County	1.50	Sussex County Line	74-601 Alden Rd	110	R							X						03/31/2008
+760577	  74	00613	     	74-613	Webb Rd	074	Prince George County	074	Prince George County	1.80	74-601 Alden Rd	74-625 Hines Rd	290	R							X						03/31/2008
+760578	  74	00614	     	74-614	Nobles Rd	074	Prince George County	074	Prince George County	1.90	SR 10 W, James River Dr	74-615 Nobles Rd	230	R							X						03/31/2008
+760579	  74	00614	     	74-614	Wards Creek Rd	074	Prince George County	074	Prince George County	3.20	74-615 Nobles Rd	SR 10 E, James River Dr	60	R							X						03/31/2008
+760580	  74	00615	     	74-615	Nobles Rd	074	Prince George County	074	Prince George County	0.40	74-614 Wards Creek Rd; Nobles Rd	Dead End	10	R							X						03/31/2008
+301377	  74	00616	     	74-616	Laurel Springs Rd	074	Prince George County	074	Prince George County	1.96	SR 106; 74-724	SR 156 N, Prince George Dr	3200	F	96%	2%	1%	1%	0%	0%	C	0.1396	F	0.5795	3400	F	2008
+301378	  74	00616	     	74-616	Laurel Springs Rd; Pole Run Rd	074	Prince George County	074	Prince George County	2.50	SR 156 S, Prince George Dr	74-618 Hollywood Dr	1600	F	98%	1%	1%	1%	0%	0%	F	0.1018	F	0.7834	1700	F	2008
+301379	  74	00616	     	74-616	Laurel Springs Rd; Pole Run Rd	074	Prince George County	074	Prince George County	4.13	74-618 Hollywood Rd	74-625 Hines Rd	1000	F	98%	1%	1%	1%	0%	0%	C	0.1071	F	0.8198	1100	F	2008
+301380	  74	00616	     	74-616	Laurel Springs Rd; Pole Run Rd	074	Prince George County	074	Prince George County	3.77	74-625 Hines Rd	SR 10 James River Dr	350	F	98%	1%	1%	1%	0%	0%	F	0.1120	F	0.8025	370	F	2008
+760581	  74	00617	     	74-617	Hollywood Rd	074	Prince George County	074	Prince George County	0.90	74-618 Hollywood Rd	Dead End	30	R							X						03/31/2008
+760582	  74	00618	     	74-618	Robin Rd	074	Prince George County	074	Prince George County	2.37	74-627 Pumphouse Rd	74-630 W, Golf Course Rd; Gold Course Rd	330	R							X						03/31/2008
+760583	  74	00618	     	74-618	Queen St	074	Prince George County	074	Prince George County	0.10	74-630 E, Gold Course Rd; Golf Course Rd	US 460 County Dr	630	R							X						03/31/2008
+760584	  74	00618	     	74-618	Queen St	074	Prince George County	074	Prince George County	1.20	US 460 County Dr	74-629 East Quaker Rd	570	R							X						03/31/2008
+760585	  74	00618	     	74-618	Hitchcock Rd	074	Prince George County	074	Prince George County	2.76	74-629 East Quaker Rd	74-632 South Hampton Rd	130	R							X						03/31/2008
+760586	  74	00618	     	74-618	Hollywood Rd	074	Prince George County	074	Prince George County	0.94	74-632 South Hampton Rd	74-635 Centennial Rd	270	R							X						03/31/2008
+760587	  74	00618	     	74-618	Hollywood Rd	074	Prince George County	074	Prince George County	0.50	74-635 Centennial Rd	74-616 Laurel Springs Rd; Pole Run Rd	360	R							X						03/31/2008
+760588	  74	00619	     	74-619	Holdworths Rd	074	Prince George County	074	Prince George County	2.10	74-625 Arwood Rd; County Line Rd	74-627 Pumphouse Rd; Loving Union Rd	400	R							X						07/20/2005
+760589	  74	00620	     	74-620	Tatum Rd	074	Prince George County	074	Prince George County	1.00	74-638 Templeton Rd	1.00 ME 74-638 Templeton Rd	480	R							X						07/20/2005
+760590	  74	00620	     	74-620	Tatum Rd	074	Prince George County	074	Prince George County	1.90	1.00 ME 74-638 Templeton Rd	74-627 Loving Union Rd	240	R							X						07/20/2005
+760591	  74	00621	     	74-621	Shands Rd	074	Prince George County	074	Prince George County	2.28	74-604 Halifax Rd	74-605 Spain Rd	340	R							X						07/20/2005
+760592	  74	00622	     	74-622	Providence Rd	074	Prince George County	074	Prince George County	1.50	SR 35; 74-605	74-606	550	R							X						07/20/2005
+760593	  74	00622	     	74-622	Providence Rd	074	Prince George County	074	Prince George County	0.30	74-606	74-607 E, Butter Branch Rd	470	R							X						07/20/2005
+760594	  74	00622	     	74-622	Fairwood Rd	074	Prince George County	074	Prince George County	2.70	74-607 W, Butter Branch Rd	74-608 Johnson Rd; Garys Church Rd	230	R							X						07/20/2005
+301381	  74	00623	     	74-623	Rowanty Rd	074	Prince George County	074	Prince George County	0.30	Sussex County Line	74-667 Johns Rd	260	F	96%	0%	0%	0%	3%	0%	F	0.1208	F	0.7105	280	F	2008
+301382	  74	00623	     	74-623	Rowanty Rd	074	Prince George County	074	Prince George County	2.42	74-667 Johns Rd	74-670 Rowanty Ct	350	F	96%	0%	0%	0%	3%	0%	C	0.1097	F	0.7209	370	F	2008
+301383	  74	00623	     	74-623	Rowanty Rd	074	Prince George County	074	Prince George County	0.55	74-670 Rowanty Ct	US 301; 74-604	670	F	96%	0%	0%	0%	3%	0%	F	0.1126	F	0.6127	710	F	2008
+760595	  74	00624	     	74-624	Alden Rd	074	Prince George County	074	Prince George County	1.00	Sussex County Line	US 460; 74-601	60	R							X						03/31/2008
+301384	  74	00625	     	74-625	County Line Rd	074	Prince George County	074	Prince George County	0.96	Sussex County Line	74-619 Holdworths Rd	700	F	99%	0%	0%	0%	0%	0%	F	0.1115	F	0.6816	750	F	2008
+301385	  74	00625	     	74-625	Arwood Rd	074	Prince George County	074	Prince George County	2.68	74-619 Holdworths Rd	74-630 Golf Course Rd	850	F	99%	0%	0%	0%	0%	0%	C	0.1168	F	0.5138	910	F	2008
+301386	  74	00625	     	74-625	Hines Rd	074	Prince George County	074	Prince George County	0.09	74-630 Golf Course Rd	US 460 County Dr	1200	F	99%	0%	0%	0%	0%	0%	F	0.1034	F	0.5465	1200	F	2008
+301387	  74	00625	     	74-625	Hines Rd	074	Prince George County	074	Prince George County	0.51	US 460 County Dr	74-613 Webb Rd	680	F	95%	0%	1%	1%	3%	0%	C	0.1108	F	0.7143	720	F	2008
+301388	  74	00625	     	74-625	Hines Rd	074	Prince George County	074	Prince George County	4.17	74-613 Webb Rd	74-611 Lebanon Rd	380	F	95%	0%	1%	1%	3%	0%	F	0.1299	F	0.5656	400	F	2008
+301389	  74	00625	     	74-625	Hines Rd	074	Prince George County	074	Prince George County	1.48	74-611 Lebanon Dr	74-616 Pole Run Rd	350	F	95%	0%	1%	1%	3%	0%	F	0.1280	F	0.5377	380	F	2008
+301390	  74	00625	     	74-625	Hines Rd	074	Prince George County	074	Prince George County	2.98	74-616 Pole Run Rd	SR 10 James River Dr	520	F	96%	1%	2%	1%	1%	0%	C	0.1031	F	0.5620	560	F	2008
+760596	  74	00626	     	74-626	Thweatt Rd	074	Prince George County	074	Prince George County	2.88	74-627 Pumphouse Rd	SR 156 S, Prince George Dr	510	R							X						09/27/2005
+301391	  74	00626	     	74-626	Tavern Rd	074	Prince George County	074	Prince George County	1.60	SR 156 N, Prince George Dr	1.60 MW SR 156	790	F	99%	0%	0%	0%	0%	0%	F	0.1118	F	0.5470	850	F	2008
+301392	  74	00626	     	74-626	Tavern Rd	074	Prince George County	074	Prince George County	1.00	1.60 MW SR 156	74-649 Union Branch Rd	950	F	99%	0%	0%	0%	0%	0%	C	0.1047	F	0.6038	1000	F	2008
+301393	  74	00626	     	74-626	Tavern Rd	074	Prince George County	074	Prince George County	0.80	74-649 Union Branch Rd	US 301 Crater Rd	2900	F	99%	0%	0%	0%	0%	0%	F	0.0972	F	0.6698	3200	F	2008
+301394	  74	00627	     	74-627	Loving Union Rd	074	Prince George County	074	Prince George County	2.43	Sussex County Line	74-662 Hair Rd	320	F	97%	0%	0%	1%	2%	0%	F	0.1331	F	0.6354	340	F	2008
+301395	  74	00627	     	74-627	Loving Union Rd	074	Prince George County	074	Prince George County	1.15	74-662 Hair Rd	74-619 Holdworths Rd	410	F	97%	0%	0%	1%	2%	0%	C	0.0980	F	0.5208	440	F	2008
+301396	  74	00627	     	74-627	Pumphouse Rd	074	Prince George County	074	Prince George County	4.30	74-619 Holdworths Rd	74-630 Golf Course Rd	500	F	97%	0%	0%	1%	2%	0%	F	0.1028	F	0.8609	540	F	2008
+760597	  74	00628	     	74-628	Griffin Rd	074	Prince George County	074	Prince George County	1.36	74-608 Garys Church Rd	1.36 MN 74- 608 Garys Church Rd	190	R							X						03/05/2008
+760598	  74	00628	     	74-628	Griffin Rd	074	Prince George County	074	Prince George County	0.80	1.36 MN 74-608 Garys Church Rd	74-629 Birdsong Rd	280	R							X						03/05/2008
+301397	  74	00629	     	74-629	Birdsong Rd	074	Prince George County	074	Prince George County	2.28	SCL Petersburg	US 301 Crater Rd; Gap	1200	F	97%	0%	1%	2%	1%	0%	F	0.1078	F	0.6784	1300	F	2008
+301398	  74	00629	     	74-629	Rives Rd	074	Prince George County	074	Prince George County	1.55	ECL Petersburg; Gap	74-630 W, Lamore Dr	5300	F	97%	0%	1%	2%	1%	0%	C	0.0897	F	0.0000	5800	F	2008
+301399	  74	00629	     	74-629	Rives Rd	074	Prince George County	074	Prince George County	0.04	74-630 W, Lamore Dr	74-630 E, Lamore Rd; Bull Hill Rd	5700	F	97%	0%	1%	2%	1%	0%	F	0.0892	F	0.0000	6200	F	2008
+301400	  74	00629	     	74-629	Rives Rd; W Quaker Rd	074	Prince George County	074	Prince George County	0.11	74-630 W, Lamore Rd; Rives Rd	US 460 County Dr	1700	F	97%	0%	1%	2%	1%	0%	F	0.0973	F	0.9573	1800	F	2008
+301401	  74	00629	     	74-629	West Quaker Rd	074	Prince George County	074	Prince George County	2.77	US 460 County Dr	SR 156 Prince George Dr	1200	F	99%	0%	0%	0%	0%	0%	C	0.1033	F	0.5804	1300	F	2008
+760599	  74	00629	     	74-629	East Quaker Rd	074	Prince George County	074	Prince George County	1.15	SR 156 Prince George Dr	74-635 Centennial Rd	840	R							X						03/17/2008
+760600	  74	00629	     	74-629	East Quaker Rd	074	Prince George County	074	Prince George County	2.92	74-635 Centennial Rd	74-618 Hitchcock Rd; Queen St	490	R							X						03/17/2008
+760601	  74	00630	     	74-630	Golf Course Rd	074	Prince George County	074	Prince George County	0.21	74-625 Hines Rd; Arwood Rd	74-618 E, Queen St	240	R							X						03/17/2008
+760602	  74	00630	     	74-630	Gold Course Rd	074	Prince George County	074	Prince George County	0.04	74-618 E, Queen St	74-618 W, Robin Rd	700	R							X						03/17/2008
+760603	  74	00630	     	74-630	Golf Course Rd	074	Prince George County	074	Prince George County	2.78	74-618 W, Robin Rd	74-627 Pumphouse Rd	220	R							X						03/17/2008
+301402	  74	00630	     	74-630	Golf Course Dr	074	Prince George County	074	Prince George County	0.70	74-627 Pumphouse Rd	SR 156 N, Prince George Dr	1400	F	98%	0%	1%	0%	0%	0%	C	0.1226	F	0.5056	1500	F	2008
+301403	  74	00630	     	74-630	Lamore Dr	074	Prince George County	074	Prince George County	2.10	SR 156 S, Prince George Dr	74-649 Walton Lake Rd	1900	F	96%	1%	0%	2%	0%	0%	F	0.0784	F	0.6121	2000	F	2008
+301404	  74	00630	     	74-630	Lamore Rd	074	Prince George County	074	Prince George County	0.90	74-649 Walton Lake Rd	74-629 S, Rives Rd	3600	F	96%	1%	0%	2%	0%	0%	C	0.0813	F	0.6231	3900	F	2008
+301405	  74	00630	     	74-630	Lamore Dr; Rives Rd	074	Prince George County	074	Prince George County	0.08	74-629 N, Rives Rd; W Quaker Rd	US 460 County Dr	4300	F	96%	1%	0%	2%	0%	0%	F	0.0905	F	0.0000	4700	F	2008
+301406	  74	00630	     	74-630	Bull Hill Rd	074	Prince George County	074	Prince George County	2.10	US 460 County Dr	SR 106 Courthouse Rd	2300	F	99%	0%	0%	0%	0%	0%	C	0.1022	F	0.5827	2500	F	2008
+760604	  74	00630	     	74-630	Bull Hill Rd	074	Prince George County	074	Prince George County	1.03	SR 106 Courthouse Rd	74-634 Allin Rd	4700	R							X						03/31/2008
+301407	  74	00630	     	74-630	Jefferson Park Rd	074	Prince George County	074	Prince George County	1.51	74-634 Allin Rd	74-646 Middle Rd	9000	F	99%	1%	0%	0%	0%	0%	C	0.0931	F	0.0000	9700	F	2008
+301408	  74	00630	     	74-630	Jefferson Park Rd	074	Prince George County	074	Prince George County	1.27	74-646 Middle Rd	SR 36; SCL Hopewell	14000	F	99%	1%	0%	0%	0%	0%	F				15000	F	2008
+760605	  74	00631	     	74-631	Lansing Rd	074	Prince George County	074	Prince George County	0.44	74-604 Halifax Rd	74-675 Lampe Lane	300	R							X						03/05/2008
+760606	  74	00631	     	74-631	Lansing Rd	074	Prince George County	074	Prince George County	0.35	74-675 Lampe Lane	74-671 Indian Rd	490	R							X						03/05/2008
+760607	  74	00631	     	74-631	Lansing Rd	074	Prince George County	074	Prince George County	1.83	74-671 Indian Rd	74-638 Templeton Rd	160	R							X						03/05/2008
+760608	  74	00632	     	74-632	South Hampton Rd	074	Prince George County	074	Prince George County	0.17	74-618 Hollywood Rd; Hitchcock Rd	Dead End	90	R							X						03/31/2008
+301409	  74	00634	     	74-634	Allin Rd	074	Prince George County	074	Prince George County	0.51	74-630 Bull Hill Rd	SR 106 Courthouse Rd	5100	F	96%	3%	1%	0%	0%	0%	C	0.0950	F	0.0000	5500	F	2008
+760609	  74	00635	     	74-635	Centennial Rd	074	Prince George County	074	Prince George County	2.35	74-629 East Quaker Rd	74-695 Easy St	200	R							X						03/10/2008
+760610	  74	00635	     	74-635	Centennial Rd	074	Prince George County	074	Prince George County	3.75	74-695 Easy St	74-665 Brockwell Rd	430	R							X						03/10/2008
+760611	  74	00635	     	74-635	Heritage Rd	074	Prince George County	074	Prince George County	1.10	74-665 Brockwell Rd	74-609 Old Stage Rd	670	R							X						03/10/2008
+760612	  74	00635	     	74-635	Heritage Rd	074	Prince George County	074	Prince George County	2.20	74-609 Old Stage Rd	SR 10 James River Dr	600	R							X						03/10/2008
+760613	  74	00636	     	74-636	Lawyers Rd	074	Prince George County	074	Prince George County	2.10	74-635 Centennial Rd	74-686 Mount Hope Rd	460	R							X						03/10/2008
+760614	  74	00636	     	74-636	Lawyers Rd	074	Prince George County	074	Prince George County	0.80	74-686 Mount Hope Rd	74-609 Old Stage Rd	640	R							X						03/10/2008
+760615	  74	00637	     	74-637	Log Rd	074	Prince George County	074	Prince George County	0.70	Sussex County Line	SR 35 Courtland Rd	220	R							X						07/20/2005
+301410	  74	00638	     	74-638	Templeton Rd	074	Prince George County	074	Prince George County	0.88	Sussex County Line	74-650 Horse Shoe Rd	180	F	98%	0%	0%	1%	0%	0%	F	0.1392	F	0.8333	190	F	2008
+301411	  74	00638	     	74-638	Templeton Rd	074	Prince George County	074	Prince George County	2.60	74-650 Horse Shoe Rd	SR 35 Courtland Rd	530	F	98%	0%	0%	1%	0%	0%	C	0.1056	F	0.7419	570	F	2008
+301412	  74	00638	     	74-638	Templeton Rd	074	Prince George County	074	Prince George County	2.50	SR 35 Courtland Rd	74-662 Hair Rd	360	F	99%	0%	0%	0%	0%	0%	C	0.1354	F	0.5102	390	F	2008
+301413	  74	00638	     	74-638	Templeton Rd	074	Prince George County	074	Prince George County	0.27	74-662 Hair Rd	SR 156 Prince George Dr	1000	F	99%	0%	0%	0%	0%	0%	F	0.1039	F	0.5852	1100	F	2008
+760616	  74	00639	     	74-639	Flowerdew Hundred Rd	074	Prince George County	074	Prince George County	2.00	SR 10 James River Dr	74-640 Powells Creek Rd	90	R							X						03/10/2008
+760617	  74	00639	     	74-639	Flowerdew Hundred Rd	074	Prince George County	074	Prince George County	1.66	74-640 Powells Creek Rd	Dead End	70	R							X						03/10/2008
+760618	  74	00640	     	74-640	Powells Creek Rd	074	Prince George County	074	Prince George County	1.00	74-639 Flowerdew Hundred Rd	Dead End	20	R							X						03/10/2008
+760619	  74	00641	     	74-641	Merchant Hope Rd	074	Prince George County	074	Prince George County	1.40	SR 106, Bypass SR 156	74-646 Halls Farm Rd	900	R							X						03/10/2008
+301415	  74	00641	     	74-641	Merchant Hope Rd	074	Prince George County	074	Prince George County	1.40	74-646 Halls Farm Rd	SR 10 N, James River Dr	850	F	98%	1%	0%	0%	0%	0%	C	0.0984	F	0.6129	900	F	2008
+760620	  74	00641	     	74-641	Moody Rd	074	Prince George County	074	Prince George County	3.00	SR 10 N, James River Dr	SR 10 S, James River Dr	200	R							X						03/10/2008
+760621	  74	00642	     	74-642	Beaver Castle Rd	074	Prince George County	074	Prince George County	0.53	SR 10 James River Dr	74-1413 Butternut Dr	1500	R							X						03/10/2008
+760622	  74	00642	     	74-642	Beaver Castle Rd	074	Prince George County	074	Prince George County	0.07	74-1413 Butternut Dr	74-1412 Ironwood Dr	510	R							X						07/11/2005
+760623	  74	00642	     	74-642	Beaver Castle Rd	074	Prince George County	074	Prince George County	0.06	74-1412 Ironwood Dr	74-1411 White Pine Dr	690	R							X						07/11/2005
+760624	  74	00642	     	74-642	Beaver Castle Rd	074	Prince George County	074	Prince George County	0.12	74-1411 White Pine Dr	74-1405 W, Peachtree Dr	530	R							X						07/11/2005
+760625	  74	00642	     	74-642	Beaver Castle Rd	074	Prince George County	074	Prince George County	0.07	74-1405 W, Peachtree Dr	74-1405 E, Peachtree Dr	480	R							X						07/11/2005
+760626	  74	00642	     	74-642	Beaver Castle Rd	074	Prince George County	074	Prince George County	0.07	74-1405 E, Peachtree Dr	74-707 Lemonwood Dr	400	R							X						07/11/2005
+760627	  74	00642	     	74-642	Beaver Castle Rd	074	Prince George County	074	Prince George County	0.08	74-707 Lemonwood Dr	74-706 Marl Bank Dr	180	R							X						07/11/2005
+760628	  74	00643	     	74-643	Bobs Way	074	Prince George County	074	Prince George County	0.09	Dead End	74-647 Takgach Rd	30	R							X						03/19/2008
+760629	  74	00644	     	74-644	James Crest Dr	074	Prince George County	074	Prince George County	0.80	SR 10; SR 156 Bypass	Dead End	140	R							X						03/10/2008
+301416	  74	00645	     	74-645	Puddledock Rd	074	Prince George County	074	Prince George County	0.78	NCL Petersburg	SR 144 Temple Ave	5700	G	96%	0%	0%	3%	1%	0%	F	0.0943	N	0.0000	6300	G	2008
+301417	  74	00645	     	74-645	Puddledock Rd	074	Prince George County	074	Prince George County	1.19	SR 144 Temple Ave	74-725 River Rd	3800	F	96%	0%	0%	3%	1%	0%	F	0.1072	F	0.6023	4200	F	2008
+301418	  74	00645	     	74-645	River Rd	074	Prince George County	074	Prince George County	1.11	74-725 River Rd	74-694 Irwin Rd	5600	F	96%	0%	0%	3%	1%	0%	C	0.0876	F	0.0000	6100	F	2008
+301419	  74	00645	     	74-645	River Rd	074	Prince George County	074	Prince George County	2.15	74-694 Irwin Rd	2.15 MN 74-694 Irwin Rd	5200	F	96%	0%	0%	3%	1%	0%	F	0.0932	F	0.6513	5700	F	2008
+301420	  74	00645	     	74-645	River Rd	074	Prince George County	074	Prince George County	0.19	2.15 MN 74-694 Irwin Rd	SCL Hopewell	4100	F	96%	0%	0%	3%	1%	0%	F	0.0892	F	0.5535	4500	F	2008
+301421	  74	00646	     	74-646	Middle Rd	074	Prince George County	074	Prince George County	2.17	74-630 Jefferson Park Rd	SR 156 S, Prince George Dr	5300	F	98%	0%	1%	0%	0%	0%	C	0.0959	F	0.0000	5700	F	2008
+301422	  74	00646	     	74-646	Sandy Ridge Rd	074	Prince George County	074	Prince George County	2.72	SR 156 N, Prince George Dr	Bypass SR 156	1900	F	98%	0%	1%	0%	0%	0%	F	0.0899	F	0.7085	2100	F	2008
+301423	  74	00646	     	74-646	Sandy Ridge Rd	074	Prince George County	074	Prince George County	0.81	Bypass SR 156	74-708 Deep Bottom Dr	710	F	97%	1%	0%	1%	1%	0%	C	0.0956	F	0.6500	760	F	2008
+301424	  74	00646	     	74-646	Sandy Ridge Rd	074	Prince George County	074	Prince George County	0.79	74-708 Deep Bottom Dr	74-641 Merchants Hope Rd	570	F	97%	1%	0%	1%	1%	0%	F	0.1030	F	0.6312	610	F	2008
+760630	  74	00646	     	74-646	Halls Farm Rd	074	Prince George County	074	Prince George County	2.40	74-641 Merchants Hope Rd	74-609 Old Stage Rd	220	R							X						03/10/2008
+760631	  74	00647	     	74-647	Takgach Rd	074	Prince George County	074	Prince George County	0.46	74-1159 Haley Rd	74-1200 Watch Run Dr	1100	R							X						07/18/2005
+760632	  74	00647	     	74-647	Takgach Rd	074	Prince George County	074	Prince George County	0.09	74-1200 Watch Run Dr	74-643 Bobs Way	1200	R							X						07/18/2005
+760633	  74	00647	     	74-647	Takgach Rd	074	Prince George County	074	Prince George County	0.44	74-643 Bobs Way	74-646 Middle Rd	1400	R							X						07/18/2005
+760634	  74	00648	     	74-648	Clary Rd	074	Prince George County	074	Prince George County	0.11	Dead End	74-652 Allison Lane	70	R							X						07/13/2005
+760635	  74	00648	     	74-648	Clary Rd	074	Prince George County	074	Prince George County	0.11	74-652 Allison Lane	74-651 Chadwick Lane	140	R							X						07/13/2005
+760636	  74	00648	     	74-648	Clary Rd	074	Prince George County	074	Prince George County	0.31	74-651 Chadwick Lane	US 301 Crater Rd	410	R							X						07/13/2005
+301425	  74	00649	     	74-649	Union Branch Rd	074	Prince George County	074	Prince George County	0.33	74-626 Tavern Rd	74-1003 Lundie Lane	1800	F	99%	0%	0%	0%	0%	0%	F	0.1163	F	0.6141	1900	F	2008
+301426	  74	00649	     	74-649	Union Branch Rd	074	Prince George County	074	Prince George County	0.36	74-1003 Lundie Lane	74-1004 Moring Dr	1400	F	99%	0%	0%	0%	0%	0%	F	0.1082	F	0.5469	1600	F	2008
+301427	  74	00649	     	74-649	Union Branch Rd	074	Prince George County	074	Prince George County	0.45	74-1004 Moring Dr	74-661 Walton Lake Rd	1500	F	99%	0%	0%	0%	0%	0%	F	0.1059	F	0.5610	1600	F	2008
+301428	  74	00649	     	74-649	Walton Lake Rd	074	Prince George County	074	Prince George County	0.31	74-661 Walton Lake Rd; Red Gate Dr	74-1010 Pamela Dr	1500	F	99%	0%	0%	0%	0%	0%	F	0.0999	F	0.6129	1600	F	2008
+301429	  74	00649	     	74-649	Walton Lake Rd	074	Prince George County	074	Prince George County	0.95	74-1010 Pamela Dr	74-630 Lamore Dr	2000	F	99%	0%	0%	0%	0%	0%	C	0.0920	F	0.7067	2200	F	2008
+760637	  74	00650	     	74-650	 	074	Prince George County	074	Prince George County	3.50	74-623 Rowanty Rd	74-638 Templeton Rd	90	R							X						08/16/2002
+760638	  74	00651	     	74-651	Chadwick Lane	074	Prince George County	074	Prince George County	0.17	Dead End	74-648 Clary Rd	150	R							X						07/13/2005
+760639	  74	00652	     	74-652	Allison Lane	074	Prince George County	074	Prince George County	0.04	Dead End	74-648 Clary Rd	20	R							X						07/13/2005
+760640	  74	00653	     	74-653	Upper Brandon Rd	074	Prince George County	074	Prince George County	6.37	74-611 Brandon Rd	74-602 Point Rd	70	R							X						03/31/2008
+760641	  74	00653	     	74-653	Willow Hill Rd	074	Prince George County	074	Prince George County	0.80	74-602 Point Rd	74-611 Lebanon Rd	40	R							X						03/31/2008
+760642	  74	00655	     	74-655	Kiser Dr	074	Prince George County	074	Prince George County	1.00	74-646 Sandy Ridge Rd	Dead End	180	R							X						07/18/2005
+760643	  74	00656	     	74-656	Fort Powhatan	074	Prince George County	074	Prince George County	1.50	74-614 Wards Creek Rd	Dead End	40	R							X						03/31/2008
+760644	  74	00657	     	74-657	Enterprise Dr	074	Prince George County	074	Prince George County	0.11	Dead End	US 460 County Dr	1100	R							X						07/27/2005
+760645	  74	00658	     	74-658	Lone Oak Mill Rd	074	Prince George County	074	Prince George County	1.29	74-611 Lebanon Rd	74-616 Laurel Springs Rd; Pole Run Rd	80	R							X						03/31/2008
+760646	  74	00659	     	74-659	Jolly Rd	074	Prince George County	074	Prince George County	0.89	Sussex County Line	0.89 MN Sussex County Line	30	R							X						03/31/2008
+760647	  74	00659	     	74-659	Jolly Rd	074	Prince George County	074	Prince George County	1.01	0.89 MN Sussex County Line	74-619 Holdworths Rd	270	R							X						03/31/2008
+760648	  74	00661	     	74-661	Redgate Dr	074	Prince George County	074	Prince George County	0.74	Dead End	74-1035 Redcedar Dr	340	R							X						03/31/2008
+760649	  74	00661	     	74-661	Walton Lake Rd	074	Prince George County	074	Prince George County	0.24	74-1035 Redcedar Dr	74-1034 Wildwood Dr	650	R							X						03/31/2008
+760650	  74	00661	     	74-661	Walton Lake Rd	074	Prince George County	074	Prince George County	0.11	74-1034 Wildwood Dr	74-649 Walton Lake Rd; Union Branch Rd	760	R							X						03/31/2008
+760651	  74	00662	     	74-662	Hair Rd	074	Prince George County	074	Prince George County	3.35	74-638 Templeton Rd	74-627 Loving Union Rd	320	R							X						03/31/2008
+760652	  74	00663	     	74-663	Marlboro Ave	074	Prince George County	074	Prince George County	0.07	74-669 River Run Rd	74-616 Laurel Springs Rd	170	R							X						07/27/2005
+760653	  74	00664	     	74-664	Farmington Dr	074	Prince George County	074	Prince George County	0.26	74-646 Sandy Ridge Rd	Dead End	120	R							X						07/18/2005
+760654	  74	00665	     	74-665	Brockwell Rd	074	Prince George County	074	Prince George County	0.87	74-635 Heritage Rd; Centennial Rd	Dead End	170	R							X						07/20/2005
+760655	  74	00666	     	74-666	Old Town Rd	074	Prince George County	074	Prince George County	2.20	74-616 Laurel Springs Rd; Pole Run Rd	74-635 Centennial Rd	190	R							X						03/10/2008
+760656	  74	00667	     	74-667	Johns Rd	074	Prince George County	074	Prince George County	1.53	74-623 Rowanty Rd	US 301 Crater Rd	170	R							X						03/05/2008
+760657	  74	00668	     	74-668	Prince George Dr	074	Prince George County	074	Prince George County	0.32	SR 35 Courtland Rd	US 301; SR 156	300	R							X						03/05/2008
+760658	  74	00669	     	74-669	River Run Rd	074	Prince George County	074	Prince George County	0.05	Dead End	74-663 Marlboro Ave	120	R							X						07/27/2005
+760659	  74	00670	     	74-670	Rowanty Ct	074	Prince George County	074	Prince George County	0.23	FR-294 Rowanty Ct	74-676 Carson Ruritan Rd	240	R							X						07/20/2005
+760660	  74	00670	     	74-670	Rowanty Ct	074	Prince George County	074	Prince George County	0.03	74-676 Carson Ruritan Rd	74-623 Rowanty Rd	360	R							X						07/20/2005
+760661	  74	00671	     	74-671	Indian Rd	074	Prince George County	074	Prince George County	0.20	FR-295 Indian Rd	74-631 Lansing Rd	90	R							X						07/27/2005
+760662	  74	00672	     	74-672	Johns Rd	074	Prince George County	074	Prince George County	0.17	Dead End	74-667 Johns Rd	6	R							X						03/05/2008
+760663	  74	00673	     	74-673	Woods Rd	074	Prince George County	074	Prince George County	0.06	74-604 Halifax Rd	US 301	340	R							X						07/27/2005
+760664	  74	00674	     	74-674	Mount Sinai Rd	074	Prince George County	074	Prince George County	0.91	SR 156 S, Prince George Dr	SR 156 N, Prince George Dr	640	R							X						07/18/2005
+760665	  74	00675	     	74-675	Lampe Lane	074	Prince George County	074	Prince George County	0.11	74-631 Lansing Rd	US 301 Crater Rd	570	R							X						07/20/2005
+760666	  74	00676	     	74-676	Carson Ruritan Rd	074	Prince George County	074	Prince George County	0.21	74-670 Rowanty Ct	Dead End	120	R							X						07/20/2005
+787954	  74	00677	     	74-677	Carson Dr	074	Prince George County	074	Prince George County	0.24	74-622 Fairwood Rd	Cul-de-Sac	60	R							X						07/27/2005
+760667	  74	00684	     	74-684	Fine St	074	Prince George County	074	Prince George County	0.53	Dead End	74-645 Puddledock Rd	850	R							X						07/27/2005
+760668	  74	00685	     	74-685	Flexon Dr	074	Prince George County	074	Prince George County	0.62	Dead End	74-684 Fine St	190	R							X						03/19/2008
+760669	  74	00686	     	74-686	Mount Hope Rd	074	Prince George County	074	Prince George County	1.31	Dead End	74-636 Lawyers Rd	130	R							X						03/10/2008
+760670	  74	00693	     	74-693	Coggins Point Rd	074	Prince George County	074	Prince George County	1.45	74-641 Moody Rd	Dead End	180	R							X						03/10/2008
+760671	  74	00694	     	74-694	Irwin Rd	074	Prince George County	074	Prince George County	0.34	74-645 River Rd	74-697 Rosebud Ct	330	R							X						07/27/2005
+760672	  74	00694	     	74-694	Juniper Dr	074	Prince George County	074	Prince George County	0.06	74-697 Rosebud Ct	Dead End	30	R							X						07/27/2005
+760673	  74	00695	     	74-695	Easy St	074	Prince George County	074	Prince George County	1.40	74-618 Hitchcock Rd	74-635 Centennial Rd	40	R							X						04/02/2008
+760674	  74	00696	     	74-696	Tartan Rd	074	Prince George County	074	Prince George County	0.47	74-605 Spain Rd	FR-122	90	R							X						03/05/2008
+760675	  74	00697	     	74-697	Rosebud Ct	074	Prince George County	074	Prince George County	0.11	Cul-de-Sac	74-694 Juniper Dr; Irwin Rd	80	R							X						07/27/2005
+760676	  74	00698	     	74-698	 	074	Prince George County	074	Prince George County	0.21	74-699 River Run Rd	74-694 Irwin Rd	190	R							X						03/19/2008
+760677	  74	00699	     	74-699	River Run Rd	074	Prince George County	074	Prince George County	0.20	Dead End	74-698	180	R							X						03/19/2008
+760678	  74	00699	     	74-699	River Run Rd	074	Prince George County	074	Prince George County	0.03	74-698	Cul-de-Sac	10	R							X						03/19/2008
+760679	  74	00703	     	74-703	Binford Dr	074	Prince George County	074	Prince George County	0.45	Dead End	74-618 Hitchcock Rd	60	R							X						07/20/2005
+760680	  74	00706	     	74-706	Marl Bank Dr	074	Prince George County	074	Prince George County	0.04	0.04 MS 74-642 Beavercastle Rd	74-642 Beavercastle Rd	4	R							X						04/02/2008
+760681	  74	00706	     	74-706	Marl Bank Dr	074	Prince George County	074	Prince George County	0.30	74-642 Beavercastle Rd	Dead End	180	R							X						04/02/2008
+760682	  74	00707	     	74-707	Lemonwood Dr	074	Prince George County	074	Prince George County	0.10	74-642 Beavercastle Rd	0.10 MN 74-642 Beavercastle Rd	200	R							X						07/11/2005
+760683	  74	00707	     	74-707	Lemonwood Dr	074	Prince George County	074	Prince George County	0.06	0.10 MN 74-642 Beavercastle Rd	74-1419 Sassafras Dr	140	R							X						07/11/2005
+760684	  74	00707	     	74-707	Lemonwood Dr	074	Prince George County	074	Prince George County	0.12	74-1419 Sassafras Dr	Cul-de-Sac	200	R							X						03/10/2008
+760685	  74	00708	     	74-708	Deep Bottom Dr	074	Prince George County	074	Prince George County	0.60	74-646 Sandy Ridge Rd	Dead End	180	R							X						03/10/2008
+760686	  74	00709	     	74-709	Administration Dr	074	Prince George County	074	Prince George County	0.03	SR 106 Courthouse Rd	Begin Loop	170	R							X						06/30/2005
+760687	  74	00709	     	74-709	Administration Dr	074	Prince George County	074	Prince George County	0.04	Begin Loop	74-712; 74-724	120	R							X						06/30/2005
+760688	  74	00709	     	74-709	Administration Dr	074	Prince George County	074	Prince George County	0.06	74-712; 74-724	End Loop	290	R							X						06/30/2005
+760689	  74	00710	     	74-710	Sebera Rd	074	Prince George County	074	Prince George County	1.58	SR 156 Prince George Dr	74-609 Old Stage Rd	520	R							X						03/10/2008
+760690	  74	00711	     	74-711	Millpond Rd	074	Prince George County	074	Prince George County	0.94	US 301 Crater Rd	SR 156 Prince George Dr	570	R							X						03/05/2008
+760691	  74	00712	     	74-712	Administration Dr	074	Prince George County	074	Prince George County	0.08	SR 106 Courthouse Rd	74-709; 74-724	990	R							X						06/30/2005
+760692	  74	00719	     	74-719	Stech Dr	074	Prince George County	074	Prince George County	0.23	74-618 Queen St	74-625 Hines Rd	400	R							X						03/17/2008
+760693	  74	00720	     	74-720	Moreel Ave	074	Prince George County	074	Prince George County	0.22	US 301 Crater Rd	74-1602 Seay Rd	80	R							X						07/13/2005
+760694	  74	00720	     	74-720	Moreel Ave	074	Prince George County	074	Prince George County	0.18	74-1602 Seay Rd	Dead End	20	R							X						07/13/2005
+760695	  74	00721	     	74-721	Mica Dr	074	Prince George County	074	Prince George County	0.42	74-630 Jefferson Park Rd	Dead End	550	R							X						03/17/2008
+760696	  74	00723	     	74-723	Norcum Ave	074	Prince George County	074	Prince George County	0.16	74-646 Middle Rd	SR 156 Prince George Dr	450	R							X						02/13/2008
+760697	  74	00724	     	74-724	Courts Dr	074	Prince George County	074	Prince George County	0.17	SR 106; 74-616	74-709; 74-712	900	R							X						06/30/2005
+760698	  74	00725	     	74-725	River Rd	074	Prince George County	074	Prince George County	0.33	Dead End FUTURE CONN. W RTE 144	74-645 Puddledock Rd	2300	R							X						03/19/2008
+760699	  74	00726	     	74-726	Scott Memorial Park	074	Prince George County	074	Prince George County	0.18	Dead End	SR 106 Courthouse Rd	550	R							X						03/17/2008
+790611	  74	00729	     	74-729	Kurnas Lane	074	Prince George County	074	Prince George County	0.40	Dead End	Bypass SR 156	120	R							X						03/10/2008
+760700	  74	00770	     	74-770	Keswick Lane	074	Prince George County	074	Prince George County	0.45	Dinwiddie County Line	74-622 Fairwood Rd	210	R							X						07/27/2005
+760701	  74	01001	     	74-1001	Brooks Park Dr	074	Prince George County	074	Prince George County	0.09	Dead End	74-649 Union Branch Rd	80	R							X						07/13/2005
+760702	  74	01002	     	74-1002	Diagonal Rd	074	Prince George County	074	Prince George County	0.09	Dead End	74-649 Union Branch Rd	70	R							X						07/13/2005
+760703	  74	01003	     	74-1003	Lundie Lane	074	Prince George County	074	Prince George County	0.08	74-649 Union Branch Rd	74-1005 Mark Twain Dr	170	R							X						07/13/2005
+760704	  74	01003	     	74-1003	Lundie Lane	074	Prince George County	074	Prince George County	0.16	74-1005 Mark Twain Dr	74-1004 Moring Dr	180	R							X						04/02/2008
+760705	  74	01004	     	74-1004	Moring Dr	074	Prince George County	074	Prince George County	0.06	Dead End	74-1003 Lundie Lane	40	R							X						07/13/2005
+760706	  74	01004	     	74-1004	Moring Dr	074	Prince George County	074	Prince George County	0.13	74-1003 Lundie Lane	74-649 Union Branch Rd	170	R							X						07/13/2005
+760707	  74	01005	     	74-1005	Mark Twain Dr	074	Prince George County	074	Prince George County	0.07	74-626 Tavern Rd	74-1007 Huck Finn Ct	320	R							X						04/02/2008
+760708	  74	01005	     	74-1005	Mark Twain Dr	074	Prince George County	074	Prince George County	0.07	74-1007 Huck Finn Ct	74-1006 Tom Sawyer Lane	250	R							X						04/02/2008
+760709	  74	01005	     	74-1005	Mark Twain Dr	074	Prince George County	074	Prince George County	0.26	74-1006 Tom Sawyer Lane	74-1003 Lundie Lane	130	R							X						04/02/2008
+760710	  74	01006	     	74-1006	Tom Sawyer Lane	074	Prince George County	074	Prince George County	0.08	74-1005 Mark Twain Dr	Cul-de-Sac	60	R							X						04/02/2008
+760711	  74	01007	     	74-1007	Huck Finn Ct	074	Prince George County	074	Prince George County	0.04	74-1005 Mark Twain Dr	Cul-de-Sac	40	R							X						04/02/2008
+760712	  74	01010	     	74-1010	Pamela Dr	074	Prince George County	074	Prince George County	0.19	74-649 Walton Lake Rd	74-1011 Sween Gum Lane	400	R							X						07/13/2005
+760713	  74	01010	     	74-1010	Pamela Dr	074	Prince George County	074	Prince George County	0.08	74-1011 Sween Gum Lane	Dead End	80	R							X						07/13/2005
+760714	  74	01011	     	74-1011	Sween Gum Lane	074	Prince George County	074	Prince George County	0.07	74-1010 Pamela Dr	74-1012 Morning Hill Dr	280	R							X						04/02/2008
+760715	  74	01011	     	74-1011	Sweet Gum Lane	074	Prince George County	074	Prince George County	0.12	74-1012 Morning Hill Dr	Dead End	90	R							X						04/02/2008
+760716	  74	01012	     	74-1012	Morning Hill Dr	074	Prince George County	074	Prince George County	0.08	Cul-de-Sac	74-1011 Sweet Gum Lane; Sween Gum Lane	60	R							X						04/02/2008
+760717	  74	01012	     	74-1012	Morning Hill Dr	074	Prince George County	074	Prince George County	0.12	74-1011 Sweet Gum Lane; Sween Gum Lane	Dead End	120	R							X						04/02/2008
+790612	  74	01013	     	74-1013	Basswood Rd	074	Prince George County	074	Prince George County	0.18	Dead End	74-661 Walton Lake Rd	80	R							X						04/02/2008
+760718	  74	01014	     	74-1014	Hughes Family Lane	074	Prince George County	074	Prince George County	0.14	74-1013 Basswood Rd	74-1015 Shallowood Dr	210	R							X						07/13/2005
+760719	  74	01014	     	74-1014	Hughes Family Lane	074	Prince George County	074	Prince George County	0.07	74-1015 Shallowood Dr	74-649 Union Branch Rd	330	R							X						07/13/2005
+760720	  74	01015	     	74-1015	Shallowood Dr	074	Prince George County	074	Prince George County	0.07	Cul-de-Sac	74-1014 Hughes Family Lane	80	R							X						07/13/2005
+760721	  74	01015	     	74-1015	Shallowood Dr	074	Prince George County	074	Prince George County	0.09	74-1014 Hughes Family Lane	Cul-de-Sac	90	R							X						07/13/2005
+790613	  74	01016	     	74-1016	Cobblewood Dr	074	Prince George County	074	Prince George County	0.16	Dead End	Dead End	130	R							X						04/02/2008
+760722	  74	01018	     	74-1018	Falda Dr	074	Prince George County	074	Prince George County	0.08	74-1027 Chemin Rd	74-1020 Saddlebrook Lane	110	R							X						04/02/2008
+760723	  74	01019	     	74-1019	Arnie Rd	074	Prince George County	074	Prince George County	0.08	74-1020 Saddlebrook Lane	74-1027 Chemin Rd	120	R							X						04/02/2008
+760724	  74	01020	     	74-1020	Saddlebrook Lane	074	Prince George County	074	Prince George County	0.15	Dead End	74-1019 Arnie Rd	130	R							X						04/02/2008
+760725	  74	01020	     	74-1020	Saddlebrook Lane	074	Prince George County	074	Prince George County	0.10	74-1019 Arnie Rd	74-1018 Falda Dr	110	R							X						04/02/2008
+760726	  74	01021	     	74-1021	Roland Rd	074	Prince George County	074	Prince George County	0.06	Dead End	74-1022 Burleigh Dr	60	R							X						07/13/2005
+760727	  74	01021	     	74-1021	Roland Rd	074	Prince George County	074	Prince George County	0.08	74-1022 Burleigh Dr	US 301 Crater Rd	200	R							X						07/13/2005
+760728	  74	01022	     	74-1022	Burleigh Dr	074	Prince George County	074	Prince George County	0.04	Dead End	74-1023 William Rd	40	R							X						07/13/2005
+760729	  74	01022	     	74-1022	Burleigh Dr	074	Prince George County	074	Prince George County	0.25	74-1023 William Rd	74-1021 Roland Rd	90	R							X						07/13/2005
+760730	  74	01022	     	74-1022	Burleigh Dr	074	Prince George County	074	Prince George County	0.04	74-1021 Roland Rd	Dead End	10	R							X						07/13/2005
+760731	  74	01023	     	74-1023	William Rd	074	Prince George County	074	Prince George County	0.08	74-1022 Burleigh Dr	US 301 Crater Rd	100	R							X						07/13/2005
+760732	  74	01024	     	74-1024	Etheridge Dr	074	Prince George County	074	Prince George County	0.11	74-1025 Temple Dr	US 301 Crater Rd	750	R							X						07/13/2005
+760733	  74	01025	     	74-1025	Temple Dr	074	Prince George County	074	Prince George County	0.04	Dead End	74-1027 Chemin Rd	10	R							X						07/13/2005
+760734	  74	01025	     	74-1025	Temple Dr	074	Prince George County	074	Prince George County	0.09	74-1027 Chemin Rd	74-1026 Burgage Lane	570	R							X						07/13/2005
+760735	  74	01025	     	74-1025	Temple Dr	074	Prince George County	074	Prince George County	0.05	74-1026 Burgage Lane	74-1024 Etheridge Dr	750	R							X						07/13/2005
+760736	  74	01026	     	74-1026	Burgage Lane	074	Prince George County	074	Prince George County	0.17	74-1028 Sadberge Rd	74-1025 Temple Dr	160	R							X						07/13/2005
+760737	  74	01027	     	74-1027	Chemin Rd	074	Prince George County	074	Prince George County	0.19	Dead End	74-1019 Arnie Rd	140	R							X						04/02/2008
+760738	  74	01027	     	74-1027	Chemin Rd	074	Prince George County	074	Prince George County	0.10	74-1019 Arnie Rd	74-1018 Falda Dr	310	R							X						04/02/2008
+760739	  74	01027	     	74-1027	Chemin Rd	074	Prince George County	074	Prince George County	0.12	74-1018 Falda Dr	74-1028 Sadberge Rd	480	R							X						07/13/2005
+760740	  74	01027	     	74-1027	Chemin Rd	074	Prince George County	074	Prince George County	0.13	74-1028 Sadberge Rd	74-1025 Temple Dr	560	R							X						07/13/2005
+760741	  74	01028	     	74-1028	Sadberge Rd	074	Prince George County	074	Prince George County	0.07	74-1027 Chemin Rd	74-1026 Burgage Lane	60	R							X						07/13/2005
+760742	  74	01028	     	74-1028	Sadberge Rd	074	Prince George County	074	Prince George County	0.05	74-1026 Burgage Lane	Dead End	20	R							X						07/13/2005
+760743	  74	01030	     	74-1030	Woodstock Rd	074	Prince George County	074	Prince George County	0.06	74-649 Walton Lake Rd	74-1031 Willow Lane	500	R							X						07/13/2005
+760744	  74	01030	     	74-1030	Woodstock Rd	074	Prince George County	074	Prince George County	0.08	74-1031 Willow Lane	74-1032 Lancaster Dr	290	R							X						07/13/2005
+760745	  74	01030	     	74-1030	Woodstock Rd	074	Prince George County	074	Prince George County	0.09	74-1032 Lancaster Dr	74-1033 Sweet Gum Lane	170	R							X						07/13/2005
+760746	  74	01030	     	74-1030	Woodstock Rd	074	Prince George County	074	Prince George County	0.06	74-1033 Sweet Gum Lane	Cul-de-Sac	40	R							X						07/13/2005
+760747	  74	01031	     	74-1031	Willow Lane	074	Prince George County	074	Prince George County	0.26	74-661 Redgate Dr	74-1034 Wildwood Dr	130	R							X						04/03/2008
+760748	  74	01031	     	74-1031	Willow Lane	074	Prince George County	074	Prince George County	0.23	74-1034 Wildwood Dr	74-1030 Woodstock Rd	170	R							X						07/13/2005
+760749	  74	01032	     	74-1032	Lancaster Dr	074	Prince George County	074	Prince George County	0.22	74-1034 Wildwood Dr	74-1030 Woodstock Rd	70	R							X						07/13/2005
+760750	  74	01033	     	74-1033	Sweet Gum Lane	074	Prince George County	074	Prince George County	0.21	74-1034 Wildwood Dr	74-1030 Woodstock Rd	70	R							X						07/13/2005
+760751	  74	01034	     	74-1034	Wildwood Dr	074	Prince George County	074	Prince George County	0.07	74-661 Walton Lake Rd	74-1031 Willow Lane	300	R							X						07/13/2005
+760752	  74	01034	     	74-1034	Wildwood Dr	074	Prince George County	074	Prince George County	0.08	74-1031 Willow Lane	74-1032 Lancaster Dr	180	R							X						07/13/2005
+760753	  74	01034	     	74-1034	Wildwood Dr	074	Prince George County	074	Prince George County	0.09	74-1032 Lancaster Dr	74-1033 Sweet Gum Lane	120	R							X						07/13/2005
+760754	  74	01034	     	74-1034	Wildwood Dr	074	Prince George County	074	Prince George County	0.14	74-1033 Sweet Gum Lane	Cul-de-Sac	80	R							X						07/13/2005
+760755	  74	01035	     	74-1035	Redcedar DR	074	Prince George County	074	Prince George County	0.14	Cul-de-Sac	74-661 Walton Lake Rd	170	R							X						07/13/2005
+760756	  74	01037	     	74-1037	Redcedar Ct	074	Prince George County	074	Prince George County	0.10	74-1035 Redcedar Dr	Cul-de-Sac	90	R							X						07/13/2005
+760757	  74	01040	     	74-1040	Cedar Run Rd	074	Prince George County	074	Prince George County	0.33	74-649 Union Branch Rd	Dead End	900	R							X						04/03/2008
+760758	  74	01041	     	74-1041	Rothwood Ct	074	Prince George County	074	Prince George County	0.07	74-1040 Cedar Run Rd	Cul-de-Sac	60	R							X						04/03/2008
+760759	  74	01042	     	74-1042	Heathwood Ct	074	Prince George County	074	Prince George County	0.09	74-1040 Cedar Run Rd	Cul-de-Sac	90	R							X						04/03/2008
+786678	  74	01045	     	74-1045	Cedar Creek Lane	074	Prince George County	074	Prince George County	0.77	74-646 Middle Rd	Cul-de-Sac	440	R							X						07/18/2005
+786679	  74	01046	     	74-1046	Running Creek Lane	074	Prince George County	074	Prince George County	0.54	74-1045 Cedar Creek Lane	74-1045 Cedar Creek Lane	250	R							X						07/18/2005
+786680	  74	01047	     	74-1047	Jaybird Ct	074	Prince George County	074	Prince George County	0.06	Cul-de-Sac	74-1046 Running Creek Lane	47	R							X						07/18/2005
+786681	  74	01048	     	74-1048	Cedar Trails East	074	Prince George County	074	Prince George County	0.14	Cul-de-Sac	Cul-de-Sac	90	R							X						07/18/2005
+790614	  74	01055	     	74-1055	Cypress Creek Dr	074	Prince George County	074	Prince George County	0.41	74-646 Middle Rd	74-1058 Summer Hill Lane	510	R							X						03/19/2008
+790615	  74	01056	     	74-1056	Fall Harvest Ct	074	Prince George County	074	Prince George County	0.09	74-1055 Cypress Creek Dr	Dead End	50	R							X						03/19/2008
+790616	  74	01057	     	74-1057	Bell Flower Ct	074	Prince George County	074	Prince George County	0.09	Dead End	74-1055 Cypress Creek Dr	70	R							X						03/19/2008
+790617	  74	01058	     	74-1058	Summer Hill Lane	074	Prince George County	074	Prince George County	0.44	Dead End	Dead End	290	R							X						03/19/2008
+790618	  74	01059	     	74-1059	Snow Creek Ct	074	Prince George County	074	Prince George County	0.18	Dead End	74-1058 Summer Hill Lane	90	R							X						03/19/2008
+786682	  74	01070	     	74-1070	Graham Lane	074	Prince George County	074	Prince George County	0.80	74-619 Holdworths Rd	Dead End	180	R							X						07/20/2005
+794663	  74	01075	     	74-1075	Indian Ct	074	Prince George County	074	Prince George County	0.48	Cul-de-Sac	FR-295 Indian Rd	0	?							X
+760760	  74	01101	     	74-1101	Community Lane	074	Prince George County	074	Prince George County	0.19	Dead End	US 460 County Dr	120	R							X						03/17/2008
+760761	  74	01102	     	74-1102	Lakeshore Dr	074	Prince George County	074	Prince George County	0.35	74-629 Rives Rd	Dead End	100	R							X						07/27/2005
+760762	  74	01105	     	74-1105	Millstone Dr	074	Prince George County	074	Prince George County	0.50	74-641 Merchant Hope Rd	74-1106 Brighton Dr	100	R							X						07/18/2005
+760763	  74	01105	     	74-1105	Millstone Dr	074	Prince George County	074	Prince George County	0.05	74-1106 Brighton Dr	74-1107 Munt Dr	180	R							X						07/18/2005
+760764	  74	01105	     	74-1105	Millstone Dr	074	Prince George County	074	Prince George County	0.56	74-1107 Munt Dr	Bypass SR 156	290	R							X						07/18/2005
+760765	  74	01106	     	74-1106	Brighton Dr	074	Prince George County	074	Prince George County	0.18	74-1105 Millstone Dr	Cul-de-Sac	120	R							X						07/18/2005
+760766	  74	01107	     	74-1107	Munt Dr	074	Prince George County	074	Prince George County	0.13	74-1105 Millstone Dr	Cul-de-Sac	20	R							X						07/18/2005
+760767	  74	01111	     	74-1111	Munt Dr	074	Prince George County	074	Prince George County	0.08	ECL Petersburg	74-1113 Lakeside Dr	140	R							X						07/05/2005
+760768	  74	01112	     	74-1112	Boisseau Dr	074	Prince George County	074	Prince George County	0.27	ECL Petersburg	74-1113 Lakeside Dr	80	R							X						07/05/2005
+760769	  74	01113	     	74-1113	Lakeside Dr	074	Prince George County	074	Prince George County	0.20	NCL Petersburg	74-1111 Munt Dr	47	R							X						07/05/2005
+760770	  74	01113	     	74-1113	Lakeside Dr	074	Prince George County	074	Prince George County	0.37	74-1111 Munt Dr	74-1112 Boisseau Dr	130	R							X						07/05/2005
+760771	  74	01113	     	74-1113	Lakeside Dr	074	Prince George County	074	Prince George County	0.08	74-1112 Boisseau Dr	74-603 Baxter Rd	210	R							X						07/05/2005
+760772	  74	01115	     	74-1115	Brookshire Dr	074	Prince George County	074	Prince George County	0.05	Cul-de-Sac	74-1116 Brookshire Dr	70	R							X						07/18/2005
+760773	  74	01115	     	74-1115	Brookshire Dr	074	Prince George County	074	Prince George County	0.08	74-1116 Brookshire Dr	SR 106 Courthouse Rd	150	R							X						07/18/2005
+760774	  74	01116	     	74-1116	Brookshire Dr	074	Prince George County	074	Prince George County	0.08	74-1115 Brookshire Dr	Cul-de-Sac	80	R							X						07/18/2005
+760775	  74	01120	     	74-1120	Rustic Dr	074	Prince George County	074	Prince George County	0.29	Cul-de-Sac	74-604 Halifax Rd	90	R							X						07/20/2005
+760776	  74	01125	     	74-1125	Hidden Hills Dr	074	Prince George County	074	Prince George County	0.89	Bypass SR 156	74-1127	350	R							X						07/18/2005
+760777	  74	01126	     	74-1126	Castlewood Dr	074	Prince George County	074	Prince George County	0.39	Cul-de-Sac	Cul-de-Sac	70	R							X						03/10/2008
+760778	  74	01127	     	74-1127	 	074	Prince George County	074	Prince George County	0.18	74-1125 Hidden Hills Dr	Cul-de-Sac	50	R							X						03/10/2008
+760779	  74	01130	     	74-1130	Decatur Dr	074	Prince George County	074	Prince George County	0.26	74-1131 Drayton Rd	74-622 Fairwood Rd	120	R							X						03/05/2008
+760780	  74	01131	     	74-1131	Drayton Rd	074	Prince George County	074	Prince George County	0.14	Cul-de-Sac	74-1130 Decatur Dr	20	R							X						03/05/2008
+760781	  74	01131	     	74-1131	Drayton Rd	074	Prince George County	074	Prince George County	0.08	74-1130 Decatur Dr	74-1132 Drayton Rd	70	R							X						03/05/2008
+760782	  74	01132	     	74-1132	Drayton Rd	074	Prince George County	074	Prince George County	0.13	74-1131 Drayton Rd	Cul-de-Sac	20	R							X						03/05/2008
+760783	  74	01140	     	74-1140	Bland Ridge Dr	074	Prince George County	074	Prince George County	0.37	74-608 Johnson Rd	74-1141 Lakeview Dr	310	R							X						03/05/2008
+760784	  74	01140	     	74-1140	Bland Ridge Dr	074	Prince George County	074	Prince George County	0.13	74-1141 Lakeview Dr	74-1142 Fairway Dr	120	R							X						03/05/2008
+760785	  74	01141	     	74-1141	Lakeview Dr	074	Prince George County	074	Prince George County	0.11	74-1140 Bland Ridge Dr	74-1142 Fairway Dr	160	R							X						03/05/2008
+760786	  74	01142	     	74-1142	Fairway Dr	074	Prince George County	074	Prince George County	0.08	Dead End	74-1141 Lakeview Dr	40	R							X						03/05/2008
+760787	  74	01142	     	74-1142	Fairway Dr	074	Prince George County	074	Prince George County	0.08	74-1141 Lakeview Dr	74-1140 Bland Ridge Dr	30	R							X						03/05/2008
+760788	  74	01142	     	74-1142	Fairway Dr	074	Prince George County	074	Prince George County	0.02	74-1140 Bland Ridge Dr	Cul-de-Sac	30	R							X						03/05/2008
+760789	  74	01143	     	74-1143	Bland Ridge Ct	074	Prince George County	074	Prince George County	0.18	74-1140 Bland Ridge Dr	74-608 Johnson Rd	100	R							X						07/27/2005
+785737	  74	01150	     	74-1150	Trailing Rock Rd	074	Prince George County	074	Prince George County	0.19	Cul-de-Sac	74-1158 Willow Oak Dr	540	R							X						07/07/2005
+760790	  74	01150	     	74-1150	Trailing Rock Rd	074	Prince George County	074	Prince George County	0.19	74-1158 Willow Oak Dr	74-1157 Willow Oak Dr	770	R							X						07/07/2005
+760791	  74	01150	     	74-1150	Trailing Rock Rd	074	Prince George County	074	Prince George County	0.08	74-1157 Willow Oak Dr	74-1156 Branchester Pkwy	890	R							X						07/07/2005
+760792	  74	01150	     	74-1150	Trailing Rock Rd	074	Prince George County	074	Prince George County	0.08	74-1156 Branchester Pkwy	74-1155 Oakleaf Lane	1100	R							X						07/07/2005
+760793	  74	01150	     	74-1150	Trailing Rock Rd	074	Prince George County	074	Prince George County	0.07	74-1155 Oakleaf Lane	74-1154 Farm Crest Ct	1100	R							X						07/07/2005
+760794	  74	01150	     	74-1150	Trailing Rock Rd	074	Prince George County	074	Prince George County	0.07	74-1154 Farm Crest Ct	74-1153 Fox Den Ct	1200	R							X						07/07/2005
+760795	  74	01150	     	74-1150	Trailing Rock Rd	074	Prince George County	074	Prince George County	0.10	74-1153 Fox Den Ct	74-1152 Rockshire Ct	1200	R							X						07/07/2005
+760796	  74	01150	     	74-1150	Tarailing Rock Rd	074	Prince George County	074	Prince George County	0.04	74-1152 Rockshire Ct	74-1151 Old Logging Circle	1200	R							X						07/07/2005
+760797	  74	01150	     	74-1150	Trailing Rock Rd	074	Prince George County	074	Prince George County	0.20	74-1151 Old Logging Circle	SR 156 Prince George Dr	1300	R							X						07/07/2005
+760798	  74	01151	     	74-1151	Old Logging Circle	074	Prince George County	074	Prince George County	0.11	74-1150 Trailing Rock Rd	Cul-de-Sac	100	R							X						07/11/2005
+760799	  74	01152	     	74-1152	Rockshire Ct	074	Prince George County	074	Prince George County	0.05	Cul-de-Sac	74-1150 Trailing Rock Rd	60	R							X						07/11/2005
+760800	  74	01153	     	74-1153	Fox Den Ct	074	Prince George County	074	Prince George County	0.06	Cul-de-Sac	74-1150 Trailing Rock Rd	80	R							X						07/11/2005
+760801	  74	01154	     	74-1154	Farm Crest Ct	074	Prince George County	074	Prince George County	0.06	Cul-de-Sac	74-1150 Trailing Rock Rd	70	R							X						07/11/2005
+760802	  74	01155	     	74-1155	Oakleaf Lane	074	Prince George County	074	Prince George County	0.19	Dead End	74-1150 Trailing Rock Rd	150	R							X						07/11/2005
+760803	  74	01156	     	74-1156	Branchester Pkwy	074	Prince George County	074	Prince George County	0.08	74-1150 Trailing Rock Rd	Dead End	520	R							X						03/13/2008
+760804	  74	01157	     	74-1157	Willow Oak Dr	074	Prince George County	074	Prince George County	0.32	Dead End	74-1150 Trailing Rock Rd	190	R							X						07/11/2005
+760805	  74	01158	     	74-1158	Willow Oak Dr	074	Prince George County	074	Prince George County	0.07	Dead End	74-1150 Trailing Rock Rd	240	R							X						07/11/2005
+785834	  74	01159	     	74-1159	Haley Rd	074	Prince George County	074	Prince George County	0.17	74-647 Takgach Rd	74-1150 Trailing Rock Rd	580	R							X						07/11/2005
+783306	  74	01170	     	74-1170	Baxter Ridge Dr	074	Prince George County	074	Prince George County	0.59	74-603 S, Baxter Rd	74-603 N, Baxter Rd	100	R							X						09/24/2002
+783307	  74	01171	     	74-1171	Woods Ridge Trace	074	Prince George County	074	Prince George County	0.15	74-1170 Baxter Ridge Dr	Dead End	510	R							X						03/17/2008
+783308	  74	01172	     	74-1172	Baxter Ridge Ct	074	Prince George County	074	Prince George County	0.05	74-1170 Baxter Ridge Dr	Dead End	70	R							X						03/17/2008
+783309	  74	01173	     	74-1173	Ridgeway Ct	074	Prince George County	074	Prince George County	0.04	Dead End	74-1170 Baxter Ridge Dr	45	R							X						03/17/2008
+783310	  74	01174	     	74-1174	Rebel Landing	074	Prince George County	074	Prince George County	0.04	Dead End	74-1170 Baxter Ridge Dr	40	R							X						03/17/2008
+783311	  74	01175	     	74-1175	Cross Point Lane	074	Prince George County	074	Prince George County	0.20	74-1170 Baxter Ridge Dr	Cul-de-Sac	790	R							X						03/17/2008
+783312	  74	01176	     	74-1176	Barrell Point Rd	074	Prince George County	074	Prince George County	0.09	74-1175 Cross Point Lane	Dead End	120	R							X						03/17/2008
+783313	  74	01177	     	74-1177	Barrell Point Rd	074	Prince George County	074	Prince George County	0.03	Dead End	74-1176 Barrell Point Rd	40	R							X						03/17/2008
+783314	  74	01178	     	74-1178	Cross Point Ct	074	Prince George County	074	Prince George County	0.08	Dead End	74-1175 Cross Point Lane	90	R							X						03/17/2008
+793924	  74	01180	     	74-1180	Woods Ridge Lane	074	Prince George County	074	Prince George County	0.09	74-1171 Woods Ridge Trace	Cul-de-Sac	140	R							X						03/17/2008
+793925	  74	01181	     	74-1181	Woods Ridge Ct	074	Prince George County	074	Prince George County	0.06	Cul-de-Sac	74-1180 Woods Ridge Lane	60	R							X						03/17/2008
+793926	  74	01182	     	74-1182	Wood Lane	074	Prince George County	074	Prince George County	0.17	74-1175 Cross Point Lane	Dead End	370	R							X						03/17/2008
+793927	  74	01183	     	74-1183	Brandon Lane	074	Prince George County	074	Prince George County	0.10	Dead End	74-1182 Wood Lane	130	R							X						03/17/2008
+793928	  74	01183	     	74-1183	Brandon Lane	074	Prince George County	074	Prince George County	0.05	74-1182 Wood Lane	Cul-de-Sac	40	R							X						03/17/2008
+793929	  74	01184	     	74-1184	Brandon Court	074	Prince George County	074	Prince George County	0.05	74-1183 Brandon Lane	Cul-de-Sac	40	R							X						03/17/2008
+760806	  74	01200	     	74-1200	Watch Run Dr	074	Prince George County	074	Prince George County	0.55	Dead End	74-647 Takgach Rd	220	R							X						07/11/2005
+301430	  74	01201	     	74-1201	Morning Star Rd	074	Prince George County	074	Prince George County	0.20	SR 10 James River Dr	74-611 Brandon Rd; Lebanon Rd	290	F	96%	1%	1%	2%	0%	0%	C	0.1186	F	0.5676	310	F	2008
+760807	  74	01205	     	74-1205	Jovern Dr	074	Prince George County	074	Prince George County	0.13	74-630 Jefferson Park Rd	Dead End	230	R							X						07/27/2005
+760808	  74	01206	     	74-1206	Jerral Dr	074	Prince George County	074	Prince George County	0.23	Dead End	74-630 Bull Hill Rd	120	R							X						07/27/2005
+760809	  74	01210	     	74-1210	Chieftain Rd	074	Prince George County	074	Prince George County	0.23	SR 10 James River Dr	Dead End	150	R							X						07/18/2005
+760810	  74	01220	     	74-1220	Jordan Pkwy	074	Prince George County	074	Prince George County	0.43	SR 156 SOUTH	74-1221 Beggars Bush	360	R							X						03/11/2008
+760811	  74	01220	     	74-1220	Jordan Pkwy	074	Prince George County	074	Prince George County	0.66	74-1221 Beggars Bush	SR 156 NORTH	230	R							X						03/11/2008
+760812	  74	01221	     	74-1221	Beggars Bush	074	Prince George County	074	Prince George County	0.04	Dead End	74-1220 Jordan Pkwy	20	R							X						03/11/2008
+783315	  74	01222	     	74-1222	South Bacons Chase	074	Prince George County	074	Prince George County	0.11	Cul-de-Sac	74-1220; 74-1223	90	R							X						03/11/2008
+783316	  74	01223	     	74-1223	North Bacons Chase	074	Prince George County	074	Prince George County	0.08	74-1220; 74-1222	Cul-de-Sac	70	R							X						03/11/2008
+783317	  74	01224	     	74-1224	Farrar Landing	074	Prince George County	074	Prince George County	0.08	Cul-de-Sac	74-1220 Jordan Pkwy	50	R							X						03/11/2008
+760813	  74	01230	     	74-1230	Copperfield Terrace	074	Prince George County	074	Prince George County	0.21	74-721 Mica Dr	74-1231 Copperfield Dr	190	R							X						04/02/2008
+760814	  74	01231	     	74-1231	Copperfield Dr	074	Prince George County	074	Prince George County	0.22	Cul-de-Sac	Cul-de-Sac	140	R							X						04/02/2008
+760815	  74	01301	     	74-1301	Forbes Dr	074	Prince George County	074	Prince George County	0.08	SR 156 Prince George Dr	74-1303 Manchester Dr	690	R							X						07/05/2005
+760816	  74	01301	     	74-1301	Forbes Dr	074	Prince George County	074	Prince George County	0.07	74-1303 Manchester Dr	74-1305 Pfost Ave	440	R							X						07/05/2005
+760817	  74	01301	     	74-1301	Forbes Dr	074	Prince George County	074	Prince George County	0.05	74-1305 Pfost Ave	74-1302 Ontario Dr	270	R							X						07/05/2005
+760818	  74	01302	     	74-1302	Ontario Dr	074	Prince George County	074	Prince George County	0.07	Dead End	74-1301 Forbes Dr	60	R							X						07/05/2005
+760819	  74	01302	     	74-1302	Ontario Dr	074	Prince George County	074	Prince George County	0.07	74-1301 Forbes Dr	74-1306 Toronto Lane	160	R							X						07/05/2005
+760820	  74	01302	     	74-1302	Ontario Dr	074	Prince George County	074	Prince George County	0.06	74-1306 Toronto Lane	74-1308 Windsor Ct	150	R							X						07/05/2005
+760821	  74	01302	     	74-1302	Ontario Dr	074	Prince George County	074	Prince George County	0.08	74-1308 Windsor Ct	74-1309 Goose Bay Ct	120	R							X						07/05/2005
+760822	  74	01302	     	74-1302	Ontario Dr	074	Prince George County	074	Prince George County	0.03	74-1309 Goose Bay Ct	Dead End	30	R							X						07/05/2005
+760823	  74	01303	     	74-1303	Manchester Dr	074	Prince George County	074	Prince George County	0.06	74-1301 Forbes Dr	74-1306 Toronto Lane	300	R							X						07/05/2005
+760824	  74	01303	     	74-1303	Manchester Dr	074	Prince George County	074	Prince George County	0.06	74-1306 Toronto Lane	74-1308 Windsor Ct	220	R							X						07/05/2005
+760825	  74	01303	     	74-1303	Manchester Dr	074	Prince George County	074	Prince George County	0.08	74-1308 Windsor Ct	Dead End	80	R							X						07/05/2005
+760826	  74	01304	     	74-1304	Manitoba Ct	074	Prince George County	074	Prince George County	0.06	74-1308 Windsor Ct	Dead End	20	R							X						07/05/2005
+760827	  74	01305	     	74-1305	Pfost Ave	074	Prince George County	074	Prince George County	0.11	Dead End	74-1301 Forbes Dr	70	R							X						07/05/2005
+760828	  74	01306	     	74-1306	Toronto Lane	074	Prince George County	074	Prince George County	0.11	74-1303 Manchester Dr	74-1302 Ontario Dr	70	R							X						07/05/2005
+760829	  74	01307	     	74-1307	Monroe Ave	074	Prince George County	074	Prince George County	0.04	Dead End	74-1313 Hamilton St	6	R							X						06/30/2005
+760830	  74	01307	     	74-1307	Monroe Ave	074	Prince George County	074	Prince George County	0.04	74-1313 Hamilton St	74-1319 Madison St	260	R							X						06/30/2005
+760831	  74	01307	     	74-1307	Monroe Ave	074	Prince George County	074	Prince George County	0.10	74-1319 Madison St	74-1315 McKinney St	480	R							X						06/30/2005
+760832	  74	01307	     	74-1307	Monroe Ave	074	Prince George County	074	Prince George County	0.08	74-1315 McKinney St	74-1325 Robert E Lee Dr	480	R							X						06/30/2005
+760833	  74	01308	     	74-1308	Windsor Ct	074	Prince George County	074	Prince George County	0.06	74-1303 Manchester Dr	74-1304 Manitoba Ct	110	R							X						07/05/2005
+760834	  74	01308	     	74-1308	Windsor Ct	074	Prince George County	074	Prince George County	0.05	74-1304 Manitoba Ct	74-1302 Ontario Dr	80	R							X						07/05/2005
+760835	  74	01308	     	74-1308	Windsor Ct	074	Prince George County	074	Prince George County	0.04	74-1302 Ontario Dr	Dead End	30	R							X						07/05/2005
+760836	  74	01309	     	74-1309	Goose Bay Ct	074	Prince George County	074	Prince George County	0.04	74-1302 Ontario Dr	Dead End	20	R							X						07/05/2005
+760837	  74	01310	     	74-1310	Hermitage Rd	074	Prince George County	074	Prince George County	0.05	74-1325 Robert E Lee Dr	Cul-de-Sac	20	R							X						06/15/2005
+760838	  74	01311	     	74-1311	Edinburg Ct	074	Prince George County	074	Prince George County	0.05	74-1324 Brandywine Dr	Cul-de-Sac	40	R							X						06/30/2005
+760839	  74	01312	     	74-1312	Butor Rd	074	Prince George County	074	Prince George County	0.21	74-1324 Brandywine Dr	74-1332 Monroe Ave	870	R							X						07/27/2005
+760840	  74	01313	     	74-1313	Hamilton Ave	074	Prince George County	074	Prince George County	0.10	74-1323 Jefferson Park Rd	74-1322 Cousins Ave	220	R							X						06/30/2005
+760841	  74	01313	     	74-1313	Hamilton Ave	074	Prince George County	074	Prince George County	0.08	74-1322 Cousins Ave	74-1307 Monroe Ave	260	R							X						06/30/2005
+760842	  74	01313	     	74-1313	Hamilton Ave	074	Prince George County	074	Prince George County	0.17	74-1307 Monroe Ave	74-1315 McKinney St	280	R							X						09/24/2002
+760843	  74	01313	     	74-1313	Hamilton Ave	074	Prince George County	074	Prince George County	0.05	74-1315 McKinney St	Dead End	30	R							X						09/24/2002
+760844	  74	01314	     	74-1314	Devon Ct	074	Prince George County	074	Prince George County	0.05	74-1324 Brandywine Dr	Cul-de-Sac	60	R							X						06/30/2005
+760845	  74	01315	     	74-1315	McKinney St	074	Prince George County	074	Prince George County	0.05	74-1307 Monroe Ave	74-1313 Hamilton Ave	170	R							X						09/24/2002
+760846	  74	01316	     	74-1316	Westbrook Rd	074	Prince George County	074	Prince George County	0.08	74-1324 Brandywine Dr	74-1317 Spring Rd	330	R							X						06/30/2005
+760847	  74	01316	     	74-1316	Westbrook Rd	074	Prince George County	074	Prince George County	0.09	74-1317 Spring Rd	74-1331 Pruett Dr	270	R							X						06/30/2005
+760848	  74	01316	     	74-1316	Westbrook Rd	074	Prince George County	074	Prince George County	0.06	74-1331 Pruett Dr	74-1332 Monroe Ave	250	R							X						06/30/2005
+760849	  74	01317	     	74-1317	Spring Rd	074	Prince George County	074	Prince George County	0.07	74-1316 Westbrook Rd	74-1342 Old Iron Rd	100	R							X						06/30/2005
+760850	  74	01318	     	74-1318	Cheshire Dr	074	Prince George County	074	Prince George County	0.14	74-1325 Robert E Lee Dr	74-1343 Hyde Park Dr	30	R							X						06/15/2005
+760851	  74	01318	     	74-1318	Cheshire Dr	074	Prince George County	074	Prince George County	0.14	74-1343 Hyde Park Dr	74-1342 Old Iron Rd	220	R							X						06/15/2005
+760852	  74	01319	     	74-1319	Madison St	074	Prince George County	074	Prince George County	0.10	74-1323 Jefferson Park Rd	74-1320 Briarwood Ct	290	R							X						06/15/2005
+760853	  74	01319	     	74-1319	Madison St	074	Prince George County	074	Prince George County	0.02	74-1320 Briarwood Ct	74-1322 Cousins Ave	500	R							X						06/15/2005
+760854	  74	01319	     	74-1319	Madison St	074	Prince George County	074	Prince George County	0.08	74-1322 Cousins Ave	74-1307	210	R							X						06/15/2005
+760855	  74	01320	     	74-1320	Briarwood Ct	074	Prince George County	074	Prince George County	0.04	74-1319 Madison St	74-1321 Lafayette Rd	310	R							X						06/15/2005
+760856	  74	01320	     	74-1320	Briarwood Ct	074	Prince George County	074	Prince George County	0.07	74-1321 Lafayette Rd	Begin Loop	450	R							X						06/15/2005
+760857	  74	01320	     	74-1320	Briarwood Ct	074	Prince George County	074	Prince George County	0.36	Begin Loop	End Loop	370	R							X						06/15/2005
+760858	  74	01321	     	74-1321	Lafayette Rd	074	Prince George County	074	Prince George County	0.52	Dead End	74-1323 Jefferson Park Rd	360	R							X						06/15/2005
+760859	  74	01321	     	74-1321	Lafayette Rd	074	Prince George County	074	Prince George County	0.10	74-1323 Jefferson Park Rd	74-1320 Briarwood Ct	300	R							X						06/15/2005
+760860	  74	01322	     	74-1322	Cousins Ave	074	Prince George County	074	Prince George County	0.06	Dead End	74-1313 Hamilton St	530	R							X						06/30/2005
+760861	  74	01322	     	74-1322	Cousins Ave	074	Prince George County	074	Prince George County	0.05	74-1313 Hamilton St	74-1319 Madison St	300	R							X						06/30/2005
+760862	  74	01323	     	74-1323	Jefferson Park Rd	074	Prince George County	074	Prince George County	0.05	74-630 Jefferson Park Rd	74-1313 Hamilton St	1100	R							X						06/15/2005
+760863	  74	01323	     	74-1323	Jefferson Park Rd	074	Prince George County	074	Prince George County	0.05	74-1313 Hamilton St	74-1319 Madison St	650	R							X						06/15/2005
+760864	  74	01323	     	74-1323	Jefferson Park Rd	074	Prince George County	074	Prince George County	0.05	74-1319 Madison St	74-1321 Lafayette Rd	590	R							X						06/15/2005
+760865	  74	01324	     	74-1324	Brandywine Dr	074	Prince George County	074	Prince George County	0.08	74-1325 Robert E Lee Dr	74-1311 Edinburg Ct	2800	R							X						06/15/2005
+760866	  74	01324	     	74-1324	Brandywine Dr	074	Prince George County	074	Prince George County	0.06	74-1311 Edinburg Ct	74-1312 Butor Rd	2700	R							X						06/15/2005
+760867	  74	01324	     	74-1324	Brandywine Dr	074	Prince George County	074	Prince George County	0.06	74-1312 Butor Rd	74-1314 Devon Ct	2000	R							X						06/15/2005
+760868	  74	01324	     	74-1324	Brandywine Dr	074	Prince George County	074	Prince George County	0.06	74-1314 Devon Ct	74-1316 Westbrook Rd	1900	R							X						06/15/2005
+760869	  74	01324	     	74-1324	Brandywine Dr	074	Prince George County	074	Prince George County	0.09	74-1316 Westbrook Rd	74-1342 Old Iron Rd	1600	R							X						06/15/2005
+760870	  74	01325	     	74-1325	Robert E Lee Dr	074	Prince George County	074	Prince George County	0.37	Cul-de-Sac	74-1318 Cheshire Dr	590	R							X						06/15/2005
+760871	  74	01325	     	74-1325	Robert E Lee Dr	074	Prince George County	074	Prince George County	0.06	74-1318 Cheshire Dr	74-1324 Brandywine Dr	640	R							X						06/15/2005
+760872	  74	01325	     	74-1325	Robert E Lee Dr	074	Prince George County	074	Prince George County	0.06	74-1324 Brandywine Dr	74-1310 Hermitage Rd	430	R							X						06/15/2005
+760873	  74	01325	     	74-1325	Robert E Lee Dr	074	Prince George County	074	Prince George County	0.18	74-1310 Hermitage Rd	74-1307 Monroe Ave	440	R							X						06/15/2005
+760874	  74	01326	     	74-1326	Birchett Dr	074	Prince George County	074	Prince George County	0.16	SR 156	74-1327 Pfost Ave	990	R							X						07/07/2005
+760875	  74	01326	     	74-1326	Birchett Dr	074	Prince George County	074	Prince George County	0.06	74-1327 Pfost Ave	74-1328 Esposito Pl	780	R							X						07/07/2005
+760876	  74	01326	     	74-1326	Birchett Dr	074	Prince George County	074	Prince George County	0.08	74-1328 Esposito Pl	74-1329 Montreal Ave	580	R							X						07/07/2005
+760877	  74	01326	     	74-1326	Birchett Dr	074	Prince George County	074	Prince George County	0.10	74-1329 Montreal Ave	74-1330 Vancouver Ave	400	R							X						07/07/2005
+760878	  74	01326	     	74-1326	Birchett Dr	074	Prince George County	074	Prince George County	0.07	74-1330 Vancouver Ave	74-1333 Quebec Ave	230	R							X						07/07/2005
+760879	  74	01326	     	74-1326	Birchett Dr	074	Prince George County	074	Prince George County	0.17	74-1333 Quebec Ave	74-1334 Perrin Dr	90	R							X						07/07/2005
+760880	  74	01327	     	74-1327	Pfost Ave	074	Prince George County	074	Prince George County	0.08	74-1326 Birchett Dr	74-1336 Moncol Dr	50	R							X						07/07/2005
+760881	  74	01328	     	74-1328	Esposito Pl	074	Prince George County	074	Prince George County	0.09	74-1326 Birchett Dr	74-1336 Moncol Dr	100	R							X						07/07/2005
+760882	  74	01328	     	74-1328	Esposito Pl	074	Prince George County	074	Prince George County	0.09	74-1336 Moncol Dr	Dead End	90	R							X						07/07/2005
+760883	  74	01329	     	74-1329	Montreal Ave	074	Prince George County	074	Prince George County	0.06	74-1326 Birchett Dr	74-1334 Perrin Dr	170	R							X						07/07/2005
+760884	  74	01329	     	74-1329	Montreal Ave	074	Prince George County	074	Prince George County	0.10	74-1334 Perrin Dr	74-1335 Straccioni Lane	140	R							X						07/07/2005
+760885	  74	01329	     	74-1329	Montreal Ave	074	Prince George County	074	Prince George County	0.05	74-1335 Straccioni Lane	Dead End	70	R							X						07/07/2005
+760886	  74	01330	     	74-1330	Vancouver Ave	074	Prince George County	074	Prince George County	0.06	74-1326 Birchett Dr	74-1334 Perrin Dr	70	R							X						07/07/2005
+760887	  74	01330	     	74-1330	Vancouver Ave	074	Prince George County	074	Prince George County	0.05	74-1334 Perrin Dr	74-1335 Straccioni Lane	90	R							X						07/07/2005
+760888	  74	01330	     	74-1330	Vancouver Ave	074	Prince George County	074	Prince George County	0.07	74-1335 Straccioni Lane	Dead End	60	R							X						07/07/2005
+760889	  74	01331	     	74-1331	Pruett Dr	074	Prince George County	074	Prince George County	0.12	Cul-de-Sac	74-1316 Westbrook Rd	150	R							X						06/30/2005
+760890	  74	01332	     	74-1332	Monroe Ave	074	Prince George County	074	Prince George County	0.15	74-1312 Butor Rd	74-1316 Westbrook Rd	300	R							X						06/30/2005
+760891	  74	01332	     	74-1332	Monroe Ave	074	Prince George County	074	Prince George County	0.07	74-1316 Westbrook Rd	Old Iron Rd	1200	R							X						06/30/2005
+760892	  74	01333	     	74-1333	Quebec Ave	074	Prince George County	074	Prince George County	0.06	74-1326 Birchett Dr	74-1334 Perrin Dr	80	R							X						07/07/2005
+760893	  74	01333	     	74-1333	Quebec Ave	074	Prince George County	074	Prince George County	0.07	74-1334 Perrin Dr	Dead End	70	R							X						07/07/2005
+760894	  74	01334	     	74-1334	Perrin Dr	074	Prince George County	074	Prince George County	0.10	74-1329 Montreal Ave	74-1330 Vancouver Ave	49	R							X						07/07/2005
+760895	  74	01334	     	74-1334	Perrin Dr	074	Prince George County	074	Prince George County	0.07	74-1330 Vancouver Ave	74-1333 Quebec Ave	60	R							X						07/07/2005
+760896	  74	01334	     	74-1334	Perrin Dr	074	Prince George County	074	Prince George County	0.06	74-1333 Quebec Ave	74-1326 Birchett Dr	40	R							X						07/07/2005
+760897	  74	01335	     	74-1335	Straccioni Lane	074	Prince George County	074	Prince George County	0.10	74-1329 Montreal Ave	74-1330 Vancouver Ave	70	R							X						07/07/2005
+760898	  74	01336	     	74-1336	Moncol Dr	074	Prince George County	074	Prince George County	0.07	74-1327 Pfost Ave	74-1328 Esposito Pl	40	R							X						07/07/2005
+760899	  74	01337	     	74-1337	Crossing Blvd	074	Prince George County	074	Prince George County	0.31	SR 36 Oaklawn Blvd	Dead End	8800	R							X						07/18/2005
+760900	  74	01338	     	74-1338	Birchett Pl	074	Prince George County	074	Prince George County	0.10	Cul-de-Sac	74-1326 Birchett Dr	100	R							X						07/07/2005
+760901	  74	01342	     	74-1342	Old Iron Rd	074	Prince George County	074	Prince George County	0.06	Cul-de-Sac	74-1344 Berkshire Dr	60	R							X						03/19/2008
+760902	  74	01342	     	74-1342	Old Iron Rd	074	Prince George County	074	Prince George County	0.07	74-1344 Berkshire Dr	74-1343 Hyde Park Dr	750	R							X						06/30/2005
+760903	  74	01342	     	74-1342	Old Iron Rd	074	Prince George County	074	Prince George County	0.05	74-1343 Hyde Park Dr	74-1318 Cheshire Dr	980	R							X						06/30/2005
+760904	  74	01342	     	74-1342	Old Iron Rd	074	Prince George County	074	Prince George County	0.08	74-1318 Cheshire Dr	74-1324 Brandywine Dr	1200	R							X						06/30/2005
+760905	  74	01342	     	74-1342	Old Iron Rd	074	Prince George County	074	Prince George County	0.09	74-1324 Brandywine Dr	74-1317 Spring Rd	1800	R							X						06/30/2005
+760906	  74	01342	     	74-1342	Old Iron Rd	074	Prince George County	074	Prince George County	0.02	74-1317 Spring Rd	SCL Hopewell	2000	R							X						06/30/2005
+760907	  74	01343	     	74-1343	Hyde Park Dr	074	Prince George County	074	Prince George County	0.15	74-1342 Old Iron Rd	74-1318 Cheshire Dr	120	R							X						06/30/2005
+760908	  74	01344	     	74-1344	Berkshire Dr	074	Prince George County	074	Prince George County	0.05	Dead End	74-1342 Old Iron Rd	60	R							X						03/19/2008
+760909	  74	01344	     	74-1344	Berkshire Dr	074	Prince George County	074	Prince George County	0.06	74-1342 Old Iron Rd	74-1345 W, London Rd	520	R							X						06/30/2005
+760910	  74	01344	     	74-1344	Berkshire Dr	074	Prince George County	074	Prince George County	0.10	74-1345 W, London Rd	74-1345 E, London Rd	380	R							X						03/19/2008
+760911	  74	01345	     	74-1345	London Rd	074	Prince George County	074	Prince George County	0.03	Cul-de-Sac	74-1346 Branchester Dr	60	R							X						03/19/2008
+760912	  74	01345	     	74-1345	London Rd	074	Prince George County	074	Prince George County	0.13	74-1346 Branchester Dr	74-1344 E, Berkshire Dr	240	R							X						03/19/2008
+760913	  74	01345	     	74-1345	London Rd	074	Prince George County	074	Prince George County	0.19	74-1344 E, Berkshire Dr	74-1344 W, Berkshire Dr	150	R							X						03/19/2008
+760914	  74	01346	     	74-1346	Branchester Dr	074	Prince George County	074	Prince George County	0.07	74-1345 London Rd	Cul-de-Sac	50	R							X						03/19/2008
+760915	  74	01350	     	74-1350	John Elizabeth Pl	074	Prince George County	074	Prince George County	0.25	74-674 Mount Sinai Rd	74-1352 Royster Pl	430	R							X						07/07/2005
+760916	  74	01350	     	74-1350	John Elizabeth Pl	074	Prince George County	074	Prince George County	0.09	74-1352 Royster Pl	Cul-de-Sac	100	R							X						03/13/2008
+760917	  74	01351	     	74-1351	Newstead Pl	074	Prince George County	074	Prince George County	0.14	74-1350 John Elizabeth Pl	Cul-de-Sac	90	R							X						03/13/2008
+760918	  74	01352	     	74-1352	Royster Pl	074	Prince George County	074	Prince George County	0.10	74-1350 John Elizabeth Pl	Cul-de-Sac	130	R							X						03/13/2008
+788860	  74	01355	     	74-1355	Baileys Ridge Blvd	074	Prince George County	074	Prince George County	0.06	74-630 Jefferson Park Rd	74-1357 Jefferson Pointe Lane	950	R							X						07/07/2005
+788861	  74	01356	     	74-1356	Owens Way	074	Prince George County	074	Prince George County	0.06	74-630 Jefferson Park Rd	74-1357; 74-1358	730	R							X						07/07/2005
+788862	  74	01357	     	74-1357	Jefferson Pointe Lane	074	Prince George County	074	Prince George County	0.14	74-1356; 74-1358	74-1355 Baileys Ridge Blvd	900	R							X						07/07/2005
+788863	  74	01358	     	74-1358	Jefferson Pointe Lane	074	Prince George County	074	Prince George County	0.39	74-1356; 74-1357	74-1359 Bailey Ridge Lane	790	R							X						07/07/2005
+788864	  74	01359	     	74-1359	Bailey Ridge Lane	074	Prince George County	074	Prince George County	0.24	74-1357 Jefferson Pointe Lane	Cul-de-Sac	1200	R							X						07/07/2005
+760919	  74	01360	     	74-1360	Spring Lake Dr	074	Prince George County	074	Prince George County	0.08	74-674 Mount Sinai Rd	74-1361 Pinewood Ct	1100	R							X						03/13/2008
+760920	  74	01360	     	74-1360	Spring Lake Dr	074	Prince George County	074	Prince George County	0.08	74-1361 Pinewood Ct	74-1362 Martinson Lane	1000	R							X						03/13/2008
+760921	  74	01360	     	74-1360	Spring Lake Dr	074	Prince George County	074	Prince George County	0.07	74-1362 Martinson Lane	74-1363 Nimite Pl	450	R							X						03/13/2008
+760922	  74	01360	     	74-1360	Spring Lake Dr	074	Prince George County	074	Prince George County	0.16	74-1363 Nimite Pl	74-1364 Stoneybrook Ct	270	R							X						03/13/2008
+760923	  74	01360	     	74-1360	Spring Lake Dr	074	Prince George County	074	Prince George County	0.08	74-1364 Stoneybrook Ct	Cul-de-Sac	80	R							X						03/13/2008
+760924	  74	01361	     	74-1361	Pinewood Ct	074	Prince George County	074	Prince George County	0.06	74-1360 Spring Lake Dr	Cul-de-Sac	60	R							X						03/13/2008
+760925	  74	01362	     	74-1362	Martinson Lane	074	Prince George County	074	Prince George County	0.23	74-1360 Spring Lake Dr	74-1365 Barb Dale Ct	690	R							X						03/13/2008
+760926	  74	01362	     	74-1362	Martinson Lane	074	Prince George County	074	Prince George County	0.16	74-1365 Barb Dale Ct	74-1366 Candlewood Ct	450	R							X						03/13/2008
+760927	  74	01362	     	74-1362	Martinson Lane	074	Prince George County	074	Prince George County	0.10	74-1366 Candlewood Ct	Cul-de-Sac	200	R							X						03/13/2008
+760928	  74	01363	     	74-1363	Nimite Pl	074	Prince George County	074	Prince George County	0.04	74-1360 Spring Lake Dr	Cul-de-Sac	50	R							X						03/13/2008
+760929	  74	01364	     	74-1364	Stoneybrook Ct	074	Prince George County	074	Prince George County	0.04	Cul-de-Sac	74-1360 Spring Lake Dr	30	R							X						03/13/2008
+760930	  74	01365	     	74-1365	Barb Dale Ct	074	Prince George County	074	Prince George County	0.06	74-1362 Martinson Lane	Cul-de-Sac	50	R							X						03/13/2008
+760931	  74	01366	     	74-1366	Candlewood Ct	074	Prince George County	074	Prince George County	0.07	Cul-de-Sac	74-1362 Martinson Lane	90	R							X						03/13/2008
+760932	  74	01370	     	74-1370	Hunters Ridge Dr	074	Prince George County	074	Prince George County	1.01	74-674 Mount Sinai Rd	Cul-de-Sac	180	R							X						03/13/2008
+760933	  74	01371	     	74-1371	Hunters Ridge Lane	074	Prince George County	074	Prince George County	0.11	74-1370 Hunters Ridge Dr	74-1372 Hunters Ridge Lane	47	R							X						07/07/2005
+760934	  74	01372	     	74-1372	Hunters Ridge Lane	074	Prince George County	074	Prince George County	0.04	Cul-de-Sac	74-1371 Hunters Ridge Lane	20	R							X						07/07/2005
+760935	  74	01372	     	74-1372	Hunters Ridge Lane	074	Prince George County	074	Prince George County	0.04	74-1371 Hunters Ridge Lane	Cul-de-Sac	30	R							X						07/07/2005
+760936	  74	01373	     	74-1373	Fox Hill Pl	074	Prince George County	074	Prince George County	0.25	Cul-de-Sac	74-1370 Hunters Ridge Dr	80	R							X						07/07/2005
+786683	  74	01377	     	74-1377	Blair Ct	074	Prince George County	074	Prince George County	0.15	Cul-de-Sac	74-1380 Branchester Pkwy	170	R							X						07/18/2005
+786684	  74	01378	     	74-1378	Heatherway Rd	074	Prince George County	074	Prince George County	0.10	74-1379 Nicholas Pl	74-1380 Branchester Pkwy	220	R							X						07/18/2005
+786685	  74	01379	     	74-1379	Nicholas Pl	074	Prince George County	074	Prince George County	0.19	74-1377 Blair Ct	Cul-de-Sac	130	R							X						07/18/2005
+760937	  74	01380	     	74-1380	Branchester Pkwy	074	Prince George County	074	Prince George County	0.39	74-1386 S, Hearthside Court	74-1386 N, Heathside Dr	980	R							X						07/05/2005
+760938	  74	01380	     	74-1380	Branchester Pkwy	074	Prince George County	074	Prince George County	0.57	74-1386 N, Heathside Dr	74-646 Middle Rd	2300	R							X						07/05/2005
+760939	  74	01381	     	74-1381	Lake Point Dr	074	Prince George County	074	Prince George County	0.14	74-1380 Branchester Pkwy	74-1383 Boxwood Dr	960	R							X						03/13/2008
+760940	  74	01382	     	74-1382	Cypress Dr	074	Prince George County	074	Prince George County	0.23	74-1386 Hearthside Court	74-1381 Lake Point Dr	160	R							X						03/13/2008
+760941	  74	01383	     	74-1383	Boxwood Dr	074	Prince George County	074	Prince George County	0.12	74-1384 Cedar Crest Lane	74-1381 Lake Point Dr	160	R							X						03/13/2008
+760942	  74	01384	     	74-1384	Cedar Crest Lane	074	Prince George County	074	Prince George County	0.18	74-1382 Cypress Dr	Cul-de-Sac	180	R							X						03/13/2008
+760943	  74	01385	     	74-1385	 	074	Prince George County	074	Prince George County	0.05	74-1382 Cypress Dr	Cul-de-Sac	30	R							X						03/13/2008
+784381	  74	01386	     	74-1386	Hearthside Dr	074	Prince George County	074	Prince George County	0.14	74-1393 Megan Ct	74-1380 N, Branchester Pkwy	290	R							X						03/13/2008
+760944	  74	01386	     	74-1386	Hearthside Court	074	Prince George County	074	Prince George County	0.61	74-1380 N, Branchester Pkwy	Cul-de-Sac	270	R							X						07/11/2005
+760945	  74	01387	     	74-1387	Ash Ct	074	Prince George County	074	Prince George County	0.09	Cul-de-Sac	74-1386 Hearthside Court	80	R							X						03/19/2008
+760946	  74	01388	     	74-1388	Mapleleaf Lane	074	Prince George County	074	Prince George County	0.08	Cul-de-Sac	74-1386 Hearthside Court	70	R							X						03/19/2008
+760947	  74	01389	     	74-1389	Birchwood Circle	074	Prince George County	074	Prince George County	0.12	Cul-de-Sac	74-1386 Hearthside Court	110	R							X						03/19/2008
+760948	  74	01390	     	74-1390	Fox Dr	074	Prince George County	074	Prince George County	0.18	Dead End	74-1380 Branchester Pkwy	180	R							X						07/01/2005
+760949	  74	01391	     	74-1391	Woodly Ct	074	Prince George County	074	Prince George County	0.05	Cul-de-Sac	74-1380 Branchester Pkwy	50	R							X						03/13/2008
+784382	  74	01392	     	74-1392	Lake Rd	074	Prince George County	074	Prince George County	0.12	74-1380; 74-1394	Dead End	920	R							X						03/13/2008
+784383	  74	01393	     	74-1393	Megan Ct	074	Prince George County	074	Prince George County	0.18	Cul-de-Sac	Cul-de-Sac	240	R							X						03/13/2008
+784384	  74	01394	     	74-1394	Snow Geese Lane	074	Prince George County	074	Prince George County	0.12	Dead End	74-1380; 74-1392	260	R							X						03/13/2008
+784385	  74	01395	     	74-1395	Shore Bird Dr	074	Prince George County	074	Prince George County	0.26	74-1380 Branchester Pkwy	74-1394 Snow Geese Lane	270	R							X						03/13/2008
+784386	  74	01396	     	74-1396	Redwing Ct	074	Prince George County	074	Prince George County	0.05	74-1395 Shore Bird Dr	Dead End	40	R							X						03/13/2008
+784387	  74	01397	     	74-1397	Swallow Ct	074	Prince George County	074	Prince George County	0.05	74-1395 Shore Bird Dr	Dead End	40	R							X						03/13/2008
+784388	  74	01398	     	74-1398	Shorebird Dr	074	Prince George County	074	Prince George County	0.04	Dead End	74-1395 Shore Bird Dr	40	R							X						03/13/2008
+760950	  74	01401	     	74-1401	Swawnee Trail	074	Prince George County	074	Prince George County	0.12	SR 156	74-1404 Beechwood Dr	40	R							X						07/11/2005
+760951	  74	01401	     	74-1401	Swawnee Trail	074	Prince George County	074	Prince George County	0.17	74-1404 Beechwood Dr	74-1402 Seminole Trail	10	R							X						03/10/2008
+760952	  74	01402	     	74-1402	Seminole Trail	074	Prince George County	074	Prince George County	0.06	74-1403 Cherokee Lane	74-1401 Swawnee Trail	10	R							X						03/10/2008
+760953	  74	01403	     	74-1403	Cherokee Lane	074	Prince George County	074	Prince George County	0.12	74-1404 Beechwood Dr	74-1402 Seminole Trail	10	R							X						03/10/2008
+760954	  74	01404	     	74-1404	Beechwood Dr	074	Prince George County	074	Prince George County	0.08	74-1401 Swawnee Trail	74-1403 Cherokee Lane	10	R							X						03/10/2008
+760955	  74	01405	     	74-1405	Peachtree Dr	074	Prince George County	074	Prince George County	0.33	74-642 Beavercastle Rd	74-642 Beavercastle Rd	120	R							X						07/27/2005
+760956	  74	01406	     	74-1406	Tarbay Rd	074	Prince George County	074	Prince George County	0.06	SR 10 James River Dr	74-1414 Kay St	1000	R							X						07/11/2005
+760957	  74	01406	     	74-1406	Tarbay Rd	074	Prince George County	074	Prince George County	0.07	74-1414 Kay St	74-1407 Bicors Dr	640	R							X						07/11/2005
+760958	  74	01406	     	74-1406	Tarbay Rd	074	Prince George County	074	Prince George County	0.12	74-1407 Bicors Dr	74-1409 Douglas Lane	320	R							X						07/11/2005
+760959	  74	01406	     	74-1406	Tarbay Rd	074	Prince George County	074	Prince George County	0.15	74-1409 Douglas Lane	74-1425 Mason St	200	R							X						07/11/2005
+760960	  74	01407	     	74-1407	Bicors Dr	074	Prince George County	074	Prince George County	0.07	74-1406 Tarbay Rd	74-1408 Yorkdale Dr	620	R							X						07/11/2005
+760961	  74	01407	     	74-1407	Bicors Dr	074	Prince George County	074	Prince George County	0.08	74-1408 Yorkdale Dr	74-1410 Ridge Rd	520	R							X						07/11/2005
+760962	  74	01408	     	74-1408	Yorkdale Dr	074	Prince George County	074	Prince George County	0.12	74-1407 Bicors Dr	74-1409 W, Douglas Lane	90	R							X						07/11/2005
+760963	  74	01408	     	74-1408	Yorkdale Dr	074	Prince George County	074	Prince George County	0.11	74-1409 W, Douglas Lane	74-1409 E, Douglas Lane	90	R							X						07/11/2005
+760964	  74	01408	     	74-1408	Yorkdale Dr	074	Prince George County	074	Prince George County	0.04	74-1409 E, Douglas Lane	74-1425 Mason St	140	R							X						07/11/2005
+760965	  74	01408	     	74-1408	Yorkdale Dr	074	Prince George County	074	Prince George County	0.05	74-1425 Mason St	74-1426 Frankie Lane	100	R							X						07/11/2005
+760966	  74	01409	     	74-1409	Douglas Lane	074	Prince George County	074	Prince George County	0.07	74-1406 Tarbay Rd	74-1408 Yorkdale Dr	210	R							X						07/11/2005
+760967	  74	01409	     	74-1409	Douglas Lane	074	Prince George County	074	Prince George County	0.08	74-1408 Yorkdale Dr	74-1410 W, Ridge Rd	110	R							X						07/11/2005
+760968	  74	01409	     	74-1409	Douglas Lane	074	Prince George County	074	Prince George County	0.29	74-1410 W, Ridge Rd	74-1410 E, Ridge Rd	60	R							X						07/11/2005
+760969	  74	01409	     	74-1409	Douglas Lane	074	Prince George County	074	Prince George County	0.08	74-1410 E, Ridge Rd	74-1408 Yorkdale Dr	120	R							X						07/11/2005
+760970	  74	01410	     	74-1410	Ridge Rd	074	Prince George County	074	Prince George County	0.03	74-1407 Bicors Dr	74-1415 Bicors Dr	690	R							X						07/11/2005
+760971	  74	01410	     	74-1410	Ridge Rd	074	Prince George County	074	Prince George County	0.08	74-1415 Bicors Dr	74-1409 W, Douglas Lane	220	R							X						07/11/2005
+760972	  74	01410	     	74-1410	Ridge Rd	074	Prince George County	074	Prince George County	0.11	74-1409 W, Douglas Lane	74-1409 E, Douglas Lane	250	R							X						07/11/2005
+760973	  74	01411	     	74-1411	White Pine Dr	074	Prince George County	074	Prince George County	0.26	74-1413 Butternut Dr	74-642 Beavercastle Rd	130	R							X						07/11/2005
+760974	  74	01412	     	74-1412	Ironwood Dr	074	Prince George County	074	Prince George County	0.18	74-1413 Butternut Dr	74-642 Beavercastle Rd	110	R							X						07/11/2005
+760975	  74	01413	     	74-1413	Butternut Dr	074	Prince George County	074	Prince George County	0.06	74-642 Beavercastle Rd	74-1422 Appletree Lane	730	R							X						07/11/2005
+760976	  74	01413	     	74-1413	Butternut Dr	074	Prince George County	074	Prince George County	0.10	74-1422 Appletree Lane	74-1412 Ironwood Dr	640	R							X						07/11/2005
+760977	  74	01413	     	74-1413	Butternut Dr	074	Prince George County	074	Prince George County	0.06	74-1412 Ironwood Dr	74-1411 White Pine Dr	630	R							X						07/11/2005
+760978	  74	01413	     	74-1413	Butternut Dr	074	Prince George County	074	Prince George County	0.12	74-1411 White Pine Dr	74-1419 Sassafras Dr	620	R							X						07/11/2005
+760979	  74	01413	     	74-1413	Butternut Dr	074	Prince George County	074	Prince George County	0.10	74-1419 Sassafras Dr	74-1421 Willow Ct	380	R							X						07/11/2005
+760980	  74	01413	     	74-1413	Butternut Dr	074	Prince George County	074	Prince George County	0.02	74-1421 Willow Ct	74-1420 Forsythia Dr	330	R							X						07/11/2005
+760981	  74	01413	     	74-1413	Butternut Dr	074	Prince George County	074	Prince George County	0.09	74-1420 Forsythia Dr	74-1423 Collingwood Dr	280	R							X						07/11/2005
+760982	  74	01413	     	74-1413	Butternut Dr	074	Prince George County	074	Prince George County	0.18	74-1423 Collingwood Dr	74-1424 Jenny Creek Dr	110	R							X						07/11/2005
+760983	  74	01414	     	74-1414	Kay St	074	Prince George County	074	Prince George County	0.08	74-1406 Tarbay Rd	Dead End	70	R							X						07/18/2005
+760984	  74	01415	     	74-1415	Bicors Dr	074	Prince George County	074	Prince George County	0.12	74-1410 Ridge Rd	74-1417 Liverman Dr	470	R							X						07/18/2005
+760985	  74	01415	     	74-1415	Bicors Dr	074	Prince George County	074	Prince George County	0.17	74-1417 Liverman Dr	74-1418 Thomas Dr	140	R							X						07/18/2005
+760986	  74	01415	     	74-1415	Bicors Dr	074	Prince George County	074	Prince George County	0.04	74-1418 Thomas Dr	Dead End	30	R							X						07/18/2005
+760987	  74	01416	     	74-1416	Emily Lane	074	Prince George County	074	Prince George County	0.17	74-1417 Liverman Dr	74-1418 Thomas Dr	90	R							X						07/18/2005
+760988	  74	01417	     	74-1417	Liverman Dr	074	Prince George County	074	Prince George County	0.06	74-1415 Bicors Dr	74-1416 Emily Lane	200	R							X						07/18/2005
+760989	  74	01417	     	74-1417	Liverman Dr	074	Prince George County	074	Prince George County	0.26	74-1416 Emily Lane	74-1418 Thomas Dr	90	R							X						07/18/2005
+760990	  74	01417	     	74-1417	Liverman Dr	074	Prince George County	074	Prince George County	0.04	74-1418 Thomas Dr	Dead End	10	R							X						07/18/2005
+760991	  74	01418	     	74-1418	Thomas Dr	074	Prince George County	074	Prince George County	0.10	74-1417 Liverman Dr	74-1416 Emily Lane	90	R							X						07/18/2005
+760992	  74	01418	     	74-1418	Thomas Dr	074	Prince George County	074	Prince George County	0.07	74-1416 Emily Lane	74-1415 Bicors Dr	120	R							X						07/18/2005
+760993	  74	01419	     	74-1419	Sassafras Dr	074	Prince George County	074	Prince George County	0.11	74-1413 Butternut Dr	74-1420 Forsythia Dr	150	R							X						07/11/2005
+760994	  74	01419	     	74-1419	Sassafras Dr	074	Prince George County	074	Prince George County	0.25	74-1420 Forsythia Dr	74-707 Lemonwood Dr	190	R							X						03/10/2008
+760995	  74	01420	     	74-1420	Forsythia Dr	074	Prince George County	074	Prince George County	0.08	74-1419 Sassafras Dr	74-1413 Butternut Dr	60	R							X						07/11/2005
+760996	  74	01421	     	74-1421	Willow Ct	074	Prince George County	074	Prince George County	0.05	Cul-de-Sac	74-1413 Butternut Dr	60	R							X						07/11/2005
+760997	  74	01422	     	74-1422	Appletree Lane	074	Prince George County	074	Prince George County	0.09	Cul-de-Sac	74-1413 Butternut Dr	100	R							X						07/11/2005
+760998	  74	01423	     	74-1423	Collingwood Dr	074	Prince George County	074	Prince George County	0.21	74-1413 Butternut Dr	74-1424 Jenny Creek Dr	180	R							X						07/11/2005
+760999	  74	01424	     	74-1424	Jenny Creek Dr	074	Prince George County	074	Prince George County	0.07	74-1423 Collingwood Dr	74-1413 Butternut Dr	90	R							X						07/11/2005
+761000	  74	01424	     	74-1424	Jenny Creek Dr	074	Prince George County	074	Prince George County	0.11	74-1413 Butternut Dr	Cul-de-Sac	80	R							X						07/11/2005
+761001	  74	01425	     	74-1425	Mason St	074	Prince George County	074	Prince George County	0.08	74-1406 Tarbay Rd	74-1408 Yorkdale Dr	190	R							X						07/11/2005
+761002	  74	01426	     	74-1426	Frankie Lane	074	Prince George County	074	Prince George County	0.20	74-1408 Yorkdale Dr	Dead End	90	R							X						03/10/2008
+761003	  74	01430	     	74-1430	Fountain Ridge	074	Prince George County	074	Prince George County	0.78	74-646 Sandy Ridge Rd	Cul-de-Sac	200	R							X						03/10/2008
+761004	  74	01440	     	74-1440	Country View Lane	074	Prince George County	074	Prince George County	0.30	Cul-de-Sac	74-1444 Doe Run Ct	230	R							X						07/05/2005
+761005	  74	01440	     	74-1440	Country View Lane	074	Prince George County	074	Prince George County	0.19	74-1444 Doe Run Ct	74-1443 Doe Run Rd	340	R							X						07/05/2005
+761006	  74	01440	     	74-1440	Country View Lane	074	Prince George County	074	Prince George County	0.22	74-1443 Doe Run Rd	74-1442 Spring Meadow Pl	560	R							X						07/05/2005
+761007	  74	01440	     	74-1440	Country View Lane	074	Prince George County	074	Prince George County	0.13	74-1442 Spring Meadow Pl	74-1441 Southern Pine Dr	640	R							X						03/10/2008
+761008	  74	01440	     	74-1440	Country View Lane	074	Prince George County	074	Prince George County	0.13	74-1441 Southern Pine Dr	Bypass SR 156	760	R							X						03/10/2008
+761009	  74	01441	     	74-1441	Southern Pine Dr	074	Prince George County	074	Prince George County	0.16	Cul-de-Sac	74-1440 Country View Lane	130	R							X						03/10/2008
+761010	  74	01442	     	74-1442	Spring Meadow Pl	074	Prince George County	074	Prince George County	0.10	Cul-de-Sac	74-1440 Countryview Lane	80	R							X						03/10/2008
+761011	  74	01443	     	74-1443	Doe Run Rd	074	Prince George County	074	Prince George County	0.04	Cul-de-Sac	74-1444 Doe Run Ct	40	R							X						07/05/2005
+761012	  74	01443	     	74-1443	Doe Run Rd	074	Prince George County	074	Prince George County	0.26	74-1444 Doe Run Ct	74-1440 Countryview Lane	180	R							X						07/05/2005
+761013	  74	01443	     	74-1443	Doe Run Rd	074	Prince George County	074	Prince George County	0.09	74-1440 Countryview Lane	Cul-de-Sac	50	R							X						07/05/2005
+761014	  74	01444	     	74-1444	Doe Run Ct	074	Prince George County	074	Prince George County	0.26	74-1443; 74-1443	74-1440 Countryview Lane	90	R							X						07/11/2005
+761015	  74	01501	     	74-1501	Bickings Lane	074	Prince George County	074	Prince George County	0.10	74-630 Bull Hill Rd	74-1504 Aqua Lane	480	R							X						06/30/2005
+761016	  74	01501	     	74-1501	Bickings Lane	074	Prince George County	074	Prince George County	0.02	74-1504 Aqua Lane	74-1502 Cloverhill Lane	400	R							X						06/30/2005
+761017	  74	01501	     	74-1501	Bickings Lane	074	Prince George County	074	Prince George County	0.07	74-1502 Cloverhill Lane	74-1506 Driftwood Dr	270	R							X						06/30/2005
+761018	  74	01501	     	74-1501	Bickings Lane	074	Prince George County	074	Prince George County	0.06	74-1506 Driftwood Dr	74-1505 Bronze Lane	240	R							X						06/30/2005
+761019	  74	01501	     	74-1501	Bickings Lane	074	Prince George County	074	Prince George County	0.30	74-1505 Bronze Lane	Dead End	160	R							X						06/30/2005
+761020	  74	01502	     	74-1502	Cloverhill Lane	074	Prince George County	074	Prince George County	0.04	Dead End	74-1503 Cloverhill Lane	20	R							X						07/05/2005
+761021	  74	01502	     	74-1502	Cloverhill Lane	074	Prince George County	074	Prince George County	0.04	74-1503 Cloverhill Lane	74-1501 Bickings Lane	70	R							X						07/05/2005
+761022	  74	01503	     	74-1503	Cloverhill Lane	074	Prince George County	074	Prince George County	0.04	Dead End	74-1502 Cloverhill Lane	40	R							X						07/05/2005
+761023	  74	01504	     	74-1504	Aqua Lane	074	Prince George County	074	Prince George County	0.19	74-1501 Bickings Lane	74-1505 Bronze Lane	110	R							X						07/05/2005
+761024	  74	01504	     	74-1504	Aqua Lane	074	Prince George County	074	Prince George County	0.03	74-1505 Bronze Lane	Dead End	20	R							X						07/05/2005
+761025	  74	01505	     	74-1505	Bronze Lane	074	Prince George County	074	Prince George County	0.09	74-1501 Bickings Lane	74-1504 Aqua Lane	70	R							X						07/05/2005
+761026	  74	01506	     	74-1506	Driftwood Dr	074	Prince George County	074	Prince George County	0.09	Dead End	74-1501 Bickings Lane	60	R							X						07/05/2005
+761027	  74	01510	     	74-1510	Redwood Lane	074	Prince George County	074	Prince George County	0.13	SR 106 Courthouse Rd	74-1511; 74-1512	1200	R							X						06/30/2005
+761028	  74	01511	     	74-1511	Hollyberry Lane	074	Prince George County	074	Prince George County	0.17	74-1510; 74-1512	74-1513 Aspen Ct	310	R							X						06/30/2005
+761029	  74	01511	     	74-1511	Hollyberry Lane	074	Prince George County	074	Prince George County	0.13	74-1513 Aspen Ct	74-1512 Cottonwood Lane	140	R							X						06/30/2005
+761030	  74	01511	     	74-1511	Hollyberry Lane	074	Prince George County	074	Prince George County	0.10	74-1512 Cottonwood Lane	Cul-de-Sac	100	R							X						06/30/2005
+761031	  74	01512	     	74-1512	Cottonwood Lane	074	Prince George County	074	Prince George County	0.13	74-1510; 74-1511	74-1514 Pinetree Ct	590	R							X						06/30/2005
+761032	  74	01512	     	74-1512	Cottonwood Lane	074	Prince George County	074	Prince George County	0.29	74-1514 Pinetree Ct	74-1511 Hollyberry Lane	350	R							X						06/30/2005
+761033	  74	01513	     	74-1513	Aspen Ct	074	Prince George County	074	Prince George County	0.04	Cul-de-Sac	74-1511 Hollyberry Lane	60	R							X						06/30/2005
+761034	  74	01514	     	74-1514	Pinetree Ct	074	Prince George County	074	Prince George County	0.09	Cul-de-Sac	74-1512 Cottonwood Lane	90	R							X						06/30/2005
+761035	  74	01515	     	74-1515	Commons Dr	074	Prince George County	074	Prince George County	0.11	SR 106 Courthouse Rd	74-1516 Commons Ct	550	R							X						03/17/2008
+761036	  74	01515	     	74-1515	Commons Dr	074	Prince George County	074	Prince George County	0.06	74-1516 Commons Ct	Cul-de-Sac	160	R							X						03/17/2008
+761037	  74	01516	     	74-1516	Commons Ct	074	Prince George County	074	Prince George County	0.03	74-1515 Commons Dr	Cul-de-Sac	160	R							X						03/17/2008
+761038	  74	01601	     	74-1601	Eaglerock Rd	074	Prince George County	074	Prince George County	0.21	74-1602 Seay Rd	US 301 Crater Rd	120	R							X						07/13/2005
+761039	  74	01602	     	74-1602	Seay Rd	074	Prince George County	074	Prince George County	0.10	74-720 Moreel Ave	74-1601 Eaglerock Rd	30	R							X						07/13/2005
+761040	  74	01602	     	74-1602	Seay Rd	074	Prince George County	074	Prince George County	0.04	74-1601 Eaglerock Rd	Dead End	20	R							X						07/13/2005
+761041	  74	01604	     	74-1604	Deer Run Dr	074	Prince George County	074	Prince George County	0.38	US 301 Crater Rd	Cul-de-Sac	450	R							X						03/17/2008
+761042	  74	01605	     	74-1605	Silbury Rd	074	Prince George County	074	Prince George County	0.16	US 301 Crater Rd	74-1606 Charleston Dr	100	R							X						07/13/2005
+761043	  74	01605	     	74-1605	Maury Rd	074	Prince George County	074	Prince George County	0.32	74-1606 Charleston Dr	US 301 Crater Rd	60	R							X						07/13/2005
+761044	  74	01606	     	74-1606	Charleston Dr	074	Prince George County	074	Prince George County	0.07	74-608 Garys Church Rd	74-1605 Maury Rd; Silbury Rd	50	R							X						07/13/2005
+761045	  74	01701	     	74-1701	Chester Rd	074	Prince George County	074	Prince George County	0.07	Dead End	74-1702 Powell Lane	400	R							X						07/13/2005
+761046	  74	01701	     	74-1701	Chester Rd	074	Prince George County	074	Prince George County	0.40	74-1702 Powell Lane	74-630 Golf Course Rd	610	R							X						07/13/2005
+761047	  74	01702	     	74-1702	Powell Lane	074	Prince George County	074	Prince George County	0.17	74-1701 Chester Rd	Dead End	110	R							X						07/13/2005
+761048	  74	09331	     	74-9331	Library & Community Center	074	Prince George County	074	Prince George County	0.11	SR 10 James River Dr	SR 10 James River Dr	50	R							X						1999
+761049	  74	09332	     	74-9332	Rowanty Vo/Tech School	074	Prince George County	074	Prince George County	0.33	Dead End	74-623 Rowanty Rd	80	R							X						06/02/2005
+761050	  74	09334	     	74-9334	Carson Elementary School	074	Prince George County	074	Prince George County	0.10	Dead End	74-604 Halifax Rd	150	R							X						1999
+761051	  74	09574	     	74-9574	Prince George High School	074	Prince George County	074	Prince George County	0.10	74-616 Laurel Springs Rd	SR 156 Prince George Dr	140	R							X						06/02/2005
+761052	  74	09679	     	74-9679	JEJ Moore Middle School	074	Prince George County	074	Prince George County	0.13	SR 156 Prince George Dr	SR 156 Prince George Dr	260	R							X						03/17/2008
+639034	 116	00001	     	116-1	Perrymont St	116	City of Hopewell	116	City of Hopewell	0.34	Western St	Kippax Dr	3000	F	100%	0%	0%	0%	0%	0%	C	0.0978	F	0.0000	3300	F	2008
+639019	 116	00002	     	116-2	Kippax Dr	116	City of Hopewell	116	City of Hopewell	0.19	Perrymont St	Cedar Level Rd	2800	F	99%	0%	0%	0%	0%	0%	C	0.1076	F	0.0000	3000	F	2008
+639033	 116	00003	     	116-3	Old Iron Rd	116	City of Hopewell	116	City of Hopewell	0.42	SCL Hopewell	Courthouse Rd	3300	F	100%	0%	0%	0%	0%	0%	C	0.1022	F	0.0000	3600	F	2008
+639017	 116	00004	     	116-4	Jackson Farm Rd	116	City of Hopewell	116	City of Hopewell	0.61	Dead End near Pin Oak Dr	116-9047 Cedar Level Rd	2000	F	99%	1%	0%	0%	0%	0%	C	0.1011	F	0.0000	2100	F	2008
+781662	 116	00005	     	116-5	Western St	116	City of Hopewell	116	City of Hopewell	0.05	166-6 Barkley St; 116-9076	116-1 Perrymont St	4000	F	100%	0%	0%	0%	0%	0%	F	0.0955	F	0.6287	4300	F	2008
+539001	 116	00006	     	116-6	Barkley St	116	City of Hopewell	116	City of Hopewell	0.13	116-9076 Western St	Old Woodlawn St	30	F	99%	0%	0%	0%	0%	0%	F	0.1692	F	0.7273	30	F	2008
+639056	 116	00006	     	116-6	Old Woodlawn St	116	City of Hopewell	116	City of Hopewell	0.39	Barkley St	116-9047 Cedar Level Rd	1200	F	99%	0%	0%	0%	0%	0%	C	0.0895	F	0.5207	1300	F	2008
+639013	 116	09036	     	116-9036	Danville St	116	City of Hopewell	116	City of Hopewell	0.03	South Mesa Dr	Miles Ave	1400	F	99%	1%	0%	0%	0%	0%	F	0.1082	F	0.0000	1500	F	2008
+639022	 116	09036	     	116-9036	Miles Ave	116	City of Hopewell	116	City of Hopewell	0.68	Danville Street	Oakland Blvd	3700	F	99%	1%	0%	0%	0%	0%	C	0.1024	F	0.0000	4100	F	2008
+639030	 116	09036	     	116-9036	Oaklawn Blvd	116	City of Hopewell	116	City of Hopewell	0.18	SR 36 Winston Churchill Dr	Short Street	8100	F	99%	0%	0%	0%	0%	0%	C	0.0810	F	0.0000	8800	F	2008
+781663	 116	09036	     	116-9036	Oaklawn Blvd	116	City of Hopewell	116	City of Hopewell	0.40	Short Street	SR 36 15th Avenue; Arlington Rd	8100	F	99%	0%	1%	0%	0%	0%	C	0.0799	F	0.0000	8800	F	2008
+639039	 116	09038	     	116-9038	River Rd	116	City of Hopewell	116	City of Hopewell	1.01	WCL Hopewell	South Mesa Dr	5000	F	99%	0%	0%	0%	0%	0%	C	0.1041	F	0.0000	5400	F	2008
+639009	 116	09040	     	116-9040	City Point Rd	116	City of Hopewell	116	City of Hopewell	0.75	North Mesa Dr	South 15th Ave	4300	F	99%	0%	0%	0%	0%	0%	C	0.0863	F	0.0000	4700	F	2008
+639010	 116	09040	     	116-9040	City Point Rd	116	City of Hopewell	116	City of Hopewell	0.41	South 15th Ave	South 6th Ave	6100	F	99%	0%	0%	0%	0%	0%	F	0.0922	F	0.0000	6700	F	2008
+639011	 116	09040	     	116-9040	City Point Rd	116	City of Hopewell	116	City of Hopewell	0.29	South 6th Ave	Main St	5900	F	99%	0%	0%	0%	0%	0%	F	0.1047	F	0.0000	6400	F	2008
+639021	 116	09040	     	116-9040	Main St	116	City of Hopewell	116	City of Hopewell	0.13	City Point Rd	Randolph Rd	2600	F	99%	0%	0%	0%	0%	0%	F	0.1125	F	0.0000	2900	F	2008
+781664	 116	09042	     	116-9042	West Broadway St	116	City of Hopewell	116	City of Hopewell	0.39	Colonial Dr	116-9047 N Mesa Dr	1300	F	99%	0%	0%	0%	0%	0%	F	0.1102	F	0.6225	1400	F	2008
+639044	 116	09042	     	116-9042	West Broadway St	116	City of Hopewell	116	City of Hopewell	0.55	North Mesa Dr	North 21St Ave	6600	F	99%	0%	0%	0%	0%	0%	C	0.0958	F	0.0000	7200	F	2008
+639045	 116	09042	     	116-9042	West Broadway St	116	City of Hopewell	116	City of Hopewell	0.13	North 21St Ave	North 15Th Ave	5600	F	99%	0%	0%	0%	0%	0%	F	0.0934	F	0.0000	6100	F	2008
+639046	 116	09042	     	116-9042	West Broadway St	116	City of Hopewell	116	City of Hopewell	0.36	North 6Th Ave	Randolph Rd	3900	F	99%	0%	0%	0%	0%	0%	F	0.1019	F	0.0000	4200	F	2008
+639014	 116	09042	     	116-9042	East Broadway St	116	City of Hopewell	116	City of Hopewell	0.63	Randolph Rd	Cedar Lane	1800	F	99%	0%	0%	0%	0%	0%	F	0.0927	F	0.5474	2000	F	2008
+639012	 116	09043	     	116-9043	Courthouse Rd	116	City of Hopewell	116	City of Hopewell	0.95	Ashland Ave	Berry St	6000	F	99%	0%	0%	0%	0%	0%	C	0.0895	F	0.0000	6600	F	2008
+639006	 116	09043	     	116-9043	Berry St	116	City of Hopewell	116	City of Hopewell	0.29	Courthouse Rd	Arlington Rd	6100	F	99%	0%	0%	0%	0%	0%	C	0.0857	F	0.0000	6600	F	2008
+639001	 116	09043	     	116-9043	Arlington Rd	116	City of Hopewell	116	City of Hopewell	0.12	High Ave	Freeman St	4500	F	99%	0%	0%	0%	0%	0%	F	0.0816	F	0.0000	4900	F	2008
+639002	 116	09043	     	116-9043	Arlington Rd	116	City of Hopewell	116	City of Hopewell	0.38	Freeman St	Winston Churchill Dr	5800	F	99%	0%	0%	0%	0%	0%	C	0.0760	F	0.0000	6300	F	2008
+639016	 116	09045	     	116-9045	High Ave	116	City of Hopewell	116	City of Hopewell	0.09	Winston Churchill Dr	Oaklawn Blvd	2200	F	97%	1%	1%	0%	1%	0%	C	0.0923	F	0.5415	2400	F	2008
+639060	 116	09047	     	116-9047	Ashland St	116	City of Hopewell	116	City of Hopewell	0.06	116-9043 Courthouse Rd	SR 36 Oaklawn Blvd	3500	F	99%	0%	1%	0%	0%	0%	F				3800	F	2008
+639004	 116	09047	     	116-9047	Ashland St	116	City of Hopewell	116	City of Hopewell	0.10	SR 36 Oaklawn Blvd	SR 36-P Woodlawn St	4400	F	99%	0%	1%	0%	0%	0%	F				4800	F	2008
+639005	 116	09047	     	116-9047	Ashland St	116	City of Hopewell	116	City of Hopewell	0.10	SR 36-P Woodlawn St	116-6 Western St	7100	F	99%	0%	1%	0%	0%	0%	C				7700	F	2008
+639053	 116	09047	     	116-9047	Ashland St	116	City of Hopewell	116	City of Hopewell	0.07	116-6 Western St	116-2 Kippax Dr	7000	F	99%	0%	1%	0%	0%	0%	F				7600	F	2008
+639007	 116	09047	     	116-9047	Cedar Level Rd	116	City of Hopewell	116	City of Hopewell	0.89	116-2 Kippax Dr	116-4 Jackson Farm Rd	6200	F	99%	1%	1%	0%	0%	0%	C	0.0929	F	0.0000	6800	F	2008
+639018	 116	09047	     	116-9047	Jackson Farm Rd	116	City of Hopewell	116	City of Hopewell	0.27	116-4; Cedar Level Rd	S Mesa Dr	6100	F	99%	0%	0%	0%	0%	0%	C	0.0951	F	0.0000	6600	F	2008
+639043	 116	09047	     	116-9047	S Mesa Dr	116	City of Hopewell	116	City of Hopewell	0.46	Jackson Farm Rd	116-9038 River Rd	6600	F	99%	0%	0%	0%	0%	0%	F	0.0894	F	0.0000	7100	F	2008
+639027	 116	09047	     	116-9047	N Mesa Dr	116	City of Hopewell	116	City of Hopewell	0.23	116-9038 River Rd	166-9040 City Point Rd	8500	F	99%	0%	0%	0%	0%	0%	F				9300	F	2008
+639028	 116	09047	     	116-9047	N Mesa Dr	116	City of Hopewell	116	City of Hopewell	0.20	166-9040 City Point Rd	116-9042 Broadway St	5300	F	99%	0%	0%	0%	0%	0%	F				5700	F	2008
+639042	 116	09049	     	116-9049	South 6Th Ave	116	City of Hopewell	116	City of Hopewell	0.52	Winston Churchill Dr	City Point Rd	8300	F	98%	1%	0%	0%	1%	0%	C				9000	F	2008
+639025	 116	09049	     	116-9049	North 6Th Ave	116	City of Hopewell	116	City of Hopewell	0.15	City Point Rd	West Broadway St	7300	F	98%	1%	0%	0%	1%	0%	F				7900	F	2008
+639024	 116	09051	     	116-9051	North 21St Ave	116	City of Hopewell	116	City of Hopewell	0.53	West Broadway St	Riverside Ave	3900	F	99%	0%	0%	0%	0%	0%	C	0.0927	F	0.0000	4200	F	2008
+639040	 116	09051	     	116-9051	Riverside Ave	116	City of Hopewell	116	City of Hopewell	0.32	North 21St Ave	Randolph Rd	3600	F	99%	0%	0%	0%	0%	0%	F	0.0942	F	0.0000	4000	F	2008
+639020	 116	09074	     	116-9074	City Point Rd	116	City of Hopewell	116	City of Hopewell	0.14	Main St	Randolph Rd	4600	F	98%	0%	1%	0%	0%	0%	C	0.1098	F	0.0000	4900	F	2008
+639052	 116	09076	     	116-9076	Cousins Ave	116	City of Hopewell	116	City of Hopewell	0.17	SR 36 Oaklawn Blvd	Western St	4000	F	100%	0%	0%	0%	0%	0%	F	0.0956	F	0.6549	4300	F	2008
+639048	 116	09076	     	116-9076	Western St	116	City of Hopewell	116	City of Hopewell	0.50	Cousins Ave	116-6 Barkey St; 116-5 Western St	4000	F	100%	0%	0%	0%	0%	0%	C	0.0950	F	0.0000	4300	F	2008
+539008	 116	00000	     	116-0	Atlantic St	116	City of Hopewell	116	City of Hopewell	0.00	20th Ave	21st Ave	850	F							X	0.0961	F	0.6243	930	F	2008
+539016	 116	00000	     	116-0	Broadway St	116	City of Hopewell	116	City of Hopewell	0.00	Randolph Rd	Hopewell St	3000	G							X				3200	G	2008
+539017	 116	00000	     	116-0	Camron Rd	116	City of Hopewell	116	City of Hopewell	0.00	Dead End	Atwater Rd	70	G							X				70	G	2008
+539013	 116	00000	     	116-0	Cloverdale Ave	116	City of Hopewell	116	City of Hopewell	0.00	Arcadia Ave	Delrose Dr	160	G							X				170	G	2008
+539010	 116	00000	     	116-0	Courthouse Rd	116	City of Hopewell	116	City of Hopewell	0.00	Sibyl St	Caroline Ave	410	F							X	0.0901	F	0.5476	440	F	2008
+539011	 116	00000	     	116-0	Davidson Ave	116	City of Hopewell	116	City of Hopewell	0.00	Peterson Mill Rd	Glendale St	80	F							X	0.1326	F	0.0000	90	F	2008
+539006	 116	00000	     	116-0	Day St	116	City of Hopewell	116	City of Hopewell	0.00	20th Ave	16th Ave	50	F							X	0.1610	F	0.5263	60	F	2008
+539025	 116	00000	     	116-0	Dellrose Dr	116	City of Hopewell	116	City of Hopewell	0.00	Cloverdale Ave	Lincoln Sq	250	G							X				250	G	2008
+539024	 116	00000	     	116-0	Dinwiddie Avenue	116	City of Hopewell	116	City of Hopewell	0.00	Gilbert St	Courthouse Rd	800	G							X				800	G	2008
+539020	 116	00000	     	116-0	Fisher Avenue	116	City of Hopewell	116	City of Hopewell	0.00	Glendale St	Lee Lane	90	G							X				90	G	2008
+539009	 116	00000	     	116-0	Granby St	116	City of Hopewell	116	City of Hopewell	0.00	Roanoke Ave	Sunnyside Ave	280	F							X	0.0991	F	0.5313	310	F	2008
+539007	 116	00000	     	116-0	Jackson St	116	City of Hopewell	116	City of Hopewell	0.00	21st Ave	20th Ave	390	F							X	0.2500	F	0.5225	420	F	2008
+539004	 116	00000	     	116-0	Marion Ave	116	City of Hopewell	116	City of Hopewell	0.00	West Broadway St	Norton St	310	F							X	0.1236	F	0.5455	340	F	2008
+539022	 116	00000	     	116-0	Maryland Avenue	116	City of Hopewell	116	City of Hopewell	0.00	Atlantic St	15th Ave	410	G							X				410	G	2008
+539005	 116	00000	     	116-0	Prince George Ave	116	City of Hopewell	116	City of Hopewell	0.00	Day St	West Broadway St	150	F							X	0.1194	F	0.5500	160	F	2008
+539018	 116	00000	     	116-0	Riverside Avenue	116	City of Hopewell	116	City of Hopewell	0.00	Weston St	Marks St	49	G							X				49	G	2008
+539012	 116	00000	     	116-0	Stewart Ave	116	City of Hopewell	116	City of Hopewell	0.00	Bassett St	Perry St	110	F							X	0.1098	F	0.7143	120	F	2008
+539019	 116	00000	     	116-0	Sussex Dr	116	City of Hopewell	116	City of Hopewell	0.00	Dead End	Westhill Rd	270	G							X				270	G	2008
+539023	 116	00000	     	116-0	Terminal St	116	City of Hopewell	116	City of Hopewell	0.00	SR 156 Winston Churchhill Dr	Booker St	1400	G							X				1400	G	2008
+539021	 116	00000	     	116-0	Wilmington Avenue	116	City of Hopewell	116	City of Hopewell	0.00	Heretick Ave	North Ave	340	G							X				340	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

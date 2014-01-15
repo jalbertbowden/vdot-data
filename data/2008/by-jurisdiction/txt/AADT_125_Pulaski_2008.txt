@@ -1,0 +1,53 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Pulaski																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+662013	  US	00011	     	US 11	Washington Ave	125	Town of Pulaski	125	Town of Pulaski	0.71	SCL Pulaski	2nd St	3600	F	99%	0%	0%	0%	0%	0%	F	0.0940	F	0.0000	3900	F	2008
+662014	  US	00011	     	US 11	Washington St	125	Town of Pulaski	125	Town of Pulaski	0.30	2nd St	Main St SR 99	4700	F	99%	0%	0%	0%	0%	0%	C	0.0952	F	0.0000	5100	F	2008
+662015	  US	00011	     	US 11	Washington Ave	125	Town of Pulaski	125	Town of Pulaski	0.22	Main St	5th St	4600	F	98%	1%	1%	0%	0%	0%	F	0.0899	F	0.0000	5000	F	2008
+662016	  US	00011	     	US 11	5th St	125	Town of Pulaski	125	Town of Pulaski	0.20	Washington Ave	Lee Highway	6200	F	98%	1%	1%	0%	0%	0%	F	0.0876	F	0.5337	6800	F	2008
+662017	  US	00011	     	US 11	Lee Highway	125	Town of Pulaski	125	Town of Pulaski	0.84	5th St	Alum Spring Rd	9000	F	98%	1%	1%	0%	0%	0%	C				9800	F	2008
+662018	  US	00011	     	US 11	Lee Highway	125	Town of Pulaski	125	Town of Pulaski	1.60	Alum Spring Rd	ECL Pulaski	9800	F	98%	1%	1%	0%	0%	0%	F	0.0889	F	0.0000	11000	F	2008
+662023	  SR	00099	     	VA 99	Randolph Ave	125	Town of Pulaski	125	Town of Pulaski	0.68	NCL Pulaski	9th St	1300	F	98%	1%	1%	0%	0%	0%	F	0.0978	F	0.5018	1400	F	2008
+662024	  SR	00099	     	VA 99	Randolph Ave	125	Town of Pulaski	125	Town of Pulaski	0.47	9th St	3rd St	2800	F	98%	1%	1%	0%	0%	0%	C	0.0991	F	0.5348	3000	F	2008
+662025	  SR	00099	     	VA 99	Randolph Ave	125	Town of Pulaski	125	Town of Pulaski	0.08	3rd St	Main St	3100	F	98%	1%	1%	0%	0%	0%	F	0.0938	F	0.6540	3300	F	2008
+662026	  SR	00099	     	VA 99	Main St	125	Town of Pulaski	125	Town of Pulaski	0.20	Randolph Ave; SR 99	Washington Ave	1300	F	97%	1%	1%	0%	1%	0%	F	0.0940	F	0.7979	1500	F	2008		2500	F	98%	1%	1%	0%	1%	0%	F	0.1005	F	0.0000	2700	F
+662027	  SR	00099	     	VA 99	Main St	125	Town of Pulaski	125	Town of Pulaski	0.32	Washington Ave	3rd St	3000	F	97%	1%	1%	0%	1%	0%	C				3200	F	2008		6200	F	98%	1%	1%	0%	1%	0%	C				6700	F
+662028	  SR	00099	     	VA 99	Main St	125	Town of Pulaski	125	Town of Pulaski	1.10	3rd St	Bob White Blvd	12000	G	98%	0%	0%	0%	1%	0%	C				13000	G	2008
+662029	  SR	00099	     	VA 99	Main St	125	Town of Pulaski	125	Town of Pulaski	1.00	Bob White Blvd	ECL Pulaski	7400	F	98%	0%	0%	0%	1%	0%	F	0.1021	F	0.0000	8100	F	2008
+662030	 1SR	00099	P    	VA 99 Par	3rd St	125	Town of Pulaski	125	Town of Pulaski	0.12	SR 99 Randolph Ave	Jefferson Ave	1100	F	99%	0%	0%	0%	0%	0%	F	0.1160	F	0.0000	1200	F	2008		2500	F	98%	1%	1%	0%	1%	0%	F	0.1005	F	0.0000	2700	F
+662037	 1SR	00099	P    	VA 99 Par	3rd St	125	Town of Pulaski	125	Town of Pulaski	0.13	Jefferson Ave	US 11 Washington Ave	2300	F	99%	0%	0%	0%	0%	0%	F	0.1038	F	1.0000	2500	F	2008		3600	F	98%	0%	0%	0%	1%	0%	F	0.0000	?	0.0000	3900	F
+662031	 1SR	00099	P    	VA 99 Par	 	125	Town of Pulaski	125	Town of Pulaski	0.34	US 11 Washington Ave	SR 99 Main St	3200	F	99%	0%	0%	0%	0%	0%	C	0.1031	F	1.0000	3500	F	2008		6200	F	98%	1%	1%	0%	1%	0%	C				6700	F
+662010	 125	04600	     	125-4600	Dora Hwy	125	Town of Pulaski	125	Town of Pulaski	0.22	US 11 Washington Ave	Pierce Ave	2000	F	98%	0%	1%	0%	0%	0%	C	0.1188	F	0.6606	2200	F	2008
+662011	 125	04600	     	125-4600	Dora Hwy	125	Town of Pulaski	125	Town of Pulaski	0.96	Pierce Ave	Springer Ave	1200	F	98%	0%	1%	0%	0%	0%	F	0.1371	F	0.5919	1300	F	2008
+662012	 125	04600	     	125-4600	Dora Hwy	125	Town of Pulaski	125	Town of Pulaski	1.12	Springer Ave	SR 99	1100	F	98%	1%	1%	0%	0%	0%	C	0.1109	F	0.5735	1200	F	2008
+781733	 125	04601	     	125-4601	Valley Rd	125	Town of Pulaski	125	Town of Pulaski	0.55	77-650; SCL Pulaski	Pulaski Street	290	F	99%	0%	0%	1%	0%	0%	F	0.1077	F	0.5313	310	F	2008
+662036	 125	04601	     	125-4601	Valley Rd	125	Town of Pulaski	125	Town of Pulaski	0.33	Pulaski St	Commerce St	1000	F	99%	0%	0%	1%	0%	0%	C	0.1021	F	0.5214	1100	F	2008
+781734	 125	04601	     	125-4601	Valley Rd	125	Town of Pulaski	125	Town of Pulaski	0.13	125-4602 Commerce St	SR 99 Randolph St	2300	F	99%	0%	0%	1%	0%	0%	F	0.1025	F	0.5566	2500	F	2008
+662006	 125	04602	     	125-4602	Case Knife Rd	125	Town of Pulaski	125	Town of Pulaski	0.58	SCL Pulaski	Howard St	600	F	98%	0%	1%	1%	0%	0%	F	0.1004	F	0.5802	650	F	2008
+662007	 125	04602	     	125-4602	Howard St	125	Town of Pulaski	125	Town of Pulaski	0.21	Case Knife Rd	Commerce St	880	F	98%	0%	1%	1%	0%	0%	F	0.0908	F	0.6082	960	F	2008
+662008	 125	04602	     	125-4602	Commerce St	125	Town of Pulaski	125	Town of Pulaski	0.69	Howard St	Valley Rd	2100	F	98%	0%	1%	1%	0%	0%	F	0.0933	F	0.5410	2200	F	2008
+662009	 125	04602	     	125-4602	Commerce St	125	Town of Pulaski	125	Town of Pulaski	0.27	Valley St	US 11 Washington Ave	2000	F	98%	0%	1%	1%	0%	0%	C	0.0841	F	0.5365	2200	F	2008
+662001	 125	04603	     	125-4603	Altoona St	125	Town of Pulaski	125	Town of Pulaski	0.32	Magnox St	NCL Pulaski	1100	F	99%	0%	0%	0%	0%	0%	C	0.0985	F	0.5897	1200	F	2008
+662019	 125	04604	     	125-4604	Mt. Olivet Rd	125	Town of Pulaski	125	Town of Pulaski	0.28	WCL Pulaski	Magazine St	900	F	99%	0%	0%	0%	0%	0%	F	0.0946	F	0.6011	980	F	2008
+662020	 125	04604	     	125-4604	Magazine St	125	Town of Pulaski	125	Town of Pulaski	0.13	Mt. Olivet Rd	Magnox Dr; 2nd St	980	F	99%	0%	0%	0%	0%	0%	F	0.0984	F	0.6432	1100	F	2008
+662021	 125	04604	     	125-4604	Magnox St	125	Town of Pulaski	125	Town of Pulaski	0.08	Magazine St	Altoona Rd	1100	F	99%	0%	0%	0%	0%	0%	C	0.1039	F	0.5854	1200	F	2008
+662022	 125	04604	     	125-4604	Magnox St	125	Town of Pulaski	125	Town of Pulaski	0.15	Altoona Rd	SR 99 Randolph Ave	2200	F	99%	0%	0%	0%	0%	0%	F	0.1001	F	0.5856	2400	F	2008
+662002	 125	04607	     	125-4607	Alum Spring Rd	125	Town of Pulaski	125	Town of Pulaski	0.57	Lee Highway US 11	NCL Pulaski	1700	F	99%	0%	0%	0%	0%	0%	C	0.0987	F	0.5738	1800	F	2008
+662033	 125	04608	     	125-4608	Peppers Ferry Rd	125	Town of Pulaski	125	Town of Pulaski	1.10	US 11 Lee Highway	Memorial Dr	2200	F	99%	0%	0%	0%	0%	0%	F	0.0999	F	0.5354	2400	F	2008
+662034	 125	04608	     	125-4608	Peppers Ferry Rd	125	Town of Pulaski	125	Town of Pulaski	0.37	Memorial Dr	Beth Scott Dr Old ECL	530	F	99%	0%	0%	0%	0%	0%	C	0.1269	F	0.5946	570	F	2008
+662035	 125	04608	     	125-4608	Peppers Ferry Rd	125	Town of Pulaski	125	Town of Pulaski	1.22	Beth Scott Dr Old ECL	US 11 Lee Highway	580	F	99%	0%	0%	0%	0%	0%	F	0.1236	F	0.5366	630	F	2008
+662032	 125	04609	     	125-4609	Memorial Dr	125	Town of Pulaski	125	Town of Pulaski	1.21	Bob White Blvd	US11 Main St	7000	F	98%	1%	1%	0%	0%	0%	C				7600	F	2008
+662003	 125	04611	     	125-4611	Bob White Blvd	125	Town of Pulaski	125	Town of Pulaski	0.39	Main St; SR 99	Memorial Dr	7800	F	97%	0%	0%	0%	2%	0%	C	0.1021	F	0.0000	8500	F	2008
+662004	 125	04611	     	125-4611	Bob White Blvd	125	Town of Pulaski	125	Town of Pulaski	0.36	Memorial Dr	Peakland Rd	5500	F	97%	0%	0%	0%	2%	0%	F	0.1093	F	0.0000	6000	F	2008
+662005	 125	04611	     	125-4611	Bob White Blvd	125	Town of Pulaski	125	Town of Pulaski	1.33	Peakland Rd	NCL Pulaski	4900	F	97%	0%	0%	0%	2%	0%	F	0.1131	F	0.6049	5400	F	2008
+562001	 125	00000	     	125-0	5th St	125	Town of Pulaski	125	Town of Pulaski	0.00	Washington Ave	Randolph Ave	3000	F							X	0.0882	F	0.5209	3200	F	2008
+562007	 125	00000	     	125-0	Duncan Avenue	125	Town of Pulaski	125	Town of Pulaski	0.00	1st St	SR 99 Main St	3500	G							X				3500	G	2008
+562006	 125	00000	     	125-0	Grove Ave	125	Town of Pulaski	125	Town of Pulaski	0.00	Newbern Rd	English Forest Rd	300	G							X				300	G	2008
+562004	 125	00000	     	125-0	Hopkins Dr	125	Town of Pulaski	125	Town of Pulaski	0.00	Grove Dr	Peppers Ferry Rd	140	F							X	0.1137	F	0.0000	150	F	2008
+562003	 125	00000	     	125-0	MacGill St	125	Town of Pulaski	125	Town of Pulaski	0.00	Hill St	Dillon St	600	F							X	0.1084	F	0.0000	650	F	2008
+562005	 125	00000	     	125-0	Mashburn Ave	125	Town of Pulaski	125	Town of Pulaski	0.00	Peppers Ferry Road	Newbern Road	920	G							X				920	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

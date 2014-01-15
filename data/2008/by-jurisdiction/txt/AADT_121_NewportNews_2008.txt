@@ -1,0 +1,225 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Newport News																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+653210	  US	00017	     	US 17, US 258, VA 32	Mercury Blvd	121	City of Newport News	121	City of Newport News	0.22	Isle of Wight County Line	US 60 Warwick Blvd	28000	G	97%	0%	0%	1%	1%	0%	F	0.0914	F	0.7007	30000	G	2008
+653209	  US	00017	     	US 17, US 258, VA 32	Mercury Blvd	121	City of Newport News	121	City of Newport News	0.56	US 60 Warwick Blvd	US 258, SR 143 Jefferson Ave	37000	G	97%	0%	0%	1%	1%	0%	F	0.0933	F	0.5729	39000	G	2008
+653208	  US	00017	     	US 17, VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.31	US 258 Mercury Blvd	SR 152 Main St	42000	G	98%	1%	1%	0%	0%	0%	F	0.0814	F	0.5917	46000	G	2008
+150101	  US	00017	     	US 17, VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.69	SR 152 Main St	SR 306 Harpersville Rd	43000	A	98%	1%	1%	0%	0%	0%	C	0.0949	A	0.0000	47000	A	2008
+653205	  US	00017	     	US 17, VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.12	SR 306 Harpersville Rd	SR 312 J Clyde Morris Blvd	50000	G	98%	1%	1%	0%	0%	0%	F				55000	G	2008
+653204	  US	00017	     	US 17	J Clyde Morris Blvd	121	City of Newport News	121	City of Newport News	1.28	SR 143 Jefferson Ave	I-64	42000	G	98%	1%	1%	0%	0%	0%	F				46000	G	2008
+653202	  US	00017	     	US 17	J Clyde Morris Blvd	121	City of Newport News	121	City of Newport News	0.80	I-64	121-7034 Harpersville Rd	37000	G	98%	0%	0%	0%	0%	0%	F	0.0809	F	0.5779	39000	G	2008
+653201	  US	00017	     	US 17	J Clyde Morris Blvd	121	City of Newport News	121	City of Newport News	0.25	121-7034 Harpersville Rd	NCL Newport News	35000	G	98%	0%	0%	0%	0%	0%	F	0.0815	F	0.5421	38000	G	2008
+653210	  SR	00032	     	US 17, US 258, VA 32	Mercury Blvd	121	City of Newport News	121	City of Newport News	0.22	Isle of Wight County Line	US 60 Warwick Blvd	28000	G	97%	0%	0%	1%	1%	0%	F	0.0914	F	0.7007	30000	G	2008	
+653209	  SR	00032	     	US 17, US 258, VA 32	Mercury Blvd	121	City of Newport News	121	City of Newport News	0.56	US 60 Warwick Blvd	US 258, SR 143 Jefferson Ave	37000	G	97%	0%	0%	1%	1%	0%	F	0.0933	F	0.5729	39000	G	2008	
+653211	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.70	James City County Line	Yorktown Rd	12000	G	92%	1%	2%	1%	4%	0%	F	0.0895	F	0.5602	13000	G	2008
+653212	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.61	Yorktown Rd	SR 105 Ft Eustis Blvd	17000	G	94%	1%	2%	1%	2%	0%	C	0.0888	F	0.5567	18000	G	2008
+653213	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.68	SR 105 Ft Eustis Blvd	Snidow Blvd	32000	G	94%	1%	2%	1%	2%	0%	F	0.0780	F	0.6093	34000	G	2008
+653214	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.66	Snidow Blvd	Denbigh Blvd	44000	G	97%	1%	1%	0%	0%	0%	C	0.0771	F	0.5121	48000	G	2008
+653215	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	0.78	Denbigh Blvd	Bland Blvd	38000	G	97%	1%	1%	0%	0%	0%	C	0.0782	F	0.5157	42000	G	2008
+653216	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.45	Bland Blvd	Oyster Point Rd	34000	G	97%	1%	1%	0%	0%	0%	F	0.0844	F	0.5279	37000	G	2008
+653218	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	2.39	Oyster Point Rd	Deep Creek Road	30000	G	98%	0%	1%	0%	0%	0%	C	0.0890	F	0.5274	33000	G	2008
+653219	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	0.89	Deep Creek Road	J Clyde Morris Blvd	44000	G	98%	0%	1%	0%	0%	0%	F				48000	G	2008
+653220	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.07	J Clyde Morris Blvd	Harpersville Rd	25000	G	98%	1%	1%	0%	0%	0%	C	0.0970	F	0.5281	28000	G	2008
+653221	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.49	Harpersville Rd	Main Street	26000	G	98%	1%	1%	0%	0%	0%	F	0.0914	F	0.6147	28000	G	2008
+653223	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.08	Main Street	Mercury Blvd	23000	G	98%	1%	1%	0%	0%	0%	C	0.1013	F	0.6857	25000	G	2008
+653225	  US	00060	     	US 60	Warwick Blvd	121	City of Newport News	121	City of Newport News	0.61	Mercury Blvd	Huntington Ave	24000	G	98%	1%	1%	0%	0%	0%	C	0.1196	F	0.8642	26000	G	2008
+653233	  US	00060	     	US 60	Huntington Ave	121	City of Newport News	121	City of Newport News	1.24	Warwick Blvd	50th St	10000	G	98%	1%	1%	0%	0%	0%	F	0.1793	F	1.0000	11000	G	2008		22000	G	98%	1%	1%	0%	0%	0%	F	0.1240	F	0.8844	24000	G
+653286	  US	00060	     	US 60	Huntington Ave	121	City of Newport News	121	City of Newport News	0.55	50th St	39th St	11000	G	98%	0%	1%	0%	0%	0%	C	0.1689	F	1.0000	12000	G	2008		20000	G	98%	0%	1%	0%	0%	0%	F	0.1231	F	0.0000	22000	G
+653287	  US	00060	     	US 60	Huntington Ave	121	City of Newport News	121	City of Newport News	0.50	39th St	29th St	10000	G	98%	0%	1%	0%	0%	0%	F	0.1665	F	1.0000	11000	G	2008		14000	G	98%	0%	1%	0%	0%	0%	F	0.1660	F	0.7617	15000	G
+653249	  US	00060	     	US 60	Huntington Ave	121	City of Newport News	121	City of Newport News	0.28	29th St	25th St	5300	G	98%	0%	1%	0%	0%	0%	F	0.1560	F	1.0000	5700	G	2008		8600	G	98%	0%	1%	0%	0%	0%	F	0.1593	F	0.6010	9300	G
+653299	  US	00060	     	US 60	25th St	121	City of Newport News	121	City of Newport News	0.42	Huntington Ave	Jefferson Ave	1800	G	92%	5%	2%	0%	0%	0%	C	0.1154	F	1.0000	1900	G	2008
+653399	  US	00060	     	US 60	25th St	121	City of Newport News	121	City of Newport News	0.82	Jefferson Ave	Roanoke Ave	2800	G	92%	5%	2%	0%	0%	0%	F	0.0904	F	1.0000	3000	G	2008		5500	G	94%	3%	2%	0%	0%	0%	F	0.0789	F	0.0000	6000	G
+653381	  US	00060	     	US 60	25th St	121	City of Newport News	121	City of Newport News	0.51	Roanoke Ave	26th St	3200	G	92%	5%	2%	0%	0%	0%	F	0.0870	F	0.0000	3400	G	2008		4900	G	93%	4%	2%	0%	0%	0%	F				5300	G
+653265	  US	00060	     	US 60	25th St	121	City of Newport News	121	City of Newport News	0.53	26th St	WCL Hampton	6000	G	92%	5%	2%	0%	0%	0%	F	0.0828	F	0.6630	6500	G	2008
+653226	 3US	00060	P    	US 60 Par	Warwick Blvd	121	City of Newport News	121	City of Newport News	1.21	US 60	50Th St	12000	G	98%	1%	1%	0%	0%	0%	C	0.2003	F	1.0000	13000	G	2008		22000	G	98%	1%	1%	0%	0%	0%	F	0.1240	F	0.8844	24000	G
+653340	 3US	00060	P    	US 60 Par	Warwick  Blvd	121	City of Newport News	121	City of Newport News	0.59	50Th St	38Th St	9600	G	98%	0%	1%	0%	0%	0%	F	0.1636	F	0.0000	10000	G	2008		20000	G	98%	0%	1%	0%	0%	0%	F	0.1231	F	0.0000	22000	G
+653227	 3US	00060	P    	US 60 Par	Warwick Blvd	121	City of Newport News	121	City of Newport News	0.77	38Th St	25Th St	3300	G	98%	0%	1%	0%	0%	0%	C	0.1921	F	1.0000	3600	G	2008		14000	G	98%	0%	1%	0%	0%	0%	F	0.1660	F	0.7617	15000	G
+653230	 4US	00060	P    	US 60 Par	26th St	121	City of Newport News	121	City of Newport News	1.39	US 60	Chestnut Ave	2700	G	96%	2%	2%	0%	0%	0%	C	0.0681	F	0.0000	2900	G	2008		5500	G	94%	3%	2%	0%	0%	0%	F	0.0789	F	0.0000	6000	G
+653229	 4US	00060	P    	US 60 Par	26th St	121	City of Newport News	121	City of Newport News	0.49	Chestnut Ave	25th St	1700	G	95%	2%	2%	0%	0%	0%	C	0.0774	F	1.0000	1900	G	2008		4900	G	93%	4%	2%	0%	0%	0%	F				5300	G
+150320	  IS	00064	E    	I-64 EB	 	121	City of Newport News	099	York County	1.32	WCL Newport News	SR 238 Yorktown Rd	39000	G	95%	0%	1%	1%	3%	0%	F	0.0742	F	1.0000	40000	G	2008		79000	G	95%	0%	1%	1%	3%	0%	F				80000	G
+050127	  IS	00064	E    	I-64 EB	 	121	City of Newport News	099	York County	2.04	SR 238 Yorktown Rd	SR 105 Ft Eustis Blvd	41000	G	95%	0%	1%	1%	3%	0%	F	0.0723	F	1.0000	42000	G	2008		82000	G	95%	0%	1%	1%	3%	0%	F	0.0690	F	0.5188	84000	G
+150040	  IS	00064	E    	I-64 EB	 	121	City of Newport News	099	York County	5.03	SR 105 Ft Eustis Blvd	SR 143 Jefferson Ave	44000	G	95%	0%	1%	1%	3%	0%	F	0.0713	F	1.0000	46000	G	2008		91000	G	95%	0%	1%	1%	3%	0%	F	0.0690	F	0.5185	93000	G
+050393	  IS	00064	E    	I-64 EB	 	121	City of Newport News	099	York County	1.41	SR 143 Jefferson Ave	SR 171 Oyster Point Rd	55000	G	95%	0%	1%	1%	3%	0%	F	0.0732	F	1.0000	56000	G	2008		112000	G	95%	0%	1%	1%	3%	0%	F				115000	G
+050163	  IS	00064	E    	I-64 EB	 	121	City of Newport News	099	York County	1.81	SR 171 Oyster Point Rd	US 17 J Clyde Morris Blvd	67000	A	95%	0%	1%	1%	3%	0%	C	0.0941	A	1.0000	69000	A	2008		132000	A	95%	0%	1%	1%	3%	0%	C	0.0880	A	0.0000	135000	A
+050159	  IS	00064	E    	I-64 EB	 	121	City of Newport News	099	York County	1.06	US 17 J Clyde Morris Blvd	WCL Hampton	69000	G	95%	0%	1%	1%	3%	0%	F	0.0744	F	1.0000	71000	G	2008		143000	G	95%	0%	1%	1%	3%	0%	F				146000	G
+150307	  IS	00064	W    	I-64 WB	 	121	City of Newport News	099	York County	0.06	WCL Newport News	SR 143 Jefferson Ave	39000	G	95%	0%	1%	1%	3%	0%	F	0.0745	F	1.0000	40000	G	2008		76000	G	95%	0%	1%	1%	3%	0%	F	0.0000	?	0.0000	78000	G
+150047	  IS	00064	W    	I-64 WB	 	121	City of Newport News	099	York County	1.28	SR 143 Jefferson Ave	SR 238 Yorktown Rd	40000	G	95%	0%	1%	1%	3%	0%	F	0.0773	F	1.0000	41000	G	2008		79000	G	95%	0%	1%	1%	3%	0%	F				80000	G
+150048	  IS	00064	W    	I-64 WB	 	121	City of Newport News	099	York County	2.32	SR 238 Yorktown Rd	SR 105 Fort Eustis Blvd	42000	G	95%	0%	1%	1%	3%	0%	F	0.0698	F	1.0000	43000	G	2008		82000	G	95%	0%	1%	1%	3%	0%	F	0.0690	F	0.5188	84000	G
+150049	  IS	00064	W    	I-64 WB	 	121	City of Newport News	099	York County	5.22	SR 105 Fort Eustis Blvd	SR 143 Jefferson Ave	46000	G	95%	0%	1%	1%	3%	0%	F	0.0709	F	1.0000	47000	G	2008		91000	G	95%	0%	1%	1%	3%	0%	F	0.0690	F	0.5185	93000	G
+150050	  IS	00064	W    	I-64 WB	 	121	City of Newport News	099	York County	1.55	SR 143 Jefferson Ave	SR 171 Oyster Point Rd	57000	G	95%	0%	1%	1%	3%	0%	F	0.0755	F	1.0000	58000	G	2008		112000	G	95%	0%	1%	1%	3%	0%	F				115000	G
+150051	  IS	00064	W    	I-64 WB	 	121	City of Newport News	099	York County	1.50	SR 171 Oyster Point Rd	US 17 J Clyde Morris Blvd	65000	A	95%	0%	1%	1%	3%	0%	C	0.0977	A	1.0000	67000	A	2008		132000	A	95%	0%	1%	1%	3%	0%	C	0.0880	A	0.0000	135000	A
+150052	  IS	00064	W    	I-64 WB	 	121	City of Newport News	099	York County	0.78	US 17 J Clyde Morris Blvd	WCL Hampton	74000	G	95%	0%	1%	1%	3%	0%	F	0.0834	F	1.0000	75000	G	2008		143000	G	95%	0%	1%	1%	3%	0%	F				146000	G
+653251	  SR	00105	     	VA 105	Ft Eustis Blvd	121	City of Newport News	121	City of Newport News	0.04	Ft Eustis	US 60	21000	G	95%	1%	1%	1%	2%	0%	F	0.0997	F	0.8039	22000	G	2008
+653240	  SR	00105	     	VA 105	Ft Eustis Blvd	121	City of Newport News	121	City of Newport News	1.01	US 60	I-64	36000	G	95%	1%	1%	1%	2%	0%	C	0.0879	F	0.5982	39000	G	2008
+653382	  SR	00105	     	VA 105	Ft Eustis Blvd	121	City of Newport News	121	City of Newport News	0.23	I-64	SR 143 Jefferson Ave	22000	G	95%	1%	1%	1%	2%	0%	F	0.0900	F	0.5636	24000	G	2008
+150107	  SR	00105	     	VA 105	Ft Eustis Blvd	121	City of Newport News	121	City of Newport News	1.26	SR 143 Jefferson Ave	NCL Newport News	15000	A	95%	1%	1%	1%	2%	0%	C	0.1183	A	0.6063	17000	A	2008
+653417	  SR	00143	     	VA 143	27th St	121	City of Newport News	121	City of Newport News	0.35	WCL Hampton	SR 143 Par, 28th St	7000	G	98%	1%	1%	0%	0%	0%	F	0.0869	F	0.5158	7500	G	2008
+653420	  SR	00143	     	VA 143	28th St	121	City of Newport News	121	City of Newport News	0.48	SR 143 Par, 27th St	Chestnut Ave	2300	G	98%	1%	1%	0%	0%	0%	F	0.0829	F	0.0000	2500	G	2008		4900	G	98%	1%	1%	0%	0%	0%	F				5300	G
+653364	  SR	00143	     	VA 143	28th St	121	City of Newport News	121	City of Newport News	0.90	Chestnut Ave	SR 143 Par, 27th St	2600	G	98%	1%	1%	0%	0%	0%	C	0.0761	F	0.0000	2800	G	2008		4900	G	98%	1%	1%	0%	0%	0%	C				5300	G
+653248	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	0.53	SR 143 Par, 27th St	I-664	13000	G	97%	0%	1%	1%	1%	0%	C	0.0743	F	0.5114	14000	G	2008
+653253	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	0.41	I-664	50th St	24000	G	98%	0%	1%	0%	0%	0%	F	0.0736	F	0.5442	26000	G	2008
+653362	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.89	50th St	US 258 Mercury Blvd	32000	G	98%	0%	1%	0%	0%	0%	F	0.0773	F	0.5604	33000	G	2008
+653208	  SR	00143	     	US 17, VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.31	Mercury Blvd	SR 152 Main St	42000	G	98%	1%	1%	0%	0%	0%	F	0.0814	F	0.5917	46000	G	2008	
+150101	  SR	00143	     	US 17, VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.69	SR 152 Main St	SR306 Harpersville Rd	43000	A	98%	1%	1%	0%	0%	0%	C	0.0949	A	0.0000	47000	A	2008	
+653205	  SR	00143	     	US 17, VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.12	SR306 Harpersville Rd	J Clyde Morris Blvd	50000	G	98%	1%	1%	0%	0%	0%	F				55000	G	2008	
+653246	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.11	US 17;  J Clyde Morris Blvd	Middle Ground Blvd	54000	G	98%	1%	1%	1%	0%	0%	C	0.0780	F	0.5060	56000	G	2008
+653384	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.29	Middle Ground Blvd	SR 171 Oyster Point Rd	60000	G	98%	0%	1%	0%	0%	0%	F	0.0795	F	0.5894	63000	G	2008
+653245	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	0.73	SR 171 Oyster Point Rd	I-64	58000	G	98%	0%	1%	0%	0%	0%	F	0.0780	F	0.5372	60000	G	2008
+653244	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.13	I-64	Bland Blvd	88000	G	98%	0%	1%	0%	1%	0%	C	0.0783	F	0.5368	92000	G	2008
+653207	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	0.86	Bland Blvd	SR 173 Denbigh Blvd	54000	G	98%	0%	1%	0%	0%	0%	F	0.0761	F	0.6339	56000	G	2008
+150108	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	0.84	SR 173 Denbigh Blvd	Richneck Rd	36000	G	98%	0%	1%	0%	0%	0%	C	0.1023	A	0.5058	36000	G	2008
+653311	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	2.19	Richneck Rd	SR 105 Ft Eustis Blvd	30000	G	98%	0%	1%	0%	0%	0%	F	0.0910	F	0.6493	32000	G	2008
+653243	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	2.55	SR 105 Ft Eustis Blvd	Yorktown Rd	13000	G	97%	0%	1%	1%	1%	0%	C	0.1405	F	0.7301	14000	G	2008
+653241	  SR	00143	     	VA 143	Jefferson Ave	121	City of Newport News	121	City of Newport News	1.12	Yorktown Rd	James City County Line	16000	G	97%	0%	1%	1%	1%	0%	F	0.1190	F	0.7157	18000	G	2008
+653347	 1SR	00143	P    	VA 143 Par	27th St	121	City of Newport News	121	City of Newport News	0.48	SR 143; 28th St	Chestnut Ave	2600	G	98%	1%	1%	0%	0%	0%	C	0.0844	F	0.5820	2800	G	2008		4900	G	98%	1%	1%	0%	0%	0%	F				5300	G
+653250	 1SR	00143	P    	VA 143 Par	27th St	121	City of Newport News	121	City of Newport News	0.90	Chestnut Ave	Jefferson Ave	2300	G	98%	1%	1%	0%	0%	0%	C	0.0860	F	0.5702	2500	G	2008		4900	G	98%	1%	1%	0%	0%	0%	C				5300	G
+653254	  SR	00152	     	VA 152	Main St	121	City of Newport News	121	City of Newport News	0.41	US 60 Warwick Blvd	US 17, SR 143 Jefferson Ave	12000	G	98%	0%	1%	0%	0%	0%	C	0.0896	F	0.5247	13000	G	2008
+653333	  SR	00152	     	VA 152	Main St	121	City of Newport News	121	City of Newport News	0.56	US 17, SR 143 Jefferson Ave	WCL Hampton	9700	G	99%	0%	1%	0%	0%	0%	C	0.0994	F	0.5437	11000	G	2008
+653319	  SR	00171	     	VA 171	Oyster Point Rd	121	City of Newport News	121	City of Newport News	0.70	SR 143 Jefferson Ave	121-12 Canon Blvd	46000	G	98%	0%	1%	1%	0%	0%	C	0.0839	F	0.5042	50000	G	2008
+653397	  SR	00171	     	VA 171	Oyster Point Rd	121	City of Newport News	121	City of Newport News	0.17	121-12 Canon Blvd	I-64	50000	G	98%	0%	1%	1%	0%	0%	F	0.0831	F	0.5802	54000	G	2008
+653400	  SR	00171	     	VA 171	Victory Blvd	121	City of Newport News	121	City of Newport News	0.74	I-64	York County Line	50000	G	98%	0%	1%	0%	1%	0%	F	0.0849	F	0.6085	54000	G	2008
+653385	  SR	00173	     	VA 173	Denbigh Blvd	121	City of Newport News	121	City of Newport News	0.53	Moyer Drive	Catalina Drive	3800	G	99%	0%	1%	0%	0%	0%	C	0.0886	F	0.6378	4200	G	2008
+653260	  SR	00173	     	VA 173	Denbigh Blvd	121	City of Newport News	121	City of Newport News	0.74	Catalina Dr	Lucas Creek Rd	9300	G	99%	0%	1%	0%	0%	0%	F	0.0867	F	0.6109	10000	G	2008
+653314	  SR	00173	     	VA 173	Denbigh Blvd	121	City of Newport News	121	City of Newport News	0.55	Lucas Creek Rd	US 60 Warwick Blvd	17000	G	99%	0%	1%	0%	0%	0%	F	0.0855	F	0.6079	19000	G	2008
+653261	  SR	00173	     	VA 173	Denbigh Blvd	121	City of Newport News	121	City of Newport News	1.14	US 60 Warwick Blvd	SR 143 Jefferson Ave	29000	G	98%	1%	1%	0%	0%	0%	C	0.0852	F	0.5766	31000	G	2008
+653262	  SR	00173	     	VA 173	Denbigh Blvd	121	City of Newport News	121	City of Newport News	1.32	SR 143 Jefferson Ave	York County Line	27000	G	99%	0%	0%	0%	0%	0%	F	0.0919	F	0.5802	29000	G	2008
+653263	  SR	00238	     	VA 238	Yorktown Rd	121	City of Newport News	121	City of Newport News	0.94	US 60 Warwick Blvd	I-64	5600	G	93%	1%	1%	3%	2%	0%	C	0.0887	F	0.5038	6100	G	2008
+653386	  SR	00238	     	VA 238	Yorktown Rd	121	City of Newport News	121	City of Newport News	0.18	I-64	SR 143 Jefferson Ave	9200	G	97%	1%	1%	1%	1%	0%	F	0.0864	F	0.5052	10000	G	2008
+653264	  SR	00238	     	VA 238	Yorktown Rd	121	City of Newport News	121	City of Newport News	1.06	SR 143 Jefferson Ave	York County Line	9400	G	97%	1%	1%	1%	1%	0%	F	0.0947	F	0.5761	11000	G	2008
+653210	  US	00258	     	US 17, US 258, VA 32	Mercury Blvd	121	City of Newport News	121	City of Newport News	0.22	Isle of Wight County Line	US 60 Warwick Blvd	28000	G	97%	0%	0%	1%	1%	0%	F	0.0914	F	0.7007	30000	G	2008	
+653209	  US	00258	     	US 17, US 258, VA 32	Mercury Blvd	121	City of Newport News	121	City of Newport News	0.56	US 60 Warwick Blvd	Jefferson Ave	37000	G	97%	0%	0%	1%	1%	0%	F	0.0933	F	0.5729	39000	G	2008	
+653232	  US	00258	     	US 258	Mercury Blvd	121	City of Newport News	121	City of Newport News	0.29	Jefferson Ave	WCL Hampton	40000	G	99%	0%	0%	0%	1%	0%	F	0.0860	F	0.5566	40000	G	2008
+653329	  SR	00306	     	VA 306	Harpersville Rd	121	City of Newport News	121	City of Newport News	0.88	US 60 Warwick Blvd	US 17, SR 143 Jefferson Ave	10000	G	99%	0%	1%	0%	0%	0%	C	0.0947	F	0.5743	11000	G	2008
+653267	  SR	00312	     	VA 312	J Clyde Morris Blvd	121	City of Newport News	121	City of Newport News	1.11	US 60 Warwick Blvd	US 17;  SR143	30000	G	98%	0%	1%	0%	0%	0%	C	0.0828	F	0.5113	32000	G	2008
+653270	  SR	00351	     	VA 351	39th St	121	City of Newport News	121	City of Newport News	0.64	US 60 Huntington Ave	Marshall Ave	7100	G	97%	1%	1%	1%	0%	0%	C	0.1207	F	0.7681	7800	G	2008
+653269	  SR	00351	     	VA 351	39th St	121	City of Newport News	121	City of Newport News	0.87	Marshall Ave	WCL Hampton	7100	G	97%	1%	1%	1%	0%	0%	C	0.1207	F	0.7681	7800	G	2008
+050139	  IS	00664	E    	I-664 EB	Hampton Roads Beltway	121	City of Newport News	099	York County	0.12	SCL Hampton	Roanoke Ave; Chestnut St	35000	G	94%	0%	1%	1%	4%	0%	F				33000	G	2008	East I-664 is signed as South I-664	70000	G	94%	0%	1%	1%	4%	0%	F				69000	G
+050413	  IS	00664	E    	I-664 EB	Hampton Roads Beltway	121	City of Newport News	099	York County	1.02	Roanoke Ave; Chestnut St	SR 143 Jefferson Ave; 35th St	33000	G	94%	0%	1%	1%	4%	0%	F				27000	G	2008	East I-664 is signed as South I-664	65000	G	94%	0%	1%	1%	4%	0%	F				56000	G
+050595	  IS	00664	E    	I-664 EB	Hampton Roads Beltway	121	City of Newport News	099	York County	1.64	SR 143 Jefferson Ave; 35th St	Terminal Ave	20000	G	94%	0%	1%	1%	4%	0%	F				25000	G	2008	East I-664 is signed as South I-664	45000	G	94%	0%	1%	1%	4%	0%	F				51000	G
+150324	  IS	00664	E    	I-664 EB	Monitor Merrimac Memorial Bridge Tunnel	121	City of Newport News	099	York County	2.84	Terminal Ave	WCL Suffolk	27000	A	94%	0%	1%	1%	4%	0%	F	0.1109	A	1.0000	28000	A	2008	East I-664 is signed as South I-664	55000	A	94%	0%	1%	1%	4%	0%	F				58000	A
+150301	  IS	00664	W    	I-664 WB	Hampton Roads Beltway	121	City of Newport News	099	York County	0.55	SCL Hampton	Roanoke Avenue; Chestnut St	34000	G	94%	0%	1%	1%	4%	0%	F				36000	G	2008	West I-664 is signed as North I-664	70000	G	94%	0%	1%	1%	4%	0%	F				69000	G
+150018	  IS	00664	W    	I-664 WB	Hampton Roads Beltway	121	City of Newport News	099	York County	0.78	Roanoke Ave; Chestnut St	SR 143 Jefferson Ave; 35th St	32000	G	94%	0%	1%	1%	4%	0%	F				29000	G	2008	West I-664 is signed as North I-664	65000	G	94%	0%	1%	1%	4%	0%	F				56000	G
+150019	  IS	00664	W    	I-664 WB	Hampton Roads Beltway	121	City of Newport News	099	York County	1.41	SR 143 Jefferson Ave; 35th St	Terminal Ave	25000	G	94%	0%	1%	1%	4%	0%	F				25000	G	2008	West I-664 is signed as North I-664	45000	G	94%	0%	1%	1%	4%	0%	F				51000	G
+150021	  IS	00664	W    	I-664 WB	Monitor Merrimac Memorial Bridge Tunnel	121	City of Newport News	099	York County	2.93	Terminal Ave	WCL Suffolk	28000	A	94%	0%	1%	1%	4%	0%	F	0.1075	A	1.0000	30000	A	2008	West I-664 is signed as North I-664	55000	A	94%	0%	1%	1%	4%	0%	F				58000	A
+780387	  FR	00141	     	FR 141	 	121	City of Newport News	099	York County	0.08	SR 173; 121-19 Richneck Rd	Dead End	0	?							X
+653403	 121	00001	     	121-1	25th St	121	City of Newport News	121	City of Newport News	0.12	Washington Ave	Warwick Blvd	2200	G	95%	4%	1%	0%	0%	0%	C	0.0914	F	0.6481	2400	G	2008
+653402	 121	00002	     	121-2	26th St	121	City of Newport News	121	City of Newport News	0.10	Huntington Ave	Warwick Blvd	5700	G	95%	4%	1%	0%	0%	0%	F	0.1580	F	0.0000	6100	G	2008
+781676	 121	00003	     	121-3	27th St	121	City of Newport News	121	City of Newport News	0.14	121-7004 28th Street	121-7013; 1SR 143-P Jefferson Ave	2200	G	97%	0%	2%	0%	0%	0%	F	0.1113	F	0.6398	2400	G	2008
+783017	 121	00004	     	121-4	Oyster Point Rd	121	City of Newport News	121	City of Newport News	1.04	US 60; Warwick Blvd	SR 143; Jefferson Ave	46000	G	98%	0%	1%	0%	0%	0%	C	0.0805	F	0.5964	50000	G	2008
+783018	 121	00005	     	121-5	35th St	121	City of Newport News	121	City of Newport News	0.24	Washington Ave	US 60 Parallel	860	G	98%	0%	1%	0%	0%	0%	F	0.2449	F	1.0000	930	G	2008
+792604	 121	00006	     	121-6	Hampton Roads Center Parkway	121	City of Newport News	121	City of Newport News	0.63	Harpersville Rd; Terrace Dr	WCL Hampton	21000	N	99%	0%	0%	0%	0%	0%	N	0.1137	N	0.5641	23000	N	2008
+653404	 121	00007	     	121-7	49th St	121	City of Newport News	121	City of Newport News	0.24	Washington Ave	Huntington Ave	1700	G	94%	5%	1%	0%	0%	0%	C	0.1451	F	1.0000	1800	G	2008
+653405	 121	00008	     	121-8	50th St	121	City of Newport News	121	City of Newport News	0.11	Washington Ave	US 60, Huntington Ave	1600	G	90%	6%	3%	0%	0%	0%	C	0.1667	F	1.0000	1700	G	2008
+783019	 121	00008	     	121-8	50th St	121	City of Newport News	121	City of Newport News	0.11	US 60, Huntington Ave	US 60 Parallel, Warwick Blvd	680	G	90%	6%	3%	0%	0%	0%	F	0.1790	F	1.0000	740	G	2008
+653341	 121	00009	     	121-9	Washington Ave	121	City of Newport News	121	City of Newport News	1.24	25Th St	50Th St	5600	G	95%	3%	1%	0%	0%	0%	C	0.1205	F	0.8392	6100	G	2008
+653406	 121	00010	     	121-10	Beechmont Dr	121	City of Newport News	121	City of Newport News	1.16	Moyer Rd	Lucas Creek Dr	4400	G	98%	0%	1%	0%	0%	0%	C	0.0870	F	0.6293	4800	G	2008
+653309	 121	00010	     	121-10	Beechmont Dr	121	City of Newport News	121	City of Newport News	0.24	Lucas Creek Rd	Warwick Blvd	8200	G	98%	0%	1%	0%	0%	0%	F	0.0827	F	0.6019	8900	G	2008
+653373	 121	00011	     	121-11	Boxley Blvd	121	City of Newport News	121	City of Newport News	0.81	Menchville Rd	US 60; Warwick Blvd	12000	G	99%	0%	1%	0%	0%	0%	C	0.0885	F	0.6056	13000	G	2008
+653390	 121	00012	     	121-12	Canon Blvd	121	City of Newport News	121	City of Newport News	1.60	Thimble Shoals Blvd	SR 171	16000	G	98%	0%	1%	0%	1%	0%	C	0.0952	F	0.6779	17000	G	2008
+653408	 121	00013	     	121-13	Diligence Dr	121	City of Newport News	121	City of Newport News	0.44	J.Clyde Morris Blvd	Thimble Shoals Blvd	11000	G	99%	0%	1%	0%	0%	0%	C	0.0948	F	0.5000	12000	G	2008
+653315	 121	00014	     	121-14	Eastwood Dr	121	City of Newport News	121	City of Newport News	1.36	Lucas Creek Rd	Colony Dr	3400	G	99%	0%	1%	0%	0%	0%	F	0.0933	F	0.6247	3700	G	2008
+653409	 121	00014	     	121-14	Eastwood Dr	121	City of Newport News	121	City of Newport News	0.44	Colony Rd	Warwick Blvd	7900	G	99%	0%	1%	0%	0%	0%	C	0.0912	F	0.6092	8500	G	2008
+653325	 121	00015	     	121-15	Maxwell Ln	121	City of Newport News	121	City of Newport News	0.62	Normandy Lane	Warwick Blvd	5500	G	99%	0%	0%	0%	0%	0%	C	0.0874	F	0.5615	6000	G	2008
+653410	 121	00016	     	121-16	McManus Blvd	121	City of Newport News	121	City of Newport News	1.04	Bland Blvd	Denbigh Blvd	11000	G	99%	0%	0%	0%	0%	0%	C	0.0944	F	0.6269	12000	G	2008
+653412	 121	00017	     	121-17	Middle Ground Blvd	121	City of Newport News	121	City of Newport News	0.64	Jefferson Ave	Canon Blvd	8600	G	98%	1%	1%	0%	1%	0%	C	0.0935	F	0.5033	9300	G	2008
+653413	 121	00018	     	121-18	Moyer Rd	121	City of Newport News	121	City of Newport News	0.54	Denbigh Blvd	Beechmont Dr	2700	G	99%	0%	0%	0%	0%	0%	C	0.0982	F	0.5836	3000	G	2008
+653411	 121	00019	     	121-19	Richneck Rd	121	City of Newport News	121	City of Newport News	0.96	Denbigh Blvd	Jefferson Ave	3300	G	98%	1%	0%	0%	0%	0%	C	0.0951	F	0.7545	3500	G	2008
+653414	 121	00019	     	121-19	Richneck Rd	121	City of Newport News	121	City of Newport News	1.54	Jefferson Ave	York County Line	4600	G	98%	1%	0%	0%	0%	0%	F	0.1039	F	0.6061	5000	G	2008
+653415	 121	00020	     	121-20	River Rd	121	City of Newport News	121	City of Newport News	0.74	Mercury Blvd	Huntington Ave	490	G	98%	1%	1%	0%	0%	0%	C	0.0991	F	0.7925	530	G	2008
+653305	 121	00021	     	121-21	Shoe Ln	121	City of Newport News	121	City of Newport News	0.78	Country Club Rd	Warwick Blvd	6200	G	99%	0%	1%	0%	0%	0%	C	0.0861	F	0.6620	6700	G	2008
+653416	 121	00022	     	121-22	Thimble Shoals Blvd	121	City of Newport News	121	City of Newport News	0.91	Jefferson Ave	Pilot House Dr	15000	G	99%	1%	0%	0%	0%	0%	C	0.0937	F	0.5257	16000	G	2008
+653419	 121	00022	     	121-22	Thimble Shoals Blvd	121	City of Newport News	121	City of Newport News	0.27	Pilot House Rd	US 17 J Clyde Morris Blvd	9300	G	98%	1%	1%	0%	0%	0%	C	0.1086	F	0.7337	10000	G	2008
+653257	 121	07000	     	121-7000	16th St	121	City of Newport News	121	City of Newport News	0.90	Jefferson Ave	Chestnut Ave	5200	G	93%	1%	1%	5%	0%	0%	C	0.0766	F	0.5274	5700	G	2008
+653259	 121	07000	     	121-7000	Chesapeake Ave	121	City of Newport News	121	City of Newport News	1.05	Chestnut Ave	SCL Hampton	1400	G	93%	1%	1%	5%	0%	0%	F	0.0923	F	0.5943	1500	G	2008
+653401	 121	07002	     	121-7002	23rd St	121	City of Newport News	121	City of Newport News	0.22	West Ave	US 60 Huntington Ave	3000	G	97%	1%	1%	0%	0%	0%	C	0.1882	F	0.9852	3200	G	2008
+781677	 121	07002	     	121-7002	23rd St	121	City of Newport News	121	City of Newport News	0.21	US 60 Huntington Ave	US 60 Par 25th St	8100	G	97%	1%	1%	0%	0%	0%	F	0.1783	F	0.5115	8800	G	2008
+653365	 121	07004	     	121-7004	28th St	121	City of Newport News	121	City of Newport News	0.34	Huntington Ave	Jefferson Ave	3200	G	97%	0%	2%	0%	0%	0%	C	0.0951	F	0.5116	3500	G	2008
+653366	 121	07006	     	121-7006	34th St	121	City of Newport News	121	City of Newport News	0.07	Washington Ave	US 60 Warwick Blvd	1100	G	97%	0%	2%	0%	0%	0%	F	0.1146	F	1.0000	1200	G	2008
+781678	 121	07006	     	121-7006	34th St	121	City of Newport News	121	City of Newport News	0.13	US 60 Warwick Blvd	US 60 Par 34th St	1100	G	97%	0%	2%	0%	0%	0%	F	0.1128	F	1.0000	1200	G	2008
+653316	 121	07007	     	121-7007	Lucas Creek Rd	121	City of Newport News	121	City of Newport News	1.39	Colony Rd	Youngs Rd	3700	G	99%	0%	0%	0%	0%	0%	C	0.0922	F	0.5263	4000	G	2008
+653289	 121	07007	     	121-7007	Lucas Creek Rd	121	City of Newport News	121	City of Newport News	1.13	Denbigh Blvd	Colony Rd	5400	G	99%	0%	0%	0%	0%	0%	F	0.0904	F	0.5358	5800	G	2008
+653339	 121	07008	     	121-7008	39th St	121	City of Newport News	121	City of Newport News	0.23	Washington Ave	Huntington Ave	2500	G							X	0.1258	F	0.6439	2700	G	2008
+653370	 121	07010	     	121-7010	48th St	121	City of Newport News	121	City of Newport News	0.16	Jefferson Ave	Madison Ave	3200	G	95%	1%	2%	1%	1%	0%	F	0.0796	F	0.7274	3500	G	2008
+653371	 121	07010	     	121-7010	48th St	121	City of Newport News	121	City of Newport News	0.16	Madison Ave	Marshall Ave	4700	G	95%	1%	2%	1%	1%	0%	C	0.0755	F	0.6412	5100	G	2008
+653372	 121	07010	     	121-7010	48th St	121	City of Newport News	121	City of Newport News	0.59	Marshall Ave	Chestnut Ave	3600	G	89%	1%	1%	7%	1%	0%	C	0.0848	F	0.5422	4000	G	2008
+653396	 121	07011	     	121-7011	Orcutt Ave	121	City of Newport News	121	City of Newport News	0.37	Briarfield Rd	Paul St	1300	G	99%	0%	1%	0%	0%	0%	F	0.1007	F	0.5256	1400	G	2008
+653378	 121	07011	     	121-7011	Orcutt Ave	121	City of Newport News	121	City of Newport News	0.56	Paul St	SWCLHampton	1600	G	99%	0%	1%	0%	0%	0%	C	0.0991	F	0.5088	1700	G	2008
+653274	 121	07012	     	121-7012	Briarfield Rd	121	City of Newport News	121	City of Newport News	1.17	Jefferson Ave	SWCL Hampton	8100	G	97%	1%	1%	0%	1%	0%	C	0.0871	F	0.5283	8800	G	2008
+781679	 121	07013	     	121-7013	Jefferson Ave	121	City of Newport News	121	City of Newport News	0.05	121-3;  27Th Street	US 60, 25th St	13000	G	98%	0%	1%	0%	0%	0%	F	0.0733	F	0.5070	14000	G	2008
+653255	 121	07013	     	121-7013	Jefferson Ave	121	City of Newport News	121	City of Newport News	0.55	US 60, 25th St	16th St	12000	G	97%	1%	1%	1%	1%	0%	C	0.0765	F	0.5046	13000	G	2008
+653291	 121	07015	     	121-7015	Marshall Ave	121	City of Newport News	121	City of Newport News	0.69	25th St	39th St	5800	G	98%	1%	1%	0%	0%	0%	F	0.0647	F	0.5867	6300	G	2008
+653337	 121	07015	     	121-7015	Marshall Ave	121	City of Newport News	121	City of Newport News	1.08	39th St	Richard Ct	6700	G	98%	1%	1%	0%	0%	0%	C	0.0895	F	0.5161	7300	G	2008
+653290	 121	07015	     	121-7015	Marshall Ave	121	City of Newport News	121	City of Newport News	1.03	Richard Ct	SWCL Hampton	5900	G	98%	1%	1%	0%	0%	0%	F	0.0910	F	0.5026	6400	G	2008
+653302	 121	07017	     	121-7017	Roanoke Ave	121	City of Newport News	121	City of Newport News	1.21	16Th St	I-664	3200	G	99%	0%	1%	0%	0%	0%	F	0.0784	F	0.5305	3500	G	2008
+653301	 121	07017	     	121-7017	Roanoke Ave	121	City of Newport News	121	City of Newport News	1.16	I-664	Briarfield Rd	2500	G	99%	0%	1%	0%	0%	0%	C	0.0928	F	0.6216	2800	G	2008
+653300	 121	07017	     	121-7017	Roanoke Ave	121	City of Newport News	121	City of Newport News	0.93	Briarfield Rd	SWCL Hampton	3200	G	99%	0%	1%	0%	0%	0%	F	0.0897	F	0.5952	3400	G	2008
+653277	 121	07019	     	121-7019	Chestnut Ave	121	City of Newport News	121	City of Newport News	0.80	US 60 25th St	I-664	5700	G	97%	0%	1%	1%	0%	0%	C	0.0812	F	0.5556	6200	G	2008
+653336	 121	07019	     	121-7019	Chestnut Ave	121	City of Newport News	121	City of Newport News	1.08	I-664	Briarfield Rd	7300	G	99%	0%	1%	0%	0%	0%	F	0.0898	F	0.5836	7900	G	2008
+653407	 121	07019	     	121-7019	Chestnut Ave	121	City of Newport News	121	City of Newport News	0.95	Briarfield Rd	SWCL Hampton	7500	G	99%	0%	1%	0%	0%	0%	C	0.0891	F	0.5390	8200	G	2008
+653283	 121	07027	     	121-7027	Harpersville Rd	121	City of Newport News	121	City of Newport News	1.00	Jefferson Ave	E-W Expressway	19000	G	99%	0%	0%	0%	0%	0%	F	0.0975	F	0.0000	21000	G	2008
+653321	 121	07027	     	121-7027	Harpersville Rd	121	City of Newport News	121	City of Newport News	1.77	E-W Expressway	Saunders Rd	9500	G	99%	0%	0%	0%	0%	0%	C	0.1073	F	0.5592	10000	G	2008
+781684	 121	07034	     	121-7034	Old Oyster Point Rd	121	City of Newport News	121	City of Newport News	0.67	121-12; Canon Blvd	Lochaven Drive	5700	G							X	0.0969	F	0.5987	6200	G	2008
+653418	 121	07034	     	121-7034	Old Oyster Point Rd	121	City of Newport News	121	City of Newport News	0.64	Lochaven Drive	Brighton Lane	5900	G	98%	0%	1%	0%	0%	0%	C	0.0956	F	0.5111	6500	G	2008
+781685	 121	07034	     	121-7034	Old Oyster Point Rd	121	City of Newport News	121	City of Newport News	0.18	Brigton Lane	US 17; J Clyde Morris Blvd	8400	G	98%	0%	1%	0%	0%	0%	F	0.0904	F	0.5114	9100	G	2008
+653320	 121	07034	     	121-7034	Harpersville Rd	121	City of Newport News	121	City of Newport News	0.53	US 17; J Clyde Morris Blvd	Harpersville Rd	11000	G	98%	0%	1%	0%	0%	0%	F	0.0968	F	0.5171	12000	G	2008
+653355	 121	07034	     	121-7034	Saunders Rd	121	City of Newport News	121	City of Newport News	0.76	Harpersville Rd	NWCL Hampton	8500	G	99%	0%	1%	0%	0%	0%	C	0.1029	F	0.5199	9200	G	2008
+653389	 121	07036	     	121-7036	Blount Point Rd	121	City of Newport News	121	City of Newport News	0.68	Beverly Hills Blvd	Madison Ave North	2200	G	99%	0%	0%	0%	0%	0%	C	0.0966	F	0.5893	2400	G	2008
+653285	 121	07036	     	121-7036	Hiden Blvd	121	City of Newport News	121	City of Newport News	0.85	Madison Lane North	Warwick Blvd	7700	G	99%	0%	0%	0%	0%	0%	F	0.0980	F	0.6902	8300	G	2008
+653282	 121	07038	     	121-7038	Deep Creek Rd	121	City of Newport News	121	City of Newport News	1.09	Normandy Lane	Warwick Blvd	3800	G	97%	1%	2%	0%	0%	0%	C	0.0924	F	0.5640	4100	G	2008
+653392	 121	07040	     	121-7040	Colony Rd	121	City of Newport News	121	City of Newport News	0.50	Hertzler Rd	Lucas Creek Rd	1800	G	96%	1%	2%	0%	0%	0%	C	0.0951	F	0.6579	1900	G	2008
+653279	 121	07040	     	121-7040	Colony Rd	121	City of Newport News	121	City of Newport News	1.52	Lucas Creek Rd	US 60 Warwick Blvd	7700	G	96%	1%	2%	0%	0%	0%	F	0.1018	F	0.6893	8400	G	2008
+653375	 121	07042	     	121-7042	Old Denbigh Blvd	121	City of Newport News	121	City of Newport News	0.61	Denbigh Blvd	York County Line	7700	G	97%	1%	1%	0%	0%	0%	C	0.0959	F	0.5857	8400	G	2008
+789800	 121	07104	     	121-7104	Bland Blvd	121	City of Newport News	121	City of Newport News	0.93	US 60 Warwick Blvd	SR 143 Jefferson Ave	31000	G	99%	0%	0%	0%	0%	0%	C	0.0846	F	0.5645	34000	G	2008
+784984	 121	07104	     	121-7104	Bland Blvd	121	City of Newport News	121	City of Newport News	0.49	SR 143 Jefferson Ave	McManus Blvd	16000	G	99%	0%	0%	0%	0%	0%	F	0.0837	F	0.5189	18000	G	2008
+553044	 121	00000	     	121-0	35th St	121	City of Newport News	121	City of Newport News	0.00	Roanoke Ave	Orcutt Ave	2200	G							X	0.0801	F	0.0000	2400	G	2008
+553030	 121	00000	     	121-0	79th St	121	City of Newport News	121	City of Newport News	0.00	Chestnut Ave	New Market Dr	2000	G							X	0.0941	F	0.0000	2100	G	2008
+553003	 121	00000	     	121-0	Arline Dr	121	City of Newport News	121	City of Newport News	0.00	Grant Dr	Lakeshore Dr	90	G							X	0.1183	F	0.5455	90	G	2008
+553006	 121	00000	     	121-0	Atkins Ln	121	City of Newport News	121	City of Newport News	0.00	Fawn Lane	Oyster Point Rd	400	G							X	0.1008	F	0.5116	430	G	2008
+553021	 121	00000	     	121-0	Barclay Rd	121	City of Newport News	121	City of Newport News	0.00	Deep Creek	Steffi Pl	1700	G							X	0.1040	F	0.6271	1900	G	2008
+553029	 121	00000	     	121-0	Beech Dr	121	City of Newport News	121	City of Newport News	0.00	Henry Clay Rd	Teakwood Dr	5600	G							X				6200	G	2008
+553026	 121	00000	     	121-0	Bruton Ave	121	City of Newport News	121	City of Newport News	0.00	Burns Ave	Courtney Ave	2300	G							X	0.1006	F	0.5835	2400	G	2008
+553036	 121	00000	     	121-0	Buxton Ave	121	City of Newport News	121	City of Newport News	0.00	25th St	SWCL Hampton	6200	G							X				6800	G	2008
+553008	 121	00000	     	121-0	Center Ave	121	City of Newport News	121	City of Newport News	0.00	Swann Ave	US 17; Jefferson Ave	520	G							X	0.0932	F	0.7037	560	G	2008
+553020	 121	00000	     	121-0	Chatsworth Dr	121	City of Newport News	121	City of Newport News	0.00	Olive Dr	Eubank Cir	1400	G							X	0.0921	F	0.7228	1500	G	2008
+553028	 121	00000	     	121-0	Dresden Dr	121	City of Newport News	121	City of Newport News	0.00	Tanbark Dr	Almond Dr	2000	G							X	0.0919	F	0.5388	2200	G	2008
+553050	 121	00000	     	121-0	Etna Dr	121	City of Newport News	121	City of Newport News	0.00	Shellby Dr	Beechment Dr	440	G							X				440	G	2008
+553048	 121	00000	     	121-0	Garrow Rd	121	City of Newport News	121	City of Newport News	0.00	Denbigh Blvd	Virginia Dr	1200	G							X				1200	G	2008
+553010	 121	00000	     	121-0	Glendale Rd	121	City of Newport News	121	City of Newport News	0.00	W. Carolyn Rd	E. Carolyn Rd	640	G							X	0.1041	F	0.5430	700	G	2008
+553046	 121	00000	     	121-0	Gwynn Cir	121	City of Newport News	121	City of Newport News	0.00	Tabbs Lane	Fischer Dr	1600	G							X				1600	G	2008
+553014	 121	00000	     	121-0	Hampton Ave	121	City of Newport News	121	City of Newport News	0.00	Roanoke St	Orcutt Ave	1500	G							X	0.0791	F	0.5309	1700	G	2008
+553005	 121	00000	     	121-0	King wood Dr	121	City of Newport News	121	City of Newport News	0.00	Crestwood Dr	Ross Dr	350	G							X	0.1100	F	0.5341	380	G	2008
+553002	 121	00000	     	121-0	Lakeshore Dr	121	City of Newport News	121	City of Newport News	0.00	Warren Dr	Sandra Dr	1600	G							X	0.0923	F	0.6483	1800	G	2008
+553019	 121	00000	     	121-0	Louise Dr	121	City of Newport News	121	City of Newport News	0.00	Bayberry Dr	Cloverleaf Lane	2100	G							X	0.0926	F	0.0000	2300	G	2008
+553011	 121	00000	     	121-0	Madison Ave	121	City of Newport News	121	City of Newport News	0.00	48th St	49th ST	1500	G							X	0.0684	F	0.5108	1600	G	2008
+553017	 121	00000	     	121-0	Madison Ave	121	City of Newport News	121	City of Newport News	0.00	Hampton Ave	21St Street	2100	G							X	0.0773	F	0.5472	2200	G	2008
+553018	 121	00000	     	121-0	Madison Ave	121	City of Newport News	121	City of Newport News	0.00	30Th Street	31St Street	2000	G							X	0.0747	F	0.5444	2200	G	2008
+553027	 121	00000	     	121-0	Madison Ln	121	City of Newport News	121	City of Newport News	0.00	Walnut Grove	Crittenden St	3600	G							X	0.0946	F	0.0000	3900	G	2008
+553040	 121	00000	     	121-0	Main St	121	City of Newport News	121	City of Newport News	0.00	River Rd	Palen Ave	1300	G							X	0.0880	F	0.5245	1400	G	2008
+553023	 121	00000	     	121-0	Menchville Rd	121	City of Newport News	121	City of Newport News	0.00	Ronald Dr	Bernard Dr	2700	G							X				2900	G	2008
+553025	 121	00000	     	121-0	Menchville Rd	121	City of Newport News	121	City of Newport News	0.00	Nicewood Dr	Youngs Rd	10000	G							X				11000	G	2008
+553045	 121	00000	     	121-0	Museum Dr	121	City of Newport News	121	City of Newport News	0.00	Lakeside Dr	US 60 Warwick Blvd	1800	G							X				1800	G	2008
+553022	 121	00000	     	121-0	N Madison Lane	121	City of Newport News	121	City of Newport News	0.00	Anderson Cir	Cameron Dr	2800	G							X	0.0953	F	0.6330	3000	G	2008
+553012	 121	00000	     	121-0	Oak Ave	121	City of Newport News	121	City of Newport News	0.00	30th St	31st St	1200	G							X	0.0795	F	0.6406	1300	G	2008
+553013	 121	00000	     	121-0	Oak Ave	121	City of Newport News	121	City of Newport News	0.00	Hampton Ave	31st St	2200	G							X	0.0747	F	0.5307	2400	G	2008
+553037	 121	00000	     	121-0	Old Courthouse Way	121	City of Newport News	121	City of Newport News	0.00	Warwick Blvd	Hustings Lane	8600	G							X				9500	G	2008
+553009	 121	00000	     	121-0	Orcutt Ave	121	City of Newport News	121	City of Newport News	0.00	30Th Street	31St Street	1000	G							X	0.0929	F	0.5377	1100	G	2008
+553038	 121	00000	     	121-0	Oriana Rd	121	City of Newport News	121	City of Newport News	0.00	Warwick Blvd	Denbigh Blvd	10000	G							X				11000	G	2008
+553039	 121	00000	     	121-0	Ridgewood Pkwy	121	City of Newport News	121	City of Newport News	0.00	Denbigh Blvd	Balthorpe Rd	2800	G							X	0.0932	F	0.5152	3000	G	2008
+792608	 121	00000	     	121-0	Rt 143 Airport Lot	121	City of Newport News	121	City of Newport News	0.00	SR 143	Newport News Williamsburg International Airport	0	?							X
+553024	 121	00000	     	121-0	Snidow Blvd	121	City of Newport News	121	City of Newport News	0.00	Warwick Blvd	Barron Dr	5800	G							X				6400	G	2008
+553047	 121	00000	     	121-0	Spaulding Dr	121	City of Newport News	121	City of Newport News	0.00	Denbigh Blvd	Keswick Cir	420	G							X				420	G	2008
+553001	 121	00000	     	121-0	Stanley Dr	121	City of Newport News	121	City of Newport News	0.00	Marvin Dr	Mckinley Dr	1000	G							X	0.1003	F	0.6000	1100	G	2008
+553007	 121	00000	     	121-0	Traverse Rd	121	City of Newport News	121	City of Newport News	0.00	Wendfield Cir	Bayberry Dr	1400	G							X	0.1143	F	0.0000	1500	G	2008
+553032	 121	00000	     	121-0	W Lucas Creek Rd	121	City of Newport News	121	City of Newport News	0.00	Warwick Blvd	Hughes St	1900	G							X	0.0919	F	0.5556	2100	G	2008
+553049	 121	00000	     	121-0	Warren Dr	121	City of Newport News	121	City of Newport News	0.00	Lakeshore Dr	Linda Dr	60	G							X				60	G	2008
+553004	 121	00000	     	121-0	Wells Rd	121	City of Newport News	121	City of Newport News	0.00	Mac Neil Dr	Deep Spring Dr	150	G							X	0.1072	F	0.5405	170	G	2008
+553015	 121	00000	     	121-0	Wickham Ave	121	City of Newport News	121	City of Newport News	0.00	Hampton Ave	21st St	3000	G							X	0.0824	F	0.5488	3300	G	2008
+553016	 121	00000	     	121-0	Wickham Ave	121	City of Newport News	121	City of Newport News	0.00	30th Street	31St Street	2100	G							X	0.0834	F	0.6324	2200	G	2008
+553041	 121	00000	     	121-0	Willow Dr	121	City of Newport News	121	City of Newport News	0.00	Hemlock Rd	Latham Dr	1300	G							X	0.0797	F	0.5551	1400	G	2008
+553042	 121	00000	     	121-0	Woodside Ln	121	City of Newport News	121	City of Newport News	0.00	Richneck Rd	Aspen Dr	2800	G							X	0.0983	F	0.0000	3000	G	2008
+553043	 121	00000	     	121-0	Woodside Ln	121	City of Newport News	121	City of Newport News	0.00	Jouett Dr	Denbigh Blvd	6600	G							X				7300	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

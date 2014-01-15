@@ -1,0 +1,119 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Crewe																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+040037	  SR	00049	     	VA 49	Earl Davis Gregory Hwy	203	Town of Crewe	067	Nottoway County	0.15	SCL Crewe	US 460, East Virginia Ave	2500	N	94%	1%	1%	1%	3%	0%	N	0.0905	N	0.5029	2700	N	2008
+040729	  SR	00049	     	US 460, VA 49	Virginia Ave	203	Town of Crewe	067	Nottoway County	1.80	US 460 East	US 460 West	11000	F	87%	1%	1%	1%	11%	0%	F	0.0838	F	0.0000	11000	F	2008	
+040568	  SR	00049	     	VA 49	Watsons Wood Rd	203	Town of Crewe	067	Nottoway County	0.34	US 460, West Virginia Ave	NCL Crewe	1600	F	93%	1%	1%	1%	4%	0%	C	0.0962	F	0.5647	1700	F	2008
+040628	  US	00460	     	US 460	Virginia Ave	203	Town of Crewe	067	Nottoway County	0.76	WCL Crewe	SR 49 Watsons Wood Rd	9100	N	87%	1%	1%	1%	11%	0%	N	0.0817	N	0.0000	9100	N	2008
+040729	  US	00460	     	US 460, VA 49	Virginia Ave	203	Town of Crewe	067	Nottoway County	1.80	SR 49 Watsons Wood Rd	SR 49 Earl Davis Gregory Hwy	11000	F	87%	1%	1%	1%	11%	0%	F	0.0838	F	0.0000	11000	F	2008
+040581	  US	00460	     	US 460	Virginia Ave	203	Town of Crewe	067	Nottoway County	0.70	SR 49 Earl Davis Gregory Hwy	ECL Crewe	10000	F	87%	1%	1%	1%	11%	0%	F	0.0832	F	0.0000	10000	F	2008
+303777	  67	00607	     	67-607	Rocky Ford Rd	203	Town of Crewe	067	Nottoway County	0.21	SCL Crewe	US 460 W, Virginia Ave	380	N	97%	2%	1%	0%	0%	0%	N	0.1078	N	0.5155	400	N	2008
+757299	  67	00607	     	67-607	Rocky Ford Rd	203	Town of Crewe	067	Nottoway County	0.29	US 460 W, Virginia Ave	67-630 Melody Lane	390	R							X						04/18/2005
+301270	  67	00618	     	67-618	Carter St	203	Town of Crewe	067	Nottoway County	0.14	US 460 Virginia Ave	67-1009 Tennessee Ave	2300	F	98%	1%	0%	0%	0%	0%	F	0.1025	F	0.5233	2500	F	2008
+301271	  67	00618	     	67-618	Carter St	203	Town of Crewe	067	Nottoway County	0.14	67-1009 Tennessee Ave	67-1011 Pennsylvania Ave	1200	F	98%	1%	0%	0%	0%	0%	C	0.1041	F	0.5745	1300	F	2008
+301272	  67	00618	     	67-618	Carter St	203	Town of Crewe	067	Nottoway County	0.13	67-1011 Pennsylvania Ave	67-619 Tyler St	1100	F	98%	1%	0%	0%	0%	0%	F	0.0977	F	0.5301	1200	F	2008
+301273	  67	00618	     	67-618	Indian Oak Rd	203	Town of Crewe	067	Nottoway County	0.29	67-619 Tyler St	67-1008 Paul St	750	F	98%	0%	1%	1%	0%	0%	F	0.1018	F	0.6457	800	F	2008
+301274	  67	00618	     	67-618	Indian Oak Rd	203	Town of Crewe	067	Nottoway County	0.18	67-1008 Paul St	ECL Crewe	690	F	98%	0%	1%	1%	0%	0%	F	0.1073	F	0.5494	730	F	2008
+301276	  67	00619	     	67-619	Tyler St	203	Town of Crewe	067	Nottoway County	0.25	67-618 Indian Oak Rd	NCL Crewe	1700	F	98%	1%	1%	0%	0%	0%	F	0.1017	F	0.5516	1900	F	2008
+303780	  67	00630	     	67-630	Melody Lane	203	Town of Crewe	067	Nottoway County	0.50	WCL Crewe	67-607 Rocky Ford Rd	210	N	99%	0%	1%	0%	0%	0%	N	0.1400	N	0.6571	230	N	2008
+301290	  67	00630	     	67-630	Melody Lane	203	Town of Crewe	067	Nottoway County	0.35	67-607 Rocky Ford Rd	SR 49 W, Watsons Wood Rd	330	F	99%	0%	1%	0%	0%	0%	F	0.1260	F	0.5729	350	F	2008
+301291	  67	00630	     	67-630	Maryland Ave	203	Town of Crewe	067	Nottoway County	0.13	SR 49 E, Watsons Wood Rd	67-1044; Bible Way Rd	740	F	92%	3%	3%	1%	2%	0%	F	0.1065	F	0.5904	800	F	2008
+301292	  67	00630	     	67-630	Bible Way Dr	203	Town of Crewe	067	Nottoway County	0.28	67-1044 Maryland Ave	NCL Crewe	200	F	92%	3%	3%	1%	2%	0%	C	0.1286	F	0.5806	210	F	2008
+301311	  67	01001	     	67-1001	E Carolina Avenue	203	Town of Crewe	067	Nottoway County	0.11	67-1038 Country Club Rd	67-1005 Fourth St	230	F	97%	1%	1%	0%	0%	0%	F	0.1231	F	0.7500	250	F	2008
+301312	  67	01001	     	67-1001	E Carolina Avenue	203	Town of Crewe	067	Nottoway County	0.37	67-1005 Fourth St	67-1023 First St	310	F	97%	1%	1%	0%	0%	0%	F	0.1202	F	0.5476	340	F	2008
+301313	  67	01001	     	67-1001	E Carolina Avenue	203	Town of Crewe	067	Nottoway County	0.17	67-1023 First St	67-1025 Tyler St	610	F	97%	1%	1%	0%	0%	0%	F	0.1198	F	0.5466	660	F	2008
+301314	  67	01001	     	67-1001	Carolina Ave	203	Town of Crewe	067	Nottoway County	0.08	67-1025 Tyler St	67-618 Carter St	1100	F	97%	1%	1%	0%	0%	0%	C	0.1120	F	0.0000	1200	F	2008
+301315	  67	01001	     	67-1001	W Carolina Ave	203	Town of Crewe	067	Nottoway County	0.16	67-618 Carter St	67-1027 Meade St	970	F	97%	1%	1%	0%	0%	0%	F	0.1075	F	0.5517	1000	F	2008
+301316	  67	01001	     	67-1001	W Carolina Ave	203	Town of Crewe	067	Nottoway County	0.28	67-1027 Meade St	67-1033 Lipscomp St	890	F	97%	1%	1%	0%	0%	0%	F	0.1075	F	0.5213	950	F	2008
+301317	  67	01001	     	67-1001	W Carolina Ave	203	Town of Crewe	067	Nottoway County	0.59	67-1033 Lipscomb St	67-1042 Stith St	760	F	97%	1%	1%	0%	0%	0%	F	0.1208	F	0.5075	810	F	2008
+301318	  67	01001	     	67-1001	W Carolina Avenue	203	Town of Crewe	067	Nottoway County	0.25	67-1042 Stith St	67-1044 Archer St	560	F	97%	1%	1%	0%	0%	0%	F	0.1139	F	0.5067	600	F	2008
+757471	  67	01002	     	67-1002	Dade St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001 Carolina Ave	470	R							X						04/14/2005
+757472	  67	01002	     	67-1002	Dade St	203	Town of Crewe	067	Nottoway County	0.27	67-1001 Carolina Ave	67-630 Bible Way Dr	240	R							X						04/14/2005
+757473	  67	01003	     	67-1003	Maryland Ave	203	Town of Crewe	067	Nottoway County	0.09	67-1002 Dade St	67-1044 Archer St, Maryland Ave	40	R							X						04/14/2005
+785176	  67	01005	     	67-1005	Fourth St	203	Town of Crewe	067	Nottoway County	0.30	SCL Crewe	US 460 Virginia Ave	110	N							X				0	N	04/13/2005
+757476	  67	01005	     	67-1005	Fourth St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001, E Carolina Avenue	350	R							X						04/13/2005
+757477	  67	01005	     	67-1005	Fourth St	203	Town of Crewe	067	Nottoway County	0.07	67-1001, E Carolina Ave	67-1009, E Tennessee Ave	360	R							X						04/13/2005
+757478	  67	01005	     	67-1005	Fourth St	203	Town of Crewe	067	Nottoway County	0.20	67-1009, E Tennessee Ave	67-1046, E Georgia Ave	230	R							X						04/13/2005
+757479	  67	01005	     	67-1005	Fourth St	203	Town of Crewe	067	Nottoway County	0.07	67-1046, E Georgia Ave	Dead End	80	R							X						04/13/2005
+757481	  67	01007	     	67-1007	Rock Castle Ave	203	Town of Crewe	067	Nottoway County	0.28	67-619 Tyler St	67-1008 Paul St	190	R							X						06/09/2008
+757482	  67	01008	     	67-1008	Paul St	203	Town of Crewe	067	Nottoway County	0.06	67-618 Carter St; Indian Oak Rd	67-1007 Rock Castle Ave	40	R							X						06/09/2008
+757483	  67	01009	     	67-1009	E Tennessee Ave	203	Town of Crewe	067	Nottoway County	0.08	67-1027; 67-1028	67-1026 Powell St	270	R							X						04/13/2005
+757484	  67	01009	     	67-1009	E Tennessee Ave	203	Town of Crewe	067	Nottoway County	0.34	67-1026 Powell St	67-1023 First St	430	R							X						04/13/2005
+757485	  67	01009	     	67-1009	E Tennessee Ave	203	Town of Crewe	067	Nottoway County	0.37	67-1023 First St	67-1005 Fourth St	240	R							X						04/13/2005
+757486	  67	01009	     	67-1009	E Tennessee Ave	203	Town of Crewe	067	Nottoway County	0.13	67-1005 Fourth St	67-1038 Country Club Rd	150	R							X						04/13/2005
+757487	  67	01010	     	67-1010	E Maryland Ave	203	Town of Crewe	067	Nottoway County	0.08	67-1027 Meade St	67-1026 Powell St	120	R							X						04/18/2005
+757488	  67	01010	     	67-1010	E Maryland Ave	203	Town of Crewe	067	Nottoway County	0.25	67-1026 Powell St	67-1024 Russell St	220	R							X						04/18/2005
+757489	  67	01010	     	67-1010	E Maryland Ave	203	Town of Crewe	067	Nottoway County	0.22	67-1024 Russell	67-1022 Second St	160	R							X						04/18/2005
+757490	  67	01010	     	67-1010	E Maryland Ave	203	Town of Crewe	067	Nottoway County	0.07	67-1022 Second St	Dead End; Gap	46	R							X						04/18/2005
+757491	  67	01010	     	67-1010	E Maryland Ave	203	Town of Crewe	067	Nottoway County	0.13	67-1021 Gap	67-1005 Fourth St	80	R							X						04/18/2005
+757492	  67	01011	     	67-1011	E Pennsylvania Ave	203	Town of Crewe	067	Nottoway County	0.40	67-1026 Powell St	Dead End; Gap	430	R							X						06/09/2008
+757493	  67	01011	     	67-1011	E Pennsylvania	203	Town of Crewe	067	Nottoway County	0.10	Dead End; Gap	67-1005 Fourth St	70	R							X						06/09/2008
+757494	  67	01012	     	67-1012	Tucker Ave	203	Town of Crewe	067	Nottoway County	0.07	67-1030 Cabell St	67-1028 Mason St; Gap	80	R							X						06/09/2008
+757495	  67	01012	     	67-1012	Tucker Ave	203	Town of Crewe	067	Nottoway County	0.09	67-1027 Meade St; Gap	67-1026 Powell St	70	R							X						06/09/2008
+757496	  67	01013	     	67-1013	Oliver Ave	203	Town of Crewe	067	Nottoway County	0.22	67-1028 Mason St	67-1026 Powell St	70	R							X						06/09/2008
+757497	  67	01013	     	67-1013	Oliver Ave	203	Town of Crewe	067	Nottoway County	0.09	67-1026 Powell St	67-618 Carter St	60	R							X						06/09/2008
+757498	  67	01014	     	67-1014	Guy Ave	203	Town of Crewe	067	Nottoway County	0.27	Dead End	67-1026 Powell St	70	R							X						06/09/2008
+757499	  67	01015	     	67-1015	Gatewood Ave	203	Town of Crewe	067	Nottoway County	0.17	67-619 Tyler St	67-1039 Watson St	160	R							X						06/09/2008
+757500	  67	01015	     	67-1015	Gatewood Ave	203	Town of Crewe	067	Nottoway County	0.06	67-1039 Watson St	Dead End	10	R							X						06/09/2008
+757501	  67	01016	     	67-1016	Park Ave	203	Town of Crewe	067	Nottoway County	0.08	Dead End	67-1019 Atlantic St	45	R							X						06/09/2008
+757502	  67	01016	     	67-1016	Park Ave	203	Town of Crewe	067	Nottoway County	0.10	67-1019 Atlantic St	67-1025 Tyler St	150	R							X						06/09/2008
+757503	  67	01017	     	67-1017	Plant St	203	Town of Crewe	067	Nottoway County	0.10	67-1019 Atlantic St	67-1025 Tyler St	60	R							X						06/09/2008
+757504	  67	01018	     	67-1018	Walnut Ave	203	Town of Crewe	067	Nottoway County	0.09	67-1011, E Pennsylvania Ave	67-1019 Atlantic St	110	R							X						06/09/2008
+757505	  67	01019	     	67-1019	Atlantic St	203	Town of Crewe	067	Nottoway County	0.07	67-1018 Walnut Ave	67-1017 Plant St	50	R							X						06/09/2008
+757506	  67	01019	     	67-1019	Atlantic St	203	Town of Crewe	067	Nottoway County	0.05	67-1017 Plant St	67-1016 Park Ave	47	R							X						06/09/2008
+757507	  67	01020	     	67-1020	First St	203	Town of Crewe	067	Nottoway County	0.06	US 460 Virginia Ave	67-1020 Custis St	80	R							X						06/09/2008
+757508	  67	01020	     	67-1020	Custis St	203	Town of Crewe	067	Nottoway County	0.34	First St	67-1005 Fourth St	100	R							X						06/09/2008
+757509	  67	01021	     	67-1021	Third St	203	Town of Crewe	067	Nottoway County	0.21	67-1020 Custis St	67-1009, E Tennessee Ave	160	R							X						06/09/2008
+757510	  67	01021	     	67-1021	Third St	203	Town of Crewe	067	Nottoway County	0.07	67-1009, E Tennessee Ave	67-1010, E Maryland Ave	70	R							X						06/09/2008
+757511	  67	01022	     	67-1022	Second St	203	Town of Crewe	067	Nottoway County	0.06	67-1020 Custis St	US 460 Virginia Ave	110	R							X						04/13/2005
+757512	  67	01022	     	67-1022	Second St	203	Town of Crewe	067	Nottoway County	0.14	US 460 Virginia Ave	67-1009, E Tennessee Ave	810	R							X						04/13/2005
+757513	  67	01022	     	67-1022	Second St	203	Town of Crewe	067	Nottoway County	0.26	67-1009, E Tennessee Ave	67-1047 California Ave	830	R							X						04/13/2005
+757514	  67	01022	     	67-1022	Second St	203	Town of Crewe	067	Nottoway County	0.03	67-1047 California Ave	67-1050 Moncure St	300	R							X						04/13/2005
+757515	  67	01022	     	67-1022	Second St	203	Town of Crewe	067	Nottoway County	0.03	67-1050 Moncure St	Dead End	200	R							X						06/09/2008
+757517	  67	01023	     	67-1023	First St	203	Town of Crewe	067	Nottoway County	0.34	US 460 Virginia Ave	67-1046 Georgia Ave	330	R							X						06/09/2008
+757518	  67	01023	     	67-1023	First St	203	Town of Crewe	067	Nottoway County	0.06	67-1046 Georgia Ave	67-1047 California Ave	90	R							X						06/09/2008
+757519	  67	01024	     	67-1024	Russell St	203	Town of Crewe	067	Nottoway County	0.07	67-1048 Custis St	US 460 Virginia Ave	130	R							X						06/11/2008
+757520	  67	01024	     	67-1024	Russell St	203	Town of Crewe	067	Nottoway County	0.14	US 460 Virginia Ave	67-1009, E Tennessee Ave	860	R							X						06/11/2008
+757521	  67	01024	     	67-1024	Russell St	203	Town of Crewe	067	Nottoway County	0.06	67-1009, E Tennessee Ave	67-1010, E Maryland Ave	120	R							X						06/11/2008
+757522	  67	01025	     	67-1025	Tyler St	203	Town of Crewe	067	Nottoway County	0.14	US 460 Virginia Ave	67-1009 Tennessee Ave	2500	R							X						04/14/2005
+757523	  67	01025	     	67-1025	Tyler St	203	Town of Crewe	067	Nottoway County	0.24	67-1009 Tennessee Ave	67-1016 Park Ave	1700	R							X						04/14/2005
+757524	  67	01025	     	67-1025	Tyler St	203	Town of Crewe	067	Nottoway County	0.05	67-1016 Park Ave	67-618; 67-619	1600	R							X						04/14/2005
+757525	  67	01026	     	67-1026	Powell St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001 Carolina Ave	1100	R							X						04/14/2005
+757526	  67	01026	     	67-1026	Powell St	203	Town of Crewe	067	Nottoway County	0.43	67-1001 Carolina Ave	67-619 Tyler St	760	R							X						04/14/2005
+757527	  67	01027	     	67-1027	Meade St	203	Town of Crewe	067	Nottoway County	0.14	US 460 Virginia Ave	67-1009; 67-1028	410	R							X						06/09/2008
+757528	  67	01027	     	67-1027	Meade St	203	Town of Crewe	067	Nottoway County	0.10	67-1009; 67-1028	67-1012 Tucker Ave	240	R							X						06/09/2008
+757529	  67	01027	     	67-1027	Meade St	203	Town of Crewe	067	Nottoway County	0.14	67-1012 Tucker Ave	67-1014 Guy Ave	110	R							X						06/09/2008
+757530	  67	01028	     	67-1028	Mason St	203	Town of Crewe	067	Nottoway County	0.16	67-1009; 67-1027	67-1013 Oliver Ave	180	R							X						06/09/2008
+757531	  67	01029	     	67-1029	Nelson St	203	Town of Crewe	067	Nottoway County	0.18	67-1001; 67-1032	67-1028 Mason St	110	R							X						06/11/2008
+757532	  67	01030	     	67-1030	Cabell St	203	Town of Crewe	067	Nottoway County	0.06	67-1001 Carolina Ave	67-1029 Nelson St	100	R							X						06/11/2008
+757533	  67	01030	     	67-1030	Cabell St	203	Town of Crewe	067	Nottoway County	0.07	67-1029 Nelson St	67-1012 Tucker Ave	30	R							X						06/11/2008
+757534	  67	01031	     	67-1031	Lee St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001 Carolina Ave	48	R							X						06/11/2008
+757535	  67	01032	     	67-1032	Stratton St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001; 67-1029	70	R							X						06/11/2008
+757536	  67	01033	     	67-1033	Lipscomb St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001 Carolina Ave	460	R							X						06/11/2008
+757537	  67	01033	     	67-1033	Lipscomb St	203	Town of Crewe	067	Nottoway County	0.29	67-1001 Carolina Ave	Dead End	490	R							X						06/11/2008
+757538	  67	01034	     	67-1034	Berkelle St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001, W Carolina Ave	80	R							X						06/11/2008
+757539	  67	01034	     	67-1034	Berkelle St	203	Town of Crewe	067	Nottoway County	0.07	67-1001, W Carolina Ave	Dead End	40	R							X						06/11/2008
+757540	  67	01035	     	67-1035	Graves St	203	Town of Crewe	067	Nottoway County	0.20	US 460 Virginia Ave	Old NCL Crewe	70	R							X						06/11/2008
+757541	  67	01036	     	67-1036	Cary St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001, W Carolina Ave	48	R							X						06/11/2008
+757542	  67	01037	     	67-1037	Venable St	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001, W Carolina Ave	200	R							X						06/11/2008
+757543	  67	01038	     	67-1038	Country Club Rd	203	Town of Crewe	067	Nottoway County	0.07	US 460 Virginia Ave	67-1001, E Carolina Ave	450	R							X						06/09/2008
+757544	  67	01038	     	67-1038	Country Club Rd	203	Town of Crewe	067	Nottoway County	0.07	67-1001, E Carolina Ave	67-1009, E Tennessee Ave	210	R							X						06/09/2008
+757545	  67	01038	     	67-1038	Country Club Rd	203	Town of Crewe	067	Nottoway County	0.16	67-1009, E Tennessee Ave	Dead End	150	R							X						06/09/2008
+757546	  67	01039	     	67-1039	Watson St	203	Town of Crewe	067	Nottoway County	0.07	67-618 Carter St	67-1007 Rock Castle Ave	60	R							X						06/09/2008
+757547	  67	01039	     	67-1039	Watson St	203	Town of Crewe	067	Nottoway County	0.08	67-1007 Rock Castle Ave	67-1015 Gatewood Ave	50	R							X						06/09/2008
+757548	  67	01040	     	67-1040	W Tennessee Ave	203	Town of Crewe	067	Nottoway County	0.35	67-1002 Dade St	67-1043 Page St	80	R							X						04/14/2005
+757549	  67	01041	     	67-1041	Mayo St	203	Town of Crewe	067	Nottoway County	0.13	US 460 Virginia Ave	67-1040, W Tennessee Ave	110	R							X						06/11/2008
+757550	  67	01042	     	67-1042	Stith St	203	Town of Crewe	067	Nottoway County	0.13	US 460 Virginia Ave	67-1040 , W Tennessee Ave	200	R							X						06/11/2008
+757551	  67	01043	     	67-1043	Page St	203	Town of Crewe	067	Nottoway County	0.13	US 460 Virginia Ave	67-1040, W Tennessee Ave	200	R							X						04/14/2005
+757552	  67	01044	     	67-1044	Archer St	203	Town of Crewe	067	Nottoway County	0.41	67-630 Melody Lane	US 460 Virginia Ave	560	R							X						06/11/2008
+757554	  67	01046	     	67-1046	E Georgia Ave	203	Town of Crewe	067	Nottoway County	0.04	Dead End	67-1005 Fourth St	50	R							X						06/09/2008
+757555	  67	01046	     	67-1046	E Georgia Ave	203	Town of Crewe	067	Nottoway County	0.37	67-1005 Fourth St	67-1023 First St	110	R							X						06/09/2008
+757556	  67	01047	     	67-1047	E California Ave	203	Town of Crewe	067	Nottoway County	0.12	67-1023 First St	67-1022 Second St	70	R							X						06/09/2008
+757557	  67	01048	     	67-1048	Custis St	203	Town of Crewe	067	Nottoway County	0.06	End State Maintenance	67-1024 Russell St	20	R							X						06/11/2008
+757558	  67	01048	     	67-1048	Custis St	203	Town of Crewe	067	Nottoway County	0.04	67-1024 Russell St	Cul-de-Sac	10	R							X						06/11/2008
+757560	  67	01050	     	67-1050	Moncure St	203	Town of Crewe	067	Nottoway County	0.07	Dead End	67-1022 Second St	80	R							X						06/09/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

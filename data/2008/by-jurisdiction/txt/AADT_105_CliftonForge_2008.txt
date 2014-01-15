@@ -1,0 +1,62 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Clifton Forge																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+080324	  US	00060	     	I-64 EB, US 60, US 220	 	105	Town of Clifton Forge	003	Alleghany County	1.55	WCL Clifton Forge	ECL Clifton Forge	6300	F	75%	1%	1%	1%	22%	1%	F				5900	F	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+619018	C1US	00060	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.27	WCL Clifton Forge	6th St	8100	F	98%	0%	1%	0%	0%	0%	F	0.0869	F	0.0000	8500	F	2008
+619019	C1US	00060	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.61	6th St	Roxbury St	8800	F	98%	0%	1%	0%	0%	0%	C	0.0872	F	0.0000	9200	F	2008
+619020	C1US	00060	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.14	Roxbury St	Commercial Ave	4800	F	98%	0%	1%	0%	0%	0%	F	0.0970	F	0.0000	5100	F	2008		8800	F	98%	0%	1%	0%	1%	0%	F	0.0903	F	0.0000	9300	F
+619024	C1US	00060	     	Bus US 60, Bus US 220, VA 188, VA 188 Par	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Commercial Ave	Main St	4900	G	97%	1%	2%	0%	1%	0%	C	0.0970	N	0.0000	4900	G	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+619012	C1US	00060	     	Bus US 60, Bus US 220	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.26	Ridgeway St	B St	7800	F	97%	1%	1%	0%	1%	0%	C	0.0886	F	0.0000	8200	F	2008
+619013	C1US	00060	     	Bus US 60, Bus US 220	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.06	B St	Bus US 220	6500	F	96%	1%	2%	0%	1%	0%	C	0.0904	F	0.0000	6800	F	2008
+080627	C1US	00060	     	Bus US 60	 	105	Town of Clifton Forge	105	Town of Clifton Forge	0.87	US 220 Bus	ECL Clifton Forge	5700	F	99%	0%	1%	0%	0%	0%	C	0.0954	F	0.0000	6000	F	2008
+619022	C1US	00060	P    	Bus US 60 Par, Bus US 220	Roxbury St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.05	Ridgeway St	Kesswick St	5500	F	98%	1%	1%	0%	1%	0%	C	0.0846	F	0.0000	5800	F	2008
+619010	C1US	00060	P    	Bus US 60 Par, Bus US 220	Kesswick St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.14	Roxbury St	Main St	4000	F	98%	0%	0%	0%	1%	0%	C	0.0892	F	1.0000	4200	F	2008		8800	F	98%	0%	1%	0%	1%	0%	F	0.0903	F	0.0000	9300	F
+619015	C1US	00060	P    	Bus US 60 Par, Bus US 220, VA 188	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Kesswick St	Ridgeway Street	4100	F	98%	0%	1%	0%	1%	0%	C	0.0861	F	0.0000	4200	F	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+080324	  IS	00064	E    	I-64 EB, US 60, US 220	 	105	Town of Clifton Forge	003	Alleghany County	1.55	WCL Clifton Forge	ECL Clifton Forge	6300	F	75%	1%	1%	1%	22%	1%	F				5900	F	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+880049	  IS	00064	W    	I-64 WB, US 60, US 220	 	105	Town of Clifton Forge	003	Alleghany County	1.55	WCL Clifton Forge	ECL Clifton Forge	6000	G	75%	1%	1%	1%	22%	1%	F				5800	G	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+619015	  SR	00188	     	Bus US 60 Par, Bus US 220, VA 188	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Ridgeway St	Keswick St	4100	F	98%	0%	1%	0%	1%	0%	C	0.0861	F	0.0000	4200	F	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+619014	  SR	00188	     	VA 188	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.05	US 60 Par, Keswick St	McCormick Blvd	280	F	99%	0%	1%	0%	0%	0%	F	0.1380	F	1.0000	300	F	2008		2600	F	95%	1%	2%	0%	1%	0%	F	0.0982	F	0.0000	2800	F
+619017	  SR	00188	     	VA 188	McCormick Blvd	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Main St	SR 188 Par, Church St	270	F	98%	1%	1%	0%	0%	0%	C	0.1346	F	1.0000	300	F	2008		1700	F	98%	0%	1%	1%	0%	0%	C	0.1125	F	0.0000	1800	F
+619016	  SR	00188	     	VA 188	McCormick Blvd	105	Town of Clifton Forge	105	Town of Clifton Forge	0.23	SR 188 Par, Church St	Lafayette St	770	F	99%	0%	1%	0%	0%	0%	C	0.1041	F	0.5698	830	F	2008
+619011	  SR	00188	     	VA 188	Lafayette St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	McCormick Blvd	Rose Ave	250	F	99%	0%	1%	0%	0%	0%	C	0.1292	F	0.6615	270	F	2008
+619021	  SR	00188	     	VA 188	Rose Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.22	Lafayette St	Tremont St	600	F	97%	1%	2%	0%	0%	0%	C	0.1002	F	0.5156	650	F	2008
+619026	  SR	00188	     	VA 188	Tremont St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.03	Rose Ave	Sioux Ave	600	F	97%	1%	2%	0%	0%	0%	C	0.1002	F	0.5156	650	F	2008
+619025	  SR	00188	     	VA 188	Sioux Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.17	Tremont St	105-3551 Sioux Ave	600	F	97%	1%	2%	0%	0%	0%	C	0.1002	F	0.5156	650	F	2008
+619024	 1SR	00188	P    	Bus US 60, Bus US 220, VA 188, VA 188 Par	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Main St	Bus US 60 Commercial Ave	4900	G	97%	1%	2%	0%	1%	0%	C	0.0970	N	0.0000	4900	G	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+619001	 1SR	00188	P    	VA 188 Par	Commercial Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.05	Bus US 60, Ridgeway	US 60 Par, Main Street	1400	F	97%	0%	1%	1%	0%	0%	F	0.1047	F	0.6598	1500	F	2008
+619003	 1SR	00188	P    	VA 188 Par	Commercial Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.06	Bus US 60 Par, Main Street	Church Street	2300	F	95%	1%	3%	0%	1%	0%	C	0.0977	F	0.6759	2500	F	2008		2600	F	95%	1%	2%	0%	1%	0%	F	0.0982	F	0.0000	2800	F
+180091	 1SR	00188	P    	VA 188 Par	Church St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Commercial Ave	SR 188 McCormick Blvd	1400	F	97%	0%	1%	1%	0%	0%	C	0.1073	F	0.6131	1500	F	2008		1700	F	98%	0%	1%	1%	0%	0%	C	0.1125	F	0.0000	1800	F
+880049	  US	00220	     	I-64 WB, US 60, US 220	 	105	Town of Clifton Forge	003	Alleghany County	1.55	ECL Clifton Forge	WCL Clifton Forge	6000	G	75%	1%	1%	1%	22%	1%	F				5800	G	2008		12000	G	75%	1%	1%	1%	22%	1%	F				12000	G
+080625	C1US	00220	     	Bus US 220	 	105	Town of Clifton Forge	105	Town of Clifton Forge	0.70	SCL Clifton Forge	Bus US 60	1800	F	95%	0%	1%	1%	2%	0%	C	0.0987	F	0.5855	1900	F	2008
+619013	C1US	00220	     	Bus US 60, Bus US 220	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.06	Bus US 60	B ST	6500	F	96%	1%	2%	0%	1%	0%	C	0.0904	F	0.0000	6800	F	2008	
+619012	C1US	00220	     	Bus US 60, Bus US 220	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.26	B ST	Ridgeway St	7800	F	97%	1%	1%	0%	1%	0%	C	0.0886	F	0.0000	8200	F	2008	
+619015	C1US	00220	     	Bus US 60 Par, Bus US 220, VA 188	Main St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.07	Ridgeway St	Keswick St	4100	F	98%	0%	1%	0%	1%	0%	C	0.0861	F	0.0000	4200	F	2008		8900	G	97%	1%	1%	0%	1%	0%	C				9100	G
+619010	C1US	00220	     	Bus US 60 Par, Bus US 220	Kesswick St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.14	Main St	Roxbury St	4000	F	98%	0%	0%	0%	1%	0%	C	0.0892	F	1.0000	4200	F	2008		8800	F	98%	0%	1%	0%	1%	0%	F	0.0903	F	0.0000	9300	F
+619022	C1US	00220	     	Bus US 60 Par, Bus US 220	Roxbury St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.05	Keswick St	Ridgeway St	5500	F	98%	1%	1%	0%	1%	0%	C	0.0846	F	0.0000	5800	F	2008	
+619019	C1US	00220	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.61	Roxbury St	6th St	8800	F	98%	0%	1%	0%	0%	0%	C	0.0872	F	0.0000	9200	F	2008	
+619018	C1US	00220	     	Bus US 60, Bus US 220	Ridgeway St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.27	6th St	WCL Clifton Forge	8100	F	98%	0%	1%	0%	0%	0%	F	0.0869	F	0.0000	8500	F	2008	
+780444	  FR	00206	     	FR 206	 	105	Town of Clifton Forge	003	Alleghany County	0.05	Dead End	Dead End	290	R							X						07/24/2008
+780445	  FR	00207	     	FR 207	Holly Hill Rd	105	Town of Clifton Forge	003	Alleghany County	0.34	105-3551 Sioux Ave	Dead End	80	R							X						07/24/2008
+781617	 105	03550	     	105-3550	Church St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.12	1SR 188-P Commercial Street	105-3553 Jefferson Ave	1900	F	99%	0%	1%	0%	0%	0%	C	0.1155	F	0.5651	2000	F	2008
+619002	 105	03550	     	105-3550	Church St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.33	Jefferson St	A Street	1700	F	97%	1%	1%	0%	0%	0%	C	0.1132	F	0.6859	1700	F	2008
+619023	 105	03551	     	105-3551	Sioux Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.25	SR 188; I-64	NCL Clifton Forge; 03-606	500	F	98%	1%	1%	0%	0%	0%	C	0.1115	F	0.5439	530	F	2008
+619005	 105	03553	     	105-3553	Jefferson Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.06	US 60 Main St	Church Street	1800	F	98%	0%	1%	0%	1%	0%	C	0.0956	F	0.6440	1900	F	2008
+619006	 105	03553	     	105-3553	Jefferson Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.21	Church St	Lowell St	2100	F	98%	1%	1%	0%	0%	0%	C	0.0909	F	0.5490	2200	F	2008
+619007	 105	03553	     	105-3553	Jefferson Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.15	Lowell St	Kensington Ave	1800	F	98%	1%	1%	0%	0%	0%	C	0.0990	F	0.5635	1900	F	2008
+619008	 105	03553	     	105-3553	Jefferson Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.31	Kensington Ave	Benton St	1400	F	99%	0%	0%	0%	0%	0%	C	0.1028	F	0.5696	1500	F	2008
+619009	 105	03553	     	105-3553	Jefferson Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.09	Benton St	Ingalls St	1100	F	99%	0%	0%	0%	0%	0%	F	0.0958	F	0.5217	1200	F	2008
+619004	 105	03555	     	105-3555	Ingalls St	105	Town of Clifton Forge	105	Town of Clifton Forge	1.15	Main Street	Jefferson Ave	610	F	97%	1%	1%	0%	0%	0%	C	0.0957	F	0.5385	640	F	2008
+519001	 105	00000	     	105-0	A St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Church St	US 60	1500	G	98%	1%	1%	0%	0%	0%	C	0.0975	F	0.0000	1500	G	2008
+519003	 105	00000	     	105-0	A St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	NCSX RR	US 60 Main Street	2500	F	96%	1%	1%	0%	2%	0%	C	0.0969	F	0.5723	2500	F	2008
+519007	 105	00000	     	105-0	Alleghany St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	3rd St.	2nd St.	170	G							X				170	G	2008
+519005	 105	00000	     	105-0	Chestnut St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Oak Hill Avenue	ECL Clifton Forge	350	G							X				350	G	2008
+519010	 105	00000	     	105-0	Church St	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Rose Ave	McCormick Blvd	1600	G	98%	1%	1%	0%	0%	0%	C	0.0957	F	0.0000	1600	G	2008
+519009	 105	00000	     	105-0	Commercial Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Revere St.	I-64	320	F							X	0.1173	F	0.5366	320	F	2008
+519004	 105	00000	     	105-0	Jefferson Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Ingalls St	Jackson Street	620	F							X	0.0976	F	0.5238	620	F	2008
+519008	 105	00000	     	105-0	Oak Hill Avenue	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	US 60	Chestnut Street	1300	F							X	0.1008	F	0.6113	1300	F	2008
+519006	 105	00000	     	105-0	Rose Ave	105	Town of Clifton Forge	105	Town of Clifton Forge	0.00	Church St	Lafayette St	1200	G							X				1200	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

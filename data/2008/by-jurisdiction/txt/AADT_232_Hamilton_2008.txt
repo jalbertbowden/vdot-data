@@ -1,0 +1,21 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Hamilton																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+190147	C3SR	00007	     	Bus VA 7	West Colonial Hwy	232	Town of Hamilton	053	Loudoun County	0.96	WCL Hamilton	ECL Hamilton	8600	N	96%	2%	1%	1%	0%	0%	N	0.1273	N	0.0000	9200	N	2008
+785144	  53	00709	     	53-709	Hughes St S	232	Town of Hamilton	053	Loudoun County	0.11	SCL Hamilton	SR 7 W, West Colonial	780	N							X				0	N	1999
+750063	  53	00709	     	53-709	Ivandale Rd	232	Town of Hamilton	053	Loudoun County	0.16	SR 7 E, West Colonial	NCL Hamilton	1300	R							X						1999
+785146	  53	00710	     	53-710	S Saint Paul St	232	Town of Hamilton	053	Loudoun County	0.19	SCL Hamilton	SR 7 BUS; West Colonial	1000	N							X				0	N	1999
+750403	  53	01101	     	53-1101	S Kerr St	232	Town of Hamilton	053	Loudoun County	0.10	Dead End	Bus SR 7, West Colonial Hwy	600	R							X						1999
+750404	  53	01102	     	53-1102	N Laycock St	232	Town of Hamilton	053	Loudoun County	0.16	Bus SR 7, West Colonial Hwy	NCL Hamilton	680	R							X						1999
+750408	  53	01103	     	53-1103	 	232	Town of Hamilton	053	Loudoun County	0.17	SCL Hamilton	Bus SR 7, West Colonial Hwy	480	R							X						1999
+750409	  53	01103	     	53-1103	Rogers St	232	Town of Hamilton	053	Loudoun County	0.16	Bus SR 7,  West Colonial Hwy	53-1105 West Virginia Ave	120	R							X						03/02/2002
+750410	  53	01104	     	53-1104	N Tavenner Lane	232	Town of Hamilton	053	Loudoun County	0.04	SR 7 BUS, West Colonial Hwy	Dead End	40	R							X						1999
+750412	  53	01105	     	53-1105	West Virginia Ave	232	Town of Hamilton	053	Loudoun County	0.12	53-1102, N Laycock St	53-1103 Rogers St	90	R							X						02/02/2002
+750414	  53	01107	     	53-1107	S James St	232	Town of Hamilton	053	Loudoun County	0.10	SCL Hamilton	Bus SR 7, West Colonial Hwy	120	R							X						1992
+750417	  53	01110	     	53-1110	Sydner St	232	Town of Hamilton	053	Loudoun County	0.11	Bus SR 7,  West Colonial Hwy	Cul-de-Sac	330	R							X						1999
+750418	  53	01111	     	53-1111	Orchard Circle	232	Town of Hamilton	053	Loudoun County	0.04	Bus SR 7, West Colonial Hwy	NCL Hamilton	820	R							X						1999
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,76 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Federal																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+781293	  SR	00004	     	VA 4	Buggs Island Rd	058	Mecklenburg County	US 	Federal	0.53	South End of John H. Kerr Dam	North End of John H. Kerr Dam	690	N	94%	1%	2%	0%	3%	0%	N	0.1181	N	0.6471	750	N	2008
+787353	  SR	00048	     	VA 48	Blue Ridge Parkway	038	Grayson County	US 	Federal	1.13	North Carolina State Line	SR 89	560	O							X						2008
+795374	  SR	00048	     	VA 48	Blue Ridge Parkway	038	Grayson County	US 	Federal	3.56	SR 89	Grayson County Line	560	O							X						2008
+787354	  SR	00048	     	VA 48	Blue Ridge Parkway	017	Carroll County	US 	Federal	12.75	Grayson County Line	US 52	660	O							X						2008
+787482	  SR	00048	     	VA 48	Blue Ridge Parkway	017	Carroll County	US 	Federal	15.59	US 52	Patrick County Line	890	O							X						2008
+787355	  SR	00048	     	VA 48	Blue Ridge Parkway	070	Patrick County	US 	Federal	6.33	Carroll County Line	US 58	690	O							X						2008
+787483	  SR	00048	     	VA 48	Blue Ridge Parkway	070	Patrick County	US 	Federal	0.42	US 58	Floyd County Line	1000	O							X						2008
+787475	  SR	00048	     	VA 48	Blue Ridge Parkway	031	Floyd County	US 	Federal	5.92	Patrick County Line	Patrick County Line	1000	O							X						2008
+787476	  SR	00048	     	VA 48	Blue Ridge Parkway	070	Patrick County	US 	Federal	0.88	Floyd County Line	Floyd County Line	820	O							X						2008
+787356	  SR	00048	     	VA 48	Blue Ridge Parkway	031	Floyd County	US 	Federal	5.23	Patrick County Line	SR 8	820	O							X						2008
+787484	  SR	00048	     	VA 48	Blue Ridge Parkway	031	Floyd County	US 	Federal	11.62	SR 8	Franklin County Line	550	O							X						2008
+787357	  SR	00048	     	VA 48	Blue Ridge Parkway	033	Franklin County	US 	Federal	1.51	Floyd County Line	Floyd County Line	550	O							X						2008
+787358	  SR	00048	     	VA 48	Blue Ridge Parkway	031	Floyd County	US 	Federal	16.05	Franklin County Line	US 221	510	O							X						2008
+787485	  SR	00048	     	VA 48	Blue Ridge Parkway	031	Floyd County	US 	Federal	0.03	US 221	Roanoke County Line	510	O							X						2008
+787359	  SR	00048	     	VA 48	Blue Ridge Parkway	080	Roanoke County	US 	Federal	14.69	Floyd County Line	US 220	510	O							X						2008
+795363	  SR	00048	     	VA 48	Blue Ridge Parkway	080	Roanoke County	US 	Federal	2.12	US 220	Urban Boundary	2400	O							X						2008
+787486	  SR	00048	     	VA 48	Blue Ridge Parkway	080	Roanoke County	US 	Federal	6.67	Urban Boundary	SR 24	2400	O							X						2008
+787487	  SR	00048	     	VA 48	Blue Ridge Parkway	080	Roanoke County	US 	Federal	3.64	SR 24	Botetourt County Line	2400	O							X						2008
+787360	  SR	00048	     	VA 48	Blue Ridge Parkway	011	Botetourt County	US 	Federal	2.97	Roanoke County Line	US 221, US 460	2400	O							X						2008
+787488	  SR	00048	     	VA 48	Blue Ridge Parkway	011	Botetourt County	US 	Federal	12.72	US 221, US 460	Bedford County Line	530	O							X						2008
+787361	  SR	00048	     	VA 48	Blue Ridge Parkway	009	Bedford County	US 	Federal	2.18	Botetourt County Line	SR 43	530	O							X						2008
+787489	  SR	00048	     	VA 48	Blue Ridge Parkway	009	Bedford County	US 	Federal	1.80	SR 43	Botetourt County Line	840	O							X						2008
+787362	  SR	00048	     	VA 48	Blue Ridge Parkway	011	Botetourt County	US 	Federal	3.11	Bedford County Line	SR 43	840	O							X						2008
+787490	  SR	00048	     	VA 48	Blue Ridge Parkway	011	Botetourt County	US 	Federal	11.28	SR 43	Bedford County Line	290	O							X						2008
+787363	  SR	00048	     	VA 48	Blue Ridge Parkway	009	Bedford County	US 	Federal	10.61	Botetourt County Line	US 501	290	O							X						2008
+787491	  SR	00048	     	VA 48	Blue Ridge Parkway	009	Bedford County	US 	Federal	0.19	US 501	Amherst County Line	520	O							X						2008
+787364	  SR	00048	     	VA 48	Blue Ridge Parkway	005	Amherst County	US 	Federal	2.38	Bedford County Line	SR 130	520	O							X						2008
+787492	  SR	00048	     	VA 48	Blue Ridge Parkway	005	Amherst County	US 	Federal	15.86	SR 130	Rockbridge County Line	280	O							X						2008
+787365	  SR	00048	     	VA 48	Blue Ridge Parkway	081	Rockbridge County	US 	Federal	0.15	Amherst County Line	US 60	280	O							X						2008
+787493	  SR	00048	     	VA 48	Blue Ridge Parkway	081	Rockbridge County	US 	Federal	18.29	US 60	Nelson County Line	300	O							X						2008
+787366	  SR	00048	     	VA 48	Blue Ridge Parkway	062	Nelson County	US 	Federal	0.08	Rockbridge County Line	SR 56	300	O							X						2008
+787494	  SR	00048	     	VA 48	Blue Ridge Parkway	062	Nelson County	US 	Federal	11.09	SR 56	Augusta County Line	390	O							X						2008
+787367	  SR	00048	     	VA 48	Blue Ridge Parkway	007	Augusta County	US 	Federal	15.97	Nelson County Line	US 250	480	O							X						2008
+787368	  SR	00048	     	VA 48	Skyline Dr	007	Augusta County	US 	Federal	18.17	US 250	Albemarle County Line	390	O							X						2008
+787369	  SR	00048	     	VA 48	Skyline Dr	002	Albemarle County	US 	Federal	3.65	Augusta County Line	Rockingham County Line	390	O							X						2008
+787370	  SR	00048	     	VA 48	Skyline Dr	082	Rockingham County	US 	Federal	8.44	Albemarle County Line	Greene County Line	390	O							X						2008
+787371	  SR	00048	     	VA 48	Skyline Dr	039	Greene County	US 	Federal	2.08	Rockingham County Line	Rockingham County Line	390	O							X						2008
+787372	  SR	00048	     	VA 48	Skyline Dr	082	Rockingham County	US 	Federal	3.26	Greene County Line	Greene County Line	390	O							X						2008
+787373	  SR	00048	     	VA 48	Skyline Dr	039	Greene County	US 	Federal	1.33	Rockingham County Line	Rockingham County Line	390	O							X						2008
+787374	  SR	00048	     	VA 48	Skyline Dr	082	Rockingham County	US 	Federal	1.93	Greene County Line	Greene County Line	390	O							X						2008
+787375	  SR	00048	     	VA 48	Skyline Dr	039	Greene County	US 	Federal	1.01	Rockingham County Line	Rockingham County Line	390	O							X						2008
+787376	  SR	00048	     	VA 48	Skyline Dr	082	Rockingham County	US 	Federal	0.10	Greene County Line	US 33	390	O							X						2008
+787495	  SR	00048	     	VA 48	Skyline Dr	082	Rockingham County	US 	Federal	2.69	US 33	Greene County Line	800	O							X						2008
+787377	  SR	00048	     	VA 48	Skyline Dr	039	Greene County	US 	Federal	1.33	Rockingham County Line	Rockingham County Line	800	O							X						2008
+787378	  SR	00048	     	VA 48	Skyline Dr	082	Rockingham County	US 	Federal	2.53	Greene County Line	Page County Line	800	O							X						2008
+787379	  SR	00048	     	VA 48	Skyline Dr	069	Page County	US 	Federal	7.77	Rockingham County Line	Madison County Line	800	O							X						2008
+787380	  SR	00048	     	VA 48	Skyline Dr	056	Madison County	US 	Federal	14.77	Page County Line	Rappahannock County Line	800	O							X						2008
+787381	  SR	00048	     	VA 48	Skyline Dr	078	Rappahannock County	US 	Federal	4.99	Madison County Line	Page County Line	800	O							X						2008
+787382	  SR	00048	     	VA 48	Skyline Dr	069	Page County	US 	Federal	0.06	Rappahannock County Line	US 211	800	O							X						2008
+787496	  SR	00048	     	VA 48	Skyline Dr	069	Page County	US 	Federal	3.01	US 211	Rappahannock County Line	650	O							X						2008
+787383	  SR	00048	     	VA 48	Skyline Dr	078	Rappahannock County	US 	Federal	4.41	Page County Line	Page County Line	650	O							X						2008
+787384	  SR	00048	     	VA 48	Skyline Dr	069	Page County	US 	Federal	2.09	Rappahannock County Line	Rappahannock County Line	650	O							X						2008
+787385	  SR	00048	     	VA 48	Skyline Dr	078	Rappahannock County	US 	Federal	5.92	Page County Line	Warren County Line	650	O							X						2008
+787386	  SR	00048	     	VA 48	Skyline Dr	093	Warren County	US 	Federal	1.69	Rappahannock County Line	Rappahannock County Line	650	O							X						2008
+787387	  SR	00048	     	VA 48	Skyline Dr	078	Rappahannock County	US 	Federal	3.87	Warren County Line	Warren County Line	650	O							X						2008
+787388	  SR	00048	     	VA 48	Skyline Dr	093	Warren County	US 	Federal	10.47	Rappahannock County Line	US 340; Front Royal	650	O							X						2008
+636017	  SR	00143	     	VA 143	Ingalls Rd	114	City of Hampton	US 	Federal	0.28	US 258 Mercury Blvd	Begin State Maintenance	4700	G	99%	1%	0%	0%	0%	0%	C	0.1381	F	0.8890	5100	G	2008
+787247	  SR	90003	     	VA 90003	Colonial Parkway	047	James City County	US 	Federal	8.05	Jamestown Visitor Center	Williamsburg Corporate Limit	2400	O							X						2008
+580001	  SR	90003	     	VA 90003	Colonial Parkway	137	City of Williamsburg	US 	Federal	3.20	James City County Line	York County Line	4700	O							X						2008
+787389	  SR	90003	     	VA 90003	Colonial Parkway	099	York County	US 	Federal	10.77	Williamsburg Corporate Limit	US 17	6000	O							X						2008
+796562	  SR	90003	     	VA 90003	Colonial Parkway	099	York County	US 	Federal	0.59	US 17	99-1020, Moore House Rd; Yorktown Visitor Center	2200	O							X						2008
+787248	  SR	90004	     	VA 90004	Dulles Access Rd	053	Loudoun County	US 	Federal	0.71	Washington Dulles International Airport	Fairfax County Line	44000	O							X						2008
+787390	  SR	90004	     	VA 90004	Dulles Access Rd	029	Fairfax County	US 	Federal	12.94	Loudoun County Line	SR 267 Dulles Toll Road, McLean	44000	O							X						2008
+787249	  SR	90005	     	VA 90005	George Washington Memorial Parkway	029	Fairfax County	US 	Federal	8.44	SR 235 Mount Vernon Memorial Hwy	SCL Alexandria	16000	O							X						2008
+787391	  SR	90005	     	VA 90005	George Washington Memorial Parkway	100	City of Alexandria	US 	Federal	1.81	1st Street	NCL Alexandria	49000	O							X						2008
+787392	  SR	90005	     	VA 90005	George Washington Memorial Parkway	000	Arlington County	US 	Federal	5.56	NCL Alexandria	00-6741 Spout Run Parkway	62000	O							X						2008
+789772	  SR	90005	     	VA 90005	George Washington Memorial Parkway	000	Arlington County	US 	Federal	3.10	00-6741 Spout Run Parkway	Fairfax County Line	71000	O							X						2008
+787393	  SR	90005	     	VA 90005	George Washington Memorial Parkway	029	Fairfax County	US 	Federal	4.62	Arlington County Line	I-495 Capital Beltway	53000	O							X						2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

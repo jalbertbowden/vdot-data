@@ -1,0 +1,22 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Manassas Park																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+648436	  SR	00028	     	VA 28	Centreville Rd	152	City of Manassas Park	152	City of Manassas Park	0.01	Prince William County Line	Liberia Ave	29000	N	97%	1%	1%	1%	1%	0%	N	0.0702	N	0.5118	32000	N	2008
+648428	  SR	00028	     	VA 28	Centreville Rd	152	City of Manassas Park	152	City of Manassas Park	0.31	Liberia Ave	ECL Manassas	45000	G	97%	1%	1%	1%	1%	0%	F	0.0638	F	0.5678	49000	G	2008
+649501	  SR	00213	     	VA 213	Manassas Dr	152	City of Manassas Park	152	City of Manassas Park	0.04	WCL Manassas Park, 76-1501	Baker St	8500	G	97%	1%	2%	0%	0%	0%	F	0.0911	F	0.5132	9300	G	2008
+649502	  SR	00213	     	VA 213	Manassas Dr	152	City of Manassas Park	152	City of Manassas Park	1.16	Baker St	152-4402 Cabbel Dr	8000	G	97%	1%	2%	0%	0%	0%	C	0.0842	F	0.5490	8600	G	2008
+649503	  SR	00213	     	VA 213	Manassas Dr	152	City of Manassas Park	152	City of Manassas Park	0.69	152-4402 Cabbel Dr	SR 28 Centreville Rd	11000	G	97%	1%	2%	0%	0%	0%	F	0.0846	F	0.6032	12000	G	2008
+649511	 152	00001	     	152-1	Manassas Dr	152	City of Manassas Park	152	City of Manassas Park	0.41	SR 28 Centreville Rd	Euclid Ave	27000	G	98%	1%	1%	0%	0%	0%	F	0.0759	F	0.5243	29000	G	2008
+649512	 152	00001	     	152-1	Manassas Dr	152	City of Manassas Park	152	City of Manassas Park	1.45	Euclid Ave	152-3 Carondelet Dr West	16000	G	98%	1%	1%	0%	0%	0%	C	0.0936	F	0.6641	17000	G	2008
+790880	 152	00002	     	152-2	Digital Dr	152	City of Manassas Park	152	City of Manassas Park	0.43	152-1 Manassas Dr	152-3 Carondelet Dr West	3100	G	98%	0%	1%	0%	0%	0%	C	0.0800	F	0.7672	3400	G	2008
+790881	 152	00003	     	152-3	Carondelet Dr West	152	City of Manassas Park	152	City of Manassas Park	0.43	152-2 Digital Dr	152-1 Manasass Dr	880	G	97%	1%	2%	0%	0%	0%	C	0.0916	F	0.6395	950	G	2008
+649508	 152	04401	     	152-4401	Denver Dr	152	City of Manassas Park	152	City of Manassas Park	0.35	Manassas Dr	NCL Manassas Park	4000	G	98%	0%	1%	0%	0%	0%	C	0.0913	F	0.5448	4300	G	2008
+649506	 152	04402	     	152-4402	Cabbel Dr	152	City of Manassas Park	152	City of Manassas Park	0.71	Kent Dr	Manassas Dr	1200	G	98%	0%	1%	0%	0%	0%	C	0.0925	F	0.5630	1300	G	2008
+649507	 152	04402	     	152-4402	Cabbel Dr	152	City of Manassas Park	152	City of Manassas Park	0.37	Manassas Dr	ECL Manassas	450	G	98%	0%	1%	0%	0%	0%	F	0.1005	F	0.5306	490	G	2008
+549002	 152	00000	     	152-0	Martin Dr	152	City of Manassas Park	152	City of Manassas Park	0.00	Courtney Dr	Manassas Dr	360	G							X	0.1172	F	0.0000	360	G	2008
+549001	 152	00000	     	152-0	Tremont St	152	City of Manassas Park	152	City of Manassas Park	0.00	Denver Dr	Colburn Dr	230	G							X	0.0930	F	0.6000	250	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

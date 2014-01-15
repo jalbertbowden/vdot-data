@@ -1,0 +1,43 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Altavista																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+603014	C4US	00029	     	Bus US 29	Main St	162	Town of Altavista	015	Campbell County	0.29	NCL Hurt	SR 43; Bedford Ave	5800	N	98%	0%	1%	0%	1%	0%	N	0.0939	N	0.5789	6300	N	2008
+603003	C4US	00029	     	Bus US 29	Main St	162	Town of Altavista	015	Campbell County	0.34	SR 43; Bedford Ave	Pittsylvania Ave	8400	G	98%	0%	1%	0%	1%	0%	F	0.0870	F	0.5016	9100	G	2008
+603006	C4US	00029	     	Bus US 29	Main St	162	Town of Altavista	015	Campbell County	0.30	Pittsylvania Ave	Amherst Ave	12000	G	98%	0%	1%	0%	1%	0%	F	0.0767	F	0.5641	13000	G	2008
+603201	C4US	00029	     	Bus US 29	Main St	162	Town of Altavista	015	Campbell County	0.49	Amherst Ave	Wood Lane	12000	G	96%	0%	1%	0%	2%	0%	F	0.0788	F	0.5418	13000	G	2008
+603202	C4US	00029	     	Bus US 29	Main St	162	Town of Altavista	015	Campbell County	0.64	Wood Lane	Lynch Mill Rd	12000	G	96%	0%	1%	0%	2%	0%	C	0.0819	F	0.5282	13000	G	2008
+603008	C4US	00029	     	Bus US 29	Main St	162	Town of Altavista	015	Campbell County	1.36	Lynch Mill Rd	NCL Altavista	8400	G	96%	0%	1%	0%	2%	0%	F	0.0802	F	0.5729	9100	G	2008
+603002	  SR	00043	     	VA 43	Bedford Hwy	162	Town of Altavista	015	Campbell County	0.49	Main Street	Myrtle Lane	5000	G	97%	1%	1%	1%	1%	0%	F	0.0935	F	0.6704	5400	G	2008
+603203	  SR	00043	     	VA 43	Bedford Hwy	162	Town of Altavista	015	Campbell County	0.50	Myrtle Lane	Broad Street	4300	G	97%	1%	1%	1%	1%	0%	F	0.0961	F	0.5318	4600	G	2008
+603012	  SR	00043	     	VA 43	Bedford Hwy	162	Town of Altavista	015	Campbell County	0.59	Broad Street	WCL Altavista	3700	G	97%	1%	1%	1%	1%	0%	C	0.0898	F	0.5146	4000	G	2008
+709625	  15	09489	     	15-9489	Ninth St;  Altavista High School	162	Town of Altavista	015	Campbell County	0.14	Dead End	SR 43 Bedford Ave	630	R							X						05/01/2007
+603204	 162	00001	     	162-1	7th St	162	Town of Altavista	162	Town of Altavista	0.43	SR 43 Bedford Ave	Franklin Ave	3900	G	99%	0%	0%	0%	0%	0%	C	0.0953	F	0.5159	4200	G	2008
+603005	 162	00001	     	162-1	7th St	162	Town of Altavista	162	Town of Altavista	0.44	Franklin Ave	Lola Ave	2800	G	99%	0%	0%	0%	0%	0%	F	0.0952	F	0.5134	3100	G	2008
+603205	 162	00001	     	162-1	7th St	162	Town of Altavista	162	Town of Altavista	0.50	Lola Ave	Bus US 29	1400	G	99%	0%	0%	0%	0%	0%	F	0.0963	F	0.5813	1500	G	2008
+603206	 162	00002	     	162-2	11th St	162	Town of Altavista	162	Town of Altavista	0.10	SR 43 Bedford Ave	Broad St	270	G	98%	0%	1%	0%	0%	0%	C	0.0997	F	0.6129	290	G	2008
+603700	 162	00003	     	162-3	12th St	162	Town of Altavista	162	Town of Altavista	0.08	Dead End	Franklin Ave	100	G							X	0.1434	F	0.5000	110	G	2008
+603208	 162	00004	     	162-4	Avondale Dr	162	Town of Altavista	162	Town of Altavista	0.17	Lola Ave Ext	Frazier Rd	2100	G	97%	2%	1%	0%	0%	0%	F	0.1085	F	0.7751	2300	G	2008
+603209	 162	00004	     	162-4	Avondale Dr	162	Town of Altavista	162	Town of Altavista	0.60	Frazier Rd	Ogden Rd	390	G	97%	2%	1%	0%	0%	0%	C	0.0998	F	0.5814	430	G	2008
+603013	 162	00005	     	162-5	Broad St	162	Town of Altavista	162	Town of Altavista	0.13	10th St	Lynch Rd	210	G	95%	2%	2%	0%	0%	0%	C	0.1111	F	0.5385	220	G	2008
+603211	 162	00006	     	162-6	Franklin Ave	162	Town of Altavista	162	Town of Altavista	0.07	Bus US 29 Main St	7th St	1100	G	99%	0%	0%	1%	0%	0%	F	0.0975	F	0.5123	1200	G	2008
+603212	 162	00006	     	162-6	Franklin Ave	162	Town of Altavista	162	Town of Altavista	0.46	7th St	12th St	1600	G	99%	0%	0%	1%	0%	0%	C	0.1147	F	0.5473	1700	G	2008
+603213	 162	00007	     	162-7	Frazier Rd	162	Town of Altavista	162	Town of Altavista	0.09	Avondale Dr	Lola Ave	1700	G	97%	1%	1%	0%	1%	0%	F	0.1148	F	0.7973	1900	G	2008
+603214	 162	00007	     	162-7	Frazier Rd	162	Town of Altavista	162	Town of Altavista	0.62	Lola Ave	Lynch Mill Rd	2700	G	97%	1%	1%	0%	1%	0%	C	0.1031	F	0.5479	2900	G	2008
+603215	 162	00008	     	162-8	Lola Ave	162	Town of Altavista	162	Town of Altavista	0.07	Bus US 29 Main St	7th Street	2900	G	98%	1%	1%	0%	0%	0%	F	0.0849	F	0.6064	3100	G	2008
+603007	 162	00008	     	162-8	Lola Ave	162	Town of Altavista	162	Town of Altavista	0.36	7th St	11th St	3000	G	98%	1%	1%	0%	0%	0%	F	0.0974	F	0.5984	3200	G	2008
+603216	 162	00008	     	162-8	Lola Ave	162	Town of Altavista	162	Town of Altavista	0.13	11th St	Avondale Dr	3100	G	98%	1%	1%	0%	0%	0%	C	0.1011	F	0.5942	3400	G	2008
+603218	 162	00009	     	162-9	Lynch Rd	162	Town of Altavista	162	Town of Altavista	0.13	Broad St	0.13 ME Broad St	300	G	99%	1%	0%	0%	0%	0%	C	0.1269	F	0.7857	330	G	2008
+603219	 162	00010	     	162-10	Ogden Rd	162	Town of Altavista	162	Town of Altavista	0.38	Avondale Dr	Lynch Mill Rd	770	G	90%	2%	1%	1%	6%	0%	C	0.1007	F	0.5610	840	G	2008
+603004	 162	00425	     	162-425	Pittsylvania Ave	162	Town of Altavista	162	Town of Altavista	0.42	SCL Altavista	Main St	7600	G	96%	0%	1%	0%	3%	0%	C	0.0862	F	0.6522	8200	G	2008
+603217	 162	01466	     	162-1466	Lynch Mill Rd	162	Town of Altavista	162	Town of Altavista	0.40	NCL Altavista	Frazier Rd	4100	G	95%	1%	1%	1%	2%	0%	C	0.1191	F	0.6301	4500	G	2008
+603011	 162	01466	     	162-1466	Lynch Mill Rd	162	Town of Altavista	162	Town of Altavista	0.49	Frazier Rd	Clairon Rd	3300	G	95%	1%	1%	1%	2%	0%	F	0.1035	F	0.5386	3600	G	2008
+603009	 162	01466	     	162-1466	Lynch Mill Rd	162	Town of Altavista	162	Town of Altavista	0.30	Clarion Rd	Main St	5100	G	95%	1%	1%	1%	2%	0%	F	0.0879	F	0.5365	5500	G	2008
+603010	 162	01468	     	162-1468	Clarion Rd	162	Town of Altavista	162	Town of Altavista	0.77	Lynch Mill Rd	NCL Altavista	3400	G	98%	0%	1%	1%	1%	0%	C	0.0852	F	0.5479	3700	G	2008
+503001	 162	00000	     	162-0	Lakewood Dr	162	Town of Altavista	162	Town of Altavista	0.00	Sourwood Lane	Dogwood Lane	220	G							X	0.1200	F	0.0000	240	G	2008
+503002	 162	00000	     	162-0	Tabby Ln	162	Town of Altavista	162	Town of Altavista	0.00	Laurel Lane	Woodhaven Lane	260	G							X	0.1160	F	0.0000	280	G	2008
+503003	 162	00000	     	162-0	West Rd	162	Town of Altavista	162	Town of Altavista	0.00	Forest St	Lynch Rd	190	G							X	0.1419	F	0.0000	210	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

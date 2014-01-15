@@ -1,0 +1,253 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Petersburg																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+658136	  US	00001	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.40	WCL Petersburg	Summit St	13000	F	98%	0%	1%	1%	1%	0%	F				14000	F	2008
+658137	  US	00001	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.18	Summit St	Elm St	13000	F	98%	0%	1%	1%	1%	0%	F				14000	F	2008
+658139	  US	00001	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.57	Elm St	US 1 Par; Wythe St	14000	F	96%	1%	1%	1%	1%	0%	F	0.0854	F	0.0000	16000	F	2008
+658143	  US	00001	     	US 1, Bus US 460	Wythe St	123	City of Petersburg	123	City of Petersburg	1.08	US 1 Par, Washington St; Battersea Lane	Perry St	7700	F	96%	1%	1%	1%	1%	0%	C	0.0820	F	1.0000	8300	F	2008		16000	F	96%	1%	1%	1%	1%	0%	F	0.0832	F	0.0000	18000	F
+658144	  US	00001	     	US 1, Bus US 460	Wythe St	123	City of Petersburg	123	City of Petersburg	0.15	Perry St	SR 36 Market St	9300	F	96%	1%	1%	1%	1%	0%	F				10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F				20000	F
+658145	  US	00001	     	US 1, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	SR 36 Market St	ALT US 301 Sycamore St	10000	F	96%	1%	1%	1%	1%	0%	F				11000	F	2008
+658051	  US	00001	     	US 1, Alt US 301, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	ALT US 301 Sycamore St	Bus US 460 Jefferson St	12000	F	96%	1%	1%	1%	1%	0%	F				13000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+658081	  US	00001	     	US 1, Alt US 301	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.09	Bus US 460 Wythe St	Bus US 460 Par, Washington St	3900	F	96%	1%	1%	1%	1%	0%	F	0.0818	F	0.6871	4300	F	2008
+658082	  US	00001	     	US 1, Alt US 301	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.26	Bus US 460 Par, Washington St	Henry St	800	F	96%	1%	1%	1%	1%	0%	F	0.0955	F	0.6742	870	F	2008
+140149	  US	00001	     	US 1, Alt US 301	3rd St	123	City of Petersburg	123	City of Petersburg	0.05	Henry St	US 301 Par, Bank St	330	F	96%	1%	1%	1%	1%	0%	F	0.1152	F	0.5732	360	F	2008
+658038	  US	00001	     	US 1, Alt US 301	3rd St	123	City of Petersburg	123	City of Petersburg	0.05	US 301 Par, Bank St	US 301 Bollingbrook St	400	F	96%	1%	1%	1%	1%	0%	F	0.1095	F	0.6337	440	F	2008
+658043	  US	00001	     	US 301, US 1, Alt US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.08	US 301; 3RD STREET	US 1 Par; US 301 Par; Bollingbrook St	4700	F	98%	0%	1%	0%	0%	0%	F	0.1221	F	0.8499	5100	F	2008	
+658604	  US	00001	     	US 1, US 301	2nd St	123	City of Petersburg	123	City of Petersburg	0.35	US 1 Par; US 301 Par; Bollingbrook St	SCL Colonial Heights	13000	F	99%	0%	0%	0%	0%	0%	F	0.1114	F	0.6936	13000	F	2008
+658142	 3US	00001	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.31	US 1 Wythe St Battersea Lane	123-9025 West St	8600	F	97%	1%	1%	1%	1%	0%	F	0.0889	F	0.0000	9300	F	2008		16000	F	96%	1%	1%	1%	1%	0%	F	0.0832	F	0.0000	18000	F
+781889	 3US	00001	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.40	123-9025 West St	123-9029 South St	9200	F	97%	1%	1%	1%	1%	0%	F	0.0890	F	0.0000	10000	F	2008		17000	F	97%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	18000	F
+658141	 3US	00001	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.27	123-9029 South St	Guarantee St	9500	F	97%	1%	1%	1%	1%	0%	C	0.0867	F	0.0000	10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F				20000	F
+658140	 3US	00001	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.24	Guarantee St	BUS US 460 Par; SR 36 Market St	9600	F	97%	1%	1%	1%	1%	0%	F	0.0882	F	0.0000	10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	20000	F
+658095	 3US	00001	P    	US 1 Par, VA 36	Market St	123	City of Petersburg	123	City of Petersburg	0.38	SR 36; Bus US 460 Par Washington St	SR 36 Grove Ave	3300	F	97%	1%	1%	0%	0%	0%	C	0.0893	F	0.0000	3600	F	2008
+658100	 3US	00001	P    	US 1 Par, VA 36 Par	Old St	123	City of Petersburg	123	City of Petersburg	0.13	SR 36; Market St	Sycamore St	3500	F	97%	1%	1%	0%	0%	0%	F	0.0943	F	0.0000	3800	F	2008
+658045	 3US	00001	P    	US 1 Par, VA 36 Par	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.04	Old St	Bollingbrook St	3400	F	97%	1%	1%	0%	0%	0%	F	0.0935	F	0.0000	3700	F	2008
+658057	 3US	00001	P    	US 1 Par, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.10	Sycamore St	US 1, US 301 2nd St	3500	F	97%	1%	1%	0%	0%	0%	F	0.0880	F	0.7724	3800	F	2008
+658060	  SR	00036	     	VA 36	Fleet St	123	City of Petersburg	123	City of Petersburg	0.12	WCL Petersburg	Grove Ave	7900	F	99%	0%	0%	0%	0%	0%	C	0.0883	F	0.0000	8500	F	2008
+658061	  SR	00036	     	VA 36	Grove Ave	123	City of Petersburg	123	City of Petersburg	0.54	Fleet St	US 1 Par, Market St	3000	F	97%	0%	1%	1%	0%	0%	C	0.1008	F	0.6089	3300	F	2008
+658095	  SR	00036	     	US 1 Par, VA 36	Market St	123	City of Petersburg	123	City of Petersburg	0.38	US 1	US 1 Par; BUS US 460 Par, Washington St	3300	F	97%	1%	1%	0%	0%	0%	C	0.0893	F	0.0000	3600	F	2008	
+140099	  SR	00036	     	VA 36	Market St	123	City of Petersburg	123	City of Petersburg	0.11	US 1 Par; Bus US 460 Par, Washington St	US 1, Bus US 460 Wythe St	5700	F	99%	0%	1%	0%	0%	0%	F	0.0899	F	0.7686	6100	F	2008
+658145	  SR	00036	     	US 1, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	US 1, BUS US 460 Wythe St	ALT US 301 Sycamore St	10000	F	96%	1%	1%	1%	1%	0%	F				11000	F	2008	
+658051	  SR	00036	     	US 1, Alt US 301, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	ALT US 301 Sycamore St	Bus US 460	12000	F	96%	1%	1%	1%	1%	0%	F				13000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+658049	  SR	00036	     	Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	Bus US 460	I-85, I-95	16000	F	97%	1%	1%	1%	1%	0%	C	0.0872	F	1.0000	17000	F	2008		31000	F	95%	1%	1%	1%	2%	0%	F	0.0792	F	0.0000	34000	F
+140095	  SR	00036	     	Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.30	I-85, I-95	South Crater Rd	11000	F	97%	1%	1%	1%	1%	0%	F	0.0792	F	1.0000	12000	F	2008		24000	F	95%	1%	1%	1%	2%	0%	F				26000	F
+658048	  SR	00036	     	VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.43	US 301, Bus US 460 Crater Rd	SR 36 Par, Washington St; Amelia St	9800	F	97%	0%	0%	1%	1%	0%	F				10000	F	2008		21000	F	97%	0%	0%	1%	1%	0%	F				22000	F
+140103	  SR	00036	     	VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.87	SR 36 Par; Wythe St; Amelia St	Puddledock Rd	20000	F	97%	0%	0%	1%	1%	0%	F	0.0809	F	0.0000	22000	F	2008
+140127	  SR	00036	     	VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.58	Puddledock Rd	Prince George County Line	16000	F	97%	0%	0%	1%	1%	0%	F	0.0785	F	0.0000	17000	F	2008
+658100	 1SR	00036	P    	US 1 Par, VA 36 Par	Old St	123	City of Petersburg	123	City of Petersburg	0.13	SR 36; Market St	Sycamore St	3500	F	97%	1%	1%	0%	0%	0%	F	0.0943	F	0.0000	3800	F	2008	
+658045	 1SR	00036	P    	US 1 Par, VA 36 Par	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.04	Old St	Bollingbrook St	3400	F	97%	1%	1%	0%	0%	0%	F	0.0935	F	0.0000	3700	F	2008	
+658057	 1SR	00036	P    	US 1 Par, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.10	Sycamore St	US 1, US 301 2nd St	3500	F	97%	1%	1%	0%	0%	0%	F	0.0880	F	0.7724	3800	F	2008	
+658043	 1SR	00036	P    	US 301, US 1, Alt US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.08	US 1 Par, 2nd St	US 1, ALT US 301 3rd St	4700	F	98%	0%	1%	0%	0%	0%	F	0.1221	F	0.8499	5100	F	2008	
+658044	 1SR	00036	P    	US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.15	3rd St	5th St	4400	F	98%	0%	1%	0%	0%	0%	F	0.1077	F	0.7855	4800	F	2008		6200	F	98%	0%	1%	0%	1%	0%	F				6700	F
+658042	 1SR	00036	P    	US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.23	5th St	Crater Rd	4200	F	98%	0%	1%	0%	0%	0%	C	0.1160	F	0.0000	4600	F	2008		6400	F	98%	0%	1%	0%	1%	0%	C	0.1083	F	0.0000	6900	F
+658094	 1SR	00036	P    	US 301, VA 36 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.14	Bollingbrook St	US 301 Par, Bank St	3700	F	98%	0%	1%	0%	0%	0%	F	0.1154	F	0.8387	4000	F	2008		7700	G	97%	1%	1%	1%	1%	0%	F				8400	G
+658093	 1SR	00036	P    	US 301, VA 36 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.18	US 301 Par, Bank St	US 301, BUS US 460 Crater Rd	3900	F	97%	1%	1%	0%	0%	0%	F				4200	F	2008	
+140106	 1SR	00036	P    	VA 36 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.18	US 301, Bus US 460 Crater Rd	Burch St	10000	F	97%	0%	0%	1%	1%	0%	F	0.0900	F	0.0000	11000	F	2008		20000	F	97%	0%	0%	1%	1%	0%	F	0.0000	?	0.0000	22000	F
+140107	 1SR	00036	P    	VA 36 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.25	Burch St	SR 36 Wythe St; Amelia St	11000	F	97%	0%	0%	1%	1%	0%	F	0.0906	F	0.0000	12000	F	2008		21000	F	97%	0%	0%	1%	1%	0%	F				22000	F
+040413	  IS	00085	N    	I-85 NB, US 460	 	123	City of Petersburg	026	Dinwiddie County	1.01	SCL Petersburg	Squirrel Level Road	26000	G	82%	1%	1%	1%	15%	1%	F				24000	G	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+040040	  IS	00085	N    	I-85 NB, US 460	 	123	City of Petersburg	026	Dinwiddie County	2.57	Squirrel Level Road	I-95	31000	F	82%	1%	1%	1%	15%	1%	F				29000	F	2008		61000	F	82%	1%	1%	1%	15%	1%	F				56000	F
+795371	  IS	00085	N068B	I-85 NB Exit 068B	Ramp	123	City of Petersburg	026	Dinwiddie County	0.22	I-95 N Exit 50D & I-85 N Exit 69	Wythe St & Washington St	0	?							X
+140178	  IS	00085	S    	I-85 SB, US 460	 	123	City of Petersburg	026	Dinwiddie County	1.25	SCL Petersburg	Squirrel Level Road	26000	F	81%	1%	1%	1%	15%	1%	F				23000	F	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+140034	  IS	00085	S    	I-85 SB, US 460	 	123	City of Petersburg	026	Dinwiddie County	2.72	Squirrel Level Road	I-95	30000	F	81%	1%	1%	1%	15%	1%	F				27000	F	2008		61000	F	82%	1%	1%	1%	15%	1%	F				56000	F
+040613	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	1.15	Rives Rd	Wagner Rd	15000	G	83%	1%	1%	0%	14%	0%	F				13000	G	2008		30000	G	84%	1%	1%	1%	14%	0%	F				26000	G
+040614	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	2.79	Wagner Rd	US 460 West St	20000	G	83%	1%	1%	0%	14%	0%	F				17000	G	2008		39000	G	84%	1%	1%	1%	14%	0%	F				33000	G
+040400	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	074	Prince George County	0.50	US 460 West St	I-85	20000	N	83%	1%	1%	0%	14%	0%	N				17000	N	2008		39000	N	84%	1%	1%	1%	14%	0%	N				33000	N
+140314	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	026	Dinwiddie County	0.44	I-85	US 301, Bus US 460 Washington St	42000	G	90%	1%	1%	1%	8%	0%	F				42000	G	2008		80000	G	90%	1%	1%	1%	8%	0%	F				80000	G
+140321	  IS	00095	N    	I-95 NB	 	123	City of Petersburg	026	Dinwiddie County	0.64	US 301, Bus US 460 Washington St	SCL Colonial Heights	53000	G	90%	1%	1%	1%	8%	0%	F				53000	G	2008		100000	G	90%	1%	1%	1%	8%	0%	F				100000	G
+789275	  IS	00095	N047A	I-95 NB Exit 047A	Ramp	123	City of Petersburg	074	Prince George County	0.17	I-95 North	123-9008 Rives Rd	0	?							X
+789276	  IS	00095	N048A	I-95 NB Exit 048A	Ramp	123	City of Petersburg	074	Prince George County	0.35	I-95 North	123-9010 Wagner Rd	0	?							X
+795369	  IS	00095	N050X	I-95 NB Exit 050X	Ramp	123	City of Petersburg	074	Prince George County	0.14	Ramp From US 301	Ramp to Wythe & Washington Streets	0	?							X
+140029	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	0.34	SCL Petersburg	Rives Rd	13000	G	84%	1%	1%	1%	14%	0%	F				11000	G	2008		24000	G	84%	1%	1%	1%	14%	0%	F	0.0000	?	0.0000	20000	G
+140028	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	1.22	Rives Rd	Wagner Rd	15000	G	84%	1%	1%	1%	14%	0%	F				13000	G	2008		30000	G	84%	1%	1%	1%	14%	0%	F				26000	G
+140027	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	2.29	Wagner Rd	US 460 County Rd; US 301 Crater Rd	19000	G	84%	1%	1%	1%	14%	0%	F				16000	G	2008		39000	G	84%	1%	1%	1%	14%	0%	F				33000	G
+140026	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	074	Prince George County	0.53	US 460 County Rd; US 301 Crater Rd	I-85	19000	N	84%	1%	1%	1%	14%	0%	N				16000	N	2008		39000	N	84%	1%	1%	1%	14%	0%	N				33000	N
+140312	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	026	Dinwiddie County	0.66	I-85	US 301, Bus US 460 Washington St	39000	G	89%	1%	1%	1%	8%	0%	F				38000	G	2008		80000	G	90%	1%	1%	1%	8%	0%	F				80000	G
+140024	  IS	00095	S    	I-95 SB	 	123	City of Petersburg	026	Dinwiddie County	0.48	US 301, Bus US 460 Washington St	SCL Colonial Heights	47000	G	89%	1%	1%	1%	8%	0%	F				47000	G	2008		100000	G	90%	1%	1%	1%	8%	0%	F				100000	G
+789371	  IS	00095	S048B	I-95 SB Exit 048B	Ramp	123	City of Petersburg	074	Prince George County	0.31	I-95 South	123-9010 Wagner Rd	0	?							X
+789771	  IS	00095	S050X	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301	US 460 Ramp	12000	F							X				12000	F	2008
+658021	  SR	00106	     	VA 106	Courthouse Rd	123	City of Petersburg	123	City of Petersburg	0.10	US 460 County Rd	ECL Petersburg	7500	F	95%	1%	1%	1%	2%	0%	F	0.0889	F	0.0000	8200	F	2008
+658076	  SR	00109	     	VA 109	Hickory Hill Rd	123	City of Petersburg	123	City of Petersburg	0.88	US 460 County Rd	ECL Petersburg	6600	F	98%	0%	0%	1%	0%	0%	C	0.1244	F	0.0000	7200	F	2008
+140210	  SR	00109	     	VA 109	Hickory Hill Rd	123	City of Petersburg	123	City of Petersburg	0.03	ECL Petersburg	Dead End; Fort Lee Military Reservation, Mahone Av	6600	N	98%	0%	0%	1%	0%	0%	N	0.1244	N	0.0000	7200	N	2008
+658005	  SR	00142	     	VA 142	Boydton Plank Rd	123	City of Petersburg	123	City of Petersburg	0.16	WCL Petersburg	Dupuy Rd	3400	F	98%	0%	0%	0%	1%	0%	F	0.0957	F	0.0000	3700	F	2008
+658006	  SR	00142	     	VA 142	Boydton Plank Rd	123	City of Petersburg	123	City of Petersburg	1.24	Dupuy Rd	Rt 604 Halifax Rd	3100	F	98%	0%	0%	0%	1%	0%	C	0.0833	F	0.0000	3400	F	2008
+658063	  SR	00142	     	VA 142	Halifax Rd	123	City of Petersburg	123	City of Petersburg	0.06	Rt 604 Halifax Rd	CSX RR	5800	F	98%	0%	0%	0%	1%	0%	F	0.0788	F	0.5238	6400	F	2008
+658105	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.21	SCL Petersburg	Rives Rd	8700	F	99%	0%	0%	0%	0%	0%	F	0.0956	F	0.0000	9400	F	2008
+658106	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.90	Rives Rd	Wagner Rd	9800	F	99%	0%	0%	0%	0%	0%	C	0.0913	F	0.0000	11000	F	2008
+658107	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.43	Wagner Rd	Flank Rd	21000	F	99%	0%	0%	0%	0%	0%	F				23000	F	2008
+658108	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.87	Flank Rd	ALT US 301 Sycamore St	23000	F	99%	0%	0%	0%	0%	0%	F	0.0835	F	0.0000	25000	F	2008
+658109	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.26	ALT US 301 Sycamore St	South Blvd	16000	F	98%	0%	1%	0%	0%	0%	C	0.0882	F	0.0000	17000	F	2008
+658110	  US	00301	     	US 301	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.73	South Blvd	I-95, Bus US 460	22000	F	98%	0%	1%	0%	0%	0%	F	0.0843	F	0.0000	24000	F	2008
+658154	  US	00301	     	US 301, Bus US 460	Crater Rd	123	City of Petersburg	026	Dinwiddie County	0.09	I-95, Bus US 460	I-95; Bus US 460 Par, Winfield Rd	11000	N	97%	1%	1%	0%	0%	0%	N	0.0867	N	0.0000	12000	N	2008
+658111	  US	00301	     	US 301, Bus US 460, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.98	Maintenance Jurisdiction Change	SR 36, Bus US 460 Wythe St	11000	F	97%	1%	1%	0%	0%	0%	C	0.0867	F	0.0000	12000	F	2008
+658112	  US	00301	     	US 301, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.10	SR 36, Bus US 460 Wythe St	SR 36 Par, Bus US 460 Par, Washington St	7900	F	97%	1%	1%	0%	0%	0%	F	0.0873	F	0.0000	8600	F	2008
+658093	  US	00301	     	US 301, VA 36 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.18	SR 36 Par, Bus US 460 Par, Washington St	US 301 Par, Bank St	3900	F	97%	1%	1%	0%	0%	0%	F				4200	F	2008
+658094	  US	00301	     	US 301, VA 36 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.14	US 301 Par, Bank St	Bollingbrook St	3700	F	98%	0%	1%	0%	0%	0%	F	0.1154	F	0.8387	4000	F	2008		7700	G	97%	1%	1%	1%	1%	0%	F				8400	G
+658042	  US	00301	     	US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.23	Crater Rd	5th St	4200	F	98%	0%	1%	0%	0%	0%	C	0.1160	F	0.0000	4600	F	2008		6400	F	98%	0%	1%	0%	1%	0%	C	0.1083	F	0.0000	6900	F
+658044	  US	00301	     	US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.15	5th St	3rd St	4400	F	98%	0%	1%	0%	0%	0%	F	0.1077	F	0.7855	4800	F	2008		6200	F	98%	0%	1%	0%	1%	0%	F				6700	F
+658043	  US	00301	     	US 301, US 1, Alt US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.08	US 1, ALT US 301 3rd St	US 1 Par, 2nd St	4700	F	98%	0%	1%	0%	0%	0%	F	0.1221	F	0.8499	5100	F	2008
+658604	  US	00301	     	US 1, US 301	2nd St	123	City of Petersburg	123	City of Petersburg	0.35	N RT 1	SCL Colonial Heights	13000	F	99%	0%	0%	0%	0%	0%	F	0.1114	F	0.6936	13000	F	2008	
+658037	 1US	00301	P    	US 301 Par	Bank St	123	City of Petersburg	123	City of Petersburg	0.24	US 301 Crater St	5th St	2100	F	96%	1%	1%	1%	1%	0%	C	0.1019	F	0.0000	2300	F	2008		6400	F	98%	0%	1%	0%	1%	0%	C	0.1083	F	0.0000	6900	F
+658036	 1US	00301	P    	US 301 Par	Bank St	123	City of Petersburg	123	City of Petersburg	0.15	5th St	3rd St	1700	F	96%	1%	1%	1%	1%	0%	F	0.1045	F	0.0000	1900	F	2008		6200	F	98%	0%	1%	0%	1%	0%	F				6700	F
+658035	 1US	00301	P    	US 301 Par, US 1, Alt US 301	Bank St	123	City of Petersburg	123	City of Petersburg	0.09	3rd St	ALT US 301 Par, 2nd St	1700	F	96%	1%	1%	1%	1%	0%	F	0.1003	F	0.0000	1800	F	2008		6300	F	98%	0%	1%	0%	1%	0%	F	0.0000	?	0.0000	6900	F
+658122	A1US	00301	     	Alt US 301	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.30	US 301 Crater Rd	South Blvd	7600	F	99%	0%	0%	0%	0%	0%	F				8300	F	2008
+658123	A1US	00301	     	Alt US 301	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.95	South Blvd	North Blvd	5000	F	99%	0%	0%	0%	0%	0%	C	0.0841	F	0.0000	5500	F	2008
+658124	A1US	00301	     	Alt US 301	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.42	North Blvd	Graham Rd	7400	F	99%	0%	0%	0%	0%	0%	F	0.0754	F	0.0000	8000	F	2008
+658125	A1US	00301	     	Alt US 301	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.56	Graham Rd	US 1 Wythe St	9600	F	99%	0%	0%	0%	0%	0%	F	0.0779	F	0.0000	10000	F	2008
+658051	A1US	00301	     	US 1, Alt US 301, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	US 1	Bus US 460 Jefferson St	12000	F	96%	1%	1%	1%	1%	0%	F				13000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+658081	A1US	00301	     	US 1, Alt US 301	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.09	Bus US 460 Wythe St	Bus US 460 Par, Washington St	3900	F	96%	1%	1%	1%	1%	0%	F	0.0818	F	0.6871	4300	F	2008	
+658082	A1US	00301	     	US 1, Alt US 301	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.26	Bus US 460 Par, Washington St	Henry St	800	F	96%	1%	1%	1%	1%	0%	F	0.0955	F	0.6742	870	F	2008	
+140149	A1US	00301	     	US 1, Alt US 301	3rd St	123	City of Petersburg	123	City of Petersburg	0.05	Henry St	US 301 Par, Bank St	330	F	96%	1%	1%	1%	1%	0%	F	0.1152	F	0.5732	360	F	2008	
+658038	A1US	00301	     	US 1, Alt US 301	3rd St	123	City of Petersburg	123	City of Petersburg	0.05	US 301 Par, Bank St	US 301 Bollingbrook St	400	F	96%	1%	1%	1%	1%	0%	F	0.1095	F	0.6337	440	F	2008	
+658043	A1US	00301	     	US 301, US 1, Alt US 301, VA 36 Par	Bollingbrook St	123	City of Petersburg	123	City of Petersburg	0.08	US 1, ALT US 301 3rd St	US 301	4700	F	98%	0%	1%	0%	0%	0%	F	0.1221	F	0.8499	5100	F	2008	
+658126	A1US	00301	P    	Alt US 301 Par	Sycamore St	123	City of Petersburg	123	City of Petersburg	0.09	US 1 Wythe St	Bus US 460 Washington St	6800	F	99%	0%	0%	0%	0%	0%	F				7300	F	2008
+140157	A1US	00301	P    	Bus US 460 Par, Alt US 301, Alt US 301 Par, Bus US 460, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.09	Bus US 460 Par	Bus US 460 Washington St	15000	F	95%	1%	2%	1%	1%	0%	F	0.0794	F	0.0000	16000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+140225	A1US	00301	P    	Alt US 301 Par	Adams St	123	City of Petersburg	123	City of Petersburg	0.06	BUS US 460 Washington St	Franklin St	7600	F	99%	0%	0%	0%	0%	0%	F				8300	F	2008
+658091	A1US	00301	P    	Alt US 301 Par	Adams St	123	City of Petersburg	123	City of Petersburg	0.16	Franklin St	Henry St	7400	F	99%	0%	0%	0%	0%	0%	C	0.0875	F	0.6252	8000	F	2008
+040413	  US	00460	     	I-85 NB, US 460	 	123	City of Petersburg	026	Dinwiddie County	1.01	SCL Petersburg	Squirrel Level Road	26000	G	82%	1%	1%	1%	15%	1%	F				24000	G	2008		52000	G	82%	1%	1%	1%	15%	1%	F				47000	G
+040040	  US	00460	     	I-85 NB, US 460	 	123	City of Petersburg	026	Dinwiddie County	2.57	Squirrel Level Road	I-85 S	31000	F	82%	1%	1%	1%	15%	1%	F				29000	F	2008		61000	F	82%	1%	1%	1%	15%	1%	F				56000	F
+789771	  US	00460	     	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301	US 460	12000	F							X				12000	F	2008	
+140234	  US	00460	     	US 460	County Dr	123	City of Petersburg	123	City of Petersburg	0.60	I-95	SR 109 Hickory Hill Rd	19000	F	92%	0%	1%	1%	6%	0%	C	0.0959	F	0.0000	20000	F	2008
+140104	  US	00460	     	US 460	County Dr	123	City of Petersburg	123	City of Petersburg	2.16	SR 109 Hickory Hill Rd	SR 106 Courthouse Rd	9500	A	88%	1%	1%	1%	9%	0%	C	0.0986	A	0.5348	10000	A	2008
+658022	  US	00460	     	US 460	County Dr	123	City of Petersburg	123	City of Petersburg	0.34	SR 106 Courthouse Rd	ECL Petersburg	13000	F	88%	1%	1%	1%	9%	0%	F	0.0867	F	0.0000	14000	F	2008
+658136	CEUS	00460	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.40	WCL Petersburg	Summit St	13000	F	98%	0%	1%	1%	1%	0%	F				14000	F	2008	
+658137	CEUS	00460	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.18	Summit St	Elm St	13000	F	98%	0%	1%	1%	1%	0%	F				14000	F	2008	
+658139	CEUS	00460	     	US 1, Bus US 460	Washington St	123	City of Petersburg	123	City of Petersburg	0.57	Elm St	US 1 Par; Wythe St	14000	F	96%	1%	1%	1%	1%	0%	F	0.0854	F	0.0000	16000	F	2008	
+658143	CEUS	00460	     	US 1, Bus US 460	Wythe St	123	City of Petersburg	123	City of Petersburg	1.08	US 1 Par, Washington St; Battersea Lane	Perry St	7700	F	96%	1%	1%	1%	1%	0%	C	0.0820	F	1.0000	8300	F	2008		16000	F	96%	1%	1%	1%	1%	0%	F	0.0832	F	0.0000	18000	F
+658144	CEUS	00460	     	US 1, Bus US 460	Wythe St	123	City of Petersburg	123	City of Petersburg	0.15	Perry St	SR 36 Market St	9300	F	96%	1%	1%	1%	1%	0%	F				10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F				20000	F
+658145	CEUS	00460	     	US 1, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	SR 36 Market St	ALT US 301 Sycamore St	10000	F	96%	1%	1%	1%	1%	0%	F				11000	F	2008	
+658051	CEUS	00460	     	US 1, Alt US 301, Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	ALT US 301 Sycamore St	US 1 Jefferson St	12000	F	96%	1%	1%	1%	1%	0%	F				13000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+658049	CEUS	00460	     	Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.20	US 1 Jefferson St	I-85, I-95	16000	F	97%	1%	1%	1%	1%	0%	C	0.0872	F	1.0000	17000	F	2008		31000	F	95%	1%	1%	1%	2%	0%	F	0.0792	F	0.0000	34000	F
+140095	CEUS	00460	     	Bus US 460, VA 36	Wythe St	123	City of Petersburg	123	City of Petersburg	0.30	I-85, I-95	SR 36; US 301 Crater Rd	11000	F	97%	1%	1%	1%	1%	0%	F	0.0792	F	1.0000	12000	F	2008		24000	F	95%	1%	1%	1%	2%	0%	F				26000	F
+658111	CEUS	00460	     	US 301, Bus US 460, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.98	SR 36; US 301 Wythe St	Maintenance Jurisdiction Change	11000	F	97%	1%	1%	0%	0%	0%	C	0.0867	F	0.0000	12000	F	2008	
+658154	CEUS	00460	     	US 301, Bus US 460	Crater Rd	123	City of Petersburg	026	Dinwiddie County	0.09	I-95; BUS US 460 Par, Winfield Rd	US 301 Crater Rd	11000	N	97%	1%	1%	0%	0%	0%	N	0.0867	N	0.0000	12000	N	2008	
+789771	CEUS	00460	     	I-95 SB Exit 050X, US 460, Bus US 460	Ramp from I-85 N to I-95 S	123	City of Petersburg	074	Prince George County	0.27	Ramp from US 301North	Bus US 460	12000	F							X				12000	F	2008	
+658142	CEUS	00460	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.31	US 1 Wythe St Battersea Lane	123-9025 West St	8600	F	97%	1%	1%	1%	1%	0%	F	0.0889	F	0.0000	9300	F	2008		16000	F	96%	1%	1%	1%	1%	0%	F	0.0832	F	0.0000	18000	F
+781889	CEUS	00460	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.40	123-9025 West St	123-9029 South St	9200	F	97%	1%	1%	1%	1%	0%	F	0.0890	F	0.0000	10000	F	2008		17000	F	97%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	18000	F
+658141	CEUS	00460	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.27	123-9029 South St	Guarantee St	9500	F	97%	1%	1%	1%	1%	0%	C	0.0867	F	0.0000	10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F				20000	F
+658140	CEUS	00460	P    	US 1 Par, Bus US 460, Bus US 460 Par	Washington St	123	City of Petersburg	123	City of Petersburg	0.24	Guarantee St	North Market St	9600	F	97%	1%	1%	1%	1%	0%	F	0.0882	F	0.0000	10000	F	2008		19000	F	96%	1%	1%	1%	1%	0%	F	0.0000	?	0.0000	20000	F
+658138	CEUS	00460	P    	Bus US 460 Par, Bus US 460, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.19	US 1 Par; SR 36 Market St	ALT US 301 Par, Sycamore St	12000	G	95%	1%	2%	1%	1%	0%	C				14000	G	2008		22000	G	96%	1%	2%	1%	1%	0%	F	0.0000	?	0.0000	25000	G
+140157	CEUS	00460	P    	Bus US 460 Par, Alt US 301, Alt US 301 Par, Bus US 460, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.09	ALT US 301 Par, Sycamore St	ALT US 301 Par, Adams St	15000	F	95%	1%	2%	1%	1%	0%	F	0.0794	F	0.0000	16000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F				29000	F
+140110	CEUS	00460	P    	Bus US 460 Par, Alt US 301, Bus US 460, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.10	ALT US 301 Par, Adams St	US 1 Jefferson St	14000	F	95%	1%	2%	1%	1%	0%	F	0.0806	F	0.0000	16000	F	2008		27000	F	96%	1%	2%	1%	1%	0%	F	0.0000	?	0.0000	29000	F
+140159	CEUS	00460	P    	Bus US 460 Par, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.24	US 1 Jefferson St	I-95	16000	F	93%	1%	1%	2%	3%	0%	F	0.0789	F	0.0000	17000	F	2008		31000	F	95%	1%	1%	1%	2%	0%	F	0.0792	F	0.0000	34000	F
+140111	CEUS	00460	P    	Bus US 460 Par, VA 36	Washington St	123	City of Petersburg	123	City of Petersburg	0.24	I-95	US 301 Crater Rd	13000	F	93%	1%	1%	2%	3%	0%	C	0.0884	F	0.0000	14000	F	2008		24000	F	95%	1%	1%	1%	2%	0%	F				26000	F
+658112	CEUS	00460	P    	US 301, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.10	US 301 Crater Rd	SR 36, BUS US 460 Wythe St	7900	F	97%	1%	1%	0%	0%	0%	F	0.0873	F	0.0000	8600	F	2008	
+658111	CEUS	00460	P    	US 301, Bus US 460, Bus US 460 Par	Crater Rd	123	City of Petersburg	123	City of Petersburg	0.98	SR 36, BUS US 460 Wythe St	Maintenance Jurisdiction Change	11000	F	97%	1%	1%	0%	0%	0%	C	0.0867	F	0.0000	12000	F	2008	
+140125	CEUS	00460	P    	Bus US 460 Par, Bus US 460	Winfield Rd	123	City of Petersburg	123	City of Petersburg	0.43	US 301 Crater Rd	State Maintenance Boundary	1500	F	97%	1%	1%	0%	1%	0%	C	0.0963	F	0.9688	1600	F	2008		1500	F							X	0.0000	?	0.0000		
+140126	CEUS	00460	P    	Bus US 460 Par, Bus US 460	Winfield Rd	123	City of Petersburg	026	Dinwiddie County	0.09	State Maintenance Boundary	US 460 County Rd	1500	F	97%	1%	1%	0%	1%	0%	C	0.0963	F	0.9688	1600	F	2008		1500	F							X	0.0000	?	0.0000		
+790796	  FR	00329	     	FR 329	Lake Shore Dr	123	City of Petersburg	074	Prince George County	0.17	Dead End	74-1102 Lakeshore Dr	10	R							X						03/17/2008
+780542	  FR	00330	     	FR 330	N Normandy Dr	123	City of Petersburg	074	Prince George County	2.93	Dead End	FR-331 Service Rd	3700	R							X						03/17/2008
+780543	  FR	00331	     	FR 331	Service Rd	123	City of Petersburg	074	Prince George County	0.78	Dead End	Dead End	1400	R							X						03/17/2008
+781720	 123	00003	     	123-3	Vaughn Rd	123	City of Petersburg	123	City of Petersburg	0.64	SCL Petersburg; 26-675	123-9013 Halifax Rd	1000	F							X	0.0873	F	0.6887	1100	F	2008
+658148	 123	00004	     	123-4	Wells Rd	123	City of Petersburg	123	City of Petersburg	0.41	Halifax Rd	Squirrel Level Rd	3900	F	87%	0%	1%	3%	8%	0%	C	0.0874	F	0.5585	4300	F	2008
+658065	 123	09002	     	123-9002	Halifax Rd	123	City of Petersburg	123	City of Petersburg	0.18	CSX RR	Patterson St	6400	F	99%	1%	1%	0%	0%	0%	F	0.0795	F	0.5262	7000	F	2008
+658066	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.58	Patterson St	Baylors Lane	5600	F	99%	1%	1%	0%	0%	0%	F	0.0837	F	0.0000	6100	F	2008
+658067	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.19	Baylors Lane	Virginia Ave	5900	F	99%	1%	1%	0%	0%	0%	F	0.0800	F	0.0000	6400	F	2008
+658068	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.37	Virginia Ave	Lee Ave	8300	F	99%	1%	1%	0%	0%	0%	F	0.0765	F	0.0000	9100	F	2008
+658069	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.29	Lee Ave	Liberty St	8000	F	99%	1%	1%	0%	0%	0%	F	0.0781	F	0.0000	8700	F	2008
+658071	 123	09002	     	123-9002	Halifax St	123	City of Petersburg	123	City of Petersburg	0.28	Liberty St	US 1, US 460 W Wythe St	8500	F	99%	1%	1%	0%	0%	0%	C	0.0783	F	0.0000	9300	F	2008
+658128	 123	09002	     	123-9002	Union St	123	City of Petersburg	123	City of Petersburg	0.12	US 1, US 460 W Wythe St	US 1, US 460 W Washington St	4000	G	96%	1%	2%	0%	0%	0%	C				4300	G	2008
+658127	 123	09002	     	123-9002	Union St	123	City of Petersburg	123	City of Petersburg	0.17	US 1, US 460 W Washington St	W Tabb St	1400	F	93%	1%	4%	1%	1%	0%	C	0.1162	F	0.5228	1500	F	2008
+658024	 123	09004	     	123-9004	Defense Rd	123	City of Petersburg	123	City of Petersburg	0.47	Boydton Plank Rd	Squirrel Level Rd	2200	F	98%	0%	0%	1%	1%	0%	C	0.0963	F	0.6488	2400	F	2008
+658025	 123	09004	     	123-9004	Defense Dr	123	City of Petersburg	123	City of Petersburg	1.77	Squirrel Level Rd	Johnson Rd	3700	F	99%	1%	0%	0%	0%	0%	F	0.0761	F	0.6390	4000	F	2008
+658026	 123	09004	     	123-9004	South Boulevard	123	City of Petersburg	123	City of Petersburg	0.92	Johnson Rd	S. Sycamore St	8200	F	99%	1%	0%	0%	0%	0%	C	0.0911	F	0.0000	9000	F	2008
+658027	 123	09004	     	123-9004	South Boulevard	123	City of Petersburg	123	City of Petersburg	0.18	S. Sycamore St	Crater Rd	5600	F	99%	1%	0%	0%	0%	0%	F	0.0950	F	0.5008	6100	F	2008
+658028	 123	09004	     	123-9004	South Boulevard	123	City of Petersburg	123	City of Petersburg	0.72	Crater Rd	Anderson St	2100	F	99%	1%	0%	0%	0%	0%	F	0.0871	F	0.5711	2200	F	2008
+658055	 123	09006	     	123-9006	Flank Rd	123	City of Petersburg	123	City of Petersburg	0.96	Halifax Rd	Johnson Rd	1900	F	96%	0%	0%	3%	0%	0%	C	0.0994	F	0.6085	2100	F	2008
+658056	 123	09006	     	123-9006	Flank Rd	123	City of Petersburg	123	City of Petersburg	0.47	Johnson Rd	Birdsong Rd	3200	F	96%	0%	0%	3%	0%	0%	F	0.0857	F	0.5732	3400	F	2008
+659057	 123	09006	     	123-9006	Flank Rd	123	City of Petersburg	123	City of Petersburg	0.75	Birdsong Rd	Fort Hayes Dr	2600	F	96%	0%	0%	3%	0%	0%	F	0.0862	F	0.5031	2800	F	2008
+658058	 123	09006	     	123-9006	Flank Rd	123	City of Petersburg	123	City of Petersburg	0.91	Fort Hayes Dr	Flank Rd N	3100	F	98%	0%	1%	0%	1%	0%	C	0.0817	F	0.5814	3400	F	2008
+658059	 123	09006	     	123-9006	Flank Rd ( 1-Way )	123	City of Petersburg	123	City of Petersburg	0.13	Flank Rd N	US 301 S Crater Rd	2400	F	98%	1%	1%	0%	0%	0%	C	0.0820	F	1.0000	2600	F	2008
+658102	 123	09008	     	123-9008	Rives Rd	123	City of Petersburg	123	City of Petersburg	0.55	US 301 S Crater Rd	I- 95	6700	F	98%	0%	1%	0%	1%	0%	C	0.0900	F	0.0000	7300	F	2008
+658103	 123	09008	     	123-9008	Rives Rd	123	City of Petersburg	123	City of Petersburg	0.27	I- 95	ECL Petersburg	5400	F	98%	0%	0%	0%	1%	0%	C	0.0997	F	0.0000	5900	F	2008
+658029	 123	09009	     	123-9009	Dupuy Rd	123	City of Petersburg	123	City of Petersburg	1.24	SR 142 Boydton Plank Rd	Grigg St	440	F	98%	1%	1%	0%	0%	0%	F	0.1046	F	0.5306	470	F	2008
+658030	 123	09009	     	123-9009	Dupuy St	123	City of Petersburg	123	City of Petersburg	0.58	Grigg St	Youngs Rd	2000	F	98%	1%	1%	0%	0%	0%	F	0.0843	F	0.5061	2100	F	2008
+658031	 123	09009	     	123-9009	Farmer St	123	City of Petersburg	123	City of Petersburg	0.86	Youngs Rd	S. South St	3600	F	98%	1%	1%	0%	0%	0%	C	0.0845	F	0.0000	3900	F	2008
+658032	 123	09009	     	123-9009	Farmer St	123	City of Petersburg	123	City of Petersburg	0.47	S. South St	Halifax St	2800	F	98%	1%	1%	0%	0%	0%	F	0.1142	F	0.6561	3100	F	2008
+658146	 123	09010	     	123-9010	Wagner Rd	123	City of Petersburg	123	City of Petersburg	0.73	S Crater Rd	I-95	15000	F	98%	0%	0%	0%	1%	0%	C	0.0876	F	0.0000	17000	F	2008
+658147	 123	09010	     	123-9010	Wagner Rd	123	City of Petersburg	123	City of Petersburg	1.60	I -95	County Dr	11000	F	94%	0%	1%	1%	4%	0%	C	0.0902	F	0.0000	12000	F	2008
+658118	 123	09011	     	123-9011	Squirrel Level Rd	123	City of Petersburg	123	City of Petersburg	0.82	SCL Petersburg	Wells Rd	870	F	99%	0%	0%	0%	0%	0%	C	0.1353	F	0.5548	950	F	2008
+658119	 123	09011	     	123-9011	Squirrel Level Rd	123	City of Petersburg	123	City of Petersburg	0.25	Wells Rd	Ramp To I- 85	4900	F	90%	0%	1%	3%	7%	0%	C	0.0889	F	0.0000	5300	F	2008
+658120	 123	09011	     	123-9011	Squirrel Level	123	City of Petersburg	123	City of Petersburg	0.20	Ramp To I- 85	Boydton Plank Rd	7500	F	98%	1%	1%	0%	0%	0%	F	0.0799	F	0.0000	8200	F	2008
+658158	 123	09011	     	123-9011	Young Rd	123	City of Petersburg	123	City of Petersburg	0.55	Boydton Plank Rd	Valor Dr	4000	F	98%	1%	1%	0%	0%	0%	F	0.0815	F	0.5691	4400	F	2008
+658151	 123	09011	     	123-9011	Young Rd	123	City of Petersburg	123	City of Petersburg	0.59	Valor Dr	123-9009 Dupuy Rd	2600	F	98%	1%	1%	0%	0%	0%	C	0.0853	F	0.5341	2900	F	2008
+658014	 123	09012	     	123-9012	Lee Ave	123	City of Petersburg	123	City of Petersburg	0.56	West St	Halifax St	2800	F	97%	2%	1%	0%	0%	0%	C	0.0865	F	0.5573	3000	F	2008
+658015	 123	09012	     	123-9012	Porterville St	123	City of Petersburg	123	City of Petersburg	0.15	Halifax St	Harding St	1300	F	99%	1%	0%	0%	0%	0%	F	0.0803	F	0.5175	1400	F	2008
+658016	 123	09012	     	123-9012	New St	123	City of Petersburg	123	City of Petersburg	0.18	Harding St	Harrison St	1200	F	99%	1%	0%	0%	0%	0%	C	0.0864	F	0.6273	1300	F	2008
+658017	 123	09012	     	123-9012	Harrison St	123	City of Petersburg	123	City of Petersburg	0.03	New St	Corling St	940	F	99%	1%	0%	0%	0%	0%	F	0.0875	F	1.0000	1000	F	2008
+658018	 123	09012	     	123-9012	Corling St	123	City of Petersburg	123	City of Petersburg	0.09	Harrison St	S. Sycamore St	510	F	99%	1%	0%	0%	0%	0%	F	0.0795	F	1.0000	550	F	2008
+658019	 123	09012	     	123-9012	Graham Rd	123	City of Petersburg	123	City of Petersburg	0.83	S. Sycamore St	Ramp From I-95	6800	F	99%	0%	0%	0%	0%	0%	F	0.0827	F	0.5475	7400	F	2008
+658020	 123	09012	     	123-9012	Graham Rd	123	City of Petersburg	123	City of Petersburg	0.14	Ramp From I-95	Crater Rd	11000	F	99%	0%	0%	0%	0%	0%	C	0.0861	F	0.0000	12000	F	2008
+658062	 123	09013	     	123-9013	Halifax  Rd	123	City of Petersburg	123	City of Petersburg	1.79	SCL Petersburg	Wells Rd	3200	F	89%	0%	1%	4%	6%	0%	C	0.0872	F	0.5668	3500	F	2008
+656084	 123	09013	     	123-9013	Halifax Rd	123	City of Petersburg	123	City of Petersburg	0.98	Wells Rd	Boydton Plank Rd	510	F	98%	0%	1%	0%	1%	0%	C	0.1043	F	0.5167	550	F	2008
+658083	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	0.01	SCL Petersburg	Flank Rd	1500	F	99%	0%	0%	0%	0%	0%	F	0.1237	F	0.6297	1700	F	2008
+658084	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	0.54	Flank Rd	Birdsong Rd	1000	F	99%	0%	0%	0%	0%	0%	C	0.0947	F	0.6226	1100	F	2008
+658085	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	1.39	Birdsong Rd	South Blvd	5300	F	99%	0%	0%	0%	0%	0%	F	0.1072	F	0.6091	5800	F	2008
+658086	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	0.46	South Blvd	North Blvd	6200	F	99%	0%	0%	0%	0%	0%	F	0.0838	F	0.5951	6700	F	2008
+658087	 123	09015	     	123-9015	Johnson Rd	123	City of Petersburg	123	City of Petersburg	0.37	North Blvd	St Luke St	4700	F	99%	0%	0%	0%	0%	0%	F	0.0858	F	0.5905	5200	F	2008
+658077	 123	09015	     	123-9015	High Pearl St	123	City of Petersburg	123	City of Petersburg	0.20	St Luke St	Virginia Ave	4900	F	99%	0%	0%	0%	0%	0%	F	0.0831	F	0.5162	5400	F	2008
+658078	 123	09015	     	123-9015	High Pearl St	123	City of Petersburg	123	City of Petersburg	0.08	Virginia Ave	ST Matthew St	3400	F	98%	1%	1%	0%	0%	0%	F	0.0874	F	0.5447	3700	F	2008
+658072	 123	09015	     	123-9015	Harding St	123	City of Petersburg	123	City of Petersburg	0.22	ST Matthews St	Porterville St	1700	F	98%	1%	1%	0%	0%	0%	C	0.0815	F	0.5688	1800	F	2008
+658073	 123	09015	     	123-9015	Harding St	123	City of Petersburg	123	City of Petersburg	0.27	PortersvilleSt	Halifax St	870	F	98%	1%	1%	0%	0%	0%	F	0.0872	F	0.0000	950	F	2008
+658004	 123	09017	     	123-9017	Birdsong Rd	123	City of Petersburg	123	City of Petersburg	0.62	SCL Petersburg	Johnson Rd	840	F	98%	1%	1%	0%	0%	0%	C	0.0983	F	0.8848	910	F	2008
+658096	 123	09021	     	123-9021	N Sycamore St	123	City of Petersburg	123	City of Petersburg	0.18	W Washington St	W Tabb St	3000	F	96%	1%	3%	0%	0%	0%	F	0.0994	F	0.0000	3200	F	2008
+658097	 123	09021	     	123-9021	N Sycamore St	123	City of Petersburg	123	City of Petersburg	0.15	W Tabb St	Bollingbrook St	2600	F	96%	1%	3%	0%	0%	0%	C	0.0929	F	0.0000	2800	F	2008
+658099	 123	09023	     	123-9023	North Blvd	123	City of Petersburg	123	City of Petersburg	0.57	Johnson Rd	S Sycamore St	2800	F	99%	0%	0%	0%	0%	0%	C	0.0881	F	0.6525	3000	F	2008
+658130	 123	09025	     	123-9025	Virginia Ave	123	City of Petersburg	123	City of Petersburg	0.22	Gates Lane	Harding Street	430	F	96%	3%	1%	1%	0%	0%	C	0.1077	F	1.0000	460	F	2008
+658129	 123	09025	     	123-9025	Virginia Ave	123	City of Petersburg	123	City of Petersburg	0.32	Harding Street	Halifax Street	2200	F	96%	3%	1%	1%	0%	0%	F	0.0904	F	0.6156	2400	F	2008
+658150	 123	09025	     	123-9025	Young Ave	123	City of Petersburg	123	City of Petersburg	0.20	Halifax Street	Arlington Street	2300	F	98%	1%	1%	0%	0%	0%	C	0.0871	F	0.5275	2500	F	2008
+658149	 123	09025	     	123-9025	Young Ave	123	City of Petersburg	123	City of Petersburg	0.11	Arlington Street	West Street Young Avenue	3200	F	98%	1%	1%	0%	0%	0%	F	0.0952	F	0.5304	3500	F	2008
+658114	 123	09025	     	123-9025	S West St	123	City of Petersburg	123	City of Petersburg	0.28	West Street Young Avenue	Augusta Avenue	3600	F	98%	1%	1%	0%	0%	0%	F	0.0884	F	0.5407	3900	F	2008
+658115	 123	09025	     	123-9025	S West St	123	City of Petersburg	123	City of Petersburg	0.23	Augusta Avenue	Farmer St	4700	F	98%	1%	1%	0%	0%	0%	F	0.0845	F	0.5113	5100	F	2008
+658116	 123	09025	     	123-9025	S West St	123	City of Petersburg	123	City of Petersburg	0.14	Farmer St	W Wythe St	3700	F	98%	1%	1%	0%	0%	0%	F	0.0854	F	0.5344	4000	F	2008
+658117	 123	09025	     	123-9025	S West St	123	City of Petersburg	123	City of Petersburg	0.07	W Wythe St	W Washington St	2800	F	98%	1%	1%	0%	0%	0%	F	0.0874	F	0.5310	3100	F	2008
+658113	 123	09027	     	123-9027	S West St	123	City of Petersburg	123	City of Petersburg	0.63	Halifax St	Young Ave	2000	F	98%	1%	1%	0%	0%	0%	C	0.0818	F	0.5579	2200	F	2008
+658010	 123	09029	     	123-9029	S. South St	123	City of Petersburg	123	City of Petersburg	0.36	Lee Ave	US 1 Wythe St	2500	F	99%	0%	0%	0%	0%	0%	C	0.0815	F	0.0000	2700	F	2008
+658011	 123	09029	     	123-9029	S. South St	123	City of Petersburg	123	City of Petersburg	0.09	US 1 Wythe St	Washington St	4100	F	99%	0%	0%	0%	0%	0%	F	0.0917	F	0.0000	4500	F	2008
+658012	 123	09029	     	123-9029	N. South St	123	City of Petersburg	123	City of Petersburg	0.20	Washington St	High St	6800	F	99%	0%	0%	0%	0%	0%	F	0.0805	F	0.0000	7400	F	2008
+658079	 123	09029	     	123-9029	High St	123	City of Petersburg	123	City of Petersburg	0.02	N South St	Canal St	1100	F	99%	0%	0%	0%	0%	0%	F	0.0835	F	0.5945	1200	F	2008
+658013	 123	09029	     	123-9029	Canal St	123	City of Petersburg	123	City of Petersburg	0.20	High St	Grove Ave	6600	F	99%	0%	0%	0%	0%	0%	C	0.0799	F	0.0000	7200	F	2008
+658007	 123	09031	     	123-9031	Byrne St	123	City of Petersburg	123	City of Petersburg	0.40	New St	Halifax St	650	F	96%	1%	3%	0%	0%	0%	C	0.0899	F	1.0000	700	F	2008
+658009	 123	09031	     	123-9031	S. Market St	123	City of Petersburg	123	City of Petersburg	0.12	Halifax Rd	Wythe St	4100	F	96%	1%	3%	0%	0%	0%	F	0.0894	F	0.0000	4500	F	2008
+658001	 123	09033	     	123-9033	Apollo St	123	City of Petersburg	123	City of Petersburg	0.14	Sycamore St	Jefferson St	1800	F	99%	0%	0%	0%	0%	0%	F	0.0966	F	0.5052	1900	F	2008
+658002	 123	09033	     	123-9033	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.58	Apollo St	E Wythe St	2800	F	99%	0%	0%	0%	0%	0%	C	0.0906	F	0.6331	3000	F	2008
+658003	 123	09033	     	123-9033	Henry St	123	City of Petersburg	123	City of Petersburg	0.04	3rd Street	N Adams St	660	F	99%	0%	0%	0%	0%	0%	F	0.0987	F	0.5357	720	F	2008
+658101	 123	09038	     	123-9038	Puddledock Rd	123	City of Petersburg	123	City of Petersburg	0.40	E Washington St	ECL Petersburg	6200	F	93%	0%	1%	4%	2%	0%	C	0.0943	F	0.0000	6800	F	2008
+658080	 123	09046	     	123-9046	High St	123	City of Petersburg	123	City of Petersburg	0.58	Canal St	N Market St	1200	F	99%	0%	1%	0%	0%	0%	C	0.0882	F	0.6897	1300	F	2008
+658133	 123	09046	     	123-9046	W Bank St	123	City of Petersburg	123	City of Petersburg	0.14	N Manket St	N Sycamore St	2100	F	99%	0%	1%	0%	0%	0%	F	0.1082	F	1.0000	2300	F	2008
+658152	 123	09046	     	123-9046	E Bank St	123	City of Petersburg	123	City of Petersburg	0.11	N Sycamore St	2Nd St	2700	F	98%	0%	1%	0%	0%	0%	C	0.1075	F	1.0000	2900	F	2008
+658033	 123	09046	     	123-9046	Bank St	123	City of Petersburg	123	City of Petersburg	0.25	US 301 N Crater Rd	East St	2600	F	96%	1%	2%	1%	1%	0%	C	0.1014	F	0.0000	2800	F	2008
+658034	 123	09046	     	123-9046	Bank St	123	City of Petersburg	123	City of Petersburg	0.21	East St	SR 36 E Washington St	3200	F	96%	1%	2%	1%	1%	0%	F	0.0937	F	0.0000	3500	F	2008
+658134	 123	09048	     	123-9048	W Tabb St	123	City of Petersburg	123	City of Petersburg	0.09	N Market St	Union St	1600	F	98%	1%	1%	0%	0%	0%	F	0.1238	F	0.6738	1700	F	2008
+658135	 123	09048	     	123-9048	W Tabb St	123	City of Petersburg	123	City of Petersburg	0.06	Union St	N Sycamore St	1600	F	98%	1%	1%	0%	0%	0%	F	0.1078	F	0.6316	1700	F	2008
+658153	 123	09048	     	123-9048	E Tabb St	123	City of Petersburg	123	City of Petersburg	0.12	N Sycamore St	N Adams St	1000	F	98%	1%	1%	0%	0%	0%	C	0.1162	F	0.5862	1100	F	2008
+658041	 123	09053	     	123-9053	Baylors Ln	123	City of Petersburg	123	City of Petersburg	0.65	Defense Rd	Halifax St	1800	F	99%	1%	0%	0%	0%	0%	C	0.0967	F	0.5946	1900	F	2008
+658088	 123	09055	     	123-9055	Madison St	123	City of Petersburg	123	City of Petersburg	0.05	E Washington St	Franklin St	1700	F	95%	1%	2%	1%	2%	0%	F	0.0975	F	0.9253	1800	F	2008
+658089	 123	09055	     	123-9055	Madison St	123	City of Petersburg	123	City of Petersburg	0.18	Franklin St	E Bank St	1200	F	95%	1%	2%	1%	2%	0%	C	0.0846	F	0.7661	1300	F	2008
+658090	 123	09055	     	123-9055	Madison St	123	City of Petersburg	123	City of Petersburg	0.07	E Bank St	Bollingbrook St	880	F	95%	1%	2%	1%	2%	0%	F	0.0955	F	0.8113	960	F	2008
+658053	 123	09057	     	123-9057	Fifth St	123	City of Petersburg	123	City of Petersburg	0.05	E Bank St	Bollingbrook St	380	F							X	0.1258	F	0.8036	420	F	2008
+658054	 123	09057	     	123-9057	Fifth St	123	City of Petersburg	123	City of Petersburg	0.08	Bollingbrook St	River St	540	F	87%	2%	2%	3%	5%	0%	C	0.1041	F	0.7288	580	F	2008
+781723	 123	09059	     	123-9059	Flank Rd N	123	City of Petersburg	123	City of Petersburg	0.20	Flank Rd One-Way	US 301 S Crater Rd	3900	F	98%	1%	1%	0%	0%	0%	C	0.0900	F	0.0000	4300	F	2008
+658104	 123	09065	     	123-9065	S Adams St	123	City of Petersburg	123	City of Petersburg	0.10	E Wythe St	E Washington St	5200	F							X	0.0904	F	0.0000	5700	F	2008
+558008	 123	00000	     	123-0	Accomack St	123	City of Petersburg	123	City of Petersburg	0.00	6Th St	7Th St	290	F							X	0.0971	F	0.7015	310	F	2008
+558007	 123	00000	     	123-0	Cameron St	123	City of Petersburg	123	City of Petersburg	0.00	Old Church St	Center St	390	F							X	0.1838	F	0.5119	420	F	2008
+558009	 123	00000	     	123-0	Culpeper Ave	123	City of Petersburg	123	City of Petersburg	0.00	Prince George Ave	Brunswick St	410	F							X	0.1077	F	0.6952	450	F	2008
+558004	 123	00000	     	123-0	Custer St	123	City of Petersburg	123	City of Petersburg	0.00	Halifax Rd	Hawk St	400	F							X	0.1080	F	0.5800	440	F	2008
+558002	 123	00000	     	123-0	Darby Dr	123	City of Petersburg	123	City of Petersburg	0.00	Busby St	Halcun Dr	260	F							X	0.1265	F	0.5278	280	F	2008
+558015	 123	00000	     	123-0	Gordon Dr	123	City of Petersburg	123	City of Petersburg	0.00	Dering Rd	Hoke Dr	350	F							X	0.0927	F	0.0000	380	F	2008
+558011	 123	00000	     	123-0	Homestead Dr	123	City of Petersburg	123	City of Petersburg	0.00	Valley Dr	Midland Rd	700	F							X	0.1151	F	0.0000	760	F	2008
+558017	 123	00000	     	123-0	Jefferson St	123	City of Petersburg	123	City of Petersburg	0.00	Filmore St	ST Andrews St	3200	F							X	0.0875	F	0.6236	3500	F	2008
+558019	 123	00000	     	123-0	Kirkham St	123	City of Petersburg	123	City of Petersburg	0.00	Bolling Street	Chestnut Street	450	F							X	0.0866	F	0.5319	490	F	2008
+558013	 123	00000	     	123-0	North Park Dr	123	City of Petersburg	123	City of Petersburg	0.00	Nivram St	Retang Rd	860	F							X	0.0982	F	0.0000	930	F	2008
+558016	 123	00000	     	123-0	Oakmont Dr	123	City of Petersburg	123	City of Petersburg	0.00	Homestead Dr	Midland Rd	110	F							X	0.1144	F	0.7407	120	F	2008
+558006	 123	00000	     	123-0	Old Church St	123	City of Petersburg	123	City of Petersburg	0.00	Bollingbrook St	Miller St	460	F							X	0.0876	F	0.5213	500	F	2008
+558003	 123	00000	     	123-0	Patterson Ave	123	City of Petersburg	123	City of Petersburg	0.00	Floyd St	Carver St	1000	F							X	0.1249	F	0.6345	1100	F	2008
+558001	 123	00000	     	123-0	Pleasants Ln	123	City of Petersburg	123	City of Petersburg	0.00	Valor Dr	Dupuy Rd	890	F							X	0.1425	F	0.6844	970	F	2008
+558010	 123	00000	     	123-0	Richmond Ave	123	City of Petersburg	123	City of Petersburg	0.00	Ash St	Nash St	850	F							X	0.0843	F	0.5472	930	F	2008
+558012	 123	00000	     	123-0	Rollingwood Rd	123	City of Petersburg	123	City of Petersburg	0.00	Valley St	Homestead Dr	110	F							X	0.1406	F	0.0000	120	F	2008
+558014	 123	00000	     	123-0	South Park Dr	123	City of Petersburg	123	City of Petersburg	0.00	Forest Hill Rd	West Park Dr	2000	F							X	0.0895	F	0.0000	2200	F	2008
+558018	 123	00000	     	123-0	St Matthew St	123	City of Petersburg	123	City of Petersburg	0.00	High Pearl St	Harding St	3100	F							X	0.0775	F	0.5645	3400	F	2008
+558005	 123	00000	     	123-0	Talley Ave	123	City of Petersburg	123	City of Petersburg	0.00	Custer St	Edmonds Ct	690	F							X	0.2647	F	0.5806	750	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

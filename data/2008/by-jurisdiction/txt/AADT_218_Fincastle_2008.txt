@@ -1,0 +1,32 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Fincastle																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+020122	  US	00220	     	US 220	Botetourt Rd	218	Town of Fincastle	011	Botetourt County	0.11	SCL Fincastle	11-630 Main St	11000	N	92%	1%	1%	1%	6%	0%	N	0.0984	N	0.0000	12000	N	2008
+020090	  US	00220	     	US 220	Botetourt Rd	218	Town of Fincastle	011	Botetourt County	0.18	11-630 Main St	NCL Fincastle	8800	G	92%	1%	1%	1%	6%	0%	F	0.0788	F	0.5649	9400	G	2008
+403469	  11	00606	     	11-606	Blue Ridge Tpke	218	Town of Fincastle	011	Botetourt County	0.19	11-630 Hancock St; E Main St	ECL Fincastle	650	G	95%	4%	1%	1%	0%	0%	F	0.1186	F	0.5436	680	G	2008
+403499	  11	00630	     	11-630	W Main St	218	Town of Fincastle	011	Botetourt County	0.14	WCL Fincastle	US 220 Botetourt Rd	1600	G	97%	1%	1%	0%	0%	0%	F	0.1067	F	0.6467	1700	G	2008
+403501	  11	00630	     	11-630	E Main St	218	Town of Fincastle	011	Botetourt County	0.19	US 220 Botetourt Rd	11-1202 Church St	1300	G	97%	1%	1%	0%	0%	0%	F	0.1211	F	0.7500	1300	G	2008
+403503	  11	00630	     	11-630	E Main St	218	Town of Fincastle	011	Botetourt County	0.20	11-1202 Church St	11-606 Blue Ridge Tpke	2500	G	97%	1%	1%	0%	0%	0%	C	0.1265	F	0.5394	2700	G	2008
+403507	  11	00630	     	11-630	N Hancock St	218	Town of Fincastle	011	Botetourt County	0.29	11-606 Blue Ridge Tpke	ECL Fincastle	2800	G	97%	1%	1%	0%	0%	0%	F	0.1589	F	0.5062	3000	G	2008
+785056	  11	01201	     	11-1201	S Factory St	218	Town of Fincastle	011	Botetourt County	0.10	SCL Fincastle	11-630, W Main St	50	N							X				0	N	04/13/2004
+785057	  11	01202	     	11-1202	S Church St	218	Town of Fincastle	011	Botetourt County	0.06	SCL Fincastle	11-1203 Academy St	1300	N							X				0	N	04/13/2004
+707412	  11	01202	     	11-1202	S Church St	218	Town of Fincastle	011	Botetourt County	0.18	11-1203 Academy St	11-630, E Main St	1400	R							X						04/13/2004
+785012	  11	01202	     	11-1202	N Church St	218	Town of Fincastle	011	Botetourt County	0.06	11-630, E Main St	11-1205, W Back St	120	R							X						04/13/2004
+707413	  11	01203	     	11-1203	Academy St	218	Town of Fincastle	011	Botetourt County	0.10	11-1204 Roanoke St	11-1202 Church St	300	R							X						04/13/2004
+785058	  11	01204	     	11-1204	Roanoke St	218	Town of Fincastle	011	Botetourt County	0.12	SCL Fincastle	11-630 Main St	700	N							X				0	N	04/13/2004
+785013	  11	01204	     	11-1204	Roanoke St	218	Town of Fincastle	011	Botetourt County	0.19	11-630 Main St	NCL Fincastle	730	R							X						04/13/2004
+707415	  11	01205	     	11-1205	Back St	218	Town of Fincastle	011	Botetourt County	0.40	US 220 Botetourt Rd	11-630, N Hancock St	600	R							X						04/13/2004
+707416	  11	01206	     	11-1206	E Murray St	218	Town of Fincastle	011	Botetourt County	0.10	11-1204, S Roanoke St	11-1202, S Church St	120	R							X						04/13/2004
+707417	  11	01207	     	11-1207	Jefferson St; Carper St	218	Town of Fincastle	011	Botetourt County	0.18	11-1205, E Back St	11-630, N Hancock St	40	R							X						04/13/2004
+707418	  11	01208	     	11-1208	S Water St	218	Town of Fincastle	011	Botetourt County	0.09	Dead End	11-630, E Main St	100	R							X						04/13/2004
+785014	  11	01208	     	11-1208	N Water St	218	Town of Fincastle	011	Botetourt County	0.06	11-630, E Main St	11-1205, E Back St	40	R							X						04/13/2004
+707419	  11	01209	     	11-1209	N Monroe St	218	Town of Fincastle	011	Botetourt County	0.12	11-630, E Main St	11-1207 Carper St	40	R							X						04/13/2004
+707420	  11	01210	     	11-1210	S Hancock St	218	Town of Fincastle	011	Botetourt County	0.18	Dead End	11-630, E Main St	20	R							X						04/13/2004
+707422	  11	01212	     	11-1212	Federal St	218	Town of Fincastle	011	Botetourt County	0.06	US 220 Botetourt Rd	11-1204 Roanoke St	30	R							X						04/13/2004
+707598	  11	09056	     	11-9056	 	218	Town of Fincastle	011	Botetourt County	0.15	11-1202 S Church St	Dead End	90	R							X						04/30/2007
+707602	  11	09479	     	11-9479	Breckenridge School	218	Town of Fincastle	011	Botetourt County	0.15	11-630 Springwood Rd	Breckenridge Sch	460	R							X						04/18/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

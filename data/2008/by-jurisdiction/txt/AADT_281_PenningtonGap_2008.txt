@@ -1,0 +1,85 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Pennington Gap																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+010576	A1US	00058	     	Alt US 58	Morgan Ave	281	Town of Pennington Gap	052	Lee County	1.79	WCL Pennington Gap	US 421 W, Old Zion Rd	11000	N	96%	0%	1%	1%	2%	0%	N	0.0936	N	0.6576	12000	N	2008
+010265	A1US	00058	     	Alt US 58, US 421	 	281	Town of Pennington Gap	052	Lee County	0.40	US 421 W, Old Zion Rd	US 421 E, Woodway Rd	14000	G	96%	0%	1%	1%	2%	0%	F	0.0896	F	0.5135	14000	G	2008
+010264	A1US	00058	     	Alt US 58	Trail of the Lonesome Pine	281	Town of Pennington Gap	052	Lee County	0.23	US 421 E, Woodway Rd	ECL Pennington Gap	6100	G	96%	0%	1%	1%	2%	0%	C	0.0847	F	0.5223	6400	G	2008
+010158	  US	00421	     	US 421	 	281	Town of Pennington Gap	052	Lee County	0.77	NCL Pennington Gap	ALT US 58 W	4600	N	93%	0%	1%	2%	3%	0%	N	0.0946	N	0.5098	4800	N	2008
+010265	  US	00421	     	Alt US 58, US 421	 	281	Town of Pennington Gap	052	Lee County	0.40	ALT US 58 W	ALT US 58 E	14000	G	96%	0%	1%	1%	2%	0%	F	0.0896	F	0.5135	14000	G	2008	
+010270	  US	00421	     	US 421	 	281	Town of Pennington Gap	052	Lee County	0.18	ALT US 58 E	SCL Pennington Gap	5100	G	93%	0%	1%	3%	3%	0%	F	0.0881	F	0.5019	5300	G	2008
+749207	  52	00633	     	52-633	 	281	Town of Pennington Gap	052	Lee County	0.45	SCL PENNINGTON GAP	NCL PENNINGTON GAP	8	R							X						04/02/2001
+400796	  52	00640	     	52-640	Skaggs Hill Rd	281	Town of Pennington Gap	052	Lee County	0.11	52-1106 Ford St	52-1123	630	G	98%	0%	1%	0%	0%	0%	F	0.1053	F	0.6187	660	G	2008
+400797	  52	00640	     	52-640	Skaggs Hill Rd	281	Town of Pennington Gap	052	Lee County	0.25	52-1123	52-1117 Hospital Dr	690	G	98%	0%	1%	0%	0%	0%	F	0.1016	F	0.6846	730	G	2008
+400798	  52	00640	     	52-640	Skaggs Hill Rd	281	Town of Pennington Gap	052	Lee County	0.20	52-1117 Hospital Dr	Alt US 58	1200	G	98%	0%	1%	0%	0%	0%	F	0.0863	F	0.5683	1300	G	2008
+749377	  52	00706	     	52-706	 	281	Town of Pennington Gap	052	Lee County	0.67	US 58 ALT; 52-1111	US 421	3000	R							X						1998
+787455	  52	00706	     	52-706	 	281	Town of Pennington Gap	052	Lee County	0.08	US 421	Dead End	0	?							X
+785140	  52	00721	     	52-721	 	281	Town of Pennington Gap	052	Lee County	0.11	WCL Pennington Gap	Alt US 58	2500	N							X				0	N	1998
+749455	  52	00764	     	52-764	 	281	Town of Pennington Gap	052	Lee County	0.66	US 421	52-1104 Anderson St	720	R							X						05/16/2001
+749456	  52	00764	     	52-764	 	281	Town of Pennington Gap	052	Lee County	0.20	52-1104 Anderson St	52-1114 Foesrt Ave	600	R							X						05/16/2001
+749457	  52	00764	     	52-764	 	281	Town of Pennington Gap	052	Lee County	0.26	52-1114 Forest Ave	52-706	510	R							X						05/16/2001
+749657	  52	01100	     	52-1100	Smithfield Dr	281	Town of Pennington Gap	052	Lee County	0.06	52-1116	Dead End	40	R							X						05/16/2001
+749658	  52	01101	     	52-1101	Cecil St	281	Town of Pennington Gap	052	Lee County	0.20	Alt US 58	52-1133 Bailey Rd	750	R							X						05/16/2001
+749659	  52	01101	     	52-1101	Cecil St	281	Town of Pennington Gap	052	Lee County	0.10	52-1133 Bailey Rd	NCL Pennington Gap	100	R							X						05/16/2001
+749660	  52	01102	     	52-1102	 	281	Town of Pennington Gap	052	Lee County	0.14	Alt US 58	Dead End	350	R							X						05/16/2001
+749661	  52	01103	     	52-1103	 	281	Town of Pennington Gap	052	Lee County	0.27	Dead End	52-1101 Cecil St	90	R							X						05/16/2001
+749662	  52	01103	     	52-1103	 	281	Town of Pennington Gap	052	Lee County	0.50	52-1101 Cecil St	52-1102	330	R							X						05/16/2001
+749663	  52	01103	     	52-1103	 	281	Town of Pennington Gap	052	Lee County	0.18	52-1102	Dead End	110	R							X						05/16/2001
+749664	  52	01104	     	52-1104	 	281	Town of Pennington Gap	052	Lee County	0.06	52-764	Alt US 58	500	R							X						05/16/2001
+785901	  52	01104	     	52-1104	Anderson St	281	Town of Pennington Gap	052	Lee County	0.12	Alt US 58	52-1114 Forest Ave	500	N							X				0	N	05/16/2001
+749665	  52	01104	     	52-1104	 	281	Town of Pennington Gap	052	Lee County	0.06	52-1114 Forest Ave	52-1134 EAST	170	R							X						05/16/2001
+749666	  52	01104	     	52-1104	 	281	Town of Pennington Gap	052	Lee County	0.11	52-1134 WEST	52-1136	70	R							X						05/16/2001
+749667	  52	01105	     	52-1105	Johnson St	281	Town of Pennington Gap	052	Lee County	0.28	52-764	52-1113 Robinette St	160	R							X						05/16/2001
+749668	  52	01106	     	52-1106	 	281	Town of Pennington Gap	052	Lee County	0.28	52-640 SCL PENN GAP	Dead End	80	R							X						04/04/2001
+749670	  52	01108	     	52-1108	 	281	Town of Pennington Gap	052	Lee County	0.25	52-1104 Anderson St	US 421	160	R							X						05/16/2001
+749671	  52	01108	     	52-1108	 	281	Town of Pennington Gap	052	Lee County	0.17	US 421	Dead End	130	R							X						05/16/2001
+749672	  52	01109	     	52-1109	Oakwood Ave	281	Town of Pennington Gap	052	Lee County	0.33	Dead End	US 421	210	R							X						05/16/2001
+749673	  52	01109	     	52-1109	Oakwood Ave	281	Town of Pennington Gap	052	Lee County	0.26	US 421	52-1137	230	R							X						05/16/2001
+749674	  52	01110	     	52-1110	 	281	Town of Pennington Gap	052	Lee County	0.06	52-1103	Dead End	10	R							X						05/16/2001
+749675	  52	01111	     	52-1111	Joslyn Ave	281	Town of Pennington Gap	052	Lee County	0.69	52-706	Alt US 58	1500	R							X						05/16/2001
+749676	  52	01112	     	52-1112	 	281	Town of Pennington Gap	052	Lee County	0.05	52-1111 Joslyn Ave	Alt US 58	1000	R							X						05/16/2001
+749677	  52	01112	     	52-1112	 	281	Town of Pennington Gap	052	Lee County	0.04	Alt US 58	Dead End	50	R							X						05/16/2001
+749678	  52	01113	     	52-1113	Robinette St	281	Town of Pennington Gap	052	Lee County	0.18	Dead End	US 421	100	R							X						05/16/2001
+749679	  52	01114	     	52-1114	 	281	Town of Pennington Gap	052	Lee County	0.12	52-764	52-1104 Gap Terminus	90	R							X						05/16/2001
+749680	  52	01114	     	52-1114	 	281	Town of Pennington Gap	052	Lee County	0.25	US 421 Gap Terminus	Dead End	140	R							X						05/16/2001
+749681	  52	01115	     	52-1115	 	281	Town of Pennington Gap	052	Lee County	0.08	52-1116 Herndon St	52-1101 Cecil St	220	R							X						05/16/2001
+749682	  52	01116	     	52-1116	Herndon St	281	Town of Pennington Gap	052	Lee County	0.22	Alt US 58	Dead End	530	R							X						05/16/2001
+749683	  52	01117	     	52-1117	Hospital Dr	281	Town of Pennington Gap	052	Lee County	0.12	Dead End	52-640	160	R							X						04/04/2001
+749684	  52	01118	     	52-1118	 	281	Town of Pennington Gap	052	Lee County	0.06	52-1117 Hospital Dr	52-1119 Willow Rd	60	R							X						04/04/2001
+749685	  52	01119	     	52-1119	Willow Rd	281	Town of Pennington Gap	052	Lee County	0.07	Dead End	52-1118	40	R							X						04/04/2001
+749686	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.06	Dead End	52-1103	40	R							X						05/16/2001
+749687	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.07	52-1103	Alt US 58	100	R							X						05/16/2001
+749688	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.05	Alt US 58	52-1111 Joslyn Ave	270	R							X						05/16/2001
+749689	  52	01120	     	52-1120	Ford St	281	Town of Pennington Gap	052	Lee County	0.06	52-1111 Joslyn Ave	Dead End	200	R							X						05/16/2001
+749690	  52	01121	     	52-1121	 	281	Town of Pennington Gap	052	Lee County	0.25	Dead End	52-1116 Herndon St	290	R							X						05/16/2001
+749692	  52	01123	     	52-1123	St	281	Town of Pennington Gap	052	Lee County	0.10	52-640 Skaggs Hill Rd	52-1140	60	R							X						04/04/2001
+749693	  52	01124	     	52-1124	Lee St	281	Town of Pennington Gap	052	Lee County	0.08	52-764	Alt US 58	150	R							X						05/16/2001
+749694	  52	01125	     	52-1125	Doris Ave	281	Town of Pennington Gap	052	Lee County	0.26	52-1104 Anderson St	US 421;  US 58 ALT	880	R							X						05/16/2001
+749695	  52	01126	     	52-1126	Duff St	281	Town of Pennington Gap	052	Lee County	0.17	Alt US 58	Dead End	460	R							X						05/16/2001
+749696	  52	01127	     	52-1127	Burke St	281	Town of Pennington Gap	052	Lee County	0.04	52-1111 Joslyn Ave	Alt US 58	160	R							X						05/16/2001
+749697	  52	01128	     	52-1128	 	281	Town of Pennington Gap	052	Lee County	0.06	Alt US 58	52-1103	460	R							X						05/16/2001
+749698	  52	01129	     	52-1129	 	281	Town of Pennington Gap	052	Lee County	0.16	52-640 Skaggs Hill Rd	Dead End	360	R							X						1998
+749699	  52	01130	     	52-1130	 	281	Town of Pennington Gap	052	Lee County	0.04	52-706	52-1141	240	R							X						05/16/2001
+749700	  52	01131	     	52-1131	Walnut St	281	Town of Pennington Gap	052	Lee County	0.04	52-1108	52-1109 Oakwood Ave	80	R							X						05/16/2001
+749701	  52	01132	     	52-1132	Allen St	281	Town of Pennington Gap	052	Lee County	0.05	52-1109 Oakwood Ave	52-1114	120	R							X						05/16/2001
+749702	  52	01133	     	52-1133	Bailey St	281	Town of Pennington Gap	052	Lee County	0.25	52-1101 Cecil St	Dead End	150	R							X						05/16/2001
+749703	  52	01134	     	52-1134	 	281	Town of Pennington Gap	052	Lee County	0.09	52-1138	52-1135	90	R							X						05/16/2001
+749704	  52	01135	     	52-1135	 	281	Town of Pennington Gap	052	Lee County	0.11	52-1136	52-1134	50	R							X						05/16/2001
+749705	  52	01136	     	52-1136	 	281	Town of Pennington Gap	052	Lee County	0.05	52-1104 Anderson St	52-1135	70	R							X						05/16/2001
+749706	  52	01137	     	52-1137	 	281	Town of Pennington Gap	052	Lee County	0.48	US 58	Dead End	760	R							X						05/16/2001
+749707	  52	01138	     	52-1138	 	281	Town of Pennington Gap	052	Lee County	0.08	52-1134	Dead End	40	R							X						05/16/2001
+749708	  52	01139	     	52-1139	 	281	Town of Pennington Gap	052	Lee County	0.16	Dead End	52-1103	60	R							X						05/16/2001
+749709	  52	01140	     	52-1140	 	281	Town of Pennington Gap	052	Lee County	0.05	Dead End	52-1123	46	R							X						04/04/2001
+749710	  52	01141	     	52-1141	 	281	Town of Pennington Gap	052	Lee County	0.16	US 58	52-1130	510	R							X						1998
+749711	  52	01141	     	52-1141	 	281	Town of Pennington Gap	052	Lee County	0.17	52-1130	Dead End	320	R							X						1998
+749712	  52	01142	     	52-1142	 	281	Town of Pennington Gap	052	Lee County	0.01	52-706	Dead End	200	R							X						1998
+749713	  52	01143	     	52-1143	 	281	Town of Pennington Gap	052	Lee County	0.05	Alt US 58	52-1103	0	?							X
+749714	  52	01144	     	52-1144	 	281	Town of Pennington Gap	052	Lee County	0.14	52-640	Dead End	0	?							X
+749715	  52	01145	     	52-1145	 	281	Town of Pennington Gap	052	Lee County	0.04	52-721	Dead End	180	R							X						1998
+787889	  52	01148	     	52-1148	 	281	Town of Pennington Gap	052	Lee County	0.38	52-00706(U)/	52-00621(B)/	0	?							X
+784151	  52	01149	     	52-1149	 	281	Town of Pennington Gap	052	Lee County	0.05	52-1111 Joslyn Ave	ALT US 58 WEST	0	?							X
+749779	  52	09659	     	52-9659	 	281	Town of Pennington Gap	052	Lee County	0.16	Alt US 58	PENNINGTON GAP SCHO	1400	R							X						1994
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

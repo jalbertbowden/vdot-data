@@ -1,0 +1,720 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Westmoreland Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+160043	  SR	00003	     	VA 3	Kings Hwy	096	Westmoreland County	096	Westmoreland County	2.84	King George County Line	SR 205 Oak Grove	5100	G	91%	1%	2%	1%	4%	0%	F	0.0871	F	0.5635	5500	G	2008
+160044	  SR	00003	     	VA 3	Kings Hwy	096	Westmoreland County	096	Westmoreland County	2.83	SR 205 Oak Grove	SR 204 N Of Potomac Mills	6500	G	91%	1%	2%	1%	4%	0%	F	0.0874	F	0.6551	7000	G	2008
+160045	  SR	00003	     	VA 3	Kings Hwy	096	Westmoreland County	096	Westmoreland County	2.05	SR 204 N Of Potomac Mills	96-624 West	6300	G	91%	1%	2%	1%	4%	0%	F	0.0897	F	0.6548	6900	G	2008
+160046	  SR	00003	     	VA 3	Kings Hwy	096	Westmoreland County	096	Westmoreland County	2.83	96-624 West	SR 347 Westmoreland State Park Road	5900	G	91%	1%	2%	1%	4%	0%	F	0.0880	F	0.6460	6400	G	2008
+160047	  SR	00003	     	VA 3	Kings Hwy	096	Westmoreland County	096	Westmoreland County	0.68	SR 347 Westmoreland State Park Road	SR 214 Lerty	6000	G	92%	1%	2%	1%	3%	0%	C	0.0953	F	0.6310	6500	G	2008
+160048	  SR	00003	     	VA 3	Kings Hwy	096	Westmoreland County	096	Westmoreland County	3.57	SR 214 Lerty	WCL Montross	5400	G	92%	1%	2%	1%	3%	0%	F	0.0907	F	0.6620	5800	G	2008
+160083	  SR	00003	     	VA 3	Kings Hwy	263	Town of Montross	096	Westmoreland County	0.95	WCL Montross	96-622 Peach Grove St	5400	N	92%	1%	2%	1%	3%	0%	N	0.0907	N	0.6620	5800	N	2008
+160049	  SR	00003	     	VA 3	Kings Hwy	263	Town of Montross	096	Westmoreland County	1.49	96-622 Peach Grove St	ECL Montross	7700	G	95%	1%	1%	1%	2%	0%	C	0.0978	F	0.6124	8300	G	2008
+160084	  SR	00003	     	VA 3	Kings Hwy	096	Westmoreland County	096	Westmoreland County	1.89	ECL Montross	SR 202 Cople Hwy	7700	N	95%	1%	1%	1%	2%	0%	N	0.0978	N	0.6124	8300	N	2008
+160050	  SR	00003	     	VA 3	Kings Hwy	096	Westmoreland County	096	Westmoreland County	5.89	SR 202 Cople Hwy	Richmond County Line	4300	G	95%	1%	1%	1%	2%	0%	F	0.0945	F	0.5390	4700	G	2008
+060052	  SR	00202	     	VA 202	Cople Hwy	096	Westmoreland County	096	Westmoreland County	0.33	SR 3 Kings Hwy	96-767	4600	G	94%	1%	1%	1%	3%	0%	C	0.0941	F	0.6624	5000	G	2008
+060078	  SR	00202	     	VA 202	Cople Hwy	096	Westmoreland County	096	Westmoreland County	5.39	96-767	96-626 Erica Rd	3600	G	94%	1%	1%	1%	3%	0%	F	0.0901	F	0.6667	3900	G	2008
+060328	  SR	00202	     	VA 202	Cople Hwy	096	Westmoreland County	096	Westmoreland County	4.22	96-626 W, Erica Rd	96-611 Zion Church Rd	3800	G	93%	0%	2%	2%	3%	0%	C	0.0910	F	0.7003	4100	G	2008
+060327	  SR	00202	     	VA 202	Cople Hwy	096	Westmoreland County	096	Westmoreland County	2.64	96-611 Zion Church Rd	SR 203 W, Oldhams Rd	3900	G	93%	0%	2%	2%	3%	0%	F	0.0781	F	0.5560	4200	G	2008
+060373	  SR	00202	     	VA 202, VA 203	Cople Hwy	096	Westmoreland County	096	Westmoreland County	0.60	SR 203 W, Oldhams Rd	SR 203 Greys Corner	3500	G	93%	0%	2%	2%	3%	0%	F	0.0788	F	0.5538	3700	G	2008
+060076	  SR	00202	     	VA 202	Cople Hwy	096	Westmoreland County	096	Westmoreland County	1.21	SR 203 Greys Corner East	Northumberland County Line	2700	G	93%	0%	2%	1%	4%	0%	F	0.0831	F	0.5874	2900	G	2008
+060330	  SR	00203	     	VA 203	Oldhams Rd	096	Westmoreland County	096	Westmoreland County	5.82	Richmond County Line	96-604 Sandy Point Rd	2100	G	79%	0%	2%	1%	18%	0%	F	0.0800	F	0.6021	2300	G	2008
+060054	  SR	00203	     	VA 203	Oldhams Rd	096	Westmoreland County	096	Westmoreland County	1.21	96-604 Sandy Point Rd	SR 202 W, Cople Hwy	890	G	79%	0%	2%	1%	18%	0%	C	0.0895	F	0.5000	960	G	2008
+060373	  SR	00203	     	VA 202, VA 203	Cople Hwy	096	Westmoreland County	096	Westmoreland County	0.60	W SR 202	E SR 202	3500	G	93%	0%	2%	2%	3%	0%	F	0.0788	F	0.5538	3700	G	2008	
+060080	  SR	00203	     	VA 203	Kinsale Rd	096	Westmoreland County	096	Westmoreland County	1.73	SR 202 E, Cople Hwy	96-608 Kinsale	800	G	79%	0%	2%	1%	18%	0%	F	0.0997	F	0.5619	860	G	2008
+060056	  SR	00204	     	VA 204	Popes Creek Rd	096	Westmoreland County	096	Westmoreland County	1.73	SR 3 North of Potomac Mills	Dead End	170	G	96%	0%	1%	4%	0%	0%	C	0.1257	F	0.6667	190	G	2008
+060333	  SR	00205	     	VA 205	Ridge Rd	096	Westmoreland County	096	Westmoreland County	3.56	King George County Line	NWCL Colonial Beach	4400	F	96%	1%	2%	1%	1%	0%	C	0.0886	F	0.0000	4700	F	2008
+060336	  SR	00205	     	VA 205	 	199	Town of Colonial Beach	096	Westmoreland County	1.77	NWCL Colonial Beach	Y SR 205	4400	N	96%	1%	2%	1%	1%	0%	N	0.0886	N	0.0000	4700	N	2008
+060332	  SR	00205	     	VA 205	James Monroe Hwy	199	Town of Colonial Beach	096	Westmoreland County	0.29	Y SR 205	SCL Colonial Beach	5400	G	97%	1%	1%	0%	1%	0%	F	0.0904	F	0.5392	5800	G	2008
+060339	  SR	00205	     	VA 205	 	096	Westmoreland County	096	Westmoreland County	3.34	SCL Colonial Beach	96-628 S, Stoney Knoll; Pomona Rd	5400	N	97%	1%	1%	0%	1%	0%	N	0.0904	N	0.5392	5800	N	2008
+060331	  SR	00205	     	VA 205	James Monroe Hwy	096	Westmoreland County	096	Westmoreland County	2.08	96-628 S, Stoney Knoll; Pomona Rd	SR 3 Oak Grove	5700	G	97%	1%	1%	0%	1%	0%	C	0.0934	F	0.6000	6200	G	2008
+060334	Y SR	00205	     	Wye VA 205	Colonial Ave	096	Westmoreland County	096	Westmoreland County	0.02	SR 205	WCL Colonial Beach	6300	G	98%	0%	1%	0%	0%	0%	C	0.0875	F	0.5000	6800	G	2008
+060340	Y SR	00205	     	Wye VA 205	Colonial Ave	199	Town of Colonial Beach	096	Westmoreland County	0.69	WCL Colonial Beach	End State Maintenance SR 205	6300	N	98%	0%	1%	0%	0%	0%	N	0.0875	N	0.5000	6800	N	2008
+060335	  SR	00214	     	VA 214	Stratford Hall Rd	096	Westmoreland County	096	Westmoreland County	2.48	SR 3 Lerty	96-609 Stratford Hall Rd	1200	G	97%	0%	1%	1%	0%	0%	C	0.1059	F	0.5655	1300	G	2008
+404627	  96	00600	     	96-600	Neenah Rd	096	Westmoreland County	096	Westmoreland County	3.21	SR 202 Cople Hwy	96-621 W, Nomini Grove Rd	550	G	96%	1%	1%	0%	1%	0%	F	0.1155	F	0.5960	600	G	2008
+404628	  96	00600	     	96-600	Neenah Rd	096	Westmoreland County	096	Westmoreland County	0.93	96-621 W, Nomini Grove Rd	96-621 E, Prospect Hill Rd	870	G	96%	1%	1%	0%	1%	0%	C	0.1205	F	0.5526	950	G	2008
+404629	  96	00600	     	96-600	Nomini Grove Rd	096	Westmoreland County	096	Westmoreland County	1.72	96-621 E, Prospect Hill Rd	96-612 West	400	G	96%	1%	1%	0%	1%	0%	F	0.1209	F	0.5833	440	G	2008
+404630	  96	00600	     	96-600	Nomini Rd	096	Westmoreland County	096	Westmoreland County	0.81	96-612 West	96-615 Jerusalem Church Rd	800	G	96%	1%	1%	0%	1%	0%	F	0.1133	F	0.6316	860	G	2008
+404631	  96	00600	     	96-600	Nomini Hall Rd	096	Westmoreland County	096	Westmoreland County	0.43	96-615 Jerusalem Church Rd	96-614 Weldons Dr	350	G	96%	1%	1%	0%	1%	0%	F	0.1183	F	0.5800	380	G	2008
+404632	  96	00600	     	96-600	Nomini Hall Rd	096	Westmoreland County	096	Westmoreland County	1.95	96-614 Weldons Dr	SR 203 Oldhams Rd	330	G	96%	1%	1%	0%	1%	0%	F	0.1131	F	0.5333	360	G	2008
+404633	  96	00600	     	96-600	Ebenezer Church Rd	096	Westmoreland County	096	Westmoreland County	1.28	SR 203 Oldhams Rd	96-619 Chestnut Level Lane	650	G	96%	1%	1%	0%	1%	0%	F	0.1095	F	0.6375	700	G	2008
+777347	  96	00600	     	96-600	Ebenezer Church Rd	096	Westmoreland County	096	Westmoreland County	1.16	96-619 Chestnut Level Lane	96-601 Kings Mill Rd	360	R							X						05/16/2007
+777348	  96	00600	     	96-600	Ebenezer Church Rd	096	Westmoreland County	096	Westmoreland County	0.72	96-601 Kings Mill Rd	Northumberland County Line	340	R							X						05/16/2007
+777349	  96	00601	     	96-601	Kings Mill Rd	096	Westmoreland County	096	Westmoreland County	3.00	96-600 Ebenezer Church Rd	96-602 Vault Field Rd	30	R							X						05/16/2007
+777350	  96	00601	     	96-601	Kings Mill Rd	096	Westmoreland County	096	Westmoreland County	1.20	96-602 Vault Field Rd	SR 202 Cople Hwy	150	R							X						05/16/2007
+777351	  96	00602	     	96-602	Vault Field Rd	096	Westmoreland County	096	Westmoreland County	1.10	SR 203 Oldhams Rd	96-601 Kings Mill Rd	120	R							X						05/16/2007
+777352	  96	00602	     	96-602	Vault Field Rd	096	Westmoreland County	096	Westmoreland County	0.65	96-601 Kings Mill Rd	Dead End	40	R							X						05/16/2007
+777353	  96	00603	     	96-603	Mulberry Lane	096	Westmoreland County	096	Westmoreland County	1.00	Dead End	SR 203 Oldhams Rd	30	R							X						06/09/2004
+404634	  96	00604	     	96-604	Sandy Point Rd	096	Westmoreland County	096	Westmoreland County	1.22	SR 203 Oldhams Rd	SR 202 Cople Hwy	1600	G	94%	1%	2%	0%	3%	0%	C	0.0924	F	0.5000	1700	G	2008
+404635	  96	00604	     	96-604	Sandy Point Rd	096	Westmoreland County	096	Westmoreland County	2.41	SR 202 Cople Hwy	96-607 Kinsale Bridge Rd	1200	G	94%	1%	2%	0%	3%	0%	F	0.0890	F	0.5620	1300	G	2008
+777354	  96	00604	     	96-604	Sandy Point Rd	096	Westmoreland County	096	Westmoreland County	2.06	96-607 Kinsale Bridge Rd	96-610 W, Tucker Hill Rd	940	R							X						05/21/2007
+404636	  96	00604	     	96-604	Sandy Point Rd	096	Westmoreland County	096	Westmoreland County	0.32	96-610 W, Tucker Hill Rd	96-610 MID	700	G	94%	1%	2%	0%	3%	0%	F	0.0897	F	0.5105	750	G	2008
+777355	  96	00604	     	96-604	Sandy Point Rd	096	Westmoreland County	096	Westmoreland County	0.96	96-610 MID	96-610 E, Tucker Hill Rd	330	R							X						06/15/2004
+777356	  96	00605	     	96-605	Dinks Mill Rd	096	Westmoreland County	096	Westmoreland County	0.30	Dead End	0.30 MN Dead End	50	R							X						06/15/2004
+777357	  96	00605	     	96-605	Dinks Mill Rd	096	Westmoreland County	096	Westmoreland County	0.05	0.30 MN Dead End	96-604 Sandy Point Rd	110	R							X						06/15/2004
+404637	  96	00606	     	96-606	Tucker Hill Rd	096	Westmoreland County	096	Westmoreland County	2.00	96-612 Coles Point Rd	96-611 W, Zion Church Rd	200	G	92%	1%	4%	0%	3%	0%	C	0.1196	F	0.5200	220	G	2008
+404638	  96	00606	     	96-606	Tucker Hill Rd	096	Westmoreland County	096	Westmoreland County	0.86	96-611 W, Zion Church Rd	96-610 E, Tucker Hill Rd	320	G	92%	1%	4%	0%	3%	0%	F	0.0965	F	0.5347	350	G	2008
+777358	  96	00606	     	96-606	Old Yeocomico Rd	096	Westmoreland County	096	Westmoreland County	1.62	96-610 E, Tucker Hill Rd	96-604 E, Sandy Point Rd	260	R							X						05/21/2007
+777359	  96	00606	     	96-606	Bancton Rd	096	Westmoreland County	096	Westmoreland County	1.37	96-604 W, Sandy Point Rd	Dead End	90	R							X						05/21/2007
+404639	  96	00607	     	96-607	Kinsale Bridge Rd	096	Westmoreland County	096	Westmoreland County	1.40	96-608 White Point Rd; Kinsale Rd	96-604 Sandy Point Rd	340	G	96%	1%	2%	0%	0%	0%	C	0.1073	F	0.5854	370	G	2008
+404640	  96	00608	     	96-608	Kinsale Rd	096	Westmoreland County	096	Westmoreland County	0.35	SR 203 Kinsale Rd	96-607 Kinsale Bridge Rd	460	G	96%	1%	3%	0%	1%	0%	C	0.1076	F	0.5818	500	G	2008
+777360	  96	00608	     	96-608	White Point Rd	096	Westmoreland County	096	Westmoreland County	1.56	96-607 Kinsale Bridge Rd	Dead End	310	R							X						05/21/2007
+404641	  96	00609	     	96-609	Stratford Hall Rd	096	Westmoreland County	096	Westmoreland County	2.36	96-622 Stratford Hall Rd	SR 214 Stratford Hall Rd	780	G	98%	0%	1%	1%	0%	0%	C	0.1023	F	0.5114	870	G	2008
+777361	  96	00610	     	96-610	Rose Tucker Rd	096	Westmoreland County	096	Westmoreland County	1.25	96-611 Zion Church Rd	96-606 N, Tucker Hill Rd	130	R							X						05/21/2007
+404642	  96	00610	     	96-610	Tucker Hill Rd	096	Westmoreland County	096	Westmoreland County	0.43	96-606 E, Old Yeocomico Rd; Tucker Hill Rd	96-663 Kelly Rd	470	G	95%	2%	2%	1%	1%	0%	F	0.0971	F	0.5155	500	G	2008
+404643	  96	00610	     	96-610	Tucker Hill Rd	096	Westmoreland County	096	Westmoreland County	0.93	96-663 Kelly Rd	96-732 Hook Rd	390	G	95%	2%	2%	1%	1%	0%	C	0.0958	F	0.6279	420	G	2008
+404644	  96	00610	     	96-610	Tucker Hill Rd	096	Westmoreland County	096	Westmoreland County	1.01	96-732 Hook Rd	96-604 W, Sandy Point Rd	270	G	95%	2%	2%	1%	1%	0%	F	0.1123	F	0.5972	290	G	2008
+777362	  96	00610	     	96-610	Tucker Hill Rd	096	Westmoreland County	096	Westmoreland County	2.45	96-604 MID	96-716 Lynch Point Rd	560	R							X						05/21/2007
+777363	  96	00610	     	96-610	Tucker Hill Rd	096	Westmoreland County	096	Westmoreland County	1.03	96-716 Lynch Point Rd	96-604 E, Sandy Point Rd	180	R							X						05/21/2007
+777364	  96	00610	     	96-610	 	096	Westmoreland County	096	Westmoreland County	0.25	96-604 E, Sandy Point Rd	Dead End	110	R							X						06/15/2004
+404645	  96	00611	     	96-611	Zion Church Rd	096	Westmoreland County	096	Westmoreland County	1.69	SR 202 Cople Hwy	96-606 W, Tucker Hill Rd	810	G	95%	1%	2%	1%	1%	0%	C	0.0908	F	0.6974	870	G	2008
+777365	  96	00611	     	96-611	Peckatone Rd	096	Westmoreland County	096	Westmoreland County	1.26	96-606 E, Tucker Hill Rd	96-661 Jackson Creek Rd	340	R							X						05/21/2007
+777366	  96	00611	     	96-611	 	096	Westmoreland County	096	Westmoreland County	0.80	96-661 Jackson Creek Rd	Dead End	60	R							X						06/17/2004
+777367	  96	00612	     	96-612	 	096	Westmoreland County	096	Westmoreland County	0.39	Dead End	96-680 Salisbury Park Rd	50	R							X						06/21/2004
+777368	  96	00612	     	96-612	 	096	Westmoreland County	096	Westmoreland County	0.40	96-680 Salisbury Park Rd	96-687 Old Post Office Lane	220	R							X						06/04/2007
+404646	  96	00612	     	96-612	Coles Point Rd	096	Westmoreland County	096	Westmoreland County	2.02	96-687 Old Post Office Lane	96-692 Cherry Grove Rd	970	G	96%	1%	2%	1%	1%	0%	F	0.0943	F	0.5024	1000	G	2008
+404647	  96	00612	     	96-612	Coles Point Rd	096	Westmoreland County	096	Westmoreland County	3.90	96-692 Cherry Grove Rd	SR 202 E, Cople Hwy	990	G	96%	1%	2%	1%	1%	0%	C	0.0945	F	0.6442	1100	G	2008
+404648	  96	00612	     	96-612	Tavern Run Rd	096	Westmoreland County	096	Westmoreland County	0.30	SR 202 W, Cople Hwy	96-616 Tavern Run Rd	730	G	96%	1%	2%	1%	1%	0%	F	0.1089	F	0.5119	790	G	2008
+777369	  96	00612	     	96-612	 	096	Westmoreland County	096	Westmoreland County	4.00	96-616 Tavern Run Rd	96-600 N, Nomini Rd; Nomini Grove Rd	610	R							X						05/16/2007
+777370	  96	00612	     	96-612	 	096	Westmoreland County	096	Westmoreland County	2.90	96-600 S, Nomini Rd	96-613 Beulah Lane	600	R							X						05/16/2007
+777371	  96	00612	     	96-612	 	096	Westmoreland County	096	Westmoreland County	0.40	96-613 Beulah Lane	SR 3 Kings Hwy	100	R							X						05/16/2007
+777372	  96	00612	     	96-612	 	096	Westmoreland County	096	Westmoreland County	1.00	SR 3 Kings Hwy	Dead End	160	R							X						06/17/2004
+777373	  96	00613	     	96-613	Beulah Lane	096	Westmoreland County	096	Westmoreland County	0.60	SR 3 History Land Hwy	96-612	630	R							X						05/16/2007
+777374	  96	00614	     	96-614	Weldons Dr	096	Westmoreland County	096	Westmoreland County	2.50	96-600 Nomini Hall Rd	96-616 Tavern Run Rd	48	R							X						05/16/2007
+777375	  96	00615	     	96-615	Jerusalem Church Rd	096	Westmoreland County	096	Westmoreland County	2.90	Richmond County Line	96-616 Tavern Run Rd	280	R							X						05/16/2007
+777376	  96	00615	     	96-615	Jerusalem Church Rd	096	Westmoreland County	096	Westmoreland County	0.80	96-616 Tavern Run Rd	96-604 Sandy Point Rd	610	R							X						05/16/2007
+404649	  96	00616	     	96-616	Tavern Run Rd	096	Westmoreland County	096	Westmoreland County	0.31	SR 203 Oldhams Rd	96-614 Weldons Dr	360	G	96%	1%	0%	3%	0%	0%	F	0.1055	F	0.6207	390	G	2008
+404650	  96	00616	     	96-616	Tavern Run Rd	096	Westmoreland County	096	Westmoreland County	0.93	96-614 Weldons Dr	96-615 Jerusalem Church Rd	400	G	96%	1%	0%	3%	0%	0%	F	0.1053	F	0.5054	440	G	2008
+404651	  96	00616	     	96-616	Tavern Run Rd	096	Westmoreland County	096	Westmoreland County	0.75	96-615 Jerusalem Church Rd	96-702 Tate Town Rd	540	G	96%	1%	0%	3%	0%	0%	C	0.0948	F	0.5818	580	G	2008
+404652	  96	00616	     	96-616	Tavern Run Rd	096	Westmoreland County	096	Westmoreland County	1.66	96-702 Tate Town Rd	96-612 Tavern Run Rd	420	G	96%	1%	0%	3%	0%	0%	F	0.1092	F	0.5050	450	G	2008
+777377	  96	00617	     	96-617	Gardys Mill Rd	096	Westmoreland County	096	Westmoreland County	1.50	Northumberland County Line	SR 202 Cople Hwy	160	R							X						06/09/2004
+777378	  96	00618	     	96-618	Drum Bay Rd	096	Westmoreland County	096	Westmoreland County	0.85	SR 202 Cople Hwy	96-700 Calais Rd	390	R							X						06/04/2007
+777379	  96	00618	     	96-618	Drum Bay Rd	096	Westmoreland County	096	Westmoreland County	0.75	96-700 Calais Rd	Dead End	230	R							X						06/09/2004
+404653	  96	00619	     	96-619	Chestnut Level Lane	096	Westmoreland County	096	Westmoreland County	0.75	Richmond County Line	96-600 Ebenezer Church Rd	300	G	98%	1%	0%	0%	0%	0%	C	0.1376	F	0.5333	320	G	2008
+777380	  96	00620	     	96-620	Threeway Rd	096	Westmoreland County	096	Westmoreland County	0.58	Richmond County Line	SR 203 Oldhams Rd	650	R							X						06/09/2004
+777381	  96	00621	     	96-621	Nomini Grove Rd	096	Westmoreland County	096	Westmoreland County	0.60	Richmond County Line	SR 3 Kings Hwy	620	R							X						05/16/2007
+404654	  96	00621	     	96-621	Nomini Grove Rd	096	Westmoreland County	096	Westmoreland County	2.07	SR 3 Kings Hwy	96-600 S, Neenah Rd	710	G	95%	1%	1%	1%	2%	0%	C	0.0945	F	0.6267	770	G	2008
+404655	  96	00621	     	96-621	Prospect Hill Rd	096	Westmoreland County	096	Westmoreland County	2.13	96-600 N, Nomini Grove Rd; Neenah Rd	SR 202 E, Cople Hwy	600	G	95%	1%	1%	1%	2%	0%	F	0.1189	F	0.6667	650	G	2008
+777382	  96	00621	     	96-621	Mt Holly Rd	096	Westmoreland County	096	Westmoreland County	3.18	SR 202 W, Cople Hwy	96-626 N, Mt. Holly Rd; Erica Rd	1900	R							X						06/04/2007
+404656	  96	00621	     	96-621	North Tidwells Rd	096	Westmoreland County	096	Westmoreland County	0.30	96-626 S, Erica Rd	96-650 W, S Tidwells Rd	420	G	95%	1%	1%	1%	2%	0%	F	0.1057	F	0.7157	450	G	2008
+777383	  96	00621	     	96-621	North Tidwells Rd	096	Westmoreland County	096	Westmoreland County	2.30	96-650 W, S Tidwells Rd	96-650 E, S Tidwells Rd	180	R							X						06/06/2007
+404664	  96	00622	     	96-622	Peach Grove Lane	096	Westmoreland County	096	Westmoreland County	0.57	Richmond County Line	SCL Montross	550	G	98%	0%	1%	0%	0%	0%	F	0.1052	F	0.6692	590	G	2008
+404665	  96	00622	     	96-622	Peach Grove Lane	263	Town of Montross	096	Westmoreland County	0.14	SCL Montross	SR 3 W, Kings Hwy	870	G	98%	0%	1%	0%	0%	0%	F	0.1081	F	0.5622	950	G	2008
+404666	  96	00622	     	96-622	Polk St	263	Town of Montross	096	Westmoreland County	0.04	SR 3 E, Kings Hwy	96-1201 Court Square	1100	G	98%	0%	1%	0%	0%	0%	F	0.1369	F	0.5584	1200	G	2008
+404667	  96	00622	     	96-622	Polk St	263	Town of Montross	096	Westmoreland County	0.25	96-1201 Court Square	NCL Montross	630	G	98%	0%	1%	0%	0%	0%	C	0.1060	F	0.5000	680	G	2008
+404668	  96	00622	     	96-622	Panorama Rd	096	Westmoreland County	096	Westmoreland County	2.11	NCL Montross	96-644 Wild Sally Rd	500	G	98%	0%	1%	0%	0%	0%	F	0.1193	F	0.5271	540	G	2008
+404669	  96	00622	     	96-622	Panorama Rd	096	Westmoreland County	096	Westmoreland County	1.15	96-644 Wild Sally Rd	96-643 S, Chilton Rd	420	G	98%	0%	1%	0%	0%	0%	F	0.1050	F	0.5500	460	G	2008
+404670	  96	00622	     	96-622	Stratford Hall Rd	096	Westmoreland County	096	Westmoreland County	0.70	96-643 N, Chilton Rd	96-609 Stratford Hall Rd	890	G	98%	0%	1%	0%	0%	0%	F	0.1023	F	0.6456	990	G	2008
+777384	  96	00622	     	96-622	 	096	Westmoreland County	096	Westmoreland County	2.50	96-609 Stratford Hall Rd	Dead End	170	R							X						04/22/2004
+777385	  96	00623	     	96-623	Finchs Hill Rd	096	Westmoreland County	096	Westmoreland County	0.61	Richmond County Line	SR 3 Kings Hwy	350	R							X						04/26/2004
+404657	  96	00624	     	96-624	Flat Iron Rd	096	Westmoreland County	096	Westmoreland County	3.38	Richmond County Line	96-640 Grants Hill Church Rd	540	G	98%	0%	0%	0%	1%	0%	C	0.0932	F	0.5000	590	G	2008
+404658	  96	00624	     	96-624	Flat Iron Rd	096	Westmoreland County	096	Westmoreland County	0.55	96-640 Grants Hill Church Rd	SR 3 E, Kings Hwy	940	G	98%	0%	0%	0%	1%	0%	F	0.0866	F	0.5692	1000	G	2008
+777386	  96	00624	     	96-624	 	096	Westmoreland County	096	Westmoreland County	2.32	SR 3 W, Kings Hwy	96-1421 Gordon Way	280	R							X						06/30/2004
+777387	  96	00624	     	96-624	 	096	Westmoreland County	096	Westmoreland County	0.02	96-1421 Gordon Way	96-1420 Horner Rd	210	R							X						06/30/2004
+777388	  96	00624	     	96-624	Muse Rd	096	Westmoreland County	096	Westmoreland County	0.65	96-1420 Horner Rd	Dead End	40	R							X						06/20/2007
+777389	  96	00625	     	96-625	Twiford Rd	096	Westmoreland County	096	Westmoreland County	1.20	96-638 Leedstown Rd	96-639 Winter Harbor Rd	420	R							X						06/18/2007
+777390	  96	00625	     	96-625	Twiford Rd	096	Westmoreland County	096	Westmoreland County	1.70	96-639 Winter Harbor Rd	96-640 N, Grants Hill Church Rd	250	R							X						06/18/2007
+777391	  96	00625	     	96-625	Horners Mill Rd	096	Westmoreland County	096	Westmoreland County	4.60	96-640 S, Grants Hill Church Rd	96-677 Ephesus Church Rd	220	R							X						06/18/2007
+777392	  96	00625	     	96-625	Horners Mill Rd	096	Westmoreland County	096	Westmoreland County	0.50	96-677 Ephesus Church Rd	96-624 Flat Iron Rd	50	R							X						06/18/2007
+777393	  96	00626	     	96-626	Beales Mill Rd	096	Westmoreland County	096	Westmoreland County	1.10	96-612	SR 202 E, Cople Hwy	670	R							X						05/16/2007
+404659	  96	00626	     	96-626	Erica Rd	096	Westmoreland County	096	Westmoreland County	3.23	SR 202 W, Cople Hwy	96-621 N, Mt Holly Rd	490	G	91%	5%	2%	1%	1%	0%	F	0.1001	F	0.5614	540	G	2008
+404660	  96	00626	     	96-626	Mt. Holly Rd	096	Westmoreland County	096	Westmoreland County	3.71	96-621 N, Mt Holly Rd	96-626 Begin Loop	120	G	91%	5%	2%	1%	1%	0%	C	0.1618	F	0.8182	130	G	2008
+777394	  96	00626	     	96-626	Herring Lane	096	Westmoreland County	096	Westmoreland County	0.60	96-626 Begin Loop	96-739 King Copsico Lane	40	R							X						06/04/2007
+777395	  96	00626	     	96-626	King Copsico Lane	096	Westmoreland County	096	Westmoreland County	0.32	96-739 King Copsico Lane	96-626 End Loop	100	R							X						06/04/2007
+777396	  96	00627	     	96-627	Pierce Lane	096	Westmoreland County	096	Westmoreland County	0.50	96-600 Neenah Rd	Dead End	160	R							X						05/16/2007
+404661	  96	00628	     	96-628	Pomona Rd	096	Westmoreland County	096	Westmoreland County	1.95	King George County Line	96-630 Treakle Lane	450	G	99%	0%	0%	0%	0%	0%	F	0.1174	F	0.5417	500	G	2008
+404662	  96	00628	     	96-628	Pomona Rd	096	Westmoreland County	096	Westmoreland County	1.70	96-630 Treakle Lane	SR 205 N, James Monroe Hwy	690	G	99%	0%	0%	0%	0%	0%	C	0.1100	F	0.6374	770	G	2008
+777397	  96	00628	     	96-628	Stoney Knoll	096	Westmoreland County	096	Westmoreland County	0.45	SR 205 N, James Monroe Hwy	96-658 Monroe Bay Circle	2600	R							X						06/25/2007
+777398	  96	00628	     	96-628	Stoney Knoll	096	Westmoreland County	096	Westmoreland County	0.90	96-658 Monroe Bay Circle	96-633 Holly Vista Dr	740	R							X						06/25/2007
+777399	  96	00628	     	96-628	Stoney Knoll	096	Westmoreland County	096	Westmoreland County	1.32	96-633 Holly Vista Dr	SR 205 SOUTH	1300	R							X						06/25/2007
+404663	  96	00629	     	96-629	Round Hill Rd	096	Westmoreland County	096	Westmoreland County	0.50	King George County Line	SR 205 Ridge Rd	540	G	97%	1%	1%	0%	0%	0%	C	0.0997	F	0.5781	580	G	2008
+777400	  96	00630	     	96-630	Treakle Lane	096	Westmoreland County	096	Westmoreland County	1.60	96-628 Pomona Rd	SR 205 E, Ridge Rd	410	R							X						07/18/2007
+777401	  96	00630	     	96-630	Treakle Lane	096	Westmoreland County	096	Westmoreland County	0.30	SR 205 E, Ridge Rd	96-631 Longfield Rd	80	R							X						07/16/2007
+777402	  96	00631	     	96-631	Longfield Rd	096	Westmoreland County	096	Westmoreland County	1.75	SR 205 S, James Monroe Hwy	96-628 Pomona Rd	3200	R							X						07/18/2007
+777403	  96	00631	     	96-631	Longfield Rd	096	Westmoreland County	096	Westmoreland County	2.30	96-628 Pomona Rd	SR 205 N, Ridge Rd	3000	R							X						07/18/2007
+777404	  96	00632	     	96-632	New Monrovia Rd	096	Westmoreland County	096	Westmoreland County	0.25	SR 205	0.25 MN SR 205	180	R							X						07/16/2007
+777405	  96	00632	     	96-632	New Monrovia Rd	096	Westmoreland County	096	Westmoreland County	0.76	0.25 MN SR 205	1.01 MN SR 205	48	R							X						07/16/2007
+777406	  96	00632	     	96-632	New Monrovia Rd	096	Westmoreland County	096	Westmoreland County	0.61	1.01 MN SR 205	SR 205	1000	R							X						07/16/2007
+777407	  96	00633	     	96-633	Holly Vista Dr	096	Westmoreland County	096	Westmoreland County	0.63	96-628 Stoney Knoll	96-1325 Sebastian Ave	1300	R							X						06/25/2007
+777408	  96	00633	     	96-633	Holly Vista Dr	096	Westmoreland County	096	Westmoreland County	0.19	96-1325 Sebastian Ave	96-1321 Barnes Blvd	1100	R							X						07/13/2004
+777409	  96	00633	     	96-633	Holly Vista Dr	096	Westmoreland County	096	Westmoreland County	0.09	96-1321 Barnes Blvd	96-1320 Barracks Beach Dr	650	R							X						07/13/2004
+777410	  96	00633	     	96-633	Holly Vista Dr	096	Westmoreland County	096	Westmoreland County	0.24	96-1320 Barracks Beach Dr	96-1305	380	R							X						07/15/2004
+777411	  96	00633	     	96-633	Holly Vista Dr	096	Westmoreland County	096	Westmoreland County	0.18	96-1305	96-1304 Monroe Dr	330	R							X						07/15/2004
+777412	  96	00633	     	96-633	Holly Vista Dr	096	Westmoreland County	096	Westmoreland County	0.20	96-1304 Monroe Dr	96-1302 Shore Dr	200	R							X						07/15/2004
+777413	  96	00634	     	96-634	Claymont Rd	096	Westmoreland County	096	Westmoreland County	0.80	SR 3 W, Kings Hwy	96-637 Rappahannock Rd	430	R							X						06/20/2007
+777414	  96	00634	     	96-634	Claymont Rd	096	Westmoreland County	096	Westmoreland County	1.30	96-637 Rappahannock Rd	SR 3 E, Kings Hwy	220	R							X						06/20/2007
+777415	  96	00634	     	96-634	Claymont Rd	096	Westmoreland County	096	Westmoreland County	0.30	SR 3 E, Kings Hwy	Dead End	40	R							X						06/18/2007
+777416	  96	00635	     	96-635	Parrish Lane	096	Westmoreland County	096	Westmoreland County	1.00	Dead End	96-638 Leedstown Rd	360	R							X						06/21/2004
+777417	  96	00636	     	96-636	Cottage Farm Rd	096	Westmoreland County	096	Westmoreland County	1.95	96-634 Claymont Rd	96-638 Leedstown Rd	40	R							X						06/20/2007
+404671	  96	00637	     	96-637	Leedstown Rd	096	Westmoreland County	096	Westmoreland County	1.40	96-640 Grants Hill Church Rd	96-641 Resolutions Rd	160	G	94%	1%	3%	1%	1%	0%	F	0.1362	F	0.5849	180	G	2008
+404672	  96	00637	     	96-637	Leedstown Rd	096	Westmoreland County	096	Westmoreland County	2.32	96-641 Resolutions Rd	96-638 Leedstown Rd	330	G	94%	1%	3%	1%	1%	0%	C	0.0976	F	0.5405	360	G	2008
+777418	  96	00637	     	96-637	Rappahannock Rd	096	Westmoreland County	096	Westmoreland County	3.50	96-638 Leedstown Rd	96-634 Claymont Rd	440	R							X						06/20/2007
+404673	  96	00638	     	96-638	Leedstown Rd	096	Westmoreland County	096	Westmoreland County	3.09	96-637 Rappahannock Rd; Leedstown Rd	96-625 Twiford Rd	800	G	97%	1%	1%	0%	1%	0%	F	0.1077	F	0.5450	860	G	2008
+404674	  96	00638	     	96-638	Leedstown Rd	096	Westmoreland County	096	Westmoreland County	1.51	96-625 Twiford Rd	SR 3 Kings Hwy	1400	G	97%	1%	1%	0%	1%	0%	C	0.1004	F	0.6981	1500	G	2008
+777419	  96	00638	     	96-638	Ferry Landing	096	Westmoreland County	096	Westmoreland County	1.15	SR 205 S, James Monroe Hwy	SR 205 N, James Monroe Hwy	280	R							X						06/20/2007
+777420	  96	00639	     	96-639	Winter Harbor Rd	096	Westmoreland County	096	Westmoreland County	0.81	96-625 Twiford Rd	0.81 ME 96-625	80	R							X						06/20/2007
+777421	  96	00639	     	96-639	Winter Harbor Rd	096	Westmoreland County	096	Westmoreland County	1.69	0.81 ME 96-625	96-654 Potomac Mills Rd	100	R							X						06/20/2007
+777422	  96	00639	     	96-639	Winter Harbor Rd	096	Westmoreland County	096	Westmoreland County	0.09	96-654 Potomac Mills Rd	SR 3 Kings Hwy	90	R							X						06/20/2007
+777423	  96	00640	     	96-640	Layton Landing Rd	096	Westmoreland County	096	Westmoreland County	1.10	Dead End	96-641 Resolutions Rd	30	R							X						06/18/2007
+777424	  96	00640	     	96-640	Layton Landing Rd	096	Westmoreland County	096	Westmoreland County	1.10	96-641 Resolutions Rd	96-637 Leedstown Rd	150	R							X						06/18/2007
+404675	  96	00640	     	96-640	Grants Hill Church Rd	096	Westmoreland County	096	Westmoreland County	1.20	96-637 Leedstown Rd	96-625 N, Twiford Rd	130	G	94%	1%	2%	0%	3%	0%	F	0.1350	F	0.6364	140	G	2008
+404676	  96	00640	     	96-640	Grants Hill Church Rd	096	Westmoreland County	096	Westmoreland County	2.67	96-625 N, Twiford Rd	96-624 Flat Iron Rd	360	G	94%	1%	2%	0%	3%	0%	C	0.1283	F	0.7037	390	G	2008
+777425	  96	00641	     	96-641	Resolutions Rd	096	Westmoreland County	096	Westmoreland County	0.80	96-637 Leedstown Rd	96-640 Layton Landing Rd	120	R							X						06/18/2007
+777426	  96	00642	     	96-642	Baynesville Rd	096	Westmoreland County	096	Westmoreland County	3.40	96-624; 96-625	SR 3 W, Kings Hwy	180	R							X						06/18/2007
+777427	  96	00642	     	96-642	Cloverdale Lane	096	Westmoreland County	096	Westmoreland County	1.00	SR 3 E, Kings Hwy	Dead End	6	R							X						06/11/2007
+777428	  96	00643	     	96-643	Sanford Dr	096	Westmoreland County	096	Westmoreland County	0.37	Dead End	96-622 W, Panorama Rd	30	R							X						06/18/2007
+404677	  96	00643	     	96-643	Chilton Rd	096	Westmoreland County	096	Westmoreland County	1.82	96-622 W, Panorama Rd	96-645 Zacata Rd	990	G	97%	0%	1%	1%	1%	0%	C	0.0902	F	0.6100	1100	G	2008
+777429	  96	00644	     	96-644	Wild Sally Rd	096	Westmoreland County	096	Westmoreland County	2.20	96-622 Panorama Rd	SR 214 Stratford Hall Rd	240	R							X						06/18/2007
+777430	  96	00645	     	96-645	 	096	Westmoreland County	096	Westmoreland County	0.80	Richmond County Line	96-646 Eppings Tract Rd	150	R							X						04/29/2004
+777431	  96	00645	     	96-645	Crookhorn Rd	096	Westmoreland County	096	Westmoreland County	1.51	96-646 Eppings Tract Rd	SR 3 Kings Hwy	870	R							X						06/11/2007
+404678	  96	00645	     	96-645	Zacata Rd	096	Westmoreland County	096	Westmoreland County	2.35	SR 3 Kings Hwy	96-643 Chilton Rd	1900	G	95%	0%	1%	2%	1%	0%	C	0.0850	F	0.5957	2100	G	2008
+777432	  96	00645	     	96-645	Zacata Rd	096	Westmoreland County	096	Westmoreland County	2.98	96-643 Chilton Rd	96-649 E, Federal Farm Rd	1000	R							X						06/18/2007
+777433	  96	00645	     	96-645	Zacata Rd	096	Westmoreland County	096	Westmoreland County	0.97	96-649 E, Federal Farm Rd	Dead End	140	R							X						06/13/2007
+777434	  96	00646	     	96-646	Eppings Tract Rd	096	Westmoreland County	096	Westmoreland County	1.10	Richmond County Line	96-645 Crookhorn Rd	190	R							X						04/29/2004
+777435	  96	00647	     	96-647	Dingley Rd	096	Westmoreland County	096	Westmoreland County	0.13	Dead End	WCL Montross	40	R							X						06/11/2007
+777436	  96	00647	     	96-647	Dingley Rd	263	Town of Montross	096	Westmoreland County	0.24	WCL Montross	SR 3 E, Kings Hwy	40	R							X						04/26/2004
+777437	  96	00648	     	96-648	 	096	Westmoreland County	096	Westmoreland County	0.10	96-645 Zacata Rd	Dead End; Gap	20	R							X						06/18/2007
+777438	  96	00648	     	96-648	Stratford Hall Rd	096	Westmoreland County	096	Westmoreland County	0.40	Dead End; Gap	96-643 Chilton Rd	50	R							X						06/18/2007
+777439	  96	00649	     	96-649	Deep Point Rd	096	Westmoreland County	096	Westmoreland County	0.40	Dead End	96-645 E, Zacata Rd	20	R							X						06/13/2007
+777440	  96	00649	     	96-649	Federal Farm Rd	096	Westmoreland County	096	Westmoreland County	0.79	96-645 E, Zacata Rd	96-1015 Skyview Dr	260	R							X						06/13/2007
+785493	  96	00649	     	96-649	Federal Farm Rd	096	Westmoreland County	096	Westmoreland County	0.34	96-1015 Skyview Dr	Dead End	170	R							X						06/13/2007
+777441	  96	00650	     	96-650	 	096	Westmoreland County	096	Westmoreland County	0.26	Dead End	96-621 E, North Tidwells Rd	70	R							X						06/23/2004
+777442	  96	00650	     	96-650	S Tidwells Rd	096	Westmoreland County	096	Westmoreland County	2.46	96-621 E, North Tidwells Rd	96-621 W, North Tidwells Rd	350	R							X						06/06/2007
+777443	  96	00651	     	96-651	St Pauls Rd	096	Westmoreland County	096	Westmoreland County	0.43	96-621 Nomini Grove Rd	SR 3 Kings Hwy	30	R							X						05/16/2007
+777444	  96	00652	     	96-652	Charles Way	096	Westmoreland County	096	Westmoreland County	0.62	96-628 Pomona Rd	Dead End	90	R							X						07/16/2007
+777445	  96	00653	     	96-653	Waverly Rd	096	Westmoreland County	096	Westmoreland County	0.05	96-640 Grants Hill Church Rd	0.05 ME 96-640	50	R							X						06/18/2007
+777446	  96	00653	     	96-653	Waverly Rd	096	Westmoreland County	096	Westmoreland County	0.50	0.05 ME 96-640	96-624 Flat Iron Rd	50	R							X						06/18/2007
+777447	  96	00654	     	96-654	Potomac Mills Rd	096	Westmoreland County	096	Westmoreland County	0.11	96-639 Winter Harbor Rd	SR 3 Kings Hwy	40	R							X						06/20/2007
+777448	  96	00655	     	96-655	Troy Farm Rd	096	Westmoreland County	096	Westmoreland County	0.38	Dead End	96-637 Rappahannock Rd	20	R							X						06/20/2007
+777449	  96	00656	     	96-656	Porter Lane	263	Town of Montross	096	Westmoreland County	0.18	SR 3 Kings Hwy	NCL Montross	150	R							X						04/26/2004
+777450	  96	00656	     	96-656	Porter Lane	096	Westmoreland County	096	Westmoreland County	0.42	NCL Montross	Dead End	60	R							X						04/26/2004
+777451	  96	00657	     	96-657	Macedonia Lane	096	Westmoreland County	096	Westmoreland County	1.10	Dead End	96-770 Brodfield Rd	150	R							X						07/13/2004
+777452	  96	00657	     	96-657	Macedonia Lane	096	Westmoreland County	096	Westmoreland County	0.29	96-770 Brodfield Rd	96-631 Longfield Rd	150	R							X						07/18/2007
+777453	  96	00658	     	96-658	Monroe Bay Circle	096	Westmoreland County	096	Westmoreland County	0.73	96-628 Stoney Knoll	96-1300 Begin Loop	1800	R							X						06/25/2007
+777454	  96	00658	     	96-658	Monroe Bay Circle	096	Westmoreland County	096	Westmoreland County	0.07	96-1300 Begin Loop	96-1303 San Juan Dr	740	R							X						07/15/2004
+777455	  96	00658	     	96-658	Monroe Bay Circle	096	Westmoreland County	096	Westmoreland County	2.28	96-1303 San Juan Dr	96-1300 End Loop	270	R							X						07/15/2004
+777456	  96	00659	     	96-659	Kenwood Rd	096	Westmoreland County	096	Westmoreland County	0.90	SR 3 W, Kings Hwy	SR 3 E, Kings Hwy	100	R							X						06/11/2007
+777457	  96	00660	     	96-660	Parham Point Rd	096	Westmoreland County	096	Westmoreland County	0.10	Dead End	96-745 Zena Way	9	R							X						06/04/2007
+777458	  96	00660	     	96-660	Parham Point Rd	096	Westmoreland County	096	Westmoreland County	0.60	96-745 Zena Way	96-612 Coles Point Rd	90	R							X						06/04/2007
+777459	  96	00661	     	96-661	Jackson Creek Rd	096	Westmoreland County	096	Westmoreland County	1.25	96-611 Peckatone Rd	Dead End	90	R							X						06/17/2004
+777460	  96	00662	     	96-662	McGuires Wharf Rd	096	Westmoreland County	096	Westmoreland County	0.50	SR 202 Cople Hwy	Dead End	240	R							X						04/29/2004
+777461	  96	00663	     	96-663	Kelly Rd	096	Westmoreland County	096	Westmoreland County	0.90	96-610 Tucker Hill Rd	96-763 Bonums Rd	220	R							X						06/17/2004
+777462	  96	00663	     	96-663	Kelly Rd	096	Westmoreland County	096	Westmoreland County	0.55	96-763 Bonums Rd	Dead End	140	R							X						06/17/2004
+777463	  96	00664	     	96-664	Bristol Mine Rd	096	Westmoreland County	096	Westmoreland County	1.70	SR 3 Kings Hwy	96-682 Ebb Tide Dr	1400	R							X						06/20/2007
+777464	  96	00664	     	96-664	 	096	Westmoreland County	096	Westmoreland County	0.80	96-682 Ebb Tide Dr	Begin Loop	440	R							X						06/30/2004
+777465	  96	00664	     	96-664	 	096	Westmoreland County	096	Westmoreland County	1.60	Begin Loop	End Loop	80	R							X						06/30/2004
+777466	  96	00665	     	96-665	 	096	Westmoreland County	096	Westmoreland County	0.80	Dead End	0.80 ME Dead End	90	R							X						04/29/2004
+777467	  96	00665	     	96-665	 	096	Westmoreland County	096	Westmoreland County	0.10	0.80 ME Dead End	96-621 N, Mt Holly Rd	130	R							X						04/29/2004
+777468	  96	00665	     	96-665	Plunktown Rd	096	Westmoreland County	096	Westmoreland County	0.75	96-621 S, Mt Holly Rd	96-626 Erica Rd	130	R							X						06/04/2007
+777469	  96	00666	     	96-666	Wilton Rd	096	Westmoreland County	096	Westmoreland County	1.90	96-606 Tucker Hill Rd	Dead End	160	R							X						06/17/2004
+777470	  96	00667	     	96-667	Chatham Village Rd	096	Westmoreland County	096	Westmoreland County	0.12	Dead End	96-736 Boyce Point Circle	70	R							X						06/28/2004
+777471	  96	00667	     	96-667	Chatham Village Rd	096	Westmoreland County	096	Westmoreland County	0.18	96-736 Boyce Point Circle	96-650, S Tidwells Rd	230	R							X						06/28/2004
+777472	  96	00668	     	96-668	Taylor Town Rd	096	Westmoreland County	096	Westmoreland County	0.40	Dead End	96-695 Edge Hill Rd	60	R							X						06/04/2007
+777473	  96	00668	     	96-668	Taylor Town Rd	096	Westmoreland County	096	Westmoreland County	0.50	96-695 Edge Hill Rd	SR 202 Cople Hwy	150	R							X						06/04/2007
+777474	  96	00669	     	96-669	Old Park Rd	096	Westmoreland County	096	Westmoreland County	0.50	SR 3 Kings Hwy	SR 347 Westmoreland St Park Rd	20	R							X						06/11/2007
+777475	  96	00669	     	96-669	Tobacco Rd	096	Westmoreland County	096	Westmoreland County	0.40	SR 347 Westmoreland St Park Rd	Dead End	30	R							X						06/11/2007
+777476	  96	00670	     	96-670	 	096	Westmoreland County	096	Westmoreland County	0.11	96-604 Sandy Point Rd	SR 203 Oldhams Rd	140	R							X						06/17/2004
+777477	  96	00671	     	96-671	Wilson Dr	096	Westmoreland County	096	Westmoreland County	0.52	Dead End	96-1402 Long St	50	R							X						06/15/2004
+777478	  96	00671	     	96-671	Wilson Dr	096	Westmoreland County	096	Westmoreland County	0.16	96-1402 Long St	96-610 Tucker Hill Rd	60	R							X						06/15/2004
+777479	  96	00672	     	96-672	Chatham Lane	096	Westmoreland County	096	Westmoreland County	0.87	96-645 Zacata Rd	Dead End	120	R							X						04/26/2004
+777480	  96	00673	     	96-673	Cedar Field Rd	096	Westmoreland County	096	Westmoreland County	0.20	Dead End	96-621 Nomini Grove Rd	40	R							X						05/16/2007
+777481	  96	00674	     	96-674	Bristol Mine Rd	096	Westmoreland County	096	Westmoreland County	0.83	Dead End	0.83 ME Dead End	50	R							X						07/06/2004
+777482	  96	00674	     	96-674	Bristol Mine Rd	096	Westmoreland County	096	Westmoreland County	1.01	0.83 ME Dead End	96-634 Claymont Rd	100	R							X						07/16/2004
+777483	  96	00675	     	96-675	Mt Pleasant Rd	096	Westmoreland County	096	Westmoreland County	0.84	Dead End	96-612 Coles Point Rd	10	R							X						05/21/2007
+777484	  96	00676	     	96-676	Poor Jack Rd	096	Westmoreland County	096	Westmoreland County	0.12	96-645 Zacata Rd	96-694 Willis Place	290	R							X						04/26/2004
+777485	  96	00676	     	96-676	Poor Jack Rd	096	Westmoreland County	096	Westmoreland County	0.30	96-694 Willis Place	Dead End	110	R							X						04/26/2004
+777486	  96	00677	     	96-677	Ephesus Church Rd	096	Westmoreland County	096	Westmoreland County	0.40	Richmond County Line	96-625 Horners Mill Rd	240	R							X						06/28/2004
+777487	  96	00678	     	96-678	Harts Landing Rd	096	Westmoreland County	096	Westmoreland County	0.28	Dead End	0.28 MN Dead End	30	R							X						06/18/2007
+777488	  96	00678	     	96-678	Harts Landing Rd	096	Westmoreland County	096	Westmoreland County	0.48	0.30 MN Dead End	96-625 Horners Mill Rd	60	R							X						06/18/2007
+777489	  96	00679	     	96-679	Branson Cove Rd	096	Westmoreland County	096	Westmoreland County	0.24	Dead End	96-735 Grannys Bar Rd	170	R							X						06/21/2004
+777490	  96	00679	     	96-679	Branson Cove Rd	096	Westmoreland County	096	Westmoreland County	0.10	96-735 Grannys Bar Rd	96-612 Coles Point Rd	230	R							X						06/21/2004
+777491	  96	00680	     	96-680	Salisbury Park Rd	096	Westmoreland County	096	Westmoreland County	0.94	96-612	Dead End	170	R							X						06/21/2004
+777492	  96	00681	     	96-681	Lyells St	096	Westmoreland County	096	Westmoreland County	0.51	Dead End	SCL Montross	110	R							X						04/26/2004
+777493	  96	00681	     	96-681	Lyells St	263	Town of Montross	096	Westmoreland County	0.13	SCL Montross	96-1205 Glenn St	140	R							X						04/26/2004
+777494	  96	00681	     	96-681	Lyells St	263	Town of Montross	096	Westmoreland County	0.08	96-1205 Glenn St	SR 3 Kings Hwy	210	R							X						06/11/2007
+777495	  96	00682	     	96-682	Ebb Tide Dr	096	Westmoreland County	096	Westmoreland County	0.09	96-664 Bristol Mine Rd	96-1340 West Potomac Dr	790	R							X						06/30/2004
+777496	  96	00682	     	96-682	Ebb Tide Dr	096	Westmoreland County	096	Westmoreland County	0.25	96-1340 West Potomac Dr	96-1341 Lee St	470	R							X						06/30/2004
+777497	  96	00682	     	96-682	Ebb Tide Dr	096	Westmoreland County	096	Westmoreland County	0.53	96-1341 Lee St	Dead End	390	R							X						06/20/2007
+777498	  96	00683	     	96-683	Trigger Lane	096	Westmoreland County	096	Westmoreland County	0.40	King George County Line	Dead End	100	R							X						06/18/2007
+777499	  96	00684	     	96-684	Doleman Lane	096	Westmoreland County	096	Westmoreland County	0.31	96-609 Stratford Hall Rd	Dead End	48	R							X						04/22/2004
+777500	  96	00685	     	96-685	Ashbury Rd	096	Westmoreland County	096	Westmoreland County	0.01	SR 3 Kings Hwy	0.01 ME SR 3	20	R							X						04/26/2004
+777501	  96	00685	     	96-685	Ashbury Rd	096	Westmoreland County	096	Westmoreland County	0.36	0.01 ME SR 3	Dead End	4	R							X						04/26/2004
+777502	  96	00686	     	96-686	 	096	Westmoreland County	096	Westmoreland County	2.04	SR 347 Westmoreland St Park Rd	2.04 MN SR 347	80	R							X						06/11/2007
+777503	  96	00686	     	96-686	 	096	Westmoreland County	096	Westmoreland County	0.36	2.04 MN SR 347	Cul-de-Sac	40	R							X						06/11/2007
+777504	  96	00687	     	96-687	Old Post Office Lane	096	Westmoreland County	096	Westmoreland County	0.20	Dead End	96-612 Coles Point Rd	170	R							X						06/21/2004
+777505	  96	00688	     	96-688	Springview Rd	096	Westmoreland County	096	Westmoreland County	0.60	SR 203 Oldhams Rd	Dead End	170	R							X						06/09/2004
+777506	  96	00689	     	96-689	Erins Dr	096	Westmoreland County	096	Westmoreland County	0.50	Dead End	96-649 Federal Farm Rd	30	R							X						06/13/2007
+777507	  96	00690	     	96-690	Menokin Rd	096	Westmoreland County	096	Westmoreland County	1.69	Richmond County Line	SR 3 Kings Hwy	630	R							X						06/06/2007
+777509	  96	00691	     	96-691	Northernmost Rd	096	Westmoreland County	096	Westmoreland County	0.10	Richmond County Line	96-642 Baynesville Rd	70	R							X						06/28/2004
+777510	  96	00692	     	96-692	Cherry Grove Rd	096	Westmoreland County	096	Westmoreland County	0.53	96-612 Coles Point Rd	96-764 Travelers Rest Rd	300	R							X						06/21/2004
+777511	  96	00692	     	96-692	Cherry Grove Rd	096	Westmoreland County	096	Westmoreland County	0.77	96-764 Travelers Rest Rd	96-757 Gardner Rd	110	R							X						06/21/2004
+777512	  96	00692	     	96-692	Cherry Grove Rd	096	Westmoreland County	096	Westmoreland County	0.10	96-757 Gardner Rd	96-756 Waterview Dr	90	R							X						06/21/2004
+777513	  96	00693	     	96-693	South Independence Dr	096	Westmoreland County	096	Westmoreland County	0.68	96-609 Stratford Hall Rd	96-1606 Federalist Way	740	R							X						04/22/2004
+777514	  96	00693	     	96-693	South Independence Dr	096	Westmoreland County	096	Westmoreland County	1.29	96-1606 Federalist Way	96-1601; 96-1609	570	R							X						04/22/2004
+777515	  96	00694	     	96-694	Willis Place	096	Westmoreland County	096	Westmoreland County	0.45	96-676 Poor Jack Rd	Dead End	100	R							X						06/18/2007
+777516	  96	00695	     	96-695	Edge Hill Rd	096	Westmoreland County	096	Westmoreland County	0.90	96-668 Taylor Town Rd	Dead End	80	R							X						06/04/2007
+777517	  96	00696	     	96-696	Liberty Farm Rd	096	Westmoreland County	096	Westmoreland County	0.90	Dead End	96-637 Leedstown Rd	40	R							X						06/20/2007
+777518	  96	00697	     	96-697	Lampkin Rd	096	Westmoreland County	096	Westmoreland County	0.99	Dead End	96-625 Horners Mill Rd	20	R							X						06/18/2007
+777519	  96	00698	     	96-698	Grainery Rd	096	Westmoreland County	096	Westmoreland County	0.75	Dead End	96-645 Zacata Rd	340	R							X						04/26/2004
+777520	  96	00699	     	96-699	Pratts Place	096	Westmoreland County	096	Westmoreland County	0.44	Dead End	96-643 Chilton Rd	90	R							X						06/18/2007
+777521	  96	00700	     	96-700	Pine Rd	096	Westmoreland County	096	Westmoreland County	0.50	Dead End	96-701	9	R							X						06/04/2007
+777522	  96	00700	     	96-700	Calais Rd	096	Westmoreland County	096	Westmoreland County	0.50	96-701	96-618 Drum Bay Rd	90	R							X						06/04/2007
+777523	  96	00701	     	96-701	 	096	Westmoreland County	096	Westmoreland County	0.50	96-700 Calais Rd; Pine Rd	Dead End	70	R							X						06/17/2004
+777524	  96	00702	     	96-702	Tate Town Rd	096	Westmoreland County	096	Westmoreland County	0.60	Dead End	96-713 Twilight Lane	210	R							X						06/17/2004
+777525	  96	00702	     	96-702	Tate Town Rd	096	Westmoreland County	096	Westmoreland County	0.70	96-713 Twilight Lane	96-616 Tavern Run Rd	280	R							X						06/17/2004
+777526	  96	00703	     	96-703	Eden Lane	096	Westmoreland County	096	Westmoreland County	0.40	Dead End	96-645 Zacata Rd	47	R							X						04/26/2004
+777527	  96	00704	     	96-704	Pretty Point Rd	096	Westmoreland County	096	Westmoreland County	1.25	Dead End	96-604 Sandy Point Rd	160	R							X						06/15/2004
+777528	  96	00705	     	96-705	Burnt House Point	096	Westmoreland County	096	Westmoreland County	0.57	Dead End	96-628 Stoney Knoll	120	R							X						07/13/2004
+777529	  96	00706	     	96-706	Worrell Lane	096	Westmoreland County	096	Westmoreland County	0.07	SR 3 Kings Hwy	0.07 MS SR 3	160	R							X						06/18/2007
+777530	  96	00706	     	96-706	Worrell Lane	096	Westmoreland County	096	Westmoreland County	0.38	0.07 MS SR 3	Dead End	100	R							X						06/18/2007
+777531	  96	00707	     	96-707	Bushrod Lane	096	Westmoreland County	096	Westmoreland County	0.30	Dead End	96-628 Pomona Rd	40	R							X						07/18/2007
+777532	  96	00708	     	96-708	Jenkins Point Rd	096	Westmoreland County	096	Westmoreland County	0.25	96-645 Zacata Rd	Dead End	20	R							X						06/13/2007
+777533	  96	00709	     	96-709	Meadow Dr	096	Westmoreland County	096	Westmoreland County	0.08	Dead End	96-645 Zacata Rd	20	R							X						06/18/2007
+777534	  96	00710	     	96-710	Lowe Dr	096	Westmoreland County	096	Westmoreland County	0.60	96-611 Zion Church Rd	96-760 Lowe Dr	140	R							X						06/17/2004
+777535	  96	00711	     	96-711	Bushfield Rd	096	Westmoreland County	096	Westmoreland County	1.66	96-621 Mt Holly Rd	Dead End	180	R							X						06/04/2007
+777536	  96	00712	     	96-712	Hard Corner Rd	096	Westmoreland County	096	Westmoreland County	0.41	96-621 Mt Holly Rd	96-741 Lane Dr	100	R							X						04/29/2004
+777537	  96	00713	     	96-713	Twilight Lane	096	Westmoreland County	096	Westmoreland County	0.18	Dead End	96-702 Tate Town Rd	30	R							X						07/18/2007
+777538	  96	00714	     	96-714	Waughtel Dr	096	Westmoreland County	096	Westmoreland County	0.20	Dead End	96-610 Tucker Hill Rd	70	R							X						06/15/2004
+777539	  96	00715	     	96-715	Rosa Bran Rd	096	Westmoreland County	096	Westmoreland County	0.31	96-718 Rosa Bran Rd	96-610 Tucker Hill Rd	40	R							X						06/15/2004
+777540	  96	00716	     	96-716	Lynch Point Rd	096	Westmoreland County	096	Westmoreland County	0.45	Dead End	96-610 Tucker Hill Rd	60	R							X						06/15/2004
+777541	  96	00717	     	96-717	Weeks Rd	096	Westmoreland County	096	Westmoreland County	0.45	96-643 Chilton Rd	Dead End	30	R							X						06/18/2007
+777542	  96	00718	     	96-718	Rosa Bran Rd	096	Westmoreland County	096	Westmoreland County	0.50	96-715 Rosa Bran Rd	96-604 Sandy Point Rd	60	R							X						06/15/2004
+777543	  96	00719	     	96-719	 	096	Westmoreland County	096	Westmoreland County	0.10	SR 202 Cople Hwy	Dead End	10	R							X						05/21/2007
+777544	  96	00720	     	96-720	Johnson Town Rd	096	Westmoreland County	096	Westmoreland County	0.35	Dead End	SR 3 Kings Hwy	120	R							X						06/28/2004
+777545	  96	00721	     	96-721	Haywood Lane	096	Westmoreland County	096	Westmoreland County	0.35	SR 3 Kings Hwy	Dead End	30	R							X						06/11/2007
+777546	  96	00722	     	96-722	Nelson St	096	Westmoreland County	096	Westmoreland County	0.61	Dead End	96-755 Nelson St	48	R							X						06/11/2007
+777547	  96	00723	     	96-723	Creek View Lane	096	Westmoreland County	096	Westmoreland County	0.40	Dead End	SR 205	140	R							X						07/13/2004
+777548	  96	00724	     	96-724	 	096	Westmoreland County	096	Westmoreland County	0.34	Dead End	0.34 ME Dead End	48	R							X						06/21/2004
+777549	  96	00724	     	96-724	 	096	Westmoreland County	096	Westmoreland County	0.09	0.34 ME Dead End	96-612 Coles Point Rd	120	R							X						06/21/2004
+777550	  96	00724	     	96-724	Long Point Rd	096	Westmoreland County	096	Westmoreland County	1.05	96-612 Coles Point Rd	96-750 Warner Lane	470	R							X						06/04/2007
+777551	  96	00724	     	96-724	 	096	Westmoreland County	096	Westmoreland County	0.55	96-750 Warner Lane	Dead End	90	R							X						06/21/2004
+777552	  96	00725	     	96-725	Plainview Rd	096	Westmoreland County	096	Westmoreland County	0.60	Dead End	96-607; 96-608	140	R							X						06/09/2004
+777553	  96	00726	     	96-726	Cherry Orchard Lane	096	Westmoreland County	096	Westmoreland County	0.30	96-650, S Tidwells Rd	Dead End	60	R							X						06/23/2004
+777554	  96	00727	     	96-727	Johnson Lane	096	Westmoreland County	096	Westmoreland County	0.31	96-610 Tucker Hill Rd	Dead End	190	R							X						06/15/2004
+777555	  96	00728	     	96-728	Blackbeard Pond Rd	096	Westmoreland County	096	Westmoreland County	1.08	96-612 Coles Point Rd	Dead End	370	R							X						06/21/2004
+777556	  96	00729	     	96-729	 	096	Westmoreland County	096	Westmoreland County	0.20	96-1410 Springfield Beach Rd	96-747 Halbrook Lane	60	R							X						06/15/2004
+777557	  96	00729	     	96-729	Springfield Beach	096	Westmoreland County	096	Westmoreland County	0.30	96-747 Halbrook Lane	96-610 Tucker Hill Rd	70	R							X						05/21/2007
+777558	  96	00730	     	96-730	Apple Tree Rd	096	Westmoreland County	096	Westmoreland County	0.35	Dead End	96-650, S Tidwells Rd	60	R							X						06/28/2004
+777559	  96	00731	     	96-731	Thornton Rd	096	Westmoreland County	096	Westmoreland County	0.20	Dead End	96-610 Tucker Hill Rd	40	R							X						06/15/2004
+777560	  96	00732	     	96-732	Hook Rd	096	Westmoreland County	096	Westmoreland County	0.50	Dead End	96-610 Tucker Hill Rd	140	R							X						06/15/2004
+777561	  96	00733	     	96-733	Bull Neck Rd	096	Westmoreland County	096	Westmoreland County	0.75	96-615 Jerusalem Church Rd	Dead End	40	R							X						05/15/2007
+777562	  96	00734	     	96-734	Weavers Rd	096	Westmoreland County	096	Westmoreland County	0.35	96-643 Chilton Rd	Dead End	50	R							X						06/18/2007
+777563	  96	00735	     	96-735	Grannys Bar Rd	096	Westmoreland County	096	Westmoreland County	0.35	Dead End	96-679 Branson Cove Rd	90	R							X						06/04/2007
+777564	  96	00736	     	96-736	Boyce Point Circle	096	Westmoreland County	096	Westmoreland County	0.10	96-667 Chatham Village Rd	Begin Loop	130	R							X						06/28/2004
+777565	  96	00736	     	96-736	Boyce Point Circle	096	Westmoreland County	096	Westmoreland County	0.20	Begin Loop	End Loop	30	R							X						06/28/2004
+777566	  96	00737	     	96-737	Walnut Farm Rd	096	Westmoreland County	096	Westmoreland County	0.18	Dead End	96-621 Mt Holly Rd	40	R							X						06/04/2007
+777567	  96	00738	     	96-738	Buckner Creek Rd	096	Westmoreland County	096	Westmoreland County	0.75	96-711 Bushfield Rd	Dead End	60	R							X						06/04/2007
+777568	  96	00739	     	96-739	King Copsico Lane	096	Westmoreland County	096	Westmoreland County	0.40	Dead End	96-626 King Copsico Lane; Herring Lane	70	R							X						06/04/2007
+777569	  96	00740	     	96-740	Pleasant Retreat Lane	096	Westmoreland County	096	Westmoreland County	0.15	Dead End	96-690 Menokin Rd	40	R							X						06/06/2007
+777570	  96	00741	     	96-741	Lane Dr	096	Westmoreland County	096	Westmoreland County	0.50	Dead End	96-621 Mt Holly Rd	50	R							X						04/29/2004
+777571	  96	00742	     	96-742	Foxhall Rd	096	Westmoreland County	096	Westmoreland County	0.60	96-634 Claymont Rd	Dead End	20	R							X						06/20/2007
+777572	  96	00743	     	96-743	Kelly Lane	096	Westmoreland County	096	Westmoreland County	0.28	Dead End	96-622 Panorama Rd	40	R							X						06/18/2007
+777573	  96	00744	     	96-744	Marina Dr	096	Westmoreland County	096	Westmoreland County	0.18	Dead End	96-608 White Point Rd	60	R							X						06/09/2004
+777574	  96	00745	     	96-745	Zena Way	096	Westmoreland County	096	Westmoreland County	0.35	96-660 Parham Point Rd	Dead End	40	R							X						06/17/2004
+777575	  96	00746	     	96-746	Wigwam Rd	096	Westmoreland County	096	Westmoreland County	0.25	Dead End	96-610 Rose Tucker Rd	150	R							X						06/17/2004
+777576	  96	00747	     	96-747	Halbrook Lane	096	Westmoreland County	096	Westmoreland County	0.30	Dead End	96-729 Springfield Beach	30	R							X						05/21/2007
+777577	  96	00748	     	96-748	Fish-Brax Lane	096	Westmoreland County	096	Westmoreland County	0.30	96-615 Jerusalem Church Rd	Dead End	40	R							X						06/17/2004
+777578	  96	00749	     	96-749	Spences Point Rd	096	Westmoreland County	096	Westmoreland County	1.76	96-610 Tucker Hill Rd	Dead End	80	R							X						06/15/2004
+777579	  96	00750	     	96-750	Warner Lane	096	Westmoreland County	096	Westmoreland County	0.25	96-724 Long Point Rd	Dead End	49	R							X						06/21/2004
+777581	  96	00752	     	96-752	Parker Dr	096	Westmoreland County	096	Westmoreland County	0.26	Dead End	96-753 S, Washington Circle	46	R							X						06/15/2004
+777582	  96	00752	     	96-752	Parker Dr	096	Westmoreland County	096	Westmoreland County	0.05	96-753 S, Washington Circle	96-753 N, Washington Circle	49	R							X						06/15/2004
+777583	  96	00752	     	96-752	Parker Dr	096	Westmoreland County	096	Westmoreland County	0.35	96-753 N, Washington Circle	96-610 Tucker Hill Rd	60	R							X						05/21/2007
+777584	  96	00753	     	96-753	Washington Circle	096	Westmoreland County	096	Westmoreland County	0.15	96-752 Parker Dr	96-752 Parker Dr	30	R							X						06/15/2004
+777585	  96	00754	     	96-754	Oyster House Rd	096	Westmoreland County	096	Westmoreland County	0.30	96-621 North Tidwells Rd	Dead End	60	R							X						06/23/2004
+777586	  96	00755	     	96-755	Nelson St	096	Westmoreland County	096	Westmoreland County	0.15	96-722 Nelson St	SR 3 Kings Hwy	60	R							X						06/11/2007
+777587	  96	00756	     	96-756	Waterview Dr	096	Westmoreland County	096	Westmoreland County	0.17	Dead End	96-757 Gardner Rd	100	R							X						06/21/2004
+777588	  96	00756	     	96-756	Waterview Dr	096	Westmoreland County	096	Westmoreland County	0.20	96-757 Gardner Rd	96-692 Cherry Grove Rd	90	R							X						06/21/2004
+777590	  96	00757	     	96-757	Gardner Rd	096	Westmoreland County	096	Westmoreland County	0.23	96-756 Waterview Dr	96-692 Cherry Grove Rd	30	R							X						06/21/2004
+777591	  96	00758	     	96-758	Buena Vista Dr	096	Westmoreland County	096	Westmoreland County	0.25	SR 205 Ridge Rd	0.25 MN SR 205	120	R							X						07/13/2004
+777592	  96	00758	     	96-758	Buena Vista Dr	096	Westmoreland County	096	Westmoreland County	0.07	0.25 MN SR 205	Dead End	40	R							X						07/13/2004
+777593	  96	00759	     	96-759	Locust Rd	096	Westmoreland County	096	Westmoreland County	0.07	Dead End	SR 202 Cople Hwy	510	R							X						06/17/2004
+777594	  96	00760	     	96-760	Lowe Dr	096	Westmoreland County	096	Westmoreland County	0.30	96-710 Lowe Dr	Dead End	70	R							X						05/21/2007
+777595	  96	00761	     	96-761	Falls Hill Rd	096	Westmoreland County	096	Westmoreland County	0.47	SR 3 W, Kings Hwy	SR 3 E, Kings Hwy	20	R							X						06/28/2004
+777596	  96	00762	     	96-762	Woods Rd	096	Westmoreland County	096	Westmoreland County	0.17	Dead End	96-610 Tucker Hill Rd	10	R							X						05/21/2007
+777597	  96	00763	     	96-763	Bonums Rd	096	Westmoreland County	096	Westmoreland County	1.40	96-663 Kelly Rd	Dead End	30	R							X						06/17/2004
+777598	  96	00764	     	96-764	Travelers Rest Rd	096	Westmoreland County	096	Westmoreland County	0.58	Dead End	96-692 Cherry Grove Rd	140	R							X						06/21/2004
+777599	  96	00765	     	96-765	Whitehall Rd	096	Westmoreland County	096	Westmoreland County	0.20	Dead End	96-621 Mt Holly Rd	120	R							X						06/04/2007
+788165	  96	00766	     	96-766	 	096	Westmoreland County	096	Westmoreland County	0.28	SR 3 Kings Hwy	96-600 Relocated 766	160	R							X						04/26/2004
+785863	  96	00767	     	96-767	 	096	Westmoreland County	096	Westmoreland County	0.18	SR 202 Cople Hwy	Dead End	9	R							X						04/26/2004
+782774	  96	00768	     	96-768	Sonnet Lane	096	Westmoreland County	096	Westmoreland County	0.47	Dead End	SR 202 Cople Hwy	70	R							X						05/16/2007
+777600	  96	00770	     	96-770	Brodfield Rd	096	Westmoreland County	096	Westmoreland County	0.53	96-657 Macedonia Lane	96-631 Longfield Rd	110	R							X						07/18/2007
+784799	  96	00771	     	96-771	Wilton Woods Dr	096	Westmoreland County	096	Westmoreland County	0.47	96-666 Wilton Rd	96-772 E, Wilton Woods Lane	50	R							X						05/21/2007
+784800	  96	00772	     	96-772	Wilton Woods Lane	096	Westmoreland County	096	Westmoreland County	0.20	96-771 W, Wilton Woods Dr	96-771 E, Wilton Woods Dr	20	R							X						05/21/2007
+784801	  96	00773	     	96-773	Wilton Woods Court	096	Westmoreland County	096	Westmoreland County	0.04	Cul-de-Sac	96-772 Wilton Woods Lane	20	R							X						05/21/2007
+796379	  96	00774	     	96-774	 	096	Westmoreland County	096	Westmoreland County	0.19	Dead End	96-666 Wilton Rd	0	?							X
+782775	  96	00775	     	96-775	Legion Lane	096	Westmoreland County	096	Westmoreland County	0.09	Dead End	SR 3 Kings Hwy	40	R							X						06/11/2007
+777601	  96	00780	     	96-780	Bushfield Rd	096	Westmoreland County	096	Westmoreland County	0.88	96-711 Bushfield Rd	End Loop	210	R							X						06/04/2007
+792188	  96	00785	     	96-785	Industrial Park Dr	096	Westmoreland County	096	Westmoreland County	0.31	SR 3 Kings Hwy	Dead End	380	R							X						07/18/2007
+777602	  96	00790	     	96-790	Lone Walnut Rd	096	Westmoreland County	096	Westmoreland County	0.53	Cul-de-Sac	Northumberland County Line	140	R							X						05/16/2007
+777603	  96	00799	     	96-799	Poorhouse Rd	096	Westmoreland County	096	Westmoreland County	0.35	Dead End	96-622 Panorama Rd	400	R							X						04/26/2004
+777604	  96	01001	     	96-1001	Yeocomico Lane	096	Westmoreland County	096	Westmoreland County	0.02	SR 203 W, Kinsale Rd	96-1002 W, Bank St	150	R							X						06/09/2004
+777605	  96	01001	     	96-1001	Yeocomico Lane	096	Westmoreland County	096	Westmoreland County	0.20	96-1002 W, Bank St	SR 203 E; 96-1002 E	40	R							X						06/09/2004
+777606	  96	01002	     	96-1002	Bank St	096	Westmoreland County	096	Westmoreland County	0.10	96-1001 W, Yeocomico Lane	SR 203; 96-1001 E	90	R							X						06/09/2004
+777607	  96	01003	     	96-1003	Great House Rd	096	Westmoreland County	096	Westmoreland County	0.10	96-1005 Sigourney Dr	96-1004 Cat Nap Lane	70	R							X						06/09/2004
+777608	  96	01003	     	96-1003	Great House Rd	096	Westmoreland County	096	Westmoreland County	0.09	96-1004 Cat Nap Lane	SR 203 Kinsale Rd	20	R							X						06/09/2004
+777609	  96	01004	     	96-1004	Cat Nap Lane	096	Westmoreland County	096	Westmoreland County	0.05	96-1003 Great House Rd	SR 203 Kinsale Rd	10	R							X						06/19/2004
+777610	  96	01005	     	96-1005	 	096	Westmoreland County	096	Westmoreland County	0.02	SR 203 Kinsale Rd	96-1003 Great House Rd	70	R							X						06/09/2004
+777611	  96	01005	     	96-1005	Sigourney Dr	096	Westmoreland County	096	Westmoreland County	0.11	96-1003 Great House Rd	Dead End	20	R							X						05/21/2007
+777612	  96	01006	     	96-1006	Pier Place	096	Westmoreland County	096	Westmoreland County	0.20	SR 203 Kinsale Rd	Dead End	160	R							X						06/09/2004
+777613	  96	01007	     	96-1007	 	096	Westmoreland County	096	Westmoreland County	0.03	SR 203; 96-608	Dead End	80	R							X						06/09/2004
+786918	  96	01009	     	96-1009	Levelgreen Dr	096	Westmoreland County	096	Westmoreland County	0.12	96-606 Bancton Rd	Dead End	30	R							X						06/15/2004
+777614	  96	01010	     	96-1010	Wise Place	096	Westmoreland County	096	Westmoreland County	0.15	96-600 Neenah Rd	Cul-de-Sac	50	R							X						06/06/2007
+785495	  96	01015	     	96-1015	Skyview Dr	096	Westmoreland County	096	Westmoreland County	0.36	96-649 Federal Farm Rd	Cul-de-Sac	90	R							X						06/13/2007
+785496	  96	01016	     	96-1016	Mathews Cove Dr	096	Westmoreland County	096	Westmoreland County	0.25	96-1015 Skyview Dr	Cul-de-Sac	30	R							X						06/13/2007
+785497	  96	01017	     	96-1017	Nomini Bay Dr	096	Westmoreland County	096	Westmoreland County	0.32	96-649 Federal Farm Rd	Cul-de-Sac	46	R							X						06/13/2007
+792189	  96	01018	     	96-1018	Barnes Creek Ct	096	Westmoreland County	096	Westmoreland County	0.24	Dead End	96-649 Federal Farm Rd	30	R							X						06/13/2007
+792330	  96	01020	     	96-1020	Safe Harbor Landing	096	Westmoreland County	096	Westmoreland County	0.71	Dead End	96-692 Cherry Grove Rd	120	R							X						06/04/2007
+404679	  96	01101	     	96-1101	Yeocomico Lane	199	Town of Colonial Beach	096	Westmoreland County	1.35	96-1121 Monroe Bay Ave	96-1103 Boundary St	650	G	98%	0%	1%	0%	0%	0%	C	0.0909	F	0.6812	700	G	2008
+777615	  96	01101	     	96-1101	Beach Terrace	199	Town of Colonial Beach	096	Westmoreland County	0.06	96-1103 Boundary St	96-1108 Hawthorn St	890	R							X						07/09/2007
+777616	  96	01102	     	96-1102	 	199	Town of Colonial Beach	096	Westmoreland County	0.09	96-1119 Lossing Ave	96-1144 Dandridge Lane	90	R							X						07/13/2004
+404680	  96	01102	     	96-1102	Bancroft Ave	199	Town of Colonial Beach	096	Westmoreland County	1.08	96-1144 Dandridge Lane	96-1103 S, Boundary St	390	G	99%	0%	1%	0%	0%	0%	F	0.1027	F	0.5556	420	G	2008
+404681	  96	01102	     	96-1102	Washington Ave	199	Town of Colonial Beach	096	Westmoreland County	0.12	96-1103 N, Boundary St	96-1127 Dennison St	2500	G	99%	0%	1%	0%	0%	0%	F	0.0919	F	0.5440	2700	G	2008
+404682	  96	01102	     	96-1102	Washington Ave	199	Town of Colonial Beach	096	Westmoreland County	0.19	96-1127 Dennison St	SR 205 Y	3600	G	99%	0%	1%	0%	0%	0%	C	0.0915	F	0.5303	3900	G	2008
+404683	  96	01102	     	96-1102	Washington Ave	199	Town of Colonial Beach	096	Westmoreland County	0.28	SR 205 Y	96-1113 Given St	560	G	99%	0%	1%	0%	0%	0%	F	0.1006	F	0.6066	600	G	2008
+777617	  96	01103	     	96-1103	Boundary St	199	Town of Colonial Beach	096	Westmoreland County	0.03	Dead End	96-1121 Monroe Bay Ave	30	R							X						07/09/2007
+404684	  96	01103	     	96-1103	Boundary St	199	Town of Colonial Beach	096	Westmoreland County	0.11	96-1121 Monroe Bay Ave	96-1102 E, Washington Ave	810	G	98%	0%	1%	0%	0%	0%	C	0.0919	F	0.5528	880	G	2008
+777618	  96	01103	     	96-1103	Boundary St	199	Town of Colonial Beach	096	Westmoreland County	0.09	96-1102 N, Washington Ave	96-1111 Irving Ave	2000	R							X						07/09/2007
+404685	  96	01103	     	96-1103	Boundary St	199	Town of Colonial Beach	096	Westmoreland County	0.03	96-1111 Irving Ave	96-1101 Beach Terrace; Yeocomico Lane	830	G	98%	0%	1%	0%	0%	0%	F	0.1001	F	0.6364	900	G	2008
+777619	  96	01104	     	96-1104	Thackary St	199	Town of Colonial Beach	096	Westmoreland County	0.26	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	60	R							X						07/09/2007
+777620	  96	01105	     	96-1105	Hamilton St	199	Town of Colonial Beach	096	Westmoreland County	0.26	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	30	R							X						07/09/2007
+777621	  96	01106	     	96-1106	Weems St	199	Town of Colonial Beach	096	Westmoreland County	0.26	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	80	R							X						07/09/2007
+777622	  96	01107	     	96-1107	Marshall Ave	199	Town of Colonial Beach	096	Westmoreland County	0.37	96-1120 Lawrence Lane	96-1122 Wirt St	220	R							X						07/09/2007
+777623	  96	01107	     	96-1107	Marshall Ave	199	Town of Colonial Beach	096	Westmoreland County	0.58	96-1122 Wirt St	96-1103 Boundary St	610	R							X						07/09/2007
+404686	  96	01107	     	96-1107	Garfield Ave	199	Town of Colonial Beach	096	Westmoreland County	0.12	96-1103 Boundary St	96-1127 Dennison St	1300	G	99%	0%	0%	0%	0%	0%	C	0.0921	F	0.5303	1400	G	2008
+777624	  96	01107	     	96-1107	Marshall Ave	199	Town of Colonial Beach	096	Westmoreland County	0.06	96-1127 Dennison St	96-1110 Wilder Ave	1400	R							X						07/09/2007
+777625	  96	01108	     	96-1108	Hawthorn St	199	Town of Colonial Beach	096	Westmoreland County	0.21	96-1107 Garfield Ave	96-1101 Beach Terrace	900	R							X						07/09/2007
+777626	  96	01109	     	96-1109	Taylor St	199	Town of Colonial Beach	096	Westmoreland County	0.12	96-1108 Hawthorn St	96-1110 Wilder Ave	950	R							X						07/09/2007
+777627	  96	01110	     	96-1110	Wilder Ave	199	Town of Colonial Beach	096	Westmoreland County	0.27	96-1126 Lynnhaven Ave	96-1109 Taylor St	1100	R							X						07/09/2007
+404687	  96	01111	     	96-1111	Irving Ave	199	Town of Colonial Beach	096	Westmoreland County	0.21	96-1103 Boundary St	96-1102 Washington Ave	260	G							X				280	G	2008
+777628	  96	01112	     	96-1112	Taggart St	199	Town of Colonial Beach	096	Westmoreland County	0.28	SR 205 Y	96-1113 Given St	210	R							X						07/11/2007
+777629	  96	01113	     	96-1113	Given St	199	Town of Colonial Beach	096	Westmoreland County	0.19	96-1126 Jackson St	96-1102 Washington Ave	100	R							X						07/11/2007
+777630	  96	01114	     	96-1114	First St	199	Town of Colonial Beach	096	Westmoreland County	0.60	SR 205	96-1134 Lee St<The Beach>	2000	R							X						07/16/2007
+777631	  96	01115	     	96-1115	Ninth St	199	Town of Colonial Beach	096	Westmoreland County	0.60	SR 205	96-1143 Beach Ave	180	R							X						07/16/2007
+777632	  96	01116	     	96-1116	Lincoln Ave	199	Town of Colonial Beach	096	Westmoreland County	0.32	96-1159 Kintz St	Dead End	40	R							X						07/11/2007
+777633	  96	01117	     	96-1117	Longfellow Ave	199	Town of Colonial Beach	096	Westmoreland County	0.12	96-1118	96-1102 Washington Ave	40	R							X						07/11/2007
+777634	  96	01118	     	96-1118	Douglas Ave	199	Town of Colonial Beach	096	Westmoreland County	0.19	96-1127 Dennison St	SR 205 Y	150	R							X						07/11/2007
+777635	  96	01118	     	96-1118	Garfield Ave	199	Town of Colonial Beach	096	Westmoreland County	0.40	SR 205 Y	SR 1114	420	R							X						07/11/2007
+777636	  96	01119	     	96-1119	Lossing Ave	199	Town of Colonial Beach	096	Westmoreland County	0.74	96-1102	96-1147 Nelson St	220	R							X						07/18/2007
+777637	  96	01119	     	96-1119	Lossing Ave	199	Town of Colonial Beach	096	Westmoreland County	0.48	96-1147 Nelson St	96-1103 Boundary St	510	R							X						07/18/2007
+777638	  96	01120	     	96-1120	Lawrence Lane	199	Town of Colonial Beach	096	Westmoreland County	0.29	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	70	R							X						07/09/2007
+404688	  96	01121	     	96-1121	Monroe Bay Ave	199	Town of Colonial Beach	096	Westmoreland County	1.28	96-1101 Yeocomico Lane	96-1103 Boundary St	600	G	99%	0%	1%	0%	0%	0%	C	0.1037	F	0.6912	650	G	2008
+777639	  96	01122	     	96-1122	Wirt St	199	Town of Colonial Beach	096	Westmoreland County	0.25	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	30	R							X						07/09/2007
+777640	  96	01123	     	96-1123	Robin Grove Lane	199	Town of Colonial Beach	096	Westmoreland County	0.14	96-1121 S; 96-1104	96-1121 N, Monroe Bay Ave	100	R							X						07/09/2007
+777641	  96	01124	     	96-1124	Lafayette St	199	Town of Colonial Beach	096	Westmoreland County	0.19	Dead End	96-1121 Monroe Bay Ave	320	R							X						07/09/2007
+777642	  96	01124	     	96-1124	Lafayette St	199	Town of Colonial Beach	096	Westmoreland County	0.26	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	70	R							X						07/09/2007
+777643	  96	01125	     	96-1125	Livingstone St	199	Town of Colonial Beach	096	Westmoreland County	0.32	96-1158 Billingsley Ave	96-1102 Washington Ave	160	R							X						07/11/2007
+404689	  96	01126	     	96-1126	Lynnhaven Ave	199	Town of Colonial Beach	096	Westmoreland County	0.13	96-1127 Dennison St	96-1125 Livingstone St	1700	G	98%	1%	1%	0%	0%	0%	F	0.1184	F	0.6000	1800	G	2008
+404690	  96	01126	     	96-1126	Lynnhaven Ave	199	Town of Colonial Beach	096	Westmoreland County	0.06	96-1125 Livingstone St	SR 205 Y	1700	G	98%	1%	1%	0%	0%	0%	C	0.0905	F	0.6590	1800	G	2008
+404691	  96	01126	     	96-1126	Jackson St	199	Town of Colonial Beach	096	Westmoreland County	0.59	SR 205 Y	96-1140 Fifth St	830	G	98%	1%	1%	0%	0%	0%	F	0.0970	F	0.5628	900	G	2008
+404692	  96	01126	     	96-1126	Myers Ave	199	Town of Colonial Beach	096	Westmoreland County	0.05	96-1140 Fifth St	96-1141 Sixth St	510	G	98%	1%	1%	0%	0%	0%	F	0.0981	F	0.5798	550	G	2008
+404693	  96	01126	     	96-1126	Myers Ave	199	Town of Colonial Beach	096	Westmoreland County	0.30	96-1141 Sixth St	96-1152 Twelfth St	360	G	98%	1%	1%	0%	0%	0%	F	0.1101	F	0.5955	390	G	2008
+404694	  96	01127	     	96-1127	Dennison St	199	Town of Colonial Beach	096	Westmoreland County	0.10	96-1126 Lynnhaven Ave	96-1107 Marshall Ave; Garfield Ave	1300	G	99%	0%	1%	0%	0%	0%	C	0.0909	F	0.6214	1400	G	2008
+777644	  96	01127	     	96-1127	Dennison St	199	Town of Colonial Beach	096	Westmoreland County	0.17	96-1107 Marshall Ave; Garfield Ave	96-1109 Taylor St	170	R							X						07/09/2007
+777645	  96	01128	     	96-1128	Jefferson St	199	Town of Colonial Beach	096	Westmoreland County	0.18	96-1121 Monroe Bay Ave	96-1119 Lossing Ave	60	R							X						07/09/2007
+777646	  96	01129	     	96-1129	Madison St	199	Town of Colonial Beach	096	Westmoreland County	0.28	Dead End	96-1101 Yeocomico Lane	60	R							X						07/09/2007
+777647	  96	01130	     	96-1130	Sulgrave St	199	Town of Colonial Beach	096	Westmoreland County	0.23	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	40	R							X						07/09/2007
+777648	  96	01131	     	96-1131	Franklin Ave	199	Town of Colonial Beach	096	Westmoreland County	0.24	96-1159 Kintz St	96-1102 Washington Ave	60	R							X						07/11/2007
+777649	  96	01132	     	96-1132	Bryant Ave	199	Town of Colonial Beach	096	Westmoreland County	0.16	96-1113 Given St	96-1114 First St	560	R							X						07/11/2007
+777650	  96	01133	     	96-1133	Second St	199	Town of Colonial Beach	096	Westmoreland County	0.59	SR 205	96-1134 Lee St <The Beach>	280	R							X						07/16/2007
+777651	  96	01134	     	96-1134	Lee St <The Beach>	199	Town of Colonial Beach	096	Westmoreland County	0.12	96-1114 First St	96-1149 Third St <The Beach>	80	R							X						07/11/2007
+777652	  96	01135	     	96-1135	Fourth St	199	Town of Colonial Beach	096	Westmoreland County	0.27	96-1160 Dwight Ave	96-1143 Beach Ave	90	R							X						07/16/2007
+777653	  96	01136	     	96-1136	Riverview Circle	199	Town of Colonial Beach	096	Westmoreland County	0.16	SR 205	96-1153 Riverview Dr	90	R							X						07/16/2007
+777654	  96	01137	     	96-1137	Eleventh St	199	Town of Colonial Beach	096	Westmoreland County	0.09	96-1126 Myers Ave	96-1143 Beach Ave	50	R							X						07/16/2007
+777655	  96	01138	     	96-1138	Virginia Ave	199	Town of Colonial Beach	096	Westmoreland County	0.10	96-1102 Washington Ave	Dead End	60	R							X						07/11/2007
+777656	  96	01139	     	96-1139	Maryland Ave	199	Town of Colonial Beach	096	Westmoreland County	0.10	96-1102 Washington Ave	Dead End	80	R							X						07/13/2004
+777657	  96	01140	     	96-1140	Fifth St	199	Town of Colonial Beach	096	Westmoreland County	0.27	96-1160 Dwight Ave	96-1143 Beach Ave	90	R							X						07/16/2007
+777658	  96	01141	     	96-1141	Sixth St	199	Town of Colonial Beach	096	Westmoreland County	0.59	SR 205	96-1143 Beach Ave	130	R							X						07/16/2007
+777659	  96	01142	     	96-1142	Seventh St	199	Town of Colonial Beach	096	Westmoreland County	0.58	96-1143 Beach Ave	SR 205	340	R							X						07/16/2007
+777660	  96	01143	     	96-1143	Beach Ave	199	Town of Colonial Beach	096	Westmoreland County	0.42	96-1135 Fourth St	96-1152 Twelfth St	150	R							X						07/16/2007
+777661	  96	01144	     	96-1144	Dandridge Lane	199	Town of Colonial Beach	096	Westmoreland County	0.20	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	40	R							X						07/09/2007
+777662	  96	01145	     	96-1145	Chamberlayne St	199	Town of Colonial Beach	096	Westmoreland County	0.24	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	40	R							X						07/09/2007
+777663	  96	01146	     	96-1146	Ball St	199	Town of Colonial Beach	096	Westmoreland County	0.22	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	60	R							X						07/09/2007
+777664	  96	01147	     	96-1147	Nelson St	199	Town of Colonial Beach	096	Westmoreland County	0.27	96-1121 Monroe Bay Ave	96-1101 Yeocomico Lane	40	R							X						07/09/2007
+777665	  96	01148	     	96-1148	Vernon St	199	Town of Colonial Beach	096	Westmoreland County	0.20	96-1121 Monroe Bay Ave	96-1119 Lossing Ave	40	R							X						07/09/2007
+777666	  96	01149	     	96-1149	Third Street <The Beach>	199	Town of Colonial Beach	096	Westmoreland County	0.57	SR 205	96-1134 Lee St <The Beach>	290	R							X						07/16/2007
+777667	  96	01150	     	96-1150	Eighth St	199	Town of Colonial Beach	096	Westmoreland County	0.28	96-1160 Dwight Ave	96-1143 Beach Ave	60	R							X						07/16/2007
+777668	  96	01151	     	96-1151	Tenth St	199	Town of Colonial Beach	096	Westmoreland County	0.11	96-1126 Myers Ave	96-1143 Beach Ave	40	R							X						07/16/2007
+777669	  96	01152	     	96-1152	Twelfth St	199	Town of Colonial Beach	096	Westmoreland County	0.55	SR 205	96-1143 Beach Ave	670	R							X						07/16/2007
+777670	  96	01153	     	96-1153	Riverview Circle	199	Town of Colonial Beach	096	Westmoreland County	0.22	SR 205	96-1136 Gap	90	R							X						07/11/2007
+777671	  96	01153	     	96-1153	Riverview Dr	199	Town of Colonial Beach	096	Westmoreland County	0.45	96-1163 Gap	Dead End	280	R							X						07/11/2007
+777672	  96	01154	     	96-1154	Mimosa Ave	199	Town of Colonial Beach	096	Westmoreland County	0.47	SR 205	96-1153 Riverview Dr	320	R							X						07/11/2007
+777673	  96	01155	     	96-1155	Cedar Ave	199	Town of Colonial Beach	096	Westmoreland County	0.37	SR 205	96-1153 Riverview Dr	300	R							X						07/11/2007
+777674	  96	01157	     	96-1157	Westmoreland Ave	199	Town of Colonial Beach	096	Westmoreland County	0.06	96-1158 Billingsley Ave	Dead End	40	R							X						07/11/2007
+777675	  96	01158	     	96-1158	Billingsley Ave	199	Town of Colonial Beach	096	Westmoreland County	0.14	96-1157 Westmoreland Ave	SR 205	170	R							X						07/11/2007
+777676	  96	01159	     	96-1159	Kintz St	199	Town of Colonial Beach	096	Westmoreland County	0.20	96-1125 Livingstone St	96-1116 Lincoln Ave	60	R							X						07/11/2007
+777677	  96	01160	     	96-1160	Dwight Ave	199	Town of Colonial Beach	096	Westmoreland County	0.57	96-1114 First St	96-1152 Twelfth St	200	R							X						07/16/2007
+777678	  96	01161	     	96-1161	Locust Ave	199	Town of Colonial Beach	096	Westmoreland County	0.47	SR 205	96-1153 Riverview Dr	280	R							X						07/11/2007
+777679	  96	01162	     	96-1162	Wakefield St	199	Town of Colonial Beach	096	Westmoreland County	0.31	96-1161 Locust Ave	96-1136 Riverview Circle	70	R							X						07/11/2007
+777680	  96	01163	     	96-1163	Stratford St	199	Town of Colonial Beach	096	Westmoreland County	0.25	96-1161 Locust Ave	96-1153 Riverview Dr	50	R							X						07/11/2007
+777681	  96	01164	     	96-1164	Monroe St	199	Town of Colonial Beach	096	Westmoreland County	0.20	Dead End	SR 205 Y	90	R							X						07/13/2004
+777682	  96	01165	     	96-1165	Esmond Lane	199	Town of Colonial Beach	096	Westmoreland County	0.12	96-1144 Dandridge Lane	96-1120 Lawrence Lane	30	R							X						07/09/2007
+777683	  96	01166	     	96-1166	Euclid St	199	Town of Colonial Beach	096	Westmoreland County	0.16	SR 205 Y	96-1114 First St	980	R							X						07/16/2007
+777684	  96	01166	     	96-1166	Euclid St	199	Town of Colonial Beach	096	Westmoreland County	0.06	96-1114 First St	96-1133 Second St	590	R							X						07/16/2007
+777685	  96	01166	     	96-1166	Euclid St	199	Town of Colonial Beach	096	Westmoreland County	0.06	96-1133 Second St	96-1149 Third St <The Beach>	540	R							X						07/16/2007
+777686	  96	01166	     	96-1166	Euclid St	199	Town of Colonial Beach	096	Westmoreland County	0.13	96-1149 Third St <The Beach>	96-1141 Sixth St	300	R							X						07/16/2007
+789763	  96	01166	     	96-1166	Euclid St	199	Town of Colonial Beach	096	Westmoreland County	0.05	96-1141 Sixth St	96-1142 Seventh St	160	R							X						07/16/2007
+777687	  96	01167	     	96-1167	Darl Circle	199	Town of Colonial Beach	096	Westmoreland County	0.01	SR 205 WEST	SWCL Colonial Beach	60	R							X						07/11/2007
+785238	  96	01167	     	96-1167	Darl Circle	096	Westmoreland County	096	Westmoreland County	0.31	SWCL Colonial Beach	SCL Colonial Beach	80	R							X						07/11/2001
+785296	  96	01167	     	96-1167	Darl Circle	199	Town of Colonial Beach	096	Westmoreland County	0.01	SCL Colonial Beach	SR 205 EAST	160	R							X						07/11/2001
+789189	  96	01168	     	96-1168	Bell Ave	199	Town of Colonial Beach	096	Westmoreland County	0.04	96-1124 Lafayette St	96-1121; 96-1148	130	R							X						07/09/2007
+789190	  96	01169	     	96-1169	Spotswood Lane	199	Town of Colonial Beach	096	Westmoreland County	0.14	96-1165 Esmond Lane	96-1119 Lossing Ave	30	R							X						07/09/2007
+784802	  96	01180	     	96-1180	Colonial Blvd	096	Westmoreland County	096	Westmoreland County	0.25	Dead End	96-630 Treakle Lane	100	R							X						07/16/2007
+784803	  96	01181	     	96-1181	Estate Dr	096	Westmoreland County	096	Westmoreland County	0.10	Dead End	96-1180 Colonial Blvd	40	R							X						07/16/2007
+777688	  96	01201	     	96-1201	Court Square	263	Town of Montross	096	Westmoreland County	0.07	SR 3 Kings Hwy	96-622 Polk St	510	R							X						06/11/2007
+777689	  96	01202	     	96-1202	Alma Lane	263	Town of Montross	096	Westmoreland County	0.01	Dead End	96-1211 Lee St	9	R							X						04/29/2004
+777690	  96	01202	     	96-1202	Alma Lane	263	Town of Montross	096	Westmoreland County	0.03	96-1211 Lee St	96-1206 Jefferson St	140	R							X						04/29/2004
+777691	  96	01202	     	96-1202	Alma Lane	263	Town of Montross	096	Westmoreland County	0.04	96-1206 Jefferson St	96-1207 Wakefield St	210	R							X						04/29/2004
+777692	  96	01202	     	96-1202	Alma Lane	263	Town of Montross	096	Westmoreland County	0.05	96-1207 Wakefield St	96-1203 Rectory Rd	430	R							X						04/29/2004
+777693	  96	01202	     	96-1202	Alma Lane	263	Town of Montross	096	Westmoreland County	0.12	96-1203 Rectory Rd	SR 3 Kings Hwy	450	R							X						06/11/2007
+777694	  96	01203	     	96-1203	Rectory Rd	263	Town of Montross	096	Westmoreland County	0.22	SR 3 Kings Hwy	96-1202 Alma Lane	330	R							X						06/11/2007
+777695	  96	01204	     	96-1204	Carver St	263	Town of Montross	096	Westmoreland County	0.23	Dead End	SR 3 Kings Hwy	90	R							X						04/26/2004
+777696	  96	01205	     	96-1205	Glenn St	263	Town of Montross	096	Westmoreland County	0.21	96-681 Lyells St	96-1203 Rectory Rd	100	R							X						06/11/2007
+777697	  96	01206	     	96-1206	Jefferson St	263	Town of Montross	096	Westmoreland County	0.15	96-1202 Alma Lane	96-1205 Glenn St	120	R							X						04/26/2004
+777698	  96	01207	     	96-1207	Wakefield St	096	Westmoreland County	096	Westmoreland County	0.11	Dead End	96-1212; SCL Montross	60	R							X						04/29/2004
+777699	  96	01207	     	96-1207	Wakefield St	263	Town of Montross	096	Westmoreland County	0.16	96-1212; SCL Montross	96-1202 Alma Lane	190	R							X						04/29/2004
+777700	  96	01208	     	96-1208	Ames Lane	263	Town of Montross	096	Westmoreland County	0.07	96-1201 Court Square	Dead End	30	R							X						04/26/2004
+777701	  96	01209	     	96-1209	Forest Dr	263	Town of Montross	096	Westmoreland County	0.10	SR 3 Kings Hwy	NCL Montross	60	R							X						04/26/2004
+777702	  96	01209	     	96-1209	Forest Dr	096	Westmoreland County	096	Westmoreland County	0.16	NCL Montross	Dead End	40	R							X						04/26/2004
+777703	  96	01210	     	96-1210	Opal Lane	263	Town of Montross	096	Westmoreland County	0.18	Dead End	SR 3 Kings Hwy	530	R							X						04/26/2004
+777704	  96	01211	     	96-1211	Lee St	263	Town of Montross	096	Westmoreland County	0.10	96-1202 Alma Lane	SCL Montross	130	R							X						04/29/2004
+777705	  96	01211	     	96-1211	Lee St	096	Westmoreland County	096	Westmoreland County	0.04	SCL Montross	96-1212 Monroe St	90	R							X						04/29/2004
+777706	  96	01212	     	96-1212	Monroe St	096	Westmoreland County	096	Westmoreland County	0.34	Dead End	96-1211 Lee St	100	R							X						04/29/2004
+777707	  96	01212	     	96-1212	Monroe St	096	Westmoreland County	096	Westmoreland County	0.06	96-1211 Lee St	SCL Montross	80	R							X						04/29/2004
+777708	  96	01212	     	96-1212	Monroe St	263	Town of Montross	096	Westmoreland County	0.01	SCL Montross	96-1207; SCL Montross	80	R							X						04/29/2004
+777709	  96	01213	     	96-1213	Clover Lane	263	Town of Montross	096	Westmoreland County	0.06	96-622 Polk St	96-1214 Harris Dr	140	R							X						04/26/2004
+777710	  96	01213	     	96-1213	Clover Lane	263	Town of Montross	096	Westmoreland County	0.09	96-1214 Harris Dr	Cul-de-Sac	30	R							X						04/26/2004
+777711	  96	01214	     	96-1214	Harris Dr	096	Westmoreland County	096	Westmoreland County	0.06	96-1213 Clover Lane	Cul-de-Sac	80	R							X						04/26/2004
+777712	  96	01300	     	96-1300	Santa Anita Dr	096	Westmoreland County	096	Westmoreland County	0.25	96-1302 Shore Dr	96-658 Monroe Bay Circle	440	R							X						06/25/2007
+777713	  96	01301	     	96-1301	Oak Grove Rd	096	Westmoreland County	096	Westmoreland County	0.49	Dead End	SR 3; SR 205	180	R							X						06/30/2004
+777714	  96	01302	     	96-1302	Shore Dr	096	Westmoreland County	096	Westmoreland County	0.06	96-1327 Alma Lane	96-1326 Bonnie Del Dr	140	R							X						06/25/2007
+777715	  96	01302	     	96-1302	Shore Dr	096	Westmoreland County	096	Westmoreland County	0.08	96-1326 Bonnie Del Dr	96-1317 South Cedar Lane	180	R							X						06/25/2007
+777716	  96	01302	     	96-1302	Shore Dr	096	Westmoreland County	096	Westmoreland County	0.64	96-1317 South Cedar Lane	96-1306 Westmoreland Dr	200	R							X						06/25/2007
+777717	  96	01302	     	96-1302	Shore Dr	096	Westmoreland County	096	Westmoreland County	0.20	96-1306 Westmoreland Dr	96-1300 Santa Anita Dr	600	R							X						06/25/2007
+777718	  96	01302	     	96-1302	Shore Dr	096	Westmoreland County	096	Westmoreland County	0.23	96-1300 Santa Anita Dr	96-1309 Avalon Dr	170	R							X						06/25/2007
+777719	  96	01303	     	96-1303	San Juan Dr	096	Westmoreland County	096	Westmoreland County	0.10	96-1302; 96-1309	96-658 Monroe Bay Circle	420	R							X						07/15/2004
+777720	  96	01304	     	96-1304	Monroe Dr	096	Westmoreland County	096	Westmoreland County	0.45	96-1313 Wakefield Dr	96-1302 Shore Dr	170	R							X						06/25/2007
+788234	  96	01305	     	96-1305	 	096	Westmoreland County	096	Westmoreland County	0.06	96-1308 Rolando Dr	96-633 Holly Vista Dr	46	R							X						07/15/2004
+777721	  96	01305	     	96-1305	 	096	Westmoreland County	096	Westmoreland County	0.19	96-633 Holly Vista Dr	96-1302 Shore Dr	30	R							X						06/25/2007
+777722	  96	01306	     	96-1306	Westmoreland Dr	096	Westmoreland County	096	Westmoreland County	0.22	96-1316 Monticello Dr	96-1302 Shore Dr	130	R							X						06/25/2007
+777723	  96	01307	     	96-1307	Mt Vernon Dr	096	Westmoreland County	096	Westmoreland County	0.23	96-1313 Wakefield Dr	96-1306 Westmoreland Dr	80	R							X						06/25/2007
+777724	  96	01308	     	96-1308	Rolando Dr	096	Westmoreland County	096	Westmoreland County	0.54	96-633 Holly Vista Dr	96-1302 Shore Dr	210	R							X						06/25/2007
+777725	  96	01309	     	96-1309	Avalon Dr	096	Westmoreland County	096	Westmoreland County	0.18	96-1302; 96-1303	Cul-de-Sac	160	R							X						07/15/2004
+777726	  96	01310	     	96-1310	Albrough Blvd	096	Westmoreland County	096	Westmoreland County	0.56	96-638 Ferry Landing	96-1329 Clearview Dr	2300	R							X						06/25/2007
+777727	  96	01310	     	96-1310	Albrough Blvd	096	Westmoreland County	096	Westmoreland County	0.28	96-1329 Clearview Dr	96-1311 Lake Dr	610	R							X						06/25/2007
+777728	  96	01311	     	96-1311	Lake Dr	096	Westmoreland County	096	Westmoreland County	0.48	96-1310 Albrough Blvd	96-1315	370	R							X						06/30/2004
+777729	  96	01312	     	96-1312	 	096	Westmoreland County	096	Westmoreland County	0.42	96-1328 Forest Grove Rd	96-1318 Circle Lane	310	R							X						06/30/2004
+777730	  96	01312	     	96-1312	Mattox Ave	096	Westmoreland County	096	Westmoreland County	0.44	96-1318 Circle Lane	0.44 MS 69-1318	100	R							X						06/25/2007
+777731	  96	01312	     	96-1312	Mattox Ave	096	Westmoreland County	096	Westmoreland County	0.14	0.44 MS 69-1318	Cul-de-Sac	110	R							X						06/25/2007
+784804	  96	01313	     	96-1313	Wakefield Dr	096	Westmoreland County	096	Westmoreland County	0.06	96-1333 Fort King Dr	96-1314 Piney Forest Dr	170	R							X						06/24/2007
+777732	  96	01313	     	96-1313	Wakefield Dr	096	Westmoreland County	096	Westmoreland County	0.06	96-1314 Piney Forest Dr	96-1316 Monticello Dr	200	R							X						07/15/2004
+777733	  96	01313	     	96-1313	Wakefield Dr	096	Westmoreland County	096	Westmoreland County	0.51	96-1316 Monticello Dr	96-658 Monroe Bay Circle	390	R							X						07/15/2004
+777734	  96	01314	     	96-1314	Piney Forest Dr	096	Westmoreland County	096	Westmoreland County	0.19	Dead End	96-1313 Wakefield Dr	48	R							X						07/15/2004
+777735	  96	01315	     	96-1315	 	096	Westmoreland County	096	Westmoreland County	0.43	Dead End	96-1311 Lake Dr	60	R							X						06/30/2004
+777736	  96	01315	     	96-1315	 	096	Westmoreland County	096	Westmoreland County	0.29	96-1311 Lake Dr	Dead End	250	R							X						06/30/2004
+784805	  96	01316	     	96-1316	Monticello Dr	096	Westmoreland County	096	Westmoreland County	0.21	96-1332 Greenway Dr	96-1313 Wakefield Dr	100	R							X						06/25/2007
+777737	  96	01316	     	96-1316	Monticello Dr	096	Westmoreland County	096	Westmoreland County	0.24	96-1313 Wakefield Dr	96-1306 Westmoreland Dr	70	R							X						06/25/2007
+777738	  96	01317	     	96-1317	South Cedar Lane	096	Westmoreland County	096	Westmoreland County	0.16	96-1305	96-1302 Shore Dr	60	R							X						07/15/2004
+777739	  96	01318	     	96-1318	Circle Lane	096	Westmoreland County	096	Westmoreland County	0.22	Azalea Way	96-1312 Mattox Ave	60	R							X						06/30/2004
+777740	  96	01319	     	96-1319	Lakeview Dr	096	Westmoreland County	096	Westmoreland County	0.39	96-1312 SOUTH	96-1312 N, Mattox Ave	120	R							X						06/30/2004
+777741	  96	01320	     	96-1320	Barracks Beach Dr	096	Westmoreland County	096	Westmoreland County	0.11	Dead End	96-1321 Barnes Blvd	90	R							X						07/15/2004
+777742	  96	01320	     	96-1320	Barracks Beach Dr	096	Westmoreland County	096	Westmoreland County	0.38	96-1321 Barnes Blvd	96-633 Holly Vista Dr	180	R							X						07/15/2004
+777743	  96	01321	     	96-1321	Barnes Blvd	096	Westmoreland County	096	Westmoreland County	0.18	96-633 Holly Vista Dr	96-1324 Mattox Bay Dr	310	R							X						07/13/2004
+777744	  96	01321	     	96-1321	Barnes Blvd	096	Westmoreland County	096	Westmoreland County	0.27	96-1324 Mattox Bay Dr	96-1320 Barracks Beach Dr	120	R							X						07/13/2004
+777745	  96	01322	     	96-1322	Potomac Lane	096	Westmoreland County	096	Westmoreland County	0.09	96-1324 Mattox Bay Dr	96-1323 Earl Court	60	R							X						07/13/2004
+777746	  96	01322	     	96-1322	Potomac Lane	096	Westmoreland County	096	Westmoreland County	0.20	96-1323 Earl Court	96-1325 Sebastian Ave	130	R							X						07/13/2004
+777747	  96	01323	     	96-1323	Earl Court	096	Westmoreland County	096	Westmoreland County	0.05	Cul-de-Sac	96-1322 Potomac Lane	40	R							X						07/13/2004
+777748	  96	01324	     	96-1324	Mattox Bay Dr	096	Westmoreland County	096	Westmoreland County	0.09	96-1325 Sebastian Ave	96-1322 Potomac Lane	60	R							X						07/13/2004
+777749	  96	01324	     	96-1324	Mattox Bay Dr	096	Westmoreland County	096	Westmoreland County	0.12	96-1322 Potomac Lane	96-1321 Barnes Blvd	80	R							X						07/13/2004
+777750	  96	01325	     	96-1325	Sebastian Ave	096	Westmoreland County	096	Westmoreland County	0.08	Cul-de-Sac	96-1324 Mattox Bay Dr	30	R							X						07/13/2004
+777751	  96	01325	     	96-1325	Sebastian Ave	096	Westmoreland County	096	Westmoreland County	0.29	96-1324 Mattox Bay Dr	96-1322 Potomac Lane	100	R							X						07/13/2004
+777752	  96	01325	     	96-1325	Sebastian Ave	096	Westmoreland County	096	Westmoreland County	0.09	96-1322 Potomac Lane	96-633 Holly Vista Dr	310	R							X						07/13/2004
+777753	  96	01326	     	96-1326	Bonnie Del Dr	096	Westmoreland County	096	Westmoreland County	0.20	96-633 Holly Vista Dr	96-1302 Shore Dr	90	R							X						06/25/2007
+777754	  96	01327	     	96-1327	Alma Lane	096	Westmoreland County	096	Westmoreland County	0.20	96-1302 Shore Dr	96-633 Holly Vista Dr	210	R							X						06/25/2007
+784806	  96	01328	     	96-1328	Forest Grove Rd	096	Westmoreland County	096	Westmoreland County	1.04	Dead End	96-1315	290	R							X						06/25/2007
+784807	  96	01329	     	96-1329	Clearview Dr	096	Westmoreland County	096	Westmoreland County	0.37	96-1310 Albrough Blvd	96-1328 Forest Grove Rd	1500	R							X						06/25/2007
+786919	  96	01330	     	96-1330	Clover Lane	096	Westmoreland County	096	Westmoreland County	0.17	Dead End	96-1329 Clearview Dr	100	R							X						06/30/2004
+786920	  96	01331	     	96-1331	Lea Rd	096	Westmoreland County	096	Westmoreland County	0.22	Dead End	96-1329 Clearview Dr	190	R							X						06/30/2004
+784808	  96	01332	     	96-1332	Greenway Dr	096	Westmoreland County	096	Westmoreland County	0.37	96-1333 E, Fort King Dr	Dead End	47	R							X						06/25/2007
+784809	  96	01333	     	96-1333	Fort King Dr	096	Westmoreland County	096	Westmoreland County	0.29	96-1332 W, Greenway Dr	96-1332 E, Greenway Dr	60	R							X						06/25/2007
+786921	  96	01334	     	96-1334	 	096	Westmoreland County	096	Westmoreland County	0.26	Lakeview Dr	96-1329 Clearview Dr	110	R							X						06/30/2004
+777755	  96	01335	     	96-1335	Richmond Rd	096	Westmoreland County	096	Westmoreland County	0.16	96-682 Ebb Tide Dr	96-1339 Guthrie Rd	30	R							X						06/20/2007
+777756	  96	01336	     	96-1336	Blackwell Rd	096	Westmoreland County	096	Westmoreland County	0.09	96-1337 Pearson Dr	Cul-de-Sac	46	R							X						06/20/2007
+777757	  96	01337	     	96-1337	Pearson Dr	096	Westmoreland County	096	Westmoreland County	0.34	96-682 Ebb Tide Dr	Dead End	130	R							X						06/20/2007
+777758	  96	01338	     	96-1338	Summer Circle	096	Westmoreland County	096	Westmoreland County	0.08	96-1339 Guthrie Rd	96-1337 Pearson Dr	70	R							X						06/20/2007
+777759	  96	01339	     	96-1339	Guthrie Rd	096	Westmoreland County	096	Westmoreland County	0.14	96-1338 Summer Circle	96-682 Ebb Tide Dr	50	R							X						06/20/2007
+777760	  96	01340	     	96-1340	West Potomac Dr	096	Westmoreland County	096	Westmoreland County	0.43	96-682 Ebb Tide Dr	96-1342 East Potomac Dr	260	R							X						06/20/2007
+777761	  96	01341	     	96-1341	Lee St	096	Westmoreland County	096	Westmoreland County	0.16	96-1340 West Potomac Dr	96-682 Ebb Tide Dr	50	R							X						06/20/2007
+777762	  96	01342	     	96-1342	East Potomac Dr	096	Westmoreland County	096	Westmoreland County	0.25	96-1341 Lee St	96-1340 West Potomac Dr	50	R							X						06/20/2007
+784810	  96	01343	     	96-1343	Latane Dr	096	Westmoreland County	096	Westmoreland County	0.66	96-682 W, Ebb Tide Dr	96-682 E, Ebb Tide Dr	150	R							X						06/20/2007
+785856	  96	01344	     	96-1344	Blackwell Rd	096	Westmoreland County	096	Westmoreland County	0.34	96-1343 S, Latane Dr	Dead End	120	R							X						06/30/2004
+777763	  96	01345	     	96-1345	Beach Dr	096	Westmoreland County	096	Westmoreland County	0.06	96-1302 Shore Dr	Dead End	70	R							X						06/25/2007
+786922	  96	01346	     	96-1346	 	096	Westmoreland County	096	Westmoreland County	0.31	Lakeview Dr	96-1329 Clearview Dr	110	R							X						06/30/2004
+788166	  96	01347	     	96-1347	 	096	Westmoreland County	096	Westmoreland County	0.25	Dead End	96-1308 Rolando Dr	40	R							X						07/15/2004
+793491	  96	01349	     	96-1349	 	096	Westmoreland County	096	Westmoreland County	0.13	96-1337 Pearson Drive	96-1336 Blackwell Road	0	?							X
+792190	  96	01365	     	96-1365	Sylvan Glade	096	Westmoreland County	096	Westmoreland County	0.10	Dead End	96-1325 Sebastian Ave	60	R							X						06/25/2007
+777764	  96	01401	     	96-1401	Pine Lane	096	Westmoreland County	096	Westmoreland County	0.14	96-1402 Long St	96-1403 Shore Lane	40	R							X						06/15/2004
+777765	  96	01401	     	96-1401	Pine Lane	096	Westmoreland County	096	Westmoreland County	0.03	96-1403 Shore Lane	96-610 Tucker Hill Rd	40	R							X						06/15/2004
+777766	  96	01402	     	96-1402	Long St	096	Westmoreland County	096	Westmoreland County	0.20	96-1403 W, Shore Lane	96-671 Wilson Dr	10	R							X						05/21/2007
+777767	  96	01403	     	96-1403	Shore Lane	096	Westmoreland County	096	Westmoreland County	0.18	96-1402 E, Long St	96-1402 W, Long St	20	R							X						05/21/2007
+777768	  96	01403	     	96-1403	Shore Lane	096	Westmoreland County	096	Westmoreland County	0.18	96-1402 W, Long St	0.18 MN 96-1402	10	R							X						05/21/2007
+777769	  96	01403	     	96-1403	Shore Lane	096	Westmoreland County	096	Westmoreland County	0.04	0.18 MN 96-1402	96-1401 Pine Lane	20	R							X						05/21/2007
+777770	  96	01404	     	96-1404	Cave Lane	096	Westmoreland County	096	Westmoreland County	0.04	Dead End	96-1402 Long St	4	R							X						05/21/2007
+777771	  96	01410	     	96-1410	Springfield Beach Rd	096	Westmoreland County	096	Westmoreland County	0.24	96-729	Dead End	40	R							X						06/15/2004
+777772	  96	01420	     	96-1420	Horner Rd	096	Westmoreland County	096	Westmoreland County	0.43	96-624 Muse Rd	96-1423	210	R							X						06/30/2004
+777773	  96	01420	     	96-1420	Horner Rd	096	Westmoreland County	096	Westmoreland County	0.01	96-1423	Dead End	110	R							X						06/30/2004
+777774	  96	01421	     	96-1421	Gordon Way	096	Westmoreland County	096	Westmoreland County	1.05	96-624	96-1422	140	R							X						06/30/2004
+777775	  96	01422	     	96-1422	 	096	Westmoreland County	096	Westmoreland County	0.22	96-1421 Gordon Way	Dead End	120	R							X						06/30/2004
+777776	  96	01423	     	96-1423	 	096	Westmoreland County	096	Westmoreland County	0.16	Dead End	96-1424 Third St	60	R							X						06/30/2004
+777777	  96	01423	     	96-1423	 	096	Westmoreland County	096	Westmoreland County	0.52	96-1424 Third St	96-1420 Horner Rd	150	R							X						06/30/2004
+777778	  96	01424	     	96-1424	Third St	096	Westmoreland County	096	Westmoreland County	0.06	96-1425	96-1423	60	R							X						06/30/2004
+777779	  96	01425	     	96-1425	 	096	Westmoreland County	096	Westmoreland County	0.16	Cul-de-Sac	96-1424 Third St	60	R							X						06/30/2004
+793492	  96	01426	     	96-1426	 	096	Westmoreland County	096	Westmoreland County	0.05	Dead End	96-1425	0	?							X
+777780	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.39	96-626 Mt Holly Rd	96-1509 W, South Glebe Rd	690	R							X						06/06/2007
+777781	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.13	96-1509 W, South Glebe Rd	96-1515 Machodoc Dr	560	R							X						06/23/2004
+777782	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.17	96-1515 Machodoc Dr	96-1502 Currioman Dr	540	R							X						06/23/2004
+777783	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.18	96-1502 Currioman Dr	96-1505	350	R							X						06/23/2004
+777784	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.05	96-1505	96-1511 Anchor Dr	330	R							X						06/23/2004
+777785	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.06	96-1511 Anchor Dr	96-1508 Cople Dr	290	R							X						06/23/2004
+777786	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.08	96-1508 Cople Dr	96-1505	240	R							X						06/23/2004
+777787	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.09	96-1505	96-1507	150	R							X						06/23/2004
+777788	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.06	96-1507	96-1509 E, South Glebe Rd	130	R							X						06/23/2004
+777789	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.05	96-1509 E, South Glebe Rd	96-1504 N, Osprey Dr	90	R							X						06/23/2004
+777790	  96	01501	     	96-1501	Glebe Harbor Dr	096	Westmoreland County	096	Westmoreland County	0.04	96-1504 N, Osprey Dr	96-1504 S, Osprey Dr	50	R							X						06/23/2004
+777791	  96	01502	     	96-1502	Currioman Dr	096	Westmoreland County	096	Westmoreland County	0.16	96-1501 Glebe Harbor Dr	96-1513 Weatherall Dr	280	R							X						06/23/2004
+777792	  96	01502	     	96-1502	Currioman Dr	096	Westmoreland County	096	Westmoreland County	0.26	96-1513 Weatherall Dr	96-1503 North Glebe Rd	220	R							X						06/23/2004
+777793	  96	01503	     	96-1503	North Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.26	96-1535 Sail Way	96-1502 Currioman Dr	110	R							X						06/06/2007
+777794	  96	01503	     	96-1503	North Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.09	96-1502 Currioman Dr	96-1541 Sandpiper Dr	210	R							X						06/23/2004
+777795	  96	01503	     	96-1503	North Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.11	96-1541 Sandpiper Dr	96-1517 W, Armed Forces Dr	150	R							X						06/23/2004
+777796	  96	01503	     	96-1503	North Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.15	96-1517 W, Armed Forces Dr	96-1517 E, Armed Forces Dr	120	R							X						06/23/2004
+777797	  96	01503	     	96-1503	North Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.35	96-1517 E, Armed Forces Dr	Cul-de-Sac	110	R							X						06/23/2004
+777798	  96	01504	     	96-1504	Osprey Dr	096	Westmoreland County	096	Westmoreland County	0.28	96-1501 N, Glebe Harbor Dr	96-1510 Osprey Court	40	R							X						06/23/2004
+777799	  96	01504	     	96-1504	Osprey Dr	096	Westmoreland County	096	Westmoreland County	0.17	96-1510 Osprey Court	96-1501 S, Glebe Harbor Dr	30	R							X						06/23/2004
+777800	  96	01505	     	96-1505	 	096	Westmoreland County	096	Westmoreland County	0.13	96-1501 E, Glebe Harbor Dr	96-1506 Merganser Court	70	R							X						06/23/2004
+777801	  96	01505	     	96-1505	 	096	Westmoreland County	096	Westmoreland County	0.25	96-1506 Merganser Court	96-1501 W, Glebe Harbor Dr	30	R							X						06/23/2004
+777802	  96	01506	     	96-1506	Merganser Court	096	Westmoreland County	096	Westmoreland County	0.07	96-1505	Cul-de-Sac	47	R							X						06/23/2004
+777803	  96	01507	     	96-1507	 	096	Westmoreland County	096	Westmoreland County	0.07	96-1509 South Glebe Rd	96-1501 Glebe Harbor Dr	40	R							X						06/23/2004
+777804	  96	01508	     	96-1508	Cople Dr	096	Westmoreland County	096	Westmoreland County	0.16	96-1509 South Glebe Rd	96-1501 Glebe Harbor Dr	50	R							X						06/28/2004
+777805	  96	01509	     	96-1509	South Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.45	96-1501 W, Glebe Harbor Dr	96-1516 Eagle Court	70	R							X						06/28/2004
+777806	  96	01509	     	96-1509	South Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.15	96-1516 Eagle Court	96-1515 Machodoc Dr	30	R							X						06/28/2004
+777807	  96	01509	     	96-1509	South Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.46	96-1515 Machodoc Dr	96-1511 Anchor Dr	20	R							X						06/28/2004
+777808	  96	01509	     	96-1509	South Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.11	96-1511 Anchor Dr	96-1508 Cople Dr	30	R							X						06/28/2004
+777809	  96	01509	     	96-1509	South Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.30	96-1508 Cople Dr	96-1507	20	R							X						06/28/2004
+777810	  96	01509	     	96-1509	South Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.04	96-1507	96-1512	60	R							X						06/23/2004
+777811	  96	01509	     	96-1509	South Glebe Rd	096	Westmoreland County	096	Westmoreland County	0.09	96-1512	96-1501 E, Glebe Harbor Dr	30	R							X						06/23/2004
+777812	  96	01510	     	96-1510	Osprey Court	096	Westmoreland County	096	Westmoreland County	0.07	96-1504 Osprey Dr	Cul-de-Sac	30	R							X						06/23/2004
+777813	  96	01511	     	96-1511	Anchor Dr	096	Westmoreland County	096	Westmoreland County	0.10	96-1509 South Glebe Rd	96-1501 Glebe Harbor Dr	40	R							X						06/28/2004
+777814	  96	01512	     	96-1512	 	096	Westmoreland County	096	Westmoreland County	0.02	Cul-de-Sac	96-1509 South Glebe Rd	30	R							X						06/23/2004
+777815	  96	01513	     	96-1513	Weatherall Dr	096	Westmoreland County	096	Westmoreland County	0.12	96-1502 Currioman Dr	96-1514 S, Parrish Loop	80	R							X						06/23/2004
+777816	  96	01513	     	96-1513	Weatherall Dr	096	Westmoreland County	096	Westmoreland County	0.08	96-1514 S, Parrish Loop	96-1514 N, Parrish Loop	50	R							X						06/23/2004
+777817	  96	01514	     	96-1514	Parrish Loop	096	Westmoreland County	096	Westmoreland County	0.22	96-1513 S, Weatherall Dr	96-1513 N, Weatherall Dr	20	R							X						06/23/2004
+777818	  96	01515	     	96-1515	Machodoc Dr	096	Westmoreland County	096	Westmoreland County	0.20	96-1501 Glebe Harbor Dr	96-1509 South Glebe Rd	50	R							X						06/23/2004
+777819	  96	01516	     	96-1516	Eagle Court	096	Westmoreland County	096	Westmoreland County	0.08	96-1509 South Glebe Rd	Dead End	20	R							X						06/23/2004
+777820	  96	01517	     	96-1517	Armed Forces Dr	096	Westmoreland County	096	Westmoreland County	0.26	96-1503 W, North Glebe Rd	96-1503 E, North Glebe Rd	30	R							X						06/23/2004
+777821	  96	01530	     	96-1530	Royal Way	096	Westmoreland County	096	Westmoreland County	1.13	96-626 Mt Holly Rd	96-1531 W, Essex Place	500	R							X						04/29/2004
+777822	  96	01530	     	96-1530	Royal Way	096	Westmoreland County	096	Westmoreland County	0.15	96-1531 W, Essex Place	96-1531 E, Essex Place	200	R							X						04/29/2004
+777823	  96	01530	     	96-1530	Royal Way	096	Westmoreland County	096	Westmoreland County	0.35	96-1531 E, Essex Place	96-1532 Canoe Place	130	R							X						04/29/2004
+777824	  96	01530	     	96-1530	Royal Way	096	Westmoreland County	096	Westmoreland County	0.10	96-1532 Canoe Place	Cul-de-Sac	70	R							X						04/29/2004
+777825	  96	01531	     	96-1531	Essex Place	096	Westmoreland County	096	Westmoreland County	0.14	96-1530 W, Royal Way	96-1532 Canoe Place	60	R							X						04/29/2004
+777826	  96	01531	     	96-1531	Essex Place	096	Westmoreland County	096	Westmoreland County	0.06	96-1532 Canoe Place	96-1530 E, Royal Way	20	R							X						04/29/2004
+777827	  96	01532	     	96-1532	Canoe Place	096	Westmoreland County	096	Westmoreland County	0.35	96-1531 Essex Place	96-1530 Royal Way	40	R							X						04/29/2004
+777828	  96	01533	     	96-1533	Cabin Point Dr	096	Westmoreland County	096	Westmoreland County	0.25	Cul-de-Sac	96-1530 Royal Way	60	R							X						06/06/2007
+777829	  96	01533	     	96-1533	Cabin Point Dr	096	Westmoreland County	096	Westmoreland County	0.45	96-1530 Royal Way	96-1556 Huntsman Way	190	R							X						06/06/2007
+777830	  96	01533	     	96-1533	Cabin Point Dr	096	Westmoreland County	096	Westmoreland County	0.17	96-1556 Huntsman Way	96-1534 Crystal Lane	60	R							X						06/06/2007
+777831	  96	01533	     	96-1533	Cabin Point Dr	096	Westmoreland County	096	Westmoreland County	0.02	96-1534 Crystal Lane	Dead End	20	R							X						06/06/2007
+777832	  96	01534	     	96-1534	Crystal Lane	096	Westmoreland County	096	Westmoreland County	0.18	96-1533 Cabin Point Dr	Cul-de-Sac	50	R							X						06/06/2007
+777833	  96	01535	     	96-1535	Sail Way	096	Westmoreland County	096	Westmoreland County	0.26	96-1503 North Glebe Rd	96-1540 Launch Way	110	R							X						06/06/2007
+777834	  96	01535	     	96-1535	Sail Way	096	Westmoreland County	096	Westmoreland County	0.15	96-1540 Launch Way	96-1536 Ships Row	120	R							X						06/06/2007
+777835	  96	01535	     	96-1535	Sail Way	096	Westmoreland County	096	Westmoreland County	0.24	96-1536 Ships Row	96-1530 Royal Way	230	R							X						06/06/2007
+777836	  96	01536	     	96-1536	Ships Row	096	Westmoreland County	096	Westmoreland County	0.15	96-1535 Sail Way	96-1550 Reef Court	120	R							X						06/06/2007
+777837	  96	01536	     	96-1536	Ships Row	096	Westmoreland County	096	Westmoreland County	0.10	96-1550 Reef Court	96-1538 Portal Dr	100	R							X						06/06/2007
+777838	  96	01536	     	96-1536	Ships Row	096	Westmoreland County	096	Westmoreland County	0.18	96-1538 Portal Dr	96-1537 Starboard Court	60	R							X						06/06/2007
+777839	  96	01536	     	96-1536	Ships Row	096	Westmoreland County	096	Westmoreland County	0.03	96-1537 Starboard Court	Cul-de-Sac	10	R							X						06/06/2007
+777840	  96	01537	     	96-1537	Starboard Court	096	Westmoreland County	096	Westmoreland County	0.12	Cul-de-Sac	96-1536 Ships Row	30	R							X						06/06/2007
+777841	  96	01538	     	96-1538	Portal Dr	096	Westmoreland County	096	Westmoreland County	0.11	Cul-de-Sac	96-1539 Anchorage Dr	60	R							X						04/29/2004
+777842	  96	01538	     	96-1538	Portal Dr	096	Westmoreland County	096	Westmoreland County	0.09	96-1539 Anchorage Dr	96-1536 Ships Row	47	R							X						06/06/2007
+777843	  96	01539	     	96-1539	Anchorage Dr	096	Westmoreland County	096	Westmoreland County	0.23	96-1540 Launch Way	96-1538 Portal Dr	10	R							X						06/06/2007
+777844	  96	01540	     	96-1540	Launch Way	096	Westmoreland County	096	Westmoreland County	0.09	96-1535 Sail Way	96-1539 Anchorage Dr	30	R							X						06/06/2007
+777845	  96	01541	     	96-1541	Sandpiper Dr	096	Westmoreland County	096	Westmoreland County	0.11	96-1503 North Glebe Rd	96-1542 Pelican Way	90	R							X						06/06/2007
+777846	  96	01541	     	96-1541	Sandpiper Dr	096	Westmoreland County	096	Westmoreland County	0.07	96-1542 Pelican Way	96-1544 Seagull Court	60	R							X						06/06/2007
+777847	  96	01542	     	96-1542	Pelican Way	096	Westmoreland County	096	Westmoreland County	0.17	96-1541 Sandpiper Dr	96-1543 Albatross Lane	40	R							X						06/06/2007
+777848	  96	01543	     	96-1543	Albatross Lane	096	Westmoreland County	096	Westmoreland County	0.10	Cul-de-Sac	96-1542 Pelican Way	30	R							X						06/06/2007
+777849	  96	01544	     	96-1544	Seagull Court	096	Westmoreland County	096	Westmoreland County	0.07	Cul-de-Sac	96-1541 Sandpiper Dr	20	R							X						06/06/2007
+777850	  96	01544	     	96-1544	Seagull Court	096	Westmoreland County	096	Westmoreland County	0.14	96-1541 Sandpiper Dr	Cul-de-Sac	30	R							X						06/06/2007
+786923	  96	01545	     	96-1545	Colony Way	096	Westmoreland County	096	Westmoreland County	0.12	96-1533 Cabin Point Dr	Dead End	80	R							X						04/29/2004
+786924	  96	01546	     	96-1546	Sweetbriar Lane	096	Westmoreland County	096	Westmoreland County	0.16	96-1533 Cabin Point Dr	Dead End	20	R							X						04/29/2004
+788167	  96	01547	     	96-1547	 	096	Westmoreland County	096	Westmoreland County	0.33	Dolphin Court	96-1533; 96-1547	30	R							X						04/29/2004
+788168	  96	01548	     	96-1548	 	096	Westmoreland County	096	Westmoreland County	0.04	96-1536 Ships Row	Cul-de-Sac	20	R							X						04/29/2004
+777851	  96	01550	     	96-1550	Reef Court	096	Westmoreland County	096	Westmoreland County	0.06	96-1536 Ships Row	Cul-de-Sac	20	R							X						06/06/2007
+777852	  96	01556	     	96-1556	Huntsman Way	096	Westmoreland County	096	Westmoreland County	0.40	96-1533 Cabin Point Dr	96-1557 Waterway Dr	100	R							X						06/06/2007
+777853	  96	01556	     	96-1556	Huntsman Way	096	Westmoreland County	096	Westmoreland County	0.05	96-1557 Waterway Dr	Cul-de-Sac	8	R							X						06/06/2007
+777854	  96	01557	     	96-1557	Waterway Dr	096	Westmoreland County	096	Westmoreland County	0.09	96-1556 Huntsman Way	Cul-de-Sac	20	R							X						06/06/2007
+784811	  96	01558	     	96-1558	Cypress Dr	096	Westmoreland County	096	Westmoreland County	0.18	96-1556 Huntsman Way	Dead End	30	R							X						06/06/2007
+777855	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.93	96-609 Stratford Hall Rd	96-1611 Timberland Dr	610	R							X						06/13/2007
+777856	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.23	96-1611 Timberland Dr	96-1603 Lands End Dr	380	R							X						04/22/2004
+777857	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.30	96-1603 Lands End Dr	96-1614 Castle Dr	340	R							X						04/22/2004
+777858	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.20	96-1614 Castle Dr	96-1612 Bishop Dr	310	R							X						04/22/2004
+777859	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.22	96-1612 Bishop Dr	96-1617 W, Bald Eagle Dr	280	R							X						04/22/2004
+777860	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.27	96-1617 W, Bald Eagle Dr	96-1615 Plantation Dr	270	R							X						04/22/2004
+777861	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.05	96-1615 Plantation Dr	96-1617 E, Bald Eagle Dr	190	R							X						04/22/2004
+777862	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.13	96-1617 E, Bald Eagle Dr	96-1602	260	R							X						04/22/2004
+777863	  96	01601	     	96-1601	North Independence Dr	096	Westmoreland County	096	Westmoreland County	0.70	96-1602	96-693; 96-1609	220	R							X						04/22/2004
+777864	  96	01602	     	96-1602	 	096	Westmoreland County	096	Westmoreland County	0.20	96-1607	96-1616 Cove Dr	170	R							X						04/22/2004
+777865	  96	01602	     	96-1602	 	096	Westmoreland County	096	Westmoreland County	0.43	96-1616 Cove Dr	96-1610 American Dr	160	R							X						04/22/2004
+777866	  96	01602	     	96-1602	 	096	Westmoreland County	096	Westmoreland County	0.27	96-1610 American Dr	96-1601 North Independence Dr	180	R							X						04/22/2004
+777867	  96	01603	     	96-1603	Lands End Dr	096	Westmoreland County	096	Westmoreland County	0.10	96-1605 Knights Way	96-1604 Oueens Way	3	R							X						04/22/2004
+777868	  96	01603	     	96-1603	Lands End Dr	096	Westmoreland County	096	Westmoreland County	0.19	96-1604 Oueens Way	96-1601 North Independence Dr	60	R							X						04/22/2004
+777869	  96	01604	     	96-1604	Oueens Way	096	Westmoreland County	096	Westmoreland County	0.16	96-1603 Lands End Dr	96-1605 Knights Way	30	R							X						04/22/2004
+777870	  96	01604	     	96-1604	Oueens Way	096	Westmoreland County	096	Westmoreland County	0.14	96-1605 Knights Way	Dead End	30	R							X						04/22/2004
+777871	  96	01605	     	96-1605	Knights Way	096	Westmoreland County	096	Westmoreland County	0.13	96-1603 Lands End Dr	96-1604 Oueens Way	8	R							X						04/22/2004
+777872	  96	01606	     	96-1606	Federalist Way	096	Westmoreland County	096	Westmoreland County	0.29	96-693 South Independence Dr	Dead End	48	R							X						04/22/2004
+777873	  96	01607	     	96-1607	 	096	Westmoreland County	096	Westmoreland County	0.47	Begin Loop	End Loop	45	R							X						04/22/2004
+777874	  96	01607	     	96-1607	 	096	Westmoreland County	096	Westmoreland County	0.07	End Loop	96-1602	170	R							X						04/22/2004
+777875	  96	01607	     	96-1607	 	096	Westmoreland County	096	Westmoreland County	0.06	96-1602	96-1610 American Dr	290	R							X						04/22/2004
+777876	  96	01607	     	96-1607	 	096	Westmoreland County	096	Westmoreland County	0.04	96-1610 American Dr	96-1608 Artisan Dr	300	R							X						04/22/2004
+777877	  96	01607	     	96-1607	 	096	Westmoreland County	096	Westmoreland County	0.07	96-1608 Artisan Dr	96-1609 Bay Pointe Dr	320	R							X						04/22/2004
+777878	  96	01608	     	96-1608	Artisan Dr	096	Westmoreland County	096	Westmoreland County	0.30	96-1607	96-1609 Bay Pointe Dr	30	R							X						04/22/2004
+777879	  96	01609	     	96-1609	Bay Pointe Dr	096	Westmoreland County	096	Westmoreland County	0.07	Cul-de-Sac	96-1608 Artisan Dr	30	R							X						06/13/2007
+777880	  96	01609	     	96-1609	Bay Pointe Dr	096	Westmoreland County	096	Westmoreland County	0.26	96-1608 Artisan Dr	96-1607	60	R							X						04/22/2004
+777881	  96	01609	     	96-1609	Bay Pointe Dr	096	Westmoreland County	096	Westmoreland County	0.24	96-1607	96-693; 96-1601	380	R							X						04/22/2004
+777882	  96	01610	     	96-1610	American Dr	096	Westmoreland County	096	Westmoreland County	0.54	96-1607	96-1602	40	R							X						04/22/2004
+777883	  96	01611	     	96-1611	Timberland Dr	096	Westmoreland County	096	Westmoreland County	0.27	96-1613 Timberland Dr	96-1601 North Independence Dr	110	R							X						04/22/2004
+777884	  96	01612	     	96-1612	Bishop Dr	096	Westmoreland County	096	Westmoreland County	0.33	Cul-de-Sac	96-1601 North Independence Dr	50	R							X						04/22/2004
+777885	  96	01613	     	96-1613	Timberland Dr	096	Westmoreland County	096	Westmoreland County	0.12	Cul-de-Sac	96-1611 Timberland Dr	20	R							X						04/22/2004
+777886	  96	01614	     	96-1614	Castle Dr	096	Westmoreland County	096	Westmoreland County	0.33	Dead End	96-1601 North Independence Dr	30	R							X						04/22/2004
+777887	  96	01615	     	96-1615	Plantation Dr	096	Westmoreland County	096	Westmoreland County	0.33	Nomini Dr	96-1601 North Independence Dr	20	R							X						04/22/2004
+777888	  96	01616	     	96-1616	Cove Dr	096	Westmoreland County	096	Westmoreland County	0.16	96-1602	Cul-de-Sac	80	R							X						04/22/2004
+777889	  96	01617	     	96-1617	Bald Eagle Dr	096	Westmoreland County	096	Westmoreland County	0.22	96-1601 W, North Independence Dr	96-1601 E, North Independence Dr	40	R							X						06/13/2007
+777890	  96	01618	     	96-1618	Woodberry Dr	096	Westmoreland County	096	Westmoreland County	0.32	96-609 Stratford Hall Rd	Avian Court	40	R							X						04/22/2004
+789191	  96	01618	     	96-1618	Woodberry Dr	096	Westmoreland County	096	Westmoreland County	0.09	96-1627 Avian Ct	Dead End	70	R							X						06/13/2007
+784813	  96	01619	     	96-1619	Hall Court	096	Westmoreland County	096	Westmoreland County	0.07	96-1601 North Independence Dr	Cul-de-Sac	8	R							X						06/13/2007
+777891	  96	01620	     	96-1620	Thomas Court	096	Westmoreland County	096	Westmoreland County	0.05	Cul-de-Sac	96-1608 Artisan Dr	10	R							X						06/13/2007
+784814	  96	01622	     	96-1622	Hidden Lake Dr	096	Westmoreland County	096	Westmoreland County	0.25	Cul-de-Sac	96-1601 North Independence Dr	20	R							X						06/13/2007
+777892	  96	01623	     	96-1623	Cove Circle	096	Westmoreland County	096	Westmoreland County	0.20	96-1616 S, Cove Dr	96-1616 N, Cove Dr	40	R							X						06/13/2007
+777893	  96	01624	     	96-1624	Summer Dr	096	Westmoreland County	096	Westmoreland County	0.12	96-1602	Cul-de-Sac	50	R							X						06/13/2007
+789192	  96	01625	     	96-1625	Grove Dr	096	Westmoreland County	096	Westmoreland County	0.19	96-1611 Timberland Dr	Dead End	60	R							X						06/13/2007
+789193	  96	01626	     	96-1626	Century Lane	096	Westmoreland County	096	Westmoreland County	0.16	Dead End	96-1601 North Independence Dr	20	R							X						06/13/2007
+789194	  96	01627	     	96-1627	Avian Ct	096	Westmoreland County	096	Westmoreland County	0.06	96-1618 Woodberry Dr	Dead End	20	R							X						06/13/2007
+777894	  96	01628	     	96-1628	Clover Court	096	Westmoreland County	096	Westmoreland County	0.10	Cul-de-Sac	96-1611 Timberland Dr	60	R							X						06/13/2007
+786925	  96	01629	     	96-1629	Angler Lane	096	Westmoreland County	096	Westmoreland County	0.17	Dead End	96-1601 North Independence Dr	20	R							X						04/22/2004
+777895	  96	01630	     	96-1630	Dragoon Dr	096	Westmoreland County	096	Westmoreland County	0.19	96-1606 Federalist Way	96-693 South Independence Dr	80	R							X						06/13/2007
+777896	  96	01631	     	96-1631	Henry Dr	096	Westmoreland County	096	Westmoreland County	0.10	96-1630 Dragoon Dr	96-1632 Lee Way	60	R							X						06/13/2007
+777897	  96	01632	     	96-1632	Lee Way	096	Westmoreland County	096	Westmoreland County	0.12	Cul-de-Sac	Cul-de-Sac	40	R							X						06/13/2007
+777898	  96	01633	     	96-1633	Shirley Lane	096	Westmoreland County	096	Westmoreland County	0.28	96-693 W, South Independence Dr	96-693 E, South Independence Dr	30	R							X						06/13/2007
+784815	  96	01634	     	96-1634	Lightfoot Dr	096	Westmoreland County	096	Westmoreland County	0.06	96-693 South Independence Dr	Dead End	30	R							X						06/13/2007
+784816	  96	01635	     	96-1635	Colonial Dr	096	Westmoreland County	096	Westmoreland County	0.11	96-1634 Lightfoot Dr	Cul-de-Sac	30	R							X						06/13/2007
+784817	  96	01636	     	96-1636	Carter Way	096	Westmoreland County	096	Westmoreland County	0.22	96-693 South Independence Dr	Cul-de-Sac	40	R							X						06/13/2007
+784818	  96	01637	     	96-1637	Traveller Circle	096	Westmoreland County	096	Westmoreland County	0.36	96-693 W, South Independence Dr	96-693 E, South Independence Dr	60	R							X						06/13/2007
+792191	  96	01638	     	96-1638	General Lee Court	096	Westmoreland County	096	Westmoreland County	0.13	Dead End	96-1637 Traveller Circle	30	R							X						06/13/2007
+792192	  96	01640	     	96-1640	Pine Grove Dr	096	Westmoreland County	096	Westmoreland County	0.13	Dead End	96-1601 North Independence Dr	20	R							X						06/13/2007
+794702	  96	01641	     	96-1641	 	096	Westmoreland County	096	Westmoreland County	0.18	96-693 South Independence Dr	96-1642	0	?							X
+794703	  96	01642	     	96-1642	 	096	Westmoreland County	096	Westmoreland County	0.10	96-693 South Independence Dr	96-1641	0	?							X
+794704	  96	01643	     	96-1643	 	096	Westmoreland County	096	Westmoreland County	0.10	Dead End	96-693 South Independence Dr	0	?							X
+794705	  96	01644	     	96-1644	 	096	Westmoreland County	096	Westmoreland County	0.14	96-1625 Grove Dr	Dead End	0	?							X
+794706	  96	01645	     	96-1645	 	096	Westmoreland County	096	Westmoreland County	0.14	96-1603 Lands End Dr	Dead End	0	?							X
+777900	  96	09732	     	96-9732	Montross Middle School	096	Westmoreland County	096	Westmoreland County	0.11	96-690 Menokin Rd	Montross Middle Sch	20	R							X						07/18/2007
+777901	  96	09735	     	96-9735	Cople Primary School	096	Westmoreland County	096	Westmoreland County	0.20	SR 202 Cople Hwy	Cople Primary Sch	30	R							X						07/18/2007
+777902	  96	09980	     	96-9980	 	096	Westmoreland County	096	Westmoreland County	0.23	Begin Loop	96-1301 Oak Grove Rd	30	R							X						04/22/2004
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

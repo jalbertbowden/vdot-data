@@ -1,0 +1,51 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of LaCrosse																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+040601	  US	00058	     	US 58	 	250	Town of LaCrosse	058	Mecklenburg County	0.52	WCL LaCrosse	ECL LaCrosse	16000	N	80%	1%	1%	2%	15%	0%	N	0.0855	N	0.5060	15000	N	2008
+404211	  58	00618	     	58-618	Main St	250	Town of LaCrosse	058	Mecklenburg County	0.23	SCL LaCrosse	58-1507 Seaboard St	3100	G	98%	1%	1%	0%	1%	0%	F	0.0963	F	0.6295	3300	G	2008
+404212	  58	00618	     	58-618	Main St	250	Town of LaCrosse	058	Mecklenburg County	0.17	58-1507 Seaboard St	58-621 Main St	4300	G	98%	1%	1%	0%	1%	0%	F	0.1032	F	0.5153	4700	G	2008
+404213	  58	00618	     	58-618	Main St	250	Town of LaCrosse	058	Mecklenburg County	0.35	58-621 Main St	WCL LaCrosse	1600	G	98%	1%	1%	0%	1%	0%	F	0.0969	F	0.6550	1800	G	2008
+404216	  58	00621	     	58-621	Main St	250	Town of LaCrosse	058	Mecklenburg County	0.34	58-618 High St	US 58	3000	G	95%	2%	1%	1%	2%	0%	F	0.0993	F	0.5158	3300	G	2008
+404217	  58	00621	     	58-621	Country Club Rd	250	Town of LaCrosse	058	Mecklenburg County	0.18	US 58	NCL LaCrosse	1100	G	95%	2%	1%	1%	2%	0%	F	0.1056	F	0.5632	1200	G	2008
+785163	  58	00624	     	58-624	Hillcrest Rd	250	Town of LaCrosse	058	Mecklenburg County	0.14	SCL LaCrosse	58-618 N, Main St	1100	R							X						07/19/2001
+753031	  58	00624	     	58-624	Hillcrest Rd	250	Town of LaCrosse	058	Mecklenburg County	0.22	58-618 N, Main St	58-1503 Carter St	170	R							X						06/28/2007
+753545	  58	01502	     	58-1502	Montgomery St	250	Town of LaCrosse	058	Mecklenburg County	0.14	0.08 MS 58-1520	Dead End; Gap	70	R							X						07/02/2007
+753546	  58	01502	     	58-1502	Montgomery St	250	Town of LaCrosse	058	Mecklenburg County	0.10	Dead End; Gap	0.06 MN 58-1503	40	R							X						07/02/2007
+753547	  58	01503	     	58-1503	S Carter St	250	Town of LaCrosse	058	Mecklenburg County	0.02	58-1511 Moseley St	58-624 Hillcrest Rd	130	R							X						07/02/2007
+753548	  58	01503	     	58-1503	S Carter St	250	Town of LaCrosse	058	Mecklenburg County	0.13	58-624 Hillcrest Rd	58-1505 College St	370	R							X						07/02/2007
+404295	  58	01503	     	58-1503	S Carter St	250	Town of LaCrosse	058	Mecklenburg County	0.26	58-1505 College St	58-1520 Pine St	650	G	97%	1%	2%	0%	0%	0%	C	0.0980	F	0.5882	700	G	2008
+404296	  58	01503	     	58-1503	S Carter St	250	Town of LaCrosse	058	Mecklenburg County	0.03	58-1520 Pine St	US 58	960	G	97%	1%	2%	0%	0%	0%	F	0.1188	F	0.5668	1000	G	2008
+753549	  58	01503	     	58-1503	N Carter St	250	Town of LaCrosse	058	Mecklenburg County	0.16	US 58	58-1518 Woodlawn Ave	50	R							X						07/02/2007
+753550	  58	01503	     	58-1503	N Carter St	250	Town of LaCrosse	058	Mecklenburg County	0.07	58-1518 Woodlawn Ave	58-1502 Montgomery St	60	R							X						07/02/2007
+404297	  58	01505	     	58-1505	College St	250	Town of LaCrosse	058	Mecklenburg County	0.22	58-618 Main St	58-1503 Carter St	260	G	99%	0%	1%	0%	0%	0%	C	0.1227	F	0.5294	280	G	2008
+753552	  58	01506	     	58-1506	Carolina St	250	Town of LaCrosse	058	Mecklenburg County	0.14	58-624 Hillcrest Rd	58-1505 College St	70	R							X						07/02/2007
+753553	  58	01506	     	58-1506	Carolina St	250	Town of LaCrosse	058	Mecklenburg County	0.05	58-1505 College St	58-1512 Walker St	190	R							X						07/02/2007
+753554	  58	01506	     	58-1506	Carolina St	250	Town of LaCrosse	058	Mecklenburg County	0.07	58-1512 Walker St	Dead End	60	R							X						07/02/2007
+753555	  58	01507	     	58-1507	Seaboard St	250	Town of LaCrosse	058	Mecklenburg County	0.26	Dead End	58-618 Main St	330	R							X						07/02/2007
+753556	  58	01508	     	58-1508	Harrison St	250	Town of LaCrosse	058	Mecklenburg County	0.12	58-1503 Carter St	58-1529 Jackson St	170	R							X						07/02/2007
+753557	  58	01508	     	58-1508	Harrison St	250	Town of LaCrosse	058	Mecklenburg County	0.03	58-1529 Jackson St	ECL LaCrosse	80	R							X						07/02/2007
+753558	  58	01509	     	58-1509	Meredith St	250	Town of LaCrosse	058	Mecklenburg County	0.10	Dead End	58-1523 Gap	40	R							X						07/02/2007
+753559	  58	01509	     	58-1509	Meredith St	250	Town of LaCrosse	058	Mecklenburg County	0.08	Dead End; Gap	58-1507 Seaboard St	70	R							X						07/02/2007
+753560	  58	01510	     	58-1510	Sycamore St	250	Town of LaCrosse	058	Mecklenburg County	0.31	SCL LaCrosse	58-1507 Seaboard St	90	R							X						07/18/2007
+753561	  58	01511	     	58-1511	Moseley St	250	Town of LaCrosse	058	Mecklenburg County	0.11	58-1503 Carter St	58-1529 Jackson St	80	R							X						07/02/2007
+753562	  58	01512	     	58-1512	Walker St	250	Town of LaCrosse	058	Mecklenburg County	0.15	58-1506 Carolina St	58-1503 Carter St	100	R							X						07/02/2007
+753563	  58	01513	     	58-1513	Virginia St	250	Town of LaCrosse	058	Mecklenburg County	0.21	Dead End	58-1503 Carter St	140	R							X						07/02/2007
+753564	  58	01514	     	58-1514	Piland St	250	Town of LaCrosse	058	Mecklenburg County	0.05	58-1520 Pine St	Dead End	20	R							X						07/02/2007
+753566	  58	01517	     	58-1517	Walnut St	250	Town of LaCrosse	058	Mecklenburg County	0.08	58-1520 Pine St	NCL LaCrosse	120	R							X						07/18/2007
+753567	  58	01518	     	58-1518	Woodlawn Ave	250	Town of LaCrosse	058	Mecklenburg County	0.07	58-1503 Carter St	Dead End	10	R							X						07/18/2007
+753568	  58	01519	     	58-1519	 	250	Town of LaCrosse	058	Mecklenburg County	0.05	Dead End	58-1503 Carter St	10	R							X						07/18/2007
+753569	  58	01520	     	58-1520	Pine St	250	Town of LaCrosse	058	Mecklenburg County	0.04	WCL LaCrosse	58-1528 Center St	47	R							X						07/18/2007
+753570	  58	01520	     	58-1520	Pine St	250	Town of LaCrosse	058	Mecklenburg County	0.06	58-1528 Center St	58-1517 Walnut St	110	R							X						07/19/2004
+753571	  58	01520	     	58-1520	Pine St	250	Town of LaCrosse	058	Mecklenburg County	0.22	58-1517 Walnut St	58-621 Main St	140	R							X						07/19/2004
+404298	  58	01520	     	58-1520	Pine St	250	Town of LaCrosse	058	Mecklenburg County	0.29	58-621 Main St	58-1503 Carter St	570	G	97%	1%	1%	0%	1%	0%	C	0.1361	F	0.5542	620	G	2008
+753572	  58	01520	     	58-1520	Pine St	250	Town of LaCrosse	058	Mecklenburg County	0.10	58-1503 Carter St	ECL LaCrosse	200	R							X						07/19/2004
+753573	  58	01521	     	58-1521	Virginia St	250	Town of LaCrosse	058	Mecklenburg County	0.11	58-1503 Carter St	ECL LaCrosse	240	R							X						07/02/2007
+753574	  58	01523	     	58-1523	Jones St	250	Town of LaCrosse	058	Mecklenburg County	0.08	58-1509 Meredith St	Dead End	70	R							X						07/18/2007
+753577	  58	01527	     	58-1527	Rockwell St	250	Town of LaCrosse	058	Mecklenburg County	0.04	58-1512 Walker St	58-1513 Virginia St	10	R							X						07/02/2007
+753578	  58	01528	     	58-1528	Center St	250	Town of LaCrosse	058	Mecklenburg County	0.07	58-1520 Pine St	NCL LaCrosse	90	R							X						07/18/2007
+753579	  58	01529	     	58-1529	Jackson St	250	Town of LaCrosse	058	Mecklenburg County	0.08	58-1511 Moseley St	58-1508 Harrison St	40	R							X						07/02/2007
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

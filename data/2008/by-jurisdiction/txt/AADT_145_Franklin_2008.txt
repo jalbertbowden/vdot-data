@@ -1,0 +1,81 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Franklin																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+630103	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	1.18	WCL Franklin	Hunterdale Rd	3000	G	98%	1%	0%	0%	0%	0%	F	0.1025	F	0.5142	3400	G	2008
+630101	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	0.58	Hunterdale Rd	Homestead Rd	4200	G	98%	1%	0%	0%	0%	0%	F	0.1000	F	0.5624	4800	G	2008
+630098	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	0.35	Homestead Rd	Lee St	3600	G	98%	1%	0%	0%	0%	0%	F	0.0961	F	0.6245	4100	G	2008
+630096	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	0.16	Lee St	Gardner St	2600	G	98%	1%	0%	0%	0%	0%	F	0.0981	F	0.8049	2900	G	2008		5100	G	97%	1%	1%	0%	0%	0%	F	0.0926	F	0.6423	5600	G
+630086	C4US	00058	     	Bus US 58	Clay St	145	City of Franklin	145	City of Franklin	0.17	Gardner St	High St	2500	G	98%	1%	0%	0%	0%	0%	F				2800	G	2008		4200	G	97%	1%	1%	0%	0%	0%	F				4700	G
+630084	C4US	00058	     	Bus US 58	4th Avenue	145	City of Franklin	145	City of Franklin	0.26	High St	Mechanic St	2100	G	98%	1%	0%	0%	0%	0%	F	0.0867	F	0.5831	2400	G	2008
+630078	C4US	00058	     	Bus US 58	Mechanic St	145	City of Franklin	145	City of Franklin	0.10	Fourth Ave	Second Ave	3600	G	98%	1%	0%	0%	0%	0%	F	0.0948	F	0.6968	4100	G	2008
+630077	C4US	00058	     	Bus US 58, Bus US 258	 	145	City of Franklin	145	City of Franklin	0.19	US 258	ECL Franklin	10000	G	98%	1%	0%	0%	0%	0%	F	0.0879	F	0.5989	12000	G	2008
+630097	C4US	00058	P    	Bus US 58 Par	Lee Street	145	City of Franklin	145	City of Franklin	0.16	Bus 58 Clay St	High St	1700	G	97%	1%	1%	0%	1%	0%	F	0.1160	F	0.7125	1900	G	2008		4200	G	97%	1%	1%	0%	0%	0%	F				4700	G
+630085	C4US	00058	P    	Bus US 58 Par	High St	145	City of Franklin	145	City of Franklin	0.27	Lee Street	Bus 58 Fourth Ave	2500	G	97%	1%	1%	0%	1%	0%	C	0.0968	F	0.6795	2700	G	2008		5100	G	97%	1%	1%	0%	0%	0%	F	0.0926	F	0.6423	5600	G
+630099	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.28	SCL Franklin	College Drive	5500	G	98%	0%	1%	0%	0%	0%	C	0.0896	F	0.5244	6000	G	2008
+630307	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.25	College Drive	Bank Street	11000	G	98%	0%	1%	0%	0%	0%	F	0.0903	F	0.5068	11000	G	2008
+630308	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.35	Bank Street	Roosevelt Street	9400	G	98%	0%	1%	0%	0%	0%	F	0.0912	F	0.5320	10000	G	2008
+630309	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.15	Roosevelt Street	Oak Street	9300	G	98%	0%	1%	0%	0%	0%	F	0.0915	F	0.5407	9900	G	2008
+630310	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.16	Oak Street	Pretlow Street	8300	G	98%	0%	1%	0%	0%	0%	F	0.0898	F	0.5351	8900	G	2008
+630093	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.21	Pretlow Street	High Street	7100	G	98%	0%	1%	0%	0%	0%	F	0.0898	F	0.5658	7600	G	2008
+630311	C2US	00258	     	Bus US 258	South St	145	City of Franklin	145	City of Franklin	0.16	High Street	Main Street	4400	G	98%	0%	1%	0%	1%	0%	F	0.0863	F	0.5605	4700	G	2008
+630083	C2US	00258	     	Bus US 258	Main St	145	City of Franklin	145	City of Franklin	0.29	South Street	Second Avenue	4000	G	98%	0%	1%	0%	1%	0%	C	0.0847	F	0.5394	4300	G	2008
+630080	C2US	00258	     	Bus US 258	Second Avenue	145	City of Franklin	145	City of Franklin	0.12	Main Street	Bus US 58 Mechanic Street	6900	G	98%	0%	1%	0%	1%	0%	F	0.0863	F	0.6079	7400	G	2008
+630077	C2US	00258	     	Bus US 58, Bus US 258	 	145	City of Franklin	145	City of Franklin	0.19	US 258	ECL Franklin	10000	G	98%	1%	0%	0%	0%	0%	F	0.0879	F	0.5989	12000	G	2008	
+630115	 145	00001	     	145-1	North Dr	145	City of Franklin	145	City of Franklin	0.08	Hunterdale Rd	Crescent Dr	940	G	96%	2%	1%	1%	0%	0%	C	0.1226	F	0.5664	1000	G	2008
+630116	 145	03901	     	145-3901	Oak St	145	City of Franklin	145	City of Franklin	0.51	Morton St	South St	1100	G	96%	2%	1%	1%	0%	0%	F	0.2053	F	0.5515	1100	G	2008
+630312	 145	03902	     	145-3902	Maplewood St	145	City of Franklin	145	City of Franklin	0.47	Thomas St	Washington St	1000	G	96%	2%	1%	1%	0%	0%	F	0.1290	F	0.5703	1100	G	2008
+630304	 145	03903	     	145-3903	Pretlow St	145	City of Franklin	145	City of Franklin	1.12	SCL Franklin	Morton St	2100	G	97%	1%	1%	0%	1%	0%	F	0.0970	F	0.5780	2300	G	2008
+630306	 145	03903	     	145-3903	Pretlow St	145	City of Franklin	145	City of Franklin	0.22	Morton St	Laurel St	3500	G	97%	1%	1%	0%	1%	0%	C	0.0904	F	0.5194	3800	G	2008
+630092	 145	03903	     	145-3903	Pretlow St	145	City of Franklin	145	City of Franklin	0.32	Laurel St	South St	3400	G	97%	1%	1%	0%	1%	0%	F	0.0878	F	0.5264	3600	G	2008
+630319	 145	03904	     	145-3904	Armory Dr	145	City of Franklin	145	City of Franklin	0.70	WCL Franklin	Bailey Dr	14000	G	99%	0%	0%	0%	0%	0%	F	0.0881	F	0.5404	15000	G	2008
+630105	 145	03904	     	145-3904	Armory Dr	145	City of Franklin	145	City of Franklin	0.44	Bailey DR	College Dr	16000	G	99%	0%	0%	0%	0%	0%	F	0.0931	F	0.5120	17000	G	2008
+630104	 145	03904	     	145-3904	Armory Dr	145	City of Franklin	145	City of Franklin	0.56	College Dr	Gardner St	8600	G	99%	0%	0%	0%	0%	0%	C	0.0972	F	0.5094	9200	G	2008
+630320	 145	03904	     	145-3904	Armory Dr	145	City of Franklin	145	City of Franklin	0.09	Gardner St	Second Ave	8800	G	99%	0%	0%	0%	0%	0%	F	0.0949	F	0.5034	9500	G	2008
+630091	 145	03904	     	145-3904	Second Ave	145	City of Franklin	145	City of Franklin	0.23	Armory Dr	High St	8600	G	99%	0%	1%	0%	0%	0%	F	0.0945	F	0.5065	9200	G	2008
+630081	 145	03904	     	145-3904	Second Ave	145	City of Franklin	145	City of Franklin	0.15	High St	US 258 Main St	6800	G	99%	0%	1%	0%	0%	0%	C	0.0963	F	0.5353	7300	G	2008
+630324	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.15	Magnolia St	Birch St	280	G	96%	3%	1%	0%	0%	0%	F	0.1205	F	0.5938	300	G	2008
+630111	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.06	Birch St	South St	410	G	96%	3%	1%	0%	0%	0%	C	0.1172	F	0.5556	440	G	2008
+630090	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.30	South St	2nd St	3700	G	96%	3%	1%	0%	0%	0%	F	0.0942	F	0.5339	4000	G	2008
+630325	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.10	2nd Ave	US 58 4th Ave	3800	G	96%	3%	1%	0%	0%	0%	F	0.0967	F	0.5165	4100	G	2008
+630200	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.20	US 58 P; Lee St	Beaman St	4200	G	98%	1%	1%	0%	0%	0%	C	0.0951	F	0.6211	4600	G	2008
+630327	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.19	Beaman St	Homestead Rd	4300	G	98%	1%	1%	0%	0%	0%	F	0.0950	F	0.6095	4600	G	2008
+630112	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	0.39	Homestead Dr	Fairview Rd	3500	G	98%	1%	1%	0%	0%	0%	C	0.0984	F	0.5697	3700	G	2008
+630328	 145	03905	     	145-3905	High St	145	City of Franklin	145	City of Franklin	1.37	Fairview Dr	NCL Franklin	2200	G	98%	1%	1%	0%	0%	0%	F	0.1038	F	0.5845	2300	G	2008
+630107	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.19	South St	Maplewood Ave	7600	G	98%	1%	1%	0%	0%	0%	C	0.0915	F	0.5108	8100	G	2008
+630316	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.28	Maplewood Ave	Armory Dr	8600	G	98%	1%	1%	0%	0%	0%	F	0.0971	F	0.5146	9300	G	2008
+630317	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.14	Armory Dr	SR 379 Stewart Dr	8600	G	98%	1%	1%	0%	0%	0%	F	0.0923	F	0.5077	9300	G	2008
+630318	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.62	SR 379 Stewart Dr	Sycamore Rd	11000	G	98%	1%	1%	0%	0%	0%	F	0.0970	F	0.5447	12000	G	2008
+630102	 145	03907	     	145-3907	College Dr	145	City of Franklin	145	City of Franklin	0.12	Sycamore Rd	Clay St	11000	G	98%	1%	1%	0%	0%	0%	F	0.0956	F	0.5443	11000	G	2008
+630100	 145	03907	     	145-3907	Hunterdale Rd	145	City of Franklin	145	City of Franklin	0.19	Bus US 58 Clay St	Fairview Dr	10000	G	98%	1%	1%	0%	0%	0%	F	0.0963	F	0.5621	11000	G	2008
+630314	 145	03907	     	145-3907	Hunterdale Rd	145	City of Franklin	145	City of Franklin	0.60	Fairview Dr	North Dr	5600	G	98%	1%	1%	0%	0%	0%	C	0.0927	F	0.6218	6000	G	2008
+630315	 145	03907	     	145-3907	Hunterdale Rd	145	City of Franklin	145	City of Franklin	0.71	North Dr	NCL Franklin	4700	G	98%	1%	1%	0%	0%	0%	F	0.0985	F	0.5529	5000	G	2008
+630301	 145	03909	     	145-3909	Roosevelt St	145	City of Franklin	145	City of Franklin	0.19	South St	Maplewood Ave	550	G	98%	1%	1%	0%	0%	0%	F	0.1147	F	0.5984	590	G	2008
+630113	 145	03910	     	145-3910	Homestead Rd	145	City of Franklin	145	City of Franklin	0.42	Clay St	High St	540	G	98%	1%	1%	0%	0%	0%	C	0.1232	F	0.7049	580	G	2008
+530016	 145	03911	     	145-3911	Gardner St	145	City of Franklin	145	City of Franklin	0.22	Armory Dr	Charles St	880	G	98%	1%	1%	0%	0%	0%	F	0.1145	F	0.5907	950	G	2008
+781836	 145	03911	     	145-3911	Gardner St	145	City of Franklin	145	City of Franklin	0.07	Charles Street	US 58 Bus; Clay St	960	G	98%	1%	1%	0%	0%	0%	F	0.1128	F	0.5482	1000	G	2008
+630313	 145	03912	     	145-3912	Fairview Dr	145	City of Franklin	145	City of Franklin	0.25	Hunterdale Rd	Crescent Dr	5500	G	98%	1%	1%	0%	0%	0%	F	0.0994	F	0.5677	5900	G	2008
+630109	 145	03912	     	145-3912	Fairview Dr	145	City of Franklin	145	City of Franklin	0.66	Crescent Dr	High St	4700	G	98%	1%	1%	0%	0%	0%	C	0.1007	F	0.6989	5100	G	2008
+630302	 145	03913	     	145-3913	Southampton Rd	145	City of Franklin	145	City of Franklin	0.21	Clay St	Cypress Ave	340	G	98%	1%	1%	0%	0%	0%	F	0.1143	F	0.5696	360	G	2008
+630106	 145	03914	     	145-3914	Banks St	145	City of Franklin	145	City of Franklin	0.38	Morton St	South St	3600	G	99%	1%	0%	0%	0%	0%	C	0.0886	F	0.5586	3900	G	2008
+630303	 145	03915	     	145-3915	Morton St	145	City of Franklin	145	City of Franklin	0.30	Banks St	Oak St	1600	G	96%	2%	1%	0%	0%	0%	F	0.1067	F	0.5894	1700	G	2008
+630114	 145	03915	     	145-3915	Morton St	145	City of Franklin	145	City of Franklin	0.23	Oak Street	Pretlow St	1500	G	96%	2%	1%	0%	0%	0%	C	0.0922	F	0.5248	1600	G	2008
+530011	 145	03916	     	145-3916	Crescent Dr	145	City of Franklin	145	City of Franklin	0.66	Fairview Dr	North Dr	810	G	97%	2%	1%	0%	0%	0%	C	0.1305	F	0.5631	870	G	2008
+530007	 145	00000	     	145-0	Beamen St	145	City of Franklin	145	City of Franklin	0.00	High Street	Fontaine Street	120	G							X	0.1116	F	0.0000	130	G	2008
+530003	 145	00000	     	145-0	Bruce St	145	City of Franklin	145	City of Franklin	0.00	South St	Cool Spring St	1100	G							X	0.1039	F	0.0000	1200	G	2008
+530004	 145	00000	     	145-0	Delk St	145	City of Franklin	145	City of Franklin	0.00	South St	Mariner St.	1000	G							X	0.1267	F	0.5560	1100	G	2008
+530006	 145	00000	     	145-0	Fontaine St	145	City of Franklin	145	City of Franklin	0.00	Beamen St	Norfleet St	140	G							X	0.1203	F	0.0000	150	G	2008
+530010	 145	00000	     	145-0	Forest Pine Rd	145	City of Franklin	145	City of Franklin	0.00	Homestead Rd	Crescent Dr	1200	G							X	0.1114	F	0.0000	1200	G	2008
+530002	 145	00000	     	145-0	Laurel St	145	City of Franklin	145	City of Franklin	0.00	Bolling St	Ashton Ave	500	G							X	0.1023	F	0.0000	540	G	2008
+530013	 145	00000	     	145-0	Magnolia Ave	145	City of Franklin	145	City of Franklin	0.00	Hunterdale Rd	Dead End	80	G							X	0.1302	F	0.0000	90	G	2008
+530008	 145	00000	     	145-0	Meadow Lane	145	City of Franklin	145	City of Franklin	0.00	Clay St	Sycamore Rd	160	G							X	0.1104	F	0.5429	170	G	2008
+530012	 145	00000	     	145-0	Old Sedley Rd	145	City of Franklin	145	City of Franklin	0.00	Hunterdale Rd	Myrtle Dr	910	G							X	0.0988	F	0.5756	980	G	2008
+530009	 145	00000	     	145-0	Park Circle	145	City of Franklin	145	City of Franklin	0.00	Dead End	Clay St	140	G							X	0.1642	F	0.0000	150	G	2008
+530005	 145	00000	     	145-0	Redwood Ave	145	City of Franklin	145	City of Franklin	0.00	Roosevelt Street	Wilson Street	80	G							X	0.1364	F	0.5714	80	G	2008
+530014	 145	00000	     	145-0	Robin Hood Rd	145	City of Franklin	145	City of Franklin	0.00	Cypress Ave	Pine Ave	190	G							X	0.1301	F	0.7083	210	G	2008
+530015	 145	00000	     	145-0	Robin Hood Rd	145	City of Franklin	145	City of Franklin	0.00	Pine Ave	WCL Franklin	30	G							X	0.2941	F	0.0000	30	G	2008
+530001	 145	00000	     	145-0	Walnut St	145	City of Franklin	145	City of Franklin	0.00	Elm St	South St	840	G							X	0.1147	F	0.5885	900	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

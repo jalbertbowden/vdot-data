@@ -1,0 +1,26 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Quantico																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+794664	  76	01126	     	76-1126	 	287	Town of Quantico	076	Prince William County	0.04	76-1400 Fifth Ave	76-1401 Potomac Ave	0	?							X
+762044	  76	01400	     	76-1400	Fifth Ave	287	Town of Quantico	076	Prince William County	0.03	Dead End	76-1402 C Street	130	R							X						1998
+762045	  76	01400	     	76-1400	Fifth Ave	287	Town of Quantico	076	Prince William County	0.07	76-1402 C Street	76-1406 Broadway St	560	R							X						1998
+762046	  76	01400	     	76-1400	Fifth Ave	287	Town of Quantico	076	Prince William County	0.15	76-1406 Broadway St	Dead End	490	R							X						1998
+762047	  76	01401	     	76-1401	Potomac Ave	287	Town of Quantico	076	Prince William County	0.25	Dead End	ECL Quantico	12000	R							X						1998
+762048	  76	01402	     	76-1402	C St	287	Town of Quantico	076	Prince William County	0.05	76-1400 Fifth Ave	76-1401 Potomac Ave	770	R							X						1998
+762049	  76	01402	     	76-1402	C St	287	Town of Quantico	076	Prince William County	0.05	76-1401 Potomac Ave	76-1403 Fourth Ave	1400	R							X						1998
+762050	  76	01402	     	76-1402	C St	287	Town of Quantico	076	Prince William County	0.04	76-1403 Fourth Ave	76-1404 Third Ave	590	R							X						1998
+762051	  76	01402	     	76-1402	C St	287	Town of Quantico	076	Prince William County	0.07	76-1404 Third Ave	Dead End	130	R							X						1998
+762052	  76	01403	     	76-1403	Fourth Ave	287	Town of Quantico	076	Prince William County	0.07	76-1402 C Street	76-1406 Broadway St	660	R							X						1998
+762053	  76	01403	     	76-1403	Fourth Ave	287	Town of Quantico	076	Prince William County	0.12	76-1406 Broadway St	ECL Quantico	590	R							X						1998
+762054	  76	01404	     	76-1404	Third Ave	287	Town of Quantico	076	Prince William County	0.07	76-1402 C Street	76-1406 Broadway St	490	R							X						1998
+762055	  76	01404	     	76-1404	Third Ave	287	Town of Quantico	076	Prince William County	0.11	76-1406 Broadway St	ECL Quantico	520	R							X						1998
+762056	  76	01405	     	76-1405	Second Ave	287	Town of Quantico	076	Prince William County	0.04	76-1406 Broadway St	Dead End	20	R							X						1998
+762057	  76	01406	     	76-1406	Broadway St	287	Town of Quantico	076	Prince William County	0.05	76-1400 Fifth Ave	76-1401 Potomac Ave	3200	R							X						1998
+762058	  76	01406	     	76-1406	Broadway St	287	Town of Quantico	076	Prince William County	0.06	76-1401 Potomac Ave	76-1403 Fourth Ave	3500	R							X						1998
+762059	  76	01406	     	76-1406	Broadway St	287	Town of Quantico	076	Prince William County	0.05	76-1403 Fourth Ave	76-1404 Third Ave	780	R							X						1998
+762060	  76	01406	     	76-1406	Broadway St	287	Town of Quantico	076	Prince William County	0.05	76-1404 Third Ave	76-1405 Second Ave	470	R							X						1998
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

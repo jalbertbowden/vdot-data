@@ -1,0 +1,343 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Greensville Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+050576	  US	00058	     	US 58	Pleasant Shade Dr	040	Greensville County	040	Greensville County	6.34	Brunswick County Line	WCL Emporia	12000	F	80%	1%	1%	1%	17%	1%	F	0.0704	F	0.0000	11000	F	2008
+626037	  US	00058	     	US 58	West Atlantic St	109	City of Emporia	040	Greensville County	0.41	WCL Emporia	Purdy Rd	14000	F	80%	1%	1%	1%	17%	1%	F	0.0732	F	0.0000	13000	F	2008
+626038	  US	00058	     	US 58	West Atlantic St	109	City of Emporia	040	Greensville County	0.21	Purdy Rd	I-95	22000	F	80%	1%	1%	1%	17%	1%	F	0.0831	F	0.0000	21000	F	2008
+626001	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.84	I-95	US 301 Main St	17000	F	76%	1%	1%	1%	21%	1%	C	0.0769	F	0.0000	16000	F	2008
+626002	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.64	US 301 Main St	Reese St	14000	F	71%	1%	1%	2%	25%	1%	C	0.0781	F	0.0000	14000	F	2008
+626003	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.49	Reese St	Davis St	16000	F	84%	1%	1%	1%	13%	0%	F	0.0717	F	0.0000	15000	F	2008
+626004	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.65	Davis St	East Atlantic St	16000	F	84%	1%	1%	1%	13%	0%	F	0.0732	F	0.0000	15000	F	2008
+626005	  US	00058	     	US 58	 	109	City of Emporia	040	Greensville County	0.40	East Atlantic St	ECL Emporia	16000	F	84%	1%	1%	1%	13%	0%	F	0.0711	F	0.0000	15000	F	2008
+050235	  US	00058	     	US 58	Courtland Rd	040	Greensville County	040	Greensville County	1.50	ECL Emporia	Southampton County Line	16000	F	84%	1%	1%	1%	13%	0%	F	0.0727	F	0.0000	15000	F	2008
+626006	C3US	00058	     	Bus US 58	Market Dr	109	City of Emporia	109	City of Emporia	0.21	US 58 West Intersection	West Atlantic St	9600	F	98%	0%	1%	0%	1%	0%	C				10000	F	2008
+626039	C3US	00058	     	Bus US 58	West Atlantic St	109	City of Emporia	109	City of Emporia	0.44	US 58 Connector	North Main Street	9900	F	98%	0%	1%	0%	1%	0%	C	0.0809	F	0.0000	11000	F	2008
+626011	C3US	00058	     	Bus US 58	East Atlantic St	109	City of Emporia	109	City of Emporia	0.25	North Main Street	Reese St	3600	F	92%	1%	1%	0%	7%	0%	F	0.1018	F	0.5233	4000	F	2008
+626012	C3US	00058	     	Bus US 58	East Atlantic St	109	City of Emporia	109	City of Emporia	1.20	Reese St	US 58 East Intersection	1600	F	92%	1%	1%	0%	7%	0%	C	0.0998	F	0.0000	1800	F	2008
+050119	  IS	00095	N    	I-95 NB	 	040	Greensville County	040	Greensville County	4.13	North Carolina State Line	40-629 Skippers	19000	A	81%	1%	1%	1%	17%	0%	C	0.1458	A	1.0000	15000	A	2008		38000	A	81%	1%	1%	1%	17%	0%	C	0.1359	A	0.0000	31000	A
+050237	  IS	00095	N    	I-95 NB	 	040	Greensville County	040	Greensville County	4.12	40-629 Skippers	US 301 South of Emporia	17000	G	81%	1%	1%	1%	17%	0%	F				15000	G	2008		35000	G	81%	1%	1%	1%	17%	0%	F				30000	G
+050238	  IS	00095	N    	I-95 NB	 	040	Greensville County	040	Greensville County	1.70	US 301 South of Emporia	SCL Emporia	19000	F	81%	1%	1%	1%	17%	0%	F				16000	F	2008		38000	F	81%	1%	1%	1%	17%	0%	F				33000	F
+050257	  IS	00095	N    	I-95 NB	 	109	City of Emporia	040	Greensville County	1.05	SCL Emporia	US 58	19000	F	81%	1%	1%	1%	17%	0%	F				16000	F	2008		38000	F	81%	1%	1%	1%	17%	0%	F				33000	F
+050578	  IS	00095	N    	I-95 NB	 	109	City of Emporia	040	Greensville County	0.62	US 58	NCL Emporia	16000	F	81%	1%	1%	1%	17%	0%	F				14000	F	2008		30000	F	82%	1%	1%	1%	15%	0%	F				28000	F
+050587	  IS	00095	N    	I-95 NB	 	040	Greensville County	040	Greensville County	1.37	NCL Emporia	US 301 North of Emporia	16000	F	81%	1%	1%	1%	17%	0%	F				14000	F	2008		30000	F	82%	1%	1%	1%	15%	0%	F				28000	F
+050589	  IS	00095	N    	I-95 NB	 	040	Greensville County	040	Greensville County	0.52	US 301 North of Emporia	40-614 Otterdam Rd	16000	F	81%	1%	1%	1%	17%	0%	F				13000	F	2008		29000	F	82%	1%	1%	1%	15%	0%	F				27000	F
+050239	  IS	00095	N    	I-95 NB	 	040	Greensville County	040	Greensville County	3.63	40-614 Otterdam Rd	Sussex County Line	16000	F	81%	1%	1%	1%	17%	0%	F				14000	F	2008		30000	F	82%	1%	1%	1%	15%	0%	F				28000	F
+791023	  IS	00095	N000R	I-95 NB Exit 000R	Skippers Welcome Center	040	Greensville County	040	Greensville County	0.05	Exit Welcome Center Parking Lot	I-95 North from Welcome Center	1600	A	98%	0%	1%	0%	0%	0%	C	0.1670	A	1.0000	1200	A	2008
+150009	  IS	00095	S    	I-95 SB	 	040	Greensville County	040	Greensville County	4.39	North Carolina State Line	40-629 Skippers	19000	A	81%	1%	1%	1%	16%	0%	C	0.1491	A	1.0000	15000	A	2008		38000	A	81%	1%	1%	1%	17%	0%	C	0.1359	A	0.0000	31000	A
+150008	  IS	00095	S    	I-95 SB	 	040	Greensville County	040	Greensville County	3.83	40-629 Skippers	US 301 South of Emporia	18000	G	81%	1%	1%	1%	16%	0%	F				15000	G	2008		35000	G	81%	1%	1%	1%	17%	0%	F				30000	G
+150007	  IS	00095	S    	I-95 SB	 	040	Greensville County	040	Greensville County	1.81	US 301 South of Emporia	SCL Emporia	19000	F	81%	1%	1%	1%	16%	0%	F				16000	F	2008		38000	F	81%	1%	1%	1%	17%	0%	F				33000	F
+150020	  IS	00095	S    	I-95 SB	 	109	City of Emporia	040	Greensville County	1.24	SCL Emporia	US 58	19000	F	81%	1%	1%	1%	16%	0%	F				16000	F	2008		38000	F	81%	1%	1%	1%	17%	0%	F				33000	F
+150006	  IS	00095	S    	I-95 SB	 	109	City of Emporia	040	Greensville County	0.35	US 58	NCL Emporia	14000	F	84%	1%	1%	1%	14%	0%	F				14000	F	2008		30000	F	82%	1%	1%	1%	15%	0%	F				28000	F
+150089	  IS	00095	S    	I-95 SB	 	040	Greensville County	040	Greensville County	1.92	NCL Emporia	40-614 Otterdam Rd	14000	F	84%	1%	1%	1%	14%	0%	F				14000	F	2008		30000	F	82%	1%	1%	1%	15%	0%	F				28000	F
+150005	  IS	00095	S    	I-95 SB	 	040	Greensville County	040	Greensville County	3.60	40-614 Otterdam Rd	Sussex County Line	14000	F	84%	1%	1%	1%	14%	0%	F				14000	F	2008		30000	F	82%	1%	1%	1%	15%	0%	F				28000	F
+050240	  SR	00139	     	VA 139	Jarratt Ave	244	Town of Jarratt	040	Greensville County	0.76	40-610 CL Jarratt	Sussex County Line	1300	F	91%	0%	1%	1%	7%	0%	F	0.1157	F	0.5156	1400	F	2008
+050243	  US	00301	     	US 301	 	040	Greensville County	040	Greensville County	4.74	North Carolina State Line	40-629 Skippers	1500	F	90%	1%	1%	1%	7%	0%	F	0.0922	F	0.5223	1700	F	2008
+050049	  US	00301	     	US 301	 	040	Greensville County	040	Greensville County	3.97	40-629 Skippers	40-689 South of Emporia	2100	F	90%	1%	1%	1%	7%	0%	C	0.0971	F	0.0000	2200	F	2008
+050242	  US	00301	     	US 301	 	040	Greensville County	040	Greensville County	0.39	40-689 South of Emporia	SCL Emporia	4800	F	90%	1%	1%	1%	7%	0%	F	0.0933	F	0.0000	5100	F	2008
+626028	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.45	SCL Emporia	Low Ground Rd	5800	F	95%	1%	1%	0%	3%	0%	C	0.0922	F	0.0000	6300	F	2008
+626029	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.24	Low Ground Rd	Jefferson St	9700	F	95%	1%	1%	0%	3%	0%	F	0.0879	F	0.0000	11000	F	2008
+626030	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.36	Jefferson St	Brunswick Ave	9700	F	95%	1%	1%	0%	3%	0%	F	0.0892	F	0.0000	11000	F	2008
+626031	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.49	Brunswick Ave	Valley St	14000	F	97%	1%	1%	0%	1%	0%	C	0.0802	F	0.0000	16000	F	2008
+626032	  US	00301	     	US 301	South Main St	109	City of Emporia	109	City of Emporia	0.20	Valley St	Atlantic Ave	13000	F	97%	1%	1%	0%	1%	0%	F	0.0810	F	0.0000	15000	F	2008
+626022	  US	00301	     	US 301	North Main St	109	City of Emporia	109	City of Emporia	0.74	Atlantic Ave	US 58	9900	F	97%	1%	1%	0%	1%	0%	F				11000	F	2008
+626023	  US	00301	     	US 301	North Main St	109	City of Emporia	109	City of Emporia	0.34	US 58	Halifax St	8100	F	96%	0%	1%	1%	2%	0%	F				8800	F	2008
+626024	  US	00301	     	US 301	North Main St	109	City of Emporia	109	City of Emporia	0.16	Halifax St	NCL Emporia	9200	F	96%	0%	1%	1%	2%	0%	F				10000	F	2008
+050241	  US	00301	     	US 301	 	040	Greensville County	040	Greensville County	1.53	NCL Emporia	40-614	5800	F	96%	0%	1%	1%	2%	0%	C	0.0904	F	0.0000	6200	F	2008
+050013	  US	00301	     	US 301	 	040	Greensville County	040	Greensville County	2.77	40-614	Sussex County Line	4000	F	96%	0%	1%	1%	2%	0%	F				4300	F	2008
+780376	  FR	00128	     	FR 128	Holly Huck Trail	040	Greensville County	040	Greensville County	3.89	40-631	40-629 Moores Ferry Rd	270	R							X						04/01/2008
+780377	  FR	00129	     	FR 129	Ivory Lane	040	Greensville County	040	Greensville County	1.60	Dead End	40-639 Rock Bridge Rd	7	R							X						04/01/2008
+780378	  FR	00130	     	FR 130	Ashbin Rd	040	Greensville County	040	Greensville County	1.69	Dead End	Dead End	320	R							X						04/01/2008
+780379	  FR	00131	     	FR 131	Clover Leaf Dr	109	City of Emporia	040	Greensville County	1.06	US 58; Bus US 58	Dead End	210	R							X						05/13/2008
+780380	  FR	00132	     	FR 132	Belfield Rd	040	Greensville County	040	Greensville County	0.36	Dead End	40-610	620	R							X						05/13/2008
+780381	  FR	00133	     	FR 133	 	040	Greensville County	040	Greensville County	0.43	40-616	US 301	190	R							X						05/13/2008
+780881	  FR	00963	     	FR 963	 	109	City of Emporia	040	Greensville County	0.04	Bus US 58	Dead End	0	?							X
+780882	  FR	00964	     	FR 964	 	109	City of Emporia	040	Greensville County	0.07	US 58; Bus US 58	Dead End	7	R							X						05/13/2008
+780883	  FR	00965	     	FR 965	 	109	City of Emporia	040	Greensville County	0.31	Reese St	Dead End	3	R							X						05/13/2008
+742584	  40	00600	     	40-600	 	040	Greensville County	040	Greensville County	1.50	Brunswick County Line	40-627 N, Brink Rd	430	R							X						06/01/2005
+742585	  40	00600	     	40-600	 	040	Greensville County	040	Greensville County	3.40	40-627 S, Brink Rd	North Carolina State Line	780	R							X						06/01/2005
+742586	  40	00601	     	40-601	 	040	Greensville County	040	Greensville County	3.00	Brunswick County Line	40-627 Brink Rd	100	R							X						06/01/2005
+742587	  40	00602	     	40-602	Quarrell Rd	040	Greensville County	040	Greensville County	1.38	Brunswick County Line	40-603	10	R							X						04/01/2008
+742588	  40	00603	     	40-603	 	040	Greensville County	040	Greensville County	0.30	North Carolina State Line	40-631 N, Spring Church Rd	1500	R							X						06/01/2005
+300085	  40	00603	     	40-603	 	040	Greensville County	040	Greensville County	1.50	40-631 N, Spring Church Rd	40-633 SOUTH	510	F	97%	0%	1%	1%	1%	0%	C	0.0977	F	0.5500	550	F	2008
+742589	  40	00603	     	40-603	 	040	Greensville County	040	Greensville County	3.20	40-633 NORTH	40-627 E, Brink Rd	90	R							X						06/01/2005
+742590	  40	00603	     	40-603	 	040	Greensville County	040	Greensville County	2.59	40-627 W, Brink Rd	Brunswick County Line	890	R							X						06/01/2005
+742591	  40	00604	     	40-604	 	040	Greensville County	040	Greensville County	5.27	40-603	Brunswick County Line	80	R							X						06/01/2005
+742592	  40	00605	     	40-605	 	040	Greensville County	040	Greensville County	2.70	Brunswick County Line	40-607 EAST	90	R							X						05/17/2005
+742593	  40	00605	     	40-605	 	040	Greensville County	040	Greensville County	0.70	40-607 WEST	US 58 Pleasant Shade Dr	110	R							X						05/17/2005
+783395	  40	00605	     	40-605	 	040	Greensville County	040	Greensville County	2.20	US 58 Pleasant Shade Dr	40-606 EAST	120	R							X						05/11/2005
+742594	  40	00605	     	40-605	 	040	Greensville County	040	Greensville County	4.20	40-606 WEST	40-608 EAST	350	R							X						05/11/2005
+742595	  40	00605	     	40-605	 	040	Greensville County	040	Greensville County	0.45	40-608 WEST	Dead End	7	R							X						05/11/2005
+742596	  40	00606	     	40-606	 	040	Greensville County	040	Greensville County	5.32	Brunswick County Line	40-619	490	R							X						05/11/2005
+742597	  40	00607	     	40-607	 	040	Greensville County	040	Greensville County	0.60	Brunswick County Line	US 58 W Gap Terminus	60	R							X						06/14/2005
+742598	  40	00607	     	40-607	 	040	Greensville County	040	Greensville County	2.30	40-606 Gap	40-605 WEST	250	R							X						05/11/2005
+742599	  40	00607	     	40-607	 	040	Greensville County	040	Greensville County	3.70	40-605 WEST	US 58 E, Pleasant Shade Dr	130	R							X						05/17/2005
+742600	  40	00608	     	40-608	 	040	Greensville County	040	Greensville County	4.50	Brunswick County Line	40-619	610	R							X						05/12/2005
+742601	  40	00608	     	40-608	 	040	Greensville County	040	Greensville County	5.28	40-619	40-680	790	R							X						06/14/2005
+300086	  40	00608	     	40-608	Wyatts Mill Rd	040	Greensville County	040	Greensville County	1.47	40-680	40-610	1100	F	93%	0%	1%	1%	4%	0%	C	0.1468	F	0.7056	1200	F	2008
+742602	  40	00609	     	40-609	 	040	Greensville County	040	Greensville County	1.72	US 301	Sussex County Line	140	R							X						05/19/2005
+300087	  40	00610	     	40-610	 	040	Greensville County	040	Greensville County	0.10	US 301	40-9179	2100	F	97%	2%	1%	1%	0%	0%	F	0.1272	F	0.5331	2300	F	2008
+300088	  40	00610	     	40-610	 	040	Greensville County	040	Greensville County	2.22	40-9179	40-617 Water Wheel Rd	950	F	97%	2%	1%	1%	0%	0%	F	0.1028	F	0.5605	1000	F	2008
+300089	  40	00610	     	40-610	 	040	Greensville County	040	Greensville County	6.92	40-617 Water Wheel Rd	40-608 Wyatts Mill Rd	650	F	97%	2%	1%	1%	0%	0%	C	0.1185	F	0.6279	700	F	2008
+300090	  40	00610	     	40-610	 	040	Greensville County	040	Greensville County	0.45	40-608 Wyatts Mill Rd	WCL Jarratt	1700	F	97%	2%	1%	1%	0%	0%	F	0.1208	F	0.5260	1800	F	2008
+303764	  40	00610	     	40-610	Allen Rd	244	Town of Jarratt	040	Greensville County	0.29	WCL Jarratt	40-1101 Grigg Ave	1700	N	97%	2%	1%	1%	0%	0%	N	0.1208	N	0.5260	1800	N	2008
+300091	  40	00611	     	40-611	Dry Bread Rd	040	Greensville County	040	Greensville County	1.91	Brunswick County Line	40-633 WEST	1300	F	95%	1%	1%	1%	2%	0%	F	0.1015	F	0.5625	1400	F	2008
+300092	  40	00611	     	40-611	Dry Bread Rd	040	Greensville County	040	Greensville County	2.84	40-633 West	40-658	1500	F	95%	1%	1%	1%	2%	0%	C	0.0949	F	0.0000	1600	F	2008
+300093	  40	00611	     	40-611	Dry Bread Rd	040	Greensville County	040	Greensville County	1.79	40-658	40-635	1800	F	95%	1%	1%	1%	2%	0%	F	0.0959	F	0.7519	1900	F	2008
+300094	  40	00611	     	40-611	Dry Bread Rd	040	Greensville County	040	Greensville County	0.92	40-635	WCL Emporia	3200	F	95%	1%	1%	1%	2%	0%	F	0.0836	F	0.6246	3500	F	2008
+300095	  40	00611	     	40-611	Brick Yard Rd	040	Greensville County	040	Greensville County	1.05	ECL Emporia	40-654	570	F	96%	2%	1%	0%	1%	0%	F	0.0976	F	0.5227	610	F	2008
+300096	  40	00611	     	40-611	Brick Yard Rd	040	Greensville County	040	Greensville County	0.99	40-654	40-623	330	F	96%	2%	1%	0%	1%	0%	C	0.1055	F	0.5250	360	F	2008
+300097	  40	00611	     	40-611	Brick Yard Rd	040	Greensville County	040	Greensville County	1.74	40-623	Sussex County Line	440	F	96%	2%	1%	0%	1%	0%	F	0.0893	F	0.6854	480	F	2008
+742603	  40	00612	     	40-612	 	040	Greensville County	040	Greensville County	2.40	40-619	40-651	170	R							X						05/12/2005
+742604	  40	00613	     	40-613	 	040	Greensville County	040	Greensville County	3.20	40-605	40-619 NORTH	140	R							X						05/11/2005
+742605	  40	00613	     	40-613	 	040	Greensville County	040	Greensville County	1.70	40-619 SOUTH	40-610	370	R							X						05/17/2005
+742606	  40	00614	     	40-614	 	040	Greensville County	040	Greensville County	1.03	NCL Emporia	40-616 SOUTH	620	R							X						06/14/2005
+742607	  40	00614	     	40-614	 	040	Greensville County	040	Greensville County	0.40	40-616 N, Moonlight Rd	US 301	180	R							X						05/19/2005
+300098	  40	00614	     	40-614	 	040	Greensville County	040	Greensville County	0.70	US 301	40-617 Water Wheel Rd	740	F	94%	1%	1%	0%	3%	0%	C	0.1103	F	0.5106	790	F	2008
+742608	  40	00614	     	40-614	 	040	Greensville County	040	Greensville County	5.00	40-617 Water Wheel Rd	40-610	140	R							X						05/17/2005
+742609	  40	00615	     	40-615	 	040	Greensville County	040	Greensville County	2.30	40-610	40-614	100	R							X						05/17/2005
+742610	  40	00616	     	40-616	 	040	Greensville County	040	Greensville County	0.10	US 301	FR-133	360	R							X						06/14/2005
+742611	  40	00616	     	40-616	 	040	Greensville County	040	Greensville County	0.20	FR-133	40-614 WEST	350	R							X						06/14/2005
+742612	  40	00616	     	40-616	 	040	Greensville County	040	Greensville County	0.50	40-614 WEST	40-614 EAST	90	R							X						05/19/2005
+742613	  40	00616	     	40-616	Moonlight Rd	040	Greensville County	040	Greensville County	0.33	40-614 NORTH	Dead End	50	R							X						05/13/2008
+300099	  40	00617	     	40-617	Water Wheel Rd	040	Greensville County	040	Greensville County	0.23	40-610	0.23 ME 40-610	290	F	97%	1%	1%	0%	1%	0%	C	0.1310	F	0.7045	310	F	2008
+300100	  40	00617	     	40-617	 	040	Greensville County	040	Greensville County	0.45	0.23 ME 40-610	40-614	350	F	97%	1%	1%	0%	1%	0%	F	0.1217	F	0.6875	380	F	2008
+742614	  40	00618	     	40-618	 	040	Greensville County	040	Greensville County	0.80	Dead End	40-606	150	R							X						05/11/2005
+300101	  40	00619	     	40-619	 	040	Greensville County	040	Greensville County	0.43	NCL Emporia	40-681	1100	F	95%	1%	1%	1%	2%	0%	F	0.1082	F	0.6370	1100	F	2008
+300102	  40	00619	     	40-619	 	040	Greensville County	040	Greensville County	3.16	40-681	40-606	760	F	95%	1%	1%	1%	2%	0%	F	0.1041	F	0.6514	810	F	2008
+300103	  40	00619	     	40-619	 	040	Greensville County	040	Greensville County	1.54	40-606	40-613 NORTH	590	F	95%	1%	1%	1%	2%	0%	C	0.1103	F	0.5342	630	F	2008
+300104	  40	00619	     	40-619	 	040	Greensville County	040	Greensville County	1.44	40-613 NORTH	40-612	440	F	95%	1%	1%	1%	2%	0%	F	0.1172	F	0.5556	470	F	2008
+300105	  40	00619	     	40-619	 	040	Greensville County	040	Greensville County	1.77	40-612	40-608	370	F	95%	1%	1%	1%	2%	0%	F	0.1181	F	0.5700	400	F	2008
+300106	  40	00619	     	40-619	 	040	Greensville County	040	Greensville County	2.89	40-608	Sussex County Line	260	F	95%	1%	1%	1%	2%	0%	F	0.1233	F	0.5068	280	F	2008
+742615	  40	00620	     	40-620	Radium Rd	040	Greensville County	040	Greensville County	1.50	40-605	40-607	120	R							X						05/13/2008
+742616	  40	00621	     	40-621	 	040	Greensville County	040	Greensville County	3.32	40-633	40-650 Quarry Rd	170	R							X						05/19/2005
+300107	  40	00621	     	40-621	Quarry Rd	040	Greensville County	040	Greensville County	0.49	40-650 Quarry Rd	40-629 Moores Ferry Rd	440	F	66%	2%	1%	21%	11%	0%	C	0.0977	F	0.5205	470	F	2008
+300108	  40	00622	     	40-622	Little Low Ground Rd	040	Greensville County	040	Greensville County	2.45	40-730 W, Low Ground Rd	40-629 NORTH	340	F	95%	2%	1%	0%	3%	0%	C	0.1201	F	0.6512	370	F	2008
+300109	  40	00622	     	40-622	Little Low Ground Rd	040	Greensville County	040	Greensville County	0.29	40-629 NORTH	40-629 S, Zion Church Rd	350	F	95%	2%	1%	0%	3%	0%	F	0.1072	F	0.7263	380	F	2008
+742617	  40	00622	     	40-622	 	040	Greensville County	040	Greensville County	5.30	40-629 S, Zion Church Rd	40-625 WEST	90	R							X						05/19/2005
+742618	  40	00622	     	40-622	 	040	Greensville County	040	Greensville County	2.60	40-625 WEST	40-730 E, Low Ground Rd	210	R							X						05/24/2005
+742619	  40	00623	     	40-623	 	040	Greensville County	040	Greensville County	1.90	US 58 Courtland Rd	40-611 Brick Yard Rd	280	R							X						05/19/2005
+742620	  40	00624	     	40-624	Steel Bridge Rd	040	Greensville County	040	Greensville County	2.20	North Carolina State Line	40-655	20	R							X						04/01/2008
+742621	  40	00624	     	40-624	 	040	Greensville County	040	Greensville County	0.10	40-655	40-730 Low Ground Rd	20	R							X						04/01/2008
+742622	  40	00625	     	40-625	 	040	Greensville County	040	Greensville County	3.94	North Carolina State Line	40-622 EAST	340	R							X						05/24/2005
+742623	  40	00625	     	40-625	 	040	Greensville County	040	Greensville County	5.70	40-622 WEST	40-628	620	R							X						05/24/2005
+742624	  40	00626	     	40-626	 	040	Greensville County	040	Greensville County	2.10	40-629 Zion Church Rd	40-622	90	R							X						05/24/2005
+300110	  40	00627	     	40-627	Brink Rd	040	Greensville County	040	Greensville County	8.03	North Carolina State Line	40-633	660	F	95%	1%	1%	1%	2%	0%	F	0.0921	F	0.7682	710	F	2008
+300111	  40	00627	     	40-627	Brink Rd	040	Greensville County	040	Greensville County	5.60	40-633	40-1025	1400	F	95%	1%	1%	1%	2%	0%	C	0.1110	F	0.7267	1500	F	2008
+300112	  40	00627	     	40-627	Brink Rd	040	Greensville County	040	Greensville County	0.56	40-1025	SCL Emporia	2300	F	95%	1%	1%	1%	2%	0%	F	0.0869	F	0.6701	2500	F	2008
+742625	  40	00628	     	40-628	 	040	Greensville County	040	Greensville County	1.40	Dead End	US 301	40	R							X						05/24/2005
+742626	  40	00628	     	40-628	 	040	Greensville County	040	Greensville County	3.40	US 301	40-629 Zion Church Rd	46	R							X						06/04/2005
+742627	  40	00629	     	40-629	 	040	Greensville County	040	Greensville County	3.20	North Carolina State Line	40-632	300	R							X						05/24/2005
+742628	  40	00629	     	40-629	 	040	Greensville County	040	Greensville County	0.70	40-632	40-621 Quarry Rd	540	R							X						06/14/2005
+300113	  40	00629	     	40-629	Moores Ferry Rd	040	Greensville County	040	Greensville County	1.06	40-621 Quarry Rd	I-95	970	F	57%	1%	1%	31%	10%	0%	C	0.0818	F	0.5313	1000	F	2008
+300114	  40	00629	     	40-629	Moores Ferry Rd	040	Greensville County	040	Greensville County	0.94	I-95	US 301	1200	F	83%	1%	2%	3%	11%	0%	C	0.0806	F	0.5478	1300	F	2008
+300115	  40	00629	     	40-629	Zion Church Rd	040	Greensville County	040	Greensville County	0.10	US 301	40-628	1400	F	94%	2%	1%	1%	2%	0%	F	0.0965	F	0.6801	1500	F	2008
+300116	  40	00629	     	40-629	Zion Church Rd	040	Greensville County	040	Greensville County	2.60	40-628	40-622 S, Little Low Ground Rd	180	F	94%	2%	1%	1%	2%	0%	C	0.1244	F	0.5000	200	F	2008
+742629	  40	00629	     	40-629	 	040	Greensville County	040	Greensville County	1.35	40-622 N, Little Low Ground Rd	40-730 Low Ground Rd	90	R							X						05/24/2005
+300117	  40	00630	     	40-630	 	244	Town of Jarratt	040	Greensville County	0.23	SR 139 Jarratt Ave	NCL Jarratt	670	F	91%	2%	0%	2%	5%	0%	F	0.1100	F	0.5965	720	F	2008
+300118	  40	00630	     	40-630	 	040	Greensville County	040	Greensville County	2.30	NCL Jarratt	Sussex County Line	420	F	91%	2%	0%	2%	5%	0%	C	0.1253	F	0.7143	450	F	2008
+300119	  40	00631	     	40-631	Spring Church Rd	040	Greensville County	040	Greensville County	0.20	North Carolina State Line	40-603	1000	F	93%	1%	1%	1%	4%	0%	C	0.0991	F	0.5478	1100	F	2008
+742630	  40	00631	     	40-631	 	040	Greensville County	040	Greensville County	4.77	40-603	North Carolina State Line	220	R							X						04/01/2008
+742631	  40	00632	     	40-632	 	040	Greensville County	040	Greensville County	4.60	40-633	40-629	140	R							X						06/14/2005
+742632	  40	00633	     	40-633	 	040	Greensville County	040	Greensville County	1.48	North Carolina State Line	40-603 SOUTH	710	R							X						06/01/2005
+300120	  40	00633	     	40-633	 	040	Greensville County	040	Greensville County	0.30	40-603 SOUTH	40-603 NORTH	640	F	97%	0%	1%	1%	1%	0%	F	0.1033	F	0.5190	680	F	2008
+300121	  40	00633	     	40-633	 	040	Greensville County	040	Greensville County	3.85	40-603 NORTH	40-627 Brink Rd	510	F	97%	0%	1%	1%	1%	0%	C	0.0885	F	0.6792	550	F	2008
+300122	  40	00633	     	40-633	 	040	Greensville County	040	Greensville County	2.80	40-627 Brink Rd	40-693	280	F	97%	0%	1%	1%	1%	0%	F	0.1416	F	0.6458	300	F	2008
+300123	  40	00633	     	40-633	 	040	Greensville County	040	Greensville County	1.73	40-693	40-611 W, Dry Bread Rd	400	F	97%	0%	1%	1%	1%	0%	F	0.1247	F	0.5714	430	F	2008
+742633	  40	00633	     	40-633	 	040	Greensville County	040	Greensville County	1.81	40-611 E, Dry Bread Rd	Dead End	140	R							X						06/14/2005
+742634	  40	00634	     	40-634	 	040	Greensville County	040	Greensville County	1.50	US 301	Dead End	60	R							X						06/14/2005
+742635	  40	00635	     	40-635	 	040	Greensville County	040	Greensville County	1.00	Dead End	40-611 Dry Bread Rd	170	R							X						05/26/2005
+742636	  40	00637	     	40-637	 	040	Greensville County	040	Greensville County	0.35	40-608	40-696 Fields Circle	230	R							X						05/12/2005
+742637	  40	00637	     	40-637	 	040	Greensville County	040	Greensville County	0.25	40-696 Fields Circle	Dead End	410	R							X						05/12/2005
+742638	  40	00638	     	40-638	 	040	Greensville County	040	Greensville County	0.80	40-730 Low Ground Rd	0.80 MN 40-730 Low Ground Rd	20	R							X						05/24/2005
+742639	  40	00638	     	40-638	 	040	Greensville County	040	Greensville County	1.15	0.80 MN 40-730 Low Ground Rd	Dead End	40	R							X						05/24/2005
+742640	  40	00639	     	40-639	 	040	Greensville County	040	Greensville County	2.20	40-627 Brink Rd	40-650 W, Quarry Rd	290	R							X						06/14/2005
+300124	  40	00639	     	40-639	Rock Bridge Rd	040	Greensville County	040	Greensville County	2.20	40-650 W, Quarry Rd	US 301	190	F	94%	4%	2%	0%	0%	0%	C	0.1202	F	0.6000	210	F	2008
+742641	  40	00639	     	40-639	 	040	Greensville County	040	Greensville County	0.10	US 301	40-691	90	R							X						06/14/2005
+742642	  40	00640	     	40-640	 	040	Greensville County	040	Greensville County	0.75	US 58; 40-607	40-681 & 1020	360	R							X						05/11/2005
+742643	  40	00641	     	40-641	Garners Mill Rd	040	Greensville County	040	Greensville County	0.35	Dead End	40-633	20	R							X						04/01/2008
+742644	  40	00642	     	40-642	 	040	Greensville County	040	Greensville County	0.40	Dead End	US 301	80	R							X						05/24/2005
+742645	  40	00643	     	40-643	 	040	Greensville County	040	Greensville County	1.17	40-635	40-611 Dry Bread Rd	220	R							X						05/26/2005
+742646	  40	00644	     	40-644	 	040	Greensville County	040	Greensville County	0.47	40-640	NCL Emporia	340	R							X						06/07/2005
+742647	  40	00646	     	40-646	 	040	Greensville County	040	Greensville County	0.80	Dead End	40-730 Low Ground Rd	90	R							X						05/24/2005
+742648	  40	00647	     	40-647	 	040	Greensville County	040	Greensville County	0.26	40-605	Dead End	40	R							X						06/14/2005
+742649	  40	00648	     	40-648	Felts Rd	040	Greensville County	040	Greensville County	1.20	40-630	Dead End	110	R							X						05/13/2008
+742650	  40	00649	     	40-649	 	040	Greensville County	040	Greensville County	0.90	US 58 Pleasant Shade Dr	Dead End	50	R							X						05/17/2005
+300125	  40	00650	     	40-650	Quarry Rd	040	Greensville County	040	Greensville County	1.33	40-621 Quarry Rd	40-679	310	F	54%	2%	1%	30%	14%	0%	C	0.1188	F	0.5217	330	F	2008
+300126	  40	00650	     	40-650	Quarry Rd	040	Greensville County	040	Greensville County	1.48	40-679	40-639 W, Rock Bridge Rd	90	F	54%	2%	1%	30%	14%	0%	F	0.2014	F	0.5536	90	F	2008
+742651	  40	00650	     	40-650	 	040	Greensville County	040	Greensville County	1.60	40-639 E, Rock Bridge Rd	40-627 Brink Rd	100	R							X						05/19/2005
+742652	  40	00651	     	40-651	 	040	Greensville County	040	Greensville County	3.00	40-610	40-608 EAST	400	R							X						05/12/2005
+742653	  40	00651	     	40-651	 	040	Greensville County	040	Greensville County	1.40	40-608 WEST	40-619	190	R							X						05/17/2005
+742654	  40	00652	     	40-652	 	040	Greensville County	040	Greensville County	0.11	Dead End	40-653	10	R							X						06/14/2005
+742655	  40	00652	     	40-652	 	040	Greensville County	040	Greensville County	0.13	40-653	Dead End	8	R							X						06/14/2005
+742656	  40	00653	     	40-653	 	040	Greensville County	040	Greensville County	0.30	40-687	40-652	130	R							X						06/14/2005
+742657	  40	00654	     	40-654	 	040	Greensville County	040	Greensville County	1.74	ECL Emporia	40-611 Brick Yard Rd	200	R							X						05/19/2005
+742658	  40	00655	     	40-655	 	040	Greensville County	040	Greensville County	0.30	40-730 Low Ground Rd	40-624 Steel Bridge Rd	6	R							X						04/01/2008
+742659	  40	00656	     	40-656	 	040	Greensville County	040	Greensville County	2.30	40-625	40-626	160	R							X						05/24/2005
+742660	  40	00657	     	40-657	 	040	Greensville County	040	Greensville County	0.80	US 301	Dead End	480	R							X						06/14/2005
+742661	  40	00658	     	40-658	 	040	Greensville County	040	Greensville County	1.10	Dead End	40-611 Dry Bread Rd	210	R							X						05/26/2005
+742662	  40	00659	     	40-659	 	040	Greensville County	040	Greensville County	2.40	40-603	40-627 Brink Rd	170	R							X						06/01/2005
+742663	  40	00660	     	40-660	 	040	Greensville County	040	Greensville County	5.65	40-656	40-730 Low Ground Rd	260	R							X						05/24/2005
+742664	  40	00662	     	40-662	 	040	Greensville County	040	Greensville County	1.50	US 301	North Carolina State Line	8	R							X						04/01/2008
+742665	  40	00663	     	40-663	 	040	Greensville County	040	Greensville County	0.54	US 301	40-614	430	R							X						05/19/2005
+742666	  40	00664	     	40-664	 	040	Greensville County	040	Greensville County	0.25	Dead End	NCL Emporia	310	R							X						06/07/2005
+742667	  40	00665	     	40-665	 	040	Greensville County	040	Greensville County	0.80	Dead End	US 301	290	R							X						05/19/2005
+742668	  40	00666	     	40-666	 	040	Greensville County	040	Greensville County	0.90	40-730 Low Ground Rd	Dead End	180	R							X						05/24/2005
+742669	  40	00667	     	40-667	 	040	Greensville County	040	Greensville County	1.00	Dead End	40-611 Dry Bread Rd	150	R							X						05/26/2005
+742670	  40	00668	     	40-668	Quarter Rd	040	Greensville County	040	Greensville County	0.75	40-730 Low Ground Rd	Dead End	4	R							X						04/01/2008
+742671	  40	00669	     	40-669	Dwights Lane	040	Greensville County	040	Greensville County	0.50	40-605	Dead End	30	R							X						05/11/2005
+742672	  40	00670	     	40-670	Rainey Pond Rd	040	Greensville County	040	Greensville County	0.90	Dead End	40-627 Brink Rd	10	R							X						04/01/2008
+742673	  40	00671	     	40-671	Doodlum Rd	040	Greensville County	040	Greensville County	1.39	Dead End	1.39 ME Dead End	30	R							X						05/13/2008
+742674	  40	00671	     	40-671	Doodlum Rd	040	Greensville County	040	Greensville County	1.71	1.39 ME Dead End	40-619	100	R							X						05/13/2008
+742675	  40	00672	     	40-672	 	040	Greensville County	040	Greensville County	0.06	40-664	40-673	150	R							X						06/07/2005
+742676	  40	00673	     	40-673	 	040	Greensville County	040	Greensville County	0.06	40-672	Cul-de-Sac	30	R							X						06/07/2005
+742677	  40	00675	     	40-675	 	040	Greensville County	040	Greensville County	0.88	40-627 Brink Rd	Dead End	110	R							X						05/19/2005
+742678	  40	00676	     	40-676	Brantley Moore	040	Greensville County	040	Greensville County	2.21	40-660	40-629	70	R							X						05/13/2008
+742679	  40	00677	     	40-677	 	040	Greensville County	040	Greensville County	0.98	Dead End	40-632	80	R							X						05/19/2005
+742680	  40	00678	     	40-678	Mitchelle Mill Rd	040	Greensville County	040	Greensville County	0.35	Dead End	40-629	5	R							X						04/01/2008
+742681	  40	00679	     	40-679	 	040	Greensville County	040	Greensville County	0.50	Dead End	40-650 Quarry Rd	120	R							X						05/19/2005
+742682	  40	00680	     	40-680	 	040	Greensville County	040	Greensville County	0.83	40-608 Wyatts Mill Rd	Dead End	90	R							X						05/19/2005
+742683	  40	00681	     	40-681	 	040	Greensville County	040	Greensville County	0.55	40-640 & 1020	40-619	120	R							X						05/17/2005
+742684	  40	00682	     	40-682	 	040	Greensville County	040	Greensville County	0.12	US 58 Courtland Rd	Dead End	30	R							X						05/19/2005
+742685	  40	00683	     	40-683	 	040	Greensville County	040	Greensville County	0.11	US 58 Pleasant Shade Dr	40-705	130	R							X						06/07/2005
+742686	  40	00683	     	40-683	 	040	Greensville County	040	Greensville County	0.10	40-705	40-697	180	R							X						06/07/2005
+742687	  40	00683	     	40-683	 	040	Greensville County	040	Greensville County	0.15	40-697	40-644	120	R							X						06/07/2005
+742688	  40	00684	     	40-684	 	040	Greensville County	040	Greensville County	0.07	Dead End	US 58 E, Pleasant Shade Dr	140	R							X						06/07/2005
+742689	  40	00684	     	40-684	 	040	Greensville County	040	Greensville County	0.33	US 58 W, Pleasant Shade Dr	40-644	160	R							X						06/07/2005
+742690	  40	00687	     	40-687	 	040	Greensville County	040	Greensville County	0.20	40-611; 40-643	40-653	180	R							X						06/08/2005
+742691	  40	00687	     	40-687	 	040	Greensville County	040	Greensville County	0.13	40-653	Dead End	250	R							X						06/08/2005
+742692	  40	00688	     	40-688	 	040	Greensville County	040	Greensville County	0.20	Dead End	SCL Emporia	4	R							X						06/08/2005
+742693	  40	00689	     	40-689	 	040	Greensville County	040	Greensville County	0.52	US 301;  I-95 Ramp	SCL Emporia	90	R							X						06/08/2005
+742694	  40	00690	     	40-690	 	040	Greensville County	040	Greensville County	0.80	US 301	US 301	10	R							X						06/21/2005
+742695	  40	00691	     	40-691	 	040	Greensville County	040	Greensville County	0.10	40-634	0.10 MN 40-634	8	R							X						06/21/2005
+742696	  40	00691	     	40-691	 	040	Greensville County	040	Greensville County	0.40	0.10 MN 40-634	40-639	6	R							X						06/21/2005
+742697	  40	00691	     	40-691	 	040	Greensville County	040	Greensville County	0.50	40-639	US 301	6	R							X						04/01/2008
+742698	  40	00691	     	40-691	 	040	Greensville County	040	Greensville County	0.20	US 301	Dead End	4	R							X						06/21/2005
+787828	  40	00692	     	40-692	 	040	Greensville County	040	Greensville County	0.81	40-604	Cul-de-Sac	7	R							X						06/21/2005
+742699	  40	00693	     	40-693	 	040	Greensville County	040	Greensville County	1.50	40-604	40-633	330	R							X						06/21/2005
+742700	  40	00694	     	40-694	Hobbs Rd	040	Greensville County	040	Greensville County	1.00	40-627 Brink Rd	Dead End	30	R							X						04/01/2008
+742701	  40	00696	     	40-696	Fields Circle	040	Greensville County	040	Greensville County	0.60	40-608	40-637	20	R							X						05/13/2008
+742702	  40	00697	     	40-697	 	040	Greensville County	040	Greensville County	0.17	40-683	40-705	48	R							X						06/07/2005
+742703	  40	00697	     	40-697	 	040	Greensville County	040	Greensville County	0.06	40-705	Dead End	20	R							X						06/07/2005
+742704	  40	00698	     	40-698	 	040	Greensville County	040	Greensville County	0.50	40-607	Dead End	120	R							X						06/22/2005
+742705	  40	00699	     	40-699	 	040	Greensville County	040	Greensville County	0.50	Dead End	US 301	20	R							X						06/22/2005
+742706	  40	00700	     	40-700	 	040	Greensville County	040	Greensville County	0.15	Dead End	40-643	170	R							X						06/22/2005
+742707	  40	00701	     	40-701	 	040	Greensville County	040	Greensville County	0.32	Dead End	40-707	150	R							X						06/08/2005
+742708	  40	00701	     	40-701	 	040	Greensville County	040	Greensville County	0.35	40-707	40-664	270	R							X						06/08/2005
+742709	  40	00702	     	40-702	 	040	Greensville County	040	Greensville County	0.14	Dead End	40-643	90	R							X						06/21/2005
+742710	  40	00703	     	40-703	 	040	Greensville County	040	Greensville County	0.90	Brunswick County Line	40-633	7	R							X						06/21/2005
+742711	  40	00704	     	40-704	 	040	Greensville County	040	Greensville County	0.15	Dead End	40-643	70	R							X						06/21/2005
+742712	  40	00705	     	40-705	 	040	Greensville County	040	Greensville County	0.16	40-683	40-706	80	R							X						06/07/2005
+742713	  40	00705	     	40-705	 	040	Greensville County	040	Greensville County	0.07	40-706	40-697	20	R							X						06/07/2005
+742714	  40	00706	     	40-706	 	040	Greensville County	040	Greensville County	0.04	Dead End	40-705	70	R							X						06/07/2005
+742715	  40	00707	     	40-707	 	040	Greensville County	040	Greensville County	0.43	40-701	40-607	1000	R							X						06/08/2005
+742716	  40	00709	     	40-709	 	040	Greensville County	040	Greensville County	0.16	Dead End	40-627 Brink Rd	150	R							X						06/21/2005
+742717	  40	00711	     	40-711	 	040	Greensville County	040	Greensville County	1.00	40-611 Brick Yard Rd	Southampton County Line	60	R							X						06/09/2005
+742718	  40	00712	     	40-712	 	040	Greensville County	040	Greensville County	0.05	Dead End	US 58; 40-684	90	R							X						06/07/2005
+742719	  40	00713	     	40-713	 	040	Greensville County	040	Greensville County	0.15	Dead End	40-643	140	R							X						06/07/2005
+742720	  40	00714	     	40-714	 	040	Greensville County	040	Greensville County	0.15	Dead End	40-643	50	R							X						06/07/2005
+742721	  40	00715	     	40-715	 	040	Greensville County	040	Greensville County	0.09	Dead End	40-644	40	R							X						06/07/2005
+742722	  40	00717	     	40-717	 	040	Greensville County	040	Greensville County	0.08	Dead End	40-643	70	R							X						06/07/2005
+742723	  40	00718	     	40-718	 	040	Greensville County	040	Greensville County	0.26	40-611 Brick Yard Rd	Dead End	47	R							X						06/07/2005
+785702	  40	00719	     	40-719	 	040	Greensville County	040	Greensville County	0.20	US 301	Dead End	50	R							X						06/09/2005
+742724	  40	00720	     	40-720	 	040	Greensville County	040	Greensville County	0.12	40-663	Dead End	40	R							X						06/09/2005
+785387	  40	00721	     	40-721	 	040	Greensville County	040	Greensville County	1.20	US 58 Pleasant Shade Dr	Dead End	100	R							X						06/22/2005
+742725	  40	00722	     	40-722	Chambliss Rd	040	Greensville County	040	Greensville County	0.40	40-730 Low Ground Rd	Dead End	290	R							X						05/13/2008
+792463	  40	00724	     	40-724	Riverview Rd	040	Greensville County	040	Greensville County	0.63	Dead End	40-607	110	R							X						05/13/2008
+742726	  40	00725	     	40-725	Crescent Ct	040	Greensville County	040	Greensville County	0.15	Dead End	40-614	40	R							X						05/13/2008
+300127	  40	00730	     	40-730	Low Ground Rd	040	Greensville County	040	Greensville County	1.15	SCL Emporia	40-622 W, Little Low Ground Rd	1400	F	97%	1%	1%	0%	1%	0%	C	0.1070	F	0.7095	1500	F	2008
+300128	  40	00730	     	40-730	Low Ground Rd	040	Greensville County	040	Greensville County	11.87	40-622 W, Little Low Ground Rd	Southampton County Line	350	F	97%	1%	1%	0%	1%	0%	F	0.1326	F	0.8525	380	F	2008
+742727	  40	00731	     	40-731	 	040	Greensville County	040	Greensville County	0.31	40-604	Dead End	40	R							X						06/08/2005
+742728	  40	01005	     	40-1005	 	040	Greensville County	040	Greensville County	0.12	40-611 Dry Bread Rd	40-1006	100	R							X						06/08/2005
+742729	  40	01006	     	40-1006	 	040	Greensville County	040	Greensville County	0.05	Cul-de-Sac	40-1007	10	R							X						06/08/2005
+742730	  40	01006	     	40-1006	 	040	Greensville County	040	Greensville County	0.13	40-1007	40-1005	110	R							X						06/08/2005
+742731	  40	01007	     	40-1007	 	040	Greensville County	040	Greensville County	0.12	40-611 Dry Bread Rd	40-1006	130	R							X						06/08/2005
+742732	  40	01010	     	40-1010	 	040	Greensville County	040	Greensville County	0.32	Dead End	40-707	200	R							X						06/08/2005
+742733	  40	01020	     	40-1020	 	040	Greensville County	040	Greensville County	0.15	40-640; 40-681	40-1021	100	R							X						06/07/2005
+742734	  40	01021	     	40-1021	 	040	Greensville County	040	Greensville County	0.40	40-1022 SOUTH	40-1022 NORTH	40	R							X						06/07/2005
+742735	  40	01021	     	40-1021	 	040	Greensville County	040	Greensville County	0.25	40-1022 NORTH	40-1020	10	R							X						06/07/2005
+742736	  40	01021	     	40-1021	 	040	Greensville County	040	Greensville County	0.10	40-1020	40-1022 MID	20	R							X						06/07/2005
+742737	  40	01022	     	40-1022	 	040	Greensville County	040	Greensville County	0.12	40-681	40-1021 SOUTH	130	R							X						06/07/2005
+742738	  40	01022	     	40-1022	 	040	Greensville County	040	Greensville County	0.03	40-1021 SOUTH	40-1021 MID	50	R							X						06/07/2005
+742739	  40	01022	     	40-1022	 	040	Greensville County	040	Greensville County	0.05	40-1021 MID	40-1021 NORTH	40	R							X						06/07/2005
+742740	  40	01025	     	40-1025	 	040	Greensville County	040	Greensville County	0.03	Dead End	40-1026	20	R							X						06/21/2005
+742741	  40	01025	     	40-1025	 	040	Greensville County	040	Greensville County	0.12	40-1026	40-627 Brink Rd	240	R							X						06/21/2005
+742742	  40	01026	     	40-1026	 	040	Greensville County	040	Greensville County	0.10	Dead End	40-1025	90	R							X						06/21/2005
+742743	  40	01101	     	40-1101	Grigg Ave	244	Town of Jarratt	040	Greensville County	0.13	40-610 Allen Rd	40-1107 Gray St	130	R							X						06/16/2005
+742744	  40	01101	     	40-1101	Grigg Ave	244	Town of Jarratt	040	Greensville County	0.09	40-1107 Gray St	40-1102	110	R							X						06/16/2005
+742745	  40	01101	     	40-1101	Grigg Ave	244	Town of Jarratt	040	Greensville County	0.38	40-1102	40-1106 Susan St	160	R							X						06/16/2005
+742746	  40	01101	     	40-1101	Grigg Ave	244	Town of Jarratt	040	Greensville County	0.02	40-1106 Susan St	40-1108 Willow Ave	220	R							X						06/16/2005
+742747	  40	01101	     	40-1101	 	244	Town of Jarratt	040	Greensville County	0.03	40-1108 Willow Ave	40-1105 First St	390	R							X						06/16/2005
+742748	  40	01101	     	40-1101	 	244	Town of Jarratt	040	Greensville County	0.05	40-1105 First St	40-1103 Braxton Ave	290	R							X						06/16/2005
+742749	  40	01101	     	40-1101	 	244	Town of Jarratt	040	Greensville County	0.13	40-1103 Braxton Ave	Sussex County Line	250	R							X						06/16/2005
+742750	  40	01102	     	40-1102	 	040	Greensville County	040	Greensville County	0.08	Sussex County Line	40-1103	160	R							X						06/16/2005
+742751	  40	01102	     	40-1102	 	040	Greensville County	040	Greensville County	0.57	40-1103	SCL Jarratt	110	R							X						06/16/2005
+742752	  40	01102	     	40-1102	 	244	Town of Jarratt	040	Greensville County	0.25	SCL Jarratt	40-1101 Grigg Ave	80	R							X						06/16/2005
+742753	  40	01103	     	40-1103	 	040	Greensville County	040	Greensville County	0.15	40-1102	SCL Jarratt	120	R							X						06/16/2005
+742754	  40	01103	     	40-1103	Braxton Ave	244	Town of Jarratt	040	Greensville County	0.14	SCL Jarratt	40-1111 St Francis St	100	R							X						06/16/2005
+742755	  40	01103	     	40-1103	Braxton Ave	244	Town of Jarratt	040	Greensville County	0.15	40-1111 St Francis St	40-1101	180	R							X						06/16/2005
+742756	  40	01103	     	40-1103	 	244	Town of Jarratt	040	Greensville County	0.03	40-1101	Sussex County Line	240	R							X						06/16/2005
+742757	  40	01104	     	40-1104	Lincoln Ave	244	Town of Jarratt	040	Greensville County	0.12	40-630; NCL Jarratt	40-1110 Pine St	150	R							X						06/07/2005
+742758	  40	01104	     	40-1104	Lincoln Ave	244	Town of Jarratt	040	Greensville County	0.17	40-1110 Pine St	40-1112 York St	50	R							X						06/06/2005
+742759	  40	01105	     	40-1105	Ivey St	244	Town of Jarratt	040	Greensville County	0.15	40-1111 St Francis St	40-1101 Grigg Ave	80	R							X						06/07/2005
+742760	  40	01106	     	40-1106	Susan St	244	Town of Jarratt	040	Greensville County	0.07	Dead End	40-1111 St Francis St	80	R							X						06/07/2005
+742761	  40	01106	     	40-1106	Susan St	244	Town of Jarratt	040	Greensville County	0.15	40-1111 St Francis St	40-1101 Grigg Ave	190	R							X						06/07/2005
+742762	  40	01107	     	40-1107	Gray St	244	Town of Jarratt	040	Greensville County	0.25	40-1101 Grigg Ave	Dead End	220	R							X						06/16/2005
+742763	  40	01108	     	40-1108	Park St; Town St	244	Town of Jarratt	040	Greensville County	0.17	Dead End	40-1109 N, Pine Place	40	R							X						06/16/2005
+742764	  40	01108	     	40-1108	Park St; Town St	244	Town of Jarratt	040	Greensville County	0.07	40-1109 N, Pine Place	40-1109 S, Pine Place	7	R							X						06/16/2005
+742765	  40	01108	     	40-1108	Park St; Town St	244	Town of Jarratt	040	Greensville County	0.04	40-1109 S, Pine Place	40-1101 Grigg Ave	170	R							X						06/16/2005
+742766	  40	01109	     	40-1109	Pine Place	244	Town of Jarratt	040	Greensville County	0.09	40-1108 Park St; Town St	40-1108 Park St; Town St	20	R							X						06/16/2005
+742767	  40	01110	     	40-1110	Pine St	244	Town of Jarratt	040	Greensville County	0.64	SR 139 Jarrett Ave	Sussex County Line	170	R							X						06/16/2005
+742768	  40	01111	     	40-1111	St Francis St	244	Town of Jarratt	040	Greensville County	0.05	40-1106 Susan St	40-1105 Ivey St	90	R							X						06/16/2005
+742769	  40	01111	     	40-1111	St Francis St	244	Town of Jarratt	040	Greensville County	0.05	40-1105 Ivey St	40-1103 Braxton Ave	180	R							X						06/16/2005
+742770	  40	01112	     	40-1112	York St	244	Town of Jarratt	040	Greensville County	0.07	40-1113 Batte St	40-1104 Lincoln Ave	30	R							X						06/16/2005
+742771	  40	01112	     	40-1112	York St	244	Town of Jarratt	040	Greensville County	0.10	40-1104 Lincoln Ave	40-1110 Pine St	40	R							X						06/16/2005
+742772	  40	01113	     	40-1113	Batte St	244	Town of Jarratt	040	Greensville County	0.15	40-630 Allen Rd	40-1110 Pine St	150	R							X						06/16/2005
+742773	  40	01113	     	40-1113	Batte St	244	Town of Jarratt	040	Greensville County	0.18	40-1110 Pine St	40-1112 York St	40	R							X						06/16/2005
+742774	  40	01114	     	40-1114	 	244	Town of Jarratt	040	Greensville County	0.23	40-630 Allen Rd	40-1116 Nicholson St	100	R							X						06/16/2005
+742775	  40	01115	     	40-1115	Duncan St	244	Town of Jarratt	040	Greensville County	0.03	Dead End	40-1110 Pine St	30	R							X						06/16/2005
+783194	  40	01115	     	40-1115	Pine St	244	Town of Jarratt	040	Greensville County	0.12	40-1110 Pine St	40-1116	40	R							X						05/13/2008
+742776	  40	01116	     	40-1116	Nicholson St	244	Town of Jarratt	040	Greensville County	0.06	SR 139 Jarratt Ave	40-1114	47	R							X						06/16/2005
+783195	  40	01116	     	40-1116	 	244	Town of Jarratt	040	Greensville County	0.12	40-1114	40-1115 Pine St	140	R							X						05/13/2008
+742777	  40	01117	     	40-1117	 	244	Town of Jarratt	040	Greensville County	0.24	Sussex County Line	Dead End	10	R							X						06/16/2005
+742778	  40	01118	     	40-1118	 	244	Town of Jarratt	040	Greensville County	0.11	40-630 Allen Rd	40-1110 Pine St	130	R							X						05/13/2008
+793828	  40	01120	     	40-1120	 	040	Greensville County	040	Greensville County	0.13	40-610	Cul-de-Sac	110	R							X						05/13/2008
+742779	  40	09179	     	40-9179	 	040	Greensville County	040	Greensville County	0.04	Greensville Jr High School	40-610	190	R							X						06/16/2005
+781629	 109	00001	     	109-1	Brink Rd	109	City of Emporia	109	City of Emporia	0.16	JB-40-109 SCL Emporia	US 301	2500	F	97%	0%	1%	2%	0%	0%	F	0.0934	F	0.6390	2700	F	2008
+626025	 109	00002	     	109-2	Purdy Rd	109	City of Emporia	109	City of Emporia	0.49	West Atlantic St	Satterfield Dr	2400	F	95%	1%	1%	1%	3%	0%	C	0.1008	F	0.0000	2700	F	2008
+781630	 109	00002	     	109-2	Purdy Rd	109	City of Emporia	109	City of Emporia	0.14	Satterfield Dr	NCL Emporia	1200	F	95%	1%	1%	1%	3%	0%	F	0.0998	F	0.7057	1300	F	2008
+781631	 109	00005	     	109-5	West End Dr	109	City of Emporia	109	City of Emporia	0.42	US 58	109-2 Purdy Rd	390	G	99%	0%	0%	0%	0%	0%	C				420	G	2008
+626013	 109	03800	     	109-3800	Greenville Ave	109	City of Emporia	109	City of Emporia	0.17	South Main St	Tillar St	390	F	98%	1%	1%	0%	0%	0%	C	0.0913	F	0.6098	430	F	2008
+626021	 109	03801	     	109-3801	Low Ground Rd	109	City of Emporia	109	City of Emporia	0.43	SCL Emporia	South Main St	2500	F	98%	1%	1%	0%	0%	0%	C	0.0938	F	0.0000	2700	F	2008
+626019	 109	03801	     	109-3801	Laurel St	109	City of Emporia	109	City of Emporia	0.43	South Main St	Temple Ave	780	F	98%	1%	1%	0%	0%	0%	C	0.1063	F	0.5393	850	F	2008
+626009	 109	03802	     	109-3802	Brunswick Ave	109	City of Emporia	109	City of Emporia	0.20	WCL Emporia	Brunswick Ave Ext.	3600	F	98%	0%	1%	0%	0%	0%	F	0.0906	F	0.6452	3900	F	2008
+626008	 109	03802	     	109-3802	Brunswick Ave	109	City of Emporia	109	City of Emporia	0.66	Brunswick Ave Ext.	South Main St	4400	F	97%	1%	1%	1%	1%	0%	C	0.0876	F	0.6418	4800	F	2008
+626018	 109	03802	     	109-3802	Hicksford Ave	109	City of Emporia	109	City of Emporia	0.46	South Main St	Lee St	2800	F	98%	0%	1%	0%	0%	0%	C	0.1085	F	0.6006	3100	F	2008
+626020	 109	03802	     	109-3802	Lee St	109	City of Emporia	109	City of Emporia	0.37	Hicksford Ave	Southampton St	1800	F	98%	1%	1%	0%	0%	0%	C	0.0978	F	0.5779	1900	F	2008
+626036	 109	03804	     	109-3804	Valley St	109	City of Emporia	109	City of Emporia	0.14	North Main St	Halifax St	880	F	98%	0%	1%	0%	0%	0%	F	0.1087	F	0.5207	960	F	2008
+626033	 109	03804	     	109-3804	Southampton St	109	City of Emporia	109	City of Emporia	0.29	Halifax St	Lee St	1000	F	98%	0%	1%	0%	0%	0%	C	0.0993	F	0.5000	1100	F	2008
+626034	 109	03804	     	109-3804	Southampton St	109	City of Emporia	109	City of Emporia	0.18	Lee St	East Atlantic St	1700	F	98%	0%	1%	0%	0%	0%	F	0.0993	F	0.5714	1800	F	2008
+626010	 109	03805	     	109-3805	Davis St	109	City of Emporia	109	City of Emporia	1.32	East Atlantic St	ECL Emporia	1300	F	96%	1%	0%	1%	2%	0%	C	0.1133	F	0.6146	1400	F	2008
+626014	 109	03807	     	109-3807	Halifax St	109	City of Emporia	109	City of Emporia	0.15	Southampton St	East Atlantic St	2100	F	98%	0%	1%	0%	0%	0%	F	0.1120	F	0.7313	2300	F	2008
+626015	 109	03807	     	109-3807	Halifax St	109	City of Emporia	109	City of Emporia	0.34	East Atlantic St	Ruffin St	2200	F	98%	0%	1%	0%	0%	0%	C	0.0817	F	0.6188	2400	F	2008
+626016	 109	03807	     	109-3807	Halifax St	109	City of Emporia	109	City of Emporia	0.30	Ruffin St	US 58	1600	F	100%	0%	0%	0%	0%	0%	C	0.0920	F	0.5566	1700	F	2008
+626017	 109	03807	     	109-3807	Halifax St	109	City of Emporia	109	City of Emporia	0.53	US 58	North Main St	1100	F	98%	1%	1%	0%	0%	0%	C	0.1148	F	0.5102	1200	F	2008
+788274	 109	03808	     	109-3808	Reese St	109	City of Emporia	109	City of Emporia	0.12	109-3804 Southampton St	Bus US 58	690	F	98%	1%	1%	0%	0%	0%	C	0.1131	F	0.7263	750	F	2008
+787398	 109	03808	     	109-3808	Reese St	109	City of Emporia	109	City of Emporia	0.83	Bus US 58	US 58 Bypass	1700	F	98%	0%	1%	0%	0%	0%	C	0.0966	F	0.6552	1900	F	2008
+781632	 109	03808	     	109-3808	Reese St	109	City of Emporia	109	City of Emporia	0.84	US 58 Bypass	Sunnyside Rd	950	F	92%	1%	2%	2%	4%	0%	C	0.1162	F	0.7266	1000	F	2008
+626007	 109	03809	     	109-3809	Belfield Dr	109	City of Emporia	109	City of Emporia	0.17	West Atlantic St	Weaver Ave	2200	F	97%	0%	1%	2%	0%	0%	C	0.1026	F	0.5815	2300	F	2008
+626040	 109	03810	     	109-3810	Weaver Ave	109	City of Emporia	109	City of Emporia	0.21	Belfield Dr	North Main St	2500	F	98%	0%	1%	1%	0%	0%	C	0.1035	F	0.0000	2700	F	2008
+783015	 109	03815	     	109-3815	W Atlantic Ave	109	City of Emporia	109	City of Emporia	0.24	Dead End near Florida Ave	Bus US 58	720	F	97%	0%	1%	2%	0%	0%	F				780	F	2008
+526001	 109	00000	     	109-0	Baker St	109	City of Emporia	109	City of Emporia	0.00	North Main St	Halifax St	650	G							X				710	G	2008
+526002	 109	00000	     	109-0	Briggs St	109	City of Emporia	109	City of Emporia	0.00	Clay St	Tillar St	1300	F							X	0.1022	F	0.0000	1400	F	2008
+526003	 109	00000	     	109-0	Clay St	109	City of Emporia	109	City of Emporia	0.00	Low Ground Rd	South Main St	2200	F							X	0.0942	F	0.0000	2400	F	2008
+526004	 109	00000	     	109-0	Jefferson St	109	City of Emporia	109	City of Emporia	0.00	South Main St	West Ave	1400	F							X	0.0884	F	0.0000	1500	F	2008
+526009	 109	00000	     	109-0	Ruffin St	109	City of Emporia	109	City of Emporia	0.00	Halifax St	North Main St	1100	F							X	0.1079	F	0.0000	1200	F	2008
+526005	 109	00000	     	109-0	Temple Ave	109	City of Emporia	109	City of Emporia	0.00	Laurel St	Jefferson St	500	F							X	0.1348	F	0.0000	540	F	2008
+526006	 109	00000	     	109-0	Tillar St	109	City of Emporia	109	City of Emporia	0.00	Briggs St	Hicksford Ave	1400	F							X	0.1140	F	0.0000	1600	F	2008
+526007	 109	00000	     	109-0	West Ave	109	City of Emporia	109	City of Emporia	0.00	Jefferson St	Brunswick Ave	310	F							X	0.1081	F	0.5238	340	F	2008
+526008	 109	00000	     	109-0	West End Blvd	109	City of Emporia	109	City of Emporia	0.00	North Main St	Gay St	740	F							X	0.0948	F	0.0000	800	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

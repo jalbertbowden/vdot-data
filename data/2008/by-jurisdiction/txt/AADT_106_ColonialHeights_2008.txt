@@ -1,0 +1,76 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Colonial Heights																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+620314	  US	00001	     	US 1, US 301	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.53	NCL Petersburg	Dupuy Ave	11000	G	99%	0%	0%	0%	0%	0%	F	0.0871	F	0.5844	12000	G	2008
+620310	  US	00001	     	US 1, US 301	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.40	Dupuy Ave	Westover Ave	23000	G	99%	0%	0%	0%	0%	0%	F	0.0843	F	0.5072	24000	G	2008
+140113	  US	00001	     	US 1, US 301	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.33	Westover Ave	Branders Bridge Rd	24000	A	99%	0%	0%	0%	0%	0%	C	0.0999	A	0.5943	25000	A	2008
+620321	  US	00001	     	US 1, US 301	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.26	Branders Bridge Rd	Temple Ave	24000	G	99%	0%	0%	0%	0%	0%	F	0.0836	F	0.5235	26000	G	2008
+620303	  US	00001	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.74	Temple Ave	Lakeview Ave	25000	G	99%	0%	0%	0%	0%	0%	F	0.0913	F	0.5185	27000	G	2008
+620320	  US	00001	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.17	Lakeview Ave	Ellerslie Ave	24000	G	99%	0%	0%	0%	0%	0%	F	0.0842	F	0.5121	26000	G	2008
+620301	  US	00001	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.19	Ellerslie Ave	Sherwood Ave	29000	G	99%	0%	0%	0%	0%	0%	F	0.0913	F	0.5020	31000	G	2008
+620319	  US	00001	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.62	Sherwood Ave	NCL Colonial Heights	27000	G	99%	0%	0%	0%	0%	0%	F	0.0934	F	0.5240	29000	G	2008
+040294	  IS	00095	N    	I-95 NB	 	106	City of Colonial Heights	020	Chesterfield County	0.21	NCL Petersburg	Southpark Blvd	53000	G	90%	1%	1%	1%	8%	0%	F				53000	G	2008		100000	G	90%	1%	1%	1%	8%	0%	F				100000	G
+040295	  IS	00095	N    	I-95 NB	 	106	City of Colonial Heights	020	Chesterfield County	0.98	Southpark Blvd	SR 144 Temple Ave	45000	F	90%	1%	1%	1%	8%	0%	F	0.0787	F	1.0000	43000	F	2008		89000	F	90%	1%	1%	1%	8%	0%	F	0.0762	F	0.5247	84000	F
+040297	  IS	00095	N    	I-95 NB	 	106	City of Colonial Heights	020	Chesterfield County	2.38	SR 144 Temple Ave	NCL Colonial Heights	46000	A	90%	1%	1%	1%	8%	0%	C	0.0905	A	1.0000	46000	A	2008		92000	A	90%	1%	1%	1%	8%	0%	C				92000	A
+789282	  IS	00095	N053A	I-95 NB Exit 053A	Ramp	106	City of Colonial Heights	020	Chesterfield County	0.21	I-95 North	106-2 Southpark Blvd	0	?							X
+140025	  IS	00095	S    	I-95 SB	 	106	City of Colonial Heights	020	Chesterfield County	0.37	NCL Petersburg	Southpark Blvd	47000	G	89%	1%	1%	1%	8%	0%	F				47000	G	2008		100000	G	90%	1%	1%	1%	8%	0%	F				100000	G
+140023	  IS	00095	S    	I-95 SB	 	106	City of Colonial Heights	020	Chesterfield County	1.05	Southpark Blvd	SR 144 Temple Ave	43000	F	89%	1%	1%	1%	8%	0%	F	0.0736	F	1.0000	40000	F	2008		89000	F	90%	1%	1%	1%	8%	0%	F	0.0762	F	0.5247	84000	F
+140050	  IS	00095	S    	I-95 SB	 	106	City of Colonial Heights	020	Chesterfield County	2.15	SR 144 Temple Ave	NCL Colonial Heights	46000	A	89%	1%	1%	1%	8%	0%	C	0.0952	A	1.0000	46000	A	2008		92000	A	90%	1%	1%	1%	8%	0%	C				92000	A
+620333	  SR	00144	     	VA 144	Temple Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.93	ECL Colonial Heights	Conduit Rd	30000	G	98%	0%	0%	1%	1%	0%	F	0.0918	F	0.5694	30000	G	2008
+620315	  SR	00144	     	VA 144	Temple Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.37	Conduit Rd	I-95	32000	F	98%	0%	0%	1%	1%	0%	C	0.0838	F	0.0000	33000	F	2008
+620305	  SR	00144	     	VA 144	Temple Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.50	I-95	US 1 Boulevard	29000	G	98%	0%	0%	1%	1%	0%	F	0.0850	F	0.5417	30000	G	2008
+620303	  SR	00144	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.74	US 1 Boulevard	Lakeview Ave	25000	G	99%	0%	0%	0%	0%	0%	F	0.0913	F	0.5185	27000	G	2008	
+620320	  SR	00144	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.17	Lakeview Ave	Ellerslie Ave	24000	G	99%	0%	0%	0%	0%	0%	F	0.0842	F	0.5121	26000	G	2008	
+620301	  SR	00144	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.19	Ellerslie Ave	Sherwood Ave	29000	G	99%	0%	0%	0%	0%	0%	F	0.0913	F	0.5020	31000	G	2008	
+620319	  SR	00144	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.62	Sherwood Ave	NCL Colonial Heights	27000	G	99%	0%	0%	0%	0%	0%	F	0.0934	F	0.5240	29000	G	2008	
+620314	  US	00301	     	US 1, US 301	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.53	NCL Petersburg	Dupuy Ave	11000	G	99%	0%	0%	0%	0%	0%	F	0.0871	F	0.5844	12000	G	2008	
+620310	  US	00301	     	US 1, US 301	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.40	Dupuy Ave	Lynchburg Ave	23000	G	99%	0%	0%	0%	0%	0%	F	0.0843	F	0.5072	24000	G	2008	
+140113	  US	00301	     	US 1, US 301	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.33	Westover Ave	Branders Bridge Rd	24000	A	99%	0%	0%	0%	0%	0%	C	0.0999	A	0.5943	25000	A	2008	
+620321	  US	00301	     	US 1, US 301	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.26	Branders Bridge Rd	Temple Ave	24000	G	99%	0%	0%	0%	0%	0%	F	0.0836	F	0.5235	26000	G	2008	
+620303	  US	00301	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.74	Temple Ave	Lakeview Ave	25000	G	99%	0%	0%	0%	0%	0%	F	0.0913	F	0.5185	27000	G	2008	
+620320	  US	00301	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.17	Lakeview Ave	Ellerslie Ave	24000	G	99%	0%	0%	0%	0%	0%	F	0.0842	F	0.5121	26000	G	2008	
+620301	  US	00301	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.19	Ellerslie Ave	Sherwood Ave	29000	G	99%	0%	0%	0%	0%	0%	F	0.0913	F	0.5020	31000	G	2008	
+620319	  US	00301	     	US 1, US 301, VA 144	Boulevard	106	City of Colonial Heights	106	City of Colonial Heights	0.62	Sherwood Ave	NCL Colonial Heights	27000	G	99%	0%	0%	0%	0%	0%	F	0.0934	F	0.5240	29000	G	2008	
+620002	 106	00001	     	106-1	C H Dimmock Pkwy	106	City of Colonial Heights	106	City of Colonial Heights	0.69	Southpark Blvd	Temple Ave	13000	G	99%	0%	0%	0%	0%	0%	F	0.0863	F	0.5002	14000	G	2008
+620600	 106	00002	     	106-2	Southpark Blvd	106	City of Colonial Heights	106	City of Colonial Heights	0.31	NB Ramp To I-95	South Ave	22000	G	99%	0%	0%	0%	0%	0%	F	0.1004	F	0.5392	23000	G	2008
+620001	 106	00002	     	106-2	Southpark Blvd	106	City of Colonial Heights	106	City of Colonial Heights	0.25	South Ave	C H Dimmock Pkwy	26000	G	99%	0%	0%	0%	0%	0%	F	0.0960	F	0.5145	28000	G	2008
+620601	 106	00002	     	106-2	Southpark Blvd	106	City of Colonial Heights	106	City of Colonial Heights	0.05	Southpark Circle	Temple Ave	9100	G	99%	0%	0%	0%	0%	0%	F	0.1012	F	0.5053	9700	G	2008
+620327	 106	00004	     	106-4	Sherwood Dr	106	City of Colonial Heights	106	City of Colonial Heights	0.25	Forestview Dr	US 1 Boulevard	4200	G	99%	0%	0%	0%	0%	0%	C	0.0918	F	0.5857	4500	G	2008
+620311	 106	09020	     	106-9020	Dupuy Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.42	WCL Colonial Heights	US 1 Boulevard	13000	G	99%	0%	0%	0%	0%	0%	C	0.0824	F	0.5137	15000	G	2008
+620341	 106	09024	     	106-9024	Westover Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.66	US 1 Boulevard	Conduit Rd	7300	G	100%	0%	0%	0%	0%	0%	C	0.0906	F	0.5581	7900	G	2008
+620322	 106	09026	     	106-9026	Branders Bridge Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.30	WCL Colonial Heights	US 1 Boulevard	5800	G	99%	0%	1%	0%	0%	0%	C	0.0899	F	0.5663	6300	G	2008
+620316	 106	09030	     	106-9030	Lakeview Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.85	WCL Colonial Heights	US 1 Boulevard	8500	G	99%	0%	1%	0%	0%	0%	C	0.0952	F	0.6612	9100	G	2008
+620302	 106	09032	     	106-9032	E Ellerslie Ave	106	City of Colonial Heights	106	City of Colonial Heights	1.15	US 1 Boulevard	Conduit Rd	18000	G	99%	0%	1%	0%	0%	0%	C	0.0918	F	0.5167	19000	G	2008
+620317	 106	09035	     	106-9035	Washington Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.37	US 1 Boulevard	Stuart Ave	560	G	97%	1%	2%	0%	0%	0%	C	0.0922	F	0.5283	610	G	2008
+620335	 106	09035	     	106-9035	Stuart Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.10	Washington Ave	Bristol Ave	1100	G	97%	1%	2%	0%	0%	0%	F	0.1201	F	0.6846	1200	G	2008
+620602	 106	09035	     	106-9035	Conduit Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.05	Bristol Ave	Ivey Ave	1800	G	97%	1%	2%	0%	0%	0%	F	0.1020	F	0.5670	2000	G	2008
+620324	 106	09035	     	106-9035	Conduit Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.24	Ivey Ave	Lynchburg Ave	2600	G	97%	1%	2%	0%	0%	0%	F	0.1130	F	0.6292	2800	G	2008
+620334	 106	09035	     	106-9035	Conduit Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.22	Lynchburg Ave	Westover Ave	6000	G	98%	1%	0%	0%	0%	0%	C	0.1045	F	0.5347	6400	G	2008
+620325	 106	09035	     	106-9035	Conduit Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.47	Westover Ave	Temple Ave	17000	F	98%	1%	0%	0%	0%	0%	C	0.0911	F	0.0000	18000	F	2008
+620306	 106	09035	     	106-9035	Conduit Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.54	Temple Ave	E Ellerslie Ave	23000	G	97%	1%	2%	0%	0%	0%	F	0.0939	F	0.6089	25000	G	2008
+620304	 106	09035	     	106-9035	Conduit Rd	106	City of Colonial Heights	106	City of Colonial Heights	2.02	E Ellerslie Ave	Waterfront Dr	6400	G	99%	0%	0%	0%	0%	0%	C	0.0943	F	0.5315	6900	G	2008
+783012	 106	09035	     	106-9035	Dunston Point Pkwy	106	City of Colonial Heights	106	City of Colonial Heights	0.28	Waterfront Dr	Dead End	730	G	99%	0%	0%	0%	0%	0%	F	0.1068	F	0.6095	780	G	2008
+520011	 106	09037	     	106-9037	Hamilton Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.67	US 1 Boulevard	E Westover Ave	520	G	98%	0%	1%	0%	0%	0%	C	0.1152	F	0.5500	560	G	2008
+520012	 106	09037	     	106-9037	Hamilton Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.55	Westover Ave	Temple Ave	2100	G	99%	0%	0%	0%	0%	0%	F	0.0938	F	0.5849	2300	G	2008
+620318	 106	09066	     	106-9066	Lynchburg Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.65	US 1 Boulevard	Conduit Rd	2100	G	99%	0%	0%	0%	0%	0%	C	0.1154	F	0.5037	2300	G	2008
+520610	 106	00000	     	106-0	Covington Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Cedarwood Ave	Appomatox Dr	590	G							X	0.1008	F	0.5210	590	G	2008
+520606	 106	00000	     	106-0	Elmwood Dr	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Greenwood Ave	Cedarwood Ave	470	G							X	0.1075	F	0.6863	470	G	2008
+520613	 106	00000	     	106-0	Forestview Dr	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Sherwood Ave	Brookhill Ave	320	G							X	0.0943	F	0.7049	320	G	2008
+520002	 106	00000	     	106-0	James Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Snead Ave	Hamilton Ave	920	G							X	0.1128	F	0.6364	990	G	2008
+520004	 106	00000	     	106-0	Lafayette Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.00	US 1	Danville Ave	390	G							X	0.1170	F	0.0000	420	G	2008
+520608	 106	00000	     	106-0	Longhorn Avenue	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Angus Lane	Honeycreek Ct	850	G							X	0.0991	F	0.7235	850	G	2008
+520607	 106	00000	     	106-0	Maple Avenue	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Meridian Ave	Cottage Grove Ave	1200	G							X	0.0911	F	0.5586	1200	G	2008
+520006	 106	00000	     	106-0	Ramp	106	City of Colonial Heights	106	City of Colonial Heights	0.00	SR 144 Temple Ave	I-95 North	6000	F	96%	0%	1%	2%	2%	0%	C	0.0912	F	1.0000	6000	F	2008
+520003	 106	00000	     	106-0	Richmond Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.00	US 1	Hill Pl.	670	G							X	0.1146	F	0.0000	720	G	2008
+520609	 106	00000	     	106-0	Riverview Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Roslyn Ave	Pinehurst Ave	160	G							X	0.1420	F	0.6889	160	G	2008
+520001	 106	00000	     	106-0	Snead Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Walnut Ave	MacArther Ave	1400	G							X	0.1142	F	0.0000	1500	G	2008
+520611	 106	00000	     	106-0	Swift Creek Lane	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Flintlock Dr	Biltmore Dr	640	G							X	0.0979	F	0.5520	640	G	2008
+520005	 106	00000	     	106-0	W Rosylyn Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Conduit Rd	Washington Ave	630	G							X	0.1078	F	0.0000	680	G	2008
+520605	 106	00000	     	106-0	Walnut Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Hamilton Ave	Elk Ave	230	G							X	0.1107	F	0.0000	250	G	2008
+520612	 106	00000	     	106-0	White Bank Rd	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Moose Ave	Dunston Point Pkwy	620	G							X	0.2544	F	0.8527	620	G	2008
+520014	 106	00000	     	106-0	Wrights Ave	106	City of Colonial Heights	106	City of Colonial Heights	0.00	Meridian Ave	Battery Pl	530	G							X	0.1070	F	0.0000	570	G	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

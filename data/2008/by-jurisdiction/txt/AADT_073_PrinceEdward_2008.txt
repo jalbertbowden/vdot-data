@@ -1,0 +1,443 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Prince Edward Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030259	  US	00015	     	US 15	Farmville Rd	073	Prince Edward County	073	Prince Edward County	4.49	Charlotte County Line	73-633 Mt Pleasant Rd	3300	F	90%	1%	1%	2%	6%	0%	C	0.0955	F	0.0000	3500	F	2008
+030411	  US	00015	     	US 15	Farmville Rd	073	Prince Edward County	073	Prince Edward County	7.65	73-633 Mt Pleasant Rd	SR 133 Kingsville Rd	4500	F	90%	1%	1%	2%	6%	0%	F	0.0913	F	0.7188	4800	F	2008
+030257	  US	00015	     	US 15	Farmville Rd	073	Prince Edward County	073	Prince Edward County	2.83	SR 133 Kingsville Rd	US 460, BUS US 15 South of Farmville	9100	F	95%	1%	1%	1%	2%	0%	C	0.0963	F	0.0000	9700	F	2008
+030410	  US	00015	     	US 15, US 460	 	073	Prince Edward County	073	Prince Edward County	4.56	US 460, BUS US 15 South of Farmville	US 460 West of Farmville	9200	A	87%	1%	1%	1%	10%	1%	C	0.1061	A	0.0000	8800	A	2008
+030409	  US	00015	     	US 15, Bus US 460	Sheppards Rd	073	Prince Edward County	073	Prince Edward County	0.24	US 460 West of Farmville	BUS US 15 Northwest of Farmville	5200	F	87%	1%	1%	1%	10%	1%	F	0.0890	F	0.0000	5600	F	2008
+030118	  US	00015	     	US 15	 	073	Prince Edward County	073	Prince Edward County	1.77	BUS US 15 Northwest of Farmville	Buckingham County Line	4400	F	92%	0%	1%	1%	5%	0%	C	0.0992	F	0.0000	4700	F	2008
+030413	C5US	00015	     	Bus US 15	 	073	Prince Edward County	073	Prince Edward County	0.11	US 15 Sheppards Rd	SCL Farmville	18000	N	98%	0%	1%	1%	1%	0%	N	0.0897	N	0.0000	20000	N	2008
+030476	C5US	00015	     	Bus US 15	S Main St	144	Town of Farmville	144	Town of Farmville	0.52	SCL Farmville	Belmont Circle	18000	F	98%	0%	1%	1%	1%	0%	F	0.0897	F	0.0000	20000	F	2008
+629005	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.62	Belmont Circle	Milnwood Rd	20000	F	98%	0%	1%	1%	1%	0%	C				22000	F	2008
+629006	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.13	Milnwood Rd	Gilliam St	17000	F	97%	0%	1%	1%	1%	0%	F				19000	F	2008
+629007	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.30	Gilliam St	Griffin Blvd	16000	F	97%	0%	1%	1%	1%	0%	F				18000	F	2008
+629008	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.16	Griffin Blvd	Gross St	11000	F	97%	0%	1%	1%	1%	0%	F				12000	F	2008
+629009	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.41	Gross St	Putney St	10000	F	97%	0%	1%	1%	1%	0%	F				11000	F	2008
+629010	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.21	Putney St	High Street	8700	F	97%	0%	1%	1%	1%	0%	C	0.0832	F	0.0000	9500	F	2008
+629011	C5US	00015	     	Bus US 15	High St	144	Town of Farmville	144	Town of Farmville	0.07	Main Street	Venable Street	4700	F	97%	0%	1%	1%	1%	0%	F	0.0851	F	0.5726	5100	F	2008
+629012	C5US	00015	     	Bus US 15	High St	144	Town of Farmville	144	Town of Farmville	0.29	Venable Street	Oak Street	6900	F	97%	0%	1%	0%	1%	0%	F	0.0933	F	0.5043	7500	F	2008
+629013	C5US	00015	     	Bus US 15	Oak St	144	Town of Farmville	144	Town of Farmville	0.28	High St	Third St	6100	F	97%	0%	1%	0%	1%	0%	F	0.0831	F	0.5746	6600	F	2008
+629014	C5US	00015	     	Bus US 15, Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	1.29	Oak Street	Industrial Park Rd	9300	F	97%	0%	1%	0%	1%	0%	C				9900	F	2008
+629015	C5US	00015	     	Bus US 15, Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	0.94	Industrial Park Rd	73-695, WCL Farmville	7400	F	97%	0%	1%	1%	1%	0%	F	0.0843	F	0.5579	7800	F	2008
+030412	C5US	00015	     	Bus US 15, Bus US 460	 	073	Prince Edward County	073	Prince Edward County	1.22	73-695, WCL Farmville	US 15 Sheppards Rd	6400	A	97%	0%	1%	1%	1%	0%	C	0.1042	A	0.6552	6800	A	2008
+629026	  SR	00045	     	VA 45	Main St	144	Town of Farmville	144	Town of Farmville	0.10	BUS US 15; High Street	BUS US 460; Third St	7700	F	97%	1%	1%	1%	1%	0%	F	0.0837	F	0.0000	8400	F	2008
+629027	  SR	00045	     	VA 45	Main St	144	Town of Farmville	144	Town of Farmville	0.40	BUS US 460; Third St	River Rd	9700	F	97%	1%	1%	1%	1%	0%	C	0.0940	F	0.0000	11000	F	2008
+629028	  SR	00045	     	VA 45	Main St	144	Town of Farmville	144	Town of Farmville	0.18	River Rd	Osborne Rd	7300	F	97%	1%	1%	1%	1%	0%	F	0.0817	F	0.0000	8000	F	2008
+629029	  SR	00045	     	VA 45	Main  St	144	Town of Farmville	144	Town of Farmville	0.73	Osborne Rd	NCL Farmville	6100	F	96%	0%	1%	1%	1%	0%	C	0.0938	F	0.0000	6700	F	2008
+030120	  SR	00133	     	VA 133	 	073	Prince Edward County	073	Prince Edward County	1.04	73-692 W, Kingsville Rd	73-692 West of Kingsville	2200	F	97%	0%	1%	1%	1%	0%	C	0.0926	F	0.7215	2300	F	2008
+030204	  SR	00133	     	VA 133	 	073	Prince Edward County	073	Prince Edward County	0.15	73-692 West of Kingsville	US 15 Kingsville	3300	F	97%	0%	1%	1%	1%	0%	F	0.0940	F	0.6050	3500	F	2008
+030180	  SR	00307	     	VA 307	 	073	Prince Edward County	073	Prince Edward County	2.83	US 460	Nottoway County Line	5200	A	90%	1%	1%	1%	7%	1%	C	0.1118	A	0.5257	5000	A	2008
+040600	  US	00360	     	US 360	Kings Hwy	073	Prince Edward County	073	Prince Edward County	2.23	Charlotte County Line	55-701	5300	F	84%	1%	1%	1%	13%	1%	F	0.0703	F	0.0000	5200	F	2008
+030172	  US	00360	     	US 360	Kings Hwy	073	Prince Edward County	073	Prince Edward County	3.13	55-701	73-728 Moores Ordinary Rd	5500	F	84%	1%	1%	1%	13%	1%	F	0.0663	F	0.0000	5300	F	2008
+040598	  US	00360	     	US 360	Kings Hwy	073	Prince Edward County	073	Prince Edward County	0.26	73-728 Moores Ordinary Rd	73-630 Free State Rd	5300	F	84%	1%	1%	1%	13%	1%	F	0.0675	F	0.0000	5200	F	2008
+030414	  US	00360	     	US 360	Kings Hwy	073	Prince Edward County	073	Prince Edward County	3.09	73-630 Free State Rd	73-696 Green Bay Rd	5500	F	84%	1%	1%	1%	13%	1%	F	0.0659	F	0.0000	5300	F	2008
+030182	  US	00360	     	US 360	 	073	Prince Edward County	073	Prince Edward County	5.56	73-696 Green Bay Rd	Nottoway County Line	4600	A	84%	1%	1%	1%	13%	1%	C	0.1053	A	0.0000	4400	A	2008
+030419	  US	00460	     	US 460	 	073	Prince Edward County	073	Prince Edward County	1.07	Appomattox County Line	Bus US 460	6800	F	87%	1%	1%	1%	11%	0%	F	0.0755	F	0.0000	6900	F	2008
+030210	  US	00460	     	US 460	 	073	Prince Edward County	073	Prince Edward County	5.83	Bus US 460	73-626	7800	F	87%	1%	1%	1%	11%	0%	F	0.0687	F	0.0000	7900	F	2008
+030208	  US	00460	     	US 460	 	073	Prince Edward County	073	Prince Edward County	5.58	73-626	US 15 West of Farmville	9400	F	87%	1%	1%	1%	11%	0%	F	0.0687	F	0.0000	9400	F	2008
+030410	  US	00460	     	US 15, US 460	 	073	Prince Edward County	073	Prince Edward County	4.56	US 15 West of Farmville	US 15 South of Farmville	9200	A	87%	1%	1%	1%	10%	1%	C	0.1061	A	0.0000	8800	A	2008	
+030418	  US	00460	     	US 460	 	073	Prince Edward County	073	Prince Edward County	2.75	US 15 South of Farmville	Bus US 460 East of Farmville	8500	F	87%	1%	1%	1%	11%	0%	F	0.0721	F	0.0000	8600	F	2008
+030417	  US	00460	     	US 460	 	073	Prince Edward County	073	Prince Edward County	4.28	Bus US 460 East of Farmville	SR 307 Rice	13000	F	87%	1%	1%	1%	11%	0%	F	0.0851	F	0.0000	14000	F	2008
+030184	  US	00460	     	US 460	 	073	Prince Edward County	073	Prince Edward County	4.44	SR 307 Rice	Nottoway County Line	7100	F	87%	1%	1%	1%	11%	0%	F	0.0813	F	0.0000	7200	F	2008
+030420	CAUS	00460	     	Bus US 460	 	277	Town of Pamplin City	073	Prince Edward County	0.21	Appomattox County Line	ECL Pamplin City	1400	F	94%	0%	1%	1%	4%	0%	C	0.0895	F	0.5441	1500	F	2008
+030426	CAUS	00460	     	Bus US 460	 	073	Prince Edward County	073	Prince Edward County	1.43	ECL Pamplin City	US 460 East of Pamplin	1400	N	94%	0%	1%	1%	4%	0%	N	0.0895	N	0.5441	1500	N	2008
+030409	CDUS	00460	     	US 15, Bus US 460	Sheppards Rd	073	Prince Edward County	073	Prince Edward County	0.24	US 460 S	US 15; Bus US 15	5200	F	87%	1%	1%	1%	10%	1%	F	0.0890	F	0.0000	5600	F	2008	
+030412	CDUS	00460	     	Bus US 15, Bus US 460	 	073	Prince Edward County	073	Prince Edward County	1.22	US 15; Bus US 15	73-695	6400	A	97%	0%	1%	1%	1%	0%	C	0.1042	A	0.6552	6800	A	2008	
+629015	CDUS	00460	     	Bus US 15, Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	0.94	73-695, WCL Farmville	Industrial Park Rd	7400	F	97%	0%	1%	1%	1%	0%	F	0.0843	F	0.5579	7800	F	2008	
+629014	CDUS	00460	     	Bus US 15, Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	1.29	Industrial Park Rd	RT 15 BUS	9300	F	97%	0%	1%	0%	1%	0%	C				9900	F	2008	
+629001	CDUS	00460	     	Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	0.67	BUS US 15; Oak St	SR 45; Main St	6500	F	97%	0%	1%	1%	1%	0%	F				7100	F	2008
+629002	CDUS	00460	     	Bus US 460	3rd St	144	Town of Farmville	144	Town of Farmville	0.17	SR 45; Main St	Virginia St	11000	F	94%	1%	3%	1%	1%	0%	C				12000	F	2008
+629003	CDUS	00460	     	Bus US 460	3rd St	144	Town of Farmville	144	Town of Farmville	1.22	Virginia St	Milnwood Rd	8800	F	94%	1%	3%	1%	1%	0%	F				9600	F	2008
+629004	CDUS	00460	     	Bus US 460	3rd St	144	Town of Farmville	144	Town of Farmville	0.89	Milnwood Rd	ECL Farmville	7100	F	97%	0%	1%	1%	1%	0%	F				7800	F	2008
+130042	CDUS	00460	     	Bus US 460	 	073	Prince Edward County	073	Prince Edward County	0.49	ECL Farmville	US 460	7200	F	97%	0%	1%	1%	1%	0%	C	0.0922	F	0.0000	7700	F	2008
+780593	  FR	00646	     	FR 646	St Johns Rd	073	Prince Edward County	073	Prince Edward County	0.82	Dead End	73-658 Mountainview Rd	60	R							X						05/14/2008
+780731	  FR	00795	     	FR 795	Snead Rd	073	Prince Edward County	073	Prince Edward County	1.22	Dead End	73-675 Dry Bridge Rd	20	R							X						06/02/2008
+780732	  FR	00796	     	FR 796	Dry Ridge	073	Prince Edward County	073	Prince Edward County	0.30	Dead End	FR-795 Snead Rd	2	R							X						06/02/2008
+780733	  FR	00797	     	FR 797	Whittakers Lake Rd	073	Prince Edward County	073	Prince Edward County	0.19	73-643	Dead End	60	R							X						06/02/2008
+780819	  FR	00895	     	FR 895	Clark St	073	Prince Edward County	073	Prince Edward County	0.39	Dead End	Bus US 15 Williams St	230	R							X						05/27/2008
+785072	  19	00691	     	19-691	Tower Rd	073	Prince Edward County	019	Charlotte County	0.10	Charlotte County Line	SR 47 Thomas Jefferson Hwy	120	N							X				0	N	05/07/2003
+406255	  73	00600	     	73-600	Rice's Depot Rd	073	Prince Edward County	073	Prince Edward County	1.05	US 460 West Prince Edward Hwy	US 460 East Prince Edward Hwy	540	F	95%	0%	1%	3%	0%	0%	C	0.0879	F	0.5000	580	F	2008
+406256	  73	00600	     	73-600	 	073	Prince Edward County	073	Prince Edward County	0.14	US 460 EAST	73-619 Lockett Rd	1100	F	98%	0%	1%	0%	1%	0%	C	0.0971	F	0.7143	1200	F	2008
+760287	  73	00600	     	73-600	Gully Tavern Rd	073	Prince Edward County	073	Prince Edward County	4.03	73-619 Lockett Rd	73-617 Saylers Creek Rd	420	R							X						05/14/2008
+760288	  73	00601	     	73-601	Aspen Hill Rd	073	Prince Edward County	073	Prince Edward County	2.10	US 460	73-619 Lockett Rd	60	R							X						05/14/2008
+760289	  73	00602	     	73-602	Hubbard Rd	073	Prince Edward County	073	Prince Edward County	2.72	US 460	73-617 Saylers Creek Rd	160	R							X						05/19/2008
+760290	  73	00603	     	73-603	Bradshaw Rd	073	Prince Edward County	073	Prince Edward County	0.10	US 460	Dead End	60	R							X						05/14/2008
+406257	  73	00604	     	73-604	Abilene Rd	073	Prince Edward County	073	Prince Edward County	2.73	73-671	73-666 W, Douglas Church Rd	880	F	97%	0%	1%	1%	1%	0%	F	0.1049	F	0.6453	950	F	2008
+406258	  73	00604	     	73-604	Abilene Rd	073	Prince Edward County	073	Prince Edward County	1.87	73-666 W, Douglas Church Rd	73-686 Allen Farm Rd	1200	F	97%	0%	1%	1%	1%	0%	C	0.1092	F	0.7836	1200	F	2008
+406259	  73	00604	     	73-604	Abilene Rd	073	Prince Edward County	073	Prince Edward County	2.96	73-686 Allen Farm Rd	73-665 Abilene Rd	1700	F	97%	0%	1%	1%	1%	0%	F	0.0986	F	0.6356	1800	F	2008
+760291	  73	00605	     	73-605	Gates Bass Rd	073	Prince Edward County	073	Prince Edward County	1.00	73-696 Green Bay Rd	Dead End at Sandy River Reservoir	150	R							X						05/14/2008
+787499	  73	00605	     	73-605	Lakeview Rd	073	Prince Edward County	073	Prince Edward County	0.99	Dead End at Sandy River Reservoir	73-613 Miller Lake Rd	40	R							X						05/14/2008
+787498	  73	00605	     	73-605	Fairlea Rd	073	Prince Edward County	073	Prince Edward County	1.57	73-613 Miller Lake Rd	73-600 Rice's Depot Rd	280	R							X						05/14/2008
+760292	  73	00606	     	73-606	Old Metcalf Rd	073	Prince Edward County	073	Prince Edward County	1.10	73-612 Sandy River Rd	Dead End at Sandy River Reservoir	20	R							X						05/14/2008
+787500	  73	00606	     	73-606	Piney Grove Rd	073	Prince Edward County	073	Prince Edward County	1.10	Dead End at Sandy River Reservoir	73-613 Miller Lake Rd; Quail Crossing Rd	40	R							X						05/14/2008
+406260	  73	00606	     	73-606	Piney Grove Rd	073	Prince Edward County	073	Prince Edward County	2.84	73-613 Miller Lake Rd	US 460 Prince Edward Hwy	240	F	96%	2%	1%	0%	0%	0%	C	0.1260	F	0.6250	250	F	2008
+406261	  73	00607	     	73-607	Orchard Rd	073	Prince Edward County	073	Prince Edward County	0.89	US 360	73-621 W, Grape Lawn Rd	300	F	90%	1%	1%	1%	7%	0%	C	0.1060	F	0.5135	320	F	2008
+406262	  73	00607	     	73-607	Orchard Rd	073	Prince Edward County	073	Prince Edward County	1.21	73-621 E, Grape Lawn Rd	73-612 Sandy River Rd	520	F	90%	1%	1%	1%	7%	0%	F	0.1052	F	0.5324	560	F	2008
+760293	  73	00607	     	73-607	Orchard St	073	Prince Edward County	073	Prince Edward County	1.40	73-612 Sandy River Rd	US 460	400	R							X						05/19/2008
+406263	  73	00608	     	73-608	 	073	Prince Edward County	073	Prince Edward County	1.18	73-626	US 460 WEST	670	F	98%	0%	0%	1%	1%	0%	C	0.1044	F	0.6667	710	F	2008
+760294	  73	00608	     	73-608	First Rock Rd	073	Prince Edward County	073	Prince Edward County	2.68	US 460 EAST	Buckingham County Line	220	R							X						05/21/2008
+760295	  73	00609	     	73-609	Olive Branch Rd	073	Prince Edward County	073	Prince Edward County	1.00	73-627 Hixburg Rd	73-653 Vaughn Rd	110	R							X						05/26/2005
+760296	  73	00609	     	73-609	Olive Branch Rd	073	Prince Edward County	073	Prince Edward County	2.70	73-653 Vaughn Rd	73-626 SOUTH	80	R							X						05/26/2005
+760297	  73	00609	     	73-609	Peaks Rd	073	Prince Edward County	073	Prince Edward County	1.90	73-626 NORTH	73-625 Featherfin Rd	250	R							X						05/26/2005
+760298	  73	00609	     	73-609	Peaks Rd	073	Prince Edward County	073	Prince Edward County	0.60	73-625 Featherfin Rd	Buckingham County Line	150	R							X						05/26/2005
+760299	  73	00610	     	73-610	Moran Rd	073	Prince Edward County	073	Prince Edward County	1.25	73-612 Sandy River Rd	1.25 MN 73-612 Sandy River Rd	30	R							X						05/19/2008
+760300	  73	00610	     	73-610	Moran Rd	073	Prince Edward County	073	Prince Edward County	0.35	1.25 MN 73-612 Sandy River Rd	73-606 Piney Grove Rd	30	R							X						05/19/2008
+760301	  73	00611	     	73-611	Quail Crossing Rd	073	Prince Edward County	073	Prince Edward County	2.10	73-613 Quail Crossing Rd; Miller Lake Rd	73-612 Sandy River Rd	70	R							X						05/19/2008
+760302	  73	00612	     	73-612	Leigh Mountain Rd	073	Prince Edward County	073	Prince Edward County	1.36	73-628 Leigh Mountain Rd; Mountain Creek Rd	73-696 S, Green Bay Rd	220	R							X						05/16/2005
+406264	  73	00612	     	73-612	Sandy River Rd	073	Prince Edward County	073	Prince Edward County	1.65	73-696 N, Green Bay Rd	73-613 E, Indian Spring Rd	390	F	97%	0%	1%	1%	1%	0%	C	0.1213	F	0.5000	420	F	2008
+406265	  73	00612	     	73-612	Sandy River Rd	073	Prince Edward County	073	Prince Edward County	2.26	73-613 E, Indian Spring Rd	73-641 Williams Rd	180	F	97%	0%	1%	1%	1%	0%	F	0.1332	F	0.5094	200	F	2008
+406266	  73	00612	     	73-612	Sandy River Rd	073	Prince Edward County	073	Prince Edward County	1.54	73-641 Williams Rd	73-607 Orchard St; Orchard Rd	200	F	97%	0%	1%	1%	1%	0%	F	0.1457	F	0.5672	220	F	2008
+760303	  73	00613	     	73-613	Indian Spring Rd	073	Prince Edward County	073	Prince Edward County	1.60	US 360	73-629 S, Weaver Rd	80	R							X						05/23/2005
+760304	  73	00613	     	73-613	Indian Spring Rd	073	Prince Edward County	073	Prince Edward County	3.08	73-629 S, Weaver Rd	73-612 E, Sandy River Rd	140	R							X						06/06/2005
+760305	  73	00613	     	73-613	Miller Lake Rd	073	Prince Edward County	073	Prince Edward County	1.50	73-612 W, Sandy River Rd	73-611 Quail Crossing Rd	90	R							X						05/14/2008
+760306	  73	00613	     	73-613	Quail Crossing Rd	073	Prince Edward County	073	Prince Edward County	1.30	73-611 Quail Crossing Rd	73-606 Old Metcalf Rd	150	R							X						05/14/2008
+760307	  73	00613	     	73-613	Miller Lake Rd	073	Prince Edward County	073	Prince Edward County	1.70	73-606 Old Metcalf Rd	73-605 Fairlea Rd; Gates Bass Rd	290	R							X						06/06/2005
+760308	  73	00614	     	73-614	Scott Rd	073	Prince Edward County	073	Prince Edward County	0.60	Dead End	73-696 Green Bay Rd	30	R							X						05/19/2008
+760309	  73	00615	     	73-615	Oak Hill Rd	073	Prince Edward County	073	Prince Edward County	0.65	Dead End	73-657 Sulphur Spring Rd	120	R							X						05/21/2008
+760310	  73	00616	     	73-616	Genito Rd	073	Prince Edward County	073	Prince Edward County	0.50	US 460	Nottoway County Line	600	R							X						06/06/2005
+760311	  73	00617	     	73-617	Saylers Creek Rd	073	Prince Edward County	073	Prince Edward County	2.79	US 460	SR 307 Holly Farm Rd	270	R							X						06/06/2005
+406267	  73	00617	     	73-617	Saylers Creek Rd	073	Prince Edward County	073	Prince Edward County	1.49	SR 307 Holly Farm Rd	73-600 Gully Tavern Rd	410	F	94%	0%	1%	2%	3%	0%	C	0.1018	F	0.6087	430	F	2008
+760312	  73	00617	     	73-617	Saylers Creek Rd	073	Prince Edward County	073	Prince Edward County	0.18	73-600 Gully Tavern Rd	73-620 Schuffletown Rd	210	R							X						06/06/2005
+760313	  73	00618	     	73-618	James Town Rd	073	Prince Edward County	073	Prince Edward County	0.40	73-619 Lockett Rd	Amelia County Line	110	R							X						06/09/2005
+406268	  73	00619	     	73-619	Lockett Rd	073	Prince Edward County	073	Prince Edward County	3.80	73-600 Gully Tavern Rd	73-620 S, Schuffle Town Rd	570	F	96%	2%	1%	1%	0%	0%	C	0.1021	F	0.6349	610	F	2008
+760314	  73	00619	     	73-619	Lockett Rd	073	Prince Edward County	073	Prince Edward County	3.20	73-620 S, Schuffle Town Rd	Amelia County Line	220	R							X						06/09/2005
+760315	  73	00620	     	73-620	Thompson Dr	073	Prince Edward County	073	Prince Edward County	0.80	Dead End	73-619 N, Lockett Rd	50	R							X						05/14/2008
+760316	  73	00620	     	73-620	Schuffle Town Rd	073	Prince Edward County	073	Prince Edward County	3.14	73-619 S, Lockett Rd	Nottoway County Line; 73-617 Saylers Creek Rd	100	R							X						06/09/2005
+760317	  73	00621	     	73-621	Twin Lakes Rd	073	Prince Edward County	073	Prince Edward County	1.12	US 360	73-629 Twin Lakes Rd	190	R							X						06/06/2005
+760318	  73	00621	     	73-621	Grape Lawn Rd	073	Prince Edward County	073	Prince Edward County	1.20	73-629 Twin Lakes Rd	73-641 Williams Rd	40	R							X						05/14/2008
+760319	  73	00621	     	73-621	Grape Lawn Rd	073	Prince Edward County	073	Prince Edward County	1.02	73-641 Williams Rd	73-607 W, Orchard Rd	170	R							X						05/14/2008
+406269	  73	00621	     	73-621	Burkes Tavern Rd	073	Prince Edward County	073	Prince Edward County	0.14	73-607 W, Orchard Rd	Nottoway County Line	320	F	99%	0%	0%	1%	0%	0%	C	0.1284	F	0.7381	340	F	2008
+760320	  73	00622	     	73-622	Racoon Crossing Rd	073	Prince Edward County	073	Prince Edward County	0.80	Nottoway County Line	US 360	140	R							X						06/06/2005
+760321	  73	00623	     	73-623	Twin Bridges Rd	073	Prince Edward County	073	Prince Edward County	3.40	73-696 Green Bay Rd	73-713 Corner Rd	170	R							X						05/16/2005
+760322	  73	00623	     	73-623	Twin Bridges Rd	073	Prince Edward County	073	Prince Edward County	0.45	73-713 Corner Rd	Dead End	140	R							X						05/21/2008
+760323	  73	00624	     	73-624	Old Peach Tree Rd	073	Prince Edward County	073	Prince Edward County	0.60	Lunenburg County Line	73-628 Old Peach Tree Rd	90	R							X						05/21/2008
+760324	  73	00624	     	73-624	Barton Rd	073	Prince Edward County	073	Prince Edward County	1.40	73-628 Old Peach Tree Rd	73-623 Twin Bridges Rd	120	R							X						05/16/2005
+760325	  73	00625	     	73-625	Featherfin Rd	073	Prince Edward County	073	Prince Edward County	0.50	Appomattox County Line	73-672 Ridge Rd	60	R							X						05/14/2008
+760326	  73	00625	     	73-625	Featherfin Rd	073	Prince Edward County	073	Prince Edward County	2.40	73-672 Ridge Rd	2.40 ME 73-672 Ridge Rd	50	R							X						05/14/2008
+760327	  73	00625	     	73-625	Featherfin Rd	073	Prince Edward County	073	Prince Edward County	0.10	2.40 ME 73-672 Ridge Rd	73-609 Peaks Rd	40	R							X						05/14/2008
+406270	  73	00626	     	73-626	 	073	Prince Edward County	073	Prince Edward County	3.34	73-658	73-650 Twenty Two Rd	480	F	99%	0%	0%	1%	1%	0%	F	0.1293	F	0.7917	510	F	2008
+406271	  73	00626	     	73-626	 	073	Prince Edward County	073	Prince Edward County	1.95	73-650 Twenty Two Rd	73-655 Railroad Ave	1000	F	99%	0%	0%	1%	1%	0%	C	0.0983	F	0.7037	1100	F	2008
+406272	  73	00626	     	73-626	 	073	Prince Edward County	073	Prince Edward County	0.10	73-655 Railroad Ave	US 460	710	F	99%	0%	0%	1%	1%	0%	F	0.1229	F	0.7474	760	F	2008
+406273	  73	00626	     	73-626	 	073	Prince Edward County	073	Prince Edward County	2.56	US 460	73-609 N, Peaks Rd	540	F	94%	1%	1%	0%	3%	0%	C	0.0931	F	0.6780	580	F	2008
+406274	  73	00626	     	73-626	 	073	Prince Edward County	073	Prince Edward County	1.84	73-609 N, Peaks Rd	Appomattox County Line	170	F	99%	0%	0%	1%	1%	0%	F	0.1095	F	0.7273	190	F	2008
+760328	  73	00627	     	73-627	Hixburg Rd	073	Prince Edward County	073	Prince Edward County	0.70	US 460	73-609 Olive Branch Rd	290	R							X						05/26/2005
+760329	  73	00627	     	73-627	Hixburg Rd	073	Prince Edward County	073	Prince Edward County	1.60	73-609 Olive Branch Rd	Appomattox County Line	210	R							X						05/26/2005
+760330	  73	00628	     	73-628	Old Peach Tree Rd	073	Prince Edward County	073	Prince Edward County	2.70	73-624 Barton Rd; Old Peach Tree Rd	73-662 SOUTH	90	R							X						05/16/2005
+760331	  73	00628	     	73-628	Campbell Crossing Rd	073	Prince Edward County	073	Prince Edward County	0.85	73-662 NORTH	0.85 MN 73-662	240	R							X						05/21/2008
+760332	  73	00628	     	73-628	Campbell Crossing Rd	073	Prince Edward County	073	Prince Edward County	0.15	0.85 MN 73-662	US 360 Kings Hwy	110	R							X						05/21/2008
+760333	  73	00628	     	73-628	Mill Creek Rd	073	Prince Edward County	073	Prince Edward County	0.10	US 360 Kings Hwy	73-724; R R Eppes Rd	200	R							X						05/16/2005
+760334	  73	00628	     	73-628	Mill Creek Rd	073	Prince Edward County	073	Prince Edward County	2.30	73-724; R R Eppes Rd	73-632 E, Schultz Mill Rd	60	R							X						05/21/2008
+760335	  73	00628	     	73-628	Mountain Creek Rd	073	Prince Edward County	073	Prince Edward County	2.16	73-632 W, Schultz Mill Rd	2.16 MN 73-632 Schultz Mill Rd	80	R							X						05/16/2005
+760336	  73	00628	     	73-628	Mountain Creek Rd	073	Prince Edward County	073	Prince Edward County	2.79	2.16 MN 73-632 Schultz Mill Rd	73-716 Timberlake Rd	90	R							X						05/16/2005
+760337	  73	00628	     	73-628	Mountain Creek Rd	073	Prince Edward County	073	Prince Edward County	0.65	73-716 Timberlake Rd	73-612 Leigh Mountain Rd	90	R							X						05/19/2008
+760338	  73	00628	     	73-628	Leigh Mountain Rd	073	Prince Edward County	073	Prince Edward County	2.10	73-612 Leigh Mountain Rd	73-630 S, Old Ridge Rd	210	R							X						05/19/2008
+760339	  73	00628	     	73-628	Commerce Rd	073	Prince Edward County	073	Prince Edward County	1.95	73-630 N, Old Ridge Rd	US 15 Farmville Rd	830	R							X						05/16/2005
+760340	  73	00628	     	73-628	Commerce Rd	073	Prince Edward County	073	Prince Edward County	1.60	US 15 Farmville Rd	73-642 Germantown Rd	1400	R							X						06/02/2008
+406275	  73	00628	     	73-628	Germantown Rd	073	Prince Edward County	073	Prince Edward County	0.80	73-642 Germantown Rd	SCL Farmville	580	F	98%	0%	1%	1%	0%	0%	C	0.1166	F	0.5479	620	F	2008
+760341	  73	00629	     	73-629	Gallion Rd	073	Prince Edward County	073	Prince Edward County	1.75	73-632 Schultz Mill Rd	73-696 N, Green Bay Rd	50	R							X						05/19/2008
+760342	  73	00629	     	73-629	Weaver Rd	073	Prince Edward County	073	Prince Edward County	2.27	73-696 S, Green Bay Rd	73-613 S, Indian Spring Rd	60	R							X						05/23/2005
+760343	  73	00629	     	73-629	Twin Lakes Rd	073	Prince Edward County	073	Prince Edward County	1.58	73-613 N, Indian Spring Rd	73-621 Grape Lawn Rd; Twin Lakes Rd	90	R							X						06/06/2005
+406276	  73	00630	     	73-630	 	073	Prince Edward County	073	Prince Edward County	1.94	73-662	US 360 E, Kings Hwy	480	F	96%	0%	2%	1%	1%	0%	C	0.1038	F	0.5185	520	F	2008
+760344	  73	00630	     	73-630	Free State Rd	073	Prince Edward County	073	Prince Edward County	0.25	US 360 E, Kings Hwy	73-728 Moores Ordinary Rd	580	R							X						05/23/2005
+760345	  73	00630	     	73-630	 	073	Prince Edward County	073	Prince Edward County	0.18	73-728 Moores Ordinary Rd	US 360 W, Kings Hwy	500	R							X						05/23/2005
+406277	  73	00630	     	73-630	Prince Gee Dr	073	Prince Edward County	073	Prince Edward County	1.33	US 360 W, Kings Hwy	73-632 N, Schultz Mill Rd	620	F	98%	1%	0%	1%	1%	0%	C	0.1013	F	0.5211	660	F	2008
+406278	  73	00630	     	73-630	 	073	Prince Edward County	073	Prince Edward County	4.12	73-632 N, Schultz Mill Rd	73-647 S, Loman Rd	430	F	98%	0%	1%	0%	1%	0%	C	0.0924	F	0.6591	460	F	2008
+406280	  73	00630	     	73-630	 	073	Prince Edward County	073	Prince Edward County	2.02	73-647 S, Loman Rd	US 15 S, Farmville Rd	520	F	98%	1%	0%	1%	1%	0%	F	0.0929	F	0.8018	550	F	2008
+760346	  73	00630	     	73-630	Redd Shop Rd	073	Prince Edward County	073	Prince Edward County	0.99	US 15 N, Farmville Rd	73-702 Bolden-Flournoy Rd	310	R							X						05/19/2005
+760347	  73	00630	     	73-630	Redd Shop Rd	073	Prince Edward County	073	Prince Edward County	0.97	73-702 Bolden-Flournoy Rd	73-754 Shady Grove Rd	400	R							X						05/19/2005
+760348	  73	00630	     	73-630	Redd Shop Rd	073	Prince Edward County	073	Prince Edward County	0.18	73-754 Shady Grove Rd	73-711 Seven Eleven Rd	410	R							X						05/19/2005
+760349	  73	00630	     	73-630	Redd Shop Rd	073	Prince Edward County	073	Prince Edward County	1.38	73-711 Seven Eleven Rd	73-665 Worsham Rd	610	R							X						05/19/2005
+406281	  73	00630	     	73-630	Redd Shop Rd	073	Prince Edward County	073	Prince Edward County	0.73	73-665 Worsham Rd	73-628 S, Leigh Mountain Rd	830	F	98%	0%	1%	0%	1%	0%	C	0.0977	F	0.6117	890	F	2008
+760350	  73	00630	     	73-630	Old Ridge Rd	073	Prince Edward County	073	Prince Edward County	4.13	73-628 S, Leigh Mountain Rd	US 460	410	R							X						06/09/2005
+760351	  73	00630	     	73-630	Bush River Rd	073	Prince Edward County	073	Prince Edward County	0.22	US 460	Dead End	190	R							X						06/09/2005
+760352	  73	00631	     	73-631	Slaydon Rd	073	Prince Edward County	073	Prince Edward County	0.25	73-604 Abilene Rd	Dead End	30	R							X						05/27/2008
+760353	  73	00632	     	73-632	Falkland Rd	073	Prince Edward County	073	Prince Edward County	3.80	73-633 Mt Pleasant Rd	73-630 S, Prince Gee Dr	60	R							X						05/21/2008
+760354	  73	00632	     	73-632	Schultz Mill Rd	073	Prince Edward County	073	Prince Edward County	1.80	73-630 N, Prince Gee Dr	73-628 W, Mountain Creek Rd	140	R							X						05/23/2005
+760355	  73	00632	     	73-632	Schultz Mill Rd	073	Prince Edward County	073	Prince Edward County	0.50	73-628 W, Mountain Creek Rd	73-628 E, Mill Creek Rd	60	R							X						05/23/2005
+760356	  73	00632	     	73-632	Schultz Mill Rd	073	Prince Edward County	073	Prince Edward County	0.60	73-628 E, Mill Creek Rd	73-629 Gallion Rd	70	R							X						05/21/2008
+760357	  73	00632	     	73-632	Schultz Mill Rd	073	Prince Edward County	073	Prince Edward County	1.20	73-629 Gallion Rd	73-749 Mayhew-Hudson Rd	60	R							X						05/21/2008
+760358	  73	00632	     	73-632	Schultz Mill Rd	073	Prince Edward County	073	Prince Edward County	0.30	73-749 Mayhew-Hudson Rd	73-696 Green Bay Rd	70	R							X						05/23/2005
+760359	  73	00633	     	73-633	Virso Rd	073	Prince Edward County	073	Prince Edward County	0.68	US 360 Kings Hwy	73-634 New Bethel Rd	780	R							X						05/21/2008
+760360	  73	00633	     	73-633	Mt Pleasant Rd	073	Prince Edward County	073	Prince Edward County	4.88	73-634 New Bethel Rd	US 15 Farmville Rd	380	R							X						05/21/2008
+760361	  73	00634	     	73-634	New Bethel Rd	073	Prince Edward County	073	Prince Edward County	2.00	US 15 Farmville Rd	73-721 Dempsey Rd	330	R							X						05/21/2008
+760362	  73	00634	     	73-634	New Bethel Rd	073	Prince Edward County	073	Prince Edward County	1.95	73-721 Dempsey Rd	73-633 Mt Pleasant Rd; Virso Rd	350	R							X						05/21/2008
+760363	  73	00635	     	73-635	Ole Briery Station Rd	073	Prince Edward County	073	Prince Edward County	0.40	73-654 Cabbage Patch Rd	0.40 MN 73-654 Cabbage Patch Rd	50	R							X						05/31/2005
+760364	  73	00635	     	73-635	Ole Briery Station Rd	073	Prince Edward County	073	Prince Edward County	0.40	0.40 MN 73-654 Cabbage Patch Rd	Dead End	9	R							X						05/31/2005
+406282	  73	00636	     	73-636	Poorhouse Rd	073	Prince Edward County	073	Prince Edward County	1.28	73-696 Green Bay Rd	73-637 Worsham Dr	210	F	98%	0%	0%	1%	1%	0%	F	0.1186	F	0.5686	230	F	2008
+760365	  73	00636	     	73-636	Poorhouse Rd	073	Prince Edward County	073	Prince Edward County	0.85	73-637 Worsham Dr	73-740 Copper Hill Rd	160	R							X						05/14/2008
+406283	  73	00636	     	73-636	Poorhouse Rd	073	Prince Edward County	073	Prince Edward County	2.55	73-740 Copper Hill Rd	US 460 Prince Edward Hwy	160	F	98%	0%	0%	1%	1%	0%	C	0.1277	F	0.7083	170	F	2008
+760366	  73	00636	     	73-636	Copper Hill Rd	073	Prince Edward County	073	Prince Edward County	0.31	US 460	Dead End	80	R							X						05/14/2008
+406284	  73	00637	     	73-637	Worsham Dr	073	Prince Edward County	073	Prince Edward County	1.89	73-628 Leigh Mountain Rd	73-636 Poorhouse Rd	270	F	99%	0%	0%	0%	1%	0%	C	0.2166	F	0.7647	280	F	2008
+406285	  73	00638	     	73-638	Persimmon Tree Rd	073	Prince Edward County	073	Prince Edward County	1.23	ECL Farmville	73-748 Watson Rd	270	F	99%	0%	1%	0%	0%	0%	C	0.1314	F	0.5556	290	F	2008
+760367	  73	00638	     	73-638	Persimmon Tree Fork Rd	073	Prince Edward County	073	Prince Edward County	0.50	73-748 Watson Rd	Dead End	70	R							X						06/09/2005
+760368	  73	00639	     	73-639	Mill Bank Rd	073	Prince Edward County	073	Prince Edward County	1.60	73-660 Heights School Rd	73-658 SOUTH	100	R							X						06/13/2005
+760369	  73	00639	     	73-639	Elam Rd	073	Prince Edward County	073	Prince Edward County	2.50	73-658 NORTH	73-657 Sulphur Spring Rd	260	R							X						06/13/2005
+760370	  73	00640	     	73-640	Monroe Church Rd	073	Prince Edward County	073	Prince Edward County	1.79	73-696 Green Bay Rd	US 460	430	R							X						05/14/2008
+760371	  73	00641	     	73-641	Williams Rd	073	Prince Edward County	073	Prince Edward County	1.40	73-621 Grape Lawn Rd	73-612 Sandy River Rd	80	R							X						05/14/2008
+760372	  73	00642	     	73-642	Germantown Rd	073	Prince Edward County	073	Prince Edward County	0.69	73-643	73-628 Commerce Rd	1400	R							X						06/02/2008
+406286	  73	00643	     	73-643	 	073	Prince Edward County	073	Prince Edward County	2.40	73-658	73-642 Germantown Rd	1300	F	99%	0%	1%	0%	0%	0%	F	0.0945	F	0.5219	1400	F	2008
+406287	  73	00643	     	73-643	 	073	Prince Edward County	073	Prince Edward County	0.67	73-642 Germantown Rd	73-644 Buffalo Heights Rd	1100	F	99%	0%	1%	0%	0%	0%	F	0.0975	F	0.5283	1200	F	2008
+406288	  73	00643	     	73-643	High St	073	Prince Edward County	073	Prince Edward County	1.23	73-644 Buffalo Heights Rd	SCL Farmville	1000	F	99%	0%	1%	0%	0%	0%	C	0.0996	F	0.5140	1100	F	2008
+760373	  73	00644	     	73-644	Buffalo Heights Rd	073	Prince Edward County	073	Prince Edward County	0.90	73-643 High St	Dead End	230	R							X						06/02/2008
+760374	  73	00645	     	73-645	Church Rd	073	Prince Edward County	073	Prince Edward County	0.30	73-695 Tuggle Rd	US 460	50	R							X						06/02/2008
+760375	  73	00645	     	73-645	Simpson Rd	073	Prince Edward County	073	Prince Edward County	1.00	US 460	Dead End	240	R							X						05/26/2005
+760376	  73	00646	     	73-646	Farmville Lake Rd	073	Prince Edward County	073	Prince Edward County	0.90	US 15 Farmville Rd	Dead End	200	R							X						05/19/2005
+760377	  73	00647	     	73-647	Loman Rd	073	Prince Edward County	073	Prince Edward County	0.52	US 15 Farmville Rd	0.52 ME US 15	70	R							X						05/23/2005
+760378	  73	00647	     	73-647	Loman Rd	073	Prince Edward County	073	Prince Edward County	1.18	0.52 ME US 15	73-630 SOUTH	70	R							X						05/21/2008
+760379	  73	00647	     	73-647	Rice Creek Rd	073	Prince Edward County	073	Prince Edward County	0.25	73-630 MID	73-715 Rolling Acres Rd	50	R							X						05/27/2008
+760380	  73	00647	     	73-647	Rice Creek  Rd	073	Prince Edward County	073	Prince Edward County	3.45	73-715 Rolling Acres Rd	73-630 N, Redd Shop Rd	50	R							X						05/27/2008
+760381	  73	00648	     	73-648	Hardtimes Rd	073	Prince Edward County	073	Prince Edward County	2.00	73-643	2.00 MN 73-643	510	R							X						06/09/2005
+760382	  73	00648	     	73-648	Hardtimes Rd	073	Prince Edward County	073	Prince Edward County	1.39	2.00 MN 73-643	73-649 Oliver Rd	290	R							X						06/09/2005
+760383	  73	00648	     	73-648	Hardtimes Rd	073	Prince Edward County	073	Prince Edward County	1.50	73-649 Oliver Rd	73-695 Tuggle Rd	220	R							X						06/09/2005
+760384	  73	00649	     	73-649	Oliver Rd	073	Prince Edward County	073	Prince Edward County	0.40	US 460	73-727 Brooklyn Plantation Rd	410	R							X						05/13/2005
+760385	  73	00649	     	73-649	Oliver Rd	073	Prince Edward County	073	Prince Edward County	1.00	73-727 Brooklyn Plantation Rd	1.00 ME 73-727 Brooklyn Plantation Rd	210	R							X						06/13/2005
+760386	  73	00649	     	73-649	Oliver Rd	073	Prince Edward County	073	Prince Edward County	0.60	1.00 ME 73-727 Brooklyn Plantation Rd	1.60 ME 73-727 Brooklyn Plantation Rd	200	R							X						06/13/2005
+760387	  73	00649	     	73-649	Oliver Rd	073	Prince Edward County	073	Prince Edward County	0.70	1.60 ME 73-727 Brooklyn Plantation Rd	73-648 Hardtimes Rd	150	R							X						06/13/2005
+760388	  73	00650	     	73-650	Twenty Two Rd	073	Prince Edward County	073	Prince Edward County	4.10	73-626	73-658	110	R							X						05/21/2008
+760389	  73	00651	     	73-651	Chinquapin Rd	073	Prince Edward County	073	Prince Edward County	0.60	73-609 Peaks Rd	73-690 Plum Creek Rd	80	R							X						05/26/2005
+760390	  73	00651	     	73-651	Chinquapin Rd	073	Prince Edward County	073	Prince Edward County	3.00	73-690 Plum Creek Rd	3.00 ME 73-690 Plum Creek Rd	60	R							X						05/21/2008
+760391	  73	00651	     	73-651	Chinquapin Rd	073	Prince Edward County	073	Prince Edward County	0.02	3.00 ME 73-690 Plum Creek Rd	73-608 First Rock Rd	46	R							X						05/21/2008
+760392	  73	00652	     	73-652	Harris Creek Rd	073	Prince Edward County	073	Prince Edward County	5.46	US 460	73-626	110	R							X						05/21/2008
+760393	  73	00653	     	73-653	Vaughn Rd	073	Prince Edward County	073	Prince Edward County	0.90	73-609 Olive Branch Rd	Dead End	20	R							X						05/14/2008
+760394	  73	00654	     	73-654	Briery Rd	073	Prince Edward County	073	Prince Edward County	2.00	73-750 Beltline Rd	Charlotte County Line; 19-652	320	R							X						06/02/2008
+760395	  73	00654	     	73-654	Briery Rd	073	Prince Edward County	073	Prince Edward County	0.30	Charlotte County Line; 19-652	US 15 Farmville Hwy	300	R							X						05/31/2005
+406289	  73	00654	     	73-654	Cabbage Patch Rd	073	Prince Edward County	073	Prince Edward County	1.80	US 15 Farmville Hwy	US 360 Kings Hwy	590	F	92%	0%	3%	2%	3%	0%	C	0.1077	F	0.5915	630	F	2008
+760396	  73	00655	     	73-655	Railroad Ave	073	Prince Edward County	073	Prince Edward County	0.23	US 460	73-626	320	R							X						05/21/2008
+760397	  73	00656	     	73-656	Price Lane	073	Prince Edward County	073	Prince Edward County	1.30	US 460	Dead End	120	R							X						05/14/2008
+760398	  73	00657	     	73-657	Sulphur Spring Rd	073	Prince Edward County	073	Prince Edward County	3.98	US 460	73-733 Lindsay Rd	200	R							X						06/13/2005
+760399	  73	00657	     	73-657	Hendricks Rd	073	Prince Edward County	073	Prince Edward County	0.25	73-733 Lindsay Rd	73-775 Dungee Rd	190	R							X						06/13/2005
+760400	  73	00657	     	73-657	Hendricks Rd	073	Prince Edward County	073	Prince Edward County	0.05	73-775 Dungee Rd	0.05 ME 73-775 Dungee Rd	90	R							X						06/13/2005
+760401	  73	00657	     	73-657	Hendricks Rd	073	Prince Edward County	073	Prince Edward County	0.53	0.05 ME 73-775 Dungee Rd	Dead End	120	R							X						06/13/2005
+760402	  73	00658	     	73-658	Mountainview Rd	073	Prince Edward County	073	Prince Edward County	1.16	Dead End	FR-646 St Johns Rd	60	R							X						05/14/2008
+760403	  73	00658	     	73-658	Mountainview Rd	073	Prince Edward County	073	Prince Edward County	0.11	FR-646 St Johns Rd	US 460	180	R							X						05/14/2008
+406290	  73	00658	     	73-658	 	073	Prince Edward County	073	Prince Edward County	2.60	US 460	73-639 N, Elam Rd	220	F	99%	0%	0%	0%	0%	0%	C	0.1078	F	0.6000	230	F	2008
+406291	  73	00658	     	73-658	 	073	Prince Edward County	073	Prince Edward County	2.00	73-639 N, Elam Rd	73-626	270	F	98%	0%	1%	1%	0%	0%	F	0.0985	F	0.5000	290	F	2008
+406292	  73	00658	     	73-658	 	073	Prince Edward County	073	Prince Edward County	3.30	73-626	73-700 Moore Rd	240	F	98%	0%	1%	1%	0%	0%	F	0.1408	F	0.6000	260	F	2008
+406293	  73	00658	     	73-658	 	073	Prince Edward County	073	Prince Edward County	4.56	73-700 Moore Rd	73-692 Kingsville Rd	490	F	98%	0%	1%	1%	0%	0%	C	0.0973	F	0.5882	530	F	2008
+760405	  73	00659	     	73-659	Buffalo Church Rd	073	Prince Edward County	073	Prince Edward County	2.90	73-664 Singleton Rd	73-658	50	R							X						05/27/2008
+760406	  73	00660	     	73-660	Heights School Rd	073	Prince Edward County	073	Prince Edward County	3.70	73-665	73-698 Rosser Mill Rd	130	R							X						05/27/2008
+760407	  73	00660	     	73-660	Heights School Rd	073	Prince Edward County	073	Prince Edward County	2.90	73-698 Rosser Mill Rd	US 460	340	R							X						05/21/2008
+760408	  73	00661	     	73-661	Nursery Rd	073	Prince Edward County	073	Prince Edward County	2.20	73-663 Baker Mountain Rd	73-660 Heights School Rd	60	R							X						05/21/2008
+406294	  73	00662	     	73-662	 	073	Prince Edward County	073	Prince Edward County	1.50	73-630	73-766 Old Peach Tree Rd	290	F	97%	0%	0%	1%	1%	0%	F	0.1045	F	0.7143	310	F	2008
+406295	  73	00662	     	73-662	 	073	Prince Edward County	073	Prince Edward County	0.58	73-766 Old Peach Tree Rd	US 360 Kings Hwy	320	F	97%	0%	0%	1%	1%	0%	C	0.1056	F	0.7368	340	F	2008
+760409	  73	00663	     	73-663	Baker Mountain Rd	073	Prince Edward County	073	Prince Edward County	4.30	73-671	SR 47 Thomas Jefferson Hwy	100	R							X						05/27/2008
+760410	  73	00664	     	73-664	Morris Creek Rd	073	Prince Edward County	073	Prince Edward County	3.62	Charlotte County Line; 19-800 Hook Rd	73-665	110	R							X						05/27/2008
+760411	  73	00664	     	73-664	Singleton Rd	073	Prince Edward County	073	Prince Edward County	3.00	73-665	73-658	130	R							X						05/27/2008
+406296	  73	00665	     	73-665	 	073	Prince Edward County	073	Prince Edward County	2.72	73-671	73-664 Singleton Rd; Morris Creek Rd	330	F	97%	0%	0%	0%	2%	0%	C	0.0995	F	0.6757	350	F	2008
+406297	  73	00665	     	73-665	 	073	Prince Edward County	073	Prince Edward County	5.00	73-664 Singleton Rd; Morris Creek Rd	73-700 Moore Rd	550	F	98%	0%	1%	1%	1%	0%	F	0.0906	F	0.6754	590	F	2008
+406298	  73	00665	     	73-665	 	073	Prince Edward County	073	Prince Edward County	3.25	73-700 Moore Rd	73-604 Abilene Rd	720	F	98%	0%	1%	1%	1%	0%	F	0.1106	F	0.6648	770	F	2008
+406299	  73	00665	     	73-665	Abilene Rd	073	Prince Edward County	073	Prince Edward County	0.68	73-604 Abilene Rd	73-1003 Mercy Seat Rd	2400	F	98%	0%	1%	1%	1%	0%	C	0.1001	F	0.7252	2600	F	2008
+406300	  73	00665	     	73-665	Abilene Rd	073	Prince Edward County	073	Prince Edward County	0.84	73-1003 Mercy Seat Rd	US 15	830	F	98%	0%	1%	1%	1%	0%	F	0.0976	F	0.6023	890	F	2008
+406301	  73	00665	     	73-665	Worsham Rd	073	Prince Edward County	073	Prince Edward County	2.32	US 15	73-630 Redd Shop Rd	330	F	99%	0%	0%	0%	0%	0%	C	0.1164	F	0.5455	360	F	2008
+760412	  73	00666	     	73-666	Chappel Rd	073	Prince Edward County	073	Prince Edward County	4.60	73-671 County Line Rd	73-604 E, Abilene Rd	60	R							X						05/27/2008
+760413	  73	00666	     	73-666	Douglas Church Rd	073	Prince Edward County	073	Prince Edward County	3.90	73-604 W, Abilene Rd	73-665	120	R							X						05/27/2008
+760414	  73	00667	     	73-667	Bloomfield Rd	073	Prince Edward County	073	Prince Edward County	5.50	19-671 County Line Rd	73-665	70	R							X						05/27/2008
+760415	  73	00668	     	73-668	Bell Rd	073	Prince Edward County	073	Prince Edward County	2.60	73-664 Morris Creek Rd	73-682 Junction Canal Rd	20	R							X						05/27/2008
+760416	  73	00668	     	73-668	Bell Rd	073	Prince Edward County	073	Prince Edward County	0.30	73-682 Junction Canal Rd	73-667 Bloomfield Rd	40	R							X						05/27/2008
+760417	  73	00669	     	73-669	Moose Creek Rd	073	Prince Edward County	073	Prince Edward County	1.10	73-670 Spring Creek Rd	73-664 Morris Creek Rd	90	R							X						05/27/2008
+760418	  73	00670	     	73-670	Spring Creek Rd	073	Prince Edward County	073	Prince Edward County	3.07	Charlotte County Line	73-665	90	R							X						05/27/2008
+406302	  73	00671	     	73-671	 	073	Prince Edward County	073	Prince Edward County	2.78	SR 47 Thomas Jefferson Hwy	Charlotte County Line; 19-671 County Line Rd	280	F	95%	0%	1%	2%	3%	0%	C	0.1233	F	0.5676	300	F	2008
+406303	  73	00671	     	73-671	 	073	Prince Edward County	073	Prince Edward County	3.40	Charlotte County Line; 19-671 County Line Rd	73-666 Chappel Rd	180	F	95%	0%	1%	2%	2%	0%	F	0.1203	F	0.5000	190	F	2008
+406304	  73	00671	     	73-671	County Line Rd	073	Prince Edward County	073	Prince Edward County	3.03	73-666 Chappel Rd	US 15	390	F	95%	0%	1%	2%	2%	0%	C	0.1084	F	0.5556	410	F	2008
+760419	  73	00672	     	73-672	Ridge Rd	073	Prince Edward County	073	Prince Edward County	0.40	73-625 Featherfin Rd	Appomattox County Line	50	R							X						05/14/2008
+760420	  73	00673	     	73-673	Robin Lawn Dr	073	Prince Edward County	073	Prince Edward County	0.10	US 360 Kings Hwy	Dead End	45	R							X						05/21/2008
+760421	  73	00675	     	73-675	Dry Bridge Rd	073	Prince Edward County	073	Prince Edward County	0.75	Dead End	FR-795 Snead Rd	40	R							X						06/09/2005
+760422	  73	00675	     	73-675	Dry Bridge Rd	073	Prince Edward County	073	Prince Edward County	0.82	FR-795 Snead Rd	73-695 Tuggle Rd	260	R							X						06/09/2005
+793334	  73	00676	     	73-676	Lake Dr	073	Prince Edward County	073	Prince Edward County	0.50	Cul-de-Sac	73-642 Germantown Rd	140	R							X						06/02/2008
+760423	  73	00677	     	73-677	Brown Town Rd	073	Prince Edward County	073	Prince Edward County	0.70	Dead End	73-608	70	R							X						05/21/2008
+760424	  73	00678	     	73-678	Mount Moriah Rd	073	Prince Edward County	073	Prince Edward County	0.45	Dead End	73-695 Tuggle Rd	190	R							X						06/02/2008
+760425	  73	00679	     	73-679	W Stokes Rd	073	Prince Edward County	073	Prince Edward County	0.34	US 360 Kings Hwy	0.34 MN US 360	110	R							X						05/21/2008
+760426	  73	00679	     	73-679	W Stokes Rd	073	Prince Edward County	073	Prince Edward County	0.06	0.34 MN US 360	Dead End	30	R							X						05/27/2008
+760427	  73	00680	     	73-680	Allens Mill Rd	073	Prince Edward County	073	Prince Edward County	0.34	73-626	Dead End	30	R							X						05/21/2008
+760428	  73	00681	     	73-681	Baker Mountain Plant Rd	073	Prince Edward County	073	Prince Edward County	0.47	73-671	Dead End	30	R							X						05/27/2008
+760429	  73	00682	     	73-682	Junction Canal Rd	073	Prince Edward County	073	Prince Edward County	2.10	Charlotte County Line; 19-671	73-668 Bell Rd	60	R							X						05/27/2008
+760430	  73	00683	     	73-683	Stokes Rd	073	Prince Edward County	073	Prince Edward County	0.70	US 15 W, Farmville Rd	US 15 E, Farmville Rd	160	R							X						05/19/2005
+760431	  73	00685	     	73-685	Pineview Rd	073	Prince Edward County	073	Prince Edward County	0.98	73-751 Hidden Lake Rd	73-655 Railroad Ave	150	R							X						05/21/2008
+760432	  73	00686	     	73-686	Allen Farm Rd	073	Prince Edward County	073	Prince Edward County	3.25	73-666 Douglas Church Rd	73-604 Abilene Rd	80	R							X						05/27/2008
+760433	  73	00687	     	73-687	Ferguson Rd	073	Prince Edward County	073	Prince Edward County	0.12	Dead End	73-626	50	R							X						05/14/2008
+760434	  73	00688	     	73-688	High Bridge Rd	073	Prince Edward County	073	Prince Edward County	1.45	73-619 Lockett Rd	Dead End	160	R							X						05/14/2008
+760435	  73	00689	     	73-689	Old Forest Rd	073	Prince Edward County	073	Prince Edward County	1.00	73-613 Indian Spring Rd	Dead End	20	R							X						06/19/2008
+760436	  73	00690	     	73-690	Plum Creek Rd	073	Prince Edward County	073	Prince Edward County	1.30	73-652 Harris Creek Rd	73-651 Chinquapin Rd	50	R							X						05/21/2008
+760437	  73	00691	     	73-691	Tower Rd	073	Prince Edward County	073	Prince Edward County	1.18	73-665 Worsham Rd	Dead End	80	R							X						05/27/2008
+406305	  73	00692	     	73-692	 	073	Prince Edward County	073	Prince Edward County	0.36	73-665 Abilene Rd	SR 133 South	2500	F	98%	0%	1%	0%	1%	0%	F	0.0973	F	0.7664	2700	F	2008
+406306	  73	00692	     	73-692	Kingsville Rd	073	Prince Edward County	073	Prince Edward County	1.52	SR 133 S College Rd	SR 133 North	2300	F	98%	0%	1%	0%	1%	0%	C	0.1013	F	0.5940	2400	F	2008
+760438	  73	00693	     	73-693	Campbell Hill Rd	073	Prince Edward County	073	Prince Edward County	1.00	Dead End	1.00 ME Dead End	60	R							X						05/21/2008
+760439	  73	00693	     	73-693	Campbell Hill Rd	073	Prince Edward County	073	Prince Edward County	0.60	1.00 ME Dead End	73-626	150	R							X						05/21/2008
+760440	  73	00694	     	73-694	Cheatham Rd	073	Prince Edward County	073	Prince Edward County	1.00	73-696 Green Bay Rd	US 360	150	R							X						05/21/2008
+406307	  73	00695	     	73-695	Tuggle Rd	073	Prince Edward County	073	Prince Edward County	2.39	US 460 EAST	73-768 Slayton Corner Rd	860	F	96%	1%	1%	2%	0%	0%	C	0.0797	F	0.5843	920	F	2008
+760441	  73	00695	     	73-695	Tuggle Rd	073	Prince Edward County	073	Prince Edward County	1.38	US 15 Bus; Gap	US 15 Bus; WCL Farmville	1300	R							X						06/09/2005
+406308	  73	00696	     	73-696	Green Bay Rd	073	Prince Edward County	073	Prince Edward County	2.29	US 360 Kings Hwy	73-629 N, Gallion Rd	640	F	97%	0%	1%	0%	1%	0%	F	0.1033	F	0.6828	690	F	2008
+406309	  73	00696	     	73-696	Green Bay Rd	073	Prince Edward County	073	Prince Edward County	3.12	73-629 N, Gallion Rd	73-612 S, Leigh Mountain Rd	690	F	97%	0%	1%	0%	1%	0%	F	0.1047	F	0.6753	740	F	2008
+406310	  73	00696	     	73-696	Green Bay Rd	073	Prince Edward County	073	Prince Edward County	1.82	73-612 S, Leigh Mountain Rd	73-636 Poorhouse Rd	1000	F	97%	0%	1%	0%	1%	0%	C	0.0996	F	0.6818	1100	F	2008
+406311	  73	00696	     	73-696	Green Bay Rd	073	Prince Edward County	073	Prince Edward County	1.02	73-636 Poorhouse Rd	73-605 Gates Bass Rd	1200	F	97%	0%	1%	0%	1%	0%	F	0.1002	F	0.5551	1300	F	2008
+406312	  73	00696	     	73-696	Green Bay Rd	073	Prince Edward County	073	Prince Edward County	2.87	73-605 Gates Bass Rd	US 460	1400	F	97%	0%	0%	1%	1%	0%	C	0.0949	F	0.6541	1500	F	2008
+760442	  73	00697	     	73-697	Cedar Crest Rd	073	Prince Edward County	073	Prince Edward County	0.13	Dead End	73-707 Prince Edward Lake Rd	30	R							X						05/14/2008
+760443	  73	00697	     	73-697	Cedar Crest Rd	073	Prince Edward County	073	Prince Edward County	0.50	73-707 Prince Edward Lake Rd	73-621 Twin Lakes Rd	110	R							X						05/14/2008
+760444	  73	00698	     	73-698	Rosser Mill Rd	073	Prince Edward County	073	Prince Edward County	1.45	73-663 Baker Mountain Rd	73-660 Heights School Rd	60	R							X						05/21/2008
+760445	  73	00699	     	73-699	Carter Rd	073	Prince Edward County	073	Prince Edward County	1.80	73-667 Bloomfield Rd	73-666 Douglas Church Rd	50	R							X						05/27/2008
+760446	  73	00700	     	73-700	Moore Rd	073	Prince Edward County	073	Prince Edward County	1.50	73-665	73-658	100	R							X						05/21/2008
+760447	  73	00701	     	73-701	Wash Out Rd	073	Prince Edward County	073	Prince Edward County	2.10	73-666 Chappel Rd	2.10 ME 73-666 Chappel Rd	20	R							X						05/27/2008
+760448	  73	00701	     	73-701	Landing Rd	073	Prince Edward County	073	Prince Edward County	1.35	Dead End; 1.35 MW 15	US 15 Farmville Rd	110	R							X						06/02/2008
+760449	  73	00702	     	73-702	Bolden-Flournoy Rd	073	Prince Edward County	073	Prince Edward County	1.30	73-630 Redd Shop Rd	Dead End	80	R							X						05/27/2008
+760450	  73	00703	     	73-703	Pamplin Rd	073	Prince Edward County	073	Prince Edward County	0.60	ECL Pamplin	Bus US 460	150	R							X						05/14/2008
+760451	  73	00704	     	73-704	Love Rd	073	Prince Edward County	073	Prince Edward County	0.05	Lunenburg County Line; 55-701	US 360 Kings Hwy	210	R							X						05/21/2008
+760452	  73	00705	     	73-705	Lakeside Rd	073	Prince Edward County	073	Prince Edward County	0.20	73-604 Abilene Rd	73-710 Abrams Rd	150	R							X						05/27/2008
+760453	  73	00705	     	73-705	Lakeside Rd	073	Prince Edward County	073	Prince Edward County	1.30	73-710 Abrams Rd	Dead End	100	R							X						05/27/2008
+760454	  73	00706	     	73-706	Farmview Rd	073	Prince Edward County	073	Prince Edward County	1.10	73-604 Abilene Rd	Dead End	140	R							X						05/27/2008
+760455	  73	00707	     	73-707	Prince Edward Lake Rd	073	Prince Edward County	073	Prince Edward County	0.28	Dead End	73-697 Cedar Crest Rd	130	R							X						05/14/2008
+760456	  73	00708	     	73-708	Harris Creek Rd	073	Prince Edward County	073	Prince Edward County	0.50	73-626	73-652 Harris Creek Rd	160	R							X						05/14/2008
+760457	  73	00709	     	73-709	Marshall Rd	073	Prince Edward County	073	Prince Edward County	0.35	Dead End	73-665 Abilene Rd	70	R							X						05/27/2008
+760458	  73	00710	     	73-710	Abrams Rd	073	Prince Edward County	073	Prince Edward County	0.40	Dead End	73-705 Lakeside Rd	8	R							X						05/27/2008
+760459	  73	00711	     	73-711	Seven Eleven Rd	073	Prince Edward County	073	Prince Edward County	0.15	73-630 Redd Shop Rd	Dead End	50	R							X						05/27/2008
+760460	  73	00712	     	73-712	Jeffress Rd	073	Prince Edward County	073	Prince Edward County	0.40	Dead End	73-604 Abilene Rd	50	R							X						05/27/2008
+760461	  73	00713	     	73-713	Corner Rd	073	Prince Edward County	073	Prince Edward County	1.55	73-623 Twin Bridges Rd	73-714	20	R							X						05/21/2008
+760462	  73	00714	     	73-714	 	073	Prince Edward County	073	Prince Edward County	1.40	73-713 Corner Rd	Nottoway County Line	50	R							X						05/21/2008
+760463	  73	00715	     	73-715	Rolling Acres Rd	073	Prince Edward County	073	Prince Edward County	0.45	Dead End	73-647 Rice Creek Rd; Rice Creek Rd	40	R							X						05/27/2008
+760464	  73	00716	     	73-716	Timberlake Rd	073	Prince Edward County	073	Prince Edward County	0.60	Dead End	73-628 Mountain Creek Rd	30	R							X						05/19/2008
+760465	  73	00717	     	73-717	Booker Rd	073	Prince Edward County	073	Prince Edward County	0.45	73-609 Peaks Rd	Dead End	30	R							X						05/14/2008
+760466	  73	00718	     	73-718	Crossing Rd	073	Prince Edward County	073	Prince Edward County	0.03	Lunenburg County Line	US 360 Kings Hwy	140	R							X						05/21/2008
+760467	  73	00719	     	73-719	Llama Rd	073	Prince Edward County	073	Prince Edward County	0.61	SR 47 Thomas Jefferson Hwy	Dead End	140	R							X						05/21/2008
+760468	  73	00720	     	73-720	Rattlers Branch Rd	073	Prince Edward County	073	Prince Edward County	0.65	73-626	Dead End	240	R							X						05/21/2008
+760469	  73	00721	     	73-721	Dempsey Rd	073	Prince Edward County	073	Prince Edward County	0.75	Dead End	73-634 New Bethel Rd	130	R							X						05/21/2008
+760470	  73	00722	     	73-722	Meriwood Farm Rd	073	Prince Edward County	073	Prince Edward County	0.50	Dead End	WCL Farmville	200	R							X						06/02/2008
+760471	  73	00723	     	73-723	Cork Rd	073	Prince Edward County	073	Prince Edward County	0.90	73-665	Dead End	30	R							X						05/27/2008
+760472	  73	00724	     	73-724	R R Eppes Rd	073	Prince Edward County	073	Prince Edward County	0.25	73-628 Mill Creek Rd	Dead End	40	R							X						05/21/2008
+760473	  73	00725	     	73-725	Watson Blvd	073	Prince Edward County	073	Prince Edward County	0.40	Dead End	US 15 Farmville Rd	180	R							X						06/02/2008
+760474	  73	00726	     	73-726	Ashwood Rd	073	Prince Edward County	073	Prince Edward County	1.10	73-619 Lockett Rd	Dead End	10	R							X						05/14/2008
+760475	  73	00727	     	73-727	Brooklyn Plantation Rd	073	Prince Edward County	073	Prince Edward County	0.60	Dead End	73-649 Oliver Rd	150	R							X						05/21/2008
+760476	  73	00728	     	73-728	Moores Ordinary Rd	073	Prince Edward County	073	Prince Edward County	0.43	US 360 W, Kings Hwy	73-630	600	R							X						05/23/2005
+760477	  73	00728	     	73-728	Moores Ordinary Rd	073	Prince Edward County	073	Prince Edward County	0.30	73-630	US 360 E, Kings Hwy	520	R							X						05/23/2005
+760478	  73	00729	     	73-729	Herzig Rd	073	Prince Edward County	073	Prince Edward County	0.10	US 360 Kings Hwy	Dead End	45	R							X						05/21/2008
+760479	  73	00730	     	73-730	School House Rd	073	Prince Edward County	073	Prince Edward County	0.35	73-604 Abilene Rd	Dead End	90	R							X						05/27/2008
+760480	  73	00731	     	73-731	Pinebrook Rd	073	Prince Edward County	073	Prince Edward County	0.55	SR 307	Dead End	110	R							X						05/14/2008
+760481	  73	00732	     	73-732	Carriage Rd	073	Prince Edward County	073	Prince Edward County	0.60	73-630	Dead End	60	R							X						05/27/2008
+760482	  73	00733	     	73-733	Lindsay Rd	073	Prince Edward County	073	Prince Edward County	0.80	Dead End	73-657 Hendricks Rd; Sulphur Spring Rd	60	R							X						05/21/2008
+760483	  73	00734	     	73-734	Good Hope Rd	073	Prince Edward County	073	Prince Edward County	0.70	Dead End	73-660 Heights School Rd	80	R							X						05/21/2008
+406313	  73	00735	     	73-735	Pisgah Church Rd	073	Prince Edward County	073	Prince Edward County	0.16	US 460 Prince Edward Rd	73-600 Rice's Depot Rd	90	F	91%	1%	2%	4%	1%	0%	F	0.1325	F	0.6774	100	F	2008
+406314	  73	00735	     	73-735	Pisgah Church Rd	073	Prince Edward County	073	Prince Edward County	0.34	73-600 Rice's Depot Rd	US 460 Prince Edward Rd	160	F	91%	1%	2%	4%	1%	0%	C	0.1243	F	0.5652	170	F	2008
+760484	  73	00736	     	73-736	High Rock Rd	073	Prince Edward County	073	Prince Edward County	0.80	US 460 SOUTH	US 460 NORTH	80	R							X						05/19/2008
+760485	  73	00737	     	73-737	C C Camp Rd	073	Prince Edward County	073	Prince Edward County	0.80	Dead End	73-633 Virso Rd	90	R							X						05/21/2008
+760486	  73	00738	     	73-738	Epperson Rd	073	Prince Edward County	073	Prince Edward County	0.40	73-626	Dead End	60	R							X						05/21/2008
+760487	  73	00739	     	73-739	Cook-Johnson Rd	073	Prince Edward County	073	Prince Edward County	0.60	73-608 First Rock Rd	Dead End	70	R							X						05/26/2005
+760488	  73	00740	     	73-740	Copper Hill Rd	073	Prince Edward County	073	Prince Edward County	0.80	73-636 Poorhouse Rd	Dead End	70	R							X						05/14/2008
+760489	  73	00742	     	73-742	Oak Grove Rd	073	Prince Edward County	073	Prince Edward County	0.30	Dead End	73-630 Redd Shop Rd	20	R							X						05/27/2008
+760490	  73	00743	     	73-743	Scott Rd	073	Prince Edward County	073	Prince Edward County	0.26	Dead End	SCL Farmville	620	R							X						06/06/2005
+760491	  73	00744	     	73-744	Whispering Wood Rd	073	Prince Edward County	073	Prince Edward County	1.55	US 15 Farmville Rd	Dead End	70	R							X						06/02/2008
+760492	  73	00745	     	73-745	Giles Rd	073	Prince Edward County	073	Prince Edward County	0.67	SR 307	Dead End	200	R							X						05/14/2008
+760493	  73	00746	     	73-746	Carr Rd	073	Prince Edward County	073	Prince Edward County	0.86	73-652 Harris Creek Rd	Cul-de-Sac	100	R							X						05/26/2005
+760494	  73	00747	     	73-747	Briery Church Rd	073	Prince Edward County	073	Prince Edward County	0.21	73-654 Briery Rd	Dead End	60	R							X						06/02/2008
+760495	  73	00748	     	73-748	Watson Rd	073	Prince Edward County	073	Prince Edward County	0.23	73-638 Persimmon Tree Fork Rd	Dead End	90	R							X						05/19/2008
+760496	  73	00749	     	73-749	Mayhew-Hudson Rd	073	Prince Edward County	073	Prince Edward County	0.40	Dead End	73-632 Schultz Mill Rd	50	R							X						05/21/2008
+760497	  73	00750	     	73-750	Beltline Rd	073	Prince Edward County	073	Prince Edward County	0.52	73-654 Briery Rd	Dead End	30	R							X						05/31/2005
+760498	  73	00751	     	73-751	Hidden Lake Rd	073	Prince Edward County	073	Prince Edward County	2.20	73-657 Sulphur Spring Rd	73-685 Pineview Rd	140	R							X						05/21/2008
+760499	  73	00751	     	73-751	Hidden Lake Rd	073	Prince Edward County	073	Prince Edward County	0.02	73-685 Pineview Rd	US 460	220	R							X						06/13/2005
+760500	  73	00752	     	73-752	Waltons Rd	073	Prince Edward County	073	Prince Edward County	0.28	73-633 Mt Pleasant Rd	Dead End	80	R							X						05/21/2008
+760501	  73	00753	     	73-753	Weavexx Rd	073	Prince Edward County	073	Prince Edward County	0.13	NWCL Farmville	Dead End	40	R							X						06/02/2008
+760502	  73	00754	     	73-754	Shady Grove Rd	073	Prince Edward County	073	Prince Edward County	0.25	Dead End	73-630 Redd Shop Rd	60	R							X						05/27/2008
+760503	  73	00755	     	73-755	Isham	073	Prince Edward County	073	Prince Edward County	0.55	73-720 Rattlers Branch Rd	Dead End	110	R							X						05/21/2008
+760504	  73	00756	     	73-756	Cedar Point Rd	073	Prince Edward County	073	Prince Edward County	1.20	US 460	Dead End	240	R							X						05/19/2008
+760505	  73	00757	     	73-757	South Fork Rd	073	Prince Edward County	073	Prince Edward County	0.60	Dead End	73-663 Baker Mountain Rd	70	R							X						05/27/2008
+760506	  73	00758	     	73-758	County Shop Rd	073	Prince Edward County	073	Prince Edward County	0.32	US 15 Farmville Rd	Dead End	440	R							X						05/27/2008
+760507	  73	00759	     	73-759	Mud Dusty Rd	073	Prince Edward County	073	Prince Edward County	1.00	Dead End	US 15 Farmville Rd	60	R							X						06/02/2008
+760508	  73	00760	     	73-760	Mitchell Rd	073	Prince Edward County	073	Prince Edward County	0.45	73-626	Dead End	100	R							X						05/21/2008
+760509	  73	00761	     	73-761	Coleman Rd	073	Prince Edward County	073	Prince Edward County	0.45	73-627 Hixburg Rd	Dead End	20	R							X						05/14/2008
+760510	  73	00762	     	73-762	Henderson Rd	073	Prince Edward County	073	Prince Edward County	0.40	Dead End	US 15 Farmville Rd	70	R							X						06/02/2008
+760511	  73	00763	     	73-763	Glenn Carson Rd	073	Prince Edward County	073	Prince Edward County	0.15	US 460	Dead End	80	R							X						05/21/2008
+760512	  73	00764	     	73-764	Sam Stiff Rd	073	Prince Edward County	073	Prince Edward County	0.40	Dead End	73-650 Twenty Two Rd	50	R							X						05/21/2008
+760513	  73	00765	     	73-765	Glascook Rd	073	Prince Edward County	073	Prince Edward County	0.33	Dead End	US 360 Kings Hwy	10	R							X						05/21/2008
+760514	  73	00766	     	73-766	Old Peach Tree Rd	073	Prince Edward County	073	Prince Edward County	0.38	73-662	Dead End	30	R							X						05/21/2008
+760515	  73	00767	     	73-767	Brickett Rd	073	Prince Edward County	073	Prince Edward County	0.18	Dead End	73-695 Tuggle Rd	70	R							X						06/09/2005
+760516	  73	00768	     	73-768	Slayton Corner Rd	073	Prince Edward County	073	Prince Edward County	0.22	Dead End	73-695 Tuggle Rd	110	R							X						05/26/2005
+406254	  73	00768	     	73-768	Tuggle Rd	073	Prince Edward County	073	Prince Edward County	0.22	73-695 Tuggle Rd	US 15 Sheppards Rd	1300	F	97%	0%	1%	1%	0%	0%	C	0.0951	F	0.6074	1400	F	2008
+760517	  73	00769	     	73-769	Rockhouse Rd	073	Prince Edward County	073	Prince Edward County	1.10	73-619 Lockett Rd	Dead End	20	R							X						05/14/2008
+760518	  73	00770	     	73-770	Pleasant View Rd	073	Prince Edward County	073	Prince Edward County	0.30	73-671	Dead End	2	R							X						05/27/2008
+760519	  73	00771	     	73-771	Briery Way Rd	073	Prince Edward County	073	Prince Edward County	0.36	Dead End	US 15 Farmville Rd	80	R							X						06/02/2008
+760520	  73	00772	     	73-772	Pollard Rd	073	Prince Edward County	073	Prince Edward County	0.20	73-654 Briery Rd	Dead End	20	R							X						05/31/2005
+760521	  73	00773	     	73-773	Trashmore Rd	073	Prince Edward County	073	Prince Edward County	0.23	73-648 Hardtimes Rd	Dead End	550	R							X						06/02/2008
+760522	  73	00775	     	73-775	Dungee Rd	073	Prince Edward County	073	Prince Edward County	0.50	Dead End	73-657 Hendricks Rd	130	R							X						05/21/2008
+786677	  73	00776	     	73-776	Rhodies Rd	073	Prince Edward County	073	Prince Edward County	0.65	US 460	Dead End	80	R							X						05/26/2005
+793335	  73	00777	     	73-777	Hatters Creek Rd	073	Prince Edward County	073	Prince Edward County	0.97	73-623 Twin Bridges Rd	Cul-de-Sac	48	R							X						05/21/2008
+787952	  73	00778	     	73-778	Dominion Dr	073	Prince Edward County	073	Prince Edward County	0.34	US 15 Farmville Rd	Dead End	50	R							X						05/19/2005
+787953	  73	00779	     	73-779	Dominion Dr	073	Prince Edward County	073	Prince Edward County	0.16	73-778 Dominion Dr	73-628 Commerce Rd	310	R							X						05/19/2005
+760523	  73	00780	     	73-780	Old Oak Rd	073	Prince Edward County	073	Prince Edward County	0.60	Dead End	73-648 Hardtimes Rd	70	R							X						06/02/2008
+794662	  73	00781	     	73-781	 	073	Prince Edward County	073	Prince Edward County	0.50	Dead End	73-604 Abilene Rd	0	?							X
+760524	  73	00785	     	73-785	Bakers Circle Rd	073	Prince Edward County	073	Prince Edward County	0.50	Dead End	73-669 Moose Creek Rd	20	R							X						05/27/2008
+760525	  73	00790	     	73-790	Briery Lake Rd	073	Prince Edward County	073	Prince Edward County	0.69	Dead End	US 15 Farmville Rd	120	R							X						06/02/2008
+760526	  73	01001	     	73-1001	Via Sacra Rd	073	Prince Edward County	073	Prince Edward County	0.85	Dead End	73-692 Kingsville Rd	1100	R							X						05/19/2005
+760527	  73	01002	     	73-1002	Atkinson Ave	073	Prince Edward County	073	Prince Edward County	0.07	73-692 Kingsville Rd	73-1005 W, Fraternity Circle Rd	880	R							X						05/19/2005
+760528	  73	01002	     	73-1002	Atkinson Ave	073	Prince Edward County	073	Prince Edward County	0.43	73-1005 W, Fraternity Circle Rd	Dead End	610	R							X						05/19/2005
+760529	  73	01003	     	73-1003	Mercy Seat Rd	073	Prince Edward County	073	Prince Edward County	0.15	Dead End	73-692	30	R							X						05/19/2005
+760530	  73	01004	     	73-1004	Bethlehem Rd	073	Prince Edward County	073	Prince Edward County	0.20	73-692	Dead End	80	R							X						05/19/2005
+760531	  73	01005	     	73-1005	Fraternity Circle Rd	073	Prince Edward County	073	Prince Edward County	0.23	73-1002 W, Atkinson Ave	73-1002 E, Atkinson Ave	190	R							X						05/19/2005
+760532	  73	01006	     	73-1006	Mil-Scott Rd	073	Prince Edward County	073	Prince Edward County	0.40	Dead End	73-692	20	R							X						06/02/2008
+760533	  73	01007	     	73-1007	Highway Shop Rd	073	Prince Edward County	073	Prince Edward County	0.10	SR 133	0.10 ME SR 133	190	R							X						05/19/2005
+760534	  73	01007	     	73-1007	Highway Shop Rd	073	Prince Edward County	073	Prince Edward County	0.25	0.10 ME SR 133	Dead End	70	R							X						05/19/2005
+760535	  73	01008	     	73-1008	Venable Lane	073	Prince Edward County	073	Prince Edward County	0.07	73-692 Kingsville Rd	Dead End	70	R							X						05/19/2005
+760536	  73	01009	     	73-1009	Price Dr	073	Prince Edward County	073	Prince Edward County	0.27	SCL Farmville	73-1010 Louise St	330	R							X						05/31/2005
+760537	  73	01009	     	73-1009	Price Dr	073	Prince Edward County	073	Prince Edward County	0.23	73-1010 Louise St	73-1012 Dodd St	300	R							X						05/31/2005
+760538	  73	01009	     	73-1009	Price Dr	073	Prince Edward County	073	Prince Edward County	0.12	73-1012 Dodd St	73-1011 Lakeview Lane	300	R							X						05/31/2005
+760539	  73	01009	     	73-1009	Price Dr	073	Prince Edward County	073	Prince Edward County	0.17	73-1011 Lakeview Lane	73-1013 Winky St	250	R							X						05/31/2005
+760540	  73	01009	     	73-1009	Price Dr	073	Prince Edward County	073	Prince Edward County	0.10	73-1013 Winky St	Dead End	40	R							X						05/31/2005
+760541	  73	01010	     	73-1010	Louise St	073	Prince Edward County	073	Prince Edward County	0.16	73-1025 Wooten St; Smith St	73-1009 Price Dr	40	R							X						05/31/2005
+760542	  73	01011	     	73-1011	Lakeview Lane	073	Prince Edward County	073	Prince Edward County	0.17	73-1009 Price Dr	Dead End	100	R							X						05/31/2005
+760543	  73	01012	     	73-1012	Dodd St	073	Prince Edward County	073	Prince Edward County	0.18	Dead End	73-1009 Price Dr	70	R							X						05/31/2005
+760544	  73	01013	     	73-1013	Winky St	073	Prince Edward County	073	Prince Edward County	0.19	Dead End	73-1009 Price Dr	90	R							X						05/31/2005
+760545	  73	01014	     	73-1014	Briery Rd	073	Prince Edward County	073	Prince Edward County	0.43	Cul-de-Sac	73-1015 Hardy Dr	200	R							X						06/06/2005
+760546	  73	01014	     	73-1014	Briery Rd	073	Prince Edward County	073	Prince Edward County	0.19	73-1015 Hardy Dr	73-743 Scott Rd	330	R							X						06/06/2005
+760547	  73	01015	     	73-1015	Hardy Dr	073	Prince Edward County	073	Prince Edward County	0.11	73-1014 Briery Rd	Cul-de-Sac	40	R							X						06/06/2005
+760548	  73	01016	     	73-1016	Shields Circle	073	Prince Edward County	073	Prince Edward County	0.11	73-1014 Briery Rd	Cul-de-Sac	50	R							X						06/06/2005
+782597	  73	01017	     	73-1017	Briarwood Dr	073	Prince Edward County	073	Prince Edward County	0.12	Dead End	73-1014 Briery Rd	60	R							X						06/06/2005
+782598	  73	01018	     	73-1018	 	073	Prince Edward County	073	Prince Edward County	0.09	Dead End	73-1017 Briarwood Dr	60	R							X						06/06/2005
+760549	  73	01020	     	73-1020	Massey Lane	073	Prince Edward County	073	Prince Edward County	0.11	73-1021 Ropp Lane	73-1001 Via Sacra Rd	110	R							X						06/02/2008
+760550	  73	01021	     	73-1021	Ropp Lane	073	Prince Edward County	073	Prince Edward County	0.09	Dead End	73-1020 Massey Lane	40	R							X						06/02/2008
+760551	  73	01021	     	73-1021	Ropp Lane	073	Prince Edward County	073	Prince Edward County	0.05	73-1020 Massey Lane	Dead End	40	R							X						06/02/2008
+760552	  73	01025	     	73-1025	Smith St	073	Prince Edward County	073	Prince Edward County	0.49	73-1026 Booth St	73-1010 Louise St	100	R							X						05/19/2008
+782599	  73	01025	     	73-1025	Wooten St	073	Prince Edward County	073	Prince Edward County	0.17	73-1010 Louise St	Cul-de-Sac	110	R							X						05/19/2008
+760553	  73	01026	     	73-1026	Booth St	073	Prince Edward County	073	Prince Edward County	0.05	Cul-de-Sac	73-1025 Smith St	40	R							X						05/19/2008
+760554	  73	01030	     	73-1030	 	073	Prince Edward County	073	Prince Edward County	0.70	US 15 Farmville Rd	Dead End	90	R							X						05/19/2005
+760555	  73	09877	     	73-9877	 	073	Prince Edward County	073	Prince Edward County	0.18	Pr Edward High School	73-628 Commerce Rd	1400	R							X						05/19/2008
+760556	  73	09957	     	73-9957	 	073	Prince Edward County	073	Prince Edward County	0.12	Pr Edward Elem School	73-628 Commerce Rd	120	R							X						05/19/2008
+629021	 144	00001	     	144-1	Industrial Park Dr	144	Town of Farmville	144	Town of Farmville	0.36	US 15 Third St	73-753 Weavexx Rd	1700	F	97%	1%	1%	0%	1%	0%	C	0.1317	F	0.0000	1900	F	2008
+629022	 144	00001	     	144-1	Industrial Park Dr	144	Town of Farmville	144	Town of Farmville	0.74	73-753 Weavexx Rd	0.74 MI N OF 73-753 Weavexx Rd	780	F	97%	1%	1%	0%	1%	0%	C	0.1040	F	0.5196	850	F	2008
+629034	 144	00002	     	144-2	2nd St	144	Town of Farmville	144	Town of Farmville	0.13	North St	South St	2000	F	98%	1%	1%	0%	0%	0%	C	0.0988	F	0.5540	2100	F	2008
+629032	 144	00004	     	144-4	North St	144	Town of Farmville	144	Town of Farmville	0.11	High St	Bus US 15, Bus US 460 Third St	2100	F	98%	0%	1%	1%	0%	0%	C	0.0994	F	0.6608	2300	F	2008
+629033	 144	00004	     	144-4	North St	144	Town of Farmville	144	Town of Farmville	0.08	Bus US 15, Bus US 460 Third St	Second St	2500	F	98%	0%	1%	0%	0%	0%	C	0.1084	F	0.5658	2700	F	2008
+629038	 144	00005	     	144-5	South St	144	Town of Farmville	144	Town of Farmville	0.12	4th St	Bus US 460 3rd St	1500	F	97%	0%	2%	0%	0%	0%	C	0.1079	F	0.5398	1600	F	2008
+629037	 144	00005	     	144-5	South St	144	Town of Farmville	144	Town of Farmville	0.09	Bus US 460 3rd St	2nd St	1100	F	98%	0%	1%	0%	0%	0%	C	0.1174	F	0.5570	1200	F	2008
+629018	 144	03851	     	144-3851	Griffin Blvd	144	Town of Farmville	144	Town of Farmville	0.79	Main St	High St	7700	F	98%	0%	2%	0%	0%	0%	C	0.0894	F	0.0000	8400	F	2008
+629019	 144	03852	     	144-3852	High St	144	Town of Farmville	144	Town of Farmville	0.62	WCL Farmville	4Th Ave	2000	F	98%	0%	1%	1%	0%	0%	F	0.1137	F	0.5738	2100	F	2008
+629020	 144	03852	     	144-3852	High St	144	Town of Farmville	144	Town of Farmville	0.38	4Th Ave	Oak St	2500	F	98%	0%	1%	1%	0%	0%	C	0.1067	F	0.6167	2700	F	2008
+629040	 144	03853	     	144-3853	Virginia St	144	Town of Farmville	144	Town of Farmville	0.27	Church St	Longwood Ave	2400	F	98%	0%	1%	0%	0%	0%	C	0.1039	F	0.5146	2600	F	2008
+629041	 144	03853	     	144-3853	Virginia St	144	Town of Farmville	144	Town of Farmville	0.10	Longwood Ave	Third St	3000	F	98%	0%	1%	0%	0%	0%	F	0.1082	F	0.5335	3300	F	2008
+629016	 144	03854	     	144-3854	Barrow St	144	Town of Farmville	144	Town of Farmville	0.13	First Avenue	Griffin Blvd	860	F	97%	1%	2%	0%	1%	0%	C	0.1038	F	0.6000	930	F	2008
+629017	 144	03856	     	144-3856	Gilliam Dr	144	Town of Farmville	144	Town of Farmville	0.23	4Th Ave	Main St	840	F	99%	0%	1%	0%	0%	0%	C	0.0974	F	0.5532	910	F	2008
+629039	 144	03857	     	144-3857	Venable St	144	Town of Farmville	144	Town of Farmville	0.18	High St	Main St	1600	F	99%	0%	1%	0%	0%	0%	C	0.1062	F	1.0000	1700	F	2008
+629030	 144	03860	     	144-3860	Milnwood Rd	144	Town of Farmville	144	Town of Farmville	1.52	Bus US 15 Main St	Bus US 460 Third St	5600	F	98%	0%	1%	0%	0%	0%	C	0.0975	F	0.0000	6000	F	2008
+629031	 144	03860	     	144-3860	Persimmon Tree Fork Rd	144	Town of Farmville	144	Town of Farmville	0.47	Bus US 460 Third St	73-638 ECL Farmville	600	F	96%	1%	2%	0%	1%	0%	C	0.0933	F	0.7385	650	F	2008
+629035	 144	03862	     	144-3862	Plank Rd	144	Town of Farmville	144	Town of Farmville	0.58	WCL Farmville	Main St	1800	F	97%	1%	1%	1%	1%	0%	C	0.1014	F	0.5598	2000	F	2008
+629036	 144	03862	     	144-3862	River Rd	144	Town of Farmville	144	Town of Farmville	0.55	Main St	ECL Farmville	710	F	98%	0%	1%	0%	0%	0%	C	0.0992	F	0.6753	780	F	2008
+629023	 144	03864	     	144-3864	4th St	144	Town of Farmville	144	Town of Farmville	0.16	Bus US 15 South Main St	Virginia St	2200	F	98%	0%	1%	0%	0%	0%	C	0.1005	F	0.5447	2400	F	2008
+629024	 144	03864	     	144-3864	Longwood Ave	144	Town of Farmville	144	Town of Farmville	0.55	Virginia St	Cedar Ave	1800	F	98%	0%	1%	0%	0%	0%	F	0.1149	F	0.6265	1900	F	2008
+629025	 144	03864	     	144-3864	Longwood Ave	144	Town of Farmville	144	Town of Farmville	0.49	Cedar Ave	Bus US 460 Third St	2100	F	98%	0%	1%	0%	0%	0%	C	0.1286	F	0.0000	2300	F	2008
+529011	 144	00000	     	144-0	1st Avenue	144	Town of Farmville	144	Town of Farmville	0.00	School St	Franklin St	620	F							X	0.1055	F	0.6107	680	F	2008
+529009	 144	00000	     	144-0	4th Avenue	144	Town of Farmville	144	Town of Farmville	0.00	School St	Fayette St	80	F							X	0.1638	F	0.5172	90	F	2008
+529002	 144	00000	     	144-0	Agee St	144	Town of Farmville	144	Town of Farmville	0.00	Cobb St	West Third St	940	F							X	0.1164	F	0.5771	1000	F	2008
+529005	 144	00000	     	144-0	Bizarre St	144	Town of Farmville	144	Town of Farmville	0.00	Georgia St	Jefferson St	140	F							X	0.1254	F	0.7619	150	F	2008
+529001	 144	00000	     	144-0	Cobb St	144	Town of Farmville	144	Town of Farmville	0.00	Agee St	Holman St	70	F							X	0.1875	F	0.5000	80	F	2008
+529012	 144	00000	     	144-0	Edmund St	144	Town of Farmville	144	Town of Farmville	0.00	Hill St	Griffin Blvd	130	F							X	0.1547	F	0.7963	140	F	2008
+529007	 144	00000	     	144-0	Georgia St	144	Town of Farmville	144	Town of Farmville	0.00	Stepney St	Monroe St	80	F							X	0.1798	F	0.9688	90	F	2008
+529003	 144	00000	     	144-0	Holman St	144	Town of Farmville	144	Town of Farmville	0.00	Cobb St	West Third St	220	F							X	0.1178	F	0.6866	240	F	2008
+529016	 144	00000	     	144-0	Hylawn Ave	144	Town of Farmville	144	Town of Farmville	0.00	Gum St	ECL Farmville	340	F							X	0.1193	F	0.6522	370	F	2008
+529004	 144	00000	     	144-0	Monroe St	144	Town of Farmville	144	Town of Farmville	0.00	Georgia St	Maryland St	160	F							X	0.1253	F	0.6087	180	F	2008
+529006	 144	00000	     	144-0	Osborne Rd	144	Town of Farmville	144	Town of Farmville	0.00	Main St	Jefferson St	570	F							X	0.1051	F	0.5940	610	F	2008
+529013	 144	00000	     	144-0	Park Ave	144	Town of Farmville	144	Town of Farmville	0.00	Watson St	Serpell St	140	F							X	0.1323	F	0.5814	150	F	2008
+529014	 144	00000	     	144-0	Richardson St	144	Town of Farmville	144	Town of Farmville	0.00	Watson St	Glenn St	30	F							X	0.3590	F	0.8571	30	F	2008
+529008	 144	00000	     	144-0	School St	144	Town of Farmville	144	Town of Farmville	0.00	4th Ave	3rd Ave	46	F							X	0.2500	F	0.5926	50	F	2008
+529015	 144	00000	     	144-0	Vaughan St	144	Town of Farmville	144	Town of Farmville	0.00	Longwood Ave	Third St	730	F							X	0.0998	F	0.0000	790	F	2008
+529010	 144	00000	     	144-0	Watkins St	144	Town of Farmville	144	Town of Farmville	0.00	Chambers St	Redford St	110	F							X	0.1417	F	0.6667	120	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

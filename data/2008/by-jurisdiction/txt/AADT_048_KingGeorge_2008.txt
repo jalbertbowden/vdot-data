@@ -1,0 +1,394 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+King George Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+160038	  SR	00003	     	VA 3	Kings Hwy	048	King George County	048	King George County	3.68	Stafford County Line	48-605 Bloomsbury Rd; LaGrange Lane	20000	G	95%	1%	2%	1%	2%	0%	F	0.0916	F	0.5022	22000	G	2008
+160039	  SR	00003	     	VA 3	Kings Hwy	048	King George County	048	King George County	4.79	48-605 Bloomsbury Rd; LaGrange Lane	SR 206 Arnolds Corner	18000	G	95%	1%	2%	1%	2%	0%	C	0.0894	F	0.5115	20000	G	2008
+160040	  SR	00003	     	VA 3	Kings Hwy	048	King George County	048	King George County	2.58	SR 206 Arnolds Corner	SR 205 Purkins Corner	15000	G	95%	1%	2%	1%	2%	0%	F	0.0886	F	0.5229	16000	G	2008
+160041	  SR	00003	     	VA 3	Kings Hwy	048	King George County	048	King George County	1.56	SR 205 Purkins Corner	US 301 Office Hall	7400	G	95%	1%	2%	1%	2%	0%	F	0.0818	F	0.6650	7600	G	2008
+160042	  SR	00003	     	VA 3	Kings Hwy	048	King George County	048	King George County	7.18	US 301 Office Hall	Westmoreland County Line	5400	G	91%	1%	2%	1%	4%	0%	C	0.0892	F	0.6537	5800	G	2008
+060216	  SR	00205	     	VA 205	Ridge Rd	048	King George County	048	King George County	1.26	SR 3 Purkins Corner	US 301 Edge Hill	8200	G	96%	1%	2%	1%	1%	0%	F	0.0947	F	0.5012	8900	G	2008
+060007	  SR	00205	     	VA 205	Ridge Rd	048	King George County	048	King George County	2.81	US 301 Edge Hill	48-617 Carruthers Corner	4400	G	96%	1%	2%	1%	1%	0%	F	0.0899	F	0.6384	4800	G	2008
+060215	  SR	00205	     	VA 205	Ridge Rd	048	King George County	048	King George County	3.36	48-617 Carruthers Corner	Westmoreland County Line	4000	G	96%	1%	2%	1%	1%	0%	C	0.0851	F	0.6817	4300	G	2008
+060219	  SR	00206	     	VA 206	Dalgren Rd	048	King George County	048	King George County	2.18	SR 3 Arnolds Corner	48-610 Indiantown Rd	9200	G	97%	1%	1%	0%	1%	0%	F	0.1024	F	0.6406	10000	G	2008
+060084	  SR	00206	     	VA 206	Dahlgren Rd	048	King George County	048	King George County	4.26	48-610 Indiantown Rd	SR 218 Berthaville	8200	G	97%	1%	1%	0%	1%	0%	C	0.1028	F	0.7031	8800	G	2008
+060218	  SR	00206	     	VA 206, VA 218	Dahlgren Rd	048	King George County	048	King George County	2.19	SR 218 Berthaville	SR 218 Owens	11000	G	97%	1%	1%	0%	1%	0%	F	0.1067	F	0.8074	12000	G	2008
+060009	  SR	00206	     	VA 206	Dahlgren Rd	048	King George County	048	King George County	0.62	SR 218 Owens	US 301 East of Owens	10000	G	97%	1%	1%	0%	1%	0%	F	0.1039	F	0.8301	11000	G	2008
+060217	  SR	00206	     	VA 206	Dahlgren Rd	048	King George County	048	King George County	1.79	US 301 East of Owens	48-604 Twelfth St	11000	G	97%	1%	1%	0%	1%	0%	F	0.0974	F	0.8353	12000	G	2008
+060222	  SR	00218	     	VA 218	Caledon Rd	048	King George County	048	King George County	5.93	Stafford County Line	48-696 Fairview Dr	3200	G	97%	1%	1%	0%	1%	0%	F	0.1159	F	0.5630	3500	G	2008
+060013	  SR	00218	     	VA 218	Caledon Rd	048	King George County	048	King George County	1.05	48-696 Fairview Dr	48-609 Cash Corner	2800	G	97%	1%	1%	0%	1%	0%	C	0.1139	F	0.7243	3100	G	2008
+060221	  SR	00218	     	VA 218	Caledon Rd	048	King George County	048	King George County	6.81	48-609 Cash Corner	SR 206 Berthaville	2500	G	97%	1%	1%	0%	1%	0%	F	0.1300	F	0.7711	2700	G	2008
+060218	  SR	00218	     	VA 206, VA 218	Dahlgren Rd	048	King George County	048	King George County	2.19	SR 206 Berthaville	SR 206 Owens	11000	G	97%	1%	1%	0%	1%	0%	F	0.1067	F	0.8074	12000	G	2008	
+060011	  SR	00218	     	VA 218	Windsor Dr	048	King George County	048	King George County	0.28	SR 206 Owens	US 301 South of Owens	1100	G	98%	0%	1%	0%	1%	0%	F	0.1052	F	0.5356	1200	G	2008
+060220	  SR	00218	     	VA 218	Windsor Dr	048	King George County	048	King George County	6.02	US 301 South of Owens	SR 205 East of Tetotum	4800	G	98%	0%	1%	0%	1%	0%	C	0.0971	F	0.7583	5200	G	2008
+060227	  US	00301	     	US 301	James Madison Pkwy	048	King George County	048	King George County	3.05	Caroline County Line	48-623 Jersey Rd	12000	G	90%	1%	1%	1%	8%	0%	F	0.0898	F	0.5620	11000	G	2008
+060226	  US	00301	     	US 301	James Madison Pkwy	048	King George County	048	King George County	2.05	48-623 Jersey Rd	SR 3 Kings Hwy	12000	G	90%	1%	1%	1%	8%	0%	F	0.0911	F	0.5837	11000	G	2008
+060225	  US	00301	     	US 301	James Madison Pkwy	048	King George County	048	King George County	1.91	SR 3 Kings Hwy	SR 205 Ridge Rd	13000	G	90%	1%	1%	1%	8%	0%	F	0.0894	F	0.6065	12000	G	2008
+160009	  US	00301	     	US 301	James Madison Pkwy	048	King George County	048	King George County	5.91	SR 205 Ridge Rd	SR 218 Windsor Dr	14000	A	90%	1%	1%	1%	8%	0%	C	0.1237	A	0.6266	14000	A	2008
+060224	  US	00301	     	US 301	James Madison Pkwy	048	King George County	048	King George County	0.56	SR 218 Windsor Dr	SR 206 Dahlgren Rd	19000	G	90%	1%	1%	1%	8%	0%	F	0.0921	F	0.7007	18000	G	2008
+060223	  US	00301	     	US 301	James Madison Pkwy	048	King George County	048	King George County	3.58	SR 206 Dahlgren Rd	Maryland State Line	19000	G	90%	1%	1%	1%	8%	0%	F	0.0875	F	0.5787	17000	G	2008
+780887	  FR	00970	     	FR 970	 	048	King George County	048	King George County	0.09	Dead End	US 301 James Madison Pkwy	0	?							X
+747962	  48	00600	     	48-600	Passapatanzy Dr	048	King George County	048	King George County	1.68	SR 218 Caledon Rd	48-658 Cedar Ridge Lane	580	R							X						03/12/2001
+747963	  48	00600	     	48-600	Passapatanzy Dr	048	King George County	048	King George County	1.04	48-658 Cedar Ridge Lane	Stafford County Line	200	R							X						03/12/2001
+747964	  48	00601	     	48-601	Gera Rd	048	King George County	048	King George County	1.30	48-631 Millbank Rd	48-686 Mt Rose Dr	260	R							X						04/02/2001
+747965	  48	00602	     	48-602	Chapel Green Rd	048	King George County	048	King George County	0.80	Stafford County Line	48-603 Y Intersection Leg	290	R							X						03/14/2001
+747966	  48	00603	     	48-603	Fletchers Chapel Rd	048	King George County	048	King George County	1.16	SR 3 Kings Hwy	48-602 Chapel Green Rd	900	R							X						03/14/2001
+747967	  48	00603	     	48-603	Fletchers Chapel Rd	048	King George County	048	King George County	1.27	48-602 Chapel Green Rd	48-1021 Forest Ridge Dr	560	R							X						03/14/2001
+747968	  48	00603	     	48-603	Fletchers Chapel Rd	048	King George County	048	King George County	0.63	48-1021 Forest Ridge Dr	SR 218 W, Caledon Rd	360	R							X						03/14/2001
+747969	  48	00603	     	48-603	Y Intersection Leg	048	King George County	048	King George County	0.04	SR 218 WEST	SR 218 E, Caledon Rd	3700	R							X						12/15/2008
+747970	  48	00603	     	48-603	Fletchers Chapel Rd	048	King George County	048	King George County	0.15	SR 218 E, Caledon Rd	48-605 Chapel Way	90	R							X						03/14/2001
+747971	  48	00603	     	48-603	Fletchers Chapel Rd	048	King George County	048	King George County	0.79	48-605 Chapel Way	0.79 MN 48-605 Chapel Way	90	R							X						03/14/2001
+747972	  48	00603	     	48-603	Dogwood Lane	048	King George County	048	King George County	0.80	0.79 MN 48-605 Chapel Way	Dead End	120	R							X						09/14/2004
+404475	  48	00604	     	48-604	Twelfth St	048	King George County	048	King George County	0.23	48-614 Potomac Dr	SR 206 Dahlgren Rd	350	G	97%	2%	1%	0%	0%	0%	C	0.1267	F	0.7174	380	G	2008
+747973	  48	00605	     	48-605	LaGrange Lane	048	King George County	048	King George County	0.75	Dead End	SR 3 Kings Hwy	290	R							X						03/22/2001
+747974	  48	00605	     	48-605	Bloomsbury Rd	048	King George County	048	King George County	1.20	SR 3 Kings Hwy	48-665 Birchwood Creek Lane	920	R							X						03/22/2001
+747975	  48	00605	     	48-605	Bloomsbury Rd	048	King George County	048	King George County	2.20	48-665 Birchwood Creek Lane	SR 218 Caledon Rd	600	R							X						03/22/2001
+747976	  48	00605	     	48-605	Chapel Way	048	King George County	048	King George County	0.20	SR 218 Caledon Rd	48-603 Y Intersection Leg	40	R							X						09/14/2004
+747977	  48	00606	     	48-606	Rokeby Lane	048	King George County	048	King George County	0.50	Dead End	0.50 ME Dead End	60	R							X						10/12/2004
+747978	  48	00606	     	48-606	Rokeby Lane	048	King George County	048	King George County	0.11	0.50 ME Dead End	SR 3; 48-677	80	R							X						05/02/2001
+404476	  48	00607	     	48-607	Port Conway Rd	048	King George County	048	King George County	0.90	US 301; 48-625	48-631 Millbank Rd	1000	G	85%	2%	2%	2%	9%	0%	F	0.0984	F	0.5000	1100	G	2008
+404477	  48	00607	     	48-607	Port Conway Rd	048	King George County	048	King George County	3.04	48-631 Millbank Rd	48-610 Powhatan Rd	890	G	85%	2%	2%	2%	9%	0%	C	0.1177	F	0.7257	960	G	2008
+404478	  48	00607	     	48-607	Port Conway Rd	048	King George County	048	King George County	2.75	48-610 Powhatan Rd	SR 3 Kings Hwy	1300	G	79%	3%	2%	5%	11%	0%	C	0.0900	F	0.5435	1400	G	2008
+747979	  48	00608	     	48-608	Muscoe Pl	048	King George County	048	King George County	2.38	48-694 Lambs Creek Church Rd	48-609 N, Comorn Rd	240	R							X						05/02/2001
+747980	  48	00608	     	48-608	Igo Rd	048	King George County	048	King George County	0.79	48-609 S, Comorn Rd	Dead End	70	R							X						05/02/2001
+404479	  48	00609	     	48-609	Comorn Rd	048	King George County	048	King George County	0.32	SR 3 Kings Hwy	48-677 Stanley Rd	2600	G	96%	1%	1%	1%	0%	0%	C	0.0919	F	0.5692	2800	G	2008
+404480	  48	00609	     	48-609	Comorn Rd	048	King George County	048	King George County	0.53	48-677 Stanley Rd	48-608 S, Igo Rd	3400	G	96%	1%	1%	1%	0%	0%	F	0.0946	F	0.5994	3700	G	2008
+404481	  48	00609	     	48-609	Comorn Rd	048	King George County	048	King George County	1.31	48-608 S, Igo Rd	48-649 Marmion Lane	1700	G	96%	1%	1%	1%	0%	0%	F	0.0988	F	0.5198	1800	G	2008
+404482	  48	00609	     	48-609	Comorn Rd	048	King George County	048	King George County	0.53	48-649 Marmion Lane	SR 218 Caledon Rd	1600	G	96%	1%	1%	1%	0%	0%	F	0.1009	F	0.5420	1700	G	2008
+747981	  48	00610	     	48-610	Powhatan Rd	048	King George County	048	King George County	1.63	48-607 Port Conway Rd	48-631 Millbank Rd	350	R							X						04/02/2001
+404483	  48	00610	     	48-610	Millbank Rd	048	King George County	048	King George County	1.30	48-631 Millbank Rd	48-678 St Anthonys	660	G	97%	2%	1%	0%	0%	0%	F	0.1296	F	0.5968	720	G	2008
+404484	  48	00610	     	48-610	Millbank Rd	048	King George County	048	King George County	0.08	48-678 St Anthonys	SR 3 W, Kings Hwy	1500	G	97%	2%	1%	0%	0%	0%	F	0.1328	F	0.5381	1600	G	2008
+404485	  48	00610	     	48-610	Indiantown Rd	048	King George County	048	King George County	1.80	SR 3 E, Kings Hwy	SR 206 Dahlgren Rd; Dalgren Rd	1300	G	97%	2%	1%	0%	0%	0%	C	0.1034	F	0.5101	1400	G	2008
+747982	  48	00610	     	48-610	Indiantown Rd	048	King George County	048	King George County	0.50	SR 206 Dahlgren Rd; Dalgren Rd	48-1210 Michael Dr	1600	R							X						04/30/2001
+747983	  48	00610	     	48-610	Indiantown Rd	048	King George County	048	King George County	2.21	48-1210 Michael Dr	SR 218 Caledon Rd	260	R							X						04/30/2001
+404486	  48	00611	     	48-611	Hanover Church Rd	048	King George County	048	King George County	0.47	SR 205 Ridge Rd	US 301 James Madison Pkwy	630	G	97%	1%	1%	1%	0%	0%	F	0.1201	F	0.6784	680	G	2008
+404487	  48	00611	     	48-611	Eden Dr	048	King George County	048	King George County	2.24	US 301 James Madison Pkwy	SR 206 Dahlgren Rd	1000	G	97%	1%	1%	1%	0%	0%	C	0.1137	F	0.5397	1100	G	2008
+747984	  48	00612	     	48-612	Locust Dale Lane	048	King George County	048	King George County	0.20	48-610 Indiantown Rd	Dead End	90	R							X						10/12/2004
+747985	  48	00613	     	48-613	Little Ferry Rd	048	King George County	048	King George County	0.05	SR 218 Windsor Dr	0.05 ME SR 218 Windsor Dr	60	R							X						04/30/2001
+747986	  48	00613	     	48-613	Little Ferry Rd	048	King George County	048	King George County	0.80	0.05 ME SR 218 Windsor Dr	Dead End	40	R							X						09/20/2004
+404488	  48	00614	     	48-614	Potomac Dr	048	King George County	048	King George County	0.93	Dead End	SR 206 Dahlgren Rd	600	G	98%	1%	0%	0%	0%	0%	F	0.1012	F	0.6587	650	G	2008
+405442	  48	00614	     	48-614	Potomac Dr	048	King George County	048	King George County	1.16	SR 206 Dahlgren Rd	US 301 James Madison Pkwy	2800	G	98%	1%	0%	0%	0%	0%	C	0.0942	F	0.5258	3000	G	2008
+404490	  48	00614	     	48-614	Owens Dr	048	King George County	048	King George County	0.55	US 301 James Madison Pkwy	48-635 Gambo Creek Rd	2500	G	98%	1%	0%	0%	0%	0%	F	0.1001	F	0.7093	2700	G	2008
+404491	  48	00614	     	48-614	Owens Dr	048	King George County	048	King George County	0.85	48-635 Gambo Creek Rd	48-624 Mathias Point Rd	1100	G	98%	1%	0%	0%	0%	0%	F	0.1129	F	0.6985	1200	G	2008
+747987	  48	00615	     	48-615	Berry Wharf Rd	048	King George County	048	King George County	1.50	SR 218 Windsor Dr	Dead End	8	R							X						09/20/2004
+747988	  48	00616	     	48-616	Washington Mill Rd	048	King George County	048	King George County	1.86	US 301 James Madison Pkwy	SR 218 S, Windsor Dr	280	R							X						04/04/2001
+747989	  48	00616	     	48-616	Brickhouse Rd	048	King George County	048	King George County	0.80	SR 218 N, Windsor Dr	Dead End	150	R							X						04/04/2001
+747990	  48	00617	     	48-617	Poplar Neck Rd	048	King George County	048	King George County	3.35	SR 205 Ridge Rd	US 301 James Madison Pkwy	140	R							X						04/04/2001
+747991	  48	00618	     	48-618	Pumpkin Neck Rd	048	King George County	048	King George County	0.62	SR 218 Windsor Dr	Dead End	120	R							X						04/04/2001
+747992	  48	00619	     	48-619	Good Hope Rd	048	King George County	048	King George County	0.60	SR 205 Ridge Rd	SR 218 S, Windsor Dr	460	R							X						04/04/2001
+747993	  48	00619	     	48-619	Stoney Point Rd	048	King George County	048	King George County	2.00	SR 218 N, Windsor Dr	Dead End	250	R							X						04/04/2001
+747994	  48	00620	     	48-620	Alden Rd	048	King George County	048	King George County	2.15	48-629 Round Hill Rd	SR 205 Ridge Rd	60	R							X						09/22/2004
+747995	  48	00621	     	48-621	Pine Hill Rd	048	King George County	048	King George County	1.60	48-629 Round Hill Rd	SR 205 Ridge Rd	370	R							X						04/04/2001
+747996	  48	00622	     	48-622	Ashland Mill Rd	048	King George County	048	King George County	2.00	48-679 Canterbury Loop	SR 205 Ridge Rd	90	R							X						10/07/2004
+404492	  48	00623	     	48-623	Jersey Rd	048	King George County	048	King George County	1.00	US 301 James Madison Pkwy	48-650 Welcome Lane	920	G	95%	0%	1%	1%	3%	0%	C	0.0883	F	0.7263	1000	G	2008
+404493	  48	00623	     	48-623	Jersey Rd	048	King George County	048	King George County	1.70	48-650 Welcome Lane	48-647 Shiloh Loop	730	G	95%	0%	1%	1%	3%	0%	F	0.1131	F	0.7081	790	G	2008
+404494	  48	00624	     	48-624	Owens Dr	048	King George County	048	King George County	0.33	SR 206; SR 218	48-711 Dixon Lane	1400	G	97%	1%	1%	0%	0%	0%	C	0.0978	F	0.5306	1500	G	2008
+404495	  48	00624	     	48-624	Owens Dr	048	King George County	048	King George County	1.47	48-711 Dixon Lane	48-614 Owens Dr	1100	G	97%	1%	1%	0%	0%	0%	F	0.1011	F	0.8057	1200	G	2008
+747997	  48	00624	     	48-624	Mathias Point Rd	048	King George County	048	King George County	1.10	48-614 Owens Dr	48-685 Schoolhouse Rd	870	R							X						03/12/2001
+747998	  48	00624	     	48-624	Mathias Point Rd	048	King George County	048	King George County	1.20	48-685 Schoolhouse Rd	48-639 Osprey Rd	790	R							X						03/12/2001
+747999	  48	00624	     	48-624	Mathias Point Rd	048	King George County	048	King George County	1.00	48-639 Osprey Rd	Dead End	180	R							X						03/12/2001
+404496	  48	00625	     	48-625	Salem Church Rd	048	King George County	048	King George County	2.67	US 301; 48-607	48-650 Welcome Lane	280	G	98%	0%	1%	1%	0%	0%	F	0.1192	F	0.5067	310	G	2008
+404497	  48	00625	     	48-625	Salem Church Rd	048	King George County	048	King George County	3.40	48-650 Welcome Lane	SR 3 Kings Hwy	230	G	98%	0%	1%	1%	0%	0%	C	0.1347	F	0.6667	260	G	2008
+748000	  48	00625	     	48-625	Dickensons Corner Rd	048	King George County	048	King George County	1.43	SR 3 Kings Hwy	48-628 E, Stoney Knoll Rd	70	R							X						03/22/2001
+748001	  48	00625	     	48-625	Prim Rd	048	King George County	048	King George County	1.35	48-628 W, Stoney Knoll Rd	48-647 Big Timber Rd	30	R							X						09/22/2004
+748002	  48	00625	     	48-625	Prim Rd	048	King George County	048	King George County	1.60	48-647 Big Timber Rd	48-629 Round Hill Rd	60	R							X						09/22/2004
+748003	  48	00626	     	48-626	Green Law Way	048	King George County	048	King George County	0.50	Dead End	48-627 Wilmont Rd	40	R							X						09/14/2004
+748004	  48	00627	     	48-627	Wilmont Rd	048	King George County	048	King George County	1.39	Dead End	1.39 MN Dead End	40	R							X						09/14/2004
+748005	  48	00627	     	48-627	Wilmont Rd	048	King George County	048	King George County	0.15	1.39 MN Dead End	48-626 Green Law Way	60	R							X						09/14/2004
+748006	  48	00627	     	48-627	Wilmont Rd	048	King George County	048	King George County	0.90	48-626 Green Law Way	48-681 Rollens Fork Rd	110	R							X						03/22/2001
+748007	  48	00627	     	48-627	Wilmont Rd	048	King George County	048	King George County	0.25	48-681 Rollens Fork Rd	SR 3 Kings Hwy	60	R							X						03/22/2001
+748008	  48	00627	     	48-627	Kings Mill Rd	048	King George County	048	King George County	2.67	SR 3 Kings Hwy	48-628 Stoney Knoll Rd	130	R							X						09/22/2004
+404498	  48	00628	     	48-628	Stoney Knoll Rd	048	King George County	048	King George County	1.20	SR 3 Kings Hwy	48-625 E, Dickensons Corner Rd	430	G	96%	1%	1%	1%	1%	0%	F				440	G	2008
+404499	  48	00628	     	48-628	Stoney Knoll Rd	048	King George County	048	King George County	1.30	48-625 E, Dickensons Corner Rd	Westmoreland County Line	510	G	96%	1%	1%	1%	1%	0%	C	0.1047	F	0.6607	550	G	2008
+404500	  48	00629	     	48-629	Round Hill Rd	048	King George County	048	King George County	0.22	SR 3 Kings Hwy	48-710 Poplar Lane	1300	G	95%	2%	1%	1%	0%	0%	F	0.1136	F	0.6401	1400	G	2008
+404501	  48	00629	     	48-629	Round Hill Rd	048	King George County	048	King George County	1.69	48-710 Poplar Lane	48-666 W, Gulvey Loop	850	G	95%	2%	1%	1%	0%	0%	C	0.1094	F	0.6263	920	G	2008
+404502	  48	00629	     	48-629	Round Hill Rd	048	King George County	048	King George County	0.66	48-666 W, Gulvey Loop	48-620 Alden Rd	530	G	95%	2%	1%	1%	0%	0%	F	0.1119	F	0.5968	570	G	2008
+404503	  48	00629	     	48-629	Round Hill Rd	048	King George County	048	King George County	0.70	48-620 Alden Rd	48-625 Prim Rd	460	G	94%	4%	0%	1%	0%	0%	C	0.1142	F	0.5370	500	G	2008
+404504	  48	00629	     	48-629	Round Hill Rd	048	King George County	048	King George County	1.31	48-625 Prim Rd	Westmoreland County Line	430	G	94%	4%	0%	1%	0%	0%	F	0.1010	F	0.5327	460	G	2008
+748009	  48	00630	     	48-630	Kitchen Point Rd	048	King George County	048	King George County	0.25	Dead End	48-616 Brickhouse Rd	70	R							X						04/04/2001
+748010	  48	00631	     	48-631	Millbank Rd	048	King George County	048	King George County	1.00	Dead End	48-607 Port Conway Rd	20	R							X						09/14/2004
+404505	  48	00631	     	48-631	Millbank Rd	048	King George County	048	King George County	1.48	48-607 Port Conway Rd	48-669 Woodland Way	240	G	94%	3%	1%	0%	1%	0%	F	0.1287	F	0.5429	260	G	2008
+404506	  48	00631	     	48-631	Millbank Rd	048	King George County	048	King George County	0.66	48-669 Woodland Way	48-601 Gera Rd	320	G	94%	3%	1%	0%	1%	0%	C	0.1057	F	0.6486	350	G	2008
+404507	  48	00631	     	48-631	Millbank Rd	048	King George County	048	King George County	1.38	48-601 Gera Rd	48-610 Millbank Rd; Powhatan Rd	340	G	94%	3%	1%	0%	1%	0%	F	0.1188	F	0.6292	370	G	2008
+748011	  48	00632	     	48-632	Berthaville Rd	048	King George County	048	King George County	0.90	SR 206;  SR 218	SR 206 Dahlgren Rd	130	R							X						03/14/2001
+748012	  48	00633	     	48-633	Will Loop	048	King George County	048	King George County	0.55	US 301 James Madison Pkwy	48-617 Poplar Neck Rd	80	R							X						10/07/2004
+748013	  48	00633	     	48-633	Will Loop	048	King George County	048	King George County	0.14	48-617 Poplar Neck Rd	Dead End	50	R							X						04/04/2001
+748014	  48	00634	     	48-634	Hillcrest Dr	048	King George County	048	King George County	0.32	Dead End	US 301 James Madison Pkwy	140	R							X						03/14/2001
+748015	  48	00635	     	48-635	Gambo Creek Rd	048	King George County	048	King George County	0.37	48-614 Owens Dr	0.37 ME 48-614 Owens Dr	120	R							X						03/12/2001
+748016	  48	00635	     	48-635	Gambo Creek Rd	048	King George County	048	King George County	0.08	0.37 ME 48-614 Owens Dr	Dead End	20	R							X						03/12/2001
+748017	  48	00636	     	48-636	Rosedale Dr	048	King George County	048	King George County	0.12	48-1134	48-640 Eleventh St	60	R							X						09/20/2004
+748018	  48	00636	     	48-636	Rosedale Dr	048	King George County	048	King George County	0.09	48-640 Eleventh St	48-604 Twelfth St	110	R							X						09/20/2004
+748019	  48	00636	     	48-636	Rosedale Dr	048	King George County	048	King George County	0.17	48-604 Twelfth St	SR 206; 48-668	220	R							X						04/04/2001
+748020	  48	00637	     	48-637	Ridgeway Dr	048	King George County	048	King George County	0.64	Dead End	SR 3 Kings Hwy	30	R							X						10/12/2004
+748021	  48	00638	     	48-638	Hudson Rd	048	King George County	048	King George County	0.20	SR 3 Kings Hwy	Dead End	130	R							X						04/09/2001
+748022	  48	00639	     	48-639	Osprey Rd	048	King George County	048	King George County	0.90	48-624 Mathias Point Rd	Dead End	380	R							X						03/12/2001
+748023	  48	00640	     	48-640	Eleventh St	048	King George County	048	King George County	0.10	48-614 Potomac Dr	48-636 Rosedale Dr	70	R							X						09/20/2004
+748024	  48	00641	     	48-641	Chatterton Lane	048	King George County	048	King George County	0.80	SR 218 Caledon Rd	Dead End	180	R							X						09/14/2004
+748025	  48	00642	     	48-642	Fitzhugh Lane	048	King George County	048	King George County	0.70	SR 218 Caledon Rd	48-682 Eagles Nest Lane	170	R							X						09/14/2004
+748026	  48	00642	     	48-642	Fitzhugh Lane	048	King George County	048	King George County	0.10	48-682 Eagles Nest Lane	Dead End	30	R							X						09/27/2004
+748027	  48	00643	     	48-643	Bald Eagle Dr	048	King George County	048	King George County	1.80	Dead End	48-625 Salem Church Rd	20	R							X						09/27/2004
+748028	  48	00644	     	48-644	Potts Lane	048	King George County	048	King George County	0.30	SR 206 Dahlgren Rd	48-1206 Allen Ave	230	R							X						09/27/2004
+748029	  48	00644	     	48-644	Potts Lane	048	King George County	048	King George County	0.10	48-1206 Allen Ave	0.10 ME 48-1206 Allen Ave	130	R							X						09/27/2004
+748030	  48	00644	     	48-644	Potts Lane	048	King George County	048	King George County	0.30	0.10 ME 48-1206 Allen Ave	Dead End	40	R							X						09/27/2004
+748031	  48	00645	     	48-645	Springfield Rd	048	King George County	048	King George County	1.05	Dead End	48-647 Shiloh Loop	120	R							X						04/02/2001
+404458	  48	00645	     	48-645	Springfield Rd	048	King George County	048	King George County	0.03	48-647 Shiloh Loop	SR 3 Kings Hwy	600	G	93%	3%	1%	2%	1%	0%	C	0.0966	F	0.5758	650	G	2008
+748032	  48	00646	     	48-646	Payne Dr	048	King George County	048	King George County	0.40	Dead End	48-670 Fifteenth St	80	R							X						09/20/2004
+404509	  48	00647	     	48-647	Shiloh Loop	048	King George County	048	King George County	0.12	48-645 Springfield Rd	48-623 Jersey Rd	550	G	94%	0%	2%	0%	4%	0%	C	0.0956	F	0.6393	590	G	2008
+748033	  48	00647	     	48-647	Shiloh Loop	048	King George County	048	King George County	0.30	48-623 Jersey Rd	SR 3 Kings Hwy	330	R							X						04/02/2001
+748034	  48	00647	     	48-647	Big Timber Rd	048	King George County	048	King George County	1.61	SR 3 Kings Hwy	1.61 ME SR 3 Kings Hwy	130	R							X						04/09/2001
+748035	  48	00647	     	48-647	Big Timber Rd	048	King George County	048	King George County	0.97	1.61 ME SR 3 Kings Hwy	48-625 Prim Rd	60	R							X						09/22/2004
+748036	  48	00648	     	48-648	Winston Place	048	King George County	048	King George County	0.60	Dead End	0.60 MN Dead End	110	R							X						10/12/2004
+748037	  48	00648	     	48-648	Winston Place	048	King George County	048	King George County	0.61	0.60 MN Dead End	48-609 Comorn Rd	350	R							X						05/02/2001
+748038	  48	00649	     	48-649	Marmion Lane	048	King George County	048	King George County	0.75	48-609 Comorn Rd	Dead End	40	R							X						10/12/2004
+748039	  48	00650	     	48-650	Welcome Lane	048	King George County	048	King George County	1.10	48-625 Salem Church Rd	48-623 Jersey Rd	460	R							X						04/02/2001
+748040	  48	00651	     	48-651	Valley Hill Loop	048	King George County	048	King George County	0.72	SR 218 W, Caledon Rd	SR 218 E, Caledon Rd	80	R							X						10/14/2004
+748041	  48	00652	     	48-652	Roseland Rd	048	King George County	048	King George County	0.58	US 301 James Madison Pkwy	Dead End	120	R							X						03/12/2001
+748042	  48	00653	     	48-653	Midway Rd	048	King George County	048	King George County	1.00	Dead End	48-686 Mt Rose Dr	80	R							X						04/02/2001
+748043	  48	00654	     	48-654	Belvedere Dr	048	King George County	048	King George County	1.65	48-600 Passapatanzy Dr	Dead End	240	R							X						03/12/2001
+748044	  48	00655	     	48-655	St Pauls Rd	048	King George County	048	King George County	0.63	48-632 Berthaville Rd	0.63 ME 48-632 Berthaville Rd	60	R							X						03/14/2001
+748045	  48	00655	     	48-655	St Pauls Rd	048	King George County	048	King George County	0.57	0.63 ME 48-632 Berthaville Rd	Dead End	20	R							X						03/14/2001
+748046	  48	00656	     	48-656	Rosiers Creek Lane	048	King George County	048	King George County	0.32	SR 218 Windsor Dr	Dead End	180	R							X						04/30/2001
+748047	  48	00657	     	48-657	Chastine Dr	048	King George County	048	King George County	0.75	Dead End	SR 3 Kings Hwy	160	R							X						09/14/2004
+748048	  48	00658	     	48-658	Cedar Ridge Lane	048	King George County	048	King George County	0.07	48-600 Passapatanzy Dr	0.07 ME 48-600 Passapatanzy Dr	80	R							X						10/14/2004
+748049	  48	00658	     	48-658	Cedar Ridge Lane	048	King George County	048	King George County	0.46	0.07 ME 48-600 Passapatanzy Dr	Dead End	60	R							X						03/12/2001
+748050	  48	00659	     	48-659	Hobson Lane	048	King George County	048	King George County	0.65	SR 206 Dahlgren Rd	Dead End	160	R							X						09/27/2004
+748051	  48	00660	     	48-660	Canning Way	048	King George County	048	King George County	0.25	Dead End	48-607 Port Conway Rd	60	R							X						09/14/2004
+748052	  48	00661	     	48-661	Peerless Rd	048	King George County	048	King George County	0.20	SR 3 Kings Hwy	48-629 Round Hill Rd	70	R							X						10/07/2004
+748053	  48	00662	     	48-662	Oaktree Dr	048	King George County	048	King George County	0.60	48-706 Pullen Loop	Dead End	160	R							X						04/09/2001
+748054	  48	00663	     	48-663	Chotank Loop	048	King George County	048	King George County	0.30	SR 206 W, Dahlgren Rd	SR 206 E, Dahlgren Rd	100	R							X						03/14/2001
+748055	  48	00664	     	48-664	Bromme Circle	048	King George County	048	King George County	1.00	Dead End	48-694 Lambs Creek Church Rd	240	R							X						05/02/2001
+748056	  48	00665	     	48-665	Birchwood Creek Lane	048	King George County	048	King George County	1.35	SR 3 Kings Hwy	1.35 MS SR 3 Kings Hwy	1400	R							X						10/12/2004
+748057	  48	00665	     	48-665	Birchwood Creek Lane	048	King George County	048	King George County	0.18	1.35 MS SR 3 Kings Hwy	48-605 Bloomsbury Rd	750	R							X						03/14/2001
+748058	  48	00666	     	48-666	Gulvey Loop	048	King George County	048	King George County	0.43	48-629 W, Round Hill Rd	48-629 E, Round Hill Rd	40	R							X						09/22/2004
+748059	  48	00667	     	48-667	State Rd	048	King George County	048	King George County	0.90	US 301 James Madison Pkwy	Dead End	260	R							X						04/04/2001
+748060	  48	00668	     	48-668	Fourteenth St	048	King George County	048	King George County	0.10	48-614 Potomac Dr	SR 206; 48-636	180	R							X						09/20/2004
+748061	  48	00669	     	48-669	Woodland Way	048	King George County	048	King George County	0.40	48-631 Millbank Rd	Dead End	130	R							X						09/14/2004
+748062	  48	00670	     	48-670	Fifteenth St	048	King George County	048	King George County	0.17	48-671 Gordon Dr	48-614 Potomac Dr	1100	R							X						09/20/2004
+748063	  48	00671	     	48-671	Gordon Dr	048	King George County	048	King George County	0.03	Dead End	48-672 Austin Dr	48	R							X						09/20/2004
+748064	  48	00671	     	48-671	Gordon Dr	048	King George County	048	King George County	0.08	48-672 Austin Dr	48-670 Fifteenth St	260	R							X						09/20/2004
+748065	  48	00671	     	48-671	Gordon Dr	048	King George County	048	King George County	0.07	48-670 Fifteenth St	48-674 Forest Rd	290	R							X						09/20/2004
+748066	  48	00671	     	48-671	Gordon Dr	048	King George County	048	King George County	0.11	48-674 Forest Rd	Dead End	50	R							X						09/20/2004
+748067	  48	00672	     	48-672	Austin Dr	048	King George County	048	King George County	0.08	48-673 Duclos Lane	48-671 Gordon Dr	160	R							X						09/20/2004
+748068	  48	00673	     	48-673	Duclos Lane	048	King George County	048	King George County	0.13	Dead End	48-672 Austin Dr	120	R							X						09/20/2004
+748069	  48	00674	     	48-674	Forest Rd	048	King George County	048	King George County	0.07	48-675; N Williams Creek Rd	48-703 Quesenberry Dr	160	R							X						09/20/2004
+748070	  48	00674	     	48-674	Forest Rd	048	King George County	048	King George County	0.07	48-703 Quesenberry Dr	48-671 Gordon Dr	220	R							X						09/20/2004
+748071	  48	00675	     	48-675	N Williams Creek Rd	048	King George County	048	King George County	0.10	48-715 Norton Dr	48-674 Forest Rd	90	R							X						09/20/2004
+748072	  48	00675	     	48-675	N Williams Creek Rd	048	King George County	048	King George County	0.10	48-674 Forest Rd	Dead End	40	R							X						09/20/2004
+748073	  48	00676	     	48-676	Rectory Lane	048	King George County	048	King George County	0.30	SR 3 Kings Hwy	Dead End	80	R							X						09/20/2004
+748074	  48	00677	     	48-677	Stanley Rd	048	King George County	048	King George County	0.29	SR 3; 48-606	48-609 Comorn Rd	620	R							X						05/02/2001
+748075	  48	00678	     	48-678	St Anthonys	048	King George County	048	King George County	0.51	SR 3 Kings Hwy	48-610 St Anthonys Rd; Millbank Rd	410	R							X						05/09/2001
+748076	  48	00679	     	48-679	Canterbury Loop	048	King George County	048	King George County	0.85	SR 3 W, Kings Hwy	SR 3 E, Kings Hwy	370	R							X						05/09/2001
+748077	  48	00680	     	48-680	Index Lane	048	King George County	048	King George County	0.32	48-625 Salem Church Rd	SR 3 Kings Hwy	30	R							X						09/14/2004
+748078	  48	00681	     	48-681	Rollens Fork Rd	048	King George County	048	King George County	0.30	SR 3 Kings Hwy	48-627 Wilmont Rd	130	R							X						03/22/2001
+748079	  48	00682	     	48-682	Eagles Nest Lane	048	King George County	048	King George County	1.00	48-642 Fitzhugh Lane	Dead End	90	R							X						09/14/2004
+748080	  48	00683	     	48-683	Ferry Dock Rd	048	King George County	048	King George County	0.17	48-614 Potomac Dr	48-691 Rosedale Dr	210	R							X						09/20/2004
+748081	  48	00683	     	48-683	Ferry Dock Rd	048	King George County	048	King George County	0.03	48-691 Rosedale Dr	48-693 Townsend Dr	110	R							X						09/20/2004
+748082	  48	00684	     	48-684	Garnets Loop	048	King George County	048	King George County	0.35	SR 205 W, Ridge Rd	SR 205 E, Ridge Rd	10	R							X						09/20/2004
+748083	  48	00685	     	48-685	Schoolhouse Rd	048	King George County	048	King George County	0.13	48-624 Mathias Point Rd	Dead End	30	R							X						09/20/2004
+748084	  48	00686	     	48-686	Mt Rose Dr	048	King George County	048	King George County	1.21	SR 3 S, Kings Hwy	SR 3 N, Kings Hwy	330	R							X						04/02/2001
+748085	  48	00687	     	48-687	Woodstock Rd	048	King George County	048	King George County	1.66	48-624 Mathias Point Rd	Dead End	180	R							X						03/12/2001
+748086	  48	00688	     	48-688	Hickory Lane	048	King George County	048	King George County	0.20	48-610 Indiantown Rd	Dead End	70	R							X						10/12/2004
+748087	  48	00689	     	48-689	Tenth St	048	King George County	048	King George County	0.13	Dead End	48-614 Potomac Dr	46	R							X						09/20/2004
+748088	  48	00690	     	48-690	Luther Lane	048	King George County	048	King George County	0.16	SR 3 Kings Hwy	Dead End	220	R							X						10/12/2004
+748089	  48	00691	     	48-691	Rosedale Dr	048	King George County	048	King George County	0.18	48-683 Ferry Dock Rd	Dead End	46	R							X						09/20/2004
+748090	  48	00692	     	48-692	Cleve Rd	048	King George County	048	King George County	2.60	Dead End	48-607 Port Conway Rd	1100	R							X						04/02/2001
+748091	  48	00693	     	48-693	Townsend Dr	048	King George County	048	King George County	0.11	48-683 Ferry Dock Rd	Dead End	45	R							X						09/20/2004
+404510	  48	00694	     	48-694	Lambs Creek Church Rd	048	King George County	048	King George County	1.39	SR 3 Kings Hwy	48-664 Bromme Circle	990	G	93%	1%	1%	4%	1%	0%	C	0.1057	F	0.6930	1100	G	2008
+748092	  48	00694	     	48-694	Lambs Creek Church Rd	048	King George County	048	King George County	0.96	48-664 Bromme Circle	48-608 Muscoe Pl	570	R							X						10/12/2004
+748093	  48	00694	     	48-694	Lambs Creek Church Rd	048	King George County	048	King George County	1.45	48-608 Muscoe Pl	SR 218 Caledon Rd	570	R							X						10/12/2004
+748094	  48	00695	     	48-695	Goby Lane	048	King George County	048	King George County	0.55	Dead End	SR 218 Caledon Rd	48	R							X						09/14/2004
+748095	  48	00696	     	48-696	Fairview Dr	048	King George County	048	King George County	0.75	SR 218 Caledon Rd	48-707 Riverview Dr	990	R							X						05/02/2001
+748096	  48	00696	     	48-696	Fairview Dr	048	King George County	048	King George County	0.18	48-707 Riverview Dr	48-1001 First St	560	R							X						09/29/2004
+748097	  48	00696	     	48-696	Fairview Dr	048	King George County	048	King George County	0.05	48-1001 First St	48-1002 Second St	250	R							X						09/29/2004
+748098	  48	00696	     	48-696	Fairview Dr	048	King George County	048	King George County	0.04	48-1002 Second St	48-1003 Third St	140	R							X						09/29/2004
+748099	  48	00696	     	48-696	Fairview Dr	048	King George County	048	King George County	0.09	48-1003 Third St	48-1005 Fifth St	100	R							X						09/29/2004
+748100	  48	00697	     	48-697	Chestnut Hill Loop	048	King George County	048	King George County	0.28	US 301 S, James Madison Pkwy	US 301 N, James Madison Pkwy	40	R							X						10/07/2004
+748101	  48	00698	     	48-698	Nanzatico Lane	048	King George County	048	King George County	2.28	Dead End	48-625 Salem Church Rd	140	R							X						04/02/2001
+748102	  48	00699	     	48-699	Ivy Hill Loop	048	King George County	048	King George County	0.35	US 301 S, James Madison Pkwy	US 301 N, James Madison Pkwy	40	R							X						10/07/2004
+748103	  48	00700	     	48-700	St Stephens Rd	048	King George County	048	King George County	0.20	Dead End	48-648 Winston Place	30	R							X						10/12/2004
+748104	  48	00701	     	48-701	Rixey Rd	048	King George County	048	King George County	0.38	Dead End	48-616 Washington Mill Rd	45	R							X						10/07/2004
+748105	  48	00702	     	48-702	Burrell Lane	048	King George County	048	King George County	0.12	SR 206 Dahlgren Rd	Dead End	45	R							X						09/27/2004
+748106	  48	00703	     	48-703	Quesenberry Dr	048	King George County	048	King George County	0.10	48-674 Forest Rd	Dead End	30	R							X						09/20/2004
+748107	  48	00704	     	48-704	Henry Griffen Rd	048	King George County	048	King George County	0.14	Dead End	SR 205 Ridge Rd	640	R							X						10/07/2004
+748108	  48	00705	     	48-705	Circle Loop	048	King George County	048	King George County	0.47	SR-205 W, Ridge Rd	SR-205 E, Ridge Rd	80	R							X						04/09/2001
+748109	  48	00706	     	48-706	Pullen Loop	048	King George County	048	King George County	0.44	SR 205 W, Ridge Rd	48-662 Oaktree Dr	30	R							X						04/09/2001
+748110	  48	00706	     	48-706	Pullen Loop	048	King George County	048	King George County	0.02	48-662 Oaktree Dr	SR 205 E, Ridge Rd	220	R							X						04/09/2001
+748111	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.05	48-696 Fairview Dr	48-1001 First St	720	R							X						05/02/2001
+748112	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.05	48-1001 First St	48-1002 Second St	760	R							X						09/29/2004
+748113	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.05	48-1002 Second St	48-1003 Third St	720	R							X						09/29/2004
+748114	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.05	48-1003 Third St	48-1004 Fourth St	690	R							X						09/29/2004
+748115	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.05	48-1004 Fourth St	48-1005 Fifth St	660	R							X						09/29/2004
+748116	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.12	48-1005 Fifth St	48-1007 Seventh St	520	R							X						09/29/2004
+748117	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.04	48-1007 Seventh St	48-1008 Eighth St	410	R							X						09/29/2004
+748118	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.06	48-1008 Eighth St	48-1009 Ninth St	320	R							X						09/29/2004
+748119	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.05	48-1009 Ninth St	48-1010 Tenth St	300	R							X						09/29/2004
+748120	  48	00707	     	48-707	Riverview Dr	048	King George County	048	King George County	0.05	48-1010 Tenth St	48-1011 Eleventh St	250	R							X						09/29/2004
+748121	  48	00708	     	48-708	Potomac Ave	048	King George County	048	King George County	0.04	48-1007 Seventh St	48-1008 Eighth St	48	R							X						10/04/2004
+748122	  48	00708	     	48-708	Potomac Ave	048	King George County	048	King George County	0.05	48-1008 Eighth St	48-1009 Ninth St	49	R							X						10/04/2004
+748123	  48	00708	     	48-708	Potomac Ave	048	King George County	048	King George County	0.05	48-1009 Ninth St	48-1010 Tenth St	47	R							X						10/04/2004
+748124	  48	00708	     	48-708	Potomac Ave	048	King George County	048	King George County	0.05	48-1010 Tenth St	48-1011 Eleventh St	45	R							X						10/04/2004
+748125	  48	00708	     	48-708	Potomac Ave	048	King George County	048	King George County	0.04	48-1011 Eleventh St	48-1012 Twelfth St	30	R							X						10/04/2004
+748126	  48	00709	     	48-709	Bradley Lane	048	King George County	048	King George County	0.34	SR 3 Kings Hwy	48-710 Poplar Lane	120	R							X						10/07/2004
+748127	  48	00710	     	48-710	Poplar Lane	048	King George County	048	King George County	0.08	48-709 Bradley Lane	48-629 Round Hill Rd	40	R							X						10/07/2004
+748128	  48	00711	     	48-711	Dixon Lane	048	King George County	048	King George County	0.20	Dead End	48-624 Mathias Point Rd	40	R							X						09/20/2004
+748129	  48	00712	     	48-712	Fence Dr	048	King George County	048	King George County	0.32	48-614 S, Potomac Dr	48-614 N, Potomac Dr	80	R							X						09/20/2004
+748130	  48	00713	     	48-713	Jones Ct	048	King George County	048	King George County	0.14	Cul-de-Sac	48-600 Passapatanzy Dr	50	R							X						03/12/2001
+748131	  48	00714	     	48-714	Bumbrey Lane	048	King George County	048	King George County	0.13	48-663 Chotank Loop	Dead End	40	R							X						03/14/2001
+748132	  48	00715	     	48-715	Norton Dr	048	King George County	048	King George County	0.05	48-675 N Williams Creek Rd	Dead End	40	R							X						04/04/2001
+748133	  48	00717	     	48-717	Green Meadow Dr	048	King George County	048	King George County	0.25	48-719 Misty Lane	SR 205 Ridge Rd	49	R							X						04/04/2001
+748134	  48	00718	     	48-718	Shiloh Dr	048	King George County	048	King George County	0.39	48-719 Misty Lane	SR 205 Ridge Rd	70	R							X						04/04/2001
+748135	  48	00719	     	48-719	Misty Lane	048	King George County	048	King George County	0.27	48-717 Green Meadow Dr	Cul-de-Sac	40	R							X						04/04/2001
+748136	  48	00724	     	48-724	Beaver Dr	048	King George County	048	King George County	0.18	48-629 Round Hill Rd	48-725 Thunder Rd	200	R							X						10/07/2004
+748137	  48	00725	     	48-725	Thunder Rd	048	King George County	048	King George County	0.30	Dead End	48-724 Beaver Dr	90	R							X						10/07/2004
+748138	  48	01000	     	48-1000	Barnes Field	048	King George County	048	King George County	0.39	US 301 James Madison Pkwy	Dead End	70	R							X						03/12/2001
+748139	  48	01001	     	48-1001	First St	048	King George County	048	King George County	0.15	48-707 Riverview Dr	48-696 Fairview Dr	70	R							X						09/29/2004
+748140	  48	01002	     	48-1002	Second St	048	King George County	048	King George County	0.15	48-707 Riverview Dr	48-696 Fairview Dr	45	R							X						09/29/2004
+748141	  48	01003	     	48-1003	Third St	048	King George County	048	King George County	0.15	48-707 Riverview Dr	48-696 Fairview Dr	40	R							X						09/29/2004
+748142	  48	01004	     	48-1004	Fourth St	048	King George County	048	King George County	0.15	48-707 Riverview Dr	48-696 Fairview Dr	40	R							X						09/29/2004
+748143	  48	01005	     	48-1005	Fifth St	048	King George County	048	King George County	0.15	48-707 Riverview Dr	48-696 Fairview Dr	120	R							X						09/29/2004
+748144	  48	01007	     	48-1007	Seventh St	048	King George County	048	King George County	0.11	48-707 Riverview Dr	48-708 Potomac Ave	110	R							X						09/29/2004
+748145	  48	01008	     	48-1008	Eighth St	048	King George County	048	King George County	0.11	48-707 Riverview Dr	48-708 Potomac Ave	30	R							X						09/29/2004
+748146	  48	01009	     	48-1009	Ninth St	048	King George County	048	King George County	0.11	48-707 Riverview Dr	48-708 Potomac Ave	30	R							X						09/29/2004
+748147	  48	01010	     	48-1010	Tenth St	048	King George County	048	King George County	0.11	48-707 Riverview Dr	48-708 Potomac Ave	30	R							X						09/29/2004
+748148	  48	01011	     	48-1011	Eleventh St	048	King George County	048	King George County	0.15	Dead End	48-708 Potomac Ave	70	R							X						09/29/2004
+748149	  48	01012	     	48-1012	Twelfth St	048	King George County	048	King George County	0.04	Dead End	48-708 Potomac Ave	30	R							X						09/29/2004
+748150	  48	01013	     	48-1013	Mapel Ridge Ct	048	King George County	048	King George County	0.19	Cul-de-Sac	SR 218 Caledon Rd	40	R							X						09/29/2004
+748151	  48	01014	     	48-1014	Summer Beam Dr	048	King George County	048	King George County	0.42	Cul-de-Sac	SR 218 Caledon Rd	60	R							X						09/29/2004
+748152	  48	01015	     	48-1015	Lewis Lane	048	King George County	048	King George County	0.10	48-603 Y Intersection Leg	Dead End	30	R							X						03/14/2001
+793117	  48	01018	     	48-1018	 	048	King George County	048	King George County	0.73	48-1032 Claydael Blvd	Cul-de-Sac	0	?							X
+793118	  48	01019	     	48-1019	 	048	King George County	048	King George County	0.10	48-1018	Cul-de-Sac	0	?							X
+782513	  48	01020	     	48-1020	Oakland Dr	048	King George County	048	King George County	0.34	48-1027 French Ct	48-1023 Covington St	240	R							X						05/03/2001
+748153	  48	01020	     	48-1020	Oakland Dr	048	King George County	048	King George County	0.12	48-1023 Covington St	0.12 ME 48-1023 Covington St	250	R							X						05/03/2001
+748154	  48	01020	     	48-1020	Oakland Dr	048	King George County	048	King George County	0.22	0.12 ME 48-1023 Covington St	48-603 Y Intersection Leg	630	R							X						10/14/2004
+748155	  48	01021	     	48-1021	Forest Ridge Dr	048	King George County	048	King George County	0.14	48-603 Y Intersection Leg	48-1022 Flora Ct	230	R							X						10/14/2004
+748156	  48	01021	     	48-1021	Forest Ridge Dr	048	King George County	048	King George County	0.23	48-1022 Flora Ct	Dead End	270	R							X						10/14/2004
+748157	  48	01022	     	48-1022	Flora Ct	048	King George County	048	King George County	0.05	Cul-de-Sac	48-1021 Forest Ridge Dr	40	R							X						10/14/2004
+748158	  48	01023	     	48-1023	Covington St	048	King George County	048	King George County	0.12	48-1024 Garner Dr	48-1020 Oakland Dr	80	R							X						05/03/2001
+748159	  48	01024	     	48-1024	Garner Dr	048	King George County	048	King George County	0.15	Cul-de-Sac	48-1023 Covington St	90	R							X						05/03/2001
+782514	  48	01024	     	48-1024	Garner Dr	048	King George County	048	King George County	0.19	48-1023 Covington St	Cul-de-Sac	80	R							X						05/03/2001
+782515	  48	01025	     	48-1025	Passapatanzy Rd	048	King George County	048	King George County	0.74	48-1024 Garner Dr	SR 218 Caledon Rd	810	R							X						10/14/2004
+782516	  48	01026	     	48-1026	Bush St	048	King George County	048	King George County	0.18	48-1024 Garner Dr	48-1020 Oakland Dr	50	R							X						10/14/2004
+782517	  48	01027	     	48-1027	French Ct	048	King George County	048	King George County	0.28	Cul-de-Sac	Cul-de-Sac	120	R							X						05/03/2001
+793119	  48	01028	     	48-1028	 	048	King George County	048	King George County	0.10	Cul-de-Sac	48-1018	0	?							X
+793120	  48	01029	     	48-1029	 	048	King George County	048	King George County	0.42	48-1037	Cul-de-Sac	0	?							X
+748160	  48	01030	     	48-1030	Ward Rd	048	King George County	048	King George County	0.29	SR 206 Dahlgren Rd	Cul-de-Sac	200	R							X						04/09/2001
+748161	  48	01031	     	48-1031	Stuart Rd	048	King George County	048	King George County	0.29	48-1030 Ward Rd	48-1032 Claydael Blvd	110	R							X						04/09/2001
+748162	  48	01032	     	48-1032	Claydael Blvd	048	King George County	048	King George County	0.18	SR 206 Dahlgren Rd	48-1033 Peppermill Rd	680	R							X						04/09/2001
+785375	  48	01032	     	48-1032	Claydael Blvd	048	King George County	048	King George County	0.38	48-1033 Peppermill Rd	48-1039 Meadow Way	240	R							X						04/09/2001
+788666	  48	01032	     	48-1032	Claydael Blvd	048	King George County	048	King George County	0.16	48-1039 Meadow Way	48-1038 Aidan Way	590	R							X						12/15/2008
+793607	  48	01032	     	48-1032	Claydael Blvd	048	King George County	048	King George County	0.16	48-1038 Aidan Way	Dead End	0	?							X
+748163	  48	01033	     	48-1033	Peppermill Rd	048	King George County	048	King George County	0.57	48-1032 Claydael Blvd	Cul-de-Sac	350	R							X						04/09/2001
+748164	  48	01034	     	48-1034	Calvert Ct	048	King George County	048	King George County	0.16	48-1033 Peppermill Rd	Dead End	40	R							X						04/09/2001
+748165	  48	01035	     	48-1035	Richards Ride	048	King George County	048	King George County	0.33	48-1033 Peppermill Rd	Cul-de-Sac	150	R							X						04/09/2001
+748166	  48	01036	     	48-1036	Julia Place	048	King George County	048	King George County	0.08	Cul-de-Sac	48-1033 Peppermill Rd	40	R							X						04/09/2001
+793121	  48	01037	     	48-1037	 	048	King George County	048	King George County	0.14	48-1032 Claydael Blvd	Cul-de-Sac	0	?							X
+788667	  48	01038	     	48-1038	Aidan Way	048	King George County	048	King George County	0.22	48-1032 Claydael Blvd	Cul-de-Sac	0	?							X
+785376	  48	01039	     	48-1039	Meadow Way	048	King George County	048	King George County	0.28	48-1032 Claydael Blvd	Cul-de-Sac	70	R							X						04/09/2001
+748167	  48	01040	     	48-1040	Potomac Landing Dr	048	King George County	048	King George County	1.51	SR 218 Caledon Rd	48-1041 E, Potomac Landing Dr	70	R							X						09/29/2004
+748168	  48	01041	     	48-1041	Potomac Landing Dr	048	King George County	048	King George County	0.37	48-1040 W, Potomac Landing Dr	Cul-de-Sac	150	R							X						05/02/2001
+748169	  48	01042	     	48-1042	Tides Rd	048	King George County	048	King George County	0.18	48-1041 Potomac Landing Dr	48-1040 Potomac Landing Dr	20	R							X						05/02/2001
+788668	  48	01043	     	48-1043	Lucas Lane	048	King George County	048	King George County	0.04	SR 206 Dahlgren Rd	48-1044 North Stuart St	0	?							X
+788669	  48	01044	     	48-1044	North Stuart St	048	King George County	048	King George County	0.22	48-1031 Stuart Rd	48-1043 Lucas Lane	90	R							X						12/15/2008
+748170	  48	01050	     	48-1050	Turkey Acres Rd	048	King George County	048	King George County	0.50	Dead End	48-694 Lambs Creek Church Rd	170	R							X						05/02/2001
+784132	  48	01051	     	48-1051	Combs Rd	048	King George County	048	King George County	0.24	Dead End	48-614 Potomac Dr	300	R							X						04/04/2001
+784133	  48	01060	     	48-1060	Round Hill Estates Dr	048	King George County	048	King George County	0.40	48-629 Round Hill Rd	Cul-de-Sac	170	R							X						09/22/2004
+784134	  48	01061	     	48-1061	Deerfield Ct	048	King George County	048	King George County	0.09	Cul-de-Sac	48-1060 Round Hill Estates Dr	40	R							X						09/22/2004
+784135	  48	01062	     	48-1062	Forest Lane	048	King George County	048	King George County	0.12	Cul-de-Sac	48-1060 Round Hill Estates Dr	10	R							X						09/22/2004
+794613	  48	01085	     	48-1085	 	048	King George County	048	King George County	0.19	Cul-de-Sac	48-614 Owens Dr	0	?							X
+794614	  48	01086	     	48-1086	 	048	King George County	048	King George County	0.23	48-1085	Cul-de-Sac	0	?							X
+794615	  48	01087	     	48-1087	 	048	King George County	048	King George County	0.10	Cul-de-Sac	48-1088	0	?							X
+794616	  48	01088	     	48-1088	 	048	King George County	048	King George County	0.25	48-1085	48-1086	0	?							X
+796008	  48	01097	     	48-1097	 	048	King George County	048	King George County	0.21	SR 3 Kings Hwy	Dead End	0	?							X
+748171	  48	01100	     	48-1100	Savanah St	048	King George County	048	King George County	0.16	48-1105 Fleming St	48-1108 Delaware Dr	30	R							X						03/14/2001
+748172	  48	01101	     	48-1101	Danube Dr	048	King George County	048	King George County	0.16	US 301 James Madison Pkwy	48-1102 Baltic Place	1900	R							X						09/22/2004
+748173	  48	01101	     	48-1101	Danube Dr	048	King George County	048	King George County	0.11	48-1102 Baltic Place	48-1103 Williams Place	1300	R							X						09/22/2004
+748174	  48	01101	     	48-1101	Danube Dr	048	King George County	048	King George County	0.12	48-1103 Williams Place	48-1105 Fleming St	1100	R							X						09/22/2004
+748175	  48	01101	     	48-1101	Danube Dr	048	King George County	048	King George County	0.15	48-1105 Fleming St	48-1108 Delaware Dr	390	R							X						03/14/2001
+748176	  48	01102	     	48-1102	Baltic Place	048	King George County	048	King George County	0.06	48-1104 Willow Tree Lane	48-1101 Danube Dr	130	R							X						09/22/2004
+748177	  48	01102	     	48-1102	Baltic Place	048	King George County	048	King George County	0.07	48-1101 Danube Dr	Dead End	70	R							X						09/22/2004
+748178	  48	01103	     	48-1103	Williams Place	048	King George County	048	King George County	0.15	48-1101 Danube Dr	Dead End	110	R							X						09/22/2004
+748179	  48	01104	     	48-1104	Willow Tree Lane	048	King George County	048	King George County	0.06	Dead End	48-1102 Baltic Place	60	R							X						09/22/2004
+748180	  48	01104	     	48-1104	Willow Tree Lane	048	King George County	048	King George County	0.06	48-1102 Baltic Place	Dead End	40	R							X						09/22/2004
+748181	  48	01105	     	48-1105	Fleming St	048	King George County	048	King George County	0.08	Cul-de-Sac	48-1109 Pamlico Dr	70	R							X						03/14/2001
+748182	  48	01105	     	48-1105	Fleming St	048	King George County	048	King George County	0.07	48-1109 Pamlico Dr	48-1100 Savanah St	170	R							X						03/14/2001
+748183	  48	01105	     	48-1105	Fleming St	048	King George County	048	King George County	0.08	48-1100 Savanah St	48-1107 Albemarle Ct	260	R							X						03/14/2001
+748184	  48	01105	     	48-1105	Fleming St	048	King George County	048	King George County	0.15	48-1107 Albemarle Ct	48-1106 Chesapeake Place	450	R							X						09/22/2004
+748185	  48	01105	     	48-1105	Fleming St	048	King George County	048	King George County	0.07	48-1106 Chesapeake Place	48-1101 Danube Dr	630	R							X						09/22/2004
+748186	  48	01106	     	48-1106	Chesapeake Place	048	King George County	048	King George County	0.24	Cul-de-Sac	48-1108 Delaware Dr	90	R							X						09/22/2004
+748187	  48	01107	     	48-1107	Albemarle Ct	048	King George County	048	King George County	0.12	48-1105 Fleming St	Cul-de-Sac	70	R							X						09/22/2004
+748188	  48	01108	     	48-1108	Delaware Dr	048	King George County	048	King George County	0.40	Cul-de-Sac	48-1101 Danube Dr	190	R							X						03/14/2001
+748189	  48	01108	     	48-1108	Delaware Dr	048	King George County	048	King George County	0.06	48-1101 Danube Dr	Cul-de-Sac	50	R							X						03/14/2001
+748190	  48	01109	     	48-1109	Pamlico Dr	048	King George County	048	King George County	0.13	48-1105 Fleming St	48-1108 Delaware Dr	40	R							X						03/14/2001
+748191	  48	01110	     	48-1110	Machodoc Dr	048	King George County	048	King George County	0.05	SR 218 Windsor Dr	48-1111 Price Ct	100	R							X						09/20/2004
+748192	  48	01110	     	48-1110	Machodoc Dr	048	King George County	048	King George County	0.36	48-1111 Price Ct	Dead End	70	R							X						09/20/2004
+748193	  48	01111	     	48-1111	Price Ct	048	King George County	048	King George County	0.07	Dead End	48-1110 Machodoc Dr	20	R							X						09/20/2004
+787878	  48	01112	     	48-1112	Cape Fear Lane	048	King George County	048	King George County	0.09	48-1101 Danube Dr	Cul-de-Sac	80	R							X						09/22/2004
+748194	  48	01115	     	48-1115	Strawberry Lane	048	King George County	048	King George County	0.20	Cul-de-Sac	SR 206 Dahlgren Rd	90	R							X						10/04/2004
+748195	  48	01120	     	48-1120	Kent Rd	048	King George County	048	King George County	0.62	48-679 Canterbury Loop	Dead End	340	R							X						04/09/2001
+748196	  48	01121	     	48-1121	Ascot Close Dr	048	King George County	048	King George County	0.10	48-1120 Kent Rd	Cul-de-Sac	30	R							X						04/09/2001
+748197	  48	01122	     	48-1122	Ripon Ct	048	King George County	048	King George County	0.09	48-1120 Kent Rd	Cul-de-Sac	60	R							X						04/09/2001
+748198	  48	01123	     	48-1123	Canerbury Ct	048	King George County	048	King George County	0.42	48-1120 Kent Rd	Cul-de-Sac	160	R							X						04/09/2001
+748199	  48	01124	     	48-1124	Chester Ct	048	King George County	048	King George County	0.13	Cul-de-Sac	48-1120 Kent Rd	30	R							X						10/07/2004
+748200	  48	01130	     	48-1130	Green Blvd	048	King George County	048	King George County	0.77	48-1131 River Dr	48-639 Osprey Rd	330	R							X						03/12/2001
+748201	  48	01131	     	48-1131	River Dr	048	King George County	048	King George County	0.55	Cul-de-Sac	48-1130 Green Blvd	110	R							X						03/12/2001
+748202	  48	01131	     	48-1131	River Dr	048	King George County	048	King George County	0.02	48-1130 Green Blvd	Dead End O.O2 MN 1130 Green Blvd	30	R							X						03/12/2001
+748203	  48	01132	     	48-1132	Nancy Lane	048	King George County	048	King George County	0.45	Cul-de-Sac	48-1130 Green Blvd	110	R							X						09/20/2004
+794827	  48	01133	     	48-1133	 	048	King George County	048	King George County	0.16	48-614 Potomac Dr	Cul-de-Sac	0	?							X
+794828	  48	01134	     	48-1134	Schooner Dr	048	King George County	048	King George County	0.39	48-1133	48-1133	0	?							X
+794829	  48	01135	     	48-1135	 	048	King George County	048	King George County	0.03	48-1134	Dead End	0	?							X
+794830	  48	01136	     	48-1136	 	048	King George County	048	King George County	0.03	48-1134	Dead End	0	?							X
+748204	  48	01140	     	48-1140	Jepco Lane	048	King George County	048	King George County	0.05	48-1141 Kitchen Dr	48-630 Kitchen Point Rd	40	R							X						04/04/2001
+748205	  48	01141	     	48-1141	Kitchen Dr	048	King George County	048	King George County	0.24	Cul-de-Sac	48-1140 Jepco Lane	40	R							X						04/04/2001
+748206	  48	01150	     	48-1150	Potomac Dr	048	King George County	048	King George County	0.48	US 301 James Madison Pkwy	48-614 Potomac Dr	1500	R							X						04/04/2001
+748207	  48	01201	     	48-1201	Poplar Dr	048	King George County	048	King George County	0.08	48-611 Eden Dr	48-1202 N, Hickory Dr	350	R							X						09/29/2004
+748208	  48	01201	     	48-1201	Poplar Dr	048	King George County	048	King George County	0.35	48-1202 N, Hickory Dr	48-1202 S, Hickory Dr; Cedar Lane	220	R							X						09/27/2004
+748209	  48	01202	     	48-1202	Cedar Lane	048	King George County	048	King George County	0.10	Dead End	48-1204 Dixie Dr	30	R							X						09/27/2004
+748210	  48	01202	     	48-1202	Cedar Lane	048	King George County	048	King George County	0.17	48-1204 Dixie Dr	48-1201 S, Poplar Dr	110	R							X						09/27/2004
+748211	  48	01202	     	48-1202	Hickory Dr	048	King George County	048	King George County	0.25	48-1201 S, Poplar Dr	48-1201 N, Poplar Dr	130	R							X						09/27/2004
+748212	  48	01203	     	48-1203	Pine Tree Lane	048	King George County	048	King George County	0.38	48-611 S, Eden Dr	48-611 N, Eden Dr	40	R							X						09/27/2004
+748213	  48	01204	     	48-1204	Dixie Dr	048	King George County	048	King George County	0.17	48-1202 Cedar Lane	Cul-de-Sac	40	R							X						09/27/2004
+748214	  48	01205	     	48-1205	Oakwood Dr	048	King George County	048	King George County	0.24	Cul-de-Sac	48-1207 Beechwood Lane	30	R							X						09/27/2004
+748215	  48	01205	     	48-1205	Oakwood Dr	048	King George County	048	King George County	0.13	48-1207 Beechwood Lane	SR 206 Dahlgren Rd	150	R							X						09/27/2004
+748216	  48	01206	     	48-1206	Allen Ave	048	King George County	048	King George County	0.33	SR 206 Dahlgren Rd	48-644 Potts Lane	140	R							X						09/27/2004
+748217	  48	01207	     	48-1207	Beechwood Lane	048	King George County	048	King George County	0.64	48-1205 Oakwood Dr	Cul-de-Sac	60	R							X						09/27/2004
+782518	  48	01209	     	48-1209	Fulmont Dr	048	King George County	048	King George County	0.19	Cul-de-Sac	SR 206 Dahlgren Rd	50	R							X						04/09/2001
+748218	  48	01210	     	48-1210	Michael Dr	048	King George County	048	King George County	0.15	Cul-de-Sac	48-1211 Todd St	110	R							X						04/30/2001
+748219	  48	01210	     	48-1210	Michael Dr	048	King George County	048	King George County	0.08	48-1211 Todd St	48-610 Indiantown Rd	540	R							X						04/30/2001
+748220	  48	01211	     	48-1211	Todd St	048	King George County	048	King George County	0.20	Dead End	48-1210 Michael Dr	100	R							X						09/27/2004
+748221	  48	01211	     	48-1211	Todd St	048	King George County	048	King George County	0.08	48-1210 Michael Dr	Dead End	60	R							X						09/27/2004
+748222	  48	01212	     	48-1212	Linda Lane	048	King George County	048	King George County	0.10	Cul-de-Sac	48-1210 Michael Dr	90	R							X						04/30/2001
+748223	  48	01214	     	48-1214	Hudson Lane	048	King George County	048	King George County	0.10	SR 3 Kings Hwy	48-1215 Pamela Ct; 48-1216 Karen Ct	460	R							X						10/07/2004
+748224	  48	01214	     	48-1214	Hudson Lane	048	King George County	048	King George County	0.13	48-1215 Pamela Ct; 48-1216 Karen Ct	48-1217 Walkers Lane	300	R							X						10/07/2004
+748225	  48	01215	     	48-1215	Pamela Ct	048	King George County	048	King George County	0.08	Cul-de-Sac	48-1214 Hudson Lane	90	R							X						10/07/2004
+748226	  48	01216	     	48-1216	Karen Ct	048	King George County	048	King George County	0.09	48-1214 Hudson Lane	Cul-de-Sac	40	R							X						10/07/2004
+748227	  48	01217	     	48-1217	Walkers Lane	048	King George County	048	King George County	0.09	Dead End	48-1214 Hudson Lane	110	R							X						10/07/2004
+748228	  48	01217	     	48-1217	Walkers Lane	048	King George County	048	King George County	0.09	48-1214 Hudson Lane	Dead End	100	R							X						10/07/2004
+748229	  48	01220	     	48-1220	Lee St	048	King George County	048	King George County	0.48	Cul-de-Sac	48-611 Eden Dr	230	R							X						04/09/2001
+748230	  48	01223	     	48-1223	Clare St	048	King George County	048	King George County	0.25	Cul-de-Sac	48-1220 Lee Street	140	R							X						04/09/2001
+748231	  48	01224	     	48-1224	Pratt Place	048	King George County	048	King George County	0.10	48-1223 Clare St	Cul-de-Sac	40	R							X						04/09/2001
+793122	  48	01225	     	48-1225	 	048	King George County	048	King George County	0.78	Dead End	48-610 Indiantown Rd	0	?							X
+793123	  48	01226	     	48-1226	Pamunkey Dr	048	King George County	048	King George County	0.51	48-1228	48-610 Indiantown Rd	280	R							X						12/15/2008
+793124	  48	01227	     	48-1227	Monacan Way	048	King George County	048	King George County	0.08	48-1225	48-1226 Pamunkey Dr	40	R							X						12/15/2008
+793125	  48	01228	     	48-1228	 	048	King George County	048	King George County	0.32	48-1226	Dead End	0	?							X
+782519	  48	01230	     	48-1230	Sherwood Forest Dr	048	King George County	048	King George County	0.39	48-610 Indiantown Rd	Cul-de-Sac	150	R							X						04/30/2001
+782520	  48	01231	     	48-1231	Little John Ct	048	King George County	048	King George County	0.08	Cul-de-Sac	48-1230 Sherwood Forest Dr	20	R							X						04/20/2001
+782521	  48	01232	     	48-1232	Robin Hood Ct	048	King George County	048	King George County	0.08	48-1230 Sherwood Forest Dr	Cul-de-Sac	40	R							X						04/30/2001
+795715	  48	01238	     	48-1238	 	048	King George County	048	King George County	0.54	Cul-de-Sac	SR 206 Dalgren Rd	0	?							X
+795716	  48	01239	     	48-1239	 	048	King George County	048	King George County	0.13	48-1238	Cul-de-Sac	0	?							X
+794831	  48	01240	     	48-1240	Ernest Ellis Lane	048	King George County	048	King George County	0.65	SR 206 Dalgren Rd	48-1241	0	?							X
+794832	  48	01241	     	48-1241	 	048	King George County	048	King George County	0.58	Cul-de-Sac	48-1240	0	?							X
+794833	  48	01242	     	48-1242	Saddle Dr	048	King George County	048	King George County	0.29	48-1241	48-1244	0	?							X
+794834	  48	01243	     	48-1243	 	048	King George County	048	King George County	0.32	48-1242	Cul-de-Sac	0	?							X
+794835	  48	01244	     	48-1244	Zepp Dr	048	King George County	048	King George County	0.24	48-1242 Saddle Dr	48-1242 Saddle Dr	0	?							X
+794836	  48	01245	     	48-1245	 	048	King George County	048	King George County	0.31	48-1244	Cul-de-Sac	0	?							X
+794837	  48	01246	     	48-1246	 	048	King George County	048	King George County	0.18	Cul-de-Sac	48-1241	0	?							X
+794838	  48	01247	     	48-1247	 	048	King George County	048	King George County	0.18	Cul-de-Sac	48-1244	0	?							X
+748232	  48	09209	     	48-9209	King George School Board Office	048	King George County	048	King George County	0.14	48-610 Millbank Rd	48-610 Millbank Rd	330	R							X						10/12/2004
+748233	  48	09210	     	48-9210	King George School Maintenance Shop	048	King George County	048	King George County	0.06	US 301 James Madison Pkwy	US 301 James Madison Pkwy	120	R							X						10/07/2004
+748234	  48	09213	     	48-9213	King George Middle School	048	King George County	048	King George County	0.15	SR 206 Dalgren Rd	SR 206 Dalgren Rd	520	R							X						10/07/2004
+748235	  48	09578	     	48-9578	Potomac Elementary School	048	King George County	048	King George County	0.07	48-670 Fifteenth St	48-614 Potomac Dr	90	R							X						09/20/2004
+748236	  48	09951	     	48-9951	King George High School	048	King George County	048	King George County	0.31	SR 206 Dalgren Rd	SR 206 Dalgren Rd	340	R							X						10/07/2004
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

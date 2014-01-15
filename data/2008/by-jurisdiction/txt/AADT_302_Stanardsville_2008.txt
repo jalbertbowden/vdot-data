@@ -1,0 +1,19 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Stanardsville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+070189	C2US	00033	     	Bus US 33	Main St	302	Town of Stanardsville	039	Greene County	0.35	WCL Stanardsville	SR 230 Madison Rd	2200	N	96%	1%	1%	1%	2%	0%	N	0.0975	N	0.5591	2400	N	2008
+070293	C2US	00033	     	Bus US 33	Main St	302	Town of Stanardsville	039	Greene County	0.11	SR 230 Madison Rd	ECL Stanardsville	4600	F	92%	1%	1%	1%	4%	0%	F	0.0860	F	0.6056	4900	F	2008
+070052	  SR	00230	     	VA 230	Madison Rd	302	Town of Stanardsville	039	Greene County	0.50	Bus US 33 Main St	NCL Stanardsville	4100	F	95%	1%	1%	1%	2%	0%	F	0.0869	F	0.6093	4400	F	2008
+302501	  39	00649	     	39-649	Standard St	302	Town of Stanardsville	039	Greene County	0.15	39-622 Celt Rd	Blakely Ave	810	F	96%	1%	2%	0%	0%	0%	C	0.1185	F	0.6827	860	F	2008
+302502	  39	00649	     	39-649	Blakely Ave	302	Town of Stanardsville	039	Greene County	0.05	Stanard St	Bus US 33 Main St	410	F	96%	1%	2%	0%	0%	0%	F	0.1132	F	0.7129	440	F	2008
+742511	  39	01001	     	39-1001	Ford Ave	302	Town of Stanardsville	039	Greene County	0.09	39-649 Blakely Ave	Bus US 33 Main St	610	R							X						07/15/2008
+742512	  39	01001	     	39-1001	Ford Ave	302	Town of Stanardsville	039	Greene County	0.47	Bus US 33 Main St	NCL Stanardsville	1500	R							X						07/15/2008
+742514	  39	01002	     	39-1002	Court St	302	Town of Stanardsville	039	Greene County	0.04	39-1001 Ford Ave	39-649 Blakely Ave	300	R							X						07/15/2008
+742515	  39	01003	     	39-1003	Shiloh Rd	302	Town of Stanardsville	039	Greene County	0.17	Dead End	Bus US 33 Main St	180	R							X						11/01/2005
+742517	  39	01004	     	39-1004	Childs Rd	302	Town of Stanardsville	039	Greene County	0.10	ECL Stanardsville	SR 230 Madison Rd	230	R							X						11/01/2005
+742518	  39	01005	     	39-1005	Commonwealth Dr	302	Town of Stanardsville	039	Greene County	0.09	SR 230 Madison Rd	ECL Stanardsville	90	R							X						07/15/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

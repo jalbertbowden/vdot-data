@@ -1,0 +1,814 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Grayson Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+010240	  SR	00016	     	VA 16	Jefferson Hwy	038	Grayson County	038	Grayson County	4.06	North Carolina State Line	US 58 Troutdale Hwy	1000	F	89%	1%	1%	1%	8%	0%	C	0.0994	F	0.5556	1100	F	2008
+010072	  SR	00016	     	US 58, VA 16	Troutdale Hwy	038	Grayson County	038	Grayson County	3.99	US 58 Mouth of Wilson	US 58 Volney	1500	F	89%	1%	1%	1%	8%	0%	F	0.0934	F	0.5150	1600	F	2008	
+010067	  SR	00016	     	VA 16	Troutdale Hwy	038	Grayson County	038	Grayson County	5.66	US 58 Highlands Pkwy	ECL Troutdale	1100	F	89%	1%	1%	1%	8%	0%	F	0.0979	F	0.5221	1100	F	2008
+010239	  SR	00016	     	VA 16	Troutdale Hwy	314	Town of Troutdale	038	Grayson County	2.26	ECL Troutdale	WCL Troutdale	1000	F	89%	1%	1%	1%	8%	0%	F	0.1012	F	0.5401	1100	F	2008
+010238	  SR	00016	     	VA 16	Troutdale Hwy	038	Grayson County	038	Grayson County	0.82	WCL Troutdale	Smyth County Line	1000	F	89%	1%	1%	1%	8%	0%	F	0.1016	F	0.8182	1100	F	2008
+010242	  US	00021	     	US 21, US 221	New River Pkwy	038	Grayson County	038	Grayson County	3.39	North Carolina State Line	SCL Independence	1800	F	92%	0%	1%	0%	6%	0%	C	0.0960	F	0.0000	1900	F	2008
+010333	  US	00021	     	US 21, US 221	 	240	Town of Independence	038	Grayson County	0.47	SCL Independence	US 58 Main St	1800	N	92%	0%	1%	0%	6%	0%	N	0.0960	N	0.0000	1900	N	2008
+010071	  US	00021	     	US 21	 	240	Town of Independence	038	Grayson County	1.64	US 58 Main St	NCL Independence	1900	A	96%	0%	1%	1%	2%	0%	C	0.1161	A	0.6273	2000	A	2008
+010073	  US	00021	     	US 21	 	038	Grayson County	038	Grayson County	8.72	NCL Independence	38-791 Country Ln	1900	N	96%	0%	1%	1%	2%	0%	N	0.1161	N	0.6273	2000	N	2008
+010241	  US	00021	     	US 21	Elk Creek Pkwy	038	Grayson County	038	Grayson County	1.45	38-791 Country Ln	38-805 Spring Valley Rd	1600	F	96%	0%	1%	1%	2%	0%	F	0.0976	F	0.5093	1700	F	2008
+010069	  US	00021	     	US 21	Elk Creek Pkwy	038	Grayson County	038	Grayson County	1.37	38-805 Spring Valley Rd	Wythe County Line	1400	F	96%	0%	1%	1%	2%	0%	F	0.0914	F	0.5613	1500	F	2008
+787353	  SR	00048	     	VA 48	Blue Ridge Parkway	038	Grayson County	US 	Federal	1.13	North Carolina State Line	SR 89	560	O							X						2008
+795374	  SR	00048	     	VA 48	Blue Ridge Parkway	038	Grayson County	US 	Federal	3.56	SR 89	Grayson County Line	560	O							X						2008
+010074	  US	00058	     	US 58	Highlands Pkwy; Jeb Stuart Hwy	038	Grayson County	038	Grayson County	9.57	Washington County Line	SR 362 Grayson Highlands State Park	630	F	98%	0%	1%	0%	1%	0%	F	0.1014	F	0.5113	660	F	2008
+010248	  US	00058	     	US 58	Highlands Pkwy	038	Grayson County	038	Grayson County	3.76	SR 362 Grayson Highlands State Park	38-740 North of Rugby	450	F	98%	0%	1%	0%	1%	0%	F	0.1300	F	0.5159	470	F	2008
+010247	  US	00058	     	US 58	Highlands Pkwy	038	Grayson County	038	Grayson County	3.99	38-740 North of Rugby	SR 16 Troutdale Hwy	660	F	98%	0%	1%	0%	1%	0%	F	0.1004	F	0.6959	700	F	2008
+010072	  US	00058	     	US 58, VA 16	Troutdale Hwy	038	Grayson County	038	Grayson County	3.99	SR 16; Highlands Pkwy	SR 16 Jefferson Hwy	1500	F	89%	1%	1%	1%	8%	0%	F	0.0934	F	0.5150	1600	F	2008
+010246	  US	00058	     	US 58	Wilson Hwy	038	Grayson County	038	Grayson County	3.79	SR 16 Jefferson Hwy	38-711 Fox Creek Rd	1800	F	90%	1%	2%	3%	5%	0%	F	0.0903	F	0.5564	1900	F	2008
+010245	  US	00058	     	US 58	Wilson Hwy	038	Grayson County	038	Grayson County	8.04	38-711 Fox Creek Rd	WCL Independence	2400	F	90%	1%	2%	3%	5%	0%	C	0.0936	F	0.7043	2500	F	2008
+010473	  US	00058	     	US 58	W Main St	240	Town of Independence	038	Grayson County	0.86	WCL Independence	US 21 Independence Ave	2400	N	90%	1%	2%	3%	5%	0%	N	0.0936	N	0.7043	2500	N	2008
+010154	  US	00058	     	US 58, US 221	E Main St	240	Town of Independence	038	Grayson County	1.20	US 21 Independence Ave	ECL Independence	6900	F	92%	1%	1%	1%	4%	0%	F	0.1099	F	0.6298	7200	F	2008
+010155	  US	00058	     	US 58, US 221	Grayson Pkwy	038	Grayson County	038	Grayson County	1.55	ECL Independence	SR 274 Riverside Dr	6900	N	92%	1%	1%	1%	4%	0%	N	0.1099	N	0.6298	7200	N	2008
+010244	  US	00058	     	US 58, US 221	Grayson Pkwy	038	Grayson County	038	Grayson County	8.68	SR 274 Riverside Dr	SR 94 Riverside Dr	5000	F	92%	1%	1%	1%	4%	0%	C				5300	F	2008
+010243	  US	00058	     	US 58, US 221	Grayson Pkwy	038	Grayson County	038	Grayson County	1.36	SR 94 Riverside Dr	WCL Galax	8200	F	92%	1%	1%	1%	4%	0%	F	0.0942	F	0.0000	8500	F	2008
+110249	  SR	00089	     	VA 89	Skyline Hwy	038	Grayson County	038	Grayson County	4.89	North Carolina State Line	SCL Galax	4900	F	97%	0%	1%	0%	2%	0%	C	0.0889	F	0.0000	5100	F	2008
+010076	  SR	00093	     	VA 93	Wilson Hwy	038	Grayson County	038	Grayson County	0.92	North Carolina State Line	US 58 Near Mouth Of Wilson	710	F	86%	0%	3%	7%	4%	0%	C	0.1015	F	0.5542	750	F	2008
+010080	  SR	00094	     	VA 94	Riverside Dr	038	Grayson County	038	Grayson County	4.22	US 58 West of Galax	SR 274 Riverside Dr	1900	F	96%	0%	1%	1%	2%	0%	C	0.1077	F	0.6761	2000	F	2008
+010251	  SR	00094	     	VA 94	Scenic Rd	038	Grayson County	038	Grayson County	2.05	SR 274 Riverside Dr	38-805 Southwest of Fries Spring Valley	1900	F	96%	1%	1%	0%	1%	0%	F	0.1087	F	0.6991	2000	F	2008
+010078	  SR	00094	     	VA 94	Scenic Rd	038	Grayson County	038	Grayson County	2.20	38-805 Southwest of Fries Spring Valley	WCL Fries	1900	F	96%	1%	1%	0%	1%	0%	C	0.0919	F	0.5714	2000	F	2008
+010079	  SR	00094	     	VA 94	 	220	Town of Fries	038	Grayson County	0.48	WCL Fries	38-1001	1900	N	96%	1%	1%	0%	1%	0%	N	0.0919	N	0.5714	2000	N	2008
+010250	  SR	00094	     	VA 94	Scenic Rd	220	Town of Fries	038	Grayson County	0.56	38-1001 W Main St	NCL Fries	1900	F	96%	1%	1%	0%	1%	0%	F	0.0947	F	0.5728	2000	F	2008
+010313	  SR	00094	     	VA 94	 	038	Grayson County	038	Grayson County	0.63	NCL Fries	Carroll County Line	1900	N	96%	1%	1%	0%	1%	0%	N	0.0947	N	0.5728	2000	N	2008
+010252	  SR	00097	     	VA 97	Pipers Gap Rd	038	Grayson County	038	Grayson County	0.78	ECL Galax	Carroll County Line	2400	F	98%	0%	1%	1%	0%	0%	C	0.0897	F	0.0000	2500	F	2008
+010242	  US	00221	     	US 21, US 221	New River Pkwy	038	Grayson County	038	Grayson County	3.39	North Carolina State Line	CL Independence	1800	F	92%	0%	1%	0%	6%	0%	C	0.0960	F	0.0000	1900	F	2008	
+010333	  US	00221	     	US 21, US 221	 	240	Town of Independence	038	Grayson County	0.47	CL Independence	US 58 INDEPENDENCE	1800	N	92%	0%	1%	0%	6%	0%	N	0.0960	N	0.0000	1900	N	2008	
+010154	  US	00221	     	US 58, US 221	E Main St	240	Town of Independence	038	Grayson County	1.20	US 58 INDEPENDENCE	CL Independence	6900	F	92%	1%	1%	1%	4%	0%	F	0.1099	F	0.6298	7200	F	2008	
+010155	  US	00221	     	US 58, US 221	Grayson Pkwy	038	Grayson County	038	Grayson County	1.55	CL Independence	SR 274 East of Independence	6900	N	92%	1%	1%	1%	4%	0%	N	0.1099	N	0.6298	7200	N	2008	
+010244	  US	00221	     	US 58, US 221	Grayson Pkwy	038	Grayson County	038	Grayson County	8.68	SR 274 East of Independence	SR 94 WEST OF GALAX	5000	F	92%	1%	1%	1%	4%	0%	C				5300	F	2008	
+010243	  US	00221	     	US 58, US 221	Grayson Pkwy	038	Grayson County	038	Grayson County	1.36	SR 94 West of Galax	WCL Galax	8200	F	92%	1%	1%	1%	4%	0%	F	0.0942	F	0.0000	8500	F	2008	
+010082	  SR	00274	     	VA 274	Riverside Dr	038	Grayson County	038	Grayson County	7.36	US 58 Grayson Pkwy	SR 94 Scenic Rd; Riverside Dr	830	F	95%	2%	2%	0%	0%	0%	C	0.1330	F	0.8049	870	F	2008
+780631	  FR	00685	     	FR 685	 	038	Grayson County	038	Grayson County	0.23	38-626 Old Baywood Rd	Dead End	0	?							X
+780632	  FR	00686	     	FR 686	 	038	Grayson County	038	Grayson County	0.13	US 58; 38-626	Dead End	0	?							X
+710372	  17	00732	     	17-732	Lincoln Rd	038	Grayson County	017	Carroll County	0.40	38-606	Grayson County Line	20	R							X						11/28/2007
+741725	  38	00600	     	38-600	 	038	Grayson County	038	Grayson County	0.30	North Carolina State Line	38-751	60	R							X						11/08/2005
+741726	  38	00600	     	38-600	 	038	Grayson County	038	Grayson County	2.30	38-751	US 58 E, Highlands Pkwy	90	R							X						11/08/2005
+405457	  38	00600	     	38-600	 	038	Grayson County	038	Grayson County	3.00	US 58 W, Highlands Pkwy	Smyth County Line	140	F	94%	1%	0%	4%	2%	0%	C	0.1511	F	0.5238	150	F	2008
+405458	  38	00601	     	38-601	Flat Ridge Rd	038	Grayson County	038	Grayson County	7.43	Smyth County Line	38-658 Comers Rock Rd	190	F	96%	0%	2%	1%	1%	0%	F	0.1752	F	0.5570	200	F	2008
+405459	  38	00601	     	38-601	Old Bridle Creek Rd	038	Grayson County	038	Grayson County	1.32	38-658 S, Flatridge Rd	38-679 Buck Mountain Rd	180	F	96%	0%	2%	1%	1%	0%	F	0.1114	F	0.7727	190	F	2008
+405460	  38	00601	     	38-601	Old Bridle Creek Rd	038	Grayson County	038	Grayson County	3.60	38-679 Buck Mountain Rd	38-803 Hardwood Lane	260	F	96%	0%	2%	1%	1%	0%	F	0.1183	F	0.7000	270	F	2008
+405461	  38	00601	     	38-601	Old Bridle Creek Rd	038	Grayson County	038	Grayson County	1.84	38-803 Hardwood Lane	US 58 AL Philpot Mem Hwy	270	F	96%	0%	2%	1%	1%	0%	C	0.1338	F	0.8056	290	F	2008
+405462	  38	00601	     	38-601	Old Bridle Creek Rd	038	Grayson County	038	Grayson County	1.62	US 58 Wilson Hwy; AL Philpot Mem Hwy	38-711 North	90	F	96%	0%	2%	1%	1%	0%	F	0.2040	F	0.5122	90	F	2008
+405463	  38	00601	     	38-601	Cox Chapel Rd	038	Grayson County	038	Grayson County	1.41	38-711 N Battlefield Dr	38-708 N River Bend Rd	150	F	98%	0%	1%	1%	0%	0%	C	0.1111	F	0.5882	160	F	2008
+405464	  38	00601	     	38-601	Cox Chapel Rd	038	Grayson County	038	Grayson County	0.96	38-708 N River Bend Rd	38-708 S River Bend Rd	140	F	96%	0%	2%	1%	1%	0%	F	0.1568	F	0.6222	140	F	2008
+741727	  38	00601	     	38-601	 	038	Grayson County	038	Grayson County	0.25	38-708 S, Potato Creek Rd	North Carolina State Line	90	R							X						02/17/2006
+741728	  38	00602	     	38-602	 	038	Grayson County	038	Grayson County	0.50	Wythe County Line	38-653 Arrowhead Dr	80	R							X						02/10/2006
+405465	  38	00602	     	38-602	Brush Creek Rd	038	Grayson County	038	Grayson County	3.30	38-653 Arrowhead Dr	Carroll County Line	110	F	92%	3%	1%	3%	1%	0%	C	0.1145	F	0.5333	120	F	2008
+405466	  38	00603	     	38-603	Fairwood Rd	038	Grayson County	038	Grayson County	1.90	Smyth County Line	38-741 Homestead Rd	190	F	97%	1%	1%	1%	1%	0%	F	0.1335	F	0.5091	200	F	2008
+405467	  38	00603	     	38-603	Fairwood Rd	038	Grayson County	038	Grayson County	2.87	38-741 Homestead Rd	WCL Troutdale	190	F	97%	1%	1%	1%	1%	0%	F	0.1205	F	0.6170	200	F	2008
+405468	  38	00603	     	38-603	Fairwood Dr	314	Town of Troutdale	038	Grayson County	1.00	WCL Troutdale	SR 16 N, Troutdale Hwy	290	F	97%	1%	1%	1%	1%	0%	C	0.1145	F	0.6053	310	F	2008
+741729	  38	00603	     	38-603	Fairwood Rd	314	Town of Troutdale	038	Grayson County	0.85	SR 16 S, Troutdale Hwy	ECL Troutdale	260	R							X						12/29/2005
+785111	  38	00603	     	38-603	Ripshin Rd	038	Grayson County	038	Grayson County	1.60	ECL Troutdale	38-732 Laurel Creek Rd	260	N							X				0	N	12/29/2005
+741730	  38	00603	     	38-603	Ripshin Rd	038	Grayson County	038	Grayson County	2.00	38-732 Laurel Creek Rd	Jefferson Forest Bndy	60	R							X						01/06/2006
+741731	  38	00603	     	38-603	Ripshin Rd	038	Grayson County	038	Grayson County	2.00	Jefferson Forest Bndy	38-601 N, Flat Ridge Rd	45	R							X						01/06/2006
+741732	  38	00603	     	38-603	Lostlake Rd	038	Grayson County	038	Grayson County	1.90	38-601 S, Flat Ridge Rd	38-675 Glen Wood Rd	80	R							X						01/06/2006
+741733	  38	00604	     	38-604	Jerusalem Rd	038	Grayson County	038	Grayson County	0.10	38-805 W, Spring Valley Rd	38-655	70	R							X						02/07/2006
+741734	  38	00604	     	38-604	Jerusalem Rd	038	Grayson County	038	Grayson County	0.90	38-655	38-805 MID	30	R							X						02/07/2006
+741735	  38	00604	     	38-604	Jerusalem Rd	038	Grayson County	038	Grayson County	0.60	38-805 E, Spring Valley Rd	38-776	60	R							X						02/07/2006
+741736	  38	00604	     	38-604	Jerusalem Rd	038	Grayson County	038	Grayson County	1.00	38-776	38-760 Liberty Hill Rd	50	R							X						02/07/2006
+405469	  38	00604	     	38-604	Rabbit Hollow Rd	038	Grayson County	038	Grayson County	4.60	38-760 Liberty Hill Rd	38-644 Winding Rd	80	F	98%	1%	1%	0%	0%	0%	F	0.1344	F	0.8000	90	F	2008
+405470	  38	00604	     	38-604	Liberty Hill	038	Grayson County	038	Grayson County	1.10	38-644 Winding Rd	38-647 Stevens Creek	290	F	98%	1%	1%	0%	0%	0%	C	0.1111	F	0.6389	300	F	2008
+741737	  38	00604	     	38-604	 	038	Grayson County	038	Grayson County	0.20	38-647 Steavens Creek Rd	Carroll County Line	540	R							X						02/10/2006
+741738	  38	00605	     	38-605	 	038	Grayson County	038	Grayson County	0.60	38-644 Freedom Lane	0.60 MN 38-644 Freedom Lane	280	R							X						1999
+741739	  38	00605	     	38-605	 	038	Grayson County	038	Grayson County	0.20	0.60 MN 38-644 Freedom Lane	Carroll County Line	140	R							X						1999
+405471	  38	00606	     	38-606	Water Wheel Rd	038	Grayson County	038	Grayson County	0.54	NCL Galax	38-634 Water Wheel Rd	220	F	96%	2%	1%	1%	0%	0%	C	0.1134	F	0.5000	230	F	2008
+741740	  38	00606	     	38-606	 	038	Grayson County	038	Grayson County	1.05	38-634 Water Wheel Rd	38-809	110	R							X						1999
+741741	  38	00606	     	38-606	 	038	Grayson County	038	Grayson County	0.15	38-809	38-642	90	R							X						1999
+741742	  38	00606	     	38-606	 	038	Grayson County	038	Grayson County	0.75	38-642	17-732 Lincoln Rd	80	R							X						1999
+741743	  38	00606	     	38-606	 	038	Grayson County	038	Grayson County	0.65	17-732 Lincoln Rd	Road	30	R							X						1999
+741744	  38	00606	     	38-606	 	038	Grayson County	038	Grayson County	0.35	Road	Dead End; Gap	0	R							X						05/17/2002
+741745	  38	00606	     	38-606	 	220	Town of Fries	038	Grayson County	0.15	SCL Fries; Gap	38-1001	0	R							X						05/17/2002
+405472	  38	00606	     	38-606	Fries Rd	220	Town of Fries	038	Grayson County	0.18	38-1001 E Main St	ECL Fries Carrol Co Line	3000	F	98%	0%	1%	1%	0%	0%	C	0.0956	F	0.0000	3100	F	2008
+405473	  38	00607	     	38-607	Meadow Creek Rd	038	Grayson County	038	Grayson County	3.00	38-613 Edmonds Rd	38-787 Davis Knob Rd	160	F	97%	2%	1%	0%	0%	0%	F	0.1352	F	0.6512	170	F	2008
+405474	  38	00607	     	38-607	Meadow Creek Rd	038	Grayson County	038	Grayson County	1.70	38-787 Davis Knob Rd	38-618 Mt Vale Rd	770	F	97%	2%	1%	0%	0%	0%	F	0.1050	F	0.7979	810	F	2008
+405475	  38	00607	     	38-607	Meadow Creek Rd	038	Grayson County	038	Grayson County	1.40	38-618 Mt Vale Rd	38-617 White Pine Rd	390	F	97%	2%	1%	0%	0%	0%	F	0.1479	F	0.6087	410	F	2008
+405476	  38	00607	     	38-607	Meadow Creek Rd	038	Grayson County	038	Grayson County	1.62	38-617 White Pine Rd	US 58 Grayson Pkwy	310	F	97%	2%	1%	0%	0%	0%	C	0.1276	F	0.6512	320	F	2008
+741746	  38	00607	     	38-607	 	038	Grayson County	038	Grayson County	0.12	Dead End	NCL Galax	240	R							X						1999
+405477	  38	00607	     	38-607	Fries Rd	038	Grayson County	038	Grayson County	0.26	NCL Galax	Carroll County Line	930	F	96%	1%	1%	1%	0%	0%	C	0.0905	F	0.6064	970	F	2008
+405478	  38	00608	     	38-608	Coal Creek Rd	038	Grayson County	038	Grayson County	1.10	SR 97; Carroll County Line	Carroll County Line	330	F	97%	1%	1%	1%	0%	0%	C	0.0976	F	0.5405	350	F	2008
+741747	  38	00609	     	38-609	 	038	Grayson County	038	Grayson County	2.60	Blue Ridge Pkwy	38-799	100	R							X						07/12/2002
+741748	  38	00609	     	38-609	 	038	Grayson County	038	Grayson County	0.30	38-799	38-613	70	R							X						07/12/2002
+741749	  38	00609	     	38-609	 	038	Grayson County	038	Grayson County	2.20	38-613	Carroll County Line	140	R							X						1999
+741750	  38	00610	     	38-610	 	038	Grayson County	038	Grayson County	0.50	38-785	SR 89 Skyline Hwy	340	R							X						1999
+741751	  38	00611	     	38-611	Caty Sage	038	Grayson County	038	Grayson County	1.50	US 21	38-668 Big Ridge Rd	130	R							X						02/01/2006
+741752	  38	00611	     	38-611	Pheasant Run Lane	038	Grayson County	038	Grayson County	1.00	38-668 Big Ridge Rd	38-665 Stones Chapel Rd	110	R							X						01/24/2006
+741753	  38	00611	     	38-611	Stones Chapel Rd	038	Grayson County	038	Grayson County	0.80	38-665 Stones Chapel Rd	38-664 Serenity Rd	60	R							X						01/24/2006
+741754	  38	00611	     	38-611	 	038	Grayson County	038	Grayson County	1.30	38-664 Serenity Rd	38-662	80	R							X						06/11/2002
+741755	  38	00611	     	38-611	Caty Sage	038	Grayson County	038	Grayson County	1.20	38-662	38-671 Mt Zion Rd	80	R							X						02/01/2006
+741756	  38	00611	     	38-611	Caty Sage	038	Grayson County	038	Grayson County	0.70	38-671 Mt Zion Rd	38-658 Comers Rock Rd	140	R							X						02/01/2006
+741757	  38	00612	     	38-612	 	038	Grayson County	038	Grayson County	1.20	Blue Ridge Pkwy	Carroll County Line	70	R							X						07/12/2002
+405479	  38	00613	     	38-613	Edmonds Rd	038	Grayson County	038	Grayson County	1.56	38-615; NC State Line	38-785 Fishers Gap Rd	1400	F	95%	0%	2%	2%	1%	0%	F	0.0847	F	0.5720	1500	F	2008
+405480	  38	00613	     	38-613	Edmonds Rd	038	Grayson County	038	Grayson County	1.14	38-785 Fishers Gap	SR 89 Skyline Hwy	1300	F	95%	0%	2%	2%	1%	0%	C	0.0930	F	0.5159	1300	F	2008
+741758	  38	00613	     	38-613	 	038	Grayson County	038	Grayson County	2.41	SR 89 Skyline Hwy	38-609	470	R							X						1999
+741759	  38	00614	     	38-614	 	038	Grayson County	038	Grayson County	0.40	38-659 Tiny Wood Lane; Valley View Rd	US 21; 38-791	220	R							X						1999
+741760	  38	00615	     	38-615	 	038	Grayson County	038	Grayson County	1.30	Dead End	38-624 Delhart Rd	130	R							X						07/16/2002
+405481	  38	00615	     	38-615	Savannah Rd	038	Grayson County	038	Grayson County	3.10	38-624 Delhart Rd	38-613; NC State Line	450	F	87%	1%	4%	6%	3%	0%	C	0.0948	F	0.5714	480	F	2008
+741761	  38	00616	     	38-616	 	038	Grayson County	038	Grayson County	2.00	38-622 Delhart Rd	38-626	230	R							X						07/16/2002
+741762	  38	00617	     	38-617	 	038	Grayson County	038	Grayson County	1.20	38-622 Delhart Rd	38-621	170	R							X						1999
+741763	  38	00617	     	38-617	 	038	Grayson County	038	Grayson County	0.70	38-621	38-607 Meadow Creek Rd	150	R							X						07/16/2002
+741764	  38	00618	     	38-618	 	038	Grayson County	038	Grayson County	0.60	38-607	SR 89 Skyline Hwy	590	R							X						1999
+741765	  38	00619	     	38-619	 	038	Grayson County	038	Grayson County	0.80	38-607 Meadow Creek Rd	38-643	320	R							X						1999
+741766	  38	00619	     	38-619	 	038	Grayson County	038	Grayson County	1.49	38-643	SCL Galax	90	R							X						07/16/2002
+741767	  38	00620	     	38-620	Round Hill Circle	038	Grayson County	038	Grayson County	0.21	38-604 Rabbit Hollow Rd	38-604 Rabbit Hollow Rd	20	R							X						02/10/2006
+741768	  38	00621	     	38-621	 	038	Grayson County	038	Grayson County	0.70	38-622 Delhart Rd	38-617	110	R							X						07/16/2002
+741769	  38	00622	     	38-622	 	038	Grayson County	038	Grayson County	2.00	38-625	38-624 W, Crossroads Dr	130	R							X						07/16/2002
+405482	  38	00622	     	38-622	Delhart Rd	038	Grayson County	038	Grayson County	1.70	38-624 East Delhart Rd	38-616 Link Rd	780	F	97%	0%	1%	1%	0%	0%	F	0.1303	F	0.6008	820	F	2008
+405483	  38	00622	     	38-622	Delhart Rd	038	Grayson County	038	Grayson County	0.90	38-616 Link Rd	38-617 White Pine Rd	680	F	97%	0%	1%	1%	0%	0%	F	0.1350	F	0.5333	710	F	2008
+405484	  38	00622	     	38-622	Delhart Rd	038	Grayson County	038	Grayson County	1.50	38-617 White Pine Rd	38-621 Nexus Rd	770	F	97%	0%	1%	1%	0%	0%	F	0.1372	F	0.5352	800	F	2008
+405485	  38	00622	     	38-622	Delhart Rd	038	Grayson County	038	Grayson County	0.70	38-621 Nexus Rd	38-626 Old Baywood	850	F	97%	0%	1%	1%	0%	0%	C	0.1217	F	0.5913	890	F	2008
+741770	  38	00623	     	38-623	 	038	Grayson County	038	Grayson County	3.04	38-622 Delhart Rd	38-626 SOUTH	140	R							X						1999
+741771	  38	00623	     	38-623	 	038	Grayson County	038	Grayson County	0.31	38-626 NORTH	US 58 Grayson Pkwy	60	R							X						1999
+405486	  38	00623	     	38-623	Beech Grove Ln	038	Grayson County	038	Grayson County	1.09	US 58 Grayson Pkwy	38-636 Rock Chimney Rd	550	F	97%	0%	1%	1%	0%	0%	C	0.0966	F	0.5167	580	F	2008
+405487	  38	00624	     	38-624	Delhart Rd	038	Grayson County	038	Grayson County	1.30	North Carolina State Line	38-622 East Delhart Rd	1000	F	90%	1%	2%	6%	1%	0%	C	0.0959	F	0.5196	1100	F	2008
+405488	  38	00624	     	38-624	Crossroads Dr	038	Grayson County	038	Grayson County	3.30	38-622 East Delhart Rd	38-626 Old Baywood Rd	440	F	90%	1%	2%	6%	1%	0%	F	0.1136	F	0.7025	460	F	2008
+741772	  38	00624	     	38-624	 	038	Grayson County	038	Grayson County	0.38	38-626 Old Baywood Rd	US 58 Grayson Pkwy	560	R							X						1999
+741773	  38	00625	     	38-625	 	038	Grayson County	038	Grayson County	0.20	North Carolina State Line	0.20 MN NC State Line	0	R							X						07/16/2002
+741774	  38	00625	     	38-625	 	038	Grayson County	038	Grayson County	0.50	0.20 MN NC State Line	38-622	8	R							X						07/16/2002
+741775	  38	00625	     	38-625	 	038	Grayson County	038	Grayson County	0.45	38-622	38-707	20	R							X						07/16/2002
+741776	  38	00625	     	38-625	 	038	Grayson County	038	Grayson County	0.45	38-707	38-633	50	R							X						07/16/2002
+741777	  38	00625	     	38-625	 	038	Grayson County	038	Grayson County	1.60	38-633	38-626	110	R							X						07/16/2002
+741778	  38	00626	     	38-626	 	038	Grayson County	038	Grayson County	1.60	38-632 SOUTH	38-627	50	R							X						1999
+741779	  38	00626	     	38-626	 	038	Grayson County	038	Grayson County	1.51	38-627	1.51 MN 38-627	60	R							X						1999
+741780	  38	00626	     	38-626	 	038	Grayson County	038	Grayson County	0.10	1.51 MN 38-627	38-629	70	R							X						1999
+741781	  38	00626	     	38-626	 	038	Grayson County	038	Grayson County	2.49	38-629	38-624 Crossroads Dr	480	R							X						1999
+741782	  38	00626	     	38-626	Old Baywood Rd	038	Grayson County	038	Grayson County	0.30	38-624 Crossroads Dr	38-636 Haystack Rd	570	F	97%	1%	1%	0%	1%	0%	C	0.1355	F	0.6707	600	F	2008
+741783	  38	00626	     	38-626	 	038	Grayson County	038	Grayson County	3.40	38-636 Haystack Rd	38-622 Delhart Rd	210	R							X						1999
+405489	  38	00626	     	38-626	Old Baywood Rd	038	Grayson County	038	Grayson County	0.09	38-622 Delhart Rd	US 58; 221	1100	F	97%	1%	1%	0%	1%	0%	F	0.1124	F	0.5795	1200	F	2008
+741784	  38	00627	     	38-627	 	038	Grayson County	038	Grayson County	0.25	Dead End	38-626	30	R							X						1999
+741785	  38	00628	     	38-628	 	038	Grayson County	038	Grayson County	1.90	North Carolina State Line	38-629 EAST	20	R							X						1999
+741786	  38	00628	     	38-628	 	038	Grayson County	038	Grayson County	0.50	38-629 WEST	Dead End	0	R							X						1999
+741787	  38	00629	     	38-629	 	038	Grayson County	038	Grayson County	3.20	North Carolina State Line	38-628 WEST	30	R							X						1999
+741788	  38	00629	     	38-629	 	038	Grayson County	038	Grayson County	0.20	38-628 WEST	38-628 EAST	40	R							X						1999
+741789	  38	00629	     	38-629	 	038	Grayson County	038	Grayson County	1.02	38-628 EAST	1.02 MN 38-628	50	R							X						1999
+741790	  38	00629	     	38-629	 	038	Grayson County	038	Grayson County	0.22	1.02 MN 38-628	38-626	50	R							X						1999
+741791	  38	00630	     	38-630	 	038	Grayson County	038	Grayson County	0.16	38-824	Dead End	47	R							X						1999
+741792	  38	00631	     	38-631	 	038	Grayson County	038	Grayson County	0.03	US 58 Grayson Pkwy	0.03 MN US 58	200	R							X						1999
+741793	  38	00631	     	38-631	 	038	Grayson County	038	Grayson County	0.92	0.03 MN US 58	38-634	160	R							X						06/06/2002
+741794	  38	00631	     	38-631	 	038	Grayson County	038	Grayson County	1.70	38-634	38-635	30	R							X						06/06/2002
+741795	  38	00631	     	38-631	 	038	Grayson County	038	Grayson County	1.30	38-635	38-779	20	R							X						06/06/2002
+741796	  38	00631	     	38-631	 	038	Grayson County	038	Grayson County	0.55	38-779	38-636 WEST	40	R							X						06/06/2002
+741797	  38	00631	     	38-631	 	038	Grayson County	038	Grayson County	1.20	38-636 EAST	38-637	90	R							X						06/06/2002
+741798	  38	00632	     	38-632	 	038	Grayson County	038	Grayson County	0.12	Dead End	0.12 MW Dead End	2	R							X						1999
+741799	  38	00632	     	38-632	 	038	Grayson County	038	Grayson County	1.01	0.12 MW Dead End	38-626 SOUTH	40	R							X						1999
+741800	  38	00632	     	38-632	 	038	Grayson County	038	Grayson County	1.70	38-626 SOUTH	38-626 NORTH	110	R							X						1999
+741801	  38	00633	     	38-633	 	038	Grayson County	038	Grayson County	0.80	38-625	38-624 S, Crossroads Dr	50	R							X						07/16/2002
+741802	  38	00633	     	38-633	 	038	Grayson County	038	Grayson County	0.85	38-624 N, Crossroads Dr	38-623	60	R							X						07/16/2002
+741803	  38	00634	     	38-634	 	038	Grayson County	038	Grayson County	1.80	Dead End	38-631	130	R							X						06/06/2002
+741804	  38	00634	     	38-634	 	038	Grayson County	038	Grayson County	1.40	38-631	38-636 WEST	330	R							X						1999
+405490	  38	00634	     	38-634	Beech Grove Ln	038	Grayson County	038	Grayson County	0.10	38-636 West	38-636 E, Beach Grove Ln	500	F	98%	1%	1%	0%	0%	0%	C	0.1154	F	0.7424	520	F	2008
+741805	  38	00634	     	38-634	 	038	Grayson County	038	Grayson County	1.40	38-636 E, Beach Grove Ln	38-637	130	R							X						1999
+741806	  38	00634	     	38-634	 	038	Grayson County	038	Grayson County	2.30	38-637	SR 94; Gap	100	R							X						05/29/2002
+741807	  38	00634	     	38-634	 	038	Grayson County	038	Grayson County	0.30	38-882; Gap	38-868	150	R							X						1999
+741808	  38	00634	     	38-634	 	038	Grayson County	038	Grayson County	0.40	38-868	0.40 ME 38-868	140	R							X						05/29/2002
+741809	  38	00634	     	38-634	 	038	Grayson County	038	Grayson County	0.20	0.40 ME 38-868	38-640 WEST	110	R							X						1999
+405491	  38	00634	     	38-634	Water Wheel Rd	038	Grayson County	038	Grayson County	1.07	38-640 East Greenville Rd	38-893 Turnip Ln	370	F	91%	1%	1%	4%	3%	0%	C	0.1087	F	0.6304	390	F	2008
+405492	  38	00634	     	38-634	Water Wheel Rd	038	Grayson County	038	Grayson County	0.19	38-893 Turnip Ln	38-641 Pattons Mill Rd	190	F	91%	1%	1%	4%	3%	0%	F	0.1635	F	0.6029	200	F	2008
+405493	  38	00634	     	38-634	Water Wheel Rd	038	Grayson County	038	Grayson County	0.50	38-641 Pattons Mill Rd	38-606 Water Wheel Rd	170	F	91%	1%	1%	4%	3%	0%	F	0.1250	F	0.5577	180	F	2008
+741810	  38	00635	     	38-635	 	038	Grayson County	038	Grayson County	0.50	Dead End	38-631	9	R							X						06/06/2002
+741811	  38	00635	     	38-635	 	038	Grayson County	038	Grayson County	1.70	38-631	38-634	120	R							X						06/06/2002
+741812	  38	00636	     	38-636	 	038	Grayson County	038	Grayson County	0.15	38-9513	38-626 Old Baywood Rd	170	R							X						1999
+405494	  38	00636	     	38-636	Haystack Rd	038	Grayson County	038	Grayson County	0.39	38-626 Old Baywood Rd	US 58; 221	720	F	96%	1%	1%	1%	0%	0%	C	0.1496	F	0.5726	760	F	2008
+405495	  38	00636	     	38-636	Rock Chimney rd	038	Grayson County	038	Grayson County	0.94	US 58 Grayson Pkwy	38-623 Beach Grove Ln	210	F	98%	2%	0%	0%	0%	0%	C	0.1327	F	0.5000	220	F	2008
+405496	  38	00636	     	38-636	Beach Grove Ln	038	Grayson County	038	Grayson County	0.70	38-623 Beach Grove Ln	38-634 W Longview Ln	620	F	96%	1%	1%	1%	0%	0%	F	0.1185	F	0.6291	650	F	2008
+741813	  38	00636	     	38-636	 	038	Grayson County	038	Grayson County	0.80	38-634 W, Beech Grove Ln	38-631 EAST	340	R							X						1999
+741814	  38	00636	     	38-636	 	038	Grayson County	038	Grayson County	0.50	38-631 EAST	38-631 WEST	110	R							X						06/06/2002
+741815	  38	00636	     	38-636	 	038	Grayson County	038	Grayson County	0.20	38-631 WEST	38-779	70	R							X						06/06/2002
+741816	  38	00636	     	38-636	 	038	Grayson County	038	Grayson County	1.00	38-779	38-637	50	R							X						06/06/2002
+741817	  38	00636	     	38-636	 	038	Grayson County	038	Grayson County	1.06	38-637	Dead End	5	R							X						06/06/2002
+741818	  38	00637	     	38-637	 	038	Grayson County	038	Grayson County	1.60	38-634	38-631	40	R							X						06/06/2002
+741819	  38	00637	     	38-637	 	038	Grayson County	038	Grayson County	1.40	38-631	38-636	40	R							X						06/06/2002
+741820	  38	00638	     	38-638	 	038	Grayson County	038	Grayson County	1.70	SR 94 S, Riverside Dr	38-640 SOUTH	260	R							X						05/29/2002
+741821	  38	00638	     	38-638	 	038	Grayson County	038	Grayson County	0.20	38-640 SOUTH	38-640 NORTH	120	R							X						05/29/2002
+741822	  38	00638	     	38-638	 	038	Grayson County	038	Grayson County	0.50	38-640 NORTH	38-639	150	R							X						05/29/2002
+741823	  38	00638	     	38-638	 	038	Grayson County	038	Grayson County	0.80	38-639	SR 94 N, Scenic Rd	460	R							X						05/29/2002
+741824	  38	00639	     	38-639	 	038	Grayson County	038	Grayson County	0.40	38-638	38-880	220	R							X						1999
+741825	  38	00639	     	38-639	 	038	Grayson County	038	Grayson County	0.90	38-880	Dead End	70	R							X						05/29/2002
+741826	  38	00640	     	38-640	 	038	Grayson County	038	Grayson County	0.80	SR 94 Riverside Dr	38-638 SOUTH	40	R							X						05/29/2002
+741827	  38	00640	     	38-640	 	038	Grayson County	038	Grayson County	0.90	38-638 NORTH	Dead End; Gap	40	R							X						05/29/2002
+741828	  38	00640	     	38-640	 	038	Grayson County	038	Grayson County	2.30	Dead End; Gap	38-634 WEST	130	R							X						05/29/2002
+741829	  38	00640	     	38-640	 	038	Grayson County	038	Grayson County	0.15	38-634 WEST	38-634 EAST	340	R							X						1999
+405497	  38	00640	     	38-640	Greenville Rd	038	Grayson County	038	Grayson County	0.59	38-634 East Water Wheel Rd	38-780 Mockingbird Ln	520	F	95%	0%	1%	2%	2%	0%	F	0.1067	F	0.6063	540	F	2008
+405498	  38	00640	     	38-640	Greenville Rd	038	Grayson County	038	Grayson County	0.15	38-780 Mockingbird Ln	WCL Galax	780	F	95%	0%	1%	2%	2%	0%	C	0.1100	F	0.5938	820	F	2008
+741830	  38	00641	     	38-641	 	038	Grayson County	038	Grayson County	1.60	38-634 Water Wheel Rd	38-642	180	R							X						05/29/2002
+741831	  38	00641	     	38-641	 	038	Grayson County	038	Grayson County	1.42	38-642	38-869	110	R							X						05/29/2002
+741832	  38	00641	     	38-641	 	038	Grayson County	038	Grayson County	0.88	38-869	Dead End	8	R							X						05/29/2002
+741833	  38	00642	     	38-642	 	038	Grayson County	038	Grayson County	0.94	38-641	38-823	80	R							X						05/29/2002
+741834	  38	00642	     	38-642	 	038	Grayson County	038	Grayson County	0.06	38-823	38-606	90	R							X						05/29/2002
+741835	  38	00643	     	38-643	 	038	Grayson County	038	Grayson County	1.07	38-619	WCL Galax	320	R							X						1999
+405499	  38	00644	     	38-644	Winding Rd	038	Grayson County	038	Grayson County	0.40	SR 94 Ivennue Rd	38-605 Eagle Bottom	630	F	98%	0%	1%	0%	0%	0%	C	0.0947	F	0.5797	660	F	2008
+405500	  38	00644	     	38-644	Winding Rd	038	Grayson County	038	Grayson County	0.12	38-605 Eagle Bottom	38-770 Quarry Rd	580	F	98%	0%	1%	0%	0%	0%	F	0.1363	F	0.7764	610	F	2008
+405501	  38	00644	     	38-644	Winding Rd	038	Grayson County	038	Grayson County	0.49	38-770 Quarry Rd	38-647 Stevens Creek	280	F	98%	0%	1%	0%	0%	0%	F	0.1407	F	0.5663	290	F	2008
+741836	  38	00644	     	38-644	 	038	Grayson County	038	Grayson County	1.43	38-647 Stevens Creek Rd	38-604 Liberty Hill; Rabbit Hollow Rd	200	R							X						1999
+741837	  38	00644	     	38-644	 	038	Grayson County	038	Grayson County	0.04	38-604 Liberty Hill; Rabbit Hollow Rd	38-855 Crusader Lane	170	R							X						02/10/2006
+741838	  38	00644	     	38-644	 	038	Grayson County	038	Grayson County	0.06	38-855 Crusader Lane	38-645	130	R							X						02/10/2006
+741839	  38	00644	     	38-644	 	038	Grayson County	038	Grayson County	0.40	38-645	Dead End	100	R							X						02/10/2006
+741840	  38	00645	     	38-645	 	038	Grayson County	038	Grayson County	0.40	38-644	Dead End	80	R							X						02/10/2006
+741841	  38	00646	     	38-646	 	038	Grayson County	038	Grayson County	2.60	38-648	38-604 Rabbit Hollow Rd	350	R							X						1999
+405502	  38	00647	     	38-647	Stevens Creek Rd	038	Grayson County	038	Grayson County	0.70	38-815 Tanglewood Rd	38-759 Cattle Dr	230	F	95%	1%	1%	2%	0%	0%	F	0.1370	F	0.5469	240	F	2008
+405503	  38	00647	     	38-647	Stevens Creek Rd	038	Grayson County	038	Grayson County	0.70	38-759 Cattle Dr	38-644 Winding Rd	290	F	95%	1%	1%	2%	0%	0%	C	0.1231	F	0.5854	300	F	2008
+405504	  38	00647	     	38-647	Stevens Creek Rd	038	Grayson County	038	Grayson County	0.50	38-644 Winding Rd	38-770 Quarry Rd	230	F	95%	1%	1%	2%	0%	0%	F	0.1280	F	0.5660	240	F	2008
+405505	  38	00647	     	38-647	Stevens Creek Rd	038	Grayson County	038	Grayson County	0.40	38-770 Quarry Rd	38-604 Liberty Hill	370	F	95%	1%	1%	2%	0%	0%	F	0.1360	F	0.6495	380	F	2008
+741842	  38	00648	     	38-648	 	038	Grayson County	038	Grayson County	0.10	SR 94 S, Scenic Rd	SR 94 N, Scenic Rd	90	R							X						1999
+741843	  38	00648	     	38-648	 	038	Grayson County	038	Grayson County	1.40	SR 94 N, Scenic Rd	38-805 Spring Valley Rd	400	R							X						1999
+741844	  38	00649	     	38-649	 	038	Grayson County	038	Grayson County	3.25	38-805 S, Spring Valley Rd	38-713	180	R							X						1999
+741845	  38	00649	     	38-649	 	038	Grayson County	038	Grayson County	0.70	38-713	38-805 MID	240	R							X						05/07/2002
+741846	  38	00649	     	38-649	 	038	Grayson County	038	Grayson County	2.10	38-805 N, Spring Valley Rd	38-646	260	R							X						1999
+741847	  38	00650	     	38-650	 	038	Grayson County	038	Grayson County	0.45	Dead End	38-660 W, Carsonville Rd	20	R							X						02/10/2006
+741848	  38	00650	     	38-650	 	038	Grayson County	038	Grayson County	1.76	38-660 E, Carsonville Rd	1.76 MN 38-660 Carsonville Rd	40	R							X						02/10/2006
+741849	  38	00650	     	38-650	 	038	Grayson County	038	Grayson County	0.11	1.76 MN 38-660 Carsonville Rd	1.87 MN 38-660 E, Carsonville Rd	50	R							X						02/10/2006
+741850	  38	00650	     	38-650	 	038	Grayson County	038	Grayson County	0.15	1.87 MN 38-660 E, Carsonville Rd	38-833 Knob Fork Lane	48	R							X						02/10/2006
+741851	  38	00650	     	38-650	 	038	Grayson County	038	Grayson County	1.28	38-833 Knob Fork Lane	38-805 Spring Valley Rd	70	R							X						02/10/2006
+741852	  38	00651	     	38-651	 	038	Grayson County	038	Grayson County	0.32	38-805 S, Spring Valley Rd	38-773 Issac Lane	90	R							X						02/10/2006
+741853	  38	00651	     	38-651	 	038	Grayson County	038	Grayson County	0.77	38-773 Issac Lane	38-892 Bear Hollow Lane	48	R							X						02/10/2006
+741854	  38	00651	     	38-651	 	038	Grayson County	038	Grayson County	0.11	38-892 Bear Hollow Lane	38-805 MID	80	R							X						02/10/2006
+741855	  38	00651	     	38-651	Leafwood Rd	038	Grayson County	038	Grayson County	0.70	38-805 MID	38-652 Briar Patch Mtn Rd	120	R							X						02/07/2006
+741856	  38	00651	     	38-651	Loafwood Rd	038	Grayson County	038	Grayson County	0.70	38-652 Briar Patch Mtn Rd	38-805 N, Spring Valley Rd	30	R							X						02/07/2006
+741857	  38	00652	     	38-652	Briar Patch Mtn Rd	038	Grayson County	038	Grayson County	3.60	38-660	38-651 Loafwood Rd; Leafwood Rd	60	R							X						02/07/2006
+741858	  38	00653	     	38-653	Arrowhead Dr	038	Grayson County	038	Grayson County	4.60	38-604 Rabbit Hollow Rd	38-602 Brush Creek Rd	30	R							X						02/10/2006
+405506	  38	00654	     	38-654	Peach Bottom Rd	038	Grayson County	038	Grayson County	2.30	US 21 Elk Creek Pkwy	38-686 West Mtn Breeze Ln	140	F	96%	0%	2%	2%	1%	0%	C	0.1065	F	0.6667	150	F	2008
+405507	  38	00654	     	38-654	Peach Bottom Rd	038	Grayson County	038	Grayson County	1.40	38-686 W Mtn Breeze Rd	38-689 Greenhouse Rd	70	F	96%	0%	2%	2%	1%	0%	F	0.1739	F	0.6667	70	F	2008
+405508	  38	00654	     	38-654	Peach Bottom Rd	038	Grayson County	038	Grayson County	2.20	38-689 Greenhouse Rd	38-695 Vista Rd	80	F	96%	0%	2%	2%	1%	0%	F	0.1467	F	0.6296	80	F	2008
+405509	  38	00654	     	38-654	Peach Bottom Rd	038	Grayson County	038	Grayson County	2.60	38-695 Vista Rd	38-660 W Carsonville Rd	70	F	96%	0%	2%	2%	1%	0%	F	0.1615	F	0.5385	70	F	2008
+741859	  38	00654	     	38-654	Hines Branch Rd	038	Grayson County	038	Grayson County	1.00	38-660 E, Carsonville Rd	1.00 MN 38-660 E, Carsonville Rd	80	R							X						02/07/2006
+741860	  38	00654	     	38-654	 	038	Grayson County	038	Grayson County	2.30	1.00 MN 38-660 E, Carsonville Rd	38-805 Spring Valley Rd	47	R							X						05/07/2002
+741861	  38	00655	     	38-655	 	038	Grayson County	038	Grayson County	3.00	38-656	38-604 Jerusalem Rd	50	R							X						02/07/2006
+741862	  38	00656	     	38-656	 	038	Grayson County	038	Grayson County	0.20	38-660 Carsonville Rd	38-655	60	R							X						02/07/2006
+741863	  38	00656	     	38-656	 	038	Grayson County	038	Grayson County	1.60	38-655	38-657 Wagon Wheel Rd	30	R							X						02/07/2006
+741864	  38	00656	     	38-656	Pilgrim Fork Rd	038	Grayson County	038	Grayson County	0.40	38-657 Wagon Wheel Rd	38-805 Spring Valley Rd	90	R							X						02/07/2006
+741865	  38	00657	     	38-657	Wagon Wheel Rd	038	Grayson County	038	Grayson County	1.20	US 21 Elk Creek Pkwy	38-791	130	R							X						01/24/2006
+741866	  38	00657	     	38-657	Wagon Wheel Rd	038	Grayson County	038	Grayson County	0.69	38-791	0.69 ME 38-791	80	R							X						01/24/2006
+741867	  38	00657	     	38-657	 	038	Grayson County	038	Grayson County	0.51	0.69 ME 38-791	38-656 Pilgrim Fork Rd	40	R							X						01/24/2006
+405510	  38	00658	     	38-658	Flatridge Rd	038	Grayson County	038	Grayson County	2.08	SR 16 Troutdale Hwy	38-731 W, Rockbridge	150	F	92%	0%	4%	4%	0%	0%	F	0.1269	F	0.7143	160	F	2008
+405511	  38	00658	     	38-658	Flatridge Rd	038	Grayson County	038	Grayson County	2.10	38-731 W, Rockbridge	38-733 Pine Branch Rd	180	F	92%	0%	4%	4%	0%	0%	F	0.1340	F	0.5714	190	F	2008
+405512	  38	00658	     	38-658	Flatridge Rd	038	Grayson County	038	Grayson County	3.58	38-733 Pine Branch Rd	38-672 S, Honey Grove Ln	130	F	92%	0%	4%	4%	0%	0%	C	0.1161	F	0.5000	130	F	2008
+405513	  38	00658	     	38-658	Comers Rock Rd	038	Grayson County	038	Grayson County	3.23	38-672 S Honey Grove Rd	38-673 E Hillandale Rd	48	F	92%	0%	4%	4%	0%	0%	F	0.1852	F	0.6000	50	F	2008
+405514	  38	00658	     	38-658	Comers Rock Rd	038	Grayson County	038	Grayson County	3.60	38-673 East Hillandale Ln	38-670 Laurel View Rd	160	F	92%	0%	4%	4%	0%	0%	F	0.1429	F	0.9800	160	F	2008
+405515	  38	00658	     	38-658	Comers Rock Rd	038	Grayson County	038	Grayson County	2.10	38-670 Laurel View Rd	38-672 North Blue Spring Rd	280	F	92%	1%	2%	3%	2%	0%	F	0.1072	F	0.8000	290	F	2008
+405516	  38	00658	     	38-658	Comers Rock Rd	038	Grayson County	038	Grayson County	0.20	38-672 North Blue Spring Rd	38-611 Mt Zion	310	F	92%	1%	2%	3%	2%	0%	F	0.1006	F	0.6232	330	F	2008
+405517	  38	00658	     	38-658	Comers Rock Rd	038	Grayson County	038	Grayson County	2.59	38-611 Mt Zion Rd	38-663 Caty Sage	460	F	92%	1%	2%	3%	2%	0%	F	0.1085	F	0.6182	480	F	2008
+405518	  38	00658	     	38-658	Comers Rock Rd	038	Grayson County	038	Grayson County	2.70	38-663 Caty Sage	US 21 Elk Creek Pkwy	1000	F	92%	1%	2%	3%	2%	0%	C	0.0956	F	0.6442	1100	F	2008
+741868	  38	00659	     	38-659	Valley View Rd	038	Grayson County	038	Grayson County	0.70	38-658 Comers Rock Rd	38-614	170	R							X						01/24/2006
+741869	  38	00659	     	38-659	Tiny Wood Lane	038	Grayson County	038	Grayson County	0.20	38-614	38-791 WEST	40	R							X						01/24/2006
+741870	  38	00659	     	38-659	Hunters Lane	038	Grayson County	038	Grayson County	1.95	38-791 WEST	1.95 MS 38-791 WEST	180	R							X						01/24/2006
+741871	  38	00659	     	38-659	Hunters Lane	038	Grayson County	038	Grayson County	0.30	1.95 MS 38-791 WEST	Dead End	30	R							X						01/24/2006
+405519	  38	00660	     	38-660	Carsonville Rd	038	Grayson County	038	Grayson County	3.30	US 21 Elk Creek Pkwy	38-654 E, Hines Branch Rd; Peach Bottom Rd	400	F	97%	1%	1%	1%	1%	0%	F	0.1206	F	0.7264	420	F	2008
+405520	  38	00660	     	38-660	Carsonville Rd	038	Grayson County	038	Grayson County	3.78	38-654 E, Hines Branch Rd	38-650 East, Springwood Ln	270	F	97%	1%	1%	1%	1%	0%	F	0.1207	F	0.6892	280	F	2008
+405521	  38	00660	     	38-660	Carsonville Rd	038	Grayson County	038	Grayson County	1.09	38-650 E Springwood Ln	38-691 Pine Mtn Rd	330	F	97%	1%	1%	1%	1%	0%	F	0.1248	F	0.6118	340	F	2008
+405522	  38	00660	     	38-660	Carsonville Rd	038	Grayson County	038	Grayson County	2.60	38-691 Pine Mtn Rd	SR 274 Riverside Dr	630	F	97%	1%	1%	1%	1%	0%	C	0.1065	F	0.7083	660	F	2008
+741872	  38	00661	     	38-661	 	038	Grayson County	038	Grayson County	0.25	Dead End	38-728 Dormitory Lane; Oakhill Rd	170	R							X						1999
+741873	  38	00662	     	38-662	Logans Lane	038	Grayson County	038	Grayson County	0.80	Dead End	38-668 S, Big Ridge Rd	30	R							X						01/19/2006
+741874	  38	00662	     	38-662	Falls Rd	038	Grayson County	038	Grayson County	0.04	38-668 S, Big Ridge Rd	38-668 N, Big Ridge Rd	50	R							X						01/19/2006
+741875	  38	00662	     	38-662	Falls Rd	038	Grayson County	038	Grayson County	0.20	38-668 N, Big Ridge Rd	38-673 S, Bethel Rd	70	R							X						02/01/2006
+741876	  38	00662	     	38-662	Little Rd	038	Grayson County	038	Grayson County	0.30	38-673 S, Bethel Rd	38-673 N, Falls Rd	20	R							X						01/19/2006
+741877	  38	00662	     	38-662	Falls Rd	038	Grayson County	038	Grayson County	2.00	38-673 N, Falls Rd	38-664 Serenity Rd	40	R							X						01/19/2006
+741878	  38	00662	     	38-662	Falls Rd	038	Grayson County	038	Grayson County	0.30	38-664 Serenity Rd	38-670 Laurel View Rd	70	R							X						01/19/2006
+741879	  38	00662	     	38-662	Falls Rd	038	Grayson County	038	Grayson County	1.26	38-670 Laurel View Rd	1.26 MN 38-670 Laurel View Rd	50	R							X						02/01/2006
+741880	  38	00662	     	38-662	 	038	Grayson County	038	Grayson County	0.13	1.26 MN 38-670 Laurel View Rd	38-611 W, Caty Sage	70	R							X						01/27/2006
+741881	  38	00662	     	38-662	 	038	Grayson County	038	Grayson County	1.60	38-611 E, Caty Sage	38-663 Caty Sage Rd	280	R							X						01/27/2006
+741882	  38	00663	     	38-663	Caty Sage Rd	038	Grayson County	038	Grayson County	1.15	38-658 Comers Rock Rd	38-662	170	R							X						01/22/2006
+741883	  38	00663	     	38-663	Caty Sage Rd	038	Grayson County	038	Grayson County	2.10	38-662	38-665 Stones Chapel Rd	140	R							X						01/27/2006
+741884	  38	00664	     	38-664	Serenity Rd	038	Grayson County	038	Grayson County	0.05	38-662 Falls Rd	38-764 Sweet Water Rd	50	R							X						01/27/2006
+741885	  38	00664	     	38-664	Serenity Rd	038	Grayson County	038	Grayson County	2.50	38-764 Sweet Water Rd	38-611 Stones Chapel Rd	49	R							X						01/27/2006
+741886	  38	00665	     	38-665	Stones Chapel Rd	038	Grayson County	038	Grayson County	0.20	38-611 Stones Chapel Rd; Pheasant Run Lane	38-864 Flag Pond Lane	70	R							X						01/24/2006
+741887	  38	00665	     	38-665	Stones Chapel Rd	038	Grayson County	038	Grayson County	2.20	38-864 Flag Pond Lane	38-663 Caty Sage Rd	180	R							X						01/24/2006
+741888	  38	00665	     	38-665	Stones Chapel Rd	038	Grayson County	038	Grayson County	0.90	38-663 Caty Sage Rd	38-658 Comers Rock Rd	290	R							X						01/24/2006
+741889	  38	00666	     	38-666	Willow Shade Lane	038	Grayson County	038	Grayson County	0.40	Dead End	US 21	40	R							X						02/01/2006
+741890	  38	00667	     	38-667	Salom Lane	038	Grayson County	038	Grayson County	0.25	US 21	Dead End	20	R							X						02/01/2006
+741891	  38	00668	     	38-668	Big Ridge Rd	038	Grayson County	038	Grayson County	1.60	38-658 Comers Rock Rd	38-662 W, Falls Rd; Logans Lane	30	R							X						01/19/2006
+741892	  38	00668	     	38-668	Big Ridge Rd	038	Grayson County	038	Grayson County	0.70	38-662 E, Falls Rd	38-673 Falls Rd	70	R							X						01/19/2006
+741893	  38	00668	     	38-668	Big Ridge Rd	038	Grayson County	038	Grayson County	1.00	38-673 Falls Rd	38-764 Sweet Water Rd	70	R							X						01/19/2006
+741894	  38	00668	     	38-668	Big Ridge Rd	038	Grayson County	038	Grayson County	2.20	38-764 Sweet Water Rd	38-611 Pheasant Run Lane; Caty Sage	130	R							X						01/19/2006
+741895	  38	00669	     	38-669	 	038	Grayson County	038	Grayson County	3.10	Dead End	38-825 Sugar Camp Lane	120	R							X						02/01/2006
+741896	  38	00670	     	38-670	Laurel View Rd	038	Grayson County	038	Grayson County	0.50	38-658 Comers Rock Rd	0.50 ME 38-658 Comers Rock Rd	30	R							X						01/27/2006
+741897	  38	00670	     	38-670	Laurel View Rd	038	Grayson County	038	Grayson County	1.30	0.50 ME 38-658 Comers Rock Rd	38-662 Falls Rd	20	R							X						01/27/2006
+741898	  38	00671	     	38-671	Mt Zion Rd	038	Grayson County	038	Grayson County	1.29	38-658 Comers Rock Rd	1.29 ME 38-658 Comers Rock Rd	80	R							X						02/01/2006
+741899	  38	00671	     	38-671	Mt Zion Rd	038	Grayson County	038	Grayson County	0.21	1.29 ME 38-658 Comers Rock Rd	38-611 Caty Sage	90	R							X						02/01/2006
+741900	  38	00672	     	38-672	Blue Spring Rd	038	Grayson County	038	Grayson County	0.05	38-658 Flatridge Rd	0.05 MN 38-658 Flatridge Rd	30	R							X						01/22/2006
+741901	  38	00672	     	38-672	Honey Grove Rd	038	Grayson County	038	Grayson County	0.20	0.05 MN 38-658 Flatridge Rd	38-768	80	R							X						01/12/2006
+741902	  38	00672	     	38-672	Wilburns Mill Rd	038	Grayson County	038	Grayson County	1.10	38-768	38-674 S, Roberts Cove Rd	20	R							X						01/12/2006
+741903	  38	00672	     	38-672	Roberts Cove Rd	038	Grayson County	038	Grayson County	0.30	38-674 S, Roberts Cove Rd	38-674 N, Roberts Cove Rd	45	R							X						01/12/2006
+741904	  38	00672	     	38-672	Roberts Cove Rd	038	Grayson County	038	Grayson County	0.80	38-674 N, Roberts Cove Rd	0.80 MN 38-674 Roberts Cove Rd	47	R							X						01/27/2006
+741905	  38	00672	     	38-672	Blue Spring Rd	038	Grayson County	038	Grayson County	1.70	0.80 MN 38-674 Roberts Cove Rd	Jefferson Forest Bndy	30	R							X						01/27/2006
+741906	  38	00672	     	38-672	Blue Spring Rd	038	Grayson County	038	Grayson County	3.30	Jefferson Forest Bndy	38-675	20	R							X						01/27/2006
+741907	  38	00672	     	38-672	Blue Spring Rd	038	Grayson County	038	Grayson County	1.30	38-675	38-798	20	R							X						01/27/2006
+741908	  38	00672	     	38-672	Blue Sjpring Rd	038	Grayson County	038	Grayson County	2.90	38-798	38-658 Comers Rock Rd	20	R							X						01/27/2006
+741909	  38	00673	     	38-673	Hillandale Lane	038	Grayson County	038	Grayson County	1.00	Dead End	38-658 W, Comers Rock Rd	40	R							X						01/19/2006
+741910	  38	00673	     	38-673	Bethel Rd	038	Grayson County	038	Grayson County	1.20	38-658 E, Comers Rock Rd	38-662 S, Little Rd; Falls Rd	60	R							X						01/19/2006
+741911	  38	00673	     	38-673	Falls Rd	038	Grayson County	038	Grayson County	0.40	38-662 N, Falls Rd; Little Rd	38-668 Big Ridge Rd	30	R							X						01/19/2006
+741912	  38	00674	     	38-674	Roberts Cove Rd	038	Grayson County	038	Grayson County	1.65	38-768	38-672 S, Roberts Cove Rd; Wilburns Mill Rd	70	R							X						01/12/2006
+741913	  38	00674	     	38-674	Roberts Cove Rd	038	Grayson County	038	Grayson County	1.80	38-672 N, Roberts Cove Rd	38-658 Comers Rock Rd	20	R							X						01/12/2006
+741914	  38	00675	     	38-675	Panther Creek Rd	038	Grayson County	038	Grayson County	1.20	38-601 Flat Ridge Rd	38-846 W, Cornflower Rd	30	R							X						01/06/2006
+741915	  38	00675	     	38-675	Glen Wood Rd	038	Grayson County	038	Grayson County	0.40	38-846 W, Cornflower Rd	38-676 Glenwood Rd	20	R							X						01/06/2006
+741916	  38	00675	     	38-675	Glen Wood Rd	038	Grayson County	038	Grayson County	0.80	38-676 Glenwood Rd	38-603 Lostlake Rd	20	R							X						01/06/2006
+741917	  38	00675	     	38-675	 	038	Grayson County	038	Grayson County	1.55	38-603 Lostlake Rd	38-846 E, Cornflower Rd	20	R							X						01/27/2006
+741918	  38	00675	     	38-675	 	038	Grayson County	038	Grayson County	3.95	38-846 E, Cornflower Rd	38-672 Blue Spring Rd; Roberts Cove Rd	10	R							X						01/22/2006
+741919	  38	00676	     	38-676	Chestnut Ridge Rd	038	Grayson County	038	Grayson County	0.20	38-677 Razor Ridge Rd	38-762 Hunt Club Rd	30	R							X						01/04/2006
+741920	  38	00676	     	38-676	Chestnut Ridge Rd	038	Grayson County	038	Grayson County	3.90	38-762 Hunt Club Rd	38-601 S, Flat Ridge Rd	50	R							X						01/04/2006
+741921	  38	00676	     	38-676	Glenwood Rd	038	Grayson County	038	Grayson County	1.30	38-601 N, Flat Ridge Rd	38-675 Glen Wood Rd	48	R							X						01/04/2006
+741922	  38	00677	     	38-677	Razor Ridge Rd	038	Grayson County	038	Grayson County	0.20	38-739 Hazelwood Rd	0.20 MN 38-739 Hazelwood Rd	120	R							X						01/04/2006
+741923	  38	00677	     	38-677	Razor Ridge Rd	038	Grayson County	038	Grayson County	1.10	0.20 MN 38-739 Hazelwood Rd	38-676 Chestnut Ridge Rd	110	R							X						01/04/2006
+741924	  38	00677	     	38-677	Razor Ridge Rd	038	Grayson County	038	Grayson County	0.90	38-676 Chestnut Ridge Rd	38-762 Hunt Club Rd	100	R							X						01/04/2006
+741925	  38	00677	     	38-677	Razor Ridge Rd	038	Grayson County	038	Grayson County	1.80	38-762 Hunt Club Rd	38-732 Country View Rd	80	R							X						01/04/2006
+741926	  38	00677	     	38-677	Razor Ridge Rd	038	Grayson County	038	Grayson County	1.20	38-732 Country View Rd	38-601 Flat Ridge Rd	70	R							X						01/04/2006
+741927	  38	00678	     	38-678	Fox Ridge	038	Grayson County	038	Grayson County	2.10	US 58 Wilson Hwy	38-711 E, Fox Ridge Rd	60	R							X						02/24/2006
+405523	  38	00678	     	38-678	Fox Creek Rd	038	Grayson County	038	Grayson County	3.20	38-711 E Fox Creek Rd	38-658 Flat Ridge Rd	120	F	92%	0%	4%	3%	1%	0%	C	0.1626	F	0.7500	130	F	2008
+741928	  38	00679	     	38-679	Buck Mountain Rd	038	Grayson County	038	Grayson County	2.40	38-601 Old Bridle Creek Rd	38-658 Flatridge Rd	50	R							X						01/12/2006
+741929	  38	00680	     	38-680	Little Fox Creek	038	Grayson County	038	Grayson County	2.20	38-711 Fox Ridge Rd	38-601 E, Old Bridle Creek Rd	70	R							X						01/12/2006
+741930	  38	00680	     	38-680	Grubbs Chapel	038	Grayson County	038	Grayson County	1.10	38-601 W, Old Bridle Creek Rd	Dead End	47	R							X						01/12/2006
+741931	  38	00681	     	38-681	Rose Hill Rd	038	Grayson County	038	Grayson County	0.95	38-711	US 58 W, Wilson Hwy	210	R							X						02/24/2006
+741932	  38	00681	     	38-681	Rose Hill Rd	038	Grayson County	038	Grayson County	1.30	US 58 E, Wilson Hwy	38-601 Old Bridle Creek Rd	120	R							X						02/24/2006
+741933	  38	00682	     	38-682	 	038	Grayson County	038	Grayson County	1.00	US 58 Wilson Hwy	38-683 Twin Oaks Rd	110	R							X						02/24/2006
+741934	  38	00682	     	38-682	 	038	Grayson County	038	Grayson County	0.85	38-683 Twin Oaks Rd	Dead End	70	R							X						02/24/2006
+741935	  38	00683	     	38-683	Twin Oaks Rd	038	Grayson County	038	Grayson County	1.00	US 58 Wilson Hwy	38-682	40	R							X						02/24/2006
+741936	  38	00684	     	38-684	 	038	Grayson County	038	Grayson County	1.04	Dead End	1.04 ME Dead End	90	R							X						06/13/2002
+741937	  38	00684	     	38-684	 	038	Grayson County	038	Grayson County	0.29	1.04 ME Dead End	38-883	210	R							X						06/13/2002
+741938	  38	00684	     	38-684	 	038	Grayson County	038	Grayson County	0.82	38-883	WCL Independence	280	R							X						1999
+741939	  38	00684	     	38-684	Elliott Place	240	Town of Independence	038	Grayson County	0.25	WCL Independence	US 21	320	R							X						1999
+741940	  38	00684	     	38-684	Pinehurst St	240	Town of Independence	038	Grayson County	0.22	US 21	Dead End	160	R							X						1999
+741941	  38	00685	     	38-685	Power House Rd	240	Town of Independence	038	Grayson County	0.74	US 58, E Main St	38-1140	670	R							X						1999
+741942	  38	00685	     	38-685	Power House Rd	240	Town of Independence	038	Grayson County	0.14	38-1140	ECL Independence	700	R							X						1999
+785112	  38	00685	     	38-685	 	038	Grayson County	038	Grayson County	0.91	ECL Independence	38-686; 38-687	700	N							X				0	N	1999
+741943	  38	00685	     	38-685	 	038	Grayson County	038	Grayson County	0.60	38-686; 38-687	38-688	150	R							X						06/04/2002
+741944	  38	00685	     	38-685	 	038	Grayson County	038	Grayson County	0.20	38-688	38-888	200	R							X						06/04/2002
+741945	  38	00685	     	38-685	 	038	Grayson County	038	Grayson County	1.20	38-888	SR 274 Riverside Dr	160	R							X						1999
+741946	  38	00686	     	38-686	 	038	Grayson County	038	Grayson County	1.80	38-685	38-654 W, Peach Bottom Rd	140	R							X						06/04/2002
+741947	  38	00686	     	38-686	 	038	Grayson County	038	Grayson County	0.30	38-654 E, Peach Bottom Rd	Dead End	30	R							X						06/04/2002
+741948	  38	00687	     	38-687	 	038	Grayson County	038	Grayson County	1.10	38-685; 38-686	38-688	220	R							X						1999
+741949	  38	00687	     	38-687	 	038	Grayson County	038	Grayson County	0.30	38-688	38-689 SOUTH	100	R							X						06/04/2002
+741950	  38	00687	     	38-687	 	038	Grayson County	038	Grayson County	0.10	38-689 SOUTH	38-689 NORTH	70	R							X						06/04/2002
+741951	  38	00687	     	38-687	 	038	Grayson County	038	Grayson County	1.70	38-689 NORTH	38-691	60	R							X						06/04/2002
+741952	  38	00688	     	38-688	 	038	Grayson County	038	Grayson County	0.80	38-685	38-687	60	R							X						06/04/2002
+741953	  38	00689	     	38-689	 	038	Grayson County	038	Grayson County	1.50	38-691	38-687 SOUTH	90	R							X						06/04/2002
+741954	  38	00689	     	38-689	 	038	Grayson County	038	Grayson County	1.00	38-687 NORTH	38-654 Peach Bottom Rd	30	R							X						06/04/2002
+741955	  38	00690	     	38-690	Tarny Wood Lane	038	Grayson County	038	Grayson County	0.30	Dead End	38-706	20	R							X						02/28/2006
+741956	  38	00691	     	38-691	 	038	Grayson County	038	Grayson County	0.50	SR 274 Riverside Dr	38-689	140	R							X						1999
+741957	  38	00691	     	38-691	 	038	Grayson County	038	Grayson County	1.40	38-689	38-687	150	R							X						06/04/2002
+741958	  38	00691	     	38-691	 	038	Grayson County	038	Grayson County	1.50	38-687	38-692 WEST	140	R							X						06/04/2002
+741959	  38	00691	     	38-691	 	038	Grayson County	038	Grayson County	0.10	38-692 WEST	38-692 EAST	150	R							X						1999
+741960	  38	00691	     	38-691	 	038	Grayson County	038	Grayson County	0.80	38-692 EAST	38-694	40	R							X						06/04/2002
+741961	  38	00691	     	38-691	 	038	Grayson County	038	Grayson County	1.10	38-694	38-660 Carsonville Rd	430	R							X						1999
+741962	  38	00692	     	38-692	 	038	Grayson County	038	Grayson County	0.70	38-694	38-691 WEST	190	R							X						1999
+741963	  38	00692	     	38-692	 	038	Grayson County	038	Grayson County	1.30	38-691 EAST	SR 274 Riverside Dr	220	R							X						1999
+741964	  38	00693	     	38-693	 	038	Grayson County	038	Grayson County	0.14	US 58 Grayson Pkwy	0.14 MN US 58	110	R							X						1999
+741965	  38	00693	     	38-693	 	038	Grayson County	038	Grayson County	1.06	0.14 MN US 58	SR 274 Riverside Dr	70	R							X						06/06/2002
+741966	  38	00694	     	38-694	 	038	Grayson County	038	Grayson County	0.80	38-654 Peach Bottom Rd	38-692	120	R							X						06/04/2002
+741967	  38	00694	     	38-694	 	038	Grayson County	038	Grayson County	1.20	38-692	38-691	200	R							X						1999
+741968	  38	00695	     	38-695	 	038	Grayson County	038	Grayson County	3.30	38-654 Peach Bottom Rd	38-691	160	R							X						1999
+741969	  38	00696	     	38-696	Summerfield Rd	038	Grayson County	038	Grayson County	0.40	Dead End	38-654 N, Peach Bottom Rd	50	R							X						02/07/2006
+741970	  38	00696	     	38-696	Summerfield Rd	038	Grayson County	038	Grayson County	1.50	38-654 S, Peach Bottom Rd	38-830 Dandelion Lane	30	R							X						02/07/2006
+741971	  38	00696	     	38-696	Summerfield Rd	038	Grayson County	038	Grayson County	1.70	38-830 Dandelion Lane	38-660 Carsonville Rd	80	R							X						02/07/2006
+741972	  38	00697	     	38-697	 	038	Grayson County	038	Grayson County	1.19	US 21	38-763	620	R							X						03/02/2006
+741973	  38	00697	     	38-697	 	038	Grayson County	038	Grayson County	1.90	38-763	38-765	130	R							X						03/02/2006
+741974	  38	00697	     	38-697	 	038	Grayson County	038	Grayson County	0.40	38-765	38-698	80	R							X						03/02/2006
+741975	  38	00697	     	38-697	 	038	Grayson County	038	Grayson County	1.10	38-698	38-700	80	R							X						03/02/2006
+741976	  38	00698	     	38-698	 	038	Grayson County	038	Grayson County	0.90	38-697	38-715	120	R							X						03/02/2006
+741977	  38	00698	     	38-698	 	038	Grayson County	038	Grayson County	0.57	38-715	US 58 Grayson Pkwy	390	R							X						03/02/2006
+741978	  38	00699	     	38-699	 	038	Grayson County	038	Grayson County	0.80	Dead End	38-700	10	R							X						03/02/2006
+741979	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	1.00	38-706 Pennford Rd	38-702 NORTH	90	R							X						02/24/2006
+741980	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	0.40	38-702 NORTH	38-705	60	R							X						02/28/2006
+741981	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	0.60	38-705	38-702 S, Horseford Lane	130	R							X						02/28/2006
+741982	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	2.00	38-702 S, Horseford Lane	38-701	90	R							X						02/28/2006
+741983	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	0.80	38-701	North Carolina State Line	120	R							X						03/02/2006
+741984	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	2.60	North Carolina State Line	38-701	90	R							X						03/02/2006
+741985	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	0.80	38-701	38-697	60	R							X						03/02/2006
+741986	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	0.10	38-697	0.10 ME 38-697	46	R							X						03/02/2006
+741987	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	0.40	0.10 ME 38-697	38-699	30	R							X						03/02/2006
+741988	  38	00700	     	38-700	 	038	Grayson County	038	Grayson County	0.20	38-699	Dead End	10	R							X						03/02/2006
+741989	  38	00701	     	38-701	 	038	Grayson County	038	Grayson County	0.24	US 21 S, New River Pkwy	38-700 SOUTH	10	R							X						02/28/2006
+741990	  38	00701	     	38-701	 	038	Grayson County	038	Grayson County	0.10	38-700 SOUTH	38-700 NORTH	90	R							X						1999
+741991	  38	00701	     	38-701	 	038	Grayson County	038	Grayson County	0.49	38-700 NORTH	US 21 N, New River Pkwy	110	R							X						1999
+741992	  38	00701	     	38-701	 	038	Grayson County	038	Grayson County	0.05	US 21 MID	0.05 ME US 21 MID	90	R							X						1999
+741993	  38	00701	     	38-701	 	038	Grayson County	038	Grayson County	1.96	0.05 ME US 21 MID	38-756	50	R							X						02/28/2006
+741994	  38	00701	     	38-701	 	038	Grayson County	038	Grayson County	0.50	38-756	38-757	70	R							X						07/26/2002
+741995	  38	00701	     	38-701	 	038	Grayson County	038	Grayson County	0.10	38-757	38-761	10	R							X						02/28/2006
+741996	  38	00701	     	38-701	 	038	Grayson County	038	Grayson County	1.80	38-761	38-700	80	R							X						03/02/2006
+741997	  38	00702	     	38-702	Horseford Lane	038	Grayson County	038	Grayson County	0.20	North Carolina State Line	38-700 SOUTH	30	R							X						02/28/2006
+741998	  38	00702	     	38-702	 	038	Grayson County	038	Grayson County	1.90	38-700 NORTH	38-703 N, Hardin Rd	270	R							X						02/28/2006
+741999	  38	00702	     	38-702	 	038	Grayson County	038	Grayson County	1.41	38-703 N, Hardin Rd	SCL Independence	460	R							X						02/28/2006
+785113	  38	00702	     	38-702	 	240	Town of Independence	038	Grayson County	0.56	SCL Independence	US 58 W Main St	460	N							X				0	N	02/28/2006
+742000	  38	00703	     	38-703	 	038	Grayson County	038	Grayson County	0.80	US 21 New River Pkwy	38-702 SOUTH	240	R							X						1999
+742001	  38	00703	     	38-703	Hardin Rd	038	Grayson County	038	Grayson County	1.10	38-702 NORTH	US 58 Wilson Hwy	300	R							X						02/28/2006
+742002	  38	00704	     	38-704	 	038	Grayson County	038	Grayson County	0.60	38-703	0.60 ME 38-703	0	R							X						07/26/2002
+742003	  38	00704	     	38-704	 	038	Grayson County	038	Grayson County	0.20	0.60 ME 38-703	US 21 New River Pkwy	30	R							X						07/26/2002
+742004	  38	00705	     	38-705	 	038	Grayson County	038	Grayson County	0.93	Dead End	38-700	60	R							X						02/28/2006
+742005	  38	00706	     	38-706	 	038	Grayson County	038	Grayson County	1.25	Dead End	38-690 Tarny Wood Lane	20	R							X						07/26/2002
+742006	  38	00706	     	38-706	 	038	Grayson County	038	Grayson County	0.15	38-690 Tarny Wood Lane	38-700	50	R							X						02/24/2006
+742007	  38	00706	     	38-706	Pennford Rd	038	Grayson County	038	Grayson County	1.90	38-700	US 58 W, Wilson Hwy	210	R							X						02/24/2006
+742008	  38	00706	     	38-706	 	038	Grayson County	038	Grayson County	0.60	US 58 E, Wilson Hwy	Dead End	48	R							X						02/24/2006
+742009	  38	00707	     	38-707	 	038	Grayson County	038	Grayson County	0.12	38-625	Dead End	10	R							X						07/16/2002
+742010	  38	00708	     	38-708	 	038	Grayson County	038	Grayson County	1.88	SR 93 Wilson Hwy	38-766 WEST	190	R							X						02/17/2006
+742011	  38	00708	     	38-708	 	038	Grayson County	038	Grayson County	0.31	38-766 WEST	38-766 EAST	80	R							X						02/17/2006
+742012	  38	00708	     	38-708	 	038	Grayson County	038	Grayson County	0.39	38-766 EAST	38-712	80	R							X						02/17/2006
+405524	  38	00708	     	38-708	Potato Creek Rd	038	Grayson County	038	Grayson County	2.24	38-712	38-601 S Cox Chapel Rd	60	F	95%	0%	3%	1%	1%	0%	C	0.1558	F	0.6667	60	F	2008
+742013	  38	00708	     	38-708	 	038	Grayson County	038	Grayson County	0.66	38-601 MID	38-709	80	R							X						02/17/2006
+742014	  38	00708	     	38-708	 	038	Grayson County	038	Grayson County	3.59	38-709	38-601 N, Bridge Creek Rd	40	R							X						02/17/2006
+742015	  38	00709	     	38-709	 	038	Grayson County	038	Grayson County	0.50	North Carolina State Line	38-708	20	R							X						02/17/2006
+742016	  38	00710	     	38-710	 	038	Grayson County	038	Grayson County	0.80	North Carolina State Line	38-712	20	R							X						02/17/2006
+742017	  38	00711	     	38-711	 	038	Grayson County	038	Grayson County	0.80	38-727 Pine Branch Rd	38-678 N, Fox Creek Rd	60	R							X						06/25/2002
+405525	  38	00711	     	38-711	Fox Ridge Rd	038	Grayson County	038	Grayson County	2.10	38-678 S, Fox Ridge	US 58 Wilson Hwy	280	F	92%	0%	3%	5%	1%	0%	C	0.1242	F	0.5641	300	F	2008
+742018	  38	00711	     	38-711	 	038	Grayson County	038	Grayson County	0.20	US 58 Wilson Hwy	38-714	120	R							X						02/24/2006
+742019	  38	00711	     	38-711	 	038	Grayson County	038	Grayson County	2.10	38-714	38-681 Rose Hill Rd	60	R							X						02/24/2006
+742020	  38	00711	     	38-711	 	038	Grayson County	038	Grayson County	1.00	38-681 Rose Hill Rd	38-844	160	R							X						02/28/2006
+742021	  38	00711	     	38-711	Gold Hill Rd	038	Grayson County	038	Grayson County	1.60	38-844	38-601 S, Bridge Creek Rd	90	R							X						02/17/2006
+742022	  38	00711	     	38-711	 	038	Grayson County	038	Grayson County	3.60	38-601 N, Bridge Creek Rd	US 58 Wilson Hwy	220	R							X						02/24/2006
+742023	  38	00712	     	38-712	 	038	Grayson County	038	Grayson County	0.70	North Carolina State Line	38-710	20	R							X						02/17/2006
+742024	  38	00712	     	38-712	 	038	Grayson County	038	Grayson County	0.30	38-710	38-708 Potato Creek Rd	30	R							X						02/12/2006
+742025	  38	00713	     	38-713	 	038	Grayson County	038	Grayson County	0.20	Dead End	0.20 ME Dead End	20	R							X						05/07/2002
+742026	  38	00713	     	38-713	 	038	Grayson County	038	Grayson County	1.00	0.20 ME Dead End	38-649	90	R							X						05/07/2002
+742027	  38	00714	     	38-714	 	038	Grayson County	038	Grayson County	0.70	Dead End	38-711	70	R							X						02/24/2006
+742028	  38	00715	     	38-715	 	038	Grayson County	038	Grayson County	1.20	38-698	1.20 ME 38-698	130	R							X						03/02/2006
+742029	  38	00715	     	38-715	 	038	Grayson County	038	Grayson County	3.08	1.20 ME 38-698	4.28 ME 38-698	120	R							X						07/26/2002
+742030	  38	00715	     	38-715	 	038	Grayson County	038	Grayson County	0.12	4.28 ME 38-698	US 58 Grayson Pkwy	90	R							X						03/02/2006
+742031	  38	00716	     	38-716	 	038	Grayson County	038	Grayson County	1.00	North Carolina State Line	38-767	60	R							X						02/17/2006
+742032	  38	00717	     	38-717	 	038	Grayson County	038	Grayson County	0.25	38-660 Carsonville Rd	Dead End	80	R							X						02/10/2006
+742033	  38	00718	     	38-718	Deacon Rd	038	Grayson County	038	Grayson County	0.20	North Carolina State Line	38-767	80	R							X						02/17/2006
+742034	  38	00719	     	38-719	 	038	Grayson County	038	Grayson County	0.20	North Carolina State Line	38-767	90	R							X						02/17/2006
+742035	  38	00720	     	38-720	 	038	Grayson County	038	Grayson County	2.10	38-821 Fairview Rd	38-609	260	R							X						1999
+742036	  38	00720	     	38-720	 	038	Grayson County	038	Grayson County	0.50	38-609	Carroll County Line	160	R							X						1999
+742037	  38	00721	     	38-721	 	038	Grayson County	038	Grayson County	1.13	SR 16 Jefferson Hwy	38-745	70	R							X						12/08/2005
+742038	  38	00721	     	38-721	 	038	Grayson County	038	Grayson County	1.00	38-745	38-722 SOUTH	30	R							X						12/08/2005
+742039	  38	00721	     	38-721	 	038	Grayson County	038	Grayson County	0.30	38-722 SOUTH	38-722 NORTH	30	R							X						07/09/2002
+742040	  38	00721	     	38-721	 	038	Grayson County	038	Grayson County	1.80	38-722 NORTH	38-769	50	R							X						12/08/2005
+742041	  38	00721	     	38-721	 	038	Grayson County	038	Grayson County	0.60	38-769	US 58 Troutdale Hwy	60	R							X						12/08/2005
+742042	  38	00722	     	38-722	 	038	Grayson County	038	Grayson County	0.02	38-856	SR 16 Jefferson Hwy	0	R							X						1999
+742043	  38	00722	     	38-722	 	038	Grayson County	038	Grayson County	1.65	SR 16 Jefferson Hwy	38-721 SOUTH	48	R							X						12/08/2005
+742044	  38	00722	     	38-722	 	038	Grayson County	038	Grayson County	1.20	38-721 NORTH	38-723	20	R							X						07/09/2002
+742045	  38	00722	     	38-722	 	038	Grayson County	038	Grayson County	1.05	38-723	US 58 Highlands Pkwy	120	R							X						12/01/2005
+742046	  38	00723	     	38-723	 	038	Grayson County	038	Grayson County	0.50	38-743 Rugby Rd	38-879	110	R							X						12/01/2005
+742047	  38	00723	     	38-723	 	038	Grayson County	038	Grayson County	3.20	38-879	38-722	46	R							X						12/01/2005
+742048	  38	00724	     	38-724	 	038	Grayson County	038	Grayson County	0.85	Dead End	North Carolina State Line	30	R							X						1999
+742049	  38	00724	     	38-724	 	038	Grayson County	038	Grayson County	0.05	North Carolina State Line	38-725	10	R							X						1999
+405526	  38	00725	     	38-725	Tucker Rd	038	Grayson County	038	Grayson County	0.80	US 58 Highlands Pkwy	38-743 S Rugby Rd	150	F	88%	0%	1%	10%	0%	0%	F	0.1483	F	0.6078	160	F	2008
+405527	  38	00725	     	38-725	Grassy Creek Rd	038	Grayson County	038	Grayson County	2.70	38-743 N Rugby Rd	38-806 Reservation Ln	170	F	88%	0%	1%	10%	0%	0%	F	0.1560	F	0.6970	180	F	2008
+405528	  38	00725	     	38-725	Grassy Creek Rd	038	Grayson County	038	Grayson County	0.80	38-806 Reservation Ln	38-745 W Brookgreen Rd	260	F	88%	0%	1%	10%	0%	0%	F	0.1503	F	0.6304	270	F	2008
+405529	  38	00725	     	38-725	Grassy Creek Rd	038	Grayson County	038	Grayson County	1.04	38-745 W Brook Green Rd	SR 16 Jefferson Hwy	410	F	88%	0%	1%	10%	0%	0%	C	0.1269	F	0.6379	430	F	2008
+742050	  38	00725	     	38-725	 	038	Grayson County	038	Grayson County	0.16	SR 16 Jefferson Hwy	North Carolina State Line	290	R							X						12/08/2005
+405530	  38	00726	     	38-726	White Top Gap Rd	038	Grayson County	038	Grayson County	1.22	North Carolina State Line	38-755 North; Old Park Ln	110	F	96%	0%	3%	1%	0%	0%	C	0.1525	F	0.6111	110	F	2008
+742051	  38	00726	     	38-726	 	038	Grayson County	038	Grayson County	1.60	38-755 N, Old Park Rd	US 58 Highlands Pkwy	220	R							X						11/08/2005
+742052	  38	00727	     	38-727	Pine Branch Rd	038	Grayson County	038	Grayson County	1.10	38-728 Oakhill Rd	1.10 MN 38-728 Oakhill Rd	45	R							X						01/10/2006
+742053	  38	00727	     	38-727	 	038	Grayson County	038	Grayson County	2.10	1.10 MN 38-728 Oakhill Rd	38-711	30	R							X						01/10/2006
+742054	  38	00727	     	38-727	Pine Branch Rd	038	Grayson County	038	Grayson County	0.20	38-711	38-733 Pine Branch Rd	20	R							X						01/10/2006
+742055	  38	00727	     	38-727	Kindreck Rd	038	Grayson County	038	Grayson County	0.30	38-733 Pine Branch Rd	38-678 Fox Creek Rd	60	R							X						01/10/2006
+742056	  38	00728	     	38-728	Oakhill Rd	038	Grayson County	038	Grayson County	0.45	US 58 W, Troutdale Hwy	38-661	310	R							X						01/10/2006
+742057	  38	00728	     	38-728	Dormitory Lane	038	Grayson County	038	Grayson County	0.05	38-661	0.05 MN 38-661	70	R							X						01/10/2006
+742058	  38	00728	     	38-728	Oakhill Rd	038	Grayson County	038	Grayson County	0.70	0.05 MN 38-661	38-796 Fishers Rd	60	R							X						01/10/2006
+742059	  38	00728	     	38-728	Oakhill Rd	038	Grayson County	038	Grayson County	0.20	38-796 Fishers Rd	38-727 Pine Branch Rd	70	R							X						01/10/2006
+742060	  38	00728	     	38-728	Oakhill Rd	038	Grayson County	038	Grayson County	1.80	38-727 Pine Branch Rd	US 58 E, Wilson Hwy	120	R							X						01/10/2006
+742061	  38	00729	     	38-729	 	038	Grayson County	038	Grayson County	0.20	Dead End	0.20 ME Dead End	10	R							X						02/01/2006
+742062	  38	00729	     	38-729	 	038	Grayson County	038	Grayson County	0.68	0.20 ME Dead End	38-894 Pumpkin Lane	70	R							X						02/01/2006
+742063	  38	00729	     	38-729	Cloverdale Lane	038	Grayson County	038	Grayson County	0.32	38-894 Pumpkin Lane	US 21	120	R							X						02/01/2006
+742064	  38	00730	     	38-730	Low Gap Rd	038	Grayson County	038	Grayson County	0.90	38-740	SR 16 Troutdale Hwy	70	R							X						12/29/2005
+742065	  38	00731	     	38-731	Rockbridge	038	Grayson County	038	Grayson County	2.60	38-658 W, Flatridge Rd	38-775 Guffey Branch Lane	70	R							X						01/12/2006
+742066	  38	00731	     	38-731	Rockbridge	038	Grayson County	038	Grayson County	0.30	38-775 Guffey Branch Lane	38-794 Rabbit Fork Rd	30	R							X						01/12/2006
+742067	  38	00731	     	38-731	Rabbit Fork Rd	038	Grayson County	038	Grayson County	1.00	38-794 Rabbit Fork Rd	38-658 E, Flatridge Rd	50	R							X						01/12/2006
+742068	  38	00732	     	38-732	Laurel Creek Rd	038	Grayson County	038	Grayson County	0.90	38-603 Ripshin Rd	38-762 Country View	40	R							X						01/04/2006
+742069	  38	00732	     	38-732	Country View Rd	038	Grayson County	038	Grayson County	1.30	38-762 Country View	38-677 Razor Ridge Rd	20	R							X						01/04/2006
+742070	  38	00733	     	38-733	Pine Branch Rd	038	Grayson County	038	Grayson County	2.80	38-727 Kindreck Rd; Pine Branch Rd	38-658 Flatridge Rd	40	R							X						01/10/2006
+742071	  38	00734	     	38-734	 	038	Grayson County	038	Grayson County	0.62	US 58 Troutdale Hwy	38-835	110	R							X						06/25/2002
+742072	  38	00734	     	38-734	Chestnut Grove Rd	038	Grayson County	038	Grayson County	1.08	38-835	38-735	80	R							X						01/10/2006
+742073	  38	00734	     	38-734	Chestnut Grove Rd	038	Grayson County	038	Grayson County	0.70	38-735	38-736 Wallens Creek Rd	70	R							X						01/10/2006
+742074	  38	00734	     	38-734	Chestnut Grove Rd	038	Grayson County	038	Grayson County	1.10	38-736 Wallens Creek Rd	38-658 Flatridge Rd	80	R							X						01/10/2006
+742075	  38	00735	     	38-735	 	038	Grayson County	038	Grayson County	1.29	SR 16 Troutdale Hwy	38-734 Chestnut Grove Rd	190	R							X						01/10/2006
+742076	  38	00736	     	38-736	Wallens Creek Rd	038	Grayson County	038	Grayson County	1.30	SR 16 S; 38-738	SR 16 N; 38-740	46	R							X						12/29/2005
+742077	  38	00736	     	38-736	Wallens Creek Rd	038	Grayson County	038	Grayson County	1.00	SR 16 N; 38-740	1.00 MN SR 16 N	80	R							X						12/29/2005
+742078	  38	00736	     	38-736	 	038	Grayson County	038	Grayson County	0.50	1.00 MN SR 16 N	38-734 Chestnut Grove Rd	30	R							X						12/29/2005
+742079	  38	00737	     	38-737	 	038	Grayson County	038	Grayson County	1.00	SR 16 Troutdale Hwy	38-658 Flatridge Rd	130	R							X						06/26/2002
+742080	  38	00738	     	38-738	Little Wilson Rd	038	Grayson County	038	Grayson County	1.50	38-740	SR 16; 38-730	160	R							X						06/25/2002
+742081	  38	00739	     	38-739	Rocky Hollow Rd	038	Grayson County	038	Grayson County	3.85	38-603 Fairwood Rd	38-836 Polter Rd	90	R							X						12/29/2005
+742082	  38	00739	     	38-739	 	038	Grayson County	038	Grayson County	0.85	38-836 Polter Rd	SR 16 S, Troutdale Hwy	110	R							X						06/21/2002
+742083	  38	00739	     	38-739	Hazelwood Rd	038	Grayson County	038	Grayson County	0.90	SR 16 N, Troutdale Hwy	38-677 Razor Ridge Rd	50	R							X						12/29/2005
+742084	  38	00739	     	38-739	 	038	Grayson County	038	Grayson County	0.20	38-677 Razor Ridge Rd	38-658 Flatridge Rd	150	R							X						06/21/2002
+742085	  38	00740	     	38-740	 	038	Grayson County	038	Grayson County	2.70	US 58 Highlands Pkwy	38-738 Little Wilson Rd	90	R							X						12/01/2005
+742086	  38	00740	     	38-740	 	038	Grayson County	038	Grayson County	0.40	38-738 Little Wilson Rd	38-730 Low Gap Rd	100	R							X						12/01/2005
+742087	  38	00740	     	38-740	 	038	Grayson County	038	Grayson County	0.70	38-730 Low Gap Rd	SR 16; 38-736	140	R							X						06/25/2002
+742088	  38	00741	     	38-741	Homestead Rd	038	Grayson County	038	Grayson County	3.70	38-603 Fairwood Rd	SR 16 Troutdale Hwy	30	R							X						12/29/2005
+742089	  38	00742	     	38-742	 	038	Grayson County	038	Grayson County	2.60	North Carolina State Line	US 58 S, Highlands Pkwy	120	R							X						07/09/2002
+742090	  38	00742	     	38-742	 	038	Grayson County	038	Grayson County	1.40	US 58 N, Highlands Pkwy	Dead End	50	R							X						11/16/2005
+405531	  38	00743	     	38-743	Rugby Rd	038	Grayson County	038	Grayson County	2.60	North Carolina State Line	38-725 S, Tucker Rd	190	F	99%	0%	0%	0%	1%	0%	F	0.1175	F	0.5918	200	F	2008
+405532	  38	00743	     	38-743	Rugby Rd	038	Grayson County	038	Grayson County	0.20	38-725 S, Tucker Rd	38-725 N Grassy Creek Rd	260	F	99%	0%	0%	0%	1%	0%	F	0.1183	F	0.6765	270	F	2008
+405533	  38	00743	     	38-743	Rugby Rd	038	Grayson County	038	Grayson County	0.40	38-725 N Grassy Creek Rd	38-723 York Ridge	230	F	99%	0%	0%	0%	1%	0%	F	0.1195	F	0.5556	240	F	2008
+405534	  38	00743	     	38-743	Rugby Rd	038	Grayson County	038	Grayson County	0.70	38-723 York Ridge Rd	US 58 Highlands Pkwy	220	F	99%	0%	0%	0%	1%	0%	C	0.1174	F	0.6207	240	F	2008
+742091	  38	00744	     	38-744	 	038	Grayson County	038	Grayson County	0.30	38-745	38-807	40	R							X						12/01/2005
+742092	  38	00744	     	38-744	 	038	Grayson County	038	Grayson County	2.80	38-807	38-743 Rugby Rd	40	R							X						12/01/2005
+742093	  38	00745	     	38-745	 	038	Grayson County	038	Grayson County	2.50	North Carolina State Line	38-725 W, Grassy Creek Rd	210	R							X						07/09/2002
+742094	  38	00745	     	38-745	 	038	Grayson County	038	Grayson County	0.70	38-725 E, Grassy Creek Rd	38-789	50	R							X						12/08/2005
+742095	  38	00745	     	38-745	 	038	Grayson County	038	Grayson County	0.30	38-789	38-721	30	R							X						12/08/2005
+742096	  38	00746	     	38-746	 	038	Grayson County	038	Grayson County	0.50	North Carolina State Line	38-782	20	R							X						11/16/2005
+742097	  38	00746	     	38-746	 	038	Grayson County	038	Grayson County	0.90	38-782	38-797	60	R							X						11/16/2005
+742098	  38	00747	     	38-747	 	038	Grayson County	038	Grayson County	0.20	Dead End	US 58 Highlands Pkwy	100	R							X						11/16/2005
+742099	  38	00748	     	38-748	 	038	Grayson County	038	Grayson County	1.00	North Carolina State Line	38-797	20	R							X						11/16/2005
+742100	  38	00748	     	38-748	 	038	Grayson County	038	Grayson County	0.40	38-797	38-812	40	R							X						11/16/2005
+742101	  38	00748	     	38-748	 	038	Grayson County	038	Grayson County	1.00	38-812	US 58 Highlands Pkwy	100	R							X						07/09/2002
+742102	  38	00749	     	38-749	 	038	Grayson County	038	Grayson County	0.90	US 58 Highlands Pkwy	Dead End	48	R							X						11/16/2005
+742103	  38	00750	     	38-750	 	038	Grayson County	038	Grayson County	0.74	US 58 Highlands Pkwy	38-828	300	R							X						07/09/2002
+742104	  38	00750	     	38-750	 	038	Grayson County	038	Grayson County	1.26	38-828	Dead End	160	R							X						11/16/2005
+742105	  38	00751	     	38-751	 	038	Grayson County	038	Grayson County	0.27	38-600	0.27 ME 38-600	60	R							X						11/08/2005
+742106	  38	00751	     	38-751	 	038	Grayson County	038	Grayson County	0.93	0.27 ME 38-600	1.20 ME 38-600	90	R							X						11/16/2005
+742107	  38	00751	     	38-751	 	038	Grayson County	038	Grayson County	1.00	1.20 ME 38-600	US 58 Highlands Pkwy	210	R							X						11/16/2005
+405535	  38	00751	     	38-751	Stirgill Rd	038	Grayson County	038	Grayson County	1.10	US 58 Highlands Pkwy	North Carolina State Line	440	F	99%	0%	1%	0%	0%	0%	C	0.0906	F	0.5870	460	F	2008
+742108	  38	00752	     	38-752	 	038	Grayson County	038	Grayson County	0.25	Dead End	38-644	80	R							X						05/14/2002
+742109	  38	00753	     	38-753	 	038	Grayson County	038	Grayson County	0.90	38-726 White Top Gap Rd	38-771	40	R							X						11/08/2005
+742110	  38	00753	     	38-753	 	038	Grayson County	038	Grayson County	1.30	38-771	38-754 Old Park Rd	220	R							X						11/08/2005
+405536	  38	00754	     	38-754	Old Park Rd	038	Grayson County	038	Grayson County	0.80	38-755 Firehouse Rd	US 58 Highlands Pkwy	340	F	98%	0%	1%	0%	0%	0%	C	0.1056	F	0.6053	360	F	2008
+742111	  38	00755	     	38-755	 	038	Grayson County	038	Grayson County	0.75	Dead End	0.75 ME Dead End	40	R							X						11/08/2005
+742112	  38	00755	     	38-755	 	038	Grayson County	038	Grayson County	1.75	0.75 ME Dead End	38-726 S, White Top Gap Rd	110	R							X						11/08/2005
+405537	  38	00755	     	38-755	Old Park Rd	038	Grayson County	038	Grayson County	1.50	38-726 N, White Top Gap Rd	38-754 Old Park Rd	200	F	98%	0%	1%	0%	1%	0%	C	0.1296	F	0.5000	210	F	2008
+742113	  38	00755	     	38-755	 	038	Grayson County	038	Grayson County	0.40	38-754 Old Park Rd	US 58 Highlands Pkwy	100	R							X						11/08/2005
+742114	  38	00756	     	38-756	 	038	Grayson County	038	Grayson County	1.20	US 21 New River Pkwy	38-763	60	R							X						07/26/2002
+742115	  38	00756	     	38-756	 	038	Grayson County	038	Grayson County	0.40	38-756	38-701	40	R							X						07/26/2002
+742116	  38	00757	     	38-757	 	038	Grayson County	038	Grayson County	0.40	38-701	38-763	120	R							X						07/26/2002
+405538	  38	00758	     	38-758	Hilltown Rd	220	Town of Fries	038	Grayson County	0.20	38-1001 Main St	Carroll County Line	1100	F	99%	0%	1%	0%	0%	0%	C	0.0870	F	0.6250	1200	F	2008
+742117	  38	00759	     	38-759	 	038	Grayson County	038	Grayson County	0.80	38-646	38-647 Stevens Creek	170	R							X						05/14/2002
+405539	  38	00760	     	38-760	Liberty Hill Rd	038	Grayson County	038	Grayson County	0.30	38-604 Jerusalem Rd	38-777 Liberty Hill Rd	90	F	96%	0%	3%	1%	0%	0%	C	0.1495	F	0.6875	100	F	2008
+742118	  38	00760	     	38-760	 	038	Grayson County	038	Grayson County	0.08	38-777 Liberty Hill Rd	Dead End	8	R							X						04/22/2002
+742119	  38	00761	     	38-761	 	038	Grayson County	038	Grayson County	0.08	38-701	38-757	70	R							X						07/26/2002
+742120	  38	00762	     	38-762	Hunt Club Rd	038	Grayson County	038	Grayson County	0.50	38-676 Chestnut Ridge Rd	38-677 Razor Ridge Rd	20	R							X						01/04/2006
+742121	  38	00762	     	38-762	 	038	Grayson County	038	Grayson County	0.86	38-677 Razor Ridge Rd	0.86 MN 38-677 Razor Ridge Rd	50	R							X						06/21/2002
+742122	  38	00762	     	38-762	Country View	038	Grayson County	038	Grayson County	0.14	0.86 MN 38-677 Razor Ridge Rd	38-732 Country View Rd; Laurel Creek Rd	40	R							X						01/04/2006
+742123	  38	00763	     	38-763	 	038	Grayson County	038	Grayson County	0.60	38-756	38-757	40	R							X						07/26/2002
+742124	  38	00763	     	38-763	 	038	Grayson County	038	Grayson County	0.80	38-757	38-697	170	R							X						07/26/2002
+742125	  38	00764	     	38-764	Sweet Water Rd	038	Grayson County	038	Grayson County	1.50	38-668 Big Ridge Rd	38-664 Serenity Rd	20	R							X						01/19/2006
+742126	  38	00765	     	38-765	 	038	Grayson County	038	Grayson County	1.26	38-697	38-888	170	R							X						07/26/2002
+742127	  38	00766	     	38-766	 	038	Grayson County	038	Grayson County	1.00	38-708 WEST	38-852 Fox Wood Lane	20	R							X						02/17/2006
+742128	  38	00766	     	38-766	 	038	Grayson County	038	Grayson County	0.90	38-852 Fox Wood Lane	38-708 EAST	30	R							X						02/17/2006
+742129	  38	00767	     	38-767	 	038	Grayson County	038	Grayson County	2.54	SR 16 Jefferson Hwy	US 58 Wilson Hwy	280	R							X						06/27/2002
+742130	  38	00768	     	38-768	 	038	Grayson County	038	Grayson County	1.70	38-672 Wilburns Mill Rd; Blue Spring Rd	38-674 Roberts Cove Rd	100	R							X						06/18/2002
+742131	  38	00768	     	38-768	 	038	Grayson County	038	Grayson County	0.35	38-674 Roberts Cove Rd	38-601 Flat Ridge Rd	180	R							X						06/18/2002
+742132	  38	00769	     	38-769	 	038	Grayson County	038	Grayson County	2.50	SR 16 Jefferson Hwy	38-721	60	R							X						12/08/2005
+405540	  38	00770	     	38-770	Quarry Rd	038	Grayson County	038	Grayson County	0.58	38-644 Winding Rd	38-647 Stevens Creek Rd	220	F	97%	2%	0%	0%	1%	0%	C	0.1066	F	0.5385	230	F	2008
+742133	  38	00771	     	38-771	 	038	Grayson County	038	Grayson County	0.50	North Carolina State Line	38-753	20	R							X						11/08/2005
+742134	  38	00772	     	38-772	 	038	Grayson County	038	Grayson County	1.00	38-720	Dead End	290	R							X						07/12/2002
+742135	  38	00773	     	38-773	Issac Lane	038	Grayson County	038	Grayson County	0.52	38-651	Dead End	47	R							X						02/10/2006
+742136	  38	00774	     	38-774	 	038	Grayson County	038	Grayson County	0.81	Dead End	38-634 Water Wheel Rd	120	R							X						05/29/2002
+742137	  38	00775	     	38-775	Guffey Branch Lane	038	Grayson County	038	Grayson County	0.05	38-731 Rockbridge	Dead End	9	R							X						01/06/2006
+742138	  38	00776	     	38-776	 	038	Grayson County	038	Grayson County	0.30	Dead End	38-604 Jerusalem Rd	30	R							X						02/07/2006
+405541	  38	00777	     	38-777	Liberty Hill Rd	038	Grayson County	038	Grayson County	0.50	38-805 Spring Valley Rd	38-760 Liberty Hill Rd	110	F	96%	0%	3%	1%	0%	0%	C	0.1371	F	0.6471	110	F	2008
+742139	  38	00778	     	38-778	Camp Moxley Lane	038	Grayson County	038	Grayson County	0.22	US 21	Dead End	20	R							X						02/01/2006
+742140	  38	00779	     	38-779	 	038	Grayson County	038	Grayson County	0.50	38-631	38-636	40	R							X						06/06/2002
+742141	  38	00780	     	38-780	 	038	Grayson County	038	Grayson County	0.45	Dead End	38-781	190	R							X						05/29/2002
+742142	  38	00780	     	38-780	 	038	Grayson County	038	Grayson County	0.10	38-781	38-640 Greenville Rd	210	R							X						05/29/2002
+742143	  38	00781	     	38-781	 	038	Grayson County	038	Grayson County	0.10	Dead End	38-780	10	R							X						05/29/2002
+742144	  38	00782	     	38-782	 	038	Grayson County	038	Grayson County	1.00	North Carolina State Line	38-746	46	R							X						11/16/2005
+742145	  38	00783	     	38-783	 	038	Grayson County	038	Grayson County	1.25	US 58 Highlands Pkwy	Jefferson Forest Bndy	150	R							X						11/16/2005
+742146	  38	00783	     	38-783	 	038	Grayson County	038	Grayson County	0.75	Jefferson Forest Bndy	Dead End	60	R							X						11/16/2005
+742147	  38	00784	     	38-784	 	038	Grayson County	038	Grayson County	0.50	North Carolina State Line	Dead End	20	R							X						1995
+742148	  38	00785	     	38-785	 	038	Grayson County	038	Grayson County	1.25	38-613 Edmonds Rd	38-886	220	R							X						07/12/2002
+742149	  38	00785	     	38-785	 	038	Grayson County	038	Grayson County	1.70	38-886	38-607 Meadow Creek	250	R							X						07/12/2002
+742150	  38	00786	     	38-786	 	038	Grayson County	038	Grayson County	0.25	38-821 Fairview Rd	38-859	220	R							X						07/12/2002
+742151	  38	00786	     	38-786	 	038	Grayson County	038	Grayson County	0.25	38-859	Dead End	60	R							X						07/12/2002
+742152	  38	00787	     	38-787	 	038	Grayson County	038	Grayson County	0.30	Dead End	38-615 Savannah Rd	110	R							X						07/12/2002
+742153	  38	00787	     	38-787	 	038	Grayson County	038	Grayson County	2.52	38-615 Savannah Rd	2.52 MN 38-615 Savannah Rd	100	R							X						07/12/2002
+742154	  38	00787	     	38-787	 	038	Grayson County	038	Grayson County	0.13	2.52 MN 38-615 Savannah Rd	38-607 Meadow Creek; Meadow Creek Rd	120	R							X						07/12/2002
+742155	  38	00788	     	38-788	 	038	Grayson County	038	Grayson County	0.31	38-649	Dead End	60	R							X						05/14/2002
+742156	  38	00789	     	38-789	 	038	Grayson County	038	Grayson County	0.50	38-745	Dead End	20	R							X						07/09/2002
+742157	  38	00790	     	38-790	 	038	Grayson County	038	Grayson County	0.60	Blue Ridge Pkwy	38-613; 38-804	70	R							X						07/12/2002
+742158	  38	00791	     	38-791	 	038	Grayson County	038	Grayson County	1.30	38-658 Comers Rock Rd	US 21; 38-614	350	R							X						05/03/2002
+742159	  38	00791	     	38-791	 	038	Grayson County	038	Grayson County	1.00	US 21; 38-614	38-657 Wagon Wheel Rd	110	R							X						04/22/2002
+742160	  38	00792	     	38-792	Gem Stream Rd	038	Grayson County	038	Grayson County	3.00	38-658 Comers Rock Rd	38-791	45	R							X						01/24/2006
+742161	  38	00793	     	38-793	 	038	Grayson County	038	Grayson County	0.05	Dead End	38-601 Flat Ridge Rd	10	R							X						01/06/2006
+742162	  38	00794	     	38-794	Rabbit Fork Rd	038	Grayson County	038	Grayson County	1.10	38-731 Rabbit Fork Rd; Rockbridge	38-795	60	R							X						01/06/2006
+742163	  38	00794	     	38-794	Prim Rose Lane	038	Grayson County	038	Grayson County	0.05	38-795	38-858	70	R							X						01/06/2006
+742164	  38	00794	     	38-794	Rockbridge Rd	038	Grayson County	038	Grayson County	0.25	38-858	38-601 Flat Ridge Rd	40	R							X						01/06/2006
+742165	  38	00795	     	38-795	 	038	Grayson County	038	Grayson County	0.50	Dead End	38-794 Prim Rose Lane; Rabbit Fork Rd	8	R							X						06/13/2002
+742166	  38	00796	     	38-796	Fishers Rd	038	Grayson County	038	Grayson County	1.70	US 58 Troutdale Hwy	38-728 Oakhill Rd; Dormitory Lane	30	R							X						01/10/2006
+742167	  38	00797	     	38-797	 	038	Grayson County	038	Grayson County	2.10	US 58 Highlands Pkwy	38-746	80	R							X						11/16/2005
+742168	  38	00797	     	38-797	 	038	Grayson County	038	Grayson County	0.70	38-746	38-748	49	R							X						11/16/2005
+742169	  38	00798	     	38-798	 	038	Grayson County	038	Grayson County	0.50	38-672 Blue Spring Rd; Blue Spring Rd	Smyth County Line	20	R							X						01/27/2006
+742170	  38	00799	     	38-799	 	038	Grayson County	038	Grayson County	0.60	38-613	38-609	140	R							X						07/12/2002
+742171	  38	00799	     	38-799	 	038	Grayson County	038	Grayson County	0.50	38-609	Carroll County Line	80	R							X						07/12/2002
+742172	  38	00800	     	38-800	 	038	Grayson County	038	Grayson County	0.10	38-636	Dead End	20	R							X						06/06/2002
+742173	  38	00801	     	38-801	 	038	Grayson County	038	Grayson County	0.50	US 58 Wilson Hwy	0.50 MN US 58	100	R							X						02/24/2006
+742174	  38	00801	     	38-801	 	038	Grayson County	038	Grayson County	0.33	0.50 MN US 58	Dead End	60	R							X						02/24/2006
+742175	  38	00802	     	38-802	 	038	Grayson County	038	Grayson County	0.10	38-697	SCL Independence	220	R							X						03/02/2006
+785114	  38	00802	     	38-802	 	240	Town of Independence	038	Grayson County	0.63	SCL Independence	US 58 E Main St	220	N							X				0	N	03/02/2006
+742176	  38	00803	     	38-803	Hardwood Lane	038	Grayson County	038	Grayson County	0.50	38-601 Old Bridle Creek Rd	Dead End	40	R							X						02/24/2006
+742177	  38	00804	     	38-804	 	038	Grayson County	038	Grayson County	1.50	38-613; 38-790	Blue Ridge Pkwy	80	R							X						07/12/2002
+405542	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	1.20	US 21 Elk Creek Pkwy	38-656 Pilgrim Fork Rd	310	F	93%	0%	3%	3%	0%	0%	F	0.0972	F	0.6571	320	F	2008
+405543	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	3.19	38-656 Pilgrim Fork Rd	38-604 W, Jerusalem Rd	280	F	93%	0%	3%	3%	0%	0%	F	0.1144	F	0.6232	290	F	2008
+405544	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	1.00	38-604 W, Jerusalem Rd	38-604 E, Jerusalem Rd	260	F	93%	0%	3%	3%	0%	0%	F	0.1176	F	0.5147	280	F	2008
+405545	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	0.75	38-604 E, Jerusalem Rd	38-654 Hines Branch Rd	270	F	93%	0%	3%	3%	0%	0%	F	0.1081	F	0.5938	290	F	2008
+405546	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	0.85	38-654 Hines Branch Rd	38-777 Liberty Hill Rd	270	F	93%	0%	3%	3%	0%	0%	C	0.1115	F	0.7500	280	F	2008
+405547	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	2.45	38-777 Liberty Hill Rd	38-649 North Bainbridge Rd	360	F	93%	0%	3%	3%	0%	0%	F	0.1114	F	0.7674	370	F	2008
+405548	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	0.20	38-649 North Bainbridge Rd	38-881 Mailard Ln	1100	F	93%	0%	3%	3%	0%	0%	F	0.1347	F	0.5536	1200	F	2008
+405549	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	0.55	38-881 Mailard Ln	38-648 Providence Rd	1500	F	94%	2%	2%	0%	2%	0%	F	0.1186	F	0.5513	1600	F	2008
+405550	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	0.78	38-648 Providence Rd	38-649 South Turkey Knob Rd	1400	F	94%	2%	2%	0%	2%	0%	C	0.1119	F	0.6310	1400	F	2008
+405551	  38	00805	     	38-805	Spring Valley Rd	038	Grayson County	038	Grayson County	0.17	38-649 South Turkey Knob Rd	SR 94 Scenic Rd	1400	F	94%	2%	2%	0%	2%	0%	F	0.1014	F	0.6367	1400	F	2008
+742178	  38	00806	     	38-806	 	038	Grayson County	038	Grayson County	0.50	Dead End	38-725 Grassy Creek Rd	20	R							X						07/09/2002
+742179	  38	00807	     	38-807	 	038	Grayson County	038	Grayson County	0.35	Dead End	38-744	40	R							X						12/01/2005
+742180	  38	00808	     	38-808	Rocky Falls Lane	038	Grayson County	038	Grayson County	0.50	Dead End	US 58 Wilson Hwy	50	R							X						02/24/2006
+742181	  38	00809	     	38-809	 	038	Grayson County	038	Grayson County	1.05	38-606	Carroll County Line	310	R							X						05/17/2002
+742182	  38	00810	     	38-810	 	038	Grayson County	038	Grayson County	0.70	SR 94 Riverside Dr	Dead End	70	R							X						05/29/2002
+742183	  38	00811	     	38-811	 	038	Grayson County	038	Grayson County	1.00	US 58 Wilson Hwy	Dead End	40	R							X						02/24/2006
+742184	  38	00812	     	38-812	 	038	Grayson County	038	Grayson County	0.20	Dead End	38-748	48	R							X						11/16/2005
+742185	  38	00813	     	38-813	 	038	Grayson County	038	Grayson County	0.12	38-644 Winding Rd	Dead End	140	R							X						1995
+742186	  38	00814	     	38-814	 	038	Grayson County	038	Grayson County	0.13	Dead End	38-695	30	R							X						06/04/2002
+742187	  38	00815	     	38-815	 	038	Grayson County	038	Grayson County	0.43	SR 94 W, Scenic Rd	SR 94 MID	140	R							X						05/14/2002
+405552	  38	00815	     	38-815	Tanglewood Rd	038	Grayson County	038	Grayson County	0.03	SR 94 MID Scenic Rd	38-647 Stevens Creek	440	F	96%	1%	2%	1%	0%	0%	C	0.1437	F	0.5278	460	F	2008
+742188	  38	00815	     	38-815	 	038	Grayson County	038	Grayson County	0.30	38-647 Stevens Creek	SR 94 E, Scenic Rd	210	R							X						05/14/2002
+742189	  38	00816	     	38-816	 	038	Grayson County	038	Grayson County	0.15	38-649	SR 94 Scenic Rd	410	R							X						05/14/2002
+742190	  38	00817	     	38-817	 	038	Grayson County	038	Grayson County	0.26	US 58 Highlands Pkwy	38-889	50	R							X						12/01/2005
+742191	  38	00817	     	38-817	 	038	Grayson County	038	Grayson County	0.74	38-889	0.74 MN 38-889	6	R							X						12/01/2005
+742192	  38	00817	     	38-817	 	038	Grayson County	038	Grayson County	0.40	0.74 MN 38-889	Dead End	0	R							X						07/09/2002
+742193	  38	00818	     	38-818	 	038	Grayson County	038	Grayson County	0.15	38-805 Spring Valley Rd	38-857 Shale Hollow Lane	130	R							X						02/07/2006
+742194	  38	00818	     	38-818	Mountain Music Lane	038	Grayson County	038	Grayson County	0.35	38-857 Shale Hollow Lane	Dead End	60	R							X						02/07/2006
+742195	  38	00819	     	38-819	 	038	Grayson County	038	Grayson County	0.11	SR 89; SCL Galax	SCL Galax	520	R							X						07/12/2002
+742196	  38	00820	     	38-820	 	038	Grayson County	038	Grayson County	0.17	Dead End	US 58 Wilson Hwy	50	R							X						06/13/2002
+405553	  38	00821	     	38-821	Fairview Rd	038	Grayson County	038	Grayson County	1.42	SR 89 S, Skyline Hwy	38-786 Hickory Rd	350	F	99%	0%	0%	0%	0%	0%	F	0.1320	F	0.5094	360	F	2008
+405554	  38	00821	     	38-821	Fairview Rd	038	Grayson County	038	Grayson County	0.59	38-786 Hickory La	38-720 Millpond Dr	620	F	99%	0%	0%	0%	0%	0%	F	0.1021	F	0.5608	660	F	2008
+405555	  38	00821	     	38-821	Fairview Rd	038	Grayson County	038	Grayson County	0.61	38-720	SR 89 N, Skyline Hwy	1000	F	99%	0%	0%	0%	0%	0%	C	0.0997	F	0.8120	1100	F	2008
+742197	  38	00822	     	38-822	 	038	Grayson County	038	Grayson County	0.27	SR 94 W, Scenic Rd	SR 94 E, Scenic Rd	40	R							X						05/14/2002
+742198	  38	00823	     	38-823	 	038	Grayson County	038	Grayson County	0.26	Dead End	38-642	40	R							X						1995
+742199	  38	00824	     	38-824	 	038	Grayson County	038	Grayson County	0.57	Dead End	WCL Galax	210	R							X						1995
+742200	  38	00825	     	38-825	Sugar Camp Lane	038	Grayson County	038	Grayson County	0.10	US 21	38-669	120	R							X						02/01/2006
+742201	  38	00825	     	38-825	Sugar Camp Lane	038	Grayson County	038	Grayson County	0.20	38-669	38-611 Caty Sage	60	R							X						02/01/2006
+742202	  38	00826	     	38-826	Orchid Lane	038	Grayson County	038	Grayson County	1.00	Dead End	38-711	120	R							X						02/24/2006
+742203	  38	00827	     	38-827	Auburn Lane	314	Town of Troutdale	038	Grayson County	0.13	Dead End	38-603 Fairwood Rd	60	R							X						02/17/2006
+742204	  38	00828	     	38-828	 	038	Grayson County	038	Grayson County	0.50	38-750	Dead End	130	R							X						11/16/2005
+742205	  38	00829	     	38-829	 	038	Grayson County	038	Grayson County	0.40	Dead End	SR 89 S, Skyline Hwy	40	R							X						07/12/2002
+742206	  38	00829	     	38-829	 	038	Grayson County	038	Grayson County	0.35	SR 89 N, Skyline Hwy	Blue Ridge Pkwy	20	R							X						07/12/2002
+742207	  38	00830	     	38-830	Dandelion Lane	038	Grayson County	038	Grayson County	0.20	Dead End	38-696 Summerfield Rd	7	R							X						02/07/2006
+742208	  38	00831	     	38-831	Hidden Valley Lane	038	Grayson County	038	Grayson County	0.85	US 21	Dead End	100	R							X						02/01/2006
+742209	  38	00832	     	38-832	Grassy Know Lane	038	Grayson County	038	Grayson County	0.60	38-728 Oakhill Rd	Dead End	10	R							X						02/24/2006
+742210	  38	00833	     	38-833	Knob Fork Lane	038	Grayson County	038	Grayson County	0.42	38-650	Dead End	30	R							X						02/10/2006
+742211	  38	00834	     	38-834	 	038	Grayson County	038	Grayson County	0.33	US 58 Troutdale Hwy	US 58 Troutdale Hwy	10	R							X						02/17/2006
+742212	  38	00835	     	38-835	 	038	Grayson County	038	Grayson County	0.44	SR 16 Troutdale Hwy	38-734 Chestnut Grove Rd	100	R							X						06/25/2002
+742213	  38	00836	     	38-836	Polter Rd	038	Grayson County	038	Grayson County	0.58	38-739 Rocky Hollow Rd	SR 16 Troutdale Hwy	40	R							X						12/29/2005
+742214	  38	00837	     	38-837	Timberline Rd	314	Town of Troutdale	038	Grayson County	0.22	SR 16 Troutdale Hwy	38-603 Fairwood Rd	300	R							X						06/21/2002
+742215	  38	00838	     	38-838	 	038	Grayson County	038	Grayson County	0.79	Dead End	SR 93 Wilson Hwy	8	R							X						01/17/2006
+742216	  38	00839	     	38-839	Rock Quarry Lane	038	Grayson County	038	Grayson County	0.62	38-658 Comers Rock Rd	Dead End	30	R							X						01/27/2006
+742217	  38	00840	     	38-840	Nightingale Lane	038	Grayson County	038	Grayson County	0.44	Cul-de-Sac	SR 16 Troutdale Hwy	30	R							X						12/29/2005
+742218	  38	00841	     	38-841	 	038	Grayson County	038	Grayson County	0.10	38-626	US 58 Grayson Pkwy	470	R							X						07/16/2002
+742219	  38	00841	     	38-841	 	038	Grayson County	038	Grayson County	0.20	US 58 Grayson Pkwy	0.20 MN US 58	320	R							X						07/16/2002
+742220	  38	00841	     	38-841	 	038	Grayson County	038	Grayson County	0.21	0.20 MN US 58	Dead End	210	R							X						07/16/2002
+742221	  38	00842	     	38-842	 	038	Grayson County	038	Grayson County	1.00	Dead End	38-805 Spring Valley Rd	80	R							X						05/14/2002
+742222	  38	00843	     	38-843	 	038	Grayson County	038	Grayson County	0.25	Dead End	38-692	90	R							X						06/04/2002
+742223	  38	00844	     	38-844	 	038	Grayson County	038	Grayson County	0.40	Dead End	38-711 Gold Hill Rd	80	R							X						02/24/2006
+742224	  38	00845	     	38-845	Mahogany Lane	038	Grayson County	038	Grayson County	0.15	38-601 Flat Ridge Rd	Dead End	7	R							X						01/06/2006
+742225	  38	00846	     	38-846	Cornflower Rd	038	Grayson County	038	Grayson County	1.00	38-675 Glen Wood Rd; Panther Creek Rd	38-675	20	R							X						01/06/2006
+742226	  38	00847	     	38-847	 	038	Grayson County	038	Grayson County	0.03	38-603 Fairwood Rd	0.03 MN 38-603 Fairwood Rd	50	R							X						06/21/2002
+742227	  38	00847	     	38-847	 	038	Grayson County	038	Grayson County	0.11	0.03 MN 38-603 Fairwood Rd	Dead End	50	R							X						06/21/2002
+742228	  38	00848	     	38-848	 	038	Grayson County	038	Grayson County	0.08	Dead End	38-644 Freedom Lane	40	R							X						05/14/2002
+742229	  38	00849	     	38-849	 	038	Grayson County	038	Grayson County	0.26	Dead End	38-890	40	R							X						06/04/2002
+742230	  38	00849	     	38-849	 	038	Grayson County	038	Grayson County	0.09	38-890	US 58 Grayson Pkwy	80	R							X						06/04/2002
+742231	  38	00850	     	38-850	 	038	Grayson County	038	Grayson County	0.03	Dead End	38-870	0	R							X						07/12/2002
+742232	  38	00850	     	38-850	 	038	Grayson County	038	Grayson County	0.22	38-870	38-785	60	R							X						07/12/2002
+742233	  38	00851	     	38-851	 	038	Grayson County	038	Grayson County	0.75	Dead End	38-626	50	R							X						07/16/2002
+742234	  38	00852	     	38-852	Fox Wood Lane	038	Grayson County	038	Grayson County	1.00	38-766	Dead End	6	R							X						02/17/2006
+742235	  38	00853	     	38-853	 	038	Grayson County	038	Grayson County	0.30	38-648	Dead End	80	R							X						05/14/2002
+742236	  38	00854	     	38-854	 	038	Grayson County	038	Grayson County	0.25	SR 89 Skyline Hwy	Dead End	80	R							X						07/12/2002
+742237	  38	00855	     	38-855	Crusader Lane	038	Grayson County	038	Grayson County	0.05	Dead End	38-644	40	R							X						02/10/2006
+742238	  38	00856	     	38-856	 	038	Grayson County	038	Grayson County	0.40	North Carolina State Line	38-722	170	R							X						12/08/2005
+742239	  38	00857	     	38-857	Shale Hollow Lane	038	Grayson County	038	Grayson County	0.75	Dead End	38-818 Mountain Music Lane	60	R							X						02/07/2006
+742240	  38	00858	     	38-858	 	038	Grayson County	038	Grayson County	0.20	38-794 Rockbridge Rd; Prim Rose Lane	38-601 Flat Ridge Rd	70	R							X						06/13/2002
+742241	  38	00859	     	38-859	 	038	Grayson County	038	Grayson County	0.21	Dead End	38-786	80	R							X						07/12/2002
+742242	  38	00860	     	38-860	 	038	Grayson County	038	Grayson County	0.27	SR 94 Scenic Rd	Dead End	30	R							X						05/14/2002
+742243	  38	00861	     	38-861	Willow Oak Lane	038	Grayson County	038	Grayson County	0.10	US 21 Elk Creek Pkwy	Dead End	30	R							X						01/24/2006
+742244	  38	00862	     	38-862	 	038	Grayson County	038	Grayson County	0.20	38-821 Fairview Rd	Dead End	90	R							X						07/12/2002
+742245	  38	00863	     	38-863	 	038	Grayson County	038	Grayson County	0.10	38-648	0.10 MS 38-648	70	R							X						05/14/2002
+742246	  38	00863	     	38-863	 	038	Grayson County	038	Grayson County	0.10	0.10 MS 38-648	Dead End	70	R							X						05/14/2002
+742247	  38	00864	     	38-864	Flag Pond Lane	038	Grayson County	038	Grayson County	0.50	Dead End	38-665 Stones Chapel Rd	40	R							X						01/24/2006
+742248	  38	00865	     	38-865	 	038	Grayson County	038	Grayson County	0.50	38-619	38-819	340	R							X						07/12/2002
+742249	  38	00866	     	38-866	 	038	Grayson County	038	Grayson County	0.10	Dead End	38-644	60	R							X						05/14/2002
+742250	  38	00867	     	38-867	 	038	Grayson County	038	Grayson County	0.12	SR 94 Scenic Rd	Dead End	60	R							X						05/14/2002
+742251	  38	00868	     	38-868	 	038	Grayson County	038	Grayson County	0.18	Dead End	38-634	30	R							X						05/29/2002
+742252	  38	00869	     	38-869	 	038	Grayson County	038	Grayson County	0.39	Dead End	38-641	40	R							X						05/29/2002
+742253	  38	00870	     	38-870	 	038	Grayson County	038	Grayson County	0.20	38-850	Dead End	60	R							X						07/12/2002
+742254	  38	00871	     	38-871	 	038	Grayson County	038	Grayson County	0.50	Dead End	38-813	60	R							X						05/14/2002
+742255	  38	00872	     	38-872	Sunbow Lane	038	Grayson County	038	Grayson County	0.10	US 21	Dead End	40	R							X						02/01/2006
+742256	  38	00873	     	38-873	 	038	Grayson County	038	Grayson County	0.35	Dead End	SR 89 Skyline Hwy	40	R							X						07/12/2002
+742257	  38	00874	     	38-874	 	038	Grayson County	038	Grayson County	0.12	38-660 Carsonville Rd	Dead End	90	R							X						05/29/2002
+742258	  38	00875	     	38-875	 	038	Grayson County	038	Grayson County	0.70	US 58 Highlands Pkwy	Dead End	60	R							X						02/01/2006
+742259	  38	00876	     	38-876	 	038	Grayson County	038	Grayson County	0.19	Dead End	SR 16 Troutdale Hwy	40	R							X						06/21/2002
+742260	  38	00877	     	38-877	 	038	Grayson County	038	Grayson County	0.22	38-805 Spring Valley Rd	Dead End	130	R							X						05/14/2002
+742261	  38	00878	     	38-878	 	038	Grayson County	038	Grayson County	0.65	US 58 Highlands Pkwy	Dead End	90	R							X						11/08/2005
+742262	  38	00879	     	38-879	 	038	Grayson County	038	Grayson County	0.10	38-723	Dead End	30	R							X						07/09/2002
+742263	  38	00880	     	38-880	 	038	Grayson County	038	Grayson County	0.40	Dead End	38-639	40	R							X						05/29/2002
+742264	  38	00881	     	38-881	 	038	Grayson County	038	Grayson County	0.10	38-805 Spring Valley Rd	Dead End	60	R							X						05/07/2002
+742265	  38	00882	     	38-882	 	038	Grayson County	038	Grayson County	1.50	SR 94 Riverside Dr	WCL Galax	410	R							X						05/29/2002
+742266	  38	00883	     	38-883	 	038	Grayson County	038	Grayson County	0.27	Dead End	38-684	20	R							X						06/13/2002
+742267	  38	00884	     	38-884	 	038	Grayson County	038	Grayson County	0.28	38-613 Edmonds Rd	Dead End	70	R							X						07/12/2002
+742268	  38	00885	     	38-885	 	038	Grayson County	038	Grayson County	0.20	38-742	Dead End	20	R							X						11/16/2005
+742269	  38	00886	     	38-886	 	038	Grayson County	038	Grayson County	0.34	38-785	SR 89 Skyline Hwy	270	R							X						07/12/2002
+742270	  38	00887	     	38-887	 	038	Grayson County	038	Grayson County	0.08	38-726	Dead End	20	R							X						11/08/2005
+742271	  38	00888	     	38-888	 	038	Grayson County	038	Grayson County	0.07	US 58 E, Grayson Pkwy	0.07 MS US 58	45	R							X						07/18/2002
+742272	  38	00888	     	38-888	 	038	Grayson County	038	Grayson County	0.30	0.07 MS US 58	38-765	45	R							X						07/18/2002
+742273	  38	00888	     	38-888	 	038	Grayson County	038	Grayson County	0.15	38-765	US 58 W, Grayson Pkwy	170	R							X						06/04/2002
+742274	  38	00888	     	38-888	 	038	Grayson County	038	Grayson County	0.01	US 58 W, Grayson Pkwy	0.01 MN US 58	170	R							X						06/04/2002
+742275	  38	00888	     	38-888	 	038	Grayson County	038	Grayson County	1.14	0.01 MN US 58	38-685	70	R							X						06/04/2002
+742276	  38	00889	     	38-889	 	038	Grayson County	038	Grayson County	0.12	38-817	Dead End	10	R							X						07/09/2002
+742277	  38	00890	     	38-890	 	038	Grayson County	038	Grayson County	0.25	38-849	Dead End	40	R							X						06/04/2002
+742278	  38	00891	     	38-891	 	038	Grayson County	038	Grayson County	0.50	38-805 Spring Valley Rd	Dead End	20	R							X						02/07/2006
+742279	  38	00892	     	38-892	Bear Hollow Lane	038	Grayson County	038	Grayson County	0.15	38-651	Dead End	40	R							X						02/10/2006
+742280	  38	00893	     	38-893	 	038	Grayson County	038	Grayson County	0.22	38-634 Water Wheel Rd	Dead End	20	R							X						05/29/2002
+742281	  38	00894	     	38-894	Pumpkin Lane	038	Grayson County	038	Grayson County	0.64	Dead End	38-729 Cloverdale Lane	30	R							X						02/01/2006
+742282	  38	00895	     	38-895	Archery Lane	038	Grayson County	038	Grayson County	0.22	38-658 Comers Rock Rd	Dead End	70	R							X						02/01/2006
+742283	  38	00896	     	38-896	 	038	Grayson County	038	Grayson County	0.24	SR 274 Riverside Dr	Dead End	40	R							X						05/29/2002
+742284	  38	00897	     	38-897	 	038	Grayson County	038	Grayson County	0.17	Dead End	38-900	70	R							X						05/14/2002
+742285	  38	00897	     	38-897	 	038	Grayson County	038	Grayson County	0.04	38-900	38-805 Spring Valley Rd	140	R							X						05/14/2002
+742286	  38	00898	     	38-898	 	038	Grayson County	038	Grayson County	0.53	38-9465	Dead End	70	R							X						07/12/2002
+742287	  38	00899	     	38-899	 	038	Grayson County	038	Grayson County	0.15	US 58 Wilson Hwy	Cul-de-Sac	70	R							X						06/13/2002
+742288	  38	00900	     	38-900	 	038	Grayson County	038	Grayson County	0.04	38-897	Dead End	70	R							X						05/14/2002
+742289	  38	00905	     	38-905	 	038	Grayson County	038	Grayson County	0.14	38-821 Fairview Rd	Dead End	90	R							X						07/12/2002
+793038	  38	00906	     	38-906	 	038	Grayson County	038	Grayson County	0.18	38-791	Dead End	0	?							X
+742290	  38	00907	     	38-907	 	038	Grayson County	038	Grayson County	0.30	38-607 Meadow Creek Rd	Dead End	50	R							X						1999
+786336	  38	00908	     	38-908	 	038	Grayson County	038	Grayson County	0.08	Dead End	38-813	0	?							X
+742291	  38	00909	     	38-909	 	038	Grayson County	038	Grayson County	0.11	Dead End	38-626	40	R							X						07/16/2002
+742292	  38	00910	     	38-910	 	038	Grayson County	038	Grayson County	0.15	Dead End	38-626	100	R							X						07/16/2002
+784038	  38	00914	     	38-914	 	038	Grayson County	038	Grayson County	0.12	Dead End	38-685	40	R							X						06/04/2002
+742293	  38	00915	     	38-915	 	038	Grayson County	038	Grayson County	0.20	SR 274 Riverside Dr	Dead End	90	R							X						06/04/2002
+784039	  38	00916	     	38-916	 	038	Grayson County	038	Grayson County	0.15	Dead End	38-634 Water Wheel Rd	40	R							X						05/29/2002
+742294	  38	00920	     	38-920	 	038	Grayson County	038	Grayson County	0.12	38-607 Meadow Creek Rd	Dead End	47	R							X						1999
+785694	  38	00923	     	38-923	Pareo Point Lane	038	Grayson County	038	Grayson County	0.10	Dead End	38-658 Comers Rock Rd	20	R							X						01/27/2006
+742295	  38	00930	     	38-930	 	038	Grayson County	038	Grayson County	0.31	US 21	Dead End	30	R							X						02/01/2006
+742296	  38	00940	     	38-940	 	038	Grayson County	038	Grayson County	0.22	ECL Galax	38-941	170	R							X						1995
+742297	  38	00940	     	38-940	 	038	Grayson County	038	Grayson County	0.28	38-941	Cul-de-Sac	60	R							X						1995
+742298	  38	00941	     	38-941	 	038	Grayson County	038	Grayson County	0.37	38-940	Dead End	0	?							X
+784040	  38	00942	     	38-942	 	038	Grayson County	038	Grayson County	0.16	Cul-de-Sac	38-941	0	?							X
+742299	  38	00950	     	38-950	Rocky Top Lane	038	Grayson County	038	Grayson County	0.53	38-669	Dead End	45	R							X						02/10/2006
+405556	  38	01001	     	38-1001	W Main St	220	Town of Fries	038	Grayson County	0.21	SR 94 Scenic Rd Ivennue Rd	38-1005 Fire House Dr	2900	F	98%	0%	1%	0%	0%	0%	F	0.0964	F	0.5645	3000	F	2008
+405558	  38	01001	     	38-1001	W Main St	220	Town of Fries	038	Grayson County	0.51	38-1005 Fire House Dr	38-758 Hill Town Rd	2400	F	98%	1%	1%	0%	0%	0%	C	0.0948	F	0.6230	2500	F	2008
+405559	  38	01001	     	38-1001	E Main St	220	Town of Fries	038	Grayson County	0.61	38-758 Hill Town Rd	38-606 Fries Rd	3300	F	98%	0%	1%	0%	0%	0%	C	0.1081	F	0.5905	3500	F	2008
+742300	  38	01002	     	38-1002	 	038	Grayson County	038	Grayson County	0.45	SR 94 SOUTH	SR 94 NORTH	280	R							X						05/17/2002
+742301	  38	01003	     	38-1003	 	038	Grayson County	038	Grayson County	0.09	38-1002	38-1009	110	R							X						05/17/2002
+742302	  38	01003	     	38-1003	 	038	Grayson County	038	Grayson County	0.11	38-1009	Carroll County Line	20	R							X						05/17/2002
+742303	  38	01004	     	38-1004	 	038	Grayson County	038	Grayson County	0.30	Carroll County Line	38-1002	90	R							X						05/17/2002
+742304	  38	01005	     	38-1005	 	220	Town of Fries	038	Grayson County	0.12	38-1001	Dead End	370	R							X						05/17/2002
+742305	  38	01006	     	38-1006	 	220	Town of Fries	038	Grayson County	0.09	Dead End	38-1001	90	R							X						05/17/2002
+742306	  38	01006	     	38-1006	 	220	Town of Fries	038	Grayson County	0.08	38-1001	Dead End	130	R							X						05/17/2002
+742307	  38	01007	     	38-1007	 	220	Town of Fries	038	Grayson County	0.05	Dead End	38-1001 E Main St	140	R							X						05/17/2002
+742308	  38	01007	     	38-1007	 	220	Town of Fries	038	Grayson County	0.10	38-1001 E Main St	Dead End	110	R							X						05/17/2002
+742309	  38	01008	     	38-1008	 	038	Grayson County	038	Grayson County	0.12	Dead End	SR 94	60	R							X						05/17/2002
+742310	  38	01009	     	38-1009	 	038	Grayson County	038	Grayson County	0.05	Dead End	38-1003	60	R							X						1999
+742311	  38	01010	     	38-1010	 	220	Town of Fries	038	Grayson County	0.04	SR 94	38-1001 W Main St	1300	R							X						05/17/2002
+742312	  38	01011	     	38-1011	Carroll	220	Town of Fries	038	Grayson County	0.13	38-1001 E Main St	Dead End	140	R							X						05/17/2002
+742313	  38	01012	     	38-1012	 	220	Town of Fries	038	Grayson County	0.29	38-1001 W, W Main St	38-1001 EAST	430	R							X						05/17/2002
+784041	  38	01013	     	38-1013	Lee Dr	220	Town of Fries	038	Grayson County	0.19	38-1001 N, W Main St	38-1001 S, E Main St	50	F	99%	0%	1%	0%	0%	0%	C	0.1190	F	1.0000	50	F	2008
+742314	  38	01015	     	38-1015	 	038	Grayson County	038	Grayson County	0.22	38-613 Edmonds Rd	Cul-de-Sac	70	R							X						07/12/2002
+742315	  38	01020	     	38-1020	 	038	Grayson County	038	Grayson County	0.24	38-654 Peach Bottom Rd	Dead End	110	R							X						06/04/2002
+742316	  38	01100	     	38-1100	Wolf Ave	240	Town of Independence	038	Grayson County	0.03	38-1132 Williams St	Dead End	8	R							X						1995
+742317	  38	01101	     	38-1101	Davis St	240	Town of Independence	038	Grayson County	0.24	US 21	38-1131 Anvil Rock Rd	1100	R							X						1995
+742318	  38	01101	     	38-1101	Davis St	240	Town of Independence	038	Grayson County	0.10	38-1131 Anvil Rock Rd	38-1104; 38-1105	740	R							X						1995
+742319	  38	01102	     	38-1102	Hackler Lane	240	Town of Independence	038	Grayson County	0.15	US 58, W Main St	US 21	720	R							X						1995
+742320	  38	01103	     	38-1103	Edgewood Dr	240	Town of Independence	038	Grayson County	0.34	Dead End	US 58, W Main St	110	R							X						1995
+742321	  38	01103	     	38-1103	Edgewood Dr	240	Town of Independence	038	Grayson County	0.12	US 58, W Main St	0.12 MN US 58	60	R							X						1999
+742322	  38	01104	     	38-1104	 	240	Town of Independence	038	Grayson County	0.08	38-1101; 38-1105	Dead End	70	R							X						1995
+742323	  38	01105	     	38-1105	 	240	Town of Independence	038	Grayson County	0.23	US 58, E Main St	38-1108 Hillcrest	450	R							X						1995
+742324	  38	01106	     	38-1106	Lonesome Ave	240	Town of Independence	038	Grayson County	0.05	US 58, E Main St	38-1101 Davis St	600	R							X						1995
+742325	  38	01107	     	38-1107	Circle Dr	240	Town of Independence	038	Grayson County	0.02	38-1105	38-1108 Hillcrest	20	R							X						1995
+742326	  38	01108	     	38-1108	Hillcrest	240	Town of Independence	038	Grayson County	0.34	38-685 Power House Rd	Dead End	100	R							X						1995
+742327	  38	01109	     	38-1109	Carpenter St	240	Town of Independence	038	Grayson County	0.13	US 21	38-1123	90	R							X						1995
+742328	  38	01109	     	38-1109	Carpenter St	240	Town of Independence	038	Grayson County	0.05	38-1123	Dead End	49	R							X						1999
+742329	  38	01110	     	38-1110	 	240	Town of Independence	038	Grayson County	0.05	38-1108 Hillcrest	Dead End	8	R							X						1995
+742330	  38	01111	     	38-1111	Library St	240	Town of Independence	038	Grayson County	0.14	US 21	38-802	280	R							X						1995
+742331	  38	01112	     	38-1112	Moore St	240	Town of Independence	038	Grayson County	0.06	US 21	Dead End	49	R							X						1999
+742332	  38	01113	     	38-1113	Hawkins Lane	240	Town of Independence	038	Grayson County	0.07	US 58, W Main St	Dead End	30	R							X						1999
+742333	  38	01114	     	38-1114	Anders St	240	Town of Independence	038	Grayson County	0.07	38-1122 Grayson Ave	38-685 Power House Rd	130	R							X						1995
+742334	  38	01115	     	38-1115	Miles St	240	Town of Independence	038	Grayson County	0.26	US 21	Dead End	110	R							X						1995
+742335	  38	01116	     	38-1116	Colonial Dr	240	Town of Independence	038	Grayson County	0.05	38-684 Pinehurst St	Dead End	50	R							X						1995
+742336	  38	01117	     	38-1117	Meadow View Dr	240	Town of Independence	038	Grayson County	0.10	38-1120 Round Hill Rd	US 21	110	R							X						1995
+742337	  38	01118	     	38-1118	Mill Ave	240	Town of Independence	038	Grayson County	0.10	Dead End	US 58, E Main St	180	R							X						1995
+742338	  38	01119	     	38-1119	 	240	Town of Independence	038	Grayson County	0.47	Dead End	US 58, E Main St	830	R							X						1995
+742339	  38	01120	     	38-1120	Round Hill Rd	240	Town of Independence	038	Grayson County	0.07	Dead End	38-1130	10	R							X						1995
+742340	  38	01120	     	38-1120	Round Hill Rd	240	Town of Independence	038	Grayson County	0.15	38-1130	38-684 Elliott Place	60	R							X						1995
+742341	  38	01121	     	38-1121	 	240	Town of Independence	038	Grayson County	0.10	US 58, E Main St	Dead End	70	R							X						1995
+742342	  38	01122	     	38-1122	Grayson Ave	240	Town of Independence	038	Grayson County	0.14	US 58, E Main St	38-685 Power House Rd	350	R							X						1995
+742343	  38	01123	     	38-1123	 	240	Town of Independence	038	Grayson County	0.20	Dead End	US 21	100	R							X						1995
+742344	  38	01124	     	38-1124	 	240	Town of Independence	038	Grayson County	0.26	US 58, E Main St	38-685 Power House Rd	1200	R							X						1995
+742345	  38	01125	     	38-1125	 	240	Town of Independence	038	Grayson County	0.06	38-1140	Dead End	30	R							X						1995
+742346	  38	01126	     	38-1126	 	038	Grayson County	038	Grayson County	0.45	US 21 New River Pkwy	Dead End	280	R							X						07/26/2002
+742347	  38	01127	     	38-1127	 	038	Grayson County	038	Grayson County	0.25	38-1126	Dead End	100	R							X						1995
+742348	  38	01128	     	38-1128	 	038	Grayson County	038	Grayson County	0.05	38-1127	Dead End	20	R							X						07/26/2002
+742349	  38	01129	     	38-1129	 	038	Grayson County	038	Grayson County	0.35	Dead End	38-1126	110	R							X						07/26/2002
+742350	  38	01130	     	38-1130	 	240	Town of Independence	038	Grayson County	0.09	38-1120 Round Hill Rd	Dead End	10	R							X						1995
+742351	  38	01131	     	38-1131	Anvil Rock Rd	240	Town of Independence	038	Grayson County	0.21	38-1101 Davis St	0.21 MN 38-1101	30	R							X						1999
+742352	  38	01131	     	38-1131	Anvil Rock Rd	240	Town of Independence	038	Grayson County	0.20	0.21 MN 38-1101	Dead End	6	R							X						1995
+742353	  38	01132	     	38-1132	Williams St	240	Town of Independence	038	Grayson County	0.16	38-802 Hilltop Dr	Dead End	60	R							X						1995
+742354	  38	01133	     	38-1133	Poplar Ave	240	Town of Independence	038	Grayson County	0.06	38-1101 Davis St	Dead End	7	R							X						1991
+742355	  38	01134	     	38-1134	 	240	Town of Independence	038	Grayson County	0.24	Dead End	38-1119	180	R							X						1995
+742356	  38	01134	     	38-1134	 	240	Town of Independence	038	Grayson County	0.22	38-1119	Dead End	70	R							X						1995
+742357	  38	01135	     	38-1135	 	038	Grayson County	038	Grayson County	0.10	Dead End	38-685	110	R							X						1995
+742358	  38	01136	     	38-1136	 	240	Town of Independence	038	Grayson County	0.09	US 21	Dead End	250	R							X						1995
+742359	  38	01137	     	38-1137	Courthouse Ave	240	Town of Independence	038	Grayson County	0.04	US 58, E Main St	38-1101 Davis St	190	R							X						1995
+742360	  38	01138	     	38-1138	Anderson St	240	Town of Independence	038	Grayson County	0.09	US 21	Dead End	70	R							X						1995
+742361	  38	01139	     	38-1139	 	240	Town of Independence	038	Grayson County	0.17	38-802 SOUTH	38-802 NORTH	220	R							X						1995
+793826	  38	01140	     	38-1140	 	240	Town of Independence	038	Grayson County	0.34	38-1124	38-685 Power House Rd	0	?							X
+793827	  38	01141	     	38-1141	 	240	Town of Independence	038	Grayson County	0.07	38-1140	Dead End	0	?							X
+742362	  38	01145	     	38-1145	 	038	Grayson County	038	Grayson County	0.40	38-636 S, Beach Grove Ln	38-636 N, Beach Grove Ln	110	R							X						06/06/2002
+742363	  38	01201	     	38-1201	High County Ln	314	Town of Troutdale	038	Grayson County	0.13	38-603 Fairwood Rd	Dead End	140	R							X						06/21/2002
+742364	  38	01202	     	38-1202	Woodland Lane	314	Town of Troutdale	038	Grayson County	0.43	Dead End	38-603 Fairwood Dr	30	R							X						12/29/2005
+742365	  38	09175	     	38-9175	School Lane	038	Grayson County	038	Grayson County	0.13	Elk Creek Elem School	38-659 Tiny Wood Lane	180	R							X						01/27/2006
+742366	  38	09176	     	38-9176	 	240	Town of Independence	038	Grayson County	0.11	Independence High	US 58 E Main St	950	R							X						1995
+742367	  38	09465	     	38-9465	 	038	Grayson County	038	Grayson County	0.19	38-821 Fairview Rd	Fairview Elem School	180	R							X						1991
+742368	  38	09512	     	38-9512	 	038	Grayson County	038	Grayson County	0.08	Springvalley Elem Sch	38-649	120	R							X						1991
+742369	  38	09513	     	38-9513	 	038	Grayson County	038	Grayson County	0.18	Wood Elem Sch	38-636	140	R							X						1995
+742370	  38	09916	     	38-9916	 	038	Grayson County	038	Grayson County	0.06	Flatridge Elem Sch	38-601 Flat Ridge Rd	80	R							X						1995
+742371	  38	09966	     	38-9966	 	038	Grayson County	038	Grayson County	0.05	Bridge Creek Elem Sch	38-601 Bridge Creek Rd	90	R							X						1991
+742372	  38	09968	     	38-9968	 	038	Grayson County	038	Grayson County	0.06	Mt Rogers High Sch	US 58 Highlands Pkwy	120	R							X						1991
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,59 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Louisa																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+070313	  SR	00022	     	US 33, VA 22	West Main St	254	Town of Louisa	054	Louisa County	1.08	WCL Louisa	SR 208 LOUISA C H	6700	G	95%	1%	2%	1%	2%	0%	F	0.0833	F	0.5517	7200	G	2008	
+070306	  SR	00022	     	US 33, VA 22, VA 208	West Main St	254	Town of Louisa	054	Louisa County	0.40	SR 208 LOUISA C H	E US 33	16000	G	97%	1%	1%	0%	1%	0%	F	0.0813	F	0.5057	18000	G	2008	
+070301	  SR	00022	     	VA 22, VA 208	Louisa Rd	254	Town of Louisa	054	Louisa County	0.33	E US 33	ECL Louisa	11000	G	96%	1%	1%	0%	2%	0%	C	0.0923	F	0.5387	12000	G	2008
+070313	  US	00033	     	US 33, VA 22	West Main St	254	Town of Louisa	054	Louisa County	1.08	WCL Louisa	SR 208	6700	G	95%	1%	2%	1%	2%	0%	F	0.0833	F	0.5517	7200	G	2008
+070306	  US	00033	     	US 33, VA 22, VA 208	West Main St	254	Town of Louisa	054	Louisa County	0.40	SR 208	SR 22; SR 208 East of Louisa CH	16000	G	97%	1%	1%	0%	1%	0%	F	0.0813	F	0.5057	18000	G	2008
+070305	  US	00033	     	US 33	Jefferson Hwy	254	Town of Louisa	054	Louisa County	0.97	SR 22; SR 208 Main St	ECL Louisa	4700	G	97%	1%	1%	0%	1%	0%	C	0.0927	F	0.5497	5100	G	2008
+070306	  SR	00208	     	US 33, VA 22, VA 208	West Main St	254	Town of Louisa	054	Louisa County	0.40	SR 22, US 33 Louisa C H	US 33 EAST OF LOUISA C H	16000	G	97%	1%	1%	0%	1%	0%	F	0.0813	F	0.5057	18000	G	2008	
+070301	  SR	00208	     	VA 22, VA 208	Louisa Rd	254	Town of Louisa	054	Louisa County	0.33	US 33 EAST OF LOUISA C H	CL Louisa	11000	G	96%	1%	1%	0%	2%	0%	C	0.0923	F	0.5387	12000	G	2008	
+070109	 OSR	00208	     	Old VA 208	Courthouse Rd	254	Town of Louisa	054	Louisa County	0.40	SCL Louisa	SR 22, US 33 Louisa C H	4700	N	93%	1%	1%	1%	4%	0%	N	0.0932	N	0.5193	5100	N	2008
+751546	  54	00628	     	54-628	Fredericksburg Ave	254	Town of Louisa	054	Louisa County	0.23	US 33; 54-1004	54-1014 School St	1300	R							X						04/22/2004
+751547	  54	00628	     	54-628	Fredericksburg Ave	254	Town of Louisa	054	Louisa County	0.13	54-1014 School St	ECL Louisa	920	R							X						04/22/2004
+751627	  54	00666	     	54-666	West St	254	Town of Louisa	054	Louisa County	0.49	US 33 West Main St	54-669 Ellisville Dr	570	R							X						05/21/2007
+405035	  54	00669	     	54-669	Ellisville Dr	254	Town of Louisa	054	Louisa County	0.21	US 33 West Main St	54-1006 Loving St	2100	G	98%	1%	1%	0%	0%	0%	C	0.0868	F	0.5721	2300	G	2008
+405036	  54	00669	     	54-669	Ellisville Dr	254	Town of Louisa	054	Louisa County	0.41	54-1006 Loving St	NCL Louisa	1500	G	98%	1%	1%	0%	0%	0%	F	0.0904	F	0.6424	1600	G	2008
+751747	  54	00761	     	54-761	Hollyhurst Lane	254	Town of Louisa	054	Louisa County	0.24	US 33 Jefferson Hwy	Dead End	260	R							X						04/16/2004
+751801	  54	01001	     	54-1001	Church Ave	254	Town of Louisa	054	Louisa County	0.19	US 33 West Main St	54-1010 Patrick Henry Dr	870	R							X						04/22/2004
+751802	  54	01001	     	54-1001	Church Ave	254	Town of Louisa	054	Louisa County	0.05	54-1010 Patrick Henry Dr	54-1014 School St	220	R							X						04/22/2004
+751803	  54	01001	     	54-1001	Church Ave	254	Town of Louisa	054	Louisa County	0.08	54-1014 School St	Dead End	10	R							X						05/21/2007
+751804	  54	01002	     	54-1002	South St	254	Town of Louisa	054	Louisa County	0.04	Dead End	54-1004 McDonald St	46	R							X						04/15/2004
+751805	  54	01002	     	54-1002	South St	254	Town of Louisa	054	Louisa County	0.18	54-1004 McDonald St	54-1003 Meadow Ave	420	R							X						04/15/2004
+751806	  54	01002	     	54-1002	South St	254	Town of Louisa	054	Louisa County	0.08	54-1003 Meadow Ave	54-1015 Commack St	340	R							X						04/20/2004
+751807	  54	01002	     	54-1002	Cammack St	254	Town of Louisa	054	Louisa County	0.11	54-1015 Commack St	US 33 West Main St	560	R							X						04/20/2004
+751808	  54	01003	     	54-1003	Meadow Ave	254	Town of Louisa	054	Louisa County	0.19	54-1002 South St	US 33 West Main St	230	R							X						04/15/2004
+751809	  54	01004	     	54-1004	McDonald St	254	Town of Louisa	054	Louisa County	0.17	54-1002 South St	SR 208	580	R							X						05/21/2007
+751810	  54	01004	     	54-1004	McDonald St; Ashely St	254	Town of Louisa	054	Louisa County	0.20	SR 208	54-1009 Woolfolk Ave	370	R							X						05/21/2007
+751811	  54	01004	     	54-1004	Rosewood Ave	254	Town of Louisa	054	Louisa County	0.05	54-1009 Woolfolk Ave	US 33; 54-628	770	R							X						04/15/2004
+751813	  54	01005	     	54-1005	Loch Lane Dr	254	Town of Louisa	054	Louisa County	0.27	Dead End	US 33 West Main St	770	R							X						04/16/2004
+751814	  54	01006	     	54-1006	Loving St	254	Town of Louisa	054	Louisa County	0.15	Dead End	54-669 Ellisville Dr	200	R							X						04/21/2004
+751815	  54	01007	     	54-1007	Lyde St	254	Town of Louisa	054	Louisa County	0.15	54-1024 Lyde Ave	54-1011 Carter St	950	R							X						05/21/2007
+751816	  54	01007	     	54-1007	Lyde Ave	254	Town of Louisa	054	Louisa County	0.18	54-1011 Carter St	US 33 West Main St	1000	R							X						04/16/2004
+751817	  54	01008	     	54-1008	Cutler Ave	254	Town of Louisa	054	Louisa County	0.06	54-1012 Pinehurst Dr	54-1010 Patrick Henry Dr	80	R							X						04/21/2004
+751818	  54	01008	     	54-1008	Cutler Ave	254	Town of Louisa	054	Louisa County	0.09	54-1010 Patrick Henry Dr	54-1013 Sims Ave	290	R							X						04/21/2004
+751820	  54	01008	     	54-1008	Cutler Ave	254	Town of Louisa	054	Louisa County	0.14	54-1013 Sims Ave	US 33 West Main St	380	R							X						04/21/2004
+751821	  54	01009	     	54-1009	Woolfolk Ave	254	Town of Louisa	054	Louisa County	0.11	54-1004 McDonald St; Ashley St	SR 208	1400	R							X						05/21/2007
+751822	  54	01010	     	54-1010	Patrick Henry Dr	254	Town of Louisa	054	Louisa County	0.11	54-1001 Church Ave	54-1008 Cutler Ave	170	R							X						04/21/2004
+751823	  54	01010	     	54-1010	Patrick Henry Dr	254	Town of Louisa	054	Louisa County	0.17	54-1008 Cutler Ave	Dead End	220	R							X						04/21/2004
+751824	  54	01011	     	54-1011	Carter St	254	Town of Louisa	054	Louisa County	0.06	Dead End	54-1007 Lyde Ave	47	R							X						04/16/2004
+751825	  54	01012	     	54-1012	Pinehurst Dr	254	Town of Louisa	054	Louisa County	0.12	54-1008 Cutler Ave	Dead End	80	R							X						04/21/2004
+751826	  54	01013	     	54-1013	Sims Ave	254	Town of Louisa	054	Louisa County	0.07	54-1008 Cutler Ave	54-1016 Locust St	180	R							X						04/21/2004
+751827	  54	01013	     	54-1013	Sims Ave	254	Town of Louisa	054	Louisa County	0.05	54-1016 Locust St	Dead End	30	R							X						04/21/2004
+751828	  54	01014	     	54-1014	School St	254	Town of Louisa	054	Louisa County	0.14	54-628 Fredericksburg Ave	54-1001 Church Ave	210	R							X						04/22/2004
+751829	  54	01015	     	54-1015	Cammack St	254	Town of Louisa	054	Louisa County	0.04	Dead End	54-1002 South St	250	R							X						04/20/2004
+751830	  54	01016	     	54-1016	Locust St	254	Town of Louisa	054	Louisa County	0.07	Dead End	54-1013 Sims Ave	110	R							X						04/21/2004
+751836	  54	01020	     	54-1020	Club Rd	254	Town of Louisa	054	Louisa County	0.35	54-1022 Fairway Dr	54-1021 Barnstormer Circle	450	R							X						05/21/2007
+751837	  54	01020	     	54-1020	Club Rd	254	Town of Louisa	054	Louisa County	0.30	54-1021 Barnstormer Circle	US 33 Jefferson Hwy	1000	R							X						04/16/2004
+751838	  54	01021	     	54-1021	Barnstormer Circle	254	Town of Louisa	054	Louisa County	0.13	54-1020 Club Rd	Cul-de-Sac	60	R							X						05/21/2007
+751839	  54	01022	     	54-1022	Fairway Dr	254	Town of Louisa	054	Louisa County	0.29	Dead End	54-1023 Woodger Circle	100	R							X						05/21/2007
+751840	  54	01022	     	54-1022	Fairway Dr	254	Town of Louisa	054	Louisa County	0.14	54-1023 Woodger Circle	54-1020 Club Rd	330	R							X						05/21/2007
+751841	  54	01023	     	54-1023	Woodger Circle	254	Town of Louisa	054	Louisa County	0.36	54-1022 Fairway Dr	Cul-de-Sac	170	R							X						05/21/2007
+751842	  54	01024	     	54-1024	Lyde Ave	254	Town of Louisa	054	Louisa County	0.10	54-1007 Lyde Ave	Dead End	1100	R							X						04/16/2004
+794061	  54	01046	     	54-1046	Pine Ridge Dr	254	Town of Louisa	054	Louisa County	0.35	Dead End	US 33 Jefferson Hwy	0	?							X
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

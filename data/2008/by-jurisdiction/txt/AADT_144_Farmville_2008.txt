@@ -1,0 +1,68 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Farmville																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+030476	C5US	00015	     	Bus US 15	S Main St	144	Town of Farmville	144	Town of Farmville	0.52	SCL Farmville	Belmont Circle	18000	F	98%	0%	1%	1%	1%	0%	F	0.0897	F	0.0000	20000	F	2008
+629005	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.62	Belmont Circle	Milnwood Rd	20000	F	98%	0%	1%	1%	1%	0%	C				22000	F	2008
+629006	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.13	Milnwood Rd	Gilliam St	17000	F	97%	0%	1%	1%	1%	0%	F				19000	F	2008
+629007	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.30	Gilliam St	Griffin Blvd	16000	F	97%	0%	1%	1%	1%	0%	F				18000	F	2008
+629008	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.16	Griffin Blvd	Gross St	11000	F	97%	0%	1%	1%	1%	0%	F				12000	F	2008
+629009	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.41	Gross St	Putney St	10000	F	97%	0%	1%	1%	1%	0%	F				11000	F	2008
+629010	C5US	00015	     	Bus US 15	Main St	144	Town of Farmville	144	Town of Farmville	0.21	Putney St	High Street	8700	F	97%	0%	1%	1%	1%	0%	C	0.0832	F	0.0000	9500	F	2008
+629011	C5US	00015	     	Bus US 15	High St	144	Town of Farmville	144	Town of Farmville	0.07	Main Street	Venable Street	4700	F	97%	0%	1%	1%	1%	0%	F	0.0851	F	0.5726	5100	F	2008
+629012	C5US	00015	     	Bus US 15	High St	144	Town of Farmville	144	Town of Farmville	0.29	Venable Street	Oak Street	6900	F	97%	0%	1%	0%	1%	0%	F	0.0933	F	0.5043	7500	F	2008
+629013	C5US	00015	     	Bus US 15	Oak St	144	Town of Farmville	144	Town of Farmville	0.28	High St	Third St	6100	F	97%	0%	1%	0%	1%	0%	F	0.0831	F	0.5746	6600	F	2008
+629014	C5US	00015	     	Bus US 15, Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	1.29	Oak Street	Industrial Park Rd	9300	F	97%	0%	1%	0%	1%	0%	C				9900	F	2008
+629015	C5US	00015	     	Bus US 15, Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	0.94	Industrial Park Rd	73-695, WCL Farmville	7400	F	97%	0%	1%	1%	1%	0%	F	0.0843	F	0.5579	7800	F	2008
+629026	  SR	00045	     	VA 45	Main St	144	Town of Farmville	144	Town of Farmville	0.10	BUS US 15; High Street	BUS US 460; Third St	7700	F	97%	1%	1%	1%	1%	0%	F	0.0837	F	0.0000	8400	F	2008
+629027	  SR	00045	     	VA 45	Main St	144	Town of Farmville	144	Town of Farmville	0.40	BUS US 460; Third St	River Rd	9700	F	97%	1%	1%	1%	1%	0%	C	0.0940	F	0.0000	11000	F	2008
+629028	  SR	00045	     	VA 45	Main St	144	Town of Farmville	144	Town of Farmville	0.18	River Rd	Osborne Rd	7300	F	97%	1%	1%	1%	1%	0%	F	0.0817	F	0.0000	8000	F	2008
+629029	  SR	00045	     	VA 45	Main  St	144	Town of Farmville	144	Town of Farmville	0.73	Osborne Rd	NCL Farmville	6100	F	96%	0%	1%	1%	1%	0%	C	0.0938	F	0.0000	6700	F	2008
+629015	CDUS	00460	     	Bus US 15, Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	0.94	73-695, WCL Farmville	Industrial Park Rd	7400	F	97%	0%	1%	1%	1%	0%	F	0.0843	F	0.5579	7800	F	2008	
+629014	CDUS	00460	     	Bus US 15, Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	1.29	Industrial Park Rd	RT 15 BUS	9300	F	97%	0%	1%	0%	1%	0%	C				9900	F	2008	
+629001	CDUS	00460	     	Bus US 460	Third St	144	Town of Farmville	144	Town of Farmville	0.67	BUS US 15; Oak St	SR 45; Main St	6500	F	97%	0%	1%	1%	1%	0%	F				7100	F	2008
+629002	CDUS	00460	     	Bus US 460	3rd St	144	Town of Farmville	144	Town of Farmville	0.17	SR 45; Main St	Virginia St	11000	F	94%	1%	3%	1%	1%	0%	C				12000	F	2008
+629003	CDUS	00460	     	Bus US 460	3rd St	144	Town of Farmville	144	Town of Farmville	1.22	Virginia St	Milnwood Rd	8800	F	94%	1%	3%	1%	1%	0%	F				9600	F	2008
+629004	CDUS	00460	     	Bus US 460	3rd St	144	Town of Farmville	144	Town of Farmville	0.89	Milnwood Rd	ECL Farmville	7100	F	97%	0%	1%	1%	1%	0%	F				7800	F	2008
+629021	 144	00001	     	144-1	Industrial Park Dr	144	Town of Farmville	144	Town of Farmville	0.36	US 15 Third St	73-753 Weavexx Rd	1700	F	97%	1%	1%	0%	1%	0%	C	0.1317	F	0.0000	1900	F	2008
+629022	 144	00001	     	144-1	Industrial Park Dr	144	Town of Farmville	144	Town of Farmville	0.74	73-753 Weavexx Rd	0.74 MI N OF 73-753 Weavexx Rd	780	F	97%	1%	1%	0%	1%	0%	C	0.1040	F	0.5196	850	F	2008
+629034	 144	00002	     	144-2	2nd St	144	Town of Farmville	144	Town of Farmville	0.13	North St	South St	2000	F	98%	1%	1%	0%	0%	0%	C	0.0988	F	0.5540	2100	F	2008
+629032	 144	00004	     	144-4	North St	144	Town of Farmville	144	Town of Farmville	0.11	High St	Bus US 15, Bus US 460 Third St	2100	F	98%	0%	1%	1%	0%	0%	C	0.0994	F	0.6608	2300	F	2008
+629033	 144	00004	     	144-4	North St	144	Town of Farmville	144	Town of Farmville	0.08	Bus US 15, Bus US 460 Third St	Second St	2500	F	98%	0%	1%	0%	0%	0%	C	0.1084	F	0.5658	2700	F	2008
+629038	 144	00005	     	144-5	South St	144	Town of Farmville	144	Town of Farmville	0.12	4th St	Bus US 460 3rd St	1500	F	97%	0%	2%	0%	0%	0%	C	0.1079	F	0.5398	1600	F	2008
+629037	 144	00005	     	144-5	South St	144	Town of Farmville	144	Town of Farmville	0.09	Bus US 460 3rd St	2nd St	1100	F	98%	0%	1%	0%	0%	0%	C	0.1174	F	0.5570	1200	F	2008
+629018	 144	03851	     	144-3851	Griffin Blvd	144	Town of Farmville	144	Town of Farmville	0.79	Main St	High St	7700	F	98%	0%	2%	0%	0%	0%	C	0.0894	F	0.0000	8400	F	2008
+629019	 144	03852	     	144-3852	High St	144	Town of Farmville	144	Town of Farmville	0.62	WCL Farmville	4Th Ave	2000	F	98%	0%	1%	1%	0%	0%	F	0.1137	F	0.5738	2100	F	2008
+629020	 144	03852	     	144-3852	High St	144	Town of Farmville	144	Town of Farmville	0.38	4Th Ave	Oak St	2500	F	98%	0%	1%	1%	0%	0%	C	0.1067	F	0.6167	2700	F	2008
+629040	 144	03853	     	144-3853	Virginia St	144	Town of Farmville	144	Town of Farmville	0.27	Church St	Longwood Ave	2400	F	98%	0%	1%	0%	0%	0%	C	0.1039	F	0.5146	2600	F	2008
+629041	 144	03853	     	144-3853	Virginia St	144	Town of Farmville	144	Town of Farmville	0.10	Longwood Ave	Third St	3000	F	98%	0%	1%	0%	0%	0%	F	0.1082	F	0.5335	3300	F	2008
+629016	 144	03854	     	144-3854	Barrow St	144	Town of Farmville	144	Town of Farmville	0.13	First Avenue	Griffin Blvd	860	F	97%	1%	2%	0%	1%	0%	C	0.1038	F	0.6000	930	F	2008
+629017	 144	03856	     	144-3856	Gilliam Dr	144	Town of Farmville	144	Town of Farmville	0.23	4Th Ave	Main St	840	F	99%	0%	1%	0%	0%	0%	C	0.0974	F	0.5532	910	F	2008
+629039	 144	03857	     	144-3857	Venable St	144	Town of Farmville	144	Town of Farmville	0.18	High St	Main St	1600	F	99%	0%	1%	0%	0%	0%	C	0.1062	F	1.0000	1700	F	2008
+629030	 144	03860	     	144-3860	Milnwood Rd	144	Town of Farmville	144	Town of Farmville	1.52	Bus US 15 Main St	Bus US 460 Third St	5600	F	98%	0%	1%	0%	0%	0%	C	0.0975	F	0.0000	6000	F	2008
+629031	 144	03860	     	144-3860	Persimmon Tree Fork Rd	144	Town of Farmville	144	Town of Farmville	0.47	Bus US 460 Third St	73-638 ECL Farmville	600	F	96%	1%	2%	0%	1%	0%	C	0.0933	F	0.7385	650	F	2008
+629035	 144	03862	     	144-3862	Plank Rd	144	Town of Farmville	144	Town of Farmville	0.58	WCL Farmville	Main St	1800	F	97%	1%	1%	1%	1%	0%	C	0.1014	F	0.5598	2000	F	2008
+629036	 144	03862	     	144-3862	River Rd	144	Town of Farmville	144	Town of Farmville	0.55	Main St	ECL Farmville	710	F	98%	0%	1%	0%	0%	0%	C	0.0992	F	0.6753	780	F	2008
+629023	 144	03864	     	144-3864	4th St	144	Town of Farmville	144	Town of Farmville	0.16	Bus US 15 South Main St	Virginia St	2200	F	98%	0%	1%	0%	0%	0%	C	0.1005	F	0.5447	2400	F	2008
+629024	 144	03864	     	144-3864	Longwood Ave	144	Town of Farmville	144	Town of Farmville	0.55	Virginia St	Cedar Ave	1800	F	98%	0%	1%	0%	0%	0%	F	0.1149	F	0.6265	1900	F	2008
+629025	 144	03864	     	144-3864	Longwood Ave	144	Town of Farmville	144	Town of Farmville	0.49	Cedar Ave	Bus US 460 Third St	2100	F	98%	0%	1%	0%	0%	0%	C	0.1286	F	0.0000	2300	F	2008
+529011	 144	00000	     	144-0	1st Avenue	144	Town of Farmville	144	Town of Farmville	0.00	School St	Franklin St	620	F							X	0.1055	F	0.6107	680	F	2008
+529009	 144	00000	     	144-0	4th Avenue	144	Town of Farmville	144	Town of Farmville	0.00	School St	Fayette St	80	F							X	0.1638	F	0.5172	90	F	2008
+529002	 144	00000	     	144-0	Agee St	144	Town of Farmville	144	Town of Farmville	0.00	Cobb St	West Third St	940	F							X	0.1164	F	0.5771	1000	F	2008
+529005	 144	00000	     	144-0	Bizarre St	144	Town of Farmville	144	Town of Farmville	0.00	Georgia St	Jefferson St	140	F							X	0.1254	F	0.7619	150	F	2008
+529001	 144	00000	     	144-0	Cobb St	144	Town of Farmville	144	Town of Farmville	0.00	Agee St	Holman St	70	F							X	0.1875	F	0.5000	80	F	2008
+529012	 144	00000	     	144-0	Edmund St	144	Town of Farmville	144	Town of Farmville	0.00	Hill St	Griffin Blvd	130	F							X	0.1547	F	0.7963	140	F	2008
+529007	 144	00000	     	144-0	Georgia St	144	Town of Farmville	144	Town of Farmville	0.00	Stepney St	Monroe St	80	F							X	0.1798	F	0.9688	90	F	2008
+529003	 144	00000	     	144-0	Holman St	144	Town of Farmville	144	Town of Farmville	0.00	Cobb St	West Third St	220	F							X	0.1178	F	0.6866	240	F	2008
+529016	 144	00000	     	144-0	Hylawn Ave	144	Town of Farmville	144	Town of Farmville	0.00	Gum St	ECL Farmville	340	F							X	0.1193	F	0.6522	370	F	2008
+529004	 144	00000	     	144-0	Monroe St	144	Town of Farmville	144	Town of Farmville	0.00	Georgia St	Maryland St	160	F							X	0.1253	F	0.6087	180	F	2008
+529006	 144	00000	     	144-0	Osborne Rd	144	Town of Farmville	144	Town of Farmville	0.00	Main St	Jefferson St	570	F							X	0.1051	F	0.5940	610	F	2008
+529013	 144	00000	     	144-0	Park Ave	144	Town of Farmville	144	Town of Farmville	0.00	Watson St	Serpell St	140	F							X	0.1323	F	0.5814	150	F	2008
+529014	 144	00000	     	144-0	Richardson St	144	Town of Farmville	144	Town of Farmville	0.00	Watson St	Glenn St	30	F							X	0.3590	F	0.8571	30	F	2008
+529008	 144	00000	     	144-0	School St	144	Town of Farmville	144	Town of Farmville	0.00	4th Ave	3rd Ave	46	F							X	0.2500	F	0.5926	50	F	2008
+529015	 144	00000	     	144-0	Vaughan St	144	Town of Farmville	144	Town of Farmville	0.00	Longwood Ave	Third St	730	F							X	0.0998	F	0.0000	790	F	2008
+529010	 144	00000	     	144-0	Watkins St	144	Town of Farmville	144	Town of Farmville	0.00	Chambers St	Redford St	110	F							X	0.1417	F	0.6667	120	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

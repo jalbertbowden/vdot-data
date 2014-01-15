@@ -1,0 +1,661 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Northumberland Maintenance Area																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+060274	  SR	00200	     	VA 200	Jesse DuPont Memorial Hwy	066	Northumberland County	066	Northumberland County	5.09	Lancaster County Line	66-609 Remo Rd; Browns Store Rd	4900	F	96%	0%	1%	1%	1%	0%	F	0.0882	F	0.6724	5300	F	2008
+060273	  SR	00200	     	VA 200	Jesse DuPont Memorial Hwy	066	Northumberland County	066	Northumberland County	5.09	66-609 Remo Rd; Browns Store Rd	US 360 Burgess P O	4800	F	96%	0%	1%	1%	1%	0%	C	0.0897	F	0.0000	5200	F	2008
+160079	  SR	00201	     	VA 201	Courthouse Rd	066	Northumberland County	066	Northumberland County	6.92	Lancaster County Line	US 360 Northumberland Hwy	1700	F	97%	0%	1%	1%	0%	0%	F	0.0898	F	0.5030	1900	F	2008
+060276	  SR	00202	     	VA 202	Hampton Hall Rd	066	Northumberland County	066	Northumberland County	3.52	Westmoreland County Line	US 360 Callao	2900	F	93%	0%	2%	1%	4%	0%	C	0.0859	F	0.0000	3100	F	2008
+060281	  US	00360	     	US 360	Richmond Rd	066	Northumberland County	066	Northumberland County	3.19	Richmond County Line	SR 202 Hampton Hall Rd	5500	F	95%	0%	1%	1%	3%	0%	F				5900	F	2008
+060280	  US	00360	     	US 360	Northumberland Hwy	066	Northumberland County	066	Northumberland County	0.39	SR 202 Hampton Hall Rd	66-750 Supply Lane	7100	F	95%	0%	1%	1%	2%	0%	F	0.0841	F	0.0000	7600	F	2008
+060279	  US	00360	     	US 360	Northumberland Hwy	066	Northumberland County	066	Northumberland County	6.74	66-750 Supply Lane	SR 201 Courthouse Rd	6900	G	95%	0%	1%	1%	2%	0%	F				7100	G	2008
+060278	  US	00360	     	US 360	Northumberland Hwy	066	Northumberland County	066	Northumberland County	7.91	SR 201 Courthouse Rd	SR 200 Jesse DuPont Memorial Hwy	4400	F	95%	0%	1%	1%	2%	0%	C	0.0862	F	0.0000	4700	F	2008
+060277	  US	00360	     	US 360	Northumberland Hwy	066	Northumberland County	066	Northumberland County	3.05	SR 200 Jesse DuPont Memorial Hwy	66-646 E, Fairport Rd	4800	F	95%	0%	1%	1%	2%	0%	F				5200	F	2008
+060042	  US	00360	     	US 360	Northumberland Hwy	066	Northumberland County	066	Northumberland County	2.14	66-646 E, Fairport Rd	66-657 Fleeton Rd	2900	F	95%	0%	1%	1%	2%	0%	F	0.0831	F	0.5434	3100	F	2008
+060386	  US	00360	     	US 360	Main St	066	Northumberland County	066	Northumberland County	0.45	66-657 Fleeton Rd	66-644 Reed Ave; Main Street	1000	F	95%	0%	1%	1%	2%	0%	F	0.1102	F	0.5157	1100	F	2008
+785733	  51	00603	     	51-603	Chestnut Grove Rd	066	Northumberland County	051	Lancaster County	0.01	Northumberland Co Line	51-615 W, Beanes Rd	130	N							X				0	N	07/18/2005
+785876	  51	00615	     	51-615	Beanes Rd	066	Northumberland County	051	Lancaster County	0.20	SR 201 Court House Rd	Lancaster Co Line	590	N	97%	1%	1%	0%	1%	0%	N	0.1041	N	0.5000	630	N	2008
+785865	  51	00615	     	51-615	Beanes Rd	066	Northumberland County	051	Lancaster County	0.07	Lancaster Co Line	Lancaster Co Line	590	N	97%	1%	1%	0%	1%	0%	N	0.1041	N	0.5000	630	N	2008
+785867	  51	00615	     	51-615	Beanes Rd	066	Northumberland County	051	Lancaster County	0.26	Lancaster Co Line	Lancaster Co Line	590	N	97%	1%	1%	0%	1%	0%	N	0.1041	N	0.5000	630	N	2008
+785869	  51	00615	     	51-615	Beanes Rd	066	Northumberland County	051	Lancaster County	0.13	Lancaster Co Line	Lancaster Co Line	590	N	97%	1%	1%	0%	1%	0%	N	0.1041	N	0.5000	630	N	2008
+785870	  51	00615	     	51-615	Beanes Rd	066	Northumberland County	051	Lancaster County	0.02	Lancaster Co Line	66-609 Browns Store Rd	590	N	97%	1%	1%	0%	1%	0%	N	0.1041	N	0.5000	630	N	2008
+303791	  51	00615	     	51-615	Crawfords Corner Rd	066	Northumberland County	051	Lancaster County	0.05	66-609 Browns Store Rd	Lancaster County Line	560	N	97%	1%	1%	0%	1%	0%	N	0.1123	N	0.5766	600	N	2008
+302206	  66	00600	     	66-600	Ridge Rd	066	Northumberland County	066	Northumberland County	1.10	66-604 Dodlyt Rd	66-612 Oakland Rd	750	F	95%	1%	1%	1%	2%	0%	F	0.0958	F	0.6687	800	F	2008
+302207	  66	00600	     	66-600	Ridge Rd	066	Northumberland County	066	Northumberland County	0.90	66-612 Oakland Rd	66-614 Walmsley Rd	1200	F	95%	1%	1%	1%	2%	0%	F	0.0933	F	0.7724	1200	F	2008
+302208	  66	00600	     	66-600	Ridge Rd	066	Northumberland County	066	Northumberland County	2.69	66-614 Walmsley Rd	US 360 E, Richmond Rd	1200	F	95%	1%	1%	1%	2%	0%	C	0.1018	F	0.6336	1300	F	2008
+302209	  66	00600	     	66-600	Gibeon Rd	066	Northumberland County	066	Northumberland County	0.10	US 360 W, Richmond Rd	66-617 Lively Hope Rd	1500	F	97%	1%	1%	0%	1%	0%	F	0.1010	F	0.6235	1600	F	2008
+302210	  66	00600	     	66-600	Gibeon Rd	066	Northumberland County	066	Northumberland County	1.60	66-617 Lively Hope Rd	66-618 N, Fruit Plain Rd	720	F	97%	1%	1%	0%	1%	0%	C	0.0992	F	0.5366	770	F	2008
+756765	  66	00600	     	66-600	Gibeon Rd	066	Northumberland County	066	Northumberland County	0.70	66-618 N, Fruit Plain Rd	66-790 Lone Walnut Rd	460	R							X						03/18/2008
+756766	  66	00600	     	66-600	Gibeon Rd	066	Northumberland County	066	Northumberland County	0.20	66-790 Lone Walnut Rd	Westmoreland County Line	250	R							X						03/18/2008
+756767	  66	00601	     	66-601	Bunker Hill Rd	066	Northumberland County	066	Northumberland County	1.40	Lancaster County Line	66-611 E, Gilliams Rd	20	R							X						03/20/2008
+756768	  66	00601	     	66-601	Gilliams Rd	066	Northumberland County	066	Northumberland County	0.70	66-611 E, Gilliams Rd	66-611 W, Lara Ridge Rd	9	R							X						03/20/2008
+756769	  66	00601	     	66-601	Dodlyt Rd & Bush Mill Rd	066	Northumberland County	066	Northumberland County	4.70	66-611 W, Lara Ridge Rd	US 360 W, Northumberland Hwy	310	R							X						03/20/2008
+756770	  66	00601	     	66-601	Rowes Landing Rd	066	Northumberland County	066	Northumberland County	1.10	US 360 E, Northumberland Hwy	Dead End	80	R							X						03/24/2008
+756771	  66	00602	     	66-602	Eagle Point Rd	066	Northumberland County	066	Northumberland County	1.00	66-610 Sampsons Wharf Rd	Dead End	150	R							X						05/02/2005
+785735	  66	00603	     	66-603	 	051	Lancaster County	066	Northumberland County	0.04	51-615 E, Beanes Rd	Northumberland County Line	190	R							X						04/03/2005
+756772	  66	00603	     	66-603	Georgetown Rd	066	Northumberland County	066	Northumberland County	3.10	Lancaster County Line	66-642 Knights Run Rd	100	R							X						03/24/2008
+756773	  66	00603	     	66-603	Mallard Bay Dr	066	Northumberland County	066	Northumberland County	0.82	66-642 Knights Run Rd	Road	150	R							X						03/24/2008
+756774	  66	00604	     	66-604	Dodlyt Rd	066	Northumberland County	066	Northumberland County	2.60	66-600; 79-600	66-601 N, Dodlyt Rd & Bush Mill Rd	320	R							X						03/31/2005
+756775	  66	00604	     	66-604	Hazard Rd	066	Northumberland County	066	Northumberland County	1.80	66-601 S, Dodlyt Rd & Bush Mill Rd	SR 201 N, Courthouse Rd	150	R							X						03/31/2005
+302211	  66	00604	     	66-604	Indian Valley Rd	066	Northumberland County	066	Northumberland County	2.78	SR-201 S, Courthouse Rd	US 360 S, Northumberland Hwy	390	F	97%	0%	2%	0%	1%	0%	C	0.1074	F	0.5556	410	F	2008
+756776	  66	00604	     	66-604	Sydnors Millpond Rd	066	Northumberland County	066	Northumberland County	4.00	US 360 N, Northumberland Hwy	66-640 S, Hull Neck Rd	410	R							X						04/18/2005
+756777	  66	00604	     	66-604	Mob Neck Rd	066	Northumberland County	066	Northumberland County	2.55	66-640 N, Hull Neck Rd	66-740 Greenwood Beach Rd	420	R							X						04/13/2005
+756778	  66	00604	     	66-604	Mob Neck Rd	066	Northumberland County	066	Northumberland County	0.94	66-740 Greenwood Beach Rd	66-1220 Cubitt Creek Rd	190	R							X						04/13/2005
+756779	  66	00604	     	66-604	Mob Neck Rd	066	Northumberland County	066	Northumberland County	0.11	66-1220 Cubitt Creek Rd	66-1222 Fleet Rd	50	R							X						04/13/2005
+756780	  66	00604	     	66-604	Mob Neck Rd	066	Northumberland County	066	Northumberland County	0.06	66-1222 Fleet Rd	66-1221 Riverview Rd	20	R							X						04/13/2005
+302212	  66	00605	     	66-605	Mt Olive Rd	066	Northumberland County	066	Northumberland County	1.60	51-615 Lancaster County Line	SR 200 Jesse DuPont Mem Hwy	360	F	93%	1%	1%	5%	1%	0%	C	0.1103	F	0.6222	380	F	2008
+756781	  66	00605	     	66-605	Mt Olive Rd	066	Northumberland County	066	Northumberland County	1.25	SR 200 Jesse DuPont Mem Hwy	66-669 W, Waddys Rd	170	R							X						04/09/2008
+756782	  66	00605	     	66-605	Mt Olive Rd	066	Northumberland County	066	Northumberland County	5.08	66-669 W, Waddys Rd	Dead End	150	R							X						04/09/2008
+756783	  66	00606	     	66-606	Shiloh School Rd	066	Northumberland County	066	Northumberland County	0.60	SR 200 Lancaster County Line	66-669 Waddys Rd	340	R							X						05/19/2008
+756784	  66	00606	     	66-606	Shiloh School Rd	066	Northumberland County	066	Northumberland County	1.50	66-669 Waddys Rd	66-605 S, Mt Olive Rd	260	R							X						05/19/2008
+756785	  66	00606	     	66-606	Cloverdale Rd	066	Northumberland County	066	Northumberland County	0.65	66-605 N, Mt Olive Rd	Dead End	30	R							X						04/09/2008
+302213	  66	00607	     	66-607	Ditchley Rd	051	Lancaster County	066	Northumberland County	0.04	SR 200, East Church St	Northumberland County Line	850	F	99%	0%	1%	0%	0%	0%	F	0.0934	F	0.5607	910	F	2008
+302214	  66	00607	     	66-607	Ditchley Rd	066	Northumberland County	066	Northumberland County	1.16	Lancaster County Line	66-669 E, Prentice Creek Rd	540	F	99%	0%	1%	0%	0%	0%	C	0.1000	F	0.5172	580	F	2008
+756786	  66	00607	     	66-607	Ditchley Rd	066	Northumberland County	066	Northumberland County	1.10	66-669 E; 66-725	Dead End	260	R							X						04/09/2008
+302215	  66	00608	     	66-608	Bluff Point Rd	066	Northumberland County	066	Northumberland County	2.19	SR 200, East Church St	66-669 E, Bluff Point Rd; Prentice Creek Rd	1900	F	96%	0%	1%	3%	0%	0%	C	0.0919	F	0.6114	2000	F	2008
+756787	  66	00608	     	66-608	Jarvis Point Rd	066	Northumberland County	066	Northumberland County	1.50	66-669 S, Bluff Point Rd	Dead End	60	R							X						03/07/2005
+302216	  66	00609	     	66-609	Browns Store Rd	066	Northumberland County	066	Northumberland County	2.48	51-615 Crawfords Corner Rd	SR 200 Jesse DuPont Mem Hwy	1200	F	97%	0%	1%	1%	1%	0%	C	0.0940	F	0.5085	1300	F	2008
+302217	  66	00609	     	66-609	Remo Rd	066	Northumberland County	066	Northumberland County	1.45	SR 200 Jesse DuPont Mem Hwy	66-665 W, Mila Rd	2000	F	98%	0%	1%	1%	1%	0%	C	0.0816	F	0.6364	2100	F	2008
+302218	  66	00609	     	66-609	Remo Rd	066	Northumberland County	066	Northumberland County	0.82	66-665 W, Mila Rd	66-665 E, Millpoint Dr	640	F	98%	0%	1%	1%	1%	0%	F	0.0902	F	0.5116	680	F	2008
+756788	  66	00609	     	66-609	Remo Rd	066	Northumberland County	066	Northumberland County	1.55	66-665 E, Millpoint Dr	66-1010 Skipjack Dr	590	R							X						05/19/2008
+756789	  66	00609	     	66-609	Harveys Neck Rd	066	Northumberland County	066	Northumberland County	0.50	66-1010 Skipjack Dr	66-1031 Ingram Bay Dr	150	R							X						05/19/2008
+302219	  66	00610	     	66-610	Light St	066	Northumberland County	066	Northumberland County	1.30	Lancaster County Line; 51-615	66-642 Knights Run Rd	1000	F	98%	0%	1%	1%	1%	0%	C	0.0900	F	0.6346	1100	F	2008
+756790	  66	00610	     	66-610	Sampsons Wharf Rd	066	Northumberland County	066	Northumberland County	1.10	66-642 Knights Run Rd	66-748 Locust Grove Lane	400	R							X						03/24/2008
+756791	  66	00610	     	66-610	Sampsons Wharf Rd	066	Northumberland County	066	Northumberland County	0.50	66-748 Locust Grove Lane	66-602 Eagle Point Rd	180	R							X						03/24/2008
+756792	  66	00610	     	66-610	Sampsons Wharf Rd	066	Northumberland County	066	Northumberland County	0.70	66-602 Eagle Point Rd	Dead End	48	R							X						03/24/2008
+756793	  66	00611	     	66-611	Lara Ridge Rd	066	Northumberland County	066	Northumberland County	1.20	79-600 Ridge Rd	66-601 W; Dodlyt Rd & Bush Mill Rd; Gilliams Rd	120	R							X						03/20/2008
+756794	  66	00611	     	66-611	Gilliams Rd	066	Northumberland County	066	Northumberland County	1.80	66-601 E; Gilliams Rd; Bunker Hill Rd	SR 201 Courthouse Rd	20	R							X						03/20/2008
+756795	  66	00612	     	66-612	Coan Stage Rd	066	Northumberland County	066	Northumberland County	3.10	66-600 Richmond County Line	US 360 Northumberland Hwy	490	R							X						03/18/2008
+756796	  66	00612	     	66-612	Forrest Landing Rd	066	Northumberland County	066	Northumberland County	0.16	US 360 Northumberland Hwy	Future 66- 824	170	R							X						03/27/2008
+756797	  66	00612	     	66-612	Forrest Landing Rd	066	Northumberland County	066	Northumberland County	0.31	Future 66- 824	66-613 Mill Wood Lane	150	R							X						03/27/2008
+756798	  66	00612	     	66-612	Forrest Landing Rd	066	Northumberland County	066	Northumberland County	0.60	66-613 Mill Wood Lane	0.60 ME 66-613 Mill Wood Lane	60	R							X						03/27/2008
+756799	  66	00612	     	66-612	Forrest Landing Rd	066	Northumberland County	066	Northumberland County	0.20	0.60 ME 66-613 Mill Wood Lane	Dead End	20	R							X						03/27/2008
+756800	  66	00613	     	66-613	Mill Wood Lane	066	Northumberland County	066	Northumberland County	0.60	66-612 Forrest Landing Rd	Dead End	30	R							X						03/27/2008
+302220	  66	00614	     	66-614	Walmsley Rd	066	Northumberland County	066	Northumberland County	2.99	66-600 Ridge Rd	US 360 S, Northumberland Hwy	590	F	98%	0%	0%	1%	0%	0%	C	0.1175	F	0.5930	630	F	2008
+302221	  66	00614	     	66-614	Lake Rd	066	Northumberland County	066	Northumberland County	1.30	US 360 N, Northumberland Hwy	66-629 N, Bundick Rd	1400	F	97%	1%	1%	1%	1%	0%	C	0.0859	F	0.5758	1500	F	2008
+302222	  66	00614	     	66-614	Lake Rd	066	Northumberland County	066	Northumberland County	1.01	66-629 N, Bundick Rd	66-627 S, Lake Landing Rd	770	F	97%	1%	1%	1%	1%	0%	F	0.1101	F	0.6229	820	F	2008
+756801	  66	00614	     	66-614	Lake Rd	066	Northumberland County	066	Northumberland County	0.20	66-627 S, Lake Landing Rd	66-627 N, Honest Point Rd	330	R							X						03/27/2008
+756802	  66	00614	     	66-614	Lake Rd	066	Northumberland County	066	Northumberland County	0.80	66-627 N, Honest Point Rd	Dead End	250	R							X						03/27/2008
+756803	  66	00616	     	66-616	Luttrellville Rd	066	Northumberland County	066	Northumberland County	0.39	66-600 Richmond County Line	US 360 Richmond Rd	670	R							X						03/20/2008
+302223	  66	00617	     	66-617	Lively Hope Rd	066	Northumberland County	066	Northumberland County	1.70	66-600 Gibeon Rd	66-619 S, Deer Run Rd	780	F	97%	0%	1%	1%	1%	0%	C	0.1041	F	0.5632	830	F	2008
+302224	  66	00617	     	66-617	Lively Hope Rd	066	Northumberland County	066	Northumberland County	1.30	66-619 S, Deer Run Rd	SR-202 S, Hampton Hall Rd	910	F	97%	0%	1%	1%	1%	0%	F	0.1045	F	0.5096	970	F	2008
+756804	  66	00617	     	66-617	Henderson Dr	066	Northumberland County	066	Northumberland County	0.20	SR 202 MID	SR 202 N, Hampton Hall Rd	40	R							X						03/18/2008
+756805	  66	00617	     	66-617	Gardys Mill Rd	066	Northumberland County	066	Northumberland County	1.10	SR 202 N, Hampton Hall Rd	Westmoreland County Line	370	R							X						03/18/2008
+756806	  66	00618	     	66-618	Fallintown Rd	066	Northumberland County	066	Northumberland County	0.50	Richmond County Line	66-600 S, Gibeon Rd	270	R							X						03/18/2008
+756807	  66	00618	     	66-618	Fruit Plain Rd	066	Northumberland County	066	Northumberland County	2.50	66-600 N, Gibeon Rd	66-617 Lively Hope Rd	220	R							X						03/18/2008
+756808	  66	00619	     	66-619	Valley Dr	066	Northumberland County	066	Northumberland County	1.20	66-618 Fruit Plain Rd	66-617 N, Lively Hope Rd	220	R							X						03/18/2008
+756809	  66	00619	     	66-619	Deer Run Rd	066	Northumberland County	066	Northumberland County	0.90	66-617 S, Lively Hope Rd	SR 202 Hampton Hall Rd	270	R							X						03/18/2008
+756810	  66	00620	     	66-620	Kissinger Spring Rd	066	Northumberland County	066	Northumberland County	1.50	66-622 Harry Hogan Rd	66-621 S, Mundy Point Rd	210	R							X						04/02/2008
+756811	  66	00620	     	66-620	Hatches Ave	066	Northumberland County	066	Northumberland County	0.95	66-621 N, Mundy Point Rd	66-724 Wilkins Creek Lane	180	R							X						04/02/2008
+756812	  66	00620	     	66-620	Hatches Ave	066	Northumberland County	066	Northumberland County	0.05	66-724 Wilkins Creek Lane	Dead End	30	R							X						04/02/2008
+302225	  66	00621	     	66-621	Mundy Point Rd	066	Northumberland County	066	Northumberland County	3.07	SR 202 Hampton Hall Rd	Dead End	440	F	97%	0%	1%	0%	2%	0%	C	0.0987	F	0.5217	470	F	2008
+302226	  66	00622	     	66-622	Harry Hogan Rd	066	Northumberland County	066	Northumberland County	0.85	66-712 Lodge Rd; Harry Hogan Rd	66-620 Kissinger Springs Rd	440	F	100%	0%	0%	0%	0%	0%	C	0.1023	F	0.6038	470	F	2008
+302227	  66	00622	     	66-622	Harry Hogan Rd	066	Northumberland County	066	Northumberland County	1.80	66-620 Kissinger Springs Rd	Dead End	270	F	100%	0%	0%	0%	0%	0%	F	0.1230	F	0.7067	280	F	2008
+756813	  66	00623	     	66-623	Melrose Rd	066	Northumberland County	066	Northumberland County	1.50	66-624 Lewisetta Rd	Dead End	290	R							X						04/02/2008
+302228	  66	00624	     	66-624	Lewisetta Rd	066	Northumberland County	066	Northumberland County	1.30	US 360 Northumberland Hwy	66-623 Melrose Rd	1700	F	97%	1%	1%	1%	1%	0%	C	0.0774	F	0.5646	1800	F	2008
+302229	  66	00624	     	66-624	Lewisetta Rd	066	Northumberland County	066	Northumberland County	2.70	66-623 Melrose Rd	66-625 Cowart Rd	1100	F	97%	1%	1%	1%	1%	0%	F	0.0873	F	0.5953	1200	F	2008
+302230	  66	00624	     	66-624	Lewisetta Rd	066	Northumberland County	066	Northumberland County	1.98	66-625 Cowart Rd	Begin Loop	350	F	97%	1%	1%	1%	1%	0%	F	0.1046	F	0.6118	380	F	2008
+302231	  66	00624	     	66-624	River Rd	066	Northumberland County	066	Northumberland County	0.90	Begin Loop	End Loop	80	F	97%	1%	1%	1%	1%	0%	F	0.1905	F	0.5278	90	F	2008
+756814	  66	00625	     	66-625	Cowart Rd	066	Northumberland County	066	Northumberland County	0.65	66-624 Lewisetta Rd	66-742 Highland Point Rd	340	R							X						04/02/2008
+756815	  66	00625	     	66-625	Cowart Rd	066	Northumberland County	066	Northumberland County	1.05	66-742 Highland Point Rd	Dead End	140	R							X						04/02/2008
+756816	  66	00626	     	66-626	Glebe Rd	066	Northumberland County	066	Northumberland County	1.20	US 360 Northumberland Hwy	Dead End	200	R							X						03/27/2008
+756817	  66	00627	     	66-627	Honest Point Rd	066	Northumberland County	066	Northumberland County	0.46	Dead End	66-728 Killneck Lane	70	R							X						03/27/2008
+756818	  66	00627	     	66-627	Honest Point Rd	066	Northumberland County	066	Northumberland County	0.80	66-728 Killneck Lane	66-614 N, Lake Rd	100	R							X						03/27/2008
+756819	  66	00627	     	66-627	Lake Landing Rd	066	Northumberland County	066	Northumberland County	0.90	66-614 S, Lake Rd	66-685 Oyster Rd	380	R							X						03/27/2008
+756820	  66	00627	     	66-627	Lake Landing Rd	066	Northumberland County	066	Northumberland County	0.10	66-685 Oyster Rd	Dead End	200	R							X						03/27/2008
+756821	  66	00628	     	66-628	Coan Haven Rd	066	Northumberland County	066	Northumberland County	0.96	66-629 Bundick Rd	Dead End	100	R							X						03/27/2008
+756822	  66	00629	     	66-629	Coan Harbour Rd	066	Northumberland County	066	Northumberland County	0.15	Dead End	66-840 Sunrise Court	40	R							X						03/27/2008
+756823	  66	00629	     	66-629	Coan Harbour Rd	066	Northumberland County	066	Northumberland County	1.14	66-840 Sunrise Court	66-614 W, Lake Rd	290	R							X						03/27/2008
+756824	  66	00629	     	66-629	Bundick Rd	066	Northumberland County	066	Northumberland County	0.43	66-614 E, Lake Rd	66-628 Coan Haven Rd	270	R							X						03/27/2008
+756825	  66	00629	     	66-629	Bundick Rd	066	Northumberland County	066	Northumberland County	0.40	66-628 Coan Haven Rd	Bundick Ferry	130	R							X						03/27/2008
+756826	  66	00629	     	66-629	Coan Wharf Rd	066	Northumberland County	066	Northumberland County	1.70	Bundick Ferry	66-634 Mantua Rd; Spring Rd	120	R							X						04/30/2008
+756827	  66	00629	     	66-629	Coan Wharf Rd	066	Northumberland County	066	Northumberland County	0.90	66-634 Mantua Rd; Spring Rd	66-630 S, Walnut Point Rd	230	R							X						04/30/2008
+756828	  66	00629	     	66-629	Font Hill Rd	066	Northumberland County	066	Northumberland County	2.30	66-630 N, Walnut Point Rd	66-636 N, Newmans Neck Rd	230	R							X						05/05/2008
+756829	  66	00629	     	66-629	Hull Harbor Rd	066	Northumberland County	066	Northumberland County	0.80	66-636 S, Newmans Neck Rd	66-713 Stoney Rd	270	R							X						05/05/2008
+756830	  66	00629	     	66-629	Hull Harbor Rd	066	Northumberland County	066	Northumberland County	0.10	66-713 Stoney Rd	Dead End	150	R							X						05/05/2008
+302232	  66	00630	     	66-630	Walnut Point Rd	066	Northumberland County	066	Northumberland County	2.00	US 360 Northumberland Hwy	66-629 N, Font Hill Rd	730	F	97%	0%	1%	1%	1%	0%	C	0.0922	F	0.5405	780	F	2008
+756831	  66	00630	     	66-630	Walnut Point Rd	066	Northumberland County	066	Northumberland County	2.55	66-629 N, Font Hill Rd	66-791 Pine Point Dr	170	R							X						04/30/2008
+756832	  66	00630	     	66-630	Walnut Point Rd	066	Northumberland County	066	Northumberland County	0.75	66-791 Pine Point Dr	Dead End	30	R							X						04/30/2008
+756833	  66	00631	     	66-631	Clarketown Rd	066	Northumberland County	066	Northumberland County	1.30	66-630 Walnut Point Rd	66-691 Clarketown Rd	140	R							X						03/24/2005
+756834	  66	00631	     	66-631	Clarketown Rd	066	Northumberland County	066	Northumberland County	0.30	66-691 Clarketown Rd	Dead End	8	R							X						04/30/2008
+756835	  66	00632	     	66-632	Kingston Rd	066	Northumberland County	066	Northumberland County	1.00	US 360 Northumberland Hwy	Dead End	310	R							X						03/24/2008
+756836	  66	00633	     	66-633	Pole Thicket Rd	066	Northumberland County	066	Northumberland County	0.40	Dead End	66-614 Walmsley Rd	45	R							X						03/18/2008
+302233	  66	00634	     	66-634	Spring Rd	066	Northumberland County	066	Northumberland County	1.87	US 360 Northumberland Hwy	66-629 Coan Wharf Rd	250	F	99%	0%	0%	0%	0%	0%	C	0.1147	F	0.6563	270	F	2008
+756837	  66	00634	     	66-634	Mantua Rd	066	Northumberland County	066	Northumberland County	0.48	66-629 Coan Wharf Rd	66-789	70	R							X						03/24/2005
+756838	  66	00635	     	66-635	Sandy Beach Rd	066	Northumberland County	066	Northumberland County	1.45	66-636 Newmans Neck Rd	Dead End	200	R							X						05/05/2008
+756839	  66	00636	     	66-636	Avalon Lane	066	Northumberland County	066	Northumberland County	0.20	US 360 Northumberland Hwy	66-694 Avalon Lane	1700	R							X						05/05/2008
+756840	  66	00636	     	66-636	Newmans Neck Rd	066	Northumberland County	066	Northumberland County	2.40	66-694 Avalon Lane	66-629 N, Font Hill Rd	660	R							X						05/05/2008
+756841	  66	00636	     	66-636	Newmans Neck Rd	066	Northumberland County	066	Northumberland County	0.70	66-629 N, Font Hill Rd	66-635 Sandy Beach Rd	750	R							X						05/05/2008
+756842	  66	00636	     	66-636	Newmans Neck Rd	066	Northumberland County	066	Northumberland County	1.23	66-635 Sandy Beach Rd	66-836 Potomac Dr	140	R							X						05/05/2008
+756844	  66	00637	     	66-637	Betts Bottom	066	Northumberland County	066	Northumberland County	1.10	66-604 Sydnors Millpond Rd	66-636 Newmans Neck Rd	170	R							X						05/05/2008
+756845	  66	00638	     	66-638	Coan Church Rd	066	Northumberland County	066	Northumberland County	2.40	66-604 Dodlyt Rd	66-612 Coan Stage Rd	20	R							X						03/20/2008
+756846	  66	00639	     	66-639	Cedar Point Rd	066	Northumberland County	066	Northumberland County	0.46	Dead End	66-1210 Riverview Lane	30	R							X						03/24/2008
+756847	  66	00639	     	66-639	Cedar Point Rd	066	Northumberland County	066	Northumberland County	1.04	66-1210 Riverview Lane	US 360 Northumberland Hwy	270	R							X						03/24/2008
+756848	  66	00640	     	66-640	Pumpkin Hill Rd	066	Northumberland County	066	Northumberland County	1.40	Dead End	US 360 W, Northumberland Hwy	160	R							X						03/24/2008
+756849	  66	00640	     	66-640	Hull Neck Rd	066	Northumberland County	066	Northumberland County	1.50	US 360 E, Northumberland Hwy	66-604 N, Mob Neck Rd	990	R							X						05/13/2008
+756850	  66	00640	     	66-640	Hull Neck Rd	066	Northumberland County	066	Northumberland County	2.55	66-604 N, Mob Neck Rd	66-706 Candy Point Rd	300	R							X						05/13/2008
+756851	  66	00640	     	66-640	Hull Neck Rd	066	Northumberland County	066	Northumberland County	1.35	66-706 Candy Point Rd	66-777 Magnolia Lane	120	R							X						05/13/2008
+756852	  66	00640	     	66-640	Marshalls Beach Rd	066	Northumberland County	066	Northumberland County	0.73	66-777 Magnolia Lane	Dead End	40	R							X						05/13/2008
+756853	  66	00641	     	66-641	Lampkintown Rd	066	Northumberland County	066	Northumberland County	0.70	Dead End	SR 200 Jesse DuPont Mem Hwy	350	R							X						05/02/2005
+302234	  66	00642	     	66-642	Knights Run Rd	066	Northumberland County	066	Northumberland County	1.20	66-610 Light Street	66-603 Georgetown Rd	780	F	95%	1%	3%	1%	1%	0%	F	0.0943	F	0.5625	830	F	2008
+302235	  66	00642	     	66-642	Knights Run Rd	066	Northumberland County	066	Northumberland County	1.59	66-603 Georgetown Rd	SR 201 Courthouse Rd	840	F	95%	1%	3%	1%	1%	0%	C	0.0961	F	0.6279	900	F	2008
+756854	  66	00643	     	66-643	Vir-Mar Beach Rd	066	Northumberland County	066	Northumberland County	0.70	66-644 Hacks Neck Rd; Ferry Rd	Dead End	80	R							X						04/13/2005
+302236	  66	00644	     	66-644	Main St	066	Northumberland County	066	Northumberland County	0.43	Dead End	US 360 E, Main St	840	F	97%	0%	2%	0%	1%	0%	C	0.1107	F	0.5376	900	F	2008
+302237	  66	00644	     	66-644	Reed Ave	066	Northumberland County	066	Northumberland County	0.50	US 360 E, Main St	66-657 Fleeton Rd	130	F	99%	0%	1%	0%	0%	0%	F	0.1262	F	0.8947	140	F	2008
+302238	  66	00644	     	66-644	Blackberry Rd	066	Northumberland County	066	Northumberland County	1.80	66-657 Fleeton Rd	66-652 W, Sunny Bank Rd	230	F	99%	0%	1%	0%	0%	0%	F	0.1167	F	0.6552	240	F	2008
+302239	  66	00644	     	66-644	Sunny Bank Rd	066	Northumberland County	066	Northumberland County	0.60	66-652 W, Sunny Bank Rd	66-651 Smith Point Rd	720	F	99%	0%	1%	0%	0%	0%	C	0.0968	F	0.5455	770	F	2008
+302240	  66	00644	     	66-644	Sunny Bank Rd	066	Northumberland County	066	Northumberland County	0.94	66-651 Smith Point Rd	Sunnybank Ferry	450	F	99%	0%	1%	0%	0%	0%	F	0.1112	F	0.5818	480	F	2008
+302241	  66	00644	     	66-644	Ferry Rd	066	Northumberland County	066	Northumberland County	1.57	Sunnybank Ferry	66-649 E, Lighthouse View Dr	270	F	99%	0%	1%	0%	0%	0%	F	0.1186	F	0.5417	290	F	2008
+302242	  66	00644	     	66-644	Ferry Rd	066	Northumberland County	066	Northumberland County	0.30	66-649 S, Lighthouse View Dr	66-649 N, Flood Point Rd	720	F	99%	0%	1%	0%	0%	0%	F	0.1040	F	0.5290	770	F	2008
+302243	  66	00644	     	66-644	Ferry Rd	066	Northumberland County	066	Northumberland County	1.39	66-649 N, Flood Point Rd	66-643 Vir-Mar Beach Rd	910	F	99%	0%	1%	0%	0%	0%	F	0.0972	F	0.5101	970	F	2008
+302244	  66	00644	     	66-644	Hacks Neck Rd	066	Northumberland County	066	Northumberland County	3.62	66-643 Vir-Mar Beach Rd	US 360 W, Northumberland Hwy	1300	F	99%	0%	1%	0%	0%	0%	F	0.0915	F	0.5077	1300	F	2008
+756855	  66	00645	     	66-645	Gonyon Rd	066	Northumberland County	066	Northumberland County	1.05	66-644 S, Hacks Neck Rd	66-644 N, Hacks Neck Rd	80	R							X						05/21/2008
+756856	  66	00646	     	66-646	Folly Rd	066	Northumberland County	066	Northumberland County	1.40	66-640 Hull Neck Rd	66-645 Gonyon Rd	200	R							X						05/15/2008
+756857	  66	00646	     	66-646	Folly Rd	066	Northumberland County	066	Northumberland County	1.88	66-645 Gonyon Rd	US 360 W, Northumberland Hwy	280	R							X						05/15/2008
+302245	  66	00646	     	66-646	Waverly Rd	066	Northumberland County	066	Northumberland County	1.00	US 360 E, Northumberland Hwy	66-715 Brickyard Rd	240	F	93%	0%	1%	1%	4%	0%	F	0.1588	F	0.5057	260	F	2008
+302246	  66	00646	     	66-646	Waverly Rd	066	Northumberland County	066	Northumberland County	2.00	66-715 Brickyard Rd	US 360 N, Northumberland Hwy	60	F	93%	0%	1%	1%	4%	0%	F	0.1317	F	0.7273	70	F	2008
+302247	  66	00646	     	66-646	Fairport Rd	066	Northumberland County	066	Northumberland County	0.10	US 360 S, Northumberland Hwy	66-702 Lilian Lane	900	F	93%	0%	1%	1%	4%	0%	F	0.1037	F	0.5476	970	F	2008
+302248	  66	00646	     	66-646	Fairport Rd	066	Northumberland County	066	Northumberland County	2.00	66-702 Lilian Lane	66-662 Timbs Rd	900	F	93%	0%	1%	1%	4%	0%	C	0.0950	F	0.5625	960	F	2008
+302249	  66	00646	     	66-646	Fairport Rd	066	Northumberland County	066	Northumberland County	0.70	66-662 Timbs Rd	66-660 McNeal Rd	230	F	93%	0%	1%	1%	4%	0%	F	0.1109	F	0.5424	250	F	2008
+756858	  66	00646	     	66-646	Fairport Rd	066	Northumberland County	066	Northumberland County	0.30	66-660 McNeal Rd	Dead End	110	R							X						06/02/2008
+756859	  66	00647	     	66-647	Greenfield Rd	066	Northumberland County	066	Northumberland County	1.05	US 360 Northumberland Hwy	66-769 Greenfield Point Dr	570	R							X						05/21/2008
+756860	  66	00647	     	66-647	Greenfield Rd	066	Northumberland County	066	Northumberland County	0.95	66-769 Greenfield Point Dr	Dead End	420	R							X						05/21/2008
+756861	  66	00648	     	66-648	Wicomico Point Rd	066	Northumberland County	066	Northumberland County	0.80	Dead End	66-644 Ferry Rd	200	R							X						04/13/2005
+756862	  66	00649	     	66-649	Flood Point Rd	066	Northumberland County	066	Northumberland County	1.10	Dead End	66-644 W, Ferry Rd	170	R							X						05/21/2008
+756863	  66	00649	     	66-649	Lighthouse View Dr	066	Northumberland County	066	Northumberland County	2.40	66-644 E, Ferry Rd	Dead End	310	R							X						05/21/2008
+756864	  66	00650	     	66-650	Sweethall Dr	066	Northumberland County	066	Northumberland County	0.27	Dead End	66-774 Solitude Dr	120	R							X						05/29/2008
+756865	  66	00650	     	66-650	Sweethall Dr	066	Northumberland County	066	Northumberland County	0.50	66-774 Solitude Dr	66-644 Sunny Bank Rd	260	R							X						05/29/2008
+756866	  66	00650	     	66-650	Campground Rd	066	Northumberland County	066	Northumberland County	0.47	66-644 Sunny Bank Rd	Dead End	110	R							X						05/29/2008
+756867	  66	00651	     	66-651	Smith Point Rd	066	Northumberland County	066	Northumberland County	1.00	66-644 Sunny Bank Rd	Dead End	370	R							X						05/29/2008
+302250	  66	00652	     	66-652	Sunny Bank Rd	066	Northumberland County	066	Northumberland County	0.22	US 360 Northumberland Hwy	66-703 Old Bethany Dr	1100	F	97%	1%	2%	0%	1%	0%	C	0.0913	F	0.5701	1100	F	2008
+302251	  66	00652	     	66-652	Sunny Bank Rd	066	Northumberland County	066	Northumberland County	1.00	66-703 Old Bethany Dr	66-644 W, Sunny Bank Rd; Blackberry Rd	1000	F	97%	1%	2%	0%	1%	0%	F	0.0935	F	0.5794	1100	F	2008
+756868	  66	00652	     	66-652	Gaskins Beach Rd	066	Northumberland County	066	Northumberland County	0.50	66-644 E, Blackberry Rd	66-802 Tranquility Rd	190	R							X						04/21/2005
+756869	  66	00653	     	66-653	Whays Creek Rd	066	Northumberland County	066	Northumberland County	1.85	Dead End	66-646 Waverly Rd	390	R							X						06/02/2008
+756870	  66	00653	     	66-653	Whays Creek Rd	066	Northumberland County	066	Northumberland County	0.40	66-646 Waverly Rd	US 360 Northumberland Hwy	320	R							X						05/29/2008
+756871	  66	00654	     	66-654	Fox Point Rd	066	Northumberland County	066	Northumberland County	1.33	Dead End	66-646 Fairport Rd	110	R							X						04/25/2005
+756872	  66	00655	     	66-655	Roseland Rd	066	Northumberland County	066	Northumberland County	0.40	Dead End	66-726 Liberty Rd	120	R							X						06/02/2008
+756873	  66	00656	     	66-656	Buzzards Point Rd	066	Northumberland County	066	Northumberland County	1.40	66-646 Fairport Rd	Dead End	190	R							X						06/02/2008
+756874	  66	00657	     	66-657	Fleeton Wharf Rd	066	Northumberland County	066	Northumberland County	0.20	Dead End	66-677 Fleeton Point Circle	20	R							X						06/02/2008
+302252	  66	00657	     	66-657	Sunny Bank Rd	066	Northumberland County	066	Northumberland County	1.27	66-677 Fleeton Point Circle	66-659 Menhaden Rd	490	F	94%	1%	1%	1%	3%	0%	F	0.1069	F	0.5043	520	F	2008
+302253	  66	00657	     	66-657	Fleeton Rd	066	Northumberland County	066	Northumberland County	1.57	66-659 Menhaden Rd	66-644 Blackberry Rd; Reed Ave	1800	F	94%	1%	1%	1%	3%	0%	C	0.0833	F	0.5263	1900	F	2008
+302254	  66	00657	     	66-657	Fleeton Rd	066	Northumberland County	066	Northumberland County	0.10	66-644 Blackberry Rd; Reed Ave	US 360 Main Street; Northumberland Hwy	2300	F	94%	1%	1%	1%	3%	0%	F	0.0933	F	0.5021	2500	F	2008
+756875	  66	00658	     	66-658	Chesapeake Beach Rd	066	Northumberland County	066	Northumberland County	0.60	Dead End	66-657 S, Fleeton Rd	210	R							X						04/25/2005
+756876	  66	00658	     	66-658	Seaboard Rd	066	Northumberland County	066	Northumberland County	0.80	66-657 N, Fleeton Rd	Dead End	300	R							X						04/21/2005
+756877	  66	00659	     	66-659	Menhaden Rd	066	Northumberland County	066	Northumberland County	0.64	Dead End	66-657 Fleeton Rd	820	R							X						06/02/2008
+756878	  66	00660	     	66-660	McNeal Rd	066	Northumberland County	066	Northumberland County	0.30	66-646 Fairport Rd	Dead End	60	R							X						04/25/2005
+756879	  66	00661	     	66-661	Polly Cove Rd	066	Northumberland County	066	Northumberland County	0.18	66-646 Fairport Rd	Dead End	170	R							X						04/25/2005
+302255	  66	00662	     	66-662	Timbs Rd	066	Northumberland County	066	Northumberland County	0.50	66-646 Fairport Rd	Dead End	30	F	90%	0%	3%	0%	7%	0%	C	0.2619	F	0.5455	30	F	2008
+756880	  66	00663	     	66-663	Blackwell Wharf Rd	066	Northumberland County	066	Northumberland County	0.55	Dead End	66-810 Horn Harbor Rd	150	R							X						06/04/2008
+756881	  66	00663	     	66-663	Blackwell Wharf Rd	066	Northumberland County	066	Northumberland County	0.65	66-810 Horn Harbor Rd	66-699 Old Glebe Point Rd	340	R							X						06/04/2008
+756882	  66	00664	     	66-664	Wicomico View Lane	066	Northumberland County	066	Northumberland County	0.30	66-665 Mila Rd	0.30 ME 66-665 Mila Rd	140	R							X						05/04/2005
+756883	  66	00664	     	66-664	Wicomico View Lane	066	Northumberland County	066	Northumberland County	0.15	0.30 ME 66-665 Mila Rd	Dead End	40	R							X						05/04/2005
+756884	  66	00665	     	66-665	Millpoint Dr	066	Northumberland County	066	Northumberland County	0.86	Dead End	66-609 E, Remo Rd	200	R							X						06/04/2008
+302256	  66	00665	     	66-665	Mila Rd	066	Northumberland County	066	Northumberland County	1.90	66-609 N, Remo Rd	66-664 Wicomico View Lane	470	F	97%	1%	1%	0%	1%	0%	C	0.1079	F	0.5179	510	F	2008
+756885	  66	00665	     	66-665	Millpoint Dr	066	Northumberland County	066	Northumberland County	0.60	66-664 Wicomico View Lane	Dead End	90	R							X						05/19/2008
+756886	  66	00666	     	66-666	Sandy Point Rd	066	Northumberland County	066	Northumberland County	1.61	66-665 Mila Rd	66-731 Cranes Landing Rd	320	R							X						06/04/2008
+756887	  66	00666	     	66-666	Sandy Point Rd	066	Northumberland County	066	Northumberland County	0.45	66-731 Cranes Landing Rd	Dead End	130	R							X						06/04/2008
+756888	  66	00667	     	66-667	Bogey Neck Rd	066	Northumberland County	066	Northumberland County	1.21	66-609 Remo Rd	66-798 Pine Crest Dr	400	R							X						05/09/2005
+756889	  66	00667	     	66-667	Bogey Neck Rd	066	Northumberland County	066	Northumberland County	0.65	66-798 Pine Crest Dr	Dead End	120	R							X						05/09/2005
+756891	  66	00668	     	66-668	Harding Rd	066	Northumberland County	066	Northumberland County	1.64	Dead End	66-609 Remo Rd	120	R							X						05/04/2005
+756892	  66	00669	     	66-669	Bluff Point Rd	066	Northumberland County	066	Northumberland County	0.51	Dead End	66-676 Logan Lodge Rd	120	R							X						04/07/2008
+756893	  66	00669	     	66-669	Bluff Point Rd	066	Northumberland County	066	Northumberland County	0.65	66-676 Logan Lodge Rd	66-672 Painter Point Rd	190	R							X						04/07/2008
+302257	  66	00669	     	66-669	Bluff Point Rd	066	Northumberland County	066	Northumberland County	0.25	66-672 Painter Point Rd	66-1115 Pocohontas Rd	480	F	95%	0%	1%	3%	0%	0%	F	0.1115	F	0.5484	510	F	2008
+302258	  66	00669	     	66-669	Bluff Point Rd	066	Northumberland County	066	Northumberland County	0.81	66-1115 Pocohontas Rd	66-608 S, Jarvis Point Rd; Bluff Point Rd	1400	F	95%	0%	1%	3%	0%	0%	C	0.1063	F	0.6069	1500	F	2008
+756894	  66	00669	     	66-669	Kent Point Rd	066	Northumberland County	066	Northumberland County	0.40	66-608 N, Bluff Point Rd	66-671 Kent Point Rd	440	R							X						04/09/2008
+756895	  66	00669	     	66-669	Prentice Creek Rd	066	Northumberland County	066	Northumberland County	0.70	66-671 Kent Point Rd	66-607 EAST; 66-725	280	R							X						04/09/2008
+756896	  66	00669	     	66-669	Apple Grove Rd	066	Northumberland County	066	Northumberland County	2.50	66-607 W, Ditchley Rd	66-606 E, Shiloh School Rd	170	R							X						04/09/2008
+756897	  66	00669	     	66-669	Waddys Rd	066	Northumberland County	066	Northumberland County	1.30	66-606 W, Shiloh School Rd	66-605 Mt Olive Rd	100	R							X						05/19/2008
+756898	  66	00670	     	66-670	Hardings Wharf Dr	066	Northumberland County	066	Northumberland County	0.20	Dead End	66-735 Whittaker Lane	40	R							X						04/09/2008
+756899	  66	00670	     	66-670	Hardings Wharf Dr	066	Northumberland County	066	Northumberland County	0.60	66-735 Whittaker Lane	66-605 Mt Olive Rd	130	R							X						04/09/2008
+756900	  66	00671	     	66-671	Kent Point Rd	066	Northumberland County	066	Northumberland County	0.65	66-669 Prentice Creek Rd; Kent Point Rd	66-705 Point Pleasant Rd	260	R							X						04/09/2008
+756901	  66	00671	     	66-671	Kent Point Rd	066	Northumberland County	066	Northumberland County	0.35	66-705 Point Pleasant Rd	Dead End	220	R							X						04/09/2008
+756902	  66	00672	     	66-672	Painter Point Rd	066	Northumberland County	066	Northumberland County	0.80	66-1122 Oystershell Rd	66-669 Bluff Point Rd	190	R							X						04/07/2008
+756903	  66	00673	     	66-673	Taylors Beach Rd	066	Northumberland County	066	Northumberland County	0.87	66-644 Blackberry Rd	Dead End	160	R							X						04/21/2005
+756904	  66	00674	     	66-674	Crabbetown Rd	066	Northumberland County	066	Northumberland County	1.00	Dead End	US 360 Northumberland Hwy	80	R							X						03/31/2005
+756905	  66	00675	     	66-675	Locust Lane	066	Northumberland County	066	Northumberland County	0.20	66-621 Mundy Point Rd	SR 202 Hampton Hall Rd	230	R							X						04/02/2008
+756906	  66	00676	     	66-676	Logan Lodge Rd	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-1121 Henrys View Lane	20	R							X						03/07/2005
+756907	  66	00676	     	66-676	Logan Lodge Rd	066	Northumberland County	066	Northumberland County	0.40	66-1121 Henrys View Lane	66-669 Bluff Point Rd	80	R							X						03/07/2005
+756908	  66	00677	     	66-677	Fleeton Point Circle	066	Northumberland County	066	Northumberland County	0.50	Begin Loop	End Loop	60	R							X						04/25/2005
+756909	  66	00677	     	66-677	Fleeton Point Circle	066	Northumberland County	066	Northumberland County	0.10	End Loop	66-657 Sunny Bank Rd	240	R							X						04/25/2005
+756910	  66	00678	     	66-678	Old Tipers Rd	066	Northumberland County	066	Northumberland County	1.97	66-609 Browns Store Rd	SR 200 Jesse DuPont Mem Hwy	360	R							X						05/15/2008
+756911	  66	00679	     	66-679	Crosshills Rd	066	Northumberland County	066	Northumberland County	1.15	SR 200 S, Jesse DuPont Mem Hwy	SR 200 SOUTH MID	90	R							X						05/19/2008
+756912	  66	00679	     	66-679	Crosshills Rd	066	Northumberland County	066	Northumberland County	1.60	SR 200 NORTH MID	66-605 Mt Olive Rd	46	R							X						05/19/2008
+756913	  66	00679	     	66-679	Crosshills Rd	066	Northumberland County	066	Northumberland County	1.45	66-605 Mt Olive Rd	SR 200 N, Jesse DuPont Mem Hwy	200	R							X						05/19/2008
+756914	  66	00680	     	66-680	Cherry Point Rd	066	Northumberland County	066	Northumberland County	1.00	66-624 Lewisetta Rd	Dead End	30	R							X						03/29/2005
+756915	  66	00681	     	66-681	Burnette Lane	066	Northumberland County	066	Northumberland County	0.75	Dead End	SR 201 Courthouse Rd	30	R							X						03/31/2005
+756916	  66	00682	     	66-682	Owl Point Rd	066	Northumberland County	066	Northumberland County	0.80	Dead End	66-601 Dodlyt Rd & Bush Mill Rd	7	R							X						03/31/2005
+756917	  66	00683	     	66-683	Old Fairport Rd	066	Northumberland County	066	Northumberland County	0.90	66-646 Fairport Rd	66-646 Fairport Rd	60	R							X						06/02/2008
+756918	  66	00684	     	66-684	Deep Water Lane	066	Northumberland County	066	Northumberland County	0.52	Dead End	66-659 Menhaden Rd	90	R							X						04/21/2005
+756919	  66	00685	     	66-685	Oyster Rd	066	Northumberland County	066	Northumberland County	0.40	66-627 Lake Landing Rd	Dead End	70	R							X						03/27/2008
+756920	  66	00686	     	66-686	Pebble Rd	066	Northumberland County	066	Northumberland County	0.47	Dead End	66-665 Millpoint Dr	80	R							X						05/04/2005
+756921	  66	00687	     	66-687	Devils Wood Yard Rd	066	Northumberland County	066	Northumberland County	0.35	66-649 Lighthouse View Dr	66-772 Devils Wood Yard Rd	30	R							X						04/13/2005
+756922	  66	00688	     	66-688	Waddeytown Rd	066	Northumberland County	066	Northumberland County	0.60	51-615 Lancaster County Line	Dead End	10	R							X						05/19/2008
+756923	  66	00689	     	66-689	Salem Rd	066	Northumberland County	066	Northumberland County	0.43	Dead End	US 360 Northumberland Hwy	40	R							X						03/18/2008
+756924	  66	00690	     	66-690	Cobbs Hall Lane	066	Northumberland County	066	Northumberland County	0.60	66-669 Apple Grove Rd	Dead End	120	R							X						03/21/2005
+756925	  66	00691	     	66-691	Clarketown Rd	066	Northumberland County	066	Northumberland County	0.40	66-631 Clarketown Rd	Dead End	110	R							X						03/24/2005
+756926	  66	00692	     	66-692	Shell Landing Rd	066	Northumberland County	066	Northumberland County	0.22	Begin Loop	End Loop	90	R							X						06/02/2008
+756927	  66	00692	     	66-692	Shell Landing Rd	066	Northumberland County	066	Northumberland County	0.08	End Loop	66-657 Fleeton Rd	110	R							X						06/02/2008
+756928	  66	00693	     	66-693	Guarding Point Lane	066	Northumberland County	066	Northumberland County	0.30	66-606 Cloverdale Rd	0.30 ME 66-606 Cloverdale Rd	30	R							X						04/09/2008
+756929	  66	00693	     	66-693	Guarding Point Lane	066	Northumberland County	066	Northumberland County	0.40	0.30 ME 66-606 Cloverdale Rd	Dead End	20	R							X						04/09/2008
+756930	  66	00694	     	66-694	Avalon Lane	066	Northumberland County	066	Northumberland County	0.20	66-604 Sydnors Millpond Rd	66-636 Newmans Neck Rd; Avalon Lane	660	R							X						04/18/2005
+756931	  66	00695	     	66-695	Blundons Rd	066	Northumberland County	066	Northumberland County	0.50	US 360 Northumberland Hwy	66-640 Hull Neck Rd	880	R							X						04/18/2005
+756932	  66	00696	     	66-696	Gascony Lane	066	Northumberland County	066	Northumberland County	0.35	66-605 Mt Olive Rd	66-767 Dennis Lane	20	R							X						04/09/2008
+756933	  66	00697	     	66-697	Aaron Dr	066	Northumberland County	066	Northumberland County	0.25	66-626 Glebe Rd	Dead End	80	R							X						03/29/2005
+756934	  66	00698	     	66-698	Academic Lane	066	Northumberland County	066	Northumberland County	0.75	Dead End	US 360 Northumberland Hwy	1100	R							X						04/02/2008
+756935	  66	00699	     	66-699	Old Glebe Point Rd	066	Northumberland County	066	Northumberland County	0.28	SR 200 S, Jesse DuPont Mem Hwy	SR 200 MID	100	R							X						05/15/2008
+756936	  66	00699	     	66-699	Old Glebe Point Rd	066	Northumberland County	066	Northumberland County	0.74	SR 200 MID	SR 200 N, Jesse DuPont Mem Hwy	210	R							X						05/15/2008
+756937	  66	00700	     	66-700	Sutton Ave	066	Northumberland County	066	Northumberland County	0.06	Dead End	66-760 Pine Dr	20	R							X						06/02/2008
+756938	  66	00700	     	66-700	Sutton Ave	066	Northumberland County	066	Northumberland County	0.13	66-760 Pine Dr	66-714 Morrison St	130	R							X						06/02/2008
+756939	  66	00700	     	66-700	Sutton Ave	066	Northumberland County	066	Northumberland County	0.29	66-714 Morrison St	66-657 Fleeton Rd	130	R							X						06/02/2008
+756940	  66	00701	     	66-701	Azalea Lane	066	Northumberland County	066	Northumberland County	0.20	Dead End	66-711 Owl Town Rd	48	R							X						03/31/2005
+302259	  66	00702	     	66-702	Lilian Lane	066	Northumberland County	066	Northumberland County	0.10	66-646 Fairport Rd	US 360 Northumberland Hwy	350	F	93%	0%	3%	0%	4%	0%	C	0.1226	F	0.5333	370	F	2008
+302260	  66	00703	     	66-703	Old Bethany Dr	066	Northumberland County	066	Northumberland County	0.42	US 360 Northumberland Hwy	66-652 Sunny Bank Rd	280	F	97%	1%	2%	0%	0%	0%	C	0.1060	F	0.6250	300	F	2008
+756941	  66	00704	     	66-704	Fleets Cove Lane	066	Northumberland County	066	Northumberland County	0.35	66-636 Newmans Neck Rd	Dead End	5	R							X						05/05/2008
+756942	  66	00705	     	66-705	Point Pleasant Rd	066	Northumberland County	066	Northumberland County	0.41	66-671 Kent Point Rd	Dead End	40	R							X						03/21/2005
+756943	  66	00706	     	66-706	Candy Point Rd	066	Northumberland County	066	Northumberland County	0.80	66-640 Hull Neck Rd	0.80 MN 66-640 Hull Neck Rd	50	R							X						05/13/2008
+756944	  66	00706	     	66-706	Candy Point Rd	066	Northumberland County	066	Northumberland County	0.10	0.80 MN 66-640 Hull Neck Rd	Dead End	7	R							X						05/13/2008
+756945	  66	00707	     	66-707	Coopers Landing Rd	066	Northumberland County	066	Northumberland County	1.50	Dead End	US 360; 66-752	140	R							X						03/24/2008
+756946	  66	00708	     	66-708	Brooks Lane	066	Northumberland County	066	Northumberland County	0.65	66-617 Lively Hope Rd	Dead End	290	R							X						03/18/2008
+756947	  66	00709	     	66-709	Chambers Lane	066	Northumberland County	066	Northumberland County	0.91	66-624 Lewisetta Rd	Dead End	150	R							X						04/02/2008
+756948	  66	00710	     	66-710	Madge Marsh	066	Northumberland County	066	Northumberland County	0.30	Dead End	66-665 Mila Rd	20	R							X						06/04/2008
+756949	  66	00711	     	66-711	Owl Town Rd	066	Northumberland County	066	Northumberland County	2.49	US 360 S, Richmond Rd	US 360 N, Richmond Rd	140	R							X						03/20/2008
+302261	  66	00712	     	66-712	Harry Hogan Rd	066	Northumberland County	066	Northumberland County	0.76	SR 202; US 360	66-622 Harry Hogan Rd	1400	F	96%	0%	1%	1%	1%	0%	C	0.0994	F	0.5417	1500	F	2008
+756950	  66	00712	     	66-712	Lodge Rd	066	Northumberland County	066	Northumberland County	1.50	66-622 Harry Hogan Rd	Dead End	340	R							X						04/02/2008
+756951	  66	00713	     	66-713	Stoney Rd	066	Northumberland County	066	Northumberland County	0.40	66-629 Hull Harbor Rd	Dead End	60	R							X						04/18/2005
+756952	  66	00714	     	66-714	Morrison St	066	Northumberland County	066	Northumberland County	0.08	66-644 Reed Ave	66-700 Sutton Ave	160	R							X						06/02/2008
+756953	  66	00715	     	66-715	Brickyard Rd	066	Northumberland County	066	Northumberland County	0.80	Dead End	66-646 Waverly Rd; Brickyard Rd	190	R							X						05/09/2005
+756954	  66	00716	     	66-716	Kent Cove Rd	066	Northumberland County	066	Northumberland County	0.55	Dead End	66-671 Kent Point Rd	120	R							X						03/21/2005
+756955	  66	00717	     	66-717	Cordreys Beach Rd	066	Northumberland County	066	Northumberland County	0.26	66-640 Hull Neck Rd	66-756 Rogers Creek Rd	70	R							X						05/13/2008
+756956	  66	00717	     	66-717	Cordreys Beach Rd	066	Northumberland County	066	Northumberland County	0.34	66-756 Rogers Creek Rd	Dead End	40	R							X						05/13/2008
+756957	  66	00718	     	66-718	Train Lane	066	Northumberland County	066	Northumberland County	0.58	Dead End	66-665 Millpoint Dr	30	R							X						06/04/2008
+756958	  66	00719	     	66-719	Oyster Shell Lane	066	Northumberland County	066	Northumberland County	0.30	66-620 Hatches Ave	Dead End	40	R							X						04/02/2008
+756959	  66	00720	     	66-720	Kelley Lane	066	Northumberland County	066	Northumberland County	0.65	66-630 Walnut Point Rd	Dead End	30	R							X						04/30/2008
+756960	  66	00721	     	66-721	Lewis Lane	066	Northumberland County	066	Northumberland County	0.75	Dead End	66-604 Indian Valley Rd	290	R							X						03/24/2008
+756961	  66	00722	     	66-722	Morris Ave	066	Northumberland County	066	Northumberland County	0.35	66-799 Crowder Lane	US 360 Northumberland Hwy	220	R							X						06/02/2008
+756962	  66	00723	     	66-723	 	066	Northumberland County	066	Northumberland County	0.06	Dead End	SR 200 Jesse DuPont Mem Hwy	150	R							X						1986
+756963	  66	00724	     	66-724	Wilkins Creek Lane	066	Northumberland County	066	Northumberland County	0.49	66-620 Hatches Ave	Dead End	90	R							X						04/02/2008
+756964	  66	00725	     	66-725	Lawrence Cove Lane	066	Northumberland County	066	Northumberland County	0.30	66-607; 66-669	Dead End	70	R							X						04/09/2008
+756965	  66	00726	     	66-726	Liberty Rd	066	Northumberland County	066	Northumberland County	0.53	US 360 S, Northumberland Hwy	US 360 N, Northumberland Hwy	120	R							X						06/02/2008
+756966	  66	00727	     	66-727	Tocky Lane	066	Northumberland County	066	Northumberland County	0.04	66-609 Remo Rd	66-665 Mila Rd	70	R							X						05/19/2008
+756967	  66	00728	     	66-728	Killneck Lane	066	Northumberland County	066	Northumberland County	0.09	Dead End	66-627 Honest Point Rd	20	R							X						03/27/2008
+756968	  66	00729	     	66-729	Cedar Lane	066	Northumberland County	066	Northumberland County	0.23	Dead End	US 360 Northumberland Hwy	220	R							X						04/27/2005
+756969	  66	00730	     	66-730	Cloverleaf Rd	066	Northumberland County	066	Northumberland County	0.30	66-609 Browns Store Rd	Dead End	80	R							X						03/21/2005
+756970	  66	00731	     	66-731	Cranes Landing Rd	066	Northumberland County	066	Northumberland County	0.13	Dead End	66-666 Sandy Point Rd	20	R							X						06/04/2008
+756971	  66	00732	     	66-732	Bells Cove Rd	066	Northumberland County	066	Northumberland County	0.65	66-712 Lodge Rd	Dead End	40	R							X						03/29/2005
+756972	  66	00733	     	66-733	 	066	Northumberland County	066	Northumberland County	0.07	Lancaster County Line	Dead End	20	R							X						1999
+756973	  66	00734	     	66-734	Rock Town Rd	066	Northumberland County	066	Northumberland County	0.55	66-647 Greenfield Rd	Dead End	170	R							X						05/02/2005
+756974	  66	00735	     	66-735	Whittaker Lane	066	Northumberland County	066	Northumberland County	0.20	66-670 Hardings Wharf Dr	Dead End	10	R							X						03/21/2005
+756975	  66	00736	     	66-736	Pine Tree Point Rd	066	Northumberland County	066	Northumberland County	0.50	Dead End	66-644 Hacks Neck Rd	110	R							X						04/13/2005
+756976	  66	00737	     	66-737	Fairport Rd	066	Northumberland County	066	Northumberland County	0.30	Dead End	66-646 Fairport Rd	50	R							X						04/25/2005
+756977	  66	00738	     	66-738	Dungan Rd	066	Northumberland County	066	Northumberland County	0.45	Dead End	66-612 Coan Stage Rd	7	R							X						03/29/2005
+756978	  66	00739	     	66-739	Driftwood Trail	066	Northumberland County	066	Northumberland County	0.38	66-649 Lighthouse View Dr	Dead End	20	R							X						05/21/2008
+756979	  66	00740	     	66-740	Greenwood Beach Rd	066	Northumberland County	066	Northumberland County	1.00	66-604 Mob Neck Rd	Dead End	120	R							X						04/13/2005
+756980	  66	00741	     	66-741	Hope-Union Rd	066	Northumberland County	066	Northumberland County	0.40	Dead End	66-646 Waverly Rd	30	R							X						06/04/2008
+756981	  66	00742	     	66-742	Highland Point Rd	066	Northumberland County	066	Northumberland County	0.19	Dead End	66-625 Cowart Rd	70	R							X						04/02/2008
+756982	  66	00743	     	66-743	John Deere Rd	066	Northumberland County	066	Northumberland County	0.21	66-600 Gibeon Rd	Dead End	40	R							X						03/29/2005
+756983	  66	00744	     	66-744	Damerontown Rd	066	Northumberland County	066	Northumberland County	0.90	Dead End	66-614 Walmsley Rd	160	R							X						03/18/2008
+756984	  66	00744	     	66-744	Ivy Lane	066	Northumberland County	066	Northumberland County	0.38	66-614 Walmsley Rd	Dead End	100	R							X						03/18/2008
+756986	  66	00745	     	66-745	Doctors Point Rd	066	Northumberland County	066	Northumberland County	1.00	Dead End	66-624 Lewisetta Rd	100	R							X						03/29/2005
+756987	  66	00746	     	66-746	Colieville Lane	066	Northumberland County	066	Northumberland County	0.25	Dead End	66-657 Fleeton Rd	120	R							X						04/21/2005
+756988	  66	00747	     	66-747	Rogue Point Lane	066	Northumberland County	066	Northumberland County	0.25	66-665 Millpoint Dr	Dead End	20	R							X						05/19/2008
+756989	  66	00748	     	66-748	Locust Grove Lane	066	Northumberland County	066	Northumberland County	0.90	66-610 Sampsons Wharf Rd	Dead End	60	R							X						05/02/2005
+756990	  66	00749	     	66-749	Gardys Lane	066	Northumberland County	066	Northumberland County	0.50	66-618 Fruit Plain Rd	0.50 MN 66-618 Fruit Plain Rd	110	R							X						03/18/2008
+756991	  66	00749	     	66-749	Gardys Lane	066	Northumberland County	066	Northumberland County	0.30	0.50 MN 66-618 Fruit Plain Rd	Dead End	40	R							X						03/18/2008
+756992	  66	00750	     	66-750	Supply Lane	066	Northumberland County	066	Northumberland County	0.08	US 360 Northumberland Hwy	Dead End	130	R							X						04/27/2005
+756993	  66	00751	     	66-751	Cod Creek Dr	066	Northumberland County	066	Northumberland County	0.85	66-629 Font Hill Rd	66-1403 Presley Creek Dr	430	R							X						04/30/2008
+756994	  66	00751	     	66-751	Cod Creek Dr	066	Northumberland County	066	Northumberland County	1.26	66-1403 Presley Creek Dr	66-1411 S, Muriel Dr	170	R							X						04/30/2008
+756995	  66	00751	     	66-751	Cod Creek Dr	066	Northumberland County	066	Northumberland County	0.09	66-1411 S, Muriel Dr	66-1411 N, Muriel Dr	100	R							X						04/30/2008
+756996	  66	00751	     	66-751	Cod Creek Dr	066	Northumberland County	066	Northumberland County	0.07	66-1411 N, Muriel Dr	66-1402 S, Circle Dr	100	R							X						04/30/2008
+756997	  66	00751	     	66-751	Cod Creek Dr	066	Northumberland County	066	Northumberland County	0.06	66-1402 S, Circle Dr	66-1402 N, Circle Dr	80	R							X						04/30/2008
+756998	  66	00751	     	66-751	Cod Creek Dr	066	Northumberland County	066	Northumberland County	0.21	66-1402 N, Circle Dr	66-1401 Bay Quarter Dr	70	R							X						04/30/2008
+756999	  66	00752	     	66-752	Horsehead Lane	066	Northumberland County	066	Northumberland County	0.40	US 360; 66-707	US 360 Northumberland Hwy	30	R							X						04/18/2005
+757000	  66	00753	     	66-753	Firehouse Rd	066	Northumberland County	066	Northumberland County	0.30	Dead End	SR 200 Jesse DuPont Mem Hwy	190	R							X						05/02/2005
+757001	  66	00754	     	66-754	Maple Ave	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-722 Morris Ave	30	R							X						04/25/2005
+757002	  66	00755	     	66-755	Judith Sound Rd	066	Northumberland County	066	Northumberland County	0.52	66-624 Lewisetta Rd	Dead End	60	R							X						03/29/2005
+757003	  66	00756	     	66-756	Rogers Creek Rd	066	Northumberland County	066	Northumberland County	0.40	Dead End	66-717 Cordreys Beach Rd	10	R							X						05/13/2008
+757004	  66	00757	     	66-757	Quinton Oaks Lane	066	Northumberland County	066	Northumberland County	0.30	66-600 Richmond County Line	Dead End	180	R							X						03/31/2005
+757005	  66	00758	     	66-758	Move Hall Lane	066	Northumberland County	066	Northumberland County	0.05	US 360 Northumberland Hwy	66-793 Commerce Rd	360	R							X						03/20/2008
+757006	  66	00758	     	66-758	Move Hall Lane	066	Northumberland County	066	Northumberland County	0.15	66-793 Commerce Rd	Dead End	160	R							X						03/20/2008
+757007	  66	00759	     	66-759	Lake Francis Lane	066	Northumberland County	066	Northumberland County	0.40	Dead End	66-624 Lewisetta Rd	30	R							X						03/29/2005
+757008	  66	00760	     	66-760	Pine Dr	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-700 Sutton Ave	70	R							X						04/25/2005
+757009	  66	00761	     	66-761	Lee Dale Dr	066	Northumberland County	066	Northumberland County	0.61	Dead End	0.61 ME Dead End	80	R							X						05/04/2005
+757010	  66	00761	     	66-761	Lee Dale Dr	066	Northumberland County	066	Northumberland County	0.15	0.61 ME Dead End	66-665 Millpoint Dr	110	R							X						05/04/2005
+757011	  66	00762	     	66-762	Dudley Lane	066	Northumberland County	066	Northumberland County	0.12	Dead End	66-621 Mundy Point Rd	20	R							X						03/29/2005
+757012	  66	00763	     	66-763	Sculling Oar Lane	066	Northumberland County	066	Northumberland County	0.48	66-669 Apple Grove Rd	Dead End	30	R							X						04/09/2008
+757013	  66	00764	     	66-764	Potomac Overlook Lane	066	Northumberland County	066	Northumberland County	0.27	66-685 Oyster Rd	Dead End	50	R							X						03/29/2005
+757014	  66	00765	     	66-765	Butlers Lane	066	Northumberland County	066	Northumberland County	0.16	66-622 Harry Hogan Rd	Dead End	20	R							X						03/29/2005
+757015	  66	00766	     	66-766	Dividing Creek Lane	066	Northumberland County	066	Northumberland County	0.50	66-669 Apple Grove Rd	Dead End	50	R							X						04/09/2008
+757016	  66	00767	     	66-767	Dennis Lane	066	Northumberland County	066	Northumberland County	0.15	Dead End	66-696 Gascony Lane	7	R							X						04/09/2008
+757017	  66	00767	     	66-767	Dennis Lane	066	Northumberland County	066	Northumberland County	0.10	66-696 Gascony Lane	66-773 Clay Point Dr	8	R							X						04/09/2008
+757018	  66	00767	     	66-767	Dennis Lane	066	Northumberland County	066	Northumberland County	0.10	66-773 Clay Point Dr	Dead End	4	R							X						04/09/2008
+757019	  66	00768	     	66-768	 	066	Northumberland County	066	Northumberland County	0.10	66-711 Owl Town Rd	Dead End	4	R							X						03/20/2008
+757020	  66	00769	     	66-769	Greenfield Point Dr	066	Northumberland County	066	Northumberland County	0.62	66-647 Greenfield Rd	Dead End	190	R							X						05/02/2005
+757021	  66	00770	     	66-770	Boatyard Rd	066	Northumberland County	066	Northumberland County	0.18	66-646 Fairport Rd	Dead End	220	R							X						04/25/2005
+757022	  66	00771	     	66-771	Ball Lane	066	Northumberland County	066	Northumberland County	0.75	Dead End	66-605 Mt Olive Rd	10	R							X						04/09/2008
+757023	  66	00772	     	66-772	Devils Wood Yard Rd	066	Northumberland County	066	Northumberland County	0.50	66-687 Devils Wood Yard Rd	Dead End	20	R							X						04/13/2005
+757024	  66	00773	     	66-773	Clay Point Dr	066	Northumberland County	066	Northumberland County	0.20	66-767 Dennis Lane	Dead End	4	R							X						04/09/2008
+757025	  66	00774	     	66-774	Solitude Dr	066	Northumberland County	066	Northumberland County	0.28	66-650 Sweethall Dr	Dead End	120	R							X						04/21/2005
+757026	  66	00775	     	66-775	Factory Lane	066	Northumberland County	066	Northumberland County	0.08	US 360 Northumberland Hwy	Dead End	150	R							X						04/27/2005
+757027	  66	00776	     	66-776	Gill Lane	066	Northumberland County	066	Northumberland County	0.25	66-636 Newmans Neck Rd	Dead End	20	R							X						05/05/2008
+757028	  66	00777	     	66-777	Magnolia Lane	066	Northumberland County	066	Northumberland County	0.16	Dead End	66-640 Marshalls Beach Rd; Hull Neck Rd	40	R							X						04/18/2005
+757029	  66	00779	     	66-779	Kirkland Grove Lane	066	Northumberland County	066	Northumberland County	0.25	66-601 Dodlyt Rd & Bush Mill Rd	Dead End	20	R							X						03/31/2005
+757030	  66	00780	     	66-780	Conaway Lane	066	Northumberland County	066	Northumberland County	0.14	Dead End	66-679 Crosshills Rd	30	R							X						03/21/2005
+757031	  66	00781	     	66-781	Bon Harbor Rd	066	Northumberland County	066	Northumberland County	0.82	66-624 Lewisetta Rd	Cul-de-Sac	20	R							X						03/29/2005
+757032	  66	00782	     	66-782	 	066	Northumberland County	066	Northumberland County	0.20	SR 202 Hampton Hall Rd	Dead End	120	R							X						1986
+757033	  66	00783	     	66-783	Fords Pond Rd	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-646 Fairport Rd	20	R							X						04/25/2005
+757034	  66	00784	     	66-784	Glebe View Lane	066	Northumberland County	066	Northumberland County	0.36	66-614 Lake Rd	Dead End	200	R							X						03/29/2005
+757035	  66	00785	     	66-785	Northumberland Dr	066	Northumberland County	066	Northumberland County	1.16	66-624 Lewisetta Rd	66-786 Northumberland Dr	70	R							X						03/29/2005
+757036	  66	00786	     	66-786	Northumberland Dr	066	Northumberland County	066	Northumberland County	0.39	66-785 Northumberland Dr	66-787 Shore Lane	60	R							X						03/29/2005
+757037	  66	00787	     	66-787	Shore Lane	066	Northumberland County	066	Northumberland County	0.06	66-786 Northumberland Dr	Dead End	5	R							X						03/29/2005
+757038	  66	00788	     	66-788	Tucker Point Lane	066	Northumberland County	066	Northumberland County	0.30	66-712 Lodge Rd	Dead End	46	R							X						03/29/2005
+757039	  66	00789	     	66-789	 	066	Northumberland County	066	Northumberland County	0.15	66-634 Mantua Rd	Dead End	20	R							X						04/30/2008
+757040	  66	00790	     	66-790	Lone Walnut Rd	066	Northumberland County	066	Northumberland County	0.30	Westmoreland County Line	66-600 Gibeon Rd	200	R							X						03/18/2008
+757041	  66	00791	     	66-791	Pine Point Dr	066	Northumberland County	066	Northumberland County	0.50	66-630 Walnut Point Rd	Dead End	80	R							X						03/31/2005
+757042	  66	00792	     	66-792	Mill Creek Lane	066	Northumberland County	066	Northumberland County	0.17	66-605 Mt Olive Rd	Dead End	70	R							X						03/21/2005
+757043	  66	00793	     	66-793	Commerce Rd	066	Northumberland County	066	Northumberland County	0.18	66-712 Harry Hogan Rd	66-758 Move Hall Lane	370	R							X						04/27/2005
+757044	  66	00794	     	66-794	Fountain Gate Rd	066	Northumberland County	066	Northumberland County	0.72	66-635 Sandy Beach Rd	Dead End	200	R							X						04/18/2005
+757045	  66	00795	     	66-795	 	066	Northumberland County	066	Northumberland County	0.43	79-600 Richmond County Line	Dead End	80	R							X						1986
+757046	  66	00796	     	66-796	Bailey Prong Rd	066	Northumberland County	066	Northumberland County	0.13	66-609 Remo Rd	Dead End	20	R							X						05/04/2005
+757047	  66	00797	     	66-797	Crabhouse Dr	066	Northumberland County	066	Northumberland County	0.22	66-644 Sunny Bank Rd	Dead End	20	R							X						04/21/2005
+757048	  66	00798	     	66-798	Pine Crest Dr	066	Northumberland County	066	Northumberland County	0.85	66-667 Bogey Neck Rd	Dead End	80	R							X						05/09/2005
+757049	  66	00799	     	66-799	Crowder Lane	066	Northumberland County	066	Northumberland County	0.12	66-801 Crowder Point Dr	66-722 Morris Ave	230	R							X						06/02/2008
+757050	  66	00799	     	66-799	Crowder Lane	066	Northumberland County	066	Northumberland County	0.07	66-722 Morris Ave	US 360 Main St	260	R							X						06/02/2008
+757051	  66	00800	     	66-800	Brammer Dr	066	Northumberland County	066	Northumberland County	0.89	66-644 Ferry Rd	66-806 Riley Lane	90	R							X						04/13/2005
+757052	  66	00800	     	66-800	Brammer Dr	066	Northumberland County	066	Northumberland County	0.25	66-806 Riley Lane	Cul-de-Sac	20	R							X						04/13/2005
+757053	  66	00801	     	66-801	Crowder Point Dr	066	Northumberland County	066	Northumberland County	0.29	Dead End	66-799 Crowder Lane	160	R							X						04/25/2005
+757054	  66	00802	     	66-802	Tranquility Rd	066	Northumberland County	066	Northumberland County	1.72	66-652 Gaskins Beach Rd	66-803 Smith Point View	90	R							X						04/21/2005
+757055	  66	00803	     	66-803	Smith Point View	066	Northumberland County	066	Northumberland County	0.11	Dead End	0.06 ME 66-802	30	R							X						04/21/2005
+757056	  66	00804	     	66-804	Roland Rd	066	Northumberland County	066	Northumberland County	0.07	Dead End	66-669 Bluff Point Rd	8	R							X						03/07/2005
+757057	  66	00805	     	66-805	Harbor Dr	066	Northumberland County	066	Northumberland County	0.62	66-652 Sunny Bank Rd	Cul-de-Sac	70	R							X						04/21/2005
+757058	  66	00806	     	66-806	Riley Lane	066	Northumberland County	066	Northumberland County	0.21	Cul-de-Sac	66-800 Brammer Dr	30	R							X						05/21/2008
+757059	  66	00807	     	66-807	Stillwater Rd	066	Northumberland County	066	Northumberland County	0.45	66-666 Sandy Point Rd	66-666 Sandy Point Rd	50	R							X						06/04/2008
+757060	  66	00808	     	66-808	Crane Court	066	Northumberland County	066	Northumberland County	0.08	Cul-de-Sac	66-807 Stillwater Rd	20	R							X						06/04/2008
+787934	  66	00809	     	66-809	Oyster Point Dr	066	Northumberland County	066	Northumberland County	0.74	66-652 Sunny Bank Rd	Dead End	70	R							X						04/21/2005
+757061	  66	00810	     	66-810	Horn Harbor Rd	066	Northumberland County	066	Northumberland County	0.70	Dead End	66-663 Blackwell Wharf Rd	190	R							X						06/04/2008
+757062	  66	00811	     	66-811	Overlook Lane	066	Northumberland County	066	Northumberland County	0.11	66-810 Horn Harbor Rd	Cul-de-Sac	50	R							X						06/04/2008
+784321	  66	00812	     	66-812	Steamboat Lane	066	Northumberland County	066	Northumberland County	1.38	66-604 Indian Valley Rd	Dead End	160	R							X						03/20/2008
+757063	  66	00815	     	66-815	School St	066	Northumberland County	066	Northumberland County	0.06	US 360 Main St	66-644 Reed Ave	150	R							X						06/02/2008
+757064	  66	00818	     	66-818	Warrens Lane	066	Northumberland County	066	Northumberland County	0.32	66-618 Fruit Plain Rd	Dead End	60	R							X						03/18/2008
+757065	  66	00820	     	66-820	Palmer Dr	066	Northumberland County	066	Northumberland County	1.34	Dead End	66-624 Lewisetta Rd	120	R							X						04/02/2008
+790978	  66	00823	     	66-823	Plantation Rd	066	Northumberland County	066	Northumberland County	0.22	Dead End	66-712 Lodge Rd	40	R							X						06/09/2008
+757066	  66	00824	     	66-824	 	066	Northumberland County	066	Northumberland County	0.05	US 360	66-612	10	R							X						03/27/2008
+757067	  66	00830	     	66-830	Harmony Hills Circle	066	Northumberland County	066	Northumberland County	0.41	Dead End	66-609 Remo Rd	120	R							X						05/19/2008
+757068	  66	00835	     	66-835	Twin Cove Lane	066	Northumberland County	066	Northumberland County	0.60	Dead End	66-649 Lighthouse View Dr	130	R							X						05/21/2008
+757069	  66	00836	     	66-836	Potomac Dr	066	Northumberland County	066	Northumberland County	0.55	Cul-de-Sac	0.13 ME 66-636	60	R							X						05/05/2008
+757070	  66	00837	     	66-837	Presley Dr	066	Northumberland County	066	Northumberland County	0.12	Cul-de-Sac	66-836 Potomac Dr	10	R							X						04/18/2005
+757071	  66	00840	     	66-840	Sunrise Court	066	Northumberland County	066	Northumberland County	0.25	66-629 Coan Harbour Rd	Dead End	150	R							X						03/27/2008
+782565	  66	00841	     	66-841	Holly Court	066	Northumberland County	066	Northumberland County	0.14	Cul-de-Sac	66-840 Sunrise Court	70	R							X						03/27/2008
+785830	  66	00842	     	66-842	Kingscote Dr	066	Northumberland County	066	Northumberland County	0.66	66-625 Cowart Rd	Cul-de-Sac	70	R							X						05/20/2005
+757072	  66	00845	     	66-845	Messick Lane	066	Northumberland County	066	Northumberland County	0.24	66-629 Bundick Rd	Cul-de-Sac	70	R							X						03/27/2008
+757073	  66	01001	     	66-1001	Back St	066	Northumberland County	066	Northumberland County	0.02	66-1002 Monument Place	66-1004 Judicial Place	530	R							X						04/27/2005
+757074	  66	01001	     	66-1001	Back St	066	Northumberland County	066	Northumberland County	0.12	66-1004 Judicial Place	US 360 Northumberland Hwy	90	R							X						04/27/2005
+757075	  66	01002	     	66-1002	Monument Place	066	Northumberland County	066	Northumberland County	0.04	US 360 S, Northumberland Hwy	Dead End; Gap	740	R							X						04/27/2005
+757076	  66	01002	     	66-1002	Monument Place	066	Northumberland County	066	Northumberland County	0.03	Dead End; Gap	66-1001 Back St	220	R							X						04/27/2005
+757077	  66	01002	     	66-1002	Monument Place	066	Northumberland County	066	Northumberland County	0.03	66-1001 Back St	66-1003	660	R							X						04/27/2005
+757078	  66	01002	     	66-1002	Monument Place	066	Northumberland County	066	Northumberland County	0.02	66-1003	US 360 N, Northumberland Hwy	910	R							X						04/27/2005
+757079	  66	01003	     	66-1003	 	066	Northumberland County	066	Northumberland County	0.03	66-1002 Monument Place	US 360 Northumberland Hwy	110	R							X						04/27/2005
+757080	  66	01004	     	66-1004	Judicial Place	066	Northumberland County	066	Northumberland County	0.06	Dead End	66-1001 Back St	370	R							X						04/27/2005
+757081	  66	01005	     	66-1005	Clifton Ave	249	Town of Kilmarnock	066	Northumberland County	0.05	SR 200 Lancaster County	66-1016 Bellevue Rd	380	R							X						03/07/2005
+757082	  66	01005	     	66-1005	Clifton Ave	249	Town of Kilmarnock	066	Northumberland County	0.14	66-1016 Bellevue Rd	Dead End	40	R							X						03/07/2005
+792508	  66	01006	     	66-1006	Wicomico Dr	066	Northumberland County	066	Northumberland County	0.15	Dead End	SR 200 Jesse DuPont Mem Hwy	30	R							X						05/15/2008
+757083	  66	01006	     	66-1006	Wicomico Dr	066	Northumberland County	066	Northumberland County	0.32	SR 200 Jesse DuPont Mem Hwy	66-1007 Tipers Circle	140	R							X						05/15/2008
+757084	  66	01006	     	66-1006	Wicomico Dr	066	Northumberland County	066	Northumberland County	0.26	66-1007 Tipers Circle	Cul-de-Sac	40	R							X						05/15/2008
+757085	  66	01007	     	66-1007	Tipers Circle	066	Northumberland County	066	Northumberland County	0.22	Cul-de-Sac	66-1006 Wicomico Dr	40	R							X						05/02/2005
+757086	  66	01008	     	66-1008	Laurel Ridge Rd	066	Northumberland County	066	Northumberland County	0.34	SR 200 Jesse DuPont Mem Hwy	Cul-de-Sac	60	R							X						05/02/2005
+792509	  66	01009	     	66-1009	Glebe Point Lane	066	Northumberland County	066	Northumberland County	0.07	Dead End	SR 200 Jesse DuPont Memorial Hwy	20	R							X						05/15/2008
+757087	  66	01010	     	66-1010	Skipjack Dr	066	Northumberland County	066	Northumberland County	0.31	66-609 Harveys Neck Rd; Remo Rd	66-1011 Keel Court	160	R							X						06/10/2008
+757088	  66	01010	     	66-1010	Skipjack Dr	066	Northumberland County	066	Northumberland County	0.15	66-1011 Keel Court	66-1012 Mainsail Court	70	R							X						06/10/2008
+757089	  66	01010	     	66-1010	Skipjack Dr	066	Northumberland County	066	Northumberland County	0.28	66-1012 Mainsail Court	Cul-de-Sac	40	R							X						06/10/2008
+757090	  66	01011	     	66-1011	Keel Court	066	Northumberland County	066	Northumberland County	0.08	Cul-de-Sac	66-1010 Skipjack Dr	30	R							X						06/10/2008
+757091	  66	01012	     	66-1012	Mainsail Court	066	Northumberland County	066	Northumberland County	0.08	66-1010 Skipjack Dr	Cul-de-Sac	20	R							X						06/10/2008
+794640	  66	01013	     	66-1013	Marlin Place	066	Northumberland County	066	Northumberland County	0.19	66-666 Sandy Point Rd	Dead End	20	R							X						06/04/2008
+757092	  66	01014	     	66-1014	Dixie Ave	249	Town of Kilmarnock	066	Northumberland County	0.06	SR 200 Lancaster County	66-1015 Avonne St	60	R							X						03/07/2005
+757093	  66	01015	     	66-1015	Avonne St	249	Town of Kilmarnock	066	Northumberland County	0.07	66-1017 Bay Ridge Ave	66-1014 Dixie Ave	30	R							X						03/07/2005
+757094	  66	01016	     	66-1016	Bellevue Rd	249	Town of Kilmarnock	066	Northumberland County	0.14	Lancaster County Line	66-1005 Clifton Ave	410	R							X						03/07/2005
+757095	  66	01017	     	66-1017	Bay Ridge Ave	249	Town of Kilmarnock	066	Northumberland County	0.06	SR 200 Lancaster County	66-1015 Avonne St	50	R							X						04/07/2008
+796223	  66	01018	     	66-1018	 	066	Northumberland County	066	Northumberland County	0.36	SR 200 Jesse DuPont Memorial Hwy	Dead End	0	?							X
+796224	  66	01019	     	66-1019	 	066	Northumberland County	066	Northumberland County	0.18	66-1018	Dead End	0	?							X
+757096	  66	01020	     	66-1020	Snowden Park Dr	066	Northumberland County	066	Northumberland County	0.17	SR 200 Jesse DuPont Mem Hwy	Dead End	120	R							X						05/15/2008
+782566	  66	01023	     	66-1023	Lagrange Dr	066	Northumberland County	066	Northumberland County	0.20	66-1024 Lagrange Ave	66-605 Mt Olive Rd	60	R							X						03/21/2005
+782567	  66	01024	     	66-1024	Lagrange Ave	066	Northumberland County	066	Northumberland County	0.34	Cul-de-Sac	Cul-de-Sac	40	R							X						03/21/2005
+757097	  66	01025	     	66-1025	Clifton Landing Lane	066	Northumberland County	066	Northumberland County	1.67	66-608 Bluff Point Rd	Dead End	140	R							X						03/07/2005
+784322	  66	01026	     	66-1026	Mariners Watch Lane	066	Northumberland County	066	Northumberland County	0.17	66-1025; 66-1027	Cul-de-Sac	40	R							X						04/07/2008
+784323	  66	01027	     	66-1027	Mariners Watch Lane	066	Northumberland County	066	Northumberland County	0.32	Dead End	66-1025; 66-1026	70	R							X						04/07/2008
+784324	  66	01028	     	66-1028	Tide Point Lane	066	Northumberland County	066	Northumberland County	0.10	66-1025 Clifton Landing Lane	Dead End	30	R							X						04/07/2008
+784325	  66	01029	     	66-1029	Way Point Lane	066	Northumberland County	066	Northumberland County	0.14	66-1025 Clifton Landing Lane	Cul-de-Sac	40	R							X						04/07/2008
+757098	  66	01030	     	66-1030	Compass Dr	066	Northumberland County	066	Northumberland County	0.03	Cul-de-Sac	66-1032 Harvey Lane	20	R							X						06/10/2008
+757099	  66	01030	     	66-1030	Compass Dr	066	Northumberland County	066	Northumberland County	0.09	66-1032 Harvey Lane	66-609 Harveys Neck Rd	60	R							X						06/10/2008
+757100	  66	01031	     	66-1031	Ingram Bay Dr	066	Northumberland County	066	Northumberland County	0.07	Cul-de-Sac	66-1032 Harvey Lane	20	R							X						06/10/2008
+757101	  66	01031	     	66-1031	Ingram Bay Dr	066	Northumberland County	066	Northumberland County	0.08	66-1032 Harvey Lane	66-609 Harveys Neck Rd	60	R							X						06/10/2008
+757102	  66	01031	     	66-1031	Ingram Bay Dr	066	Northumberland County	066	Northumberland County	0.07	66-609 Harveys Neck Rd	Cul-de-Sac	30	R							X						06/10/2008
+757103	  66	01032	     	66-1032	Harvey Lane	066	Northumberland County	066	Northumberland County	0.20	66-1030 Compass Dr	66-1031 Ingram Bay Dr	40	R							X						06/10/2008
+784326	  66	01035	     	66-1035	Natty Point Lane	066	Northumberland County	066	Northumberland County	0.40	66-669 Apple Grove Rd	Cul-de-Sac	100	R							X						05/19/2008
+785414	  66	01038	     	66-1038	Waring Lane	066	Northumberland County	066	Northumberland County	0.16	Dead End	66-668 Harding Rd	60	R							X						05/19/2008
+785494	  66	01039	     	66-1039	East Harmony Circle	066	Northumberland County	066	Northumberland County	0.13	Cul-de-Sac	66-1038 Waring Lane	20	R							X						05/19/2008
+757104	  66	01040	     	66-1040	Bowsprit Lane	066	Northumberland County	066	Northumberland County	0.04	Cul-de-Sac	66-1010 Skipjack Dr	20	R							X						06/10/2008
+757105	  66	01041	     	66-1041	Rudder Place	066	Northumberland County	066	Northumberland County	0.03	Cul-de-Sac	66-1010 Skipjack Dr	9	R							X						06/10/2008
+757106	  66	01042	     	66-1042	Crowsnest Court	066	Northumberland County	066	Northumberland County	0.10	Cul-de-Sac	66-1010 Skipjack Dr	20	R							X						06/10/2008
+788837	  66	01043	     	66-1043	Bowsprit Lane	066	Northumberland County	066	Northumberland County	0.09	Dead End	66-1010; 66-1040	20	R							X						05/04/2005
+794641	  66	01044	     	66-1044	Spinnaker Ct	066	Northumberland County	066	Northumberland County	0.05	66-1010 Skipjack Dr	Dead End	4	R							X						06/10/2008
+791882	  66	01048	     	66-1048	Wrights Cove Dr	066	Northumberland County	066	Northumberland County	0.67	66-624 Lewisetta Rd	Dead End	40	R							X						06/10/2008
+791883	  66	01049	     	66-1049	Claughton Wright Lane	066	Northumberland County	066	Northumberland County	0.14	66-1048 Wrights Cove Dr	Dead End	10	R							X						06/10/2008
+757107	  66	01050	     	66-1050	Richard Rd	066	Northumberland County	066	Northumberland County	0.27	66-1051 Surry St	66-644 Ferry Rd	80	R							X						05/21/2008
+757108	  66	01051	     	66-1051	Surry St	066	Northumberland County	066	Northumberland County	0.29	Cul-de-Sac	Cul-de-Sac	60	R							X						05/21/2008
+787935	  66	01052	     	66-1052	Wicomico Way Dr	066	Northumberland County	066	Northumberland County	0.16	66-644 Ferry Rd	66-1053 Wicomico View Dr	40	R							X						04/13/2005
+787936	  66	01053	     	66-1053	Wicomico View Dr	066	Northumberland County	066	Northumberland County	0.21	Cul-de-Sac	Cul-de-Sac	20	R							X						04/13/2005
+757109	  66	01060	     	66-1060	Oyster Way	066	Northumberland County	066	Northumberland County	0.80	66-604 Sydnors Millpond Rd	Cul-de-Sac	140	R							X						04/18/2005
+757110	  66	01061	     	66-1061	Greenway Place	066	Northumberland County	066	Northumberland County	0.30	66-1060 Oyster Way	Cul-de-Sac	30	R							X						04/18/2005
+782568	  66	01062	     	66-1062	Bayward Dr	066	Northumberland County	066	Northumberland County	0.44	66-1060 Oyster Way	Cul-de-Sac	30	R							X						04/18/2005
+794642	  66	01063	     	66-1063	Shellfish Dr	066	Northumberland County	066	Northumberland County	0.15	Dead End	66-1060 Oyster Way	20	R							X						05/05/2008
+794643	  66	01064	     	66-1064	Wood Duck Circle	066	Northumberland County	066	Northumberland County	0.05	66-1060 Oyster Way	Dead End	20	R							X						05/05/2008
+757111	  66	01070	     	66-1070	Swann Way	066	Northumberland County	066	Northumberland County	0.09	66-604 Indian Valley Rd	66-1071 Lake View Dr	80	R							X						03/31/2005
+757112	  66	01071	     	66-1071	Lake View Dr	066	Northumberland County	066	Northumberland County	0.72	Cul-de-Sac	66-1070 Swann Way	50	R							X						03/31/2005
+757113	  66	01071	     	66-1071	Lake View Dr	066	Northumberland County	066	Northumberland County	0.30	66-1070 Swann Way	Cul-de-Sac	10	R							X						03/31/2005
+757114	  66	01080	     	66-1080	Southgate Dr	066	Northumberland County	066	Northumberland County	0.70	66-665 Mila Rd	66-1081 Gougher Point Rd	130	R							X						05/04/2005
+757115	  66	01081	     	66-1081	Gougher Point Rd	066	Northumberland County	066	Northumberland County	0.17	66-1080 Southgate Dr	Cul-de-Sac	40	R							X						05/04/2005
+791884	  66	01084	     	66-1084	Chesapeake Dr	066	Northumberland County	066	Northumberland County	0.98	66-640 Hull Neck Rd	Broad View Lane	70	R							X						05/13/2008
+791885	  66	01085	     	66-1085	Potomac Way	066	Northumberland County	066	Northumberland County	0.17	66-1084 Chesapeake Dr	Dead End	30	R							X						05/13/2008
+793307	  66	01086	     	66-1086	Eagles Nest Lane	066	Northumberland County	066	Northumberland County	0.32	Dead End	Dead End	40	R							X						05/13/2008
+793308	  66	01092	     	66-1092	Starboard Ct	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-1094 Spinnaker Lane	10	R							X						05/05/2008
+791886	  66	01093	     	66-1093	Windjammer Ct	066	Northumberland County	066	Northumberland County	0.07	Dead End	66-635 Sandy Beach Rd	4	R							X						05/05/2008
+782569	  66	01094	     	66-1094	Spinnaker Lane	066	Northumberland County	066	Northumberland County	0.32	66-635 Sandy Beach Rd	Cul-de-Sac	50	R							X						05/05/2008
+757116	  66	01095	     	66-1095	Gull Lane	066	Northumberland County	066	Northumberland County	0.20	Cul-de-Sac	66-794 Fountain Gate Rd	30	R							X						04/18/2005
+757117	  66	01096	     	66-1096	Osprey Dr	066	Northumberland County	066	Northumberland County	0.18	66-794 Fountain Gate Rd	Cul-de-Sac	10	R							X						04/18/2005
+757118	  66	01101	     	66-1101	Cheyenne Pass	066	Northumberland County	066	Northumberland County	0.06	66-1115 Pocohontas Rd	66-1103 Powhatan	40	R							X						04/07/2008
+757119	  66	01101	     	66-1101	Cheyenne Pass	066	Northumberland County	066	Northumberland County	0.05	66-1103 Powhatan	66-1102 Cherokee Trail	30	R							X						04/07/2008
+757120	  66	01102	     	66-1102	Cherokee Trail	066	Northumberland County	066	Northumberland County	0.08	Dead End	66-1101 Cheyenne Pass	30	R							X						04/07/2008
+757121	  66	01102	     	66-1102	Cherokee Trail	066	Northumberland County	066	Northumberland County	0.11	66-1101 Cheyenne Pass	Dead End	4	R							X						04/07/2008
+757122	  66	01103	     	66-1103	Powhatan	066	Northumberland County	066	Northumberland County	0.13	66-1101 Cheyenne Pass	66-1106 Gap	30	R							X						04/07/2008
+757123	  66	01103	     	66-1103	Powhatan	066	Northumberland County	066	Northumberland County	0.06	66-1104 Gap	66-669 Bluff Point Rd	30	R							X						04/07/2008
+757125	  66	01105	     	66-1105	Navajo Rd	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-1106 Shawnee	30	R							X						03/07/2005
+757126	  66	01105	     	66-1105	Navajo Rd	066	Northumberland County	066	Northumberland County	0.17	66-1106 Shawnee	66-669 Bluff Point Rd	110	R							X						03/07/2005
+757128	  66	01106	     	66-1106	Shawnee	066	Northumberland County	066	Northumberland County	0.24	66-1103 Powhatan	66-1107 North Sioux	30	R							X						03/07/2005
+757129	  66	01106	     	66-1106	Shawnee	066	Northumberland County	066	Northumberland County	0.06	66-1107 North Sioux	66-1105 Navajo Rd	90	R							X						03/07/2005
+757130	  66	01107	     	66-1107	North Sioux	066	Northumberland County	066	Northumberland County	0.27	End Loop	66-1109 South Sioux Rd	30	R							X						03/07/2005
+757131	  66	01107	     	66-1107	North Sioux	066	Northumberland County	066	Northumberland County	0.03	66-1109 South Sioux Rd	66-1108 .	20	R							X						03/07/2005
+757132	  66	01107	     	66-1107	North Sioux	066	Northumberland County	066	Northumberland County	0.19	66-1108 .	Begin Loop	40	R							X						03/07/2005
+757133	  66	01107	     	66-1107	North Sioux	066	Northumberland County	066	Northumberland County	0.05	Begin Loop	66-1106 Shawnee	80	R							X						03/07/2005
+757134	  66	01108	     	66-1108	 	066	Northumberland County	066	Northumberland County	0.02	66-1107 North Sioux	Cul-de-Sac	10	R							X						03/07/2005
+757135	  66	01109	     	66-1109	South Sioux Rd	066	Northumberland County	066	Northumberland County	0.02	Cul-de-Sac	66-1107 North Sioux	20	R							X						03/07/2005
+757136	  66	01110	     	66-1110	Pawnee Pass	066	Northumberland County	066	Northumberland County	0.06	66-1112 Comanchee Lane	66-1111 Apache Trail	30	R							X						03/07/2005
+757137	  66	01110	     	66-1110	Pawnee Pass	066	Northumberland County	066	Northumberland County	0.09	66-1111 Apache Trail	66-1115 Pocohontas Rd	40	R							X						03/07/2005
+757138	  66	01111	     	66-1111	Apache Trail	066	Northumberland County	066	Northumberland County	0.20	66-1116 Tuckahoe Dr	66-1110 Pawnee Pass	4	R							X						03/07/2005
+757139	  66	01112	     	66-1112	Comanche Lane	066	Northumberland County	066	Northumberland County	0.21	66-1116 Tuckahoe Dr	66-1110 Pawnee Pass	20	R							X						03/07/2005
+757140	  66	01113	     	66-1113	Bells Creek Lane	066	Northumberland County	066	Northumberland County	0.36	Dead End	66-672 Painter Point Rd	40	R							X						04/07/2008
+757141	  66	01114	     	66-1114	Club Dr	066	Northumberland County	066	Northumberland County	0.36	66-1118 East Dr	66-1115 Pocohontas Rd	560	R							X						03/07/2005
+757142	  66	01115	     	66-1115	Pocohontas Rd	066	Northumberland County	066	Northumberland County	0.07	Dead End	66-1117 Orapax Rd	30	R							X						04/07/2008
+757143	  66	01115	     	66-1115	Pocohontas Rd	066	Northumberland County	066	Northumberland County	0.12	66-1117 Orapax Rd	66-1116 Tuckahoe Dr	60	R							X						04/07/2008
+757144	  66	01115	     	66-1115	Pocohontas Rd	066	Northumberland County	066	Northumberland County	0.04	66-1116 Tuckahoe Dr	66-1101 Cheyenne Pass	130	R							X						04/07/2008
+757145	  66	01115	     	66-1115	Pocohontas Rd	066	Northumberland County	066	Northumberland County	0.14	66-1101 Cheyenne Pass	66-1110 Pawnee Pass	150	R							X						04/07/2008
+757146	  66	01115	     	66-1115	Pocohontas Rd	066	Northumberland County	066	Northumberland County	0.09	66-1110 Pawnee Pass	66-1114 Club Dr	220	R							X						04/07/2008
+757147	  66	01115	     	66-1115	Pocohontas Rd	066	Northumberland County	066	Northumberland County	0.07	66-1114 Club Dr	66-669 Bluff Point Rd	600	R							X						04/07/2008
+757148	  66	01116	     	66-1116	Tuckahoe Dr	066	Northumberland County	066	Northumberland County	0.29	Dead End	66-1112 Comanche Lane	60	R							X						03/07/2005
+757149	  66	01116	     	66-1116	Tuckahoe Dr	066	Northumberland County	066	Northumberland County	0.06	66-1112 Comanche Lane	66-1111 Apache Trail	70	R							X						03/07/2005
+757150	  66	01116	     	66-1116	Tuckahoe Dr	066	Northumberland County	066	Northumberland County	0.06	66-1111 Apache Trail	66-1115 Pocohontas Rd	90	R							X						03/07/2005
+757151	  66	01117	     	66-1117	Orapax Rd	066	Northumberland County	066	Northumberland County	0.03	66-1115 Pocohontas Rd	0.03 MN 66-1115	40	R							X						03/07/2005
+757152	  66	01117	     	66-1117	Orapax Rd	066	Northumberland County	066	Northumberland County	0.09	0.03 MN 66-1115	Dead End	30	R							X						03/07/2005
+757153	  66	01118	     	66-1118	East Dr	066	Northumberland County	066	Northumberland County	0.15	Begin Loop	End Loop	30	R							X						03/07/2005
+757154	  66	01118	     	66-1118	East Dr	066	Northumberland County	066	Northumberland County	0.15	End Loop	0.15 MN End Loop	40	R							X						03/07/2005
+757155	  66	01118	     	66-1118	East Dr	066	Northumberland County	066	Northumberland County	0.35	0.15 MN End Loop	66-1114 Club Dr	90	R							X						03/07/2005
+757156	  66	01118	     	66-1118	East Dr	066	Northumberland County	066	Northumberland County	0.08	66-1114 Club Dr	66-1119 N, South Dr	330	R							X						03/07/2005
+757157	  66	01118	     	66-1118	East Dr	066	Northumberland County	066	Northumberland County	0.29	66-1119 N, South Dr	66-1119 S, South Dr	120	R							X						03/07/2005
+757158	  66	01119	     	66-1119	South Dr	066	Northumberland County	066	Northumberland County	0.09	Dead End	66-1118 S, East Dr	60	R							X						03/07/2005
+757159	  66	01119	     	66-1119	South Dr	066	Northumberland County	066	Northumberland County	0.08	66-1118 S, East Dr	66-1120 West Dr	40	R							X						03/07/2005
+757160	  66	01119	     	66-1119	South Dr	066	Northumberland County	066	Northumberland County	0.20	66-1120 West Dr	66-1118 N, East Dr	80	R							X						03/07/2005
+757161	  66	01120	     	66-1120	West Dr	066	Northumberland County	066	Northumberland County	0.14	Dead End	66-1119 South Dr	50	R							X						03/07/2005
+757162	  66	01121	     	66-1121	Henrys View Lane	066	Northumberland County	066	Northumberland County	0.05	Dead End	66-676 Logan Lodge Rd	40	R							X						03/07/2005
+757163	  66	01122	     	66-1122	Oystershell Rd	066	Northumberland County	066	Northumberland County	0.16	Dead End	66-672 Painter Point Rd	170	R							X						05/04/2005
+793309	  66	01128	     	66-1128	Prentice Circle	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-1129 Hunton Dr	30	R							X						04/09/2008
+757164	  66	01129	     	66-1129	Hunton Dr	066	Northumberland County	066	Northumberland County	0.29	66-669 Prentice Creek Rd	Cul-de-Sac	30	R							X						03/21/2005
+757165	  66	01130	     	66-1130	Shore Dr	066	Northumberland County	066	Northumberland County	0.35	66-607 Ditchley Rd	66-607 Ditchley Rd	60	R							X						03/21/2005
+792403	  66	01148	     	66-1148	Herdn Ct	066	Northumberland County	066	Northumberland County	0.07	Dead End	66-812 Steamboat Lane	40	R							X						03/20/2008
+792402	  66	01149	     	66-1149	Rockfish Rd	066	Northumberland County	066	Northumberland County	0.17	66-812 Steamboat Lane	Dead End	30	R							X						03/20/2008
+757166	  66	01150	     	66-1150	Captains Way	066	Northumberland County	066	Northumberland County	0.05	Cul-de-Sac	66-1151 Thompson Court	60	R							X						05/09/2005
+757167	  66	01150	     	66-1150	Captains Way	066	Northumberland County	066	Northumberland County	0.45	66-1151 Thompson Court	66-653 Whays Creek Rd	130	R							X						05/09/2005
+757168	  66	01151	     	66-1151	Thompson Court	066	Northumberland County	066	Northumberland County	0.10	66-1150 Captains Way	Cul-de-Sac	30	R							X						05/09/2005
+792401	  66	01170	     	66-1170	Osprey Way	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-835 Twin Cove Lane	40	R							X						05/21/2008
+792400	  66	01171	     	66-1171	Cove Place	066	Northumberland County	066	Northumberland County	0.05	66-835 Twin Cove Lane	Dead End	8	R							X						05/21/2008
+792399	  66	01172	     	66-1172	Canvasback Dr	066	Northumberland County	066	Northumberland County	0.37	Dead End	66-649 Lighthouse View Dr	60	R							X						05/21/2008
+792397	  66	01173	     	66-1173	Pintail Place	066	Northumberland County	066	Northumberland County	0.08	Dead End	66-1174 Redhead Lane	30	R							X						05/21/2008
+792398	  66	01173	     	66-1173	Pintail Place	066	Northumberland County	066	Northumberland County	0.05	66-1174 Redhead Lane	Dead End	6	R							X						05/21/2008
+792396	  66	01174	     	66-1174	Redhead Lane	066	Northumberland County	066	Northumberland County	0.18	66-1173 Pintail Place	66-1172 Canvasback Dr	10	R							X						05/21/2008
+757169	  66	01201	     	66-1201	Maple Lane	066	Northumberland County	066	Northumberland County	0.28	Dead End	66-1202 Dogwood Dr	40	R							X						05/21/2008
+757170	  66	01201	     	66-1201	Maple Lane	066	Northumberland County	066	Northumberland County	0.07	66-1202 Dogwood Dr	66-644 Hacks Neck Rd	130	R							X						05/21/2008
+757171	  66	01202	     	66-1202	Dogwood Dr	066	Northumberland County	066	Northumberland County	0.19	Dead End	66-1203 Chestnut Court	40	R							X						04/13/2005
+757172	  66	01202	     	66-1202	Dogwood Dr	066	Northumberland County	066	Northumberland County	0.06	66-1203 Chestnut Court	66-1204 Oak Court	49	R							X						04/13/2005
+757173	  66	01202	     	66-1202	Dogwood Dr	066	Northumberland County	066	Northumberland County	0.04	66-1204 Oak Court	66-1201 Maple Lane	60	R							X						04/13/2005
+757174	  66	01203	     	66-1203	Chestnut Court	066	Northumberland County	066	Northumberland County	0.04	Cul-de-Sac	66-1202 Dogwood Dr	5	R							X						04/13/2005
+757175	  66	01204	     	66-1204	Oak Court	066	Northumberland County	066	Northumberland County	0.03	Cul-de-Sac	66-1202 Dogwood Dr	10	R							X						04/13/2005
+782570	  66	01209	     	66-1209	Sawmill Cove Dr	066	Northumberland County	066	Northumberland County	0.46	66-644 Hacks Neck Rd	Cul-de-Sac	30	R							X						04/13/2005
+757176	  66	01210	     	66-1210	Riverview Lane	066	Northumberland County	066	Northumberland County	0.04	66-639 Cedar Point Rd	66-1212 Trolling Court	150	R							X						03/24/2008
+757177	  66	01210	     	66-1210	Riverview Lane	066	Northumberland County	066	Northumberland County	0.40	66-1212 Trolling Court	66-1211 S, Wicomico Way	110	R							X						03/24/2008
+757178	  66	01210	     	66-1210	Riverview Lane	066	Northumberland County	066	Northumberland County	0.54	66-1211 S, Wicomico Way	66-1211 N, Wicomico Way	40	R							X						03/24/2008
+757179	  66	01211	     	66-1211	Wicomico Way	066	Northumberland County	066	Northumberland County	0.08	66-1210 Riverview Lane	66-1210 Riverview Lane	60	R							X						04/18/2005
+757180	  66	01212	     	66-1212	Trolling Court	066	Northumberland County	066	Northumberland County	0.05	66-1210 Riverview Lane	Cul-de-Sac	10	R							X						04/18/2005
+757181	  66	01213	     	66-1213	Tidewater Court	066	Northumberland County	066	Northumberland County	0.08	Cul-de-Sac	66-1210 Riverview Lane	30	R							X						03/24/2008
+786627	  66	01214	     	66-1214	Driftwood Court	066	Northumberland County	066	Northumberland County	0.08	Dead End	66-1210 Riverview Lane	20	R							X						04/18/2005
+792395	  66	01215	     	66-1215	Peninsula Dr	066	Northumberland County	066	Northumberland County	0.40	66-1220 Cubitt Creek Rd	Dead End	40	R							X						05/13/2008
+757182	  66	01216	     	66-1216	Mallard Dr	066	Northumberland County	066	Northumberland County	0.47	66-707 Coopers Landing Rd	Cul-de-Sac	48	R							X						04/18/2005
+757183	  66	01217	     	66-1217	Bluebill Circle	066	Northumberland County	066	Northumberland County	0.06	Cul-de-Sac	66-707 Coopers Landing Rd	8	R							X						04/18/2005
+792394	  66	01218	     	66-1218	Penn Court	066	Northumberland County	066	Northumberland County	0.12	66-1224 White Sand Dr	66-1215 Peninsula Dr	20	R							X						05/13/2008
+792393	  66	01219	     	66-1219	Holly Dr	066	Northumberland County	066	Northumberland County	0.15	66-1220 Cubitt Creek Rd	66-1215 Peninsula Dr	10	R							X						05/13/2008
+757184	  66	01220	     	66-1220	Cubitt Creek Rd	066	Northumberland County	066	Northumberland County	0.64	Cul-de-Sac	66-1221 Riverview Rd	70	R							X						05/13/2008
+757185	  66	01220	     	66-1220	Cubitt Creek Rd	066	Northumberland County	066	Northumberland County	0.07	66-1221 Riverview Rd	66-1223 Cedar Court	90	R							X						05/13/2008
+757186	  66	01220	     	66-1220	Cubitt Creek Rd	066	Northumberland County	066	Northumberland County	0.10	66-1223 Cedar Court	66-604 Mob Neck Rd	100	R							X						05/13/2008
+757187	  66	01221	     	66-1221	Riverview Rd	066	Northumberland County	066	Northumberland County	0.23	66-1220 Cubitt Creek Rd	66-604 Mob Neck Rd	30	R							X						04/13/2005
+757188	  66	01221	     	66-1221	Riverview Rd	066	Northumberland County	066	Northumberland County	0.21	66-604 Mob Neck Rd	66-1222 Fleet Rd	30	R							X						04/13/2005
+757189	  66	01222	     	66-1222	Fleet Rd	066	Northumberland County	066	Northumberland County	0.15	Cul-de-Sac	66-1221 Riverview Rd	40	R							X						04/13/2005
+757190	  66	01222	     	66-1222	Fleet Rd	066	Northumberland County	066	Northumberland County	0.28	66-1221 Riverview Rd	66-604 Mob Neck Rd	40	R							X						04/13/2005
+757191	  66	01223	     	66-1223	Cedar Court	066	Northumberland County	066	Northumberland County	0.06	Cul-de-Sac	66-1220 Cubitt Creek Rd	8	R							X						04/13/2005
+757192	  66	01224	     	66-1224	White Sand Dr	066	Northumberland County	066	Northumberland County	0.09	66-1220 Cubitt Creek Rd	66-1225 Lomar Lane	48	R							X						05/13/2008
+757193	  66	01224	     	66-1224	White Sand Dr	066	Northumberland County	066	Northumberland County	0.01	66-1225 Lomar Lane	0.01 MS 66-1225 Lomar Lane	30	R							X						05/13/2008
+757194	  66	01224	     	66-1224	White Sand Dr	066	Northumberland County	066	Northumberland County	0.41	0.01 MS 66-1225 Lomar Lane	Cul-de-Sac	10	R							X						05/13/2008
+757195	  66	01225	     	66-1225	Lomar Lane	066	Northumberland County	066	Northumberland County	0.26	66-1227 Dixie Court	66-1224 White Sand Dr	30	R							X						05/13/2008
+757196	  66	01226	     	66-1226	Riverside Court	066	Northumberland County	066	Northumberland County	0.08	Cul-de-Sac	66-1229 Witch Duck Lane	20	R							X						04/13/2005
+757197	  66	01226	     	66-1226	Riverside Court	066	Northumberland County	066	Northumberland County	0.14	66-1229 Witch Duck Lane	Cul-de-Sac	40	R							X						04/13/2005
+757198	  66	01227	     	66-1227	Dixie Court	066	Northumberland County	066	Northumberland County	0.11	Cul-de-Sac	Cul-de-Sac	30	R							X						05/13/2008
+757199	  66	01228	     	66-1228	Witch Duck Lane	066	Northumberland County	066	Northumberland County	0.02	66-740 Greenwood Beach Rd	66-1229 Witch Duck Lane	120	R							X						04/13/2005
+757200	  66	01229	     	66-1229	Witch Duck Lane	066	Northumberland County	066	Northumberland County	0.42	Cul-de-Sac	66-1228 Witch Duck Lane	60	R							X						04/13/2005
+757201	  66	01229	     	66-1229	Witch Duck Lane	066	Northumberland County	066	Northumberland County	0.15	66-1228 Witch Duck Lane	Riverside Court	50	R							X						04/13/2005
+757202	  66	01230	     	66-1230	Canvasback Lane	066	Northumberland County	066	Northumberland County	0.48	66-603 Mallard Bay Dr	66-1231 Pintail Lane	170	R							X						04/27/2005
+757203	  66	01230	     	66-1230	Canvasback Lane	066	Northumberland County	066	Northumberland County	0.32	66-1231 Pintail Lane	Begin Loop	70	R							X						04/27/2005
+757204	  66	01230	     	66-1230	Canvasback Lane	066	Northumberland County	066	Northumberland County	0.18	Begin Loop	End Loop	30	R							X						04/27/2005
+757205	  66	01231	     	66-1231	Pintail Lane	066	Northumberland County	066	Northumberland County	0.12	66-1230 Canvasback Lane	66-1240 Pintail Ct	50	R							X						03/24/2008
+784327	  66	01231	     	66-1231	Pintail Lane	066	Northumberland County	066	Northumberland County	0.21	66-1240 Pintail Ct	Dead End	30	R							X						03/24/2008
+757206	  66	01232	     	66-1232	Golden Eye Way	066	Northumberland County	066	Northumberland County	0.08	66-1230 Canvasback Lane	Cul-de-Sac	20	R							X						04/27/2005
+784328	  66	01233	     	66-1233	Blue Heron Dr	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-1229 Witch Duck Lane	30	R							X						05/15/2008
+784329	  66	01234	     	66-1234	Blue Heron Court	066	Northumberland County	066	Northumberland County	0.09	66-1233 Blue Heron Dr	Cul-de-Sac	20	R							X						05/15/2008
+784330	  66	01235	     	66-1235	Beach Point Rd	066	Northumberland County	066	Northumberland County	0.17	66-740 Greenwood Beach Rd	Cul-de-Sac	30	R							X						05/15/2008
+786628	  66	01236	     	66-1236	Bufflehead Court	066	Northumberland County	066	Northumberland County	0.05	66-1230 Canvasback Lane	Cul-de-Sac	10	R							X						04/27/2005
+786629	  66	01237	     	66-1237	Pintail Lane	066	Northumberland County	066	Northumberland County	0.10	Dead End	66-1230; 66-1231	30	R							X						04/27/2005
+788838	  66	01238	     	66-1238	Teal Way	066	Northumberland County	066	Northumberland County	0.12	66-603 Mallard Bay Dr	Cul-de-Sac	30	R							X						04/27/2005
+791887	  66	01239	     	66-1239	Ruddy Duck Rd	066	Northumberland County	066	Northumberland County	0.22	66-603 Mallard Bay Dr	Dead End	20	R							X						03/24/2008
+791172	  66	01240	     	66-1240	Pintail Court	066	Northumberland County	066	Northumberland County	0.08	66-1231 Pintail Lane	Dead End	20	R							X						03/24/2008
+794644	  66	01244	     	66-1244	Lighthouse Lane	066	Northumberland County	066	Northumberland County	0.36	Dead End	66-740 Greenwood Beach Rd	30	R							X						05/15/2008
+788839	  66	01245	     	66-1245	Bay View Lane	066	Northumberland County	066	Northumberland County	0.27	66-604 Mob Neck Rd	Cul-de-Sac	48	R							X						04/13/2005
+793310	  66	01246	     	66-1246	Shade Tree Lane	066	Northumberland County	066	Northumberland County	0.41	Cul-de-Sac	66-1220 Cubitt Creek Rd	10	R							X						05/13/2008
+757207	  66	01301	     	66-1301	Locksley Hall Rd	066	Northumberland County	066	Northumberland County	0.68	US 360 Northumberland Hwy	66-1305 Nottingham Dr	830	R							X						05/29/2008
+757208	  66	01301	     	66-1301	Locksley Hall Rd	066	Northumberland County	066	Northumberland County	1.03	66-1305 Nottingham Dr	66-1302; 66-1303	310	R							X						05/29/2008
+757209	  66	01302	     	66-1302	Bridge Creek Circle	066	Northumberland County	066	Northumberland County	0.79	66-1301; 66-1303	Dead End	80	R							X						04/04/2005
+757210	  66	01303	     	66-1303	Locksley Lane	066	Northumberland County	066	Northumberland County	0.28	Dead End	66-1304 Locksley Court	60	R							X						05/29/2008
+757211	  66	01303	     	66-1303	Locksley Lane	066	Northumberland County	066	Northumberland County	0.06	66-1304 Locksley Court	66-1301; 66-1302	60	R							X						04/04/2005
+757212	  66	01304	     	66-1304	Locksley Court	066	Northumberland County	066	Northumberland County	0.05	66-1303 Locksley Lane	Cul-de-Sac	20	R							X						04/04/2005
+757213	  66	01305	     	66-1305	Nottingham Dr	066	Northumberland County	066	Northumberland County	0.28	66-1301 Locksley Hall Rd	66-1306 Sherwood Dr	560	R							X						05/29/2008
+757214	  66	01305	     	66-1305	Nottingham Dr	066	Northumberland County	066	Northumberland County	0.22	66-1306 Sherwood Dr	Cul-de-Sac	30	R							X						05/29/2008
+757215	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.15	66-1305 Nottingham Dr	66-1307 Arthur Court	490	R							X						04/04/2005
+757216	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.03	66-1307 Arthur Court	66-1310 McCormick	470	R							X						04/04/2005
+757217	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.14	66-1310 McCormick	66-1311 Swann Court	440	R							X						04/04/2005
+757218	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.05	66-1311 Swann Court	66-1315 Friar St	390	R							X						04/04/2005
+757219	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.11	66-1315 Friar St	66-1317 Berkshire Dr	200	R							X						04/04/2005
+757220	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.12	66-1317 Berkshire Dr	66-1316 Galahad Court	150	R							X						04/04/2005
+757221	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.10	66-1316 Galahad Court	66-1308 Arrow Ave	130	R							X						04/04/2005
+757222	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.26	66-1308 Arrow Ave	66-1312 Merlin Court	90	R							X						04/04/2005
+757223	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.08	66-1312 Merlin Court	66-1318 Cross Bow St	70	R							X						04/04/2005
+757224	  66	01306	     	66-1306	Sherwood Dr	066	Northumberland County	066	Northumberland County	0.16	66-1318 Cross Bow St	Cul-de-Sac	70	R							X						04/04/2005
+757225	  66	01307	     	66-1307	Arthur Court	066	Northumberland County	066	Northumberland County	0.15	66-1306 Sherwood Dr	Cul-de-Sac	40	R							X						04/04/2005
+757226	  66	01308	     	66-1308	Arrow Ave	066	Northumberland County	066	Northumberland County	0.07	66-1309 Lancelot Dr	66-1317 Berkshire Dr	20	R							X						04/04/2005
+757227	  66	01308	     	66-1308	Arrow Ave	066	Northumberland County	066	Northumberland County	0.10	66-1317 Berkshire Dr	66-1306 Sherwood Dr	20	R							X						04/04/2005
+757228	  66	01309	     	66-1309	Lancelot Dr	066	Northumberland County	066	Northumberland County	0.06	66-1315 Friar St	W Little John St	80	R							X						04/04/2005
+757229	  66	01309	     	66-1309	Lancelot Dr	066	Northumberland County	066	Northumberland County	0.33	W Little John St	E Little John St	60	R							X						04/04/2005
+757230	  66	01309	     	66-1309	Lancelot Dr	066	Northumberland County	066	Northumberland County	0.06	E Little John St	66-1315 Friar St	20	R							X						04/04/2005
+757231	  66	01309	     	66-1309	Lancelot Dr	066	Northumberland County	066	Northumberland County	0.16	66-1315 Friar St	66-1308 Arrow Ave	120	R							X						04/04/2005
+757232	  66	01309	     	66-1309	Lancelot Dr	066	Northumberland County	066	Northumberland County	0.22	66-1308 Arrow Ave	66-1318 Cross Bow St	90	R							X						04/04/2005
+757233	  66	01309	     	66-1309	Lancelot Dr	066	Northumberland County	066	Northumberland County	0.21	66-1318 Cross Bow St	Cul-de-Sac	60	R							X						04/04/2005
+757234	  66	01310	     	66-1310	McCormick	066	Northumberland County	066	Northumberland County	0.19	Cul-de-Sac	66-1306 Sherwood Dr	49	R							X						04/04/2005
+757235	  66	01311	     	66-1311	Swann Court	066	Northumberland County	066	Northumberland County	0.12	66-1306 Sherwood Dr	Cul-de-Sac	46	R							X						04/04/2005
+757236	  66	01312	     	66-1312	Merlin Court	066	Northumberland County	066	Northumberland County	0.04	66-1306 Sherwood Dr	Cul-de-Sac	20	R							X						04/04/2005
+757237	  66	01313	     	66-1313	Spear Place	066	Northumberland County	066	Northumberland County	0.03	Cul-de-Sac	66-1306 Sherwood Dr	20	R							X						05/29/2008
+782571	  66	01314	     	66-1314	Little John St	066	Northumberland County	066	Northumberland County	0.17	66-1309 W, Lancelot Dr	66-1309 E, Lancelot Dr	30	R							X						04/04/2005
+757238	  66	01315	     	66-1315	Friar St	066	Northumberland County	066	Northumberland County	0.20	66-1306 Sherwood Dr	66-1309 Lancelot Dr	130	R							X						04/04/2005
+757239	  66	01316	     	66-1316	Galahad Court	066	Northumberland County	066	Northumberland County	0.10	66-1306 Sherwood Dr	Cul-de-Sac	20	R							X						04/04/2005
+757240	  66	01317	     	66-1317	Berkshire Dr	066	Northumberland County	066	Northumberland County	0.20	66-1306 Sherwood Dr	66-1308 Arrow Ave	40	R							X						04/04/2005
+757241	  66	01317	     	66-1317	Berkshire Dr	066	Northumberland County	066	Northumberland County	0.23	66-1308 Arrow Ave	66-1318 Cross Bow St	50	R							X						04/04/2005
+757242	  66	01318	     	66-1318	Cross Bow St	066	Northumberland County	066	Northumberland County	0.04	66-1306 Sherwood Dr	66-1317 Berkshire Dr	40	R							X						04/04/2005
+757243	  66	01318	     	66-1318	Cross Bow St	066	Northumberland County	066	Northumberland County	0.07	66-1317 Berkshire Dr	66-1309 Lancelot Dr	40	R							X						04/04/2005
+757244	  66	01320	     	66-1320	Bridge Creek Dr	066	Northumberland County	066	Northumberland County	0.12	66-1321 Waterview Lane	66-650 Sweethall Dr	60	R							X						05/29/2008
+757245	  66	01321	     	66-1321	Waterview Lane	066	Northumberland County	066	Northumberland County	0.01	Dead End	66-1320 Bridge Creek Dr	20	R							X						05/29/2008
+757246	  66	01321	     	66-1321	Waterview Lane	066	Northumberland County	066	Northumberland County	0.01	66-1320 Bridge Creek Dr	Dead End	30	R							X						05/29/2008
+791888	  66	01322	     	66-1322	Trumps Ct	066	Northumberland County	066	Northumberland County	0.30	Dead End	66-769 Greenfield Point Dr	70	R							X						05/29/2008
+791889	  66	01323	     	66-1323	Little River Dr	066	Northumberland County	066	Northumberland County	0.18	66-769 Greenfield Point Dr	66-1324 Skys Limit Ct; Sky Limit Court	40	R							X						05/29/2008
+792232	  66	01324	     	66-1324	Sky Limit Court	066	Northumberland County	066	Northumberland County	0.11	Dead End	66-1323 Little River Dr	20	R							X						05/29/2008
+792233	  66	01324	     	66-1324	Skys Limit Ct	066	Northumberland County	066	Northumberland County	0.05	66-1323 Little River Dr	Dead End	10	R							X						05/29/2008
+757247	  66	01329	     	66-1329	Spriggs Lane	066	Northumberland County	066	Northumberland County	0.17	Cul-de-Sac	66-651 Smith Point Rd	40	R							X						04/21/2005
+757248	  66	01330	     	66-1330	East Harbor Dr	066	Northumberland County	066	Northumberland County	0.50	66-805 Harbor Dr	66-805 Harbor Dr	70	R							X						05/29/2008
+786630	  66	01335	     	66-1335	Twin Harbor Rd	066	Northumberland County	066	Northumberland County	0.76	66-644 Blackberry Rd	Dead End	140	R							X						04/21/2005
+786631	  66	01336	     	66-1336	Emerald Cove Rd	066	Northumberland County	066	Northumberland County	0.23	66-1335 Twin Harbor Rd	Dead End	48	R							X						04/21/2005
+787937	  66	01337	     	66-1337	Watermans Way	066	Northumberland County	066	Northumberland County	0.20	66-1335 Twin Harbor Rd	Cul-de-Sac	50	R							X						04/21/2005
+788840	  66	01338	     	66-1338	Oyster Bay Rd	066	Northumberland County	066	Northumberland County	0.19	66-1335 Twin Harbor Rd	Dead End	49	R							X						04/21/2005
+757249	  66	01400	     	66-1400	Alabama Dr	066	Northumberland County	066	Northumberland County	0.16	66-1403 Presley Creek Dr	Cul-de-Sac	20	R							X						04/30/2008
+757250	  66	01401	     	66-1401	Bay Quarter Dr	066	Northumberland County	066	Northumberland County	0.14	Cul-de-Sac	66-1403 Presley Creek Dr	20	R							X						03/24/2005
+757251	  66	01401	     	66-1401	Bay Quarter Dr	066	Northumberland County	066	Northumberland County	0.59	66-1403 Presley Creek Dr	66-751 Cod Creek Dr	90	R							X						03/24/2005
+757252	  66	01401	     	66-1401	Bay Quarter Dr	066	Northumberland County	066	Northumberland County	0.30	66-751 Cod Creek Dr	Dead End	50	R							X						03/24/2005
+757253	  66	01402	     	66-1402	Circle Dr	066	Northumberland County	066	Northumberland County	0.29	66-751 Cod Creek Dr	66-751 Cod Creek Dr	10	R							X						03/24/2005
+757254	  66	01403	     	66-1403	Presley Creek Dr	066	Northumberland County	066	Northumberland County	0.29	66-751 Cod Creek Dr	66-1409 Elmington Place	240	R							X						03/24/2005
+757255	  66	01403	     	66-1403	Presley Creek Dr	066	Northumberland County	066	Northumberland County	0.20	66-1409 Elmington Place	66-1408 Hampton Place	180	R							X						03/24/2005
+757256	  66	01403	     	66-1403	Presley Creek Dr	066	Northumberland County	066	Northumberland County	0.19	66-1408 Hampton Place	66-1407 Tampa Place	160	R							X						03/24/2005
+757257	  66	01403	     	66-1403	Presley Creek Dr	066	Northumberland County	066	Northumberland County	0.07	66-1407 Tampa Place	66-1406 Florida Dr	150	R							X						03/24/2005
+757258	  66	01403	     	66-1403	Presley Creek Dr	066	Northumberland County	066	Northumberland County	0.09	66-1406 Florida Dr	66-1405 Denver Rd	120	R							X						03/24/2005
+757259	  66	01403	     	66-1403	Presley Creek Dr	066	Northumberland County	066	Northumberland County	0.10	66-1405 Denver Rd	66-1404 Colorado Dr	110	R							X						03/24/2005
+757260	  66	01403	     	66-1403	Presley Creek Dr	066	Northumberland County	066	Northumberland County	0.35	66-1404 Colorado Dr	66-1401 Bay Quarter Dr	50	R							X						03/24/2005
+757261	  66	01404	     	66-1404	Colorado Dr	066	Northumberland County	066	Northumberland County	0.27	66-1403 Presley Creek Dr	Cul-de-Sac	40	R							X						03/24/2005
+757262	  66	01405	     	66-1405	Denver Rd	066	Northumberland County	066	Northumberland County	0.20	66-1403 Presley Creek Dr	66-1404 Colorado Dr	20	R							X						03/24/2005
+757263	  66	01406	     	66-1406	Florida Dr	066	Northumberland County	066	Northumberland County	0.25	66-1403 Presley Creek Dr	66-1407 Tampa Place	30	R							X						03/24/2005
+757264	  66	01407	     	66-1407	Tampa Place	066	Northumberland County	066	Northumberland County	0.18	66-1403 Presley Creek Dr	66-1406 Florida Dr	20	R							X						03/24/2005
+791890	  66	01407	     	66-1407	Tampa Place	066	Northumberland County	066	Northumberland County	0.03	66-1406 Florida Dr	Dead End	40	R							X						04/30/2008
+757265	  66	01408	     	66-1408	Hampton Place	066	Northumberland County	066	Northumberland County	0.06	66-1403 Presley Creek Dr	66-1410 Coral Dr	30	R							X						03/24/2005
+757266	  66	01408	     	66-1408	Hampton Place	066	Northumberland County	066	Northumberland County	0.20	66-1410 Coral Dr	Cul-de-Sac	10	R							X						03/24/2005
+757267	  66	01409	     	66-1409	Elmington Place	066	Northumberland County	066	Northumberland County	0.09	66-1403 Presley Creek Dr	66-1410 Coral Dr	60	R							X						03/24/2005
+757268	  66	01409	     	66-1409	Elmington Place	066	Northumberland County	066	Northumberland County	0.20	66-1410 Coral Dr	Cul-de-Sac	30	R							X						03/24/2005
+757269	  66	01410	     	66-1410	Coral Dr	066	Northumberland County	066	Northumberland County	0.25	66-1409 Elmington Place	66-1408 Hampton Place	30	R							X						03/24/2005
+757270	  66	01411	     	66-1411	Muriel Dr	066	Northumberland County	066	Northumberland County	0.32	66-751 Cod Creek Dr	66-751 Cod Creek Dr	30	R							X						03/24/2005
+757271	  66	01412	     	66-1412	Augusta St	066	Northumberland County	066	Northumberland County	0.11	66-751 Cod Creek Dr	66-1413 Carolina Dr	20	R							X						04/30/2008
+757272	  66	01413	     	66-1413	Carolina Dr	066	Northumberland County	066	Northumberland County	0.24	66-751 Cod Creek Dr	Cul-de-Sac	30	R							X						04/30/2008
+757273	  66	01414	     	66-1414	Howard Court	066	Northumberland County	066	Northumberland County	0.10	Cul-de-Sac	66-751 Cod Creek Dr	10	R							X						03/24/2005
+790588	  66	01415	     	66-1415	Holiday Dr	066	Northumberland County	066	Northumberland County	0.18	Dead End	66-1401 Bay Quarter Dr	20	R							X						04/30/2008
+784331	  66	09294	     	66-9294	Northumberland Middle School	066	Northumberland County	066	Northumberland County	0.18	66-698 Academic Lane	End of Loop	110	R							X						03/20/2008
+784332	  66	09296	     	66-9296	Northumberland Elem School	066	Northumberland County	066	Northumberland County	0.15	66-698 S, Academic Lane	66-698 N, Academic Lane	70	R							X						03/20/2008
+757276	  66	09297	     	66-9297	Northumberland High School	066	Northumberland County	066	Northumberland County	0.16	66-601 Dodlyt Rd & Bush Mill Rd	Northumberland HS	130	R							X						04/02/2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

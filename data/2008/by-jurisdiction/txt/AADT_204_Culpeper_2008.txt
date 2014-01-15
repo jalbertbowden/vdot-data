@@ -1,0 +1,54 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Culpeper																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+622004	  SR	00003	     	US 522, VA 3	Germanna Hwy	204	Town of Culpeper	204	Town of Culpeper	0.96	BUS US 15 Orange Road	ECL Culpeper	8300	F	93%	1%	1%	1%	4%	0%	F	0.0860	F	0.0000	9000	F	2008	
+622014	C4US	00015	     	Bus US 15	Orange Rd	204	Town of Culpeper	204	Town of Culpeper	1.32	SCL Culpeper	US 522 Germanna Hwy	6600	F	98%	0%	1%	1%	1%	0%	C	0.0878	F	0.0000	7100	F	2008
+622005	C4US	00015	     	Bus US 15, US 522	Germanna Highway	204	Town of Culpeper	204	Town of Culpeper	0.12	US 522 Germanna Hwy	Main Street S	5600	F	97%	1%	1%	0%	1%	0%	C	0.0842	F	0.0000	6100	F	2008
+622024	C4US	00015	     	Bus US 15, Bus US 29, US 522	Main St	204	Town of Culpeper	204	Town of Culpeper	0.26	Germanna Highway	204-3651 Orange Rd	14000	F	96%	1%	2%	0%	1%	0%	C	0.0749	F	0.0000	15000	F	2008
+622021	C4US	00015	     	Bus US 15, Bus US 29, US 522	Main St	204	Town of Culpeper	204	Town of Culpeper	0.59	204-3651 Orange Rd	US 522 Evans Street	19000	F	95%	1%	2%	1%	1%	0%	C	0.0721	F	0.0000	21000	F	2008
+622022	C4US	00015	     	Bus US 15, Bus US 29	Main St	204	Town of Culpeper	204	Town of Culpeper	0.20	US 522 Evans Street	Begin SR 229	28000	F	97%	1%	1%	0%	1%	0%	C				29000	F	2008
+622023	C4US	00015	     	Bus US 15, Bus US 29, VA 229	Main St	204	Town of Culpeper	204	Town of Culpeper	0.06	Begin SR 229	SR 229, Madison Hwy	28000	F	97%	1%	1%	0%	1%	0%	C				29000	F	2008
+622007	C4US	00015	     	Bus US 15, Bus US 29	Madison Highway	204	Town of Culpeper	204	Town of Culpeper	0.22	SR 229, Main St	Nottingham Street	22000	F	97%	0%	1%	1%	1%	0%	C	0.0754	F	0.0000	23000	F	2008
+622008	C4US	00015	     	Bus US 15, Bus US 29	Madison Highway	204	Town of Culpeper	204	Town of Culpeper	0.91	Nottingham Street	NCL Culpeper	24000	F	98%	0%	1%	0%	1%	0%	C	0.0727	F	0.0000	25000	F	2008
+622009	CAUS	00029	     	Bus US 29	Madison Rd	204	Town of Culpeper	204	Town of Culpeper	1.27	SCL Culpeper	West Street	16000	F	98%	0%	1%	0%	1%	0%	C	0.0846	F	0.0000	17000	F	2008
+070417	CAUS	00029	     	Bus US 29	Madison Rd	204	Town of Culpeper	204	Town of Culpeper	0.12	West Street	US 522, Bus US 15 Fredericksburg Rd	15000	F	98%	0%	1%	0%	1%	0%	F	0.0783	F	0.0000	16000	F	2008
+622024	CAUS	00029	     	Bus US 15, Bus US 29, US 522	Main St	204	Town of Culpeper	204	Town of Culpeper	0.26	US 15 BUS	204-3651 Orange Rd	14000	F	96%	1%	2%	0%	1%	0%	C	0.0749	F	0.0000	15000	F	2008	
+622021	CAUS	00029	     	Bus US 15, Bus US 29, US 522	Main St	204	Town of Culpeper	204	Town of Culpeper	0.59	204-3651 Orange Rd	US 522 EVANS STREET	19000	F	95%	1%	2%	1%	1%	0%	C	0.0721	F	0.0000	21000	F	2008	
+622022	CAUS	00029	     	Bus US 15, Bus US 29	Main St	204	Town of Culpeper	204	Town of Culpeper	0.20	US 522 EVANS STREET	Begin SR 229	28000	F	97%	1%	1%	0%	1%	0%	C				29000	F	2008	
+622023	CAUS	00029	     	Bus US 15, Bus US 29, VA 229	Main St	204	Town of Culpeper	204	Town of Culpeper	0.06	Begin SR 229	SR 229, Madison Hwy	28000	F	97%	1%	1%	0%	1%	0%	C				29000	F	2008	
+622007	CAUS	00029	     	Bus US 15, Bus US 29	Madison Highway	204	Town of Culpeper	204	Town of Culpeper	0.22	SR 229, Main St	NOTTINGHAM STREET	22000	F	97%	0%	1%	1%	1%	0%	C	0.0754	F	0.0000	23000	F	2008	
+622008	CAUS	00029	     	Bus US 15, Bus US 29	Madison Highway	204	Town of Culpeper	204	Town of Culpeper	0.91	NOTTINGHAM STREET	NCL CULPEPER	24000	F	98%	0%	1%	0%	1%	0%	C	0.0727	F	0.0000	25000	F	2008	
+622023	  SR	00229	     	Bus US 15, Bus US 29, VA 229	Main St	204	Town of Culpeper	204	Town of Culpeper	0.06	Begin SR 229	US 15 Bus	28000	F	97%	1%	1%	0%	1%	0%	C				29000	F	2008	
+622020	  SR	00229	     	VA 229	Main St	204	Town of Culpeper	204	Town of Culpeper	0.93	US 15 Bus	NCL Culpeper	9100	F	96%	1%	1%	1%	0%	0%	C	0.0996	F	0.0000	9900	F	2008
+622004	  US	00522	     	US 522, VA 3	Germanna Hwy	204	Town of Culpeper	204	Town of Culpeper	0.96	ECL Culpeper	US 15 Bus Orange Road	8300	F	93%	1%	1%	1%	4%	0%	F	0.0860	F	0.0000	9000	F	2008
+622005	  US	00522	     	Bus US 15, US 522	Germanna Highway	204	Town of Culpeper	204	Town of Culpeper	0.12	RT 15 BUS	MAIN STREET S	5600	F	97%	1%	1%	0%	1%	0%	C	0.0842	F	0.0000	6100	F	2008	
+622024	  US	00522	     	Bus US 15, Bus US 29, US 522	Main St	204	Town of Culpeper	204	Town of Culpeper	0.26	Germanna Hwy	204-3651 Orange Rd	14000	F	96%	1%	2%	0%	1%	0%	C	0.0749	F	0.0000	15000	F	2008	
+622021	  US	00522	     	Bus US 15, Bus US 29, US 522	Main St	204	Town of Culpeper	204	Town of Culpeper	0.59	204-3651 Orange Rd	Evans St	19000	F	95%	1%	2%	1%	1%	0%	C	0.0721	F	0.0000	21000	F	2008	
+622003	  US	00522	     	US 522	Evans St	204	Town of Culpeper	204	Town of Culpeper	0.08	Bus US 15, Bus US 29 Main St	N West St	14000	F	97%	0%	1%	1%	1%	0%	F				16000	F	2008
+622017	  US	00522	     	US 522	Evans St	204	Town of Culpeper	204	Town of Culpeper	1.44	N West Street	WCL Culpeper	10000	F	97%	0%	1%	1%	1%	0%	C	0.0799	F	0.0000	11000	F	2008
+622012	 204	00001	     	204-1	West St/Old Rixeyville Rd	204	Town of Culpeper	204	Town of Culpeper	0.82	Evans Street	Grandview Avenue	3600	F	98%	1%	1%	0%	0%	0%	C	0.1358	F	0.0000	3900	F	2008
+622013	 204	00001	     	204-1	Old Rixeyville Rd	204	Town of Culpeper	204	Town of Culpeper	0.07	Grandview Avenue	Main Street N	1900	F	98%	1%	1%	0%	0%	0%	F	0.1462	F	1.0000	2100	F	2008
+622015	 204	03651	     	204-3651	Orange Rd	204	Town of Culpeper	204	Town of Culpeper	0.33	Germanna Highway	Main Street	6200	F	94%	1%	2%	1%	1%	0%	C	0.0939	F	0.0000	6800	F	2008
+622001	 204	03652	     	204-3652	Chandler St	204	Town of Culpeper	204	Town of Culpeper	0.17	West Street	East Street	760	F	96%	1%	1%	2%	1%	0%	F	0.1032	F	0.6685	830	F	2008
+622002	 204	03652	     	204-3652	Chandler St	204	Town of Culpeper	204	Town of Culpeper	0.75	East Street	ECL Culpeper	810	F	96%	1%	1%	2%	1%	0%	C	0.1165	F	0.5577	880	F	2008
+622006	 204	03653	     	204-3653	Laurel St	204	Town of Culpeper	204	Town of Culpeper	0.84	Orange Road	Madison Road	2200	F	98%	0%	1%	0%	0%	0%	C	0.0805	F	0.6442	2400	F	2008
+622016	 204	03656	     	204-3656	Piedmont St	204	Town of Culpeper	204	Town of Culpeper	0.27	US 15 Bus Main Street N	Old Brandy Road	4700	F	99%	0%	1%	0%	0%	0%	F	0.1099	F	0.5206	5100	F	2008
+622011	 204	03656	     	204-3656	Old Brandy Rd	204	Town of Culpeper	204	Town of Culpeper	0.20	Piedmont St	Wine St	4900	F	99%	0%	1%	0%	0%	0%	C	0.0980	F	0.0000	5300	F	2008
+622010	 204	03656	     	204-3656	Old Brandy Rd	204	Town of Culpeper	204	Town of Culpeper	0.56	Wine Street	US 15 Bus James Madison Hwy	4400	F	99%	0%	1%	0%	0%	0%	F	0.0981	F	0.0000	4800	F	2008
+622018	 204	03657	     	204-3657	West St	204	Town of Culpeper	204	Town of Culpeper	0.91	Madison Street	Evans Street	4200	F	98%	0%	1%	1%	0%	0%	C	0.1068	F	0.5299	4600	F	2008
+522011	 204	00000	     	204-0	Bus US 15; Bus US 29	204	Town of Culpeper	204	Town of Culpeper	0.00	Nalles Mill Rd	Ira Hoffman Ln	23000	F	97%	1%	1%	0%	1%	0%	C	0.0783	F	0.0000	23000	F	2008
+522001	 204	00000	     	204-0	Cameron St	204	Town of Culpeper	204	Town of Culpeper	0.00	Blue Ridge Ave	US 29 Bus S Main St	790	G							X				870	G	2008
+522004	 204	00000	     	204-0	East St	204	Town of Culpeper	204	Town of Culpeper	0.00	Walter Street	Mason Street	6000	F							X	0.0983	F	0.5446	6000	F	2008
+522002	 204	00000	     	204-0	Fairview Rd	204	Town of Culpeper	204	Town of Culpeper	0.00	SR 229 Main St	Hendrick St	270	F							X	0.1147	F	0.5070	290	F	2008
+522009	 204	00000	     	204-0	Madison Rd	204	Town of Culpeper	204	Town of Culpeper	0.00	Saunders St	Oak Lawn Dr	22000	F	98%	0%	1%	0%	1%	0%	C	0.0843	F	0.0000	22000	F	2008
+522006	 204	00000	     	204-0	S Blue Ridge Ave	204	Town of Culpeper	204	Town of Culpeper	0.00	Oak Lawn Blvd	Spring St	4600	F	100%	0%	0%	0%	0%	0%	C	0.0880	F	0.0000	4600	F	2008
+522000	 204	00000	     	204-0	S East St	204	Town of Culpeper	204	Town of Culpeper	0.00	E Chandler St	E Locust St	6300	F	97%	0%	1%	1%	1%	0%	C	0.0962	F	0.5128	6300	F	2008
+522010	 204	00000	     	204-0	Sperryville Pike	204	Town of Culpeper	204	Town of Culpeper	0.00	WCL Culpeper	Wayland Rd	8400	F	96%	1%	1%	1%	1%	0%	C	0.0827	F	0.0000	8400	F	2008
+522008	 204	00000	     	204-0	SR 3	204	Town of Culpeper	204	Town of Culpeper	0.00	Industry Dr	McDevitt Dr	11000	F	96%	1%	1%	1%	2%	0%	C	0.0872	F	0.0000	11000	F	2008
+522007	 204	00000	     	204-0	Sunset Lane	204	Town of Culpeper	204	Town of Culpeper	0.00	Madison Rd	Redbud St	5800	F	99%	1%	0%	0%	0%	0%	C	0.0947	F	0.0000	5800	F	2008
+522003	 204	00000	     	204-0	Virginia Avenue	204	Town of Culpeper	204	Town of Culpeper	0.00	Sperryville Pike	First Street	5200	F							X	0.0904	F	0.0000	5200	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

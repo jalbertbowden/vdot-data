@@ -1,0 +1,23 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2008																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+Town of Pearisburg																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+657001	  SR	00100	     	VA 100	South Main St	279	Town of Pearisburg	035	Giles County	0.28	SCL Pearisburg	Orchard Dr	6400	F	95%	1%	1%	1%	3%	0%	C				6700	F	2008
+657002	  SR	00100	     	VA 100	South Main St	279	Town of Pearisburg	035	Giles County	0.18	Orchard Dr	Bus US 460 Wenonah Ave	6400	F	94%	1%	1%	1%	3%	0%	C	0.0879	F	0.0000	6700	F	2008
+657007	  SR	00100	     	Bus US 460, VA 100	Main St	279	Town of Pearisburg	035	Giles County	0.38	Bus US 460 Wenonah Ave	Bus US 460 North Main St	9900	F	97%	0%	1%	1%	2%	0%	C				10000	F	2008	
+657004	  SR	00100	     	VA 100	Main St	279	Town of Pearisburg	035	Giles County	0.21	Bus US 460 North Main St	WCL Pearisburg	3500	F	99%	0%	0%	0%	0%	0%	C	0.0905	F	0.0000	3600	F	2008
+657005	  US	00460	     	US 460	Virginia Ave	279	Town of Pearisburg	035	Giles County	0.60	WCL Pearisburg	ECL Pearisburg	8200	F	90%	1%	1%	1%	8%	1%	F	0.0855	F	0.0000	8800	F	2008
+020452	  US	00460	     	US 460	 	279	Town of Pearisburg	035	Giles County	0.12	WCL Pearisburg	ECL Pearisburg	12000	N	90%	1%	1%	1%	8%	1%	N	0.0852	N	0.0000	13000	N	2008
+657006	C5US	00460	     	Bus US 460	Main St	279	Town of Pearisburg	035	Giles County	0.26	NCL Pearisburg	SR 100 North	6500	F	95%	1%	1%	1%	3%	0%	C	0.0868	F	0.0000	6800	F	2008
+657007	C5US	00460	     	Bus US 460, VA 100	Main St	279	Town of Pearisburg	035	Giles County	0.38	SR 100 N, North Main St	SR 100 S, South Main Street	9900	F	97%	0%	1%	1%	2%	0%	C				10000	F	2008
+657008	C5US	00460	     	Bus US 460	Wenonah Ave	279	Town of Pearisburg	035	Giles County	1.09	SR 100 S, South Main Street	ECL Pearisburg	7700	F	98%	1%	1%	0%	1%	0%	F				8100	F	2008
+020307	C5US	00460	     	Bus US 460	 	279	Town of Pearisburg	035	Giles County	1.39	ECL Pearisburg	US 460 East of Pearisburg	7000	F	98%	1%	1%	0%	1%	0%	C	0.0977	F	0.0000	7300	F	2008
+781874	 279	00001	     	279-1	Henson Ave	279	Town of Pearisburg	279	Town of Pearisburg	0.51	SR 100 South Main St	279-2 Fort Branch Rd	2600	F	99%	0%	0%	0%	0%	0%	C	0.1190	F	0.6246	2700	F	2008
+781875	 279	00002	     	279-2	Fort Branch Rd	279	Town of Pearisburg	279	Town of Pearisburg	0.13	279-1 Henson Ave	C5US 460 Wenonah Ave	1200	F	99%	0%	0%	0%	0%	0%	F	0.1106	F	0.6178	1300	F	2008
+781876	 279	01325	     	279-1325	Curve Rd	279	Town of Pearisburg	279	Town of Pearisburg	0.66	C5US 460	NCL Pearisburg	1400	F	99%	0%	0%	0%	0%	0%	F	0.0964	F	0.5667	1500	F	2008
+557006	 279	00000	     	279-0	Giles St	279	Town of Pearisburg	279	Town of Pearisburg	0.00	Craig Ave	Alleghany Ave	230	F							X	0.1317	F	0.6250	230	F	2008
+557007	 279	00000	     	279-0	Hale St	279	Town of Pearisburg	279	Town of Pearisburg	0.00	Mountain Lake Ave	Locust Dr	1100	F							X	0.0920	F	0.5728	1100	F	2008
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									
