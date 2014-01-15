@@ -1,0 +1,207 @@
+ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011	Prepared	8/22/2012
+Daily Vehicle Miles Traveled (DVMT) by Federal Functional Class by FHWA Vehicle Class																														
+Public Road Segments within the Commonwealth of Virginia																														
+Road Length values temporarilly not included in this report pending publication of official road length values																														
+2011																														
+																														
+									Secondary						Primary						Interstate						All Roads			
+													%	%					%	%					%	%				%
+										%	%		of	of		%	%		of	of		%	%		of	of		%		of
+										of	of		Secondary	State		of	of		Primary	State		of	of		Interstate	State		of		State
+				Federal		Federal				Secondary	State	Road	Total	Total		Primary	State	Road	Total	Total		Interstate	State	Road	Total	Total		State	Road	Total
+				Functional		Vehicle				Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Length	Road
+				Class		Class			DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	(Miles)	Length
+																														
+ 		   		1	Rural Principal Arterial - Interstate	01	Motorcycles	              	0	0.00%	0.00%				0	0.00%	0.00%				78,658	0.12%	0.04%				78,658	0.04%		
+ 		   		1	Rural Principal Arterial - Interstate	02	Passenger Cars	              	0	0.00%	0.00%				0	0.00%	0.00%				16,604,554	25.19%	7.48%				16,604,554	7.48%		
+ 		   		1	Rural Principal Arterial - Interstate	03	Two Axle, 4 Tire Single Unit Vehicles	              	0	0.00%	0.00%				0	0.00%	0.00%				3,672,289	5.57%	1.66%				3,672,289	1.66%		
+ 		   		1	Rural Principal Arterial - Interstate	04	Busses	              	0	0.00%	0.00%				0	0.00%	0.00%				179,486	0.27%	0.08%				179,486	0.08%		
+ 		   		1	Rural Principal Arterial - Interstate	05	Two Axle, 6 Tire Single Unit Trucks	              	0	0.00%	0.00%				0	0.00%	0.00%				201,322	0.31%	0.09%				201,322	0.09%		
+ 		   		1	Rural Principal Arterial - Interstate	06	Three Axle Single Unit Trucks	              	0	0.00%	0.00%				0	0.00%	0.00%				143,924	0.22%	0.06%				143,924	0.06%		
+ 		   		1	Rural Principal Arterial - Interstate	07	Four or More Axle Single Unit Trucks	              	0	0.00%	0.00%				0	0.00%	0.00%				15,545	0.02%	0.01%				15,545	0.01%		
+ 		   		1	Rural Principal Arterial - Interstate	08	Four Axle or Fewer Single Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				127,658	0.19%	0.06%				127,658	0.06%		
+ 		   		1	Rural Principal Arterial - Interstate	09	Five Axle Single Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				3,756,715	5.70%	1.69%				3,756,715	1.69%		
+ 		   		1	Rural Principal Arterial - Interstate	10	Six or More Axle Single Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				41,138	0.06%	0.02%				41,138	0.02%		
+ 		   		1	Rural Principal Arterial - Interstate	11	Five Axle or Fewer Multi-Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				186,393	0.28%	0.08%				186,393	0.08%		
+ 		   		1	Rural Principal Arterial - Interstate	12	Six Axle Multi-Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				66,436	0.10%	0.03%				66,436	0.03%		
+ 		   		1	Rural Principal Arterial - Interstate	13	Seven or More Axle Multi-Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				553	0.00%	0.00%				553	0.00%		
+ 		   		2	Rural Principal Arterial - Other	01	Motorcycles	              	0	0.00%	0.00%				68,659	0.08%	0.03%				0	0.00%	0.00%				68,659	0.03%		
+ 		   		2	Rural Principal Arterial - Other	02	Passenger Cars	              	3,744	0.01%	0.00%				12,484,413	13.73%	5.63%				0	0.00%	0.00%				12,488,157	5.63%		
+ 		   		2	Rural Principal Arterial - Other	03	Two Axle, 4 Tire Single Unit Vehicles	              	0	0.00%	0.00%				3,413,986	3.75%	1.54%				0	0.00%	0.00%				3,413,986	1.54%		
+ 		   		2	Rural Principal Arterial - Other	04	Busses	              	0	0.00%	0.00%				95,817	0.11%	0.04%				0	0.00%	0.00%				95,817	0.04%		
+ 		   		2	Rural Principal Arterial - Other	05	Two Axle, 6 Tire Single Unit Trucks	              	0	0.00%	0.00%				134,790	0.15%	0.06%				0	0.00%	0.00%				134,790	0.06%		
+ 		   		2	Rural Principal Arterial - Other	06	Three Axle Single Unit Trucks	              	0	0.00%	0.00%				118,902	0.13%	0.05%				0	0.00%	0.00%				118,902	0.05%		
+ 		   		2	Rural Principal Arterial - Other	07	Four or More Axle Single Unit Trucks	              	0	0.00%	0.00%				29,344	0.03%	0.01%				0	0.00%	0.00%				29,344	0.01%		
+ 		   		2	Rural Principal Arterial - Other	08	Four Axle or Fewer Single Trailers	              	0	0.00%	0.00%				77,964	0.09%	0.04%				0	0.00%	0.00%				77,964	0.04%		
+ 		   		2	Rural Principal Arterial - Other	09	Five Axle Single Trailers	              	0	0.00%	0.00%				1,006,437	1.11%	0.45%				0	0.00%	0.00%				1,006,437	0.45%		
+ 		   		2	Rural Principal Arterial - Other	10	Six or More Axle Single Trailers	              	0	0.00%	0.00%				25,587	0.03%	0.01%				0	0.00%	0.00%				25,587	0.01%		
+ 		   		2	Rural Principal Arterial - Other	11	Five Axle or Fewer Multi-Trailers	              	0	0.00%	0.00%				33,089	0.04%	0.01%				0	0.00%	0.00%				33,089	0.01%		
+ 		   		2	Rural Principal Arterial - Other	12	Six Axle Multi-Trailers	              	0	0.00%	0.00%				7,618	0.01%	0.00%				0	0.00%	0.00%				7,618	0.00%		
+ 		   		2	Rural Principal Arterial - Other	13	Seven or More Axle Multi-Trailers	              	0	0.00%	0.00%				77	0.00%	0.00%				0	0.00%	0.00%				77	0.00%		
+ 		   		6	Rural Minor Arterial	01	Motorcycles	              	922	0.00%	0.00%				72,240	0.08%	0.03%				0	0.00%	0.00%				73,162	0.03%		
+ 		   		6	Rural Minor Arterial	02	Passenger Cars	              	169,389	0.26%	0.08%				9,928,169	10.92%	4.48%				0	0.00%	0.00%				10,097,558	4.55%		
+ 		   		6	Rural Minor Arterial	03	Two Axle, 4 Tire Single Unit Vehicles	              	49,302	0.08%	0.02%				3,131,495	3.44%	1.41%				0	0.00%	0.00%				3,180,797	1.43%		
+ 		   		6	Rural Minor Arterial	04	Busses	              	1,364	0.00%	0.00%				88,792	0.10%	0.04%				0	0.00%	0.00%				90,156	0.04%		
+ 		   		6	Rural Minor Arterial	05	Two Axle, 6 Tire Single Unit Trucks	              	2,106	0.00%	0.00%				127,450	0.14%	0.06%				0	0.00%	0.00%				129,556	0.06%		
+ 		   		6	Rural Minor Arterial	06	Three Axle Single Unit Trucks	              	952	0.00%	0.00%				112,746	0.12%	0.05%				0	0.00%	0.00%				113,698	0.05%		
+ 		   		6	Rural Minor Arterial	07	Four or More Axle Single Unit Trucks	              	116	0.00%	0.00%				30,911	0.03%	0.01%				0	0.00%	0.00%				31,027	0.01%		
+ 		   		6	Rural Minor Arterial	08	Four Axle or Fewer Single Trailers	              	326	0.00%	0.00%				55,616	0.06%	0.03%				0	0.00%	0.00%				55,943	0.03%		
+ 		   		6	Rural Minor Arterial	09	Five Axle Single Trailers	              	904	0.00%	0.00%				376,601	0.41%	0.17%				0	0.00%	0.00%				377,506	0.17%		
+ 		   		6	Rural Minor Arterial	10	Six or More Axle Single Trailers	              	90	0.00%	0.00%				23,939	0.03%	0.01%				0	0.00%	0.00%				24,029	0.01%		
+ 		   		6	Rural Minor Arterial	11	Five Axle or Fewer Multi-Trailers	              	8	0.00%	0.00%				1,328	0.00%	0.00%				0	0.00%	0.00%				1,336	0.00%		
+ 		   		6	Rural Minor Arterial	12	Six Axle Multi-Trailers	              	2	0.00%	0.00%				256	0.00%	0.00%				0	0.00%	0.00%				258	0.00%		
+ 		   		6	Rural Minor Arterial	13	Seven or More Axle Multi-Trailers	              	0	0.00%	0.00%				117	0.00%	0.00%				0	0.00%	0.00%				117	0.00%		
+ 		   		7	Rural Major Collector	01	Motorcycles	              	43,225	0.07%	0.02%				33,768	0.04%	0.02%				0	0.00%	0.00%				76,993	0.03%		
+ 		   		7	Rural Major Collector	02	Passenger Cars	              	5,874,369	9.04%	2.65%				3,921,534	4.31%	1.77%				0	0.00%	0.00%				9,795,903	4.42%		
+ 		   		7	Rural Major Collector	03	Two Axle, 4 Tire Single Unit Vehicles	              	1,930,055	2.97%	0.87%				1,275,761	1.40%	0.58%				0	0.00%	0.00%				3,205,816	1.45%		
+ 		   		7	Rural Major Collector	04	Busses	              	54,068	0.08%	0.02%				32,785	0.04%	0.01%				0	0.00%	0.00%				86,854	0.04%		
+ 		   		7	Rural Major Collector	05	Two Axle, 6 Tire Single Unit Trucks	              	68,427	0.11%	0.03%				49,408	0.05%	0.02%				0	0.00%	0.00%				117,834	0.05%		
+ 		   		7	Rural Major Collector	06	Three Axle Single Unit Trucks	              	60,619	0.09%	0.03%				47,917	0.05%	0.02%				0	0.00%	0.00%				108,536	0.05%		
+ 		   		7	Rural Major Collector	07	Four or More Axle Single Unit Trucks	              	16,666	0.03%	0.01%				13,723	0.02%	0.01%				0	0.00%	0.00%				30,389	0.01%		
+ 		   		7	Rural Major Collector	08	Four Axle or Fewer Single Trailers	              	19,366	0.03%	0.01%				17,489	0.02%	0.01%				0	0.00%	0.00%				36,855	0.02%		
+ 		   		7	Rural Major Collector	09	Five Axle Single Trailers	              	71,458	0.11%	0.03%				81,970	0.09%	0.04%				0	0.00%	0.00%				153,428	0.07%		
+ 		   		7	Rural Major Collector	10	Six or More Axle Single Trailers	              	12,904	0.02%	0.01%				21,108	0.02%	0.01%				0	0.00%	0.00%				34,012	0.02%		
+ 		   		7	Rural Major Collector	11	Five Axle or Fewer Multi-Trailers	              	210	0.00%	0.00%				332	0.00%	0.00%				0	0.00%	0.00%				542	0.00%		
+ 		   		7	Rural Major Collector	12	Six Axle Multi-Trailers	              	90	0.00%	0.00%				71	0.00%	0.00%				0	0.00%	0.00%				160	0.00%		
+ 		   		7	Rural Major Collector	13	Seven or More Axle Multi-Trailers	              	83	0.00%	0.00%				71	0.00%	0.00%				0	0.00%	0.00%				154	0.00%		
+ 		   		8	Rural Minor Collector	01	Motorcycles	              	7,618	0.01%	0.00%				14	0.00%	0.00%				0	0.00%	0.00%				7,633	0.00%		
+ 		   		8	Rural Minor Collector	02	Passenger Cars	              	1,089,443	1.68%	0.49%				4,574	0.01%	0.00%				0	0.00%	0.00%				1,094,017	0.49%		
+ 		   		8	Rural Minor Collector	03	Two Axle, 4 Tire Single Unit Vehicles	              	341,982	0.53%	0.15%				1,841	0.00%	0.00%				0	0.00%	0.00%				343,823	0.15%		
+ 		   		8	Rural Minor Collector	04	Busses	              	11,223	0.02%	0.01%				70	0.00%	0.00%				0	0.00%	0.00%				11,294	0.01%		
+ 		   		8	Rural Minor Collector	05	Two Axle, 6 Tire Single Unit Trucks	              	11,855	0.02%	0.01%				63	0.00%	0.00%				0	0.00%	0.00%				11,919	0.01%		
+ 		   		8	Rural Minor Collector	06	Three Axle Single Unit Trucks	              	9,537	0.01%	0.00%				42	0.00%	0.00%				0	0.00%	0.00%				9,579	0.00%		
+ 		   		8	Rural Minor Collector	07	Four or More Axle Single Unit Trucks	              	2,075	0.00%	0.00%				4	0.00%	0.00%				0	0.00%	0.00%				2,079	0.00%		
+ 		   		8	Rural Minor Collector	08	Four Axle or Fewer Single Trailers	              	2,958	0.00%	0.00%				16	0.00%	0.00%				0	0.00%	0.00%				2,974	0.00%		
+ 		   		8	Rural Minor Collector	09	Five Axle Single Trailers	              	8,919	0.01%	0.00%				62	0.00%	0.00%				0	0.00%	0.00%				8,981	0.00%		
+ 		   		8	Rural Minor Collector	10	Six or More Axle Single Trailers	              	966	0.00%	0.00%				1	0.00%	0.00%				0	0.00%	0.00%				967	0.00%		
+ 		   		8	Rural Minor Collector	11	Five Axle or Fewer Multi-Trailers	              	32	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				32	0.00%		
+ 		   		8	Rural Minor Collector	12	Six Axle Multi-Trailers	              	1	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				1	0.00%		
+ 		   		8	Rural Minor Collector	13	Seven or More Axle Multi-Trailers	              	10	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10	0.00%		
+ 		   		9	Rural Local System	01	Motorcycles	              	684	0.00%	0.00%				27	0.00%	0.00%				0	0.00%	0.00%				711	0.00%		
+ 		   		9	Rural Local System	02	Passenger Cars	              	9,014,839	13.87%	4.06%				211,774	0.23%	0.10%				0	0.00%	0.00%				9,226,613	4.16%		
+ 		   		9	Rural Local System	03	Two Axle, 4 Tire Single Unit Vehicles	              	25,967	0.04%	0.01%				971	0.00%	0.00%				0	0.00%	0.00%				26,939	0.01%		
+ 		   		9	Rural Local System	04	Busses	              	719	0.00%	0.00%				19	0.00%	0.00%				0	0.00%	0.00%				738	0.00%		
+ 		   		9	Rural Local System	05	Two Axle, 6 Tire Single Unit Trucks	              	1,015	0.00%	0.00%				32	0.00%	0.00%				0	0.00%	0.00%				1,046	0.00%		
+ 		   		9	Rural Local System	06	Three Axle Single Unit Trucks	              	691	0.00%	0.00%				45	0.00%	0.00%				0	0.00%	0.00%				736	0.00%		
+ 		   		9	Rural Local System	07	Four or More Axle Single Unit Trucks	              	107	0.00%	0.00%				5	0.00%	0.00%				0	0.00%	0.00%				112	0.00%		
+ 		   		9	Rural Local System	08	Four Axle or Fewer Single Trailers	              	272	0.00%	0.00%				16	0.00%	0.00%				0	0.00%	0.00%				288	0.00%		
+ 		   		9	Rural Local System	09	Five Axle Single Trailers	              	1,158	0.00%	0.00%				16	0.00%	0.00%				0	0.00%	0.00%				1,175	0.00%		
+ 		   		9	Rural Local System	10	Six or More Axle Single Trailers	              	39	0.00%	0.00%				5	0.00%	0.00%				0	0.00%	0.00%				44	0.00%		
+ 		   		9	Rural Local System	11	Five Axle or Fewer Multi-Trailers	              	2	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				2	0.00%		
+ 		   		9	Rural Local System	12	Six Axle Multi-Trailers	              	3	0.00%	0.00%				1	0.00%	0.00%				0	0.00%	0.00%				4	0.00%		
+ 		   		11	Urban Principal Arterial - Interstate	01	Motorcycles	              	0	0.00%	0.00%				0	0.00%	0.00%				115,185	0.17%	0.05%				115,185	0.05%		
+ 		   		11	Urban Principal Arterial - Interstate	02	Passenger Cars	              	0	0.00%	0.00%				0	0.00%	0.00%				31,874,515	48.35%	14.37%				31,874,515	14.37%		
+ 		   		11	Urban Principal Arterial - Interstate	03	Two Axle, 4 Tire Single Unit Vehicles	              	0	0.00%	0.00%				0	0.00%	0.00%				5,740,215	8.71%	2.59%				5,740,215	2.59%		
+ 		   		11	Urban Principal Arterial - Interstate	04	Busses	              	0	0.00%	0.00%				0	0.00%	0.00%				222,849	0.34%	0.10%				222,849	0.10%		
+ 		   		11	Urban Principal Arterial - Interstate	05	Two Axle, 6 Tire Single Unit Trucks	              	0	0.00%	0.00%				0	0.00%	0.00%				263,455	0.40%	0.12%				263,455	0.12%		
+ 		   		11	Urban Principal Arterial - Interstate	06	Three Axle Single Unit Trucks	              	0	0.00%	0.00%				0	0.00%	0.00%				200,876	0.30%	0.09%				200,876	0.09%		
+ 		   		11	Urban Principal Arterial - Interstate	07	Four or More Axle Single Unit Trucks	              	0	0.00%	0.00%				0	0.00%	0.00%				38,839	0.06%	0.02%				38,839	0.02%		
+ 		   		11	Urban Principal Arterial - Interstate	08	Four Axle or Fewer Single Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				123,475	0.19%	0.06%				123,475	0.06%		
+ 		   		11	Urban Principal Arterial - Interstate	09	Five Axle Single Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				2,115,732	3.21%	0.95%				2,115,732	0.95%		
+ 		   		11	Urban Principal Arterial - Interstate	10	Six or More Axle Single Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				44,570	0.07%	0.02%				44,570	0.02%		
+ 		   		11	Urban Principal Arterial - Interstate	11	Five Axle or Fewer Multi-Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				79,216	0.12%	0.04%				79,216	0.04%		
+ 		   		11	Urban Principal Arterial - Interstate	12	Six Axle Multi-Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				28,536	0.04%	0.01%				28,536	0.01%		
+ 		   		11	Urban Principal Arterial - Interstate	13	Seven or More Axle Multi-Trailers	              	0	0.00%	0.00%				0	0.00%	0.00%				504	0.00%	0.00%				504	0.00%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	01	Motorcycles	              	353	0.00%	0.00%				20,736	0.02%	0.01%				0	0.00%	0.00%				21,090	0.01%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	02	Passenger Cars	              	99,607	0.15%	0.04%				7,519,764	8.27%	3.39%				0	0.00%	0.00%				7,619,371	3.43%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	03	Two Axle, 4 Tire Single Unit Vehicles	              	17,306	0.03%	0.01%				1,247,901	1.37%	0.56%				0	0.00%	0.00%				1,265,206	0.57%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	04	Busses	              	348	0.00%	0.00%				30,897	0.03%	0.01%				0	0.00%	0.00%				31,244	0.01%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	05	Two Axle, 6 Tire Single Unit Trucks	              	459	0.00%	0.00%				44,248	0.05%	0.02%				0	0.00%	0.00%				44,707	0.02%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	06	Three Axle Single Unit Trucks	              	548	0.00%	0.00%				41,781	0.05%	0.02%				0	0.00%	0.00%				42,328	0.02%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	07	Four or More Axle Single Unit Trucks	              	172	0.00%	0.00%				11,522	0.01%	0.01%				0	0.00%	0.00%				11,694	0.01%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	08	Four Axle or Fewer Single Trailers	              	77	0.00%	0.00%				22,199	0.02%	0.01%				0	0.00%	0.00%				22,275	0.01%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	09	Five Axle Single Trailers	              	114	0.00%	0.00%				227,853	0.25%	0.10%				0	0.00%	0.00%				227,967	0.10%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	10	Six or More Axle Single Trailers	              	6	0.00%	0.00%				4,638	0.01%	0.00%				0	0.00%	0.00%				4,644	0.00%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	11	Five Axle or Fewer Multi-Trailers	              	0	0.00%	0.00%				8,765	0.01%	0.00%				0	0.00%	0.00%				8,765	0.00%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	12	Six Axle Multi-Trailers	              	0	0.00%	0.00%				1,910	0.00%	0.00%				0	0.00%	0.00%				1,910	0.00%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways	13	Seven or More Axle Multi-Trailers	              	0	0.00%	0.00%				29	0.00%	0.00%				0	0.00%	0.00%				29	0.00%		
+ 		   		14	Urban Principal Arterial - Other	01	Motorcycles	              	10,171	0.02%	0.00%				105,489	0.12%	0.05%				0	0.00%	0.00%				115,660	0.05%		
+ 		   		14	Urban Principal Arterial - Other	02	Passenger Cars	              	2,377,819	3.66%	1.07%				26,447,508	29.08%	11.92%				0	0.00%	0.00%				28,825,327	12.99%		
+ 		   		14	Urban Principal Arterial - Other	03	Two Axle, 4 Tire Single Unit Vehicles	              	393,241	0.61%	0.18%				5,027,766	5.53%	2.27%				0	0.00%	0.00%				5,421,007	2.44%		
+ 		   		14	Urban Principal Arterial - Other	04	Busses	              	14,546	0.02%	0.01%				161,073	0.18%	0.07%				0	0.00%	0.00%				175,619	0.08%		
+ 		   		14	Urban Principal Arterial - Other	05	Two Axle, 6 Tire Single Unit Trucks	              	18,800	0.03%	0.01%				208,270	0.23%	0.09%				0	0.00%	0.00%				227,070	0.10%		
+ 		   		14	Urban Principal Arterial - Other	06	Three Axle Single Unit Trucks	              	10,249	0.02%	0.00%				143,624	0.16%	0.06%				0	0.00%	0.00%				153,873	0.07%		
+ 		   		14	Urban Principal Arterial - Other	07	Four or More Axle Single Unit Trucks	              	1,930	0.00%	0.00%				35,109	0.04%	0.02%				0	0.00%	0.00%				37,039	0.02%		
+ 		   		14	Urban Principal Arterial - Other	08	Four Axle or Fewer Single Trailers	              	4,780	0.01%	0.00%				67,482	0.07%	0.03%				0	0.00%	0.00%				72,261	0.03%		
+ 		   		14	Urban Principal Arterial - Other	09	Five Axle Single Trailers	              	8,622	0.01%	0.00%				424,312	0.47%	0.19%				0	0.00%	0.00%				432,934	0.20%		
+ 		   		14	Urban Principal Arterial - Other	10	Six or More Axle Single Trailers	              	366	0.00%	0.00%				13,455	0.01%	0.01%				0	0.00%	0.00%				13,821	0.01%		
+ 		   		14	Urban Principal Arterial - Other	11	Five Axle or Fewer Multi-Trailers	              	86	0.00%	0.00%				10,188	0.01%	0.00%				0	0.00%	0.00%				10,274	0.00%		
+ 		   		14	Urban Principal Arterial - Other	12	Six Axle Multi-Trailers	              	18	0.00%	0.00%				2,423	0.00%	0.00%				0	0.00%	0.00%				2,441	0.00%		
+ 		   		14	Urban Principal Arterial - Other	13	Seven or More Axle Multi-Trailers	              	11	0.00%	0.00%				130	0.00%	0.00%				0	0.00%	0.00%				140	0.00%		
+ 		   		16	Urban Minor Arterial	01	Motorcycles	              	57,850	0.09%	0.03%				43,585	0.05%	0.02%				0	0.00%	0.00%				101,435	0.05%		
+ 		   		16	Urban Minor Arterial	02	Passenger Cars	              	14,579,578	22.44%	6.57%				8,923,378	9.81%	4.02%				0	0.00%	0.00%				23,502,956	10.59%		
+ 		   		16	Urban Minor Arterial	03	Two Axle, 4 Tire Single Unit Vehicles	              	2,471,747	3.80%	1.11%				1,917,883	2.11%	0.86%				0	0.00%	0.00%				4,389,629	1.98%		
+ 		   		16	Urban Minor Arterial	04	Busses	              	93,441	0.14%	0.04%				57,949	0.06%	0.03%				0	0.00%	0.00%				151,389	0.07%		
+ 		   		16	Urban Minor Arterial	05	Two Axle, 6 Tire Single Unit Trucks	              	117,063	0.18%	0.05%				76,846	0.08%	0.03%				0	0.00%	0.00%				193,910	0.09%		
+ 		   		16	Urban Minor Arterial	06	Three Axle Single Unit Trucks	              	59,260	0.09%	0.03%				44,839	0.05%	0.02%				0	0.00%	0.00%				104,099	0.05%		
+ 		   		16	Urban Minor Arterial	07	Four or More Axle Single Unit Trucks	              	11,611	0.02%	0.01%				9,894	0.01%	0.00%				0	0.00%	0.00%				21,505	0.01%		
+ 		   		16	Urban Minor Arterial	08	Four Axle or Fewer Single Trailers	              	23,799	0.04%	0.01%				21,225	0.02%	0.01%				0	0.00%	0.00%				45,024	0.02%		
+ 		   		16	Urban Minor Arterial	09	Five Axle Single Trailers	              	35,861	0.06%	0.02%				60,580	0.07%	0.03%				0	0.00%	0.00%				96,441	0.04%		
+ 		   		16	Urban Minor Arterial	10	Six or More Axle Single Trailers	              	1,700	0.00%	0.00%				2,903	0.00%	0.00%				0	0.00%	0.00%				4,603	0.00%		
+ 		   		16	Urban Minor Arterial	11	Five Axle or Fewer Multi-Trailers	              	527	0.00%	0.00%				637	0.00%	0.00%				0	0.00%	0.00%				1,164	0.00%		
+ 		   		16	Urban Minor Arterial	12	Six Axle Multi-Trailers	              	174	0.00%	0.00%				124	0.00%	0.00%				0	0.00%	0.00%				298	0.00%		
+ 		   		16	Urban Minor Arterial	13	Seven or More Axle Multi-Trailers	              	137	0.00%	0.00%				88	0.00%	0.00%				0	0.00%	0.00%				225	0.00%		
+ 		   		17	Urban Collector	01	Motorcycles	              	41,128	0.06%	0.02%				3,560	0.00%	0.00%				0	0.00%	0.00%				44,688	0.02%		
+ 		   		17	Urban Collector	02	Passenger Cars	              	8,664,608	13.33%	3.91%				511,502	0.56%	0.23%				0	0.00%	0.00%				9,176,110	4.14%		
+ 		   		17	Urban Collector	03	Two Axle, 4 Tire Single Unit Vehicles	              	1,708,960	2.63%	0.77%				122,090	0.13%	0.06%				0	0.00%	0.00%				1,831,050	0.83%		
+ 		   		17	Urban Collector	04	Busses	              	65,206	0.10%	0.03%				3,224	0.00%	0.00%				0	0.00%	0.00%				68,430	0.03%		
+ 		   		17	Urban Collector	05	Two Axle, 6 Tire Single Unit Trucks	              	78,958	0.12%	0.04%				4,312	0.00%	0.00%				0	0.00%	0.00%				83,270	0.04%		
+ 		   		17	Urban Collector	06	Three Axle Single Unit Trucks	              	46,169	0.07%	0.02%				2,964	0.00%	0.00%				0	0.00%	0.00%				49,134	0.02%		
+ 		   		17	Urban Collector	07	Four or More Axle Single Unit Trucks	              	13,886	0.02%	0.01%				725	0.00%	0.00%				0	0.00%	0.00%				14,611	0.01%		
+ 		   		17	Urban Collector	08	Four Axle or Fewer Single Trailers	              	15,283	0.02%	0.01%				1,134	0.00%	0.00%				0	0.00%	0.00%				16,417	0.01%		
+ 		   		17	Urban Collector	09	Five Axle Single Trailers	              	27,643	0.04%	0.01%				2,453	0.00%	0.00%				0	0.00%	0.00%				30,096	0.01%		
+ 		   		17	Urban Collector	10	Six or More Axle Single Trailers	              	1,778	0.00%	0.00%				1,589	0.00%	0.00%				0	0.00%	0.00%				3,366	0.00%		
+ 		   		17	Urban Collector	11	Five Axle or Fewer Multi-Trailers	              	821	0.00%	0.00%				24	0.00%	0.00%				0	0.00%	0.00%				844	0.00%		
+ 		   		17	Urban Collector	12	Six Axle Multi-Trailers	              	88	0.00%	0.00%				23	0.00%	0.00%				0	0.00%	0.00%				111	0.00%		
+ 		   		17	Urban Collector	13	Seven or More Axle Multi-Trailers	              	58	0.00%	0.00%				4	0.00%	0.00%				0	0.00%	0.00%				62	0.00%		
+ 		   		19	Urban Local System	01	Motorcycles	              	1,344	0.00%	0.00%				23	0.00%	0.00%				0	0.00%	0.00%				1,368	0.00%		
+ 		   		19	Urban Local System	02	Passenger Cars	              	14,905,039	22.94%	6.72%				140,882	0.15%	0.06%				0	0.00%	0.00%				15,045,920	6.78%		
+ 		   		19	Urban Local System	03	Two Axle, 4 Tire Single Unit Vehicles	              	66,253	0.10%	0.03%				1,121	0.00%	0.00%				0	0.00%	0.00%				67,374	0.03%		
+ 		   		19	Urban Local System	04	Busses	              	3,541	0.01%	0.00%				42	0.00%	0.00%				0	0.00%	0.00%				3,583	0.00%		
+ 		   		19	Urban Local System	05	Two Axle, 6 Tire Single Unit Trucks	              	3,532	0.01%	0.00%				34	0.00%	0.00%				0	0.00%	0.00%				3,567	0.00%		
+ 		   		19	Urban Local System	06	Three Axle Single Unit Trucks	              	2,392	0.00%	0.00%				21	0.00%	0.00%				0	0.00%	0.00%				2,413	0.00%		
+ 		   		19	Urban Local System	07	Four or More Axle Single Unit Trucks	              	529	0.00%	0.00%				5	0.00%	0.00%				0	0.00%	0.00%				534	0.00%		
+ 		   		19	Urban Local System	08	Four Axle or Fewer Single Trailers	              	1,039	0.00%	0.00%				17	0.00%	0.00%				0	0.00%	0.00%				1,056	0.00%		
+ 		   		19	Urban Local System	09	Five Axle Single Trailers	              	3,428	0.01%	0.00%				18	0.00%	0.00%				0	0.00%	0.00%				3,446	0.00%		
+ 		   		19	Urban Local System	10	Six or More Axle Single Trailers	              	233	0.00%	0.00%				2	0.00%	0.00%				0	0.00%	0.00%				235	0.00%		
+ 		   		19	Urban Local System	11	Five Axle or Fewer Multi-Trailers	              	53	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				53	0.00%		
+ 		   		19	Urban Local System	12	Six Axle Multi-Trailers	              	33	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				34	0.00%		
+ 		   		19	Urban Local System	13	Seven or More Axle Multi-Trailers	              	1	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				1	0.00%		
+ 		   	 Total:						64,977,262	100.00%	29.29%				90,946,652	100.00%	41.00%				65,922,639	100.00%	29.72%				221,846,554	100.00%		
+									64,977,262	100.00%	29.29%				90,946,652	100.00%	41.00%				65,922,639	100.00%	29.72%				221,846,554	100.00%		
+
+
+				1	Rural Principal Arterial - Interstate				0	0.00%	0.00%				0	0.00%	0.00%	0.00	0.00%	0.00%	25,074,672	38.04%	11.30%	656.45	58.66%		25,074,672	11.30%	656.45	0.88%
+				2	Rural Principal Arterial - Other				3,744	0.01%	0.00%				17,496,682	19.24%	7.89%	1,402.17	14.03%	1.88%	0	0.00%	0.00%	0.00	0.00%		17,500,426	7.89%	1,402.79	1.88%
+				6	Rural Minor Arterial				225,483	0.35%	0.10%				13,949,660	15.34%	6.29%	3,383.16	33.86%	4.54%	0	0.00%	0.00%	0.00	0.00%		14,175,143	6.39%	3,425.26	4.59%
+				7	Rural Major Collector				8,151,539	12.55%	3.67%				5,495,939	6.04%	2.48%	2,201.85	22.04%	2.95%	0	0.00%	0.00%	0.00	0.00%		13,647,478	6.15%	9,429.85	12.65%
+				8	Rural Minor Collector				1,486,620	2.29%	0.67%				6,689	0.01%	0.00%	12.01	0.12%	0.02%	0	0.00%	0.00%	0.00	0.00%		1,493,309	0.67%	2,451.33	3.29%
+				9	Rural Local System				9,045,497	13.92%	4.08%				212,911	0.23%	0.10%	297.53	2.98%	0.40%	0	0.00%	0.00%	0.00	0.00%		9,258,408	4.17%	33,037.94	44.31%
+				11	Urban Principal Arterial - Interstate				0	0.00%	0.00%				0	0.00%	0.00%	0.00	0.00%	0.00%	40,847,968	61.96%	18.41%	462.62	41.34%		40,847,968	18.41%	462.62	0.62%
+				12	Urban Principal Arterial - Other Freeways or Expressways				118,990	0.18%	0.05%				9,182,240	10.10%	4.14%	257.07	2.57%	0.34%	0	0.00%	0.00%	0.00	0.00%		9,301,230	4.19%	261.23	0.35%
+				14	Urban Principal Arterial - Other				2,840,638	4.37%	1.28%				32,646,829	35.90%	14.72%	1,270.84	12.72%	1.70%	0	0.00%	0.00%	0.00	0.00%		35,487,467	16.00%	1,364.94	1.83%
+				16	Urban Minor Arterial				17,452,748	26.86%	7.87%				11,159,931	12.27%	5.03%	891.92	8.93%	1.20%	0	0.00%	0.00%	0.00	0.00%		28,612,680	12.90%	2,313.89	3.10%
+				17	Urban Collector				10,664,586	16.41%	4.81%				653,604	0.72%	0.29%	120.99	1.21%	0.16%	0	0.00%	0.00%	0.00	0.00%		11,318,189	5.10%	2,525.26	3.39%
+				19	Urban Local System				14,987,417	23.07%	6.76%				142,167	0.16%	0.06%	154.27	1.54%	0.21%	0	0.00%	0.00%	0.00	0.00%		15,129,584	6.82%	17,220.37	23.10%
+						1	Motorcycles		163,296	0.25%	0.07%				348,103	0.38%	0.16%				193,843	0.29%	0.09%				705,242	0.32%		
+						2	Passenger Cars		56,778,435	87.38%	25.59%				70,093,498	77.07%	31.60%				48,479,069	73.54%	21.85%				175,351,002	79.04%
+						3	Two Axle, 4 Tire Single Unit Vehicles		7,004,813	10.78%	3.16%				16,140,815	17.75%	7.28%				9,412,503	14.28%	4.24%				32,558,131	14.68%
+						4	Busses		244,457	0.38%	0.11%				470,667	0.52%	0.21%				402,335	0.61%	0.18%				1,117,459	0.50%
+						5	Two Axle, 6 Tire Single Unit Trucks		302,216	0.47%	0.14%				645,454	0.71%	0.29%				464,777	0.71%	0.21%				1,412,447	0.64%
+						6	Three Axle Single Unit Trucks		190,417	0.29%	0.09%				512,882	0.56%	0.23%				344,800	0.52%	0.16%				1,048,099	0.47%
+						7	Four or More Axle Single Unit Trucks		47,091	0.07%	0.02%				131,243	0.14%	0.06%				54,384	0.08%	0.02%				232,718	0.10%
+						8	Four Axle or Fewer Single Trailers		67,900	0.10%	0.03%				263,157	0.29%	0.12%				251,134	0.38%	0.11%				582,191	0.26%
+						9	Five Axle Single Trailers		158,108	0.24%	0.07%				2,180,303	2.40%	0.98%				5,872,447	8.91%	2.65%				8,210,858	3.70%
+						10	Six or More Axle Single Trailers		18,082	0.03%	0.01%				93,225	0.10%	0.04%				85,708	0.13%	0.04%				197,016	0.09%
+						11	Five Axle or Fewer Multi-Trailers		1,739	0.00%	0.00%				54,362	0.06%	0.02%				265,608	0.40%	0.12%				321,710	0.15%
+						12	Six Axle Multi-Trailers		409	0.00%	0.00%				12,425	0.01%	0.01%				94,972	0.14%	0.04%				107,806	0.05%
+						13	Seven or More Axle Multi-Trailers		299	0.00%	0.00%				517	0.00%	0.00%				1,057	0.00%	0.00%				1,873	0.00%		
+
+
+'Secondary' includes those routes in the VDOT secondary system,  (unnumbered) routes maintained by Arlington and Henrico Counties and unnumbered routes maintained by cities and towns.
+'Primary' includes those routes designated as 'US', 'SR' (Virginia State Route) and Frontage Roads.
+'Primary' also includes the named federal parkways (George Washington Pkwy, Colonial Pkwy, Blue Ridge Pkwy, Skyline Drive) and the Dulles Access road.
+'Interstate' includes those routes in the Interstate System.
+Road Length values temporarilly not included in this report pending publication of official road length values.
+
+ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011		ReportID:	230	DataYear:	2011	Prepared	8/22/2012

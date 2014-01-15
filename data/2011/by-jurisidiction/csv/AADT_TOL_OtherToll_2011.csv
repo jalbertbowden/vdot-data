@@ -1,0 +1,32 @@
+Virginia Department of Transportation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Traffic Engineering Division,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Annual Average Daily Traffic Volume Estimates By Section of Route,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Other Toll,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Parallel Facilities Combined,,,,,,,,,,,,,
+Link ID,Route Prefix,Route Number,Route Suffix,Route Label,Route Alias,Physical Jurisdiction,,Maintenance Jurisdiction,,Link Length,Start Label,End Label,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality,Data Date,Comment,AADT,AADT Quality,Percent 2 and 4 Tire Vehicles,Percent Busses,Percent Single Unit Trucks 2 Axle,Percent Single Unit Trucks 3+ Axle,Percent Combination Trucks 1 Trailer,Percent Combination Trucks 2+ Trailer,Vehicle Classification Quality,K Factor,K Factor Quality,Direction Factor,AAWDT,AAWDT Quality
+050418,  US,00013,     ,US 13,Chesapeake Bay Bridge Tunnel,065,Northampton County,TOL,Other Toll,19.14,NCL Virginia Beach,65-600 Seaside Rd,8800,G,92%,1%,1%,1%,6%,0%,F,0.0772,F,0.5079,8300,G,2011,,,,,,,,,,,,,,,
+665859,  SR,00161,     ,VA 161,Nickel Bridge,127,City of Richmond,TOL,Other Toll,0.38,South End of Bridge,North End of Bridge,13000,F,100%,0%,0%,0%,0%,0%,C,0.0960,F,0.0000,14000,F,2011,,,,,,,,,,,,,,,
+615095,  SR,00168,     ,VA 168,Chesapeake Expressway,131,City of Chesapeake,TOL,Other Toll,2.92,Bus SR 168 Battlefield Blvd; Gallbush Rd,Bus SR 168 Battlefield Blvd; Near Indian Creek Rd,9300,F,97%,0%,0%,1%,1%,0%,F,0.0860,F,0.0000,8500,F,2011,,,,,,,,,,,,,,,
+615100,  SR,00168,     ,VA 168,Chesapeake Expressway,131,City of Chesapeake,TOL,Other Toll,2.94,Bus SR 168 Battlefield Blvd; Near Indian Creek Rd,Hillcrest Pkwy,9300,F,97%,0%,0%,1%,1%,0%,F,0.0860,F,0.0000,8500,F,2011,,,,,,,,,,,,,,,
+615101,  SR,00168,     ,VA 168,Chesapeake Expressway,131,City of Chesapeake,TOL,Other Toll,0.25,Hillcrest Pkwy,End Toll Road,33000,F,97%,0%,0%,1%,1%,0%,F,0.0899,F,0.0000,31000,F,2011,,,,,,,,,,,,,,,
+090004,  SR,00267,E    ,VA 267 EB,Dulles Greenway,253,Town of Leesburg,TOL,Other Toll,0.39,US 15 Leesburg Bypass,SCL Leesburg,14000,F,,,,,,,X,,,,15000,F,2011,,27000,F,,,,,,,X,,,,29000,F
+090066,  SR,00267,E    ,VA 267 EB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,0.75,SCL Leesburg,Battlefield Pkwy,14000,F,,,,,,,X,,,,15000,F,2011,,27000,F,,,,,,,X,,,,29000,F
+090064,  SR,00267,E    ,VA 267 EB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,2.08,Battlefield Pkwy,53-653 Shreve Mill Rd,15000,F,,,,,,,X,,,,16000,F,2011,,29000,F,,,,,,,X,,,,31000,F
+090002,  SR,00267,E    ,VA 267 EB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,2.26,53-653 Shreve Mill Rd,53-659 Belmont Ridge Rd,15000,F,,,,,,,X,,,,16000,F,2011,,31000,F,,,,,,,X,,,,33000,F
+090010,  SR,00267,E    ,VA 267 EB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.06,53-659 Belmont Ridge Rd,53-901 Claiborne Pkwy,15000,F,,,,,,,X,,,,18000,F,2011,,30000,F,,,,,,,X,,,,36000,F
+090026,  SR,00267,E    ,VA 267 EB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.79,53-901 Claiborne Pkwy,53-772 Ashburn Village Blvd,17000,F,,,,,,,X,,,,21000,F,2011,,34000,F,,,,,,,X,,,,41000,F
+090060,  SR,00267,E    ,VA 267 EB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.40,53-772 Ashburn Village Blvd,53-1950 Loudoun County Pkwy,19000,F,,,,,,,X,0.2107,F,0.0000,23000,F,2011,,39000,F,,,,,,,X,0.1154,F,0.0000,46000,F
+090061,  SR,00267,E    ,VA 267 EB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.08,53-1950 Loudoun County Pkwy,53-606 Old Ox Rd,22000,F,,,,,,,X,0.2125,F,0.0000,26000,F,2011,,43000,F,,,,,,,X,0.1174,F,0.0000,51000,F
+090062,  SR,00267,E    ,VA 267 EB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.72,53-606 Old Ox Rd,SR 28 Sully Rd,21000,F,,,,,,,X,0.2024,F,0.0000,25000,F,2011,,42000,F,,,,,,,X,0.1513,F,0.0000,49000,F
+644048,  SR,00267,W    ,VA 267 WB,Dulles Greenway,253,Town of Leesburg,TOL,Other Toll,0.68,US 15 Leesburg Bypass,SCL Leesburg,13000,F,,,,,,,X,,,,14000,F,2011,,27000,F,,,,,,,X,,,,29000,F
+796552,  SR,00267,W    ,VA 267 WB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,0.34,SCL Leesburg,Battlefield Pkwy,13000,F,,,,,,,X,,,,14000,F,2011,,27000,F,,,,,,,X,,,,29000,F
+796551,  SR,00267,W    ,VA 267 WB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,2.31,Battlefield Pkwy,53-653 Shreve Mill Rd,15000,F,,,,,,,X,,,,16000,F,2011,,29000,F,,,,,,,X,,,,31000,F
+781396,  SR,00267,W    ,VA 267 WB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,2.31,53-653 Shreve Mill Rd,53-659 Belmont Ridge Rd,15000,F,,,,,,,X,,,,16000,F,2011,,31000,F,,,,,,,X,,,,33000,F
+789765,  SR,00267,W    ,VA 267 WB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,0.87,53-659 Belmont Ridge Rd,53-901 Claiborne Pkwy,15000,F,,,,,,,X,,,,18000,F,2011,,30000,F,,,,,,,X,,,,36000,F
+792271,  SR,00267,W    ,VA 267 WB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.82,53-901 Claiborne Pkwy,53-772 Ashburn Village Blvd,17000,F,,,,,,,X,,,,20000,F,2011,,34000,F,,,,,,,X,,,,41000,F
+792272,  SR,00267,W    ,VA 267 WB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.32,53-772 Ashburn Village Blvd,53-1950 Loudoun County Pkwy,19000,F,,,,,,,X,0.1998,F,0.0000,23000,F,2011,,39000,F,,,,,,,X,0.1154,F,0.0000,46000,F
+792273,  SR,00267,W    ,VA 267 WB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.24,53-1950 Loudoun County Pkwy,53-606 Old Ox Rd,21000,F,,,,,,,X,0.2037,F,0.0000,25000,F,2011,,43000,F,,,,,,,X,0.1174,F,0.0000,51000,F
+792274,  SR,00267,W    ,VA 267 WB,Dulles Greenway,053,Loudoun County,TOL,Other Toll,1.75,53-606 Old Ox Rd,SR 28 Sully Rd,21000,F,,,,,,,X,,,,25000,F,2011,,42000,F,,,,,,,X,,,,49000,F
+660619,  SR,00337,     ,VA 337,Jordan Bridge,131,City of Chesapeake,TOL,Other Toll,0.39,ECL Portsmouth,Toll Authority Boundary,6800,N,97%,1%,0%,1%,1%,0%,N,,,,7300,N,2011,,,,,,,,,,,,,,,
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

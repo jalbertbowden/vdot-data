@@ -1,0 +1,1027 @@
+ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011	Prepared	8/22/2012
+Daily Vehicle Miles Traveled (DVMT) by Physical Jurisdiction by Federal Functional Class; Towns Combined into Counties																														
+Public Road Segments within the Commonwealth of Virginia																														
+Road Length values temporarilly not included in this report pending publication of official road length values																														
+2011																														
+																														
+									Secondary						Primary						Interstate						All Roads			
+													%	%					%	%					%	%				%
+										%	%		of	of		%	%		of	of		%	%		of	of		%		of
+										of	of		Secondary	State		of	of		Primary	State		of	of		Interstate	State		of		State
+				Federal						Secondary	State	Road	Total	Total		Primary	State	Road	Total	Total		Interstate	State	Road	Total	Total		State	Road	Total
+				Functional						Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Length	Road
+		Jurisdiction		Class					DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	(Miles)	Length
+																														
+ 		001	Accomack County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				689,445	0.76%	0.31%				0	0.00%	0.00%				689,445	0.31%		
+ 		001	Accomack County	7	Rural Major Collector			              	140,380	0.22%	0.06%				193,419	0.21%	0.09%				0	0.00%	0.00%				333,799	0.15%		
+ 		001	Accomack County	8	Rural Minor Collector			              	27,901	0.04%	0.01%				1,810	0.00%	0.00%				0	0.00%	0.00%				29,711	0.01%		
+ 		001	Accomack County	9	Rural Local System			              	142,195	0.22%	0.06%				108	0.00%	0.00%				0	0.00%	0.00%				142,303	0.06%		
+ 		001	Accomack County Total:						310,477	0.48%	0.14%				884,782	0.97%	0.40%				0	0.00%	0.00%				1,195,258	0.54%		
+ 		002	Albemarle County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				760,026	1.15%	0.34%				760,026	0.34%		
+ 		002	Albemarle County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				266,507	0.29%	0.12%				0	0.00%	0.00%				266,507	0.12%		
+ 		002	Albemarle County	6	Rural Minor Arterial			              	0	0.00%	0.00%				363,461	0.40%	0.16%				0	0.00%	0.00%				363,461	0.16%		
+ 		002	Albemarle County	7	Rural Major Collector			              	255,947	0.39%	0.12%				136,657	0.15%	0.06%				0	0.00%	0.00%				392,604	0.18%		
+ 		002	Albemarle County	8	Rural Minor Collector			              	22,552	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				22,552	0.01%		
+ 		002	Albemarle County	9	Rural Local System			              	221,052	0.34%	0.10%				1,070	0.00%	0.00%				0	0.00%	0.00%				222,122	0.10%		
+ 		002	Albemarle County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				325,492	0.49%	0.15%				325,492	0.15%		
+ 		002	Albemarle County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				168,613	0.19%	0.08%				0	0.00%	0.00%				168,613	0.08%		
+ 		002	Albemarle County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				486,473	0.53%	0.22%				0	0.00%	0.00%				486,473	0.22%		
+ 		002	Albemarle County	16	Urban Minor Arterial			              	127,443	0.20%	0.06%				84,766	0.09%	0.04%				0	0.00%	0.00%				212,209	0.10%		
+ 		002	Albemarle County	17	Urban Collector			              	142,133	0.22%	0.06%				0	0.00%	0.00%				0	0.00%	0.00%				142,133	0.06%		
+ 		002	Albemarle County	19	Urban Local System			              	118,929	0.18%	0.05%				2,387	0.00%	0.00%				0	0.00%	0.00%				121,316	0.05%		
+ 		002	Albemarle County Total:						888,056	1.37%	0.40%				1,509,933	1.66%	0.68%				1,085,517	1.65%	0.49%				3,483,506	1.57%		
+ 		003	Alleghany County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				419,098	0.64%	0.19%				419,098	0.19%		
+ 		003	Alleghany County	6	Rural Minor Arterial			              	0	0.00%	0.00%				18,349	0.02%	0.01%				0	0.00%	0.00%				18,349	0.01%		
+ 		003	Alleghany County	7	Rural Major Collector			              	30,437	0.05%	0.01%				52,294	0.06%	0.02%				0	0.00%	0.00%				82,731	0.04%		
+ 		003	Alleghany County	8	Rural Minor Collector			              	1,835	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				1,835	0.00%		
+ 		003	Alleghany County	9	Rural Local System			              	75,791	0.12%	0.03%				1,203	0.00%	0.00%				0	0.00%	0.00%				76,993	0.03%		
+ 		003	Alleghany County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				28,407	0.04%	0.01%				28,407	0.01%		
+ 		003	Alleghany County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				35,804	0.04%	0.02%				0	0.00%	0.00%				35,804	0.02%		
+ 		003	Alleghany County	16	Urban Minor Arterial			              	0	0.00%	0.00%				24,988	0.03%	0.01%				0	0.00%	0.00%				24,988	0.01%		
+ 		003	Alleghany County	17	Urban Collector			              	13,294	0.02%	0.01%				635	0.00%	0.00%				0	0.00%	0.00%				13,929	0.01%		
+ 		003	Alleghany County	19	Urban Local System			              	14,375	0.02%	0.01%				121	0.00%	0.00%				0	0.00%	0.00%				14,496	0.01%		
+ 		003	Alleghany County Total:						135,731	0.21%	0.06%				133,393	0.15%	0.06%				447,505	0.68%	0.20%				716,629	0.32%		
+ 		004	Amelia County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				275,846	0.30%	0.12%				0	0.00%	0.00%				275,846	0.12%		
+ 		004	Amelia County	7	Rural Major Collector			              	81,339	0.13%	0.04%				62,640	0.07%	0.03%				0	0.00%	0.00%				143,979	0.06%		
+ 		004	Amelia County	8	Rural Minor Collector			              	32,005	0.05%	0.01%				159	0.00%	0.00%				0	0.00%	0.00%				32,164	0.01%		
+ 		004	Amelia County	9	Rural Local System			              	68,738	0.11%	0.03%				13	0.00%	0.00%				0	0.00%	0.00%				68,752	0.03%		
+ 		004	Amelia County Total:						182,083	0.28%	0.08%				338,659	0.37%	0.15%				0	0.00%	0.00%				520,742	0.23%		
+ 		005	Amherst County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				77,247	0.08%	0.03%				0	0.00%	0.00%				77,247	0.03%		
+ 		005	Amherst County	6	Rural Minor Arterial			              	0	0.00%	0.00%				132,346	0.15%	0.06%				0	0.00%	0.00%				132,346	0.06%		
+ 		005	Amherst County	7	Rural Major Collector			              	50,467	0.08%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				50,467	0.02%		
+ 		005	Amherst County	8	Rural Minor Collector			              	10,526	0.02%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10,526	0.00%		
+ 		005	Amherst County	9	Rural Local System			              	51,868	0.08%	0.02%				6	0.00%	0.00%				0	0.00%	0.00%				51,874	0.02%		
+ 		005	Amherst County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				292,765	0.32%	0.13%				0	0.00%	0.00%				292,765	0.13%		
+ 		005	Amherst County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				184,407	0.20%	0.08%				0	0.00%	0.00%				184,407	0.08%		
+ 		005	Amherst County	16	Urban Minor Arterial			              	13,056	0.02%	0.01%				58,232	0.06%	0.03%				0	0.00%	0.00%				71,289	0.03%		
+ 		005	Amherst County	17	Urban Collector			              	53,729	0.08%	0.02%				1,961	0.00%	0.00%				0	0.00%	0.00%				55,690	0.03%		
+ 		005	Amherst County	19	Urban Local System			              	28,745	0.04%	0.01%				1,685	0.00%	0.00%				0	0.00%	0.00%				30,430	0.01%		
+ 		005	Amherst County Total:						208,392	0.32%	0.09%				748,648	0.82%	0.34%				0	0.00%	0.00%				957,040	0.43%		
+ 		006	Appomattox County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				246,254	0.27%	0.11%				0	0.00%	0.00%				246,254	0.11%		
+ 		006	Appomattox County	6	Rural Minor Arterial			              	0	0.00%	0.00%				53,975	0.06%	0.02%				0	0.00%	0.00%				53,975	0.02%		
+ 		006	Appomattox County	7	Rural Major Collector			              	63,986	0.10%	0.03%				28,336	0.03%	0.01%				0	0.00%	0.00%				92,322	0.04%		
+ 		006	Appomattox County	8	Rural Minor Collector			              	10,429	0.02%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10,429	0.00%		
+ 		006	Appomattox County	9	Rural Local System			              	57,437	0.09%	0.03%				303	0.00%	0.00%				0	0.00%	0.00%				57,740	0.03%		
+ 		006	Appomattox County Total:						131,852	0.20%	0.06%				328,868	0.36%	0.15%				0	0.00%	0.00%				460,720	0.21%		
+ 		000	Arlington County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,394,573	2.12%	0.63%				1,394,573	0.63%		
+ 		000	Arlington County	14	Urban Principal Arterial - Other			              	150,176	0.23%	0.07%				1,834,986	2.02%	0.83%				0	0.00%	0.00%				1,985,161	0.89%		
+ 		000	Arlington County	16	Urban Minor Arterial			              	548,401	0.84%	0.25%				111,655	0.12%	0.05%				0	0.00%	0.00%				660,055	0.30%		
+ 		000	Arlington County	17	Urban Collector			              	145,969	0.22%	0.07%				1,226	0.00%	0.00%				0	0.00%	0.00%				147,195	0.07%		
+ 		000	Arlington County	19	Urban Local System			              	382,184	0.59%	0.17%				3,001	0.00%	0.00%				0	0.00%	0.00%				385,184	0.17%		
+ 		000	Arlington County Total:						1,226,729	1.89%	0.55%				1,950,868	2.15%	0.88%				1,394,573	2.12%	0.63%				4,572,169	2.06%		
+ 		007	Augusta County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,584,260	2.40%	0.71%				1,584,260	0.71%		
+ 		007	Augusta County	6	Rural Minor Arterial			              	0	0.00%	0.00%				364,492	0.40%	0.16%				0	0.00%	0.00%				364,492	0.16%		
+ 		007	Augusta County	7	Rural Major Collector			              	193,714	0.30%	0.09%				186,868	0.21%	0.08%				0	0.00%	0.00%				380,583	0.17%		
+ 		007	Augusta County	8	Rural Minor Collector			              	72,297	0.11%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				72,297	0.03%		
+ 		007	Augusta County	9	Rural Local System			              	201,244	0.31%	0.09%				1,708	0.00%	0.00%				0	0.00%	0.00%				202,952	0.09%		
+ 		007	Augusta County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				170,228	0.26%	0.08%				170,228	0.08%		
+ 		007	Augusta County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				110,928	0.12%	0.05%				0	0.00%	0.00%				110,928	0.05%		
+ 		007	Augusta County	16	Urban Minor Arterial			              	4,038	0.01%	0.00%				189,189	0.21%	0.09%				0	0.00%	0.00%				193,226	0.09%		
+ 		007	Augusta County	17	Urban Collector			              	141,563	0.22%	0.06%				0	0.00%	0.00%				0	0.00%	0.00%				141,563	0.06%		
+ 		007	Augusta County	19	Urban Local System			              	11,401	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				11,401	0.01%		
+ 		007	Augusta County Total:						624,257	0.96%	0.28%				853,184	0.94%	0.38%				1,754,488	2.66%	0.79%				3,231,929	1.46%		
+ 		008	Bath County	6	Rural Minor Arterial			              	0	0.00%	0.00%				84,897	0.09%	0.04%				0	0.00%	0.00%				84,897	0.04%		
+ 		008	Bath County	7	Rural Major Collector			              	17,938	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				17,938	0.01%		
+ 		008	Bath County	8	Rural Minor Collector			              	3,065	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				3,065	0.00%		
+ 		008	Bath County	9	Rural Local System			              	36,910	0.06%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				36,910	0.02%		
+ 		008	Bath County Total:						57,913	0.09%	0.03%				84,897	0.09%	0.04%				0	0.00%	0.00%				142,810	0.06%		
+ 		009	Bedford County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				412,874	0.45%	0.19%				0	0.00%	0.00%				412,874	0.19%		
+ 		009	Bedford County	6	Rural Minor Arterial			              	0	0.00%	0.00%				392,771	0.43%	0.18%				0	0.00%	0.00%				392,771	0.18%		
+ 		009	Bedford County	7	Rural Major Collector			              	241,280	0.37%	0.11%				71,002	0.08%	0.03%				0	0.00%	0.00%				312,282	0.14%		
+ 		009	Bedford County	8	Rural Minor Collector			              	8,810	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				8,810	0.00%		
+ 		009	Bedford County	9	Rural Local System			              	211,216	0.33%	0.10%				27	0.00%	0.00%				0	0.00%	0.00%				211,243	0.10%		
+ 		009	Bedford County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				38,294	0.04%	0.02%				0	0.00%	0.00%				38,294	0.02%		
+ 		009	Bedford County	16	Urban Minor Arterial			              	35,649	0.05%	0.02%				123,944	0.14%	0.06%				0	0.00%	0.00%				159,593	0.07%		
+ 		009	Bedford County	17	Urban Collector			              	67,531	0.10%	0.03%				264	0.00%	0.00%				0	0.00%	0.00%				67,795	0.03%		
+ 		009	Bedford County	19	Urban Local System			              	50,369	0.08%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				50,369	0.02%		
+ 		009	Bedford County Total:						614,855	0.95%	0.28%				1,039,176	1.14%	0.47%				0	0.00%	0.00%				1,654,031	0.75%		
+ 		010	Bland County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				564,413	0.86%	0.25%				564,413	0.25%		
+ 		010	Bland County	6	Rural Minor Arterial			              	0	0.00%	0.00%				30,436	0.03%	0.01%				0	0.00%	0.00%				30,436	0.01%		
+ 		010	Bland County	7	Rural Major Collector			              	11,198	0.02%	0.01%				36,138	0.04%	0.02%				0	0.00%	0.00%				47,336	0.02%		
+ 		010	Bland County	9	Rural Local System			              	59,598	0.09%	0.03%				599	0.00%	0.00%				0	0.00%	0.00%				60,197	0.03%		
+ 		010	Bland County Total:						70,796	0.11%	0.03%				67,173	0.07%	0.03%				564,413	0.86%	0.25%				702,383	0.32%		
+ 		011	Botetourt County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				798,544	1.21%	0.36%				798,544	0.36%		
+ 		011	Botetourt County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				240,141	0.26%	0.11%				0	0.00%	0.00%				240,141	0.11%		
+ 		011	Botetourt County	6	Rural Minor Arterial			              	0	0.00%	0.00%				11,929	0.01%	0.01%				0	0.00%	0.00%				11,929	0.01%		
+ 		011	Botetourt County	7	Rural Major Collector			              	56,989	0.09%	0.03%				71,721	0.08%	0.03%				0	0.00%	0.00%				128,710	0.06%		
+ 		011	Botetourt County	8	Rural Minor Collector			              	13,833	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				13,833	0.01%		
+ 		011	Botetourt County	9	Rural Local System			              	82,280	0.13%	0.04%				11,939	0.01%	0.01%				0	0.00%	0.00%				94,219	0.04%		
+ 		011	Botetourt County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				212,125	0.32%	0.10%				212,125	0.10%		
+ 		011	Botetourt County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				286,788	0.32%	0.13%				0	0.00%	0.00%				286,788	0.13%		
+ 		011	Botetourt County	16	Urban Minor Arterial			              	0	0.00%	0.00%				7,574	0.01%	0.00%				0	0.00%	0.00%				7,574	0.00%		
+ 		011	Botetourt County	17	Urban Collector			              	66,041	0.10%	0.03%				21,379	0.02%	0.01%				0	0.00%	0.00%				87,420	0.04%		
+ 		011	Botetourt County	19	Urban Local System			              	28,217	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				28,217	0.01%		
+ 		011	Botetourt County Total:						247,360	0.38%	0.11%				651,471	0.72%	0.29%				1,010,669	1.53%	0.46%				1,909,500	0.86%		
+ 		012	Brunswick County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				419,956	0.64%	0.19%				419,956	0.19%		
+ 		012	Brunswick County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				216,751	0.24%	0.10%				0	0.00%	0.00%				216,751	0.10%		
+ 		012	Brunswick County	6	Rural Minor Arterial			              	0	0.00%	0.00%				53,124	0.06%	0.02%				0	0.00%	0.00%				53,124	0.02%		
+ 		012	Brunswick County	7	Rural Major Collector			              	101,924	0.16%	0.05%				60,281	0.07%	0.03%				0	0.00%	0.00%				162,205	0.07%		
+ 		012	Brunswick County	8	Rural Minor Collector			              	9,684	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				9,684	0.00%		
+ 		012	Brunswick County	9	Rural Local System			              	93,239	0.14%	0.04%				202	0.00%	0.00%				0	0.00%	0.00%				93,441	0.04%		
+ 		012	Brunswick County Total:						204,847	0.32%	0.09%				330,358	0.36%	0.15%				419,956	0.64%	0.19%				955,161	0.43%		
+ 		013	Buchanan County	2	Rural Principal Arterial - Other			              	3,744	0.01%	0.00%				254,167	0.28%	0.11%				0	0.00%	0.00%				257,911	0.12%		
+ 		013	Buchanan County	6	Rural Minor Arterial			              	0	0.00%	0.00%				53,829	0.06%	0.02%				0	0.00%	0.00%				53,829	0.02%		
+ 		013	Buchanan County	7	Rural Major Collector			              	131,042	0.20%	0.06%				48,407	0.05%	0.02%				0	0.00%	0.00%				179,450	0.08%		
+ 		013	Buchanan County	8	Rural Minor Collector			              	4,370	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				4,370	0.00%		
+ 		013	Buchanan County	9	Rural Local System			              	139,710	0.22%	0.06%				142	0.00%	0.00%				0	0.00%	0.00%				139,852	0.06%		
+ 		013	Buchanan County Total:						278,866	0.43%	0.13%				356,546	0.39%	0.16%				0	0.00%	0.00%				635,412	0.29%		
+ 		014	Buckingham County	6	Rural Minor Arterial			              	0	0.00%	0.00%				271,780	0.30%	0.12%				0	0.00%	0.00%				271,780	0.12%		
+ 		014	Buckingham County	7	Rural Major Collector			              	47,693	0.07%	0.02%				11,458	0.01%	0.01%				0	0.00%	0.00%				59,152	0.03%		
+ 		014	Buckingham County	8	Rural Minor Collector			              	10,140	0.02%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10,140	0.00%		
+ 		014	Buckingham County	9	Rural Local System			              	81,356	0.13%	0.04%				14	0.00%	0.00%				0	0.00%	0.00%				81,370	0.04%		
+ 		014	Buckingham County Total:						139,189	0.21%	0.06%				283,253	0.31%	0.13%				0	0.00%	0.00%				422,441	0.19%		
+ 		015	Campbell County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				433,631	0.48%	0.20%				0	0.00%	0.00%				433,631	0.20%		
+ 		015	Campbell County	6	Rural Minor Arterial			              	0	0.00%	0.00%				218,913	0.24%	0.10%				0	0.00%	0.00%				218,913	0.10%		
+ 		015	Campbell County	7	Rural Major Collector			              	201,196	0.31%	0.09%				58,122	0.06%	0.03%				0	0.00%	0.00%				259,318	0.12%		
+ 		015	Campbell County	8	Rural Minor Collector			              	18,137	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				18,137	0.01%		
+ 		015	Campbell County	9	Rural Local System			              	135,918	0.21%	0.06%				191	0.00%	0.00%				0	0.00%	0.00%				136,109	0.06%		
+ 		015	Campbell County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				152,011	0.17%	0.07%				0	0.00%	0.00%				152,011	0.07%		
+ 		015	Campbell County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				244,628	0.27%	0.11%				0	0.00%	0.00%				244,628	0.11%		
+ 		015	Campbell County	16	Urban Minor Arterial			              	48,269	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				48,269	0.02%		
+ 		015	Campbell County	17	Urban Collector			              	65,448	0.10%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				65,448	0.03%		
+ 		015	Campbell County	19	Urban Local System			              	46,630	0.07%	0.02%				331	0.00%	0.00%				0	0.00%	0.00%				46,960	0.02%		
+ 		015	Campbell County Total:						515,597	0.79%	0.23%				1,107,825	1.22%	0.50%				0	0.00%	0.00%				1,623,423	0.73%		
+ 		016	Caroline County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,424,733	2.16%	0.64%				1,424,733	0.64%		
+ 		016	Caroline County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				330,078	0.36%	0.15%				0	0.00%	0.00%				330,078	0.15%		
+ 		016	Caroline County	6	Rural Minor Arterial			              	0	0.00%	0.00%				158,859	0.17%	0.07%				0	0.00%	0.00%				158,859	0.07%		
+ 		016	Caroline County	7	Rural Major Collector			              	155,381	0.24%	0.07%				81,579	0.09%	0.04%				0	0.00%	0.00%				236,961	0.11%		
+ 		016	Caroline County	8	Rural Minor Collector			              	17,173	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				17,173	0.01%		
+ 		016	Caroline County	9	Rural Local System			              	118,047	0.18%	0.05%				745	0.00%	0.00%				0	0.00%	0.00%				118,792	0.05%		
+ 		016	Caroline County Total:						290,601	0.45%	0.13%				571,262	0.63%	0.26%				1,424,733	2.16%	0.64%				2,286,596	1.03%		
+ 		017	Carroll County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				851,500	1.29%	0.38%				851,500	0.38%		
+ 		017	Carroll County	6	Rural Minor Arterial			              	0	0.00%	0.00%				269,279	0.30%	0.12%				0	0.00%	0.00%				269,279	0.12%		
+ 		017	Carroll County	7	Rural Major Collector			              	124,800	0.19%	0.06%				93,789	0.10%	0.04%				0	0.00%	0.00%				218,589	0.10%		
+ 		017	Carroll County	8	Rural Minor Collector			              	15,271	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				15,271	0.01%		
+ 		017	Carroll County	9	Rural Local System			              	112,557	0.17%	0.05%				170	0.00%	0.00%				0	0.00%	0.00%				112,727	0.05%		
+ 		017	Carroll County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				30,584	0.03%	0.01%				0	0.00%	0.00%				30,584	0.01%		
+ 		017	Carroll County	16	Urban Minor Arterial			              	4,145	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				4,145	0.00%		
+ 		017	Carroll County	17	Urban Collector			              	264	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				264	0.00%		
+ 		017	Carroll County	19	Urban Local System			              	1,061	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				1,061	0.00%		
+ 		017	Carroll County Total:						258,098	0.40%	0.12%				393,822	0.43%	0.18%				851,500	1.29%	0.38%				1,503,419	0.68%		
+ 		018	Charles City County	6	Rural Minor Arterial			              	0	0.00%	0.00%				91,333	0.10%	0.04%				0	0.00%	0.00%				91,333	0.04%		
+ 		018	Charles City County	7	Rural Major Collector			              	26,898	0.04%	0.01%				12,377	0.01%	0.01%				0	0.00%	0.00%				39,275	0.02%		
+ 		018	Charles City County	8	Rural Minor Collector			              	4,695	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				4,695	0.00%		
+ 		018	Charles City County	9	Rural Local System			              	43,882	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				43,882	0.02%		
+ 		018	Charles City County Total:						75,475	0.12%	0.03%				103,710	0.11%	0.05%				0	0.00%	0.00%				179,185	0.08%		
+ 		019	Charlotte County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				102,761	0.11%	0.05%				0	0.00%	0.00%				102,761	0.05%		
+ 		019	Charlotte County	6	Rural Minor Arterial			              	0	0.00%	0.00%				70,170	0.08%	0.03%				0	0.00%	0.00%				70,170	0.03%		
+ 		019	Charlotte County	7	Rural Major Collector			              	42,746	0.07%	0.02%				80,106	0.09%	0.04%				0	0.00%	0.00%				122,852	0.06%		
+ 		019	Charlotte County	8	Rural Minor Collector			              	3,253	0.01%	0.00%				296	0.00%	0.00%				0	0.00%	0.00%				3,549	0.00%		
+ 		019	Charlotte County	9	Rural Local System			              	63,789	0.10%	0.03%				72	0.00%	0.00%				0	0.00%	0.00%				63,861	0.03%		
+ 		019	Charlotte County Total:						109,787	0.17%	0.05%				253,406	0.28%	0.11%				0	0.00%	0.00%				363,194	0.16%		
+ 		020	Chesterfield County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				179,906	0.20%	0.08%				0	0.00%	0.00%				179,906	0.08%		
+ 		020	Chesterfield County	6	Rural Minor Arterial			              	92,796	0.14%	0.04%				0	0.00%	0.00%				0	0.00%	0.00%				92,796	0.04%		
+ 		020	Chesterfield County	7	Rural Major Collector			              	98,669	0.15%	0.04%				0	0.00%	0.00%				0	0.00%	0.00%				98,669	0.04%		
+ 		020	Chesterfield County	9	Rural Local System			              	88,463	0.14%	0.04%				492	0.00%	0.00%				0	0.00%	0.00%				88,955	0.04%		
+ 		020	Chesterfield County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,276,867	1.94%	0.58%				1,276,867	0.58%		
+ 		020	Chesterfield County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				1,989,597	2.19%	0.90%				0	0.00%	0.00%				1,989,597	0.90%		
+ 		020	Chesterfield County	14	Urban Principal Arterial - Other			              	156,101	0.24%	0.07%				2,078,562	2.29%	0.94%				0	0.00%	0.00%				2,234,663	1.01%		
+ 		020	Chesterfield County	16	Urban Minor Arterial			              	855,277	1.32%	0.39%				152,701	0.17%	0.07%				0	0.00%	0.00%				1,007,978	0.45%		
+ 		020	Chesterfield County	17	Urban Collector			              	575,310	0.89%	0.26%				0	0.00%	0.00%				0	0.00%	0.00%				575,310	0.26%		
+ 		020	Chesterfield County	19	Urban Local System			              	773,159	1.19%	0.35%				3,885	0.00%	0.00%				0	0.00%	0.00%				777,044	0.35%		
+ 		020	Chesterfield County Total:						2,639,776	4.06%	1.19%				4,405,142	4.84%	1.99%				1,276,867	1.94%	0.58%				8,321,785	3.75%		
+ 		021	Clarke County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				370,943	0.41%	0.17%				0	0.00%	0.00%				370,943	0.17%		
+ 		021	Clarke County	6	Rural Minor Arterial			              	0	0.00%	0.00%				239,203	0.26%	0.11%				0	0.00%	0.00%				239,203	0.11%		
+ 		021	Clarke County	7	Rural Major Collector			              	58,975	0.09%	0.03%				20,823	0.02%	0.01%				0	0.00%	0.00%				79,798	0.04%		
+ 		021	Clarke County	8	Rural Minor Collector			              	29,934	0.05%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				29,934	0.01%		
+ 		021	Clarke County	9	Rural Local System			              	34,643	0.05%	0.02%				229	0.00%	0.00%				0	0.00%	0.00%				34,873	0.02%		
+ 		021	Clarke County Total:						123,552	0.19%	0.06%				631,198	0.69%	0.28%				0	0.00%	0.00%				754,750	0.34%		
+ 		022	Craig County	7	Rural Major Collector			              	11,304	0.02%	0.01%				63,575	0.07%	0.03%				0	0.00%	0.00%				74,879	0.03%		
+ 		022	Craig County	8	Rural Minor Collector			              	2,003	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				2,003	0.00%		
+ 		022	Craig County	9	Rural Local System			              	26,148	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				26,148	0.01%		
+ 		022	Craig County Total:						39,455	0.06%	0.02%				63,575	0.07%	0.03%				0	0.00%	0.00%				103,030	0.05%		
+ 		023	Culpeper County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				541,286	0.60%	0.24%				0	0.00%	0.00%				541,286	0.24%		
+ 		023	Culpeper County	6	Rural Minor Arterial			              	0	0.00%	0.00%				340,874	0.37%	0.15%				0	0.00%	0.00%				340,874	0.15%		
+ 		023	Culpeper County	7	Rural Major Collector			              	115,033	0.18%	0.05%				23,183	0.03%	0.01%				0	0.00%	0.00%				138,216	0.06%		
+ 		023	Culpeper County	8	Rural Minor Collector			              	13,393	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				13,393	0.01%		
+ 		023	Culpeper County	9	Rural Local System			              	154,820	0.24%	0.07%				1,126	0.00%	0.00%				0	0.00%	0.00%				155,946	0.07%		
+ 		023	Culpeper County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				58,908	0.06%	0.03%				0	0.00%	0.00%				58,908	0.03%		
+ 		023	Culpeper County	16	Urban Minor Arterial			              	6,428	0.01%	0.00%				60,003	0.07%	0.03%				0	0.00%	0.00%				66,431	0.03%		
+ 		023	Culpeper County	17	Urban Collector			              	9,293	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				9,293	0.00%		
+ 		023	Culpeper County	19	Urban Local System			              	128,105	0.20%	0.06%				0	0.00%	0.00%				0	0.00%	0.00%				128,105	0.06%		
+ 		023	Culpeper County Total:						427,071	0.66%	0.19%				1,025,380	1.13%	0.46%				0	0.00%	0.00%				1,452,452	0.65%		
+ 		024	Cumberland County	6	Rural Minor Arterial			              	0	0.00%	0.00%				117,363	0.13%	0.05%				0	0.00%	0.00%				117,363	0.05%		
+ 		024	Cumberland County	7	Rural Major Collector			              	25,750	0.04%	0.01%				28,430	0.03%	0.01%				0	0.00%	0.00%				54,180	0.02%		
+ 		024	Cumberland County	8	Rural Minor Collector			              	5,991	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				5,991	0.00%		
+ 		024	Cumberland County	9	Rural Local System			              	46,435	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				46,435	0.02%		
+ 		024	Cumberland County Total:						78,175	0.12%	0.04%				145,793	0.16%	0.07%				0	0.00%	0.00%				223,968	0.10%		
+ 		025	Dickenson County	6	Rural Minor Arterial			              	0	0.00%	0.00%				151,235	0.17%	0.07%				0	0.00%	0.00%				151,235	0.07%		
+ 		025	Dickenson County	7	Rural Major Collector			              	54,415	0.08%	0.02%				62,035	0.07%	0.03%				0	0.00%	0.00%				116,450	0.05%		
+ 		025	Dickenson County	8	Rural Minor Collector			              	2,780	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				2,780	0.00%		
+ 		025	Dickenson County	9	Rural Local System			              	84,030	0.13%	0.04%				675	0.00%	0.00%				0	0.00%	0.00%				84,704	0.04%		
+ 		025	Dickenson County Total:						141,225	0.22%	0.06%				213,945	0.24%	0.10%				0	0.00%	0.00%				355,170	0.16%		
+ 		026	Dinwiddie County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				439,284	0.67%	0.20%				439,284	0.20%		
+ 		026	Dinwiddie County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				134,997	0.15%	0.06%				0	0.00%	0.00%				134,997	0.06%		
+ 		026	Dinwiddie County	6	Rural Minor Arterial			              	0	0.00%	0.00%				32,532	0.04%	0.01%				0	0.00%	0.00%				32,532	0.01%		
+ 		026	Dinwiddie County	7	Rural Major Collector			              	69,573	0.11%	0.03%				54,036	0.06%	0.02%				0	0.00%	0.00%				123,609	0.06%		
+ 		026	Dinwiddie County	8	Rural Minor Collector			              	17,230	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				17,230	0.01%		
+ 		026	Dinwiddie County	9	Rural Local System			              	110,804	0.17%	0.05%				509	0.00%	0.00%				0	0.00%	0.00%				111,313	0.05%		
+ 		026	Dinwiddie County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				194,350	0.29%	0.09%				194,350	0.09%		
+ 		026	Dinwiddie County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				81,847	0.09%	0.04%				0	0.00%	0.00%				81,847	0.04%		
+ 		026	Dinwiddie County	16	Urban Minor Arterial			              	13,757	0.02%	0.01%				80,599	0.09%	0.04%				0	0.00%	0.00%				94,356	0.04%		
+ 		026	Dinwiddie County	17	Urban Collector			              	35,083	0.05%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				35,083	0.02%		
+ 		026	Dinwiddie County	19	Urban Local System			              	22,582	0.03%	0.01%				1,079	0.00%	0.00%				0	0.00%	0.00%				23,661	0.01%		
+ 		026	Dinwiddie County Total:						269,029	0.41%	0.12%				385,600	0.42%	0.17%				633,634	0.96%	0.29%				1,288,263	0.58%		
+ 		028	Essex County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				314,634	0.35%	0.14%				0	0.00%	0.00%				314,634	0.14%		
+ 		028	Essex County	7	Rural Major Collector			              	56,107	0.09%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				56,107	0.03%		
+ 		028	Essex County	8	Rural Minor Collector			              	6,731	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				6,731	0.00%		
+ 		028	Essex County	9	Rural Local System			              	43,623	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				43,623	0.02%		
+ 		028	Essex County Total:						106,461	0.16%	0.05%				314,634	0.35%	0.14%				0	0.00%	0.00%				421,095	0.19%		
+ 		029	Fairfax County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				8,856,266	13.43%	3.99%				8,856,266	3.99%		
+ 		029	Fairfax County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				1,558,347	1.71%	0.70%				0	0.00%	0.00%				1,558,347	0.70%		
+ 		029	Fairfax County	14	Urban Principal Arterial - Other			              	1,440,516	2.22%	0.65%				6,015,092	6.61%	2.71%				0	0.00%	0.00%				7,455,609	3.36%		
+ 		029	Fairfax County	16	Urban Minor Arterial			              	5,521,596	8.50%	2.49%				502,170	0.55%	0.23%				0	0.00%	0.00%				6,023,766	2.72%		
+ 		029	Fairfax County	17	Urban Collector			              	1,413,531	2.18%	0.64%				41,604	0.05%	0.02%				0	0.00%	0.00%				1,455,135	0.66%		
+ 		029	Fairfax County	19	Urban Local System			              	1,693,681	2.61%	0.76%				37,216	0.04%	0.02%				0	0.00%	0.00%				1,730,897	0.78%		
+ 		029	Fairfax County Total:						10,069,324	15.50%	4.54%				8,154,429	8.97%	3.68%				8,856,266	13.43%	3.99%				27,080,019	12.21%		
+ 		030	Fauquier County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				839,244	1.27%	0.38%				839,244	0.38%		
+ 		030	Fauquier County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				1,054,006	1.16%	0.48%				0	0.00%	0.00%				1,054,006	0.48%		
+ 		030	Fauquier County	6	Rural Minor Arterial			              	0	0.00%	0.00%				306,347	0.34%	0.14%				0	0.00%	0.00%				306,347	0.14%		
+ 		030	Fauquier County	7	Rural Major Collector			              	248,843	0.38%	0.11%				64,348	0.07%	0.03%				0	0.00%	0.00%				313,190	0.14%		
+ 		030	Fauquier County	8	Rural Minor Collector			              	61,909	0.10%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				61,909	0.03%		
+ 		030	Fauquier County	9	Rural Local System			              	240,479	0.37%	0.11%				4,834	0.01%	0.00%				0	0.00%	0.00%				245,313	0.11%		
+ 		030	Fauquier County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				408,639	0.45%	0.18%				0	0.00%	0.00%				408,639	0.18%		
+ 		030	Fauquier County	16	Urban Minor Arterial			              	6,695	0.01%	0.00%				48,830	0.05%	0.02%				0	0.00%	0.00%				55,525	0.03%		
+ 		030	Fauquier County	17	Urban Collector			              	65,806	0.10%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				65,806	0.03%		
+ 		030	Fauquier County	19	Urban Local System			              	36,662	0.06%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				36,662	0.02%		
+ 		030	Fauquier County Total:						660,393	1.02%	0.30%				1,887,004	2.07%	0.85%				839,244	1.27%	0.38%				3,386,641	1.53%		
+ 		031	Floyd County	6	Rural Minor Arterial			              	0	0.00%	0.00%				206,366	0.23%	0.09%				0	0.00%	0.00%				206,366	0.09%		
+ 		031	Floyd County	7	Rural Major Collector			              	61,400	0.09%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				61,400	0.03%		
+ 		031	Floyd County	8	Rural Minor Collector			              	12,753	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				12,753	0.01%		
+ 		031	Floyd County	9	Rural Local System			              	61,254	0.09%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				61,254	0.03%		
+ 		031	Floyd County Total:						135,407	0.21%	0.06%				206,366	0.23%	0.09%				0	0.00%	0.00%				341,773	0.15%		
+ 		032	Fluvanna County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				51,043	0.08%	0.02%				51,043	0.02%		
+ 		032	Fluvanna County	6	Rural Minor Arterial			              	0	0.00%	0.00%				162,901	0.18%	0.07%				0	0.00%	0.00%				162,901	0.07%		
+ 		032	Fluvanna County	7	Rural Major Collector			              	87,981	0.14%	0.04%				81,637	0.09%	0.04%				0	0.00%	0.00%				169,618	0.08%		
+ 		032	Fluvanna County	8	Rural Minor Collector			              	13,172	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				13,172	0.01%		
+ 		032	Fluvanna County	9	Rural Local System			              	84,152	0.13%	0.04%				0	0.00%	0.00%				0	0.00%	0.00%				84,152	0.04%		
+ 		032	Fluvanna County Total:						185,305	0.29%	0.08%				244,538	0.27%	0.11%				51,043	0.08%	0.02%				480,886	0.22%		
+ 		033	Franklin County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				507,316	0.56%	0.23%				0	0.00%	0.00%				507,316	0.23%		
+ 		033	Franklin County	6	Rural Minor Arterial			              	0	0.00%	0.00%				289,926	0.32%	0.13%				0	0.00%	0.00%				289,926	0.13%		
+ 		033	Franklin County	7	Rural Major Collector			              	307,276	0.47%	0.14%				83,532	0.09%	0.04%				0	0.00%	0.00%				390,808	0.18%		
+ 		033	Franklin County	8	Rural Minor Collector			              	51,384	0.08%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				51,384	0.02%		
+ 		033	Franklin County	9	Rural Local System			              	248,787	0.38%	0.11%				561	0.00%	0.00%				0	0.00%	0.00%				249,348	0.11%		
+ 		033	Franklin County Total:						607,447	0.93%	0.27%				881,335	0.97%	0.40%				0	0.00%	0.00%				1,488,782	0.67%		
+ 		034	Frederick County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				539,930	0.82%	0.24%				539,930	0.24%		
+ 		034	Frederick County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				292,368	0.32%	0.13%				0	0.00%	0.00%				292,368	0.13%		
+ 		034	Frederick County	6	Rural Minor Arterial			              	0	0.00%	0.00%				257,488	0.28%	0.12%				0	0.00%	0.00%				257,488	0.12%		
+ 		034	Frederick County	7	Rural Major Collector			              	102,635	0.16%	0.05%				77,627	0.09%	0.03%				0	0.00%	0.00%				180,262	0.08%		
+ 		034	Frederick County	8	Rural Minor Collector			              	54,328	0.08%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				54,328	0.02%		
+ 		034	Frederick County	9	Rural Local System			              	158,691	0.24%	0.07%				6,521	0.01%	0.00%				0	0.00%	0.00%				165,212	0.07%		
+ 		034	Frederick County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				604,254	0.92%	0.27%				604,254	0.27%		
+ 		034	Frederick County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				231,463	0.25%	0.10%				0	0.00%	0.00%				231,463	0.10%		
+ 		034	Frederick County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				242,831	0.27%	0.11%				0	0.00%	0.00%				242,831	0.11%		
+ 		034	Frederick County	16	Urban Minor Arterial			              	21,725	0.03%	0.01%				142,802	0.16%	0.06%				0	0.00%	0.00%				164,526	0.07%		
+ 		034	Frederick County	17	Urban Collector			              	161,733	0.25%	0.07%				0	0.00%	0.00%				0	0.00%	0.00%				161,733	0.07%		
+ 		034	Frederick County	19	Urban Local System			              	87,986	0.14%	0.04%				155	0.00%	0.00%				0	0.00%	0.00%				88,142	0.04%		
+ 		034	Frederick County Total:						587,099	0.90%	0.26%				1,251,255	1.38%	0.56%				1,144,184	1.74%	0.52%				2,982,537	1.34%		
+ 		035	Giles County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				337,031	0.37%	0.15%				0	0.00%	0.00%				337,031	0.15%		
+ 		035	Giles County	6	Rural Minor Arterial			              	0	0.00%	0.00%				60,839	0.07%	0.03%				0	0.00%	0.00%				60,839	0.03%		
+ 		035	Giles County	7	Rural Major Collector			              	24,239	0.04%	0.01%				56,999	0.06%	0.03%				0	0.00%	0.00%				81,237	0.04%		
+ 		035	Giles County	8	Rural Minor Collector			              	4,400	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				4,400	0.00%		
+ 		035	Giles County	9	Rural Local System			              	59,107	0.09%	0.03%				32	0.00%	0.00%				0	0.00%	0.00%				59,139	0.03%		
+ 		035	Giles County Total:						87,746	0.14%	0.04%				454,901	0.50%	0.21%				0	0.00%	0.00%				542,647	0.24%		
+ 		036	Gloucester County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				321,441	0.35%	0.14%				0	0.00%	0.00%				321,441	0.14%		
+ 		036	Gloucester County	6	Rural Minor Arterial			              	0	0.00%	0.00%				154,698	0.17%	0.07%				0	0.00%	0.00%				154,698	0.07%		
+ 		036	Gloucester County	7	Rural Major Collector			              	106,396	0.16%	0.05%				11,445	0.01%	0.01%				0	0.00%	0.00%				117,842	0.05%		
+ 		036	Gloucester County	8	Rural Minor Collector			              	22,625	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				22,625	0.01%		
+ 		036	Gloucester County	9	Rural Local System			              	81,980	0.13%	0.04%				100	0.00%	0.00%				0	0.00%	0.00%				82,081	0.04%		
+ 		036	Gloucester County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				250,567	0.28%	0.11%				0	0.00%	0.00%				250,567	0.11%		
+ 		036	Gloucester County	17	Urban Collector			              	19,701	0.03%	0.01%				28,685	0.03%	0.01%				0	0.00%	0.00%				48,386	0.02%		
+ 		036	Gloucester County	19	Urban Local System			              	18,973	0.03%	0.01%				51	0.00%	0.00%				0	0.00%	0.00%				19,024	0.01%		
+ 		036	Gloucester County Total:						249,676	0.38%	0.11%				766,988	0.84%	0.35%				0	0.00%	0.00%				1,016,663	0.46%		
+ 		037	Goochland County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				807,671	1.23%	0.36%				807,671	0.36%		
+ 		037	Goochland County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				271,280	0.30%	0.12%				0	0.00%	0.00%				271,280	0.12%		
+ 		037	Goochland County	6	Rural Minor Arterial			              	0	0.00%	0.00%				64,038	0.07%	0.03%				0	0.00%	0.00%				64,038	0.03%		
+ 		037	Goochland County	7	Rural Major Collector			              	113,653	0.17%	0.05%				250,516	0.28%	0.11%				0	0.00%	0.00%				364,170	0.16%		
+ 		037	Goochland County	8	Rural Minor Collector			              	41,864	0.06%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				41,864	0.02%		
+ 		037	Goochland County	9	Rural Local System			              	94,963	0.15%	0.04%				1,516	0.00%	0.00%				0	0.00%	0.00%				96,479	0.04%		
+ 		037	Goochland County	19	Urban Local System			              	630	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				630	0.00%		
+ 		037	Goochland County Total:						251,110	0.39%	0.11%				587,351	0.65%	0.26%				807,671	1.23%	0.36%				1,646,132	0.74%		
+ 		038	Grayson County	6	Rural Minor Arterial			              	0	0.00%	0.00%				181,010	0.20%	0.08%				0	0.00%	0.00%				181,010	0.08%		
+ 		038	Grayson County	7	Rural Major Collector			              	43,304	0.07%	0.02%				14,628	0.02%	0.01%				0	0.00%	0.00%				57,932	0.03%		
+ 		038	Grayson County	8	Rural Minor Collector			              	5,940	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				5,940	0.00%		
+ 		038	Grayson County	9	Rural Local System			              	61,986	0.10%	0.03%				1,048	0.00%	0.00%				0	0.00%	0.00%				63,034	0.03%		
+ 		038	Grayson County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				5,283	0.01%	0.00%				0	0.00%	0.00%				5,283	0.00%		
+ 		038	Grayson County	19	Urban Local System			              	28	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				28	0.00%		
+ 		038	Grayson County Total:						111,258	0.17%	0.05%				201,970	0.22%	0.09%				0	0.00%	0.00%				313,227	0.14%		
+ 		039	Greene County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				267,644	0.29%	0.12%				0	0.00%	0.00%				267,644	0.12%		
+ 		039	Greene County	6	Rural Minor Arterial			              	0	0.00%	0.00%				40,907	0.04%	0.02%				0	0.00%	0.00%				40,907	0.02%		
+ 		039	Greene County	7	Rural Major Collector			              	48,512	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				48,512	0.02%		
+ 		039	Greene County	8	Rural Minor Collector			              	14,472	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				14,472	0.01%		
+ 		039	Greene County	9	Rural Local System			              	59,135	0.09%	0.03%				101	0.00%	0.00%				0	0.00%	0.00%				59,236	0.03%		
+ 		039	Greene County Total:						122,120	0.19%	0.06%				308,652	0.34%	0.14%				0	0.00%	0.00%				430,771	0.19%		
+ 		040	Greensville County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				395,847	0.60%	0.18%				395,847	0.18%		
+ 		040	Greensville County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				79,999	0.09%	0.04%				0	0.00%	0.00%				79,999	0.04%		
+ 		040	Greensville County	7	Rural Major Collector			              	48,134	0.07%	0.02%				16,357	0.02%	0.01%				0	0.00%	0.00%				64,491	0.03%		
+ 		040	Greensville County	8	Rural Minor Collector			              	11,914	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				11,914	0.01%		
+ 		040	Greensville County	9	Rural Local System			              	49,003	0.08%	0.02%				1,973	0.00%	0.00%				0	0.00%	0.00%				50,976	0.02%		
+ 		040	Greensville County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				158,687	0.24%	0.07%				158,687	0.07%		
+ 		040	Greensville County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				4,091	0.00%	0.00%				0	0.00%	0.00%				4,091	0.00%		
+ 		040	Greensville County	16	Urban Minor Arterial			              	2,759	0.00%	0.00%				22,631	0.02%	0.01%				0	0.00%	0.00%				25,389	0.01%		
+ 		040	Greensville County	17	Urban Collector			              	932	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				932	0.00%		
+ 		040	Greensville County Total:						112,742	0.17%	0.05%				125,050	0.14%	0.06%				554,534	0.84%	0.25%				792,326	0.36%		
+ 		041	Halifax County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				325,259	0.36%	0.15%				0	0.00%	0.00%				325,259	0.15%		
+ 		041	Halifax County	6	Rural Minor Arterial			              	0	0.00%	0.00%				176,157	0.19%	0.08%				0	0.00%	0.00%				176,157	0.08%		
+ 		041	Halifax County	7	Rural Major Collector			              	145,367	0.22%	0.07%				39,032	0.04%	0.02%				0	0.00%	0.00%				184,398	0.08%		
+ 		041	Halifax County	8	Rural Minor Collector			              	10,517	0.02%	0.00%				1,899	0.00%	0.00%				0	0.00%	0.00%				12,416	0.01%		
+ 		041	Halifax County	9	Rural Local System			              	97,353	0.15%	0.04%				11	0.00%	0.00%				0	0.00%	0.00%				97,364	0.04%		
+ 		041	Halifax County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				96,479	0.11%	0.04%				0	0.00%	0.00%				96,479	0.04%		
+ 		041	Halifax County	16	Urban Minor Arterial			              	22,453	0.03%	0.01%				68,617	0.08%	0.03%				0	0.00%	0.00%				91,070	0.04%		
+ 		041	Halifax County	17	Urban Collector			              	10,505	0.02%	0.00%				83	0.00%	0.00%				0	0.00%	0.00%				10,588	0.00%		
+ 		041	Halifax County	19	Urban Local System			              	25,738	0.04%	0.01%				7	0.00%	0.00%				0	0.00%	0.00%				25,744	0.01%		
+ 		041	Halifax County Total:						311,932	0.48%	0.14%				707,545	0.78%	0.32%				0	0.00%	0.00%				1,019,477	0.46%		
+ 		042	Hanover County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,174,852	1.78%	0.53%				1,174,852	0.53%		
+ 		042	Hanover County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				152,301	0.17%	0.07%				0	0.00%	0.00%				152,301	0.07%		
+ 		042	Hanover County	6	Rural Minor Arterial			              	0	0.00%	0.00%				261,407	0.29%	0.12%				0	0.00%	0.00%				261,407	0.12%		
+ 		042	Hanover County	7	Rural Major Collector			              	195,909	0.30%	0.09%				49,125	0.05%	0.02%				0	0.00%	0.00%				245,034	0.11%		
+ 		042	Hanover County	8	Rural Minor Collector			              	113,778	0.18%	0.05%				0	0.00%	0.00%				0	0.00%	0.00%				113,778	0.05%		
+ 		042	Hanover County	9	Rural Local System			              	204,985	0.32%	0.09%				4,335	0.00%	0.00%				0	0.00%	0.00%				209,320	0.09%		
+ 		042	Hanover County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,244,242	1.89%	0.56%				1,244,242	0.56%		
+ 		042	Hanover County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				25,431	0.03%	0.01%				0	0.00%	0.00%				25,431	0.01%		
+ 		042	Hanover County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				235,206	0.26%	0.11%				0	0.00%	0.00%				235,206	0.11%		
+ 		042	Hanover County	16	Urban Minor Arterial			              	58,568	0.09%	0.03%				202,738	0.22%	0.09%				0	0.00%	0.00%				261,306	0.12%		
+ 		042	Hanover County	17	Urban Collector			              	372,030	0.57%	0.17%				0	0.00%	0.00%				0	0.00%	0.00%				372,030	0.17%		
+ 		042	Hanover County	19	Urban Local System			              	136,154	0.21%	0.06%				328	0.00%	0.00%				0	0.00%	0.00%				136,481	0.06%		
+ 		042	Hanover County Total:						1,081,423	1.66%	0.49%				930,872	1.02%	0.42%				2,419,094	3.67%	1.09%				4,431,389	2.00%		
+ 		043	Henrico County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				123,091	0.19%	0.06%				123,091	0.06%		
+ 		043	Henrico County	6	Rural Minor Arterial			              	0	0.00%	0.00%				19,547	0.02%	0.01%				0	0.00%	0.00%				19,547	0.01%		
+ 		043	Henrico County	9	Rural Local System			              	34,901	0.05%	0.02%				449	0.00%	0.00%				0	0.00%	0.00%				35,350	0.02%		
+ 		043	Henrico County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				3,315,085	5.03%	1.49%				3,315,085	1.49%		
+ 		043	Henrico County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				106,095	0.12%	0.05%				0	0.00%	0.00%				106,095	0.05%		
+ 		043	Henrico County	14	Urban Principal Arterial - Other			              	649,237	1.00%	0.29%				651,739	0.72%	0.29%				0	0.00%	0.00%				1,300,975	0.59%		
+ 		043	Henrico County	16	Urban Minor Arterial			              	920,466	1.42%	0.41%				827,777	0.91%	0.37%				0	0.00%	0.00%				1,748,244	0.79%		
+ 		043	Henrico County	17	Urban Collector			              	390,064	0.60%	0.18%				59,866	0.07%	0.03%				0	0.00%	0.00%				449,930	0.20%		
+ 		043	Henrico County	19	Urban Local System			              	1,146,851	1.77%	0.52%				1,607	0.00%	0.00%				0	0.00%	0.00%				1,148,458	0.52%		
+ 		043	Henrico County Total:						3,141,519	4.83%	1.42%				1,667,080	1.83%	0.75%				3,438,175	5.22%	1.55%				8,246,774	3.72%		
+ 		044	Henry County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				155,780	0.17%	0.07%				0	0.00%	0.00%				155,780	0.07%		
+ 		044	Henry County	6	Rural Minor Arterial			              	0	0.00%	0.00%				141,950	0.16%	0.06%				0	0.00%	0.00%				141,950	0.06%		
+ 		044	Henry County	7	Rural Major Collector			              	146,839	0.23%	0.07%				0	0.00%	0.00%				0	0.00%	0.00%				146,839	0.07%		
+ 		044	Henry County	8	Rural Minor Collector			              	15,449	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				15,449	0.01%		
+ 		044	Henry County	9	Rural Local System			              	113,323	0.17%	0.05%				736	0.00%	0.00%				0	0.00%	0.00%				114,059	0.05%		
+ 		044	Henry County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				231,489	0.25%	0.10%				0	0.00%	0.00%				231,489	0.10%		
+ 		044	Henry County	14	Urban Principal Arterial - Other			              	5,083	0.01%	0.00%				322,674	0.35%	0.15%				0	0.00%	0.00%				327,758	0.15%		
+ 		044	Henry County	16	Urban Minor Arterial			              	52,009	0.08%	0.02%				151,260	0.17%	0.07%				0	0.00%	0.00%				203,269	0.09%		
+ 		044	Henry County	17	Urban Collector			              	59,138	0.09%	0.03%				34,244	0.04%	0.02%				0	0.00%	0.00%				93,382	0.04%		
+ 		044	Henry County	19	Urban Local System			              	59,246	0.09%	0.03%				119	0.00%	0.00%				0	0.00%	0.00%				59,365	0.03%		
+ 		044	Henry County Total:						451,087	0.69%	0.20%				1,038,253	1.14%	0.47%				0	0.00%	0.00%				1,489,340	0.67%		
+ 		045	Highland County	6	Rural Minor Arterial			              	0	0.00%	0.00%				42,835	0.05%	0.02%				0	0.00%	0.00%				42,835	0.02%		
+ 		045	Highland County	7	Rural Major Collector			              	7,650	0.01%	0.00%				4,645	0.01%	0.00%				0	0.00%	0.00%				12,294	0.01%		
+ 		045	Highland County	8	Rural Minor Collector			              	569	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				569	0.00%		
+ 		045	Highland County	9	Rural Local System			              	15,627	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				15,627	0.01%		
+ 		045	Highland County Total:						23,845	0.04%	0.01%				47,479	0.05%	0.02%				0	0.00%	0.00%				71,325	0.03%		
+ 		046	Isle of Wight County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				136,094	0.15%	0.06%				0	0.00%	0.00%				136,094	0.06%		
+ 		046	Isle of Wight County	6	Rural Minor Arterial			              	0	0.00%	0.00%				189,357	0.21%	0.09%				0	0.00%	0.00%				189,357	0.09%		
+ 		046	Isle of Wight County	7	Rural Major Collector			              	56,761	0.09%	0.03%				5,957	0.01%	0.00%				0	0.00%	0.00%				62,718	0.03%		
+ 		046	Isle of Wight County	8	Rural Minor Collector			              	15,669	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				15,669	0.01%		
+ 		046	Isle of Wight County	9	Rural Local System			              	131,119	0.20%	0.06%				2,193	0.00%	0.00%				0	0.00%	0.00%				133,312	0.06%		
+ 		046	Isle of Wight County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				457,780	0.50%	0.21%				0	0.00%	0.00%				457,780	0.21%		
+ 		046	Isle of Wight County	16	Urban Minor Arterial			              	0	0.00%	0.00%				34,202	0.04%	0.02%				0	0.00%	0.00%				34,202	0.02%		
+ 		046	Isle of Wight County	17	Urban Collector			              	81,002	0.12%	0.04%				9,447	0.01%	0.00%				0	0.00%	0.00%				90,449	0.04%		
+ 		046	Isle of Wight County	19	Urban Local System			              	69,178	0.11%	0.03%				794	0.00%	0.00%				0	0.00%	0.00%				69,973	0.03%		
+ 		046	Isle of Wight County Total:						353,729	0.54%	0.16%				835,825	0.92%	0.38%				0	0.00%	0.00%				1,189,554	0.54%		
+ 		047	James City County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				503,981	0.76%	0.23%				503,981	0.23%		
+ 		047	James City County	6	Rural Minor Arterial			              	0	0.00%	0.00%				123,632	0.14%	0.06%				0	0.00%	0.00%				123,632	0.06%		
+ 		047	James City County	7	Rural Major Collector			              	13,289	0.02%	0.01%				28,038	0.03%	0.01%				0	0.00%	0.00%				41,327	0.02%		
+ 		047	James City County	8	Rural Minor Collector			              	18,907	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				18,907	0.01%		
+ 		047	James City County	9	Rural Local System			              	69,013	0.11%	0.03%				21,242	0.02%	0.01%				0	0.00%	0.00%				90,256	0.04%		
+ 		047	James City County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				189,793	0.29%	0.09%				189,793	0.09%		
+ 		047	James City County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				279,315	0.31%	0.13%				0	0.00%	0.00%				279,315	0.13%		
+ 		047	James City County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				91,990	0.10%	0.04%				0	0.00%	0.00%				91,990	0.04%		
+ 		047	James City County	16	Urban Minor Arterial			              	125,421	0.19%	0.06%				218,428	0.24%	0.10%				0	0.00%	0.00%				343,849	0.15%		
+ 		047	James City County	17	Urban Collector			              	57,304	0.09%	0.03%				11	0.00%	0.00%				0	0.00%	0.00%				57,315	0.03%		
+ 		047	James City County	19	Urban Local System			              	43,763	0.07%	0.02%				2,602	0.00%	0.00%				0	0.00%	0.00%				46,364	0.02%		
+ 		047	James City County Total:						327,697	0.50%	0.15%				765,258	0.84%	0.34%				693,773	1.05%	0.31%				1,786,728	0.81%		
+ 		049	King & Queen County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				78,292	0.09%	0.04%				0	0.00%	0.00%				78,292	0.04%		
+ 		049	King & Queen County	6	Rural Minor Arterial			              	0	0.00%	0.00%				119,146	0.13%	0.05%				0	0.00%	0.00%				119,146	0.05%		
+ 		049	King & Queen County	7	Rural Major Collector			              	44,592	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				44,592	0.02%		
+ 		049	King & Queen County	8	Rural Minor Collector			              	5,205	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				5,205	0.00%		
+ 		049	King & Queen County	9	Rural Local System			              	20,191	0.03%	0.01%				5	0.00%	0.00%				0	0.00%	0.00%				20,196	0.01%		
+ 		049	King & Queen County Total:						69,988	0.11%	0.03%				197,443	0.22%	0.09%				0	0.00%	0.00%				267,431	0.12%		
+ 		048	King George County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				263,929	0.29%	0.12%				0	0.00%	0.00%				263,929	0.12%		
+ 		048	King George County	6	Rural Minor Arterial			              	0	0.00%	0.00%				385,086	0.42%	0.17%				0	0.00%	0.00%				385,086	0.17%		
+ 		048	King George County	7	Rural Major Collector			              	32,349	0.05%	0.01%				94,348	0.10%	0.04%				0	0.00%	0.00%				126,696	0.06%		
+ 		048	King George County	8	Rural Minor Collector			              	3,712	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				3,712	0.00%		
+ 		048	King George County	9	Rural Local System			              	58,337	0.09%	0.03%				3	0.00%	0.00%				0	0.00%	0.00%				58,340	0.03%		
+ 		048	King George County Total:						94,397	0.15%	0.04%				743,365	0.82%	0.34%				0	0.00%	0.00%				837,763	0.38%		
+ 		050	King William County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				134,071	0.15%	0.06%				0	0.00%	0.00%				134,071	0.06%		
+ 		050	King William County	6	Rural Minor Arterial			              	0	0.00%	0.00%				151,739	0.17%	0.07%				0	0.00%	0.00%				151,739	0.07%		
+ 		050	King William County	7	Rural Major Collector			              	58,637	0.09%	0.03%				888	0.00%	0.00%				0	0.00%	0.00%				59,525	0.03%		
+ 		050	King William County	8	Rural Minor Collector			              	12,582	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				12,582	0.01%		
+ 		050	King William County	9	Rural Local System			              	42,780	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				42,780	0.02%		
+ 		050	King William County Total:						113,999	0.18%	0.05%				286,699	0.32%	0.13%				0	0.00%	0.00%				400,698	0.18%		
+ 		051	Lancaster County	6	Rural Minor Arterial			              	0	0.00%	0.00%				200,466	0.22%	0.09%				0	0.00%	0.00%				200,466	0.09%		
+ 		051	Lancaster County	7	Rural Major Collector			              	37,012	0.06%	0.02%				31,023	0.03%	0.01%				0	0.00%	0.00%				68,035	0.03%		
+ 		051	Lancaster County	8	Rural Minor Collector			              	9,298	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				9,298	0.00%		
+ 		051	Lancaster County	9	Rural Local System			              	50,020	0.08%	0.02%				45	0.00%	0.00%				0	0.00%	0.00%				50,065	0.02%		
+ 		051	Lancaster County Total:						96,330	0.15%	0.04%				231,534	0.25%	0.10%				0	0.00%	0.00%				327,864	0.15%		
+ 		052	Lee County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				39,275	0.04%	0.02%				0	0.00%	0.00%				39,275	0.02%		
+ 		052	Lee County	6	Rural Minor Arterial			              	0	0.00%	0.00%				387,994	0.43%	0.17%				0	0.00%	0.00%				387,994	0.17%		
+ 		052	Lee County	7	Rural Major Collector			              	46,123	0.07%	0.02%				19,993	0.02%	0.01%				0	0.00%	0.00%				66,116	0.03%		
+ 		052	Lee County	8	Rural Minor Collector			              	7,897	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				7,897	0.00%		
+ 		052	Lee County	9	Rural Local System			              	85,470	0.13%	0.04%				0	0.00%	0.00%				0	0.00%	0.00%				85,470	0.04%		
+ 		052	Lee County Total:						139,489	0.21%	0.06%				447,261	0.49%	0.20%				0	0.00%	0.00%				586,751	0.26%		
+ 		053	Loudoun County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				833,984	0.92%	0.38%				0	0.00%	0.00%				833,984	0.38%		
+ 		053	Loudoun County	6	Rural Minor Arterial			              	0	0.00%	0.00%				508,627	0.56%	0.23%				0	0.00%	0.00%				508,627	0.23%		
+ 		053	Loudoun County	7	Rural Major Collector			              	401,829	0.62%	0.18%				58,311	0.06%	0.03%				0	0.00%	0.00%				460,140	0.21%		
+ 		053	Loudoun County	8	Rural Minor Collector			              	18,214	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				18,214	0.01%		
+ 		053	Loudoun County	9	Rural Local System			              	284,697	0.44%	0.13%				1,832	0.00%	0.00%				0	0.00%	0.00%				286,530	0.13%		
+ 		053	Loudoun County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				431,744	0.47%	0.19%				0	0.00%	0.00%				431,744	0.19%		
+ 		053	Loudoun County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				1,934,114	2.13%	0.87%				0	0.00%	0.00%				1,934,114	0.87%		
+ 		053	Loudoun County	16	Urban Minor Arterial			              	385,712	0.59%	0.17%				177,135	0.19%	0.08%				0	0.00%	0.00%				562,846	0.25%		
+ 		053	Loudoun County	17	Urban Collector			              	1,065,313	1.64%	0.48%				333	0.00%	0.00%				0	0.00%	0.00%				1,065,646	0.48%		
+ 		053	Loudoun County	19	Urban Local System			              	717,938	1.10%	0.32%				2,040	0.00%	0.00%				0	0.00%	0.00%				719,978	0.32%		
+ 		053	Loudoun County Total:						2,873,703	4.42%	1.30%				3,948,120	4.34%	1.78%				0	0.00%	0.00%				6,821,823	3.08%		
+ 		054	Louisa County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				603,187	0.91%	0.27%				603,187	0.27%		
+ 		054	Louisa County	6	Rural Minor Arterial			              	0	0.00%	0.00%				381,837	0.42%	0.17%				0	0.00%	0.00%				381,837	0.17%		
+ 		054	Louisa County	7	Rural Major Collector			              	119,595	0.18%	0.05%				96,012	0.11%	0.04%				0	0.00%	0.00%				215,608	0.10%		
+ 		054	Louisa County	8	Rural Minor Collector			              	23,913	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				23,913	0.01%		
+ 		054	Louisa County	9	Rural Local System			              	163,780	0.25%	0.07%				1,377	0.00%	0.00%				0	0.00%	0.00%				165,157	0.07%		
+ 		054	Louisa County Total:						307,288	0.47%	0.14%				479,226	0.53%	0.22%				603,187	0.91%	0.27%				1,389,701	0.63%		
+ 		055	Lunenburg County	6	Rural Minor Arterial			              	0	0.00%	0.00%				85,763	0.09%	0.04%				0	0.00%	0.00%				85,763	0.04%		
+ 		055	Lunenburg County	7	Rural Major Collector			              	47,375	0.07%	0.02%				60,584	0.07%	0.03%				0	0.00%	0.00%				107,959	0.05%		
+ 		055	Lunenburg County	8	Rural Minor Collector			              	7,602	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				7,602	0.00%		
+ 		055	Lunenburg County	9	Rural Local System			              	54,466	0.08%	0.02%				2	0.00%	0.00%				0	0.00%	0.00%				54,468	0.02%		
+ 		055	Lunenburg County Total:						109,443	0.17%	0.05%				146,349	0.16%	0.07%				0	0.00%	0.00%				255,792	0.12%		
+ 		056	Madison County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				266,698	0.29%	0.12%				0	0.00%	0.00%				266,698	0.12%		
+ 		056	Madison County	6	Rural Minor Arterial			              	0	0.00%	0.00%				138,426	0.15%	0.06%				0	0.00%	0.00%				138,426	0.06%		
+ 		056	Madison County	7	Rural Major Collector			              	31,961	0.05%	0.01%				3,217	0.00%	0.00%				0	0.00%	0.00%				35,178	0.02%		
+ 		056	Madison County	8	Rural Minor Collector			              	5,961	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				5,961	0.00%		
+ 		056	Madison County	9	Rural Local System			              	61,221	0.09%	0.03%				115	0.00%	0.00%				0	0.00%	0.00%				61,336	0.03%		
+ 		056	Madison County Total:						99,143	0.15%	0.04%				408,456	0.45%	0.18%				0	0.00%	0.00%				507,599	0.23%		
+ 		057	Mathews County	6	Rural Minor Arterial			              	0	0.00%	0.00%				139,359	0.15%	0.06%				0	0.00%	0.00%				139,359	0.06%		
+ 		057	Mathews County	7	Rural Major Collector			              	27,591	0.04%	0.01%				5,639	0.01%	0.00%				0	0.00%	0.00%				33,229	0.01%		
+ 		057	Mathews County	8	Rural Minor Collector			              	2,833	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				2,833	0.00%		
+ 		057	Mathews County	9	Rural Local System			              	14,440	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				14,440	0.01%		
+ 		057	Mathews County Total:						44,863	0.07%	0.02%				144,997	0.16%	0.07%				0	0.00%	0.00%				189,860	0.09%		
+ 		058	Mecklenburg County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				436,086	0.66%	0.20%				436,086	0.20%		
+ 		058	Mecklenburg County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				269,912	0.30%	0.12%				0	0.00%	0.00%				269,912	0.12%		
+ 		058	Mecklenburg County	6	Rural Minor Arterial			              	561	0.00%	0.00%				208,112	0.23%	0.09%				0	0.00%	0.00%				208,673	0.09%		
+ 		058	Mecklenburg County	7	Rural Major Collector			              	108,649	0.17%	0.05%				104,005	0.11%	0.05%				0	0.00%	0.00%				212,654	0.10%		
+ 		058	Mecklenburg County	8	Rural Minor Collector			              	17,341	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				17,341	0.01%		
+ 		058	Mecklenburg County	9	Rural Local System			              	142,817	0.22%	0.06%				1,489	0.00%	0.00%				0	0.00%	0.00%				144,306	0.07%		
+ 		058	Mecklenburg County Total:						269,369	0.41%	0.12%				583,518	0.64%	0.26%				436,086	0.66%	0.20%				1,288,973	0.58%		
+ 		059	Middlesex County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				83,631	0.09%	0.04%				0	0.00%	0.00%				83,631	0.04%		
+ 		059	Middlesex County	6	Rural Minor Arterial			              	0	0.00%	0.00%				138,263	0.15%	0.06%				0	0.00%	0.00%				138,263	0.06%		
+ 		059	Middlesex County	7	Rural Major Collector			              	29,852	0.05%	0.01%				38,608	0.04%	0.02%				0	0.00%	0.00%				68,460	0.03%		
+ 		059	Middlesex County	8	Rural Minor Collector			              	5,281	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				5,281	0.00%		
+ 		059	Middlesex County	9	Rural Local System			              	32,059	0.05%	0.01%				13	0.00%	0.00%				0	0.00%	0.00%				32,072	0.01%		
+ 		059	Middlesex County Total:						67,192	0.10%	0.03%				260,516	0.29%	0.12%				0	0.00%	0.00%				327,708	0.15%		
+ 		060	Montgomery County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				910,652	1.38%	0.41%				910,652	0.41%		
+ 		060	Montgomery County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				48,179	0.05%	0.02%				0	0.00%	0.00%				48,179	0.02%		
+ 		060	Montgomery County	6	Rural Minor Arterial			              	0	0.00%	0.00%				198,977	0.22%	0.09%				0	0.00%	0.00%				198,977	0.09%		
+ 		060	Montgomery County	7	Rural Major Collector			              	162,690	0.25%	0.07%				78,314	0.09%	0.04%				0	0.00%	0.00%				241,004	0.11%		
+ 		060	Montgomery County	8	Rural Minor Collector			              	18,627	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				18,627	0.01%		
+ 		060	Montgomery County	9	Rural Local System			              	127,067	0.20%	0.06%				909	0.00%	0.00%				0	0.00%	0.00%				127,976	0.06%		
+ 		060	Montgomery County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				211,010	0.32%	0.10%				211,010	0.10%		
+ 		060	Montgomery County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				354,320	0.39%	0.16%				0	0.00%	0.00%				354,320	0.16%		
+ 		060	Montgomery County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				96,294	0.11%	0.04%				0	0.00%	0.00%				96,294	0.04%		
+ 		060	Montgomery County	16	Urban Minor Arterial			              	88,673	0.14%	0.04%				303,319	0.33%	0.14%				0	0.00%	0.00%				391,992	0.18%		
+ 		060	Montgomery County	17	Urban Collector			              	41,615	0.06%	0.02%				4,266	0.00%	0.00%				0	0.00%	0.00%				45,881	0.02%		
+ 		060	Montgomery County	19	Urban Local System			              	165,713	0.26%	0.07%				6,424	0.01%	0.00%				0	0.00%	0.00%				172,137	0.08%		
+ 		060	Montgomery County Total:						604,384	0.93%	0.27%				1,091,002	1.20%	0.49%				1,121,662	1.70%	0.51%				2,817,049	1.27%		
+ 		061	Nansemond Maintenance Area	9	Rural Local System			              	64	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				64	0.00%		
+ 		061	Nansemond Maintenance Area Total:						64	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				64	0.00%		
+ 		062	Nelson County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				41,746	0.06%	0.02%				41,746	0.02%		
+ 		062	Nelson County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				310,683	0.34%	0.14%				0	0.00%	0.00%				310,683	0.14%		
+ 		062	Nelson County	6	Rural Minor Arterial			              	0	0.00%	0.00%				160,806	0.18%	0.07%				0	0.00%	0.00%				160,806	0.07%		
+ 		062	Nelson County	7	Rural Major Collector			              	28,687	0.04%	0.01%				61,916	0.07%	0.03%				0	0.00%	0.00%				90,602	0.04%		
+ 		062	Nelson County	8	Rural Minor Collector			              	9,063	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				9,063	0.00%		
+ 		062	Nelson County	9	Rural Local System			              	56,880	0.09%	0.03%				116	0.00%	0.00%				0	0.00%	0.00%				56,995	0.03%		
+ 		062	Nelson County Total:						94,629	0.15%	0.04%				533,520	0.59%	0.24%				41,746	0.06%	0.02%				669,895	0.30%		
+ 		063	New Kent County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,188,002	1.80%	0.54%				1,188,002	0.54%		
+ 		063	New Kent County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				92,367	0.10%	0.04%				0	0.00%	0.00%				92,367	0.04%		
+ 		063	New Kent County	6	Rural Minor Arterial			              	0	0.00%	0.00%				172,975	0.19%	0.08%				0	0.00%	0.00%				172,975	0.08%		
+ 		063	New Kent County	7	Rural Major Collector			              	8,141	0.01%	0.00%				85,120	0.09%	0.04%				0	0.00%	0.00%				93,261	0.04%		
+ 		063	New Kent County	8	Rural Minor Collector			              	23,169	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				23,169	0.01%		
+ 		063	New Kent County	9	Rural Local System			              	77,886	0.12%	0.04%				92	0.00%	0.00%				0	0.00%	0.00%				77,978	0.04%		
+ 		063	New Kent County Total:						109,196	0.17%	0.05%				350,554	0.39%	0.16%				1,188,002	1.80%	0.54%				1,647,752	0.74%		
+ 		065	Northampton County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				571,802	0.63%	0.26%				0	0.00%	0.00%				571,802	0.26%		
+ 		065	Northampton County	7	Rural Major Collector			              	33,697	0.05%	0.02%				33,936	0.04%	0.02%				0	0.00%	0.00%				67,634	0.03%		
+ 		065	Northampton County	8	Rural Minor Collector			              	6,054	0.01%	0.00%				1,933	0.00%	0.00%				0	0.00%	0.00%				7,987	0.00%		
+ 		065	Northampton County	9	Rural Local System			              	55,945	0.09%	0.03%				250	0.00%	0.00%				0	0.00%	0.00%				56,195	0.03%		
+ 		065	Northampton County Total:						95,696	0.15%	0.04%				607,921	0.67%	0.27%				0	0.00%	0.00%				703,617	0.32%		
+ 		066	Northumberland County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				134,388	0.15%	0.06%				0	0.00%	0.00%				134,388	0.06%		
+ 		066	Northumberland County	6	Rural Minor Arterial			              	0	0.00%	0.00%				62,155	0.07%	0.03%				0	0.00%	0.00%				62,155	0.03%		
+ 		066	Northumberland County	7	Rural Major Collector			              	53,006	0.08%	0.02%				12,585	0.01%	0.01%				0	0.00%	0.00%				65,591	0.03%		
+ 		066	Northumberland County	8	Rural Minor Collector			              	5,700	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				5,700	0.00%		
+ 		066	Northumberland County	9	Rural Local System			              	52,699	0.08%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				52,699	0.02%		
+ 		066	Northumberland County Total:						111,405	0.17%	0.05%				209,128	0.23%	0.09%				0	0.00%	0.00%				320,533	0.14%		
+ 		067	Nottoway County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				264,536	0.29%	0.12%				0	0.00%	0.00%				264,536	0.12%		
+ 		067	Nottoway County	6	Rural Minor Arterial			              	0	0.00%	0.00%				56,344	0.06%	0.03%				0	0.00%	0.00%				56,344	0.03%		
+ 		067	Nottoway County	7	Rural Major Collector			              	49,031	0.08%	0.02%				69,761	0.08%	0.03%				0	0.00%	0.00%				118,792	0.05%		
+ 		067	Nottoway County	8	Rural Minor Collector			              	11,685	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				11,685	0.01%		
+ 		067	Nottoway County	9	Rural Local System			              	75,119	0.12%	0.03%				774	0.00%	0.00%				0	0.00%	0.00%				75,892	0.03%		
+ 		067	Nottoway County Total:						135,834	0.21%	0.06%				391,415	0.43%	0.18%				0	0.00%	0.00%				527,249	0.24%		
+ 		068	Orange County	6	Rural Minor Arterial			              	0	0.00%	0.00%				543,442	0.60%	0.24%				0	0.00%	0.00%				543,442	0.24%		
+ 		068	Orange County	7	Rural Major Collector			              	80,035	0.12%	0.04%				45,531	0.05%	0.02%				0	0.00%	0.00%				125,566	0.06%		
+ 		068	Orange County	8	Rural Minor Collector			              	18,954	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				18,954	0.01%		
+ 		068	Orange County	9	Rural Local System			              	105,194	0.16%	0.05%				117	0.00%	0.00%				0	0.00%	0.00%				105,311	0.05%		
+ 		068	Orange County Total:						204,182	0.31%	0.09%				589,090	0.65%	0.27%				0	0.00%	0.00%				793,272	0.36%		
+ 		069	Page County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				91,372	0.10%	0.04%				0	0.00%	0.00%				91,372	0.04%		
+ 		069	Page County	6	Rural Minor Arterial			              	0	0.00%	0.00%				125,779	0.14%	0.06%				0	0.00%	0.00%				125,779	0.06%		
+ 		069	Page County	7	Rural Major Collector			              	51,542	0.08%	0.02%				88,070	0.10%	0.04%				0	0.00%	0.00%				139,612	0.06%		
+ 		069	Page County	8	Rural Minor Collector			              	27,900	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				27,900	0.01%		
+ 		069	Page County	9	Rural Local System			              	79,404	0.12%	0.04%				8	0.00%	0.00%				0	0.00%	0.00%				79,412	0.04%		
+ 		069	Page County Total:						158,845	0.24%	0.07%				305,228	0.34%	0.14%				0	0.00%	0.00%				464,074	0.21%		
+ 		070	Patrick County	6	Rural Minor Arterial			              	0	0.00%	0.00%				213,287	0.23%	0.10%				0	0.00%	0.00%				213,287	0.10%		
+ 		070	Patrick County	7	Rural Major Collector			              	70,765	0.11%	0.03%				42,102	0.05%	0.02%				0	0.00%	0.00%				112,867	0.05%		
+ 		070	Patrick County	8	Rural Minor Collector			              	13,534	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				13,534	0.01%		
+ 		070	Patrick County	9	Rural Local System			              	80,166	0.12%	0.04%				5	0.00%	0.00%				0	0.00%	0.00%				80,171	0.04%		
+ 		070	Patrick County Total:						164,466	0.25%	0.07%				255,394	0.28%	0.12%				0	0.00%	0.00%				419,860	0.19%		
+ 		071	Pittsylvania County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				694,565	0.76%	0.31%				0	0.00%	0.00%				694,565	0.31%		
+ 		071	Pittsylvania County	6	Rural Minor Arterial			              	765	0.00%	0.00%				174,685	0.19%	0.08%				0	0.00%	0.00%				175,450	0.08%		
+ 		071	Pittsylvania County	7	Rural Major Collector			              	279,920	0.43%	0.13%				70,873	0.08%	0.03%				0	0.00%	0.00%				350,793	0.16%		
+ 		071	Pittsylvania County	8	Rural Minor Collector			              	60,243	0.09%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				60,243	0.03%		
+ 		071	Pittsylvania County	9	Rural Local System			              	233,642	0.36%	0.11%				1,215	0.00%	0.00%				0	0.00%	0.00%				234,857	0.11%		
+ 		071	Pittsylvania County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				7,645	0.01%	0.00%				0	0.00%	0.00%				7,645	0.00%		
+ 		071	Pittsylvania County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				86,084	0.09%	0.04%				0	0.00%	0.00%				86,084	0.04%		
+ 		071	Pittsylvania County	16	Urban Minor Arterial			              	25,630	0.04%	0.01%				449	0.00%	0.00%				0	0.00%	0.00%				26,079	0.01%		
+ 		071	Pittsylvania County	17	Urban Collector			              	11,724	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				11,724	0.01%		
+ 		071	Pittsylvania County	19	Urban Local System			              	31,609	0.05%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				31,609	0.01%		
+ 		071	Pittsylvania County Total:						643,534	0.99%	0.29%				1,035,516	1.14%	0.47%				0	0.00%	0.00%				1,679,050	0.76%		
+ 		072	Powhatan County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				410,175	0.45%	0.18%				0	0.00%	0.00%				410,175	0.18%		
+ 		072	Powhatan County	6	Rural Minor Arterial			              	85,811	0.13%	0.04%				100,926	0.11%	0.05%				0	0.00%	0.00%				186,737	0.08%		
+ 		072	Powhatan County	7	Rural Major Collector			              	119,704	0.18%	0.05%				43,577	0.05%	0.02%				0	0.00%	0.00%				163,281	0.07%		
+ 		072	Powhatan County	8	Rural Minor Collector			              	14,661	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				14,661	0.01%		
+ 		072	Powhatan County	9	Rural Local System			              	81,673	0.13%	0.04%				781	0.00%	0.00%				0	0.00%	0.00%				82,455	0.04%		
+ 		072	Powhatan County Total:						301,849	0.46%	0.14%				555,460	0.61%	0.25%				0	0.00%	0.00%				857,309	0.39%		
+ 		073	Prince Edward County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				347,044	0.38%	0.16%				0	0.00%	0.00%				347,044	0.16%		
+ 		073	Prince Edward County	6	Rural Minor Arterial			              	0	0.00%	0.00%				82,484	0.09%	0.04%				0	0.00%	0.00%				82,484	0.04%		
+ 		073	Prince Edward County	7	Rural Major Collector			              	60,993	0.09%	0.03%				16,910	0.02%	0.01%				0	0.00%	0.00%				77,902	0.04%		
+ 		073	Prince Edward County	8	Rural Minor Collector			              	12,116	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				12,116	0.01%		
+ 		073	Prince Edward County	9	Rural Local System			              	52,870	0.08%	0.02%				173	0.00%	0.00%				0	0.00%	0.00%				53,043	0.02%		
+ 		073	Prince Edward County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				45,963	0.05%	0.02%				0	0.00%	0.00%				45,963	0.02%		
+ 		073	Prince Edward County	16	Urban Minor Arterial			              	1,971	0.00%	0.00%				45,349	0.05%	0.02%				0	0.00%	0.00%				47,320	0.02%		
+ 		073	Prince Edward County	17	Urban Collector			              	21,900	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				21,900	0.01%		
+ 		073	Prince Edward County	19	Urban Local System			              	9,123	0.01%	0.00%				70	0.00%	0.00%				0	0.00%	0.00%				9,193	0.00%		
+ 		073	Prince Edward County Total:						158,972	0.24%	0.07%				537,993	0.59%	0.24%				0	0.00%	0.00%				696,965	0.31%		
+ 		074	Prince George County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				442,175	0.67%	0.20%				442,175	0.20%		
+ 		074	Prince George County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				79,448	0.09%	0.04%				0	0.00%	0.00%				79,448	0.04%		
+ 		074	Prince George County	6	Rural Minor Arterial			              	0	0.00%	0.00%				80,790	0.09%	0.04%				0	0.00%	0.00%				80,790	0.04%		
+ 		074	Prince George County	7	Rural Major Collector			              	32,837	0.05%	0.01%				28,711	0.03%	0.01%				0	0.00%	0.00%				61,548	0.03%		
+ 		074	Prince George County	8	Rural Minor Collector			              	16,285	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				16,285	0.01%		
+ 		074	Prince George County	9	Rural Local System			              	40,776	0.06%	0.02%				5,141	0.01%	0.00%				0	0.00%	0.00%				45,917	0.02%		
+ 		074	Prince George County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				221,188	0.34%	0.10%				221,188	0.10%		
+ 		074	Prince George County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				199,006	0.22%	0.09%				0	0.00%	0.00%				199,006	0.09%		
+ 		074	Prince George County	16	Urban Minor Arterial			              	9,652	0.01%	0.00%				115,196	0.13%	0.05%				0	0.00%	0.00%				124,848	0.06%		
+ 		074	Prince George County	17	Urban Collector			              	114,642	0.18%	0.05%				0	0.00%	0.00%				0	0.00%	0.00%				114,642	0.05%		
+ 		074	Prince George County	19	Urban Local System			              	62,181	0.10%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				62,181	0.03%		
+ 		074	Prince George County Total:						276,373	0.43%	0.12%				508,293	0.56%	0.23%				663,363	1.01%	0.30%				1,448,028	0.65%		
+ 		076	Prince William County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				441,656	0.67%	0.20%				441,656	0.20%		
+ 		076	Prince William County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				41,548	0.05%	0.02%				0	0.00%	0.00%				41,548	0.02%		
+ 		076	Prince William County	6	Rural Minor Arterial			              	0	0.00%	0.00%				188,768	0.21%	0.09%				0	0.00%	0.00%				188,768	0.09%		
+ 		076	Prince William County	7	Rural Major Collector			              	80,555	0.12%	0.04%				125,423	0.14%	0.06%				0	0.00%	0.00%				205,978	0.09%		
+ 		076	Prince William County	8	Rural Minor Collector			              	23,491	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				23,491	0.01%		
+ 		076	Prince William County	9	Rural Local System			              	166,819	0.26%	0.08%				3,347	0.00%	0.00%				0	0.00%	0.00%				170,167	0.08%		
+ 		076	Prince William County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				2,707,840	4.11%	1.22%				2,707,840	1.22%		
+ 		076	Prince William County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				1,563,570	1.72%	0.70%				0	0.00%	0.00%				1,563,570	0.70%		
+ 		076	Prince William County	16	Urban Minor Arterial			              	1,807,278	2.78%	0.81%				360,622	0.40%	0.16%				0	0.00%	0.00%				2,167,900	0.98%		
+ 		076	Prince William County	17	Urban Collector			              	802,822	1.24%	0.36%				76,766	0.08%	0.03%				0	0.00%	0.00%				879,587	0.40%		
+ 		076	Prince William County	19	Urban Local System			              	906,430	1.39%	0.41%				2,239	0.00%	0.00%				0	0.00%	0.00%				908,668	0.41%		
+ 		076	Prince William County Total:						3,787,393	5.83%	1.71%				2,362,283	2.60%	1.06%				3,149,497	4.78%	1.42%				9,299,173	4.19%		
+ 		077	Pulaski County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				663,213	1.01%	0.30%				663,213	0.30%		
+ 		077	Pulaski County	6	Rural Minor Arterial			              	0	0.00%	0.00%				213,435	0.23%	0.10%				0	0.00%	0.00%				213,435	0.10%		
+ 		077	Pulaski County	7	Rural Major Collector			              	107,700	0.17%	0.05%				28,824	0.03%	0.01%				0	0.00%	0.00%				136,524	0.06%		
+ 		077	Pulaski County	8	Rural Minor Collector			              	11,436	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				11,436	0.01%		
+ 		077	Pulaski County	9	Rural Local System			              	76,973	0.12%	0.03%				11,004	0.01%	0.00%				0	0.00%	0.00%				87,976	0.04%		
+ 		077	Pulaski County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				139,395	0.15%	0.06%				0	0.00%	0.00%				139,395	0.06%		
+ 		077	Pulaski County	16	Urban Minor Arterial			              	28,082	0.04%	0.01%				2,949	0.00%	0.00%				0	0.00%	0.00%				31,031	0.01%		
+ 		077	Pulaski County	17	Urban Collector			              	11,191	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				11,191	0.01%		
+ 		077	Pulaski County	19	Urban Local System			              	63,908	0.10%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				63,908	0.03%		
+ 		077	Pulaski County Total:						299,291	0.46%	0.13%				395,607	0.43%	0.18%				663,213	1.01%	0.30%				1,358,111	0.61%		
+ 		078	Rappahannock County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				112,231	0.12%	0.05%				0	0.00%	0.00%				112,231	0.05%		
+ 		078	Rappahannock County	6	Rural Minor Arterial			              	0	0.00%	0.00%				86,174	0.09%	0.04%				0	0.00%	0.00%				86,174	0.04%		
+ 		078	Rappahannock County	7	Rural Major Collector			              	18,128	0.03%	0.01%				1,506	0.00%	0.00%				0	0.00%	0.00%				19,634	0.01%		
+ 		078	Rappahannock County	8	Rural Minor Collector			              	7,482	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				7,482	0.00%		
+ 		078	Rappahannock County	9	Rural Local System			              	33,075	0.05%	0.01%				31	0.00%	0.00%				0	0.00%	0.00%				33,105	0.01%		
+ 		078	Rappahannock County Total:						58,684	0.09%	0.03%				199,942	0.22%	0.09%				0	0.00%	0.00%				258,626	0.12%		
+ 		079	Richmond County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				155,873	0.17%	0.07%				0	0.00%	0.00%				155,873	0.07%		
+ 		079	Richmond County	6	Rural Minor Arterial			              	0	0.00%	0.00%				95,680	0.11%	0.04%				0	0.00%	0.00%				95,680	0.04%		
+ 		079	Richmond County	7	Rural Major Collector			              	29,852	0.05%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				29,852	0.01%		
+ 		079	Richmond County	8	Rural Minor Collector			              	6,900	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				6,900	0.00%		
+ 		079	Richmond County	9	Rural Local System			              	34,729	0.05%	0.02%				41	0.00%	0.00%				0	0.00%	0.00%				34,770	0.02%		
+ 		079	Richmond County Total:						71,481	0.11%	0.03%				251,593	0.28%	0.11%				0	0.00%	0.00%				323,075	0.15%		
+ 		080	Roanoke County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				76,579	0.12%	0.03%				76,579	0.03%		
+ 		080	Roanoke County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				172,278	0.19%	0.08%				0	0.00%	0.00%				172,278	0.08%		
+ 		080	Roanoke County	6	Rural Minor Arterial			              	0	0.00%	0.00%				75,445	0.08%	0.03%				0	0.00%	0.00%				75,445	0.03%		
+ 		080	Roanoke County	7	Rural Major Collector			              	31,144	0.05%	0.01%				111,598	0.12%	0.05%				0	0.00%	0.00%				142,742	0.06%		
+ 		080	Roanoke County	8	Rural Minor Collector			              	6,070	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				6,070	0.00%		
+ 		080	Roanoke County	9	Rural Local System			              	34,688	0.05%	0.02%				585	0.00%	0.00%				0	0.00%	0.00%				35,273	0.02%		
+ 		080	Roanoke County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				879,933	1.33%	0.40%				879,933	0.40%		
+ 		080	Roanoke County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				377,287	0.41%	0.17%				0	0.00%	0.00%				377,287	0.17%		
+ 		080	Roanoke County	16	Urban Minor Arterial			              	60,798	0.09%	0.03%				137,128	0.15%	0.06%				0	0.00%	0.00%				197,926	0.09%		
+ 		080	Roanoke County	17	Urban Collector			              	158,793	0.24%	0.07%				64,200	0.07%	0.03%				0	0.00%	0.00%				222,993	0.10%		
+ 		080	Roanoke County	19	Urban Local System			              	222,096	0.34%	0.10%				5,827	0.01%	0.00%				0	0.00%	0.00%				227,923	0.10%		
+ 		080	Roanoke County Total:						513,588	0.79%	0.23%				944,349	1.04%	0.43%				956,513	1.45%	0.43%				2,414,449	1.09%		
+ 		081	Rockbridge County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,315,804	2.00%	0.59%				1,315,804	0.59%		
+ 		081	Rockbridge County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				219	0.00%	0.00%				0	0.00%	0.00%				219	0.00%		
+ 		081	Rockbridge County	6	Rural Minor Arterial			              	0	0.00%	0.00%				160,928	0.18%	0.07%				0	0.00%	0.00%				160,928	0.07%		
+ 		081	Rockbridge County	7	Rural Major Collector			              	73,306	0.11%	0.03%				131,615	0.14%	0.06%				0	0.00%	0.00%				204,921	0.09%		
+ 		081	Rockbridge County	8	Rural Minor Collector			              	14,242	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				14,242	0.01%		
+ 		081	Rockbridge County	9	Rural Local System			              	95,057	0.15%	0.04%				2,760	0.00%	0.00%				0	0.00%	0.00%				97,817	0.04%		
+ 		081	Rockbridge County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				22,655	0.02%	0.01%				0	0.00%	0.00%				22,655	0.01%		
+ 		081	Rockbridge County	17	Urban Collector			              	792	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				792	0.00%		
+ 		081	Rockbridge County Total:						183,397	0.28%	0.08%				318,177	0.35%	0.14%				1,315,804	2.00%	0.59%				1,817,378	0.82%		
+ 		082	Rockingham County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				774,351	1.17%	0.35%				774,351	0.35%		
+ 		082	Rockingham County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				239,875	0.26%	0.11%				0	0.00%	0.00%				239,875	0.11%		
+ 		082	Rockingham County	6	Rural Minor Arterial			              	0	0.00%	0.00%				433,601	0.48%	0.20%				0	0.00%	0.00%				433,601	0.20%		
+ 		082	Rockingham County	7	Rural Major Collector			              	237,136	0.36%	0.11%				188,826	0.21%	0.09%				0	0.00%	0.00%				425,962	0.19%		
+ 		082	Rockingham County	8	Rural Minor Collector			              	47,723	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				47,723	0.02%		
+ 		082	Rockingham County	9	Rural Local System			              	181,938	0.28%	0.08%				3,530	0.00%	0.00%				0	0.00%	0.00%				185,467	0.08%		
+ 		082	Rockingham County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				138,723	0.21%	0.06%				138,723	0.06%		
+ 		082	Rockingham County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				143,766	0.16%	0.06%				0	0.00%	0.00%				143,766	0.06%		
+ 		082	Rockingham County	16	Urban Minor Arterial			              	1,563	0.00%	0.00%				81,373	0.09%	0.04%				0	0.00%	0.00%				82,936	0.04%		
+ 		082	Rockingham County	17	Urban Collector			              	73,719	0.11%	0.03%				3,461	0.00%	0.00%				0	0.00%	0.00%				77,179	0.03%		
+ 		082	Rockingham County	19	Urban Local System			              	54,825	0.08%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				54,825	0.02%		
+ 		082	Rockingham County Total:						596,903	0.92%	0.27%				1,094,432	1.20%	0.49%				913,075	1.39%	0.41%				2,604,409	1.17%		
+ 		083	Russell County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				461,247	0.51%	0.21%				0	0.00%	0.00%				461,247	0.21%		
+ 		083	Russell County	6	Rural Minor Arterial			              	3,235	0.00%	0.00%				138,189	0.15%	0.06%				0	0.00%	0.00%				141,425	0.06%		
+ 		083	Russell County	7	Rural Major Collector			              	70,787	0.11%	0.03%				78,412	0.09%	0.04%				0	0.00%	0.00%				149,199	0.07%		
+ 		083	Russell County	8	Rural Minor Collector			              	10,019	0.02%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10,019	0.00%		
+ 		083	Russell County	9	Rural Local System			              	119,901	0.18%	0.05%				0	0.00%	0.00%				0	0.00%	0.00%				119,901	0.05%		
+ 		083	Russell County	17	Urban Collector			              	0	0.00%	0.00%				1,482	0.00%	0.00%				0	0.00%	0.00%				1,482	0.00%		
+ 		083	Russell County	19	Urban Local System			              	98	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				98	0.00%		
+ 		083	Russell County Total:						204,041	0.31%	0.09%				679,331	0.75%	0.31%				0	0.00%	0.00%				883,372	0.40%		
+ 		084	Scott County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				229,350	0.25%	0.10%				0	0.00%	0.00%				229,350	0.10%		
+ 		084	Scott County	6	Rural Minor Arterial			              	0	0.00%	0.00%				96,259	0.11%	0.04%				0	0.00%	0.00%				96,259	0.04%		
+ 		084	Scott County	7	Rural Major Collector			              	56,419	0.09%	0.03%				49,452	0.05%	0.02%				0	0.00%	0.00%				105,871	0.05%		
+ 		084	Scott County	8	Rural Minor Collector			              	6,548	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				6,548	0.00%		
+ 		084	Scott County	9	Rural Local System			              	108,583	0.17%	0.05%				1,168	0.00%	0.00%				0	0.00%	0.00%				109,751	0.05%		
+ 		084	Scott County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				32,049	0.04%	0.01%				0	0.00%	0.00%				32,049	0.01%		
+ 		084	Scott County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				102,498	0.11%	0.05%				0	0.00%	0.00%				102,498	0.05%		
+ 		084	Scott County	16	Urban Minor Arterial			              	0	0.00%	0.00%				42,094	0.05%	0.02%				0	0.00%	0.00%				42,094	0.02%		
+ 		084	Scott County	17	Urban Collector			              	19,296	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				19,296	0.01%		
+ 		084	Scott County	19	Urban Local System			              	10,915	0.02%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10,915	0.00%		
+ 		084	Scott County Total:						201,760	0.31%	0.09%				552,870	0.61%	0.25%				0	0.00%	0.00%				754,631	0.34%		
+ 		085	Shenandoah County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,502,058	2.28%	0.68%				1,502,058	0.68%		
+ 		085	Shenandoah County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				70,390	0.08%	0.03%				0	0.00%	0.00%				70,390	0.03%		
+ 		085	Shenandoah County	6	Rural Minor Arterial			              	0	0.00%	0.00%				8,280	0.01%	0.00%				0	0.00%	0.00%				8,280	0.00%		
+ 		085	Shenandoah County	7	Rural Major Collector			              	113,430	0.17%	0.05%				328,690	0.36%	0.15%				0	0.00%	0.00%				442,120	0.20%		
+ 		085	Shenandoah County	8	Rural Minor Collector			              	19,256	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				19,256	0.01%		
+ 		085	Shenandoah County	9	Rural Local System			              	135,175	0.21%	0.06%				644	0.00%	0.00%				0	0.00%	0.00%				135,818	0.06%		
+ 		085	Shenandoah County Total:						267,861	0.41%	0.12%				408,004	0.45%	0.18%				1,502,058	2.28%	0.68%				2,177,922	0.98%		
+ 		086	Smyth County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				599,438	0.91%	0.27%				599,438	0.27%		
+ 		086	Smyth County	6	Rural Minor Arterial			              	0	0.00%	0.00%				32,026	0.04%	0.01%				0	0.00%	0.00%				32,026	0.01%		
+ 		086	Smyth County	7	Rural Major Collector			              	85,491	0.13%	0.04%				128,495	0.14%	0.06%				0	0.00%	0.00%				213,986	0.10%		
+ 		086	Smyth County	8	Rural Minor Collector			              	10,599	0.02%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10,599	0.00%		
+ 		086	Smyth County	9	Rural Local System			              	152,767	0.24%	0.07%				1,635	0.00%	0.00%				0	0.00%	0.00%				154,402	0.07%		
+ 		086	Smyth County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				25,131	0.04%	0.01%				25,131	0.01%		
+ 		086	Smyth County	16	Urban Minor Arterial			              	0	0.00%	0.00%				75,454	0.08%	0.03%				0	0.00%	0.00%				75,454	0.03%		
+ 		086	Smyth County	17	Urban Collector			              	16,528	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				16,528	0.01%		
+ 		086	Smyth County	19	Urban Local System			              	15,817	0.02%	0.01%				2,808	0.00%	0.00%				0	0.00%	0.00%				18,624	0.01%		
+ 		086	Smyth County Total:						281,203	0.43%	0.13%				240,418	0.26%	0.11%				624,569	0.95%	0.28%				1,146,189	0.52%		
+ 		087	Southampton County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				596,937	0.66%	0.27%				0	0.00%	0.00%				596,937	0.27%		
+ 		087	Southampton County	6	Rural Minor Arterial			              	904	0.00%	0.00%				89,947	0.10%	0.04%				0	0.00%	0.00%				90,851	0.04%		
+ 		087	Southampton County	7	Rural Major Collector			              	123,835	0.19%	0.06%				35,268	0.04%	0.02%				0	0.00%	0.00%				159,103	0.07%		
+ 		087	Southampton County	8	Rural Minor Collector			              	16,635	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				16,635	0.01%		
+ 		087	Southampton County	9	Rural Local System			              	110,542	0.17%	0.05%				84	0.00%	0.00%				0	0.00%	0.00%				110,627	0.05%		
+ 		087	Southampton County Total:						251,917	0.39%	0.11%				722,236	0.79%	0.33%				0	0.00%	0.00%				974,153	0.44%		
+ 		088	Spotsylvania County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				597,853	0.91%	0.27%				597,853	0.27%		
+ 		088	Spotsylvania County	6	Rural Minor Arterial			              	41,410	0.06%	0.02%				263,162	0.29%	0.12%				0	0.00%	0.00%				304,572	0.14%		
+ 		088	Spotsylvania County	7	Rural Major Collector			              	189,915	0.29%	0.09%				109,718	0.12%	0.05%				0	0.00%	0.00%				299,633	0.14%		
+ 		088	Spotsylvania County	8	Rural Minor Collector			              	37,459	0.06%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				37,459	0.02%		
+ 		088	Spotsylvania County	9	Rural Local System			              	137,678	0.21%	0.06%				1,557	0.00%	0.00%				0	0.00%	0.00%				139,235	0.06%		
+ 		088	Spotsylvania County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				638,888	0.97%	0.29%				638,888	0.29%		
+ 		088	Spotsylvania County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				650,968	0.72%	0.29%				0	0.00%	0.00%				650,968	0.29%		
+ 		088	Spotsylvania County	16	Urban Minor Arterial			              	106,292	0.16%	0.05%				118,367	0.13%	0.05%				0	0.00%	0.00%				224,659	0.10%		
+ 		088	Spotsylvania County	17	Urban Collector			              	308,479	0.47%	0.14%				9,746	0.01%	0.00%				0	0.00%	0.00%				318,224	0.14%		
+ 		088	Spotsylvania County	19	Urban Local System			              	217,903	0.34%	0.10%				3,574	0.00%	0.00%				0	0.00%	0.00%				221,477	0.10%		
+ 		088	Spotsylvania County Total:						1,039,136	1.60%	0.47%				1,157,092	1.27%	0.52%				1,236,741	1.88%	0.56%				3,432,969	1.55%		
+ 		089	Stafford County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				680,190	1.03%	0.31%				680,190	0.31%		
+ 		089	Stafford County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				156,137	0.17%	0.07%				0	0.00%	0.00%				156,137	0.07%		
+ 		089	Stafford County	6	Rural Minor Arterial			              	0	0.00%	0.00%				170,081	0.19%	0.08%				0	0.00%	0.00%				170,081	0.08%		
+ 		089	Stafford County	7	Rural Major Collector			              	131,083	0.20%	0.06%				24,957	0.03%	0.01%				0	0.00%	0.00%				156,040	0.07%		
+ 		089	Stafford County	8	Rural Minor Collector			              	4,643	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				4,643	0.00%		
+ 		089	Stafford County	9	Rural Local System			              	215,113	0.33%	0.10%				0	0.00%	0.00%				0	0.00%	0.00%				215,113	0.10%		
+ 		089	Stafford County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,466,124	2.22%	0.66%				1,466,124	0.66%		
+ 		089	Stafford County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				386,616	0.43%	0.17%				0	0.00%	0.00%				386,616	0.17%		
+ 		089	Stafford County	16	Urban Minor Arterial			              	0	0.00%	0.00%				129,947	0.14%	0.06%				0	0.00%	0.00%				129,947	0.06%		
+ 		089	Stafford County	17	Urban Collector			              	511,414	0.79%	0.23%				8,363	0.01%	0.00%				0	0.00%	0.00%				519,777	0.23%		
+ 		089	Stafford County	19	Urban Local System			              	210,097	0.32%	0.09%				92	0.00%	0.00%				0	0.00%	0.00%				210,188	0.09%		
+ 		089	Stafford County Total:						1,072,350	1.65%	0.48%				876,193	0.96%	0.39%				2,146,314	3.26%	0.97%				4,094,857	1.85%		
+ 		090	Surry County	6	Rural Minor Arterial			              	0	0.00%	0.00%				89,459	0.10%	0.04%				0	0.00%	0.00%				89,459	0.04%		
+ 		090	Surry County	7	Rural Major Collector			              	28,610	0.04%	0.01%				25,970	0.03%	0.01%				0	0.00%	0.00%				54,581	0.02%		
+ 		090	Surry County	8	Rural Minor Collector			              	6,044	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				6,044	0.00%		
+ 		090	Surry County	9	Rural Local System			              	16,953	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				16,953	0.01%		
+ 		090	Surry County Total:						51,607	0.08%	0.02%				115,429	0.13%	0.05%				0	0.00%	0.00%				167,036	0.08%		
+ 		091	Sussex County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				570,099	0.86%	0.26%				570,099	0.26%		
+ 		091	Sussex County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				190,118	0.21%	0.09%				0	0.00%	0.00%				190,118	0.09%		
+ 		091	Sussex County	6	Rural Minor Arterial			              	0	0.00%	0.00%				109,529	0.12%	0.05%				0	0.00%	0.00%				109,529	0.05%		
+ 		091	Sussex County	7	Rural Major Collector			              	31,937	0.05%	0.01%				32,310	0.04%	0.01%				0	0.00%	0.00%				64,247	0.03%		
+ 		091	Sussex County	8	Rural Minor Collector			              	10,578	0.02%	0.00%				241	0.00%	0.00%				0	0.00%	0.00%				10,819	0.00%		
+ 		091	Sussex County	9	Rural Local System			              	55,094	0.08%	0.02%				967	0.00%	0.00%				0	0.00%	0.00%				56,061	0.03%		
+ 		091	Sussex County Total:						97,608	0.15%	0.04%				333,165	0.37%	0.15%				570,099	0.86%	0.26%				1,000,872	0.45%		
+ 		092	Tazewell County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				416,075	0.46%	0.19%				0	0.00%	0.00%				416,075	0.19%		
+ 		092	Tazewell County	6	Rural Minor Arterial			              	0	0.00%	0.00%				34,163	0.04%	0.02%				0	0.00%	0.00%				34,163	0.02%		
+ 		092	Tazewell County	7	Rural Major Collector			              	67,924	0.10%	0.03%				120,828	0.13%	0.05%				0	0.00%	0.00%				188,752	0.09%		
+ 		092	Tazewell County	8	Rural Minor Collector			              	7,799	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				7,799	0.00%		
+ 		092	Tazewell County	9	Rural Local System			              	124,932	0.19%	0.06%				564	0.00%	0.00%				0	0.00%	0.00%				125,496	0.06%		
+ 		092	Tazewell County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				48,095	0.05%	0.02%				0	0.00%	0.00%				48,095	0.02%		
+ 		092	Tazewell County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				148,607	0.16%	0.07%				0	0.00%	0.00%				148,607	0.07%		
+ 		092	Tazewell County	16	Urban Minor Arterial			              	1,286	0.00%	0.00%				58,077	0.06%	0.03%				0	0.00%	0.00%				59,363	0.03%		
+ 		092	Tazewell County	17	Urban Collector			              	23,807	0.04%	0.01%				22,375	0.02%	0.01%				0	0.00%	0.00%				46,182	0.02%		
+ 		092	Tazewell County	19	Urban Local System			              	58,981	0.09%	0.03%				270	0.00%	0.00%				0	0.00%	0.00%				59,250	0.03%		
+ 		092	Tazewell County Total:						284,729	0.44%	0.13%				849,053	0.93%	0.38%				0	0.00%	0.00%				1,133,782	0.51%		
+ 		093	Warren County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				508,585	0.77%	0.23%				508,585	0.23%		
+ 		093	Warren County	6	Rural Minor Arterial			              	0	0.00%	0.00%				186,675	0.21%	0.08%				0	0.00%	0.00%				186,675	0.08%		
+ 		093	Warren County	7	Rural Major Collector			              	81,790	0.13%	0.04%				60,271	0.07%	0.03%				0	0.00%	0.00%				142,061	0.06%		
+ 		093	Warren County	8	Rural Minor Collector			              	6,479	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				6,479	0.00%		
+ 		093	Warren County	9	Rural Local System			              	71,357	0.11%	0.03%				2,842	0.00%	0.00%				0	0.00%	0.00%				74,199	0.03%		
+ 		093	Warren County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				136,639	0.15%	0.06%				0	0.00%	0.00%				136,639	0.06%		
+ 		093	Warren County	16	Urban Minor Arterial			              	7,896	0.01%	0.00%				45,429	0.05%	0.02%				0	0.00%	0.00%				53,324	0.02%		
+ 		093	Warren County	17	Urban Collector			              	30,168	0.05%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				30,168	0.01%		
+ 		093	Warren County	19	Urban Local System			              	57,909	0.09%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				57,909	0.03%		
+ 		093	Warren County Total:						255,598	0.39%	0.12%				431,856	0.47%	0.19%				508,585	0.77%	0.23%				1,196,039	0.54%		
+ 		095	Washington County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				371,123	0.56%	0.17%				371,123	0.17%		
+ 		095	Washington County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				147,247	0.16%	0.07%				0	0.00%	0.00%				147,247	0.07%		
+ 		095	Washington County	6	Rural Minor Arterial			              	0	0.00%	0.00%				83,950	0.09%	0.04%				0	0.00%	0.00%				83,950	0.04%		
+ 		095	Washington County	7	Rural Major Collector			              	88,814	0.14%	0.04%				133,592	0.15%	0.06%				0	0.00%	0.00%				222,406	0.10%		
+ 		095	Washington County	8	Rural Minor Collector			              	19,916	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				19,916	0.01%		
+ 		095	Washington County	9	Rural Local System			              	198,746	0.31%	0.09%				2,203	0.00%	0.00%				0	0.00%	0.00%				200,949	0.09%		
+ 		095	Washington County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				616,884	0.94%	0.28%				616,884	0.28%		
+ 		095	Washington County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				61,849	0.07%	0.03%				0	0.00%	0.00%				61,849	0.03%		
+ 		095	Washington County	16	Urban Minor Arterial			              	11,349	0.02%	0.01%				152,255	0.17%	0.07%				0	0.00%	0.00%				163,604	0.07%		
+ 		095	Washington County	17	Urban Collector			              	61,046	0.09%	0.03%				8,091	0.01%	0.00%				0	0.00%	0.00%				69,138	0.03%		
+ 		095	Washington County	19	Urban Local System			              	72,008	0.11%	0.03%				1,277	0.00%	0.00%				0	0.00%	0.00%				73,285	0.03%		
+ 		095	Washington County Total:						451,879	0.70%	0.20%				590,464	0.65%	0.27%				988,007	1.50%	0.45%				2,030,350	0.92%		
+ 		096	Westmoreland County	6	Rural Minor Arterial			              	0	0.00%	0.00%				266,133	0.29%	0.12%				0	0.00%	0.00%				266,133	0.12%		
+ 		096	Westmoreland County	7	Rural Major Collector			              	60,853	0.09%	0.03%				3,877	0.00%	0.00%				0	0.00%	0.00%				64,730	0.03%		
+ 		096	Westmoreland County	8	Rural Minor Collector			              	4,546	0.01%	0.00%				351	0.00%	0.00%				0	0.00%	0.00%				4,897	0.00%		
+ 		096	Westmoreland County	9	Rural Local System			              	78,441	0.12%	0.04%				850	0.00%	0.00%				0	0.00%	0.00%				79,291	0.04%		
+ 		096	Westmoreland County Total:						143,840	0.22%	0.06%				271,211	0.30%	0.12%				0	0.00%	0.00%				415,051	0.19%		
+ 		097	Wise County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				463,748	0.51%	0.21%				0	0.00%	0.00%				463,748	0.21%		
+ 		097	Wise County	6	Rural Minor Arterial			              	0	0.00%	0.00%				39,208	0.04%	0.02%				0	0.00%	0.00%				39,208	0.02%		
+ 		097	Wise County	7	Rural Major Collector			              	86,471	0.13%	0.04%				151,465	0.17%	0.07%				0	0.00%	0.00%				237,936	0.11%		
+ 		097	Wise County	8	Rural Minor Collector			              	14,401	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				14,401	0.01%		
+ 		097	Wise County	9	Rural Local System			              	173,658	0.27%	0.08%				4,204	0.00%	0.00%				0	0.00%	0.00%				177,862	0.08%		
+ 		097	Wise County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				31,053	0.03%	0.01%				0	0.00%	0.00%				31,053	0.01%		
+ 		097	Wise County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				39,263	0.04%	0.02%				0	0.00%	0.00%				39,263	0.02%		
+ 		097	Wise County	16	Urban Minor Arterial			              	51,501	0.08%	0.02%				76,109	0.08%	0.03%				0	0.00%	0.00%				127,610	0.06%		
+ 		097	Wise County	17	Urban Collector			              	17,125	0.03%	0.01%				5,389	0.01%	0.00%				0	0.00%	0.00%				22,514	0.01%		
+ 		097	Wise County	19	Urban Local System			              	22,159	0.03%	0.01%				3,930	0.00%	0.00%				0	0.00%	0.00%				26,088	0.01%		
+ 		097	Wise County Total:						365,314	0.56%	0.16%				814,369	0.90%	0.37%				0	0.00%	0.00%				1,179,683	0.53%		
+ 		098	Wythe County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,216,563	1.85%	0.55%				1,216,563	0.55%		
+ 		098	Wythe County	6	Rural Minor Arterial			              	0	0.00%	0.00%				46,026	0.05%	0.02%				0	0.00%	0.00%				46,026	0.02%		
+ 		098	Wythe County	7	Rural Major Collector			              	58,997	0.09%	0.03%				113,645	0.12%	0.05%				0	0.00%	0.00%				172,642	0.08%		
+ 		098	Wythe County	8	Rural Minor Collector			              	2,839	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				2,839	0.00%		
+ 		098	Wythe County	9	Rural Local System			              	111,139	0.17%	0.05%				86,382	0.09%	0.04%				0	0.00%	0.00%				197,522	0.09%		
+ 		098	Wythe County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				213,792	0.32%	0.10%				213,792	0.10%		
+ 		098	Wythe County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				28,436	0.03%	0.01%				0	0.00%	0.00%				28,436	0.01%		
+ 		098	Wythe County	16	Urban Minor Arterial			              	14,330	0.02%	0.01%				28,845	0.03%	0.01%				0	0.00%	0.00%				43,175	0.02%		
+ 		098	Wythe County	17	Urban Collector			              	22,164	0.03%	0.01%				5,820	0.01%	0.00%				0	0.00%	0.00%				27,984	0.01%		
+ 		098	Wythe County	19	Urban Local System			              	33,339	0.05%	0.02%				5,360	0.01%	0.00%				0	0.00%	0.00%				38,700	0.02%		
+ 		098	Wythe County Total:						242,808	0.37%	0.11%				314,515	0.35%	0.14%				1,430,355	2.17%	0.64%				1,987,679	0.90%		
+ 		099	York County	1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				437,838	0.66%	0.20%				437,838	0.20%		
+ 		099	York County	2	Rural Principal Arterial - Other			              	0	0.00%	0.00%				41,067	0.05%	0.02%				0	0.00%	0.00%				41,067	0.02%		
+ 		099	York County	6	Rural Minor Arterial			              	0	0.00%	0.00%				24,519	0.03%	0.01%				0	0.00%	0.00%				24,519	0.01%		
+ 		099	York County	7	Rural Major Collector			              	57,383	0.09%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				57,383	0.03%		
+ 		099	York County	9	Rural Local System			              	30,827	0.05%	0.01%				6,850	0.01%	0.00%				0	0.00%	0.00%				37,677	0.02%		
+ 		099	York County	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				299,193	0.45%	0.13%				299,193	0.13%		
+ 		099	York County	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				26,247	0.03%	0.01%				0	0.00%	0.00%				26,247	0.01%		
+ 		099	York County	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				647,665	0.71%	0.29%				0	0.00%	0.00%				647,665	0.29%		
+ 		099	York County	16	Urban Minor Arterial			              	20,418	0.03%	0.01%				217,143	0.24%	0.10%				0	0.00%	0.00%				237,561	0.11%		
+ 		099	York County	17	Urban Collector			              	117,141	0.18%	0.05%				21,021	0.02%	0.01%				0	0.00%	0.00%				138,162	0.06%		
+ 		099	York County	19	Urban Local System			              	174,874	0.27%	0.08%				994	0.00%	0.00%				0	0.00%	0.00%				175,869	0.08%		
+ 		099	York County Total:						400,643	0.62%	0.18%				985,507	1.08%	0.44%				737,030	1.12%	0.33%				2,123,180	0.96%		
+ 		100	City of Alexandria	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				803,497	1.22%	0.36%				803,497	0.36%		
+ 		100	City of Alexandria	14	Urban Principal Arterial - Other			              	2,157	0.00%	0.00%				589,782	0.65%	0.27%				0	0.00%	0.00%				591,938	0.27%		
+ 		100	City of Alexandria	16	Urban Minor Arterial			              	331,808	0.51%	0.15%				184,970	0.20%	0.08%				0	0.00%	0.00%				516,778	0.23%		
+ 		100	City of Alexandria	17	Urban Collector			              	63,553	0.10%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				63,553	0.03%		
+ 		100	City of Alexandria	19	Urban Local System			              	151,992	0.23%	0.07%				0	0.00%	0.00%				0	0.00%	0.00%				151,992	0.07%		
+ 		100	City of Alexandria Total:						549,509	0.85%	0.25%				774,752	0.85%	0.35%				803,497	1.22%	0.36%				2,127,758	0.96%		
+ 		141	City of Bedford	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				114,960	0.13%	0.05%				0	0.00%	0.00%				114,960	0.05%		
+ 		141	City of Bedford	16	Urban Minor Arterial			              	0	0.00%	0.00%				4,145	0.00%	0.00%				0	0.00%	0.00%				4,145	0.00%		
+ 		141	City of Bedford	17	Urban Collector			              	12,001	0.02%	0.01%				1,925	0.00%	0.00%				0	0.00%	0.00%				13,926	0.01%		
+ 		141	City of Bedford	19	Urban Local System			              	9,082	0.01%	0.00%				12	0.00%	0.00%				0	0.00%	0.00%				9,094	0.00%		
+ 		141	City of Bedford Total:						21,083	0.03%	0.01%				121,042	0.13%	0.05%				0	0.00%	0.00%				142,124	0.06%		
+ 		102	City of Bristol	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				350,693	0.53%	0.16%				350,693	0.16%		
+ 		102	City of Bristol	14	Urban Principal Arterial - Other			              	1,499	0.00%	0.00%				80,781	0.09%	0.04%				0	0.00%	0.00%				82,280	0.04%		
+ 		102	City of Bristol	16	Urban Minor Arterial			              	61,969	0.10%	0.03%				52,572	0.06%	0.02%				0	0.00%	0.00%				114,541	0.05%		
+ 		102	City of Bristol	17	Urban Collector			              	36,936	0.06%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				36,936	0.02%		
+ 		102	City of Bristol	19	Urban Local System			              	31,377	0.05%	0.01%				112	0.00%	0.00%				0	0.00%	0.00%				31,489	0.01%		
+ 		102	City of Bristol Total:						131,781	0.20%	0.06%				133,465	0.15%	0.06%				350,693	0.53%	0.16%				615,939	0.28%		
+ 		103	City of Buena Vista	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				28,547	0.03%	0.01%				0	0.00%	0.00%				28,547	0.01%		
+ 		103	City of Buena Vista	16	Urban Minor Arterial			              	2,046	0.00%	0.00%				5,295	0.01%	0.00%				0	0.00%	0.00%				7,341	0.00%		
+ 		103	City of Buena Vista	17	Urban Collector			              	9,033	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				9,033	0.00%		
+ 		103	City of Buena Vista	19	Urban Local System			              	10,901	0.02%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10,901	0.00%		
+ 		103	City of Buena Vista Total:						21,980	0.03%	0.01%				33,842	0.04%	0.02%				0	0.00%	0.00%				55,822	0.03%		
+ 		104	City of Charlottesville	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				6,892	0.01%	0.00%				6,892	0.00%		
+ 		104	City of Charlottesville	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				94,823	0.10%	0.04%				0	0.00%	0.00%				94,823	0.04%		
+ 		104	City of Charlottesville	14	Urban Principal Arterial - Other			              	7,786	0.01%	0.00%				192,254	0.21%	0.09%				0	0.00%	0.00%				200,040	0.09%		
+ 		104	City of Charlottesville	16	Urban Minor Arterial			              	144,430	0.22%	0.07%				0	0.00%	0.00%				0	0.00%	0.00%				144,430	0.07%		
+ 		104	City of Charlottesville	17	Urban Collector			              	74,287	0.11%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				74,287	0.03%		
+ 		104	City of Charlottesville	19	Urban Local System			              	68,758	0.11%	0.03%				6,163	0.01%	0.00%				0	0.00%	0.00%				74,922	0.03%		
+ 		104	City of Charlottesville Total:						295,261	0.45%	0.13%				293,241	0.32%	0.13%				6,892	0.01%	0.00%				595,395	0.27%		
+ 		131	City of Chesapeake	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,852,448	2.81%	0.84%				1,852,448	0.84%		
+ 		131	City of Chesapeake	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				693,581	0.76%	0.31%				0	0.00%	0.00%				693,581	0.31%		
+ 		131	City of Chesapeake	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				819,607	0.90%	0.37%				0	0.00%	0.00%				819,607	0.37%		
+ 		131	City of Chesapeake	16	Urban Minor Arterial			              	568,681	0.88%	0.26%				789,599	0.87%	0.36%				0	0.00%	0.00%				1,358,280	0.61%		
+ 		131	City of Chesapeake	17	Urban Collector			              	338,393	0.52%	0.15%				10,195	0.01%	0.00%				0	0.00%	0.00%				348,588	0.16%		
+ 		131	City of Chesapeake	19	Urban Local System			              	936,183	1.44%	0.42%				1,158	0.00%	0.00%				0	0.00%	0.00%				937,342	0.42%		
+ 		131	City of Chesapeake Total:						1,843,258	2.84%	0.83%				2,314,140	2.54%	1.04%				1,852,448	2.81%	0.84%				6,009,846	2.71%		
+ 		106	City of Colonial Heights	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				326,152	0.49%	0.15%				326,152	0.15%		
+ 		106	City of Colonial Heights	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				110,136	0.12%	0.05%				0	0.00%	0.00%				110,136	0.05%		
+ 		106	City of Colonial Heights	16	Urban Minor Arterial			              	43,779	0.07%	0.02%				13,256	0.01%	0.01%				0	0.00%	0.00%				57,035	0.03%		
+ 		106	City of Colonial Heights	17	Urban Collector			              	48,722	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				48,722	0.02%		
+ 		106	City of Colonial Heights	19	Urban Local System			              	41,450	0.06%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				41,450	0.02%		
+ 		106	City of Colonial Heights Total:						133,951	0.21%	0.06%				123,392	0.14%	0.06%				326,152	0.49%	0.15%				583,494	0.26%		
+ 		107	City of Covington	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				18,473	0.03%	0.01%				18,473	0.01%		
+ 		107	City of Covington	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				28,601	0.03%	0.01%				0	0.00%	0.00%				28,601	0.01%		
+ 		107	City of Covington	16	Urban Minor Arterial			              	0	0.00%	0.00%				10,643	0.01%	0.00%				0	0.00%	0.00%				10,643	0.00%		
+ 		107	City of Covington	17	Urban Collector			              	12,637	0.02%	0.01%				18,873	0.02%	0.01%				0	0.00%	0.00%				31,510	0.01%		
+ 		107	City of Covington	19	Urban Local System			              	8,888	0.01%	0.00%				94	0.00%	0.00%				0	0.00%	0.00%				8,982	0.00%		
+ 		107	City of Covington Total:						21,525	0.03%	0.01%				58,212	0.06%	0.03%				18,473	0.03%	0.01%				98,210	0.04%		
+ 		108	City of Danville	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				141,939	0.16%	0.06%				0	0.00%	0.00%				141,939	0.06%		
+ 		108	City of Danville	14	Urban Principal Arterial - Other			              	6,769	0.01%	0.00%				447,833	0.49%	0.20%				0	0.00%	0.00%				454,602	0.20%		
+ 		108	City of Danville	16	Urban Minor Arterial			              	120,076	0.18%	0.05%				108,738	0.12%	0.05%				0	0.00%	0.00%				228,815	0.10%		
+ 		108	City of Danville	17	Urban Collector			              	49,303	0.08%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				49,303	0.02%		
+ 		108	City of Danville	19	Urban Local System			              	81,494	0.13%	0.04%				146	0.00%	0.00%				0	0.00%	0.00%				81,640	0.04%		
+ 		108	City of Danville Total:						257,643	0.40%	0.12%				698,656	0.77%	0.31%				0	0.00%	0.00%				956,299	0.43%		
+ 		109	City of Emporia	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				60,451	0.09%	0.03%				60,451	0.03%		
+ 		109	City of Emporia	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				37,657	0.04%	0.02%				0	0.00%	0.00%				37,657	0.02%		
+ 		109	City of Emporia	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				13,512	0.01%	0.01%				0	0.00%	0.00%				13,512	0.01%		
+ 		109	City of Emporia	16	Urban Minor Arterial			              	6,311	0.01%	0.00%				38,055	0.04%	0.02%				0	0.00%	0.00%				44,365	0.02%		
+ 		109	City of Emporia	17	Urban Collector			              	9,391	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				9,391	0.00%		
+ 		109	City of Emporia	19	Urban Local System			              	26,335	0.04%	0.01%				263	0.00%	0.00%				0	0.00%	0.00%				26,598	0.01%		
+ 		109	City of Emporia Total:						42,037	0.06%	0.02%				89,486	0.10%	0.04%				60,451	0.09%	0.03%				191,973	0.09%		
+ 		151	City of Fairfax	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				346,971	0.38%	0.16%				0	0.00%	0.00%				346,971	0.16%		
+ 		151	City of Fairfax	16	Urban Minor Arterial			              	48,380	0.07%	0.02%				48,739	0.05%	0.02%				0	0.00%	0.00%				97,119	0.04%		
+ 		151	City of Fairfax	17	Urban Collector			              	26,474	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				26,474	0.01%		
+ 		151	City of Fairfax	19	Urban Local System			              	30,721	0.05%	0.01%				53	0.00%	0.00%				0	0.00%	0.00%				30,774	0.01%		
+ 		151	City of Fairfax Total:						105,574	0.16%	0.05%				395,764	0.44%	0.18%				0	0.00%	0.00%				501,338	0.23%		
+ 		110	City of Falls Church	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				88,398	0.10%	0.04%				0	0.00%	0.00%				88,398	0.04%		
+ 		110	City of Falls Church	16	Urban Minor Arterial			              	21,981	0.03%	0.01%				9,995	0.01%	0.00%				0	0.00%	0.00%				31,976	0.01%		
+ 		110	City of Falls Church	17	Urban Collector			              	12,645	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				12,645	0.01%		
+ 		110	City of Falls Church	19	Urban Local System			              	21,431	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				21,431	0.01%		
+ 		110	City of Falls Church Total:						56,057	0.09%	0.03%				98,393	0.11%	0.04%				0	0.00%	0.00%				154,451	0.07%		
+ 		145	City of Franklin	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				9,740	0.01%	0.00%				0	0.00%	0.00%				9,740	0.00%		
+ 		145	City of Franklin	16	Urban Minor Arterial			              	50,942	0.08%	0.02%				13,043	0.01%	0.01%				0	0.00%	0.00%				63,985	0.03%		
+ 		145	City of Franklin	17	Urban Collector			              	7,308	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				7,308	0.00%		
+ 		145	City of Franklin	19	Urban Local System			              	13,624	0.02%	0.01%				95	0.00%	0.00%				0	0.00%	0.00%				13,719	0.01%		
+ 		145	City of Franklin Total:						71,873	0.11%	0.03%				22,878	0.03%	0.01%				0	0.00%	0.00%				94,751	0.04%		
+ 		111	City of Fredericksburg	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				423,231	0.64%	0.19%				423,231	0.19%		
+ 		111	City of Fredericksburg	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				260,365	0.29%	0.12%				0	0.00%	0.00%				260,365	0.12%		
+ 		111	City of Fredericksburg	16	Urban Minor Arterial			              	4,719	0.01%	0.00%				92,086	0.10%	0.04%				0	0.00%	0.00%				96,805	0.04%		
+ 		111	City of Fredericksburg	17	Urban Collector			              	76,754	0.12%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				76,754	0.03%		
+ 		111	City of Fredericksburg	19	Urban Local System			              	78,333	0.12%	0.04%				0	0.00%	0.00%				0	0.00%	0.00%				78,333	0.04%		
+ 		111	City of Fredericksburg Total:						159,807	0.25%	0.07%				352,451	0.39%	0.16%				423,231	0.64%	0.19%				935,489	0.42%		
+ 		113	City of Galax	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				86,406	0.10%	0.04%				0	0.00%	0.00%				86,406	0.04%		
+ 		113	City of Galax	16	Urban Minor Arterial			              	27,384	0.04%	0.01%				268	0.00%	0.00%				0	0.00%	0.00%				27,652	0.01%		
+ 		113	City of Galax	17	Urban Collector			              	17,454	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				17,454	0.01%		
+ 		113	City of Galax	19	Urban Local System			              	17,197	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				17,197	0.01%		
+ 		113	City of Galax Total:						62,035	0.10%	0.03%				86,674	0.10%	0.04%				0	0.00%	0.00%				148,709	0.07%		
+ 		114	City of Hampton	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,652,170	2.51%	0.74%				1,652,170	0.74%		
+ 		114	City of Hampton	12	Urban Principal Arterial - Other Freeways or Expressways			              	105,849	0.16%	0.05%				0	0.00%	0.00%				0	0.00%	0.00%				105,849	0.05%		
+ 		114	City of Hampton	14	Urban Principal Arterial - Other			              	29,000	0.04%	0.01%				335,432	0.37%	0.15%				0	0.00%	0.00%				364,432	0.16%		
+ 		114	City of Hampton	16	Urban Minor Arterial			              	287,785	0.44%	0.13%				499,399	0.55%	0.23%				0	0.00%	0.00%				787,185	0.35%		
+ 		114	City of Hampton	17	Urban Collector			              	150,959	0.23%	0.07%				43,470	0.05%	0.02%				0	0.00%	0.00%				194,429	0.09%		
+ 		114	City of Hampton	19	Urban Local System			              	711,298	1.09%	0.32%				1,652	0.00%	0.00%				0	0.00%	0.00%				712,950	0.32%		
+ 		114	City of Hampton Total:						1,284,892	1.98%	0.58%				879,953	0.97%	0.40%				1,652,170	2.51%	0.74%				3,817,015	1.72%		
+ 		115	City of Harrisonburg	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				315,028	0.48%	0.14%				315,028	0.14%		
+ 		115	City of Harrisonburg	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				156,575	0.17%	0.07%				0	0.00%	0.00%				156,575	0.07%		
+ 		115	City of Harrisonburg	16	Urban Minor Arterial			              	49,571	0.08%	0.02%				129,822	0.14%	0.06%				0	0.00%	0.00%				179,393	0.08%		
+ 		115	City of Harrisonburg	17	Urban Collector			              	139,740	0.22%	0.06%				0	0.00%	0.00%				0	0.00%	0.00%				139,740	0.06%		
+ 		115	City of Harrisonburg	19	Urban Local System			              	66,229	0.10%	0.03%				2,325	0.00%	0.00%				0	0.00%	0.00%				68,554	0.03%		
+ 		115	City of Harrisonburg Total:						255,540	0.39%	0.12%				288,722	0.32%	0.13%				315,028	0.48%	0.14%				859,290	0.39%		
+ 		116	City of Hopewell	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				102,313	0.16%	0.05%				102,313	0.05%		
+ 		116	City of Hopewell	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				113,074	0.12%	0.05%				0	0.00%	0.00%				113,074	0.05%		
+ 		116	City of Hopewell	16	Urban Minor Arterial			              	59,067	0.09%	0.03%				17,538	0.02%	0.01%				0	0.00%	0.00%				76,605	0.03%		
+ 		116	City of Hopewell	17	Urban Collector			              	11,266	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				11,266	0.01%		
+ 		116	City of Hopewell	19	Urban Local System			              	40,539	0.06%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				40,539	0.02%		
+ 		116	City of Hopewell Total:						110,873	0.17%	0.05%				130,612	0.14%	0.06%				102,313	0.16%	0.05%				343,798	0.15%		
+ 		117	City of Lexington	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				28,586	0.03%	0.01%				0	0.00%	0.00%				28,586	0.01%		
+ 		117	City of Lexington	16	Urban Minor Arterial			              	744	0.00%	0.00%				6,614	0.01%	0.00%				0	0.00%	0.00%				7,358	0.00%		
+ 		117	City of Lexington	17	Urban Collector			              	10,419	0.02%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				10,419	0.00%		
+ 		117	City of Lexington	19	Urban Local System			              	8,041	0.01%	0.00%				1,707	0.00%	0.00%				0	0.00%	0.00%				9,748	0.00%		
+ 		117	City of Lexington Total:						19,204	0.03%	0.01%				36,907	0.04%	0.02%				0	0.00%	0.00%				56,111	0.03%		
+ 		118	City of Lynchburg	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				560,594	0.62%	0.25%				0	0.00%	0.00%				560,594	0.25%		
+ 		118	City of Lynchburg	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				357,950	0.39%	0.16%				0	0.00%	0.00%				357,950	0.16%		
+ 		118	City of Lynchburg	16	Urban Minor Arterial			              	279,616	0.43%	0.13%				192,831	0.21%	0.09%				0	0.00%	0.00%				472,447	0.21%		
+ 		118	City of Lynchburg	17	Urban Collector			              	91,860	0.14%	0.04%				4,118	0.00%	0.00%				0	0.00%	0.00%				95,978	0.04%		
+ 		118	City of Lynchburg	19	Urban Local System			              	131,924	0.20%	0.06%				3,291	0.00%	0.00%				0	0.00%	0.00%				135,215	0.06%		
+ 		118	City of Lynchburg Total:						503,400	0.77%	0.23%				1,118,784	1.23%	0.50%				0	0.00%	0.00%				1,622,184	0.73%		
+ 		155	City of Manassas	14	Urban Principal Arterial - Other			              	31,960	0.05%	0.01%				98,285	0.11%	0.04%				0	0.00%	0.00%				130,245	0.06%		
+ 		155	City of Manassas	16	Urban Minor Arterial			              	197,403	0.30%	0.09%				64,913	0.07%	0.03%				0	0.00%	0.00%				262,316	0.12%		
+ 		155	City of Manassas	17	Urban Collector			              	31,934	0.05%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				31,934	0.01%		
+ 		155	City of Manassas	19	Urban Local System			              	279,802	0.43%	0.13%				0	0.00%	0.00%				0	0.00%	0.00%				279,802	0.13%		
+ 		155	City of Manassas Total:						541,099	0.83%	0.24%				163,198	0.18%	0.07%				0	0.00%	0.00%				704,297	0.32%		
+ 		152	City of Manassas Park	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				14,054	0.02%	0.01%				0	0.00%	0.00%				14,054	0.01%		
+ 		152	City of Manassas Park	16	Urban Minor Arterial			              	29,098	0.04%	0.01%				15,295	0.02%	0.01%				0	0.00%	0.00%				44,393	0.02%		
+ 		152	City of Manassas Park	17	Urban Collector			              	4,423	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				4,423	0.00%		
+ 		152	City of Manassas Park	19	Urban Local System			              	5,012	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				5,012	0.00%		
+ 		152	City of Manassas Park Total:						38,533	0.06%	0.02%				29,349	0.03%	0.01%				0	0.00%	0.00%				67,882	0.03%		
+ 		120	City of Martinsville	14	Urban Principal Arterial - Other			              	18,385	0.03%	0.01%				83,269	0.09%	0.04%				0	0.00%	0.00%				101,654	0.05%		
+ 		120	City of Martinsville	16	Urban Minor Arterial			              	47,542	0.07%	0.02%				32,697	0.04%	0.01%				0	0.00%	0.00%				80,239	0.04%		
+ 		120	City of Martinsville	17	Urban Collector			              	23,067	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				23,067	0.01%		
+ 		120	City of Martinsville	19	Urban Local System			              	58,887	0.09%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				58,887	0.03%		
+ 		120	City of Martinsville Total:						147,881	0.23%	0.07%				115,965	0.13%	0.05%				0	0.00%	0.00%				263,846	0.12%		
+ 		121	City of Newport News	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,663,131	2.52%	0.75%				1,663,131	0.75%		
+ 		121	City of Newport News	12	Urban Principal Arterial - Other Freeways or Expressways			              	13,140	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				13,140	0.01%		
+ 		121	City of Newport News	14	Urban Principal Arterial - Other			              	10,465	0.02%	0.00%				888,937	0.98%	0.40%				0	0.00%	0.00%				899,402	0.41%		
+ 		121	City of Newport News	16	Urban Minor Arterial			              	112,036	0.17%	0.05%				692,171	0.76%	0.31%				0	0.00%	0.00%				804,208	0.36%		
+ 		121	City of Newport News	17	Urban Collector			              	239,239	0.37%	0.11%				26,696	0.03%	0.01%				0	0.00%	0.00%				265,935	0.12%		
+ 		121	City of Newport News	19	Urban Local System			              	736,229	1.13%	0.33%				121	0.00%	0.00%				0	0.00%	0.00%				736,350	0.33%		
+ 		121	City of Newport News Total:						1,111,110	1.71%	0.50%				1,607,925	1.77%	0.72%				1,663,131	2.52%	0.75%				4,382,166	1.98%		
+ 		122	City of Norfolk	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				2,690,292	4.08%	1.21%				2,690,292	1.21%		
+ 		122	City of Norfolk	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				22,930	0.03%	0.01%				0	0.00%	0.00%				22,930	0.01%		
+ 		122	City of Norfolk	14	Urban Principal Arterial - Other			              	9,548	0.01%	0.00%				1,467,981	1.61%	0.66%				0	0.00%	0.00%				1,477,530	0.67%		
+ 		122	City of Norfolk	16	Urban Minor Arterial			              	358,418	0.55%	0.16%				508,669	0.56%	0.23%				0	0.00%	0.00%				867,086	0.39%		
+ 		122	City of Norfolk	17	Urban Collector			              	193,057	0.30%	0.09%				14,854	0.02%	0.01%				0	0.00%	0.00%				207,911	0.09%		
+ 		122	City of Norfolk	19	Urban Local System			              	478,885	0.74%	0.22%				895	0.00%	0.00%				0	0.00%	0.00%				479,781	0.22%		
+ 		122	City of Norfolk Total:						1,039,908	1.60%	0.47%				2,015,330	2.22%	0.91%				2,690,292	4.08%	1.21%				5,745,530	2.59%		
+ 		146	City of Norton	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				51,750	0.06%	0.02%				0	0.00%	0.00%				51,750	0.02%		
+ 		146	City of Norton	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				15,211	0.02%	0.01%				0	0.00%	0.00%				15,211	0.01%		
+ 		146	City of Norton	16	Urban Minor Arterial			              	4,955	0.01%	0.00%				33,037	0.04%	0.01%				0	0.00%	0.00%				37,992	0.02%		
+ 		146	City of Norton	17	Urban Collector			              	2,924	0.00%	0.00%				2,841	0.00%	0.00%				0	0.00%	0.00%				5,765	0.00%		
+ 		146	City of Norton	19	Urban Local System			              	17,692	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				17,692	0.01%		
+ 		146	City of Norton Total:						25,571	0.04%	0.01%				102,839	0.11%	0.05%				0	0.00%	0.00%				128,411	0.06%		
+ 		123	City of Petersburg	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				472,030	0.72%	0.21%				472,030	0.21%		
+ 		123	City of Petersburg	14	Urban Principal Arterial - Other			              	3,778	0.01%	0.00%				211,526	0.23%	0.10%				0	0.00%	0.00%				215,303	0.10%		
+ 		123	City of Petersburg	16	Urban Minor Arterial			              	85,503	0.13%	0.04%				29,233	0.03%	0.01%				0	0.00%	0.00%				114,737	0.05%		
+ 		123	City of Petersburg	17	Urban Collector			              	46,429	0.07%	0.02%				9,505	0.01%	0.00%				0	0.00%	0.00%				55,933	0.03%		
+ 		123	City of Petersburg	19	Urban Local System			              	107,329	0.17%	0.05%				16,708	0.02%	0.01%				0	0.00%	0.00%				124,036	0.06%		
+ 		123	City of Petersburg Total:						243,039	0.37%	0.11%				266,971	0.29%	0.12%				472,030	0.72%	0.21%				982,040	0.44%		
+ 		147	City of Poquoson	16	Urban Minor Arterial			              	1,316	0.00%	0.00%				48,996	0.05%	0.02%				0	0.00%	0.00%				50,312	0.02%		
+ 		147	City of Poquoson	17	Urban Collector			              	15,161	0.02%	0.01%				7,505	0.01%	0.00%				0	0.00%	0.00%				22,667	0.01%		
+ 		147	City of Poquoson	19	Urban Local System			              	48,397	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				48,397	0.02%		
+ 		147	City of Poquoson Total:						64,875	0.10%	0.03%				56,501	0.06%	0.03%				0	0.00%	0.00%				121,376	0.05%		
+ 		124	City of Portsmouth	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				373,011	0.57%	0.17%				373,011	0.17%		
+ 		124	City of Portsmouth	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				322,556	0.35%	0.15%				0	0.00%	0.00%				322,556	0.15%		
+ 		124	City of Portsmouth	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				292,107	0.32%	0.13%				0	0.00%	0.00%				292,107	0.13%		
+ 		124	City of Portsmouth	16	Urban Minor Arterial			              	174,043	0.27%	0.08%				198,907	0.22%	0.09%				0	0.00%	0.00%				372,950	0.17%		
+ 		124	City of Portsmouth	17	Urban Collector			              	133,796	0.21%	0.06%				0	0.00%	0.00%				0	0.00%	0.00%				133,796	0.06%		
+ 		124	City of Portsmouth	19	Urban Local System			              	185,868	0.29%	0.08%				8	0.00%	0.00%				0	0.00%	0.00%				185,875	0.08%		
+ 		124	City of Portsmouth Total:						493,707	0.76%	0.22%				813,578	0.89%	0.37%				373,011	0.57%	0.17%				1,680,295	0.76%		
+ 		126	City of Radford	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				83,901	0.09%	0.04%				0	0.00%	0.00%				83,901	0.04%		
+ 		126	City of Radford	16	Urban Minor Arterial			              	33,340	0.05%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				33,340	0.02%		
+ 		126	City of Radford	17	Urban Collector			              	6,341	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				6,341	0.00%		
+ 		126	City of Radford	19	Urban Local System			              	77,921	0.12%	0.04%				0	0.00%	0.00%				0	0.00%	0.00%				77,921	0.04%		
+ 		126	City of Radford Total:						117,601	0.18%	0.05%				83,901	0.09%	0.04%				0	0.00%	0.00%				201,502	0.09%		
+ 		127	City of Richmond	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,742,373	2.64%	0.79%				1,742,373	0.79%		
+ 		127	City of Richmond	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				459,557	0.51%	0.21%				0	0.00%	0.00%				459,557	0.21%		
+ 		127	City of Richmond	14	Urban Principal Arterial - Other			              	17,165	0.03%	0.01%				874,127	0.96%	0.39%				0	0.00%	0.00%				891,293	0.40%		
+ 		127	City of Richmond	16	Urban Minor Arterial			              	561,864	0.86%	0.25%				271,514	0.30%	0.12%				0	0.00%	0.00%				833,378	0.38%		
+ 		127	City of Richmond	17	Urban Collector			              	226,257	0.35%	0.10%				1,158	0.00%	0.00%				0	0.00%	0.00%				227,415	0.10%		
+ 		127	City of Richmond	19	Urban Local System			              	724,241	1.11%	0.33%				2,363	0.00%	0.00%				0	0.00%	0.00%				726,604	0.33%		
+ 		127	City of Richmond Total:						1,529,527	2.35%	0.69%				1,608,720	1.77%	0.73%				1,742,373	2.64%	0.79%				4,880,620	2.20%		
+ 		128	City of Roanoke	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				370,745	0.56%	0.17%				370,745	0.17%		
+ 		128	City of Roanoke	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				161,603	0.18%	0.07%				0	0.00%	0.00%				161,603	0.07%		
+ 		128	City of Roanoke	14	Urban Principal Arterial - Other			              	8,745	0.01%	0.00%				548,469	0.60%	0.25%				0	0.00%	0.00%				557,214	0.25%		
+ 		128	City of Roanoke	16	Urban Minor Arterial			              	313,067	0.48%	0.14%				201,142	0.22%	0.09%				0	0.00%	0.00%				514,209	0.23%		
+ 		128	City of Roanoke	17	Urban Collector			              	132,445	0.20%	0.06%				16,071	0.02%	0.01%				0	0.00%	0.00%				148,516	0.07%		
+ 		128	City of Roanoke	19	Urban Local System			              	374,969	0.58%	0.17%				1,023	0.00%	0.00%				0	0.00%	0.00%				375,992	0.17%		
+ 		128	City of Roanoke Total:						829,227	1.28%	0.37%				928,308	1.02%	0.42%				370,745	0.56%	0.17%				2,128,279	0.96%		
+ 		129	City of Salem	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				22,341	0.03%	0.01%				22,341	0.01%		
+ 		129	City of Salem	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				194,121	0.21%	0.09%				0	0.00%	0.00%				194,121	0.09%		
+ 		129	City of Salem	16	Urban Minor Arterial			              	32,379	0.05%	0.01%				45,248	0.05%	0.02%				0	0.00%	0.00%				77,627	0.03%		
+ 		129	City of Salem	17	Urban Collector			              	31,282	0.05%	0.01%				20,409	0.02%	0.01%				0	0.00%	0.00%				51,691	0.02%		
+ 		129	City of Salem	19	Urban Local System			              	95,413	0.15%	0.04%				11	0.00%	0.00%				0	0.00%	0.00%				95,424	0.04%		
+ 		129	City of Salem Total:						159,074	0.24%	0.07%				259,789	0.29%	0.12%				22,341	0.03%	0.01%				441,204	0.20%		
+ 		132	City of Staunton	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				81,872	0.09%	0.04%				0	0.00%	0.00%				81,872	0.04%		
+ 		132	City of Staunton	16	Urban Minor Arterial			              	11,282	0.02%	0.01%				151,472	0.17%	0.07%				0	0.00%	0.00%				162,754	0.07%		
+ 		132	City of Staunton	17	Urban Collector			              	49,711	0.08%	0.02%				2,745	0.00%	0.00%				0	0.00%	0.00%				52,456	0.02%		
+ 		132	City of Staunton	19	Urban Local System			              	38,898	0.06%	0.02%				741	0.00%	0.00%				0	0.00%	0.00%				39,639	0.02%		
+ 		132	City of Staunton Total:						99,891	0.15%	0.05%				236,830	0.26%	0.11%				0	0.00%	0.00%				336,721	0.15%		
+ 		133	City of Suffolk	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				346,191	0.53%	0.16%				346,191	0.16%		
+ 		133	City of Suffolk	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				655,106	0.72%	0.30%				0	0.00%	0.00%				655,106	0.30%		
+ 		133	City of Suffolk	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				1,033,294	1.14%	0.47%				0	0.00%	0.00%				1,033,294	0.47%		
+ 		133	City of Suffolk	16	Urban Minor Arterial			              	181,113	0.28%	0.08%				198,907	0.22%	0.09%				0	0.00%	0.00%				380,020	0.17%		
+ 		133	City of Suffolk	17	Urban Collector			              	99,064	0.15%	0.04%				15,727	0.02%	0.01%				0	0.00%	0.00%				114,792	0.05%		
+ 		133	City of Suffolk	19	Urban Local System			              	259,292	0.40%	0.12%				2,207	0.00%	0.00%				0	0.00%	0.00%				261,499	0.12%		
+ 		133	City of Suffolk Total:						539,470	0.83%	0.24%				1,905,242	2.09%	0.86%				346,191	0.53%	0.16%				2,790,902	1.26%		
+ 		134	City of Virginia Beach	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				1,762,407	2.67%	0.79%				1,762,407	0.79%		
+ 		134	City of Virginia Beach	14	Urban Principal Arterial - Other			              	252,569	0.39%	0.11%				1,232,717	1.36%	0.56%				0	0.00%	0.00%				1,485,286	0.67%		
+ 		134	City of Virginia Beach	16	Urban Minor Arterial			              	2,036,050	3.13%	0.92%				1,011,646	1.11%	0.46%				0	0.00%	0.00%				3,047,696	1.37%		
+ 		134	City of Virginia Beach	17	Urban Collector			              	748,309	1.15%	0.34%				0	0.00%	0.00%				0	0.00%	0.00%				748,309	0.34%		
+ 		134	City of Virginia Beach	19	Urban Local System			              	824,278	1.27%	0.37%				5,811	0.01%	0.00%				0	0.00%	0.00%				830,089	0.37%		
+ 		134	City of Virginia Beach Total:						3,861,206	5.94%	1.74%				2,250,175	2.47%	1.01%				1,762,407	2.67%	0.79%				7,873,787	3.55%		
+ 		136	City of Waynesboro	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				100,875	0.15%	0.05%				100,875	0.05%		
+ 		136	City of Waynesboro	14	Urban Principal Arterial - Other			              	17,275	0.03%	0.01%				81,552	0.09%	0.04%				0	0.00%	0.00%				98,827	0.04%		
+ 		136	City of Waynesboro	16	Urban Minor Arterial			              	45,157	0.07%	0.02%				47,052	0.05%	0.02%				0	0.00%	0.00%				92,209	0.04%		
+ 		136	City of Waynesboro	17	Urban Collector			              	40,373	0.06%	0.02%				13,051	0.01%	0.01%				0	0.00%	0.00%				53,424	0.02%		
+ 		136	City of Waynesboro	19	Urban Local System			              	36,293	0.06%	0.02%				360	0.00%	0.00%				0	0.00%	0.00%				36,654	0.02%		
+ 		136	City of Waynesboro Total:						139,098	0.21%	0.06%				142,015	0.16%	0.06%				100,875	0.15%	0.05%				381,988	0.17%		
+ 		137	City of Williamsburg	12	Urban Principal Arterial - Other Freeways or Expressways			              	0	0.00%	0.00%				13,865	0.02%	0.01%				0	0.00%	0.00%				13,865	0.01%		
+ 		137	City of Williamsburg	14	Urban Principal Arterial - Other			              	0	0.00%	0.00%				80,587	0.09%	0.04%				0	0.00%	0.00%				80,587	0.04%		
+ 		137	City of Williamsburg	16	Urban Minor Arterial			              	45,231	0.07%	0.02%				66,178	0.07%	0.03%				0	0.00%	0.00%				111,409	0.05%		
+ 		137	City of Williamsburg	17	Urban Collector			              	9,210	0.01%	0.00%				8,460	0.01%	0.00%				0	0.00%	0.00%				17,670	0.01%		
+ 		137	City of Williamsburg	19	Urban Local System			              	33,445	0.05%	0.02%				4,578	0.01%	0.00%				0	0.00%	0.00%				38,023	0.02%		
+ 		137	City of Williamsburg Total:						87,886	0.14%	0.04%				173,668	0.19%	0.08%				0	0.00%	0.00%				261,554	0.12%		
+ 		138	City of Winchester	11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				4,149	0.01%	0.00%				4,149	0.00%		
+ 		138	City of Winchester	14	Urban Principal Arterial - Other			              	22,424	0.03%	0.01%				90,054	0.10%	0.04%				0	0.00%	0.00%				112,478	0.05%		
+ 		138	City of Winchester	16	Urban Minor Arterial			              	63,078	0.10%	0.03%				44,901	0.05%	0.02%				0	0.00%	0.00%				107,979	0.05%		
+ 		138	City of Winchester	17	Urban Collector			              	55,346	0.09%	0.02%				5,284	0.01%	0.00%				0	0.00%	0.00%				60,630	0.03%		
+ 		138	City of Winchester	19	Urban Local System			              	86,199	0.13%	0.04%				0	0.00%	0.00%				0	0.00%	0.00%				86,199	0.04%		
+ 		138	City of Winchester Total:						227,047	0.35%	0.10%				140,240	0.15%	0.06%				4,149	0.01%	0.00%				371,435	0.17%		
+									64,977,262	100.00%	29.29%				90,946,652	100.00%	41.00%				65,922,639	100.00%	29.72%				221,846,554	100.00%		
+
+
+
+'Secondary' includes those routes in the VDOT secondary system,  (unnumbered) routes maintained by Arlington and Henrico Counties and unnumbered routes maintained by cities and towns.
+'Primary' includes those routes designated as 'US', 'SR' (Virginia State Route) and Frontage Roads.
+'Primary' also includes the named federal parkways (George Washington Pkwy, Colonial Pkwy, Blue Ridge Pkwy, Skyline Drive) and the Dulles Access road.
+'Interstate' includes those routes in the Interstate System.
+Road Length values temporarilly not included in this report pending publication of official road length values.
+
+ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011		ReportID:	1216	DataYear:	2011	Prepared	8/22/2012

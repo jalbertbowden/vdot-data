@@ -1,0 +1,136 @@
+ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	Prepared	10/1/2011
+Daily Vehicle Miles Traveled (DVMT) by Maintenance Jurisdiction																																																												
+Public Road Segments Maintained by the Commonwealth of Virginia (VDOT) or Virginia Counties																																																												
+> > > > This report includes road segments maintained by VDOT, but outside of Virginia so it is not expected to match Virginia Public Road reports from sources such as FHWA or DMV < < < < 																																																												
+Road Length values temporarilly not included in this report pending publication of official road length values																																																												
+2010																																																												
+																																																												
+									VDOT Secondary						VDOT Primary						VDOT Interstate						County Secondary						Urban Secondary						Urban Primary						Other Secondary						Other Primary						All Roads			
+													%	%					%	%					%	%					%	%					%	%					%	%					%	%					%	%				%
+										%	%		of	of		%	%		of	of		%	%		of	of		%	%		of	of		%	%		of	of		%	%		of	of		%	%		of	of		%	%		of	of		%		of
+										of	of		Secondary	State		of	of		Primary	State		of	of		Interstate	State		of	of		Secondary	State		of	of		Secondary	State		of	of		Primary	State		of	of		Secondary	State		of	of		Primary	State		of		State
+										Secondary	State	Road	Total	Total		Primary	State	Road	Total	Total		Interstate	State	Road	Total	Total		Secondary	State	Road	Total	Total		Secondary	State	Road	Total	Total		Primary	State	Road	Total	Total		Secondary	State	Road	Total	Total		Primary	State	Road	Total	Total		State	Road	Total
+										Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Length	Road
+		Jurisdiction							DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	(Miles)	Length
+																																																												
+1	Bristol District	010	Bland County					              	66,370	0.16%	0.04%				68,195	0.10%	0.04%				583,064	0.88%	0.32%																																		717,630	0.40%		
+1	Bristol District	013	Buchanan County					              	281,891	0.70%	0.16%				364,547	0.53%	0.20%																																								646,438	0.36%		
+1	Bristol District	025	Dickenson County					              	137,468	0.34%	0.08%				217,716	0.32%	0.12%																																								355,185	0.20%		
+1	Bristol District	038	Grayson County					              	116,513	0.29%	0.06%				229,023	0.33%	0.13%																																								345,536	0.19%		
+1	Bristol District	052	Lee County					              	139,529	0.35%	0.08%				459,506	0.67%	0.26%																																								599,034	0.33%		
+1	Bristol District	083	Russell County					              	187,465	0.47%	0.10%				625,564	0.91%	0.35%																																								813,029	0.45%		
+1	Bristol District	084	Scott County					              	200,233	0.50%	0.11%				566,336	0.82%	0.31%																																								766,570	0.43%		
+1	Bristol District	086	Smyth County					              	217,197	0.54%	0.12%				189,595	0.28%	0.11%				628,268	0.95%	0.35%																																		1,035,060	0.58%		
+1	Bristol District	092	Tazewell County					              	207,445	0.51%	0.12%				768,726	1.12%	0.43%																																								976,171	0.54%		
+1	Bristol District	095	Washington County					              	404,248	1.00%	0.22%				482,123	0.70%	0.27%				1,349,361	2.03%	0.75%																																		2,235,732	1.24%		
+1	Bristol District	097	Wise County					              	285,863	0.71%	0.16%				843,987	1.23%	0.47%																																								1,129,850	0.63%		
+1	Bristol District	098	Wythe County					              	161,815	0.40%	0.09%				260,749	0.38%	0.15%				1,487,868	2.24%	0.83%																																		1,910,431	1.06%		
+1	Bristol District		Bristol District Total:						2,406,037	5.97%	1.34%				5,076,066	7.38%	2.82%				4,048,561	6.09%	2.25%																																		11,530,665	6.41%		
+2	Salem District	009	Bedford County					              	595,401	1.48%	0.33%				1,104,487	1.60%	0.61%																																								1,699,888	0.95%		
+2	Salem District	011	Botetourt County					              	240,239	0.60%	0.13%				655,564	0.95%	0.36%				1,020,247	1.53%	0.57%																																		1,916,050	1.07%		
+2	Salem District	017	Carroll County					              	258,205	0.64%	0.14%				375,826	0.55%	0.21%				875,121	1.32%	0.49%																																		1,509,151	0.84%		
+2	Salem District	022	Craig County					              	36,952	0.09%	0.02%				62,866	0.09%	0.03%																																								99,818	0.06%		
+2	Salem District	031	Floyd County					              	134,629	0.33%	0.07%				185,829	0.27%	0.10%																																								320,459	0.18%		
+2	Salem District	033	Franklin County					              	566,334	1.41%	0.31%				832,308	1.21%	0.46%																																								1,398,642	0.78%		
+2	Salem District	035	Giles County					              	64,442	0.16%	0.04%				439,420	0.64%	0.24%																																								503,862	0.28%		
+2	Salem District	044	Henry County					              	433,395	1.08%	0.24%				1,030,762	1.50%	0.57%																																								1,464,157	0.81%		
+2	Salem District	060	Montgomery County					              	294,946	0.73%	0.16%				819,209	1.19%	0.46%				1,136,692	1.71%	0.63%																																		2,250,847	1.25%		
+2	Salem District	070	Patrick County					              	163,433	0.41%	0.09%				242,511	0.35%	0.13%																																								405,944	0.23%		
+2	Salem District	077	Pulaski County					              	213,536	0.53%	0.12%				332,407	0.48%	0.18%				674,156	1.01%	0.37%																																		1,220,099	0.68%		
+2	Salem District	080	Roanoke County					              	430,467	1.07%	0.24%				1,158,669	1.68%	0.64%				1,356,848	2.04%	0.75%																																		2,945,985	1.64%		
+2	Salem District		Salem District Total:						3,431,979	8.52%	1.91%				7,239,858	10.52%	4.03%				5,063,064	7.62%	2.82%																																		15,734,901	8.75%		
+3	Lynchburg District	005	Amherst County					              	203,293	0.50%	0.11%				784,889	1.14%	0.44%																																								988,183	0.55%		
+3	Lynchburg District	006	Appomattox County					              	132,440	0.33%	0.07%				330,820	0.48%	0.18%																																								463,260	0.26%		
+3	Lynchburg District	014	Buckingham County					              	140,406	0.35%	0.08%				286,621	0.42%	0.16%																																								427,027	0.24%		
+3	Lynchburg District	015	Campbell County					              	494,122	1.23%	0.27%				1,371,917	1.99%	0.76%																																								1,866,039	1.04%		
+3	Lynchburg District	019	Charlotte County					              	110,549	0.27%	0.06%				256,945	0.37%	0.14%																																								367,494	0.20%		
+3	Lynchburg District	024	Cumberland County					              	77,658	0.19%	0.04%				143,749	0.21%	0.08%																																								221,407	0.12%		
+3	Lynchburg District	041	Halifax County					              	274,031	0.68%	0.15%				604,236	0.88%	0.34%																																								878,267	0.49%		
+3	Lynchburg District	062	Nelson County					              	94,670	0.24%	0.05%				502,004	0.73%	0.28%																																								596,673	0.33%		
+3	Lynchburg District	071	Pittsylvania County					              	650,043	1.61%	0.36%				1,211,903	1.76%	0.67%																																								1,861,946	1.04%		
+3	Lynchburg District	073	Prince Edward County					              	121,942	0.30%	0.07%				455,739	0.66%	0.25%																																								577,681	0.32%		
+3	Lynchburg District		Lynchburg District Total:						2,299,154	5.71%	1.28%				5,948,823	8.64%	3.31%																																								8,247,977	4.59%		
+4	Richmond District	004	Amelia County					              	181,073	0.45%	0.10%				346,395	0.50%	0.19%																																								527,468	0.29%		
+4	Richmond District	012	Brunswick County					              	207,208	0.51%	0.12%				337,821	0.49%	0.19%				440,925	0.66%	0.25%																																		985,954	0.55%		
+4	Richmond District	018	Charles City County					              	70,723	0.18%	0.04%				104,187	0.15%	0.06%																																								174,910	0.10%		
+4	Richmond District	020	Chesterfield County					              	2,647,079	6.57%	1.47%				4,581,962	6.66%	2.55%				2,036,407	3.06%	1.13%																																		9,265,449	5.15%		
+4	Richmond District	026	Dinwiddie County					              	267,924	0.67%	0.15%				418,205	0.61%	0.23%				993,968	1.50%	0.55%																																		1,680,096	0.93%		
+4	Richmond District	037	Goochland County					              	248,795	0.62%	0.14%				572,644	0.83%	0.32%				963,311	1.45%	0.54%																																		1,784,751	0.99%		
+4	Richmond District	042	Hanover County					              	1,023,938	2.54%	0.57%				849,620	1.23%	0.47%				2,423,354	3.65%	1.35%																																		4,296,913	2.39%		
+4	Richmond District	043	Henrico County					              							1,933,528	2.81%	1.08%				4,748,492	7.14%	2.64%				3,160,214	74.16%	1.76%																												9,842,233	5.47%		
+4	Richmond District	055	Lunenburg County					              	110,632	0.27%	0.06%				149,042	0.22%	0.08%																																								259,674	0.14%		
+4	Richmond District	058	Mecklenburg County					              	218,284	0.54%	0.12%				546,730	0.79%	0.30%				454,166	0.68%	0.25%																																		1,219,179	0.68%		
+4	Richmond District	063	New Kent County					              	94,186	0.23%	0.05%				339,399	0.49%	0.19%				1,198,845	1.80%	0.67%																																		1,632,430	0.91%		
+4	Richmond District	067	Nottoway County					              	102,508	0.25%	0.06%				357,953	0.52%	0.20%																																								460,462	0.26%		
+4	Richmond District	072	Powhatan County					              	288,156	0.72%	0.16%				508,478	0.74%	0.28%																																								796,635	0.44%		
+4	Richmond District	074	Prince George County					              	232,537	0.58%	0.13%				529,812	0.77%	0.29%				927,661	1.40%	0.52%																																		1,690,011	0.94%		
+4	Richmond District		Richmond District Total:						5,693,045	14.13%	3.17%				11,575,777	16.82%	6.44%				14,187,128	21.34%	7.89%				3,160,214	74.16%	1.76%																												34,616,164	19.25%		
+5	Hampton Roads District	001	Accomack County					              	257,052	0.64%	0.14%				892,083	1.30%	0.50%																																								1,149,135	0.64%		
+5	Hampton Roads District	040	Greensville County					              	111,347	0.28%	0.06%				198,908	0.29%	0.11%				634,588	0.95%	0.35%																																		944,843	0.53%		
+5	Hampton Roads District	046	Isle of Wight County					              	300,978	0.75%	0.17%				839,329	1.22%	0.47%																																								1,140,307	0.63%		
+5	Hampton Roads District	047	James City County					              	318,782	0.79%	0.18%				755,269	1.10%	0.42%				506,451	0.76%	0.28%																																		1,580,501	0.88%		
+5	Hampton Roads District	061	Nansemond Maintenance Area					              							40,430	0.06%	0.02%				342,315	0.52%	0.19%																																		382,745	0.21%		
+5	Hampton Roads District	064	Norfolk Maintenance Area					              							600,219	0.87%	0.33%				5,165,307	7.77%	2.87%																																		5,765,527	3.21%		
+5	Hampton Roads District	065	Northampton County					              	95,345	0.24%	0.05%				443,947	0.65%	0.25%																																								539,291	0.30%		
+5	Hampton Roads District	075	Princess Anne Maintenance Area					              													1,513,608	2.28%	0.84%																																		1,513,608	0.84%		
+5	Hampton Roads District	087	Southampton County					              	250,342	0.62%	0.14%				742,674	1.08%	0.41%																																								993,016	0.55%		
+5	Hampton Roads District	090	Surry County					              	51,543	0.13%	0.03%				113,735	0.17%	0.06%																																								165,278	0.09%		
+5	Hampton Roads District	091	Sussex County					              	97,690	0.24%	0.05%				310,463	0.45%	0.17%				601,045	0.90%	0.33%																																		1,009,198	0.56%		
+5	Hampton Roads District	099	York County					              	378,558	0.94%	0.21%				971,456	1.41%	0.54%				4,214,231	6.34%	2.34%																																		5,564,244	3.09%		
+5	Hampton Roads District		Hampton Roads District Total:						1,861,635	4.62%	1.04%				5,908,512	8.59%	3.29%				12,977,545	19.52%	7.22%																																		20,747,692	11.54%		
+6	Fredericksburg District	016	Caroline County					              	239,435	0.59%	0.13%				575,336	0.84%	0.32%				1,462,631	2.20%	0.81%																																		2,277,403	1.27%		
+6	Fredericksburg District	028	Essex County					              	103,859	0.26%	0.06%				332,685	0.48%	0.19%																																								436,544	0.24%		
+6	Fredericksburg District	036	Gloucester County					              	250,972	0.62%	0.14%				796,243	1.16%	0.44%																																								1,047,214	0.58%		
+6	Fredericksburg District	049	King & Queen County					              	70,788	0.18%	0.04%				202,629	0.29%	0.11%																																								273,417	0.15%		
+6	Fredericksburg District	048	King George County					              	82,017	0.20%	0.05%				744,542	1.08%	0.41%																																								826,559	0.46%		
+6	Fredericksburg District	050	King William County					              	114,209	0.28%	0.06%				289,125	0.42%	0.16%																																								403,334	0.22%		
+6	Fredericksburg District	051	Lancaster County					              	95,980	0.24%	0.05%				232,150	0.34%	0.13%																																								328,130	0.18%		
+6	Fredericksburg District	057	Mathews County					              	44,873	0.11%	0.02%				145,871	0.21%	0.08%																																								190,744	0.11%		
+6	Fredericksburg District	059	Middlesex County					              	68,036	0.17%	0.04%				265,147	0.39%	0.15%																																								333,183	0.19%		
+6	Fredericksburg District	066	Northumberland County					              	111,432	0.28%	0.06%				198,416	0.29%	0.11%																																								309,848	0.17%		
+6	Fredericksburg District	079	Richmond County					              	70,228	0.17%	0.04%				253,911	0.37%	0.14%																																								324,138	0.18%		
+6	Fredericksburg District	088	Spotsylvania County					              	1,018,660	2.53%	0.57%				1,232,312	1.79%	0.69%				1,670,944	2.51%	0.93%																																		3,921,916	2.18%		
+6	Fredericksburg District	089	Stafford County					              	996,856	2.47%	0.55%				913,637	1.33%	0.51%				2,157,182	3.25%	1.20%																																		4,067,675	2.26%		
+6	Fredericksburg District	096	Westmoreland County					              	141,548	0.35%	0.08%				272,930	0.40%	0.15%																																								414,478	0.23%		
+6	Fredericksburg District		Fredericksburg District Total:						3,408,893	8.46%	1.90%				6,454,935	9.38%	3.59%				5,290,757	7.96%	2.94%																																		15,154,585	8.43%		
+7	Culpeper District	002	Albemarle County					              	880,282	2.19%	0.49%				1,597,030	2.32%	0.89%				1,134,022	1.71%	0.63%																																		3,611,334	2.01%		
+7	Culpeper District	023	Culpeper County					              	275,709	0.68%	0.15%				891,321	1.30%	0.50%																																								1,167,030	0.65%		
+7	Culpeper District	030	Fauquier County					              	596,512	1.48%	0.33%				1,716,681	2.49%	0.95%				864,548	1.30%	0.48%																																		3,177,740	1.77%		
+7	Culpeper District	032	Fluvanna County					              	185,315	0.46%	0.10%				216,539	0.31%	0.12%																																								401,854	0.22%		
+7	Culpeper District	039	Greene County					              	120,829	0.30%	0.07%				312,332	0.45%	0.17%																																								433,161	0.24%		
+7	Culpeper District	054	Louisa County					              	304,127	0.75%	0.17%				496,286	0.72%	0.28%				509,146	0.77%	0.28%																																		1,309,560	0.73%		
+7	Culpeper District	056	Madison County					              	95,676	0.24%	0.05%				406,043	0.59%	0.23%																																								501,719	0.28%		
+7	Culpeper District	068	Orange County					              	183,670	0.46%	0.10%				536,050	0.78%	0.30%																																								719,720	0.40%		
+7	Culpeper District	078	Rappahannock County					              	58,001	0.14%	0.03%				224,175	0.33%	0.12%																																								282,175	0.16%		
+7	Culpeper District		Culpeper District Total:						2,700,121	6.70%	1.50%				6,396,457	9.30%	3.56%				2,507,716	3.77%	1.39%																																		11,604,294	6.45%		
+8	Staunton District	003	Alleghany County					              	103,452	0.26%	0.06%				129,455	0.19%	0.07%				458,406	0.69%	0.25%																																		691,313	0.38%		
+8	Staunton District	007	Augusta County					              	597,677	1.48%	0.33%				901,938	1.31%	0.50%				1,912,184	2.88%	1.06%																																		3,411,798	1.90%		
+8	Staunton District	008	Bath County					              	42,403	0.11%	0.02%				81,243	0.12%	0.05%																																								123,646	0.07%		
+8	Staunton District	021	Clarke County					              	121,401	0.30%	0.07%				600,627	0.87%	0.33%																																								722,028	0.40%		
+8	Staunton District	034	Frederick County					              	590,612	1.47%	0.33%				1,313,451	1.91%	0.73%				1,266,704	1.91%	0.70%																																		3,170,767	1.76%		
+8	Staunton District	045	Highland County					              	22,511	0.06%	0.01%				45,379	0.07%	0.03%																																								67,890	0.04%		
+8	Staunton District	069	Page County					              	128,524	0.32%	0.07%				252,076	0.37%	0.14%																																								380,600	0.21%		
+8	Staunton District	081	Rockbridge County					              	176,721	0.44%	0.10%				319,219	0.46%	0.18%				1,355,308	2.04%	0.75%																																		1,851,248	1.03%		
+8	Staunton District	082	Rockingham County					              	520,381	1.29%	0.29%				1,015,246	1.48%	0.56%				1,226,905	1.85%	0.68%																																		2,762,532	1.54%		
+8	Staunton District	085	Shenandoah County					              	236,221	0.59%	0.13%				407,144	0.59%	0.23%				1,482,386	2.23%	0.82%																																		2,125,752	1.18%		
+8	Staunton District	093	Warren County					              	156,981	0.39%	0.09%				363,384	0.53%	0.20%				442,369	0.67%	0.25%																																		962,734	0.54%		
+8	Staunton District		Staunton District Total:						2,696,884	6.70%	1.50%				5,429,162	7.89%	3.02%				8,144,262	12.25%	4.53%																																		16,270,308	9.05%		
+9	Northern Virginia District	000	Arlington County					              							1,351,866	1.96%	0.75%				1,449,353	2.18%	0.81%				1,100,865	25.84%	0.61%																												3,902,084	2.17%		
+9	Northern Virginia District	029	Fairfax County					              	9,854,630	24.46%	5.48%				7,565,159	10.99%	4.21%				9,669,701	14.55%	5.38%																																		27,089,491	15.06%		
+9	Northern Virginia District	053	Loudoun County					              	2,341,391	5.81%	1.30%				3,469,106	5.04%	1.93%																																								5,810,497	3.23%		
+9	Northern Virginia District	076	Prince William County					              	3,588,003	8.91%	2.00%				2,399,805	3.49%	1.33%				3,129,090	4.71%	1.74%																																		9,116,898	5.07%		
+9	Northern Virginia District		Northern Virginia District Total:						15,784,024	39.18%	8.78%				14,785,936	21.49%	8.22%				14,248,145	21.44%	7.92%				1,100,865	25.84%	0.61%																												45,918,969	25.54%		
+									40,281,773	100.00%	22.40%				68,815,525	100.00%	38.27%				66,467,177	100.00%	36.96%				4,261,079	100.00%	2.37%				0	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				179,825,554	100.00%		
+																					175,564,475		97.63%				4,261,079		2.37%										0		0.00%										0		0.00%			
+																					VDOT Total						County Total												Urban Total												Other Total					
+
+'Secondary' includes those routes in the VDOT secondary systemand  (unnumbered) routes maintained by Arlington and Henrico Counties.
+'Primary' includes those routes designated as 'US', 'SR' (Virginia State Route) and Frontage Roads.
+'Interstate' includes those routes in the Interstate System.
+
+VDOT maintains all facilities summarized in this report except those summarized in the Secondary columns for Arlington and Henrico counties. 																																																												
+Road Length values temporarilly not included in this report pending publication of official road length values.
+Maintenance Jurisdiction DVMT report totals do not match Physical Jurisdiction DVMT report totals because of maintenance responsibility outside Virginia (North Carolina and West Virginia).
+DVMT and road length totals ARE NOT EXPECTED to match totals reported to and published by FHWA because of VDOT maintainance of roads outside of Virginia (North Carolina and West Virginia).
+
+ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	(Wide)	ReportID:	2100	DataYear:	2010	Prepared	10/1/2011
