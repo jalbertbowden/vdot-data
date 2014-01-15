@@ -1,0 +1,37 @@
+ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012	Prepared	8/5/2013
+Daily Vehicle Miles Traveled (DVMT) by Federal Functional Class																														
+Public Road Segments within the Commonwealth of Virginia																														
+Road Length values temporarilly not included in this report pending publication of official road length values																														
+2012																														
+																														
+									Secondary						Primary						Interstate						All Roads			
+													%	%					%	%					%	%				%
+										%	%		of	of		%	%		of	of		%	%		of	of		%		of
+										of	of		Secondary	State		of	of		Primary	State		of	of		Interstate	State		of		State
+				Federal						Secondary	State	Road	Total	Total		Primary	State	Road	Total	Total		Interstate	State	Road	Total	Total		State	Road	Total
+				Functional						Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Length	Road
+				Class					DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	(Miles)	Length
+																														
+ 		   		1	Rural Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				25,200,277	38.13%	11.39%				25,200,277	11.39%		
+ 		   		2	Rural Principal Arterial - Other			              	3,603	0.01%	0.00%				17,346,716	18.86%	7.84%				0	0.00%	0.00%				17,350,319	7.84%		
+ 		   		6	Rural Minor Arterial			              	220,591	0.35%	0.10%				13,477,061	14.65%	6.09%				0	0.00%	0.00%				13,697,652	6.19%		
+ 		   		7	Rural Major Collector			              	8,181,276	12.96%	3.70%				5,482,981	5.96%	2.48%				0	0.00%	0.00%				13,664,257	6.18%		
+ 		   		8	Rural Minor Collector			              	1,473,617	2.33%	0.67%				6,634	0.01%	0.00%				0	0.00%	0.00%				1,480,251	0.67%		
+ 		   		9	Rural Local System			              	9,559,758	15.14%	4.32%				237,860	0.26%	0.11%				0	0.00%	0.00%				9,797,618	4.43%		
+ 		   		11	Urban Principal Arterial - Interstate			              	0	0.00%	0.00%				0	0.00%	0.00%				40,887,544	61.87%	18.48%				40,887,544	18.48%		
+ 		   		12	Urban Principal Arterial - Other Freeways or Expressways			              	121,634	0.19%	0.05%				9,145,169	9.94%	4.13%				0	0.00%	0.00%				9,266,804	4.19%		
+ 		   		14	Urban Principal Arterial - Other			              	1,505,248	2.38%	0.68%				33,841,562	36.79%	15.30%				0	0.00%	0.00%				35,346,810	15.98%		
+ 		   		16	Urban Minor Arterial			              	16,481,241	26.10%	7.45%				11,659,018	12.68%	5.27%				0	0.00%	0.00%				28,140,260	12.72%		
+ 		   		17	Urban Collector			              	10,561,259	16.73%	4.77%				633,353	0.69%	0.29%				0	0.00%	0.00%				11,194,612	5.06%		
+ 		   		19	Urban Local System			              	15,026,740	23.80%	6.79%				145,402	0.16%	0.07%				0	0.00%	0.00%				15,172,142	6.86%		
+									63,134,968	100.00%	28.54%				91,975,757	100.00%	41.58%				66,087,821	100.00%	29.88%				221,198,546	100.00%		
+
+
+
+'Secondary' includes those routes in the VDOT secondary system,  (unnumbered) routes maintained by Arlington and Henrico Counties and unnumbered routes maintained by cities and towns.
+'Primary' includes those routes designated as 'US', 'SR' (Virginia State Route) and Frontage Roads.
+'Primary' also includes the named federal parkways (George Washington Pkwy, Colonial Pkwy, Blue Ridge Pkwy, Skyline Drive) and the Dulles Access road.
+'Interstate' includes those routes in the Interstate System.
+Road Length values temporarilly not included in this report pending publication of official road length values.
+
+ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012		ReportID:	210	DataYear:	2012	Prepared	8/5/2013

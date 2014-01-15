@@ -1,0 +1,221 @@
+ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012	Prepared	8/6/2013
+Daily Vehicle Miles Traveled (DVMT) by Maintenance Jurisdiction																														
+Public Road Segments Maintained by the Commonwealth of Virginia (VDOT), Virginia Local Jurisdictions, the Federal Government or Local Toll Authorities																														
+> > > > This report includes road segments maintained by VDOT, but outside of Virginia so it is not expected to match Virginia Public Road reports from sources such as FHWA or DMV < < < < 																														
+Road Length values temporarilly not included in this report pending publication of official road length values																														
+2012																														
+																														
+									Secondary						Primary						Interstate						All Roads			
+													%	%					%	%					%	%				%
+										%	%		of	of		%	%		of	of		%	%		of	of		%		of
+										of	of		Secondary	State		of	of		Primary	State		of	of		Interstate	State		of		State
+										Secondary	State	Road	Total	Total		Primary	State	Road	Total	Total		Interstate	State	Road	Total	Total		State	Road	Total
+										Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Total	Length	Road	Road		Total	Length	Road
+		Jurisdiction							DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	VMT	(Miles)	Length	Length	DVMT	VMT	(Miles)	Length
+																														
+1	Bristol District	010	Bland County					              	66,272	0.10%	0.03%				66,040	0.07%	0.03%				583,027	0.88%	0.26%				715,339	0.32%		
+1	Bristol District	013	Buchanan County					              	276,645	0.44%	0.13%				342,840	0.37%	0.16%				0	0.00%	0.00%				619,485	0.28%		
+1	Bristol District	025	Dickenson County					              	133,221	0.21%	0.06%				182,163	0.20%	0.08%				0	0.00%	0.00%				315,384	0.14%		
+1	Bristol District	038	Grayson County					              	103,701	0.16%	0.05%				189,803	0.21%	0.09%				0	0.00%	0.00%				293,505	0.13%		
+1	Bristol District	052	Lee County					              	136,854	0.22%	0.06%				428,017	0.47%	0.19%				0	0.00%	0.00%				564,872	0.26%		
+1	Bristol District	083	Russell County					              	174,856	0.28%	0.08%				607,912	0.66%	0.28%				0	0.00%	0.00%				782,768	0.35%		
+1	Bristol District	084	Scott County					              	193,567	0.31%	0.09%				536,910	0.59%	0.24%				0	0.00%	0.00%				730,477	0.33%		
+1	Bristol District	086	Smyth County					              	213,536	0.34%	0.10%				183,195	0.20%	0.08%				610,428	0.92%	0.28%				1,007,159	0.46%		
+1	Bristol District	092	Tazewell County					              	199,312	0.32%	0.09%				709,991	0.77%	0.32%				0	0.00%	0.00%				909,303	0.41%		
+1	Bristol District	095	Washington County					              	399,261	0.63%	0.18%				466,650	0.51%	0.21%				1,316,143	1.99%	0.60%				2,182,054	0.99%		
+1	Bristol District	097	Wise County					              	279,761	0.44%	0.13%				832,354	0.91%	0.38%				0	0.00%	0.00%				1,112,115	0.50%		
+1	Bristol District	098	Wythe County					              	167,685	0.27%	0.08%				283,565	0.31%	0.13%				1,441,928	2.18%	0.65%				1,893,177	0.86%		
+1	Bristol District	140	Town of Abingdon					              	44,092	0.07%	0.02%				121,053	0.13%	0.05%				0	0.00%	0.00%				165,144	0.07%		
+1	Bristol District	101	Town of Big Stone Gap					              	29,512	0.05%	0.01%				25,879	0.03%	0.01%				0	0.00%	0.00%				55,391	0.03%		
+1	Bristol District	143	Town of Bluefield					              	31,880	0.05%	0.01%				38,107	0.04%	0.02%				0	0.00%	0.00%				69,987	0.03%		
+1	Bristol District	102	City of Bristol					              	130,086	0.21%	0.06%				127,137	0.14%	0.06%				0	0.00%	0.00%				257,223	0.12%		
+1	Bristol District	252	Town of Lebanon					              	26,673	0.04%	0.01%				39,454	0.04%	0.02%				0	0.00%	0.00%				66,127	0.03%		
+1	Bristol District	119	Town of Marion					              	28,027	0.04%	0.01%				51,572	0.06%	0.02%				0	0.00%	0.00%				79,599	0.04%		
+1	Bristol District	146	City of Norton					              	30,514	0.05%	0.01%				28,724	0.03%	0.01%				0	0.00%	0.00%				59,239	0.03%		
+1	Bristol District	148	Town of Richlands					              	40,485	0.06%	0.02%				23,876	0.03%	0.01%				0	0.00%	0.00%				64,361	0.03%		
+1	Bristol District	295	Town of Saltville					              	24,208	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				24,208	0.01%		
+1	Bristol District	158	Town of Tazewell					              	8,989	0.01%	0.00%				49,116	0.05%	0.02%				0	0.00%	0.00%				58,105	0.03%		
+1	Bristol District	329	Town of Wise					              	29,154	0.05%	0.01%				22,161	0.02%	0.01%				0	0.00%	0.00%				51,315	0.02%		
+1	Bristol District	139	Town of Wytheville					              	70,318	0.11%	0.03%				59,035	0.06%	0.03%				0	0.00%	0.00%				129,353	0.06%		
+1	Bristol District		Bristol District Total:						2,838,608	4.49%	1.29%				5,415,555	5.91%	2.45%				3,951,525	5.98%	1.79%				12,205,688	5.53%		
+2	Salem District	009	Bedford County					              	611,056	0.97%	0.28%				1,075,559	1.17%	0.49%				0	0.00%	0.00%				1,686,614	0.76%		
+2	Salem District	011	Botetourt County					              	238,868	0.38%	0.11%				634,667	0.69%	0.29%				1,001,912	1.52%	0.45%				1,875,447	0.85%		
+2	Salem District	017	Carroll County					              	258,849	0.41%	0.12%				365,205	0.40%	0.17%				864,594	1.31%	0.39%				1,488,647	0.67%		
+2	Salem District	022	Craig County					              	36,300	0.06%	0.02%				64,208	0.07%	0.03%				0	0.00%	0.00%				100,508	0.05%		
+2	Salem District	031	Floyd County					              	138,891	0.22%	0.06%				175,657	0.19%	0.08%				0	0.00%	0.00%				314,548	0.14%		
+2	Salem District	033	Franklin County					              	572,520	0.91%	0.26%				803,957	0.88%	0.36%				0	0.00%	0.00%				1,376,477	0.62%		
+2	Salem District	035	Giles County					              	68,454	0.11%	0.03%				450,482	0.49%	0.20%				0	0.00%	0.00%				518,936	0.23%		
+2	Salem District	044	Henry County					              	440,847	0.70%	0.20%				1,006,999	1.10%	0.46%				0	0.00%	0.00%				1,447,846	0.66%		
+2	Salem District	060	Montgomery County					              	294,182	0.47%	0.13%				826,605	0.90%	0.37%				1,124,059	1.70%	0.51%				2,244,845	1.02%		
+2	Salem District	070	Patrick County					              	165,122	0.26%	0.07%				244,377	0.27%	0.11%				0	0.00%	0.00%				409,500	0.19%		
+2	Salem District	077	Pulaski County					              	211,543	0.33%	0.10%				329,413	0.36%	0.15%				670,998	1.02%	0.30%				1,211,954	0.55%		
+2	Salem District	080	Roanoke County					              	438,317	0.69%	0.20%				1,107,020	1.21%	0.50%				1,344,183	2.03%	0.61%				2,889,520	1.31%		
+2	Salem District	141	City of Bedford					              	21,071	0.03%	0.01%				66,701	0.07%	0.03%				0	0.00%	0.00%				87,772	0.04%		
+2	Salem District	150	Town of Blacksburg					              	161,893	0.26%	0.07%				119,814	0.13%	0.05%				0	0.00%	0.00%				281,706	0.13%		
+2	Salem District	154	Town of Christiansburg					              	113,423	0.18%	0.05%				153,106	0.17%	0.07%				0	0.00%	0.00%				266,528	0.12%		
+2	Salem District	113	City of Galax					              	62,086	0.10%	0.03%				86,998	0.09%	0.04%				0	0.00%	0.00%				149,084	0.07%		
+2	Salem District	120	City of Martinsville					              	132,147	0.21%	0.06%				111,459	0.12%	0.05%				0	0.00%	0.00%				243,606	0.11%		
+2	Salem District	266	Town of Narrows					              	2,880	0.00%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				2,880	0.00%		
+2	Salem District	279	Town of Pearisburg					              	14,150	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				14,150	0.01%		
+2	Salem District	125	Town of Pulaski					              	89,602	0.14%	0.04%				57,265	0.06%	0.03%				0	0.00%	0.00%				146,867	0.07%		
+2	Salem District	126	City of Radford					              	118,660	0.19%	0.05%				80,808	0.09%	0.04%				0	0.00%	0.00%				199,467	0.09%		
+2	Salem District	128	City of Roanoke					              	766,466	1.21%	0.35%				675,806	0.74%	0.31%				0	0.00%	0.00%				1,442,272	0.65%		
+2	Salem District	157	Town of Rocky Mount					              	36,807	0.06%	0.02%				65,923	0.07%	0.03%				0	0.00%	0.00%				102,730	0.05%		
+2	Salem District	129	City of Salem					              	154,352	0.24%	0.07%				268,681	0.29%	0.12%				0	0.00%	0.00%				423,034	0.19%		
+2	Salem District	149	Town of Vinton					              	79,351	0.13%	0.04%				47,421	0.05%	0.02%				0	0.00%	0.00%				126,773	0.06%		
+2	Salem District		Salem District Total:						5,227,836	8.28%	2.37%				8,818,130	9.62%	3.99%				5,005,746	7.58%	2.27%				19,051,712	8.62%		
+3	Lynchburg District	005	Amherst County					              	200,041	0.32%	0.09%				733,850	0.80%	0.33%				0	0.00%	0.00%				933,890	0.42%		
+3	Lynchburg District	006	Appomattox County					              	132,730	0.21%	0.06%				324,768	0.35%	0.15%				0	0.00%	0.00%				457,499	0.21%		
+3	Lynchburg District	014	Buckingham County					              	143,175	0.23%	0.06%				278,857	0.30%	0.13%				0	0.00%	0.00%				422,033	0.19%		
+3	Lynchburg District	015	Campbell County					              	489,238	0.77%	0.22%				1,323,914	1.44%	0.60%				0	0.00%	0.00%				1,813,152	0.82%		
+3	Lynchburg District	019	Charlotte County					              	108,489	0.17%	0.05%				274,293	0.30%	0.12%				0	0.00%	0.00%				382,783	0.17%		
+3	Lynchburg District	024	Cumberland County					              	77,856	0.12%	0.04%				140,567	0.15%	0.06%				0	0.00%	0.00%				218,423	0.10%		
+3	Lynchburg District	041	Halifax County					              	270,665	0.43%	0.12%				595,694	0.65%	0.27%				0	0.00%	0.00%				866,359	0.39%		
+3	Lynchburg District	062	Nelson County					              	93,972	0.15%	0.04%				489,573	0.53%	0.22%				0	0.00%	0.00%				583,545	0.26%		
+3	Lynchburg District	071	Pittsylvania County					              	656,116	1.04%	0.30%				1,217,170	1.33%	0.55%				0	0.00%	0.00%				1,873,286	0.85%		
+3	Lynchburg District	073	Prince Edward County					              	125,268	0.20%	0.06%				433,766	0.47%	0.20%				0	0.00%	0.00%				559,034	0.25%		
+3	Lynchburg District	162	Town of Altavista					              	22,042	0.03%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				22,042	0.01%		
+3	Lynchburg District	108	City of Danville					              	253,569	0.40%	0.11%				537,833	0.59%	0.24%				0	0.00%	0.00%				791,402	0.36%		
+3	Lynchburg District	144	Town of Farmville					              	33,125	0.05%	0.01%				92,004	0.10%	0.04%				0	0.00%	0.00%				125,128	0.06%		
+3	Lynchburg District	118	City of Lynchburg					              	504,944	0.80%	0.23%				882,657	0.96%	0.40%				0	0.00%	0.00%				1,387,601	0.63%		
+3	Lynchburg District	130	Town of South Boston					              	40,411	0.06%	0.02%				99,470	0.11%	0.05%				0	0.00%	0.00%				139,881	0.06%		
+3	Lynchburg District		Lynchburg District Total:						3,151,641	4.99%	1.43%				7,424,416	8.10%	3.36%				0	0.00%	0.00%				10,576,058	4.79%		
+4	Richmond District	004	Amelia County					              	172,154	0.27%	0.08%				320,095	0.35%	0.14%				0	0.00%	0.00%				492,249	0.22%		
+4	Richmond District	012	Brunswick County					              	202,558	0.32%	0.09%				317,840	0.35%	0.14%				418,249	0.63%	0.19%				938,647	0.42%		
+4	Richmond District	018	Charles City County					              	74,429	0.12%	0.03%				99,059	0.11%	0.04%				0	0.00%	0.00%				173,488	0.08%		
+4	Richmond District	020	Chesterfield County					              	2,604,594	4.12%	1.18%				4,519,007	4.93%	2.05%				1,999,704	3.03%	0.91%				9,123,304	4.13%		
+4	Richmond District	026	Dinwiddie County					              	263,224	0.42%	0.12%				383,848	0.42%	0.17%				953,648	1.44%	0.43%				1,600,720	0.72%		
+4	Richmond District	037	Goochland County					              	251,970	0.40%	0.11%				580,791	0.63%	0.26%				954,064	1.44%	0.43%				1,786,826	0.81%		
+4	Richmond District	042	Hanover County					              	1,024,512	1.62%	0.46%				805,873	0.88%	0.36%				2,451,696	3.71%	1.11%				4,282,081	1.94%		
+4	Richmond District	043	Henrico County					              	3,113,255	4.93%	1.41%				1,877,717	2.05%	0.85%				4,771,450	7.22%	2.16%				9,762,422	4.42%		
+4	Richmond District	055	Lunenburg County					              	108,490	0.17%	0.05%				140,298	0.15%	0.06%				0	0.00%	0.00%				248,788	0.11%		
+4	Richmond District	058	Mecklenburg County					              	213,888	0.34%	0.10%				513,689	0.56%	0.23%				432,054	0.65%	0.20%				1,159,631	0.52%		
+4	Richmond District	063	New Kent County					              	108,810	0.17%	0.05%				334,483	0.36%	0.15%				1,200,608	1.82%	0.54%				1,643,901	0.74%		
+4	Richmond District	067	Nottoway County					              	101,354	0.16%	0.05%				351,422	0.38%	0.16%				0	0.00%	0.00%				452,776	0.20%		
+4	Richmond District	072	Powhatan County					              	293,648	0.46%	0.13%				540,471	0.59%	0.24%				0	0.00%	0.00%				834,119	0.38%		
+4	Richmond District	074	Prince George County					              	237,438	0.38%	0.11%				508,554	0.55%	0.23%				940,184	1.42%	0.43%				1,686,177	0.76%		
+4	Richmond District	166	Town of Ashland					              	29,114	0.05%	0.01%				89,117	0.10%	0.04%				0	0.00%	0.00%				118,231	0.05%		
+4	Richmond District	142	Town of Blackstone					              	18,401	0.03%	0.01%				28,433	0.03%	0.01%				0	0.00%	0.00%				46,833	0.02%		
+4	Richmond District	186	Town of Chase City					              	5,117	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				5,117	0.00%		
+4	Richmond District	106	City of Colonial Heights					              	131,392	0.21%	0.06%				122,451	0.13%	0.06%				0	0.00%	0.00%				253,843	0.11%		
+4	Richmond District	116	City of Hopewell					              	106,799	0.17%	0.05%				123,006	0.13%	0.06%				0	0.00%	0.00%				229,806	0.10%		
+4	Richmond District	123	City of Petersburg					              	224,668	0.36%	0.10%				234,802	0.26%	0.11%				0	0.00%	0.00%				459,470	0.21%		
+4	Richmond District	127	City of Richmond					              	1,550,163	2.45%	0.70%				1,246,239	1.36%	0.56%				0	0.00%	0.00%				2,796,402	1.27%		
+4	Richmond District	301	Town of South Hill					              	26,671	0.04%	0.01%				52,327	0.06%	0.02%				0	0.00%	0.00%				78,998	0.04%		
+4	Richmond District		Richmond District Total:						10,862,649	17.20%	4.92%				13,189,522	14.39%	5.97%				14,121,658	21.38%	6.39%				38,173,829	17.28%		
+5	Hampton Roads District	001	Accomack County					              	262,204	0.42%	0.12%				865,264	0.94%	0.39%				0	0.00%	0.00%				1,127,468	0.51%		
+5	Hampton Roads District	040	Greensville County					              	114,649	0.18%	0.05%				177,483	0.19%	0.08%				627,808	0.95%	0.28%				919,939	0.42%		
+5	Hampton Roads District	046	Isle of Wight County					              	297,077	0.47%	0.13%				833,495	0.91%	0.38%				0	0.00%	0.00%				1,130,572	0.51%		
+5	Hampton Roads District	047	James City County					              	316,786	0.50%	0.14%				744,155	0.81%	0.34%				508,781	0.77%	0.23%				1,569,722	0.71%		
+5	Hampton Roads District	061	Nansemond Maintenance Area					              	0	0.00%	0.00%				38,747	0.04%	0.02%				345,969	0.52%	0.16%				384,717	0.17%		
+5	Hampton Roads District	064	Norfolk Maintenance Area					              	0	0.00%	0.00%				616,651	0.67%	0.28%				4,956,622	7.50%	2.24%				5,573,273	2.52%		
+5	Hampton Roads District	065	Northampton County					              	95,831	0.15%	0.04%				441,028	0.48%	0.20%				0	0.00%	0.00%				536,859	0.24%		
+5	Hampton Roads District	075	Princess Anne Maintenance Area					              	0	0.00%	0.00%				0	0.00%	0.00%				1,743,267	2.64%	0.79%				1,743,267	0.79%		
+5	Hampton Roads District	087	Southampton County					              	260,489	0.41%	0.12%				739,807	0.81%	0.33%				0	0.00%	0.00%				1,000,296	0.45%		
+5	Hampton Roads District	090	Surry County					              	57,821	0.09%	0.03%				117,444	0.13%	0.05%				0	0.00%	0.00%				175,265	0.08%		
+5	Hampton Roads District	091	Sussex County					              	96,623	0.15%	0.04%				329,375	0.36%	0.15%				580,887	0.88%	0.26%				1,006,885	0.46%		
+5	Hampton Roads District	099	York County					              	382,148	0.61%	0.17%				940,272	1.03%	0.43%				4,219,792	6.39%	1.91%				5,542,211	2.51%		
+5	Hampton Roads District	131	City of Chesapeake					              	1,822,033	2.89%	0.82%				2,041,286	2.23%	0.92%				0	0.00%	0.00%				3,863,319	1.75%		
+5	Hampton Roads District	190	Town of Chincoteague					              	47,279	0.07%	0.02%				0	0.00%	0.00%				0	0.00%	0.00%				47,279	0.02%		
+5	Hampton Roads District	109	City of Emporia					              	41,589	0.07%	0.02%				37,443	0.04%	0.02%				0	0.00%	0.00%				79,032	0.04%		
+5	Hampton Roads District	145	City of Franklin					              	67,513	0.11%	0.03%				22,411	0.02%	0.01%				0	0.00%	0.00%				89,924	0.04%		
+5	Hampton Roads District	114	City of Hampton					              	1,250,423	1.98%	0.57%				862,158	0.94%	0.39%				0	0.00%	0.00%				2,112,580	0.96%		
+5	Hampton Roads District	121	City of Newport News					              	955,356	1.51%	0.43%				1,628,157	1.78%	0.74%				0	0.00%	0.00%				2,583,513	1.17%		
+5	Hampton Roads District	122	City of Norfolk					              	855,199	1.35%	0.39%				1,872,391	2.04%	0.85%				0	0.00%	0.00%				2,727,590	1.23%		
+5	Hampton Roads District	147	City of Poquoson					              	64,293	0.10%	0.03%				55,505	0.06%	0.03%				0	0.00%	0.00%				119,799	0.05%		
+5	Hampton Roads District	124	City of Portsmouth					              	486,786	0.77%	0.22%				491,695	0.54%	0.22%				0	0.00%	0.00%				978,481	0.44%		
+5	Hampton Roads District	300	Town of Smithfield					              	56,937	0.09%	0.03%				0	0.00%	0.00%				0	0.00%	0.00%				56,937	0.03%		
+5	Hampton Roads District	133	City of Suffolk					              	539,196	0.85%	0.24%				1,873,309	2.04%	0.85%				0	0.00%	0.00%				2,412,505	1.09%		
+5	Hampton Roads District	134	City of Virginia Beach					              	3,750,389	5.94%	1.70%				2,147,483	2.34%	0.97%				0	0.00%	0.00%				5,897,872	2.67%		
+5	Hampton Roads District	137	City of Williamsburg					              	87,356	0.14%	0.04%				123,993	0.14%	0.06%				0	0.00%	0.00%				211,349	0.10%		
+5	Hampton Roads District		Hampton Roads District Total:						11,907,976	18.86%	5.39%				16,999,553	18.54%	7.70%				12,983,126	19.65%	5.88%				41,890,655	18.96%		
+6	Fredericksburg District	016	Caroline County					              	238,630	0.38%	0.11%				557,781	0.61%	0.25%				1,404,238	2.13%	0.64%				2,200,648	1.00%		
+6	Fredericksburg District	028	Essex County					              	105,502	0.17%	0.05%				306,601	0.33%	0.14%				0	0.00%	0.00%				412,102	0.19%		
+6	Fredericksburg District	036	Gloucester County					              	252,165	0.40%	0.11%				751,632	0.82%	0.34%				0	0.00%	0.00%				1,003,797	0.45%		
+6	Fredericksburg District	049	King & Queen County					              	67,045	0.11%	0.03%				207,306	0.23%	0.09%				0	0.00%	0.00%				274,351	0.12%		
+6	Fredericksburg District	048	King George County					              	81,317	0.13%	0.04%				717,720	0.78%	0.32%				0	0.00%	0.00%				799,037	0.36%		
+6	Fredericksburg District	050	King William County					              	113,471	0.18%	0.05%				277,810	0.30%	0.13%				0	0.00%	0.00%				391,281	0.18%		
+6	Fredericksburg District	051	Lancaster County					              	96,273	0.15%	0.04%				222,185	0.24%	0.10%				0	0.00%	0.00%				318,458	0.14%		
+6	Fredericksburg District	057	Mathews County					              	44,602	0.07%	0.02%				138,484	0.15%	0.06%				0	0.00%	0.00%				183,086	0.08%		
+6	Fredericksburg District	059	Middlesex County					              	71,655	0.11%	0.03%				264,825	0.29%	0.12%				0	0.00%	0.00%				336,480	0.15%		
+6	Fredericksburg District	066	Northumberland County					              	110,792	0.18%	0.05%				204,263	0.22%	0.09%				0	0.00%	0.00%				315,056	0.14%		
+6	Fredericksburg District	079	Richmond County					              	69,600	0.11%	0.03%				243,994	0.27%	0.11%				0	0.00%	0.00%				313,594	0.14%		
+6	Fredericksburg District	088	Spotsylvania County					              	1,025,956	1.62%	0.46%				1,143,827	1.25%	0.52%				1,665,811	2.52%	0.75%				3,835,593	1.74%		
+6	Fredericksburg District	089	Stafford County					              	1,108,228	1.75%	0.50%				879,529	0.96%	0.40%				2,160,748	3.27%	0.98%				4,148,504	1.88%		
+6	Fredericksburg District	096	Westmoreland County					              	140,850	0.22%	0.06%				258,853	0.28%	0.12%				0	0.00%	0.00%				399,703	0.18%		
+6	Fredericksburg District	111	City of Fredericksburg					              	158,885	0.25%	0.07%				353,552	0.39%	0.16%				0	0.00%	0.00%				512,438	0.23%		
+6	Fredericksburg District		Fredericksburg District Total:						3,684,970	5.84%	1.67%				6,528,360	7.12%	2.96%				5,230,797	7.92%	2.37%				15,444,127	6.99%		
+7	Culpeper District	002	Albemarle County					              	904,025	1.43%	0.41%				1,568,648	1.71%	0.71%				1,152,518	1.74%	0.52%				3,625,192	1.64%		
+7	Culpeper District	023	Culpeper County					              	283,993	0.45%	0.13%				865,411	0.94%	0.39%				0	0.00%	0.00%				1,149,405	0.52%		
+7	Culpeper District	030	Fauquier County					              	604,512	0.96%	0.27%				1,680,946	1.83%	0.76%				847,997	1.28%	0.38%				3,133,455	1.42%		
+7	Culpeper District	032	Fluvanna County					              	185,408	0.29%	0.08%				219,256	0.24%	0.10%				0	0.00%	0.00%				404,664	0.18%		
+7	Culpeper District	039	Greene County					              	120,477	0.19%	0.05%				304,165	0.33%	0.14%				0	0.00%	0.00%				424,643	0.19%		
+7	Culpeper District	054	Louisa County					              	308,557	0.49%	0.14%				486,110	0.53%	0.22%				501,261	0.76%	0.23%				1,295,928	0.59%		
+7	Culpeper District	056	Madison County					              	95,067	0.15%	0.04%				392,590	0.43%	0.18%				0	0.00%	0.00%				487,657	0.22%		
+7	Culpeper District	068	Orange County					              	185,099	0.29%	0.08%				511,754	0.56%	0.23%				0	0.00%	0.00%				696,853	0.32%		
+7	Culpeper District	078	Rappahannock County					              	56,189	0.09%	0.03%				221,058	0.24%	0.10%				0	0.00%	0.00%				277,246	0.13%		
+7	Culpeper District	104	City of Charlottesville					              	290,444	0.46%	0.13%				280,887	0.31%	0.13%				0	0.00%	0.00%				571,331	0.26%		
+7	Culpeper District	204	Town of Culpeper					              	146,332	0.23%	0.07%				109,968	0.12%	0.05%				0	0.00%	0.00%				256,300	0.12%		
+7	Culpeper District	275	Town of Orange					              	19,643	0.03%	0.01%				60,643	0.07%	0.03%				0	0.00%	0.00%				80,286	0.04%		
+7	Culpeper District	156	Town of Warrenton					              	51,080	0.08%	0.02%				131,980	0.14%	0.06%				0	0.00%	0.00%				183,060	0.08%		
+7	Culpeper District		Culpeper District Total:						3,250,826	5.15%	1.47%				6,833,417	7.45%	3.09%				2,501,777	3.79%	1.13%				12,586,020	5.70%		
+8	Staunton District	003	Alleghany County					              	102,099	0.16%	0.05%				123,443	0.13%	0.06%				445,275	0.67%	0.20%				670,817	0.30%		
+8	Staunton District	007	Augusta County					              	595,034	0.94%	0.27%				886,495	0.97%	0.40%				1,891,897	2.86%	0.86%				3,373,426	1.53%		
+8	Staunton District	008	Bath County					              	43,118	0.07%	0.02%				88,465	0.10%	0.04%				0	0.00%	0.00%				131,583	0.06%		
+8	Staunton District	021	Clarke County					              	126,128	0.20%	0.06%				602,988	0.66%	0.27%				0	0.00%	0.00%				729,116	0.33%		
+8	Staunton District	034	Frederick County					              	599,718	0.95%	0.27%				1,250,867	1.36%	0.57%				1,221,090	1.85%	0.55%				3,071,676	1.39%		
+8	Staunton District	045	Highland County					              	22,174	0.04%	0.01%				46,030	0.05%	0.02%				0	0.00%	0.00%				68,204	0.03%		
+8	Staunton District	069	Page County					              	128,921	0.20%	0.06%				274,772	0.30%	0.12%				0	0.00%	0.00%				403,694	0.18%		
+8	Staunton District	081	Rockbridge County					              	175,195	0.28%	0.08%				310,939	0.34%	0.14%				1,283,602	1.94%	0.58%				1,769,735	0.80%		
+8	Staunton District	082	Rockingham County					              	539,001	0.85%	0.24%				1,029,052	1.12%	0.47%				1,242,365	1.88%	0.56%				2,810,418	1.27%		
+8	Staunton District	085	Shenandoah County					              	234,048	0.37%	0.11%				409,253	0.45%	0.19%				1,481,031	2.24%	0.67%				2,124,332	0.96%		
+8	Staunton District	093	Warren County					              	153,116	0.24%	0.07%				353,711	0.39%	0.16%				446,615	0.68%	0.20%				953,442	0.43%		
+8	Staunton District	176	Town of Bridgewater					              	40,352	0.06%	0.02%				46,560	0.05%	0.02%				0	0.00%	0.00%				86,912	0.04%		
+8	Staunton District	103	City of Buena Vista					              	22,396	0.04%	0.01%				34,502	0.04%	0.02%				0	0.00%	0.00%				56,898	0.03%		
+8	Staunton District	105	Town of Clifton Forge					              	17,509	0.03%	0.01%				18,793	0.02%	0.01%				0	0.00%	0.00%				36,302	0.02%		
+8	Staunton District	107	City of Covington					              	21,741	0.03%	0.01%				50,407	0.05%	0.02%				0	0.00%	0.00%				72,148	0.03%		
+8	Staunton District	216	Town of Elkton					              	9,400	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				9,400	0.00%		
+8	Staunton District	112	Town of Front Royal					              	97,176	0.15%	0.04%				118,597	0.13%	0.05%				0	0.00%	0.00%				215,773	0.10%		
+8	Staunton District	228	Town of Grottoes					              	7,592	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				7,592	0.00%		
+8	Staunton District	115	City of Harrisonburg					              	257,955	0.41%	0.12%				280,452	0.31%	0.13%				0	0.00%	0.00%				538,407	0.24%		
+8	Staunton District	117	City of Lexington					              	19,491	0.03%	0.01%				35,882	0.04%	0.02%				0	0.00%	0.00%				55,373	0.03%		
+8	Staunton District	159	Town of Luray					              	16,122	0.03%	0.01%				31,112	0.03%	0.01%				0	0.00%	0.00%				47,234	0.02%		
+8	Staunton District	132	City of Staunton					              	101,182	0.16%	0.05%				186,367	0.20%	0.08%				0	0.00%	0.00%				287,548	0.13%		
+8	Staunton District	306	Town of Strasburg					              	11,395	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				11,395	0.01%		
+8	Staunton District	136	City of Waynesboro					              	141,452	0.22%	0.06%				143,750	0.16%	0.07%				0	0.00%	0.00%				285,201	0.13%		
+8	Staunton District	138	City of Winchester					              	231,192	0.37%	0.10%				134,136	0.15%	0.06%				0	0.00%	0.00%				365,328	0.17%		
+8	Staunton District	330	Town of Woodstock					              	14,927	0.02%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				14,927	0.01%		
+8	Staunton District		Staunton District Total:						3,728,433	5.90%	1.69%				6,456,573	7.04%	2.92%				8,011,876	12.13%	3.63%				18,196,881	8.24%		
+9	Northern Virginia District	000	Arlington County					              	1,191,869	1.89%	0.54%				1,264,130	1.38%	0.57%				1,483,642	2.25%	0.67%				3,939,641	1.78%		
+9	Northern Virginia District	029	Fairfax County					              	8,137,765	12.89%	3.68%				8,578,520	9.36%	3.88%				9,608,500	14.54%	4.35%				26,324,785	11.92%		
+9	Northern Virginia District	053	Loudoun County					              	2,529,132	4.00%	1.14%				3,277,613	3.57%	1.48%				0	0.00%	0.00%				5,806,745	2.63%		
+9	Northern Virginia District	076	Prince William County					              	3,090,155	4.89%	1.40%				2,979,366	3.25%	1.35%				3,167,438	4.79%	1.43%				9,236,959	4.18%		
+9	Northern Virginia District	100	City of Alexandria					              	542,709	0.86%	0.25%				592,787	0.65%	0.27%				0	0.00%	0.00%				1,135,496	0.51%		
+9	Northern Virginia District	212	Town of Dumfries					              	6,145	0.01%	0.00%				0	0.00%	0.00%				0	0.00%	0.00%				6,145	0.00%		
+9	Northern Virginia District	151	City of Fairfax					              	105,618	0.17%	0.05%				394,624	0.43%	0.18%				0	0.00%	0.00%				500,242	0.23%		
+9	Northern Virginia District	110	City of Falls Church					              	56,812	0.09%	0.03%				100,629	0.11%	0.05%				0	0.00%	0.00%				157,441	0.07%		
+9	Northern Virginia District	235	Town of Herndon					              	168,266	0.27%	0.08%				36,568	0.04%	0.02%				0	0.00%	0.00%				204,834	0.09%		
+9	Northern Virginia District	253	Town of Leesburg					              	333,376	0.53%	0.15%				160,760	0.18%	0.07%				0	0.00%	0.00%				494,136	0.22%		
+9	Northern Virginia District	155	City of Manassas					              	559,416	0.89%	0.25%				169,748	0.19%	0.08%				0	0.00%	0.00%				729,164	0.33%		
+9	Northern Virginia District	152	City of Manassas Park					              	38,150	0.06%	0.02%				30,215	0.03%	0.01%				0	0.00%	0.00%				68,365	0.03%		
+9	Northern Virginia District	286	Town of Purcellville					              	25,079	0.04%	0.01%				0	0.00%	0.00%				0	0.00%	0.00%				25,079	0.01%		
+9	Northern Virginia District	153	Town of Vienna					              	153,236	0.24%	0.07%				89,779	0.10%	0.04%				0	0.00%	0.00%				243,015	0.11%		
+9	Northern Virginia District		Northern Virginia District Total:						16,937,727	26.82%	7.67%				17,674,740	19.28%	8.00%				14,259,580	21.58%	6.46%				48,872,047	22.12%		
+O	Other	US 	Federal					              	1,559,931	2.47%	0.71%				1,674,333	1.83%	0.76%				0	0.00%	0.00%				3,234,263	1.46%		
+O	Other	TOL	Other Toll					              	0	0.00%	0.00%				667,524	0.73%	0.30%				0	0.00%	0.00%				667,524	0.30%		
+O	Other		Other Total:						1,559,931	2.47%	0.71%				2,341,856	2.55%	1.06%				0	0.00%	0.00%				3,901,787	1.77%		
+									63,150,597	100.00%	28.59%				91,682,123	100.00%	41.50%				66,066,085	100.00%	29.91%				220,898,804	100.00%		
+
+
+
+'Secondary' includes those routes in the VDOT secondary system,  (unnumbered) routes maintained by Arlington and Henrico Counties and unnumbered routes maintained by cities and towns.
+'Primary' includes those routes designated as 'US', 'SR' (Virginia State Route) and Frontage Roads.
+'Primary' also includes the named federal parkways (George Washington Pkwy, Colonial Pkwy, Blue Ridge Pkwy, Skyline Drive) and the Dulles Access road.
+'Interstate' includes those routes in the Interstate System.
+
+VDOT maintains all facilities summarized in this report except those summarized in the Secondary columns for Arlington and Henrico counties and those summarized in all columns for cities, towns, the federal government and other (local and private toll roads).																														
+Road Length values temporarilly not included in this report pending publication of official road length values.
+Maintenance Jurisdiction DVMT report totals do not match Physical Jurisdiction DVMT report totals because of maintenance responsibility outside Virginia (North Carolina and West Virginia).
+DVMT and road length totals ARE NOT EXPECTED to match totals reported to and published by FHWA because of VDOT maintainance of roads outside of Virginia (North Carolina and West Virginia).
+
+ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012		ReportID:	2200	DataYear:	2012	Prepared	8/6/2013

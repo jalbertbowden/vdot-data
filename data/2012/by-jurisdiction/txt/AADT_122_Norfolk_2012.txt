@@ -1,0 +1,618 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2012																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Norfolk																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+654196	  US	00013	     	US 13	Military Highway	122	City of Norfolk	122	City of Norfolk	0.85	WCL Virginia Beach	I-264	46000	F	98%	0%	1%	0%	0%	0%	C	0.1012	F	0.6408	49000	F	2012
+654197	  US	00013	     	US 13	Military Highway	122	City of Norfolk	122	City of Norfolk	0.95	I-264	US 58 Virginia Beach Blvd	45000	F	97%	1%	1%	0%	1%	0%	F	0.0861	F	0.6002	48000	F	2012
+654198	  US	00013	     	US 13	Military Highway	122	City of Norfolk	122	City of Norfolk	1.23	US 58 Virginia Beach Blvd	SR 165, SR 166 Princess Anne Rd	42000	F	97%	1%	1%	0%	1%	0%	C	0.0771	F	0.5551	44000	F	2012
+654199	  US	00013	     	US 13, VA 165, VA 166	Northampton Blvd	122	City of Norfolk	122	City of Norfolk	0.26	SR 165; SR 166	SR 165 Kempsville Rd	32000	F	97%	1%	1%	0%	1%	0%	F	0.0872	F	0.5866	34000	F	2012
+654208	  US	00013	     	US 13, VA 166	Northampton Blvd	122	City of Norfolk	122	City of Norfolk	0.62	SR 165 Kempsville Rd	I-64	34000	F	97%	0%	1%	0%	2%	0%	F	0.0915	F	0.6019	35000	F	2012
+654142	  US	00013	     	US 13, VA 166	Northampton Blvd	122	City of Norfolk	122	City of Norfolk	0.20	I-64	WCL Virginia Beach	81000	F	97%	0%	1%	0%	2%	0%	F	0.0805	F	0.5571	84000	F	2012
+781505	  US	00013	 045A	US 13 Exit 045A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	US 13-N045A US 13-S045A FROM RT 1	I-64-E FROM RT 13	24000	F							X	0.0946	F	1.0000	24000	F	2012
+781506	  US	00013	N045A	US 13 NB Exit 045A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.22	US 13 TO I-64 WEST	US 13-S045A US 13- 45A FROM RT 1	0	?							X
+789904	  US	00013	N047A	US 13 NB Exit 047A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.19	US 13 TO ROUTE 264 EAST COLL RD	I-264-E013X FROM RT 13 NORTH-MILITARY H	8900	F							X	0.1137	F	1.0000	8900	F	2012
+789905	  US	00013	N047B	US 13 NB Exit 047B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.10	US 13 TO ROUTE 264 WEST COLL RD	I-264-W013X FROM ROUTE 13 NORTH00- MILIT	2800	F							X	0.1283	F	1.0000	2800	F	2012
+781507	  US	00013	S045A	US 13 SB Exit 045A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.08	US 13 TO I-64	US 13-S045B TO RT 64 EAST & WEST?	29000	F							X	0.0864	F	1.0000	29000	F	2012
+798095	  US	00013	S045A	US 13 SB Exit 045A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.35	US 13-S045B TO RT 64 EAST & WEST?	US 13-N045A US 13- 45A FROM RT 1	0	?							X
+781508	  US	00013	S045B	US 13 SB Exit 045B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.19	US 13-S045A TO I-64 EAST & WEST	I-64-W FROM RT 13 SOUTH	0	?							X
+789906	  US	00013	S047A	US 13 SB Exit 047A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	US 13 TO ROUTE 264 EAST COLL RD	I-264-E013X FROM RT 13 SOUTH-MILITARY H	9500	F							X	0.0864	F	1.0000	9500	F	2012
+789907	  US	00013	S047B	US 13 SB Exit 047B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.19	US 13 TO ROUTE 264 WEST COLL RD	I-264-W013X FROM ROUTE 13 SOUTH00- MILIT	7500	F							X	0.0961	F	1.0000	7500	F	2012
+781531	  US	00058	     	US 58	Elizabeth River Midtown Tunnel	122	City of Norfolk	064	Norfolk Maintenance Area	0.65	ECL Portsmouth	SR 337 Brambleton Ave	35000	A	96%	0%	0%	1%	2%	0%	C	0.0913	A	0.5086	40000	A	2012
+654148	  US	00058	     	VA 337, US 58	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.26	SR 337	Colley Ave	28000	F	96%	0%	0%	1%	2%	0%	F	0.0746	F	0.5666	32000	F	2012	
+654120	  US	00058	     	VA 337, US 58	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.83	Colley Ave	E SR 337	35000	F	96%	0%	0%	1%	2%	0%	F	0.0715	F	0.6380	40000	F	2012	
+050434	  US	00058	     	US 58	Duke St	122	City of Norfolk	122	City of Norfolk	0.17	E SR 337 Brambleton Ave	Olney Rd	9000	F	95%	1%	1%	1%	1%	0%	F	0.0828	F	0.7537	9600	F	2012
+654257	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	0.07	Olney Rd	Boush Street	6000	F	95%	1%	1%	1%	1%	0%	F	0.0858	F	0.6739	6400	F	2012
+150146	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	0.24	Boush Street	US 460 Monticello Ave; St Pauls Blvd	5500	F	95%	1%	1%	1%	1%	0%	F	0.0887	F	0.5323	5800	F	2012
+654258	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	0.70	Monticello Ave	SR 168 Tidewater Dr	14000	F	95%	1%	1%	1%	1%	0%	F	0.0922	F	0.5909	15000	F	2012
+654259	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	0.53	SR 168 Tidewater Dr	Park Ave	15000	F	95%	1%	1%	1%	1%	0%	C	0.0992	F	0.5223	16000	F	2012
+654260	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	0.96	Park Ave	SR 405 Ballentine Blvd	17000	F	95%	2%	1%	1%	1%	0%	C	0.0898	F	0.5157	18000	F	2012
+654261	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	0.88	SR 405 Ballentine Blvd	Azalea Garden Rd	30000	F	95%	2%	1%	1%	1%	0%	F	0.0857	F	0.5520	32000	F	2012
+654262	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	1.35	Azalea Garden Rd	US 13 Military Hwy	29000	F	95%	2%	1%	1%	1%	0%	F	0.0979	F	0.6353	31000	F	2012
+654263	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	0.79	US 13 Military Hwy	SR 165 Kempsville Rd	27000	F	98%	1%	1%	0%	0%	0%	F	0.0881	F	0.5147	29000	F	2012
+654264	  US	00058	     	US 58	Virginia Beach Blvd	122	City of Norfolk	122	City of Norfolk	0.93	SR 165 Kempsville Rd	WCL Va Beach; Newtown Rd	28000	F	98%	1%	1%	0%	0%	0%	C	0.0972	F	0.5390	30000	F	2012
+781545	  US	00060	     	US 60 Exit 274A, US 60, VA 143	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	I-64	I-64-E FROM RTS 60 & 143SETTLERS LAND	6100	F	95%	0%	1%	1%	3%	0%	F	0.1240	F	1.0000	6200	F	2012	
+050151	  US	00060	     	I-64 EB, US 60	Hampton Roads Bridge Tunnel	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	ECL Hampton	Bayville St	44000	F	96%	1%	1%	0%	2%	0%	C	0.0832	A	1.0000	45000	F	2012		86000	F	97%	1%	1%	0%	2%	0%	C				89000	F
+050303	  US	00060	     	I-64 EB, US 60	Hampton Roads Beltway	122	City of Norfolk	064	Norfolk Maintenance Area	1.74	Bayville St	4th View St	43000	F	96%	1%	1%	0%	2%	0%	F	0.0720	F	1.0000	44000	F	2012		86000	F	96%	1%	1%	0%	3%	0%	F	0.0688	F	0.5400	89000	F
+781052	  US	00060	     	I-64 EB Exit 273A, US 60	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	I-64-E TO 4TH VIEW ST	I-64 W	5500	F							X	0.1300	F	1.0000	5500	F	2012	
+050286	  US	00060	     	US 60	4th View St	122	City of Norfolk	064	Norfolk Maintenance Area	0.25	I-64	Ocean View Ave East	12000	F	98%	1%	1%	0%	0%	0%	C	0.0813	F	0.6281	13000	F	2012
+654216	  US	00060	     	US 60	Ocean View Ave East	122	City of Norfolk	122	City of Norfolk	0.95	4th View St	US 460 Granby St	13000	F	98%	0%	1%	0%	0%	0%	C	0.1196	F	0.5247	14000	F	2012
+654220	  US	00060	     	US 60	Ocean View Ave East	122	City of Norfolk	122	City of Norfolk	0.47	US 460 Granby St	SR 194 Chesapeake Blvd	17000	F	98%	0%	1%	0%	0%	0%	F	0.0942	F	0.5975	18000	F	2012
+654217	  US	00060	     	US 60	Ocean View Ave East	122	City of Norfolk	122	City of Norfolk	1.41	SR 194 Chesapeake Blvd	122-8618 Cape View Ave	14000	F	98%	0%	1%	0%	0%	0%	F	0.0945	F	0.5865	15000	F	2012
+654218	  US	00060	     	US 60	Ocean View Ave East	122	City of Norfolk	122	City of Norfolk	1.67	122-8618 Cape View Ave	21st Street	16000	F	98%	0%	1%	0%	0%	0%	F	0.0881	F	0.5296	17000	F	2012
+654241	  US	00060	     	US 60	Shore Dr	122	City of Norfolk	122	City of Norfolk	0.88	21st Street	SR 170 Little Creek Rd	22000	F	98%	1%	1%	0%	0%	0%	C	0.0907	F	0.5248	23000	F	2012
+654242	  US	00060	     	US 60	Shore Dr	122	City of Norfolk	122	City of Norfolk	0.97	SR 170 Little Creek Rd	WCL Virginia Beach	32000	F	99%	0%	0%	0%	0%	0%	F	0.0897	F	0.7285	33000	F	2012
+781545	  US	00060	 274A	US 60 Exit 274A, US 60, VA 143	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	US 60 Settlers Landing Rd	I-64 East	6100	F	95%	0%	1%	1%	3%	0%	F	0.1240	F	1.0000	6200	F	2012
+781547	  US	00060	 281A	US 60 Exit 281A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	I-64-E273A US 60 FROM & TO IS 64	I-64-E FROM 4TH VIEW STRT 60	2500	F							X	0.1195	F	1.0000	2500	F	2012
+781548	  US	00060	 281B	US 60 Exit 281B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.18	US 60 I-64-W273A FROM & TO IS 64	I-64-W FROM 4TH VIEW STREETRT 60	6800	F							X	0.1356	F	1.0000	6800	F	2012
+781883	 2US	00060	P    	US 60 Par Exit 004A, US 60 Par	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.03	I-64-W FROM OCEAN VIEW AVE60 PARALLEL	I-64 W	970	F							X	0.1239	F	1.0000	970	F	2012	
+654215	 2US	00060	P    	US 60 Par	Ocean View Ave	122	City of Norfolk	122	City of Norfolk	1.96	I-64 W	4th View St	6200	F	98%	1%	1%	0%	0%	0%	C	0.1240	F	0.8763	6600	F	2012
+781883	 2US	00060	P004A	US 60 Par Exit 004A, US 60 Par	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.03	2US 60-P I-64-W272A OCEAN VIEW A	I-64-W FROM OCEAN VIEW AVE60 PARALLEL	970	F							X	0.1239	F	1.0000	970	F	2012
+050151	  IS	00064	E    	I-64 EB, US 60	Hampton Roads Bridge Tunnel	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	ECL Hampton	Bayville St	44000	F	96%	1%	1%	0%	2%	0%	C	0.0832	A	1.0000	45000	F	2012		86000	F	97%	1%	1%	0%	2%	0%	C				89000	F
+050303	  IS	00064	E    	I-64 EB, US 60	Hampton Roads Beltway	122	City of Norfolk	064	Norfolk Maintenance Area	1.74	Bayville St	4th View St	43000	F	96%	1%	1%	0%	2%	0%	F	0.0720	F	1.0000	44000	F	2012		86000	F	96%	1%	1%	0%	3%	0%	F	0.0688	F	0.5400	89000	F
+050167	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.30	4th View St	Bay Ave	42000	F	96%	1%	1%	0%	2%	0%	F	0.0720	F	1.0000	43000	F	2012		80000	F	96%	1%	1%	0%	2%	0%	F	0.0696	F	0.5465	82000	F
+050304	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.09	Bay Ave	New Gate Rd	47000	F	96%	1%	1%	0%	2%	0%	F	0.0692	F	1.0000	49000	F	2012		90000	F	96%	1%	1%	0%	2%	0%	F	0.0706	F	0.5191	93000	F
+050392	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.31	New Gate Rd	I-564, US 460 Granby St	47000	F	96%	1%	1%	0%	2%	0%	F	0.0696	F	1.0000	49000	F	2012		86000	F	96%	1%	1%	0%	2%	0%	F	0.0716	F	0.5383	88000	F
+050165	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.38	I-564, US 460 Granby St	SR 168 Tidewater Dr	48000	A	97%	0%	1%	1%	2%	0%	F	0.1141	A	1.0000	53000	A	2012		121000	G	98%	0%	0%	0%	1%	0%	F	0.0046	B	0.0000	134000	G
+050305	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.04	SR 168 Tidewater Dr	SR 194 Chesapeake Blvd	53000	F	97%	0%	1%	1%	2%	0%	F				58000	F	2012		132000	G	98%	0%	0%	0%	1%	0%	F				145000	G
+050306	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.00	SR 194 Chesapeake Blvd	SR 247 Norview Ave	62000	G	97%	0%	1%	1%	2%	0%	F				62000	G	2012		148000	G	98%	0%	0%	0%	1%	0%	F				156000	G
+050307	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.26	SR 247 Norview Ave	SR 165 Military Hwy	64000	F	97%	0%	1%	1%	2%	0%	F				70000	F	2012		154000	G	97%	0%	0%	0%	1%	0%	F				168000	G
+050155	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.19	SR 165 Military Hwy	US 13, SR 166 Northampton Blvd	55000	F	97%	0%	1%	1%	2%	0%	F	0.0890	F	1.0000	60000	F	2012		145000	G	97%	0%	0%	0%	1%	0%	F				158000	G
+050308	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.74	US 13, SR 166 Northampton Blvd	I-264	69000	F	97%	0%	1%	1%	2%	0%	F	0.0778	F	1.0000	75000	F	2012		174000	G	97%	0%	0%	0%	1%	0%	F				186000	G
+050169	  IS	00064	E    	I-64 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.34	I-264	WCL Virginia Beach	68000	A	97%	0%	1%	1%	2%	0%	C	0.1110	A	1.0000	74000	A	2012		136000	A	97%	0%	1%	1%	2%	0%	C				147000	A
+781051	  IS	00064	E272A	I-64 EB Exit 272A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.03	I-64-E TO BAYVILLE STREET	122-99001- A BAYVILLE STREET FROM &	1600	F	98%	1%	1%	0%	0%	0%	F	0.1332	F	1.0000	1700	F	2012
+781052	  IS	00064	E273A	I-64 EB Exit 273A, US 60	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	I-64-E TO 4TH VIEW ST	US 60 US 60- 281A FROM & TO I-64	5500	F							X	0.1300	F	1.0000	5500	F	2012
+781053	  IS	00064	E276A	I-64 EB Exit 276A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.14	I-64-E TO US 460-GRANDBY ST & RT 564 N	I-64-E276B TO RT 460 GRANDBY ST	0	?							X
+797856	  IS	00064	E276A	I-64 EB Exit 276A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.15	I-64-E276B TO RT 460 GRANDBY ST	I-564-N FROM RT 64 EAST	0	?							X
+781054	  IS	00064	E276B	I-64 EB Exit 276B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.06	I-64-E276A TO US 460 GRANDBY ST	US 460 FROM I-64 EAST	0	?							X
+781055	  IS	00064	E276C	I-64 EB Exit 276C	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.04	I-64-E TO H.O.V. LANE	I-64-R I-64-R000A FROM 64 EAST	0	?							X
+781056	  IS	00064	E277A	I-64 EB Exit 277A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.35	I-64-E RAMP TO RT 168 TO RT 16800- T	SR 168 FROM I-64 EAST	8000	F							X	0.1174	F	1.0000	8000	F	2012
+781057	  IS	00064	E277B	I-64 EB Exit 277B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	I-64-E TO RT 168 NORTH-TIDEWATER DRIVE	SR 168 FROM I-64 EAST	1800	F							X	0.0901	F	1.0000	1800	F	2012
+781058	  IS	00064	E278A	I-64 EB Exit 278A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.18	I-64-E TO RT 194 SOUTH-CHESAPEAKE BLVD	SR 194 FROM I-64 EAST	2900	F							X	0.0939	F	1.0000	2900	F	2012
+781059	  IS	00064	E279A	I-64 EB Exit 279A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	I-64-E TO RT 247 EAST-NORVIEW AVENUE	SR 247 FROM I-64 EAST	3500	F							X	0.0816	F	1.0000	3500	F	2012
+781060	  IS	00064	E281A	I-64 EB Exit 281A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.16	I-64-E TO ROBIN HOOD ROAD	122-8636 ALMEDA AVE FROM RT 64 EAST	2800	F							X	0.1151	F	1.0000	2800	F	2012
+790801	  IS	00064	E281B	I-64 EB Exit 281B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	I-64-E TO RT 16500- MILITARY HIGHWAY	SR 165 FROM RT 64 EAST	7700	F							X	0.0862	F	1.0000	7700	F	2012
+781061	  IS	00064	E282A	I-64 EB Exit 282A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.19	I-64-E TO RT 13 NORTH	US 13 FROM I-64 EAST	11000	F							X	0.0943	F	1.0000	11000	F	2012
+781062	  IS	00064	E284A	I-64 EB Exit 284A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.16	I-64-E TO I-264	I-64-E284C TO RT 264 EAST264 WESTR	38000	F							X	0.0728	F	1.0000	38000	F	2012
+797857	  IS	00064	E284A	I-64 EB Exit 284A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.14	I-64-E284C TO RT 264 EAST264 WESTR	I-264-W013X FROM RT 64 EAST	0	?							X
+781063	  IS	00064	E284B	I-64 EB Exit 284B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	I-64-E TO I-264 EAST44	I-264-E013X FROM I-64 EAST	0	?							X
+783338	  IS	00064	E284C	I-64 EB Exit 284C	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.45	I-64-E284A TO RT 264 EAST264 WEST	I-264-E From RT 64 East	0	?							X
+150112	  IS	00064	R    	I-64 Rev	 	122	City of Norfolk	064	Norfolk Maintenance Area	5.99	Begin Reversible Lane At I-564	Ramp To I-64 EB	22000	G	100%	0%	0%	0%	0%	0%	C	0.1847	B	1.0000	27000	G	2012		154000	G	97%	0%	0%	0%	1%	0%	F				168000	G
+150113	  IS	00064	R    	I-64 Rev	 	122	City of Norfolk	064	Norfolk Maintenance Area	2.18	Ramp To I-64 EB	Temp End Reversible Lane	25000	G	100%	0%	0%	0%	0%	0%	F				25000	G	2012		174000	G	97%	0%	0%	0%	1%	0%	F				186000	G
+781076	  IS	00064	R000A	I-64 Rev Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.24	I-64-E276C I-64-R FROM 64 EAST	I-64-W FROM H.O.V. LANEPM	0	?							X
+781077	  IS	00064	R006A	I-64 Rev Exit 006A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.02	I-64-R TO IS 64 EAST	I-64-E FROM HOV LANE	0	?							X
+781078	  IS	00064	R008A	I-64 Rev Exit 008A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	I-64-R I-64-W285A TO & FROM RT	I-64-E FROM H.O.V.LANEMEDIAN	0	?							X
+150309	  IS	00064	W    	I-64 WB, US 60	Hampton Roads Bridge Tunnel	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	ECL Hampton	US 60 Ocean View Ave	42000	A	97%	0%	1%	0%	2%	0%	C	0.1305	A	1.0000	44000	A	2012		86000	F	97%	1%	1%	0%	2%	0%	C				89000	F
+150060	  IS	00064	W    	I-64 WB, US 60	Hampton Roads Beltway	122	City of Norfolk	064	Norfolk Maintenance Area	2.00	US 60 Ocean View Ave	4th View St	44000	F	96%	1%	1%	1%	3%	0%	F	0.0718	F	1.0000	45000	F	2012		86000	F	96%	1%	1%	0%	3%	0%	F	0.0688	F	0.5400	89000	F
+150061	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.80	4th View St	Bay Ave	39000	F	96%	1%	1%	1%	3%	0%	F	0.0691	F	1.0000	40000	F	2012		80000	F	96%	1%	1%	0%	2%	0%	F	0.0696	F	0.5465	82000	F
+150062	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.90	Bay Ave	New Gate Rd	43000	F	96%	1%	1%	1%	3%	0%	F	0.0740	F	1.0000	44000	F	2012		90000	F	96%	1%	1%	0%	2%	0%	F	0.0706	F	0.5191	93000	F
+150063	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.26	New Gate Rd	I-564, US 460 Granby St	39000	F	96%	1%	1%	1%	3%	0%	F	0.0782	F	1.0000	39000	F	2012		86000	F	96%	1%	1%	0%	2%	0%	F	0.0716	F	0.5383	88000	F
+150064	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.92	I-564, US 460 Granby St	SR 168 Tidewater Dr	51000	F	98%	0%	1%	0%	1%	0%	F	0.1135	F	1.0000	54000	F	2012		121000	G	98%	0%	0%	0%	1%	0%	F				134000	G
+150065	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.98	SR 168 Tidewater Dr	SR 194 Chesapeake Blvd	57000	A	98%	0%	1%	0%	1%	0%	C	0.1111	A	1.0000	60000	A	2012		132000	G	98%	0%	0%	0%	1%	0%	F				145000	G
+150066	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.96	SR 194 Chesapeake Blvd	SR 247 Norview Ave	64000	F	98%	0%	1%	0%	1%	0%	F	0.0920	F	1.0000	68000	F	2012		148000	G	98%	0%	0%	0%	1%	0%	F				156000	G
+150067	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.24	SR 247 Norview Ave	SR 165 Military Hwy	68000	A	97%	0%	1%	1%	1%	0%	F	0.0956	A	1.0000	71000	A	2012		154000	G	97%	0%	0%	0%	1%	0%	F				168000	G
+150068	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.07	SR 165 Military Hwy	US 13, SR 166 Northampton Blvd	68000	F	97%	0%	1%	1%	1%	0%	F	0.0939	A	1.0000	71000	F	2012		145000	G	97%	0%	0%	0%	1%	0%	F				158000	G
+150069	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	2.20	US 13, SR 166 Northampton Blvd	I-264	80000	F	97%	0%	1%	1%	1%	0%	F	0.0857	F	1.0000	86000	F	2012		174000	G	97%	0%	0%	0%	1%	0%	F				186000	G
+850070	  IS	00064	W    	I-64 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.83	I-264	WCL Virginia Beach	67000	A	97%	0%	1%	1%	1%	0%	C	0.1012	A	1.0000	72000	A	2012		136000	A	97%	0%	1%	1%	2%	0%	C				147000	A
+781169	  IS	00064	W272A	I-64 WB Exit 272A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.03	I-64-W TO OCEAN VIEW AVENUE60 PARALLE	2US 60-P; 2US 60-P004A OCEAN VIEW	490	F							X	0.1020	F	1.0000	490	F	2012
+781170	  IS	00064	W273A	I-64 WB Exit 273A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.18	I-64-W TO 4TH VIEW STREETRT 60	US 60 US 60- 281B FROM & TO I-64	1800	F							X	0.0814	F	1.0000	1800	F	2012
+781171	  IS	00064	W274A	I-64 WB Exit 274A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.15	I-64-W TO BAY AVENUE	122-8623 FROM I-64 WEST	0	?							X
+781172	  IS	00064	W276A	I-64 WB Exit 276A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	I-64-W TO US 46000- GRANDBY ST	US 460 FROM I-64 WEST	3900	F							X	0.1532	F	1.0000	3900	F	2012
+781173	  IS	00064	W276C	I-64 WB Exit 276C	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.26	I-64 West	SR 165 Little Creek Rd	23000	F							X	0.0780	F	1.0000	23000	F	2012
+781174	  IS	00064	W277A	I-64 WB Exit 277A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	I-64-W TO RT 168 SOUTH-TIDEWATER DRIVE	SR 168 FROM I-64 WEST	4600	F							X	0.1089	F	1.0000	4600	F	2012
+781175	  IS	00064	W277B	I-64 WB Exit 277B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.21	I-64-W TO RT 168 NORTH-TIDEWATER DRIVE	SR 168 FROM I-64 WEST	4500	F							X	0.1325	F	1.0000	4500	F	2012
+781176	  IS	00064	W278A	I-64 WB Exit 278A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.25	I-64-W TO RT 194 NORTH-CHESAPEAKE BLVD	SR 194 FROM I-64 WEST	8800	F							X	0.1152	F	1.0000	8800	F	2012
+781177	  IS	00064	W279A	I-64 WB Exit 279A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.18	I-64-W TO RT 247 WEST00- NORVIEW Ave	SR 247 FROM I-64 WEST	3700	F							X	0.1301	F	1.0000	3700	F	2012
+781178	  IS	00064	W279B	I-64 WB Exit 279B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	I-64-W TO RT 247 WEST-NORVIEW AVENUE	SR 247 FROM I-64 WEST	4900	F							X	0.0871	F	1.0000	4900	F	2012
+781179	  IS	00064	W281A	I-64 WB Exit 281A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.20	I-64-W TO RT 165MILITARY HGWY VIA RO	ROBIN HOOD ROAD	9000	F							X	0.0866	F	1.0000	9000	F	2012
+781180	  IS	00064	W282A	I-64 WB Exit 282A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	I-64-W TO RT 13	I-64-W282B TO RT 13 SOUTH	24000	F							X	0.0913	F	1.0000	24000	F	2012
+797876	  IS	00064	W282A	I-64 WB Exit 282A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.04	I-64-W282B TO RT 13 SOUTH	US 13 FROM RT 64 WEST	0	?							X
+781181	  IS	00064	W282B	I-64 WB Exit 282B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.03	I-64-W282A TO RT 13 SOUTH	WCL Virginia Beach	0	?							X
+781182	  IS	00064	W283A	I-64 WB Exit 283A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	I-64-W TO H.O.V. LANE	I-64-R FROM I-64 WEST	3100	F							X	0.1847	F	1.0000	3100	F	2012
+781183	  IS	00064	W284A	I-64 WB Exit 284A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	I-64-W TO I-264 WEST	I-264-W013X FROM I-64 WEST	8700	F							X	0.0965	F	1.0000	8700	F	2012
+781184	  IS	00064	W284B	I-64 WB Exit 284B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.23	I-64-W TO I-264 EAST44	I-264-E013X FROM I-64 WEST	26000	F							X	0.0796	F	1.0000	26000	F	2012
+781185	  IS	00064	W285A	I-64 WB Exit 285A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	I-64-W TO H.O.V.LANEMEDIAN	I-64-R I-64-R008A TO & FROM RT	0	?							X
+654174	  SR	00165	     	VA 165	Kempsville Rd	122	City of Norfolk	122	City of Norfolk	1.00	WCL Virginia Beach, SR 403 Newtown Rd	US 58 Virginia Beach Blvd	20000	F	98%	1%	1%	0%	0%	0%	C	0.0951	F	0.6411	21000	F	2012
+654175	  SR	00165	     	VA 165	Kempsville Rd	122	City of Norfolk	122	City of Norfolk	1.57	US 58 Virginia Beach Blvd	US 13 Northampton Blvd	12000	F	98%	1%	1%	0%	0%	0%	F	0.0966	F	0.5375	13000	F	2012
+654199	  SR	00165	     	US 13, VA 165, VA 166	Northampton Blvd	122	City of Norfolk	122	City of Norfolk	0.26	Kempsville Rd	SR 166, US13	32000	F	97%	1%	1%	0%	1%	0%	F	0.0872	F	0.5866	34000	F	2012	
+150190	  SR	00165	     	VA 165	Military Hwy North	122	City of Norfolk	122	City of Norfolk	0.62	US 13 Northampton Blvd; SR 166 Princess Anne Rd	I-64	43000	F	97%	1%	1%	0%	0%	0%	F	0.0802	F	0.5021	46000	F	2012
+654200	  SR	00165	     	VA 165	Military Hwy North	122	City of Norfolk	122	City of Norfolk	0.60	I-64	SR 192 Azalea Garden Rd	12000	F	97%	1%	1%	0%	0%	0%	F	0.0807	F	0.6216	13000	F	2012
+654201	  SR	00165	     	VA 165	Military Hwy North	122	City of Norfolk	122	City of Norfolk	0.39	SR 192 Azalea Garden Rd	SR 247 Norview Ave	23000	F	97%	1%	1%	0%	0%	0%	C	0.0818	F	0.5466	25000	F	2012
+654202	  SR	00165	     	VA 165	Military Hwy North	122	City of Norfolk	122	City of Norfolk	1.65	SR 247 Norview Ave	SR 170 Little Creek Rd	23000	F	97%	1%	1%	0%	0%	0%	F	0.0842	F	0.5381	24000	F	2012
+654603	  SR	00165	     	VA 165	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	0.12	SR 170 Little Creek Rd	SR 194 Chesapeake Blvd	34000	F	97%	1%	1%	1%	1%	0%	F	0.0809	F	0.5065	38000	F	2012
+654184	  SR	00165	     	VA 165	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	0.58	SR 194 Chesapeake Blvd	Tidewater & Sewells Point Rd	25000	F	97%	1%	1%	1%	1%	0%	F	0.0792	F	0.5449	27000	F	2012
+654183	  SR	00165	     	VA 165	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	0.86	Tidewater & Sewells Point Rd	NHS Change	21000	F	97%	1%	1%	1%	1%	0%	F	0.0940	F	0.6735	23000	F	2012
+654182	  SR	00165	     	VA 165	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	0.36	I-64	US 460 Granby St	21000	F	97%	1%	1%	1%	1%	0%	F	0.0793	F	0.5247	23000	F	2012
+654181	  SR	00165	     	VA 165	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	1.19	US 460 Granby St	Diven St	22000	G	99%	1%	1%	0%	0%	0%	C				21000	G	2012
+654604	  SR	00165	     	VA 165	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	0.78	Diven St	SR 337 Hampton Blvd	14000	G	99%	1%	1%	0%	0%	0%	F				15000	G	2012
+782960	  SR	00165	 038A	VA 165 Exit 038A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	SR 165 I-564-S000A FROM RT 564 SOU	I-64-E FROM RT 165 NORTH & SOUTH	5700	F							X	0.0774	F	1.0000	5700	F	2012
+781364	  SR	00165	N034A	VA 165 NB Exit 034A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	SR 165 TO I-64 WEST	122-99026- A RROM ROBIN HOOD ROAD	0	?							X
+798075	  SR	00165	N034A	VA 165 NB Exit 034A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	122-99026- A RROM ROBIN HOOD ROAD	I-64-W FROM RT 16500- MILITARY HIGHWAY	9300	F							X	0.0902	F	1.0000	9300	F	2012
+654268	  SR	00166	     	US 460, VA 166	Wilson Rd	122	City of Norfolk	122	City of Norfolk	0.65	NCL Chesapeake	Campostella Ave	8000	F							X	0.1074	F	0.7389	8500	F	2012	
+654124	  SR	00166	     	US 460, VA 166, VA 168	Campostella Rd	122	City of Norfolk	122	City of Norfolk	0.73	Wilson Rd	Kimball Terr	35000	F							X	0.0987	F	0.6877	37000	F	2012	
+654279	  SR	00166	     	US 460, VA 166, VA 168	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.30	Kimball Terr	US 460 Brambleton Ave	41000	F							X	0.0937	F	0.6594	44000	F	2012	
+654221	  SR	00166	     	VA 166	Park Ave	122	City of Norfolk	122	City of Norfolk	0.45	US 460 Brambleton Ave	US 58 Va Beach Blvd	15000	F	98%	1%	1%	1%	0%	0%	C	0.0898	F	0.5731	16000	F	2012
+654222	  SR	00166	     	VA 166	Park Ave	122	City of Norfolk	122	City of Norfolk	0.14	US 58 Va Beach Blvd	Princess Anne Rd	12000	F	98%	1%	1%	1%	0%	0%	F	0.0867	F	0.5028	14000	F	2012
+654229	  SR	00166	     	VA 166	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.65	Park Ave	Merrimac Ave	16000	F	97%	1%	1%	1%	1%	0%	F	0.0924	F	0.5183	17000	F	2012
+654169	  SR	00166	     	VA 166	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.30	Merrimac Ave	Ballentine Blvd	16000	F	97%	1%	1%	1%	1%	0%	F	0.0924	F	0.5273	18000	F	2012
+150110	  SR	00166	     	VA 166	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.95	Ballentine Blvd	Azalea Garden Rd	20000	A	97%	1%	1%	1%	1%	0%	C	0.0976	A	0.5093	22000	A	2012
+654231	  SR	00166	     	VA 166	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	1.46	Azalea Garden Rd	US 13 Military Hwy	20000	F	97%	1%	1%	1%	1%	0%	F	0.0815	F	0.5487	22000	F	2012
+654199	  SR	00166	     	US 13, VA 165, VA 166	Northampton Blvd	122	City of Norfolk	122	City of Norfolk	0.26	US 13 Military Hwy	SR 165 Princess Anne Rd	32000	F	97%	1%	1%	0%	1%	0%	F	0.0872	F	0.5866	34000	F	2012	
+654208	  SR	00166	     	US 13, VA 166	Northampton Blvd	122	City of Norfolk	122	City of Norfolk	0.62	SR 165 Military Hwy	I-64	34000	F	97%	0%	1%	0%	2%	0%	F	0.0915	F	0.6019	35000	F	2012	
+654142	  SR	00166	     	US 13, VA 166	Northampton Blvd	122	City of Norfolk	122	City of Norfolk	0.20	I-64	CL Virginia Beach	81000	F	97%	0%	1%	0%	2%	0%	F	0.0805	F	0.5571	84000	F	2012	
+654140	  SR	00168	     	VA 168	Campostella Rd	122	City of Norfolk	122	City of Norfolk	0.52	SCL Norfolk	SR 407 Indian River Rd	18000	F	97%	1%	1%	1%	1%	0%	F	0.0994	F	0.6810	20000	F	2012
+654125	  SR	00168	     	VA 168	Campostella Rd	122	City of Norfolk	122	City of Norfolk	0.26	SR 407 Indian River Rd	US 460 Wilson Rd	25000	F	97%	1%	1%	1%	1%	0%	F	0.1035	F	0.7025	26000	F	2012
+654124	  SR	00168	     	US 460, VA 166, VA 168	Campostella Rd	122	City of Norfolk	122	City of Norfolk	0.73	Wilson Rd	Kimball Terr	35000	F							X	0.0987	F	0.6877	37000	F	2012	
+654279	  SR	00168	     	US 460, VA 166, VA 168	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.30	Kimball Terr	Park Ave	41000	F							X	0.0937	F	0.6594	44000	F	2012	
+654244	  SR	00168	     	US 460, VA 168	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.40	Park Ave	Brambleton Ave	30000	F							X	0.0856	F	0.5797	32000	F	2012	
+654248	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	0.31	Brambleton Ave	US 58 Va Beach Blvd	31000	F	98%	0%	1%	0%	1%	0%	F	0.0861	F	0.5615	33000	F	2012
+654249	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	0.89	US 58 Va Beach Blvd	Lindenwood Ave	29000	F	98%	0%	1%	0%	1%	0%	F	0.0834	F	0.5259	31000	F	2012
+654250	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	0.81	Lindenwood Ave	Cromwell Dr	26000	F	98%	0%	1%	0%	1%	0%	F	0.0802	F	0.5016	28000	F	2012
+150114	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	1.03	Cromwell Dr	Norview Ave	37000	A	98%	0%	1%	0%	1%	0%	C	0.0927	A	0.5021	40000	A	2012
+654252	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	1.11	Norview Ave	I-64	34000	F	98%	0%	1%	0%	1%	0%	F	0.0849	F	0.5485	36000	F	2012
+654253	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	0.60	I-64	SR 165 Little Creek Rd	30000	F	99%	0%	1%	0%	0%	0%	F	0.0860	F	0.6311	32000	F	2012
+654254	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	1.29	SR 165 Little Creek Rd	Bay View Blvd	18000	F	99%	0%	1%	0%	0%	0%	C	0.0927	F	0.5807	19000	F	2012
+654255	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	1.01	Bay View Blvd	US 460 Granby St	12000	F	99%	0%	1%	0%	0%	0%	F	0.0989	F	0.5856	13000	F	2012
+654256	  SR	00168	     	VA 168	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	0.75	US 460 Granby St	US 60 Ocean View Ave	8000	F	99%	0%	1%	0%	0%	0%	F	0.1020	F	0.6586	8500	F	2012
+781367	  SR	00168	N026A	VA 168 NB Exit 026A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.27	SR 168 TO I-64 WEST	I-64-W FROM RT 168 NORTH-TIDEWATER DRI	5100	F							X	0.1072	F	1.0000	5100	F	2012
+781368	  SR	00168	N026B	VA 168 NB Exit 026B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.20	SR 168; 122-8626 TO I-64 EAST @ THOL	I-64-E FROMRT 168 NORTH-TIDEWATER DRIV	5200	F							X	0.1052	F	1.0000	5200	F	2012
+781371	  SR	00168	S026A	VA 168 SB Exit 026A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	SR 168 TO I-64 EAST	I-64-E FROM RT 168 SOUTH-TIDEWATER DRI	3500	F							X	0.0902	F	1.0000	3500	F	2012
+781372	  SR	00168	S026B	VA 168 SB Exit 026B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	SR 168 TO I-64 WEST	I-64-W FROM RT 168 SOUTH-TIDEWATER DRI	3100	F							X	0.1020	F	1.0000	3100	F	2012
+654185	  SR	00170	     	VA 170	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	1.08	SR 165 N Military Hwy	Halprin Drive	24000	F	98%	0%	1%	0%	1%	0%	F	0.0830	F	0.5329	26000	F	2012
+654149	  SR	00170	     	VA 170	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	0.48	Halprin Drive	SR 192 Azalea Garden Rd	23000	F	98%	0%	1%	0%	1%	0%	F	0.0870	F	0.5030	24000	F	2012
+654186	  SR	00170	     	VA 170	Little Creek Rd	122	City of Norfolk	122	City of Norfolk	1.09	SR 192 Azalea Garden Rd	US 60 Shore Drive	20000	F	98%	0%	1%	0%	1%	0%	F	0.0926	F	0.5301	21000	F	2012
+150227	  SR	00192	     	VA 192	Azalea Garden Rd	122	City of Norfolk	122	City of Norfolk	2.02	SR 165 Military Hwy	SR 170 Little Creek	11000	F	97%	1%	1%	1%	1%	0%	F	0.0980	F	0.5808	12000	F	2012
+654237	  SR	00194	     	VA 194	Sewells Point Rd	122	City of Norfolk	122	City of Norfolk	1.63	SR 166 Princess Anne Rd	Chesapeake Blvd	12000	F	97%	1%	1%	1%	1%	0%	C	0.0873	F	0.8021	13000	F	2012
+654129	  SR	00194	     	VA 194	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	0.87	Norview Ave	I-64	17000	F	97%	1%	1%	1%	1%	0%	F	0.0842	F	0.5386	18000	F	2012
+654130	  SR	00194	     	VA 194	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	0.85	I-64	SR 165 Little Creek Rd	26000	F	98%	1%	1%	0%	0%	0%	F	0.0818	F	0.5927	27000	F	2012
+654131	  SR	00194	     	VA 194	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	1.31	SR 165 Little Creek Rd	Bay View Blvd	23000	F	98%	1%	1%	0%	0%	0%	F	0.0829	F	0.5880	25000	F	2012
+654600	  SR	00194	     	VA 194	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	0.61	Bay View Blvd	Chesapeake St	12000	F	98%	1%	1%	0%	0%	0%	F	0.0888	F	0.5859	12000	F	2012
+654291	  SR	00194	     	VA 194	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	0.48	Chesapeake St	US 60 Ocean View Ave	7000	F	98%	1%	1%	0%	0%	0%	C	0.0925	F	0.5316	7500	F	2012
+781377	  SR	00194	N002A	VA 194 NB Exit 002A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.18	SR 194 TO I-64 WEST	I-64-W FROM RT 194 NORTH-CHESAPEAKE BL	1600	F							X	0.1027	F	1.0000	1600	F	2012
+781378	  SR	00194	S002A	VA 194 SB Exit 002A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	SR 194 TO I-64 EAST	I-64-E FROM RT 194 SOUTH-CHESAPEAKE BL	8700	F							X	0.1117	F	1.0000	8700	F	2012
+654272	  SR	00247	     	VA 247	26th St	122	City of Norfolk	122	City of Norfolk	0.63	SR 337 Hampton Blvd	Colonial Ave	4200	F	97%	1%	1%	1%	1%	0%	F	0.1091	F	1.0000	4500	F	2012		13000	F	97%	1%	1%	1%	1%	0%	F	0.0809	F	0.5656	13000	F
+654595	  SR	00247	     	VA 247	26th St	122	City of Norfolk	122	City of Norfolk	0.10	Colonial Ave	Llewellyn Ave	8900	F	97%	1%	1%	1%	1%	0%	F	0.1103	F	1.0000	9500	F	2012		17000	F	97%	1%	1%	1%	1%	0%	F	0.0877	F	0.6177	18000	F
+654596	  SR	00247	     	VA 247	26th St	122	City of Norfolk	122	City of Norfolk	0.17	Llewellyn Ave	Monticello Ave	9400	F	97%	1%	1%	1%	1%	0%	F	0.1023	F	1.0000	10000	F	2012		19000	F	97%	1%	1%	1%	1%	0%	F	0.0846	F	0.6056	20000	F
+654271	  SR	00247	     	VA 247	26th St	122	City of Norfolk	122	City of Norfolk	0.23	Monticello Ave	Church St	7900	G	97%	1%	1%	1%	1%	0%	C				8400	G	2012		17000	G	97%	1%	1%	1%	1%	0%	F				18000	G
+654597	  SR	00247	     	VA 247	26th St	122	City of Norfolk	122	City of Norfolk	0.21	Church St	27th St	8700	G	97%	1%	1%	1%	1%	0%	F				9400	G	2012		18000	G	97%	1%	1%	1%	1%	0%	F				19000	G
+654177	  SR	00247	     	VA 247	Lafayette Blvd	122	City of Norfolk	122	City of Norfolk	1.07	27th St	SR 168 Tidewater Dr	14000	F	97%	1%	1%	1%	1%	0%	F	0.0892	F	0.6131	15000	F	2012
+654178	  SR	00247	     	VA 247	Lafayette Blvd	122	City of Norfolk	122	City of Norfolk	0.66	SR 168 Tidewater Dr	Chesapeake Blvd	17000	F	97%	1%	1%	0%	0%	0%	C	0.0875	F	0.5563	18000	F	2012
+781391	  SR	00247	     	VA 247	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	1.34	Lafayette Blvd	SR 194 Sewells Point Rd	17000	F	97%	1%	1%	0%	0%	0%	F	0.0817	F	0.5078	18000	F	2012
+654210	  SR	00247	     	VA 247	Norview Ave	122	City of Norfolk	122	City of Norfolk	0.29	Chesapeake Blvd	I-64	20000	F	97%	1%	1%	0%	0%	0%	F	0.0828	F	0.5371	22000	F	2012
+654211	  SR	00247	     	VA 247	Norview Ave	122	City of Norfolk	122	City of Norfolk	0.61	I-64	SR 165 Military Hwy	24000	F	99%	0%	1%	0%	0%	0%	C	0.0836	F	0.5376	25000	F	2012
+781392	  SR	00247	E004A	VA 247 EB Exit 004A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.20	SR 247 TO I-64 EAST	I-64-E FROM RT 247 EAST-NORVIEW AVENUE	12000	F							X	0.0811	F	1.0000	12000	F	2012
+781393	  SR	00247	W004A	VA 247 WB Exit 004A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.16	SR 247 TO I-64 EAST	I-64-E FROM RT 247 WEST-NORVIEW AVENUE	7800	G							X				7800	G	2012
+781394	  SR	00247	W004B	VA 247 WB Exit 004B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.21	SR 247 JOHNS STREET TO I-64 WEST	I-64-W FROM RT 247 WEST-NORVIEW AVENUE	4100	F							X	0.0712	F	1.0000	4100	F	2012
+654274	 1SR	00247	P    	VA 247 Par	27th St	122	City of Norfolk	122	City of Norfolk	0.79	SR 337 Hampton Blvd	Llewellyn Ave	8300	F	97%	1%	1%	1%	1%	0%	C	0.0916	F	1.0000	8900	F	2012		13000	F	97%	1%	1%	1%	1%	0%	F	0.0809	F	0.5656	13000	F
+654273	 1SR	00247	P    	VA 247 Par	27th St	122	City of Norfolk	122	City of Norfolk	0.77	Llewellyn Ave	SR 247 26Th St	9200	F	97%	1%	1%	1%	1%	0%	F	0.0863	F	1.0000	9800	F	2012		19000	F	97%	1%	1%	1%	1%	0%	F	0.0846	F	0.6056	20000	F
+781255	  IS	00264	 014A	I-264 Exit 014A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	I-264-E014A I-264-W014A TO I-64	I-64-E FROM I-264 EAST & WEST	0	?							X
+781256	  IS	00264	 014C	I-264 Exit 014C	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.18	I-264-E014C I-264-W014C TO I-64	I-64-W FROM I-264 EAST & WEST44	0	?							X
+050314	  IS	00264	E    	I-264 EB, Alt US 460	Elizabeth River Downtown Tunnel	122	City of Norfolk	064	Norfolk Maintenance Area	0.55	WCL Norfolk	I-464, SR 337	44000	A	96%	0%	1%	1%	2%	0%	F	0.0799	A	1.0000	46000	A	2012		90000	A	96%	0%	0%	1%	2%	0%	F				96000	A
+050615	  IS	00264	E    	I-264 EB, Alt US 460, VA 337	Berkley Bridge	122	City of Norfolk	064	Norfolk Maintenance Area	0.41	I-464, SR 337	ALT US 460	54000	G	98%	0%	1%	1%	1%	0%	F	0.1034	A	1.0000	59000	G	2012		100000	G	97%	0%	1%	1%	2%	0%	F	0.0859	A	0.6622	108000	G
+050158	  IS	00264	E    	I-264 EB, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.26	ALT US 460	SR 337 Tidewater Dr	50000	N	98%	0%	1%	1%	1%	0%	N				55000	N	2012		97000	N	97%	0%	1%	1%	2%	0%	N				106000	N
+050157	  IS	00264	E    	I-264 EB, Alt US 460, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.65	SR 337 Tidewater Dr	US 460 Brambleton Ave	50000	G	98%	0%	1%	1%	1%	0%	F				55000	G	2012		96000	G	97%	0%	1%	1%	2%	0%	F				104000	G
+050315	  IS	00264	E    	I-264 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.81	US 460 Brambleton Ave	SR 405 Ballentine Blvd	59000	G	96%	0%	1%	1%	2%	0%	F				65000	G	2012		121000	G	96%	0%	0%	1%	2%	0%	F				132000	G
+050616	  IS	00264	E    	I-264 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	2.34	SR 405 Ballentine Blvd	US 13 Military Hwy	58000	G	98%	0%	1%	1%	1%	0%	C				63000	G	2012		119000	G	97%	0%	0%	1%	2%	0%	F				124000	G
+050619	  IS	00264	E    	I-264 EB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.05	US 13 Military Hwy	I-64 Hampton Roads Beltway	38000	G	98%	0%	1%	1%	1%	0%	F	0.1173	B	1.0000	42000	G	2012		0	G							X				0	G
+050217	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	122	City of Norfolk	075	Princess Anne Maintenance Area	0.74	I-64 Hampton Roads Beltway	WCL Virginia Beach	89000	N	98%	0%	1%	1%	1%	0%	N				95000	N	2012		182000	N	98%	0%	1%	1%	1%	0%	N				195000	N
+789828	  IS	00264	E011A	I-264 EB Exit 011A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.21	I-264-E TO ROUTE 460 WEST00- BRAMBLETON	US 460 RAMP FROM RT 264 FROM ROUTE 26	0	?							X
+789829	  IS	00264	E012A	I-264 EB Exit 012A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.10	I-264-E TO ROUTE 405 MERRIMAC AVENUE	SR 405; 122-8637 Ga	0	?							X
+789830	  IS	00264	E013A	I-264 EB Exit 013A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.14	I-264-E013X TO RT 13 SOUTH-MILITARY HIG	US 13 FROM ROUTE 264 EAST COLL RD	0	?							X
+789831	  IS	00264	E013B	I-264 EB Exit 013B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.14	I-264-E013X TO RT 13 NORTH-MILITARY HIG	US 13 FROM ROUTE 364 EAST COLL RD	0	?							X
+781257	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	I-264-E BEGIN COLL RD T0 RTS 13, 64 & 403	I-264-E013A TO RT 13 SOUTH-MILITARY HWY	0	?							X
+794125	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.07	I-264-E013A TO RT 13 SOUTH-MILITARY HWY	US 13-S047A FROM RT 13 SOUTH-MILITARY HWY	0	?							X
+794126	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	US 13-S047A FROM RT 13 SOUTH-MILITARY HWY	I-264-E013B TO RT 13 NORTH-MILITARY HWY	0	?							X
+794127	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	I-264-E013B TO RT 13 NORTH-MILITARY HWY	US 13-N047A FROM RT 13 NORTH-MILITARY HWY	0	?							X
+794128	  IS	00264	E013X	I-264 EB Exit 013X	Collector Road at I-64	122	City of Norfolk	064	Norfolk Maintenance Area	0.42	US 13 Military Hwy	I-64 Hampton Roads Beltway	26000	G	98%	0%	1%	1%	1%	0%	F	0.0948	B	1.0000	28000	G	2012
+794129	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.18	I-264-E014A TO RT 64 EAST	I-64-E284B FROM RT 64 EAST	0	?							X
+794130	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.21	I-64-E284B FROM RT 64 EAST	I-264-E014B TO RT 64 WEST	0	?							X
+794131	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	I-264-E014B TO RT 64 WEST	I-64-W284B FROM RT 64 WEST	24000	G							X				24000	G	2012
+794132	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.23	I-64-W284B FROM RT 64 WEST	I-264-E015A TO RT 403 SOUTH-NEWTOWN RD	51000	G							X				51000	G	2012
+794133	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.15	I-264-E015A TO RT 403 SOUTH-NEWTOWN RD	SR 403-S000A FROM RT 403 SOUTH-NEWTOWN RD	0	?							X
+794134	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.21	SR 403-S000A FROM RT 403 SOUTH-NEWTOWN RD	I-264-E015B TO RT 403 NORTH-NEWTOWN RD	0	?							X
+794135	  IS	00264	E013X	I-264 EB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	I-264-E015B TO RT 403 NORTH-NEWTOWN RD	I-264-E END COLL RD FROM RTS 13, 64 & 403	35000	G							X				72000	G	2012
+781258	  IS	00264	E014A	I-264 EB Exit 014A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.16	I-264-E013X TO I-64 EAST	I-264-W014A I-264- 14A TO I-64	0	?							X
+781259	  IS	00264	E014B	I-264 EB Exit 014B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	I-264-E013X TO I-64 WEST	I-64-W FROM I-264 EAST	0	?							X
+781260	  IS	00264	E014C	I-264 EB Exit 014C	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.25	I-264-E TO I-64 WEST	I-264-W014C I-264- 14C TO I-64	0	?							X
+797579	  IS	00264	R000A	I-264 Rev Exit 000A	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.01	I-264-R I-264-W013C RAMPS TO & FR	I-264-E FROM I-64 REVERSIBLE IN MED	0	?							X
+150313	  IS	00264	W    	I-264 WB, Alt US 460, Alt US 460 Par	Elizabeth River Downtown Tunnel	122	City of Norfolk	064	Norfolk Maintenance Area	0.56	WCL Norfolk	I-464, SR 337	47000	A	96%	0%	0%	1%	2%	0%	F	0.0756	A	1.0000	50000	A	2012		90000	A	96%	0%	0%	1%	2%	0%	F				96000	A
+150084	  IS	00264	W    	I-264 WB, Alt US 460, VA 337	Berkley Bridge	122	City of Norfolk	064	Norfolk Maintenance Area	0.78	I-464, SR 337	Tidewater Drive	46000	G	96%	0%	0%	1%	2%	0%	F	0.0810	A	1.0000	49000	G	2012		100000	G	97%	0%	1%	1%	2%	0%	F	0.0859	A	0.6622	108000	G
+150085	  IS	00264	W    	I-264 WB, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.84	Tidewater Drive	US 460, SR 168, SR 166 Brambleton Ave	47000	G	96%	0%	0%	1%	2%	0%	F				51000	G	2012		97000	N	97%	0%	1%	1%	2%	0%	N				106000	N
+150086	  IS	00264	W    	I-264 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.87	US 460, SR 168, SR 166 Brambleton Ave	SR 405 Ballentine Blvd	61000	G	96%	0%	0%	1%	2%	0%	F				67000	G	2012		121000	G	96%	0%	0%	1%	2%	0%	F				132000	G
+150087	  IS	00264	W    	I-264 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	2.01	SR 405 Ballentine Blvd	US 13 Military Hwy	61000	G	96%	0%	0%	1%	2%	0%	F				61000	G	2012		119000	G	97%	0%	0%	1%	2%	0%	F				124000	G
+150141	  IS	00264	W    	I-264 WB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.08	US 13 Military Hwy	I-64 Hampton Roads Beltway	27000	G							X				31000	G	2012		0	G							X				0	G
+781263	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	122	City of Norfolk	075	Princess Anne Maintenance Area	0.30	I-64 Hampton Roads Beltway	WCL Virginia Beach	93000	N	98%	0%	1%	0%	1%	0%	N				100000	N	2012		182000	N	98%	0%	1%	1%	1%	0%	N				195000	N
+803322	  IS	00264	W010A	I-264 WB Exit 010A	Ramp From I-264 WB to City Hall Ave	122	City of Norfolk	064	Norfolk Maintenance Area	0.19	I-264 WB	City Hall Ave WB	0	?							X
+789846	  IS	00264	W011A	I-264 WB Exit 011A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.06	I-264-W TO ROUTE 460 WEST-BRAMBLETON AV	I-264-W011C TO CLAIBORNE AVENUE	0	?							X
+797980	  IS	00264	W011A	I-264 WB Exit 011A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	I-264-W011C TO CLAIBORNE AVENUE	US 460 FROM ROUTE 264 WEST	0	?							X
+789847	  IS	00264	W011B	I-264 WB Exit 011B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	I-264-W TO ROUTE 460 EAST-BRAMBLETON AV	US 460 FROM ROUTE 264 WEST	0	?							X
+789848	  IS	00264	W011C	I-264 WB Exit 011C	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.07	I-264-W011A TO CLAIBORNE AVENUE	CLAIBORNE AVENUE	0	?							X
+789849	  IS	00264	W012A	I-264 WB Exit 012A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.15	I-264-W TO ROUTE 405-MERRIMAC AVENUE	SR 405 TO & FROM ROUTE	0	?							X
+789850	  IS	00264	W013A	I-264 WB Exit 013A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	I-264-W013X TO RT 13 SOUTH-MILITARY HIG	US 13 FROM ROUTE 264 WEST COLL RD	0	?							X
+789851	  IS	00264	W013B	I-264 WB Exit 013B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.15	I-264-W013X O ROUTE 13 NORTH00- MILITARY	US 13 FROM ROUTE 264 WEST COLL RD	0	?							X
+797580	  IS	00264	W013C	I-264 WB Exit 013C	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.06	I-264-W RAMPS TO & FROM 64 H.O.V.IN ME	I-264-R I-264-R000A RAMPS TO & FR	0	?							X
+781265	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	I-264 West	SR 403 N000B	49000	G	98%	0%	1%	0%	1%	0%	F				52000	G	2012
+794136	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.27	I-64-W284A FROM RT 64 WEST	SR 403-S000B FROM RT 403 SOUTH-NEWTOWN R	0	?							X
+794137	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.45	SR 403-S000B FROM RT 403 SOUTH-NEWTOWN R	I-264-W014C TO RT 64 WEST	67000	G							X				67000	G	2012
+794138	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.14	I-264-W014C TO RT 64 WEST	I-64-W284A FROM RT 64 WEST	0	?							X
+794139	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	I-64-W284A FROM RT 64 WEST	I-264-W014B TO RT 64 EAST	0	?							X
+794140	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	I-264-W014B TO RT 64 EAST	I-64-E284A FROM RT 64 EAST	0	?							X
+797981	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.42	I-64-E284A FROM RT 64 EAST	I-264-W013B O ROUTE 13 NORTH00- MILITARY	0	?							X
+794142	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.08	I-264-W013B O ROUTE 13 NORTH00- MILITARY	US 13-N047B FROM ROUTE 13 NORTH00- MILIT	0	?							X
+794143	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.11	US 13-N047B FROM ROUTE 13 NORTH00- MILIT	I-264-W013A TO RT 13 SOUTH-MILITARY HIG	0	?							X
+794144	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	I-264-W013A TO RT 13 SOUTH-MILITARY HIG	US 13-S047B FROM ROUTE 13 SOUTH00- MILIT	0	?							X
+794145	  IS	00264	W013X	I-264 WB Exit 013X	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.16	US 13-S047B FROM ROUTE 13 SOUTH00- MILIT	I-264-W END COLL RD FROM RTS 403, 64 &	0	?							X
+781266	  IS	00264	W014A	I-264 WB Exit 014A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.24	I-264-W TO I-64 EAST	I-264-E014A I-264- 14A TO I-64	0	?							X
+781267	  IS	00264	W014B	I-264 WB Exit 014B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.18	I-264-W013X TO I-64 EAST	I-64-E FROM I-264 WEST44	0	?							X
+781268	  IS	00264	W014C	I-264 WB Exit 014C	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.08	I-264-W013X TO I-64 WEST	I-264-E014C I-264- 14C TO I-64	0	?							X
+050528	  SR	00337	     	VA 337	Bainbridge Blvd	122	City of Norfolk	122	City of Norfolk	0.28	NCL Chesapeake	Main St	1400	F	93%	1%	2%	2%	3%	0%	C	0.1125	F	0.8352	1500	F	2012
+050530	  SR	00337	     	VA 337	Main St	122	City of Norfolk	122	City of Norfolk	0.21	Bainbridge Blvd	Liberty St	8300	F	93%	1%	2%	2%	3%	0%	F	0.1186	F	0.7027	8800	F	2012
+050529	  SR	00337	     	VA 337	Liberty St	122	City of Norfolk	122	City of Norfolk	0.11	Main St	State St	3800	F	93%	1%	2%	2%	3%	0%	F	0.0910	F	0.6429	4000	F	2012
+050531	  SR	00337	     	VA 337	State St	122	City of Norfolk	122	City of Norfolk	0.05	Liberty St	Berkley Ave	3800	N	93%	1%	2%	2%	3%	0%	N	0.0910	N	0.6429	4000	N	2012		0	N							X				0	N
+050537	  SR	00337	     	VA 337	State St	122	City of Norfolk	122	City of Norfolk	0.07	Berkley Ave	I-464	12000	N	97%	1%	1%	1%	0%	0%	N	0.0777	N	0.5483	13000	N	2012
+803757	  SR	00337	     	VA 337 Exit 025A, VA 337	Ramp From SR 337 State St to I-464 NB	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	SR 337 State St	I-464 NB	0	?							X							
+050493	  SR	00337	     	I-464 NB, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.16	State St	I-264	24000	N	95%	0%	1%	1%	2%	0%	N				27000	N	2012		43000	N	95%	0%	1%	1%	2%	0%	N				49000	N
+050615	  SR	00337	     	I-264 EB, Alt US 460, VA 337	Berkley Bridge	122	City of Norfolk	064	Norfolk Maintenance Area	0.41	I-464	EndLabel	54000	G	98%	0%	1%	1%	1%	0%	F	0.1034	A	1.0000	59000	G	2012		100000	G	97%	0%	1%	1%	2%	0%	F	0.0859	A	0.6622	108000	G
+050157	  SR	00337	     	I-264 EB, Alt US 460, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.65	State St	ALT US 460 St Pauls Blvd	50000	G	98%	0%	1%	1%	1%	0%	F				55000	G	2012		96000	G	97%	0%	1%	1%	2%	0%	F				104000	G
+050475	  SR	00337	     	Alt US 460, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.22	I-264	Tidewater Dr	29000	N	98%	1%	1%	0%	0%	0%	N	0.0858	N	0.7570	31000	N	2012	
+050158	  SR	00337	     	I-264 EB, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.26	ALT US 460 St Pauls Blvd	Tidewater Dr	50000	N	98%	0%	1%	1%	1%	0%	N				55000	N	2012		97000	N	97%	0%	1%	1%	2%	0%	N				106000	N
+050526	  SR	00337	     	VA 337	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	0.81	ALT US 460 St Pauls Blvd	US 460 Brambleton Avenue; SR 168	20000	F	96%	0%	0%	1%	2%	0%	F	0.0855	F	0.5305	23000	F	2012
+654245	  SR	00337	     	US 460, VA 337	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.10	US 460 Brambleton Avenue	Church St	25000	F							X	0.0836	F	0.6019	27000	F	2012	
+150129	  SR	00337	     	US 460, VA 337	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.31	Church St	ALT US 460 St Pauls Blvd	17000	F							X	0.0875	F	0.5939	19000	F	2012	
+654151	  SR	00337	     	VA 337	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.20	US 460 Saint Pauls Blvd	Boush St	27000	F	96%	0%	0%	1%	2%	0%	F	0.0707	F	0.6290	31000	F	2012
+654121	  SR	00337	     	VA 337	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.07	Boush St	SR 337 Par Duke St	35000	N	96%	0%	0%	1%	2%	0%	N	0.0715	N	0.6380	40000	N	2012
+654120	  SR	00337	     	VA 337, US 58	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.83	SR 337 Par Duke St	Colley Ave	35000	F	96%	0%	0%	1%	2%	0%	F	0.0715	F	0.6380	40000	F	2012
+654148	  SR	00337	     	VA 337, US 58	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.26	Colley Ave	US 58	28000	F	96%	0%	0%	1%	2%	0%	F	0.0746	F	0.5666	32000	F	2012
+654163	  SR	00337	     	VA 337	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.22	US 58 .	Hampton Blvd	28000	N	96%	0%	0%	1%	2%	0%	N	0.0746	N	0.5666	32000	N	2012		28000	N							X					
+654160	  SR	00337	     	VA 337	Hampton Blvd	122	City of Norfolk	122	City of Norfolk	0.90	US 58 Brambleton Ave	21st Street	30000	F	96%	0%	0%	1%	2%	0%	F	0.0691	F	0.5804	35000	F	2012
+654161	  SR	00337	     	VA 337	Hampton Blvd	122	City of Norfolk	122	City of Norfolk	0.22	21st Street	SR 247, 26th St	35000	F	96%	0%	0%	1%	2%	0%	F	0.0706	F	0.5150	40000	F	2012
+654162	  SR	00337	     	VA 337	Hampton Blvd	122	City of Norfolk	122	City of Norfolk	0.71	SR 247, 26th St	49th St, Old Dominion University	36000	F	96%	0%	0%	1%	2%	0%	F	0.0710	F	0.5422	41000	F	2012
+150119	  SR	00337	     	VA 337	Hampton Blvd	122	City of Norfolk	122	City of Norfolk	2.07	49th St, Old Dominion University	SR 165 Little Creek Rd	34000	A	96%	0%	0%	1%	2%	0%	C	0.0961	A	0.5407	40000	A	2012
+654164	  SR	00337	     	VA 337	Hampton Blvd	122	City of Norfolk	122	City of Norfolk	0.18	SR 165 Little Creek Rd	SR 406 International Terminal Blvd	34000	F	96%	0%	0%	1%	2%	0%	F	0.0766	F	0.6089	40000	F	2012
+654165	  SR	00337	     	VA 337	Hampton Blvd	122	City of Norfolk	122	City of Norfolk	1.94	SR 406 International Terminal Blvd	Admiral Taussig Blvd	24000	G	96%	0%	0%	1%	2%	0%	F				28000	G	2012
+781427	  SR	00337	     	VA 337	Admiral Taussig Blvd	122	City of Norfolk	122	City of Norfolk	0.91	Hampton Blvd; Maryland Ave	I-564	25000	F	96%	0%	0%	1%	2%	0%	F	0.0963	F	0.8669	29000	F	2012
+803757	  SR	00337	 025A	VA 337 Exit 025A, VA 337	Ramp From SR 337 State St to I-464 NB	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	SR 337 State St	I-464 NB	0	?							X
+803759	  SR	00337	W026A	VA 337 WB Exit 026A	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.08	1SR-00337-P(B)/TO WATERSIDE DRIVE	IS-00264-W010B(B)/FROM TIDEWATER DRIVE	0	?							X
+406942	 1SR	00337	P    	VA 337 Par	Ramp From Tidewater Dr to I-264 W	122	City of Norfolk	122	City of Norfolk	0.13	I-264 W	Tidewater Dr	0	?							X
+406943	 1SR	00337	P    	VA 337 Par	Tidewater Dr	122	City of Norfolk	122	City of Norfolk	0.12	Ramp to I-264 W	East City Hall Ave	0	?							X
+150243	A1SR	00337	     	Alt VA 337	Waterside Dr/Boush St	122	City of Norfolk	122	City of Norfolk	0.72	ALT US 460 Overpass; Berkley Bridge	City Hall Ave	29000	G	98%	0%	1%	1%	0%	0%	F				31000	G	2012		31000	G	98%	0%	1%	1%	0%	0%	F				33000	G
+150245	A1SR	00337	     	Alt VA 337	Waterside Dr/Boush St	122	City of Norfolk	122	City of Norfolk	0.44	City Hall Ave	N SR 337 Brambleton Ave	23000	F	98%	0%	1%	1%	0%	0%	F	0.0936	F	0.5298	24000	F	2012		25000	F	98%	0%	1%	1%	0%	0%	F	0.0945	F	0.5034	26000	F
+804334	A1SR	00337	S003A	Alt VA 337 SB Exit 003A	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.33	A1SR-00337(R)/IS-00264-W010B(L)/Gap Terminus/	IS-00264-E(B)/FROM WATERSIDE DRIVE	0	?							X
+654170	  SR	00403	     	VA 403	Newtown Rd	122	City of Norfolk	122	City of Norfolk	0.31	SR 165 Kempsville Rd	I-264 Va Beach Norfolk Expwy	28000	F	98%	0%	1%	0%	1%	0%	C	0.0817	F	0.5482	30000	F	2012
+654207	  SR	00403	     	VA 403	Newtown Rd	122	City of Norfolk	122	City of Norfolk	0.71	I-264 Va Beach Norfolk Expwy	US 58 Va Beach Blvd	33000	F	98%	0%	1%	0%	1%	0%	F	0.0770	F	0.5631	35000	F	2012
+781477	  SR	00404	     	VA 404	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.53	SR 168; Tidewater Dr	SR 166 Park Ave	15000	F	99%	0%	1%	0%	0%	0%	F	0.0886	F	0.5664	16000	F	2012
+781478	  SR	00405	     	VA 405	Ballentine Blvd	122	City of Norfolk	122	City of Norfolk	0.64	I-264	US 58; 122-8573	21000	F	94%	1%	1%	2%	2%	0%	C	0.0821	F	0.5889	22000	F	2012
+789902	  SR	00405	 000A	VA 405 Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.14	SR 405; 122-8637 Ga	I-264-E FROM ROUTE 405-MERRIMAC AVENUE	4800	F							X	0.0890	F	1.0000	4800	F	2012
+789903	  SR	00405	 000B	VA 405 Exit 000B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	SR 405 TO & FROM ROUTE	I-264-W FROM ROUTE 405-MERRIMAC AVENUE	7600	F							X	0.0817	F	1.0000	7600	F	2012
+150120	  SR	00406	     	VA 406	International Blvd	122	City of Norfolk	122	City of Norfolk	1.33	SR 337 Hampton Blvd	Ruthven Rd	25000	A	95%	0%	0%	1%	4%	0%	C	0.0941	A	0.6086	28000	A	2012		44000	F							X	0.0053	B	0.0000	47000	F
+150122	  SR	00406	     	VA 406	International Blvd	122	City of Norfolk	064	Norfolk Maintenance Area	0.28	Ruthven Rd	I-564	25000	N	95%	0%	0%	1%	4%	0%	N	0.0941	N	0.6086	28000	N	2012
+781480	  SR	00406	E001A	VA 406 EB Exit 001A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.06	SR 406 I-564-S FROM SR 406 EAST &	I-564-S000B FROM RT 406	7200	F							X	0.1193	F	1.0000	7200	F	2012
+654168	  SR	00407	     	VA 407	Indian River Rd	122	City of Norfolk	122	City of Norfolk	0.71	SR 168 Campostella Rd	WCL Chesapeake	16000	F	97%	0%	1%	1%	1%	0%	C	0.0943	F	0.6197	17000	F	2012
+654268	  US	00460	     	US 460, VA 166	Wilson Rd	122	City of Norfolk	122	City of Norfolk	0.65	NCL Chesapeake	Campostella Ave	8000	F							X	0.1074	F	0.7389	8500	F	2012
+654124	  US	00460	     	US 460, VA 166, VA 168	Campostella Rd	122	City of Norfolk	122	City of Norfolk	0.73	Wilson Rd	Kimball Terr	35000	F							X	0.0987	F	0.6877	37000	F	2012
+654279	  US	00460	     	US 460, VA 166, VA 168	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.30	Kimball Terr	Park Ave	41000	F							X	0.0937	F	0.6594	44000	F	2012
+654244	  US	00460	     	US 460, VA 168	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.40	Park Ave	Tidewater Dr	30000	F							X	0.0856	F	0.5797	32000	F	2012
+654245	  US	00460	     	US 460, VA 337	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.10	Tidewater Dr	Church St	25000	F							X	0.0836	F	0.6019	27000	F	2012
+150129	  US	00460	     	US 460, VA 337	Brambleton Ave	122	City of Norfolk	122	City of Norfolk	0.31	Church St	ALT US 460 St Pauls Blvd	17000	F							X	0.0875	F	0.5939	19000	F	2012
+150130	  US	00460	     	US 460, Alt US 460	St Pauls Blvd	122	City of Norfolk	122	City of Norfolk	0.24	ALT US 460, Brambleton Ave	ALT US 460 Par; Monticello Ave	21000	F	95%	2%	2%	0%	1%	0%	F	0.0783	F	0.5159	22000	F	2012		26000	G	96%	2%	1%	0%	1%	0%	F				27000	G
+654598	  US	00460	     	US 460	St Pauls Blvd	122	City of Norfolk	122	City of Norfolk	0.07	ALT US 460 Par; Monticello Ave	US 58 Virginia Beach Blvd	24000	F	95%	2%	2%	0%	1%	0%	F	0.0805	F	0.5029	26000	F	2012
+654205	  US	00460	     	US 460	Monticello Ave	122	City of Norfolk	122	City of Norfolk	0.66	US 58 Virginia Beach Blvd	21st St	23000	F	95%	2%	2%	0%	1%	0%	C	0.0779	F	0.5429	24000	F	2012
+654206	  US	00460	     	US 460	Monticello Ave	122	City of Norfolk	122	City of Norfolk	0.49	21st St	Church St	17000	F	95%	2%	2%	0%	1%	0%	F	0.1149	F	0.5576	18000	F	2012
+654152	  US	00460	     	US 460	Granby St	122	City of Norfolk	122	City of Norfolk	0.81	Church St	Llewellyn Ave	25000	F	98%	1%	1%	0%	0%	0%	F	0.0810	F	0.5872	27000	F	2012
+654153	  US	00460	     	US 460	Granby St	122	City of Norfolk	122	City of Norfolk	0.45	Llewellyn Ave	Willow Wood Dr	37000	G	98%	1%	1%	0%	0%	0%	F				39000	G	2012
+654154	  US	00460	     	US 460	Granby St	122	City of Norfolk	122	City of Norfolk	1.30	Willow Wood Dr	Thole St	34000	F	98%	1%	1%	0%	0%	0%	C	0.0844	F	0.5592	36000	F	2012
+654155	  US	00460	     	US 460	Granby St	122	City of Norfolk	122	City of Norfolk	0.37	Thole St	SR 165 Little Creek Rd	32000	F	98%	1%	1%	0%	0%	0%	F	0.0846	F	0.5352	34000	F	2012
+654156	  US	00460	     	US 460	Granby St	122	City of Norfolk	122	City of Norfolk	0.44	SR 165 Little Creek Rd	I-64; I-564	22000	F	98%	1%	1%	0%	0%	0%	F	0.0911	F	0.5038	24000	F	2012
+654157	  US	00460	     	US 460	Granby St	122	City of Norfolk	122	City of Norfolk	0.99	I-64; I-564	Bay View Blvd	24000	G	98%	1%	1%	0%	0%	0%	F				25000	G	2012
+654158	  US	00460	     	US 460	Granby St	122	City of Norfolk	122	City of Norfolk	0.89	Bay View Blvd	SR 168 Tidewater Dr	12000	F	98%	1%	1%	0%	0%	0%	C	0.1220	F	0.7646	13000	F	2012
+654159	  US	00460	     	US 460	Granby St	122	City of Norfolk	122	City of Norfolk	0.71	SR 168 Tidewater Dr	US 60 Ocean View Ave	12000	F	98%	1%	1%	0%	0%	0%	F	0.0983	F	0.6739	13000	F	2012
+781597	  US	00460	 404A	US 460 Exit 404A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.07	US 460 TO I-64 WEST	I-64-W FROM US 460-GRANBY STREET	4300	F							X	0.1003	F	1.0000	4300	F	2012
+789921	  US	00460	E398A	US 460 EB Exit 398A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.14	US 460 TO ROUTE 264 EAST	I-264-E FROM ROUTE 460 EAST-BRAMBLETON	4400	F							X	0.1026	F	1.0000	4400	F	2012
+781599	  US	00460	E403A	US 460 EB Exit 403A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	US 460 TO RT 564 NORTH	I-564-N I-564-R000A FROM H.O.V. L	4300	F							X	0.1406	F	1.0000	4300	F	2012
+789922	  US	00460	W398A	US 460 WB Exit 398A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.19	US 460 TO ROUTE 264 EAST	I-264-E FROM ROUTE 460 WEST00- BRAMBLETO	8000	F							X	0.0993	F	1.0000	8000	F	2012
+050314	A1US	00460	     	I-264 EB, Alt US 460	Elizabeth River Downtown Tunnel	122	City of Norfolk	064	Norfolk Maintenance Area	0.55	WCL Norfolk	I-464	44000	A	96%	0%	1%	1%	2%	0%	F	0.0799	A	1.0000	46000	A	2012		90000	A	96%	0%	0%	1%	2%	0%	F				96000	A
+050615	A1US	00460	     	I-264 EB, Alt US 460, VA 337	Berkley Bridge	122	City of Norfolk	064	Norfolk Maintenance Area	0.41	I-464	SR 337 Main Street	54000	G	98%	0%	1%	1%	1%	0%	F	0.1034	A	1.0000	59000	G	2012		100000	G	97%	0%	1%	1%	2%	0%	F	0.0859	A	0.6622	108000	G
+050157	A1US	00460	     	I-264 EB, Alt US 460, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.65	SR 337 Main Street	I-264	50000	G	98%	0%	1%	1%	1%	0%	F				55000	G	2012		96000	G	97%	0%	1%	1%	2%	0%	F				104000	G
+050475	A1US	00460	     	Alt US 460, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.22	I-264	SR 337 Tidewater Drive	29000	N	98%	1%	1%	0%	0%	0%	N	0.0858	N	0.7570	31000	N	2012
+050586	A1US	00460	     	Alt US 460	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.24	SR 337 Tidewater Drive	St Pauls Blvd	29000	F	98%	1%	1%	0%	0%	0%	F	0.0858	F	0.7570	31000	F	2012		29000	F							X	0.0858	F	0.7570		
+050480	A1US	00460	     	Alt US 460	St Pauls Blvd	122	City of Norfolk	064	Norfolk Maintenance Area	0.45	Fenchurch St	US 460 Brambleton Ave	42000	F	98%	1%	1%	0%	0%	0%	F	0.0811	F	0.5958	44000	F	2012		45000	F	98%	1%	1%	0%	0%	0%	F				48000	F
+150130	A1US	00460	     	US 460, Alt US 460	St Pauls Blvd	122	City of Norfolk	122	City of Norfolk	0.24	US 460 Brambleton Ave	ALT US 460 Par; Monticello Ave	21000	F	95%	2%	2%	0%	1%	0%	F	0.0783	F	0.5159	22000	F	2012		26000	G	96%	2%	1%	0%	1%	0%	F				27000	G
+804338	A1US	00460	N008A	Alt US 460 NB Exit 008A	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.17	A1US-00460(B)/TO CITY HALL AVENUE	IS-00264-W010B(B)/FROM RTE 264 EAST VIA ALT 4	0	?							X
+150313	A1US	00460	P    	I-264 WB, Alt US 460, Alt US 460 Par	Elizabeth River Downtown Tunnel	122	City of Norfolk	064	Norfolk Maintenance Area	0.56	WCL Norfolk	I-464, SR 337	47000	A	96%	0%	0%	1%	2%	0%	F	0.0756	A	1.0000	50000	A	2012		90000	A	96%	0%	0%	1%	2%	0%	F				96000	A
+150304	  IS	00464	N    	I-464 NB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.41	SCL Norfolk	Main Street	25000	G	95%	0%	1%	1%	2%	0%	F				29000	G	2012		46000	G	95%	0%	1%	1%	2%	0%	F				52000	G
+050417	  IS	00464	N    	I-464 NB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.60	Main Street	SR 337	24000	G	95%	0%	1%	1%	2%	0%	F				27000	G	2012		43000	G	95%	0%	1%	1%	2%	0%	F				49000	G
+050493	  IS	00464	N    	I-464 NB, VA 337	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.16	SR 337	I-264	24000	N	95%	0%	1%	1%	2%	0%	N				27000	N	2012		43000	N	95%	0%	1%	1%	2%	0%	N				49000	N
+789517	  IS	00464	N005A	I-464 NB Exit 005A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	I-464 North	SR 337	1100	G							X				1200	G	2012
+789861	  IS	00464	N006A	I-464 NB Exit 006A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	I-464-N TO ROUTE 264 WEST & BERKLEY ST	SR 337-N025A STATE ST @ ROUTE 337	0	?							X
+789862	  IS	00464	N006B	I-464 NB Exit 006B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.04	I-464-N006A TO ROUTE 264 WEST	SR 337-N025A FROM STATE ST	0	?							X
+798006	  IS	00464	N006B	I-464 NB Exit 006B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.08	SR 337-N025A FROM STATE ST	I-464-N006T INSPECTION STATION ROAD	0	?							X
+798007	  IS	00464	N006B	I-464 NB Exit 006B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.25	I-464-N006T INSPECTION STATION ROAD	I-264-W FROM ROUTE 464 NORTH	0	?							X
+789863	  IS	00464	N006T	I-464 NB Exit 006T	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.07	I-464-N006B INSPECTION STATION ROAD	STATE STREET	0	?							X
+150305	  IS	00464	S    	I-464 SB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.36	SCL Norfolk	Main Street	21000	G	95%	0%	1%	1%	2%	0%	F				23000	G	2012		46000	G	95%	0%	1%	1%	2%	0%	F				52000	G
+150035	  IS	00464	S    	I-464 SB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.87	Main Street	I-264	20000	G	95%	0%	1%	1%	2%	0%	F				22000	G	2012		43000	G	95%	0%	1%	1%	2%	0%	F				49000	G
+050149	  IS	00564	N    	I-564 NB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.96	I-64	SR 406 International Terminial Blvd	32000	F	97%	0%	0%	0%	2%	0%	F	0.1262	F	1.0000	39000	F	2012		54000	G	98%	0%	0%	0%	1%	0%	F				66000	G
+150036	  IS	00564	N    	I-564 NB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.81	SR 406 International Terminal Blvd	SR 337 Admiral Taussig Blvd	17000	A	97%	0%	0%	0%	2%	0%	C	0.2164	A	1.0000	20000	A	2012		35000	A	98%	0%	0%	0%	1%	0%	C	0.1352	A	0.8804	43000	A
+781286	  IS	00564	R000A	I-564 Rev Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.08	I-564-S000D I-564-R FROM IS 564A	I-564-N US 460-E403A FROM H.O.V. L	0	?							X
+150038	  IS	00564	S    	I-564 SB	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.80	I-64	SR 406 International Terminial Blvd	22000	G	98%	0%	0%	0%	1%	0%	F				27000	G	2012		54000	G	98%	0%	0%	0%	1%	0%	F				66000	G
+150037	  IS	00564	S    	I-564 SB	 	122	City of Norfolk	064	Norfolk Maintenance Area	1.84	SR 406 International Terminial Blvd	SR 337 Admiral Taussig Blvd	18000	A	98%	0%	0%	0%	1%	0%	C	0.2240	A	1.0000	22000	A	2012		35000	A	98%	0%	0%	0%	1%	0%	C	0.1352	A	0.8804	43000	A
+781287	  IS	00564	S000A	I-564 SB Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.16	I-564-S TO RT 165-LITTLE CREEK ROAD	SR 165 RAMP TO I-64 EAST FROM RT 564	0	?							X
+781288	  IS	00564	S000B	I-564 SB Exit 000B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.35	I-564-S TO I-64 WEST & 460-GRANBY ST	SR 406-E001A FROM RT 406	0	?							X
+798052	  IS	00564	S000B	I-564 SB Exit 000B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.12	SR 406-E001A FROM RT 406	I-564-S000C TO RT 64 WEST	0	?							X
+798053	  IS	00564	S000B	I-564 SB Exit 000B	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	I-564-S000C TO RT 64 WEST	US 460 Gap FROM RT 564 & 406	0	?							X
+781289	  IS	00564	S000C	I-564 SB Exit 000C	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.45	I-564-S000B TO I-64 WEST	I-64-W FROM RT 564 SOUTH	0	?							X
+781290	  IS	00564	S000D	I-564 SB Exit 000D	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.08	I-564-S TO H.O.V. LANE	I-564-R I-564-R000A FROM I-564A	0	?							X
+654204	 4US	00460	P    	122-7, US 460 Par, Alt US 460	Monticello Ave	122	City of Norfolk	122	City of Norfolk	0.25	SR 337 A1US 460-P	US 460 St Pauls Blvd	5000	G	98%	1%	1%	0%	0%	0%	F				4700	G	2012		26000	G	96%	2%	1%	0%	1%	0%	F				27000	G
+780399	  FR	00157	     	FR 157	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.29	Dead End	US 13 Military Hwy	2600	G							X				2600	G	2012
+654622	 122	00001	     	122-1	Corporate Blvd	122	City of Norfolk	122	City of Norfolk	0.47	Curlew Dr	US 13 Military Hwy	2800	F	98%	1%	0%	0%	0%	0%	F	0.1275	F	0.5267	3000	F	2012
+783020	 122	00003	     	122-3	Sewells Point Rd	122	City of Norfolk	122	City of Norfolk	1.96	SR 247 Norview Ave	SR 165 Little Creek Rd	7600	F	98%	1%	1%	0%	0%	0%	C	0.0959	F	0.5503	8100	F	2012
+800752	 122	00004	     	122-4	Tazewell St	122	City of Norfolk	122	City of Norfolk	0.06	Duke St	Alt SR 337 Boush St	0	?							X
+654147	 122	00005	     	122-5	Duke St	122	City of Norfolk	122	City of Norfolk	0.29	Tazewell St	Brambleton Ave	2100	F	98%	0%	1%	1%	0%	0%	C	0.1094	F	0.6640	2200	F	2012		54000	G	98%	0%	1%	1%	0%	0%	F				58000	G
+789899	 122	00006	 000A	122-6 Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.07	I-464-N006A STATE ST @ ROUTE 337	I-464-N006B FROM STATE ST	0	?							X
+654203	 122	00007	     	122-7	Monticello Ave	122	City of Norfolk	122	City of Norfolk	0.47	City Hall Ave	SR 337 Brambleton Ave	3000	F	98%	1%	1%	0%	0%	0%	C	0.1096	F	0.5691	3200	F	2012		45000	F	98%	1%	1%	0%	0%	0%	F				48000	F
+654204	 122	00007	     	122-7, US 460 Par, Alt US 460	Monticello Ave	122	City of Norfolk	122	City of Norfolk	0.25	SR 337 Brambleton Ave	US 460 St Pauls Blvd	5000	G	98%	1%	1%	0%	0%	0%	F				4700	G	2012		26000	G	96%	2%	1%	0%	1%	0%	F				27000	G
+804251	 122	00008	     	122-8	City Hall Ave WB	122	City of Norfolk	122	City of Norfolk	0.13	Alt US 460 Overpass	Ramp From I-64 WB	0	?							X
+781689	 122	08023	 000A	122-8023 Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.14	122-8623 TO I-64 EAST	I-64-E FROM BAY AVENUE	5800	F							X	0.2048	F	1.0000	5800	F	2012
+654609	 122	08560	     	122-8560	49th St	122	City of Norfolk	122	City of Norfolk	0.56	Powhatan Ave	SR 337 Hampton Blvd	5600	F	95%	1%	4%	0%	0%	0%	C	0.0869	F	0.5097	6000	F	2012
+654608	 122	08560	     	122-8560	49th St	122	City of Norfolk	122	City of Norfolk	0.42	Hampton Blvd	Colley Ave	3800	F	95%	1%	4%	0%	0%	0%	F	0.0863	F	0.5176	4100	F	2012
+554021	 122	08561	     	122-8561	Bolling Ave	122	City of Norfolk	122	City of Norfolk	0.48	Powhatan Ave	SR 337 Hampton Blvd	2200	F	95%	1%	4%	0%	0%	0%	F	0.0902	F	0.5632	2300	F	2012
+654518	 122	08561	     	122-8561	Bolling Ave	122	City of Norfolk	122	City of Norfolk	0.48	SR 337 Hampton Blvd	Jamestown Crescent	2000	F	95%	1%	4%	0%	0%	0%	F	0.1329	F	0.5673	2200	F	2012
+654607	 122	08562	     	122-8562	43rd St	122	City of Norfolk	122	City of Norfolk	0.98	Powhatan Ave	Colley Ave	11000	F	95%	1%	4%	0%	0%	0%	F	0.0846	F	0.5169	12000	F	2012
+654526	 122	08563	     	122-8563	Colley Ave	122	City of Norfolk	122	City of Norfolk	0.21	US 58 Brambleton Ave	Olney Rd	16000	F	98%	1%	0%	0%	0%	0%	F	0.0832	F	0.6488	17000	F	2012
+654136	 122	08563	     	122-8563	Colley Ave	122	City of Norfolk	122	City of Norfolk	0.40	Olney Rd	Princess Anne Rd	14000	F	98%	1%	0%	0%	0%	0%	F	0.0824	F	0.6135	14000	F	2012
+654527	 122	08563	     	122-8563	Colley Ave	122	City of Norfolk	122	City of Norfolk	0.37	Princess Anne Rd	21st Street	15000	F	98%	1%	0%	0%	0%	0%	F	0.0816	F	0.5239	16000	F	2012
+654137	 122	08563	     	122-8563	Colley Ave	122	City of Norfolk	122	City of Norfolk	0.30	21st Street	27th Street	16000	F	98%	1%	0%	0%	0%	0%	F	0.0885	F	0.5101	17000	F	2012
+654138	 122	08563	     	122-8563	Colley Ave	122	City of Norfolk	122	City of Norfolk	1.04	27th St	52rd Street	14000	F	98%	1%	0%	0%	0%	0%	C	0.0886	F	0.5004	15000	F	2012
+781691	 122	08563	     	122-8563	Jamestown Crescent	122	City of Norfolk	122	City of Norfolk	0.74	52rd Street	SR 337 Hampton Blvd	7200	F	98%	1%	0%	0%	0%	0%	F	0.0928	F	0.5060	7600	F	2012
+654573	 122	08564	     	122-8564	Powhatan Ave	122	City of Norfolk	122	City of Norfolk	0.75	Dead End	Bolling Ave	1700	F	99%	0%	1%	0%	0%	0%	F	0.0895	F	0.5619	1800	F	2012
+654572	 122	08564	     	122-8564	Powhatan Ave	122	City of Norfolk	122	City of Norfolk	0.81	Bolling Ave	38th St	6000	F	99%	0%	1%	0%	0%	0%	F	0.0750	F	0.5686	6400	F	2012
+654022	 122	08564	     	122-8564	38th St	122	City of Norfolk	122	City of Norfolk	0.57	Powhatan Ave	SR 337 Hampton Blvd	4200	F	99%	0%	1%	0%	0%	0%	F	0.0813	F	0.6514	4500	F	2012
+654507	 122	08564	     	122-8564	38th St	122	City of Norfolk	122	City of Norfolk	0.41	SR 337 Hampton Blvd	Colley Ave	6000	F	99%	0%	1%	0%	0%	0%	F	0.0799	F	0.6292	6400	F	2012
+654277	 122	08564	     	122-8564	38th St	122	City of Norfolk	122	City of Norfolk	0.53	Colley Ave	Llewellyn Ave	8700	F	99%	0%	1%	0%	0%	0%	C	0.0878	F	0.6447	9300	F	2012
+554029	 122	08564	     	122-8564	38th St	122	City of Norfolk	122	City of Norfolk	0.17	Llewellyn Ave	US 460 Granby St	4400	F	99%	0%	1%	0%	0%	0%	F	0.0778	F	0.6844	4700	F	2012
+781693	 122	08564	     	122-8564	La Vallette Ave	122	City of Norfolk	122	City of Norfolk	0.48	US 460	Columbus Ave	2000	F	99%	0%	1%	0%	0%	0%	F	0.0992	F	0.5044	2200	F	2012
+654529	 122	08565	     	122-8565	Colonial Ave	122	City of Norfolk	122	City of Norfolk	1.08	Olney Rd	27th St	6700	F	99%	0%	1%	0%	0%	0%	F	0.0945	F	0.5226	7200	F	2012
+654530	 122	08565	     	122-8565	Colonial Ave	122	City of Norfolk	122	City of Norfolk	1.07	27Th St	New Hampshire Ave	2500	F	99%	0%	1%	0%	0%	0%	F	0.1116	F	0.6872	2600	F	2012
+654558	 122	08565	     	122-8565	New Hampshire Ave	122	City of Norfolk	122	City of Norfolk	0.24	Gasnold Ave	Colonial Ave	140	F	99%	0%	1%	0%	0%	0%	F	0.1391	F	0.6458	150	F	2012
+654508	 122	08566	     	122-8566	41st St	122	City of Norfolk	122	City of Norfolk	0.05	Colley Ave	Mayflower Rd	850	F	99%	1%	0%	0%	0%	0%	F	0.1790	F	0.7654	900	F	2012
+654513	 122	08566	     	122-8566	Mayflower Ave	122	City of Norfolk	122	City of Norfolk	0.22	Carolina Ave	Delaware Ave	1800	F	99%	1%	0%	0%	0%	0%	F	0.1003	F	0.7179	1900	F	2012
+654533	 122	08566	     	122-8566	Delaware Ave	122	City of Norfolk	122	City of Norfolk	0.55	Mayflower Rd	Llewellyn Ave	4100	F	99%	1%	0%	0%	0%	0%	F	0.0836	F	0.5427	4400	F	2012
+654145	 122	08566	     	122-8566	Delaware Ave	122	City of Norfolk	122	City of Norfolk	0.12	Llewellyn Ave	US 460 Granby St	7700	F	99%	1%	0%	0%	0%	0%	C	0.1083	F	0.8026	8200	F	2012
+654602	 122	08567	     	122-8567	Boush St	122	City of Norfolk	122	City of Norfolk	0.21	Brambleton Ave	Va Beach Blvd	6000	G	99%	1%	0%	0%	0%	0%	F				6400	G	2012
+654187	 122	08567	     	122-8567	Llewellyn Ave	122	City of Norfolk	122	City of Norfolk	0.30	Va Beach Blvd	Princess Anne Rd	8300	G	99%	0%	0%	0%	0%	0%	F				8900	G	2012
+654546	 122	08567	     	122-8567	Llewellyn Ave	122	City of Norfolk	122	City of Norfolk	0.50	Princess Anne Rd	21st Street	8000	F	99%	0%	0%	0%	0%	0%	F	0.0986	F	0.7445	8600	F	2012
+654188	 122	08567	     	122-8567	Llewellyn Ave	122	City of Norfolk	122	City of Norfolk	0.72	21st Street	35th Street	6900	F	99%	0%	0%	0%	0%	0%	F	0.0984	F	0.5450	7300	F	2012
+654189	 122	08567	     	122-8567	Llewellyn Ave	122	City of Norfolk	122	City of Norfolk	0.14	35th Street	38th Street	6000	F	99%	0%	0%	0%	0%	0%	C	0.1006	F	0.5209	6400	F	2012
+654545	 122	08567	     	122-8567	Llewellyn Ave	122	City of Norfolk	122	City of Norfolk	0.20	38th St	Delaware Ave	11000	G	99%	0%	0%	0%	0%	0%	F				12000	G	2012
+654190	 122	08567	     	122-8567	Llewellyn Ave	122	City of Norfolk	122	City of Norfolk	0.28	Delaware Ave	US 460 Granby St	7200	G	99%	0%	0%	0%	0%	0%	F				7900	G	2012
+654219	 122	08568	     	122-8568	Olney Rd	122	City of Norfolk	122	City of Norfolk	0.50	Colley Ave	US 58 Virginia Beach Blvd; Duke St	8600	F	98%	1%	1%	0%	0%	0%	C	0.1000	F	0.6885	9200	F	2012
+654569	 122	08568	     	122-8568	Olney Rd	122	City of Norfolk	122	City of Norfolk	0.31	US 58 Virginia Beach Blvd; Duke St	Monticello Ave	2400	G	98%	1%	1%	0%	0%	0%	F				2600	G	2012
+781694	 122	08569	     	122-8569	Granby St	122	City of Norfolk	122	City of Norfolk	0.36	122-8585 Main St	US 58 Brambleton Ave	4500	F	98%	1%	1%	0%	0%	0%	F	0.0894	F	0.5148	4800	F	2012
+654606	 122	08569	     	122-8569	Granby St	122	City of Norfolk	122	City of Norfolk	1.27	Brambleton Ave	Church St	8800	G	98%	1%	1%	0%	0%	0%	F				8300	G	2012
+654525	 122	08572	     	122-8572	Claremont Ave	122	City of Norfolk	122	City of Norfolk	0.51	Raleigh Ave	SR 337 Hampton Blvd	1100	F	98%	1%	0%	0%	0%	0%	F	0.1395	F	1.0000	1200	F	2012
+654502	 122	08572	     	122-8572	21st St	122	City of Norfolk	122	City of Norfolk	0.29	SR 337 Hampton Blvd	Colley Ave	7300	F	98%	1%	0%	0%	0%	0%	C	0.0893	F	0.5268	7800	F	2012
+654269	 122	08572	     	122-8572	21st St	122	City of Norfolk	122	City of Norfolk	0.48	Colley Ave	Llewellyn St	14000	F	98%	1%	0%	0%	0%	0%	F	0.0814	F	0.5581	15000	F	2012
+654270	 122	08572	     	122-8572	21st St	122	City of Norfolk	122	City of Norfolk	0.25	Llewellyn St	Monticello Ave	9700	F	98%	1%	0%	0%	0%	0%	F	0.0845	F	0.5681	10000	F	2012
+654108	 122	08573	     	122-8573	Ballentine Blvd	122	City of Norfolk	122	City of Norfolk	0.50	US 58 Va Beach Blvd	SR 166 Princess Anne Rd	12000	F	95%	1%	2%	2%	1%	0%	C	0.0841	F	0.5843	13000	F	2012
+654109	 122	08573	     	122-8573	Ballentine Blvd	122	City of Norfolk	122	City of Norfolk	0.54	SR 166 Princess Anne Rd	Tait Terrace	9800	F	95%	1%	2%	2%	1%	0%	F	0.0808	F	0.5106	10000	F	2012
+781695	 122	08573	     	122-8573	Ballentine Blvd	122	City of Norfolk	122	City of Norfolk	0.49	122-8834 Tait Terr	122-8613 Chesapeake Blvd	8600	F	95%	1%	2%	2%	1%	0%	F	0.0785	F	0.5126	9100	F	2012
+654267	 122	08574	     	122-8574	Willow Wood Dr	122	City of Norfolk	122	City of Norfolk	1.10	US 460 Granby St	SR 168 Tidewater Dr	11000	F	99%	1%	1%	0%	0%	0%	C	0.0953	F	0.5395	12000	F	2012
+654243	 122	08575	     	122-8575	St Pauls Blvd	122	City of Norfolk	122	City of Norfolk	0.31	ALT SR 337 Waterside Dr	Alt US 460; Market St	14000	G	99%	1%	1%	0%	0%	0%	F				14000	G	2012
+654536	 122	08575	     	122-8575	Fenchurch St	122	City of Norfolk	122	City of Norfolk	0.41	Alt US 460; Market St	US 460 Brambleton Ave	6400	F	99%	1%	1%	0%	0%	0%	F	0.0812	F	0.7254	6800	F	2012
+654294	 122	08575	     	122-8575	Church St	122	City of Norfolk	122	City of Norfolk	0.23	US 460 Brambleton Ave	US 58 Virginia Beach Blvd	14000	F	97%	1%	1%	1%	1%	0%	F	0.0849	F	0.5810	15000	F	2012
+654523	 122	08575	     	122-8575	Church St	122	City of Norfolk	122	City of Norfolk	0.13	US 58 Virginia Beach Blvd	Princess Anne Rd	15000	F	97%	1%	1%	1%	1%	0%	F	0.0886	F	0.5693	16000	F	2012
+654295	 122	08575	     	122-8575	Church St	122	City of Norfolk	122	City of Norfolk	0.84	Princess Anne Rd	SR 247 Lafayette Blvd; 26th Street	18000	F	97%	1%	1%	1%	1%	0%	C	0.0865	F	0.5437	19000	F	2012
+654524	 122	08575	     	122-8575	Church St	122	City of Norfolk	122	City of Norfolk	0.05	SR 247 Lafayette Blvd; 26th Street	27th St	13000	F	97%	1%	1%	1%	1%	0%	F	0.0814	F	0.5183	14000	F	2012
+654296	 122	08575	     	122-8575	Church St	122	City of Norfolk	122	City of Norfolk	0.21	27th St	US 460 Granby St; Monticello Ave	10000	F	97%	1%	1%	1%	1%	0%	F	0.0857	F	0.5803	11000	F	2012
+781696	 122	08576	     	122-8576	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.62	Dead End	SR 337 Hampton Blvd	970	F	97%	1%	1%	1%	0%	0%	C	0.1315	F	0.5474	1000	F	2012
+654574	 122	08576	     	122-8576	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.08	SR 337 Hampton Blvd	Colley Ave	6200	F	97%	1%	2%	0%	0%	0%	F	0.0748	F	0.5010	6600	F	2012
+654225	 122	08576	     	122-8576	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.32	Colley Ave	Colonial Ave	8500	F	97%	1%	2%	0%	0%	0%	F	0.0789	F	0.5849	9100	F	2012
+781697	 122	08576	     	122-8576	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.18	122-8565 Colonial Ave	Llewellyn Ave	11000	F	97%	1%	2%	0%	0%	0%	F	0.0811	F	0.5303	12000	F	2012
+654226	 122	08576	     	122-8576	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.28	Llewellyn Ave	Monticello Ave	11000	F	97%	1%	2%	0%	0%	0%	F	0.0771	F	0.5488	11000	F	2012
+654227	 122	08576	     	122-8576	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.49	Monticello Ave	Church St	8500	F	97%	1%	2%	0%	0%	0%	C	0.0876	F	0.5873	9100	F	2012
+654576	 122	08576	     	122-8576	Princess Anne Rd	122	City of Norfolk	122	City of Norfolk	0.29	Church St	Tidewater Dr	12000	F	97%	1%	2%	0%	0%	0%	F	0.0849	F	0.5218	13000	F	2012
+654521	 122	08580	     	122-8580	Charlotte St	122	City of Norfolk	122	City of Norfolk	0.17	Monticello Ave	US 460 Bus Wood St	3400	G							X				3600	G	2012
+654553	 122	08580	     	122-8580	Wood St	122	City of Norfolk	122	City of Norfolk	0.13	Bus US 460	Fenchurch St	1100	F							X	0.1143	F	0.6727	1200	F	2012
+654522	 122	08580	     	122-8580	Charlotte St	122	City of Norfolk	122	City of Norfolk	0.32	Fenchurch St	Tidewater Dr	1900	F	98%	0%	1%	1%	0%	0%	F	0.0968	F	0.6327	2000	F	2012
+654537	 122	08581	     	122-8581	Fishermans Rd	122	City of Norfolk	122	City of Norfolk	0.44	Chesapeake Blvd	Sturgis Rd	4300	F	98%	0%	1%	1%	0%	0%	C	0.0959	F	0.6105	4600	F	2012
+654617	 122	08581	     	122-8581	Sturgis Rd	122	City of Norfolk	122	City of Norfolk	0.11	Fishermans Rd	Bay View Blvd	670	F	98%	0%	1%	1%	0%	0%	F	0.1604	F	0.5664	720	F	2012
+654586	 122	08581	     	122-8581	Sturgis St	122	City of Norfolk	122	City of Norfolk	0.64	Bay View Blvd	Ocean View Ave	1400	F	98%	0%	1%	1%	0%	0%	F	0.0958	F	0.6224	1500	F	2012
+781698	 122	08582	     	122-8582	City Hall Ave	122	City of Norfolk	122	City of Norfolk	0.14	Alt SR 337 Bouch St	Monticello Ave	0	?							X
+150161	 122	08582	     	122-8582	City Hall Ave	122	City of Norfolk	122	City of Norfolk	0.45	Monticello Ave	Alt US 460	0	?							X								29000	F							X					
+150162	 122	08582	     	122-8582	City Hall Ave	122	City of Norfolk	122	City of Norfolk	0.18	Alt US 460	122-8582-E001B MARKET STREET CONN UNDERPA	0	?							X
+804252	 122	08582	E001A	122-8582 EB Exit 001A	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.10	122-08582(B)/TO RTE 264 WEST	A1US-00460-P(L)/IS-00264-W(B)/FROM ST PAULS B	0	?							X
+804253	 122	08582	E001B	122-8582 EB Exit 001B	 	122	City of Norfolk	064	Norfolk Maintenance Area	0.45	122-08582(U)/MARKET STREET CONN UNDERPASS	IS-00264-E(B)/FROM CITY HALL AVENUE	0	?							X
+654191	 122	08585	     	122-8585	Main St	122	City of Norfolk	122	City of Norfolk	0.25	Boush St	Bank St	4600	F	98%	0%	1%	1%	0%	0%	F	0.1080	F	0.5154	5000	F	2012
+654605	 122	08585	     	122-8585	Bank St	122	City of Norfolk	122	City of Norfolk	0.16	Main St	A1US 460-P City Hall Ave	3500	G	98%	0%	1%	1%	0%	0%	F				3700	G	2012
+554024	 122	08586	     	122-8586	Plume St	122	City of Norfolk	122	City of Norfolk	0.42	Boush St	St Pauls Blvd	2500	F	98%	0%	1%	1%	0%	0%	F	0.1423	F	0.7472	2600	F	2012
+654531	 122	08588	     	122-8588	Corprew Ave	122	City of Norfolk	122	City of Norfolk	0.77	Park Ave	Merrimac Ave	4900	F	98%	0%	1%	1%	0%	0%	F	0.0782	F	0.6203	5300	F	2012
+781699	 122	08590	     	122-8590	Indian River Rd	122	City of Norfolk	122	City of Norfolk	0.23	SR 337 State St	Main Street	1200	F	98%	0%	1%	1%	0%	0%	F	0.1808	F	0.9259	1300	F	2012
+654166	 122	08590	     	122-8590	Indian River Rd	122	City of Norfolk	122	City of Norfolk	0.66	Main Street	Marsh St	2700	F	98%	0%	1%	1%	0%	0%	C	0.1306	F	0.6260	2900	F	2012
+781700	 122	08590	     	122-8590	Indian River Rd	122	City of Norfolk	122	City of Norfolk	0.53	Berkley Ave	US 460 Wilson Rd	13000	F	98%	0%	1%	1%	0%	0%	F	0.0913	F	0.6927	14000	F	2012
+654180	 122	08591	     	122-8591	Liberty St	122	City of Norfolk	122	City of Norfolk	0.57	SR 337 Main S	WCL Chesapeake	4400	F							X	0.0895	F	0.5042	4700	F	2012
+654516	 122	08592	     	122-8592	Berkley Ave	122	City of Norfolk	122	City of Norfolk	0.11	State St	Main St	12000	F	97%	1%	1%	1%	0%	0%	F	0.0777	F	0.5483	13000	F	2012
+654517	 122	08592	     	122-8592	Berkley Ave	122	City of Norfolk	122	City of Norfolk	0.21	Main St	Fauquier St	12000	F	97%	1%	1%	1%	0%	0%	F	0.0882	F	0.5578	13000	F	2012
+654114	 122	08592	     	122-8592	Berkley Ave Ext	122	City of Norfolk	122	City of Norfolk	0.80	Fauquier St	US 460 Wilson Rd	3800	F	97%	1%	1%	1%	0%	0%	C	0.0820	F	0.5630	4100	F	2012
+654115	 122	08592	     	122-8592	Berkley Ave Ext	122	City of Norfolk	122	City of Norfolk	0.45	US 460 Wilson Rd	Campostella Rd	3200	F	97%	1%	1%	1%	0%	0%	F	0.0816	F	0.5084	3400	F	2012
+654514	 122	08592	     	122-8592	Berkley Ave Ext	122	City of Norfolk	122	City of Norfolk	0.27	Campostella Rd	WCL Chesapeake	2700	F	97%	1%	1%	1%	0%	0%	F	0.0786	F	0.5047	2900	F	2012
+789923	 122	08592	 000A	122-8592 Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.09	1SR 337-P; 122-8592 BERKLEY AV	I-464-S FROM BERKLEY AVENUE	1500	F							X	0.2283	F	1.0000	1500	F	2012
+654585	 122	08593	     	122-8593	Springfield Ave	122	City of Norfolk	122	City of Norfolk	0.52	Campostella Rd	Sycamore St	170	F	88%	6%	6%	1%	0%	0%	C	0.1111	F	0.5714	190	F	2012
+554025	 122	08594	     	122-8594	Spring Meadow Blvd	122	City of Norfolk	122	City of Norfolk	0.55	Military Hwy	Hunt Rd	880	F	99%	1%	0%	0%	0%	0%	C	0.0969	F	0.5591	930	F	2012
+654193	 122	08595	     	122-8595	S Main St	122	City of Norfolk	122	City of Norfolk	0.27	Liberty St	Indian River Rd	2400	F	89%	4%	6%	1%	0%	0%	C	0.1418	F	0.5069	2500	F	2012
+654590	 122	08607	     	122-8607	Village Ave/Sewells Point Rd	122	City of Norfolk	122	City of Norfolk	1.07	Ingleside Rd	Princess Anne Rd	3800	F	88%	2%	1%	3%	6%	0%	C	0.0947	F	0.5181	4100	F	2012
+654615	 122	08609	     	122-8609	North Shore Rd	122	City of Norfolk	122	City of Norfolk	0.57	Cloncurry Rd	Hampton Blvd	710	F	97%	1%	1%	0%	0%	0%	F	0.0993	F	0.6859	760	F	2012
+781702	 122	08609	     	122-8609	North Shore Rd	122	City of Norfolk	122	City of Norfolk	0.73	Hampton Blvd	Diven St	1200	F	97%	1%	1%	1%	0%	0%	F	0.0989	F	0.6718	1300	F	2012
+654534	 122	08609	     	122-8609	Diven St	122	City of Norfolk	122	City of Norfolk	0.60	North Shore Rd	International Terminal Blvd	1500	G	97%	1%	1%	0%	0%	0%	C				1500	G	2012
+781703	 122	08610	     	122-8610	Beechwood Ave	122	City of Norfolk	122	City of Norfolk	0.49	SR 337 Hampton Blvd	Beechwood Ave	250	F	99%	1%	0%	0%	0%	0%	F	0.1121	F	0.6508	260	F	2012
+654543	 122	08611	     	122-8611	Kinglsey Lane	122	City of Norfolk	122	City of Norfolk	0.25	Granby St	Newport Ave	4800	F	97%	2%	1%	0%	0%	0%	F	0.0941	F	0.7263	5100	F	2012
+654559	 122	08611	     	122-8611	Newport Ave	122	City of Norfolk	122	City of Norfolk	1.16	Kingsley Lane	Little Creek Rd	2500	F	97%	2%	1%	0%	0%	0%	C	0.0985	F	0.5523	2600	F	2012
+654548	 122	08613	     	122-8613	Maltby Ave	122	City of Norfolk	122	City of Norfolk	0.27	Princess Anne Rd	Cary St	3200	G	97%	1%	1%	1%	0%	0%	F				3400	G	2012
+654549	 122	08613	     	122-8613	Maltby Ave	122	City of Norfolk	122	City of Norfolk	0.15	Cary St	St Julian Ave	3600	G	97%	1%	1%	1%	0%	0%	F				3800	G	2012
+654550	 122	08613	     	122-8613	Maltby Ave	122	City of Norfolk	122	City of Norfolk	0.20	St Julian Ave	Rugby St	930	F	97%	1%	1%	1%	0%	0%	F	0.0954	F	0.5436	1000	F	2012
+781704	 122	08613	     	122-8613	Maltby Ave	122	City of Norfolk	122	City of Norfolk	0.12	122-8837 Rugby Street	Dead End	80	F	97%	1%	1%	1%	0%	0%	F	0.1646	F	0.5769	80	F	2012
+654621	 122	08613	     	122-8613	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	0.62	Tait Terrace	Kitchener Ave	1300	F	97%	1%	1%	1%	0%	0%	F	0.0950	F	0.5200	1400	F	2012
+781705	 122	08613	     	122-8613	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	0.10	Kitchener Ave	122-8573 Ballentine Blvd	1500	F	97%	1%	1%	1%	0%	0%	F	0.0798	F	0.5421	1600	F	2012
+798885	 122	08613	     	122-8613	Chesapeake Blvd	122	City of Norfolk	122	City of Norfolk	0.04	122-8573 Ballentine Blvd	Military Hwy	1500	N	97%	1%	1%	1%	0%	0%	N	0.0798	N	0.5421	1600	N	2012
+654284	 122	08613	     	122-8613	Norview Ave	122	City of Norfolk	122	City of Norfolk	0.51	Military Hwy	Azalea Garden Rd	13000	F	99%	0%	0%	0%	0%	0%	C	0.0789	F	0.5348	14000	F	2012
+654285	 122	08613	     	122-8613	Norview Ave	122	City of Norfolk	122	City of Norfolk	0.21	Azalea Garden Rd	Norfolk International Airport	13000	F	99%	0%	0%	0%	0%	0%	F	0.0719	F	0.5313	14000	F	2012
+654111	 122	08618	     	122-8618	Bay View Blvd	122	City of Norfolk	122	City of Norfolk	0.61	Granby St	Tidewater Dr	7600	F	99%	0%	0%	0%	0%	0%	F	0.0931	F	0.6004	8100	F	2012
+654112	 122	08618	     	122-8618	Bay View Blvd	122	City of Norfolk	122	City of Norfolk	0.52	Tidewater Dr	Chesapeake Blvd	11000	F	99%	0%	0%	0%	0%	0%	C	0.0899	F	0.6504	12000	F	2012
+654113	 122	08618	     	122-8618	Bay View Blvd	122	City of Norfolk	122	City of Norfolk	1.10	Chesapeake Blvd	Cape View Ave	6100	F	99%	0%	0%	0%	0%	0%	F	0.0906	F	0.5890	6500	F	2012
+781706	 122	08618	     	122-8618	Cape View Ave	122	City of Norfolk	122	City of Norfolk	0.41	Bay View Blvd	US 60 Ocean View Ave	4100	F	98%	0%	1%	0%	0%	0%	C	0.0906	F	0.5985	4400	F	2012
+554028	 122	08619	     	122-8619	Beach View St	122	City of Norfolk	122	City of Norfolk	0.71	Chesapeake Blvd	Ocean View St	1000	F	98%	0%	1%	0%	0%	0%	F	0.0850	F	0.5351	1100	F	2012
+654240	 122	08620	     	122-8620	Shepard Ave	122	City of Norfolk	122	City of Norfolk	0.54	Tidewater Dr	Chesapeake Blvd	1200	F	98%	0%	1%	0%	0%	0%	C	0.1047	F	0.6074	1200	F	2012
+654584	 122	08620	     	122-8620	Shepard Ave	122	City of Norfolk	122	City of Norfolk	0.49	Chesapeake Blvd	Cape View Ave	1500	F	98%	0%	1%	0%	0%	0%	F	0.0976	F	0.6375	1600	F	2012
+654520	 122	08620	     	122-8620	Cape View Ave	122	City of Norfolk	122	City of Norfolk	0.19	Sheppard Ave	Tallwood St	350	F	98%	0%	1%	0%	0%	0%	F	0.1131	F	0.5632	380	F	2012
+654519	 122	08620	     	122-8620	Cape View Ave	122	City of Norfolk	122	City of Norfolk	0.04	Tallwood St	Dead End; Gap	350	N	98%	0%	1%	0%	0%	0%	N	0.1131	N	0.5632	380	N	2012
+654126	 122	08620	     	122-8620	Cape View Ave	122	City of Norfolk	122	City of Norfolk	0.46	Sunset Drive	Bay View Blvd	550	F	98%	0%	1%	0%	0%	0%	F	0.1060	F	0.6270	590	F	2012
+654566	 122	08621	     	122-8621	Old Ocean View Rd	122	City of Norfolk	122	City of Norfolk	0.64	Little Creek Rd	Sheppard Ave	3500	F	98%	0%	1%	0%	0%	0%	F	0.0987	F	0.6528	3700	F	2012
+654565	 122	08621	     	122-8621	Old Ocean View Rd	122	City of Norfolk	122	City of Norfolk	0.73	Sheppard Ave	Bay View Blvd	3600	F	98%	0%	1%	0%	0%	0%	F	0.1065	F	0.5690	3800	F	2012
+654564	 122	08621	     	122-8621	Old Ocean View Rd	122	City of Norfolk	122	City of Norfolk	0.76	Bay View Blvd	Tidewater Dr	920	F	98%	0%	1%	0%	0%	0%	F	0.0969	F	0.6053	980	F	2012
+654512	 122	08623	     	122-8623	Bay Ave	122	City of Norfolk	122	City of Norfolk	0.33	US 460 Granby St	I-64	2900	F	98%	0%	1%	0%	0%	0%	F	0.1759	F	1.0000	3100	F	2012
+654110	 122	08623	     	122-8623	Bay Ave	122	City of Norfolk	122	City of Norfolk	0.30	I-64	First View St	17000	F	99%	0%	0%	0%	0%	0%	C	0.1086	F	0.8689	18000	F	2012
+654611	 122	08623	     	122-8623	First View St	122	City of Norfolk	122	City of Norfolk	0.36	Bay Ave	Beardon Ave	8600	G	99%	0%	0%	0%	0%	0%	F				9200	G	2012
+654612	 122	08623	     	122-8623	First View St	122	City of Norfolk	122	City of Norfolk	0.47	Beardon Ave	Cherry St	5600	G	99%	0%	0%	0%	0%	0%	F				6200	G	2012
+654613	 122	08623	     	122-8623	First View St	122	City of Norfolk	122	City of Norfolk	0.44	Cherry St	US 60 Ocean View Ave	13000	G	99%	0%	0%	0%	0%	0%	F				14000	G	2012
+654551	 122	08624	     	122-8624	Maple Ave	122	City of Norfolk	122	City of Norfolk	0.35	First View St	Dead End	800	G	99%	0%	0%	0%	0%	0%	F				860	G	2012
+654587	 122	08625	     	122-8625	Suburban Pkwy	122	City of Norfolk	122	City of Norfolk	0.87	Granby St	Thole St	1500	F	98%	1%	1%	0%	0%	0%	F	0.1327	F	0.5439	1600	F	2012
+654589	 122	08626	     	122-8626	Thole St	122	City of Norfolk	122	City of Norfolk	0.39	Granby St	Parkdale Dr	9800	F	98%	1%	1%	0%	0%	0%	F	0.0925	F	0.5515	10000	F	2012
+654246	 122	08626	     	122-8626	Thole St	122	City of Norfolk	122	City of Norfolk	0.72	Parkdale Dr	SR 168 Tidewater Dr	9800	F	98%	1%	1%	0%	0%	0%	C	0.0993	F	0.5803	11000	F	2012
+654554	 122	08629	     	122-8629	Meadow Creek Rd	122	City of Norfolk	122	City of Norfolk	0.49	Little Creek Rd	Dead End	2200	F	98%	1%	1%	0%	0%	0%	F	0.1098	F	0.5770	2300	F	2012
+654540	 122	08630	     	122-8630	Heutte Dr	122	City of Norfolk	122	City of Norfolk	1.20	Azalea Garden Rd	Shore Dr	2400	F	98%	1%	1%	0%	0%	0%	F	0.1080	F	0.5176	2500	F	2012
+789723	 122	08631	     	122-8631	Johnstons Rd	122	City of Norfolk	122	City of Norfolk	0.21	122-3 Sewells Point Road	Chesapeake Blvd	6500	F	97%	1%	1%	0%	0%	0%	C	0.0897	F	0.5689	6900	F	2012
+654172	 122	08631	     	122-8631	Johnstons Rd	122	City of Norfolk	122	City of Norfolk	0.58	Chesapeake Blvd	Military Hwy	11000	F	97%	1%	1%	0%	0%	0%	F	0.0902	F	0.6066	11000	F	2012
+654173	 122	08631	     	122-8631	Johnstons Rd	122	City of Norfolk	122	City of Norfolk	0.93	Military Hwy	Little Creek Rd	7200	F	99%	0%	1%	0%	0%	0%	C	0.0926	F	0.5114	7600	F	2012
+654538	 122	08631	     	122-8631	Halprin Dr	122	City of Norfolk	122	City of Norfolk	1.05	Little Creek Rd	Dead End	3700	F	99%	0%	1%	0%	0%	0%	F	0.1085	F	0.7044	4000	F	2012
+781707	 122	08631	     	122-8631	5th Bay St	122	City of Norfolk	122	City of Norfolk	0.16	Dead End	Pleasant Ave	440	F	99%	0%	1%	0%	0%	0%	F	0.0932	F	0.5747	470	F	2012
+654561	 122	08632	     	122-8632	Norview Ave	122	City of Norfolk	122	City of Norfolk	0.29	Tidewater Dr	Sedgefield Dr	6000	F	99%	0%	1%	0%	0%	0%	F	0.0928	F	0.6557	6400	F	2012
+654209	 122	08632	     	122-8632	Norview Ave	122	City of Norfolk	122	City of Norfolk	0.79	Sedgefield Dr	Chesapeake Blvd	5500	F	99%	0%	1%	0%	0%	0%	C	0.0982	F	0.6058	5900	F	2012
+654591	 122	08633	     	122-8633	Walters Dr	122	City of Norfolk	122	City of Norfolk	0.20	Heutte Dr	Little Creek Rd	390	F	98%	1%	0%	1%	0%	0%	F	0.1022	F	0.6344	410	F	2012
+654592	 122	08633	     	122-8633	Walters Dr	122	City of Norfolk	122	City of Norfolk	0.53	Little Creek Rd	Creekwood Rd	1200	F	98%	1%	0%	1%	0%	0%	C	0.0907	F	0.5690	1300	F	2012
+654555	 122	08634	     	122-8634	Meadow Lake Dr	122	City of Norfolk	122	City of Norfolk	0.43	Military Hwy	Aldow Dr	730	F	99%	0%	1%	0%	0%	0%	F	0.0906	F	0.5425	780	F	2012
+654232	 122	08636	     	122-8636	Robin Hood Rd	122	City of Norfolk	122	City of Norfolk	0.99	Chesapeake Blvd	Sewells Point Rd	5600	F	96%	1%	1%	1%	1%	0%	F	0.0911	F	0.5511	6000	F	2012
+654578	 122	08636	     	122-8636	Robin Hood Rd	122	City of Norfolk	122	City of Norfolk	0.36	Sewells Pt Rd	Azalea Garden Rd	4200	F	96%	1%	1%	1%	1%	0%	F	0.0942	F	0.5576	4500	F	2012
+654233	 122	08636	     	122-8636	Robin Hood Rd	122	City of Norfolk	122	City of Norfolk	0.40	Azalea Garden Rd	Ellsmere Ave	7300	F	96%	1%	1%	1%	1%	0%	C	0.0945	F	0.5347	7800	F	2012
+654579	 122	08636	     	122-8636	Robin Hood Rd	122	City of Norfolk	122	City of Norfolk	0.33	Ellsmere Ave	SR 165 North Military Hwy	9300	F	96%	1%	1%	1%	1%	0%	F	0.0961	F	0.6840	9900	F	2012
+654610	 122	08637	     	122-8637	Ballentine Blvd	122	City of Norfolk	122	City of Norfolk	0.23	122-8639 Kimball Terrace	I-264; SR 405 Ballentine Blvd; Gap	4400	F	98%	1%	1%	0%	0%	0%	C	0.0915	F	0.6018	4700	F	2012
+654266	 122	08637	     	122-8637	Merrimac Ave	122	City of Norfolk	122	City of Norfolk	0.36	US 58 Virginia Beach Blvd; Gap	SR 166 Princess Anne Rd	1100	F	98%	1%	1%	0%	0%	0%	F	0.0842	F	0.5714	1200	F	2012
+654593	 122	08638	     	122-8638	Wesleyan Dr	122	City of Norfolk	122	City of Norfolk	0.36	Northampton Blvd	WCL Virginia Beach	18000	G	96%	1%	1%	1%	1%	0%	F				19000	G	2012
+654544	 122	08639	     	122-8639	Kimball Terrace	122	City of Norfolk	122	City of Norfolk	0.99	Brambleton Ave	Ballentine Blvd	5100	F	95%	1%	1%	1%	1%	0%	F	0.0918	F	0.6168	5500	F	2012
+654594	 122	08639	     	122-8639	Westminister Ave	122	City of Norfolk	122	City of Norfolk	0.50	Chick St	Stapleton Ave	2700	F	95%	1%	1%	1%	1%	0%	F	0.0913	F	0.5361	2900	F	2012
+781708	 122	08639	     	122-8639	Westminister Ave	122	City of Norfolk	122	City of Norfolk	0.33	Dead End	Ingleside Road	140	F	95%	1%	1%	1%	1%	0%	F	0.1318	F	0.5128	150	F	2012
+654541	 122	08639	     	122-8639	Ingleside Rd	122	City of Norfolk	122	City of Norfolk	1.00	Westminister Ave	Va Beach Blvd	3100	F	95%	1%	1%	1%	1%	0%	F	0.0960	F	0.6312	3300	F	2012
+654171	 122	08639	     	122-8639	Ingleside Rd	122	City of Norfolk	122	City of Norfolk	0.65	Va Beach Blvd	Princess Anne Rd	12000	F	95%	1%	1%	1%	1%	0%	F	0.0966	F	0.5389	13000	F	2012
+654297	 122	08639	     	122-8639	Ingleside Rd	122	City of Norfolk	122	City of Norfolk	0.46	Princess Anne Rd	Tait Terrace	13000	F	95%	1%	1%	1%	1%	0%	C	0.0910	F	0.5054	14000	F	2012
+654143	 122	08639	     	122-8639	Cromwell Rd	122	City of Norfolk	122	City of Norfolk	0.58	Tait Terrace	Chesapeake Blvd	14000	F	95%	1%	1%	1%	1%	0%	F	0.0900	F	0.5922	15000	F	2012
+654144	 122	08639	     	122-8639	Cromwell Rd	122	City of Norfolk	122	City of Norfolk	0.85	Chesapeake Blvd	Tidewater Dr	12000	F	95%	1%	1%	1%	1%	0%	F	0.0914	F	0.5004	12000	F	2012
+654102	 122	08641	     	122-8641	Azalea Garden Rd	122	City of Norfolk	122	City of Norfolk	0.79	Va Beach Blvd	Princess Anne Rd	9300	F							X	0.1002	F	0.5350	9900	F	2012
+654103	 122	08641	     	122-8641	Azalea Garden Rd	122	City of Norfolk	122	City of Norfolk	0.31	Princess Anne Rd	Sewells Pt Rd	13000	F							X	0.0983	F	0.5069	14000	F	2012
+654104	 122	08641	     	122-8641	Azalea Garden Rd	122	City of Norfolk	122	City of Norfolk	0.64	Sewells Pt Rd	Robin Hood Rd	7900	F	95%	1%	1%	1%	1%	0%	F	0.0939	F	0.5371	8400	F	2012
+654511	 122	08641	     	122-8641	Azalea Garden Rd	122	City of Norfolk	122	City of Norfolk	0.39	Robin Hood Rd	Elmhurst Ave	8200	F							X	0.0895	F	0.5587	8700	F	2012
+654105	 122	08641	     	122-8641	Azalea Garden Rd	122	City of Norfolk	122	City of Norfolk	0.42	Elmhurst Ave	Military Hwy	7100	F							X	0.0815	F	0.5055	7600	F	2012
+654300	 122	08642	     	122-8642	Raby Rd	122	City of Norfolk	122	City of Norfolk	0.25	US 58 Va Beach Blvd	Harmony Rd	10000	F	93%	3%	3%	1%	1%	0%	C	0.0824	F	0.5975	11000	F	2012
+654581	 122	08642	     	122-8642	Sabre Rd/Lowery Rd	122	City of Norfolk	122	City of Norfolk	0.45	Raby Rd	US 13 Military Hwy	9000	F	93%	3%	3%	1%	1%	0%	F	0.0781	F	0.5289	9600	F	2012
+654547	 122	08642	     	122-8642	Lowery Rd	122	City of Norfolk	122	City of Norfolk	0.43	US 13 Military Hwy	SR 165 Kempsville Rd	7400	F	93%	3%	3%	1%	1%	0%	F	0.1008	F	0.5078	7900	F	2012
+654570	 122	08644	     	122-8644	Poplar Hall Dr	122	City of Norfolk	122	City of Norfolk	0.56	Sandpiper Lane	US 13 Military Hwy	1700	F	98%	1%	1%	0%	0%	0%	F	0.0890	F	0.5626	1900	F	2012
+654571	 122	08644	     	122-8644	Poplar Hall Dr	122	City of Norfolk	122	City of Norfolk	0.59	US 13 Military Hwy	Glenrock Rd	13000	F	98%	1%	1%	0%	0%	0%	C	0.0960	F	0.5838	14000	F	2012
+654614	 122	08644	     	122-8644	Glenrock Rd	122	City of Norfolk	122	City of Norfolk	0.40	Poplar Hall Dr	US 58 Va Beach Blvd	5600	F	98%	1%	1%	0%	0%	0%	F	0.1020	F	0.5357	6000	F	2012
+781709	 122	08646	     	122-8646	S Military Hwy	122	City of Norfolk	122	City of Norfolk	0.19	Curlew Dr	Sellger Dr	2900	F	98%	1%	1%	0%	0%	0%	F	0.0940	F	0.6699	3100	F	2012
+654583	 122	08646	     	122-8646	Sellger Dr	122	City of Norfolk	122	City of Norfolk	0.59	Military Hwy	Kidd Blvd	3200	F	98%	1%	1%	0%	0%	0%	C	0.1018	F	0.5419	3400	F	2012
+654542	 122	08646	     	122-8646	Kidd Blvd	122	City of Norfolk	122	City of Norfolk	0.24	Sellger Dr	Curlew Dr	2600	F	98%	1%	1%	0%	0%	0%	F	0.1003	F	0.5260	2800	F	2012
+784987	 122	08678	     	122-8678	Newtown Rd	122	City of Norfolk	122	City of Norfolk	0.57	Susquehanna Dr	SR 165 Princess Anne Rd	5400	F	98%	0%	1%	0%	0%	0%	F	0.0905	F	0.6283	5800	F	2012
+654560	 122	08678	     	122-8678	Newtown Rd	122	City of Norfolk	122	City of Norfolk	0.16	US 58 Va Beach Blvd	NCL Va Beach	38000	F	98%	0%	1%	0%	0%	0%	C	0.0824	F	0.5076	40000	F	2012
+654539	 122	08754	     	122-8754	Herbert St	122	City of Norfolk	122	City of Norfolk	0.42	Robin Hood Rd	Windermere Ave	500	F	97%	2%	2%	0%	0%	0%	C	0.1078	F	0.6379	530	F	2012
+654500	 122	08754	     	122-8754	Windermere Ave	122	City of Norfolk	122	City of Norfolk	0.23	Herbert St	Sewells Pt Rd	350	F	97%	2%	2%	0%	0%	0%	F	0.1185	F	0.5977	380	F	2012
+654577	 122	08763	     	122-8763	Raleigh Ave	122	City of Norfolk	122	City of Norfolk	0.15	Cul-de-Sac	Claremont St	1800	F	93%	1%	1%	2%	3%	0%	C	0.1098	F	0.5511	1900	F	2012
+654582	 122	08765	     	122-8765	Sedgefield Dr	122	City of Norfolk	122	City of Norfolk	0.54	Norview Ave	Philpotts Rd	1200	F	93%	3%	3%	1%	1%	0%	F	0.1165	F	0.5719	1300	F	2012
+654501	 122	08766	     	122-8766	Pleasant Ave	122	City of Norfolk	122	City of Norfolk	1.18	5Th Bay St	Shore Dr	1000	F	96%	2%	2%	1%	0%	0%	F	0.1171	F	0.5171	1100	F	2012
+783021	 122	08766	     	122-8766	Pleasant Ave	122	City of Norfolk	122	City of Norfolk	0.49	US 60 Shore Ave	30th Bay Street	1300	F	96%	2%	2%	1%	0%	0%	C	0.0946	F	0.6119	1400	F	2012
+654562	 122	08767	     	122-8767	Norway Place	122	City of Norfolk	122	City of Norfolk	0.76	Versailles Ave	Willow Wood Dr	1100	F	97%	1%	1%	1%	0%	0%	F	0.1488	F	0.5083	1200	F	2012
+654535	 122	08768	     	122-8768	Dominion Ave	122	City of Norfolk	122	City of Norfolk	1.49	Meadow Creek Rd	Walters Dr	1300	F	97%	1%	1%	1%	0%	0%	F	0.1153	F	0.5313	1400	F	2012
+654510	 122	08770	     	122-8770	Alsace Ave	122	City of Norfolk	122	City of Norfolk	0.16	Elmore Place	Tidewater Dr	1000	F	97%	1%	1%	1%	0%	0%	F	0.1708	F	0.6892	1100	F	2012
+654298	 122	08780	     	122-8780	Lindenwood Ave	122	City of Norfolk	122	City of Norfolk	0.52	26Th St	Tidewater Dr	3800	F	97%	1%	1%	1%	0%	0%	C	0.0873	F	0.5284	4100	F	2012
+654557	 122	08782	     	122-8782	Muskogee Ave	122	City of Norfolk	122	City of Norfolk	0.29	Tappahannock Dr	Tidewater Dr	1500	F	97%	1%	2%	0%	0%	0%	F	0.1097	F	0.6639	1600	F	2012
+654568	 122	08782	     	122-8782	Philpotts Rd	122	City of Norfolk	122	City of Norfolk	0.80	Tidewater Dr	Sewells Point Rd	1900	F	97%	1%	2%	0%	0%	0%	C	0.0986	F	0.6207	2000	F	2012
+654532	 122	08784	     	122-8784	Curlew Dr	122	City of Norfolk	122	City of Norfolk	1.61	Huntsman Rd	Newtown Rd	3700	F	98%	1%	1%	1%	0%	0%	F	0.1208	F	0.5416	4000	F	2012
+654506	 122	08791	     	122-8791	35th St	122	City of Norfolk	122	City of Norfolk	0.22	Hampton Blvd	Killam Ave	1600	F	98%	1%	1%	1%	0%	0%	F	0.1006	F	0.5051	1700	F	2012
+654505	 122	08791	     	122-8791	35th St	122	City of Norfolk	122	City of Norfolk	0.18	Killam Ave	Colley Ave	2200	F	98%	1%	1%	1%	0%	0%	F	0.0982	F	0.5799	2300	F	2012
+654275	 122	08791	     	122-8791	35th St	122	City of Norfolk	122	City of Norfolk	0.47	Colley Ave	Debree Ave	3700	F	98%	1%	1%	1%	0%	0%	C	0.0923	F	0.5787	3900	F	2012
+654503	 122	08791	     	122-8791	35th St	122	City of Norfolk	122	City of Norfolk	0.08	Debree Ave	Llewellyn Ave	4100	F	98%	1%	1%	1%	0%	0%	F	0.0853	F	0.5497	4400	F	2012
+654504	 122	08791	     	122-8791	35th St	122	City of Norfolk	122	City of Norfolk	0.16	Llewellyn Ave	Granby St	3700	F	98%	1%	1%	1%	0%	0%	F	0.0766	F	0.6814	3900	F	2012
+654556	 122	08795	     	122-8795	Mowbray Arch	122	City of Norfolk	122	City of Norfolk	0.66	Olney Rd W	Olney Rd E	530	F	98%	1%	1%	1%	0%	0%	F	0.1071	F	0.5159	570	F	2012
+654588	 122	08834	     	122-8834	Tait Terrace	122	City of Norfolk	122	City of Norfolk	0.09	Ballentine Blvd	Ingleside Rd	2300	F	98%	1%	1%	1%	0%	0%	F	0.0901	F	0.5212	2500	F	2012
+654563	 122	08836	     	122-8836	Ocean View Ave	122	City of Norfolk	122	City of Norfolk	0.44	21St Street	28Th Street	280	G	98%	1%	1%	1%	0%	0%	F				300	G	2012
+654580	 122	08837	     	122-8837	Rugby St	122	City of Norfolk	122	City of Norfolk	0.33	Tidewater Dr	Maltby Ave	1100	F	98%	1%	1%	1%	0%	0%	F	0.1024	F	0.5084	1100	F	2012
+781715	 122	08838	     	122-8838	Poplar Hall  Dr	122	City of Norfolk	122	City of Norfolk	0.41	122-8644 Glenrock Rd	US 58 Va Beach Blvd	8100	F	99%	0%	0%	0%	0%	0%	C	0.1100	F	0.6002	8600	F	2012
+781717	 122	08840	     	122-8840	Atlantic St	122	City of Norfolk	122	City of Norfolk	0.07	A1SR 337 Waterside Dr	122-8585 Main Street	3400	G	97%	1%	1%	1%	0%	0%	F				3700	G	2012
+781718	 122	99001	 000A	122-99001 Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.03	I-64-E272A BAYVILLE STREET FROM & T	I-64-E FROM BAYVILLE STREET	640	F							X	0.1218	F	1.0000	640	F	2012
+781719	 122	99002	 000A	122-99002 Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.13	New Gate Rd	I-64 E	1200	F							X	0.1523	F	1.0000	1200	F	2012
+789724	 122	99017	 000A	122-99017 Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.10	SR 337	I-464 South	1800	F	97%	1%	0%	1%	1%	0%	F	0.2198	F	1.0000	1900	F	2012
+790877	 122	99026	 000A	122-99026 Exit 000A	Ramp	122	City of Norfolk	064	Norfolk Maintenance Area	0.06	ROBIN HOOD ROAD	SR 165-N034A FROM ROBIN HOOD ROAD	0	?							X
+554037	 122	00000	     	122-0	16th Bay St	122	City of Norfolk	122	City of Norfolk	0.00	Ocean View Ave	Pleasant Ave	410	F							X	0.0912	F	0.5663	440	F	2012
+554010	 122	00000	     	122-0	24th St	122	City of Norfolk	122	City of Norfolk	0.00	Llewellyn Ave	Omohundro Ave	410	F							X	0.1239	F	0.6759	440	F	2012
+554009	 122	00000	     	122-0	36th St	122	City of Norfolk	122	City of Norfolk	0.00	Killam Ave	Colley Ave	440	F							X	0.0894	F	0.5368	470	F	2012
+554007	 122	00000	     	122-0	45th St	122	City of Norfolk	122	City of Norfolk	0.00	Colley Ave	Hampton Blvd	2400	F							X	0.1070	F	0.5313	2600	F	2012
+554748	 122	00000	     	122-0	Albert Ave	122	City of Norfolk	122	City of Norfolk	0.00	Glen Oak Dr	Pugh St	120	F							X	0.1288	F	0.5588	130	F	2012
+554736	 122	00000	     	122-0	Almeda Ave	122	City of Norfolk	122	City of Norfolk	0.00	Robin Hood Rd	Henneman Dr	3500	F							X	0.0987	F	0.5889	3800	F	2012
+554017	 122	00000	     	122-0	Arlington Ave	122	City of Norfolk	122	City of Norfolk	0.00	Campostella Rd	Oakwood St	180	F							X	0.0935	F	0.8462	190	F	2012
+554054	 122	00000	     	122-0	Berry Hill Rd	122	City of Norfolk	122	City of Norfolk	0.00	Brookville Rd	Poplar Hall Dr	320	F							X	0.0989	F	0.5635	350	F	2012
+554043	 122	00000	     	122-0	Brentwood Dr	122	City of Norfolk	122	City of Norfolk	0.00	Merrit St	Glade Rd	1100	F							X	0.0870	F	0.5550	1200	F	2012
+554738	 122	00000	     	122-0	Brookville Rd	122	City of Norfolk	122	City of Norfolk	0.00	Barn Hollow Rd	Bayberry Dr	220	F							X	0.1252	F	0.5588	240	F	2012
+554741	 122	00000	     	122-0	Burksdale Rd	122	City of Norfolk	122	City of Norfolk	0.00	Old Ocean View Rd	Colin Dr	620	F							X	0.0882	F	0.6860	670	F	2012
+554045	 122	00000	     	122-0	Camelia Rd	122	City of Norfolk	122	City of Norfolk	0.00	Ridgefield Dr	Faber Rd	450	F							X	0.0896	F	0.5393	480	F	2012
+554058	 122	00000	     	122-0	Carlisle Way	122	City of Norfolk	122	City of Norfolk	0.00	Newport Ave	Colonial Ave	290	G							X				290	G	2012
+554746	 122	00000	     	122-0	Catherine St	122	City of Norfolk	122	City of Norfolk	0.00	Oak Grove Rd	Sinclair St	130	F							X	0.1625	F	0.7556	140	F	2012
+554735	 122	00000	     	122-0	Chambers St	122	City of Norfolk	122	City of Norfolk	0.00	Wellman St	Frizzell Ave	200	F							X	0.1244	F	0.5849	210	F	2012
+554001	 122	00000	     	122-0	Commodore Dr	122	City of Norfolk	122	City of Norfolk	0.00	Swanson Rd	Rodman Rd	350	F							X	0.0999	F	0.5132	370	F	2012
+554015	 122	00000	     	122-0	Cornick Rd	122	City of Norfolk	122	City of Norfolk	0.00	Kempsville Rd	Mary Ave	150	F							X	0.1253	F	0.5111	160	F	2012
+554046	 122	00000	     	122-0	Dean Dr	122	City of Norfolk	122	City of Norfolk	0.00	Beatty St	Millard St	120	F							X	0.0996	F	0.5556	130	F	2012
+554020	 122	00000	     	122-0	Decker St	122	City of Norfolk	122	City of Norfolk	0.00	Springfield Ave	Wheeling Ave	70	F							X	0.1701	F	0.5600	70	F	2012
+554740	 122	00000	     	122-0	Dixie Dr	122	City of Norfolk	122	City of Norfolk	0.00	Galveston Blvd	Glen Rd	370	F							X	0.1065	F	0.5652	400	F	2012
+554014	 122	00000	     	122-0	Dunway St	122	City of Norfolk	122	City of Norfolk	0.00	Beamon Rd	Kennebeck Ave	90	F							X	0.1476	F	0.6774	100	F	2012
+554049	 122	00000	     	122-0	Elmhurst Ave	122	City of Norfolk	122	City of Norfolk	0.00	Herbert St	Thomas St	700	F							X	0.1084	F	0.6154	740	F	2012
+554003	 122	00000	     	122-0	Evans St	122	City of Norfolk	122	City of Norfolk	0.00	Haven Dr	Stratford St	560	F							X	0.1442	F	0.7136	590	F	2012
+554050	 122	00000	     	122-0	Faulk Rd	122	City of Norfolk	122	City of Norfolk	0.00	Whitney Blvd	McClure Rd	220	F							X	0.1133	F	0.6207	230	F	2012
+554731	 122	00000	     	122-0	Finney St	122	City of Norfolk	122	City of Norfolk	0.00	Wellman St	Dead End	120	F							X	0.1504	F	0.5185	130	F	2012
+554038	 122	00000	     	122-0	Frank St	122	City of Norfolk	122	City of Norfolk	0.00	Pythian Ave	Quincy St	150	F							X	0.1433	F	0.7826	160	F	2012
+554056	 122	00000	     	122-0	Gabriel Dr	122	City of Norfolk	122	City of Norfolk	0.00	River Oaks Dr	Roslyn Dr	190	F							X	0.1207	F	0.6071	210	F	2012
+554060	 122	00000	     	122-0	Gardner Dr	122	City of Norfolk	122	City of Norfolk	0.00	Springmeadow Blvd	Banning Rd	700	G							X				700	G	2012
+554733	 122	00000	     	122-0	George St	122	City of Norfolk	122	City of Norfolk	0.00	Hudson Ave	Cabot Ave	1100	F							X	0.0922	F	0.6456	1100	F	2012
+554747	 122	00000	     	122-0	Glen Rd	122	City of Norfolk	122	City of Norfolk	0.00	Keene Rd	Bee Pl	560	F							X	0.0911	F	0.5179	600	F	2012
+554062	 122	00000	     	122-0	Gosnold Avenue	122	City of Norfolk	122	City of Norfolk	0.00	Virginia Ave	Maryland Ave	690	G							X				690	G	2012
+554739	 122	00000	     	122-0	Hammet Ave	122	City of Norfolk	122	City of Norfolk	0.00	New St	Dune St	190	F							X	0.1244	F	0.6154	200	F	2012
+554035	 122	00000	     	122-0	Hanbury St	122	City of Norfolk	122	City of Norfolk	0.00	Granby Ave	Ballentine Blvd	590	F							X	0.1044	F	0.5612	630	F	2012
+554737	 122	00000	     	122-0	Harmony Rd	122	City of Norfolk	122	City of Norfolk	0.00	Raby Rd	Quail Rd	1000	F							X	0.1267	F	0.5447	1100	F	2012
+554742	 122	00000	     	122-0	Hilton St	122	City of Norfolk	122	City of Norfolk	0.00	Military Hwy	Caribou Ave	1400	F							X	0.0871	F	0.5185	1500	F	2012
+554051	 122	00000	     	122-0	Inventors Rd	122	City of Norfolk	122	City of Norfolk	0.00	Gondola Rd	Production Rd	400	F							X	0.1958	F	0.7574	420	F	2012
+554012	 122	00000	     	122-0	Iowa Ave	122	City of Norfolk	122	City of Norfolk	0.00	Thurston St	Besse St	580	F							X	0.0972	F	0.6667	620	F	2012
+554048	 122	00000	     	122-0	Jersey Ave	122	City of Norfolk	122	City of Norfolk	0.00	Nottoway St	Amherst St	430	F							X	0.1066	F	0.7115	460	F	2012
+554061	 122	00000	     	122-0	Kennebec Avenue	122	City of Norfolk	122	City of Norfolk	0.00	Sewells Point Rd	Humboldt St	1300	G							X				1300	G	2012
+554055	 122	00000	     	122-0	Kingwood Ave	122	City of Norfolk	122	City of Norfolk	0.00	Village Ave	Va Beach Blvd	1800	F							X	0.0924	F	0.5504	1900	F	2012
+554018	 122	00000	     	122-0	Lancaster St	122	City of Norfolk	122	City of Norfolk	0.00	Liberty St	Walker Ave	670	F							X	0.1122	F	0.5941	710	F	2012
+554042	 122	00000	     	122-0	Lion Ave	122	City of Norfolk	122	City of Norfolk	0.00	Eagle Ave	Little Creek Rd	410	F							X	0.1640	F	0.7260	430	F	2012
+554006	 122	00000	     	122-0	Magnolia Ave	122	City of Norfolk	122	City of Norfolk	0.00	Carlllo Ave	Upper Brandon Pl.	1800	F							X	0.1045	F	0.5304	1900	F	2012
+554033	 122	00000	     	122-0	Marshall Ave	122	City of Norfolk	122	City of Norfolk	0.00	Olney Rd	Brambleton Ave	1300	F							X	0.1206	F	0.5565	1400	F	2012
+554732	 122	00000	     	122-0	McGuinnis Cir	122	City of Norfolk	122	City of Norfolk	0.00	Whitney Blvd	Faulk Ave	230	F							X	0.1210	F	0.5333	240	F	2012
+554745	 122	00000	     	122-0	Millbrook Rd	122	City of Norfolk	122	City of Norfolk	0.00	Colony Pt Rd	Ruthven Rd	170	F							X	0.1058	F	0.6190	180	F	2012
+554013	 122	00000	     	122-0	Miller Store Rd	122	City of Norfolk	122	City of Norfolk	0.00	Azalea Garden Rd	Wise St	2100	F							X	0.1095	F	0.7476	2200	F	2012
+554059	 122	00000	     	122-0	Mona Avenue	122	City of Norfolk	122	City of Norfolk	0.00	Elaine Ave	Calvin Ave	2000	G							X				2000	G	2012
+554039	 122	00000	     	122-0	Murry Ave	122	City of Norfolk	122	City of Norfolk	0.00	Tarpon Pl	Azalea Garden Rd	150	F							X	0.1280	F	0.5581	160	F	2012
+554008	 122	00000	     	122-0	New York Ave	122	City of Norfolk	122	City of Norfolk	0.00	Newport Ave	Colonial Ave	220	F							X	0.1184	F	0.6786	230	F	2012
+554004	 122	00000	     	122-0	Norman Ave	122	City of Norfolk	122	City of Norfolk	0.00	Tidewater Dr	Old Ocean View Rd	740	F							X	0.0924	F	0.5987	790	F	2012
+554744	 122	00000	     	122-0	Oxford St	122	City of Norfolk	122	City of Norfolk	0.00	Colonial Ave	Granby St	1900	F							X	0.1076	F	0.6822	2000	F	2012
+554041	 122	00000	     	122-0	Patridge St	122	City of Norfolk	122	City of Norfolk	0.00	Winward Rd	Palem Rd	1100	F							X	0.2092	F	0.7827	1200	F	2012
+554002	 122	00000	     	122-0	Pinedale St	122	City of Norfolk	122	City of Norfolk	0.00	Euwanee Pl	E Chester St	150	F							X	0.1128	F	0.8649	160	F	2012
+554019	 122	00000	     	122-0	Selden Ave	122	City of Norfolk	122	City of Norfolk	0.00	Hatton St	Cass St	320	F							X	0.1239	F	0.6829	340	F	2012
+554026	 122	00000	     	122-0	Shorewood Dr	122	City of Norfolk	122	City of Norfolk	0.00	Woodbine Rd	Levine Ct	310	F							X	0.0873	F	0.6290	330	F	2012
+554005	 122	00000	     	122-0	Simons Dr	122	City of Norfolk	122	City of Norfolk	0.00	Dixie Dr	Marchant Rd	960	F							X	0.0935	F	0.6364	1000	F	2012
+554036	 122	00000	     	122-0	Summit Ave	122	City of Norfolk	122	City of Norfolk	0.00	West Ave	Middle Ave	120	F							X	0.2105	F	0.5000	130	F	2012
+554057	 122	00000	     	122-0	Tait Terrace	122	City of Norfolk	122	City of Norfolk	0.00	Arkansas Ave	Wyoming Ave	1700	F							X	0.1181	F	0.5190	1800	F	2012
+554052	 122	00000	     	122-0	Tennessee Ave	122	City of Norfolk	122	City of Norfolk	0.00	Wakefield Ave	Ingleside Rd	170	F							X	0.1350	F	0.6327	180	F	2012
+554743	 122	00000	     	122-0	Tifton Dr	122	City of Norfolk	122	City of Norfolk	0.00	Workwood Rd	Lasser Dr	160	F							X	0.1096	F	0.6410	170	F	2012
+554734	 122	00000	     	122-0	Tuttle Ave	122	City of Norfolk	122	City of Norfolk	0.00	George St	Dead End	120	F							X	0.1288	F	0.5294	130	F	2012
+554047	 122	00000	     	122-0	University Dr	122	City of Norfolk	122	City of Norfolk	0.00	Tifton St	Workwood Rd	320	F							X	0.1150	F	0.6220	340	F	2012
+554044	 122	00000	     	122-0	Vero St	122	City of Norfolk	122	City of Norfolk	0.00	Old Ocean View Rd	Chesapeake Blvd	560	F							X	0.0964	F	0.6271	590	F	2012
+554053	 122	00000	     	122-0	Welaka Rd	122	City of Norfolk	122	City of Norfolk	0.00	Huntsman Rd	Kimberly Lane	46	F							X	0.1919	F	0.5263	49	F	2012
+554040	 122	00000	     	122-0	Wellington St	122	City of Norfolk	122	City of Norfolk	0.00	Texas Ave	Windermere Ave	250	F							X	0.1382	F	0.5789	260	F	2012
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									

@@ -1,0 +1,538 @@
+Virginia Department of Transportation																																										
+Traffic Engineering Division																																										
+2012																																										
+Annual Average Daily Traffic Volume Estimates By Section of Route																																										
+City of Virginia Beach																																										
+																													Parallel Facilities Combined													
+Link ID	Route Prefix	Route Number	Route Suffix	Route Label	Route Alias	Physical Jurisdiction		Maintenance Jurisdiction		Link Length	Start Label	End Label	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality	Data Date	Comment	AADT	AADT Quality	Percent 2 and 4 Tire Vehicles	Percent Busses	Percent Single Unit Trucks 2 Axle	Percent Single Unit Trucks 3+ Axle	Percent Combination Trucks 1 Trailer	Percent Combination Trucks 2+ Trailer	Vehicle Classification Quality	K Factor	K Factor Quality	Direction Factor	AAWDT	AAWDT Quality
+677763	  US	00013	     	US 13	Military Hwy	134	City of Virginia Beach	134	City of Virginia Beach	0.67	NCL Chesapeake	Indian River Rd	27000	F	98%	0%	1%	0%	1%	0%	C	0.1088	F	0.6109	29000	F	2012
+677385	  US	00013	     	US 13	Military Hwy	134	City of Virginia Beach	134	City of Virginia Beach	1.02	Indian River Rd	SCL Norfolk	45000	F	98%	0%	1%	0%	0%	0%	F	0.1116	F	0.6091	49000	F	2012
+677767	  US	00013	     	US 13, VA 166	Northampton Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.95	NCL Norfolk	SR 166 Diamond Springs Rd	61000	F	97%	0%	1%	0%	2%	0%	F	0.0727	F	0.5393	64000	F	2012
+677768	  US	00013	     	US 13	Northampton Blvd	134	City of Virginia Beach	134	City of Virginia Beach	2.14	SR 166 Diamond Springs Rd	SR 225 Independence Blvd	37000	A	97%	0%	1%	0%	2%	0%	C	0.0948	A	0.6029	38000	A	2012
+677769	  US	00013	     	US 13	Northampton Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.19	SR 225 Independence Blvd	US 60 Shore Dr	24000	F	97%	0%	1%	0%	2%	0%	F	0.0763	F	0.5815	25000	F	2012
+677832	  US	00013	     	US 13	Northampton Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.78	US 60 Shore Dr	NCL Virginia Beach	10000	F	97%	0%	1%	0%	2%	0%	F	0.0777	F	0.5108	11000	F	2012
+781282	  US	00017	     	I-464 NB Exit 001B, US 17	Ramp	134	City of Virginia Beach	064	Norfolk Maintenance Area	0.20	I-64	IS-00064-E(B)/IS-00464-N001B(L)/FROM RT 464 N	0	?							X							
+677804	  US	00058	     	US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.33	ECL Norfolk; Newtown Rd	SR 190 Witchduck Rd	41000	F	98%	1%	1%	0%	0%	0%	C	0.0946	F	0.5861	38000	F	2012
+677805	  US	00058	     	US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.11	SR 190 Witchduck Rd	SR 225 Independence Blvd	42000	G	98%	1%	1%	0%	0%	0%	F	0.1035	F	0.5527	39000	G	2012
+677806	  US	00058	     	US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	2.18	SR 225 Independence Blvd	Rosemont Rd	48000	F	98%	1%	1%	0%	0%	0%	F	0.0960	F	0.5986	44000	F	2012
+677807	  US	00058	     	US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.41	Rosemont Rd	Plaza Trail North	50000	G	98%	1%	1%	0%	0%	0%	F				48000	G	2012
+677808	  US	00058	     	US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.37	Plaza Trail North	Lynnhaven Pkwy	40000	F	98%	1%	1%	0%	0%	0%	C	0.0947	F	0.5595	37000	F	2012
+677809	  US	00058	     	US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.06	Lynnhaven Pkwy	SR 279 Great Neck Rd	42000	F	99%	0%	0%	0%	0%	0%	F	0.0864	F	0.5724	38000	F	2012
+677810	  US	00058	     	US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.14	SR 279 Great Neck Rd	Bus US 58; Va Beach Blvd	31000	F	99%	0%	0%	0%	0%	0%	F	0.0849	F	0.5723	29000	F	2012
+150103	  US	00058	     	US 58	Laskin Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.47	Bus US 58; Va Beach Blvd	First Colonial Rd	29000	A	99%	0%	0%	0%	0%	0%	C	0.0975	A	0.5853	30000	A	2012
+677747	  US	00058	     	US 58	Laskin Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.53	First Colonial Rd	Birdneck Rd	29000	F	99%	0%	0%	0%	0%	0%	C	0.0800	F	0.5235	29000	F	2012
+677748	  US	00058	     	US 58	Laskin Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.97	Birdneck Rd	US 60 Pacific Ave	27000	F	99%	0%	0%	0%	0%	0%	F	0.0756	F	0.5326	27000	F	2012
+798895	  US	00058	W503A	US 58 WB Exit 503A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.22	C7US 58-W000A TO ROUTE 58 BUS VA BEACH	I-264-W FROM ROUTE 58 & 58 BUS VA BEACH	16000	F							X	0.0816	F	1.0000	16000	F	2012
+677811	C7US	00058	     	Bus US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.40	US 58 Laskin Rd	First Colonial Rd	29000	F	98%	1%	1%	0%	0%	0%	F	0.0746	F	0.5747	30000	F	2012
+677854	C7US	00058	     	Bus US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.44	First Colonial Rd	Oceana Blvd	18000	F	98%	1%	1%	0%	0%	0%	F	0.0773	F	0.5616	16000	F	2012
+677812	C7US	00058	     	Bus US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.96	Oceana Blvd	Birdneck Rd	12000	F	98%	1%	1%	0%	0%	0%	F	0.0817	F	0.5870	11000	F	2012
+677813	C7US	00058	     	Bus US 58	Virginia Beach Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.17	Birdneck Rd	Atlantic Ave	12000	F	98%	1%	1%	0%	0%	0%	C	0.0788	F	0.5031	11000	F	2012
+789950	C7US	00058	W000A	Bus US 58 WB Exit 000A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.09	C7US 58 TO ROUTE 264 WEST	US 58-W503A TO ROUTE 58 BUS VA BEACH BL	0	?							X
+677418	  US	00060	     	US 60	Shore Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.22	ECL Norfolk	SR 166 Diamond Springs Rd	31000	F	99%	0%	0%	0%	0%	0%	F	0.0923	F	0.5440	33000	F	2012
+677796	  US	00060	     	US 60	Shore Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.81	SR 166 Diamond Springs Rd	SR 225 Independence Blvd	25000	F	99%	0%	0%	0%	0%	0%	F	0.0892	F	0.5176	27000	F	2012
+677797	  US	00060	     	US 60	Shore Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.05	SR 225 Independence Blvd	US 13 Northampton Blvd	17000	F	99%	0%	0%	0%	0%	0%	F	0.0876	F	0.5993	18000	F	2012
+150104	  US	00060	     	US 60	Shore Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.66	US 13 Northampton Blvd	Bay Lake Rd	36000	A	99%	0%	0%	0%	0%	0%	C	0.1019	A	0.6067	38000	A	2012
+677798	  US	00060	     	US 60	Shore Dr	134	City of Virginia Beach	134	City of Virginia Beach	2.60	Bay Lake Rd	SR 279 Great Neck Rd	32000	F	99%	0%	0%	0%	0%	0%	F	0.0954	F	0.5928	34000	F	2012
+677799	  US	00060	     	US 60	Shore Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.18	SR 279 Great Neck Rd	Seashore State Park Entrance	14000	F	99%	0%	0%	0%	0%	0%	F	0.0832	F	0.5135	14000	F	2012
+677800	  US	00060	     	US 60	Shore Dr	134	City of Virginia Beach	134	City of Virginia Beach	3.58	Seashore State Park Entrance	Atlantic Ave	10000	F	99%	0%	0%	0%	0%	0%	F	0.0866	F	0.5314	11000	F	2012
+677837	  US	00060	     	US 60	Atlantic Ave	134	City of Virginia Beach	134	City of Virginia Beach	2.07	83rd St	50th St	13000	F	99%	0%	0%	0%	0%	0%	F	0.0807	F	0.5268	14000	F	2012
+677710	  US	00060	     	US 60	Atlantic Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.59	50th St	Pacific Ave	17000	F	99%	0%	0%	0%	0%	0%	F	0.0782	F	0.5344	18000	F	2012
+677778	  US	00060	     	US 60	Pacific Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.73	Atlantic Ave	US 58 Laskin Rd	20000	F	99%	0%	0%	0%	0%	0%	F	0.0775	F	0.5557	21000	F	2012
+677820	  US	00060	     	US 60	Pacific Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.65	US 58 Laskin Rd	22nd St	15000	F	99%	0%	0%	0%	0%	0%	F	0.0750	F	0.5536	16000	F	2012
+677802	  US	00060	     	US 60	Pacific Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.07	22nd St	21st St	18000	F	99%	0%	0%	0%	0%	0%	F	0.0755	F	0.6368	18000	F	2012
+677777	  US	00060	     	US 60	Pacific Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.27	21st St	17th St	16000	F	99%	0%	0%	0%	0%	0%	F	0.0721	F	0.5000	17000	F	2012
+677707	  US	00060	     	US 60	Atlantic Ave	134	City of Virginia Beach	134	City of Virginia Beach	1.15	17th St	5th St	6900	F	99%	0%	1%	0%	0%	0%	F	0.0847	F	0.5198	7300	F	2012
+950169	  IS	00064	E    	I-64 EB	 	134	City of Virginia Beach	064	Norfolk Maintenance Area	1.35	ECL Norfolk	Indian River Rd	68000	A	97%	0%	1%	1%	2%	0%	C	0.1110	A	1.0000	74000	A	2012		136000	A	97%	0%	1%	1%	2%	0%	C				147000	A
+150321	  IS	00064	E    	I-64 EB	 	134	City of Virginia Beach	064	Norfolk Maintenance Area	1.57	Indian River Rd	ECL Chesapeake	63000	F	97%	0%	1%	1%	2%	0%	F				68000	F	2012		122000	G	97%	0%	0%	1%	2%	0%	F				132000	G
+781065	  IS	00064	E286A	I-64 EB Exit 286A	Ramp	134	City of Virginia Beach	064	Norfolk Maintenance Area	0.21	I-64-E TO RT 407	SR 407 FROM I-64 EAST	7300	F							X	0.1094	F	1.0000	7300	F	2012
+781066	  IS	00064	E286B	I-64 EB Exit 286B	Ramp	134	City of Virginia Beach	064	Norfolk Maintenance Area	0.20	I-64-E TO RT 407 EAST	SR 407 SR 407-W004A FROM & TO I-64	17000	F							X	0.1063	F	1.0000	17000	F	2012
+150070	  IS	00064	W    	I-64 WB	 	134	City of Virginia Beach	064	Norfolk Maintenance Area	1.75	ECL Norfolk	Indian River Rd	67000	A	97%	0%	1%	1%	1%	0%	C	0.1012	A	1.0000	72000	A	2012		136000	A	97%	0%	1%	1%	2%	0%	C				147000	A
+150071	  IS	00064	W    	I-64 WB	 	134	City of Virginia Beach	064	Norfolk Maintenance Area	1.17	Indian River Rd	ECL Chesapeake	59000	G	97%	0%	0%	1%	1%	0%	C	0.0972	A	1.0000	64000	G	2012		122000	G	97%	0%	0%	1%	2%	0%	F				132000	G
+781186	  IS	00064	W286A	I-64 WB Exit 286A	Ramp	134	City of Virginia Beach	064	Norfolk Maintenance Area	0.22	I-64-W TO RT 407 EAST	SR 407 FROM I-64 WEST	6400	F							X	0.1292	F	1.0000	6400	F	2012
+781187	  IS	00064	W286B	I-64 WB Exit 286B	Ramp	134	City of Virginia Beach	064	Norfolk Maintenance Area	0.20	I-64-W TO RT 407 EAST	SR 407 FROM I-64 WEST	11000	F							X	0.1092	F	1.0000	11000	F	2012
+677781	  SR	00149	     	VA 149	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.92	SR 165; N Landing Rd	Princess Anne Rd	24000	F	98%	0%	1%	1%	0%	0%	C	0.0781	F	0.5088	26000	F	2012
+677770	  SR	00165	     	VA 165	North Landing Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.49	ECL Chesapeake	134-8667 Salem Rd	11000	F	99%	0%	1%	0%	0%	0%	F	0.1158	F	0.5932	11000	F	2012
+677771	  SR	00165	     	VA 165	North Landing Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.64	134-8667 Salem Rd	SR 149 Princess Anne Rd	12000	F	99%	0%	1%	0%	0%	0%	C	0.1025	F	0.6322	13000	F	2012
+677852	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.68	North Landing Rd	Dam Neck Rd	25000	F	99%	0%	1%	0%	0%	0%	F	0.0780	F	0.5891	26000	F	2012
+677782	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.46	Dam Neck Rd	Independence Blvd South	43000	G	99%	0%	0%	0%	0%	0%	F				46000	G	2012
+677794	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.48	Independence Blvd Blvd	Lynnhaven Pkwy	42000	F	99%	0%	0%	0%	0%	0%	F	0.0812	F	0.5692	45000	F	2012
+677795	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.40	Lynnhaven Pkwy	Ferrell Pkwy	44000	F	99%	0%	0%	0%	0%	0%	F	0.0839	F	0.5595	47000	F	2012
+677833	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.69	Ferrell Pkwy	134-8640 Providence Rd	35000	F	99%	0%	0%	0%	0%	0%	C	0.0920	F	0.5985	38000	F	2012
+677783	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.07	134-8640 Providence Rd	134-7837 Edwin Dr	26000	F	99%	0%	0%	0%	0%	0%	F	0.0917	F	0.6060	28000	F	2012
+677784	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.19	134-7837 Edwin Dr	SR 190 Kempsville Rd	32000	F	99%	0%	0%	0%	0%	0%	F	0.0954	F	0.6335	34000	F	2012
+677785	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.62	SR 190 Kempsville Rd	134-8730 Cheyenne Rd	23000	F	99%	0%	0%	0%	0%	0%	C	0.0932	F	0.6606	25000	F	2012
+677786	  SR	00165	     	VA 165	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.31	134-8730 Cheyenne Rd	ECL Norfolk; Newtown Rd	29000	F	99%	0%	0%	0%	0%	0%	F	0.1057	F	0.5803	31000	F	2012
+677767	  SR	00166	     	US 13, VA 166	Northampton Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.95	CL Virginia Beach	US 13; Diamond Springs Rd	61000	F	97%	0%	1%	0%	2%	0%	F	0.0727	F	0.5393	64000	F	2012	
+150198	  SR	00166	     	VA 166	Diamond Springs  Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.32	US 13 Northampton Blvd	US 60 Shore Dr	27000	F	97%	0%	1%	1%	1%	0%	C	0.0817	F	0.6119	29000	F	2012
+677432	  SR	00190	     	VA 190	Kempsville Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.00	ECL Chesapeake	Centerville Tpke	30000	F	98%	0%	1%	0%	0%	0%	F	0.1018	F	0.5180	32000	F	2012
+677743	  SR	00190	     	VA 190	Kempsville Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.52	Centerville Tpke	Indian River Rd	34000	F	98%	0%	1%	0%	0%	0%	C	0.0846	F	0.5379	36000	F	2012
+677744	  SR	00190	     	VA 190	Kempsville Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.29	Indian River Rd	Providence Rd	28000	F	98%	0%	1%	0%	0%	0%	F	0.0864	F	0.5867	30000	F	2012
+677745	  SR	00190	     	VA 190	Kempsville Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.98	Providence Rd	SR 165 Princess Anne Rd	30000	F	98%	0%	1%	0%	0%	0%	C	0.0804	F	0.5114	32000	F	2012
+677814	  SR	00190	     	VA 190	Witchduck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.72	SR 165 Princess Anne Rd	I-264	25000	F	98%	1%	1%	0%	1%	0%	F	0.0716	F	0.5494	27000	F	2012
+677815	  SR	00190	     	VA 190	Witchduck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.60	I-264	US 58 Virginia Beach Blvd	31000	F	98%	1%	1%	0%	1%	0%	C	0.0788	F	0.5305	33000	F	2012
+677816	  SR	00190	     	VA 190	Witchduck Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.29	US 58 Virginia Beach Blvd	134-8740 Jericho Rd	17000	F	98%	1%	1%	0%	0%	0%	F	0.0856	F	0.5543	18000	F	2012
+677887	  SR	00190	     	VA 190	Pembroke Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.71	134-8740 Jericho Rd	SR 225 Independence Blvd	9900	F	98%	1%	1%	0%	0%	0%	C	0.0823	F	0.5117	11000	F	2012
+789601	  SR	00190	 013A	VA 190 Exit 013A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.21	SR 190-N013A FROM WITC	I-264-E FROM RT 190	6500	F							X	0.0902	F	1.0000	6500	F	2012
+789602	  SR	00190	 013B	VA 190 Exit 013B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.21	SR 190 TO I-264	I-264-W FROM RT 190	13000	F							X	0.0862	F	1.0000	13000	F	2012
+789603	  SR	00190	N013A	VA 190 NB Exit 013A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.03	SR 190 TO I-264	SR 190-S013A SR 190- 13A FROM WITC	0	?							X
+789604	  SR	00190	S013A	VA 190 SB Exit 013A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.04	SR 190 TO I-264	SR 190-N013A FROM WITC	0	?							X
+677750	  SR	00225	     	VA 225	Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.07	South Blvd	I-264	71000	N	99%	0%	0%	0%	0%	0%	N	0.0850	N	0.5799	75000	N	2012
+677731	  SR	00225	     	VA 225	Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.73	I-264	US 58 Virginia Beach Blvd	71000	F	99%	0%	0%	0%	0%	0%	F	0.0850	F	0.5799	75000	F	2012
+677732	  SR	00225	     	VA 225	Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.35	US 58 Virginia Beach Blvd	Pembroke Blvd	50000	B	99%	0%	0%	0%	0%	0%	C	0.0971	A	0.5346	53000	B	2012
+677733	  SR	00225	     	VA 225	Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.91	Pembroke Blvd	Haygood Rd	47000	F	99%	0%	0%	0%	0%	0%	F	0.0873	F	0.5308	51000	F	2012
+677734	  SR	00225	     	VA 225	Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.81	Haygood Rd	US 13 Northampton Blvd	41000	F	99%	0%	0%	0%	0%	0%	F	0.0883	F	0.5547	44000	F	2012
+677735	  SR	00225	     	VA 225	Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.53	US 13 Northampton Blvd	US 60 Shore Dr	23000	F	99%	0%	0%	0%	0%	0%	F	0.0959	F	0.5386	25000	F	2012
+789611	  SR	00225	N000A	VA 225 NB Exit 000A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.25	SR 225; 134-11; 134-8736; 134-87	I-264-E FROM HOLLAND RD	5500	F							X	0.1009	F	1.0000	5500	F	2012
+789612	  SR	00225	N000B	VA 225 NB Exit 000B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.19	SR 225 TO AND FROM RT	I-264-W FROM HOLLAND ROAD	16000	F							X	0.0951	F	1.0000	16000	F	2012
+789613	  SR	00225	S000A	VA 225 SB Exit 000A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.17	SR 225 TO RT 264	I-264-E FROM RT 225	7800	F							X	0.0758	F	1.0000	7800	F	2012
+789614	  SR	00225	S000B	VA 225 SB Exit 000B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.24	SR 225 TO RT 264	I-264-W FROM RT 225	15000	F							X	0.0720	F	1.0000	15000	F	2012
+050199	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.40	ECL Norfolk	SR 190 Witchduck Rd	89000	G	98%	0%	1%	1%	1%	0%	F				95000	G	2012		182000	G	98%	0%	1%	1%	1%	0%	F				195000	G
+050203	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.28	SR 190 Witchduck Rd	SR 225 Independence Blvd	92000	F	98%	0%	1%	1%	1%	0%	F	0.0986	A	1.0000	99000	F	2012		185000	F	98%	0%	1%	1%	1%	0%	F	0.0857	A	0.5613	199000	F
+050201	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	2.34	SR 225 Independence Blvd	Rosemont Rd	75000	G	96%	0%	1%	1%	2%	0%	F				81000	G	2012		145000	G	97%	0%	1%	1%	1%	0%	F				155000	G
+050205	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.84	Rosemont Rd	Lynnhaven Pkwy	62000	G	98%	0%	1%	1%	1%	0%	F				65000	G	2012		129000	G	98%	0%	1%	1%	1%	0%	F				136000	G
+050218	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.17	Lynnhaven Pkwy	US 58 Virginia Beach Blvd	53000	G	98%	0%	1%	1%	1%	0%	F				57000	G	2012		104000	G	98%	0%	1%	1%	1%	0%	F				111000	G
+050187	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.42	US 58 Virginia Beach Blvd	First Colonial Rd	31000	G	98%	0%	1%	1%	1%	0%	F				33000	G	2012		67000	G	98%	0%	1%	1%	1%	0%	F				72000	G
+050190	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.36	First Colonial Rd	Birdneck Rd	26000	G	98%	0%	1%	1%	1%	0%	F				27000	G	2012		53000	G	98%	0%	1%	1%	1%	0%	F				56000	G
+050333	  IS	00264	E    	I-264 EB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.64	Birdneck Rd	Parks Ave	14000	G	98%	0%	1%	1%	1%	0%	F				14000	G	2012		26000	G	98%	0%	1%	1%	1%	0%	F				27000	G
+789454	  IS	00264	E015A	I-264 EB Exit 015A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.22	I-264-E013X I-264-E014B TO RT 64	SR 403 FROM RT 264	0	?							X
+789455	  IS	00264	E015B	I-264 EB Exit 015B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.25	I-264-E013X TO RT 403 NORTH-NEWTOWN ROA	SR 403 FROM RT 264	0	?							X
+789456	  IS	00264	E015C	I-264 EB Exit 015C	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.03	I-264-E015A FROM RT 264	SR 403 FROM RT 264	0	?							X
+789457	  IS	00264	E016A	I-264 EB Exit 016A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.14	I-264-E TO RT 190	SR 190 FROM I-264	0	?							X
+789832	  IS	00264	E017A	I-264 EB Exit 017A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.46	TO INDEPENDENCE BLVD-HOLLAND RD	HOLLAND ROAD	0	?							X
+789458	  IS	00264	E017B	I-264 EB Exit 017B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.16	I-264 East	SR 225 Independence Blvd	12000	F							X	0.0836	F	1.0000	12000	F	2012
+789833	  IS	00264	E017C	I-264 EB Exit 017C	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.50	I-264-E017A TO ALICIA DRIVE	134-8700	0	?							X
+789834	  IS	00264	E018A	I-264 EB Exit 018A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.24	TO ROSEMONT ROAD	134-13 FROM ROUTE 254 EAST	0	?							X
+789835	  IS	00264	E019A	I-264 EB Exit 019A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.13	I-264-E TO LYNNHAVEN PARKWAY	134-14; 134-14-S003A FROM & TO ROU	0	?							X
+789836	  IS	00264	E019B	I-264 EB Exit 019B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.22	I-264-E TO LYNNHAVEN PARKWAY	134-14 FROM ROUTE 264 EAST	0	?							X
+789837	  IS	00264	E020A	I-264 EB Exit 020A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.38	I-264-E TO ROUTE 58 & 58 BUS	I-264-E020B TO ROUTE 58 BUS VA BEACH BL	0	?							X
+797978	  IS	00264	E020A	I-264 EB Exit 020A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.01	I-264-E020B TO ROUTE 58 BUS VA BEACH BL	US 58 FROM ROUTE 264 WEST	0	?							X
+789838	  IS	00264	E020B	I-264 EB Exit 020B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.17	I-264-E020A TO ROUTE 58 BUS VA BEACH BL	C7US 58 FROM ROUTE 264 EAST	0	?							X
+789839	  IS	00264	E021A	I-264 EB Exit 021A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.20	I-264-E TO 1ST COLONIAL ROAD	134-9 I-264-E021B FROM & TO ROUT	0	?							X
+789840	  IS	00264	E021B	I-264 EB Exit 021B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.20	I-264-E TO 1ST COLONIAL ROAD00- NORTH	134-9 I-264-E021A FROM & TO ROUT	0	?							X
+789841	  IS	00264	E022A	I-264 EB Exit 022A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.11	I-264-E TO BIRDNECK ROAD	134-8723 FROM ROUTE 264 EAST	0	?							X
+050200	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.63	ECL Norfolk	SR 190 Witchduck Rd	93000	G	98%	0%	1%	0%	1%	0%	F				100000	G	2012		182000	G	98%	0%	1%	1%	1%	0%	F				195000	G
+050204	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.21	SR 190 Witchduck Rd	SR 225 Independence Blvd	92000	A	98%	0%	1%	0%	1%	0%	C	0.1035	A	1.0000	100000	A	2012		185000	F	98%	0%	1%	1%	1%	0%	F				199000	F
+050202	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	2.74	SR 225 Independence Blvd	Rosemont Rd	69000	G	98%	0%	1%	0%	1%	0%	F				74000	G	2012		145000	G	97%	0%	1%	1%	1%	0%	F				155000	G
+050216	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.59	Rosemont Rd	Lynnhaven Pkwy	67000	F	98%	0%	1%	0%	1%	0%	F	0.0911	A	1.0000	71000	F	2012		191000	G	98%	0%	1%	1%	1%	0%	F				201000	G
+050233	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.35	Lynnhaven Pkwy	US 58 Virginia Beach Blvd	50000	G	98%	0%	1%	0%	1%	0%	F				54000	G	2012		104000	G	98%	0%	1%	1%	1%	0%	F				111000	G
+050188	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.19	US 58 Virginia Beach Blvd	First Colonial Rd	36000	G	98%	0%	1%	0%	1%	0%	F				39000	G	2012		67000	G	98%	0%	1%	1%	1%	0%	F				72000	G
+050192	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	1.52	First Colonial Rd	Birdneck Rd	27000	G	98%	0%	1%	0%	1%	0%	F				29000	G	2012		53000	G	98%	0%	1%	1%	1%	0%	F				56000	G
+050334	  IS	00264	W    	I-264 WB	Virginia Beach Norfolk Expwy	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.66	Birdneck Rd	Parks Ave	12000	G	98%	0%	1%	0%	1%	0%	F				13000	G	2012		26000	G	98%	0%	1%	1%	1%	0%	F				27000	G
+789464	  IS	00264	W015A	I-264 WB Exit 015A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.22	I-264 Collector Rd	SR 403 Newtown Rd	7200	G	98%	0%	1%	0%	1%	0%	F				320	G	2012
+789465	  IS	00264	W016A	I-264 WB Exit 016A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.13	I-264-W TO RT 190	SR 190 FROM I-264	0	?							X
+789466	  IS	00264	W017A	I-264 WB Exit 017A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.18	I-264-W TO HOLLAND ROAD	SR 225 TO AND FROM RT	0	?							X
+789467	  IS	00264	W017B	I-264 WB Exit 017B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.25	I-264-W TO RT 225	C7US 58 TO RT 44	0	?							X
+789852	  IS	00264	W018A	I-264 WB Exit 018A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.18	I-264-W TO ROSEMONT ROAD	134-13; 134-8738 @ BONNIE ROAD	0	?							X
+789853	  IS	00264	W019A	I-264 WB Exit 019A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.16	I-264-W TO LYNNHAVEN PARKWAY	FROM ROUTE 264 WEST	0	?							X
+789854	  IS	00264	W019B	I-264 WB Exit 019B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.15	I-264-W TO LYNNHAVEN PARKWAY	134-14 Gap FROM R	0	?							X
+789855	  IS	00264	W021A	I-264 WB Exit 021A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.17	I-264-W TO 1ST COLONIAL ROAD	134-9 FROM & TO ROU	0	?							X
+677722	  SR	00279	     	VA 279	Great Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.35	US 58 Va Beach Blvd	First Colonial Rd	39000	F	99%	0%	0%	0%	0%	0%	F	0.0849	F	0.5362	42000	F	2012
+677723	  SR	00279	     	VA 279	Great Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.99	First Colonial Rd	Shorehaven Dr	34000	F	99%	0%	0%	0%	0%	0%	F	0.0840	F	0.5528	36000	F	2012
+677724	  SR	00279	     	VA 279	Great Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.42	Shorehaven Dr	Adam Keeling Rd	35000	F	99%	0%	0%	0%	0%	0%	C	0.0846	F	0.5040	37000	F	2012
+677860	  SR	00279	     	VA 279	N Great Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.79	Adam Keeling Rd	US 60 Shore Dr	27000	F	99%	0%	0%	0%	0%	0%	F	0.0845	F	0.5226	29000	F	2012
+789637	  SR	00403	N000B	VA 403 NB Exit 000B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.20	SR 403 TO RT 264	I-264-W013X FROM RT 403 NORTH-NEWTOWN R	11000	F							X	0.0866	F	1.0000	11000	F	2012
+789638	  SR	00403	N000C	VA 403 NB Exit 000C	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.03	SR 403 TO RT 264	SR 403-S000A FROM NEWTOWN RD	0	?							X
+789639	  SR	00403	S000A	VA 403 SB Exit 000A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.04	SR 403 TO RT 264	SR 403-N000C FROM NEWTOWN RD	0	?							X
+798082	  SR	00403	S000A	VA 403 SB Exit 000A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.14	SR 403-N000C FROM NEWTOWN RD	I-264-E013X FROM RT 403 SOUTH-NEWTOWN R	5600	F							X	0.0964	F	1.0000	5600	F	2012
+789640	  SR	00403	S000B	VA 403 SB Exit 000B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.17	SR 403 TO RT 264	I-264-W013X FROM RT 403 SOUTH-NEWTOWN R	8100	F							X	0.0834	F	1.0000	8100	F	2012
+781282	  IS	00464	N001B	I-464 NB Exit 001B, US 17	Ramp	134	City of Virginia Beach	064	Norfolk Maintenance Area	0.20	I-464-N TO I-64 EAST	I-64-E FROM RT 464 NORTH	0	?							X
+780388	  FR	00143	     	FR 143	Midtown Way	134	City of Virginia Beach	064	Norfolk Maintenance Area	0.55	Dead End	134-8661 Regent University Dr	330	G							X				330	G	2012
+677455	 134	00001	     	134-1	Churchill Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.58	Providence Rd	Saratoga Circle	5100	F	97%	1%	1%	0%	0%	0%	C	0.1111	F	0.5933	5400	F	2012
+677458	 134	00004	     	134-4	Indian Creek Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.42	ECL Chesapeake	Blackwater Rd	440	F	97%	0%	0%	0%	1%	0%	F	0.0969	F	0.5278	470	F	2012
+677717	 134	00005	     	134-5	Centerville Tpke	134	City of Virginia Beach	134	City of Virginia Beach	0.95	134-8661 Jake Sears Rd	Indian River Rd	19000	F	95%	0%	1%	3%	0%	0%	C	0.0844	F	0.6414	21000	F	2012
+783030	 134	00006	     	134-6	Newcastle Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.22	Oxford Dr	Little Neck Rd	420	F	97%	1%	1%	0%	0%	0%	F	0.1168	F	0.6602	450	F	2012
+677409	 134	00007	     	134-7	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.54	ECL Chesapeake	US 13 Military Hwy	30000	F	98%	0%	1%	0%	0%	0%	F	0.0929	F	0.5302	32000	F	2012
+677736	 134	00007	     	134-7	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.57	US 13 Military Hwy	Providence Rd	29000	F	98%	0%	1%	0%	0%	0%	F	0.0958	F	0.5874	31000	F	2012
+677737	 134	00007	     	134-7	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.86	Providence Rd	I-64	33000	F	98%	0%	1%	0%	0%	0%	F	0.0881	F	0.5615	35000	F	2012
+677847	 134	00007	     	134-7	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.10	I-64	Centerville Tpke	70000	F	98%	0%	1%	1%	1%	0%	F	0.0750	F	0.5833	75000	F	2012
+677738	 134	00007	     	134-7	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.05	Centerville Tpke	SR 190 Kempsville Rd	56000	F	98%	0%	1%	1%	1%	0%	C	0.0772	F	0.6860	60000	F	2012
+783031	 134	00008	     	134-8	Diamond Springs Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.63	Newtown Rd	Hampshire Rd; Shurney Lane	21000	F	97%	1%	1%	0%	0%	0%	F	0.0866	F	0.5090	22000	F	2012
+677749	 134	00009	     	134-9	First Colonial Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.12	Bus US 58 Va Beach Blvd	I-264	29000	F	99%	0%	0%	0%	0%	0%	F	0.0740	F	0.5545	31000	F	2012
+677719	 134	00009	     	134-9	First Colonial Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.47	I-264	US 58 Laskin Rd	31000	F	99%	0%	0%	0%	0%	0%	F	0.0732	F	0.5482	33000	F	2012
+677720	 134	00009	     	134-9	First Colonial Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.97	US 58 Laskin Rd	SR 279 Great Neck Rd	35000	F	99%	0%	0%	0%	0%	0%	C	0.0771	F	0.5123	37000	F	2012
+677788	 134	00010	     	134-10	Providence Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.74	US 13 Military Hwy	Indian River Rd	15000	F	99%	0%	0%	0%	0%	0%	F	0.0905	F	0.5225	16000	F	2012
+677789	 134	00010	     	134-10	Providence Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.28	Indian River Rd	SR 190 Kempsville Rd	18000	F	99%	0%	0%	0%	0%	0%	C	0.1146	F	0.6548	20000	F	2012
+677845	 134	00011	     	134-11	Independence Blvd South	134	City of Virginia Beach	134	City of Virginia Beach	0.79	SR 225;  I-264	Holland Rd	74000	F	98%	0%	1%	0%	0%	0%	F	0.0827	F	0.6079	79000	F	2012
+677842	 134	00012	     	134-12	Holland Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.47	Independence Blvd South	Plaza Trail	37000	F	98%	0%	1%	0%	0%	0%	C	0.0818	F	0.6052	40000	F	2012
+677730	 134	00012	     	134-12	Holland Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.31	Plaza Trail	Rosemont Rd	34000	F	98%	0%	1%	0%	0%	0%	F	0.0810	F	0.5606	36000	F	2012
+677729	 134	00012	     	134-12	Holland Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.14	Rosemont Rd	Lynnhaven Pkwy	30000	F	98%	0%	1%	0%	0%	0%	F	0.0846	F	0.5031	32000	F	2012
+677728	 134	00012	     	134-12	Holland Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.64	Lynnhaven Pkwy	Shipps Corner Rd	31000	F	98%	0%	0%	1%	0%	0%	F	0.0850	F	0.7205	33000	F	2012
+677727	 134	00012	     	134-12	Holland Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.43	Shipps Corner Rd	Dam Neck Rd	25000	F	98%	0%	0%	1%	0%	0%	C	0.0818	F	0.5152	26000	F	2012
+677726	 134	00012	     	134-12	Holland Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.82	Dam Neck Rd	SR 149 Princess Anne Rd	11000	F	98%	0%	0%	1%	0%	0%	F	0.0812	F	0.5067	12000	F	2012
+677791	 134	00013	     	134-13	Rosemont Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.17	Holland Rd	Plaza Trail	29000	F	99%	0%	0%	0%	0%	0%	C	0.0897	F	0.5714	31000	F	2012
+677792	 134	00013	     	134-13	Rosemont Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.56	Plaza Trail	I-264	32000	F	99%	0%	0%	0%	0%	0%	F	0.0798	F	0.6041	34000	F	2012
+677801	 134	00013	     	134-13	Rosemont Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.18	I-264	US 58 Virginia Beach Blvd	32000	F	99%	0%	0%	0%	0%	0%	F	0.0807	F	0.5717	35000	F	2012
+677826	 134	00014	     	134-14	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	1.06	Holland Rd	South Lynnhaven Rd; Cherie Dr	32000	F	98%	1%	1%	0%	0%	0%	C	0.0953	F	0.6072	34000	F	2012
+677856	 134	00014	     	134-14	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.51	South Lynnhaven Rd; Cherie Dr	International Pkwy	28000	F	98%	1%	1%	0%	0%	0%	F	0.0899	F	0.6172	30000	F	2012
+677827	 134	00014	     	134-14	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	1.17	International Pkwy	South Lynnhaven Rd; Potters Rd	30000	F	98%	1%	1%	0%	0%	0%	F	0.0851	F	0.6598	32000	F	2012
+677835	 134	00014	     	134-14	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.25	South Lynnhaven Rd; Potters Rd	I-264 Va Beach Norfolk Exp	41000	F	98%	1%	1%	0%	0%	0%	F	0.0835	F	0.5162	44000	F	2012
+789943	 134	00014	 003A	134-14 Exit 003A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.22	134-14-S003A FROM LY	I-264-E FROM LYNNHAVEN PARKWAY	8600	F							X	0.0933	F	1.0000	8600	F	2012
+789944	 134	00014	N003A	134-14 NB Exit 003A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.03	134-14 TO ROUTE 264 EAST	134-14-S003A FROM LY	0	?							X
+789945	 134	00014	N003B	134-14 NB Exit 003B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.10	TO ROUTE 264 WEST	I-264-W FROM LYNNHAVEN PARKWAY	12000	F							X	0.0984	F	1.0000	12000	F	2012
+789946	 134	00014	S003A	134-14 SB Exit 003A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.03	134-14 I-264-E019A FROM & TO ROUT	134-14-N003A; 134-14- 3A FROM LY	0	?							X
+789947	 134	00014	S003B	134-14 SB Exit 003B	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.18	TO ROUTE 264 WEST	I-264-W FROM LYNNHAVEN PARKWAY	7700	F							X	0.0951	F	1.0000	7700	F	2012
+781791	 134	08578	     	134-8578	31st Street; Laskin Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.06	US 60 Pacific Ave	Atlantic Ave	5000	F	99%	0%	0%	0%	0%	0%	F	0.0766	F	0.5018	5300	F	2012
+677849	 134	08589	     	134-8589	International Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	1.01	Lynnhaven Pkwy	London Bridge Rd	10000	F	97%	0%	0%	0%	1%	0%	C	0.1016	F	0.6749	11000	F	2012
+677739	 134	08590	     	134-8590	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.25	SR 190 Kempsville Rd	Ferrell Pkwy	64000	F	97%	1%	2%	1%	0%	0%	F	0.0770	F	0.5696	69000	F	2012
+677894	 134	08590	     	134-8590	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.56	Ferrell Pkwy	Indian Lakes Blvd	14000	F	97%	1%	2%	1%	0%	0%	F	0.0897	F	0.8011	15000	F	2012
+677895	 134	08590	     	134-8590	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.46	Indian Lakes Blvd	Lynnhaven Pkwy	20000	F	97%	1%	2%	1%	0%	0%	F	0.0840	F	0.6003	22000	F	2012
+677891	 134	08590	     	134-8590	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.93	Lynnhaven Pkwy	Independence Blvd	15000	F	97%	1%	2%	1%	0%	0%	F	0.0911	F	0.6282	16000	F	2012
+677858	 134	08590	     	134-8590	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.07	Independence Blvd	Elbow Rd	9300	F	97%	1%	2%	1%	0%	0%	F	0.0920	F	0.6256	10000	F	2012
+677857	 134	08590	     	134-8590	Elbow Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.12	Indian River Rd	Indian River Rd	14000	F	97%	1%	2%	1%	0%	0%	F	0.1015	F	0.5669	15000	F	2012
+677848	 134	08590	     	134-8590	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.99	Elbow Rd	SR 165, N Landing Rd	6200	F	97%	1%	2%	1%	0%	0%	F	0.1005	F	0.6669	6600	F	2012
+677741	 134	08590	     	134-8590	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	4.78	SR 165 N Landing Rd	Princess Anne Rd	4800	F	97%	1%	2%	1%	0%	0%	C	0.1156	F	0.5075	5100	F	2012
+677410	 134	08590	     	134-8590	Indian River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.94	Princess Anne Rd	Muddy Creek Rd	2100	F	97%	1%	2%	1%	0%	0%	F	0.0846	F	0.5769	2200	F	2012
+677303	 134	08612	     	134-8612	Cleveland St	134	City of Virginia Beach	134	City of Virginia Beach	0.43	Clearfield Ave	SR 190 Witchduck Rd	6800	F	99%	0%	1%	0%	0%	0%	F	0.1151	F	0.6525	7300	F	2012
+677304	 134	08612	     	134-8612	Cleveland St	134	City of Virginia Beach	134	City of Virginia Beach	0.97	SR 190 Witchduck Rd	Kellam Rd	6800	F	99%	0%	1%	0%	0%	0%	F	0.1014	F	0.5189	7300	F	2012
+677822	 134	08612	     	134-8612	Columbus St	134	City of Virginia Beach	134	City of Virginia Beach	0.22	Kellam Rd	SR 225 Independence Blvd	7000	F	99%	0%	1%	0%	0%	0%	F	0.1113	F	0.6520	7500	F	2012
+677864	 134	08612	     	134-8612	Columbus St	134	City of Virginia Beach	134	City of Virginia Beach	0.31	SR 225 Independence Blvd	Constitution Dr	11000	F	99%	0%	1%	0%	0%	0%	C	0.1003	F	0.5437	12000	F	2012
+783032	 134	08627	     	134-8627	S Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	2.71	Indian River Rd	SR 165 Princess Anne Rd	7600	F	98%	0%	0%	1%	0%	0%	F	0.1092	F	0.5772	8100	F	2012
+677883	 134	08627	     	134-8627	S Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.55	SR 165 Princess Anne Rd	Lynnhaven Pkwy	25000	F	98%	0%	0%	1%	0%	0%	F	0.0873	F	0.5456	26000	F	2012
+677843	 134	08627	     	134-8627	S Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.55	Lynnhaven Pkwy	S Plaza Trail	25000	F	98%	0%	0%	1%	0%	0%	C	0.0902	F	0.6027	27000	F	2012
+677844	 134	08627	     	134-8627	S Independence Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.73	S Plaza Trail	Holland Rd	36000	F	98%	0%	0%	1%	0%	0%	F	0.0846	F	0.6653	39000	F	2012
+677830	 134	08638	     	134-8638	Wesleyan Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.42	Norfolk County Line	Baker Rd	16000	F	99%	0%	0%	0%	0%	0%	F	0.0872	F	0.6548	17000	F	2012
+677876	 134	08638	     	134-8638	Wesleyan Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.54	Baker Rd	Diamond Springs Rd	12000	F	99%	0%	0%	0%	0%	0%	C	0.0896	F	0.6465	13000	F	2012
+677875	 134	08638	     	134-8638	Wesleyan Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.16	Diamond Springs Rd	Haygood Dr	20000	F	99%	0%	0%	0%	0%	0%	F	0.0928	F	0.6239	21000	F	2012
+677725	 134	08638	     	134-8638	Haygood Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.08	Wesleyan Dr	SR 225 Independence Blvd	16000	F	99%	0%	0%	0%	0%	0%	F	0.0891	F	0.5358	17000	F	2012
+677447	 134	08638	     	134-8638	Wishart Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.77	SR 225 Independence Blvd	Witchduck Rd	1200	F	99%	0%	0%	0%	0%	0%	F	0.1057	F	0.6222	1300	F	2012
+781792	 134	08640	     	134-8640	Providence Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.09	ECL Chesapeake	US 13 Gap	12000	F	99%	0%	1%	0%	0%	0%	F	0.0967	F	0.5762	12000	F	2012
+677790	 134	08640	     	134-8640	Providence Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.03	SR 190 Kempsville Rd	SR 165 Princess Anne Rd	14000	F	99%	0%	1%	0%	0%	0%	F	0.1025	F	0.5399	15000	F	2012
+677711	 134	08651	     	134-8651	Baker Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.73	Newtown Rd	US 13 Northampton Blvd	5800	F	99%	0%	1%	0%	0%	0%	C	0.0942	F	0.6225	6200	F	2012
+677306	 134	08652	     	134-8652	Burton Station Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.75	ECL Norfolk	US 13 Northampton Blvd	3900	F	99%	0%	1%	0%	0%	0%	F	0.1085	F	0.7315	4200	F	2012
+677307	 134	08661	     	134-8661	Centerville Tpke	134	City of Virginia Beach	134	City of Virginia Beach	0.40	ECL Chesapeake	Lynnhaven Pkwy	8300	F	95%	0%	1%	3%	0%	0%	F	0.0934	F	0.6073	8800	F	2012
+677863	 134	08661	     	134-8661	Centerville Tpke	134	City of Virginia Beach	134	City of Virginia Beach	0.75	Lynnhaven Pkwy	SR 190 Kempsville Rd	19000	F	95%	0%	1%	3%	0%	0%	F	0.0897	F	0.6435	20000	F	2012
+677893	 134	08661	     	134-8661	Centerville Tpke	134	City of Virginia Beach	134	City of Virginia Beach	0.88	SR 190 Kempsville Rd	Jake Sears Rd	18000	F	95%	0%	1%	3%	0%	0%	F	0.0884	F	0.7166	19000	F	2012
+781790	 134	08661	     	134-8661	Regent University Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.16	Jake Sears Rd	Indian River Rd	5400	F	99%	0%	0%	0%	0%	0%	C	0.1404	F	0.6374	5800	F	2012
+677436	 134	08667	     	134-8667	Blackwater Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.89	North Carolina State Line	Indian Creek Rd	790	F	93%	0%	1%	4%	1%	0%	F	0.0898	F	0.7407	840	F	2012
+677437	 134	08667	     	134-8667	Blackwater Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.91	Indian Creek Rd	Pungo Ferry Rd	1300	F	93%	0%	1%	4%	1%	0%	F	0.0894	F	0.6619	1400	F	2012
+677861	 134	08667	     	134-8667	Blackwater Rd	134	City of Virginia Beach	134	City of Virginia Beach	4.43	Pungo Ferry Rd	ECL Chesapeake	2100	F	93%	0%	1%	4%	1%	0%	C	0.0966	F	0.7212	2300	F	2012
+677878	 134	08667	     	134-8667	Salem Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.24	SR 190 N Landing Rd	Landstown Rd	4800	F	93%	0%	1%	4%	1%	0%	F	0.1139	F	0.6464	5100	F	2012
+677871	 134	08667	     	134-8667	Salem Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.33	Landstown Rd	Elbow Rd	4400	F	99%	0%	1%	0%	0%	0%	F	0.1078	F	0.6273	4700	F	2012
+677872	 134	08667	     	134-8667	Salem Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.49	Elbow Rd	Lynnhaven Pkwy	14000	F	99%	0%	1%	0%	0%	0%	C	0.0982	F	0.6198	15000	F	2012
+677873	 134	08667	     	134-8667	Salem Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.77	Lynnhaven Pkwy	SR 165 Princess Anne Rd	14000	F	99%	0%	1%	0%	0%	0%	F	0.0916	F	0.6075	15000	F	2012
+677308	 134	08668	     	134-8668	Head of River Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.05	ECL Chesapeake	Blackwater Rd	640	F	96%	0%	1%	2%	1%	0%	F	0.1129	F	0.6201	680	F	2012
+677877	 134	08669	     	134-8669	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	5.72	North Carolina State Line	Pungo Ferry Rd	3400	F	96%	0%	1%	2%	1%	0%	F	0.0899	F	0.6473	3700	F	2012
+677780	 134	08669	     	134-8669	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	7.66	Pungo Ferry Rd	Indian River Rd	6700	F	96%	0%	1%	2%	1%	0%	C	0.0874	F	0.6566	7200	F	2012
+677454	 134	08669	     	134-8669	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.53	Indian River Rd	Caymen Lane	12000	F	96%	0%	1%	2%	1%	0%	F	0.0912	F	0.5920	13000	F	2012
+677460	 134	08669	     	134-8669	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.70	Caymen Lane	Sandbridge Rd	11000	F	96%	0%	1%	2%	1%	0%	F	0.0905	F	0.5949	12000	F	2012
+677461	 134	08669	     	134-8669	Princess Anne Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.86	Sandbridge Rd	General Booth Blvd	17000	F	96%	0%	1%	2%	1%	0%	F	0.0866	F	0.5538	18000	F	2012
+677787	 134	08669	     	134-8669	General Booth Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.67	Princess Anne Rd	London Bridge Rd	37000	F	96%	0%	1%	2%	1%	0%	F	0.0819	F	0.5801	40000	F	2012
+677772	 134	08669	     	134-8669	General Booth Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.46	London Bridge Rd	Dam Neck Rd	27000	F	96%	0%	1%	2%	1%	0%	F	0.0839	F	0.5734	29000	F	2012
+677773	 134	08669	     	134-8669	General Booth Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.58	Dam Neck Rd	Prosperity Rd	44000	F	99%	0%	1%	0%	0%	0%	F	0.0852	F	0.6468	47000	F	2012
+677839	 134	08669	     	134-8669	General Booth Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.18	Prosperity Rd	Birdneck Rd	27000	F	99%	0%	1%	0%	0%	0%	C	0.0892	F	0.5577	29000	F	2012
+677721	 134	08669	     	134-8669	General Booth Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.90	Birdneck Rd	5th St	17000	F	99%	0%	1%	0%	0%	0%	C	0.0819	B	0.5146	17000	F	2012
+677453	 134	08669	     	134-8669	Pacific Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.27	5th St	9th St	19000	F	99%	0%	1%	0%	0%	0%	F	0.0801	F	0.5057	20000	F	2012
+677776	 134	08669	     	134-8669	Pacific Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.55	9th St	17th St	17000	F	99%	0%	0%	0%	0%	0%	F	0.0767	F	0.5308	18000	F	2012
+677451	 134	08669	     	134-8669	Atlantic Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.44	Shore Dr	89th St	3400	F	99%	0%	1%	0%	0%	0%	F	0.0779	F	0.5470	3600	F	2012
+677309	 134	08670	     	134-8670	Pungo Ferry Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.78	Blackwater Rd	Princess Anne Rd	3100	F	93%	1%	1%	3%	2%	0%	C	0.0956	F	0.5016	3300	F	2012
+677440	 134	08671	     	134-8671	Sandpiper Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.67	Dead End	White Cap Lane	1700	F	98%	0%	1%	0%	0%	0%	F	0.0959	F	0.6573	1800	F	2012
+677441	 134	08671	     	134-8671	Sandpiper Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.49	White Cap Lane	Pike Lane	3100	F	98%	0%	1%	0%	0%	0%	C	0.0825	F	0.6026	3300	F	2012
+677439	 134	08671	     	134-8671	Sandpiper Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.04	Pike Lane	Sandbridge Rd	6200	F	98%	0%	1%	0%	0%	0%	F	0.0809	F	0.6251	6600	F	2012
+677310	 134	08672	     	134-8672	Mill Landing Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.81	Princess Anne Rd	Nannys Creek Rd	1200	F	99%	0%	0%	0%	0%	0%	F	0.0849	F	0.6622	1200	F	2012
+677411	 134	08673	     	134-8673	Morris Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	3.31	Princess Anne Rd	Mill Landing Rd	560	F	96%	1%	1%	2%	0%	0%	F	0.1046	F	0.5040	590	F	2012
+677412	 134	08673	     	134-8673	Mill Landing Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.82	Morris Neck Rd	Nannys Creek Rd	1000	F	96%	1%	1%	2%	0%	0%	F	0.1039	F	0.6825	1100	F	2012
+677413	 134	08673	     	134-8673	Nannys Creek Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.49	Mill Landing Rd	Muddys Creek Rd	450	F	96%	1%	1%	2%	0%	0%	C	0.1061	F	0.5893	480	F	2012
+677414	 134	08673	     	134-8673	Muddy Creek Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.30	Nannys Creek Rd	Gum Bridge Rd	300	F	96%	1%	1%	2%	0%	0%	F	0.1246	F	0.6220	320	F	2012
+677415	 134	08673	     	134-8673	Muddy Creek Rd	134	City of Virginia Beach	134	City of Virginia Beach	4.52	Gum Bridge Rd	Indian River Rd	270	F	96%	1%	1%	2%	0%	0%	F	0.1021	F	0.5000	290	F	2012
+677416	 134	08673	     	134-8673	New Bridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.28	Indian River Rd	Sandbridge Rd	2400	F	96%	1%	1%	2%	0%	0%	F	0.1020	F	0.5203	2600	F	2012
+677417	 134	08673	     	134-8673	Sandbridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	3.07	Lotus Dr	Gull Lane	10000	F	96%	1%	1%	2%	0%	0%	F	0.0902	F	0.5740	11000	F	2012
+677311	 134	08676	     	134-8676	Bayside Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.65	SR 166 Diamond Springs Rd	US 13 Northampton Blvd	2500	F	99%	0%	0%	0%	0%	0%	F	0.1129	F	0.6603	2700	F	2012
+677368	 134	08677	     	134-8677	Jack Frost Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.00	US 13 Northampton Blvd	US 60 Shore Dr	1900	F	99%	0%	0%	0%	0%	0%	F	0.0904	F	0.6578	2000	F	2012
+677443	 134	08678	     	134-8678	Sullivan Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.56	Witchduck Rd	Aragona Blvd	1700	F	99%	1%	0%	0%	0%	0%	F	0.0896	F	0.5075	1800	F	2012
+677444	 134	08678	     	134-8678	Sullivan Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.50	Aragona Blvd	Haygood Rd	3500	F	99%	1%	0%	0%	0%	0%	F	0.1076	F	0.6149	3700	F	2012
+677774	 134	08678	     	134-8678	Newtown Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.90	Haygood Rd	Diamond Springs Rd	5700	F	99%	1%	0%	0%	0%	0%	C	0.0997	F	0.6050	6100	F	2012
+677766	 134	08678	     	134-8678	Newtown Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.46	Diamond Springs Rd	Baker Rd	26000	F	99%	0%	0%	0%	0%	0%	C	0.0839	F	0.5215	27000	F	2012
+677765	 134	08678	     	134-8678	Newtown Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.23	Baker Rd	ECL Norfolk	38000	F	98%	0%	1%	0%	0%	0%	C	0.0824	F	0.5076	40000	F	2012
+781794	 134	08678	     	134-8678	Susquehanna Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.19	SR 403 Newtown Rd	SR 165 Princess Anne Rd	1800	F	99%	1%	0%	0%	0%	0%	C	0.0975	F	0.5323	1900	F	2012
+677312	 134	08679	     	134-8679	Aragona Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.63	US 58 Va Beach Blvd	Kellam Rd	3400	F	99%	0%	0%	0%	0%	0%	F	0.1040	F	0.5203	3600	F	2012
+677313	 134	08679	     	134-8679	Aragona Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.33	Kellam Rd	SR 190 Witchduck Rd	5100	F	99%	0%	0%	0%	0%	0%	F	0.1141	F	0.5416	5500	F	2012
+677314	 134	08679	     	134-8679	Aragona Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.91	Witchduck Rd	Haygood Rd	6000	F	99%	0%	0%	0%	0%	0%	C	0.1127	F	0.5061	6400	F	2012
+781795	 134	08680	     	134-8680	Thoroughgood Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.05	Hermitage Rd	Whitethorn Rd	1300	F	99%	0%	0%	0%	0%	0%	F	0.0928	F	0.6415	1400	F	2012
+677315	 134	08680	     	134-8680	Hermitage Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.87	Thoroughgood Dr	Whitehorn Rd	1100	F	99%	0%	0%	0%	0%	0%	F	0.1154	F	0.6631	1200	F	2012
+677316	 134	08681	     	134-8681	Pleasure House Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.26	SR 225 Independence Blvd	First Ct Rd	18000	F	99%	0%	1%	0%	0%	0%	F	0.0891	F	0.5878	19000	F	2012
+677317	 134	08681	     	134-8681	Pleasure House Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.17	First Ct Rd	US 13 Northampton Blvd	12000	F	99%	0%	1%	0%	0%	0%	F	0.0886	F	0.5050	13000	F	2012
+677318	 134	08681	     	134-8681	Pleasure House Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.38	US 13 Northampton Blvd	US 60 Shore Dr	11000	F	99%	0%	1%	0%	0%	0%	C	0.0869	F	0.6235	12000	F	2012
+677319	 134	08681	     	134-8681	Pleasure House Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.90	US60 Shore Dr	Lookout Rd	8200	F	99%	0%	1%	0%	0%	0%	F	0.0878	F	0.6158	8800	F	2012
+783033	 134	08683	     	134-8683	Witchduck Rd (N Leg)	134	City of Virginia Beach	134	City of Virginia Beach	0.47	Moraine Ct	SR 225 Independence Blvd	5500	F	98%	0%	1%	1%	0%	0%	F	0.0934	F	0.5357	5900	F	2012
+677320	 134	08683	     	134-8683	Witchduck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.80	Independence Blvd	Wishart Rd	1500	F	98%	0%	1%	1%	0%	0%	C	0.0901	F	0.6000	1600	F	2012
+677321	 134	08683	     	134-8683	Witchduck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.39	Wishart Rd	Sherwood Lane	660	F	98%	0%	1%	1%	0%	0%	F	0.0924	F	0.5396	700	F	2012
+677818	 134	08684	     	134-8684	21st St	134	City of Virginia Beach	134	City of Virginia Beach	0.53	I-264	US 60 Pacific Ave	15000	F	99%	0%	0%	0%	0%	0%	C	0.0816	F	1.0000	16000	F	2012
+677855	 134	08684	     	134-8684	21st St	134	City of Virginia Beach	134	City of Virginia Beach	0.07	Pacific Ave	Atlantic Ave	3700	F	99%	0%	0%	0%	0%	0%	F	0.0778	F	1.0000	4000	F	2012
+677851	 134	08685	     	134-8685	London Bridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.34	London Bridge Rd Ext	International Pkwy	35000	F	97%	0%	1%	1%	1%	0%	F	0.0960	F	0.7407	38000	F	2012
+677760	 134	08685	     	134-8685	London Bridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.05	International Pkwy	Potters Rd	29000	F	97%	0%	1%	1%	1%	0%	C	0.0948	F	0.5638	30000	F	2012
+677889	 134	08685	     	134-8685	Great Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.42	Potters Rd	US 58 Va Beach Blvd	32000	F	97%	0%	1%	1%	1%	0%	F	0.0931	F	0.5183	35000	F	2012
+677829	 134	08687	     	134-8687	Shipps Corner Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.81	Holland Rd	London Bridge Rd Ext	7700	F	97%	0%	1%	1%	0%	0%	F	0.1162	F	0.7504	8200	F	2012
+677322	 134	08687	     	134-8687	London Bridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.18	London Bridge Rd Ext	Dam Neck Rd	12000	F	97%	0%	1%	1%	0%	0%	F	0.1040	F	0.5011	12000	F	2012
+677824	 134	08687	     	134-8687	London Bridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.48	Dam Neck Rd	Harpers Rd	25000	F	97%	0%	1%	1%	0%	0%	C	0.0886	F	0.6694	26000	F	2012
+677881	 134	08687	     	134-8687	London Bridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.11	Harpers Rd	General Booth Blvd	22000	F	97%	0%	1%	1%	0%	0%	F	0.0913	F	0.6335	24000	F	2012
+677890	 134	08688	     	134-8688	Dam Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.70	Holland Rd	London Bridge Rd	43000	F	98%	0%	0%	1%	0%	0%	F	0.0814	F	0.5594	46000	F	2012
+677324	 134	08688	     	134-8688	Dam Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.61	London Bridge Rd	Harpers Rd	30000	F	98%	0%	0%	1%	0%	0%	F	0.0890	F	0.5880	32000	F	2012
+677880	 134	08688	     	134-8688	Dam Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.19	Harpers Rd	General Booth Blvd	25000	F	98%	0%	0%	1%	0%	0%	C	0.0889	F	0.5825	27000	F	2012
+677866	 134	08688	     	134-8688	Dam Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.02	General Booth Blvd	USN Training Center	17000	F	98%	0%	0%	1%	0%	0%	F	0.0979	F	0.7967	18000	F	2012
+677325	 134	08689	     	134-8689	Entrada Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.68	Sandbridge Rd	Atwoodtown Rd	770	F	98%	0%	0%	1%	0%	0%	F	0.0961	F	0.5497	830	F	2012
+677841	 134	08690	     	134-8690	Harpers Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.87	London Bridge Rd	Oceana Blvd	6600	F	98%	1%	1%	0%	0%	0%	C	0.1047	F	0.6025	7100	F	2012
+677326	 134	08691	     	134-8691	West Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	3.08	Princess Anne Rd	Indian River Rd	2900	F	97%	0%	1%	1%	0%	0%	F	0.1004	F	0.6998	3100	F	2012
+677327	 134	08691	     	134-8691	West Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.05	Indian River Rd	SR 165 North Landing Rd	6200	F	97%	0%	1%	1%	0%	0%	C	0.0879	F	0.6750	6600	F	2012
+677328	 134	08692	     	134-8692	Ferrell Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.44	Indian River Rd	Indian Lakes Blvd	49000	F	98%	0%	0%	1%	1%	0%	F	0.0838	F	0.6123	52000	F	2012
+677838	 134	08692	     	134-8692	Ferrell Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.84	Indian Lakes Blvd	Pleasant Valley Rd	40000	F	98%	0%	0%	1%	1%	0%	C	0.0819	F	0.5001	43000	F	2012
+781797	 134	08692	     	134-8692	Ferrell Parkway	134	City of Virginia Beach	134	City of Virginia Beach	1.38	Pleasant Valley Rd	SR 165 Princess Anne Rd	40000	F	98%	0%	0%	1%	1%	0%	F	0.0845	F	0.5204	43000	F	2012
+677868	 134	08693	     	134-8693	Indian Lakes Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.43	Indian River Rd	Ferrell Pkwy	14000	F	98%	1%	1%	0%	0%	0%	C	0.0964	F	0.5120	15000	F	2012
+677329	 134	08693	     	134-8693	Indian Lakes Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.78	Ferrell Pkwy	Stratford Chase Dr	7200	F	98%	1%	1%	0%	0%	0%	F	0.1138	F	0.6438	7700	F	2012
+677433	 134	08698	     	134-8698	Pembroke Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.21	Independence Blvd	Cathedral Dr	4000	F	98%	1%	1%	0%	0%	0%	F	0.0883	F	0.6013	4300	F	2012
+781799	 134	08698	     	134-8698	Pembroke Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.30	Cathedral Dr	St Martin Dr	2700	F	98%	1%	1%	0%	0%	0%	F	0.0941	F	0.5918	2900	F	2012
+677330	 134	08700	     	134-8700	Alicia Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.18	Baxter Rd	Dolton Dr	1500	F	98%	1%	1%	0%	0%	0%	F	0.1243	F	0.6213	1500	F	2012
+677714	 134	08700	     	134-8700	Bonney Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.17	Baxter Rd	SR 190 Witchduck Rd	6400	F	98%	1%	1%	0%	0%	0%	C	0.1199	F	0.7612	6900	F	2012
+677331	 134	08702	     	134-8702	Broad Bay Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.96	SR 279 Great Neck Rd	Lone Pine Rd	2300	F	98%	1%	1%	0%	0%	0%	F	0.0805	F	0.5749	2500	F	2012
+677332	 134	08705	     	134-8705	First Court Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.55	Pleasure House Rd	US 60 Shore Dr	7900	F	99%	0%	1%	0%	0%	0%	F	0.0922	F	0.6241	8400	F	2012
+677334	 134	08705	     	134-8705	Indian Hill Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.47	US 60 Shore Dr	Lookout Rd	1900	F	99%	0%	1%	0%	0%	0%	C	0.0852	F	0.5765	2000	F	2012
+677333	 134	08705	     	134-8705	Lookout Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.95	Indian Hill Rd	Pleasure House Rd	1500	F	99%	0%	1%	0%	0%	0%	F	0.0918	F	0.5017	1600	F	2012
+677335	 134	08706	     	134-8706	Bells Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.44	Oceana Blvd	Birdneck Rd	4400	F	98%	1%	1%	0%	0%	0%	F	0.0903	F	0.5221	4700	F	2012
+677336	 134	08707	     	134-8707	Ferry Plantation Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.62	Witchduck Rd	Haygood Rd	4500	F	98%	1%	1%	0%	0%	0%	F	0.1048	F	0.5370	4800	F	2012
+677337	 134	08708	     	134-8708	Jeanne St	134	City of Virginia Beach	134	City of Virginia Beach	0.37	134-8749 Kellam Rd	SR 225 Independence Blvd	2000	F	96%	1%	2%	0%	1%	0%	C	0.1383	F	0.6730	2100	F	2012
+677338	 134	08708	     	134-8708	Jeanne St	134	City of Virginia Beach	134	City of Virginia Beach	0.23	SR 225 Independence Blvd	Constitution Dr	12000	F	96%	1%	2%	0%	1%	0%	F	0.1056	F	0.5588	13000	F	2012
+677427	 134	08709	     	134-8709	Five Forks Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.78	Red Coat Rd	Bromfield Rd	670	F	99%	0%	0%	0%	0%	0%	C	0.0955	F	0.6029	720	F	2012
+677426	 134	08709	     	134-8709	Bromfield Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.11	Five Forks Rd	Ewell Rd	200	F	99%	0%	0%	0%	0%	0%	F	0.1114	F	0.7083	210	F	2012
+677425	 134	08709	     	134-8709	Ewell Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.12	Bromfield Rd	SR 225 Independence Blvd	1500	F	99%	0%	0%	0%	0%	0%	F	0.1089	F	0.6203	1600	F	2012
+781802	 134	08709	     	134-8709	Five Forks Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.55	SR 225 Independence Blvd	Hermitage Rd	1000	F	99%	0%	0%	0%	0%	0%	F	0.1031	F	0.6525	1100	F	2012
+677339	 134	08710	     	134-8710	Laurel Cove Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.74	Schooner Lane	SR 279 Great Neck Rd	1400	F	99%	0%	1%	0%	0%	0%	F	0.0907	F	0.5071	1500	F	2012
+677762	 134	08711	     	134-8711	Lynnhaven Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.61	Lynnhaven Pkwy	US 58 Va Beach Blvd	8900	F	99%	0%	1%	0%	0%	0%	F	0.0910	F	0.5125	9500	F	2012
+677342	 134	08711	     	134-8711	Lynnhaven Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.55	US 58 Va Beach Blvd	Kings Grant Rd	10000	F	99%	0%	1%	0%	0%	0%	F	0.0898	F	0.5319	11000	F	2012
+677341	 134	08711	     	134-8711	Lynnhaven Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.89	Kings Grant Rd	Little Neck Rd	3100	F	99%	0%	1%	0%	0%	0%	F	0.0894	F	0.5288	3400	F	2012
+677759	 134	08711	     	134-8711	Little Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.51	Lynnhaven Rd	Newcastle Rd	12000	F	99%	0%	1%	0%	0%	0%	C	0.0817	F	0.6144	13000	F	2012
+677340	 134	08711	     	134-8711	Little Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.82	Newcastle Rd	Little Neck Rd W	3500	F	99%	0%	1%	0%	0%	0%	F	0.0842	F	0.5639	3700	F	2012
+781804	 134	08712	     	134-8712	Plantation Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.25	 Wolfsnare Dr	SR 279 Great Neck Rd	460	F	98%	0%	1%	0%	0%	0%	C	0.1077	F	0.5283	490	F	2012
+677446	 134	08713	     	134-8713	Regency Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.22	US 58 Laskin Rd	Westminster Ln	9500	F	99%	0%	1%	0%	0%	0%	F	0.0906	F	0.5222	10000	F	2012
+677343	 134	08713	     	134-8713	Regency Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.19	Westminster Ln	Wolfsnare Rd	5000	G	99%	0%	1%	0%	0%	0%	F				5300	G	2012
+677344	 134	08714	     	134-8714	Wolfsnare Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.33	SR 279 Great Neck Rd	First Colonial Rd	4300	F	99%	0%	1%	0%	0%	0%	F	0.0871	F	0.5333	4600	F	2012
+677345	 134	08715	     	134-8715	Mill Dam Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.60	First Colonial Rd	Woodhouse Rd	8800	F	97%	2%	1%	0%	0%	0%	C	0.1095	F	0.5222	9300	F	2012
+677346	 134	08715	     	134-8715	Mill  Dam Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.60	Woodhouse Rd	SR 279 Great Neck Rd	7600	F	97%	2%	1%	0%	0%	0%	F	0.0871	F	0.5306	8100	F	2012
+677347	 134	08716	     	134-8716	Woodhouse Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.10	Mill Dam Rd	Alanton Dr	3200	F	99%	0%	0%	0%	0%	0%	C	0.0794	F	0.6176	3400	F	2012
+677348	 134	08716	     	134-8716	Alanton Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.25	Woodhouse Rd	Arnold Circle	340	F	99%	0%	0%	0%	0%	0%	F	0.0989	F	0.6795	370	F	2012
+783034	 134	08717	     	134-8717	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.42	Plantation Lakes Circle	Centerville Tpke	8000	F	100%	0%	0%	0%	0%	0%	F	0.1082	F	0.6411	8500	F	2012
+677435	 134	08717	     	134-8717	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.45	Centerville Tpke	Dead End	5600	F	100%	0%	0%	0%	0%	0%	C	0.1099	F	0.6067	6000	F	2012
+677434	 134	08717	     	134-8717	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	1.24	Dead End	Indian River Rd	10000	F	99%	1%	1%	0%	0%	0%	F	0.1148	F	0.5570	11000	F	2012
+677885	 134	08717	     	134-8717	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	1.97	Indian River Rd	Salem Rd	21000	F	99%	1%	1%	0%	0%	0%	C	0.1035	F	0.6171	22000	F	2012
+783036	 134	08717	     	134-8717	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.47	Salem Rd	Sr 165 Princess Anne Rd	20000	F	99%	1%	1%	0%	0%	0%	F	0.0979	F	0.6036	21000	F	2012
+677825	 134	08717	     	134-8717	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.67	SR 165 Princess Anne Rd	Independence Blvd South	23000	F	99%	1%	1%	0%	0%	0%	F	0.0944	F	0.5466	25000	F	2012
+677846	 134	08717	     	134-8717	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.56	Independence Blvd South	Rosemont Rd	32000	F	99%	1%	1%	0%	0%	0%	F	0.0923	F	0.5409	34000	F	2012
+677836	 134	08717	     	134-8717	Lynnhaven Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.90	Rosemont Rd	Holland Rd	26000	F	99%	1%	1%	0%	0%	0%	F	0.0976	F	0.5876	27000	F	2012
+677428	 134	08718	     	134-8718	York Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.24	Bay Colony Dr	Cavalier Dr	2100	F	99%	0%	0%	0%	0%	0%	F	0.0809	F	0.5898	2200	F	2012
+677429	 134	08718	     	134-8718	Cavalier Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.57	York Lane	Holly Rd	4300	F	99%	0%	0%	0%	0%	0%	C	0.0785	F	0.6927	4500	F	2012
+781806	 134	08718	     	134-8718	Cavalier Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.23	Holly Rd	US 60 Atlantic Ave	390	F	99%	0%	0%	0%	0%	0%	F	0.1105	F	0.8969	420	F	2012
+677708	 134	08719	     	134-8719	Atlantic Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.28	17th St	21st St	6200	F	98%	0%	1%	0%	0%	0%	C	0.0807	F	0.5292	6600	F	2012
+677715	 134	08719	     	134-8719	Atlantic Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.71	21st Street	Laskin Rd	7500	F	98%	0%	1%	0%	0%	0%	F	0.0736	F	0.5112	8000	F	2012
+677709	 134	08719	     	134-8719	Atlantic Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.77	Laskin Rd	US 60 Pacific Ave	4400	F	98%	0%	1%	0%	0%	0%	F	0.0781	F	0.5014	4700	F	2012
+677349	 134	08721	     	134-8721	Baltic Ave	134	City of Virginia Beach	134	City of Virginia Beach	1.00	Bus US 58 Va Beach Blvd	US 58 Laskin Rd	6500	F	100%	0%	0%	0%	0%	0%	F	0.0957	F	0.5852	6900	F	2012
+677350	 134	08721	     	134-8721	Holly Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.80	US 58 Laskin Rd	Cavalier Dr	9700	F	100%	0%	0%	0%	0%	0%	C	0.0842	F	0.5926	10000	F	2012
+677819	 134	08722	     	134-8722	22nd St	134	City of Virginia Beach	134	City of Virginia Beach	0.53	I-264	US 60 Pacific Ave	13000	F	98%	1%	1%	0%	1%	0%	C	0.0880	F	1.0000	13000	F	2012
+677351	 134	08722	     	134-8722	22nd St	134	City of Virginia Beach	134	City of Virginia Beach	0.07	Atlantic Ave	Pacific Ave	2900	F	98%	1%	1%	0%	1%	0%	F	0.0952	F	1.0000	3100	F	2012
+781807	 134	08723	     	134-8723	Birdneck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.15	Dead End	Prosperity Rd	2500	F	98%	1%	1%	0%	0%	0%	C	0.1722	F	0.9123	2700	F	2012
+677419	 134	08723	     	134-8723	Birdneck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.40	Prosperity Rd	General Booth Blvd	6000	G	98%	0%	1%	0%	0%	0%	F				5700	G	2012
+677712	 134	08723	     	134-8723	Birdneck Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.52	General Booth Blvd	Bus US 58 Va Beach Blvd	14000	F	98%	0%	1%	0%	0%	0%	C	0.0949	F	0.5050	15000	F	2012
+677892	 134	08723	     	134-8723	Birdneck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.37	Bus US 58 Va Beach Blvd	Va Beach-Norfolk Exp	26000	F	98%	0%	1%	0%	0%	0%	F	0.0838	F	0.5206	28000	F	2012
+677713	 134	08723	     	134-8723	Birdneck Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.55	Va Beach-Norfolk Exp	US 58 Laskin Rd	22000	F	98%	0%	1%	0%	0%	0%	F	0.0843	F	0.5198	23000	F	2012
+677449	 134	08723	     	134-8723	Cardinal Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.48	US 58 Laskin Rd	Kamichi Pl	2200	F	98%	0%	1%	0%	0%	0%	F	0.0881	F	0.5143	2300	F	2012
+789948	 134	08723	N003A	134-8723 NB Exit 003A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.17	134-8723; 134-8723-S003A TO & FROM ROU	I-264-W FROM BIRDNECK ROAD00- NORTH	7400	F							X	0.0966	F	1.0000	7400	F	2012
+789949	 134	08723	S003A	134-8723 SB Exit 003A	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.17	134-8723; 134-8723-N003A TO & FROM ROU	I-264-W FROM BIRDNECK ROAD00- SOUTH	6800	F							X	0.1161	F	1.0000	6800	F	2012
+677352	 134	08724	     	134-8724	Norfolk Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.67	Birdneck Rd	Ocean Villas Way	12000	F	99%	0%	0%	0%	0%	0%	F	0.0884	F	0.5991	13000	F	2012
+677869	 134	08724	     	134-8724	Norfolk Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.73	Ocean Villas	Pacific Ave	7100	F	99%	0%	0%	0%	0%	0%	C	0.0820	F	0.5429	7600	F	2012
+677353	 134	08724	     	134-8724	Norfolk Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.07	Pacific Ave	US 60 Atlantic Ave	3500	F	99%	0%	0%	0%	0%	0%	F	0.1004	F	0.7234	3700	F	2012
+677354	 134	08725	     	134-8725	Kings Arms Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.44	Lynnhaven Pkwy	Bow Creek Blvd	710	F	99%	0%	0%	0%	0%	0%	F	0.1067	F	0.5029	760	F	2012
+677761	 134	08726	     	134-8726	Lynnhaven Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.98	Lynnhaven Pkwy	Lynnhaven Pkwy	16000	F	99%	0%	0%	0%	0%	0%	C	0.0967	F	0.5023	18000	F	2012
+677431	 134	08726	     	134-8726	Potters Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.93	Lynnhaven Pkwy	Great Neck Rd S	8000	F	99%	0%	0%	0%	0%	0%	F	0.0951	F	0.5502	8600	F	2012
+677888	 134	08726	     	134-8726	Potters Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.09	Great Neck Rd	First Colonial Rd	4400	F	99%	0%	0%	0%	0%	0%	F	0.0979	F	0.5280	4700	F	2012
+677355	 134	08727	     	134-8727	Winwood Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.23	US 60 Laskin Rd	Wolfsnare Rd	900	F	98%	0%	0%	0%	0%	0%	F	0.1113	F	0.5000	960	F	2012
+150138	 134	08729	     	134-8729	Oceana Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.97	General Booth Blvd	Tomcat Blvd	31000	N	98%	0%	0%	0%	0%	0%	N	0.0963	N	0.5444	35000	N	2012
+150105	 134	08729	     	134-8729	Oceana Blvd	134	City of Virginia Beach	134	City of Virginia Beach	2.98	Tomcat Blvd	Bus US 58 Virginia Beach Blvd	31000	A	98%	0%	0%	0%	0%	0%	C	0.0963	A	0.5444	35000	A	2012
+677356	 134	08730	     	134-8730	Parliament Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.91	SR 165 Princess Anne Rd	South Parliament Dr	2900	F	98%	0%	0%	0%	0%	0%	F	0.1008	F	0.6708	3100	F	2012
+677357	 134	08730	     	134-8730	S Parliament Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.52	Parliament Dr	SR 165 Princess Anne Rd	3500	F	98%	0%	0%	0%	0%	0%	F	0.0989	F	0.5252	3800	F	2012
+677358	 134	08731	     	134-8731	Whitehurst Landing Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.51	SR 190 Kempsville Rd	Branchwood Way	3700	F	98%	0%	0%	0%	0%	0%	F	0.1015	F	0.5736	4000	F	2012
+677359	 134	08731	     	134-8731	Whitehurst Landing Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.40	Branchwood Way	Providence Rd	3600	F	98%	0%	0%	0%	0%	0%	F	0.1074	F	0.6698	3900	F	2012
+677424	 134	08732	     	134-8732	Thalia Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.44	US 58 Va Beach Blvd	Edinburgh Dr	4300	F	99%	0%	0%	0%	0%	0%	F	0.0993	F	0.6171	4600	F	2012
+677422	 134	08732	     	134-8732	Edinburgh Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.51	Thalia Rd	Lynn Shores Dr	2100	F	99%	0%	0%	0%	0%	0%	C	0.1062	F	0.5208	2200	F	2012
+677423	 134	08732	     	134-8732	Edinburgh Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.08	Lynn Shores Dr	Little Neck Rd	3100	F	98%	0%	0%	0%	0%	0%	F	0.1053	F	0.5684	3300	F	2012
+677870	 134	08733	     	134-8733	Plaza Trail S	134	City of Virginia Beach	134	City of Virginia Beach	0.51	Independence Blvd	Holland Rd	11000	F	98%	0%	0%	0%	0%	0%	F	0.1084	F	0.6029	11000	F	2012
+677828	 134	08733	     	134-8733	Plaza Trail S	134	City of Virginia Beach	134	City of Virginia Beach	1.63	Holland Rd	Rosemont Rd	9200	F	98%	0%	0%	0%	0%	0%	C	0.1078	F	0.5045	9800	F	2012
+677779	 134	08733	     	134-8733	Plaza Trail	134	City of Virginia Beach	134	City of Virginia Beach	1.12	Rosemont Rd	US 58 Virginia Beach Blvd	10000	F	98%	0%	0%	0%	0%	0%	F	0.0991	F	0.6075	11000	F	2012
+677430	 134	08733	     	134-8733	Little Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.04	US 58 Virginia Beach Blvd	Lynnhaven Rd	16000	F	98%	0%	0%	0%	0%	0%	F	0.0892	F	0.5899	17000	F	2012
+677305	 134	08734	     	134-8734	Windsor Oaks	134	City of Virginia Beach	134	City of Virginia Beach	0.87	SR 165 Princess Anne Rd	Independence Blvd	5900	F	98%	0%	1%	0%	0%	0%	F	0.1013	F	0.5012	6200	F	2012
+781809	 134	08734	     	134-8734	Windsor Oaks Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.50	Holland Rd	S Plaza Trail	4500	F	98%	0%	1%	0%	0%	0%	F	0.0987	F	0.5335	4800	F	2012
+677821	 134	08736	     	134-8736	Baxter Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.95	SR 165 Princess Anne Rd	SR 225 Independence Blvd	21000	F	98%	0%	1%	0%	0%	0%	C	0.1109	F	0.6674	22000	F	2012
+677405	 134	08737	     	134-8737	Edwin Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.64	Providence Rd	SR 165 Princess Anne Rd	3900	F	99%	0%	0%	0%	0%	0%	F	0.1104	F	0.6447	4100	F	2012
+677406	 134	08737	     	134-8737	Edwin Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.78	SR 165 Princess Anne Rd	Gleneagle Dr	3800	F	99%	0%	0%	0%	0%	0%	C	0.1044	F	0.6464	4100	F	2012
+677407	 134	08737	     	134-8737	Edwin Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.31	Gleneagle Dr	Independence Blvd S	4800	F	99%	0%	0%	0%	0%	0%	F	0.1016	F	0.6020	5100	F	2012
+677408	 134	08737	     	134-8737	Edwin Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.53	Independence Blvd	South Blvd	6500	F	99%	0%	0%	0%	0%	0%	F	0.1062	F	0.5132	6900	F	2012
+677403	 134	08738	     	134-8738	Dorset Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.13	US 58 Va Beach Blvd	Cleveland St	3100	F	99%	0%	0%	0%	0%	0%	F	0.1055	F	0.5351	3300	F	2012
+677404	 134	08738	     	134-8738	Euclid Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.14	Cleveland St	SR 225 Independence Blvd	5200	F	99%	0%	0%	0%	0%	0%	F	0.0979	F	0.5833	5600	F	2012
+677862	 134	08738	     	134-8738	Bonney Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.38	SR 225 Independence Blvd	Rosemont Rd	13000	F	99%	0%	0%	0%	0%	0%	C	0.0920	F	0.5300	14000	F	2012
+677457	 134	08739	     	134-8739	Rosemont Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.93	Dam Neck Rd	Buckner Blvd	13000	F	98%	0%	1%	0%	0%	0%	F	0.0916	F	0.5026	14000	F	2012
+677886	 134	08739	     	134-8739	Rosemont Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.51	Buckner Blvd	Lynnhaven Pkwy	16000	F	98%	0%	1%	0%	0%	0%	C	0.0951	F	0.5434	17000	F	2012
+677456	 134	08739	     	134-8739	Rosemont Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.63	Lynnhaven Pkwy	Holland Rd	19000	F	98%	0%	1%	0%	0%	0%	F	0.0955	F	0.5393	20000	F	2012
+677823	 134	08740	     	134-8740	Constitution Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.18	Columbus St	SR 58 Va Beach Blvd	7400	F	98%	1%	1%	0%	0%	0%	F	0.1013	F	0.5410	7900	F	2012
+677865	 134	08740	     	134-8740	Constitution Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.88	SR 58 Va Beach Blvd	SR 225 Independence Blvd	10000	F	98%	1%	1%	0%	0%	0%	C	0.1073	F	0.5034	11000	F	2012
+677361	 134	08740	     	134-8740	Jericho Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.46	SR 225 Independence Blvd	SR 190 Witchduck Rd	2700	F	98%	1%	1%	0%	0%	0%	F	0.1468	F	0.5017	2900	F	2012
+677362	 134	08742	     	134-8742	Old Forge Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.76	S Plaza Trail	Rosemont Rd	1300	F	98%	1%	1%	0%	0%	0%	F	0.1016	F	0.5363	1400	F	2012
+677363	 134	08744	     	134-8744	Bow Creek Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.46	Rosemont Rd	Lynnhaven Rd	6000	F	98%	1%	1%	0%	0%	0%	F	0.0943	F	0.5152	6400	F	2012
+781811	 134	08746	     	134-8746	St Marshall Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.13	SR 279 Great Neck Rd	North Plantation Dr	1200	F	99%	0%	0%	0%	0%	0%	F	0.0995	F	0.7529	1300	F	2012
+781813	 134	08747	     	134-8747	Kings Grant Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.01	Lynnhaven Rd	Little Neck Rd	5000	F	99%	0%	0%	0%	0%	0%	F	0.0892	F	0.6186	5300	F	2012
+677420	 134	08748	     	134-8748	Chester St	134	City of Virginia Beach	134	City of Virginia Beach	0.32	Rosemont Rd	Victoria Dr	1200	F	98%	1%	1%	0%	0%	0%	F	0.1030	F	0.6122	1200	F	2012
+677421	 134	08748	     	134-8748	Dillon Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.81	Continental St	Silina Dr	4900	F	98%	1%	1%	0%	0%	0%	F	0.1086	F	0.5159	5200	F	2012
+677364	 134	08749	     	134-8749	Kellam Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.19	Columbus St	US 58 Va Beach Blvd	2600	F	99%	0%	0%	0%	0%	0%	F	0.1215	F	0.5745	2800	F	2012
+677365	 134	08749	     	134-8749	Kellam Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.98	US 58 Va Beach Blvd	SR 190 Witchduck Rd	3100	F	99%	0%	0%	0%	0%	0%	C	0.1140	F	0.5365	3300	F	2012
+677442	 134	08750	     	134-8750	Silina Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.00	Rosemont Rd	Lynnhaven Rd	7400	F	98%	1%	1%	0%	0%	0%	F	0.0993	F	0.5924	7900	F	2012
+677366	 134	08751	     	134-8751	Malibu Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.42	US 58 Va Beach Blvd	Edinburgh Dr	1400	F	98%	1%	1%	0%	0%	0%	F	0.0971	F	0.6287	1500	F	2012
+677401	 134	08752	     	134-8752	Lynn Shores Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.51	US 58 Va Beach Blvd	Edinburg Dr	3300	F	99%	0%	0%	1%	0%	0%	C	0.0928	F	0.5675	3500	F	2012
+677402	 134	08752	     	134-8752	Lynn Shores Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.35	Edinburg Dr	Thalia Dr	1100	F	99%	0%	0%	1%	0%	0%	F	0.0999	F	0.5798	1200	F	2012
+781814	 134	08752	     	134-8752	Thalia Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.49	Lynn Shores Rd	Thalia Rd	850	F	99%	0%	0%	1%	0%	0%	F	0.1133	F	0.5694	910	F	2012
+677367	 134	08764	     	134-8764	Janke Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.48	Bayside Rd	Aragon Rd	850	F	98%	1%	1%	0%	0%	0%	F	0.1074	F	0.5784	910	F	2012
+677882	 134	08774	     	134-8774	Southern Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.16	First Colonial Rd	Dead End	60	F	95%	3%	1%	0%	1%	0%	F	0.1709	F	0.5500	70	F	2012
+677874	 134	08774	     	134-8774	Southern Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.23	West Lane	Old Oceana Blvd	250	F	95%	3%	1%	0%	1%	0%	C	0.0993	F	0.5556	270	F	2012
+677400	 134	08775	     	134-8775	Albright Dr	134	City of Virginia Beach	134	City of Virginia Beach	1.22	Lynnhaven Pkwy	Brandon Blvd	6900	F	98%	0%	1%	0%	0%	0%	F	0.1115	F	0.5000	7300	F	2012
+677879	 134	08779	     	134-8779	Landstown Rd	134	City of Virginia Beach	134	City of Virginia Beach	2.34	Salem Rd	Dam Neck Rd	1800	F	98%	0%	1%	0%	0%	0%	C	0.1206	F	0.6708	2000	F	2012
+677850	 134	08779	     	134-8779	Dam Neck Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.01	Princess Anne Rd	Holland Rd	40000	F	98%	0%	1%	0%	0%	0%	F	0.0891	F	0.5586	43000	F	2012
+677438	 134	08781	     	134-8781	Sandpiper Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.95	Marlin Lane	Widgeon Lane	770	F	98%	0%	1%	0%	0%	0%	F	0.0864	F	0.5033	820	F	2012
+677399	 134	08783	     	134-8783	Lotus Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.58	Sandbridge Rd	Atwoodtown Rd	270	F	99%	0%	0%	0%	0%	0%	F	0.1241	F	0.6111	290	F	2012
+677793	 134	08783	     	134-8783	Sandbridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.63	Lotus Dr	Princess Anne Rd	15000	F	99%	0%	0%	0%	0%	0%	C	0.0942	F	0.5029	16000	F	2012
+677448	 134	08785	     	134-8785	Haygood Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.29	Newtown Rd	Wesleyan Dr	3000	F	99%	0%	0%	0%	0%	0%	F	0.0940	F	0.5131	3200	F	2012
+677395	 134	08786	     	134-8786	South Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.70	Independence Blvd	Edwin Dr	4600	F	99%	0%	0%	0%	0%	0%	F	0.1207	F	0.5836	4900	F	2012
+677396	 134	08786	     	134-8786	South Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.59	Edwin Dr	West Colonial Pkwy	4400	F	99%	0%	0%	0%	0%	0%	C	0.1120	F	0.6122	4700	F	2012
+677397	 134	08786	     	134-8786	South Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.59	West Colonial Pkwy	Palace Green	2000	F	99%	0%	0%	0%	0%	0%	F	0.1107	F	0.5845	2100	F	2012
+677398	 134	08786	     	134-8786	Palace Green Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.27	South Blvd	Plaza Trail S	1000	F	99%	0%	0%	0%	0%	0%	F	0.0973	F	0.5470	1100	F	2012
+677369	 134	08805	     	134-8805	Elbow Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.15	ECL Chesapeake	Indian River Rd	8400	F	99%	1%	1%	0%	0%	0%	F	0.1225	F	0.5127	8900	F	2012
+677370	 134	08805	     	134-8805	Elbow Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.09	Indian River Rd	Salem Rd	11000	F	99%	1%	1%	0%	0%	0%	C	0.1084	F	0.5613	12000	F	2012
+781817	 134	08816	     	134-8816	Kings Grant Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.24	Winthrope Dr	Little Neck Rd	4400	F	99%	0%	0%	0%	0%	0%	C	0.1063	F	0.5700	4700	F	2012
+677459	 134	08817	     	134-8817	Inlynnview Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.66	Five Point Rd	SR 279 Great Neck Rd	2900	F	99%	0%	0%	0%	0%	0%	F	0.0889	F	0.6617	3100	F	2012
+677831	 134	08817	     	134-8817	Old Donation Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.94	SR 279 Great Neck Rd	First Colonial Rd	6800	F	99%	0%	0%	0%	0%	0%	C	0.1001	F	0.5659	7200	F	2012
+677371	 134	08818	     	134-8818	19th St	134	City of Virginia Beach	134	City of Virginia Beach	0.59	Birdneck Rd	Parks Ave	3400	F	99%	0%	0%	0%	0%	0%	F	0.0803	F	0.7497	3600	F	2012
+677372	 134	08818	     	134-8818	19th St	134	City of Virginia Beach	134	City of Virginia Beach	0.52	Parks Ave	US 60 Atlantic Ave	3400	F	99%	0%	0%	0%	0%	0%	F	0.0839	F	0.5875	3600	F	2012
+677373	 134	08819	     	134-8819	Greenwich Rd	134	City of Virginia Beach	134	City of Virginia Beach	1.64	SR 403 Newtown Rd	SR 190 Witchduck Rd	5700	F	98%	0%	1%	0%	0%	0%	C	0.1172	F	0.5263	6100	F	2012
+677374	 134	08820	     	134-8820	College Park Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.01	Drew Dr	Providence Rd	5000	F	99%	0%	0%	0%	0%	0%	F	0.0905	F	0.5171	5300	F	2012
+677391	 134	08821	     	134-8821	Drew Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.57	ECL Norfolk	Level Green Blvd	2500	F	99%	0%	0%	0%	0%	0%	F	0.1027	F	0.5587	2600	F	2012
+677392	 134	08821	     	134-8821	Level Green Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.88	Drew Dr	Indian River Rd	2500	F	99%	0%	0%	0%	0%	0%	F	0.0933	F	0.5773	2700	F	2012
+677393	 134	08822	     	134-8822	Beaufain Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.46	Legare Lane	SR 190 Kempsville Rd	2600	F	99%	0%	0%	0%	0%	0%	F	0.1075	F	0.7468	2800	F	2012
+677394	 134	08822	     	134-8822	Brandon Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.73	SR 190 Kempsville Rd	Centerville Tpke	3400	F	99%	0%	0%	0%	0%	0%	F	0.1224	F	0.7651	3700	F	2012
+677376	 134	08823	     	134-8823	Stratford Chase Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.66	SR 190 Kempsville Rd	Indian Lakes Blvd	2500	F	99%	0%	0%	0%	0%	0%	F	0.1389	F	0.7621	2700	F	2012
+677375	 134	08824	     	134-8824	Pleasant Valley Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.74	Indian Lakes Blvd	Ferrell Pkwy	4800	F	99%	0%	0%	0%	0%	0%	F	0.1097	F	0.5972	5100	F	2012
+677377	 134	08826	     	134-8826	Timberlake Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.54	Providence Rd	SR 165 Princess Anne Rd	3200	F	99%	0%	0%	0%	0%	0%	F	0.1067	F	0.5968	3400	F	2012
+677378	 134	08827	     	134-8827	Stoneshore Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.53	Rosemont Rd	Holland Rd	1200	F	99%	0%	0%	0%	0%	0%	F	0.1050	F	0.5481	1300	F	2012
+677379	 134	08827	     	134-8827	Stoneshore Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.22	Holland Rd	Riverbend Rd	3000	F	99%	0%	0%	0%	0%	0%	F	0.0965	F	0.5102	3200	F	2012
+677380	 134	08828	     	134-8828	Riverbend Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.71	Lynnhaven Pkwy	Lakecrest Rd	1600	F	99%	0%	0%	0%	0%	0%	F	0.1078	F	0.5450	1800	F	2012
+677388	 134	08829	     	134-8829	Dahlia Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.66	Lynnhaven Pkwy	Independence Blvd	5300	F	99%	0%	0%	0%	0%	0%	F	0.1020	F	0.5870	5600	F	2012
+677389	 134	08829	     	134-8829	Dahlia Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.82	Independence Blvd	Rosemont Rd	6600	F	99%	0%	0%	0%	0%	0%	F	0.0993	F	0.5196	7000	F	2012
+677390	 134	08829	     	134-8829	Dahlia Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.59	Rosemont Rd	Green Garden Cir	4300	G	99%	0%	0%	0%	0%	0%	F				4000	G	2012
+677387	 134	08829	     	134-8829	Green Run Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.17	Green Garden Cir	Holland Rd	2700	F	99%	0%	0%	0%	0%	0%	F	0.0960	F	0.5504	2800	F	2012
+677381	 134	08830	     	134-8830	Chimney Hill Pkwy	134	City of Virginia Beach	134	City of Virginia Beach	0.55	Campion Ave	Holland Rd	5700	F	99%	0%	0%	0%	0%	0%	F	0.0852	F	0.5567	6100	F	2012
+677382	 134	08831	     	134-8831	Magic Hollow Blvd	134	City of Virginia Beach	134	City of Virginia Beach	1.18	Lynnhaven Pkwy S	Lynnhaven Pkwy N	1300	F	99%	0%	0%	0%	0%	0%	F	0.0922	F	0.6679	1400	F	2012
+677383	 134	08832	     	134-8832	Green Meadows Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.82	SR 165 Princess Anne Rd	S Independence Blvd	3600	F	99%	0%	0%	0%	0%	0%	F	0.0962	F	0.5611	3900	F	2012
+677384	 134	08833	     	134-8833	Foxwood Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.64	Independence Blvd	S Plaza Trail	1200	F	99%	0%	0%	0%	0%	0%	F	0.0967	F	0.5472	1300	F	2012
+577005	 134	00000	     	134-0	15th St	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Cypress Ave	Parks Ave	360	F							X	0.1176	F	0.5217	390	F	2012
+577002	 134	00000	     	134-0	24th St	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Barberton Dr	Cypress Ave	3300	F							X	0.0947	F	0.5305	3500	F	2012
+577566	 134	00000	     	134-0	Alanton Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Herford Way	Bohnhoff Dr	330	G							X				330	G	2012
+577558	 134	00000	     	134-0	Ambassador Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Overholt Dr	Parliament Dr	280	F							X	0.1356	F	0.6471	290	F	2012
+577519	 134	00000	     	134-0	Andover Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Acredale Rd	Olive Rd	450	F							X	0.1255	F	0.5625	480	F	2012
+577019	 134	00000	     	134-0	Aragon Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	King William Rd	Moody Rd	780	F							X	0.0923	F	0.5409	830	F	2012
+577003	 134	00000	     	134-0	Arctic Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	24th St	25th St	3900	F							X	0.0867	F	0.5142	4200	F	2012
+577560	 134	00000	     	134-0	Arrowhead Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	SR 403 Newtown Rd	SR 165 Princess Anne Rd	2700	F							X	0.0875	F	0.5646	2900	F	2012
+577523	 134	00000	     	134-0	Avalon Woods	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Chipstead Lane	Avalon Ave	500	F							X	0.0787	F	0.5667	540	F	2012
+577063	 134	00000	     	134-0	Baycliff Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Mill Dam Rd	Windjammer Ct	2500	G							X				2500	G	2012
+577065	 134	00000	     	134-0	Berrywood Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Worthington Lane	Glen Lochen Dr	530	G							X				530	G	2012
+577520	 134	00000	     	134-0	Berwyn Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Bonney Dale Rd	Andover Rd	370	F							X	0.1232	F	0.8654	400	F	2012
+577071	 134	00000	     	134-0	Bloomfield Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Barberry Lane	Monet Dr	1000	G							X				1000	G	2012
+577548	 134	00000	     	134-0	Bounty Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Ben Gun Rd	John Silver Rd	90	F							X	0.1443	F	0.5000	100	F	2012
+577512	 134	00000	     	134-0	Broad St	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Kellem Rd	SR 225 Independence Blvd	3400	F							X	0.0968	F	0.6080	3600	F	2012
+577012	 134	00000	     	134-0	Brookbridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Forest Trail	Riverbend Rd	120	F							X	0.1523	F	0.6410	120	F	2012
+577059	 134	00000	     	134-0	Buckner Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Independence Blvd South	Buchanan Dr	12000	G							X				12000	G	2012
+577068	 134	00000	     	134-0	Burgesses Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Ashlawn Terr	Bow Creek Blvd	520	G							X				520	G	2012
+577544	 134	00000	     	134-0	Cape Henry Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Great Neck Rd W	Starfish Rd	1800	F							X	0.1292	F	0.5965	1900	F	2012
+577539	 134	00000	     	134-0	Carolyn Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Winwood Dr	Linbay Rd	160	F							X	0.1159	F	0.6500	170	F	2012
+577070	 134	00000	     	134-0	Casanova Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Culver Lane	Wellsford Dr	220	G							X				220	G	2012
+577514	 134	00000	     	134-0	Cedar Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Etheridge Ave	Thalia Rd	210	F							X	0.1019	F	0.5102	230	F	2012
+577559	 134	00000	     	134-0	Chickasaw Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Susquehanna Dr	Pontiac Rd	200	F							X	0.1716	F	0.6447	210	F	2012
+577541	 134	00000	     	134-0	Chicken Valley Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Plantation Rd	Cold Spring Rd	640	F							X	0.0923	F	0.5313	680	F	2012
+577511	 134	00000	     	134-0	Clover St	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Kellam Lane	Lavender Lane	190	G							X				180	G	2012
+577532	 134	00000	     	134-0	Coach House Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Burgesses Lane	Carriage Hill	100	F							X	0.1238	F	0.6154	100	F	2012
+577518	 134	00000	     	134-0	Coventry Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	SR 165 Princess Anne Rd	Capot Rd	250	F							X	0.1113	F	0.5968	260	F	2012
+577501	 134	00000	     	134-0	Crossborough Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Five Forks Rd	Harris Pt Dr	920	F							X	0.1037	F	0.6502	980	F	2012
+577004	 134	00000	     	134-0	Cypress Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	23rd St	24th St	1700	F							X	0.0943	F	0.6353	1800	F	2012
+577513	 134	00000	     	134-0	Delray Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Five Forks Rd	Ewell Rd	130	F							X	0.1233	F	0.6111	140	F	2012
+577526	 134	00000	     	134-0	Duke of Windsor Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Alanton Dr	Dead End	900	G							X				900	G	2012
+577508	 134	00000	     	134-0	Dunstan Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Adam Rd	Westerfield Rd	590	F							X	0.1494	F	0.5248	630	F	2012
+577521	 134	00000	     	134-0	Eastwind Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Timberlake Dr	Stockbridge Dr	440	F							X	0.1381	F	0.5362	470	F	2012
+577525	 134	00000	     	134-0	Elgin Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Avalon Ave	Baden Ave	250	F							X	0.0952	F	0.5926	270	F	2012
+577503	 134	00000	     	134-0	Floral St	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Brian Ave	Dorset Ave	300	F							X	0.1221	F	0.6145	320	F	2012
+577024	 134	00000	     	134-0	Gammon Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Indian River Rd	Howell Place	390	F							X	0.0888	F	0.5513	410	F	2012
+577550	 134	00000	     	134-0	Greenwell Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Delmar Dr	Bowden Ave	1800	F							X	0.0940	F	0.5192	1900	F	2012
+577057	 134	00000	     	134-0	Gum Bridge Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Princess Anne Rd	Dawley St	1200	G							X				1200	G	2012
+577700	 134	00000	     	134-0	Hargrove Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Niland Ct	Todd St	270	F							X	0.1172	F	0.6056	290	F	2012
+577510	 134	00000	     	134-0	Hessian Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Independence Blvd	Liberty Bell Rd	410	F							X	0.1090	F	0.7921	440	F	2012
+577533	 134	00000	     	134-0	Highlands Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Carnegie Rd	Lynnhaven Rd S	2300	F							X	0.0997	F	0.5810	2500	F	2012
+577042	 134	00000	     	134-0	Hillview Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Westward Dr	Homeward Dr	180	F							X	0.1229	F	0.5686	200	F	2012
+577052	 134	00000	     	134-0	Historyland Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Pal Green Blvd	President Blvd	200	F							X	0.1277	F	0.5254	220	F	2012
+577502	 134	00000	     	134-0	Holladay Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Sullivan Blvd	Whitman Lane	920	F							X	0.1130	F	0.6203	990	F	2012
+577509	 134	00000	     	134-0	Honeygrove Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	SR 225 Independence Blvd	Donation Rd	1300	F							X	0.1033	F	0.6296	1400	F	2012
+577016	 134	00000	     	134-0	Hood Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Five Point Rd	General Beauregard Dr	190	G							X				190	G	2012
+577554	 134	00000	     	134-0	Hudgins Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Bristol Pl	Cardiff Rd	250	F							X	0.1386	F	0.5250	270	F	2012
+577515	 134	00000	     	134-0	Iverness Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Budding Ave S	Cartwell Dr	1000	F							X	0.0797	F	0.6561	1100	F	2012
+577072	 134	00000	     	134-0	John Hancock Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Kings Arms Dr	Carriage Hill Rd	350	G							X				350	G	2012
+577522	 134	00000	     	134-0	Josephine Crescent	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Barco Dr	Beryl Ave	190	F							X	0.1185	F	0.5800	200	F	2012
+577517	 134	00000	     	134-0	Kenley Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Marlwood Way	Baxter Rd	1900	F							X	0.0948	F	0.5411	2100	F	2012
+577516	 134	00000	     	134-0	Kentucky Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Bonney Rd	Inverness Rd	1800	F							X	0.0970	F	0.6471	2000	F	2012
+577538	 134	00000	     	134-0	Kildeer Ct	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Bobolink Dr	Cardinal Rd	280	F							X	0.1120	F	0.5286	300	F	2012
+577553	 134	00000	     	134-0	King William Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Haden Rd	Aragon Dr	670	F							X	0.1156	F	0.6358	720	F	2012
+577537	 134	00000	     	134-0	Lake Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Mediterranean Ave	Pinewood Dr	80	F							X	0.1078	F	0.5000	80	F	2012
+577018	 134	00000	     	134-0	Lake Shores Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Oakleaf Lane	Salk St	260	F							X	0.1208	F	0.6029	280	F	2012
+577017	 134	00000	     	134-0	Lakeside Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Cullen Rd	Shamrock Ave	360	F							X	0.0938	F	0.6712	390	F	2012
+577500	 134	00000	     	134-0	Lakeview Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Braddock Ave	Shamrock Ave	140	F							X	0.1100	F	0.6250	150	F	2012
+577001	 134	00000	     	134-0	Linkhorne Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Bay Dr	Pinewood Rd	410	F							X	0.1040	F	0.5161	440	F	2012
+577009	 134	00000	     	134-0	Little Haven Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Little Neck Rd	Bishops Gate	1500	F							X	0.0855	F	0.6237	1700	F	2012
+577025	 134	00000	     	134-0	MacDonald Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Hobbs Rd	Neptune Ave	1700	F							X	0.1030	F	0.5086	1900	F	2012
+577529	 134	00000	     	134-0	Manatee Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Towanda Rd	Indian River Rd	380	F							X	0.1030	F	0.5333	410	F	2012
+577504	 134	00000	     	134-0	Mandan Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Klamath Rd	Kellam Rd	270	F							X	0.1412	F	0.5698	290	F	2012
+577535	 134	00000	     	134-0	Maryland Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Caribbean Ave	Cypress Ave	210	F							X	0.1375	F	0.5161	220	F	2012
+577552	 134	00000	     	134-0	Meredith Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	School Rd	Bliven Rd	270	F							X	0.1027	F	0.7241	280	F	2012
+577540	 134	00000	     	134-0	Middle Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Bus US 58 Va Beach Blvd	Michigan Ave	320	F							X	0.1405	F	0.5638	340	F	2012
+577527	 134	00000	     	134-0	Morgan Trail	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Westerly Trail	Fallon Dr	270	F							X	0.1156	F	0.6056	290	F	2012
+577037	 134	00000	     	134-0	Muddy Creek Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Stuart Rd	Muddy Creek Rd	560	F							X	0.0900	F	0.5357	600	F	2012
+577058	 134	00000	     	134-0	Newstead Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Glen Burnie Ct	Ferrel Pkwy	2600	G							X				2600	G	2012
+577022	 134	00000	     	134-0	Normandy Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Avalon Ave	Normandy Court	350	F							X	0.0958	F	0.7143	380	F	2012
+577547	 134	00000	     	134-0	Ocean View Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Lee Ave	Mortons Rd	410	F							X	0.1004	F	0.5054	440	F	2012
+577565	 134	00000	     	134-0	Ohio Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	West Lane	Middle Lane	140	F							X	0.1140	F	0.5143	150	F	2012
+577528	 134	00000	     	134-0	Old Providence Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Blakely Square	Dead End	300	F							X	0.1580	F	0.5943	320	F	2012
+577563	 134	00000	     	134-0	Old Shell Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Little Neck Rd W	Laurelwood Lane	220	F							X	0.1345	F	0.5625	230	F	2012
+577551	 134	00000	     	134-0	Oliver Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Pleasure House Rd	Sheldon Dr	420	F							X	0.1479	F	0.8271	450	F	2012
+577536	 134	00000	     	134-0	Owls Creek Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	South Birdneck Rd	Gregorys Lane	340	F							X	0.1331	F	0.6000	370	F	2012
+577556	 134	00000	     	134-0	Palm Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Bonney Rd	Southern Blvd	500	F							X	0.0854	F	0.6373	530	F	2012
+577543	 134	00000	     	134-0	Poinciana Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Oak St	Beech St	90	F							X	0.1244	F	0.5200	100	F	2012
+577021	 134	00000	     	134-0	Pontiac Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Cherokee Rd	Chickasaw Rd	1100	F							X	0.0936	F	0.5205	1200	F	2012
+577060	 134	00000	     	134-0	Presidential Blvd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Starlighter Dr	South Plaza Trail	1500	G							X				1500	G	2012
+577061	 134	00000	     	134-0	Prince Phillip Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Kings Grant Rd	Prince Andrew Lane	490	G							X				490	G	2012
+577561	 134	00000	     	134-0	Queen Elizabeth Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Kings Grant Rd	Prince Andrew Lane	430	F							X	0.0922	F	0.6047	460	F	2012
+798898	 134	00000	     	134-0	Ramp	134	City of Virginia Beach	075	Princess Anne Maintenance Area	0.00	I-264 East	London Bridge Rd	0	?							X
+577008	 134	00000	     	134-0	Reagan Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Cypresswood Ct	Fernwood Court	1900	F							X	0.0968	F	0.6173	2000	F	2012
+577562	 134	00000	     	134-0	Redwood Farm Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Southfield Pl	Tweedbrook Pl	600	F							X	0.1002	F	0.6154	640	F	2012
+577506	 134	00000	     	134-0	Reynolds Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Maycraft Rd	Adam Rd	290	F							X	0.1800	F	0.6496	310	F	2012
+577524	 134	00000	     	134-0	Richland Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Barco Dr	Beryl Ave	110	G							X				110	G	2012
+577007	 134	00000	     	134-0	Rose Hall Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Great Neck Rd	General Jackson Dr	1200	F							X	0.0899	F	0.5809	1300	F	2012
+577555	 134	00000	     	134-0	Rumford Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Greencastle Lane	Lynn Shores Dr	580	F							X	0.1121	F	0.6143	620	F	2012
+577030	 134	00000	     	134-0	S Head Of River Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	N Head River Rd	Blackwater Rd	490	F							X	0.0976	F	0.7810	520	F	2012
+577542	 134	00000	     	134-0	Sandlewood Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Poinciana Dr	US 60 Shore Dr	350	F							X	0.0806	F	0.5000	380	F	2012
+577549	 134	00000	     	134-0	Sandy Bay Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Windy Rd	Indian Hill Rd	300	F							X	0.1090	F	0.5753	320	F	2012
+577545	 134	00000	     	134-0	Scallop Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Lynnhaven Dr	Cape Henry Dr	290	F							X	0.1178	F	0.7564	310	F	2012
+577505	 134	00000	     	134-0	Schuyler Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Hinsdale St	John Jay Lane	150	F							X	0.1161	F	0.5128	160	F	2012
+577020	 134	00000	     	134-0	Shell Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Northampton Blvd	Shell Rd	580	F							X	0.0992	F	0.5574	610	F	2012
+577050	 134	00000	     	134-0	Silina Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Plaza Trail	South Blvd	2200	F							X	0.1081	F	0.6317	2400	F	2012
+577010	 134	00000	     	134-0	Smith Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Lynnhaven Rd	Edinburg Dr	580	F							X	0.0863	F	0.5370	620	F	2012
+577507	 134	00000	     	134-0	Smokey Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Eagleton Lane	Frost Rd	130	F							X	0.1180	F	0.6111	140	F	2012
+577067	 134	00000	     	134-0	Southaven Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Aborfield Ct	Kasba Ct	530	G							X				530	G	2012
+577564	 134	00000	     	134-0	Stanfield Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Ewell Rd	Hermitage Pt Rd	150	F							X	0.1155	F	0.5263	150	F	2012
+577530	 134	00000	     	134-0	Stratford Hall Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Old Towne Lane	Lynnhaven Pkwy	70	F							X	0.1879	F	0.6071	70	F	2012
+577069	 134	00000	     	134-0	Sugar Maple Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Holland Rd	Sour Gum Ct	1900	G							X				1900	G	2012
+577531	 134	00000	     	134-0	Swallow Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Hawk Ave	Finch Ave	130	F							X	0.1208	F	0.7500	140	F	2012
+577011	 134	00000	     	134-0	Terrazzo Trail	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Bernice Plaza	Cassady Ave	190	F							X	0.1220	F	0.5490	200	F	2012
+577062	 134	00000	     	134-0	Violet Bank Dr	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Luke Dr	Kittery Dr	230	G							X				230	G	2012
+577546	 134	00000	     	134-0	Vista Circle	134	City of Virginia Beach	134	City of Virginia Beach	0.00	US 60 Shore Dr	Lynnhaven Dr	2100	F							X	0.1241	F	0.6790	2200	F	2012
+577534	 134	00000	     	134-0	Washington Ave	134	City of Virginia Beach	134	City of Virginia Beach	0.00	19th St	Bus US 58 Va Beach Blvd	400	G							X				430	G	2012
+577006	 134	00000	     	134-0	Westminister Lane	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Biltmore Dr	Carnaby Ct	2700	F							X	0.0932	F	0.5302	2900	F	2012
+577013	 134	00000	     	134-0	Woodlake Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	High Gate Circle	Smoke Rise Lane	280	F							X	0.1034	F	0.5455	300	F	2012
+577557	 134	00000	     	134-0	Woods Edge Rd	134	City of Virginia Beach	134	City of Virginia Beach	0.00	Weller Blvd	Marlwood Way	400	F							X	0.1089	F	0.5900	430	F	2012
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - End of Report - - - - - - - - - - - - - - - - - - - - - - - - - - - - 																																									
