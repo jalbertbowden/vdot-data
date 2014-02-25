@@ -1,0 +1,82 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	VDOT Dashboard Watch List
+</title>
+    <style>
+      .report-table {
+        font-size: 11px;
+        font-family: Arial, Tahoma, Helvetica;
+      }
+
+      .report-title {
+        font-size: 12px;
+        font-family: Arial, Tahoma, Helvetica;
+        font-weight: bold;
+        color: white;
+        background-color: #3131E3;
+      }
+
+      .report-header {
+        background-color: #CDCEF1;
+        vertical-align: bottom;
+        font-size: 10px;
+        color: #000000;
+        font-weight: bold;
+        font-family: Arial, Tahoma, Verdana, Helvetica;
+      }
+
+      .report-total {
+        background-color: white;
+        border-top:2px solid #BBBBBB;
+        border-bottom: 2px solid white;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        font-weight: bold;
+      }
+
+      .odd-row {
+        font-family: Arial, Tahoma, Verdana, Helvetica;
+        font-size: 10px;
+        background-color: white;
+        border: 2px solid white;
+      }
+
+      .even-row {
+        font-family: Arial, Tahoma, Verdana, Helvetica;
+        font-size: 10px;
+        background-color: #EEEEEE;
+        border: 2px solid #EEEEEE;
+      }
+
+      .odd-row-bold {
+        font-family: Arial, Tahoma, Verdana, Helvetica;
+        font-size: 12px;
+        background-color: white;
+        border: 2px solid white;
+        font-weight: bold;
+      }
+
+      .even-row-bold {
+        font-family: Arial, Tahoma, Verdana, Helvetica;
+        font-size: 12px;
+        background-color: #EEEEEE;
+        border: 2px solid #EEEEEE;
+        font-weight: bold;
+      }
+    </style>
+</head>
+<body>
+    <form name="form1" method="post" action="Excel.aspx?detail=0&amp;excel=True&amp;year=2018&amp;locked=0&amp;type=Schedule" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUyNzUzNTM5OGRk86pMzis+T62LFWIymtg9svezpeQ=" />
+</div>
+
+    <div>
+        <TABLE CellSpacing='1' CellPadding='3'><TR class='report-title'><TD colspan='9' align='center'>Construction Contracts Scheduled to be Completed in 2018</TD></TR><TR class='report-header'><TD colspan='4'>&nbsp;</TD><TD align='center' colspan='2'>Completed Contracts</TD><TD align='center' colspan='3'>Active Contracts</TD></TR><TR class='report-header'><TD width='20%'>District</TD><TD align='center' width='10%'>Total</TD><TD align='center' width='10%'>Target (0%)</TD><TD align='center' width='10%'>Forecast</TD><TD align='center' width='10%'>Late</TD><TD align='center' width='10%'>On Time</TD><TD align='center' width='10%'>Late</TD><TD align='center' width='10%'>At Risk</TD><TD align='center' width='10%'>On Time</TD></TR><TR class='even-row'><TD class='even-row-bold'>Bristol</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Culpeper</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>Fredericksburg</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Hampton Roads</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>Lynchburg</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Northern Virginia</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>Richmond</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Salem</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>Staunton</TD><TD align='right' class='even-row'>1</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>1</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>1</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Statewide</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>District-wide</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Central Office</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row-bold'><TD class='even-row-bold'>Total</TD><TD align='right' class='even-row-bold'>1</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>1</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>1</TD></TR></TABLE><TABLE CellSpacing='1' CellPadding='3'><TR class='report-title'><TD colspan='9' align='center'>Maintenance Contracts Scheduled to be Completed in 2018</TD></TR><TR class='report-header'><TD colspan='4'>&nbsp;</TD><TD align='center' colspan='2'>Completed Contracts</TD><TD align='center' colspan='3'>Active Contracts</TD></TR><TR class='report-header'><TD width='20%'>District</TD><TD align='center' width='10%'>Total</TD><TD align='center' width='10%'>Target (0%)</TD><TD align='center' width='10%'>Forecast</TD><TD align='center' width='10%'>Late</TD><TD align='center' width='10%'>On Time</TD><TD align='center' width='10%'>Late</TD><TD align='center' width='10%'>At Risk</TD><TD align='center' width='10%'>On Time</TD></TR><TR class='even-row'><TD class='even-row-bold'>Bristol</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Culpeper</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>Fredericksburg</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Hampton Roads</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>Lynchburg</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Northern Virginia</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>Richmond</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Salem</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>Staunton</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Statewide</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row'><TD class='even-row-bold'>District-wide</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD><TD align='right' class='even-row'>0</TD></TR><TR class='odd-row'><TD class='odd-row-bold'>Central Office</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD><TD align='right' class='odd-row'>0</TD></TR><TR class='even-row-bold'><TD class='even-row-bold'>Total</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD><TD align='right' class='even-row-bold'>0</TD></TR></TABLE>
+    </div>
+    </form>
+</body>
+</html>
