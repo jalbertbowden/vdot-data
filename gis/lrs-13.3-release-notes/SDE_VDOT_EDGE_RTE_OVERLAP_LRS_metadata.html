@@ -1,0 +1,1437 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <title>Overlapping Route Edges with Official State Mileage Measures - Linear Referencing System</title>
+  <link rel="schema.dc" href="http://purl.org/metadata/dublin_core"/>
+  <meta name="dc.title" content="Overlapping Route Edges with Official State Mileage Measures - Linear Referencing System "/>
+  <meta name="dc.creator" content="Commonwealth of Virginia Department of Transportation "/>
+  <meta name="dc.subject" content="Transportation Virginia Department of Transportation VDOT Linear Referencing System LRS Roadway Network System RNS Routes Roads Interstate Primary Secondary Frontage Ramp Edge Overlap Official State Mileage OSM "/>
+  <meta name="dc.description" content="This feature class consists of approximately 414,000 features representing over 70,000 miles of Interstate, Primary, Secondary and Urban roads throughout the State of Virginia. The Linear Referencing System is based on the Virginia Department of Transportation's Source System of Record for road inventory, Highway Traffic Record and Inventory System (HTRIS).   Geometry and Attribution: The Linear Referencing System (LRS) data contained within this feature class provides route centerline geometry that is segmented at each intersection and supplies key descriptive attribution for each segment (i.e. edge) record.  The feature class also depicts overlapping routes (e.g. Interstate 64 and Interstate 95) as two separate collinear features, one on top of the other.  Routes built in the prime and non-prime directions are included.  Each road centerline record has a master route record assigned.  In addition, local Virginia Geographic Information Network (VGIN) street names are attributed to each edge where possible. Measures: The linear reference is based on Official State Mileage (OSM) as derived from reference points at Highway Traffic Record and Inventory System (HTRIS) roadway intersections (i.e. nodes/junctions). Note: The overlap, non-prime measures and street names are for reference only. These measures and street names have not been fully validated for accuracy or completeness. "/>
+  <meta name="dc.publisher" content="GIS Program / ITD, Virginia Department of Transportation"/>
+  <meta name="dc.contributor" content="This data was created as part of a joint effort between the Geographic Information System Program Office and the Roadway Network System  Program, both contained under the Information Technology Division of the Virginia Department of Transportation. It also includes street names from the Virginia Geographic Information Network Master Centerlines. &copy; Copyright 2013 Virginia Department of Transportation - All Rights Reserved "/>
+  <meta name="dc.date" content="20130913"/>
+  <meta name="dc.type" content="data.vector digital data"/>
+  <meta name="dc.format" content="ESRI data format, dependent upon request"/>
+  <meta name="dc.format" content="ESRI Map Service"/>
+  <meta name="dc.identifier" content="See Distribution Information"/>
+  <meta name="dc.source" content="Offline Data"/>
+  <meta name="dc.lang" content="en"/>
+  <meta name="dc.coverage.x.min" scheme="DD" content="-83.656310"/>
+  <meta name="dc.coverage.x.max" scheme="DD" content="-75.344460"/>
+  <meta name="dc.coverage.y.min" scheme="DD" content="36.536870"/>
+  <meta name="dc.coverage.y.max" scheme="DD" content="39.440930"/>
+  <meta name="dc.coverage.placeName" content="Virginia"/>
+  <meta name="dc.coverage.placeName" content="Commonwealth of Virginia"/>
+  <meta name="dc.coverage.periodName" content="20130913"/>
+  <meta name="dc.coverage.periodName" content="LRS Release Version 13.3"/>
+  <meta name="dc.rights" content="Use constraints: Disclaimer:  The Virginia Department of Transportation's digital data files are for use in performing the official business of the Commonwealth of Virginia.  Once the data are distributed outside of the agency, the Virginia Department of Transportation assumes no responsibility to maintain the data or metadata for the recipient in any manner or form.  The data and metadata are provided &quot;as is&quot; and in no event shall the Commonwealth of Virginia, or its agencies or representatives, be liable for any damages, including but not limited to: damages resulting from lost data, lost profits or revenue, the costs of recovering such data, the costs of substitute data, claims by third parties, other similar costs, or any special, incidental, punitive, or consequential damages arising out of the use of the data. "/>
+  <meta name="generated-from" content="E:\Shares\sp\RNS_Release\LRS.13.3.13.9.13-Quarterly_Release\Publish\log-PROD\gp-errors\translator_source.xml"/>
+</head>
+<body>
+<h1>Overlapping Route Edges with Official State Mileage Measures - Linear Referencing System</h1>
+Metadata also available as<p>
+<h1>Metadata:</h1>
+<ul>
+<li><a href="#1">Identification_Information</a></li>
+<li><a href="#2">Data_Quality_Information</a></li>
+<li><a href="#3">Spatial_Data_Organization_Information</a></li>
+<li><a href="#4">Spatial_Reference_Information</a></li>
+<li><a href="#5">Entity_and_Attribute_Information</a></li>
+<li><a href="#6">Distribution_Information</a></li>
+<li><a href="#7">Metadata_Reference_Information</a></li>
+</ul>
+<a name="1">
+</a>
+<hr/>
+<dl>
+<dt><em>Identification_Information:</em>  
+<dd>
+<dl>
+<dt><em>Citation:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Originator:</em>  Commonwealth of Virginia</dt>
+<dt><em>Originator:</em>  Department of Transportation</dt>
+<dt><em>Publication_Date:</em>  20130913</dt>
+<dt><em>Title:</em>  
+<dd>
+
+Overlapping Route Edges with Official State Mileage Measures - Linear Referencing System
+
+</dd>
+<dt><em>Edition:</em>  Original</dt>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  vector digital data</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Richmond, Virginia</dt>
+<dt><em>Publisher:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Online_Linkage:</em>  See Distribution Information</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Description:</em>  
+<dd>
+<dl>
+<dt><em>Abstract:</em>  
+<dd>
+
+This feature class consists of approximately 414,000 features representing over 70,000 miles of Interstate, Primary, Secondary and Urban roads throughout the State of Virginia. The Linear Referencing System is based on the Virginia Department of Transportation's Source System of Record for road inventory, Highway Traffic Record and Inventory System (HTRIS).  
+<br/>
+Geometry and Attribution:
+The Linear Referencing System (LRS) data contained within this feature class provides route centerline geometry that is segmented at each intersection and supplies key descriptive attribution for each segment (i.e. edge) record.  The feature class also depicts overlapping routes (e.g. Interstate 64 and Interstate 95) as two separate collinear features, one on top of the other.  Routes built in the prime and non-prime directions are included.  Each road centerline record has a master route record assigned.  In addition, local Virginia Geographic Information Network (VGIN) street names are attributed to each edge where possible.
+<br/>
+Measures:
+The linear reference is based on Official State Mileage (OSM) as derived from reference points at Highway Traffic Record and Inventory System (HTRIS) roadway intersections (i.e. nodes/junctions).
+Note: The overlap, non-prime measures and street names are for reference only. These measures and street names have not been fully validated for accuracy or completeness.
+
+</dd>
+<dt><em>Purpose:</em>  
+<dd>
+
+This linear referenced data layer represents roadways that are maintained by the Virginia Department of Transportation and provides the underlying spatially enabled geometric network to which all &quot;events&quot; (e.g. potholes, pavement type, vehicle accidents, traffic counts, culverts, etc...) can be located.
+
+</dd>
+<dt><em>Supplemental_Information:</em>  
+<dd>
+
+Version Release Documentation:  
+Contained within all Linear Referencing System data release packages are comprehensive release notes (e.g. “LRSx.x Release Notes.pdf”, where the x.x corresponds to the release version).  These notes outline pertinent information concerning the release and provide general reference about the LRS.  To determine which Linear Referencing layer will best suit your needs, see the appendix portion of the release notes for a Feature Class Application Matrix.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Time_Period_of_Content:</em>  
+<dd>
+<dl>
+<dt><em>Time_Period_Information:</em>  
+<dd>
+<dl>
+<dt><em>Single_Date/Time:</em>  
+<dd>
+<dl>
+<dt><em>Calendar_Date:</em>  20130913</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Currentness_Reference:</em>  publication date</dt>
+</dl>
+</dd>
+<dt><em>Status:</em>  
+<dd>
+<dl>
+<dt><em>Progress:</em>  In work</dt>
+<dt><em>Maintenance_and_Update_Frequency:</em>  Quarterly</dt>
+</dl>
+</dd>
+<dt><em>Spatial_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Bounding_Coordinates:</em>  
+<dd>
+<dl>
+<dt><em>West_Bounding_Coordinate:</em>  -83.656310</dt>
+<dt><em>East_Bounding_Coordinate:</em>  -75.344460</dt>
+<dt><em>North_Bounding_Coordinate:</em>  39.440930</dt>
+<dt><em>South_Bounding_Coordinate:</em>  36.536870</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Keywords:</em>  
+<dd>
+<dl>
+<dt><em>Theme:</em>  
+<dd>
+<dl>
+<dt><em>Theme_Keyword_Thesaurus:</em>  ISO 19115 Topic Category</dt>
+<dt><em>Theme_Keyword:</em>  Transportation</dt>
+<dt><em>Theme_Keyword:</em>  Virginia Department of Transportation</dt>
+<dt><em>Theme_Keyword:</em>  VDOT</dt>
+<dt><em>Theme_Keyword:</em>  Linear Referencing System</dt>
+<dt><em>Theme_Keyword:</em>  LRS</dt>
+<dt><em>Theme_Keyword:</em>  Roadway Network System</dt>
+<dt><em>Theme_Keyword:</em>  RNS</dt>
+<dt><em>Theme_Keyword:</em>  Routes</dt>
+<dt><em>Theme_Keyword:</em>  Roads</dt>
+<dt><em>Theme_Keyword:</em>  Interstate</dt>
+<dt><em>Theme_Keyword:</em>  Primary</dt>
+<dt><em>Theme_Keyword:</em>  Secondary</dt>
+<dt><em>Theme_Keyword:</em>  Frontage</dt>
+<dt><em>Theme_Keyword:</em>  Ramp</dt>
+<dt><em>Theme_Keyword:</em>  Edge</dt>
+<dt><em>Theme_Keyword:</em>  Overlap</dt>
+<dt><em>Theme_Keyword:</em>  Official State Mileage</dt>
+<dt><em>Theme_Keyword:</em>  OSM</dt>
+</dl>
+</dd>
+<dt><em>Place:</em>  
+<dd>
+<dl>
+<dt><em>Place_Keyword:</em>  Virginia</dt>
+<dt><em>Place_Keyword:</em>  Commonwealth of Virginia</dt>
+</dl>
+</dd>
+<dt><em>Temporal:</em>  
+<dd>
+<dl>
+<dt><em>Temporal_Keyword:</em>  20130913</dt>
+<dt><em>Temporal_Keyword:</em>  LRS Release Version 13.3</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Use_Constraints:</em>  
+<dd>
+
+Disclaimer:  The Virginia Department of Transportation's digital data files are for use in performing the official business of the Commonwealth of Virginia.  Once the data are distributed outside of the agency, the Virginia Department of Transportation assumes no responsibility to maintain the data or metadata for the recipient in any manner or form.  The data and metadata are provided &quot;as is&quot; and in no event shall the Commonwealth of Virginia, or its agencies or representatives, be liable for any damages, including but not limited to: damages resulting from lost data, lost profits or revenue, the costs of recovering such data, the costs of substitute data, claims by third parties, other similar costs, or any special, incidental, punitive, or consequential damages arising out of the use of the data. 
+<br/>
+Users of this data must credit the source(s). Use of these copyrightable files or data layers indicates agreements to abide by all copyright laws and restrictions regarding the files. The copyrightable files and hard-copy maps developed from the files may not be duplicated, sold or distributed without written permission from the Virginia Department of Transportation.
+<br/>
+The representations of Virginia Department of Transportation business data contained within are believed to be correct.  This data is provided without any guarantee of accuracy, timeliness or completeness.  No business decisions should be made based on this data without validating its accuracy against the official source system of record.  Users of this data are solely responsible for determining if it is appropriate for their application.
+<br/>
+Virginia Department of Transportation Divisions set all policy on the allowable uses of this data.  
+<br/>
+Please report errors and omissions directly to the appropriate Virginia Department of Transportation Division data owner.
+
+</dd>
+<dt><em>Point_of_Contact:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Organization_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Organization:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+<dt><em>Contact_Person:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  1401 East Broad Street</dt>
+<dt><em>City:</em>  Richmond</dt>
+<dt><em>State_or_Province:</em>  Virginia</dt>
+<dt><em>Postal_Code:</em>  23219-2052</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  804.371.2304</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  GIS@VDOT.Virginia.gov</dt>
+<dt><em>Hours_of_Service:</em>  9am - 5pm EST/EDT, M-F</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Data_Set_Credit:</em>  
+<dd>
+
+This data was created as part of a joint effort between the Geographic Information System Program Office and the Roadway Network System  Program, both contained under the Information Technology Division of the Virginia Department of Transportation. It also includes street names from the Virginia Geographic Information Network Master Centerlines.
+<br/>
+&copy; Copyright 2013 Virginia Department of Transportation - All Rights Reserved
+
+</dd>
+<dt><em>Security_Information:</em>  
+<dd>
+<dl>
+<dt><em>Security_Classification_System:</em>  Internal VDOT Policy</dt>
+<dt><em>Security_Classification:</em>  Unclassified</dt>
+</dl>
+</dd>
+<dt><em>Native_Data_Set_Environment:</em>  
+<dd>
+
+Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.6.1500
+
+</dd>
+<dt><em>Cross_Reference:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Date:</em>  20130913</dt>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  vector digital data</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Richmond, Virginia</dt>
+<dt><em>Publisher:</em>  Virginia Department of Transportation</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+
+<a name="2">
+</a>
+<hr/>
+<dl>
+<dt><em>Data_Quality_Information:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Accuracy:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Accuracy_Report:</em>  
+<dd>
+
+Business attribute components for all Virginia Department of Transportation maintained routes are derived and maintained within Highway Traffic Record and Inventory System (HTRIS).  The attributes in Highway Traffic Record and Inventory System (HTRIS) are field checked when a route is first created by the Maintenance Division or when modifications to existing routes are identified.
+ 
+The Roadway Network System continually reviews business processes and works with the business units to ensure the proper attribution is maintained as changes occur.  Mechanisms developed for the business unit allows them to identify attribute incontinences if they should occur.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Logical_Consistency_Report:</em>  
+<dd>
+
+The Linear Referencing System build process analyzes constructed routes determining if they are topologically continuous.  Internal business rules dictate all necessary deviation from the aforementioned determination.
+
+</dd>
+<dt><em>Completeness_Report:</em>  
+<dd>
+
+The Highway Traffic Record and Inventory System (HTRIS) is the source system of record for this layer. The Roadway Network System (RNS) will replace Highway Traffic Record and Inventory System (HTRIS) and become the source system of record for this layer.  The Highway Traffic Record and Inventory System (HTRIS) source data is split into two components, a business attribute component and a location component.  
+ 
+Business Component: The business attribute component contains all records in the Highway Traffic Record and Inventory System (HTRIS). 
+ 
+Location Component: There is currently a lag between the time a roadway is physically constructed and when it is entered into Highway Traffic Record and Inventory System (HTRIS) and then ultimately depicted the Geographic Information System Centerline.  Computer-Aided Design files and local data are used where necessary.  Ortho-rectified imagery is used in the creation and update process to ensure alignment. The Roadway Network System models Highway Traffic Record and Inventory System (HTRIS) and contains all location information, additional non-prime centerlines for divided primary and secondary routes and urban and street named networks. Currently the Roadway Network System contains most Highway Traffic Record and Inventory System (HTRIS) routes with a high degree of completeness for each route (95%+).  Comparisons between the Highway Traffic Record and Inventory System (HTRIS) and the Roadway Network System networks will attempt to address all inconsistencies before the Roadway Network System becomes the source system of record. The Roadway Network System is based on creating a measured anchor section for each segment of the route.  Detailed comparisons were done in the automated data conversion processes between the Highway Traffic Record and Inventory System (HTRIS) Link and Node based system and the Roadway Network System Anchor Section and Anchor Point based system to ensure completeness. Manual steps are being developed to handle special cases such as loop and loop back routes that were not possible to automate.
+
+</dd>
+<dt><em>Positional_Accuracy:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Positional_Accuracy:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Positional_Accuracy_Report:</em>  
+<dd>
+
+Horizontal accuracy for this layer can be defined as the probable error as measured along the linearly referenced route between reference calibration points. Such errors are largely dependent upon the degree of polyline resolution and the spatial alignment of the roadway with the actual centerline. Known reference point locations with known Official State Mileage values are used to ensure calibration of routes.
+
+</dd>
+<dt><em>Quantitative_Horizontal_Positional_Accuracy_Assessment:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Positional_Accuracy_Value:</em>  53 feet +/- 0.01 miles</dt>
+<dt><em>Horizontal_Positional_Accuracy_Explanation:</em>  
+<dd>
+
+Precision of the mile points in the Highway Traffic Record and Inventory System (HTRIS) is 53 feet (+/- 0.01 miles).  Conversely location information may not have been recorded in the source system of record accurately such that errors of &gt;0.1 miles can exist.
+
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Vertical_Positional_Accuracy:</em>  </dt>
+</dl>
+</dd>
+<dt><em>Lineage:</em>  
+<dd>
+<dl>
+<dt><em>Source_Information:</em>  
+<dd>
+<dl>
+<dt><em>Source_Citation:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Originator:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+<dt><em>Title:</em>  GISE.GIS_DATA.ROAD</dt>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  vector digital data</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Richmond, Virginia</dt>
+<dt><em>Publisher:</em>  GIS Program Office, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Scale_Denominator:</em>  6000</dt>
+<dt><em>Type_of_Source_Media:</em>  ArcSDE data layer</dt>
+<dt><em>Source_Time_Period_of_Content:</em>  
+<dd>
+<dl>
+<dt><em>Time_Period_Information:</em>  
+<dd>
+<dl>
+<dt><em>Single_Date/Time:</em>  
+<dd>
+<dl>
+<dt><em>Calendar_Date:</em>  20130913</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Currentness_Reference:</em>  publication date</dt>
+</dl>
+</dd>
+<dt><em>Source_Citation_Abbreviation:</em>  GISE.GIS_DATA.ROAD</dt>
+<dt><em>Source_Contribution:</em>  
+<dd>
+
+This feature class provides geometric shapes and basic route attribution for all roadway centerlines. 
+<br/>
+This layer is updated continuously, therefore any rebuild of the linearly referenced features will utilize the latest available data.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Information:</em>  
+<dd>
+<dl>
+<dt><em>Source_Citation:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Originator:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+<dt><em>Publication_Date:</em>  20130913</dt>
+<dt><em>Title:</em>  GISE.GIS_DATA. INTERSECTIONS</dt>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  vector digital data</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Richmond, Virginia</dt>
+<dt><em>Publisher:</em>  GIS Program Office, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Scale_Denominator:</em>  12000</dt>
+<dt><em>Type_of_Source_Media:</em>  ArcSDE data layer</dt>
+<dt><em>Source_Time_Period_of_Content:</em>  
+<dd>
+<dl>
+<dt><em>Time_Period_Information:</em>  
+<dd>
+<dl>
+<dt><em>Single_Date/Time:</em>  
+<dd>
+<dl>
+<dt><em>Calendar_Date:</em>  20130913</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Currentness_Reference:</em>  publication date</dt>
+</dl>
+</dd>
+<dt><em>Source_Citation_Abbreviation:</em>  GISE.GIS_DATA. INTERSECTIONS</dt>
+<dt><em>Source_Contribution:</em>  
+<dd>
+
+The route intersections provide known calibration points for the roadway segments from which the linearly referenced route can be built.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Overview of geoprocessing Route Change Management:
+I.	Get the GISE Road source feature class with the latest edits
+II.	Get the road edges for the changed routes
+a.	After this process is run - Then need to run calc_console.exe to set the 0-1 measures
+III.	Delete then append edges by edge-rte-key to OSM and MPST change feature layers
+IV.	Create and calibrate Interstate routes with the Mile Post measure points for changed routes
+a.	After this process run SQL to update these measures back to the edge features
+V.	Build edge-rte-key mile post measured features for changed routes
+VI.	Build the official state measure (OSM) and mile post measure (MPST) changed route features
+VII.	Append spatial data view based changed routes to full set for OSM and MPST layers
+VIII.	Append spatial data view based change edge-rte-key to full set for OSM and MPST layers
+
+</dd>
+<dt><em>Process_Date:</em>  20130913</dt>
+<dt><em>Process_Contact:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Organization_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Organization:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+<dt><em>Contact_Person:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  1401 East Broad Street</dt>
+<dt><em>City:</em>  Richmond</dt>
+<dt><em>State_or_Province:</em>  Virginia</dt>
+<dt><em>Postal_Code:</em>  23219-2052</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  804.371.2304</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  GIS@VDOT.Virginia.gov</dt>
+<dt><em>Hours_of_Service:</em>  9am - 5pm EST/EDT, M-F</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+
+<a name="3">
+</a>
+<hr/>
+<dl>
+<dt><em>Spatial_Data_Organization_Information:</em>  
+<dd>
+<dl>
+<dt><em>Direct_Spatial_Reference_Method:</em>  Vector</dt>
+<dt><em>Point_and_Vector_Object_Information:</em>  </dt>
+</dl>
+</dd>
+</dl>
+
+<a name="4">
+</a>
+<hr/>
+<dl>
+<dt><em>Spatial_Reference_Information:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Coordinate_System_Definition:</em>  
+<dd>
+<dl>
+<dt><em>Geographic:</em>  
+<dd>
+<dl>
+<dt><em>Latitude_Resolution:</em>  0.000000</dt>
+<dt><em>Longitude_Resolution:</em>  0.000000</dt>
+<dt><em>Geographic_Coordinate_Units:</em>  Decimal degrees</dt>
+</dl>
+</dd>
+<dt><em>Geodetic_Model:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Datum_Name:</em>  North American Datum of 1983</dt>
+<dt><em>Ellipsoid_Name:</em>  Geodetic Reference System 80</dt>
+<dt><em>Semi-major_Axis:</em>  6378137.000000</dt>
+<dt><em>Denominator_of_Flattening_Ratio:</em>  298.257222</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Vertical_Coordinate_System_Definition:</em>  
+<dd>
+<dl>
+<dt><em>Altitude_System_Definition:</em>  
+<dd>
+<dl>
+<dt><em>Altitude_Resolution:</em>  0.000100</dt>
+<dt><em>Altitude_Encoding_Method:</em>  
+<dd>
+
+Explicit elevation coordinate included with horizontal coordinates
+
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+
+<a name="5">
+</a>
+<hr/>
+<dl>
+<dt><em>Entity_and_Attribute_Information:</em>  
+<dd>
+<dl>
+<dt><em>Detailed_Description:</em>  
+<dd>
+<dl>
+<dt><em>Entity_Type:</em>  
+<dd>
+<dl>
+<dt><em>Entity_Type_Label:</em>  SDE_VDOT_EDGE_RTE_OVERLAP_LRS</dt>
+<dt><em>Entity_Type_Definition:</em>  Linearly Referenced Route Feature Class</dt>
+<dt><em>Entity_Type_Definition_Source:</em>  Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  OBJECTID</dt>
+<dt><em>Attribute_Definition:</em>  Internal feature number.</dt>
+<dt><em>Attribute_Definition_Source:</em>  ESRI</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Unrepresentable_Domain:</em>  
+<dd>
+
+Sequential unique whole numbers that are automatically generated.
+
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  EDGE_RTE_KEY</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Key for route building made by combining the TRANSPORT_EDGE_ID + &quot;-&quot; + RTE_NM attributes
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+The RNS-defined unique name for the Route.  This name (which is similar in concept, but not identical, to the HTRIS 14-digit route id) is the single unique key used to identify a single route.  It is guaranteed not to change over the life of the route as that route exists.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_COMMON_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Route Common Name(An abbreviation of the route name used in mapping and other applications)
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  STREET_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+VGIN sourced by TRANSPORT_EDGE_ID combined street name attributes
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_SOURCE_ID</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+For HTRIS source, the 14 character HTRIS ROUTE_ID with leading and trailing spaces if applicable. If the Source is GIS, non-prime routes will have the route direction added to the HTRIS ROUTE_ID
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_SOURCE_CD</dt>
+<dt><em>Attribute_Definition:</em>  Source of the Route Name (HTRIS, GIS)</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_TRANSPORT_EDGE_SEQ</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Order in which the TRANSPORT_EDGE_ID's are joined to create the an LRS for this RTE_NM
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TRANSPORT_EDGE_ID</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Unique identifier for the SDE_ROAD centerline segment. This is the only centerline edit line geometry.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TRANSPORT_EDGE_FLIP_IND</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+This indicates if the SDE_ROAD transport edge from and to needs to be flipped to allign all segments in increasing measure order.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TRANSPORT_JUNCTION_FROM_ID</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+The point SDE_TRANSPORT_JUNCTION table point identifier aligned with the from junction id in increasing measure order
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TRANSPORT_JUNCTION_TO_ID</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+The point SDE_TRANSPORT_JUNCTION table point identifier aligned with the to  junction id in increasing measure order
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  MEASURE_SYSTEM_CD</dt>
+<dt><em>Attribute_Definition:</em>  Route measure system code</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  CALC</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Geometric miles</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  OSM</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Official State Measure</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  HTRIS</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  MPST</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Referenced to Mile Post Markers on side of Interstate routes</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TRANSPORT_EDGE_FROM_MSR</dt>
+<dt><em>Attribute_Definition:</em>  From LRS measure in increasing measure order for this edge</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TRANSPORT_EDGE_TO_MSR</dt>
+<dt><em>Attribute_Definition:</em>  To LRS measure in increasing measure order for this edge</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  FROM_INTERSECTION_ID</dt>
+<dt><em>Attribute_Definition:</em>  RNS/HTRIS Node identifier for from Junction</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TO_INTERSECTION_ID</dt>
+<dt><em>Attribute_Definition:</em>  RNS/HTRIS Node identifier for to Junction</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_INTERSECTION_FROM_DSC</dt>
+<dt><em>Attribute_Definition:</em>  Description of all intesecing routes at the from junction</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_JURIS_PROPER_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Jurisdiction name used as part of the route definition (ie Secondary and Urban routes) with type quantifier as in Hanover County, Town of Ashland
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TO_PHY_JURISDICTION_NM</dt>
+<dt><em>Attribute_Definition:</em>  Physical Jurisdiction Name at the to Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_CATEGORY_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Categories used to classify routes. Examples - Interstate, Interstate Ramps, Interstate Frontage, Primary, Secondary, Urban, Institutional Property, etc. Uses LOV_RTE_CATEGORY.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_NBR</dt>
+<dt><em>Attribute_Definition:</em>  A Number used in route signage assigned to the route.</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_TYPE_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Route Type Name - Route Type Name (Interstate, US Highway, State Highway, Secondary Route, Urban Road, Frontage Road) that corresponds to RTE_TYPE_CD.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_TYPE_MODIFIER_NM</dt>
+<dt><em>Attribute_Definition:</em>  Route Type Modifier Name</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_TYPE_MODIFIER_SEQ</dt>
+<dt><em>Attribute_Definition:</em>  Route Type Modifier Sequence Number</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_SPCL_FEATURE_TYPE_CD</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Route Special Feature Type Code - Special feature route code. Valid values include: CTL, DCR, ICO, LOT, MNT, RFR, RMP, RST, RTO, TES, TIN, WAY, WST
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_RAMP_CD</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+A code used to uniquely name each of the special feature route paths. For example ramp A and B at the same exit.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_CATEGORY_SET_CD</dt>
+<dt><em>Attribute_Definition:</em>  Used for setting zoom levels on maps</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  VA</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Virginia</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  US Dept of Commerce</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  TN</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Tennese</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  US Dept of Commerce</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  NC</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  North Carolina</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  US Dept of Commerce</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  MD</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Maryland</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  US Dept of Commerce</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  DC</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  District Of Columbia</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  US Dept of Commerce</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  WV</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  West Virginia</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  US Dept of Commerce</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  KY</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Kentucky</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  US Dept of Commerce</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  FROM_JURISDICTION_NM</dt>
+<dt><em>Attribute_Definition:</em>  Maintenance Jurisdiction name at the From Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TO_JURISDICTION_NM</dt>
+<dt><em>Attribute_Definition:</em>  Maintenance Jurisdiction name at the to Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  FROM_JURISDICTION_CD</dt>
+<dt><em>Attribute_Definition:</em>  Maintenance Jurisdiction code at the From Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TO_JURISDICTION_CD</dt>
+<dt><em>Attribute_Definition:</em>  Maintenance Jurisdiction code at the to Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  FROM_STATE_CD</dt>
+<dt><em>Attribute_Definition:</em>  Maintenance Jurisdiction state code at the From Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TO_STATE_CD</dt>
+<dt><em>Attribute_Definition:</em>  Maintenance Jurisdiction state code at the to Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  MASTER_RTE_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Every edge can only have one master route assigned to it. All events are recorded against this master route. If the RTE_NM and the MASTER_RTE_NM are the same then this is the measures for the master route.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  MASTER_RTE_COMMON_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Master Route Common Name(An abbreviation of the route name used in mapping and other applications)
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  MASTER_RTE_SOURCE_ID</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+For HTRIS source, the 14 character HTRIS ROUTE_ID with leading and trailing spaces if applicable. If the Source is GIS, non-prime routes will have the route direction added to the HTRIS ROUTE_ID
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_OPPOSITE_DIRECTION_RTE_NM</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+The route name for the opposite direction route as in 95N opposite would be 95S
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_INTERSECTION_TO_DSC</dt>
+<dt><em>Attribute_Definition:</em>  Description of all intesecing routes at the to junction</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  FROM_PHY_JURISDICTION_CD</dt>
+<dt><em>Attribute_Definition:</em>  Physical Jurisdiction VDOT Code at the From Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  FROM_PHY_JURISDICTION_NM</dt>
+<dt><em>Attribute_Definition:</em>  Physical Jurisdiction name at the from Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  TO_PHY_JURISDICTION_CD</dt>
+<dt><em>Attribute_Definition:</em>  Physical Jurisdiction VDOT Code at the to Junction ID</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  LRM_CURRENCY_DT</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+Date when this feature was (re)generated.  A date change is triggered by the generation of a new feature or regeneration of an existing features representation.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  CHANGE_STATUS_CD</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+A change in status indicates that changes to geometry or attribution were performed by GIS editing staff or through automated means.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  SHAPE</dt>
+<dt><em>Attribute_Definition:</em>  Feature geometry.</dt>
+<dt><em>Attribute_Definition_Source:</em>  ESRI</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Unrepresentable_Domain:</em>  Coordinates defining the features.</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  CHANGE_STATUS_DT</dt>
+<dt><em>Attribute_Definition:</em>  Date when CHANGE_STATUS_CD was modified.</dt>
+<dt><em>Attribute_Definition_Source:</em>  RNS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  RTE_SPCL_FEATURE_NBR</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  SHAPE_Length</dt>
+<dt><em>Attribute_Definition:</em>  Length of feature in internal units.</dt>
+<dt><em>Attribute_Definition_Source:</em>  ESRI</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Unrepresentable_Domain:</em>  Positive real numbers that are automatically generated.</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+
+<a name="6">
+</a>
+<hr/>
+<dl>
+<dt><em>Distribution_Information:</em>  
+<dd>
+<dl>
+<dt><em>Distributor:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Organization_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Organization:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+<dt><em>Contact_Person:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  1401 East Broad Street</dt>
+<dt><em>City:</em>  Richmond</dt>
+<dt><em>State_or_Province:</em>  VA</dt>
+<dt><em>Postal_Code:</em>  23219-2052</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  804.371.2304</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  GIS@VDOT.Virginia.Gov</dt>
+<dt><em>Hours_of_Service:</em>  9am - 5pm EST/EDT M-F</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Resource_Description:</em>  Offline Data</dt>
+<dt><em>Distribution_Liability:</em>  
+<dd>
+
+The information depicted in this GIS layer is the result of digital analyses performed on a database consisting of information from a variety of governmental and other credible sources.  The accuracy of the information presented is limited to the collective accuracy of the database on the date of the analysis.  The information is believed accurate and reasonable efforts have been made to ensure the accuracy of the data.  However, the GIS Program Office, Virginia Department of Transportation expressly disclaims responsibility for damages or liability that may arise from use of this data.
+
+</dd>
+<dt><em>Standard_Order_Process:</em>  
+<dd>
+<dl>
+<dt><em>Digital_Form:</em>  
+<dd>
+<dl>
+<dt><em>Digital_Transfer_Information:</em>  
+<dd>
+<dl>
+<dt><em>Format_Name:</em>  ESRI data format, dependent upon request</dt>
+</dl>
+</dd>
+<dt><em>Digital_Transfer_Option:</em>  
+<dd>
+<dl>
+<dt><em>Online_Option:</em>  
+<dd>
+<dl>
+<dt><em>Computer_Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Network_Address:</em>  
+<dd>
+<dl>
+<dt><em>Network_Resource_Name:</em>  ftp.vdot.state.va.us</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Access_Instructions:</em>  Contact GIS@VDOT.Virginia.Gov for access to FTP site.</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Digital_Form:</em>  
+<dd>
+<dl>
+<dt><em>Digital_Transfer_Information:</em>  
+<dd>
+<dl>
+<dt><em>Format_Name:</em>  ESRI Map Service</dt>
+<dt><em>Format_Version_Number:</em>  ArcIMS 9.x</dt>
+</dl>
+</dd>
+<dt><em>Digital_Transfer_Option:</em>  
+<dd>
+<dl>
+<dt><em>Online_Option:</em>  
+<dd>
+<dl>
+<dt><em>Access_Instructions:</em>  Must have access to VDOT internal network.</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Ordering_Instructions:</em>  
+<dd>
+
+This data set is available to VDOT users in electronic format as a geodatabase or shapefile via ftp, e-mail attachment or on CD-ROM
+
+</dd>
+</dl>
+</dd>
+<dt><em>Technical_Prerequisites:</em>  
+<dd>
+
+Must have software capable of processing Zip files and ESRI geodatabses or shapefiles for the download data. Must have software able to read an ESRI map service if using the map service.
+
+</dd>
+</dl>
+</dd>
+</dl>
+
+<a name="7">
+</a>
+<hr/>
+<dl>
+<dt><em>Metadata_Reference_Information:</em>  
+<dd>
+<dl>
+<dt><em>Metadata_Date:</em>  20130913</dt>
+<dt><em>Metadata_Contact:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Organization_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Organization:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+<dt><em>Contact_Person:</em>  GIS Program / ITD, Virginia Department of Transportation</dt>
+</dl>
+</dd>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  1401 East Broad Street</dt>
+<dt><em>City:</em>  Richmond</dt>
+<dt><em>State_or_Province:</em>  Virginia</dt>
+<dt><em>Postal_Code:</em>  23219-2052</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  804.371.2304</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  GIS@VDOT.Virginia.Gov</dt>
+<dt><em>Hours_of_Service:</em>  9am - 5pm EST/EDT M-F</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Metadata_Standard_Name:</em>  FGDC Content Standards for Digital Geospatial Metadata</dt>
+<dt><em>Metadata_Standard_Version:</em>  FGDC-STD-001-1998</dt>
+<dt><em>Metadata_Time_Convention:</em>  local time</dt>
+<dt><em>Metadata_Extensions:</em>  
+<dd>
+<dl>
+<dt><em>Online_Linkage:</em>  <a href="http://www.esri.com/metadata/esriprof80.html">&lt;http://www.esri.com/metadata/esriprof80.html&gt;</a></dt>
+<dt><em>Profile_Name:</em>  ESRI Metadata Profile</dt>
+</dl>
+</dd>
+<dt><em>Metadata_Extensions:</em>  
+<dd>
+<dl>
+<dt><em>Online_Linkage:</em>  <a href="http://www.esri.com/metadata/esriprof80.html">&lt;http://www.esri.com/metadata/esriprof80.html&gt;</a></dt>
+<dt><em>Profile_Name:</em>  ESRI Metadata Profile</dt>
+</dl>
+</dd>
+<dt><em>Metadata_Extensions:</em>  
+<dd>
+<dl>
+<dt><em>Online_Linkage:</em>  <a href="http://www.esri.com/metadata/esriprof80.html">&lt;http://www.esri.com/metadata/esriprof80.html&gt;</a></dt>
+<dt><em>Profile_Name:</em>  ESRI Metadata Profile</dt>
+</dl>
+</dd>
+<dt><em>Metadata_Extensions:</em>  
+<dd>
+<dl>
+<dt><em>Online_Linkage:</em>  <a href="http://www.esri.com/metadata/esriprof80.html">&lt;http://www.esri.com/metadata/esriprof80.html&gt;</a></dt>
+<dt><em>Profile_Name:</em>  ESRI Metadata Profile</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+
+<hr/>
+Generated by <a href="http://geology.usgs.gov/tools/metadata/tools/doc/mp.html"><tt>mp</tt></a> version 2.9.6 on Fri Sep 13 22:04:38 2013<br/>
+
+</body>
+</html>
